@@ -11,3 +11,6 @@ class Person:
         self.legal_name = legal_name
         self.preferred_name = preferred_name
         self.year_of_birth = year_of_birth
+
+    def get_age(self):
+        return 42
