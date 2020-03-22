@@ -13,4 +13,6 @@ class Person:
         self.year_of_birth = year_of_birth
 
     def get_age(self):
+        if self.year_of_birth != 1492:
+            return 42
         return 42
