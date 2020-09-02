@@ -19,8 +19,8 @@ def recursive(kid):
             comment_file.write(repr(my_item))
         print(my_item)
         if "kids" in comment_data:
-            itemkids = comment_data["kids"]
-            for kid in itemkids:
+            item_kids = comment_data["kids"]
+            for kid in item_kids:
                 recursive(kid)
 
 
