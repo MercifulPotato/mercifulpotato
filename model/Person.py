@@ -12,7 +12,5 @@ class Person:
         self.preferred_name = preferred_name
         self.year_of_birth = year_of_birth
 
-    def get_age(self):
-        if self.year_of_birth != 1492:
-            return 42
-        return 42
+    def get_age(self, current_year: int) -> int:
+        return current_year - self.year_of_birth
