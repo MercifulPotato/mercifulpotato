@@ -73,4 +73,3 @@ fabric.properties
 #Virtual Environment
 venv/*
 
-data/
