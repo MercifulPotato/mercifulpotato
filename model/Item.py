@@ -3,9 +3,6 @@
 from dataclasses import dataclass
 
 
-# {"by":"jcarpio","descendants":25,"id":24120013,"kids":[24120306,24120848,24120901,24121745,24121142,24120989],"score":16,"time":1597152193,"title":"Paper Money with an Expiration Date","type":"story","url":"https://www.npr.org/sections/money/2019/08/27/754323652/the-strange-unduly-neglected-prophet"}
-
-
 @dataclass
 class Item:
     """Class for Hacker News item"""
