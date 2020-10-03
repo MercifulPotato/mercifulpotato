@@ -64,3 +64,16 @@ jobs:
       - name: Run Application
         run: |
           python main.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          # Required
+          commit_message: Apply automatic changes
+          commit_options: '--no-verify --signoff'
+          # Optional local file path to the repository
+          repository: .
+          # Optional commit user and author settings
+          commit_user_name: kus
+          commit_user_email: kushaldeveloper@gmail.com
+          commit_author: kus <kushaldeveloper@gmail.com>
+          push_options: '--force'
+          skip_dirty_check: true
