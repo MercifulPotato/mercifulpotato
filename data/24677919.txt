@@ -1,0 +1,1 @@
+Item(by='a-dub', descendants=None, kids=None, score=None, time=1601808543, title=None, item_type='comment', url=None, parent=24667213, text='I&#x27;m not even sure I&#x27;d call this a security flaw or bug...  It seems like the design was wrong or it just wasn&#x27;t done right for some reason.  A post-mortem on how this ended up in production would be interesting.')

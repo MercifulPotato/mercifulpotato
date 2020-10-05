@@ -1,0 +1,1 @@
+Item(by='Obsnold', descendants=None, kids=None, score=None, time=1601647594, title=None, item_type='comment', url=None, parent=24661693, text='Just to clarify yocto is not a distro but a project that allows you to create your own custom distro. Two yocto builds could be completely different from one another even using different package managers.')

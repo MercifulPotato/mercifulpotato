@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=[24673007, 24673959], score=None, time=1601739938, title=None, item_type='comment', url=None, parent=24672755, text='Petgraph is the big graph crate.<p>Linked lists get efficiently implemented with unsafe, but they&#x27;re just not used by Rust folks a lot because they&#x27;re a pretty niche data structure.')

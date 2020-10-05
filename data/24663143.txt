@@ -1,0 +1,1 @@
+Item(by='markus92', descendants=None, kids=None, score=None, time=1601649970, title=None, item_type='comment', url=None, parent=24662847, text='Also stop using locale settings for importing CSVs, or at least make a setting for it. I had to change my PC&#x27;s locale to English (US) just to decently import CSV files in Excel')

@@ -1,0 +1,1 @@
+Item(by='FeepingCreature', descendants=None, kids=[24661403, 24661378], score=None, time=1601635393, title=None, item_type='comment', url=None, parent=24661049, text='Though you should be able to sidestep this by doing something like seeding your hash with your hashtable pointer. Then you&#x27;d also need control over the memory allocator to break the hashtable.')

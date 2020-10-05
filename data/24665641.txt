@@ -1,0 +1,1 @@
+Item(by='a1369209993', descendants=None, kids=None, score=None, time=1601663994, title=None, item_type='comment', url=None, parent=24663254, text='In addition to what kbenson said, word characters [a-zA-Z0-9] usually aren&#x27;t eligible as quotes anyway, otherwise how would qq&#x27;this has a q in it&#x27; parse (versus q&#x2F;&#x27;this has a &#x2F;).')

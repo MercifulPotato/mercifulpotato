@@ -1,0 +1,1 @@
+Item(by='SilasX', descendants=None, kids=None, score=None, time=1601835257, title=None, item_type='comment', url=None, parent=24673842, text='Late follow-up: argh, I should really have been referring to values (the output of a hash function) rather than keys, because that determines where they go in memory block used for the hash table.')

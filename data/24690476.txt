@@ -1,0 +1,1 @@
+Item(by='danieldk', descendants=None, kids=[24691164], score=None, time=1601922313, title=None, item_type='comment', url=None, parent=24689366, text='Wait, what? That really surprises me. I am using CUDA 11 on NixOS unstable (which is a rolling release) without any issues at all. Or is that on Aarch64?')

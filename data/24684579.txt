@@ -1,0 +1,1 @@
+Item(by='deaddodo', descendants=None, kids=None, score=None, time=1601872345, title=None, item_type='comment', url=None, parent=24684563, text='&gt; Does anyone know of any other web hosts that support FastCGI well<p>I believe Dreamhost is the only larger host that does so. But there are a few that support WSGI directly either via mod_wsgi or uWSGI.')

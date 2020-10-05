@@ -1,0 +1,1 @@
+Item(by='Jasper_', descendants=None, kids=None, score=None, time=1601843161, title=None, item_type='comment', url=None, parent=24681546, text='I imagine it&#x27;s doing the SwiftShader fallback, and the JIT tends to have a few specializations for &quot;quick&quot; shaders. Would be curious what&#x27;s going on, though.')

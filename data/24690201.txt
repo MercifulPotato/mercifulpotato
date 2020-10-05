@@ -1,0 +1,1 @@
+Item(by='hjntmp', descendants=None, kids=[24690786], score=None, time=1601920634, title=None, item_type='comment', url=None, parent=24689230, text='Immutability is not the fact that something can not change in this case. It has more to do with the identity of a value. Every time you change anything inside the data structure you get a new reference, that is it!')

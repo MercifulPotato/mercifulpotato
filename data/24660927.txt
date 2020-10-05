@@ -1,0 +1,1 @@
+Item(by='mycl', descendants=None, kids=[24662581], score=None, time=1601633175, title=None, item_type='comment', url=None, parent=24660397, text='I think it was in ed already. The POSIX ed spec says: &quot;Any character other than &lt;space&gt; or &lt;newline&gt; can be used instead of a slash to delimit the RE and the replacement.&quot;')

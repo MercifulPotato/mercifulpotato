@@ -1,0 +1,1 @@
+Item(by='aayjaychan', descendants=None, kids=None, score=None, time=1601913688, title=None, item_type='comment', url=None, parent=24688492, text='Git does hide the old commits as well. What git doesn&#x27;t do is track which commits are replaced by which. So sharing mutable history and seeing how a commit evolved over time requires more heuristic than necessary.')

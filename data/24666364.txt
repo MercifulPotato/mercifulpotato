@@ -1,0 +1,1 @@
+Item(by='Stierlitz', descendants=None, kids=None, score=None, time=1601667913, title=None, item_type='comment', url=None, parent=24666091, text='&gt; If you don&#x27;t regularly test your failover, chances are it will not kick in when the primary fails ..<p>What happens if the failover fails as well?')

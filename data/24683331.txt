@@ -1,0 +1,1 @@
+Item(by='ncmncm', descendants=None, kids=None, score=None, time=1601856741, title=None, item_type='comment', url=None, parent=24676153, text='Honestly, the customers don&#x27;t need nanosecond accuracy, but the NICs offer it, and the nanoseconds in a second fits neatly in 32 bits.<p>In practice, microseconds is better than enough, and all you get from PTP anyway.')

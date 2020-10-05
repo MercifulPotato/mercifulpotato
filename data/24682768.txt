@@ -1,0 +1,1 @@
+Item(by='dylz', descendants=None, kids=[24682899], score=None, time=1601850621, title=None, item_type='comment', url=None, parent=24682327, text='Xen is not a container, compare it to qemu&#x2F;KVM more.<p>I would not host untrusted customers in docker containers, LXC, but I would in Xen HVM any day.')

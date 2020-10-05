@@ -1,0 +1,1 @@
+Item(by='techman9', descendants=None, kids=None, score=None, time=1601759823, title=None, item_type='comment', url=None, parent=24661653, text='&gt; So – this made me wonder. When we do high performance networking – why do we bother using the Linux kernel’s TCP stack at all, if it’s so expensive?<p>What makes the Linux kernel TCP stack expensive?')

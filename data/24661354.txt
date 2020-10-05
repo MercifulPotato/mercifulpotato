@@ -1,0 +1,1 @@
+Item(by='Semaphor', descendants=None, kids=[24661442], score=None, time=1601637009, title=None, item_type='comment', url=None, parent=24661313, text='I never used a system with flatpak, but when I read sandboxed I expect the maximum permission to be read-only access to my home directory or something like android where it asks for additional permissions.')

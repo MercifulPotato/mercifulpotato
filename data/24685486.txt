@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1601884045, title=None, item_type='comment', url=None, parent=24685423, text='They surely are defined by ISO C++ standard.<p>Like any ISO standard, certain details are expected to be implementation dependent in any ISO C++20 compliant compiler, not missing like on Rust&#x27;s case.')

@@ -1,0 +1,1 @@
+Item(by='shock', descendants=None, kids=[24688829], score=None, time=1601904634, title=None, item_type='comment', url=None, parent=24686952, text='So if I have 4x4TB drives and switch a drive so it&#x27;s now 3x4TB + 1x6TB, and do the resilver, will the ZFS capacity be increased by 2TB?')

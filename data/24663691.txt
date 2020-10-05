@@ -1,0 +1,1 @@
+Item(by='atombender', descendants=None, kids=[24665246], score=None, time=1601652926, title=None, item_type='comment', url=None, parent=24658491, text='Pulsar seems operationally quite complex, as it has a dependency on both BookKeeper and ZooKeeper (which BK also needs). ZooKeeper is particularly notorious for being difficult. What&#x27;s your experience been like?')

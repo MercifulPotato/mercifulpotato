@@ -1,0 +1,1 @@
+Item(by='amelius', descendants=None, kids=None, score=None, time=1601913798, title=None, item_type='comment', url=None, parent=24688220, text='Yes, NVidia should stop tying their Jetson hardware to specific Ubuntu releases.<p>Instead they should release drivers that work with any Linux distribution (for example Debian, which is now broken because of USB issues).')

@@ -1,0 +1,1 @@
+Item(by='higerordermap', descendants=None, kids=[24670771], score=None, time=1601705753, title=None, item_type='comment', url=None, parent=24666648, text='Tangentially related question; what&#x27;s best way to design a map&#x2F;set that doesn&#x27;t take O(n) time for resizing, considering memory locality?')

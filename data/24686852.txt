@@ -1,0 +1,1 @@
+Item(by='ZephyrBlu', descendants=None, kids=[24688049, 24688851], score=None, time=1601899110, title=None, item_type='comment', url=None, parent=24686814, text='Navigate to PR -&gt; Restore Branch -&gt; `git checkout &lt;branch&gt;`<p>How is this annoying or time consuming? It takes less effort than adding, committing and pushing changes.')

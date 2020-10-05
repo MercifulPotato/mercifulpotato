@@ -1,0 +1,1 @@
+Item(by='yoavm', descendants=None, kids=[24662041, 24662341], score=None, time=1601642679, title=None, item_type='comment', url=None, parent=24661701, text='Which distro are you on that it doesn&#x27;t even have an official Inkscape package?<p>edit: since you mentioned Snap I assume Ubuntu. What&#x27;s wrong with `sudo apt-get install inkscape`?')

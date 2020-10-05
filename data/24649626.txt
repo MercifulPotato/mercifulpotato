@@ -1,0 +1,1 @@
+Item(by='secondcoming', descendants=None, kids=[24649747], score=None, time=1601551208, title=None, item_type='comment', url=None, parent=24649329, text='They provide the compiler metadata about a type. For example if you have a std::vector&lt;int&gt;, there is a value_type trait for this that deduces to int, i.e. &#x27;this vector holds ints&#x27;.')

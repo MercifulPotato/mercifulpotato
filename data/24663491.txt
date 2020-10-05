@@ -1,0 +1,1 @@
+Item(by='zokier', descendants=None, kids=None, score=None, time=1601651735, title=None, item_type='comment', url=None, parent=24662967, text='I was bored so I tested this on AWS from EC2 instance to ELB HTTPS load balancer (in the same VPC), and I got about 5-10ms time_total as reported by curl. So that sort of gives a baseline on what TLS latency can be when network is fast.')

@@ -1,0 +1,1 @@
+Item(by='hannibalhorn', descendants=None, kids=[24682684], score=None, time=1601817330, title=None, item_type='comment', url=None, parent=24676109, text='That seems like a pretty sensible approach - eliminates the &quot;Norway problem&quot; altogether.  I&#x27;d guess you have to use the &quot;%YAML 1.2&quot; directive in all documents in order to get it though...')

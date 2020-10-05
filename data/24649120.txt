@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=[24649329, 24649225], score=None, time=1601545375, title=None, item_type='comment', url=None, parent=24648984, text='Modern C++ generally doesn’t use OOP all that much anyways. However, &lt;algorithm&gt; and &lt;type_traits&gt; in Rust’s standard library would be quite nice to have.')

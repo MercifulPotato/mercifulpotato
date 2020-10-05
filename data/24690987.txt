@@ -1,0 +1,1 @@
+Item(by='jsty', descendants=None, kids=[24691209, 24691225], score=None, time=1601925290, title=None, item_type='comment', url=None, parent=24690835, text=' &gt; Is there anything in Excel itself that behaves like that?<p>I&#x27;d imagine the default error-handling behaviour of 9&#x2F;10 Excel macros is to throw away data')

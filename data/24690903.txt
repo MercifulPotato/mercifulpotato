@@ -1,0 +1,1 @@
+Item(by='akersten', descendants=None, kids=None, score=None, time=1601924837, title=None, item_type='comment', url=None, parent=24690842, text='I left out some assumptions for brevity, but my presumption was that everything inside of the container (like p tags) would be display: block, so it would try to fill the max-width of 65ch with blank space anyway.')

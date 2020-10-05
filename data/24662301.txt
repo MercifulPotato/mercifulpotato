@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=[24662472], score=None, time=1601644983, title=None, item_type='comment', url=None, parent=24661869, text='The user-facing impact of switching to git is that committing is faster and you get much better branching and merging. The user-facing impact of switching to Wayland is that you stop being able to run GUI programs over SSH.')

@@ -1,0 +1,1 @@
+Item(by='komarov_om', descendants=None, kids=None, score=None, time=1601717952, title=None, item_type='comment', url=None, parent=24670084, text='I would expect a &quot;Referer&quot; value to be empty in both cases:<p><pre><code>  - directly navigating to a URL after doing a copy-paste\n  - opening a link from an email</code></pre>')

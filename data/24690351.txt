@@ -1,0 +1,1 @@
+Item(by='layoutIfNeeded', descendants=None, kids=None, score=None, time=1601921527, title=None, item_type='comment', url=None, parent=24686211, text='This.<p>Basically this is what event sourcing tries to solve: it lets you change your state representation to reflect new requirements, because you can always rebuild everything from the event log.')

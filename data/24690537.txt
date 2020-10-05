@@ -1,0 +1,1 @@
+Item(by='bionhoward', descendants=None, kids=None, score=None, time=1601922681, title=None, item_type='comment', url=None, parent=24687470, text='Directives can be extremely powerful, but only if implemented such that custom directives are extremely easy to implement. If I have to wrap one-liner AuthZ functions in 30+ line OOP monstrosities, I’m gonna rage...')

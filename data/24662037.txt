@@ -1,0 +1,1 @@
+Item(by='gridlockd', descendants=None, kids=None, score=None, time=1601642979, title=None, item_type='comment', url=None, parent=24661684, text='You can already do that with Javascript, it is just less efficient than using the hardware meant to accelerate NNs.')

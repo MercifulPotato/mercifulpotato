@@ -1,0 +1,1 @@
+Item(by='BeeOnRope', descendants=None, kids=None, score=None, time=1601865615, title=None, item_type='comment', url=None, parent=24684037, text='Lemire (and the article) are generally using unsigned values in their examples, so I don&#x27;t think two&#x27;s complement matters much here: just the even simpler &quot;non-negative arithmetic modulo M&quot;.')

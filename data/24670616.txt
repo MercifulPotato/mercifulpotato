@@ -1,0 +1,1 @@
+Item(by='byroot', descendants=None, kids=None, score=None, time=1601715349, title=None, item_type='comment', url=None, parent=24660705, text='%Q or just % does interpolation:<p><pre><code>    $ ruby -e &#x27;a=5; puts %Q&#x2F;[#{a}]&#x2F;&#x27;\n    [5]\n    $ ruby -e &#x27;a=5; puts %&#x2F;[#{a}]&#x2F;&#x27;\n    [5]</code></pre>')

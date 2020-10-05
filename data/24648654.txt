@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=[24649396, 24649569, 24648801], score=None, time=1601540259, title=None, item_type='comment', url=None, parent=24648544, text='Only if the objects aren&#x27;t heap allocated via new&#x2F;delete, and you happen to forget to call delete on it.')

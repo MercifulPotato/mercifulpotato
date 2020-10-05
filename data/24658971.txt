@@ -1,0 +1,1 @@
+Item(by='unilynx', descendants=None, kids=None, score=None, time=1601614100, title=None, item_type='comment', url=None, parent=24657173, text='These are hinted by high system% usage when your system is busy (ie higher than say 10%). If it looks cpu bound but spends a lot of time in the kernel thread switching or synchronization (eg mutexes) is happening too much.')

@@ -1,0 +1,1 @@
+Item(by='kbenson', descendants=None, kids=[24663888], score=None, time=1601653246, title=None, item_type='comment', url=None, parent=24663254, text='It&#x27;s the idea, rather than the implementation, which I&#x27;m advocating for.  For a shell, it would likely be best to trigger with a reserved character (or two) that&#x27;s much less likely to be encountered in normal usage.')

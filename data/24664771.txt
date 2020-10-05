@@ -1,0 +1,1 @@
+Item(by='parliament32', descendants=None, kids=None, score=None, time=1601659014, title=None, item_type='comment', url=None, parent=24660837, text='In case it&#x27;s not clear: this tries to use the submitted password to log in to Google, FB, Twitter, GitHub, Reddit, and HN, and reject if it&#x27;s re-used.')

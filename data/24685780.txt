@@ -1,0 +1,1 @@
+Item(by='oarsinsync', descendants=None, kids=[24687891], score=None, time=1601887501, title=None, item_type='comment', url=None, parent=24684665, text='Better range of hardware support in Linux than FreeBSD.<p>Also note that the FreeBSD implementation of ZFS has been replaced and ported from OpenZFS (formerly ZFSonLinux).')

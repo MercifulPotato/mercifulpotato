@@ -1,0 +1,1 @@
+Item(by='contravariant', descendants=None, kids=[24685396], score=None, time=1601847166, title=None, item_type='comment', url=None, parent=24680711, text='Not technically a valid email, although you could try &quot;&#x27;;DROP TABLE USERS;--&quot;@gmail.com<p>Weirdly enough it&#x27;s the semicolon that isn&#x27;t allowed, not the single quote.')

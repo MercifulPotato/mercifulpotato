@@ -1,0 +1,1 @@
+Item(by='zaarn', descendants=None, kids=[24661788, 24661647], score=None, time=1601638151, title=None, item_type='comment', url=None, parent=24661377, text='Apps simply need a solid CI pipeline so that when dependencies have security patches, the app is automatically rebuilt and pushed out with the patches as soon as possible.')

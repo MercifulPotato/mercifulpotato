@@ -1,0 +1,1 @@
+Item(by='mhh__', descendants=None, kids=[24649952], score=None, time=1601551141, title=None, item_type='comment', url=None, parent=24648406, text='D takes the spirit of RAII slightly further too in having scope guards as a first class concept.<p>Not as safe as proper RAII but very useful at the site of declaration to write scope(exit) close(file); or similar')

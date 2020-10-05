@@ -1,0 +1,1 @@
+Item(by='est31', descendants=None, kids=[24649626], score=None, time=1601547716, title=None, item_type='comment', url=None, parent=24649120, text='What would be a use case for using type_traits? It feels to me that most cases for it would be frowned upon in Rust, but that&#x27;s just my gut feeling, not knowing what they are useful for in C++-')

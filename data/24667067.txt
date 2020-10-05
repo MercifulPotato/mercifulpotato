@@ -1,0 +1,1 @@
+Item(by='rightbyte', descendants=None, kids=None, score=None, time=1601673088, title=None, item_type='comment', url=None, parent=24665884, text='Maybe we need to whitelist ip:s instead?<p>Imagine a browser extension that whitelist the ip of the site you go to in the address bar for like 30 minutes in cooperation with the router.<p>All other ip traffic is blocked.')

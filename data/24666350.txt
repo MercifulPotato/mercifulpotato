@@ -1,0 +1,1 @@
+Item(by='bawolff', descendants=None, kids=[24666845], score=None, time=1601667844, title=None, item_type='comment', url=None, parent=24665720, text='Wikipedia basically uses varnish as their own CDN (they having caching servers in SF, texas, Virginia, singapore and amsterdam. Backend servers are in Virginia with hot backup in texas)')

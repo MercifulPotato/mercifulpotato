@@ -1,0 +1,1 @@
+Item(by='jonstewart', descendants=None, kids=[24672751, 24672783, 24673976], score=None, time=1601738802, title=None, item_type='comment', url=None, parent=24661231, text='This is such a mashup of conflicting advice. Don’t optimize! Use SIMD! If you’re reading from disk you’re I&#x2F;O bound! I am embarrassed for the ACM.')

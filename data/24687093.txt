@@ -1,0 +1,1 @@
+Item(by='ivanhoe', descendants=None, kids=[24688284], score=None, time=1601900967, title=None, item_type='comment', url=None, parent=24686456, text='yup, that&#x27;s how we used to do it in 90s, as long as code is compiled it has a fairly decent performances. Downside is that debugging is far harder than with the scripting languages.')

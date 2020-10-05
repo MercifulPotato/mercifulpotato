@@ -1,0 +1,1 @@
+Item(by='slaymaker1907', descendants=None, kids=None, score=None, time=1601754813, title=None, item_type='comment', url=None, parent=24672822, text='I mostly agree with this except I think the bigger thing is that you should rarely be using locks in the first place. Instead use existing parallel data structures and atomics.')

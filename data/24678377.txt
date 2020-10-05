@@ -1,0 +1,1 @@
+Item(by='kchr', descendants=None, kids=None, score=None, time=1601813126, title=None, item_type='comment', url=None, parent=24676358, text='I like the idea - it would at least help to visualize how much useless code you pull in and hopefully to make you realize how the few parts actually used could be implemented without those dependencies.')

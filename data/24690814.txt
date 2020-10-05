@@ -1,0 +1,1 @@
+Item(by='jononor', descendants=None, kids=[24690994], score=None, time=1601924297, title=None, item_type='comment', url=None, parent=24689087, text='False positives are a minor annoyance. False negatives are potentially catastrophic. So for this kinds of systems it makes sense to skew towards false positives. It is always a tradeoff.')

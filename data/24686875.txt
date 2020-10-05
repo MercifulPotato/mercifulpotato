@@ -1,0 +1,1 @@
+Item(by='yipbub', descendants=None, kids=None, score=None, time=1601899256, title=None, item_type='comment', url=None, parent=24686726, text='Yeah, I&#x27;m happy I learned about `bisect` with this blog post, but I (almost) always make sure my squashed commits build.<p>However, I try to only squash into logical units, I don&#x27;t try to cram the whole PR into one commit')

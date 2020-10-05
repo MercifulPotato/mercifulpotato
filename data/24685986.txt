@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=[24686040, 24686030], score=None, time=1601890147, title=None, item_type='comment', url=None, parent=24685925, text='I guess I&#x27;m not understanding your use case, if it&#x27;s not periodic invocation. Why you were calling Sleep(1)? Why was a 16ms sleep problematic in that case?')

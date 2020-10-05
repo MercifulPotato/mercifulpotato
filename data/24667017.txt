@@ -1,0 +1,1 @@
+Item(by='duderific', descendants=None, kids=[24667558], score=None, time=1601672732, title=None, item_type='comment', url=None, parent=24665485, text='Not scoping a variable properly (causing a variable to leak out to global scope) could also cause this.')

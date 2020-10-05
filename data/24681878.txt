@@ -1,0 +1,1 @@
+Item(by='dep_b', descendants=None, kids=None, score=None, time=1601841924, title=None, item_type='comment', url=None, parent=24681128, text='WebRTC is low latency by itself, otherwise you couldn’t have a video call. The challenge is to serve one WebRTC stream to 1,000,000 viewers while maintaining low latency')

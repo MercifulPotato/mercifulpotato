@@ -1,0 +1,1 @@
+Item(by='yters', descendants=None, kids=None, score=None, time=1601859798, title=None, item_type='comment', url=None, parent=24682247, text='Exactly.  We can try brute force counting all the permutations of 1000 bits, which will exhaust the lifespan and size of the universe.  Or we can use exponentiation and solve by hand in a second.')

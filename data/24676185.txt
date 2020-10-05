@@ -1,0 +1,1 @@
+Item(by='867-5309', descendants=None, kids=None, score=None, time=1601779525, title=None, item_type='comment', url=None, parent=24675736, text='then the DHCP can assign PiHole as the DNS resolver, and if the requested domain isn&#x27;t in its block list then it will be forwarded to google, cloudflare, etc.<p>i. e. the ads on smart devices can be blocked')

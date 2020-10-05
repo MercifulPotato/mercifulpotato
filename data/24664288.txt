@@ -1,0 +1,1 @@
+Item(by='mumblerino', descendants=None, kids=None, score=None, time=1601656306, title=None, item_type='comment', url=None, parent=24662146, text='By default, “npm install” also has the ability to run code after the installation, so npx is not any less safe.')

@@ -1,0 +1,1 @@
+Item(by='dodobirdlord', descendants=None, kids=None, score=None, time=1601924160, title=None, item_type='comment', url=None, parent=24689811, text='Protocol buffers already require you to commit to some things forever, like the type of a field, or whether two fields belong in a oneof together. I’m not saying that “required” was a great feature, but it’s not exactly unique.')

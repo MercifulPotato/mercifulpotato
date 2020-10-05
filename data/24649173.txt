@@ -1,0 +1,1 @@
+Item(by='threatripper', descendants=None, kids=[24649264, 24649345], score=None, time=1601546003, title=None, item_type='comment', url=None, parent=24648437, text='Python also has destructors (def __del__(self):). They are called at whatever time and whichever order the GC gets around to it.')

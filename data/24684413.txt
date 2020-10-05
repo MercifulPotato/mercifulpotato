@@ -1,0 +1,1 @@
+Item(by='saghm', descendants=None, kids=[24684476], score=None, time=1601869923, title=None, item_type='comment', url=None, parent=24684265, text='FWIW it&#x27;s pretty straightforward to copy an app from a phone to an .apk file on a Linux machine using adb, so if you have an Android device, you can always install from the Play Store on your phone')

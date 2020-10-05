@@ -1,0 +1,1 @@
+Item(by='pjc50', descendants=None, kids=None, score=None, time=1601639163, title=None, item_type='comment', url=None, parent=24661565, text='&gt; push for docker on embedded systems<p>Aaargh!<p>A particularly odd one as most embedded systems are handled as &quot;images&quot; of some sort - firmware blobs, ramdiscs, imaged HDDs for embedded PCs and so on.')

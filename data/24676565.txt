@@ -1,0 +1,1 @@
+Item(by='Chakazul', descendants=None, kids=[24677375], score=None, time=1601786286, title=None, item_type='comment', url=None, parent=24676480, text='Indentation by tab is good for shallow data or code e.g. Python. Space is bad. For deeper levels, I&#x27;d go for a visible, countable symbol\nLevel 1\n.Level 2\n..Level 3')

@@ -1,0 +1,1 @@
+Item(by='tomc1985', descendants=None, kids=[24665824, 24669279, 24667335, 24667017], score=None, time=1601663143, title=None, item_type='comment', url=None, parent=24664643, text='Assuming session ID&#x27;s are tied to individual users and looked up via a &quot;SELECT * from sessions where id=&#x27;?&#x27;&quot; type query, how does this even happen?')

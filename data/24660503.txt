@@ -1,0 +1,1 @@
+Item(by='querez', descendants=None, kids=[24660627, 24663584], score=None, time=1601628374, title=None, item_type='comment', url=None, parent=24659906, text='Sorry for my ignorance, but: why isn&#x27;t atomic == threadsafe?')

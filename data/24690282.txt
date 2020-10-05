@@ -1,0 +1,1 @@
+Item(by='Nursie', descendants=None, kids=None, score=None, time=1601921100, title=None, item_type='comment', url=None, parent=24686752, text='When I read the commit history I want to see what was committed.<p>&quot;Hmm, I had a half working X509 chain resolver there that turned out to be unnecessary at the time but would save me a day&#x27;s work now...&quot;')

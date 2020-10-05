@@ -1,0 +1,1 @@
+Item(by='patorjk', descendants=None, kids=None, score=None, time=1601907337, title=None, item_type='comment', url=None, parent=24687869, text='Running this in the console removed that for me:<p>document.querySelectorAll(&#x27;.freewall--disable&#x27;).forEach(item =&gt; item.classList.remove(&#x27;freewall--disable&#x27;));')

@@ -1,0 +1,1 @@
+Item(by='shepmaster', descendants=None, kids=None, score=None, time=1601752541, title=None, item_type='comment', url=None, parent=24673959, text='The post you are replying to says &quot;efficiently implemented with unsafe&quot;. For a linked list, you generally get (has unsafe code + efficient) or (no unsafe code + not as efficient).')

@@ -1,0 +1,1 @@
+Item(by='xfer', descendants=None, kids=None, score=None, time=1601776986, title=None, item_type='comment', url=None, parent=24675614, text='Same thing happened in Ocaml land w.r.t. async vs lwt. Not sure what the current situation is but people had to abstract their libraries and do 2 implementations to support them.')

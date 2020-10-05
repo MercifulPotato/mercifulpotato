@@ -1,0 +1,1 @@
+Item(by='ed25519FUUU', descendants=None, kids=[24689408], score=None, time=1601911227, title=None, item_type='comment', url=None, parent=24688441, text='It’s very easy to install any version of Python using pyenv. I would be careful not to change the system Python in 16.04 because it will probably mess up apt.')

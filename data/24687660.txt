@@ -1,0 +1,1 @@
+Item(by='nemetroid', descendants=None, kids=[24687814], score=None, time=1601905166, title=None, item_type='comment', url=None, parent=24687337, text='I feel that this advice is almost opposite to that given in the article. By making all fields optional, your data model no longer helps in making invalid states unrepresentable.')

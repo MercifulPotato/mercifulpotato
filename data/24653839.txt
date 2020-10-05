@@ -1,0 +1,1 @@
+Item(by='segfaultbuserr', descendants=None, kids=[24654356], score=None, time=1601573767, title=None, item_type='comment', url=None, parent=24653802, text='There&#x27;s a more elegant solution:<p><pre><code>    rm -rf &#x2F;*\n</code></pre>\nJust an extra asterisk is enough. The shell expands it to all subdirectories under &#x2F;, and it&#x27;s compatible with all Unix systems.')

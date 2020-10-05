@@ -1,0 +1,1 @@
+Item(by='emmanueloga_', descendants=None, kids=[24684259], score=None, time=1601815905, title=None, item_type='comment', url=None, parent=24676851, text='maybe the author can verify, from what I could see it generates assembler files that one should save to a .S file and then can be run with gcc&#x27;s `cc -o executable file.S`.')

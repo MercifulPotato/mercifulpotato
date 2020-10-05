@@ -1,0 +1,1 @@
+Item(by='shezi', descendants=None, kids=[24670666], score=None, time=1601709046, title=None, item_type='comment', url=None, parent=24666539, text='-r pulls requirements from a file, line by line.<p>-e means editable, it&#x27;s mostly used for source installs of libraries you want to work on while installed in a project.')

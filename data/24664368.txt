@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1601656740, title=None, item_type='comment', url=None, parent=24660829, text='Not all ARM CPUs even, there&#x27;s a wide range between those using the relaxed memory model in the spec, some server CPUs having TSO (roughly matching x86) and others having sequential consistency (NVIDIA in-house CPUs).')

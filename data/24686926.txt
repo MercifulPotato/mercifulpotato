@@ -1,0 +1,1 @@
+Item(by='twic', descendants=None, kids=[24686950], score=None, time=1601899667, title=None, item_type='comment', url=None, parent=24686888, text='&gt; If I had spread that endpoint across 25 commits, I&#x27;d have to actually debug the issue in QA and figure out what I broke<p>No, you could just revert the entire lot in one go.')

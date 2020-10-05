@@ -1,0 +1,1 @@
+Item(by='kalleboo', descendants=None, kids=None, score=None, time=1601685193, title=None, item_type='comment', url=None, parent=24663478, text='It also has really broken handling of text encodings.<p>I&#x27;ve taken to importing CSV files using Apple Numbers, and saving as Excel<p>(i use Numbers primarily, Excel is just when I need to be interoperable with someone else)')

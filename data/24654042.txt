@@ -1,0 +1,1 @@
+Item(by='sbierwagen', descendants=None, kids=[24654197], score=None, time=1601574787, title=None, item_type='comment', url=None, parent=24652020, text='An external GPU box would work for you, since the offboard GPU would have a full-bandwidth link to the monitor. Depending on which GPU you put in it, though, it would probably be cheaper to buy a new monitor.')

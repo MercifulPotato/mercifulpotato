@@ -1,0 +1,1 @@
+Item(by='im3w1l', descendants=None, kids=None, score=None, time=1601928779, title=None, item_type='comment', url=None, parent=24687076, text='Not using a CSPRNG for everything and anything sounds like premature optimization to me. I mean sure, if you need randomness in a very tight loop, make a tradeoff.')

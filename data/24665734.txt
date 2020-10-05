@@ -1,0 +1,1 @@
+Item(by='kevin_thibedeau', descendants=None, kids=[24666483], score=None, time=1601664452, title=None, item_type='comment', url=None, parent=24665053, text='Just use Gnu Stow as a secondary package manager and install into the &#x2F;usr&#x2F;local tree.')

@@ -1,0 +1,1 @@
+Item(by='WorldMaker', descendants=None, kids=None, score=None, time=1601915035, title=None, item_type='comment', url=None, parent=24687123, text='`git blame --first-parent` will stick to merge commits in blame output.')

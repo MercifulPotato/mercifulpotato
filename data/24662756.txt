@@ -1,0 +1,1 @@
+Item(by='jayflux', descendants=29, kids=[24663869, 24663820, 24663633, 24664730, 24665536, 24666694, 24663124, 24663589, 24663740], score=80, time=1601647793, title='Boa: an experimental Javascript lexer, parser and compiler written in Rust', item_type='story', url='https://boa-dev.github.io/2020/10/02/boa-release-10.html', parent=None, text=None)

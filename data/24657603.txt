@@ -1,0 +1,1 @@
+Item(by='brendangregg', descendants=None, kids=None, score=None, time=1601598507, title=None, item_type='comment', url=None, parent=24657428, text='Yes, io_uring is great, and not just for I&#x2F;O: it&#x27;s a generic asynchronous interface for other kernel calls as well.')

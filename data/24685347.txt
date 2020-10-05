@@ -1,0 +1,1 @@
+Item(by='nine_k', descendants=None, kids=[24685413, 24685427], score=None, time=1601882590, title=None, item_type='comment', url=None, parent=24677407, text='What is the point to run RAID6 on 4 drives, instead of RAID10? With both, half the space is usable, but with RAID10 read speed is twice as high, and resilvering is twice as fast.<p>RAID6 makes sense for 5-8 drives.')

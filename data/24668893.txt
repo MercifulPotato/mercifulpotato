@@ -1,0 +1,1 @@
+Item(by='untog', descendants=None, kids=None, score=None, time=1601690562, title=None, item_type='comment', url=None, parent=24668712, text='It would mean that image decoding can’t start until the page JS is initialised, which is a pretty crappy trade off compared to today.')

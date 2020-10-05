@@ -1,0 +1,1 @@
+Item(by='Tainnor', descendants=None, kids=[24665871, 24665640], score=None, time=1601648146, title=None, item_type='comment', url=None, parent=24662594, text='nitpick, but O(5n) is not a subset of O(n), it is literally the exact same set.')

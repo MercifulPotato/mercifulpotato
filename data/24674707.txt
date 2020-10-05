@@ -1,0 +1,1 @@
+Item(by='kevin_thibedeau', descendants=None, kids=None, score=None, time=1601759519, title=None, item_type='comment', url=None, parent=24674563, text='When I get onto an unfamiliar platform I do a test of sequential search vs binary search to see where the crossover point is on number of elements for small arrays. Then I know roughly when not to bother with a better algorithm.')

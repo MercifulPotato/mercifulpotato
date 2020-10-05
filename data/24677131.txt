@@ -1,0 +1,1 @@
+Item(by='PaywallBuster', descendants=None, kids=None, score=None, time=1601796796, title=None, item_type='comment', url=None, parent=24674239, text='Do we need an update?<p>Latency between AWS AZs (2-3ms)\nLatency to NVMe \nLatency to NAS vs directly attached (Cloud options)\nLatency to external RAM (RAMCloud?)')

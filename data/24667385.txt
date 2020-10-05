@@ -1,0 +1,1 @@
+Item(by='CameronNemo', descendants=None, kids=None, score=None, time=1601675509, title=None, item_type='comment', url=None, parent=24665985, text='I can&#x27;t relate. Here is how I install pelican on my niche Linux distro:<p><pre><code>    sudo xbps-install pelican\n</code></pre>\nI&#x27;ve used rbenv before and found it to be a PITA.')

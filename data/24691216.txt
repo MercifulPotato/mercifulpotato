@@ -1,0 +1,1 @@
+Item(by='filleduchaos', descendants=None, kids=None, score=None, time=1601926784, title=None, item_type='comment', url=None, parent=24690900, text='Yes on a second read I meant a case-preserving, not case-sensitive filesystem. The results that `ls` gets are cased and so pattern matching (which is case sensitive by default) on those results will fail with the wrong casing.')

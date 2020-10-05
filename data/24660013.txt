@@ -1,0 +1,1 @@
+Item(by='bgdam', descendants=None, kids=[24663879], score=None, time=1601623902, title=None, item_type='comment', url=None, parent=24659486, text='Creating ever increasing ids reliably at scale is not trivial. You will probably end up having a single server generating these ids which will then become a single point of failure.')

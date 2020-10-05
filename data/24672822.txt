@@ -1,0 +1,1 @@
+Item(by='temac', descendants=None, kids=[24673566, 24673295, 24672843, 24674262], score=None, time=1601740489, title=None, item_type='comment', url=None, parent=24672757, text='If you need deadlock detection, probably your high level design is problematic. But I agree this is extremely often the case, so that&#x27;s extremely often an interesting and valuable tool.')

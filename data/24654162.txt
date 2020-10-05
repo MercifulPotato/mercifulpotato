@@ -1,0 +1,1 @@
+Item(by='cobbzilla', descendants=None, kids=[24654565, 24661840], score=None, time=1601575439, title=None, item_type='comment', url=None, parent=24654040, text='My favorite is:<p><pre><code>    rm -rf ${DIR_NAME}&#x2F;*\n</code></pre>\nThen you remember that DIR_NAME is undefined...')

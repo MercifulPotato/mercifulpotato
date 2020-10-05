@@ -1,0 +1,1 @@
+Item(by='remote_phone', descendants=None, kids=[24676469], score=None, time=1601779195, title=None, item_type='comment', url=None, parent=24675075, text='What if someone inputs 2.2.5 when the code is expecting an int? Or “abc”? It seems like it’s pushing all the config validation into user code which sucks.')

@@ -1,0 +1,1 @@
+Item(by='mrkeen', descendants=None, kids=None, score=None, time=1601885146, title=None, item_type='comment', url=None, parent=24682111, text='When I aim for parallelism, I seem to fare a lot worse than when I aim for concurrency.  (In the parallel case, I hit Amdahl&#x27;s law hard and my throughput for 1, 2, 4 cores goes something like 1, 1.8, 2.4.)')

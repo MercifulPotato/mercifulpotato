@@ -1,0 +1,1 @@
+Item(by='manigandham', descendants=None, kids=[24664777], score=None, time=1601657739, title=None, item_type='comment', url=None, parent=24664054, text='It&#x27;s hashing the ordering key to map to a partition right?<p>That&#x27;s what I meant, access to ordering via partitions but without the full addressing of named partitions like Kafka.')

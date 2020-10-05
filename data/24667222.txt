@@ -1,0 +1,1 @@
+Item(by='derwiki', descendants=None, kids=None, score=None, time=1601674340, title=None, item_type='comment', url=None, parent=24665965, text='Would it work to set up an ESP32 as a WiFi access point that doesn’t route traffic? I wonder if the Samsung would detect that it’s an unhelpful internet connection and keep looking, or lock onto the bad network the user supplied.')

@@ -1,0 +1,1 @@
+Item(by='zests', descendants=None, kids=[24666907], score=None, time=1601671621, title=None, item_type='comment', url=None, parent=24666648, text='How often do you resize your hash tables in your mental model? Maybe there&#x27;s a better &quot;resizing schedule&quot; where you don&#x27;t resize as often and the amortized time taken in the resizing is O(1) :)')

@@ -1,0 +1,1 @@
+Item(by='7952', descendants=None, kids=None, score=None, time=1601797171, title=None, item_type='comment', url=None, parent=24675140, text='I wonder if you could just include explicit type information?<p><pre><code>  name(str): Dave\n  age(int4): 22\n  dob(date): 2020-02-01\n  photo(base64):TWFuIGl....</code></pre>')

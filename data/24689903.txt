@@ -1,0 +1,1 @@
+Item(by='kwillets', descendants=None, kids=None, score=None, time=1601919056, title=None, item_type='comment', url=None, parent=24683335, text='One thought on timing is that, when generating a whole batch of numbers, it makes sense to calculate the modulo exactly once in advance rather than on-demand.')

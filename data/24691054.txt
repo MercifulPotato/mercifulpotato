@@ -1,0 +1,1 @@
+Item(by='pbreit', descendants=None, kids=None, score=None, time=1601925665, title=None, item_type='comment', url=None, parent=24690661, text='Excel has never worked well with external data.<p>Even the current version of Excel still inexplicably auto-converts long numerical strings to Scientific Notation.')

@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[24678101, 24676172, 24681304, 24676038], score=None, time=1601774300, title=None, item_type='comment', url=None, parent=24675131, text='XML is fatally flawed because you can&#x27;t safely put one XML doc inside another one. Because of this rather fundamental problem, it never was any good for anything, and it never will be.')

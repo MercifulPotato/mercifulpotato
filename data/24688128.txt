@@ -1,0 +1,1 @@
+Item(by='simias', descendants=None, kids=None, score=None, time=1601908609, title=None, item_type='comment', url=None, parent=24687642, text='I mean that I do many small &quot;crap&quot; commits while developing, once I&#x27;m ready to merge into the main branch I clean the history to get proper, atomic commits.')

@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1601665999, title=None, item_type='comment', url=None, parent=24663631, text='GitLab Pages also apparently needs a TXT verification record for the subdomain as well, otherwise it&#x27;ll serve a 401. (GitHub Pages does not seem to require this.)')

@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=[24656674], score=None, time=1601573040, title=None, item_type='comment', url=None, parent=24653068, text='&quot;any possible string of bytes could be decoded&quot; still doesn&#x27;t seem like the right criteria though. Gzipping is lossless&#x2F;bijective, but an arbitrary byte stream won&#x27;t necessarily be a valid gzip archive.')

@@ -1,0 +1,1 @@
+Item(by='sheenobu', descendants=None, kids=None, score=None, time=1601722998, title=None, item_type='comment', url=None, parent=24670625, text='No. The go files just have &quot;package emailnormalizer&quot; within the go files, so that is the name that you use to reference it, even if the import url is different.')

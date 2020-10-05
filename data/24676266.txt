@@ -1,0 +1,1 @@
+Item(by='pfraze', descendants=None, kids=None, score=None, time=1601781281, title=None, item_type='comment', url=None, parent=24675857, text='I think this is an “input format” vs “serialization format” issue. NestedText is meant for user input so it’s focusing more on the UX of the syntax. In that case, having to parse strings is a reasonable task for developers to take on')

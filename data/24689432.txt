@@ -1,0 +1,1 @@
+Item(by='tylershuster', descendants=None, kids=None, score=None, time=1601916420, title=None, item_type='comment', url=None, parent=24689387, text='Yes, I always have to play around with some variant of<p><pre><code>  margin: 0 calc(50vw - 50% - 1rem);\n</code></pre>\nor something, which feels really hacky.')

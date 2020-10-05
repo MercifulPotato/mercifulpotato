@@ -1,0 +1,1 @@
+Item(by='Xylakant', descendants=None, kids=[24665502], score=None, time=1601661519, title=None, item_type='comment', url=None, parent=24665076, text='Flatpak does not claim sandbox either. It’s gnome’s installer that claims it. But flatpak provides capabilities for sandboxing, afair.')

@@ -1,0 +1,1 @@
+Item(by='agumonkey', descendants=None, kids=None, score=None, time=1601597290, title=None, item_type='comment', url=None, parent=24656990, text='Some people in university hinted that some lisps had special parsing stages for car&#x2F;cdr based functionals. They may turn c(.)*r into nested (car (cdr ( ... ) ) ) calls.')

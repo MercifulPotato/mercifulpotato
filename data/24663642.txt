@@ -1,0 +1,1 @@
+Item(by='tannhaeuser', descendants=None, kids=[24663775], score=None, time=1601652676, title=None, item_type='comment', url=None, parent=24659325, text='I agree: CSS selectors are <i>already</i> supposed to provide extreme flexibility in assigning CSS props, and give you means to organize scopes etc to implement Shadow DOM compartment policies, among all the other things.')

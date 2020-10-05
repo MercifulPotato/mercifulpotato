@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=[24672773], score=None, time=1601737897, title=None, item_type='comment', url=None, parent=24661653, text='I remember when the Beos moved networking from userland to the kernel because userland was too slow.  Are we coming full circle?')

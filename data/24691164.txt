@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1601926462, title=None, item_type='comment', url=None, parent=24690476, text='Jetson is still on CUDA 10.2 which only supports fully GCC 8 and earlier.<p>Support for CUDA 11 is coming soon, with the bump to Ubuntu 20.04 at the same time too. However, patching those issues isn&#x27;t very problematic.')

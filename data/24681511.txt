@@ -1,0 +1,1 @@
+Item(by='seanalltogether', descendants=None, kids=None, score=None, time=1601838727, title=None, item_type='comment', url=None, parent=24677841, text='It&#x27;s weird that you use a completely different annotation style for byte arrays. Why not just use<p>bytes = u8[10 ff 38 9a dd 00 4f 4f 91]')

@@ -1,0 +1,1 @@
+Item(by='lilyball', descendants=None, kids=None, score=None, time=1601884061, title=None, item_type='comment', url=None, parent=24683028, text='n is any arbitrary number? Oh. Also I just realized I was reading this previously as x and s being fixed values and saying “if x % s is 0, (n * s) has n values”. Hence the confusion.')

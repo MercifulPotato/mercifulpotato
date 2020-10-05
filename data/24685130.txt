@@ -1,0 +1,1 @@
+Item(by='rosshemsley', descendants=None, kids=None, score=None, time=1601879768, title=None, item_type='comment', url=None, parent=24683235, text='Pytorch is a good option here - ultimately it&#x27;s just a library for efficiently manipulating tensors and supports cuda GPUs.')

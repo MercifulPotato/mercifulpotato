@@ -1,0 +1,1 @@
+Item(by='IshKebab', descendants=None, kids=[24677789, 24678762, 24678901], score=None, time=1601802477, title=None, item_type='comment', url=None, parent=24676774, text='Native support for complex types like URLs and UUIDs is a mistake. It just makes it more complicated and harder to interoperate with other formats like JSON. Look at all the archaic types ASN.1 supports.')

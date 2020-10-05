@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=[24669398], score=None, time=1601658414, title=None, item_type='comment', url=None, parent=24663655, text='You can use async&#x2F;await (and therefore generators) in Rust on embedded just fine.')

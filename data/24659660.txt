@@ -1,0 +1,1 @@
+Item(by='andy_ppp', descendants=None, kids=[24659753, 24660014], score=None, time=1601621003, title=None, item_type='comment', url=None, parent=24659523, text='What do you do with state that needs to be global, or state that bits of start needing to be available in many components for example current username or permissions etc?')

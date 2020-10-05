@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=[24686369], score=None, time=1601892326, title=None, item_type='comment', url=None, parent=24686178, text='Try adding timeBeginPeriod(1)&#x2F;timeEndPeriod(1) around the waitable timer code and you&#x27;ll see it still wakes up every 16ms.')

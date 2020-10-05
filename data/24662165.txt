@@ -1,0 +1,1 @@
+Item(by='boudin', descendants=None, kids=[24662292, 24665201], score=None, time=1601643953, title=None, item_type='comment', url=None, parent=24662059, text='For non open source software, dependencies are often packaged with the software itself, so it would be the same in flatpak or in the distro. It is true for software that uses shared libraries though.')

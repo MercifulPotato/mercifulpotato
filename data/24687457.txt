@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=None, score=None, time=1601903659, title=None, item_type='comment', url=None, parent=24685471, text='One of the advantages of fcgi is that it can be launched &quot;in place&quot; like cgi, with the server restarting the backend every N requests.  Does SCGI support doing this?')

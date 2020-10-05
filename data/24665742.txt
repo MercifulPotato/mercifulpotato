@@ -1,0 +1,1 @@
+Item(by='RegnisGnaw', descendants=None, kids=None, score=None, time=1601664494, title=None, item_type='comment', url=None, parent=24665469, text='Exactly. At one of my work places, we needed 2FA to log into a vendor portal. So we stuck the username, password, and TOPT in  Vault which is protected by corporate AD password only.')

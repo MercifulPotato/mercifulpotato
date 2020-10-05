@@ -1,0 +1,1 @@
+Item(by='kpmah', descendants=None, kids=[24688788], score=None, time=1601906807, title=None, item_type='comment', url=None, parent=24686341, text='The problem with a narrow OO mindset is that it encourages encapsulation and atomic objects with hidden state. Simply gluing those pieces together can create suboptimal representations - a more holistic thought process is better.')

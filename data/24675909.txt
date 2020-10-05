@@ -1,0 +1,1 @@
+Item(by='Spivak', descendants=None, kids=None, score=None, time=1601773881, title=None, item_type='comment', url=None, parent=24670299, text='I think the parent’s point is that if you’re going to allow backup codes you might as well just add “second password” as a form of 2FA and enforce some basic complexity requirements.')

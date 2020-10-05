@@ -1,0 +1,1 @@
+Item(by='Rusky', descendants=None, kids=None, score=None, time=1601570483, title=None, item_type='comment', url=None, parent=24652297, text='What? Rust has both early return and unwinding, which interact with destructors the same way.<p>Further, Rust has destructive move, making drop even <i>more</i> flexible.')

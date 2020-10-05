@@ -1,0 +1,1 @@
+Item(by='munchbunny', descendants=None, kids=[24657789], score=None, time=1601598977, title=None, item_type='comment', url=None, parent=24656969, text='I don’t think I’ve ever encountered someone calling a slow query bottleneck “I&#x2F;O bound” unless the query itself was I&#x2F;O bound. I usually just see it explained as “bottlenecked by a slow query”.')

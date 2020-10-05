@@ -1,0 +1,1 @@
+Item(by='citrons', descendants=None, kids=[24675431], score=None, time=1601766643, title=None, item_type='comment', url=None, parent=24675196, text='Yeah, for building files in docker try using multi-stage builds. They on the &quot;final&quot; image you can only use prod dependencies.')

@@ -1,0 +1,1 @@
+Item(by='hapless', descendants=None, kids=None, score=None, time=1601742748, title=None, item_type='comment', url=None, parent=24663374, text='Firefox has a hard dependency on GTK, so it is literally unbuildable as a static binary.')

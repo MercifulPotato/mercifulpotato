@@ -1,0 +1,1 @@
+Item(by='speakeron', descendants=None, kids=[24660872], score=None, time=1601632463, title=None, item_type='comment', url=None, parent=24657747, text='It&#x27;s always worth remembering that O(n) describes the <i>asymptotic limit</i> where n is presumed to be very large (in fact, approaching infinity).')

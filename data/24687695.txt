@@ -1,0 +1,1 @@
+Item(by='andi999', descendants=None, kids=[24688527], score=None, time=1601905464, title=None, item_type='comment', url=None, parent=24687407, text='Usually a map can be fine, but isnt  it a maintenance nightmare. At least if you change an object, the compiler will complain if an attribute is not found, but this leads to runtime error&#x2F; or bad behaviour')

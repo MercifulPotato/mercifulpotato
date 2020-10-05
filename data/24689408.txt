@@ -1,0 +1,1 @@
+Item(by='hajile', descendants=None, kids=None, score=None, time=1601916291, title=None, item_type='comment', url=None, parent=24688516, text='As soon as you start needing C libraries, you start getting minor issues here and there. Numpy modules in particular seem prone to issues -- even on a bog-standard x86 desktop. It&#x27;s got to be much worse on the very niche Nvidia SoC.')

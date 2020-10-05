@@ -1,0 +1,1 @@
+Item(by='layoutIfNeeded', descendants=None, kids=None, score=None, time=1601564166, title=None, item_type='comment', url=None, parent=24651133, text='No, at least not without a separate overload for C-style arrays. If you don’t care about C arrays then yes, .begin&#x2F;.end could work.')

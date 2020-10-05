@@ -1,0 +1,1 @@
+Item(by='lolptdr', descendants=None, kids=[24666765, 24666342, 24666218, 24666261, 24666254], score=None, time=1601666499, title=None, item_type='comment', url=None, parent=24657747, text='Newbie question: why would a hash function ever result in hash collision? Why can&#x27;t a hash function guarantee a unique output value?')

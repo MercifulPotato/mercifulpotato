@@ -1,0 +1,1 @@
+Item(by='barrkel', descendants=None, kids=[24687016], score=None, time=1601899898, title=None, item_type='comment', url=None, parent=24686752, text='Bisect doesn&#x27;t have a problem with intermediate broken states, actually. It&#x27;s why git bisect skip exists. It may not be able to pinpoint an exact commit though.')

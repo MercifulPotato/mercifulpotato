@@ -1,0 +1,1 @@
+Item(by='hairtuq', descendants=None, kids=[24673327], score=None, time=1601709527, title=None, item_type='comment', url=None, parent=24665723, text='Since the shift count is implicitly modulo 32, you don&#x27;t even need the subtraction:<p><pre><code>    bool isvowel(char c) {\n        return (1u &lt;&lt; (c&amp;31)) &amp; 0x208222;\n    }</code></pre>')

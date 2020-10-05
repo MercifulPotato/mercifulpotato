@@ -1,0 +1,1 @@
+Item(by='erpellan', descendants=None, kids=None, score=None, time=1601894974, title=None, item_type='comment', url=None, parent=24686228, text='That could be fixed with 1 additional concept. Instead of<p><pre><code>    Customer: 1 - 1: Set(Dates)\n</code></pre>\nWhat if it was<p><pre><code>    Customer 1 - *: Contract: 1 - 1: Set(Dates)\n</code></pre>\nOverlap achieved.')

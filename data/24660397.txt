@@ -1,0 +1,1 @@
+Item(by='twic', descendants=None, kids=[24660927], score=None, time=1601627475, title=None, item_type='comment', url=None, parent=24660297, text='Lifted directly from sed, one of Perl&#x27;s inspirations:<p><pre><code>  s&#x2F;replace #&#x2F;with $&#x2F;\n  s#replace &#x2F;#with _#</code></pre>')

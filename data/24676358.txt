@@ -1,0 +1,1 @@
+Item(by='alquemist', descendants=None, kids=[24678377], score=None, time=1601782560, title=None, item_type='comment', url=None, parent=24673917, text='Brainstorm: Could it help to run &#x27;coverage&#x27; through the web of dependencies and shake out all the code that is not explicitly exercised by an app test? Is that technically feasible? Is that cost effective?')

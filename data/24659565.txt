@@ -1,0 +1,1 @@
+Item(by='valleyjo', descendants=None, kids=[24660400], score=None, time=1601620124, title=None, item_type='comment', url=None, parent=24659293, text='That won’t work in all cases. For instance, if you get messages from devices which can be reimaged they may have clock skew in a period of time before they’re synchronized again.')

@@ -1,0 +1,1 @@
+Item(by='birdyrooster', descendants=None, kids=None, score=None, time=1601657336, title=None, item_type='comment', url=None, parent=24659461, text='Or on Mac, just run this script and it will modify your clipboard<p><pre><code>  #!&#x2F;bin&#x2F;bash\n  printf &#x27;%q&#x27; &quot;$(pbpaste)&quot; | pbcopy</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='Vinnl', descendants=None, kids=None, score=None, time=1601921213, title=None, item_type='comment', url=None, parent=24688869, text='When rebasing my branches, <i>most</i> PRs will still be a single commit, some will be two or three. That&#x27;s not that much worse than squashing, and far more informative.')

@@ -1,0 +1,1 @@
+Item(by='kstenerud', descendants=None, kids=None, score=None, time=1601879508, title=None, item_type='comment', url=None, parent=24678762, text='There&#x27;s nothing stopping someone from putting a URL validator into their codec, but it&#x27;s probably a lot less work to just pass it to your runtime library&#x27;s URL parser.')

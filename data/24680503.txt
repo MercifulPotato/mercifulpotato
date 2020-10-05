@@ -1,0 +1,1 @@
+Item(by='tinus_hn', descendants=None, kids=[24680607, 24681680], score=None, time=1601831064, title=None, item_type='comment', url=None, parent=24679751, text='If you install a service like pi-hole, does that query the root servers?')

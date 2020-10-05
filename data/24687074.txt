@@ -1,0 +1,1 @@
+Item(by='reallydontask', descendants=None, kids=None, score=None, time=1601900756, title=None, item_type='comment', url=None, parent=24687018, text='Most people at my previous place did squash merge on pr completion and we cherry picked quite successfully, so I&#x27;d be interested to know how you get to:<p>&gt; Squashing also turns cherry picked commits into merge conflicts.')

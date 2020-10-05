@@ -1,0 +1,1 @@
+Item(by='hoseja', descendants=None, kids=[24649717], score=None, time=1601539678, title=None, item_type='comment', url=None, parent=24648277, text='This has a giant glaring flaw that is only just being remedied: traversing more containers at the same time or, tangentially, enumeration (i.e. availability of the index variable in the loop body).')

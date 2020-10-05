@@ -1,0 +1,1 @@
+Item(by='hulahoof', descendants=None, kids=[24658875, 24658628], score=None, time=1601610127, title=None, item_type='comment', url=None, parent=24658132, text='&quot;Receiving messages in order might increase latency.&quot;<p>It would be good to know what sort of overhead we are looking at here; very interested in this feature')

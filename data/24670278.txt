@@ -1,0 +1,1 @@
+Item(by='bartq', descendants=None, kids=[24670322], score=None, time=1601709841, title=None, item_type='comment', url=None, parent=24669669, text='<p><pre><code>  Remember what I said earlier: UI is a functional representation of state.\n</code></pre>\nHmm, in React, true. But in general case it&#x27;s not true. I expect new way of (better) two way bingings to emerge.')

@@ -1,0 +1,1 @@
+Item(by='thayne', descendants=None, kids=[24684536, 24684763], score=None, time=1601865785, title=None, item_type='comment', url=None, parent=24683304, text='Is there an advantage to using fastcgi to using plain http with an async application server?<p>Or how about using http&#x2F;2 for multiplexing?')

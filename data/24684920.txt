@@ -1,0 +1,1 @@
+Item(by='anaisbetts', descendants=None, kids=[24686628], score=None, time=1601877403, title=None, item_type='comment', url=None, parent=24684704, text='It seems like it could, but you have to compile a custom kernel with Android Binder enabled which, while possible in WSL2, is a bit of a pain in the ass')

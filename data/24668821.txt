@@ -1,0 +1,1 @@
+Item(by='wmf', descendants=None, kids=None, score=None, time=1601689583, title=None, item_type='comment', url=None, parent=24668712, text='Chrome and Firefox are already implementing AVIF so using WASM to decode a different, more-patented format seems pointless.')

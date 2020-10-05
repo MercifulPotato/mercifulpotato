@@ -1,0 +1,1 @@
+Item(by='seibelj', descendants=None, kids=[24689159, 24689067, 24690274], score=None, time=1601913454, title=None, item_type='comment', url=None, parent=24687957, text='Slack is unusable, but it did get me to restart Docker which had ballooned to 16 GB memory and a bazillion processes. Modern software development is something else')

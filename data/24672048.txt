@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=[24672452], score=None, time=1601732611, title=None, item_type='comment', url=None, parent=24671612, text='If you want it constantly running, why not make it a proper service in your systemd config? In that way, yeh it exists. You can follow the logs with &quot;journalctl -u ... -f&quot;')

@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=[24691326], score=None, time=1601921555, title=None, item_type='comment', url=None, parent=24690198, text='gcc is part of the infrastructure, for the simple reason that you need the same compiler version to build Linux kernel modules.')

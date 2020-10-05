@@ -1,0 +1,1 @@
+Item(by='tootie', descendants=None, kids=[24674349], score=None, time=1601752354, title=None, item_type='comment', url=None, parent=24670252, text='Serious question: Why generate a static site at all instead of running next.js behind a CDN? Now a publish is really just a publish instead of a rebuild.')

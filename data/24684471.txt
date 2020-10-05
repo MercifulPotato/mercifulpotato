@@ -1,0 +1,1 @@
+Item(by='sebmellen', descendants=None, kids=None, score=None, time=1601870863, title=None, item_type='comment', url=None, parent=24684400, text='Quite unlikely, as it actually uses WebTorrent. WebTorrent runs over WebRTC, which means it&#x27;s significantly harder for your ISP to detect it as a torrent.')

@@ -1,0 +1,1 @@
+Item(by='miahi', descendants=None, kids=None, score=None, time=1601889066, title=None, item_type='comment', url=None, parent=24685620, text='This is the reason I now use a 3rd party RAID controller on my HP Microserver Gen 8 - I have 3 RAID cards with the same hardware and firmware, and tested that the RAID config can be imported from one to the other.')

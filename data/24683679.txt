@@ -1,0 +1,1 @@
+Item(by='dzhiurgis', descendants=None, kids=None, score=None, time=1601860455, title=None, item_type='comment', url=None, parent=24678590, text='I&#x27;d rather take &quot;extra comma&quot; failure than &quot;extra space&quot; space failure. First one can be caught by any IDE, second one will take you a couple of minutes to find out (when building CI for example).')

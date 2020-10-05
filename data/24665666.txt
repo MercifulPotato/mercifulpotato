@@ -1,0 +1,1 @@
+Item(by='kbp', descendants=None, kids=None, score=None, time=1601664102, title=None, item_type='comment', url=None, parent=24662619, text='Works in Ruby:<p><pre><code>  irb(main):001:1&#x2F; puts(%r\n  irb(main):002:1* a+\n  irb(main):003:0&gt; .match? %q aaa )\n  true</code></pre>')

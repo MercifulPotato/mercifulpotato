@@ -1,0 +1,1 @@
+Item(by='eru', descendants=None, kids=[24665892], score=None, time=1601639495, title=None, item_type='comment', url=None, parent=24661378, text='Randomised algorithms add an interesting wrinkle.<p>Eg even the worst case input for a randomised QuickSort still has an expected runtime of O(n log n).  (Where the expectation is averaged over the random choices, not over the input.)')

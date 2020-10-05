@@ -1,0 +1,1 @@
+Item(by='jedberg', descendants=None, kids=[24666535], score=None, time=1601668979, title=None, item_type='comment', url=None, parent=24666435, text='Yeah, that&#x27;s how reddit works too, but there are multiple layers of caching behind the CDN that would still hide certain types of outages.')

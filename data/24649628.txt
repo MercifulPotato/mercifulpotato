@@ -1,0 +1,1 @@
+Item(by='ben509', descendants=None, kids=[24651521], score=None, time=1601551248, title=None, item_type='comment', url=None, parent=24649264, text='CPython uses reference counting <i>and</i> gc. It&#x27;s the worst of both worlds: the expense of refcounting, and faux determinism until some innocuous code change causes you to hang on to a reference.')

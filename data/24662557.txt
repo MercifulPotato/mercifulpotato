@@ -1,0 +1,1 @@
+Item(by='virgilp', descendants=None, kids=None, score=None, time=1601646613, title=None, item_type='comment', url=None, parent=24660802, text='You also need a comparable() key presumably - which you often have, but not always (a comparable() key is not strictly required by a hashtable).')

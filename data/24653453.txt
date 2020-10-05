@@ -1,0 +1,1 @@
+Item(by='ktta', descendants=None, kids=[24653468], score=None, time=1601572113, title=None, item_type='comment', url=None, parent=24652733, text='&gt; Perhaps rm -rf &#x2F; should be replaced with something with more verbose flags set.<p>It is replaced. You&#x27;ll need to now enter `rm -rf &#x2F; --no-preserve-root` for that command to actually do damage.')

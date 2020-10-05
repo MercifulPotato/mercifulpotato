@@ -1,0 +1,1 @@
+Item(by='blibble', descendants=None, kids=[24667204, 24667067], score=None, time=1601665116, title=None, item_type='comment', url=None, parent=24665395, text='blocking like that works for now, but what&#x27;s the plan for when they switch to DNS-over-HTTP?<p>and host everything on ephemeral AWS addresses?')

@@ -1,0 +1,1 @@
+Item(by='emidln', descendants=None, kids=None, score=None, time=1601594778, title=None, item_type='comment', url=None, parent=24657231, text='I did this once for Clojure and named it car-cdr-construction-set! with an argument for how many levels deep to define in the current namespace.')

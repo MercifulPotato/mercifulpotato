@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=[24686427], score=None, time=1601894526, title=None, item_type='comment', url=None, parent=24686369, text='Might be due to my use of APCs rather than waiting on the object. Not bothered enough to try it myself but I guess you can try WaitForSingleObject on the timer to see if it behaves similarly...')

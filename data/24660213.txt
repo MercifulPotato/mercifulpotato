@@ -1,0 +1,1 @@
+Item(by='ldf1111', descendants=None, kids=[24666546, 24664723], score=None, time=1601625491, title=None, item_type='comment', url=None, parent=24658132, text='How does this feature work? is ordering key like kinesis partition Key. Does it somehow assign an Id to each subscriber and make sure that all messages for a key are sent to a single subscriber?')
