@@ -1,1 +1,1 @@
-Item(by='tsar_nikolai', descendants=0, kids=None, score=2, time=1601919295, title='RTX3090, can it run Crysis?', item_type='story', url='https://twitter.com/Strife212/status/1312553602934865923', parent=None, text=None)
+Item(by='tsar_nikolai', descendants=1, kids=[24691532], score=3, time=1601919295, title='RTX3090, can it run Crysis?', item_type='story', url='https://twitter.com/Strife212/status/1312553602934865923', parent=None, text=None)

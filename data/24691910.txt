@@ -1,0 +1,1 @@
+Item(by='k__', descendants=None, kids=None, score=None, time=1601931134, title=None, item_type='comment', url=None, parent=24691669, text='There are many 2D viz tools for IaC that fall short, because a cloud resource can have too many connections to other resources.<p>That is, too many for 2D, but in 3D the connections wouldn&#x27;t even cross each other.')

@@ -1,0 +1,1 @@
+Item(by='jakogut', descendants=None, kids=[24692834, 24692850], score=None, time=1601933565, title=None, item_type='comment', url=None, parent=24691979, text='I find this operator intuitive and idiomatic. It&#x27;s widely understood and used as a binary OR operator in many languages, and it&#x27;s easy to understand its functionality when both operands are dictionaries.')

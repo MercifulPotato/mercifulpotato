@@ -1,1 +1,1 @@
-Item(by='ashtonkem', descendants=None, kids=None, score=None, time=1601928616, title=None, item_type='comment', url=None, parent=24686311, text='I feel like text-based is colloquial shorthand for &quot;schemaless&quot; or &quot;dynamically typed&quot;.')
+Item(by='ashtonkem', descendants=None, kids=[24694045], score=None, time=1601928616, title=None, item_type='comment', url=None, parent=24686311, text='I feel like text-based is colloquial shorthand for &quot;schemaless&quot; or &quot;dynamically typed&quot;.')

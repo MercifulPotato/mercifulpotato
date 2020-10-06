@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=9, kids=[24675986, 24678657, 24676061, 24676324, 24675689], score=14, time=1601770290, title='Bullshit Jobs', item_type='story', url='https://en.wikipedia.org/wiki/Bullshit_Jobs', parent=None, text=None)
+Item(by='tosh', descendants=11, kids=[24675986, 24678657, 24676061, 24675689, 24676324], score=14, time=1601770290, title='Bullshit Jobs', item_type='story', url='https://en.wikipedia.org/wiki/Bullshit_Jobs', parent=None, text=None)

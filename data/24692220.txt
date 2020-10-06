@@ -1,0 +1,1 @@
+Item(by='nemetroid', descendants=None, kids=None, score=None, time=1601933069, title=None, item_type='comment', url=None, parent=24690017, text='That&#x27;s not completely true. There&#x27;s an order to the parents of a merge commit, and by convention the first parent is the one that was merged &quot;into&quot;.')

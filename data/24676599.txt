@@ -1,0 +1,1 @@
+Item(by='jgelsey', descendants=None, kids=[24677205], score=None, time=1601787057, title=None, item_type='comment', url=None, parent=24676257, text='Practically, you don&#x27;t do a cert for your site, you do it to protect visitors to your site getting compromised by a MITM attack.<p>A site without a cert is basically telling its users &quot;I don&#x27;t care about you.&quot;')

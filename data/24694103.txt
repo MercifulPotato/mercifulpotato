@@ -1,0 +1,1 @@
+Item(by='pansa2', descendants=None, kids=None, score=None, time=1601949712, title=None, item_type='comment', url=None, parent=24693990, text='&gt; You can pass whatever you want into that function<p>Not really. Doing so won&#x27;t cause an error at runtime, but it will produce an error when you run the type checker.')

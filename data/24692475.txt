@@ -1,0 +1,1 @@
+Item(by='The_rationalist', descendants=None, kids=[24692661], score=None, time=1601934931, title=None, item_type='comment', url=None, parent=24691565, text='a number of Python builtins (range, tuple, set, frozenset, list, dict) are now sped up using PEP 590 vectorcall;\nI wonder how much vectorcall improve performance in standard code')

@@ -1,1 +1,1 @@
-Item(by='seattle_spring', descendants=None, kids=None, score=None, time=1601924188, title=None, item_type='comment', url=None, parent=24686564, text='That&#x27;s the bigger sub, but also one that stifles basically all conversation. &#x2F;r&#x2F;fire is the right place imo.')
+Item(by='seattle_spring', descendants=None, kids=[24693023], score=None, time=1601924188, title=None, item_type='comment', url=None, parent=24686564, text='That&#x27;s the bigger sub, but also one that stifles basically all conversation. &#x2F;r&#x2F;fire is the right place imo.')

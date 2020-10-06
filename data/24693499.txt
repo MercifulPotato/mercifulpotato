@@ -1,0 +1,1 @@
+Item(by='MichaelMoser123', descendants=None, kids=[24694060], score=None, time=1601942750, title=None, item_type='comment', url=None, parent=24691565, text='is the performance of the PEG parser really comparable to that of LL(1)? PEG would do a whole lot more backtracking.')

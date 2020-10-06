@@ -1,0 +1,1 @@
+Item(by='jlund-molfese', descendants=None, kids=None, score=None, time=1601929680, title=None, item_type='comment', url=None, parent=24691382, text='If you&#x27;re on Linux, SSHFS is a decent option when you also need to transfer larger files.<p>I like not dealing with latency while typing, so I&#x27;ll usually edit locally and occasionally run the code on the remote server')

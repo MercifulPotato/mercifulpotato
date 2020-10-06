@@ -1,0 +1,1 @@
+Item(by='qeternity', descendants=None, kids=None, score=None, time=1601936189, title=None, item_type='comment', url=None, parent=24692475, text='We’ve not had a chance to properly benchmark because one core dep isn’t compatible but the benchmarks I’ve seen suggest that it’s actually slower overall, but that’s expected to improve.')

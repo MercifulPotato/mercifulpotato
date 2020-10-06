@@ -1,0 +1,1 @@
+Item(by='CGamesPlay', descendants=None, kids=None, score=None, time=1601941758, title=None, item_type='comment', url=None, parent=24693335, text='I recommended dropping vertical margin and instead using exclusively margin-bottom (or padding-bottom) as much as possible. The behavior is generally more intuitive, and you&#x27;ll get the control you&#x27;re looking for.')

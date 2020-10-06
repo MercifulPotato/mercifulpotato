@@ -1,0 +1,1 @@
+Item(by='acjohnson55', descendants=None, kids=[24692509], score=None, time=1601933367, title=None, item_type='comment', url=None, parent=24691981, text='Yeah, same with Cadence&#x2F;Temporal. The one caveat is that you have to move all observable effects into activities so that they can be cached. Under the hood, the engine replays functions to rehydrate them, if necessary.')

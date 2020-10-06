@@ -1,0 +1,1 @@
+Item(by='partyboat1586', descendants=None, kids=None, score=None, time=1601813857, title=None, item_type='comment', url=None, parent=24678329, text='I&#x27;ve worked with Docker before but I found it too resource intensive on my local machine. I now use docker to get consistent deployments but for local dev I find it too heavy. I&#x27;ll have to look into NixOS and Guix')

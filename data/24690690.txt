@@ -1,1 +1,1 @@
-Item(by='nfrankel', descendants=0, kids=None, score=2, time=1601923642, title="Show HN: Kube Dooom, Kill Kubernetes Pods Using Id's Doom", item_type='story', url='https://github.com/storax/kubedoom', parent=None, text=None)
+Item(by='nfrankel', descendants=48, kids=[24691691, 24691667, 24691476, 24692543, 24693106, 24692517, 24691887, 24693065, 24691447, 24692336, 24691958, 24692101, 24692573], score=157, time=1601923642, title="Kube Doom, Kill Kubernetes Pods Using Id's Doom", item_type='story', url='https://github.com/storax/kubedoom', parent=None, text=None)

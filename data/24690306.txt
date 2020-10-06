@@ -1,1 +1,1 @@
-Item(by='WalterBright', descendants=None, kids=None, score=None, time=1601921290, title=None, item_type='comment', url=None, parent=24690138, text='I tell people who show me their smartwatches and features &quot;oh yeah? My watch tells me the time!&quot;')
+Item(by='WalterBright', descendants=None, kids=[24691991], score=None, time=1601921290, title=None, item_type='comment', url=None, parent=24690138, text='I tell people who show me their smartwatches and features &quot;oh yeah? My watch tells me the time!&quot;')

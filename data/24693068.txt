@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=None, score=None, time=1601939447, title=None, item_type='comment', url=None, parent=24692448, text='And yet it is an order of magnitude faster than using the kernel thread scheduler, and you get to keep working thread-locals, normal process ID behavior, etc. It&#x27;s a compromise.')

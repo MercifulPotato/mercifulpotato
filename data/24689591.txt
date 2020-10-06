@@ -1,1 +1,1 @@
-Item(by='tsieling', descendants=None, kids=None, score=None, time=1601917340, title=None, item_type='comment', url=None, parent=24688920, text='Why the email address grab?')
+Item(by='tsieling', descendants=None, kids=[24693416], score=None, time=1601917340, title=None, item_type='comment', url=None, parent=24688920, text='Why the email address grab?')

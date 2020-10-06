@@ -1,0 +1,1 @@
+Item(by='anonymoushn', descendants=None, kids=None, score=None, time=1601817589, title=None, item_type='comment', url=None, parent=24678820, text='Over here it copies the current path or the path to the currently selected file, which is frustrating. My hammerspoon script that tries to do cmd+l has now grown to 5 hotkeys, one of which is executed only conditionally.')

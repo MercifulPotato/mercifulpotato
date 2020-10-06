@@ -1,0 +1,1 @@
+Item(by='emptysea', descendants=None, kids=None, score=None, time=1601948518, title=None, item_type='comment', url=None, parent=24693776, text='Never seen that before. Neat how the bool being a subclass of int pokes out in various ways.<p>A nice side effect is that bools can used with sum:<p><pre><code>    sum(x % 10 for x in range(1000))</code></pre>')

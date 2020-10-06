@@ -1,1 +1,1 @@
-Item(by='moscovium', descendants=None, kids=None, score=None, time=1601919971, title=None, item_type='comment', url=None, parent=24689383, text='Not at all')
+Item(by='moscovium', descendants=None, kids=[24692290], score=None, time=1601919971, title=None, item_type='comment', url=None, parent=24689383, text='Not at all')

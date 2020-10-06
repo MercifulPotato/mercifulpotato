@@ -1,0 +1,1 @@
+Item(by='gridlockd', descendants=None, kids=None, score=None, time=1601933080, title=None, item_type='comment', url=None, parent=24690593, text='There&#x27;s nothing to convert, Excel natively supports CSV. It just doesn&#x27;t read beyond a million lines, it presumably won&#x27;t warn you about that, and if you save the file again (as CSV), the lines will just be gone.')

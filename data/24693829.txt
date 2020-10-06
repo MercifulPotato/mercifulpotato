@@ -1,0 +1,1 @@
+Item(by='ebg13', descendants=None, kids=None, score=None, time=1601946384, title=None, item_type='comment', url=None, parent=24692376, text='&gt; <i>Just use mypy</i><p>Mypy doesn&#x27;t work for code that isn&#x27;t statically available before runtime. Though there are ways to do runtime type checking as well.')

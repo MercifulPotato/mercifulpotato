@@ -1,0 +1,1 @@
+Item(by='divbzero', descendants=None, kids=None, score=None, time=1601935707, title=None, item_type='comment', url=None, parent=24692506, text='<i>str.lstrip</i> and <i>str.rstrip</i> remove characters not strings, so it leads to<p><pre><code>  &#x27;prix fixe&#x27;.lstrip(&#x27;prefix&#x27;)\n</code></pre>\ntruncating <i>&#x27;prix fixe&#x27;</i> to <i>&#x27; fixe&#x27;</i>.')

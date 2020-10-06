@@ -1,0 +1,1 @@
+Item(by='materialized', descendants=0, kids=None, score=1, time=1601937551, title='Hadoop Ingestion', item_type='story', url=None, parent=None, text='For Cloudera customers who are not using NiFi, what are you using for ingestion to Hadoop? Flume is getting deprecated, and I am wondering on my other options.')

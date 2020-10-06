@@ -1,0 +1,1 @@
+Item(by='nneonneo', descendants=None, kids=[24692857, 24692882], score=None, time=1601937125, title=None, item_type='comment', url=None, parent=24692727, text='They do mention that it’s more efficient than lru_cache, which isn’t surprising since cache is a lot simpler (just throw all the values in a dict keyed by the args).')

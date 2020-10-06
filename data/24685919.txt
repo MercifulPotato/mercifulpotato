@@ -1,1 +1,1 @@
-Item(by='unionpivo', descendants=None, kids=[24689529, 24685970], score=None, time=1601889314, title=None, item_type='comment', url=None, parent=24680109, text='What would be the best FPGA entry point today, for hobbyist?<p>I would prefer if tool chain works on linux ?')
+Item(by='unionpivo', descendants=None, kids=[24685970, 24689529], score=None, time=1601889314, title=None, item_type='comment', url=None, parent=24680109, text='What would be the best FPGA entry point today, for hobbyist?<p>I would prefer if tool chain works on linux ?')

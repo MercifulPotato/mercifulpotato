@@ -1,0 +1,1 @@
+Item(by='kccqzy', descendants=None, kids=None, score=None, time=1601937796, title=None, item_type='comment', url=None, parent=24685416, text='They seem to use Stripe to process payments instead of storing payment information themselves, so that might be why.')

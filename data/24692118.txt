@@ -1,0 +1,1 @@
+Item(by='davebarda', descendants=None, kids=None, score=None, time=1601932396, title=None, item_type='comment', url=None, parent=24692117, text='A blog post I wrote about distributed tracing, describing the evolvement from Google Dapper to modern solutions having Jaeger as an example.')
