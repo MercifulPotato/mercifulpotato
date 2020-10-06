@@ -1,0 +1,1 @@
+Item(by='edejong', descendants=None, kids=None, score=None, time=1601985519, title=None, item_type='comment', url=None, parent=24695367, text='I guess the HN audience has voted. The result is: hacking around Excel stupidities is itself a stupid idea.<p>If you want Excel to understand your output, perhaps use a library which can write xlsx files.')

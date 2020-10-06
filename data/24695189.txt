@@ -1,1 +1,1 @@
-Item(by='dt3ft', descendants=None, kids=None, score=None, time=1601965302, title=None, item_type='comment', url=None, parent=24694375, text='&gt; I have no idea who downvoted my post<p>That would be the Excel devs working at Microsoft. They read HN. I can feel it.')
+Item(by='dt3ft', descendants=None, kids=[24696753], score=None, time=1601965302, title=None, item_type='comment', url=None, parent=24694375, text='&gt; I have no idea who downvoted my post<p>That would be the Excel devs working at Microsoft. They read HN. I can feel it.')

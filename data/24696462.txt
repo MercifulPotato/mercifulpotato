@@ -1,0 +1,1 @@
+Item(by='heavenlyblue', descendants=None, kids=[24696642, 24696659], score=None, time=1601982127, title=None, item_type='comment', url=None, parent=24694374, text='Don’t use Celery.<p>It doesn’t solve a single problem that a set of bare queue consumers can’t resolve.')

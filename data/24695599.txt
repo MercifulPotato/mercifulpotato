@@ -1,0 +1,1 @@
+Item(by='OJFord', descendants=None, kids=None, score=None, time=1601971106, title=None, item_type='comment', url=None, parent=24693930, text='Define a protocol where __pow__ returns the type of self, and use that for the argument and return type of this function.')

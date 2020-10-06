@@ -1,0 +1,1 @@
+Item(by='dragonwriter', descendants=None, kids=None, score=None, time=1601970740, title=None, item_type='comment', url=None, parent=24694473, text='&gt; How can I pass whatever I want into that function at runtime, while still satisfying the type checker?<p>Tell the type-checker to buzz-off by any number of means, including # type: ignore')

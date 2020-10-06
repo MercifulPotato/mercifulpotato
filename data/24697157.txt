@@ -1,0 +1,1 @@
+Item(by='ygra', descendants=None, kids=[24697192], score=None, time=1601988856, title=None, item_type='comment', url=None, parent=24696658, text='This seems to have problems with dead keys. Typing &#x27; and then d on US International results in &#x27;d, but doesn&#x27;t count as such and instead is an error.')

@@ -1,0 +1,1 @@
+Item(by='account42', descendants=None, kids=None, score=None, time=1601974144, title=None, item_type='comment', url=None, parent=24695261, text='Interpreting an empty cell as 0 is making an (often correct) assumption about what the user wanted.<p>Throwing away data without warning is almost certainly never what the user wanted.')

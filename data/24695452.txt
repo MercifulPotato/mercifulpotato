@@ -1,0 +1,1 @@
+Item(by='_flux', descendants=None, kids=None, score=None, time=1601969216, title=None, item_type='comment', url=None, parent=24694473, text='You can use the Any type, or you can not annotate at all, though I&#x27;m not sure if the latter is something that passes some stricter modes of e.g. mypy.')

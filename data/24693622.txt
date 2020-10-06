@@ -1,1 +1,1 @@
-Item(by='DonaldPShimoda', descendants=None, kids=None, score=None, time=1601943787, title=None, item_type='comment', url=None, parent=24693365, text='That&#x27;s a neat feature!')
+Item(by='DonaldPShimoda', descendants=None, kids=[24696087], score=None, time=1601943787, title=None, item_type='comment', url=None, parent=24693365, text='That&#x27;s a neat feature!')

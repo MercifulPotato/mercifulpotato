@@ -1,0 +1,1 @@
+Item(by='ukutaht', descendants=None, kids=None, score=None, time=1601990156, title=None, item_type='comment', url=None, parent=24697153, text='The salt is stored in a Postgres database and we run a daily job that generates a new salt and deletes old ones.')

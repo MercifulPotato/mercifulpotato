@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1601973564, title=None, item_type='comment', url=None, parent=24695263, text='First time I saw it was in Smalltalk-80 collections, .NET was yet to be invented:<p><pre><code>    (#(1 2 3 4 5 6) select:[:e | x isPrime]) collect: [:e | 2 * e]</code></pre>')

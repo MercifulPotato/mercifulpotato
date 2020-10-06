@@ -1,0 +1,1 @@
+Item(by='Grue3', descendants=None, kids=[24696478], score=None, time=1601980424, title=None, item_type='comment', url=None, parent=24696047, text='<p><pre><code>    for v in data_values: print v\n</code></pre>\nIs exactly the same length but much more readable.')

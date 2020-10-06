@@ -1,1 +1,1 @@
-Item(by='alexnewman', descendants=None, kids=None, score=None, time=1601944529, title=None, item_type='comment', url=None, parent=24693327, text='Now monetize it with hCaptcha')
+Item(by='alexnewman', descendants=None, kids=[24696580, 24696622], score=None, time=1601944529, title=None, item_type='comment', url=None, parent=24693327, text='Now monetize it with hCaptcha')

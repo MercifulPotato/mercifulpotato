@@ -1,1 +1,1 @@
-Item(by='pizza', descendants=None, kids=None, score=None, time=1601915194, title=None, item_type='comment', url=None, parent=24689166, text='You can update things but in my experience it wasn&#x27;t trivial')
+Item(by='pizza', descendants=None, kids=[24697551], score=None, time=1601915194, title=None, item_type='comment', url=None, parent=24689166, text='You can update things but in my experience it wasn&#x27;t trivial')

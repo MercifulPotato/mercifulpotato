@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1601961100, title=None, item_type='comment', url=None, parent=24694840, text='It’s horrible for Americans, too.')
+Item(by='saagarjha', descendants=None, kids=[24695640], score=None, time=1601961100, title=None, item_type='comment', url=None, parent=24694840, text='It’s horrible for Americans, too.')

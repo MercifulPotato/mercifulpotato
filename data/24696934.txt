@@ -1,0 +1,1 @@
+Item(by='suprfsat', descendants=None, kids=None, score=None, time=1601986977, title=None, item_type='comment', url=None, parent=24696803, text='I would simply take 255 modulo 24 and use 15 rather than require the user to enter a so-called &quot;canonical&quot; encoding of an hour.')

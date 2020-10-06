@@ -1,0 +1,1 @@
+Item(by='dpwm', descendants=None, kids=None, score=None, time=1601981624, title=None, item_type='comment', url=None, parent=24694856, text='I ran into this last week with a UK bank. I was offered a CSV file. What I got was a CSV file with excel formulae in it.<p>I actually wanted a CSV file – preferably without having to resort to sed to strip out excel formulae.')

@@ -1,1 +1,1 @@
-Item(by='crocodiletears', descendants=None, kids=None, score=None, time=1601919493, title=None, item_type='comment', url=None, parent=24689919, text='Facebook Groups are a great alternative to Reddit for people who don&#x27;t like &#x27;reddit people&#x27;.')
+Item(by='crocodiletears', descendants=None, kids=[24695738], score=None, time=1601919493, title=None, item_type='comment', url=None, parent=24689919, text='Facebook Groups are a great alternative to Reddit for people who don&#x27;t like &#x27;reddit people&#x27;.')

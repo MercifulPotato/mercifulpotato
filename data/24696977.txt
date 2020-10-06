@@ -1,0 +1,1 @@
+Item(by='avinassh', descendants=None, kids=[24697695], score=None, time=1601987317, title=None, item_type='comment', url=None, parent=24694374, text='slightly related, how does Celery implements delayed and period tasks internally? Does it use its own (local) data store to keep track of tasks?')

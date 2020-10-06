@@ -1,0 +1,1 @@
+Item(by='imtringued', descendants=None, kids=None, score=None, time=1601972697, title=None, item_type='comment', url=None, parent=24689999, text='You can always add a second or third key. Stop messing with the primary key. Many systems have a numeric primary key and then only expose a hash or UUID to the public.')

@@ -1,0 +1,1 @@
+Item(by='jbkkd', descendants=None, kids=None, score=None, time=1601992799, title=None, item_type='comment', url=None, parent=24696977, text='For delayed tasks, it sends those tasks to the underlying broker, and one of the workers then consumes then without acknowledging the message. That message gets held in the workers&#x27; memory until it should run.')

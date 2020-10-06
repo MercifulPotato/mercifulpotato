@@ -1,0 +1,1 @@
+Item(by='timfi', descendants=None, kids=None, score=None, time=1601981335, title=None, item_type='comment', url=None, parent=24695250, text='Gotta say though that I intuitivly think of the dict union operator x | y as {* * x, * * y}. Which is how I would have joined two dictionaries before, when I wanted to produce a complete copy of one, i.e. not use dict.update.')

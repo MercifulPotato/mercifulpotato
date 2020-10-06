@@ -1,0 +1,1 @@
+Item(by='rutthenut', descendants=None, kids=None, score=None, time=1601989482, title=None, item_type='comment', url=None, parent=24696507, text='If you &#x27;solved for Excel&#x27;, it will be broken for the other applications that may want to use data from those Excel-specific CSV files, which is generally why CSV was chosen in the first place.')

@@ -1,1 +1,1 @@
-Item(by='ArtWomb', descendants=0, kids=None, score=9, time=1601943465, title='Probability and Statistics with Applications to Computing [pdf]', item_type='story', url='https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf', parent=None, text=None)
+Item(by='ArtWomb', descendants=4, kids=[24695715, 24695980], score=42, time=1601943465, title='Probability and Statistics with Applications to Computing [pdf]', item_type='story', url='https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='aloisdg', descendants=None, kids=None, score=None, time=1601968301, title=None, item_type='comment', url=None, parent=24695371, text='Living in Paris. Never heard of &quot;cacounet&quot; as a word for poop.')
+Item(by='aloisdg', descendants=None, kids=[24695664], score=None, time=1601968301, title=None, item_type='comment', url=None, parent=24695371, text='Living in Paris. Never heard of &quot;cacounet&quot; as a word for poop.')
