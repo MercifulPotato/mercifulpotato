@@ -1,1 +1,1 @@
-Item(by='m45t3r', descendants=None, kids=None, score=None, time=1601942585, title=None, item_type='comment', url=None, parent=24692234, text='Any language with reflections needs to evaluate types as something meaningful at runtime.')
+Item(by='m45t3r', descendants=None, kids=[24694230], score=None, time=1601942585, title=None, item_type='comment', url=None, parent=24692234, text='Any language with reflections needs to evaluate types as something meaningful at runtime.')

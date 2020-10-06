@@ -1,1 +1,1 @@
-Item(by='samclemens', descendants=0, kids=None, score=13, time=1601839626, title='The Bleak Resonance of ‘Native Son’', item_type='story', url='https://www.nybooks.com/daily/2020/10/01/the-bleak-resonance-of-native-son/', parent=None, text=None)
+Item(by='samclemens', descendants=1, kids=[24694531], score=15, time=1601839626, title='The Bleak Resonance of ‘Native Son’', item_type='story', url='https://www.nybooks.com/daily/2020/10/01/the-bleak-resonance-of-native-son/', parent=None, text=None)

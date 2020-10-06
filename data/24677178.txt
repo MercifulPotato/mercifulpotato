@@ -1,1 +1,1 @@
-Item(by='oars', descendants=5, kids=[24679614, 24677465, 24677354], score=24, time=1601797738, title='Canonical is now offering a fully Managed Apps service', item_type='story', url='https://ubuntu.com/managed', parent=None, text=None)
+Item(by='oars', descendants=5, kids=[24679614, 24677465, 24677354], score=25, time=1601797738, title='Canonical is now offering a fully Managed Apps service', item_type='story', url='https://ubuntu.com/managed', parent=None, text=None)

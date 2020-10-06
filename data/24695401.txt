@@ -1,0 +1,1 @@
+Item(by='WouterSpaak', descendants=None, kids=None, score=None, time=1601968517, title=None, item_type='comment', url=None, parent=24695392, text='I believe Office will warn you when saving as .xls (or .doc instead of .docx, or .ppt instead of .pptx for that matter) that some data loss may occur. Problem is that nobody reads those warnings and just hits the OK button.')

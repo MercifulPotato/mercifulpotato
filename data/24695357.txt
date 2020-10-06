@@ -1,0 +1,1 @@
+Item(by='lukeramsden', descendants=None, kids=None, score=None, time=1601968009, title=None, item_type='comment', url=None, parent=24695269, text='The extension is not at fault, all it does is rewrite HTTP links to HTTPS (which should be the default IMO, I agree with the parent commenter).\nThe fault is with the site providing a self-signed certificate when accessed over HTTPS.')

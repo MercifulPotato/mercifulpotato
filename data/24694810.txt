@@ -1,0 +1,1 @@
+Item(by='villgax', descendants=None, kids=[24694907], score=None, time=1601960079, title=None, item_type='comment', url=None, parent=24694565, text='The GAN is similar to the one with no supervision to create DeepFake by Aliksandar et al. The catch is that if they move a lot w.r.t. original frame it creates hilarious artefacts. But still great sure if you have GPUs on each end.')

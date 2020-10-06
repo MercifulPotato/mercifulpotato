@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=None, score=None, time=1601957170, title=None, item_type='comment', url=None, parent=24690641, text='Microsoft actually has a reasonable migration path where you can use Excel backed by Access and then transition to Access backed by SQL Server. But you&#x27;d have to recognise that you had a problem first.')

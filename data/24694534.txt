@@ -1,0 +1,1 @@
+Item(by='maple3142', descendants=None, kids=[24695279], score=None, time=1601956103, title=None, item_type='comment', url=None, parent=24694123, text='Matrix, not array.<p><pre><code>    &gt;&gt;&gt; import numpy as np\n    &gt;&gt;&gt; np.mat(((1,0),(0,1)))**2\n    matrix([[1, 0],\n            [0, 1]])</code></pre>')

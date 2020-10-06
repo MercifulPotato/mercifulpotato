@@ -1,1 +1,1 @@
-Item(by='smabie', descendants=None, kids=None, score=None, time=1601947100, title=None, item_type='comment', url=None, parent=24693253, text='So, you&#x27;re saying, that there was a 100% probability of it working?')
+Item(by='smabie', descendants=None, kids=[24695084], score=None, time=1601947100, title=None, item_type='comment', url=None, parent=24693253, text='So, you&#x27;re saying, that there was a 100% probability of it working?')

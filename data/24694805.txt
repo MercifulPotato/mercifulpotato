@@ -1,0 +1,1 @@
+Item(by='reilly3000', descendants=None, kids=[24694963], score=None, time=1601960013, title=None, item_type='comment', url=None, parent=24692201, text='How does this compare to Algolia? I was shocked at the irony when I discovered that Firebase docs recommended using Algolia for full-text search queries over Firebase data.')

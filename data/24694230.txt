@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=None, score=None, time=1601951311, title=None, item_type='comment', url=None, parent=24693484, text='The runtime mirror doesn&#x27;t have to have the same name as the compile-time type. Look at Java where you have to do weird things with class objects to do reflective access.')

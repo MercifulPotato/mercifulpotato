@@ -1,0 +1,1 @@
+Item(by='pansa2', descendants=None, kids=None, score=None, time=1601955029, title=None, item_type='comment', url=None, parent=24694337, text='How can I pass whatever I want into that function <i>at runtime</i>, while still satisfying the type checker?')

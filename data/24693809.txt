@@ -1,1 +1,1 @@
-Item(by='lemonberry', descendants=0, kids=None, score=1, time=1601946101, title='On Mullenweg and the Jamstack – Regression or Future?', item_type='story', url='https://www.netlify.com/blog/2020/09/15/on-mullenweg-and-the-jamstack-regression-or-future/', parent=None, text=None)
+Item(by='lemonberry', descendants=1, kids=[24694073], score=2, time=1601946101, title='On Mullenweg and the Jamstack – Regression or Future?', item_type='story', url='https://www.netlify.com/blog/2020/09/15/on-mullenweg-and-the-jamstack-regression-or-future/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='kiyanwang', descendants=0, kids=None, score=7, time=1601877737, title='Chaos Engineering in Healthcare: Getting Started with Sensitive Workloads', item_type='story', url='https://www.infoq.com/articles/chaos-engineering-healthcare/', parent=None, text=None)
+Item(by='kiyanwang', descendants=1, kids=[24695142], score=21, time=1601877737, title='Chaos Engineering in Healthcare: Getting Started with Sensitive Workloads', item_type='story', url='https://www.infoq.com/articles/chaos-engineering-healthcare/', parent=None, text=None)

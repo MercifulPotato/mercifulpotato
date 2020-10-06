@@ -1,0 +1,1 @@
+Item(by='manigandham', descendants=None, kids=None, score=None, time=1601956934, title=None, item_type='comment', url=None, parent=24694316, text='.NET Core 3 can still use the existing NodeServices package, it&#x27;ll just show `obsolete` warnings. Haven&#x27;t tried with .NET 5 yet but will probably switch to that first linked package.')

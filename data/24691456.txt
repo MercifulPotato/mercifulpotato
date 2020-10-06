@@ -1,1 +1,1 @@
-Item(by='mroche', descendants=0, kids=None, score=2, time=1601928448, title='Nvidia announces RTX A6000 and A40 cards', item_type='story', url='https://blogs.nvidia.com/blog/2020/10/05/nvidia-ampere-pro-graphics/', parent=None, text=None)
+Item(by='mroche', descendants=0, kids=None, score=3, time=1601928448, title='Nvidia announces RTX A6000 and A40 cards', item_type='story', url='https://blogs.nvidia.com/blog/2020/10/05/nvidia-ampere-pro-graphics/', parent=None, text=None)

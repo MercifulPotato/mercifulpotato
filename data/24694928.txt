@@ -1,0 +1,1 @@
+Item(by='8bitsrule', descendants=None, kids=[24694995], score=None, time=1601961510, title=None, item_type='comment', url=None, parent=24689247, text='A DB system that doesn&#x27;t verify that each submitted record has been included in the DB (and scream if it hasn&#x27;t) ... is a DB cruising for a bruising.')

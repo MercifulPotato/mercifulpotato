@@ -1,1 +1,1 @@
-Item(by='ByteJockey', descendants=None, kids=None, score=None, time=1601947959, title=None, item_type='comment', url=None, parent=24693258, text='Could be worse. Could be a 641 line perl script.')
+Item(by='ByteJockey', descendants=None, kids=[24694417], score=None, time=1601947959, title=None, item_type='comment', url=None, parent=24693258, text='Could be worse. Could be a 641 line perl script.')

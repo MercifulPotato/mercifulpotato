@@ -1,0 +1,1 @@
+Item(by='cutler', descendants=None, kids=[24694780], score=None, time=1601955771, title=None, item_type='comment', url=None, parent=24693739, text='Blazor is currenlty hobbled by having to haul its runtime across the wire and is thus not in a position to compete with React or Vue.')

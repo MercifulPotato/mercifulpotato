@@ -1,1 +1,1 @@
-Item(by='hemantv', descendants=None, kids=None, score=None, time=1601925679, title=None, item_type='comment', url=None, parent=24684938, text='There is no pension except military anymore')
+Item(by='hemantv', descendants=None, kids=[24694605], score=None, time=1601925679, title=None, item_type='comment', url=None, parent=24684938, text='There is no pension except military anymore')

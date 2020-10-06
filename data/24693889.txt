@@ -1,1 +1,1 @@
-Item(by='shawnz', descendants=None, kids=None, score=None, time=1601947151, title=None, item_type='comment', url=None, parent=24691889, text='The grid solution in the article has exactly the same problem and they overcome it by taking advantage of selector specificity, which could also be used here.')
+Item(by=None, descendants=None, kids=None, score=None, time=1601947151, title=None, item_type='comment', url=None, parent=24691889, text=None)

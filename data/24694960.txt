@@ -1,0 +1,1 @@
+Item(by='viebel', descendants=None, kids=None, score=None, time=1601961905, title=None, item_type='comment', url=None, parent=24689939, text='Yes. It should be<p>```\nfunction isProlific (data) {\n  return data.books &gt; 100;\n}\n```')
