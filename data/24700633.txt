@@ -1,0 +1,1 @@
+Item(by='cesarb', descendants=None, kids=[24701191], score=None, time=1602007498, title=None, item_type='comment', url=None, parent=24700087, text='&gt; even on 32bit linux systems, time_t is still 64bit<p>No, on 32-bit Linux systems, time_t is 32 bits (except perhaps on newer ports like 32-bit RISC-V).')

@@ -1,1 +1,1 @@
-Item(by='MawKKe', descendants=None, kids=None, score=None, time=1601966956, title=None, item_type='comment', url=None, parent=24692755, text='In that case you should rename the project GObjectJS to avoid further confusion :-)')
+Item(by='MawKKe', descendants=None, kids=[24700366], score=None, time=1601966956, title=None, item_type='comment', url=None, parent=24692755, text='In that case you should rename the project GObjectJS to avoid further confusion :-)')

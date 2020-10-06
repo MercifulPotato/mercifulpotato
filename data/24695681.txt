@@ -1,1 +1,1 @@
-Item(by='tdudzik', descendants=0, kids=None, score=14, time=1601972252, title='Countdown to Scala 3 by Martin Odersky', item_type='story', url='https://www.youtube.com/watch?v=n9LPwOPACj4', parent=None, text=None)
+Item(by='tdudzik', descendants=1, kids=[24699125], score=19, time=1601972252, title='Countdown to Scala 3 by Martin Odersky', item_type='story', url='https://www.youtube.com/watch?v=n9LPwOPACj4', parent=None, text=None)

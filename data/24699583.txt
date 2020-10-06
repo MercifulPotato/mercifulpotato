@@ -1,0 +1,1 @@
+Item(by='adav', descendants=None, kids=[24699713], score=None, time=1602001792, title=None, item_type='comment', url=None, parent=24698334, text='Happy to see easy docker support. But I guess my ideal PaaS would be to just tap in a docker image from a private registry rather than running a Dockerfile from a repo.')

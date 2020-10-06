@@ -1,0 +1,1 @@
+Item(by='janwillemb', descendants=None, kids=[24699482], score=None, time=1602001360, title=None, item_type='comment', url=None, parent=24699389, text='The issue seems to be that the .NET core provider for MySQL that OP uses maps the .NET Timespan type to this MySQL TIME datatype. They probably didn&#x27;t think this through.')

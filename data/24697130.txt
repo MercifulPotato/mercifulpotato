@@ -1,1 +1,1 @@
-Item(by='derwiki', descendants=None, kids=None, score=None, time=1601988574, title=None, item_type='comment', url=None, parent=24697078, text='He required copious amounts of Wild Turkey and cigarettes though')
+Item(by='derwiki', descendants=None, kids=[24698573], score=None, time=1601988574, title=None, item_type='comment', url=None, parent=24697078, text='He required copious amounts of Wild Turkey and cigarettes though')

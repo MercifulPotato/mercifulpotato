@@ -1,1 +1,1 @@
-Item(by='Pet_Ant', descendants=None, kids=None, score=None, time=1601984966, title=None, item_type='comment', url=None, parent=24695874, text='That’s assuming you’ve got a choice. If you are divorced and share a child you are tied down.')
+Item(by='Pet_Ant', descendants=None, kids=[24697226], score=None, time=1601984966, title=None, item_type='comment', url=None, parent=24695874, text='That’s assuming you’ve got a choice. If you are divorced and share a child you are tied down.')

@@ -1,0 +1,1 @@
+Item(by='im3w1l', descendants=None, kids=[24699334, 24699533], score=None, time=1602000103, title=None, item_type='comment', url=None, parent=24698607, text='This sounds like an invariant even an optimizing compiler could find, because it&#x27;s such a common construct. Well... I guess they have an easier job because they can &quot;assume away&quot; signed overflow.')

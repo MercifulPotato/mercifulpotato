@@ -1,0 +1,1 @@
+Item(by='aliswe', descendants=None, kids=None, score=None, time=1601998810, title=None, item_type='comment', url=None, parent=24695370, text='Hello. LINQ isn&#x27;t at all limited to LINQ-to-SQL. That is simply one of the numerous IQueryable providers, which is also possible to implement yourself by doing some expression parsing.<p>And for the record I hate LINQ to SQL.')

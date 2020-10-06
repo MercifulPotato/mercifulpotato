@@ -1,0 +1,1 @@
+Item(by='hackbinary', descendants=None, kids=[24699572], score=None, time=1602000561, title=None, item_type='comment', url=None, parent=24698660, text='I learned the semi hard way on PoC system where the Mysql index corrupted.<p>I was lucky and could simply redeploy my application, but I have never used Mysql since.')

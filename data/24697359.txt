@@ -1,1 +1,1 @@
-Item(by='cafard', descendants=None, kids=None, score=None, time=1601990361, title=None, item_type='comment', url=None, parent=24695764, text='Depends on who is doing the writing on the wall. Lately it mostly seems to be graffiti artists.')
+Item(by='cafard', descendants=None, kids=[24698214], score=None, time=1601990361, title=None, item_type='comment', url=None, parent=24695764, text='Depends on who is doing the writing on the wall. Lately it mostly seems to be graffiti artists.')

@@ -1,1 +1,1 @@
-Item(by='JonathanFly', descendants=None, kids=None, score=None, time=1601987516, title=None, item_type='comment', url=None, parent=24696787, text='Replying from a phone, lying in bed, using voice to text, too sleepy to proof.')
+Item(by='JonathanFly', descendants=None, kids=[24700081], score=None, time=1601987516, title=None, item_type='comment', url=None, parent=24696787, text='Replying from a phone, lying in bed, using voice to text, too sleepy to proof.')

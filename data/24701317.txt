@@ -1,0 +1,1 @@
+Item(by='karmakaze', descendants=None, kids=None, score=None, time=1602011786, title=None, item_type='comment', url=None, parent=24699608, text='It would binary sort weird with negatives &lt; 0 &lt; positives but would put the largest magnitude negative closest to 0.<p>Also not Offset binary which uses 0111 for -1 rather than MySQL&#x27;s 0001.')

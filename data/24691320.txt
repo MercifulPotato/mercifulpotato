@@ -1,1 +1,1 @@
-Item(by='ev1', descendants=None, kids=None, score=None, time=1601927410, title=None, item_type='comment', url=None, parent=24690846, text='HN probably expects a somewhat technical explanation, not a rant about Big Banking being overlords.<p>Even if it might be correct..')
+Item(by='ev1', descendants=None, kids=[24697805], score=None, time=1601927410, title=None, item_type='comment', url=None, parent=24690846, text='HN probably expects a somewhat technical explanation, not a rant about Big Banking being overlords.<p>Even if it might be correct..')

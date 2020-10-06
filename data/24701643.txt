@@ -1,0 +1,1 @@
+Item(by='nullc', descendants=None, kids=None, score=None, time=1602013805, title=None, item_type='comment', url=None, parent=24698947, text='It&#x27;s been a LONG time since I had to administer an SMTP server that handled mail for other people ... Is there a potential for, say, getting an intermediate gateway banned for sending invalid signatures by relaying them via it?')

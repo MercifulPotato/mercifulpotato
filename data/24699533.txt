@@ -1,0 +1,1 @@
+Item(by='mcguire', descendants=None, kids=None, score=None, time=1602001607, title=None, item_type='comment', url=None, parent=24699161, text='Presumably, you are doing something other than just incrementing i in the loop, though.<p>Most of the time with Frama-C, all you have to provide is function pre- and post-conditions and loop invariants.')

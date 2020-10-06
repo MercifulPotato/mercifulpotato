@@ -1,1 +1,1 @@
-Item(by='adonese', descendants=None, kids=None, score=None, time=1601988614, title=None, item_type='comment', url=None, parent=24697117, text='Google constantly suggests you to use chrome')
+Item(by='adonese', descendants=None, kids=[24698297, 24698379, 24698832], score=None, time=1601988614, title=None, item_type='comment', url=None, parent=24697117, text='Google constantly suggests you to use chrome')

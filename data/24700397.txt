@@ -1,0 +1,1 @@
+Item(by='dvfjsdhgfv', descendants=None, kids=None, score=None, time=1602005980, title=None, item_type='comment', url=None, parent=24697105, text='If I remember correctly, in ANSI C int is guaranteed to have the maximum value of only 65,535 when unsigned, so basically bounds checking is a must. Of course it&#x27;s even more important for shorter types like char.')

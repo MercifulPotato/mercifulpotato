@@ -1,1 +1,1 @@
-Item(by='MrXOR', descendants=6, kids=[24696631, 24696804], score=28, time=1601972362, title='Computation of a 30750-Bit Binary Field Discrete Logarithm', item_type='story', url='https://eprint.iacr.org/2020/965', parent=None, text=None)
+Item(by='MrXOR', descendants=16, kids=[24696631, 24696804], score=45, time=1601972362, title='Computation of a 30750-Bit Binary Field Discrete Logarithm', item_type='story', url='https://eprint.iacr.org/2020/965', parent=None, text=None)

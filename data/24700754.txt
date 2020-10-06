@@ -1,0 +1,1 @@
+Item(by='verdverm', descendants=None, kids=None, score=None, time=1602008375, title=None, item_type='comment', url=None, parent=24699912, text='Comments is one, and while JSON5 seems to support them, it does not look widely adopted or maintained. I do not like YamHell either, but prefer to JSON for readability<p>I&#x27;m using Cuelang these days, Dhall is another option')

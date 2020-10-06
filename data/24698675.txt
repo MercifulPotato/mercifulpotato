@@ -1,0 +1,1 @@
+Item(by='nikon', descendants=None, kids=[24698779], score=None, time=1601997899, title=None, item_type='comment', url=None, parent=24698334, text='Bandwidth limits seem excessive?<p>Outbound transfer – 40GiB per app<p>Overall a cool idea. Would personally still prefer GCP Cloud Run which will bill me for request time only and allow me to scale based on requests per second.')

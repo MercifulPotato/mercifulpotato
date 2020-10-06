@@ -1,0 +1,1 @@
+Item(by='mantap', descendants=None, kids=[24697844], score=None, time=1601992897, title=None, item_type='comment', url=None, parent=24697317, text='One wonders why Excel doesn&#x27;t store data as strings (or equivalent lossless format) and process it as numbers like SQLite does for instance.')

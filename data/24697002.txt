@@ -1,1 +1,1 @@
-Item(by='fierarul', descendants=None, kids=None, score=None, time=1601987527, title=None, item_type='comment', url=None, parent=24688057, text='So you are saying in the UK absolutely nobody is working but getting 80% of their salary?')
+Item(by='fierarul', descendants=None, kids=[24699823], score=None, time=1601987527, title=None, item_type='comment', url=None, parent=24688057, text='So you are saying in the UK absolutely nobody is working but getting 80% of their salary?')

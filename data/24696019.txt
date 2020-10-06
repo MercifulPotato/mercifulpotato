@@ -1,1 +1,1 @@
-Item(by='StavrosK', descendants=None, kids=None, score=None, time=1601976284, title=None, item_type='comment', url=None, parent=24696013, text='I&#x27;m not very up to date on the history of WeChat, was it launched as a reaction to US services or did it just grow organically?')
+Item(by='StavrosK', descendants=None, kids=[24699274], score=None, time=1601976284, title=None, item_type='comment', url=None, parent=24696013, text='I&#x27;m not very up to date on the history of WeChat, was it launched as a reaction to US services or did it just grow organically?')

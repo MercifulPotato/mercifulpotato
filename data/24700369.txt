@@ -1,0 +1,1 @@
+Item(by='cma', descendants=None, kids=None, score=None, time=1602005850, title=None, item_type='comment', url=None, parent=24695953, text='Yeah I wish they didn&#x27;t let you do arithmetic on Boolean with int without explicit conversion.  It can be useful, but the explicit conversion isn&#x27;t a large burden and prevents many errors.')

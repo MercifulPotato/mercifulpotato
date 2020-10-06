@@ -1,0 +1,1 @@
+Item(by='KurtMueller', descendants=None, kids=[24701234], score=None, time=1601998152, title=None, item_type='comment', url=None, parent=24694863, text='I guess I&#x27;m being selfish as a developer and thinking about my own ergonomics and dev experience. Is Rails as fast as .NET? Probably not, but if it can serve web pages in under 200ms, it&#x27;s fast enough.')

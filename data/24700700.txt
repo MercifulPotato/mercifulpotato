@@ -1,0 +1,1 @@
+Item(by='gscho', descendants=None, kids=None, score=None, time=1602008046, title=None, item_type='comment', url=None, parent=24700057, text='Just a quick update. We have disabled oAuth2 logins (Github, GitLab and BitBucket) temporarily while we update our configuration settings.')

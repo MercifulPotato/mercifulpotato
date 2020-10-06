@@ -1,0 +1,1 @@
+Item(by='saturn_vk', descendants=None, kids=[24700633], score=None, time=1602004226, title=None, item_type='comment', url=None, parent=24699924, text='That&#x27;s not really a problem though, at least from what i understand. even on 32bit linux systems, time_t is still 64bit. on windows it also seems to be 64bit')

@@ -1,1 +1,1 @@
-Item(by='surajs', descendants=None, kids=None, score=None, time=1601982064, title=None, item_type='comment', url=None, parent=24696381, text='better late than never')
+Item(by='surajs', descendants=None, kids=[24698797], score=None, time=1601982064, title=None, item_type='comment', url=None, parent=24696381, text='better late than never')

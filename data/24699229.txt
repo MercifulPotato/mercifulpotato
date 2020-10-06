@@ -1,0 +1,1 @@
+Item(by='gscho', descendants=None, kids=None, score=None, time=1602000411, title=None, item_type='comment', url=None, parent=24699003, text='Hi! ShuttleOps allows you to create workflows for deploying to Kubernetes without writing YAML manifest files. In that way you could consider it a visual&#x2F;gui for the terraform kubernetes provider, sure!')

@@ -1,0 +1,1 @@
+Item(by='pandemic_region', descendants=None, kids=None, score=None, time=1602011631, title=None, item_type='comment', url=None, parent=24696658, text='Using firefox on Ubuntu with Dvorak layout, this does not work. As soon as i start typing &#x27;CH&#x27; for &#x27;CHAPTER&#x27; a new tab opens that pastes the contents of my clipboard in a google search. Something is off here.')

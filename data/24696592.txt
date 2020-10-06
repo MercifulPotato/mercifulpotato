@@ -1,1 +1,1 @@
-Item(by='LunaSea', descendants=None, kids=None, score=None, time=1601983353, title=None, item_type='comment', url=None, parent=24696566, text='Convenience is what killed the original game&#x27;s atmosphere in the first place.')
+Item(by='LunaSea', descendants=None, kids=[24699182, 24697738, 24698495], score=None, time=1601983353, title=None, item_type='comment', url=None, parent=24696566, text='Convenience is what killed the original game&#x27;s atmosphere in the first place.')

@@ -1,1 +1,1 @@
-Item(by='mtlynch', descendants=0, kids=None, score=2, time=1601990518, title='Building a Homelab VM Server', item_type='story', url='https://mtlynch.io/building-a-vm-homelab/', parent=None, text=None)
+Item(by='mtlynch', descendants=1, kids=[24697443], score=4, time=1601990518, title='Building a Homelab VM Server', item_type='story', url='https://mtlynch.io/building-a-vm-homelab/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='dleslie', descendants=None, kids=None, score=None, time=1602008463, title=None, item_type='comment', url=None, parent=24698165, text='Hey John!<p>I&#x27;m curious; is there any possibility that Scheme will eventually abandon call&#x2F;cc in favour of delimited continuations?')

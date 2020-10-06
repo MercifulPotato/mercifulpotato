@@ -1,1 +1,1 @@
-Item(by='MrXOR', descendants=None, kids=None, score=None, time=1601985337, title=None, item_type='comment', url=None, parent=24696722, text='EDIT: there isn&#x27;t any unpopular opinion :-)<p>Qs: What about AES? RSA first or ECC?')
+Item(by='MrXOR', descendants=None, kids=[24697665], score=None, time=1601985337, title=None, item_type='comment', url=None, parent=24696722, text='EDIT: there isn&#x27;t any unpopular opinion :-)<p>Qs: What about AES? RSA first or ECC?')

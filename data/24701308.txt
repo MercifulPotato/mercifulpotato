@@ -1,0 +1,1 @@
+Item(by='Yeroc', descendants=None, kids=None, score=None, time=1602011755, title=None, item_type='comment', url=None, parent=24701127, text='And there are ways to manipulate RAM access patterns to induce errors as described in the initial Rowhammer attack paper plus later RAMBleed papers.  Hopefully this newer DDR version is designed to be resistant to this type of attack.')

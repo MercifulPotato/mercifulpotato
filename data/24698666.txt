@@ -1,0 +1,1 @@
+Item(by='verdverm', descendants=None, kids=[24698758, 24698707], score=None, time=1601997870, title=None, item_type='comment', url=None, parent=24698326, text='I keep Yaml&#x2F;Helm manifests and templates in git so we can track them. Does this support GitOps based workflows?')

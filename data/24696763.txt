@@ -1,1 +1,1 @@
-Item(by='lima', descendants=None, kids=[24697024, 24696880], score=None, time=1601985434, title=None, item_type='comment', url=None, parent=24696732, text='The issue is that CSVs are untyped and software has to guess the type, sometimes unsuccessfully.')
+Item(by='lima', descendants=None, kids=[24697024, 24696880, 24698871, 24699706], score=None, time=1601985434, title=None, item_type='comment', url=None, parent=24696732, text='The issue is that CSVs are untyped and software has to guess the type, sometimes unsuccessfully.')

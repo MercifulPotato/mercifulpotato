@@ -1,0 +1,1 @@
+Item(by='stevepike', descendants=None, kids=None, score=None, time=1602001249, title=None, item_type='comment', url=None, parent=24699335, text='Yeah, there&#x27;s a whole category of apps that run on heroku with maybe 10 dynos tops that could definitely be deployed on kubernetes with manual &#x2F; web ui-based configuration.')
