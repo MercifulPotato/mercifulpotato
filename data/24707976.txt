@@ -1,1 +1,1 @@
-Item(by='akerro', descendants=None, kids=None, score=None, time=1602077563, title=None, item_type='comment', url=None, parent=24707407, text='I would change shipping to &quot;Availability&quot; which is a list of country tags. Great idea, bookmarking it')
+Item(by='akerro', descendants=None, kids=[24708265], score=None, time=1602077563, title=None, item_type='comment', url=None, parent=24707407, text='I would change shipping to &quot;Availability&quot; which is a list of country tags. Great idea, bookmarking it')

@@ -1,0 +1,1 @@
+Item(by='dralley', descendants=None, kids=None, score=None, time=1602095082, title=None, item_type='comment', url=None, parent=24710048, text='&gt;I see things on the libm side that are not in the java package, like fpclassify, gamma or jN.<p>Which were added in C99, which postdates the initial release of Java.')

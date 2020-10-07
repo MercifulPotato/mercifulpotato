@@ -1,0 +1,1 @@
+Item(by='CydeWeys', descendants=None, kids=[24711745], score=None, time=1602097858, title=None, item_type='comment', url=None, parent=24711390, text='It&#x27;s a bigger lift than just switching from TCP to QUIC though.<p>And there&#x27;s other reasons you wouldn&#x27;t want to use as many connections as you have assets to download; each connection has startup overhead.')

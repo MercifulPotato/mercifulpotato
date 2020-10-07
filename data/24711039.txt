@@ -1,0 +1,1 @@
+Item(by='chrisbrauns', descendants=None, kids=[24711292], score=None, time=1602094605, title=None, item_type='comment', url=None, parent=24710971, text='I&#x27;m not sure client&#x27;s time wasted is the right way to measure. For example, I would prioritize a high-risk security related bug (regardless of its effect on my systems performance) over a memory leak.')

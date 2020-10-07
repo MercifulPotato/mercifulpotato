@@ -1,0 +1,1 @@
+Item(by='alxlu', descendants=None, kids=None, score=None, time=1602085481, title=None, item_type='comment', url=None, parent=24706099, text='In chrome if you create a custom search engine and and set the url to javascript: it will focus to the page. I set it to the letter j, so if I ever hit ctrl+l and change my mind, I just hit j then Enter to refocus the page.')

@@ -1,0 +1,1 @@
+Item(by='mahkoh', descendants=None, kids=[24711541], score=None, time=1602096414, title=None, item_type='comment', url=None, parent=24711206, text='Why would I have to edit dns records manually? I have a cron job that tries to renew the certificate once a day. There is no manual work involved.')

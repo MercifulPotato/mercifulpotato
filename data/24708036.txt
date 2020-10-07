@@ -1,1 +1,1 @@
-Item(by='umvi', descendants=None, kids=None, score=None, time=1602078007, title=None, item_type='comment', url=None, parent=24707407, text='It says this site is 100% free. Is your plan to run it as a public service like Wikipedia or something?')
+Item(by='umvi', descendants=None, kids=[24708113, 24708284], score=None, time=1602078007, title=None, item_type='comment', url=None, parent=24707407, text='It says this site is 100% free. Is your plan to run it as a public service like Wikipedia or something?')

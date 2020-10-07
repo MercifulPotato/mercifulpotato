@@ -1,1 +1,1 @@
-Item(by='lordfoo', descendants=None, kids=None, score=None, time=1602077800, title=None, item_type='comment', url=None, parent=24707612, text='Mirrors flip things front-to-back')
+Item(by='lordfoo', descendants=None, kids=[24708104], score=None, time=1602077800, title=None, item_type='comment', url=None, parent=24707612, text='Mirrors flip things front-to-back')

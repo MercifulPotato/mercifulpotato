@@ -1,0 +1,1 @@
+Item(by='moldavi', descendants=None, kids=None, score=None, time=1602089626, title=None, item_type='comment', url=None, parent=24703061, text='Anything I can read up on why fragmentation is so expensive? My naive brain keeps saying &quot;why not use a hash map of lists, by size&quot; but I know I&#x27;m missing something.')

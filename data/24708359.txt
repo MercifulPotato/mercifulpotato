@@ -1,1 +1,1 @@
-Item(by='the-dude', descendants=None, kids=None, score=None, time=1602079686, title=None, item_type='comment', url=None, parent=24708320, text='That is what I said : Number prefixes in titles are automagically removed. Indeed it seems a mod removed the &#x27;Shirts&#x27; later.')
+Item(by='the-dude', descendants=None, kids=[24709307], score=None, time=1602079686, title=None, item_type='comment', url=None, parent=24708320, text='That is what I said : Number prefixes in titles are automagically removed. Indeed it seems a mod removed the &#x27;Shirts&#x27; later.')

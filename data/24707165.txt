@@ -1,1 +1,1 @@
-Item(by='rezeroed', descendants=None, kids=None, score=None, time=1602070097, title=None, item_type='comment', url=None, parent=24699350, text='You&#x27;re news-flashing me?  I know what east and west are, hence the explanation for a name that currently makes no sense.')
+Item(by='rezeroed', descendants=None, kids=[24709546], score=None, time=1602070097, title=None, item_type='comment', url=None, parent=24699350, text='You&#x27;re news-flashing me?  I know what east and west are, hence the explanation for a name that currently makes no sense.')

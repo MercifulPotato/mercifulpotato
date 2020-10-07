@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=None, score=None, time=1602091842, title=None, item_type='comment', url=None, parent=24710492, text='The actual history of &quot;open&quot; contributions to the Linux TCP stack is one of vehement opposition. Basic things like SYN retransmission remain hard-coded to constants that were (arguably) appropriate in the 1970s.')

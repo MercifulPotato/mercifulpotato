@@ -1,0 +1,1 @@
+Item(by='jtchang', descendants=None, kids=None, score=None, time=1602099127, title=None, item_type='comment', url=None, parent=24711094, text='Random question but why is it called memoization instead of just caching? Isn&#x27;t it the same thing? For some reason I never ran across the word memoization when I was doing CS a number of years ago.')

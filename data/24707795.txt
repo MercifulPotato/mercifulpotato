@@ -1,1 +1,1 @@
-Item(by='frosted-flakes', descendants=None, kids=None, score=None, time=1602076362, title=None, item_type='comment', url=None, parent=24706275, text='Believing in god(s) and believing in religion is the same thing, is it not?')
+Item(by='frosted-flakes', descendants=None, kids=[24708950], score=None, time=1602076362, title=None, item_type='comment', url=None, parent=24706275, text='Believing in god(s) and believing in religion is the same thing, is it not?')

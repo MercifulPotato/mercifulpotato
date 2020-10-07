@@ -1,0 +1,1 @@
+Item(by='tekknolagi', descendants=None, kids=None, score=None, time=1602097365, title=None, item_type='comment', url=None, parent=24711384, text='I am doing this for clarity. I could have used nil as the false value and not-nil as the true values. Except for wasting pointer space, I don&#x27;t think it really matters ¯\\_(ツ)_&#x2F;¯')

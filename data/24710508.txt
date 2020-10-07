@@ -1,0 +1,1 @@
+Item(by='throwingtt', descendants=None, kids=None, score=None, time=1602091443, title=None, item_type='comment', url=None, parent=24699534, text='Your rabbitmq connection churn should be at zero pretty much all the time. If you&#x27;re seeing connection churn increase with volume you need to fix your client code.')

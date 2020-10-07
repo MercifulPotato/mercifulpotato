@@ -1,0 +1,1 @@
+Item(by='mercora', descendants=None, kids=None, score=None, time=1602090774, title=None, item_type='comment', url=None, parent=24710314, text='not sure about any details but i would guess its because for HTTPS there are security implications by doing negotiation in the clear whereas this probably doesn&#x27;t have those.')

@@ -1,1 +1,1 @@
-Item(by='bot41', descendants=None, kids=None, score=None, time=1602066540, title=None, item_type='comment', url=None, parent=24706103, text='Well they all have headquarters&#x2F;offices in my city..')
+Item(by='bot41', descendants=None, kids=[24709842], score=None, time=1602066540, title=None, item_type='comment', url=None, parent=24706103, text='Well they all have headquarters&#x2F;offices in my city..')

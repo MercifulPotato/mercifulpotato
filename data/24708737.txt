@@ -1,1 +1,1 @@
-Item(by='richardwhiuk', descendants=None, kids=None, score=None, time=1602081715, title=None, item_type='comment', url=None, parent=24707894, text='I think the author is actually saying they weren&#x27;t productive at the start.')
+Item(by='richardwhiuk', descendants=None, kids=[24709906], score=None, time=1602081715, title=None, item_type='comment', url=None, parent=24707894, text='I think the author is actually saying they weren&#x27;t productive at the start.')

@@ -1,0 +1,1 @@
+Item(by='coddle-hark', descendants=None, kids=[24711106], score=None, time=1602093671, title=None, item_type='comment', url=None, parent=24710807, text='Let’s Encrypt can’t generate certificates for localhost, much less containers accessed via a local network.<p>Sure, you can get anything to work, but it WILL be a huge PITA.')

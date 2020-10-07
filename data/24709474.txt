@@ -1,0 +1,1 @@
+Item(by='Plugawy', descendants=None, kids=None, score=None, time=1602086141, title=None, item_type='comment', url=None, parent=24708201, text='AFAIK there&#x27;s no RabbitMQ-compatible broker, unless you use AMQP 1.0 in RabbitMQ right now. Their AMQP 0.9 implementation has a lot of RMQ-specific stuff and there&#x27;s no equivalent.')

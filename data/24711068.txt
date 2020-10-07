@@ -1,0 +1,1 @@
+Item(by='GordonS', descendants=None, kids=None, score=None, time=1602094781, title=None, item_type='comment', url=None, parent=24698931, text='Someone already mentioned GitHub Pages. I&#x27;m pretty sure Azure supports serving static sites straight from Blob Storage too - put Cloudflare in front, and you should be able to host dozens of static sites for a few pennies a month.')

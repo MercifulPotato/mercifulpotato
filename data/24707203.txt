@@ -1,1 +1,1 @@
-Item(by='nindalf', descendants=None, kids=None, score=None, time=1602070577, title=None, item_type='comment', url=None, parent=24706903, text='&gt; I think 6 years should be enough<p>I’m guessing you don’t know very many Indians?')
+Item(by='nindalf', descendants=None, kids=[24710926], score=None, time=1602070577, title=None, item_type='comment', url=None, parent=24706903, text='&gt; I think 6 years should be enough<p>I’m guessing you don’t know very many Indians?')

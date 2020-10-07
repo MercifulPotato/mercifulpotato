@@ -1,0 +1,1 @@
+Item(by='The_rationalist', descendants=None, kids=None, score=None, time=1602095987, title=None, item_type='comment', url=None, parent=24709868, text='Unrelated: chromium 86 bring the backforward cache which make back navigation instantaneous in many cases, this was I believe, the biggest optimization that was Firefox only')

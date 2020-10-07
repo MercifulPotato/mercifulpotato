@@ -1,1 +1,1 @@
-Item(by='0d311', descendants=None, kids=None, score=None, time=1602076651, title=None, item_type='comment', url=None, parent=24707468, text='At the end of the article they say they’re releasing the source code, does anyone know where?')
+Item(by='0d311', descendants=None, kids=[24708180], score=None, time=1602076651, title=None, item_type='comment', url=None, parent=24707468, text='At the end of the article they say they’re releasing the source code, does anyone know where?')

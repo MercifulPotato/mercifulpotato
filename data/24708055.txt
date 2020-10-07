@@ -1,1 +1,1 @@
-Item(by='ginko', descendants=None, kids=None, score=None, time=1602078088, title=None, item_type='comment', url=None, parent=24708026, text='Looks like 25% of the volume are unnecessary design elements like those weird fins.')
+Item(by='ginko', descendants=None, kids=[24712332, 24708131, 24709548, 24708094], score=None, time=1602078088, title=None, item_type='comment', url=None, parent=24708026, text='Looks like 25% of the volume are unnecessary design elements like those weird fins.')

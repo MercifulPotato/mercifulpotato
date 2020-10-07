@@ -1,0 +1,1 @@
+Item(by='coddle-hark', descendants=None, kids=None, score=None, time=1602101087, title=None, item_type='comment', url=None, parent=24711812, text='That’s not quite right. It greatly reduces the handshake time for new connections, but\nit adds more network overhead (more bytes sent) than TCP. TCP doesn’t “block” any more than QUIC.')

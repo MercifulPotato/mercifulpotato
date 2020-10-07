@@ -1,0 +1,1 @@
+Item(by='tpmx', descendants=None, kids=[24709433, 24709348, 24710247], score=None, time=1602084569, title=None, item_type='comment', url=None, parent=24709116, text='It could get the current time via NTP on startup. It complicates the startup sequence though.<p>Perhaps it&#x27;s primarily for validating signatures from discs in an offline scenario.')

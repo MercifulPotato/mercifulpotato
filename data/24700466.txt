@@ -1,1 +1,1 @@
-Item(by='bookofjoe', descendants=0, kids=None, score=15, time=1602006478, title='Roadside stand in rural SE Pennsylvania offers 320 varieties of tomatoes', item_type='story', url='https://www.atlasobscura.com/places/rainbow-tomatoes-garden', parent=None, text=None)
+Item(by='bookofjoe', descendants=1, kids=[24711290], score=17, time=1602006478, title='Roadside stand in rural SE Pennsylvania offers 320 varieties of tomatoes', item_type='story', url='https://www.atlasobscura.com/places/rainbow-tomatoes-garden', parent=None, text=None)

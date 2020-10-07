@@ -1,0 +1,1 @@
+Item(by='neurostimulant', descendants=None, kids=None, score=None, time=1602098604, title=None, item_type='comment', url=None, parent=24711206, text='ACME supports multiple challenge types. The most popular is the HTTP-01 challenge, but there is also the DNS-01 challenge (via TXT record) which allows validation without exposing your webserver to the internet.')

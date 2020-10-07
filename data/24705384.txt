@@ -1,1 +1,1 @@
-Item(by='exclipy', descendants=None, kids=None, score=None, time=1602045879, title=None, item_type='comment', url=None, parent=24705234, text='Everything you said makes a lot of sense. But how do we stop monopolistic behaviour?')
+Item(by='exclipy', descendants=None, kids=[24710499], score=None, time=1602045879, title=None, item_type='comment', url=None, parent=24705234, text='Everything you said makes a lot of sense. But how do we stop monopolistic behaviour?')
