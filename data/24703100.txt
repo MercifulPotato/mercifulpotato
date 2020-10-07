@@ -1,1 +1,1 @@
-Item(by='swiley', descendants=None, kids=None, score=None, time=1602023233, title=None, item_type='comment', url=None, parent=24703068, text='You can&#x27;t even trust hardware manufacturers to get audio drivers right, why would you ever trust them with something like this?')
+Item(by='swiley', descendants=None, kids=[24708425], score=None, time=1602023233, title=None, item_type='comment', url=None, parent=24703068, text='You can&#x27;t even trust hardware manufacturers to get audio drivers right, why would you ever trust them with something like this?')

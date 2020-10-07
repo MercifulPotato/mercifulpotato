@@ -1,0 +1,1 @@
+Item(by='znpy', descendants=None, kids=None, score=None, time=1602062603, title=None, item_type='comment', url=None, parent=24706478, text='Heroku had a free tier for their managed postgres.<p>Not sure if you can expose it to the public internet or if you have to also deploy your app on heroku though.')

@@ -1,0 +1,1 @@
+Item(by='philistine', descendants=None, kids=None, score=None, time=1602079242, title=None, item_type='comment', url=None, parent=24707749, text='I think the rate-limiting is done in hardware by the Secure Enclave itself. It cannot physically respond any faster than it does right now.')

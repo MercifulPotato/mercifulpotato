@@ -1,1 +1,1 @@
-Item(by='guidedlight', descendants=None, kids=None, score=None, time=1602020874, title=None, item_type='comment', url=None, parent=24702641, text='“Van” is part of the surname. It means “of” or “from” in Dutch. It’s similar to “De” prefixed to Spanish surnames.')
+Item(by='guidedlight', descendants=None, kids=[24706604], score=None, time=1602020874, title=None, item_type='comment', url=None, parent=24702641, text='“Van” is part of the surname. It means “of” or “from” in Dutch. It’s similar to “De” prefixed to Spanish surnames.')

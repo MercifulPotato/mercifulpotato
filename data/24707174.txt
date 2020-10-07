@@ -1,0 +1,1 @@
+Item(by='barrkel', descendants=None, kids=[24707296], score=None, time=1602070167, title=None, item_type='comment', url=None, parent=24706545, text='HTML mostly ends up rendering text and images, and you have to mess up really hard to lose both of those.<p>Typically what breaks is styling. It might not be pretty, but it may still be functional.')

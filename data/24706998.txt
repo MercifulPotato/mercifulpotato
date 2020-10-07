@@ -1,0 +1,1 @@
+Item(by='account42', descendants=None, kids=None, score=None, time=1602068077, title=None, item_type='comment', url=None, parent=24704497, text='That wouldn&#x27;t work here (well it wouldn&#x27;t without the return) as that would mean the break would apply to the loop and not the switch statement.<p>In genereal, I think hiding control flow in macros is a bad idea.')

@@ -1,1 +1,1 @@
-Item(by='tester34', descendants=None, kids=None, score=None, time=1602056475, title=None, item_type='comment', url=None, parent=24705634, text='&quot;Here&quot; we tend to say that there&#x27;s always shortage of __specialists__(senior, ninja, shaman devs).')
+Item(by='tester34', descendants=None, kids=[24706943], score=None, time=1602056475, title=None, item_type='comment', url=None, parent=24705634, text='&quot;Here&quot; we tend to say that there&#x27;s always shortage of __specialists__(senior, ninja, shaman devs).')

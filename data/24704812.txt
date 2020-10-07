@@ -1,1 +1,1 @@
-Item(by='matz1', descendants=None, kids=None, score=None, time=1602038297, title=None, item_type='comment', url=None, parent=24704001, text='Whatever situation you vote for there always a trade off.')
+Item(by='matz1', descendants=None, kids=[24707907], score=None, time=1602038297, title=None, item_type='comment', url=None, parent=24704001, text='Whatever situation you vote for there always a trade off.')

@@ -1,1 +1,1 @@
-Item(by='mcao', descendants=0, kids=None, score=2, time=1602047912, title='Show HN: Astrofox – I made my motion graphics app open-source', item_type='story', url='https://github.com/astrofox-io/astrofox', parent=None, text=None)
+Item(by='mcao', descendants=1, kids=[24707128, 24706270], score=7, time=1602047912, title='Show HN: Astrofox – I made my motion graphics app open-source', item_type='story', url='https://github.com/astrofox-io/astrofox', parent=None, text=None)

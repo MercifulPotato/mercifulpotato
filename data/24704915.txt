@@ -1,1 +1,1 @@
-Item(by='tjalfi', descendants=2, kids=[24705560], score=26, time=1602039675, title='The Origin of the VM/370 Time-Sharing System (1981) [pdf]', item_type='story', url='http://lass.cs.umass.edu/~shenoy/courses/fall07/papers/vm370.pdf', parent=None, text=None)
+Item(by='tjalfi', descendants=9, kids=[24707895, 24706936, 24706734, 24705560, 24706524], score=38, time=1602039675, title='The Origin of the VM/370 Time-Sharing System (1981) [pdf]', item_type='story', url='http://lass.cs.umass.edu/~shenoy/courses/fall07/papers/vm370.pdf', parent=None, text=None)

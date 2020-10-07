@@ -1,0 +1,1 @@
+Item(by='Deukhoofd', descendants=None, kids=[24707639, 24706643, 24706742], score=None, time=1602063356, title=None, item_type='comment', url=None, parent=24699448, text='The script you included doesn&#x27;t actually work, as you&#x27;re comparing a string with an integer. It will always return false.')

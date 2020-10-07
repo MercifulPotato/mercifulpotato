@@ -1,1 +1,1 @@
-Item(by='jacobush', descendants=None, kids=None, score=None, time=1602057015, title=None, item_type='comment', url=None, parent=24704861, text='Hilton Hotel heir something something TV show?')
+Item(by='jacobush', descendants=None, kids=[24706461], score=None, time=1602057015, title=None, item_type='comment', url=None, parent=24704861, text='Hilton Hotel heir something something TV show?')

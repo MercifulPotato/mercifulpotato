@@ -1,0 +1,1 @@
+Item(by='account42', descendants=None, kids=None, score=None, time=1602062447, title=None, item_type='comment', url=None, parent=24670197, text='Should companies ask for permissions before they employ someone to send pull requests to public repos?<p>I think the problem was not as much incentivizing pull requests but incentivizing low effort pull requests and outright spam.')

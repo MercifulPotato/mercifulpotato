@@ -1,0 +1,1 @@
+Item(by='ForHackernews', descendants=None, kids=None, score=None, time=1602074452, title=None, item_type='comment', url=None, parent=24706970, text='&gt;  A bazillion failing builds would open some eyes IMO.<p>No it wouldn&#x27;t. Lawyers and executives don&#x27;t care about your error-prone CI&#x2F;CD pipeline.')

@@ -1,1 +1,1 @@
-Item(by='gjvc', descendants=1, kids=[24705786], score=16, time=1602022533, title='Magic-Wormhole: Get Things from One Computer to Another, Safely', item_type='story', url='https://github.com/warner/magic-wormhole', parent=None, text=None)
+Item(by='gjvc', descendants=2, kids=[24707298, 24705786], score=22, time=1602022533, title='Magic-Wormhole: Get Things from One Computer to Another, Safely', item_type='story', url='https://github.com/warner/magic-wormhole', parent=None, text=None)

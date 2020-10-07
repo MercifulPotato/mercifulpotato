@@ -1,1 +1,1 @@
-Item(by='loosetypes', descendants=None, kids=None, score=None, time=1602059689, title=None, item_type='comment', url=None, parent=24704386, text='Someone in robotics once told me that successful automation looks like a dishwasher.<p>It’s stuck with me.')
+Item(by='loosetypes', descendants=None, kids=[24706460], score=None, time=1602059689, title=None, item_type='comment', url=None, parent=24704386, text='Someone in robotics once told me that successful automation looks like a dishwasher.<p>It’s stuck with me.')

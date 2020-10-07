@@ -1,0 +1,1 @@
+Item(by='account42', descendants=None, kids=None, score=None, time=1602077720, title=None, item_type='comment', url=None, parent=24687583, text='nginx can do fcgi natively too, fcgiwrap is a fcgi application that forwards requests to cgi scripts.')

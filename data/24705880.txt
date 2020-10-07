@@ -1,1 +1,1 @@
-Item(by='lipanski', descendants=0, kids=None, score=2, time=1602053073, title='Some things you should know about eager loading in ActiveRecord', item_type='story', url='https://lipanski.com/posts/activerecord-eager-loading', parent=None, text=None)
+Item(by='lipanski', descendants=0, kids=None, score=3, time=1602053073, title='Some things you should know about eager loading in ActiveRecord', item_type='story', url='https://lipanski.com/posts/activerecord-eager-loading', parent=None, text=None)
