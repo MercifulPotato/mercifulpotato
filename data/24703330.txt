@@ -1,1 +1,1 @@
-Item(by='dwighttk', descendants=None, kids=None, score=None, time=1602024733, title=None, item_type='comment', url=None, parent=24702874, text='nice... seems to work in Safari (Mac) despite being chromeexperiments.com')
+Item(by='dwighttk', descendants=None, kids=[24704834, 24704908], score=None, time=1602024733, title=None, item_type='comment', url=None, parent=24702874, text='nice... seems to work in Safari (Mac) despite being chromeexperiments.com')

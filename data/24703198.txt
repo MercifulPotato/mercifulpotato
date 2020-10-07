@@ -1,1 +1,1 @@
-Item(by='barbs', descendants=None, kids=None, score=None, time=1602023995, title=None, item_type='comment', url=None, parent=24703180, text='The article is about a browser plugin, it doesn&#x27;t state anywhere that Vim is more efficient at writing code.')
+Item(by='barbs', descendants=None, kids=[24705950], score=None, time=1602023995, title=None, item_type='comment', url=None, parent=24703180, text='The article is about a browser plugin, it doesn&#x27;t state anywhere that Vim is more efficient at writing code.')

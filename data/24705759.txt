@@ -1,0 +1,1 @@
+Item(by='jmnicolas', descendants=None, kids=None, score=None, time=1602051623, title=None, item_type='comment', url=None, parent=24698660, text='IIRC there was also another problem with MySQL and .NET: MySQL used the year 0 as an uninitialized DateTime but .NET starts at year 1.<p>I think the workaround was to pass some parameter in the connection string.')

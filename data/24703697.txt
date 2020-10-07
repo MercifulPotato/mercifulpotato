@@ -1,1 +1,1 @@
-Item(by='waynesoftware', descendants=0, kids=None, score=2, time=1602027161, title="Gitlab scans its customers' source code, finds it's as fragile as you'd expect", item_type='story', url='https://www.theregister.com/2020/10/06/gitlab_scans_customer_code_finds/', parent=None, text=None)
+Item(by='waynesoftware', descendants=0, kids=None, score=4, time=1602027161, title="Gitlab scans its customers' source code, finds it's as fragile as you'd expect", item_type='story', url='https://www.theregister.com/2020/10/06/gitlab_scans_customer_code_finds/', parent=None, text=None)

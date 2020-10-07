@@ -1,0 +1,1 @@
+Item(by='missblit', descendants=None, kids=[24706223], score=None, time=1602054710, title=None, item_type='comment', url=None, parent=24705104, text='Not sure strict CSS parsing would have avoided this issue, since you could just surround what the purifier thought was a style text node with &#x2F;* and *&#x2F; (which is valid CSS, being a comment)')

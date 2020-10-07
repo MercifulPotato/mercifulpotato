@@ -1,0 +1,1 @@
+Item(by='KsassPeuk', descendants=None, kids=None, score=None, time=1602054227, title=None, item_type='comment', url=None, parent=24698607, text='In fact that would be<p>```\n0 &lt;= i &lt;= n\n```<p>As the loop reaches this value to terminate. Else, we could not deduce for example that `i = n` at the end of the loop (`0 &lt;= i &lt;= n &amp;&amp; !(i &lt; n)`).')

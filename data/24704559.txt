@@ -1,1 +1,1 @@
-Item(by='troydavis', descendants=None, kids=None, score=None, time=1602035777, title=None, item_type='comment', url=None, parent=24704542, text='A real view of how someone reacts to an unintentional home fire - and how a small fire becomes a catastrophic one.')
+Item(by='troydavis', descendants=None, kids=[24704959], score=None, time=1602035777, title=None, item_type='comment', url=None, parent=24704542, text='A real view of how someone reacts to an unintentional home fire - and how a small fire becomes a catastrophic one.')

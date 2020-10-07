@@ -1,1 +1,1 @@
-Item(by='alexellisuk', descendants=None, kids=None, score=None, time=1602013634, title=None, item_type='comment', url=None, parent=24700837, text='Google&#x27;s Cloud Run the SaaS doesn&#x27;t use KNative + K8s under the hood. It just uses a compatible HTTP API.')
+Item(by='alexellisuk', descendants=None, kids=[24704933], score=None, time=1602013634, title=None, item_type='comment', url=None, parent=24700837, text='Google&#x27;s Cloud Run the SaaS doesn&#x27;t use KNative + K8s under the hood. It just uses a compatible HTTP API.')

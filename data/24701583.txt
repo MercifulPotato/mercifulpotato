@@ -1,1 +1,1 @@
-Item(by='Florin_Andrei', descendants=None, kids=None, score=None, time=1602013522, title=None, item_type='comment', url=None, parent=24699191, text='I used to see literally this same comment as far back as 10 years ago, maybe more.<p>Just saying - I have no horse in this race.')
+Item(by='Florin_Andrei', descendants=None, kids=[24705214], score=None, time=1602013522, title=None, item_type='comment', url=None, parent=24699191, text='I used to see literally this same comment as far back as 10 years ago, maybe more.<p>Just saying - I have no horse in this race.')

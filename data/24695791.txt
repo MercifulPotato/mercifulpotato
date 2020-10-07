@@ -1,1 +1,1 @@
-Item(by='Nazzareno', descendants=None, kids=None, score=None, time=1601973490, title=None, item_type='comment', url=None, parent=24692201, text='They claim &quot;pay a low price for an ad-free experience&quot;, but what is the price?')
+Item(by='Nazzareno', descendants=None, kids=[24706139], score=None, time=1601973490, title=None, item_type='comment', url=None, parent=24692201, text='They claim &quot;pay a low price for an ad-free experience&quot;, but what is the price?')

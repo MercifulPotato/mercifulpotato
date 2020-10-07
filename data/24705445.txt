@@ -1,0 +1,1 @@
+Item(by='throwaway189262', descendants=None, kids=[24705466], score=None, time=1602046640, title=None, item_type='comment', url=None, parent=24705407, text='I really doubt it. Loading HTML fragments was the norm with AJAX. Part of the DHTML days. It makes more sense to have UI logic in the client.')

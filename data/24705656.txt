@@ -1,0 +1,1 @@
+Item(by='continuational', descendants=None, kids=None, score=None, time=1602050031, title=None, item_type='comment', url=None, parent=24705596, text='You simply never use string concatenation to produce HTML, CSS, JS, SQL, etc.<p>Instead, use e.g. an HTML library that automatically escapes strings. Then you don&#x27;t even have to think about it.')

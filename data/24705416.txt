@@ -1,0 +1,1 @@
+Item(by='cabalamat', descendants=None, kids=None, score=None, time=1602046221, title=None, item_type='comment', url=None, parent=24698334, text='Does this work with MongoDB? The documentation seems to imply you can only use MySQL, Redis, or PostgreSQL.')

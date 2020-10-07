@@ -1,0 +1,1 @@
+Item(by='bawolff', descendants=None, kids=None, score=None, time=1602051678, title=None, item_type='comment', url=None, parent=24704266, text='Last i checked, it was only used for stuff provided to the user themselves (so a bypass in dompurify would allow you to xss yourself but not others.). However that was a long time ago, so im not sure what the current state is.')

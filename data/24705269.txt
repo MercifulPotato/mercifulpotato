@@ -1,0 +1,1 @@
+Item(by='sergeykish', descendants=None, kids=None, score=None, time=1602044481, title=None, item_type='comment', url=None, parent=24704337, text='That&#x27;s XHTML encoding. It would survive round trip if host document was XHTML.')

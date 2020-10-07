@@ -1,0 +1,1 @@
+Item(by='minitech', descendants=None, kids=[24705136, 24705104], score=None, time=1602041125, title=None, item_type='comment', url=None, parent=24704251, text='It (thinks it) can’t do that because &lt;style&gt; introduces a special parsing mode where those character references would be interpreted literally.')

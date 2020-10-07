@@ -1,1 +1,1 @@
-Item(by='one-possibility', descendants=0, kids=None, score=2, time=1602020299, title='The Cat-and-Mouse Game of the Modern Penalty Kick', item_type='story', url='https://www.theringer.com/2020/10/1/21496031/panenka-penalty-kick-passe-var', parent=None, text=None)
+Item(by='one-possibility', descendants=7, kids=[24706070, 24705833, 24706015], score=19, time=1602020299, title='The Cat-and-Mouse Game of the Modern Penalty Kick', item_type='story', url='https://www.theringer.com/2020/10/1/21496031/panenka-penalty-kick-passe-var', parent=None, text=None)

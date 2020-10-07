@@ -1,1 +1,1 @@
-Item(by='hazz99', descendants=None, kids=None, score=None, time=1602034794, title=None, item_type='comment', url=None, parent=24701886, text='I quite like research gate. I’ve found they more often have a downloadable PDF than other sites.')
+Item(by='hazz99', descendants=None, kids=[24705290], score=None, time=1602034794, title=None, item_type='comment', url=None, parent=24701886, text='I quite like research gate. I’ve found they more often have a downloadable PDF than other sites.')

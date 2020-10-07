@@ -1,1 +1,1 @@
-Item(by='person_of_color', descendants=None, kids=None, score=None, time=1602032153, title=None, item_type='comment', url=None, parent=24703968, text='What you say is true, but thousands of smart grads apply for big tech companies, why choose someone without a degree?')
+Item(by='person_of_color', descendants=None, kids=[24705171, 24704799, 24704987, 24704689], score=None, time=1602032153, title=None, item_type='comment', url=None, parent=24703968, text='What you say is true, but thousands of smart grads apply for big tech companies, why choose someone without a degree?')

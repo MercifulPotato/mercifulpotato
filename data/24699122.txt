@@ -1,1 +1,1 @@
-Item(by='prismatic', descendants=0, kids=None, score=2, time=1601999939, title='Caravaggio Destroyed (and Saved) Painting', item_type='story', url='https://www.vulture.com/article/caravaggio-baroque-paintings.html', parent=None, text=None)
+Item(by='prismatic', descendants=4, kids=[24705743, 24705683, 24705084], score=16, time=1601999939, title='Caravaggio Destroyed (and Saved) Painting', item_type='story', url='https://www.vulture.com/article/caravaggio-baroque-paintings.html', parent=None, text=None)

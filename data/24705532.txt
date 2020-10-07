@@ -1,0 +1,1 @@
+Item(by='mlyle', descendants=None, kids=None, score=None, time=1602048112, title=None, item_type='comment', url=None, parent=24701857, text='Lots of touchpads (most, I believe) trigger hysteresis in libinput unnecessarily, either because of a declared fuzz value by the touchpad or because of the broken heuristic, and it&#x27;s mushy afterwards.  But no, it&#x27;s not all.')

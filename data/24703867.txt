@@ -1,1 +1,1 @@
-Item(by='Ice_cream_suit', descendants=0, kids=None, score=6, time=1602028636, title='John McAfee, Software Pioneer Who Fled the Law, Is Arrested in Spain', item_type='story', url='https://www.nytimes.com/2020/10/06/business/mcafee-arrested-tax-evasion.html', parent=None, text=None)
+Item(by='Ice_cream_suit', descendants=0, kids=[24705110], score=6, time=1602028636, title='John McAfee, Software Pioneer Who Fled the Law, Is Arrested in Spain', item_type='story', url='https://www.nytimes.com/2020/10/06/business/mcafee-arrested-tax-evasion.html', parent=None, text=None)

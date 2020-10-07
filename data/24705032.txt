@@ -1,0 +1,1 @@
+Item(by='seanwilson', descendants=None, kids=None, score=None, time=1602041328, title=None, item_type='comment', url=None, parent=24700612, text='What are you actually building though? Firebase might make this easy (zero devops, everything is done with JS client side and logins&#x2F;passwords is a few lines of code) but it depends on what you&#x27;re trying to do.')

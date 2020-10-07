@@ -1,0 +1,1 @@
+Item(by='jrwr', descendants=None, kids=[24705013, 24705507], score=None, time=1602038021, title=None, item_type='comment', url=None, parent=24704387, text='Under HTML and the DOM (no Javascript) You can do any ordering of the tags, that&#x27;s pretty normal a &lt;strong&gt;&lt;div&gt;hello&lt;&#x2F;strong&gt;&lt;&#x2F;div&gt; is perfectly valid HTML')

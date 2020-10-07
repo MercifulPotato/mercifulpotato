@@ -1,1 +1,1 @@
-Item(by='dudul', descendants=None, kids=None, score=None, time=1602035025, title=None, item_type='comment', url=None, parent=24703832, text='H1B holders are not immigrant, and it is very hard to get a green card from an h1b.')
+Item(by='dudul', descendants=None, kids=[24704726], score=None, time=1602035025, title=None, item_type='comment', url=None, parent=24703832, text='H1B holders are not immigrant, and it is very hard to get a green card from an h1b.')

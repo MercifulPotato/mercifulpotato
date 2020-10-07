@@ -1,0 +1,1 @@
+Item(by='emilsedgh', descendants=None, kids=None, score=None, time=1602044906, title=None, item_type='comment', url=None, parent=24705131, text='That&#x27;s one of the things I like about Cloud Run. There&#x27;s no vendor lock in really. Your app is just a Docker image running any normal 12 factor app which could be deployed to Heroku, Cloud Run, DO or any other PaaS.')

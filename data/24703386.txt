@@ -1,1 +1,1 @@
-Item(by='jedberg', descendants=None, kids=None, score=None, time=1602024995, title=None, item_type='comment', url=None, parent=24703208, text='Ah gotcha.  So it&#x27;s the act of being restrained that provides the gratification, and being under someone else&#x27;s control.')
+Item(by='jedberg', descendants=None, kids=[24706212, 24705562], score=None, time=1602024995, title=None, item_type='comment', url=None, parent=24703208, text='Ah gotcha.  So it&#x27;s the act of being restrained that provides the gratification, and being under someone else&#x27;s control.')

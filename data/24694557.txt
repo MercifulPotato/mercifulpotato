@@ -1,1 +1,1 @@
-Item(by='cutler', descendants=None, kids=[24697732, 24695468], score=None, time=1601956657, title=None, item_type='comment', url=None, parent=24693964, text='ActiveRecord surpasses all other ORMs in memory usage and slow execution, that&#x27;s for sure.')
+Item(by='cutler', descendants=None, kids=[24695468, 24697732], score=None, time=1601956657, title=None, item_type='comment', url=None, parent=24693964, text='ActiveRecord surpasses all other ORMs in memory usage and slow execution, that&#x27;s for sure.')

@@ -1,1 +1,1 @@
-Item(by='brendanfalk', descendants=0, kids=None, score=9, time=1602018713, title='Shipping an MVP in Two Weeks During YC Using Repl.it', item_type='story', url='https://blog.repl.it/fig', parent=None, text=None)
+Item(by='brendanfalk', descendants=1, kids=[24704677], score=10, time=1602018713, title='Shipping an MVP in Two Weeks During YC Using Repl.it', item_type='story', url='https://blog.repl.it/fig', parent=None, text=None)
