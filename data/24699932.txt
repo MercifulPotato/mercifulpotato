@@ -1,1 +1,1 @@
-Item(by='vmchale', descendants=None, kids=None, score=None, time=1602003384, title=None, item_type='comment', url=None, parent=24699176, text='lmao everything you say is completely wrong this is stupid as shit')
+Item(by='vmchale', descendants=None, kids=[24703224], score=None, time=1602003384, title=None, item_type='comment', url=None, parent=24699176, text='lmao everything you say is completely wrong this is stupid as shit')

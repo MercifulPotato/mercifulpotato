@@ -1,0 +1,1 @@
+Item(by='Slikey', descendants=None, kids=None, score=None, time=1602018874, title=None, item_type='comment', url=None, parent=24701157, text='You should be able to get the cost down significantly by caching on cloudflare. My company managed to deliver 99.9%+ from cloudflare for static pages and allowed us to serve large amounts of traffic from a small backend.')

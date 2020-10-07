@@ -1,1 +1,1 @@
-Item(by='TuringNYC', descendants=None, kids=None, score=None, time=1602012958, title=None, item_type='comment', url=None, parent=24700947, text='In other countries, they negotiate prices at the country level.')
+Item(by='TuringNYC', descendants=None, kids=[24702059], score=None, time=1602012958, title=None, item_type='comment', url=None, parent=24700947, text='In other countries, they negotiate prices at the country level.')

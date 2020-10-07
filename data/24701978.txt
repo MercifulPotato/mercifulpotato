@@ -1,0 +1,1 @@
+Item(by='dsun180', descendants=None, kids=[24704446], score=None, time=1602015968, title=None, item_type='comment', url=None, parent=24701140, text='From the docs it does not look like that every http tx is stored onchain. It is more like an ssl-alternative where you sign stuff with bitcoin crypto and therefore not need to trust the sender.')

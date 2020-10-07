@@ -1,1 +1,1 @@
-Item(by='davidfowl', descendants=None, kids=None, score=None, time=1601981626, title=None, item_type='comment', url=None, parent=24695314, text='Sounds like .net framework and visual studio. Have you used .net core and the cli?')
+Item(by='davidfowl', descendants=None, kids=[24703184], score=None, time=1601981626, title=None, item_type='comment', url=None, parent=24695314, text='Sounds like .net framework and visual studio. Have you used .net core and the cli?')

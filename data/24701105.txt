@@ -1,1 +1,1 @@
-Item(by='21eleven', descendants=None, kids=None, score=None, time=1602010460, title=None, item_type='comment', url=None, parent=24700991, text='I feel like this is an often overlooked fact about these programming exercises, once you get into solving them they are surprisingly fun.')
+Item(by='21eleven', descendants=None, kids=[24702239], score=None, time=1602010460, title=None, item_type='comment', url=None, parent=24700991, text='I feel like this is an often overlooked fact about these programming exercises, once you get into solving them they are surprisingly fun.')

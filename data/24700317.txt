@@ -1,1 +1,1 @@
-Item(by='tmaly', descendants=None, kids=None, score=None, time=1602005578, title=None, item_type='comment', url=None, parent=24694226, text='which of those two are easier to get started with?')
+Item(by='tmaly', descendants=None, kids=[24702667], score=None, time=1602005578, title=None, item_type='comment', url=None, parent=24694226, text='which of those two are easier to get started with?')

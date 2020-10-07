@@ -1,0 +1,1 @@
+Item(by='j1elo', descendants=None, kids=None, score=None, time=1602024062, title=None, item_type='comment', url=None, parent=24699258, text='&quot;An embedded TURN server&quot; means that this server runs from within Screego?<p>I must be understanding this wrong, as a TURN server running behind a NAT makes no sense for helping outside peers to connect')

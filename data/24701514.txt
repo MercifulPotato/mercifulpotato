@@ -1,0 +1,1 @@
+Item(by='gnramires', descendants=None, kids=None, score=None, time=1602013115, title=None, item_type='comment', url=None, parent=24701329, text='This seems to be an artifact of the training error used by some AIs: in case a simple L2 loss is used, the AI will generate close to an average color (average over an &quot;intrinsic&quot; color distribution), which appears washed out.')

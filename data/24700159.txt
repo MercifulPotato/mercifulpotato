@@ -1,1 +1,1 @@
-Item(by='samgranieri', descendants=None, kids=None, score=None, time=1602004685, title=None, item_type='comment', url=None, parent=24698592, text='I recommend starting up a side project to learn a language. That&#x27;s how I learned Ruby, and consequently Ruby on Rails 15 years ago.')
+Item(by='samgranieri', descendants=None, kids=[24701885], score=None, time=1602004685, title=None, item_type='comment', url=None, parent=24698592, text='I recommend starting up a side project to learn a language. That&#x27;s how I learned Ruby, and consequently Ruby on Rails 15 years ago.')

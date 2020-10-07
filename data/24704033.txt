@@ -1,0 +1,1 @@
+Item(by='rsynnott', descendants=None, kids=None, score=None, time=1602030218, title=None, item_type='comment', url=None, parent=24702894, text='Some games actually do use fake random number generators that behave more like people intuitively expect randomness to behave; if there’s supposedly a 5% chance of something happening it will NEVER happen twice in a row, and so on.')

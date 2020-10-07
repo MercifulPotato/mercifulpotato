@@ -1,0 +1,1 @@
+Item(by='chrisan', descendants=None, kids=[24704700], score=None, time=1602026430, title=None, item_type='comment', url=None, parent=24700560, text='Must have been more than 10 years ago when utf8mb4 was added where you don&#x27;t have to activate any kind of special settings.<p>I was using MSSQL prior to 2010 so I have no idea of MySQL unicode handling before that')

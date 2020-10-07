@@ -1,1 +1,1 @@
-Item(by='johnchristopher', descendants=None, kids=None, score=None, time=1601997878, title=None, item_type='comment', url=None, parent=24697678, text='Is it full automatic, pixel perfect compatibility or only a bunch of games are ?')
+Item(by='johnchristopher', descendants=None, kids=[24702321], score=None, time=1601997878, title=None, item_type='comment', url=None, parent=24697678, text='Is it full automatic, pixel perfect compatibility or only a bunch of games are ?')

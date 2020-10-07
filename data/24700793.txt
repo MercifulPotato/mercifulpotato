@@ -1,1 +1,1 @@
-Item(by='robin_reala', descendants=0, kids=None, score=2, time=1602008570, title='Cruise ships dismantled for scrap after pandemic sinks industry', item_type='story', url='https://www.reuters.com/news/picture/cruise-ships-dismantled-for-scrap-after-idUSRTX7ZIVD', parent=None, text=None)
+Item(by='robin_reala', descendants=0, kids=[24702269], score=3, time=1602008570, title='Cruise ships dismantled for scrap after pandemic sinks industry', item_type='story', url='https://www.reuters.com/news/picture/cruise-ships-dismantled-for-scrap-after-idUSRTX7ZIVD', parent=None, text=None)

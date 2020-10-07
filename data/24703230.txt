@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=8, kids=[24703775, 24704387, 24704070, 24704266, 24703741, 24703754, 24704251], score=64, time=1602024190, title='DOMPurify bypass: XSS via HTML namespace confusion', item_type='story', url='https://research.securitum.com/mutation-xss-via-mathml-mutation-dompurify-2-0-17-bypass/', parent=None, text=None)

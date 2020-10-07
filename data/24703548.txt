@@ -1,0 +1,1 @@
+Item(by='millstone', descendants=None, kids=[24703677, 24703618], score=None, time=1602026061, title=None, item_type='comment', url=None, parent=24702707, text='Surely working with computable reals is sufficient? There&#x27;s no point in writing a computer program that attempts to work with non-computable reals, for obvious reasons. And computable reals are countable.')

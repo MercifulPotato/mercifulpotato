@@ -1,0 +1,1 @@
+Item(by='daly', descendants=None, kids=None, score=None, time=1602013755, title=None, item_type='comment', url=None, parent=24700559, text='One problem with WSL as a development platform is that Windows loves to reboot YOUR machine. I&#x27;ve lost a lot of work that way until I installed native Linux on the machine.')

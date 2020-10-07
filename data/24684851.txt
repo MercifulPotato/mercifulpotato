@@ -1,1 +1,1 @@
-Item(by='nec4b', descendants=None, kids=None, score=None, time=1601876612, title=None, item_type='comment', url=None, parent=24683610, text='Where does this idea that in Europe somehow all villages are connected with railways comes from? Europe depends on roads as much as the USA.')
+Item(by='nec4b', descendants=None, kids=[24701678], score=None, time=1601876612, title=None, item_type='comment', url=None, parent=24683610, text='Where does this idea that in Europe somehow all villages are connected with railways comes from? Europe depends on roads as much as the USA.')

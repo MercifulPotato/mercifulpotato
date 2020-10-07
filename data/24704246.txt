@@ -1,0 +1,1 @@
+Item(by='molyss', descendants=None, kids=[24704467], score=None, time=1602032524, title=None, item_type='comment', url=None, parent=24703241, text='I think the intended simplification is : \n(sin⁻¹(cos⁻¹(tan⁻¹(tan(cos(sin(9))))))−9)⁻¹ -&gt; \n(sin⁻¹(cos⁻¹(cos(sin(9))))−9)⁻¹ -&gt;\n(sin⁻¹(sin(9))−9)⁻¹ -&gt;\n(9−9)⁻¹ -&gt;\n0⁻¹ -&gt;\n1&#x2F;0')

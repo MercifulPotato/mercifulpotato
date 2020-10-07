@@ -1,0 +1,1 @@
+Item(by='jepler', descendants=None, kids=[24703226, 24703088, 24703241], score=None, time=1602019446, title=None, item_type='comment', url=None, parent=24700705, text='(sin⁻¹(cos⁻¹(tan⁻¹(tan(cos(sin(9))))))−9)^−1\nproduces &quot;Timeout.  Undefined?&quot;.  That&#x27;s the closest I could get to baffling or tricking it. (it&#x27;s division by zero)')

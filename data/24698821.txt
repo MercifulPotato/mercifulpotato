@@ -1,1 +1,1 @@
-Item(by='conjectures', descendants=None, kids=None, score=None, time=1601998518, title=None, item_type='comment', url=None, parent=24695935, text='Is this GPT-3 written?')
+Item(by='conjectures', descendants=None, kids=[24701120], score=None, time=1601998518, title=None, item_type='comment', url=None, parent=24695935, text='Is this GPT-3 written?')

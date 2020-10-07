@@ -1,1 +1,1 @@
-Item(by='SirensOfTitan', descendants=None, kids=None, score=None, time=1601772420, title=None, item_type='comment', url=None, parent=24675771, text='Maybe I’ll drive yarn v2 migration over the finish line then. Have you run into any hiccups post setup?')
+Item(by='SirensOfTitan', descendants=None, kids=[24702591], score=None, time=1601772420, title=None, item_type='comment', url=None, parent=24675771, text='Maybe I’ll drive yarn v2 migration over the finish line then. Have you run into any hiccups post setup?')

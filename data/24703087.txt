@@ -1,0 +1,1 @@
+Item(by='contravariant', descendants=None, kids=[24703864], score=None, time=1602023164, title=None, item_type='comment', url=None, parent=24702823, text='If you need the top 3 elements then neither of those are efficient. Technically insertion sort is more efficient if you stop early, but the straightforward brute force algorithm will be faster by a factor of 3.')

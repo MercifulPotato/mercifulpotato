@@ -1,0 +1,1 @@
+Item(by='qppo', descendants=None, kids=[24701808, 24701919, 24703564], score=None, time=1602014265, title=None, item_type='comment', url=None, parent=24700705, text='What about NaN values? Are the runtime errors or do they propagate down the chain of execution? Are they comparable?')

@@ -1,0 +1,1 @@
+Item(by='coolhand2120', descendants=None, kids=[24703440], score=None, time=1602021417, title=None, item_type='comment', url=None, parent=24698749, text='All I have to do is put a proxy in front of your API and strip all your headers off and send responses anywhere I like.  Given that, how can CORS be &quot;security&quot;?  It&#x27;s totally insecure.')
