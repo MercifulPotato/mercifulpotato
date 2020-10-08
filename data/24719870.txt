@@ -1,0 +1,1 @@
+Item(by='howling', descendants=None, kids=[24719993], score=None, time=1602170223, title=None, item_type='comment', url=None, parent=24717901, text='Actually, the knapsack problem allows taking an item more than once. The problem described in the blog is the 0-1 knapsack problem which can be solved in polynomial time.')

@@ -1,1 +1,1 @@
-Item(by='milankragujevic', descendants=0, kids=None, score=3, time=1602160435, title='A city with a thousand eyes: mass surveillance in Belgrade', item_type='story', url='https://aboutintel.eu/mass-surveillance-serbia/', parent=None, text=None)
+Item(by='milankragujevic', descendants=33, kids=[24721471, 24720815, 24719711, 24722808, 24722223, 24723486, 24720831, 24720149], score=87, time=1602160435, title='A city with a thousand eyes: mass surveillance in Belgrade', item_type='story', url='https://aboutintel.eu/mass-surveillance-serbia/', parent=None, text=None)

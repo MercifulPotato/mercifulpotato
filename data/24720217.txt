@@ -1,0 +1,1 @@
+Item(by='interestica', descendants=None, kids=None, score=None, time=1602171949, title=None, item_type='comment', url=None, parent=24707407, text='The &#x27;search&#x27; is a bit wonky. \nI can search &#x27;hiking socks&#x27; and it works.\nIf I enter &#x27;socks&#x27; and hit enter, no response (it doesn&#x27;t even fail).')

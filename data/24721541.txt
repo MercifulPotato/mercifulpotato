@@ -1,0 +1,1 @@
+Item(by='kibwen', descendants=None, kids=None, score=None, time=1602178420, title=None, item_type='comment', url=None, parent=24720988, text='Yes, I believe const generics get monomorphized just like normal generics, with the usual set of tradeoffs that implies.')

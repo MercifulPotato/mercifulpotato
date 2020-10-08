@@ -1,1 +1,1 @@
-Item(by='hatsugai', descendants=0, kids=None, score=8, time=1602126389, title='Fenestra6502', item_type='story', url='https://github.com/hatsugai/Fenestra6502', parent=None, text=None)
+Item(by='hatsugai', descendants=1, kids=[24719684], score=11, time=1602126389, title='Fenestra6502', item_type='story', url='https://github.com/hatsugai/Fenestra6502', parent=None, text=None)

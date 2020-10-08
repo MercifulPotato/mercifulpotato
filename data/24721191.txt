@@ -1,0 +1,1 @@
+Item(by='simongray', descendants=None, kids=None, score=None, time=1602176583, title=None, item_type='comment', url=None, parent=24720937, text='Works fine for my use cases (e.g. representing multiple WordNets as labeled property graphs in Neo4j) and I quite like the simplicity of data modelling based on triplets of data literals.<p>What do you suggest as an alternative to RDF?')

@@ -1,0 +1,1 @@
+Item(by='kaoD', descendants=None, kids=[24721541], score=None, time=1602175797, title=None, item_type='comment', url=None, parent=24719247, text='Does Rust monomorphize const generics too? E.g. if I use 255 arrays with length 1-255.')

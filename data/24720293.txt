@@ -1,0 +1,1 @@
+Item(by='Scarbutt', descendants=None, kids=[24720395], score=None, time=1602172300, title=None, item_type='comment', url=None, parent=24719798, text='Those websites may not be SPAs but they still contain big JS payloads.<p>Not sure about the others, but my guess is that if Github were created today, most of it would probably be an SPA.')

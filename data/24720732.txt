@@ -1,0 +1,1 @@
+Item(by='jimbokun', descendants=None, kids=[24720860], score=None, time=1602174680, title=None, item_type='comment', url=None, parent=24720394, text='API design largely determines whether a performant, correct implementation is even feasible within a given time frame.  Setting aside whether or not developers can then successfully use the API to accomplish their goals.')

@@ -1,0 +1,1 @@
+Item(by='megakid', descendants=None, kids=[24722774], score=None, time=1602183978, title=None, item_type='comment', url=None, parent=24719722, text='This looks neat. Do you have any plans to provide a Kubernetes CRD or something else to pull&#x2F;sync secrets into pods?')

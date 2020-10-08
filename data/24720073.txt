@@ -1,0 +1,1 @@
+Item(by='vlang1dot0', descendants=None, kids=[24721558], score=None, time=1602171153, title=None, item_type='comment', url=None, parent=24719928, text='LLVM has nothing to do with `const` evaluation in Rust. `const` evaluation happens at the MIR level which participates in incremental compilation.')

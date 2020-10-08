@@ -1,0 +1,1 @@
+Item(by='Scarbutt', descendants=None, kids=None, score=None, time=1602170509, title=None, item_type='comment', url=None, parent=24716731, text='<i>2. SPAs can cache UI state in the client. The alternative is to store it in a server side session specific to each client.</i><p>Non-SPA doesn&#x27;t mean 0% JS.')

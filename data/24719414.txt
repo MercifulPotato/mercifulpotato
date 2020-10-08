@@ -1,0 +1,1 @@
+Item(by='sk2020', descendants=None, kids=None, score=None, time=1602167737, title=None, item_type='comment', url=None, parent=24717061, text='You use F# because your use case requires .NET. You can’t write AutoDesk plugins in OCAML, or at least I’ve never heard of that happening. Sometimes you don’t actually have meaningful alternative programming languages for certain uses.')

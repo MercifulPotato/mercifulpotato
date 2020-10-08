@@ -1,1 +1,1 @@
-Item(by='iveqy', descendants=None, kids=None, score=None, time=1602140394, title=None, item_type='comment', url=None, parent=24709393, text='Cool project, the first question that comes to my mind is, how did you succeed to have icons in a terminal application?')
+Item(by='iveqy', descendants=None, kids=[24721668], score=None, time=1602140394, title=None, item_type='comment', url=None, parent=24709393, text='Cool project, the first question that comes to my mind is, how did you succeed to have icons in a terminal application?')

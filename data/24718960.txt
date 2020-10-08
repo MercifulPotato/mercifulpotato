@@ -1,0 +1,1 @@
+Item(by='pletnes', descendants=None, kids=None, score=None, time=1602164111, title=None, item_type='comment', url=None, parent=24718623, text='Pihole is great for stopping stuff that’s not in the browser in particular. OS telemetry, in-app ads, phishing sites, etc. In pronciple I suppose it can block cryptoviruses, but it’s probably hard to keep a good blocklist up to date.')

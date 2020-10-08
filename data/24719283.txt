@@ -1,0 +1,1 @@
+Item(by='happythomist', descendants=None, kids=None, score=None, time=1602166863, title=None, item_type='comment', url=None, parent=24719253, text='I believe it&#x27;s similar to &quot;constexpr&quot; in C++ -- it means those functions can now be evaluated at compile time.')

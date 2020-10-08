@@ -1,0 +1,1 @@
+Item(by='sjv', descendants=None, kids=None, score=None, time=1602174916, title=None, item_type='comment', url=None, parent=24720782, text='Hey HN — This is a simple web app that allows you to enter text and watch as an in-browser neural network generates the corresponding handwriting in real time.  I’m happy to hear feedback or answer questions about how it works!')

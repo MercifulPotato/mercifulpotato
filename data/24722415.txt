@@ -1,0 +1,1 @@
+Item(by='treis', descendants=None, kids=None, score=None, time=1602183146, title=None, item_type='comment', url=None, parent=24720247, text='Amazon release their S3 client libraries under the Apache license.  Creating a backend for that client is permitted under the license.  So all these S3 clones are fine.')

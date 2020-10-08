@@ -1,0 +1,1 @@
+Item(by='dfranke', descendants=None, kids=[24721803, 24721349, 24720203], score=None, time=1602169008, title=None, item_type='comment', url=None, parent=24718972, text='I hope we eventually get Presburger arithmetic support so that one could write<p><pre><code>    fn concat&lt;T,M,N&gt;([T; M], [T; N]) -&gt; [T; M+N]</code></pre>')

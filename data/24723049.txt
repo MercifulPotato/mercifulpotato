@@ -1,0 +1,1 @@
+Item(by='0x00000000', descendants=None, kids=None, score=None, time=1602186381, title=None, item_type='comment', url=None, parent=24721864, text='It wasn’t well explained, but there are two buffers. Even with the sampling loop as tight as I could get it I think there is just a few ms of inherent delay between when it finishes reading and when it is ready to read again.')

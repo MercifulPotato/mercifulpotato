@@ -1,0 +1,1 @@
+Item(by='pier25', descendants=None, kids=None, score=None, time=1602171433, title=None, item_type='comment', url=None, parent=24716934, text='There are two valid reasons IMO:<p>1) A use case that requires some form of persistence like Gmail or Spotify.<p>2) The added complexity of working on an SPA is worth it to decouple back&#x2F;front end teams.')

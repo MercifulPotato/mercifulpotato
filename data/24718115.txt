@@ -1,1 +1,1 @@
-Item(by='rattray', descendants=None, kids=None, score=None, time=1602156789, title=None, item_type='comment', url=None, parent=24712370, text='What percentage of committers now work at EDB?')
+Item(by='rattray', descendants=None, kids=[24719674], score=None, time=1602156789, title=None, item_type='comment', url=None, parent=24712370, text='What percentage of committers now work at EDB?')

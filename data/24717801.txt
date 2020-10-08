@@ -1,1 +1,1 @@
-Item(by='edgyquant', descendants=None, kids=None, score=None, time=1602153159, title=None, item_type='comment', url=None, parent=24695087, text='Is this an honest question?')
+Item(by='edgyquant', descendants=None, kids=[24720964], score=None, time=1602153159, title=None, item_type='comment', url=None, parent=24695087, text='Is this an honest question?')

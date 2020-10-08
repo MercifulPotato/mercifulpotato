@@ -1,0 +1,1 @@
+Item(by='shay_ker', descendants=None, kids=[24722615, 24721856], score=None, time=1602177758, title=None, item_type='comment', url=None, parent=24720890, text='how does that actually work? Vault has the user&#x2F;password, and then acts as a gateway to the db?')

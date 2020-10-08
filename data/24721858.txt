@@ -1,0 +1,1 @@
+Item(by='DenseComet', descendants=None, kids=[24722346], score=None, time=1602180048, title=None, item_type='comment', url=None, parent=24721762, text='Plex supports Nvidia GPUs for hardware transcoding, so you could pick up a cheaper Nvidia GPU and stick it in the build, but that will probably not be possible for small builds.')

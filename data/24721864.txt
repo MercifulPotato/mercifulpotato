@@ -1,0 +1,1 @@
+Item(by='loa_in_', descendants=None, kids=[24723049], score=None, time=1602180076, title=None, item_type='comment', url=None, parent=24719680, text='With your use of threading you can instead of using one semaphore and buffer do two half as big, so one thread can always read one while the other us written. That potentially can remove all useless idling from your solution')

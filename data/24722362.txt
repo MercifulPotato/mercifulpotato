@@ -1,0 +1,1 @@
+Item(by='wmf', descendants=None, kids=None, score=None, time=1602182896, title=None, item_type='comment', url=None, parent=24721194, text='It&#x27;s too expensive to fab test chips so it&#x27;s all done using cycle-accurate simulation software like SimpleScalar or gem5 and later using FPGA-based emulation like Palladium&#x2F;ZeBu.')

@@ -1,1 +1,1 @@
-Item(by='alexgartrell', descendants=None, kids=None, score=None, time=1602164103, title=None, item_type='comment', url=None, parent=24718314, text='I work with some of the maintainers of bpf, bpftrace, etc. What can we do to make this stuff more accessible?')
+Item(by='alexgartrell', descendants=None, kids=[24719828], score=None, time=1602164103, title=None, item_type='comment', url=None, parent=24718314, text='I work with some of the maintainers of bpf, bpftrace, etc. What can we do to make this stuff more accessible?')

@@ -1,0 +1,1 @@
+Item(by='GolDDranks', descendants=None, kids=None, score=None, time=1602178718, title=None, item_type='comment', url=None, parent=24719269, text='You might enjoy trying OCaml! Most of the &quot;necessary and hard&quot; strictness of Rust comes from not needing a garbage collector. Once you have that, it&#x27;s a lot easier to provide something rigorous but more ergonomic.')

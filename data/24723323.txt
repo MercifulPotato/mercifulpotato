@@ -1,0 +1,1 @@
+Item(by='jacobr1', descendants=None, kids=None, score=None, time=1602187751, title=None, item_type='comment', url=None, parent=24723085, text='This has already happened to an extent. For example, there are bunch of API compatible implementations of s3, both oss and proprietary and most of them suggest you use the AWS sdk as a client.')

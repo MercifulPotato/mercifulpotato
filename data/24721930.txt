@@ -1,0 +1,1 @@
+Item(by='brandmeyer', descendants=None, kids=None, score=None, time=1602180419, title=None, item_type='comment', url=None, parent=24721571, text='Well, drats.<p>OTOH, T495s works great with Debian stable!  I just needed a kernel backport from buster-backports to get graphics to work.')

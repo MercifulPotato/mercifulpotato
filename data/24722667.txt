@@ -1,0 +1,1 @@
+Item(by='SAI_Peregrinus', descendants=None, kids=[24722735], score=None, time=1602184385, title=None, item_type='comment', url=None, parent=24721674, text='I run DoH on a raspberry Pi with piHole. And then DoH from it to Quad9&#x27;s servers. DNS blocking, with DoH.')

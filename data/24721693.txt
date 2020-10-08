@@ -1,0 +1,1 @@
+Item(by='loeg', descendants=None, kids=None, score=None, time=1602179254, title=None, item_type='comment', url=None, parent=24721064, text='They&#x27;ve gone from 4-core CCXes with 16 MB L3 as the atomic unit of CPUs, to 8-core chiplets with 32 MB L3.  So, broadly, workloads that fit in 32MB but not 16MB will perform much better on Zen 3.')

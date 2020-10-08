@@ -1,1 +1,1 @@
-Item(by='frogpelt', descendants=None, kids=None, score=None, time=1602097135, title=None, item_type='comment', url=None, parent=24708488, text='If you&#x27;re going to plug a site that works well, you should link to the site, I guess.<p>I want to see it... maybe.')
+Item(by='frogpelt', descendants=None, kids=[24719497], score=None, time=1602097135, title=None, item_type='comment', url=None, parent=24708488, text='If you&#x27;re going to plug a site that works well, you should link to the site, I guess.<p>I want to see it... maybe.')

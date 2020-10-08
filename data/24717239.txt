@@ -1,1 +1,1 @@
-Item(by='throwaway_pdp09', descendants=None, kids=None, score=None, time=1602147237, title=None, item_type='comment', url=None, parent=24712132, text='Erm, I get this, but I want a PP <i>because</i> the language doesn&#x27;t do what I want.')
+Item(by='throwaway_pdp09', descendants=None, kids=[24719535], score=None, time=1602147237, title=None, item_type='comment', url=None, parent=24712132, text='Erm, I get this, but I want a PP <i>because</i> the language doesn&#x27;t do what I want.')

@@ -1,0 +1,1 @@
+Item(by='gravypod', descendants=None, kids=None, score=None, time=1602173650, title=None, item_type='comment', url=None, parent=24719995, text='Gitlab CI does a single clone of each repo per runner executor and then does fetch&#x2F;clean for subsequent builds. It&#x27;s pretty quick in our use cases.')

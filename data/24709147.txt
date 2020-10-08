@@ -1,1 +1,1 @@
-Item(by='ford_o', descendants=None, kids=[24710020], score=None, time=1602083964, title=None, item_type='comment', url=None, parent=24707645, text='What happens if I expose a Java FFI ( i.e. thin wrapper around Java stdlib) in my toy language. Do I break their license?')
+Item(by='ford_o', descendants=None, kids=[24721381, 24710020], score=None, time=1602083964, title=None, item_type='comment', url=None, parent=24707645, text='What happens if I expose a Java FFI ( i.e. thin wrapper around Java stdlib) in my toy language. Do I break their license?')

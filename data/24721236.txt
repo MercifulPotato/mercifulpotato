@@ -1,0 +1,1 @@
+Item(by='ptsneves', descendants=None, kids=[24721420], score=None, time=1602176821, title=None, item_type='comment', url=None, parent=24720808, text='Have you considered making shallow clones?\nAlso indeed you are doing many things that harm usability. I am surprised though you are saying you have issues with blobs even in LFS.')

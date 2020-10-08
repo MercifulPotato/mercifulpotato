@@ -1,0 +1,1 @@
+Item(by='jadbox', descendants=None, kids=[24720598], score=None, time=1602173681, title=None, item_type='comment', url=None, parent=24719547, text='So would const generics for arrays make map&#x2F;fold somewhat faster because there would be no need to create an iterator?')

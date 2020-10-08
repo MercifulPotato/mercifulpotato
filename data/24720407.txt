@@ -1,0 +1,1 @@
+Item(by='dehrmann', descendants=None, kids=[24720562], score=None, time=1602173017, title=None, item_type='comment', url=None, parent=24720362, text='In mono&#x2F;mulirepo debates, I frame this as multirepos make hard, scary things hard. Monorepos make it easy to introduce changes that break APIs at deploy time, but are hidden by the atomic commit actually being OK.')

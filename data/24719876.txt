@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=[24720100], score=None, time=1602170243, title=None, item_type='comment', url=None, parent=24719368, text='I take your point, but Ruby vs Go isn&#x27;t a reasonable comparison. Rust is a <i>lot</i> stricter than Go, by necessity (no GC), but they&#x27;re both statically typed languages.')

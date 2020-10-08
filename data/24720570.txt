@@ -1,0 +1,1 @@
+Item(by='metalliqaz', descendants=None, kids=[24720863], score=None, time=1602173858, title=None, item_type='comment', url=None, parent=24720511, text='Looking at that link, argparse is very similar to structopt.  It just uses the syntax and idioms of a different language.  The structopt attributes appear to be approx. the same complexity as argparse functions.')

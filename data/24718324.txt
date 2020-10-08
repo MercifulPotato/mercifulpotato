@@ -1,1 +1,1 @@
-Item(by='iaml', descendants=None, kids=None, score=None, time=1602158742, title=None, item_type='comment', url=None, parent=24701146, text='While this is a neat idea, isn’t it insecure against just sniffing bt mac addresses and masquerading as the correct one?')
+Item(by='iaml', descendants=None, kids=[24719954], score=None, time=1602158742, title=None, item_type='comment', url=None, parent=24701146, text='While this is a neat idea, isn’t it insecure against just sniffing bt mac addresses and masquerading as the correct one?')

@@ -1,0 +1,1 @@
+Item(by='woah', descendants=None, kids=[24723142], score=None, time=1602182755, title=None, item_type='comment', url=None, parent=24719444, text='I would disagree. There are a lot of data types which are a fixed length array of bytes (e.g. encryption keys), which make more sense as a value, rather than a container type.')

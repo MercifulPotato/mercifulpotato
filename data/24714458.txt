@@ -1,1 +1,1 @@
-Item(by='lelf', descendants=1, kids=[24716616], score=27, time=1602117446, title='ARM64 Performance in .NET 5', item_type='story', url='https://devblogs.microsoft.com/dotnet/arm64-performance-in-net-5/', parent=None, text=None)
+Item(by='lelf', descendants=4, kids=[24716616], score=30, time=1602117446, title='ARM64 Performance in .NET 5', item_type='story', url='https://devblogs.microsoft.com/dotnet/arm64-performance-in-net-5/', parent=None, text=None)

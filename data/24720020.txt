@@ -1,0 +1,1 @@
+Item(by='dboreham', descendants=None, kids=None, score=None, time=1602170918, title=None, item_type='comment', url=None, parent=24719525, text='Pros: some tooling features just don&#x27;t work across repos (e.g. npm dependency resolution). A monorepo works around these limitations.<p>Cons: un-separation of concerns.')

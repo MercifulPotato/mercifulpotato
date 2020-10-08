@@ -1,0 +1,1 @@
+Item(by='x87678r', descendants=None, kids=[24720524], score=None, time=1602170790, title=None, item_type='comment', url=None, parent=24719525, text='Do people big monorepo&#x27;s always clone the whole thing? Our CI&#x2F;CD (TeamCity) always seems to check out the whole repo even if you want just one sub directory.')

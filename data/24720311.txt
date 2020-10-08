@@ -1,0 +1,1 @@
+Item(by='methyl', descendants=None, kids=[24720545, 24720480, 24720529], score=None, time=1602172419, title=None, item_type='comment', url=None, parent=24719859, text='&gt; You have to figure out with every commit what actually changed and based on that change what needs to be tested and built.<p>I feel this problem and I wonder, is there any ready-made solution for that?')

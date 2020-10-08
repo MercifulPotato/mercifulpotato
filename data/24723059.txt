@@ -1,0 +1,1 @@
+Item(by='laichzeit0', descendants=None, kids=None, score=None, time=1602186428, title=None, item_type='comment', url=None, parent=24721738, text='S3 storage is exactly what modern databases like Snowflake work on. It’s ridiculously easy to turn compressed unstructured (say, json) data into a SQL queryable table.')

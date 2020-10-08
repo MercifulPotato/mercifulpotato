@@ -1,0 +1,1 @@
+Item(by='oconnor663', descendants=None, kids=None, score=None, time=1602171583, title=None, item_type='comment', url=None, parent=24719690, text='I&#x27;ve often used the `arrayvec` crate for things like this. Actually one of the things I&#x27;m most excited about, once const generics is ready, is seeing something like `arrayvec` in the standard library.')

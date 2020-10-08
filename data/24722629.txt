@@ -1,0 +1,1 @@
+Item(by='marcosdumay', descendants=None, kids=None, score=None, time=1602184220, title=None, item_type='comment', url=None, parent=24719651, text='Of course, &quot;if it compiles it works&quot; depends on you designing good types.<p>Haskell will never stop you from representing every value as String, and just throwing exceptions if the strings do not convert back, for example.')

@@ -1,1 +1,1 @@
-Item(by='rhabarba', descendants=0, kids=None, score=1, time=1602135910, title='Using a Piece of Paper as a Display Terminal – Ed vs. Vim', item_type='story', url='https://blog.robertelder.org/paper-display-terminal-ed-vim/', parent=None, text=None)
+Item(by='rhabarba', descendants=3, kids=[24722294, 24722186, 24722051], score=15, time=1602135910, title='Using a Piece of Paper as a Display Terminal – Ed vs. Vim', item_type='story', url='https://blog.robertelder.org/paper-display-terminal-ed-vim/', parent=None, text=None)

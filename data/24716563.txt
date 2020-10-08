@@ -1,1 +1,1 @@
-Item(by='vnglst', descendants=None, kids=[24716584], score=None, time=1602139968, title=None, item_type='comment', url=None, parent=24706992, text='This is a really cool idea, but I did notice a full page refresh on mobile Safari. It’s not the app-like experience you get with SPA’s')
+Item(by='vnglst', descendants=None, kids=[24720214, 24716584], score=None, time=1602139968, title=None, item_type='comment', url=None, parent=24706992, text='This is a really cool idea, but I did notice a full page refresh on mobile Safari. It’s not the app-like experience you get with SPA’s')
