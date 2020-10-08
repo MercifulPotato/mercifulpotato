@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=6, time=1602124647, title='New England Journal of Medicine: Dying in a Leadership Vacuum', item_type='story', url='https://www.nejm.org/doi/full/10.1056/NEJMe2029812?query=featured_home', parent=None, text=None)
+Item(by='pseudolus', descendants=1, kids=[24717253], score=6, time=1602124647, title='New England Journal of Medicine: Dying in a Leadership Vacuum', item_type='story', url='https://www.nejm.org/doi/full/10.1056/NEJMe2029812?query=featured_home', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='pachavra', descendants=None, kids=None, score=None, time=1602128329, title=None, item_type='comment', url=None, parent=24712644, text='There are people that have it orders of magnitude better than others in nearly all areas. With Warren Buffet it&#x27;s an extreme example.')
+Item(by='pachavra', descendants=None, kids=[24717481], score=None, time=1602128329, title=None, item_type='comment', url=None, parent=24712644, text='There are people that have it orders of magnitude better than others in nearly all areas. With Warren Buffet it&#x27;s an extreme example.')

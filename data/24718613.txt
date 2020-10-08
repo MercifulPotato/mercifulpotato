@@ -1,0 +1,1 @@
+Item(by='dtbx', descendants=None, kids=None, score=None, time=1602161226, title=None, item_type='comment', url=None, parent=24717190, text='You can use camomile library to handle unicode strings, count code points, perform locale aware lowercase &#x2F; uppercase, etc<p>For utf8 regexes, you can use Pcre in ocaml, which is faster than camomile regexes.')

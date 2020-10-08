@@ -1,1 +1,1 @@
-Item(by='fakedang', descendants=None, kids=None, score=None, time=1601964014, title=None, item_type='comment', url=None, parent=24694332, text='What&#x27;s different from then and today?')
+Item(by='fakedang', descendants=None, kids=[24717801], score=None, time=1601964014, title=None, item_type='comment', url=None, parent=24694332, text='What&#x27;s different from then and today?')

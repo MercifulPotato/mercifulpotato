@@ -1,1 +1,1 @@
-Item(by='hunvreus', descendants=0, kids=None, score=2, time=1602124462, title='Service Oriented Problems', item_type='story', url='https://www.rdegges.com/2012/service-oriented-problems/', parent=None, text=None)
+Item(by='hunvreus', descendants=1, kids=[24716781], score=2, time=1602124462, title='Service Oriented Problems', item_type='story', url='https://www.rdegges.com/2012/service-oriented-problems/', parent=None, text=None)

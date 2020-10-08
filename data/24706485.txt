@@ -1,1 +1,1 @@
-Item(by='severine', descendants=0, kids=None, score=1, time=1602061768, title='The Companies That Bring Us Knife Steel', item_type='story', url='https://knifesteelnerds.com/2020/09/14/the-companies-that-bring-us-knife-steel/', parent=None, text=None)
+Item(by='severine', descendants=35, kids=[24718999, 24719277, 24719276, 24718112, 24719111], score=52, time=1602061768, title='The companies that bring us knife steel', item_type='story', url='https://knifesteelnerds.com/2020/09/14/the-companies-that-bring-us-knife-steel/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='Uberphallus', descendants=None, kids=None, score=None, time=1602143869, title=None, item_type='comment', url=None, parent=24716718, text='A French colleague&#x27;s last name is &quot;Le&quot;. As in, the main stopword in French.')
+Item(by='Uberphallus', descendants=None, kids=[24717823], score=None, time=1602143869, title=None, item_type='comment', url=None, parent=24716718, text='A French colleague&#x27;s last name is &quot;Le&quot;. As in, the main stopword in French.')

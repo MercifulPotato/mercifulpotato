@@ -1,1 +1,1 @@
-Item(by='kjs3', descendants=None, kids=None, score=None, time=1602105286, title=None, item_type='comment', url=None, parent=24712512, text='One of my favorite Asimov works, and I think one of his shortest.  But mind blowing when you get to the reveal.')
+Item(by='kjs3', descendants=None, kids=[24718820], score=None, time=1602105286, title=None, item_type='comment', url=None, parent=24712512, text='One of my favorite Asimov works, and I think one of his shortest.  But mind blowing when you get to the reveal.')

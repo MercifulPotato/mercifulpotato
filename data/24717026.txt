@@ -1,0 +1,1 @@
+Item(by='the_gipsy', descendants=None, kids=[24719155], score=None, time=1602144707, title=None, item_type='comment', url=None, parent=24716788, text='This is just one bug you found. There are more edge cases for sure, serviceworkers intercepting requests and caching is a nightmare.')

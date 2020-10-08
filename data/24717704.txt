@@ -1,0 +1,1 @@
+Item(by='stephencanon', descendants=None, kids=[24718452], score=None, time=1602152058, title=None, item_type='comment', url=None, parent=24717501, text='They _are_ in Numerics (including Windows support). I think Nate is just trying to keep dependencies to a minimum, but feel free to raise an issue.')

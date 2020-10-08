@@ -1,1 +1,1 @@
-Item(by='nix23', descendants=None, kids=None, score=None, time=1602143930, title=None, item_type='comment', url=None, parent=24716339, text='Said the guy on the horse about the first automobiles.')
+Item(by='nix23', descendants=None, kids=[24717918], score=None, time=1602143930, title=None, item_type='comment', url=None, parent=24716339, text='Said the guy on the horse about the first automobiles.')

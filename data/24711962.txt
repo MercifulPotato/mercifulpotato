@@ -1,1 +1,1 @@
-Item(by='sz4kerto', descendants=None, kids=None, score=None, time=1602100148, title=None, item_type='comment', url=None, parent=24711932, text='Docker for Linux. The proper one. Do not use systemctl, just:<p>sudo service docker start<p>.. voila')
+Item(by='sz4kerto', descendants=None, kids=[24717282, 24717477], score=None, time=1602100148, title=None, item_type='comment', url=None, parent=24711932, text='Docker for Linux. The proper one. Do not use systemctl, just:<p>sudo service docker start<p>.. voila')

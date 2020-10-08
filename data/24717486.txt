@@ -1,0 +1,1 @@
+Item(by='elbear', descendants=None, kids=None, score=None, time=1602150205, title=None, item_type='comment', url=None, parent=24716848, text='You need a type system that is expressive enough to allow you to encode logic in the types. Of course, Haskell is not only language with such a type system: PureScript, F#, Rust, OCaml, Scala have similar features, although not all.')

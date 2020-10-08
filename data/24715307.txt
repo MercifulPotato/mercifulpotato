@@ -1,1 +1,1 @@
-Item(by='eugenhotaj', descendants=0, kids=None, score=7, time=1602126827, title='Yaan LeCun Spring 2020 DL Course (Videos, Slides, Jupyter Notebooks)', item_type='story', url='https://atcold.github.io/pytorch-Deep-Learning/', parent=None, text=None)
+Item(by='eugenhotaj', descendants=19, kids=[24718265, 24718977, 24717445, 24717553, 24717908, 24716889], score=82, time=1602126827, title='NYU DS-GA 1008 – Deep Learning', item_type='story', url='https://atcold.github.io/pytorch-Deep-Learning/', parent=None, text=None)

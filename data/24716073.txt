@@ -1,1 +1,1 @@
-Item(by='koyote', descendants=None, kids=None, score=None, time=1602134019, title=None, item_type='comment', url=None, parent=24711688, text='I have never wanted a preprocessor and I write both C# and C++.<p>Are you able to share your use-case for one in C#?')
+Item(by='koyote', descendants=None, kids=[24717326], score=None, time=1602134019, title=None, item_type='comment', url=None, parent=24711688, text='I have never wanted a preprocessor and I write both C# and C++.<p>Are you able to share your use-case for one in C#?')

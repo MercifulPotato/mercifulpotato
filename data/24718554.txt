@@ -1,0 +1,1 @@
+Item(by='PetitPrince', descendants=None, kids=None, score=None, time=1602160624, title=None, item_type='comment', url=None, parent=24717276, text='Minor thing: the number are right-aligned but the element doesn&#x27;t have minimum size, so they still have a cascading layout instead of a straight alignment.')

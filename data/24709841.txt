@@ -1,1 +1,1 @@
-Item(by='craigkerstiens', descendants=1, kids=[24714689], score=22, time=1602088117, title='OLAP, OLTP, Zheap, and Tradeoffs in Postgres MVCC', item_type='story', url='https://brandur.org/fragments/olap-oltp-zheap', parent=None, text=None)
+Item(by='craigkerstiens', descendants=1, kids=[24714689], score=24, time=1602088117, title='OLAP, OLTP, Zheap, and Tradeoffs in Postgres MVCC', item_type='story', url='https://brandur.org/fragments/olap-oltp-zheap', parent=None, text=None)

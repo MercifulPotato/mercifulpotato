@@ -1,1 +1,1 @@
-Item(by='danielscrubs', descendants=None, kids=None, score=None, time=1602136470, title=None, item_type='comment', url=None, parent=24715269, text='It’s easier to think that you aren’t opening 1 door. You are opening 999,999 doors, someone else just did it for you.')
+Item(by='danielscrubs', descendants=None, kids=[24718253], score=None, time=1602136470, title=None, item_type='comment', url=None, parent=24715269, text='It’s easier to think that you aren’t opening 1 door. You are opening 999,999 doors, someone else just did it for you.')

@@ -1,1 +1,1 @@
-Item(by='p44v9n', descendants=0, kids=None, score=1, time=1602061675, title='A Meditation on Space (In Four Parts)', item_type='story', url='https://openspace.sfmoma.org/2012/07/a-meditation-on-space-in-four-parts/', parent=None, text=None)
+Item(by='p44v9n', descendants=1, kids=[24717512], score=8, time=1602061675, title='A meditation on space in four parts (2012)', item_type='story', url='https://openspace.sfmoma.org/2012/07/a-meditation-on-space-in-four-parts/', parent=None, text=None)

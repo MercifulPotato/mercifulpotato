@@ -1,1 +1,1 @@
-Item(by='maxerickson', descendants=None, kids=None, score=None, time=1602129646, title=None, item_type='comment', url=None, parent=24715525, text='It&#x27;s not un-recyclable, it&#x27;s hard to move around and doesn&#x27;t save a lot of energy compared to new raw materials.')
+Item(by='maxerickson', descendants=None, kids=[24717406], score=None, time=1602129646, title=None, item_type='comment', url=None, parent=24715525, text='It&#x27;s not un-recyclable, it&#x27;s hard to move around and doesn&#x27;t save a lot of energy compared to new raw materials.')

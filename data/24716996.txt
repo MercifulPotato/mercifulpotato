@@ -1,0 +1,1 @@
+Item(by='Rebelgecko', descendants=None, kids=None, score=None, time=1602144398, title=None, item_type='comment', url=None, parent=24716159, text='It was awesome for a use case I had. When sending some raw data, the application was network-bound. When we GZIPd the data, we were horrifically CPU-bound. When we tried ZSTD, it actually made our data rates manageable')
