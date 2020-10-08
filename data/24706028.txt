@@ -1,1 +1,1 @@
-Item(by='aristofun', descendants=None, kids=None, score=None, time=1602055322, title=None, item_type='comment', url=None, parent=24697965, text='#1 skill programmers are paid for is converting requirements (wants, ideas) from human to deterministic reproducable algorithms.')
+Item(by='aristofun', descendants=None, kids=[24715461], score=None, time=1602055322, title=None, item_type='comment', url=None, parent=24697965, text='#1 skill programmers are paid for is converting requirements (wants, ideas) from human to deterministic reproducable algorithms.')

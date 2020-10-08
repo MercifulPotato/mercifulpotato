@@ -1,1 +1,1 @@
-Item(by='dunefox', descendants=0, kids=[24712302], score=2, time=1602101597, title='Lisp and Haskell (2015)', item_type='story', url='https://markkarpov.com/post/lisp-and-haskell.html', parent=None, text=None)
+Item(by='dunefox', descendants=30, kids=[24716525, 24716863, 24716565, 24716449, 24716516, 24712302, 24716635], score=50, time=1602101597, title='Lisp and Haskell (2015)', item_type='story', url='https://markkarpov.com/post/lisp-and-haskell.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='jcelerier', descendants=None, kids=None, score=None, time=1602112644, title=None, item_type='comment', url=None, parent=24712632, text='but can you do it in a couple lines of ugly hacks or grep&#x2F;awk&#x2F;sed scripts at 02:35 AM when shit hits the fan ?')
+Item(by='jcelerier', descendants=None, kids=[24715224], score=None, time=1602112644, title=None, item_type='comment', url=None, parent=24712632, text='but can you do it in a couple lines of ugly hacks or grep&#x2F;awk&#x2F;sed scripts at 02:35 AM when shit hits the fan ?')

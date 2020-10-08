@@ -1,1 +1,1 @@
-Item(by='gamechangr', descendants=None, kids=None, score=None, time=1602121595, title=None, item_type='comment', url=None, parent=24714780, text='That&#x27;s the intent though right?')
+Item(by='gamechangr', descendants=None, kids=[24714826], score=None, time=1602121595, title=None, item_type='comment', url=None, parent=24714780, text='That&#x27;s the intent though right?')

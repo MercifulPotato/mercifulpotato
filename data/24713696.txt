@@ -1,1 +1,1 @@
-Item(by='fouric', descendants=None, kids=None, score=None, time=1602110768, title=None, item_type='comment', url=None, parent=24713255, text='Would you describe these &quot;fundamental technical reasons&quot;?')
+Item(by='fouric', descendants=None, kids=[24716835], score=None, time=1602110768, title=None, item_type='comment', url=None, parent=24713255, text='Would you describe these &quot;fundamental technical reasons&quot;?')

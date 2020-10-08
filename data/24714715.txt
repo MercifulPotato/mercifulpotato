@@ -1,1 +1,1 @@
-Item(by='jseliger', descendants=0, kids=None, score=1, time=1602120331, title='Kim Stanley Robinson: why climate change doesn’t have to be humanity’s end', item_type='story', url='http://nautil.us/issue/90/something-green/kim-stanley-robinson-holds-out-hope', parent=None, text=None)
+Item(by='jseliger', descendants=1, kids=[24715169], score=2, time=1602120331, title='Kim Stanley Robinson: why climate change doesn’t have to be humanity’s end', item_type='story', url='http://nautil.us/issue/90/something-green/kim-stanley-robinson-holds-out-hope', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='analog31', descendants=None, kids=None, score=None, time=1602124368, title=None, item_type='comment', url=None, parent=24711004, text='What I&#x27;d like to know is what 14 points means. What&#x27;s that in decibels? That would tell me if it&#x27;s a meaningful improvement.')
+Item(by='analog31', descendants=None, kids=[24715087], score=None, time=1602124368, title=None, item_type='comment', url=None, parent=24711004, text='What I&#x27;d like to know is what 14 points means. What&#x27;s that in decibels? That would tell me if it&#x27;s a meaningful improvement.')

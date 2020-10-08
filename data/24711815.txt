@@ -1,1 +1,1 @@
-Item(by='Hooke', descendants=7, kids=[24714321, 24714197, 24714675], score=24, time=1602099315, title='The Elusive Peril of Space Junk', item_type='story', url='https://www.newyorker.com/magazine/2020/09/28/the-elusive-peril-of-space-junk', parent=None, text=None)
+Item(by='Hooke', descendants=16, kids=[24714197, 24714321, 24715559, 24716313, 24716048, 24715908, 24715159, 24714675], score=54, time=1602099315, title='The Elusive Peril of Space Junk', item_type='story', url='https://www.newyorker.com/magazine/2020/09/28/the-elusive-peril-of-space-junk', parent=None, text=None)

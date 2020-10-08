@@ -1,1 +1,1 @@
-Item(by='abalaji', descendants=None, kids=None, score=None, time=1602105328, title=None, item_type='comment', url=None, parent=24711797, text='just because you have done something doesn&#x27;t mean you can teach it and vice versa.')
+Item(by='abalaji', descendants=None, kids=[24715574], score=None, time=1602105328, title=None, item_type='comment', url=None, parent=24711797, text='just because you have done something doesn&#x27;t mean you can teach it and vice versa.')

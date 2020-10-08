@@ -1,1 +1,1 @@
-Item(by='amiga', descendants=None, kids=None, score=None, time=1602117142, title=None, item_type='comment', url=None, parent=24714359, text='At what point does freedom of speech qualify the post?')
+Item(by='amiga', descendants=None, kids=[24716571], score=None, time=1602117142, title=None, item_type='comment', url=None, parent=24714359, text='At what point does freedom of speech qualify the post?')

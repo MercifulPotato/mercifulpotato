@@ -1,0 +1,1 @@
+Item(by='coldtea', descendants=None, kids=[24715233, 24714998], score=None, time=1602123124, title=None, item_type='comment', url=None, parent=24714488, text='One issue with Go&#x27;s lack of generics is exactly that it can&#x27;t have such a package (and have it be type safe, fast, and work across all relevant types), except with repeated code.')

@@ -1,1 +1,1 @@
-Item(by='yencabulator', descendants=None, kids=None, score=None, time=1602110176, title=None, item_type='comment', url=None, parent=24712929, text='Taking away a corporation&#x27;s personalisation thing sounds like a good idea.')
+Item(by='yencabulator', descendants=None, kids=[24715999], score=None, time=1602110176, title=None, item_type='comment', url=None, parent=24712929, text='Taking away a corporation&#x27;s personalisation thing sounds like a good idea.')

@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=None, kids=None, score=None, time=1602131168, title=None, item_type='comment', url=None, parent=24711679, text='That&#x27;s perfectly fine functional code you just wrote. Type system trickery can also be FP but a lot (most of?) practical FP code is written in dynamic FP languages like Clojure and Erlang and Elixir, or just Python, TypeScript, etc.')

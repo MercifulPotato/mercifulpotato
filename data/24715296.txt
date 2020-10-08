@@ -1,0 +1,1 @@
+Item(by='d_t_w', descendants=None, kids=None, score=None, time=1602126755, title=None, item_type='comment', url=None, parent=24715090, text='This is exactly how we shipped our JQ-like product feature in 62 lines of Clojure. Just pure functions composed into a single predicate and and a decent grammar to interpret the input JQ.')
