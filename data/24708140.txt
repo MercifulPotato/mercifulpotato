@@ -1,1 +1,1 @@
-Item(by='tequila_shot', descendants=None, kids=None, score=None, time=1602078510, title=None, item_type='comment', url=None, parent=24705558, text='OK, I&#x27;m wrong about it being yesterday (or) do you&#x27;ve any source that the rule is still active?')
+Item(by='tequila_shot', descendants=None, kids=[24713269], score=None, time=1602078510, title=None, item_type='comment', url=None, parent=24705558, text='OK, I&#x27;m wrong about it being yesterday (or) do you&#x27;ve any source that the rule is still active?')

@@ -1,1 +1,1 @@
-Item(by='3np', descendants=0, kids=None, score=1, time=1602099749, title='OAuth 2.0 Security Best Current Practice', item_type='story', url='https://www.ietf.org/id/draft-ietf-oauth-security-topics-16.html', parent=None, text=None)
+Item(by='3np', descendants=0, kids=None, score=4, time=1602099749, title='OAuth 2.0 Security Best Current Practice', item_type='story', url='https://www.ietf.org/id/draft-ietf-oauth-security-topics-16.html', parent=None, text=None)

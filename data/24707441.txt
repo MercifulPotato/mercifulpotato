@@ -1,1 +1,1 @@
-Item(by='tamcap', descendants=None, kids=None, score=None, time=1602073186, title=None, item_type='comment', url=None, parent=24706693, text='Wow, what a plot twist. The Broad Institute researchers got nothing, even though they are currently winning the patent wars. Fascinating.')
+Item(by='tamcap', descendants=None, kids=[24708152], score=None, time=1602073186, title=None, item_type='comment', url=None, parent=24706693, text='Wow, what a plot twist. The Broad Institute researchers got nothing, even though they are currently winning the patent wars. Fascinating.')

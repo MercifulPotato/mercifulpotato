@@ -1,0 +1,1 @@
+Item(by='markawesome', descendants=None, kids=None, score=None, time=1602106971, title=None, item_type='comment', url=None, parent=24711956, text='Startup time for Docker is about 15 seconds, compared to Linux which is immediate. You&#x27;re also going to get additional slowness because Docker is running inside another VM.')

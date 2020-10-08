@@ -1,1 +1,1 @@
-Item(by='est31', descendants=0, kids=None, score=3, time=1602091265, title='Why Nerds Are Unpopular', item_type='story', url='http://www.paulgraham.com/nerds.html', parent=None, text=None)
+Item(by='est31', descendants=13, kids=[24714630, 24714236, 24713641, 24714073, 24714106], score=24, time=1602091265, title='Why Nerds Are Unpopular', item_type='story', url='http://www.paulgraham.com/nerds.html', parent=None, text=None)

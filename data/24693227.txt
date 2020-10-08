@@ -1,1 +1,1 @@
-Item(by='Hooke', descendants=11, kids=[24704624, 24705161, 24704003, 24704016, 24703971, 24704521], score=27, time=1601940763, title='Menger Sponge', item_type='story', url='https://en.wikipedia.org/wiki/Menger_sponge', parent=None, text=None)
+Item(by='Hooke', descendants=12, kids=[24704624, 24711742, 24705161, 24704003, 24704016, 24703971, 24704521], score=27, time=1601940763, title='Menger Sponge', item_type='story', url='https://en.wikipedia.org/wiki/Menger_sponge', parent=None, text=None)

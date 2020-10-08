@@ -1,0 +1,1 @@
+Item(by='Octouroboros', descendants=None, kids=None, score=None, time=1602101372, title=None, item_type='comment', url=None, parent=24698023, text='Hello! As a matter of fact, I just changed the way mistypes are handled to be like this. There will be options for less obtrusive cursors coming soon as well, which I hope should fix the need for larger text.')

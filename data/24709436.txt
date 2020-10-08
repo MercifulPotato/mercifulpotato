@@ -1,1 +1,1 @@
-Item(by='toomuchtodo', descendants=None, kids=None, score=None, time=1602085878, title=None, item_type='comment', url=None, parent=24709000, text='This is unlikely to occur due to management incentives (grow clout, influence, status, etc).')
+Item(by='toomuchtodo', descendants=None, kids=[24713648], score=None, time=1602085878, title=None, item_type='comment', url=None, parent=24709000, text='This is unlikely to occur due to management incentives (grow clout, influence, status, etc).')

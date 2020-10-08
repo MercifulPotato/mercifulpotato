@@ -1,1 +1,1 @@
-Item(by='frosted-flakes', descendants=None, kids=None, score=None, time=1602092374, title=None, item_type='comment', url=None, parent=24709112, text='Well, someone wrote the email. It didn&#x27;t write itself.')
+Item(by='frosted-flakes', descendants=None, kids=[24713061], score=None, time=1602092374, title=None, item_type='comment', url=None, parent=24709112, text='Well, someone wrote the email. It didn&#x27;t write itself.')

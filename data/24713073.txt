@@ -1,0 +1,1 @@
+Item(by='lostmsu', descendants=None, kids=None, score=None, time=1602106845, title=None, item_type='comment', url=None, parent=24711685, text='The ad data (text, layout, media) can still be hidden on the client, but AFAIK with QUIC you can push it to the browser regardless if it actually was requested.')

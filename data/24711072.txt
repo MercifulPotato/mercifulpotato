@@ -1,1 +1,1 @@
-Item(by='tekknolagi', descendants=2, kids=[24711384], score=4, time=1602094793, title='Compiling a Lisp to x86-64: If expressions', item_type='story', url='https://bernsteinbear.com/blog/compiling-a-lisp-8/', parent=None, text=None)
+Item(by='tekknolagi', descendants=4, kids=[24712253, 24711384], score=5, time=1602094793, title='Compiling a Lisp to x86-64: If expressions', item_type='story', url='https://bernsteinbear.com/blog/compiling-a-lisp-8/', parent=None, text=None)

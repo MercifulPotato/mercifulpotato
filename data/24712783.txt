@@ -1,0 +1,1 @@
+Item(by='mgraczyk', descendants=None, kids=None, score=None, time=1602105072, title=None, item_type='comment', url=None, parent=24711915, text='I disagree, there are many ways to solve this problem. for example<p><pre><code>   .company.staff | .pets | flatten | filter .type == &quot;cat&quot; | print(.name + &quot; belongs to &quot; + ..name)</code></pre>')

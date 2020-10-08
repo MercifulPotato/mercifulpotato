@@ -1,1 +1,1 @@
-Item(by='blago', descendants=None, kids=[24696762, 24697322], score=None, time=1601967108, title=None, item_type='comment', url=None, parent=24694947, text='Or we just store the hash and then brute-force it every time we need the original content.')
+Item(by='blago', descendants=None, kids=[24697322, 24696762], score=None, time=1601967108, title=None, item_type='comment', url=None, parent=24694947, text='Or we just store the hash and then brute-force it every time we need the original content.')

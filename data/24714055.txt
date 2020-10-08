@@ -1,0 +1,1 @@
+Item(by='modeless', descendants=None, kids=None, score=None, time=1602113443, title=None, item_type='comment', url=None, parent=24712892, text='Are people using named tensors a lot these days? I haven&#x27;t seen a lot of code using them but I also haven&#x27;t been looking at a lot of tensor code lately.')

@@ -1,1 +1,1 @@
-Item(by='google234123', descendants=None, kids=None, score=None, time=1602099216, title=None, item_type='comment', url=None, parent=24711314, text='I wonder if either of the two teachers have actually worked on a large system before.')
+Item(by='google234123', descendants=None, kids=[24713411, 24712144, 24712198, 24712830], score=None, time=1602099216, title=None, item_type='comment', url=None, parent=24711314, text='I wonder if either of the two teachers have actually worked on a large system before.')

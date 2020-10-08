@@ -1,1 +1,1 @@
-Item(by='berti', descendants=None, kids=None, score=None, time=1602098959, title=None, item_type='comment', url=None, parent=24711531, text='That may be so for the camera division but not for PlayStation. My PS3 takes a standard 2.5” drive. Not sure about PS4.')
+Item(by='berti', descendants=None, kids=[24712420, 24714766], score=None, time=1602098959, title=None, item_type='comment', url=None, parent=24711531, text='That may be so for the camera division but not for PlayStation. My PS3 takes a standard 2.5” drive. Not sure about PS4.')

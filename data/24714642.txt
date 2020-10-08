@@ -1,0 +1,1 @@
+Item(by='Animats', descendants=None, kids=None, score=None, time=1602119465, title=None, item_type='comment', url=None, parent=24713008, text='A related question: is it faster because it sends less data, or is it faster because it grabs more of the bandwidth by not using TCP-type congestion control?')

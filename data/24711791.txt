@@ -1,1 +1,1 @@
-Item(by='shmerl', descendants=None, kids=None, score=None, time=1602099196, title=None, item_type='comment', url=None, parent=24711054, text='<i>&gt; Microsoft ≮3 Linux</i><p>Yeah, totally considering how hostile MS gaming division is towards Linux gaming and Vulkan adoption.')
+Item(by='shmerl', descendants=None, kids=[24712155], score=None, time=1602099196, title=None, item_type='comment', url=None, parent=24711054, text='<i>&gt; Microsoft ≮3 Linux</i><p>Yeah, totally considering how hostile MS gaming division is towards Linux gaming and Vulkan adoption.')

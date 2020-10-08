@@ -1,0 +1,1 @@
+Item(by='coddle-hark', descendants=None, kids=None, score=None, time=1602103941, title=None, item_type='comment', url=None, parent=24712381, text='Nope, that’s the easy part! You don’t avoid TCP issues altogether though, all the usual behaviours of TCP are still there with respect to packet loss, latency, jitter etc.')

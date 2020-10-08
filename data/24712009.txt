@@ -1,1 +1,1 @@
-Item(by='sealmove', descendants=0, kids=None, score=1, time=1602100366, title='Oblivion: Shell Command Manager', item_type='story', url='https://github.com/sealmove/oblivion', parent=None, text=None)
+Item(by='sealmove', descendants=0, kids=None, score=2, time=1602100366, title='Oblivion: Shell Alias Manager', item_type='story', url='https://github.com/sealmove/oblivion', parent=None, text=None)

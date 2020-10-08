@@ -1,1 +1,1 @@
-Item(by='buttersbrian', descendants=None, kids=None, score=None, time=1602096620, title=None, item_type='comment', url=None, parent=24710873, text='looking for contributors?')
+Item(by='buttersbrian', descendants=None, kids=[24712336], score=None, time=1602096620, title=None, item_type='comment', url=None, parent=24710873, text='looking for contributors?')

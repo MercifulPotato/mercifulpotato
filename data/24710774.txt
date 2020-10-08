@@ -1,1 +1,1 @@
-Item(by='frankmcsherry', descendants=None, kids=None, score=None, time=1602093054, title=None, item_type='comment', url=None, parent=24709144, text='It&#x27;s a bit different, right, because that paper presents <i>better</i> algorithms on the <i>same</i> datasets as the work it cites.')
+Item(by='frankmcsherry', descendants=None, kids=[24712613], score=None, time=1602093054, title=None, item_type='comment', url=None, parent=24709144, text='It&#x27;s a bit different, right, because that paper presents <i>better</i> algorithms on the <i>same</i> datasets as the work it cites.')

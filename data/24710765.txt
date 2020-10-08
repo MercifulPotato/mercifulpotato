@@ -1,1 +1,1 @@
-Item(by='gbrown_', descendants=0, kids=None, score=3, time=1602092995, title='Zheap: Reinvented PostgreSQL Storage', item_type='story', url='https://www.cybertec-postgresql.com/en/zheap-reinvented-postgresql-storage/', parent=None, text=None)
+Item(by='gbrown_', descendants=2, kids=[24713747, 24713171], score=20, time=1602092995, title='Zheap: Reinvented PostgreSQL Storage', item_type='story', url='https://www.cybertec-postgresql.com/en/zheap-reinvented-postgresql-storage/', parent=None, text=None)

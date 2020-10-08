@@ -1,1 +1,1 @@
-Item(by='djmips', descendants=None, kids=None, score=None, time=1602092143, title=None, item_type='comment', url=None, parent=24708364, text='3:55 blu ray drive.')
+Item(by='djmips', descendants=None, kids=[24713430], score=None, time=1602092143, title=None, item_type='comment', url=None, parent=24708364, text='3:55 blu ray drive.')

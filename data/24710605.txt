@@ -1,1 +1,1 @@
-Item(by='cee-studio', descendants=0, kids=None, score=4, time=1602091998, title="C Posix function 'tdelete()' has a memory bug since its inception", item_type='story', url='https://www.cee.studio/tdelete.html', parent=None, text=None)
+Item(by='cee-studio', descendants=0, kids=None, score=5, time=1602091998, title="C Posix function 'tdelete()' has a memory bug since its inception", item_type='story', url='https://www.cee.studio/tdelete.html', parent=None, text=None)

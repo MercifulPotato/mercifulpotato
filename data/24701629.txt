@@ -1,1 +1,1 @@
-Item(by='jessriedel', descendants=None, kids=None, score=None, time=1602013730, title=None, item_type='comment', url=None, parent=24698881, text='By what factor does it increase the apparent fovea size?')
+Item(by='jessriedel', descendants=None, kids=[24713905], score=None, time=1602013730, title=None, item_type='comment', url=None, parent=24698881, text='By what factor does it increase the apparent fovea size?')
