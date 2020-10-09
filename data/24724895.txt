@@ -1,0 +1,1 @@
+Item(by='d-sc', descendants=None, kids=[24725739], score=None, time=1602198271, title=None, item_type='comment', url=None, parent=24724267, text='Wait what? Uart is active low. So it’s not to hard to bump the 12V down to 5V, but what happened with the -12V?')

@@ -1,0 +1,1 @@
+Item(by='cma', descendants=None, kids=None, score=None, time=1602191817, title=None, item_type='comment', url=None, parent=24723942, text='The difference they talked about is it is now uniform latency instead of split into two blocks of 16MB accessible at different latencies depending on which group of four cores you are on.')

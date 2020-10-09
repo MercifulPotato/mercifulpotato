@@ -1,0 +1,1 @@
+Item(by='dmpetrov', descendants=None, kids=None, score=None, time=1602193830, title=None, item_type='comment', url=None, parent=24721099, text='That&#x27;s might be fine. Anyway, you need to retrain your models quite often due to the concept drift. Solving data problems like this is just a part of model retraining (and concept drift).')

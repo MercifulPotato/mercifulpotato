@@ -1,1 +1,1 @@
-Item(by='rocketpastsix', descendants=None, kids=None, score=None, time=1602184780, title=None, item_type='comment', url=None, parent=24722687, text='I highly doubt they walked in the door, spent 8 hours talking politics and collected their paychecks every month.')
+Item(by='rocketpastsix', descendants=None, kids=[24724100, 24722991], score=None, time=1602184780, title=None, item_type='comment', url=None, parent=24722687, text='I highly doubt they walked in the door, spent 8 hours talking politics and collected their paychecks every month.')

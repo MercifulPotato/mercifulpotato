@@ -1,0 +1,1 @@
+Item(by='neilalexander', descendants=None, kids=None, score=None, time=1602190718, title=None, item_type='comment', url=None, parent=24723187, text='Dendrite can be built and run as a single binary. Kafka is only needed if you want to run the microservices as separate processes.')

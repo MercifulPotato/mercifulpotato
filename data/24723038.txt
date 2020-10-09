@@ -1,1 +1,1 @@
-Item(by='jaywalk', descendants=None, kids=None, score=None, time=1602186333, title=None, item_type='comment', url=None, parent=24721586, text='Imagine bending one of those pins as you&#x27;re putting it in.')
+Item(by='jaywalk', descendants=None, kids=[24725061], score=None, time=1602186333, title=None, item_type='comment', url=None, parent=24721586, text='Imagine bending one of those pins as you&#x27;re putting it in.')

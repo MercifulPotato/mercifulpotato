@@ -1,1 +1,1 @@
-Item(by='igoradamenko', descendants=0, kids=None, score=1, time=1602071485, title='Show HN: Optimizt – CLI image optimization tool for front end developers', item_type='story', url='https://github.com/funbox/optimizt', parent=None, text=None)
+Item(by='igoradamenko', descendants=4, kids=[24723689, 24725464, 24724175], score=25, time=1602071485, title='Show HN: Optimizt – CLI image optimization tool for front end developers', item_type='story', url='https://github.com/funbox/optimizt', parent=None, text=None)

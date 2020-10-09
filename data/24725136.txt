@@ -1,0 +1,1 @@
+Item(by='DCKing', descendants=None, kids=None, score=None, time=1602200371, title=None, item_type='comment', url=None, parent=24723560, text='As far as I know all Threadripper chips and board were required to support ECC. Mind you this means <i>UDIMM</i> ECC commonly targeted at workstations, not the RDIMM ECC used in servers.')

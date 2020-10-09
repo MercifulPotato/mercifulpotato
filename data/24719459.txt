@@ -1,1 +1,1 @@
-Item(by='closeparen', descendants=None, kids=None, score=None, time=1602167959, title=None, item_type='comment', url=None, parent=24715704, text='A Hyundai Elantra maybe.')
+Item(by='closeparen', descendants=None, kids=[24724169], score=None, time=1602167959, title=None, item_type='comment', url=None, parent=24715704, text='A Hyundai Elantra maybe.')

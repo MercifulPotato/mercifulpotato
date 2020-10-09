@@ -1,1 +1,1 @@
-Item(by='mey', descendants=None, kids=None, score=None, time=1602181610, title=None, item_type='comment', url=None, parent=24721114, text='Been a long time since I&#x27;ve done heavy C++ development (long time) but how does Fastbuild compare to Incredibuild?')
+Item(by='mey', descendants=None, kids=[24723576], score=None, time=1602181610, title=None, item_type='comment', url=None, parent=24721114, text='Been a long time since I&#x27;ve done heavy C++ development (long time) but how does Fastbuild compare to Incredibuild?')

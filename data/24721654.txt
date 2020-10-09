@@ -1,1 +1,1 @@
-Item(by='basch', descendants=None, kids=None, score=None, time=1602179047, title=None, item_type='comment', url=None, parent=24715922, text='There are only three situations. Initial pick in parentheses.<p>(C)GG - switch and lose<p>(G)CG - switch and win<p>(G)GC - switch and win')
+Item(by='basch', descendants=None, kids=[24723393], score=None, time=1602179047, title=None, item_type='comment', url=None, parent=24715922, text='There are only three situations. Initial pick in parentheses.<p>(C)GG - switch and lose<p>(G)CG - switch and win<p>(G)GC - switch and win')

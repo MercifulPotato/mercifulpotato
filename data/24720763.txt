@@ -1,1 +1,1 @@
-Item(by='Xelbair', descendants=None, kids=None, score=None, time=1602174810, title=None, item_type='comment', url=None, parent=24720657, text='mods can give posts a second chance, by hand. but only once per post.')
+Item(by='Xelbair', descendants=None, kids=[24723842], score=None, time=1602174810, title=None, item_type='comment', url=None, parent=24720657, text='mods can give posts a second chance, by hand. but only once per post.')

@@ -1,1 +1,1 @@
-Item(by='AndrewBissell', descendants=0, kids=None, score=3, time=1602184549, title="After the QAnon Ban, Who's Next?", item_type='story', url='https://taibbi.substack.com/p/after-the-qanon-ban-whos-next', parent=None, text=None)
+Item(by='AndrewBissell', descendants=30, kids=[24723383, 24723193, 24725038, 24723007, 24723133, 24723232], score=18, time=1602184549, title="After the QAnon Ban, Who's Next?", item_type='story', url='https://taibbi.substack.com/p/after-the-qanon-ban-whos-next', parent=None, text=None)

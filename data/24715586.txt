@@ -1,1 +1,1 @@
-Item(by='candlemas', descendants=None, kids=None, score=None, time=1602129298, title=None, item_type='comment', url=None, parent=24714762, text='I&#x27;m going to try licking a 9 volt battery.')
+Item(by='candlemas', descendants=None, kids=[24726055], score=None, time=1602129298, title=None, item_type='comment', url=None, parent=24714762, text='I&#x27;m going to try licking a 9 volt battery.')

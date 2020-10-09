@@ -1,1 +1,1 @@
-Item(by='qu4z-2', descendants=None, kids=None, score=None, time=1602188434, title=None, item_type='comment', url=None, parent=24721552, text='I&#x27;m seconding this. I&#x27;m in New Zealand and Hacker News is easily one of the most responsive sites on the web, in my experience.')
+Item(by='qu4z-2', descendants=None, kids=[24724817], score=None, time=1602188434, title=None, item_type='comment', url=None, parent=24721552, text='I&#x27;m seconding this. I&#x27;m in New Zealand and Hacker News is easily one of the most responsive sites on the web, in my experience.')

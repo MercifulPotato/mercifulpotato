@@ -1,1 +1,1 @@
-Item(by='danaris', descendants=None, kids=None, score=None, time=1602183950, title=None, item_type='comment', url=None, parent=24722533, text='iCloud wasn&#x27;t cracked. They used social engineering to gain access to the accounts.')
+Item(by='danaris', descendants=None, kids=[24725443, 24724409], score=None, time=1602183950, title=None, item_type='comment', url=None, parent=24722533, text='iCloud wasn&#x27;t cracked. They used social engineering to gain access to the accounts.')

@@ -1,1 +1,1 @@
-Item(by='teslalang', descendants=None, kids=None, score=None, time=1602183522, title=None, item_type='comment', url=None, parent=24720522, text='If you care about your kids’ education, home school them.')
+Item(by='teslalang', descendants=None, kids=[24724524, 24723102], score=None, time=1602183522, title=None, item_type='comment', url=None, parent=24720522, text='If you care about your kids’ education, home school them.')

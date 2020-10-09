@@ -1,1 +1,1 @@
-Item(by='malisper', descendants=0, kids=None, score=3, time=1602179780, title='What Is Snowflake and Why Is It Exciting?', item_type='story', url='https://www.freshpaint.io/blog/what-is-snowflake-and-why-is-it-exciting', parent=None, text=None)
+Item(by='malisper', descendants=1, kids=[24723449], score=4, time=1602179780, title='What Is Snowflake and Why Is It Exciting?', item_type='story', url='https://www.freshpaint.io/blog/what-is-snowflake-and-why-is-it-exciting', parent=None, text=None)

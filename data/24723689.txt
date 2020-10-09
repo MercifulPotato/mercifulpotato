@@ -1,0 +1,1 @@
+Item(by='darekkay', descendants=None, kids=[24724351], score=None, time=1602189543, title=None, item_type='comment', url=None, parent=24707267, text='It looks like an imagemin&#x2F;svgo wrapper, which are both great tools. You might consider not pinning your dependencies, so users get at least minor 3rd party updates without you having to release a new version every time.')

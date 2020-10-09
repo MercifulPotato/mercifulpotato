@@ -1,0 +1,1 @@
+Item(by='mlindner', descendants=None, kids=None, score=None, time=1602188481, title=None, item_type='comment', url=None, parent=24719774, text='Because it has no purpose in normal Rust code as it&#x27;s already guaranteed to be safe. It&#x27;s only purpose would be on {unsafe code, inline assembly} and is just a performance penalty otherwise.')

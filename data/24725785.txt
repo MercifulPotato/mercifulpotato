@@ -1,0 +1,1 @@
+Item(by='hodgesrm', descendants=None, kids=None, score=None, time=1602206783, title=None, item_type='comment', url=None, parent=24720583, text='Which existing data warehouses do you mean? ClickHouse and Druid can return answers in millisecond. Data warehouses are starting to optimize for low latency response.<p>Disclaimer: My company supports ClickHouse.')

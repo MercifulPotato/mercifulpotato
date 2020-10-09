@@ -1,1 +1,1 @@
-Item(by='danwills', descendants=0, kids=None, score=2, time=1602159131, title='Why Not to Try to Email Brian Eno', item_type='story', url='http://music.hyperreal.org/artists/brian_eno/email.html', parent=None, text=None)
+Item(by='danwills', descendants=13, kids=[24725457, 24725624, 24725528, 24725653, 24725630, 24725663, 24725604, 24725491, 24725563, 24725666, 24725506], score=28, time=1602159131, title='Why Not to Try to Email Brian Eno (2000)', item_type='story', url='http://music.hyperreal.org/artists/brian_eno/email.html', parent=None, text=None)

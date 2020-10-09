@@ -1,1 +1,1 @@
-Item(by='markus_zhang', descendants=None, kids=None, score=None, time=1602178930, title=None, item_type='comment', url=None, parent=24720959, text='Wow I don&#x27;t know they still sell the ribbons...')
+Item(by='markus_zhang', descendants=None, kids=[24724676], score=None, time=1602178930, title=None, item_type='comment', url=None, parent=24720959, text='Wow I don&#x27;t know they still sell the ribbons...')

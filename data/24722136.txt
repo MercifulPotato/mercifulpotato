@@ -1,1 +1,1 @@
-Item(by='siraben', descendants=0, kids=None, score=2, time=1602181626, title='Haskell Language Server 0.5.0: Case splitting and auto filling of typed holes', item_type='story', url='https://github.com/haskell/haskell-language-server/releases/tag/0.5.0', parent=None, text=None)
+Item(by='siraben', descendants=0, kids=None, score=3, time=1602181626, title='Haskell Language Server 0.5.0: Case splitting and auto filling of typed holes', item_type='story', url='https://github.com/haskell/haskell-language-server/releases/tag/0.5.0', parent=None, text=None)

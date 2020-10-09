@@ -1,0 +1,1 @@
+Item(by='moonchild', descendants=None, kids=[24725798, 24725211], score=None, time=1602195958, title=None, item_type='comment', url=None, parent=24723308, text='That all happens on the GPU.  There&#x27;s a tiny (trivial) amount of linalg on the CPU and the rest is punted to shaders.')

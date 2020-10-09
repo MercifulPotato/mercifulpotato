@@ -1,1 +1,1 @@
-Item(by='cblconfederate', descendants=None, kids=None, score=None, time=1602183679, title=None, item_type='comment', url=None, parent=24720556, text='Why is everyone investing in &quot;cloud&quot;? Datacenters became a cheap commodity the first time. Why not this time?')
+Item(by='cblconfederate', descendants=None, kids=[24724043, 24723590, 24723530], score=None, time=1602183679, title=None, item_type='comment', url=None, parent=24720556, text='Why is everyone investing in &quot;cloud&quot;? Datacenters became a cheap commodity the first time. Why not this time?')

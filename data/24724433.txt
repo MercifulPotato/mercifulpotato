@@ -1,0 +1,1 @@
+Item(by='smarx007', descendants=None, kids=None, score=None, time=1602194778, title=None, item_type='comment', url=None, parent=24723974, text='Automatic vectorization for AVX512 would work on the simplest of cases and using intrinsics or writing inline assembly is beyond the scope of 99% of software projects.')

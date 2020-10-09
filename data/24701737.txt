@@ -1,1 +1,1 @@
-Item(by='stopachka', descendants=17, kids=[24705000, 24706883, 24704586, 24704553, 24704465, 24706457, 24704129], score=161, time=1602014460, title='Simulating Machines in Clojure', item_type='story', url='https://stopa.io/post/255', parent=None, text=None)
+Item(by='stopachka', descendants=17, kids=[24705000, 24704586, 24706883, 24704553, 24704465, 24706457, 24704129], score=161, time=1602014460, title='Simulating Machines in Clojure', item_type='story', url='https://stopa.io/post/255', parent=None, text=None)

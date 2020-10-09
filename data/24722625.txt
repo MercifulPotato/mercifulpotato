@@ -1,1 +1,1 @@
-Item(by='phkahler', descendants=None, kids=None, score=None, time=1602184203, title=None, item_type='comment', url=None, parent=24721289, text='I ran one of those until a couple years ago when I got the 2400G APU. What a nice upgrade. Even better parts available now.')
+Item(by='phkahler', descendants=None, kids=[24724406], score=None, time=1602184203, title=None, item_type='comment', url=None, parent=24721289, text='I ran one of those until a couple years ago when I got the 2400G APU. What a nice upgrade. Even better parts available now.')

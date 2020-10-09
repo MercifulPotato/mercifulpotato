@@ -1,1 +1,1 @@
-Item(by='ryanlol', descendants=None, kids=None, score=None, time=1602181867, title=None, item_type='comment', url=None, parent=24718809, text='That’s not a billion dollar vulnerability, you can buy recent copies of this source code for a million dollars.')
+Item(by='ryanlol', descendants=None, kids=[24725155], score=None, time=1602181867, title=None, item_type='comment', url=None, parent=24718809, text='That’s not a billion dollar vulnerability, you can buy recent copies of this source code for a million dollars.')

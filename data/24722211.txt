@@ -1,1 +1,1 @@
-Item(by='SQueeeeeL', descendants=None, kids=None, score=None, time=1602181933, title=None, item_type='comment', url=None, parent=24720070, text='Pretty sure it takes in an HTML page, finds the tables, and automatically spits it into an Infograph (a fancy picture)')
+Item(by='SQueeeeeL', descendants=None, kids=[24725234], score=None, time=1602181933, title=None, item_type='comment', url=None, parent=24720070, text='Pretty sure it takes in an HTML page, finds the tables, and automatically spits it into an Infograph (a fancy picture)')

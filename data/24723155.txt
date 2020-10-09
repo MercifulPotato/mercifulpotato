@@ -1,1 +1,1 @@
-Item(by='jokethrowaway', descendants=None, kids=None, score=None, time=1602186899, title=None, item_type='comment', url=None, parent=24722665, text='This is great, thanks for sharing!<p>I had good results with genetic algorithms as well.')
+Item(by='jokethrowaway', descendants=None, kids=[24723684], score=None, time=1602186899, title=None, item_type='comment', url=None, parent=24722665, text='This is great, thanks for sharing!<p>I had good results with genetic algorithms as well.')

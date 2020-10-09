@@ -1,0 +1,1 @@
+Item(by='markawesome', descendants=None, kids=None, score=None, time=1602193799, title=None, item_type='comment', url=None, parent=24716805, text='I was referring to the actual Docker service startup time for Windows. Once it is started, of course it is going to be much faster. I&#x27;m getting half that on Linux on an computer from 2012.')
