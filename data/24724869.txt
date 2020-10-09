@@ -1,1 +1,1 @@
-Item(by='ummonk', descendants=None, kids=None, score=None, time=1602198043, title=None, item_type='comment', url=None, parent=24722312, text='Yeah it&#x27;s weird so few took it up given how low median tenure in tech tends to be.')
+Item(by='ummonk', descendants=None, kids=[24727449], score=None, time=1602198043, title=None, item_type='comment', url=None, parent=24722312, text='Yeah it&#x27;s weird so few took it up given how low median tenure in tech tends to be.')

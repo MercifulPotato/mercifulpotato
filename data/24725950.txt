@@ -1,1 +1,1 @@
-Item(by='svrma', descendants=0, kids=None, score=1, time=1602208537, title='Ask HN: How to Think Systematically as a Programmer?', item_type='story', url=None, parent=None, text='How do you structure your thinking to minimize bugs, cover corner cases, make reductions, etc?')
+Item(by='svrma', descendants=5, kids=[24727189, 24726047], score=7, time=1602208537, title='Ask HN: How to Think Systematically as a Programmer?', item_type='story', url=None, parent=None, text='How do you structure your thinking to minimize bugs, cover corner cases, make reductions, etc?')

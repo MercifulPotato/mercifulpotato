@@ -1,1 +1,1 @@
-Item(by='sjg007', descendants=None, kids=None, score=None, time=1602180720, title=None, item_type='comment', url=None, parent=24720683, text='It does go back to the compaq days when they clean room cloned the IBM PC.')
+Item(by='sjg007', descendants=None, kids=[24726421], score=None, time=1602180720, title=None, item_type='comment', url=None, parent=24720683, text='It does go back to the compaq days when they clean room cloned the IBM PC.')

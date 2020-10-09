@@ -1,1 +1,1 @@
-Item(by='polyomino', descendants=None, kids=None, score=None, time=1602212058, title=None, item_type='comment', url=None, parent=24726009, text='I think the core function of a product should be up to the people making it, not congress.')
+Item(by='polyomino', descendants=None, kids=[24726551, 24726351], score=None, time=1602212058, title=None, item_type='comment', url=None, parent=24726009, text='I think the core function of a product should be up to the people making it, not congress.')

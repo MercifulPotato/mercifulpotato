@@ -1,0 +1,1 @@
+Item(by='pepoluan', descendants=None, kids=None, score=None, time=1602217449, title=None, item_type='comment', url=None, parent=24724381, text='&gt; and there&#x27;s no way of interrogating them at runtime, sigh<p>Well, directly, no.<p>Indirectly ... find the model and use a lookup table to find how many FMA units it has :P')

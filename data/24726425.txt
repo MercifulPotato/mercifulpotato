@@ -1,0 +1,1 @@
+Item(by='imstate', descendants=None, kids=[24726463], score=None, time=1602213588, title=None, item_type='comment', url=None, parent=24725916, text='currently the PCIe card would need some kind of driver to be written on the OS to communicate with it.<p>There&#x27;s SoC devices that have a soft processor on it that runs a linux kernel and can communicate with the FPGA.')

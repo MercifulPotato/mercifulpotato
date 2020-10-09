@@ -1,1 +1,1 @@
-Item(by='nl', descendants=None, kids=None, score=None, time=1602202814, title=None, item_type='comment', url=None, parent=24725147, text='Oddly at the moment the title includes &quot;(2018)&quot;!')
+Item(by='nl', descendants=None, kids=[24725929], score=None, time=1602202814, title=None, item_type='comment', url=None, parent=24725147, text='Oddly at the moment the title includes &quot;(2018)&quot;!')

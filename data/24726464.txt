@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=None, kids=None, score=None, time=1602214022, title=None, item_type='comment', url=None, parent=24723467, text='There&#x27;s no formal verification that uses of unsafe in the standard library are correct and there are no bugs. (Of course goes for other libs too). So this justification doesn&#x27;t really feel robust.')

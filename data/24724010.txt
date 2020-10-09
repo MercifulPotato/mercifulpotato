@@ -1,1 +1,1 @@
-Item(by='luu', descendants=0, kids=None, score=4, time=1602191606, title='Google Serverless Gripes', item_type='story', url='https://medium.com/@dweekly/google-serverless-gripes-f447f0a7fdfa', parent=None, text=None)
+Item(by='luu', descendants=1, kids=[24726471], score=8, time=1602191606, title='Google Serverless Gripes', item_type='story', url='https://medium.com/@dweekly/google-serverless-gripes-f447f0a7fdfa', parent=None, text=None)

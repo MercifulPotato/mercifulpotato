@@ -1,1 +1,1 @@
-Item(by='AstralStorm', descendants=None, kids=None, score=None, time=1602174070, title=None, item_type='comment', url=None, parent=24720495, text='OpenJDK is not released under GPL, but a much more permissive license.')
+Item(by='AstralStorm', descendants=None, kids=[24726934], score=None, time=1602174070, title=None, item_type='comment', url=None, parent=24720495, text='OpenJDK is not released under GPL, but a much more permissive license.')

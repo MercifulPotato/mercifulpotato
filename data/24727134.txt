@@ -1,0 +1,1 @@
+Item(by='djur', descendants=None, kids=None, score=None, time=1602221406, title=None, item_type='comment', url=None, parent=24722119, text='This isn&#x27;t really a good answer for someone who wants a regex engine. People use regexes for a lot of things where a full-fledged parser would be overkill, and I&#x27;m not sure what serialization has to do with anything.')

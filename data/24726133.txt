@@ -1,1 +1,1 @@
-Item(by='tenryuu', descendants=None, kids=None, score=None, time=1602210572, title=None, item_type='comment', url=None, parent=24725979, text='I skimmed this, but this goes over getting banned from Xbox Live, the network service, not a system that prevents you from using the console')
+Item(by='tenryuu', descendants=None, kids=[24726402], score=None, time=1602210572, title=None, item_type='comment', url=None, parent=24725979, text='I skimmed this, but this goes over getting banned from Xbox Live, the network service, not a system that prevents you from using the console')

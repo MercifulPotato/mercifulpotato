@@ -1,1 +1,1 @@
-Item(by='pedrocr', descendants=None, kids=None, score=None, time=1602186915, title=None, item_type='comment', url=None, parent=24723126, text='They&#x27;ve already announced it. You&#x27;re assuming the retail availability will take a while?')
+Item(by='pedrocr', descendants=None, kids=[24726962], score=None, time=1602186915, title=None, item_type='comment', url=None, parent=24723126, text='They&#x27;ve already announced it. You&#x27;re assuming the retail availability will take a while?')

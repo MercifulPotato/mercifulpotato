@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=2, kids=[24719760, 24721517], score=23, time=1602064271, title='An Introduction to LLDB Reproducers', item_type='story', url='https://pspdfkit.com/blog/2020/an-introduction-to-lldb-reproducers/', parent=None, text=None)
+Item(by='ingve', descendants=3, kids=[24727256, 24719760, 24721517], score=25, time=1602064271, title='An Introduction to LLDB Reproducers', item_type='story', url='https://pspdfkit.com/blog/2020/an-introduction-to-lldb-reproducers/', parent=None, text=None)

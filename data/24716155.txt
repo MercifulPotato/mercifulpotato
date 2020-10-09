@@ -1,1 +1,1 @@
-Item(by='asdff', descendants=None, kids=None, score=None, time=1602135110, title=None, item_type='comment', url=None, parent=24715944, text='the nut dispenser aisle in many grocery stores is unmanned and not a loss leader by any means. one need only bring their own vessel.')
+Item(by='asdff', descendants=None, kids=[24726203], score=None, time=1602135110, title=None, item_type='comment', url=None, parent=24715944, text='the nut dispenser aisle in many grocery stores is unmanned and not a loss leader by any means. one need only bring their own vessel.')
