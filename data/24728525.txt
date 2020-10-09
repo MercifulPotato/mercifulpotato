@@ -1,1 +1,1 @@
-Item(by='alltakendamned', descendants=0, kids=None, score=1, time=1602239304, title='Ask HN: Can you recommend a book for founders on how to do founder-led sales?', item_type='story', url=None, parent=None, text=None)
+Item(by='alltakendamned', descendants=1, kids=[24730420], score=1, time=1602239304, title='Ask HN: Can you recommend a book for founders on how to do founder-led sales?', item_type='story', url=None, parent=None, text=None)

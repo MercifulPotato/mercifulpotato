@@ -1,1 +1,1 @@
-Item(by='bitcharmer', descendants=None, kids=None, score=None, time=1602231901, title=None, item_type='comment', url=None, parent=24724828, text='This is very interesting.<p>Where can I find more details on crystal quality in popular CPUs like Intel&#x27;s Xeons?')
+Item(by='bitcharmer', descendants=None, kids=[24731273], score=None, time=1602231901, title=None, item_type='comment', url=None, parent=24724828, text='This is very interesting.<p>Where can I find more details on crystal quality in popular CPUs like Intel&#x27;s Xeons?')

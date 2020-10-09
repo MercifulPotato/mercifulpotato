@@ -1,0 +1,1 @@
+Item(by='admax88q', descendants=None, kids=None, score=None, time=1602261832, title=None, item_type='comment', url=None, parent=24727283, text='I wonder how many bugs C strings have been responsible for, all because storing a null byte at the end seems more efficient than storing a length up front.')

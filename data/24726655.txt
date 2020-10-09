@@ -1,1 +1,1 @@
-Item(by='MeinBlutIstBlau', descendants=None, kids=None, score=None, time=1602215819, title=None, item_type='comment', url=None, parent=24726582, text='Benjamin Franklin helps')
+Item(by='MeinBlutIstBlau', descendants=None, kids=[24729978], score=None, time=1602215819, title=None, item_type='comment', url=None, parent=24726582, text='Benjamin Franklin helps')

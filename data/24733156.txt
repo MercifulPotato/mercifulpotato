@@ -1,0 +1,1 @@
+Item(by='nendroid', descendants=None, kids=None, score=None, time=1602269770, title=None, item_type='comment', url=None, parent=24733127, text='Tables are composable but the expression itself cannot be decomposed. I cannot reuse a where clause somewhere else; that is the fundamental problem the article addresses.')

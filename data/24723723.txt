@@ -1,1 +1,1 @@
-Item(by='pier25', descendants=None, kids=None, score=None, time=1602189679, title=None, item_type='comment', url=None, parent=24723528, text='And what about Xamarin?')
+Item(by='pier25', descendants=None, kids=[24732445], score=None, time=1602189679, title=None, item_type='comment', url=None, parent=24723528, text='And what about Xamarin?')

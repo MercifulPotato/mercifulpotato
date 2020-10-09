@@ -1,0 +1,1 @@
+Item(by='Athas', descendants=None, kids=[24732956, 24732808], score=None, time=1602267548, title=None, item_type='comment', url=None, parent=24732709, text='It matters when doing multidimensional index arithmetic.  The formulae for ranking and unranking multi-dimensional to flat indexes are neater with 0-indexing than with 1-indexing.')

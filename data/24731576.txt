@@ -1,0 +1,1 @@
+Item(by='defanor', descendants=None, kids=None, score=None, time=1602261050, title=None, item_type='comment', url=None, parent=24730480, text='&gt; does anyone know if text only (rather than html) messages more likely to get past spam&#x2F;newsletter filters?<p>At least SpamAssassin checks for that, and IIRC HTML increases the spam score by default.')

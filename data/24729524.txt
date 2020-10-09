@@ -1,0 +1,1 @@
+Item(by='ddorian43', descendants=None, kids=None, score=None, time=1602249006, title=None, item_type='comment', url=None, parent=24729241, text='Yep. Not even minio, or aistore(nvidia), ceph etc<p>Only ambry(linkedin) AFAIK, but has no erasure coding.')

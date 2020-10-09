@@ -1,0 +1,1 @@
+Item(by='ogogmad', descendants=None, kids=[24732786, 24732769], score=None, time=1602267083, title=None, item_type='comment', url=None, parent=24731833, text='<p><pre><code>  - Arrays start at one\n</code></pre>\nWhy is this such a big deal? You just change the range of your for-loops from 0&lt;=i&lt;n to 1&lt;=i&lt;=n. Are you using cyclic buffers?')

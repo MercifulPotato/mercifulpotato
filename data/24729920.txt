@@ -1,1 +1,1 @@
-Item(by='kittiepryde', descendants=None, kids=None, score=None, time=1602251716, title=None, item_type='comment', url=None, parent=24729846, text='Sometimes the other choice is unemployment without hope for education.')
+Item(by='kittiepryde', descendants=None, kids=[24729964, 24730079], score=None, time=1602251716, title=None, item_type='comment', url=None, parent=24729846, text='Sometimes the other choice is unemployment without hope for education.')

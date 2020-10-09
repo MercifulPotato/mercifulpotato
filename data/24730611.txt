@@ -1,0 +1,1 @@
+Item(by='Sukera', descendants=None, kids=None, score=None, time=1602256246, title=None, item_type='comment', url=None, parent=24730466, text='To each their own, but I usually try to refactor when I hit too many nested loops or branched statements - it&#x27;s usually a sign of missing some abstraction or trying to be too clever.')

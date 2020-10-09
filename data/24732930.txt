@@ -1,0 +1,1 @@
+Item(by='mkovach', descendants=None, kids=None, score=None, time=1602268476, title=None, item_type='comment', url=None, parent=24712166, text='I use rc quite often for a default shell when circumstances allow me. Heck, I hacked up rc-httpd, a web server written with rc, for a few projects and it work out nicely.')

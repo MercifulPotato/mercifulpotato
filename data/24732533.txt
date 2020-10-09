@@ -1,0 +1,1 @@
+Item(by='kej', descendants=None, kids=[24732586, 24732551], score=None, time=1602266140, title=None, item_type='comment', url=None, parent=24729218, text='I was under the impression that curl worked on more platforms than Rust and LLVM. It will be interesting to see what happens to curl support on those platforms going forward.')

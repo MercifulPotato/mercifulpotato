@@ -1,0 +1,1 @@
+Item(by='bzikarsky', descendants=None, kids=None, score=None, time=1602257679, title=None, item_type='comment', url=None, parent=24730045, text='Yes, we scale regularly, though we usually only add nodes. We are slowly approaching 100 seaweed nodes. We are running in k8s on local SSD storage, managing failures is easy this way.')

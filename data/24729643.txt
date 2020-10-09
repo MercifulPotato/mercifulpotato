@@ -1,1 +1,1 @@
-Item(by='kbumsik', descendants=0, kids=None, score=10, time=1602249735, title='ESXi Arm Edition on Raspberry Pi 4', item_type='story', url='https://flings.vmware.com/esxi-arm-edition#video', parent=None, text=None)
+Item(by='kbumsik', descendants=20, kids=[24731370, 24730950, 24730146, 24730097, 24730101, 24730969, 24733014], score=61, time=1602249735, title='ESXi Arm Edition on Raspberry Pi 4', item_type='story', url='https://flings.vmware.com/esxi-arm-edition#video', parent=None, text=None)

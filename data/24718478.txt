@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=2, time=1602160053, title='Clojure: Rich Comment Blocks', item_type='story', url='https://betweentwoparens.com/rich-comment-blocks', parent=None, text=None)
+Item(by='tosh', descendants=29, kids=[24732209, 24732576, 24732931, 24731430, 24731692, 24732384, 24733481, 24731738, 24731698, 24732245, 24732953, 24732755, 24732343], score=98, time=1602160053, title='Rich Comment Blocks in Clojure', item_type='story', url='https://betweentwoparens.com/rich-comment-blocks', parent=None, text=None)

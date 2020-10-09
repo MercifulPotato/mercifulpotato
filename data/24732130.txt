@@ -1,0 +1,1 @@
+Item(by='cbkeller', descendants=None, kids=None, score=None, time=1602263847, title=None, item_type='comment', url=None, parent=24729310, text='I had an experience slightly like that at first where I was surprised to only be going 1-2x faster than my old MATLAB, but then I realized my code was full of trivially avoidable type instabilities and got another 100x speedup in Julia.')

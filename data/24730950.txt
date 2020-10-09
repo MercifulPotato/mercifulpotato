@@ -1,0 +1,1 @@
+Item(by='j_walter', descendants=None, kids=None, score=None, time=1602257914, title=None, item_type='comment', url=None, parent=24729643, text='This might be a good way to get a CTF&#x2F;pentesting lab up and running on a RPi.  I&#x27;ve been looking for a good way to do that where I can do my CTF tests remotely on my homelab.')

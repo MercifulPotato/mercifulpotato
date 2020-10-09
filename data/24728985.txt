@@ -1,1 +1,1 @@
-Item(by='halturing', descendants=0, kids=None, score=1, time=1602244590, title='Ask HN: Does Google use facial recognition technology for ad targeting?', item_type='story', url=None, parent=None, text=None)
+Item(by='halturing', descendants=1, kids=[24731304], score=1, time=1602244590, title='Ask HN: Does Google use facial recognition technology for ad targeting?', item_type='story', url=None, parent=None, text=None)

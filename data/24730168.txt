@@ -1,1 +1,1 @@
-Item(by='mam2', descendants=None, kids=None, score=None, time=1602253345, title=None, item_type='comment', url=None, parent=24730161, text='even wikiepdia has a hierarchy.<p>there&#x27;s no easy way')
+Item(by='mam2', descendants=None, kids=[24731946, 24731801], score=None, time=1602253345, title=None, item_type='comment', url=None, parent=24730161, text='even wikiepdia has a hierarchy.<p>there&#x27;s no easy way')

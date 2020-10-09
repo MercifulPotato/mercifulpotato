@@ -1,0 +1,1 @@
+Item(by='valbaca', descendants=None, kids=[24732582], score=None, time=1602264931, title=None, item_type='comment', url=None, parent=24732245, text='I think it means when you store the state of the active REPL, allowing you to close it down and resume it later with the same context.<p>Much like a &quot;save point&quot; in video games.')

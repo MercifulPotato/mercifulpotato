@@ -1,1 +1,1 @@
-Item(by='teddyh', descendants=None, kids=[24729909], score=None, time=1602251083, title=None, item_type='comment', url=None, parent=24729122, text='Which is where DNS-over-TLS (DoT) comes in.  It provides privacy.')
+Item(by='teddyh', descendants=None, kids=[24729909, 24730740, 24730241], score=None, time=1602251083, title=None, item_type='comment', url=None, parent=24729122, text='Which is where DNS-over-TLS (DoT) comes in.  It provides privacy.')

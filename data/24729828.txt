@@ -1,1 +1,1 @@
-Item(by='refurb', descendants=None, kids=None, score=None, time=1602251104, title=None, item_type='comment', url=None, parent=24729166, text='It seems more like the Time magazine “Person of the year” cover.<p>Stalin and Hitler both graced the cover at various points in time.')
+Item(by='refurb', descendants=None, kids=[24731615], score=None, time=1602251104, title=None, item_type='comment', url=None, parent=24729166, text='It seems more like the Time magazine “Person of the year” cover.<p>Stalin and Hitler both graced the cover at various points in time.')

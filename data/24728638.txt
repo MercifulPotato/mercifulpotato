@@ -1,1 +1,1 @@
-Item(by='ylyn', descendants=None, kids=None, score=None, time=1602240671, title=None, item_type='comment', url=None, parent=24727322, text='Why is Bugzilla interesting?')
+Item(by='ylyn', descendants=None, kids=[24731000], score=None, time=1602240671, title=None, item_type='comment', url=None, parent=24727322, text='Why is Bugzilla interesting?')

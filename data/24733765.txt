@@ -1,0 +1,1 @@
+Item(by='Uehreka', descendants=None, kids=None, score=None, time=1602273342, title=None, item_type='comment', url=None, parent=24732167, text='Ah! So this explains why trying to use a Raspberry Pi 3 to stream a live webcam feed over the network was so slow for me, it was all using software encoding.')

@@ -1,1 +1,1 @@
-Item(by='sk0g', descendants=None, kids=None, score=None, time=1602130635, title=None, item_type='comment', url=None, parent=24715326, text='Are you saying, eg, a BMW M3 wouldn&#x27;t last for 7.5 years? Sounds like you&#x27;ve drank some strong Tesla koolaid.')
+Item(by='sk0g', descendants=None, kids=[24732417], score=None, time=1602130635, title=None, item_type='comment', url=None, parent=24715326, text='Are you saying, eg, a BMW M3 wouldn&#x27;t last for 7.5 years? Sounds like you&#x27;ve drank some strong Tesla koolaid.')

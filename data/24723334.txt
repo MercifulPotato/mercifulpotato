@@ -1,1 +1,1 @@
-Item(by='MikusR', descendants=None, kids=None, score=None, time=1602187792, title=None, item_type='comment', url=None, parent=24722616, text='And before that Cloudfare announced that they are migrating to Arm servers.')
+Item(by='MikusR', descendants=None, kids=[24730542], score=None, time=1602187792, title=None, item_type='comment', url=None, parent=24722616, text='And before that Cloudfare announced that they are migrating to Arm servers.')
