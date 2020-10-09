@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=0, kids=None, score=1, time=1602080317, title='IEEE Software – The Pragmatic Designer: Ur-Technical Debt', item_type='story', url='https://www.georgefairbanks.com/ieee-software-v32-n4-july-2020-ur-technical-debt', parent=None, text=None)
+Item(by='zdw', descendants=24, kids=[24728959, 24728102, 24728829, 24728290, 24728462, 24728117], score=47, time=1602080317, title='Ur-Technical Debt', item_type='story', url='https://www.georgefairbanks.com/ieee-software-v32-n4-july-2020-ur-technical-debt', parent=None, text=None)

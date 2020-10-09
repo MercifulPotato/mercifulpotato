@@ -1,1 +1,1 @@
-Item(by='stassats', descendants=None, kids=None, score=None, time=1602203296, title=None, item_type='comment', url=None, parent=24717118, text='I guess that&#x27;s because I added this in 2016 and the article is from 2015.')
+Item(by='stassats', descendants=None, kids=[24728713], score=None, time=1602203296, title=None, item_type='comment', url=None, parent=24717118, text='I guess that&#x27;s because I added this in 2016 and the article is from 2015.')

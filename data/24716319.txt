@@ -1,1 +1,1 @@
-Item(by='dragonsh', descendants=0, kids=None, score=2, time=1602136884, title='SeaweedFS – A simple and highly scalable distributed file system with S3 API', item_type='story', url='https://github.com/chrislusf/seaweedfs', parent=None, text=None)
+Item(by='dragonsh', descendants=7, kids=[24729106, 24729241, 24729008, 24729091], score=15, time=1602136884, title='SeaweedFS – A simple and highly scalable distributed file system with S3 API', item_type='story', url='https://github.com/chrislusf/seaweedfs', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='wallflower', descendants=4, kids=[24726743, 24722184, 24724245, 24721754], score=41, time=1602166413, title='The Guide to Visual Storytelling', item_type='story', url='https://humanparts.medium.com/the-ultimate-guide-to-visual-storytelling-59e3028fcd8c', parent=None, text=None)
+Item(by='wallflower', descendants=5, kids=[24722184, 24721754, 24726743, 24724245, 24729425], score=79, time=1602166413, title='Guide to Visual Storytelling', item_type='story', url='https://humanparts.medium.com/the-ultimate-guide-to-visual-storytelling-59e3028fcd8c', parent=None, text=None)

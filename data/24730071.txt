@@ -1,0 +1,1 @@
+Item(by='op1818', descendants=None, kids=None, score=None, time=1602252780, title=None, item_type='comment', url=None, parent=24727302, text='Do we actually need GPUs to run this? There is no training involved, only inference, and CPUs (or low-end GPUs) should comfortably run the workload, at least for a couple of faces.')

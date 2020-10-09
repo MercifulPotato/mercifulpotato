@@ -1,1 +1,1 @@
-Item(by='huntik17', descendants=None, kids=None, score=None, time=1602217778, title=None, item_type='comment', url=None, parent=24720009, text='Nice project! Could you please list the supported micro-controllers and some examples?')
+Item(by='huntik17', descendants=None, kids=[24727554], score=None, time=1602217778, title=None, item_type='comment', url=None, parent=24720009, text='Nice project! Could you please list the supported micro-controllers and some examples?')

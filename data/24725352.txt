@@ -1,1 +1,1 @@
-Item(by='Jap2-0', descendants=None, kids=None, score=None, time=1602202060, title=None, item_type='comment', url=None, parent=24725059, text='Haven&#x27;t people been saying that for a long time?')
+Item(by='Jap2-0', descendants=None, kids=[24727878], score=None, time=1602202060, title=None, item_type='comment', url=None, parent=24725059, text='Haven&#x27;t people been saying that for a long time?')

@@ -1,1 +1,1 @@
-Item(by='strbean', descendants=None, kids=[24690840], score=None, time=1601922714, title=None, item_type='comment', url=None, parent=24689685, text='I would strongly recommend taking a look at Poetry as an alternative to Pipenv.<p>Pipenv is honestly a nightmare.')
+Item(by='strbean', descendants=None, kids=[24728016, 24690840], score=None, time=1601922714, title=None, item_type='comment', url=None, parent=24689685, text='I would strongly recommend taking a look at Poetry as an alternative to Pipenv.<p>Pipenv is honestly a nightmare.')

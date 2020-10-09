@@ -1,0 +1,1 @@
+Item(by='dkarp', descendants=None, kids=[24730376], score=None, time=1602247336, title=None, item_type='comment', url=None, parent=24729181, text='Are remote development environments common?\nThere’s a CI server doing the heavy lifting but I still run tests constantly on a docker box while developing locally.')

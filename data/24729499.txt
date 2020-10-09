@@ -1,0 +1,1 @@
+Item(by='leephillips', descendants=None, kids=[24729529], score=None, time=1602248832, title=None, item_type='comment', url=None, parent=24729471, text='This might interest you: you can now turn off compiler optimizations at the module level, using a macro. For some people this speeds up the delopment cycle, as it skips most to the time-consuming compilation activity.')

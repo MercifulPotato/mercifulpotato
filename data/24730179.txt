@@ -1,0 +1,1 @@
+Item(by='est31', descendants=None, kids=[24730355], score=None, time=1602253449, title=None, item_type='comment', url=None, parent=24730173, text='Those are the direct dependencies. They have dependencies of their own. What counts is the entire DAG traversal including all transitive dependencies.')

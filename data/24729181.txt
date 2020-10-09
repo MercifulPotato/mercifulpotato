@@ -1,0 +1,1 @@
+Item(by='londons_explore', descendants=None, kids=[24729295], score=None, time=1602246394, title=None, item_type='comment', url=None, parent=24729148, text='Modern machines aren&#x27;t really designed for real computation like running tests or compiling stuff.  They&#x27;re made to render webpages and load up games.   Run your computation tasks on a VM in the cloud...')

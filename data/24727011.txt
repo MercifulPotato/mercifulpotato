@@ -1,1 +1,1 @@
-Item(by='asddubs', descendants=None, kids=None, score=None, time=1602219916, title=None, item_type='comment', url=None, parent=24725844, text='that&#x27;s pretty neat, I didn&#x27;t know that react could do that. Shame no one ever seems to make use of it')
+Item(by='asddubs', descendants=None, kids=[24730206], score=None, time=1602219916, title=None, item_type='comment', url=None, parent=24725844, text='that&#x27;s pretty neat, I didn&#x27;t know that react could do that. Shame no one ever seems to make use of it')

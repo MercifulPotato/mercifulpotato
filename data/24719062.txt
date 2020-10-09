@@ -1,1 +1,1 @@
-Item(by='necco908', descendants=0, kids=None, score=4, time=1602164875, title='Contrarian things our Dev Lead does updating execs', item_type='story', url='https://linearb.io/blog/dev-lead-feature-update/', parent=None, text=None)
+Item(by='necco908', descendants=1, kids=[24727882], score=5, time=1602164875, title='Contrarian things our Dev Lead does updating execs', item_type='story', url='https://linearb.io/blog/dev-lead-feature-update/', parent=None, text=None)

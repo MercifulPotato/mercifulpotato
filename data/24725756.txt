@@ -1,1 +1,1 @@
-Item(by='sleepybodo', descendants=None, kids=None, score=None, time=1602206472, title=None, item_type='comment', url=None, parent=24711469, text='Friend of Bill? ;-)')
+Item(by='sleepybodo', descendants=None, kids=[24728639], score=None, time=1602206472, title=None, item_type='comment', url=None, parent=24711469, text='Friend of Bill? ;-)')

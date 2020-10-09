@@ -1,0 +1,1 @@
+Item(by='gridlockd', descendants=None, kids=[24728892], score=None, time=1602240922, title=None, item_type='comment', url=None, parent=24728107, text='The preprocessor doesn&#x27;t remove comments and at least in clang, comments are parsed into the AST.')

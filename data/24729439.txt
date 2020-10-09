@@ -1,0 +1,1 @@
+Item(by='fantod', descendants=None, kids=[24729469, 24729916], score=None, time=1602248393, title=None, item_type='comment', url=None, parent=24729297, text='Really? My only experience with Julia was porting a simulation from Python and the speedup was incredible. Admittedly, that&#x27;s an instance of numerical computing, but I would wonder why it was slow for you.')

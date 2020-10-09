@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=None, score=None, time=1602248159, title=None, item_type='comment', url=None, parent=24729360, text='A language like OCaml can still have memory unsafety issues introduced by the compiler or standard library. It just makes it much more manageable to effectively audit for and fix such issues. `unsafe` blocks serve the same purpose.')

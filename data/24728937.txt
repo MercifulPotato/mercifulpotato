@@ -1,0 +1,1 @@
+Item(by='eptcyka', descendants=None, kids=None, score=None, time=1602244051, title=None, item_type='comment', url=None, parent=24728624, text='If you have something listening on a port that can fall over by someone opening and closing a TCP connection, maybe that special something shouldn&#x27;t be listening for things on the internet.')

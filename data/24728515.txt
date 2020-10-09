@@ -1,0 +1,1 @@
+Item(by='enriquto', descendants=None, kids=None, score=None, time=1602239186, title=None, item_type='comment', url=None, parent=24717084, text='I like to code this way.  You just include &quot;foo.c&quot; instead of &quot;foo.h&quot;, which does not exist at all.  The compilation is really simple, and there&#x27;s half of the files!')

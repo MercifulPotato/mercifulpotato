@@ -1,1 +1,1 @@
-Item(by='Sadkov', descendants=1, kids=[24717125], score=2, time=1602145316, title='Large single compilation-unit C programs', item_type='story', url='https://people.csail.mit.edu/smcc/projects/single-file-programs/', parent=None, text=None)
+Item(by='Sadkov', descendants=14, kids=[24727968, 24729007, 24728515, 24717125], score=34, time=1602145316, title='Large single compilation-unit C programs (2006)', item_type='story', url='https://people.csail.mit.edu/smcc/projects/single-file-programs/', parent=None, text=None)

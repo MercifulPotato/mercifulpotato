@@ -1,1 +1,1 @@
-Item(by='zeroc8', descendants=None, kids=None, score=None, time=1602187849, title=None, item_type='comment', url=None, parent=24719501, text='I thought AngularDart was it. \nThen everybody just went with Typescript.')
+Item(by='zeroc8', descendants=None, kids=[24727719], score=None, time=1602187849, title=None, item_type='comment', url=None, parent=24719501, text='I thought AngularDart was it. \nThen everybody just went with Typescript.')
