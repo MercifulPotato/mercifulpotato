@@ -1,0 +1,1 @@
+Item(by='ramraj07', descendants=None, kids=None, score=None, time=1602306414, title=None, item_type='comment', url=None, parent=24735012, text='Practical experience with AWS RDS postgres is that an m4.large instance chokes at 150 connections. We are currently planning to test RDSProxy, but does anyone have experience with comparing this service to running pgBouncer ourselves?')

@@ -1,1 +1,1 @@
-Item(by='colejohnson66', descendants=None, kids=None, score=None, time=1602287004, title=None, item_type='comment', url=None, parent=24735069, text='The contractor responsible for removing that comment has been sacked.')
+Item(by='colejohnson66', descendants=None, kids=[24736998], score=None, time=1602287004, title=None, item_type='comment', url=None, parent=24735069, text='The contractor responsible for removing that comment has been sacked.')

@@ -1,1 +1,1 @@
-Item(by='zornado', descendants=2, kids=[24736112, 24736045], score=2, time=1602293386, title='Graham Stephan is leaving California', item_type='story', url='https://www.youtube.com/watch?v=CYUDZGwUzXE', parent=None, text=None)
+Item(by='zornado', descendants=3, kids=[24736286, 24736112, 24736045], score=3, time=1602293386, title='Graham Stephan is leaving California', item_type='story', url='https://www.youtube.com/watch?v=CYUDZGwUzXE', parent=None, text=None)

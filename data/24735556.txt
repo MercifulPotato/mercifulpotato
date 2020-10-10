@@ -1,1 +1,1 @@
-Item(by='SSLy', descendants=None, kids=None, score=None, time=1602287415, title=None, item_type='comment', url=None, parent=24734642, text='Side-loaded stores can&#x27;t auto-update apps. You have to confirm each app every time. It&#x27;s unacceptable UX for a typical user.')
+Item(by='SSLy', descendants=None, kids=[24736471, 24736596], score=None, time=1602287415, title=None, item_type='comment', url=None, parent=24734642, text='Side-loaded stores can&#x27;t auto-update apps. You have to confirm each app every time. It&#x27;s unacceptable UX for a typical user.')

@@ -1,1 +1,1 @@
-Item(by='jdright', descendants=None, kids=None, score=None, time=1602290418, title=None, item_type='comment', url=None, parent=24734245, text='Try it. If you do not use any &quot;optional&quot; dependency it becomes pretty limited, almost useless for anything serious (eg. zlib, ssl)')
+Item(by='jdright', descendants=None, kids=[24736667], score=None, time=1602290418, title=None, item_type='comment', url=None, parent=24734245, text='Try it. If you do not use any &quot;optional&quot; dependency it becomes pretty limited, almost useless for anything serious (eg. zlib, ssl)')

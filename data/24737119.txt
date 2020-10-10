@@ -1,0 +1,1 @@
+Item(by='Gladdyu', descendants=None, kids=[24737132, 24737162, 24737236], score=None, time=1602312869, title=None, item_type='comment', url=None, parent=24737106, text='It does load it - mmap doesn&#x27;t copy the file content into a buffer, it merely allows you to operate on a file as if it were in memory. Memory reads correspond to file read operations.')

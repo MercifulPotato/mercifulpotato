@@ -1,1 +1,1 @@
-Item(by='lproven', descendants=0, kids=None, score=3, time=1602289960, title='Modernising RISC OS in 2020: is there hope for the ancient ARM OS?', item_type='story', url='https://liam-on-linux.livejournal.com/73983.html', parent=None, text=None)
+Item(by='lproven', descendants=16, kids=[24736773, 24737155, 24737117, 24737114, 24736659, 24736872], score=63, time=1602289960, title='Modernising RISC OS in 2020: is there hope for the ancient ARM OS?', item_type='story', url='https://liam-on-linux.livejournal.com/73983.html', parent=None, text=None)

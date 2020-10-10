@@ -1,0 +1,1 @@
+Item(by='earthboundkid', descendants=None, kids=None, score=None, time=1602298940, title=None, item_type='comment', url=None, parent=24736384, text='I find imports in Python completely backwards conceptually compared to JS. I hadn’t thought about the autocomplete issue though. In practice, I know what I want to import, I guess.')

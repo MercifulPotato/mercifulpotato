@@ -1,0 +1,1 @@
+Item(by='john_moscow', descendants=None, kids=None, score=None, time=1602311539, title=None, item_type='comment', url=None, parent=24736751, text='The main reason is to have a library-scope name table and a bunch of global indexes. Can&#x27;t beat that in terms of performance.')

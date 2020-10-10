@@ -1,1 +1,1 @@
-Item(by='indigodaddy', descendants=None, kids=None, score=None, time=1602219872, title=None, item_type='comment', url=None, parent=24726781, text='Ok I get that part, but surely Red Hat&#x2F;RHEL itself wouldn’t  perish as a result?')
+Item(by='indigodaddy', descendants=None, kids=[24736713], score=None, time=1602219872, title=None, item_type='comment', url=None, parent=24726781, text='Ok I get that part, but surely Red Hat&#x2F;RHEL itself wouldn’t  perish as a result?')

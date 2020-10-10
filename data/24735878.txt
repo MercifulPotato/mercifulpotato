@@ -1,1 +1,1 @@
-Item(by='imglorp', descendants=None, kids=None, score=None, time=1602291390, title=None, item_type='comment', url=None, parent=24735683, text='&gt; skin tones<p>There&#x27;s another ML problem right there. Humans vary.')
+Item(by='imglorp', descendants=None, kids=[24736806], score=None, time=1602291390, title=None, item_type='comment', url=None, parent=24735683, text='&gt; skin tones<p>There&#x27;s another ML problem right there. Humans vary.')

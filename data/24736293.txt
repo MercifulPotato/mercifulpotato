@@ -1,1 +1,1 @@
-Item(by='edgefield0', descendants=None, kids=None, score=None, time=1602296884, title=None, item_type='comment', url=None, parent=24736278, text='I wonder if this benefit extends to handwriting on a tablet?')
+Item(by='edgefield0', descendants=None, kids=[24736308], score=None, time=1602296884, title=None, item_type='comment', url=None, parent=24736278, text='I wonder if this benefit extends to handwriting on a tablet?')

@@ -1,1 +1,1 @@
-Item(by='guardiangod', descendants=0, kids=None, score=12, time=1602280957, title="Amazon's strategic failure with the video game industry", item_type='story', url='https://www.wired.com/story/amazon-wants-to-win-at-games-so-why-hasnt-it/', parent=None, text=None)
+Item(by='guardiangod', descendants=2, kids=[24736509, 24737076], score=19, time=1602280957, title="Amazon's strategic failure with the video game industry", item_type='story', url='https://www.wired.com/story/amazon-wants-to-win-at-games-so-why-hasnt-it/', parent=None, text=None)

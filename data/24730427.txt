@@ -1,1 +1,1 @@
-Item(by='scottlocklin', descendants=0, kids=None, score=2, time=1602255026, title='A Prayer for Archimedes', item_type='story', url='https://www.sciencenews.org/article/prayer-archimedes', parent=None, text=None)
+Item(by='scottlocklin', descendants=2, kids=[24736560, 24736532], score=12, time=1602255026, title='A Prayer for Archimedes', item_type='story', url='https://www.sciencenews.org/article/prayer-archimedes', parent=None, text=None)

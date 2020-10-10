@@ -1,0 +1,1 @@
+Item(by='tracker1', descendants=None, kids=None, score=None, time=1602302261, title=None, item_type='comment', url=None, parent=24730606, text='If you lock to specific versions, I don&#x27;t think it differs much.<p>Edit: I mean if you don&#x27;t use ~ or ^ in your nose dependencies,. Just explicit versions.')
