@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=None, score=None, time=1602344927, title=None, item_type='comment', url=None, parent=24738333, text='I hate pipefail.<p>I find set -e also has some gotchas.  &#x27;|| die&#x27; added to the end of each line is uglier but more obvious in many cases.')

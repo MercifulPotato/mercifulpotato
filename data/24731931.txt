@@ -1,1 +1,1 @@
-Item(by='JohnBerea', descendants=None, kids=None, score=None, time=1602262890, title=None, item_type='comment', url=None, parent=24729780, text='I&#x27;m a conservative and follow many conservative and libertarian FB pages.  It&#x27;s common to see memes on them making fun of Kirk.')
+Item(by='JohnBerea', descendants=None, kids=[24739548], score=None, time=1602262890, title=None, item_type='comment', url=None, parent=24729780, text='I&#x27;m a conservative and follow many conservative and libertarian FB pages.  It&#x27;s common to see memes on them making fun of Kirk.')

@@ -1,0 +1,1 @@
+Item(by='jen20', descendants=None, kids=None, score=None, time=1602339556, title=None, item_type='comment', url=None, parent=24738370, text='One small nitpick with this otherwise excellent post - Paxos allows a cluster of nodes to agree on a _single_ value, not a sequence (which requires Multi-Paxos or some other similar extension of &#x27;basic&#x27; single-decree Paxos).')

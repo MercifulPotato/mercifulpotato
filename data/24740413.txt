@@ -1,0 +1,1 @@
+Item(by='phiresky', descendants=None, kids=None, score=None, time=1602350817, title=None, item_type='comment', url=None, parent=24738175, text='Yeah, I meant both the ByteRecord&#x2F;read_byte_record API, as well as using Serde with a struct containing &amp;str or &amp;[u8] references.')

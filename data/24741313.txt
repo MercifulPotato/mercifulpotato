@@ -1,0 +1,1 @@
+Item(by='TheRealKing', descendants=None, kids=None, score=None, time=1602358820, title=None, item_type='comment', url=None, parent=24732786, text='In Fortran, you can start the index from any number you want. A(-10:-3) is a completely valid slice or full array declaration, so are A(0:7) or A(1:8). and this feature is absolutely useful in scientific computing.')

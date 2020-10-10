@@ -1,0 +1,1 @@
+Item(by='alanbernstein', descendants=None, kids=[24739447, 24739727], score=None, time=1602341894, title=None, item_type='comment', url=None, parent=24739251, text='I know $() invokes a subshell, but does () ?<p>My guess was that the () affects the order of operations between ; and &amp;&amp;, so the first line is three commands, while the second line is two.')

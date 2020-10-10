@@ -1,1 +1,1 @@
-Item(by='somehnguy', descendants=None, kids=None, score=None, time=1602254912, title=None, item_type='comment', url=None, parent=24729938, text='Bookmarked for later, thanks.<p>Btw, the page title for all of the categories has a misspelling - &#x27;Tempaltes&#x27;')
+Item(by='somehnguy', descendants=None, kids=[24741131], score=None, time=1602254912, title=None, item_type='comment', url=None, parent=24729938, text='Bookmarked for later, thanks.<p>Btw, the page title for all of the categories has a misspelling - &#x27;Tempaltes&#x27;')

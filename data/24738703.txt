@@ -1,1 +1,1 @@
-Item(by='st1x7', descendants=None, kids=None, score=None, time=1602335067, title=None, item_type='comment', url=None, parent=24738529, text='My point is that it doesn&#x27;t make it easy to read for everyone and it was a bad design decision.')
+Item(by='st1x7', descendants=None, kids=[24739027, 24739146], score=None, time=1602335067, title=None, item_type='comment', url=None, parent=24738529, text='My point is that it doesn&#x27;t make it easy to read for everyone and it was a bad design decision.')

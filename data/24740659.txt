@@ -1,0 +1,1 @@
+Item(by='imtringued', descendants=None, kids=None, score=None, time=1602352840, title=None, item_type='comment', url=None, parent=24737309, text='Unfortunately every time I have seen someone write their own &quot;CSV&quot; parser or serializer all they did was split(&#x27;,&#x27;) or &#x27;,&#x27;.join()...')

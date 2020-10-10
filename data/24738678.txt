@@ -1,1 +1,1 @@
-Item(by='kevinhq', descendants=0, kids=None, score=1, time=1602334841, title='Share my story how I fix a frozen system on Debian running with Gnome Desktop', item_type='story', url='https://kevinhq.com/how-to-prevent-a-frozen-desktop-on-linux/', parent=None, text=None)
+Item(by='kevinhq', descendants=4, kids=[24739133, 24739026, 24739019], score=8, time=1602334841, title='Sharing my story how I fix a frozen system on Debian running with Gnome Desktop', item_type='story', url='https://kevinhq.com/how-to-prevent-a-frozen-desktop-on-linux/', parent=None, text=None)

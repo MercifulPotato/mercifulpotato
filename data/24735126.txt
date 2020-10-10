@@ -1,1 +1,1 @@
-Item(by='bilbopotter', descendants=None, kids=None, score=None, time=1602282967, title=None, item_type='comment', url=None, parent=24734046, text='&quot;Sponsored by&quot; didn&#x27;t do it for you')
+Item(by='bilbopotter', descendants=None, kids=[24740859], score=None, time=1602282967, title=None, item_type='comment', url=None, parent=24734046, text='&quot;Sponsored by&quot; didn&#x27;t do it for you')

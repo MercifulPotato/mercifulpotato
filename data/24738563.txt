@@ -1,1 +1,1 @@
-Item(by='fh973', descendants=None, kids=None, score=None, time=1602333697, title=None, item_type='comment', url=None, parent=24738526, text='Does it have a replaceable battery?')
+Item(by='fh973', descendants=None, kids=[24740649], score=None, time=1602333697, title=None, item_type='comment', url=None, parent=24738526, text='Does it have a replaceable battery?')

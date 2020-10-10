@@ -1,1 +1,1 @@
-Item(by='briggers', descendants=0, kids=None, score=1, time=1602336268, title='Object detection from 9 FPS to 650 FPS – GPU machine learning tuning case study', item_type='story', url='https://paulbridger.com/posts/video_analytics_pipeline_tuning/', parent=None, text=None)
+Item(by='briggers', descendants=9, kids=[24740623, 24741013, 24740247, 24740036, 24740512], score=69, time=1602336268, title='Object Detection from 9 FPS to 650 FPS', item_type='story', url='https://paulbridger.com/posts/video_analytics_pipeline_tuning/', parent=None, text=None)

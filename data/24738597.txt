@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1602334041, title=None, item_type='comment', url=None, parent=24738507, text='Turbo Pascal has supported circular dependencies since Turbo Pascal 5.5 for MS-DOS.')
+Item(by='pjmlp', descendants=None, kids=[24740002], score=None, time=1602334041, title=None, item_type='comment', url=None, parent=24738507, text='Turbo Pascal has supported circular dependencies since Turbo Pascal 5.5 for MS-DOS.')

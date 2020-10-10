@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1602314076, title=None, item_type='comment', url=None, parent=24736994, text='Either the title has changed or the submitted one doesn’t match what it was.')
+Item(by='saagarjha', descendants=None, kids=[24739212], score=None, time=1602314076, title=None, item_type='comment', url=None, parent=24736994, text='Either the title has changed or the submitted one doesn’t match what it was.')

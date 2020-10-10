@@ -1,0 +1,1 @@
+Item(by='je42', descendants=None, kids=None, score=None, time=1602356913, title=None, item_type='comment', url=None, parent=24737934, text='I am on Manjaro. Now i am reading, one should update mirrors regularly with<p>`sudo pacman-mirrors --fasttrack &amp;&amp; sudo pacman -Syyu`<p>i am quite confused, why updating mirrors needs to be followed with an dist upgrade.')

@@ -1,0 +1,1 @@
+Item(by='stonewareslord', descendants=None, kids=[24739525], score=None, time=1602340658, title=None, item_type='comment', url=None, parent=24738333, text='What is the gotcha here? You’re telling it to pipefail and exit on fail, so it exits.')
