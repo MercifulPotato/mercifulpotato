@@ -1,0 +1,1 @@
+Item(by='sgt', descendants=None, kids=None, score=None, time=1602327275, title=None, item_type='comment', url=None, parent=24735231, text='I see your point, but ask yourself this: would you run anything mission critical on a Raspberry Pi? I have had SD card corruption, WiFi chip affecting the GPIO pins, overheating, so yeah, I would personally not.')

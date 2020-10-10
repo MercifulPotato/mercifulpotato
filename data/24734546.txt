@@ -1,1 +1,1 @@
-Item(by='rayval', descendants=0, kids=None, score=5, time=1602278351, title='Eddie Van Halen Hacked His Guitars', item_type='story', url='https://www.popularmechanics.com/technology/a15615/how-eddie-van-halen-hacks-a-guitar/', parent=None, text=None)
+Item(by='rayval', descendants=1, kids=[24737519], score=5, time=1602278351, title='Eddie Van Halen Hacked His Guitars', item_type='story', url='https://www.popularmechanics.com/technology/a15615/how-eddie-van-halen-hacks-a-guitar/', parent=None, text=None)

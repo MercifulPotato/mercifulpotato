@@ -1,0 +1,1 @@
+Item(by='tails4e', descendants=None, kids=None, score=None, time=1602327059, title=None, item_type='comment', url=None, parent=24728216, text='What do you think of the Xilinx HLS tool, I&#x27;ve only played with examples, but the c code being input looks like regular C, and can generate hardware (though you need pragmas to guide it for max efficiency)')

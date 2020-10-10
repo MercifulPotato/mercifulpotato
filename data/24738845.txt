@@ -1,0 +1,1 @@
+Item(by='m-p-3', descendants=None, kids=None, score=None, time=1602336410, title=None, item_type='comment', url=None, parent=24738732, text='And most servers nowadays are behind CDNs, so blocking an IP might block more than you actually wanted. And with eSNI being pushed, that might become even more difficult to effectively filter a specific service.')

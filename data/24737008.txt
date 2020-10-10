@@ -1,1 +1,1 @@
-Item(by='xenihn', descendants=None, kids=None, score=None, time=1602310636, title=None, item_type='comment', url=None, parent=24734886, text='Sounds like WSB.')
+Item(by='xenihn', descendants=None, kids=[24738328], score=None, time=1602310636, title=None, item_type='comment', url=None, parent=24734886, text='Sounds like WSB.')

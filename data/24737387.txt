@@ -1,0 +1,1 @@
+Item(by='thethirdone', descendants=None, kids=[24737408], score=None, time=1602317529, title=None, item_type='comment', url=None, parent=24737316, text='I was thinking about using MAP_PRIVATE to prevent write-back. I not sure that doesn&#x27;t come with a performance penalty on write, but it should at least be better copying in userspace.')

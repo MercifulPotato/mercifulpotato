@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1602317763, title=None, item_type='comment', url=None, parent=24737236, text='Generally the OS should see if you’re doing a long sequential access and prefetch this data before you access it.')

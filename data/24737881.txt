@@ -1,0 +1,1 @@
+Item(by='gitgud', descendants=None, kids=None, score=None, time=1602324806, title=None, item_type='comment', url=None, parent=24736572, text='Well you could say folders are like &quot;tables&quot; and files are like &quot;fields&quot; within those tables...<p>The main difference between git and a traditional DB is querying and relationships between fields')

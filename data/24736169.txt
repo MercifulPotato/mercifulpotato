@@ -1,1 +1,1 @@
-Item(by='camgunz', descendants=None, kids=None, score=None, time=1602294807, title=None, item_type='comment', url=None, parent=24732972, text='How is Robinhood still a company? If you lose your customers millions of dollars, how has some regulator not shut you down?')
+Item(by='camgunz', descendants=None, kids=[24738448], score=None, time=1602294807, title=None, item_type='comment', url=None, parent=24732972, text='How is Robinhood still a company? If you lose your customers millions of dollars, how has some regulator not shut you down?')

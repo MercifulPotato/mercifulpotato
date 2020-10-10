@@ -1,0 +1,1 @@
+Item(by='tialaramex', descendants=None, kids=[24738471], score=None, time=1602332339, title=None, item_type='comment', url=None, parent=24737704, text='A glob isn&#x27;t a regular expression, and indeed one of the reasons it isn&#x27;t is that it lacks the Kleene star - which is the thing an asterisk does in the typical regular expression syntax.')

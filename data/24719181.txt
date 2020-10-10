@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=0, kids=None, score=17, time=1602165979, title='Sorting out what the Single Unix Specification is and covers', item_type='story', url='https://utcc.utoronto.ca/~cks/space/blog/unix/SingleUnixSpecificationWhat', parent=None, text=None)
+Item(by='zdw', descendants=1, kids=[24738548], score=25, time=1602165979, title='Sorting out what the Single Unix Specification is and covers', item_type='story', url='https://utcc.utoronto.ca/~cks/space/blog/unix/SingleUnixSpecificationWhat', parent=None, text=None)

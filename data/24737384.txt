@@ -1,0 +1,1 @@
+Item(by='avip', descendants=None, kids=[24737627], score=None, time=1602317506, title=None, item_type='comment', url=None, parent=24736790, text='As a programmer I’m mostly measured on how fast and not buggy (in that order) I can ship. No one is profiling my code or asking O(wtf) it takes.<p>So from crap import * is pragmatic and practical. Short term at least.')

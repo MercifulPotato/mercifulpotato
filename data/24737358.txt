@@ -1,0 +1,1 @@
+Item(by='zozbot234', descendants=None, kids=[24737803], score=None, time=1602317192, title=None, item_type='comment', url=None, parent=24737066, text='Static analysis is a minor part of Rust compile cost. The main cost is from optimization, as well as from redundant work caused by monomorphized generic code or custom macros.')

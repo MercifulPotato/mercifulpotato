@@ -1,0 +1,1 @@
+Item(by='michalc', descendants=0, kids=None, score=1, time=1602326096, title="Django's transaction.atomic(): It may not be as atomic as you think", item_type='story', url='https://charemza.name/blog/posts/django/postgres/transactions/not-as-atomic-as-you-may-think/', parent=None, text=None)

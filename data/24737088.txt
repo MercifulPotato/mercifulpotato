@@ -1,1 +1,1 @@
-Item(by='ceilingcorner', descendants=0, kids=None, score=1, time=1602312221, title='Democracy Muzzled - Peter Hitchens', item_type='story', url='https://thecritic.co.uk/issues/october-2020/democracy-muzzled/', parent=None, text=None)
+Item(by='ceilingcorner', descendants=2, kids=[24738025, 24738141], score=4, time=1602312221, title='Democracy Muzzled - Peter Hitchens', item_type='story', url='https://thecritic.co.uk/issues/october-2020/democracy-muzzled/', parent=None, text=None)

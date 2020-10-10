@@ -1,0 +1,1 @@
+Item(by='danielinoa', descendants=None, kids=None, score=None, time=1602326113, title=None, item_type='comment', url=None, parent=24737961, text='Not quite. There can be a null value if the object type allows for it, think Optional&lt;T&gt;. \nWhat you can&#x27;t have is an undefined object, as you could in Javascript for example.')

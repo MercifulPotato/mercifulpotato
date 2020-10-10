@@ -1,0 +1,1 @@
+Item(by='polyrand', descendants=None, kids=None, score=None, time=1602331224, title=None, item_type='comment', url=None, parent=24727495, text='In Bash 4.4+ you can use:<p><pre><code>  shopt -s inherit_errexit 2&gt;&#x2F;dev&#x2F;null || true\n</code></pre>\nTo make subprocesses inherit the errexit flag.')

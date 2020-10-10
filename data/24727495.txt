@@ -1,1 +1,1 @@
-Item(by='sohkamyung', descendants=0, kids=None, score=4, time=1602226383, title='Bash Error Handling', item_type='story', url='https://wizardzines.com/comics/bash-errors/', parent=None, text=None)
+Item(by='sohkamyung', descendants=18, kids=[24738276, 24738386, 24738901, 24738790, 24738274, 24738333, 24738246, 24738249, 24738359, 24738373], score=59, time=1602226383, title='Bash Error Handling', item_type='story', url='https://wizardzines.com/comics/bash-errors/', parent=None, text=None)
