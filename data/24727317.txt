@@ -1,1 +1,1 @@
-Item(by='krainboltgreene', descendants=None, kids=None, score=None, time=1602224049, title=None, item_type='comment', url=None, parent=24726810, text='Not only is that not factually incorrect, it&#x27;s pretty trivial to check before you comment. Why didn&#x27;t you?')
+Item(by='krainboltgreene', descendants=None, kids=[24734781], score=None, time=1602224049, title=None, item_type='comment', url=None, parent=24726810, text='Not only is that not factually incorrect, it&#x27;s pretty trivial to check before you comment. Why didn&#x27;t you?')

@@ -1,0 +1,1 @@
+Item(by='ralphc', descendants=None, kids=[24736119, 24736117], score=None, time=1602292853, title=None, item_type='comment', url=None, parent=24729034, text='How easy would it be to use Julia on a problem that would take advantage of the 16 hyperthreaded cores on my computer? Does it use threads, async&#x2F;await mechanism, something else? Is it intuitive to use?')

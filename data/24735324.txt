@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1602284805, title=None, item_type='comment', url=None, parent=24735145, text='Yes, curl has a concept of &quot;backends,&quot; which you can choose at compile time. This is about providing an option for a new backend, based on Rust libraries. That&#x27;s it. Nobody is re-writing anything.')

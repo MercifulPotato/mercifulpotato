@@ -1,1 +1,1 @@
-Item(by='p2t2p', descendants=None, kids=None, score=None, time=1602242567, title=None, item_type='comment', url=None, parent=24726858, text='Yep, I used to be a fanboy, was cooling off for last year or so, this news is point of no return for me.')
+Item(by='p2t2p', descendants=None, kids=[24735841], score=None, time=1602242567, title=None, item_type='comment', url=None, parent=24726858, text='Yep, I used to be a fanboy, was cooling off for last year or so, this news is point of no return for me.')

@@ -1,0 +1,1 @@
+Item(by='Scarbutt', descendants=None, kids=[24735420], score=None, time=1602282836, title=None, item_type='comment', url=None, parent=24732343, text='Clojure&#x27;s very slow startup forces you to this workflow, relying entirely on the REPL to compensate. It&#x27;s not any better compared to a language with a fast change-test-debug cycle.')

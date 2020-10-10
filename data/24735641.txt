@@ -1,0 +1,1 @@
+Item(by='jjwiseman', descendants=None, kids=None, score=None, time=1602288263, title=None, item_type='comment', url=None, parent=24734221, text='I’ve put a git-scraped history of 12 years of the FAA registration database into an EAVT database (Datomic) and it worked reasonably well.')

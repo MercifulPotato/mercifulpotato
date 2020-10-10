@@ -1,1 +1,1 @@
-Item(by='dghughes', descendants=None, kids=None, score=None, time=1602269190, title=None, item_type='comment', url=None, parent=24732418, text='Most cuneiform is an inventory of stuff like amount of wheat and who owes who how much.')
+Item(by='dghughes', descendants=None, kids=[24733941], score=None, time=1602269190, title=None, item_type='comment', url=None, parent=24732418, text='Most cuneiform is an inventory of stuff like amount of wheat and who owes who how much.')

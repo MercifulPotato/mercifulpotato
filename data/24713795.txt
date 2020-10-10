@@ -1,1 +1,1 @@
-Item(by='luu', descendants=60, kids=[24726768, 24726543, 24726849, 24727575, 24726801, 24728022], score=241, time=1602111516, title='Memcmp being wrongly stripped like strcmp', item_type='story', url='https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95189', parent=None, text=None)
+Item(by='luu', descendants=62, kids=[24726768, 24726543, 24726849, 24727575, 24726801, 24728022], score=247, time=1602111516, title='Memcmp being wrongly stripped like strcmp', item_type='story', url='https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95189', parent=None, text=None)

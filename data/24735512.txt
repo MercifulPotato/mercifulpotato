@@ -1,0 +1,1 @@
+Item(by='chrislusf', descendants=None, kids=None, score=None, time=1602286902, title=None, item_type='comment', url=None, parent=24735396, text='Thanks!<p>I am not good at Python at all and would not able to add Python specific support. However, SeaweedFS has gRPC APIs that you can use to do all file operations.')

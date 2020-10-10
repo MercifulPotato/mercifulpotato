@@ -1,1 +1,1 @@
-Item(by='undersuit', descendants=None, kids=None, score=None, time=1602115409, title=None, item_type='comment', url=None, parent=24709482, text='You see the mirror raising your mirrored hand.<p>I see a two identical individuals raising their opposing hands in unison.')
+Item(by='undersuit', descendants=None, kids=[24734581], score=None, time=1602115409, title=None, item_type='comment', url=None, parent=24709482, text='You see the mirror raising your mirrored hand.<p>I see a two identical individuals raising their opposing hands in unison.')

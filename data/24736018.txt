@@ -1,0 +1,1 @@
+Item(by='pkaye', descendants=None, kids=[24736056], score=None, time=1602293186, title=None, item_type='comment', url=None, parent=24735969, text='I think optimizations passes is what takes the most time in a compiler. Older compilers did a lot less.')

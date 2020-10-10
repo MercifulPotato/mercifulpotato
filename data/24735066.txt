@@ -1,0 +1,1 @@
+Item(by='simonw', descendants=None, kids=[24735389], score=None, time=1602282353, title=None, item_type='comment', url=None, parent=24734987, text='That&#x27;s a great tip, thanks. Looks like you can use that option with &#x27;git show&#x27; too:<p><pre><code>    git show --color-words</code></pre>')

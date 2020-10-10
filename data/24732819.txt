@@ -1,1 +1,1 @@
-Item(by='idrios', descendants=None, kids=None, score=None, time=1602267789, title=None, item_type='comment', url=None, parent=24732793, text='I think he was just saying &quot;this is what&#x27;s expected&quot; not &quot;this is fine&quot;')
+Item(by='idrios', descendants=None, kids=[24734737], score=None, time=1602267789, title=None, item_type='comment', url=None, parent=24732793, text='I think he was just saying &quot;this is what&#x27;s expected&quot; not &quot;this is fine&quot;')

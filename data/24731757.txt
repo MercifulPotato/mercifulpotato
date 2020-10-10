@@ -1,1 +1,1 @@
-Item(by='jdright', descendants=None, kids=None, score=None, time=1602262013, title=None, item_type='comment', url=None, parent=24731202, text='This. Take even CURL as an example, try to list its dependencies and you&#x27;ll see how harder it is.')
+Item(by='jdright', descendants=None, kids=[24734245], score=None, time=1602262013, title=None, item_type='comment', url=None, parent=24731202, text='This. Take even CURL as an example, try to list its dependencies and you&#x27;ll see how harder it is.')

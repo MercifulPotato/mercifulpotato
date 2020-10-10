@@ -1,1 +1,1 @@
-Item(by='advisedwang', descendants=None, kids=None, score=None, time=1602198192, title=None, item_type='comment', url=None, parent=24724768, text='You can use the proton mail app to access a free proton mail account.')
+Item(by='advisedwang', descendants=None, kids=[24734260], score=None, time=1602198192, title=None, item_type='comment', url=None, parent=24724768, text='You can use the proton mail app to access a free proton mail account.')

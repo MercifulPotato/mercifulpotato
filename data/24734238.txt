@@ -1,0 +1,1 @@
+Item(by='lispm', descendants=None, kids=None, score=None, time=1602276177, title=None, item_type='comment', url=None, parent=24732320, text='For me, it means that there is a bunch of instructions which will get you to some state.<p>It&#x27;s not about actually storing state, which Lisp with image-based development can do in some form.')

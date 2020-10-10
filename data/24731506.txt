@@ -1,1 +1,1 @@
-Item(by='hn-silver', descendants=None, kids=None, score=None, time=1602260777, title=None, item_type='comment', url=None, parent=24731326, text='Are attorneys legally able to alter a contract after it has been signed?')
+Item(by='hn-silver', descendants=None, kids=[24734927], score=None, time=1602260777, title=None, item_type='comment', url=None, parent=24731326, text='Are attorneys legally able to alter a contract after it has been signed?')

@@ -1,1 +1,1 @@
-Item(by='prismatic', descendants=0, kids=None, score=1, time=1602220628, title='He Painted It Black: Goya', item_type='story', url='https://literaryreview.co.uk/he-painted-it-black', parent=None, text=None)
+Item(by='prismatic', descendants=2, kids=[24735687, 24735582], score=10, time=1602220628, title='He Painted It Black: Goya', item_type='story', url='https://literaryreview.co.uk/he-painted-it-black', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='feralimal', descendants=None, kids=None, score=None, time=1602269863, title=None, item_type='comment', url=None, parent=24732373, text='Knowledge IS a binary thing.<p>Either it is coherent with reality or it is not.')
+Item(by='feralimal', descendants=None, kids=[24734893], score=None, time=1602269863, title=None, item_type='comment', url=None, parent=24732373, text='Knowledge IS a binary thing.<p>Either it is coherent with reality or it is not.')

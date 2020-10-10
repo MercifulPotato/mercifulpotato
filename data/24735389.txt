@@ -1,0 +1,1 @@
+Item(by='ivan_ah', descendants=None, kids=None, score=None, time=1602285559, title=None, item_type='comment', url=None, parent=24735066, text='Oh cool. I just learned a new git verb today!  (Previously I always used `git diff &lt;commit-1&gt; &lt;commit&gt;` but `git show &lt;commit&gt;` is much simpler.')

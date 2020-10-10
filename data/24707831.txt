@@ -1,1 +1,1 @@
-Item(by='dnetesn', descendants=0, kids=None, score=1, time=1602076589, title='It Pays to Be a Space Case', item_type='story', url='http://nautil.us/blog/it-pays-to-be-a-space-case', parent=None, text=None)
+Item(by='dnetesn', descendants=13, kids=[24735050, 24733309, 24734380, 24734799], score=33, time=1602076589, title='It Pays to Be a Space Case', item_type='story', url='http://nautil.us/blog/it-pays-to-be-a-space-case', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='CUViper', descendants=None, kids=None, score=None, time=1602271770, title=None, item_type='comment', url=None, parent=24732077, text='The dependency goes hyper -&gt; h2 -&gt; indexmap -&gt; hashbrown, and indexmap is built on hashbrown::raw::RawTable.')
+Item(by='CUViper', descendants=None, kids=[24734538], score=None, time=1602271770, title=None, item_type='comment', url=None, parent=24732077, text='The dependency goes hyper -&gt; h2 -&gt; indexmap -&gt; hashbrown, and indexmap is built on hashbrown::raw::RawTable.')

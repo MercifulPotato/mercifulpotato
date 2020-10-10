@@ -1,0 +1,1 @@
+Item(by='tfigment', descendants=None, kids=None, score=None, time=1602277414, title=None, item_type='comment', url=None, parent=24734097, text='I think you want temporal tables for historical dimensions.  Postgres  doesnt have good support as its a bolt on.  MariaDB has good support for it now.')

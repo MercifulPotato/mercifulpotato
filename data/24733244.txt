@@ -1,1 +1,1 @@
-Item(by='crehn', descendants=None, kids=None, score=None, time=1602270173, title=None, item_type='comment', url=None, parent=24731580, text='How do we ensure Twitter’s censorship is and stays reasonable?')
+Item(by='crehn', descendants=None, kids=[24734505], score=None, time=1602270173, title=None, item_type='comment', url=None, parent=24731580, text='How do we ensure Twitter’s censorship is and stays reasonable?')

@@ -1,1 +1,1 @@
-Item(by='implements', descendants=None, kids=[24733803], score=None, time=1602267884, title=None, item_type='comment', url=None, parent=24732801, text='It looks like a <i>Scramble</i> clone.')
+Item(by='implements', descendants=None, kids=[24733803, 24734309], score=None, time=1602267884, title=None, item_type='comment', url=None, parent=24732801, text='It looks like a <i>Scramble</i> clone.')

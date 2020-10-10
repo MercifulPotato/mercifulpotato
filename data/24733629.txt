@@ -1,1 +1,1 @@
-Item(by='breck', descendants=None, kids=None, score=None, time=1602272457, title=None, item_type='comment', url=None, parent=24732943, text='Git is eating the database world.')
+Item(by='breck', descendants=None, kids=[24734118], score=None, time=1602272457, title=None, item_type='comment', url=None, parent=24732943, text='Git is eating the database world.')

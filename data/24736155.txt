@@ -1,0 +1,1 @@
+Item(by='munchbunny', descendants=None, kids=None, score=None, time=1602294711, title=None, item_type='comment', url=None, parent=24736128, text='No, it’s not premature. Skipping sqrt operations in the inner loops, which collision detection often is, is a generally good idea because the sqrt operation isn’t cheap.')

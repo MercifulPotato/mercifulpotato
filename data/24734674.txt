@@ -1,0 +1,1 @@
+Item(by='lovetocode', descendants=None, kids=[24735239], score=None, time=1602279234, title=None, item_type='comment', url=None, parent=24732972, text='Not surprised. I submitted a report and POC of an oauth2 vulnerability that they deemed  as a low priority. Robinhood users are highly susceptible to phishing attacks. Even 2FA is vulnerable if the attacker is fast enough.')

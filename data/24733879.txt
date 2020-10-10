@@ -1,0 +1,1 @@
+Item(by='ddorian43', descendants=None, kids=None, score=None, time=1602274030, title=None, item_type='comment', url=None, parent=24730212, text='You can automate it with a cron job. For redundancy, a cron job in each master server.')

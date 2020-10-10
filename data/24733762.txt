@@ -1,0 +1,1 @@
+Item(by='jandrese', descendants=None, kids=[24734044], score=None, time=1602273313, title=None, item_type='comment', url=None, parent=24730593, text='When I find a project that is a handful of .c files and a Makefile they almost always compile and run.  Sometimes with warnings because the features used in the code are depreciated but usually without too much fanfare.')

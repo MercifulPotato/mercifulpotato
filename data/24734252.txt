@@ -1,0 +1,1 @@
+Item(by='anamexis', descendants=None, kids=None, score=None, time=1602276290, title=None, item_type='comment', url=None, parent=24733498, text='Yes, you could. Also, most lisp&#x2F;clojure editing modes will have commands for manipulating S-expressions, such as slurp and barf, which make it a single shortcut to move `thing` out of the `if` expression in your example.')
