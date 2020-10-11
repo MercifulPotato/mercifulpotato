@@ -1,1 +1,1 @@
-Item(by='sabellito', descendants=None, kids=None, score=None, time=1602373996, title=None, item_type='comment', url=None, parent=24741529, text='I will forever swear by parcel-bundler. That thing takes so much of the suck out of web dev.')
+Item(by='sabellito', descendants=None, kids=[24743665], score=None, time=1602373996, title=None, item_type='comment', url=None, parent=24741529, text='I will forever swear by parcel-bundler. That thing takes so much of the suck out of web dev.')

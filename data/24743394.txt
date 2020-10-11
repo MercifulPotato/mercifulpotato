@@ -1,0 +1,1 @@
+Item(by='ncmncm', descendants=None, kids=None, score=None, time=1602383823, title=None, item_type='comment', url=None, parent=24738464, text='Yes, this is the usual failure mode. It happens quite often, because nothing checks for unique or correct guard names.<p>Failing to switch to `#pragma once` when it becomes permissible is reckless and irresponsible.')

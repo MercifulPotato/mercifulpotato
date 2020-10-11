@@ -1,0 +1,1 @@
+Item(by='kps', descendants=None, kids=None, score=None, time=1602387978, title=None, item_type='comment', url=None, parent=24742225, text='I²C, at least originally (I haven&#x27;t kept up with all the later variations), so you could put multiple devices on the bus, assuming firmware support.')

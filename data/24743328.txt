@@ -1,1 +1,1 @@
-Item(by='klysm', descendants=None, kids=None, score=None, time=1602382402, title=None, item_type='comment', url=None, parent=24742918, text='I wanted to build a custom keyboard with a track point but couldn’t find any suppliers. Does anybody know of any?')
+Item(by='klysm', descendants=None, kids=[24744138], score=None, time=1602382402, title=None, item_type='comment', url=None, parent=24742918, text='I wanted to build a custom keyboard with a track point but couldn’t find any suppliers. Does anybody know of any?')

@@ -1,1 +1,1 @@
-Item(by='GoOnThenDoTell', descendants=None, kids=None, score=None, time=1602381482, title=None, item_type='comment', url=None, parent=24743105, text='Paywalls and sign-up-walls should be against posting guidelines')
+Item(by='GoOnThenDoTell', descendants=None, kids=[24743604], score=None, time=1602381482, title=None, item_type='comment', url=None, parent=24743105, text='Paywalls and sign-up-walls should be against posting guidelines')

@@ -1,1 +1,1 @@
-Item(by='TheJimMcKeeth', descendants=None, kids=None, score=None, time=1602357769, title=None, item_type='comment', url=None, parent=24739051, text='Maybe we need to make a museum site museum.')
+Item(by='TheJimMcKeeth', descendants=None, kids=[24743558], score=None, time=1602357769, title=None, item_type='comment', url=None, parent=24739051, text='Maybe we need to make a museum site museum.')

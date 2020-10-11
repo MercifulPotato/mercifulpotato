@@ -1,0 +1,1 @@
+Item(by='webmaven', descendants=None, kids=[24744081], score=None, time=1602393828, title=None, item_type='comment', url=None, parent=24741545, text='<i>&gt; In CoCalc.com I made it use Katex, but if there is an error it falls back to MathJax.</i><p>What % of Katex&#x27;s rendering attempts fail over to MathJax?')

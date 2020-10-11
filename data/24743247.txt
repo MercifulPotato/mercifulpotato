@@ -1,1 +1,1 @@
-Item(by='dbatten', descendants=None, kids=None, score=None, time=1602380776, title=None, item_type='comment', url=None, parent=24743222, text='Yes. Petrol is &quot;gas&quot; in the US. And Canada too maybe?')
+Item(by='dbatten', descendants=None, kids=[24743470], score=None, time=1602380776, title=None, item_type='comment', url=None, parent=24743222, text='Yes. Petrol is &quot;gas&quot; in the US. And Canada too maybe?')

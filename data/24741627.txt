@@ -1,1 +1,1 @@
-Item(by='jseliger', descendants=0, kids=None, score=3, time=1602361589, title='Why read Boethius today?', item_type='story', url='https://aeon.co/essays/why-we-should-read-boethiuss-consolation-of-philosophy-today', parent=None, text=None)
+Item(by='jseliger', descendants=2, kids=[24743681], score=6, time=1602361589, title='Why read Boethius today?', item_type='story', url='https://aeon.co/essays/why-we-should-read-boethiuss-consolation-of-philosophy-today', parent=None, text=None)
