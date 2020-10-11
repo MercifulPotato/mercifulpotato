@@ -1,1 +1,1 @@
-Item(by='anarazel', descendants=0, kids=None, score=3, time=1602354254, title='What’s new in pg_auto_failover 1.4 for Postgres high availability', item_type='story', url='https://www.citusdata.com/blog/2020/10/10/whats-new-in-pg-auto-failover/', parent=None, text=None)
+Item(by='anarazel', descendants=0, kids=None, score=4, time=1602354254, title='What’s new in pg_auto_failover 1.4 for Postgres high availability', item_type='story', url='https://www.citusdata.com/blog/2020/10/10/whats-new-in-pg-auto-failover/', parent=None, text=None)

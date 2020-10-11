@@ -1,1 +1,1 @@
-Item(by='chinigo', descendants=None, kids=None, score=None, time=1602340392, title=None, item_type='comment', url=None, parent=24738359, text='Lifesaver! Without this, error handling in bash functions is a gigantic, unintuitive pain. Thank you for bringing this to my attention.')
+Item(by='chinigo', descendants=None, kids=[24742846], score=None, time=1602340392, title=None, item_type='comment', url=None, parent=24738359, text='Lifesaver! Without this, error handling in bash functions is a gigantic, unintuitive pain. Thank you for bringing this to my attention.')

@@ -1,1 +1,1 @@
-Item(by='weinzierl', descendants=8, kids=[24740482, 24739390, 24739640, 24738452], score=134, time=1602326423, title='A New Back End for Cranelift', item_type='story', url='https://hacks.mozilla.org/2020/10/a-new-backend-for-cranelift-part-1-instruction-selection/', parent=None, text=None)
+Item(by='weinzierl', descendants=9, kids=[24740482, 24739390, 24739640, 24738452], score=161, time=1602326423, title='A New Back End for Cranelift', item_type='story', url='https://hacks.mozilla.org/2020/10/a-new-backend-for-cranelift-part-1-instruction-selection/', parent=None, text=None)

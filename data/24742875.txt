@@ -1,0 +1,1 @@
+Item(by='emmelaich', descendants=None, kids=None, score=None, time=1602374967, title=None, item_type='comment', url=None, parent=24740620, text='A footnote in Rochkind&#x27;s Advanced UNIX Programming is that they could add `lseek` in addition to `seek` because they&#x27;d saved a character in `creat`')

@@ -1,0 +1,1 @@
+Item(by='mrpippy', descendants=None, kids=None, score=None, time=1602362173, title=None, item_type='comment', url=None, parent=24740801, text='The 601 had support for some POWER instructions that weren’t part of the PPC ISA and weren’t supported by later chips, I know Apple’s developer notes for these machines mentioned that you had to avoid those.')

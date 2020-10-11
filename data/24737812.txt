@@ -1,1 +1,1 @@
-Item(by='baybal2', descendants=None, kids=None, score=None, time=1602323588, title=None, item_type='comment', url=None, parent=24735859, text='It&#x27;s not a legal issue, that&#x27;s a moral issue.')
+Item(by='baybal2', descendants=None, kids=[24741995], score=None, time=1602323588, title=None, item_type='comment', url=None, parent=24735859, text='It&#x27;s not a legal issue, that&#x27;s a moral issue.')

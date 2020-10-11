@@ -1,0 +1,1 @@
+Item(by='sapi01', descendants=None, kids=None, score=None, time=1602377585, title=None, item_type='comment', url=None, parent=24741668, text='hmmm, IMO it kinda looks like just an abstraction over LUKS and cryptsetup. I work a lot with LUKS&#x2F;cryptsetup Im curious what &quot;else&quot; does using Tomb makes me more &quot;efficient&quot;.')

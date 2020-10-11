@@ -1,1 +1,1 @@
-Item(by='emayljames', descendants=None, kids=None, score=None, time=1602358536, title=None, item_type='comment', url=None, parent=24740481, text='For mens sizes I find that very odd, as the size are defined units of measurement, unlike the headache that is womens sizes.')
+Item(by='emayljames', descendants=None, kids=[24741358, 24741481], score=None, time=1602358536, title=None, item_type='comment', url=None, parent=24740481, text='For mens sizes I find that very odd, as the size are defined units of measurement, unlike the headache that is womens sizes.')

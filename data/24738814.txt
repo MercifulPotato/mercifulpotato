@@ -1,1 +1,1 @@
-Item(by='gkfasdfasdf', descendants=4, kids=[24740534, 24740762, 24740164], score=48, time=1602336174, title='Ctypes.sh: A foreign function interface for bash', item_type='story', url='https://github.com/taviso/ctypes.sh', parent=None, text=None)
+Item(by='gkfasdfasdf', descendants=5, kids=[24741959, 24740762, 24740534, 24740164], score=61, time=1602336174, title='Ctypes.sh: A foreign function interface for bash', item_type='story', url='https://github.com/taviso/ctypes.sh', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='jhardy54', descendants=None, kids=None, score=None, time=1602348778, title=None, item_type='comment', url=None, parent=24739748, text='Oh, I misread that as an arrow pointing from &#x27;before&#x27; to &#x27;after&#x27;. Makes sense now!')
+Item(by='jhardy54', descendants=None, kids=[24742082], score=None, time=1602348778, title=None, item_type='comment', url=None, parent=24739748, text='Oh, I misread that as an arrow pointing from &#x27;before&#x27; to &#x27;after&#x27;. Makes sense now!')

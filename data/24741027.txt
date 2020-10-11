@@ -1,1 +1,1 @@
-Item(by='echelon', descendants=None, kids=None, score=None, time=1602356202, title=None, item_type='comment', url=None, parent=24740154, text='This is so incredibly wasteful.<p>I hope we go back to shopping malls for clothing and fitted purchases.')
+Item(by='echelon', descendants=None, kids=[24741409, 24741705], score=None, time=1602356202, title=None, item_type='comment', url=None, parent=24740154, text='This is so incredibly wasteful.<p>I hope we go back to shopping malls for clothing and fitted purchases.')

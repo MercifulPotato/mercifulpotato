@@ -1,0 +1,1 @@
+Item(by='heavenlyblue', descendants=None, kids=[24742653], score=None, time=1602365852, title=None, item_type='comment', url=None, parent=24741173, text='I think if performance is part of the requirements of your code, then performance must be a part of your type signature.<p>For example, a tail-recursive function needs to have it’s type as tail-recursive.')

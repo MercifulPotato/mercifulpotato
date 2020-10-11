@@ -1,0 +1,1 @@
+Item(by='sjv', descendants=None, kids=None, score=None, time=1602374187, title=None, item_type='comment', url=None, parent=24742164, text='I implemented the network from scratch in vanilla javascript. The file is just a custom binary file containing the names, shapes, and weights of the network parameters.  If you have more specific questions, feel free to ask them.')

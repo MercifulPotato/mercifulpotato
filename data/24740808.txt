@@ -1,1 +1,1 @@
-Item(by='jmnicolas', descendants=None, kids=None, score=None, time=1602354252, title=None, item_type='comment', url=None, parent=24739651, text='Have you tried bi-phasic sleep patterns? You could for example get 6 hours at night and a couple hour in the day as a big nap.')
+Item(by='jmnicolas', descendants=None, kids=[24742279], score=None, time=1602354252, title=None, item_type='comment', url=None, parent=24739651, text='Have you tried bi-phasic sleep patterns? You could for example get 6 hours at night and a couple hour in the day as a big nap.')

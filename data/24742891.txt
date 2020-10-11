@@ -1,0 +1,1 @@
+Item(by='emmelaich', descendants=None, kids=None, score=None, time=1602375148, title=None, item_type='comment', url=None, parent=24740162, text='My hack to get around this was to have the user an groupadmin but not necessarily a member of the group.  Then that user could add and remove themselves from a group as required, keeping under the 16 limit.')

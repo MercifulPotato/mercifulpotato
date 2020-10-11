@@ -1,0 +1,1 @@
+Item(by='nyanpasu64', descendants=None, kids=None, score=None, time=1602371368, title=None, item_type='comment', url=None, parent=24739195, text='Algebraic data types have runtime case information, and won&#x27;t let you reinterpret the underlying bits of a binary buffer between types. I think grandparent meant they wanted pointer casts, unions, reinterpret_cast, or transmute.')

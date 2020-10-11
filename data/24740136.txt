@@ -1,1 +1,1 @@
-Item(by='jimbokun', descendants=None, kids=None, score=None, time=1602348198, title=None, item_type='comment', url=None, parent=24739324, text='All of the discussion generated about this story on Hacker News all the times it has been submitted is an existence proof against this claim.')
+Item(by='jimbokun', descendants=None, kids=[24741868], score=None, time=1602348198, title=None, item_type='comment', url=None, parent=24739324, text='All of the discussion generated about this story on Hacker News all the times it has been submitted is an existence proof against this claim.')

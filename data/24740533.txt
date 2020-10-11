@@ -1,1 +1,1 @@
-Item(by='vo2maxer', descendants=0, kids=None, score=2, time=1602351810, title='Hotel Wi-Fi is unsafe for your work, according to FBI', item_type='story', url='https://windowsreport.com/hotel-wifi-not-safe/', parent=None, text=None)
+Item(by='vo2maxer', descendants=1, kids=[24741600], score=4, time=1602351810, title='Hotel Wi-Fi is unsafe for your work, according to FBI', item_type='story', url='https://windowsreport.com/hotel-wifi-not-safe/', parent=None, text=None)

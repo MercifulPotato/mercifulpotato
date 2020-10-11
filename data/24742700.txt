@@ -1,0 +1,1 @@
+Item(by='kasabali', descendants=None, kids=None, score=None, time=1602372690, title=None, item_type='comment', url=None, parent=24739275, text='&gt; you’d have to call the script with A= just to check A wasn’t defined, and in the process now you have A assigned to an empty string<p>You have ${var:-} for doing that')

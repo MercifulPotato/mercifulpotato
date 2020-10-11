@@ -1,0 +1,1 @@
+Item(by='spockz', descendants=None, kids=None, score=None, time=1602362659, title=None, item_type='comment', url=None, parent=24738835, text='I think this is a great explanation. Are this kind of manual optimisations still needed when using the higher level frameworks? Or at least those should make it clear in the types when a pipeline moves from cpu to gpu and vice versa.')

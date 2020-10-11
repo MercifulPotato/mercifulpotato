@@ -1,1 +1,1 @@
-Item(by='afarrell', descendants=None, kids=None, score=None, time=1602359307, title=None, item_type='comment', url=None, parent=24741130, text='It can if you only have one customer. The issue is monopsony.')
+Item(by='afarrell', descendants=None, kids=[24742563], score=None, time=1602359307, title=None, item_type='comment', url=None, parent=24741130, text='It can if you only have one customer. The issue is monopsony.')

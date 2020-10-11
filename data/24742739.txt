@@ -1,0 +1,1 @@
+Item(by='jjnoakes', descendants=None, kids=None, score=None, time=1602373265, title=None, item_type='comment', url=None, parent=24741465, text='I think both have their place.<p>I like using guard clause style for functions which are mostly pure&#x2F;functional, and one exit at the bottom style for functions that are mostly impure&#x2F;procedural.')

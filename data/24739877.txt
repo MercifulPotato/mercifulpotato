@@ -1,1 +1,1 @@
-Item(by='rmbeard', descendants=None, kids=None, score=None, time=1602346159, title=None, item_type='comment', url=None, parent=24737367, text='I guess George Lucas gets to sue Google now.')
+Item(by='rmbeard', descendants=None, kids=[24740518], score=None, time=1602346159, title=None, item_type='comment', url=None, parent=24737367, text='I guess George Lucas gets to sue Google now.')

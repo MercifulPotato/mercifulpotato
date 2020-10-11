@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=3, time=1602356672, title='MathJax', item_type='story', url='https://www.mathjax.org', parent=None, text=None)
+Item(by='tosh', descendants=26, kids=[24741707, 24741393, 24742927, 24742696, 24742549, 24742040, 24741588, 24741724, 24741657, 24742088], score=85, time=1602356672, title='MathJax', item_type='story', url='https://www.mathjax.org', parent=None, text=None)

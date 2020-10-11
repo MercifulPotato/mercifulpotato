@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=2, time=1602329116, title='Dormio: A targeted dream incubation device', item_type='story', url='https://www.sciencedirect.com/science/article/abs/pii/S1053810020300416?via=ihub', parent=None, text=None)
+Item(by='pseudolus', descendants=1, kids=[24742397], score=3, time=1602329116, title='Dormio: A targeted dream incubation device', item_type='story', url='https://www.sciencedirect.com/science/article/abs/pii/S1053810020300416?via=ihub', parent=None, text=None)

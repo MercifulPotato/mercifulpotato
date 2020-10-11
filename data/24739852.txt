@@ -1,1 +1,1 @@
-Item(by='Swizec', descendants=None, kids=None, score=None, time=1602345992, title=None, item_type='comment', url=None, parent=24739566, text='For investors, look at the fund Sahil of gumroad just started. Rob Walling of Drip famr has a fund now, TinySeed, and there’s indie.vc')
+Item(by='Swizec', descendants=None, kids=[24743109], score=None, time=1602345992, title=None, item_type='comment', url=None, parent=24739566, text='For investors, look at the fund Sahil of gumroad just started. Rob Walling of Drip famr has a fund now, TinySeed, and there’s indie.vc')

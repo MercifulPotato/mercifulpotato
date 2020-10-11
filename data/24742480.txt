@@ -1,0 +1,1 @@
+Item(by='coliveira', descendants=None, kids=None, score=None, time=1602370264, title=None, item_type='comment', url=None, parent=24738034, text='This is all nice, but not portable. C++ has no formal concept of a &quot;builder&quot;, every new invocation of the compiler is independent, so it doesn&#x27;t know how a previous invocation parsed a particular header file.')

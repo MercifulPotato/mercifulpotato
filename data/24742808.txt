@@ -1,0 +1,1 @@
+Item(by='bcrl', descendants=None, kids=None, score=None, time=1602374072, title=None, item_type='comment', url=None, parent=24725091, text='But only 16MB of L3 is accessible to each core in Zen 2 - no single core can utilize all 256MB of L3 cache.  That&#x27;s why Zen 3 cores being able to access the full 32MB of L3 cache that&#x27;s on die is a big deal.')

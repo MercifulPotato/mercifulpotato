@@ -1,1 +1,1 @@
-Item(by='im3w1l', descendants=None, kids=None, score=None, time=1602285561, title=None, item_type='comment', url=None, parent=24735334, text='Ah, I didn&#x27;t know hardware keys are domain-bound that&#x27;s cool. Do they open an encrypted tunnel directly to the server?')
+Item(by='im3w1l', descendants=None, kids=[24742010], score=None, time=1602285561, title=None, item_type='comment', url=None, parent=24735334, text='Ah, I didn&#x27;t know hardware keys are domain-bound that&#x27;s cool. Do they open an encrypted tunnel directly to the server?')
