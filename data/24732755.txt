@@ -1,1 +1,1 @@
-Item(by='myth_drannon', descendants=None, kids=None, score=None, time=1602267353, title=None, item_type='comment', url=None, parent=24718478, text='He mentions witnessing REPL development by David Nolen. Is there a video of it?')
+Item(by='myth_drannon', descendants=None, kids=[24745894], score=None, time=1602267353, title=None, item_type='comment', url=None, parent=24718478, text='He mentions witnessing REPL development by David Nolen. Is there a video of it?')

@@ -1,1 +1,1 @@
-Item(by='skywritergr', descendants=None, kids=None, score=None, time=1602376404, title=None, item_type='comment', url=None, parent=24742518, text='I used Katex on my GatsbyJS blog and it worked nicely. Felt like doing latex but less confusing.')
+Item(by='skywritergr', descendants=None, kids=[24745356], score=None, time=1602376404, title=None, item_type='comment', url=None, parent=24742518, text='I used Katex on my GatsbyJS blog and it worked nicely. Felt like doing latex but less confusing.')

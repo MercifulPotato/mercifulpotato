@@ -1,1 +1,1 @@
-Item(by='asdff', descendants=None, kids=None, score=None, time=1602398368, title=None, item_type='comment', url=None, parent=24739458, text='Bloomberg writes this piece probably once a quarter now.')
+Item(by='asdff', descendants=None, kids=[24744402], score=None, time=1602398368, title=None, item_type='comment', url=None, parent=24739458, text='Bloomberg writes this piece probably once a quarter now.')

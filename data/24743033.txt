@@ -1,1 +1,1 @@
-Item(by='alquemist', descendants=None, kids=None, score=None, time=1602377391, title=None, item_type='comment', url=None, parent=24740062, text='Nice! Should be easy to do max instead of count. Then top instead of max. Then top3 breaks the model.')
+Item(by='alquemist', descendants=None, kids=[24744470], score=None, time=1602377391, title=None, item_type='comment', url=None, parent=24740062, text='Nice! Should be easy to do max instead of count. Then top instead of max. Then top3 breaks the model.')

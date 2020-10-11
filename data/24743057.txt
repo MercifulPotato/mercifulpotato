@@ -1,1 +1,1 @@
-Item(by='ramoz', descendants=None, kids=None, score=None, time=1602377849, title=None, item_type='comment', url=None, parent=24742937, text='Link? Can&#x27;t find any immediate search hits')
+Item(by='ramoz', descendants=None, kids=[24744453], score=None, time=1602377849, title=None, item_type='comment', url=None, parent=24742937, text='Link? Can&#x27;t find any immediate search hits')

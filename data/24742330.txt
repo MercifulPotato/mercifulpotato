@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=None, kids=None, score=None, time=1602368943, title=None, item_type='comment', url=None, parent=24741698, text='How covered by automated tests is the kernel? Some tests would require hardware emulators to some degree, but a lot wouldn&#x27;t.')
+Item(by='rbanffy', descendants=None, kids=[24745906], score=None, time=1602368943, title=None, item_type='comment', url=None, parent=24741698, text='How covered by automated tests is the kernel? Some tests would require hardware emulators to some degree, but a lot wouldn&#x27;t.')

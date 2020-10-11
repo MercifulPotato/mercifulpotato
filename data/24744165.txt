@@ -1,1 +1,1 @@
-Item(by='meddlepal', descendants=None, kids=None, score=None, time=1602398742, title=None, item_type='comment', url=None, parent=24742253, text='I got a red car to fight against the tyranny of black&#x2F;white&#x2F;grey&#x2F;silver I see in parking lots.')
+Item(by='meddlepal', descendants=None, kids=[24744472, 24744619], score=None, time=1602398742, title=None, item_type='comment', url=None, parent=24742253, text='I got a red car to fight against the tyranny of black&#x2F;white&#x2F;grey&#x2F;silver I see in parking lots.')

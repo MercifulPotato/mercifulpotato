@@ -1,1 +1,1 @@
-Item(by='darepublic', descendants=None, kids=None, score=None, time=1602378910, title=None, item_type='comment', url=None, parent=24742758, text='Full page postbacks are not necessary even if you want to go zero dep')
+Item(by='darepublic', descendants=None, kids=[24745110], score=None, time=1602378910, title=None, item_type='comment', url=None, parent=24742758, text='Full page postbacks are not necessary even if you want to go zero dep')

@@ -1,0 +1,1 @@
+Item(by='anonymoushn', descendants=None, kids=None, score=None, time=1602413587, title=None, item_type='comment', url=None, parent=24744814, text='This Hanoi implementation moves stacks of odd sizes and even sizes to different destinations, but the spec says it should move towers of any size to the same destination.')

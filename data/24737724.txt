@@ -1,1 +1,1 @@
-Item(by='ColinWright', descendants=0, kids=None, score=2, time=1602322181, title='Thinking About Recursion', item_type='story', url='https://www.solipsys.co.uk/new/ThinkingAboutRecursion.html?tj10hn', parent=None, text=None)
+Item(by='ColinWright', descendants=12, kids=[24745416, 24745241, 24744814, 24745120], score=28, time=1602322181, title='Thinking About Recursion', item_type='story', url='https://www.solipsys.co.uk/new/ThinkingAboutRecursion.html?tj10hn', parent=None, text=None)

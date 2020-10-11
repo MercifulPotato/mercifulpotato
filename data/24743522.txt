@@ -1,1 +1,1 @@
-Item(by='king_panic', descendants=0, kids=[24743892], score=1, time=1602386696, title='What Is Unenlightenment?', item_type='story', url=None, parent=None, text=None)
+Item(by='king_panic', descendants=1, kids=[24745486, 24743892], score=1, time=1602386696, title='What Is Unenlightenment?', item_type='story', url=None, parent=None, text=None)

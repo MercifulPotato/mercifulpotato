@@ -1,1 +1,1 @@
-Item(by='diminish', descendants=5, kids=[24728848, 24728846], score=9, time=1602235789, title='Bill Gates introducing Windows 3.1 (video 60s)', item_type='story', url='https://www.youtube.com/watch?v=pyg-DYm7b0A', parent=None, text=None)
+Item(by='diminish', descendants=5, kids=[24728846, 24728848], score=9, time=1602235789, title='Bill Gates introducing Windows 3.1 (video 60s)', item_type='story', url='https://www.youtube.com/watch?v=pyg-DYm7b0A', parent=None, text=None)

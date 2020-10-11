@@ -1,1 +1,1 @@
-Item(by='razledorf', descendants=0, kids=None, score=7, time=1602381770, title="China's successful control of Covid-19", item_type='story', url='https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30800-8/fulltext', parent=None, text=None)
+Item(by='razledorf', descendants=1, kids=[24744763], score=8, time=1602381770, title="China's successful control of Covid-19", item_type='story', url='https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30800-8/fulltext', parent=None, text=None)
