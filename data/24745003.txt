@@ -1,1 +1,1 @@
-Item(by='kevin_thibedeau', descendants=None, kids=None, score=None, time=1602414807, title=None, item_type='comment', url=None, parent=24744619, text='Red also fades badly.')
+Item(by='kevin_thibedeau', descendants=None, kids=[24747082], score=None, time=1602414807, title=None, item_type='comment', url=None, parent=24744619, text='Red also fades badly.')

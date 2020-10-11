@@ -1,0 +1,1 @@
+Item(by='Scarblac', descendants=None, kids=None, score=None, time=1602444956, title=None, item_type='comment', url=None, parent=24748097, text='It ensures that if someone changes the hashing algorithm, your test for the collision mitigation now doesn&#x27;t test that anymore even though they should be unrelated.')

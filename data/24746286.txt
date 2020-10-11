@@ -1,0 +1,1 @@
+Item(by='AtlasBarfed', descendants=None, kids=[24746735], score=None, time=1602429014, title=None, item_type='comment', url=None, parent=24746066, text='Did you truncate the hash for dataset size considerations? If you associate data with the hash, I would guess the test data would dwarf the hash size, so why not do 128 or 256 hashes?')

@@ -1,0 +1,1 @@
+Item(by='egberts1', descendants=None, kids=None, score=None, time=1602446540, title=None, item_type='comment', url=None, parent=24745982, text='If you already have a yacc&#x2F;bison in your project’s CLI or compiler parser, you could use `bison —graph=` then feed that graph file into DOT&#x2F;gv layout for outputting to PNG or SVG.')

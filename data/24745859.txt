@@ -1,0 +1,1 @@
+Item(by='maple3142', descendants=None, kids=[24746180, 24746291, 24746020], score=None, time=1602425133, title=None, item_type='comment', url=None, parent=24745194, text='Just wondering. Can &quot;integrity&quot; be used instead of url to provide better caching? Because it is based on hash, which should be more reliable than just url.')

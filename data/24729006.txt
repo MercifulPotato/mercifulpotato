@@ -1,1 +1,1 @@
-Item(by='edent', descendants=0, kids=None, score=3, time=1602244808, title='The Usability of HTML Elements', item_type='story', url='https://shkspr.mobi/blog/2020/10/the-usability-of-html-elements/', parent=None, text=None)
+Item(by='edent', descendants=19, kids=[24746128, 24746364, 24747673, 24745729, 24746109, 24745505], score=34, time=1602244808, title='The Usability of HTML Elements', item_type='story', url='https://shkspr.mobi/blog/2020/10/the-usability-of-html-elements/', parent=None, text=None)

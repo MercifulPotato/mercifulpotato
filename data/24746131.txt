@@ -1,0 +1,1 @@
+Item(by='kijin', descendants=None, kids=None, score=None, time=1602427409, title=None, item_type='comment', url=None, parent=24746018, text='Not to mention another TCP handshake, TLS handshake, certificate validity checks, etc.<p>HTTP&#x2F;2 changed everything. Now the fastest way to serve your assets is to push them down the pipe that has already been set up.')

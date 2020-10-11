@@ -1,0 +1,1 @@
+Item(by='lisper', descendants=None, kids=None, score=None, time=1602437042, title=None, item_type='comment', url=None, parent=24747296, text='Why not just use a hash function that special-cases two test URLs (or a whole class of test URLs) and produces collisions for them?  You can use that same hash function in production.')

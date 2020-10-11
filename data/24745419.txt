@@ -1,1 +1,1 @@
-Item(by='nottorp', descendants=None, kids=None, score=None, time=1602420457, title=None, item_type='comment', url=None, parent=24743790, text='Imagine how much fewer resources it would use if a native app were available...')
+Item(by='nottorp', descendants=None, kids=[24746833], score=None, time=1602420457, title=None, item_type='comment', url=None, parent=24743790, text='Imagine how much fewer resources it would use if a native app were available...')

@@ -1,0 +1,1 @@
+Item(by='alkonaut', descendants=None, kids=None, score=None, time=1602434997, title=None, item_type='comment', url=None, parent=24745194, text='Can’t js build tools pack together my code with the third party libraries and then also tree-shake out all the bits I’m not using?')

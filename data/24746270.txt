@@ -1,0 +1,1 @@
+Item(by='dndvr', descendants=None, kids=[24746788], score=None, time=1602428889, title=None, item_type='comment', url=None, parent=24745748, text='Will this cause performance issues for sites that use static cookieless domains for js, images etc<p>Google themselves do this with gstatic.net and ytimg.com etc')

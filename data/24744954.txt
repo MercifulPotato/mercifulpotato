@@ -1,1 +1,1 @@
-Item(by='m463', descendants=None, kids=None, score=None, time=1602414156, title=None, item_type='comment', url=None, parent=24744873, text='On the other hand, tesla doesn&#x27;t offer many choices.  Maybe took a page from the iphone colors playbook.')
+Item(by='m463', descendants=None, kids=[24748494], score=None, time=1602414156, title=None, item_type='comment', url=None, parent=24744873, text='On the other hand, tesla doesn&#x27;t offer many choices.  Maybe took a page from the iphone colors playbook.')

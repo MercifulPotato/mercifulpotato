@@ -1,1 +1,1 @@
-Item(by='jimnotgym', descendants=None, kids=None, score=None, time=1602405558, title=None, item_type='comment', url=None, parent=24743921, text='They also serve more Captchas, and more complex Captchas to non-chrome browsers')
+Item(by='jimnotgym', descendants=None, kids=[24748075], score=None, time=1602405558, title=None, item_type='comment', url=None, parent=24743921, text='They also serve more Captchas, and more complex Captchas to non-chrome browsers')

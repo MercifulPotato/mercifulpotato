@@ -1,1 +1,1 @@
-Item(by='cafard', descendants=None, kids=None, score=None, time=1602422651, title=None, item_type='comment', url=None, parent=24743619, text='You can&#x27;t fuel your own car in Oregon, or you couldn&#x27;t the last time I was there.')
+Item(by='cafard', descendants=None, kids=[24745999], score=None, time=1602422651, title=None, item_type='comment', url=None, parent=24743619, text='You can&#x27;t fuel your own car in Oregon, or you couldn&#x27;t the last time I was there.')

@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=3, time=1602356445, title='Interrupted Loops', item_type='story', url='https://leancrew.com/all-this/2020/10/interrupted-loops/', parent=None, text=None)
+Item(by='tosh', descendants=9, kids=[24747365, 24747022, 24747798, 24747124, 24747046, 24747038], score=17, time=1602356445, title='Interrupted Loops', item_type='story', url='https://leancrew.com/all-this/2020/10/interrupted-loops/', parent=None, text=None)

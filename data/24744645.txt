@@ -1,1 +1,1 @@
-Item(by='olivdums', descendants=0, kids=None, score=5, time=1602408294, title='Show HN: Learn coding concepts faster', item_type='story', url='https://stanza.dev/', parent=None, text=None)
+Item(by='olivdums', descendants=8, kids=[24746162, 24746033, 24746379], score=17, time=1602408294, title='Show HN: Learn coding concepts faster', item_type='story', url='https://stanza.dev/', parent=None, text=None)

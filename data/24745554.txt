@@ -1,1 +1,1 @@
-Item(by='planejane9', descendants=None, kids=None, score=None, time=1602422262, title=None, item_type='comment', url=None, parent=24745350, text='&gt;All data is captured in a way that’s easily reportable to the government.<p>This is a feature?  No thanks!')
+Item(by='planejane9', descendants=None, kids=[24745651, 24745772], score=None, time=1602422262, title=None, item_type='comment', url=None, parent=24745350, text='&gt;All data is captured in a way that’s easily reportable to the government.<p>This is a feature?  No thanks!')

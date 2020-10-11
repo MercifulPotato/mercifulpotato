@@ -1,1 +1,1 @@
-Item(by='monadic2', descendants=None, kids=None, score=None, time=1602424114, title=None, item_type='comment', url=None, parent=24745635, text='No, they seem explicitly designed to avoid interactive use an end user.')
+Item(by='monadic2', descendants=None, kids=[24747251], score=None, time=1602424114, title=None, item_type='comment', url=None, parent=24745635, text='No, they seem explicitly designed to avoid interactive use an end user.')

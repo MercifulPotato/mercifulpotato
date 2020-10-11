@@ -1,0 +1,1 @@
+Item(by='kortilla', descendants=None, kids=None, score=None, time=1602440060, title=None, item_type='comment', url=None, parent=24746066, text='This is one of those cases where it would have been easier to fake the hashing function in the unit tests with something that collides when you want. What happens if you want a test case where 3+ URLs hash to the same bucket?')

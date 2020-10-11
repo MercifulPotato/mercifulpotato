@@ -1,1 +1,1 @@
-Item(by='animationwill', descendants=None, kids=None, score=None, time=1602421506, title=None, item_type='comment', url=None, parent=24743080, text='Is there an expectation to tip or is it included?')
+Item(by='animationwill', descendants=None, kids=[24746129], score=None, time=1602421506, title=None, item_type='comment', url=None, parent=24743080, text='Is there an expectation to tip or is it included?')

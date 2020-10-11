@@ -1,0 +1,1 @@
+Item(by='daveFNbuck', descendants=None, kids=None, score=None, time=1602433938, title=None, item_type='comment', url=None, parent=24746875, text='The post was about exhausting the space to test code. The example they used of code that should have been tested this way was CPU code. If you&#x27;re testing CPU code, exhausting the space quickly on a GPU isn&#x27;t helpful.')

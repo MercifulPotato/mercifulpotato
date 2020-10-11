@@ -1,1 +1,1 @@
-Item(by='ss2003', descendants=None, kids=None, score=None, time=1602419813, title=None, item_type='comment', url=None, parent=24744979, text='Well this was written 14 years ago. The world was a bit of a different place and there were way fewer women playing DnD then.')
+Item(by='ss2003', descendants=None, kids=[24745638], score=None, time=1602419813, title=None, item_type='comment', url=None, parent=24744979, text='Well this was written 14 years ago. The world was a bit of a different place and there were way fewer women playing DnD then.')

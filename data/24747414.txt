@@ -1,0 +1,1 @@
+Item(by='madeofpalk', descendants=None, kids=[24747465], score=None, time=1602436973, title=None, item_type='comment', url=None, parent=24746579, text='Try and load assets from another domain and observe if it was probably cached or not, and you can know that they visited the site')

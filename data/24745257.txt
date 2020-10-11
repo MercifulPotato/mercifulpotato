@@ -1,1 +1,1 @@
-Item(by='bhaavan', descendants=0, kids=None, score=1, time=1602418389, title='The Implementation of epoll [3 post series]', item_type='story', url='https://idndx.com/2014/09/01/the-implementation-of-epoll-1/', parent=None, text=None)
+Item(by='bhaavan', descendants=0, kids=None, score=1, time=1602418389, title='The Implementation of epoll', item_type='story', url='https://idndx.com/2014/09/01/the-implementation-of-epoll-1/', parent=None, text=None)

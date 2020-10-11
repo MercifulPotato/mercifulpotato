@@ -1,0 +1,1 @@
+Item(by='mmcwilliams', descendants=None, kids=[24748274], score=None, time=1602440206, title=None, item_type='comment', url=None, parent=24746914, text='This is true, but if you&#x27;re running a CDN you have access to cross-domain user information just based on the headers, no?')

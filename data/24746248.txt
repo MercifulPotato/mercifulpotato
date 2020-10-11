@@ -1,0 +1,1 @@
+Item(by='baskire', descendants=None, kids=[24746702], score=None, time=1602428620, title=None, item_type='comment', url=None, parent=24745794, text='My understanding is that it’s not TCP but the tcp AND tls handshake overhead combined. Where-as quick combined both handshakes at the protocol level.')

@@ -1,0 +1,1 @@
+Item(by='postpawl', descendants=None, kids=None, score=None, time=1602435190, title=None, item_type='comment', url=None, parent=24746369, text='This works for simple stuff, but once you find yourself making complicated forms and managing a lot of state on the front-end... two-way binding and reactivity from a js framework can keep things from becoming a huge mess.')

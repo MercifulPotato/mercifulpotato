@@ -1,1 +1,1 @@
-Item(by='joppy', descendants=None, kids=None, score=None, time=1602420423, title=None, item_type='comment', url=None, parent=24745318, text='If you don’t yet understand recursion, you must first understand recursion.')
+Item(by='joppy', descendants=None, kids=[24748002], score=None, time=1602420423, title=None, item_type='comment', url=None, parent=24745318, text='If you don’t yet understand recursion, you must first understand recursion.')

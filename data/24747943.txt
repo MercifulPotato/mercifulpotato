@@ -1,0 +1,1 @@
+Item(by='svnpenn', descendants=None, kids=[24748169], score=None, time=1602441194, title=None, item_type='comment', url=None, parent=24747555, text='&gt; I suggested to a client that they use Sqlite3 for their company database rather than a disk based database.<p>Sqlite is a disk based database...')

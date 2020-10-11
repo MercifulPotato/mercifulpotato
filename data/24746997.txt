@@ -1,0 +1,1 @@
+Item(by='cbsmith', descendants=None, kids=None, score=None, time=1602434256, title=None, item_type='comment', url=None, parent=24740214, text='Dead code elimination has been available in C compilers since... so long ago I can&#x27;t remember. It&#x27;s not that compilers can&#x27;t do it, but much like the halting problem, they really can&#x27;t catch it all.')

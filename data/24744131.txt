@@ -1,1 +1,1 @@
-Item(by='Yoric', descendants=None, kids=None, score=None, time=1602397913, title=None, item_type='comment', url=None, parent=24743964, text='I&#x27;m deleting cookies whenever I quit Firefox (which is ~once per day, as I&#x27;m using Nightly). I don&#x27;t really have these problems.')
+Item(by='Yoric', descendants=None, kids=[24748559], score=None, time=1602397913, title=None, item_type='comment', url=None, parent=24743964, text='I&#x27;m deleting cookies whenever I quit Firefox (which is ~once per day, as I&#x27;m using Nightly). I don&#x27;t really have these problems.')

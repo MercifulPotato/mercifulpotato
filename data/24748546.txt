@@ -1,0 +1,1 @@
+Item(by='dmurray', descendants=None, kids=None, score=None, time=1602445956, title=None, item_type='comment', url=None, parent=24748297, text='Exactly, the exchange can work just fine processing each message in order without worrying about absolute time. Absolute time is needed for reporting or auditing purposes.')

@@ -1,0 +1,1 @@
+Item(by='cozzyd', descendants=None, kids=[24746813], score=None, time=1602432898, title=None, item_type='comment', url=None, parent=24746057, text='If your CSV file is so large parsing it takes a nontrivial amount of time, why didn&#x27;t you use a binary format?')

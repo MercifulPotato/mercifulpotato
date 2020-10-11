@@ -1,1 +1,1 @@
-Item(by='oriolid', descendants=None, kids=None, score=None, time=1602415488, title=None, item_type='comment', url=None, parent=24744585, text='Convolution is linear, tube amps have many levels of nonlinear behavior.')
+Item(by='oriolid', descendants=None, kids=[24746202], score=None, time=1602415488, title=None, item_type='comment', url=None, parent=24744585, text='Convolution is linear, tube amps have many levels of nonlinear behavior.')

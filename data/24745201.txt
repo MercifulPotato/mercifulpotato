@@ -1,1 +1,1 @@
-Item(by='webdevetc', descendants=0, kids=None, score=1, time=1602417625, title='Guide to Vue 3 Composition API', item_type='story', url='https://webdevetc.com/blog/vue-3-guide-with-example-code-snippets/', parent=None, text=None)
+Item(by='webdevetc', descendants=0, kids=None, score=3, time=1602417625, title='Guide to Vue 3 Composition API', item_type='story', url='https://webdevetc.com/blog/vue-3-guide-with-example-code-snippets/', parent=None, text=None)
