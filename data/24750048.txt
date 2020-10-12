@@ -1,1 +1,1 @@
-Item(by='jopsen', descendants=None, kids=None, score=None, time=1602459343, title=None, item_type='comment', url=None, parent=24749909, text='I suppose to the idea is that you can&#x27;t use the driver..')
+Item(by='jopsen', descendants=None, kids=[24751054], score=None, time=1602459343, title=None, item_type='comment', url=None, parent=24749909, text='I suppose to the idea is that you can&#x27;t use the driver..')

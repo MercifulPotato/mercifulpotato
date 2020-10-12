@@ -1,0 +1,1 @@
+Item(by='dmh2000', descendants=None, kids=None, score=None, time=1602475617, title=None, item_type='comment', url=None, parent=24748169, text='&#x27;The most common way to force an SQLite database to exist purely in memory is to open the database using the special filename &quot;:memory:&quot;.&#x27;')

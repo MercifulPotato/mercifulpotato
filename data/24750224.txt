@@ -1,1 +1,1 @@
-Item(by='matheusmoreira', descendants=None, kids=None, score=None, time=1602461335, title=None, item_type='comment', url=None, parent=24749893, text='If only! The hardware is made so that only software written by nvidia can drive the graphics card.')
+Item(by='matheusmoreira', descendants=None, kids=[24751769], score=None, time=1602461335, title=None, item_type='comment', url=None, parent=24749893, text='If only! The hardware is made so that only software written by nvidia can drive the graphics card.')

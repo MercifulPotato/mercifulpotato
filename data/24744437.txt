@@ -1,1 +1,1 @@
-Item(by='cool-RR', descendants=0, kids=None, score=4, time=1602404322, title='Show HN: GridRoyale, a life simulation for exploring social dynamics', item_type='story', url='https://github.com/cool-RR/grid_royale', parent=None, text=None)
+Item(by='cool-RR', descendants=8, kids=[24751607], score=44, time=1602404322, title='Show HN: GridRoyale, a life simulation for exploring social dynamics', item_type='story', url='https://github.com/cool-RR/grid_royale', parent=None, text=None)

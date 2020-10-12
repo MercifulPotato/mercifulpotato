@@ -1,0 +1,1 @@
+Item(by='boxed', descendants=None, kids=[24752298], score=None, time=1602478731, title=None, item_type='comment', url=None, parent=24746963, text='Pandas is pretty slow and since it loads into memory it can be totally infeasible for even relatively small data sets. The csv module it what one should compare it to imo.')

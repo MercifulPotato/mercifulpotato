@@ -1,0 +1,1 @@
+Item(by='thefreeman', descendants=None, kids=None, score=None, time=1602470964, title=None, item_type='comment', url=None, parent=24750835, text='CORS wouldn&#x27;t help here. CORS prevents you from reading the response or making a cross origin XHR requests, not loading an external resource from a different domain in a script or img tag.')

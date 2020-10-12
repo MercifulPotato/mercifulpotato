@@ -1,1 +1,1 @@
-Item(by='JdeBP', descendants=0, kids=None, score=23, time=1602306995, title='The Man Who Edited Melville (1982)', item_type='story', url='http://leesandlin.com/articles/EditedMelville.htm', parent=None, text=None)
+Item(by='JdeBP', descendants=1, kids=[24750798], score=23, time=1602306995, title='The Man Who Edited Melville (1982)', item_type='story', url='http://leesandlin.com/articles/EditedMelville.htm', parent=None, text=None)

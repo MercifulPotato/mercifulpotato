@@ -1,1 +1,1 @@
-Item(by='wyclif', descendants=None, kids=None, score=None, time=1602464981, title=None, item_type='comment', url=None, parent=24750058, text='If you subscribe to Spotify Premium and change few default settings, the sound quality is the same as Tidal&#x27;s.')
+Item(by='wyclif', descendants=None, kids=[24751672], score=None, time=1602464981, title=None, item_type='comment', url=None, parent=24750058, text='If you subscribe to Spotify Premium and change few default settings, the sound quality is the same as Tidal&#x27;s.')

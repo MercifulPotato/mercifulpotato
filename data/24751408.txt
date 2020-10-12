@@ -1,0 +1,1 @@
+Item(by='bransonf', descendants=None, kids=[24751449, 24751474, 24751446], score=None, time=1602477090, title=None, item_type='comment', url=None, parent=24751212, text='It’s not mentioned in the README, but is WSL2 on the Windows Terminal app supported?<p>I could run gnome terminal but then I have to configure X11 and that’s a pain.<p>Thanks, this looks awesome.')

@@ -1,0 +1,1 @@
+Item(by='timClicks', descendants=None, kids=None, score=None, time=1602484137, title=None, item_type='comment', url=None, parent=24751875, text='Sometimes you need to work with pre-written libraries. The Rust compiler is unable to reason about anything on the other side of the FFI boundary.')

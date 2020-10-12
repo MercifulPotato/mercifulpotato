@@ -1,1 +1,1 @@
-Item(by='dvtrn', descendants=None, kids=None, score=None, time=1602467302, title=None, item_type='comment', url=None, parent=24750727, text='Cognitive load is a bitch when someone is staring down the barrel of burnout. Kids or not.')
+Item(by='dvtrn', descendants=None, kids=[24751025], score=None, time=1602467302, title=None, item_type='comment', url=None, parent=24750727, text='Cognitive load is a bitch when someone is staring down the barrel of burnout. Kids or not.')

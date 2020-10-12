@@ -1,1 +1,1 @@
-Item(by='edent', descendants=None, kids=None, score=None, time=1602436913, title=None, item_type='comment', url=None, parent=24746073, text='Ooh! Do you have a source on that? I couldn&#x27;t find anything in English language media.')
+Item(by='edent', descendants=None, kids=[24751889], score=None, time=1602436913, title=None, item_type='comment', url=None, parent=24746073, text='Ooh! Do you have a source on that? I couldn&#x27;t find anything in English language media.')
