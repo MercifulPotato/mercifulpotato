@@ -1,0 +1,1 @@
+Item(by='deaddodo', descendants=None, kids=[24748888, 24748926], score=None, time=1602448212, title=None, item_type='comment', url=None, parent=24748808, text='Eh, that&#x27;s not exactly true. Most of the API is pretty standard and stable. They don&#x27;t have a fixed <i>ABI</i>, which is how closed source OSes handle driver compatibility.')

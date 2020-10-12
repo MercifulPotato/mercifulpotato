@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=None, score=None, time=1602431886, title=None, item_type='comment', url=None, parent=24746641, text='Yes, but the registries that operate TLDs are not.')
+Item(by='kube-system', descendants=None, kids=[24750057], score=None, time=1602431886, title=None, item_type='comment', url=None, parent=24746641, text='Yes, but the registries that operate TLDs are not.')

@@ -1,1 +1,1 @@
-Item(by='zaroth', descendants=None, kids=None, score=None, time=1602447041, title=None, item_type='comment', url=None, parent=24745810, text='What if I want to see all posts from “github.com” overall?')
+Item(by='zaroth', descendants=None, kids=None, score=None, time=1602447041, title=None, item_type='comment', url=None, parent=24745810, text='What if you want to see all posts from “github.com” overall?<p>You can still modify the HN url to see that by removing the path.<p>If you do partial paths on other domains it doesn’t seem to work.')

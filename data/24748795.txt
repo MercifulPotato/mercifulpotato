@@ -1,0 +1,1 @@
+Item(by='mey', descendants=None, kids=[24748808], score=None, time=1602447844, title=None, item_type='comment', url=None, parent=24748488, text='Can someone with more understanding of the Linux Kernel arch&#x2F;design describe why these drivers are in the kernel tree?  Are these not part of a HAL or are they more &quot;integrated&quot; then that?')

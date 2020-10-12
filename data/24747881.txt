@@ -1,1 +1,1 @@
-Item(by='Razengan', descendants=None, kids=None, score=None, time=1602440676, title=None, item_type='comment', url=None, parent=24745477, text='How do you know the frequency of what you hear? Is it a guess or measurement?')
+Item(by='Razengan', descendants=None, kids=[24749808], score=None, time=1602440676, title=None, item_type='comment', url=None, parent=24745477, text='How do you know the frequency of what you hear? Is it a guess or measurement?')

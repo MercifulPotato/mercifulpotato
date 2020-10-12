@@ -1,1 +1,1 @@
-Item(by='babolivier', descendants=10, kids=[24722272, 24723187, 24734348], score=64, time=1602176456, title='Dendrite (next-gen Matrix server) is entering beta', item_type='story', url='https://matrix.org/blog/2020/10/08/dendrite-is-entering-beta', parent=None, text=None)
+Item(by='babolivier', descendants=11, kids=[24750118, 24722272, 24723187, 24734348], score=65, time=1602176456, title='Dendrite (next-gen Matrix server) is entering beta', item_type='story', url='https://matrix.org/blog/2020/10/08/dendrite-is-entering-beta', parent=None, text=None)

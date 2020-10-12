@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=None, score=None, time=1602454360, title=None, item_type='comment', url=None, parent=24748809, text='Sampling doesn&#x27;t really introduce significant phase noise though.  A single analog filter will introduce frequency-dependent phase shift and that will dominate any tiny phase noise that might happen from sampling.')

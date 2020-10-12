@@ -1,1 +1,1 @@
-Item(by='jaza', descendants=0, kids=None, score=5, time=1602414384, title='Tolstoy: the forgotten philosopher', item_type='story', url='https://greenash.net.au/thoughts/2020/10/tolstoy-the-forgotten-philosopher/', parent=None, text=None)
+Item(by='jaza', descendants=8, kids=[24749991, 24750724, 24750155, 24750778, 24750766], score=29, time=1602414384, title='Tolstoy as philosopher', item_type='story', url='https://greenash.net.au/thoughts/2020/10/tolstoy-the-forgotten-philosopher/', parent=None, text=None)

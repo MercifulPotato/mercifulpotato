@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=None, score=None, time=1602452889, title=None, item_type='comment', url=None, parent=24748324, text='&gt; If float parsing is slow, make it faster.<p>Use a binary data format or hexfloats instead. Decimal floats are a pain and especially pointless if they are being generated from and converted back to IEEE 754.')

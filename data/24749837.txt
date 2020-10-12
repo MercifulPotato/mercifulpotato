@@ -1,0 +1,1 @@
+Item(by='MrStonedOne', descendants=None, kids=None, score=None, time=1602457071, title=None, item_type='comment', url=None, parent=24747302, text='I have a js file that is over 900kb, (nearing a mb)<p>Given, its for use in embedded webviews of a video game, and it powers like 50 different atomic interfaces via react.')

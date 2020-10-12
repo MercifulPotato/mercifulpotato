@@ -1,1 +1,1 @@
-Item(by='pmoriarty', descendants=2, kids=[24747711, 24747252], score=7, time=1602432843, title="Covid-19 virus 'survives on some surfaces for 28 days'", item_type='story', url='https://www.bbc.co.uk/news/health-54500673', parent=None, text=None)
+Item(by='pmoriarty', descendants=9, kids=[24749636, 24747252, 24747711], score=18, time=1602432843, title="Covid-19 virus 'survives on some surfaces for 28 days'", item_type='story', url='https://www.bbc.co.uk/news/health-54500673', parent=None, text=None)

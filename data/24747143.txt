@@ -1,1 +1,1 @@
-Item(by='aidenn0', descendants=None, kids=None, score=None, time=1602435203, title=None, item_type='comment', url=None, parent=24742491, text='Stability depends on phase being less than 180°.  No way does digital sampling introduce even a tiny fraction of that.')
+Item(by='aidenn0', descendants=None, kids=[24748809], score=None, time=1602435203, title=None, item_type='comment', url=None, parent=24742491, text='Stability depends on phase being less than 180°.  No way does digital sampling introduce even a tiny fraction of that.')

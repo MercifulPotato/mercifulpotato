@@ -1,1 +1,1 @@
-Item(by='ficklepickle', descendants=None, kids=None, score=None, time=1602435321, title=None, item_type='comment', url=None, parent=24744353, text='I think that is an unnecessarily negative view. By that logic, nobody should do anything because it will probably suck someday.')
+Item(by='ficklepickle', descendants=None, kids=[24749012], score=None, time=1602435321, title=None, item_type='comment', url=None, parent=24744353, text='I think that is an unnecessarily negative view. By that logic, nobody should do anything because it will probably suck someday.')

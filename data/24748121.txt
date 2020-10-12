@@ -1,0 +1,1 @@
+Item(by='uryga', descendants=None, kids=None, score=None, time=1602442599, title=None, item_type='comment', url=None, parent=24747484, text='weird! on firefox this does the job:<p><pre><code>   details.footnote &gt; summary { list-style: none; }\n</code></pre>\nbut doesn&#x27;t work on chrome, not sure why. updated the code to include both, thanks!')

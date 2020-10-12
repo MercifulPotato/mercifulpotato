@@ -1,0 +1,1 @@
+Item(by='pitaj', descendants=None, kids=[24750008], score=None, time=1602456741, title=None, item_type='comment', url=None, parent=24748342, text='That&#x27;s a huge tradeoff with compiler complexity. Not only can you have issues of syntax incompatibility, but you also have to implement the syntax for every assembly variant for every architecture you support.')

@@ -1,1 +1,1 @@
-Item(by='iceman_w', descendants=1, kids=[24746237], score=3, time=1602428540, title='Show HN: Gnutella – Code Execution Visualization', item_type='story', url='http://gnutella.io/?clid=hn', parent=None, text=None)
+Item(by='iceman_w', descendants=3, kids=[24749152, 24746237], score=3, time=1602428540, title='Show HN: Gnutella – Code Execution Visualization', item_type='story', url='http://gnutella.io/?clid=hn', parent=None, text=None)

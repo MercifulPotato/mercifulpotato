@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=None, score=None, time=1602449654, title=None, item_type='comment', url=None, parent=24748929, text='I very much <i>expect</i> O(n) compilation of stuff like array declarations, enums, CPP macro definitions and so forth. What else would it be?')

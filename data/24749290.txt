@@ -1,0 +1,1 @@
+Item(by='Taniwha', descendants=None, kids=None, score=None, time=1602452032, title=None, item_type='comment', url=None, parent=24749157, text='&gt;Why not generate it during the build? Is there a good reason not to do that?<p>In many hardware shops the C definitions for the visible registers are generated automatically from the hardware&#x27;s source code')

@@ -1,0 +1,1 @@
+Item(by='megous', descendants=None, kids=None, score=None, time=1602460978, title=None, item_type='comment', url=None, parent=24745194, text='Another point to consider is that CDN may be blocked or very unreliable in some country. So you may be excluding people from, say, China. If you use google cdn for JS, or fonts (less problematic).')

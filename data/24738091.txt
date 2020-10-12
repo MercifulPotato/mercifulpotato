@@ -1,1 +1,1 @@
-Item(by='tremon', descendants=None, kids=[24738202, 24738192, 24738167, 24738296], score=None, time=1602327641, title=None, item_type='comment', url=None, parent=24737961, text='Not only that, it implies that there must be a valid null-state for every type, which is also a bad idea.')
+Item(by='tremon', descendants=None, kids=[24738202, 24738192, 24738296, 24738167], score=None, time=1602327641, title=None, item_type='comment', url=None, parent=24737961, text='Not only that, it implies that there must be a valid null-state for every type, which is also a bad idea.')

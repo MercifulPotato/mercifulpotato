@@ -1,0 +1,1 @@
+Item(by='cle', descendants=None, kids=None, score=None, time=1602468379, title=None, item_type='comment', url=None, parent=24746494, text='You still have to reason through “what if it collides with the <i>real</i> hash function?”  How do you know it will behave the same if you don’t test it?<p>(I can sympathize with both approaches and don’t think either one is better.)')

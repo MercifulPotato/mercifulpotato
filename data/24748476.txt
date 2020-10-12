@@ -1,1 +1,1 @@
-Item(by='DeonPenny', descendants=None, kids=None, score=None, time=1602445460, title=None, item_type='comment', url=None, parent=24746664, text='.com and .net have always been all but .us. Since .us didn&#x27;t exist when the web was created')
+Item(by='DeonPenny', descendants=None, kids=[24749983], score=None, time=1602445460, title=None, item_type='comment', url=None, parent=24746664, text='.com and .net have always been all but .us. Since .us didn&#x27;t exist when the web was created')
