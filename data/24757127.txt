@@ -1,0 +1,1 @@
+Item(by='mike_d', descendants=None, kids=[24758094, 24757734], score=None, time=1602524709, title=None, item_type='comment', url=None, parent=24755889, text='Deploying IPv6 is nice, but it doesn&#x27;t impact the value of IPv4 at all.<p>Any internet service you want to be widely available will need to be dual-stack as long as we are alive.')

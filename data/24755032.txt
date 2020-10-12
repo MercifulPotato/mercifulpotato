@@ -1,0 +1,1 @@
+Item(by='tinus_hn', descendants=None, kids=[24756385], score=None, time=1602514834, title=None, item_type='comment', url=None, parent=24753526, text='Originally you could run with NFS as your only storage, even swapping on NFS. If the server rebooted the clients would get stuck but resume once it came back up. This requires some hard to deliver guarantees from the server.')

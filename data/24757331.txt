@@ -1,0 +1,1 @@
+Item(by='the__alchemist', descendants=None, kids=None, score=None, time=1602525608, title=None, item_type='comment', url=None, parent=24751212, text='I recommend updating the install instructions to point to the binaries in the Release section, and not bundling the Windows ones in tar.gz.')

@@ -1,1 +1,1 @@
-Item(by='fireattack', descendants=None, kids=None, score=None, time=1602497087, title=None, item_type='comment', url=None, parent=24752714, text='Just a quick heads-up, all the images in this article are stretched.')
+Item(by='fireattack', descendants=None, kids=[24757069], score=None, time=1602497087, title=None, item_type='comment', url=None, parent=24752714, text='Just a quick heads-up, all the images in this article are stretched.')

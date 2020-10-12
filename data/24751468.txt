@@ -1,1 +1,1 @@
-Item(by='andreareina', descendants=None, kids=None, score=None, time=1602477922, title=None, item_type='comment', url=None, parent=24751009, text='You want people to associate the song with ice cream; varying the sing gets in the way of that.')
+Item(by='andreareina', descendants=None, kids=[24757177], score=None, time=1602477922, title=None, item_type='comment', url=None, parent=24751009, text='You want people to associate the song with ice cream; varying the sing gets in the way of that.')

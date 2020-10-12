@@ -1,0 +1,1 @@
+Item(by='lvass', descendants=None, kids=None, score=None, time=1602525855, title=None, item_type='comment', url=None, parent=24756999, text='Microsoft doesn&#x27;t provide instructions or support for this but yes, it is possible to keep an existing Linux partition intact when installing windows, it will definitely wipe the EFI partition though.')

@@ -1,0 +1,1 @@
+Item(by='reportgunner', descendants=None, kids=None, score=None, time=1602510791, title=None, item_type='comment', url=None, parent=24753548, text='Did you know lists have a .remove() ?<p><pre><code>    &gt;&gt;&gt; my_array = [1, 2, 3, 4, 5]\n    &gt;&gt;&gt; my_array.remove(1)\n    &gt;&gt;&gt; my_array\n    [2, 3, 4, 5]</code></pre>')

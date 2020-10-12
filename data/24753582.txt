@@ -1,1 +1,1 @@
-Item(by='diroussel', descendants=None, kids=None, score=None, time=1602504694, title=None, item_type='comment', url=None, parent=24752009, text='Let&#x27;s call that Mental Versioning.')
+Item(by='diroussel', descendants=None, kids=[24758167], score=None, time=1602504694, title=None, item_type='comment', url=None, parent=24752009, text='Let&#x27;s call that Mental Versioning.')

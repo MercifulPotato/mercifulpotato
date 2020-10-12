@@ -1,0 +1,1 @@
+Item(by='kibwen', descendants=None, kids=None, score=None, time=1602512492, title=None, item_type='comment', url=None, parent=24754441, text='Rust has return type polymorphism rather than return type &quot;overloading&quot;, but the difference only manifests for library authors; for API consumers the interface is the same either way.')

@@ -1,1 +1,1 @@
-Item(by='kozhevnikov', descendants=None, kids=None, score=None, time=1602502681, title=None, item_type='comment', url=None, parent=24753101, text='Encouraged? No, but data urls are heavily sandboxed, e.g. can&#x27;t even access own cookies.')
+Item(by='kozhevnikov', descendants=None, kids=[24756169], score=None, time=1602502681, title=None, item_type='comment', url=None, parent=24753101, text='Encouraged? No, but data urls are heavily sandboxed, e.g. can&#x27;t even access own cookies.')

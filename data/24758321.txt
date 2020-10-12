@@ -1,0 +1,1 @@
+Item(by='kenniskrag', descendants=0, kids=None, score=1, time=1602530389, title='Security: Bitwarden Desktop app grants RCE to Bitwarden developers', item_type='story', url='https://github.com/bitwarden/desktop/issues/552', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='celias', descendants=None, kids=None, score=None, time=1602525320, title=None, item_type='comment', url=None, parent=24751666, text='The default interpolation for imshow is &#x27;antialiased&#x27; so I think the calls to imshow should use interpolation=&#x27;none&#x27; to avoid the line colors bleeding into the gray image')

@@ -1,1 +1,1 @@
-Item(by='nitwit005', descendants=None, kids=None, score=None, time=1602371724, title=None, item_type='comment', url=None, parent=24740180, text='You can always segment by job category.')
+Item(by='nitwit005', descendants=None, kids=[24755752], score=None, time=1602371724, title=None, item_type='comment', url=None, parent=24740180, text='You can always segment by job category.')

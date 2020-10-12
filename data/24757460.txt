@@ -1,0 +1,1 @@
+Item(by='ducktective', descendants=0, kids=None, score=1, time=1602526113, title='Vim plugin for C/C++/ObjC semantic highlighting using cquery, ccls, or clangd', item_type='story', url='https://github.com/jackguo380/vim-lsp-cxx-highlight', parent=None, text=None)

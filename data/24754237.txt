@@ -1,0 +1,1 @@
+Item(by='wtetzner', descendants=None, kids=None, score=None, time=1602510170, title=None, item_type='comment', url=None, parent=24752600, text='I would probably wrap constants with the same prefix in a module, but all that really does is make the naming feel nicer, I guess.')

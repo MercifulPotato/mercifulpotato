@@ -1,0 +1,1 @@
+Item(by='jrwr', descendants=None, kids=[24758177], score=None, time=1602528781, title=None, item_type='comment', url=None, parent=24757822, text='RIPE just has a rule about only having ISPs hand out those &#x2F;64s there is nothing to prevent someone internally to then split that &#x2F;64 into smaller chunks to hand out to internal clients. Thats the would point of a subnet!')

@@ -1,1 +1,1 @@
-Item(by='danieltillett', descendants=None, kids=None, score=None, time=1602485309, title=None, item_type='comment', url=None, parent=24745080, text='Not very closely based on my personal experience. I am not sure that science needs more of the activities on your list.')
+Item(by='danieltillett', descendants=None, kids=[24754584], score=None, time=1602485309, title=None, item_type='comment', url=None, parent=24745080, text='Not very closely based on my personal experience. I am not sure that science needs more of the activities on your list.')

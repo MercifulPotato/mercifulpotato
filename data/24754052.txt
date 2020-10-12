@@ -1,1 +1,1 @@
-Item(by='koheripbal', descendants=None, kids=None, score=None, time=1602508557, title=None, item_type='comment', url=None, parent=24753574, text='I&#x27;m thinking about that &quot;OK Google&quot; feature that&#x27;s probably <i>designed</i> to be listening 100% of the time.')
+Item(by='koheripbal', descendants=None, kids=[24754996], score=None, time=1602508557, title=None, item_type='comment', url=None, parent=24753574, text='I&#x27;m thinking about that &quot;OK Google&quot; feature that&#x27;s probably <i>designed</i> to be listening 100% of the time.')

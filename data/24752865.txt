@@ -1,1 +1,1 @@
-Item(by='me_me_me', descendants=None, kids=None, score=None, time=1602496279, title=None, item_type='comment', url=None, parent=24752561, text='I was there 2 years ago, its a beautiful place. One of my fav in Laos. Shame it will be remember in years to come by those incidents.')
+Item(by='me_me_me', descendants=None, kids=[24755149], score=None, time=1602496279, title=None, item_type='comment', url=None, parent=24752561, text='I was there 2 years ago, its a beautiful place. One of my fav in Laos. Shame it will be remember in years to come by those incidents.')

@@ -1,1 +1,1 @@
-Item(by='aviraldg', descendants=0, kids=None, score=2, time=1602408370, title='The Xonsh (Python) Shell', item_type='story', url='http://xon.sh', parent=None, text=None)
+Item(by='aviraldg', descendants=15, kids=[24758817, 24758469, 24758577, 24758014, 24756946, 24757010, 24758355], score=64, time=1602408370, title='The Xonsh Python Shell', item_type='story', url='http://xon.sh', parent=None, text=None)

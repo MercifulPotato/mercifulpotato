@@ -1,0 +1,1 @@
+Item(by='d_silin', descendants=None, kids=[24757004], score=None, time=1602522259, title=None, item_type='comment', url=None, parent=24756300, text='Downlink is the biggest bottleneck at the moment. Your satellite camera or SDR can produce thousand times more data than the amount you can download. You&#x27;d definitely benefit from in-space processing.')

@@ -1,0 +1,1 @@
+Item(by='axsharma', descendants=None, kids=None, score=None, time=1602528751, title=None, item_type='comment', url=None, parent=24757990, text='Palo Alto Networks researcher Or Cohen discovered a Linux privilege escalation vulnerability that let standard Linux user to gain root permissions.')

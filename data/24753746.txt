@@ -1,1 +1,1 @@
-Item(by='Kiro', descendants=None, kids=None, score=None, time=1602505988, title=None, item_type='comment', url=None, parent=24753195, text='Swimming with wild orcas is a popular activity in Norway where you get as close as an arm length from them while they circle you.')
+Item(by='Kiro', descendants=None, kids=[24755807], score=None, time=1602505988, title=None, item_type='comment', url=None, parent=24753195, text='Swimming with wild orcas is a popular activity in Norway where you get as close as an arm length from them while they circle you.')

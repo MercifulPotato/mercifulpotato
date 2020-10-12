@@ -1,1 +1,1 @@
-Item(by='Reedx', descendants=1, kids=[24752120], score=8, time=1602471472, title='The 1619 Chronicles', item_type='story', url='https://www.nytimes.com/2020/10/09/opinion/nyt-1619-project-criticisms.html', parent=None, text=None)
+Item(by='Reedx', descendants=2, kids=[24752120], score=8, time=1602471472, title='The 1619 Chronicles', item_type='story', url='https://www.nytimes.com/2020/10/09/opinion/nyt-1619-project-criticisms.html', parent=None, text=None)
