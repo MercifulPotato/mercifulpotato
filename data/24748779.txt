@@ -1,1 +1,1 @@
-Item(by='tomc1985', descendants=None, kids=None, score=None, time=1602447707, title=None, item_type='comment', url=None, parent=24748692, text='Is it? This is the same driver that makes me shut down X and fucks up xorg.conf every time I need to update?')
+Item(by='tomc1985', descendants=None, kids=[24753172], score=None, time=1602447707, title=None, item_type='comment', url=None, parent=24748692, text='Is it? This is the same driver that makes me shut down X and fucks up xorg.conf every time I need to update?')

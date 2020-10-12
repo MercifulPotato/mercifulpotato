@@ -1,0 +1,1 @@
+Item(by='mxxx', descendants=None, kids=None, score=None, time=1602496521, title=None, item_type='comment', url=None, parent=24737033, text='I ran into this the other day. Google will disregard robots.txt and will instead honour the noindex meta tag; BUT if you have a robots.txt that disallows the file with the noindex meta tag then it won’t honour either. Thanks google.')

@@ -1,0 +1,1 @@
+Item(by='flohofwoe', descendants=None, kids=None, score=None, time=1602493092, title=None, item_type='comment', url=None, parent=24750133, text='Code duplication sometimes make sense to better decouple different parts of the code base, however that often only becomes apparent long after the &quot;code cleanup&quot; to remove duplicates has been done.')

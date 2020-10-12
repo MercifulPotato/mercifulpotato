@@ -1,0 +1,1 @@
+Item(by='wlkr', descendants=None, kids=None, score=None, time=1602493816, title=None, item_type='comment', url=None, parent=24752601, text='From what I gather, the focus of PyOxidizer is on enabling you to create executable Python binaries which embed a Python interpreter rather than providing Python packaging and dependency management.')

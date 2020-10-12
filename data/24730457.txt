@@ -1,1 +1,1 @@
-Item(by='teddyh', descendants=None, kids=None, score=None, time=1602255191, title=None, item_type='comment', url=None, parent=24730241, text='From anyone other than who you are connecting to.')
+Item(by='teddyh', descendants=None, kids=[24752622], score=None, time=1602255191, title=None, item_type='comment', url=None, parent=24730241, text='From anyone other than who you are connecting to.')

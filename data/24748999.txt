@@ -1,1 +1,1 @@
-Item(by='ben_w', descendants=None, kids=None, score=None, time=1602449510, title=None, item_type='comment', url=None, parent=24748366, text='Just to be clear, you’d be fine with a personally owned nuke if it didn’t have fallout?')
+Item(by='ben_w', descendants=None, kids=[24753929], score=None, time=1602449510, title=None, item_type='comment', url=None, parent=24748366, text='Just to be clear, you’d be fine with a personally owned nuke if it didn’t have fallout?')

@@ -1,0 +1,1 @@
+Item(by='elcomet', descendants=None, kids=[24753884], score=None, time=1602505999, title=None, item_type='comment', url=None, parent=24749297, text='I&#x27;m not very familiar with julia so it might be wrong. It might be just an AST. The point is that julia is JIT compiled.')

@@ -1,0 +1,1 @@
+Item(by='sjogress', descendants=None, kids=None, score=None, time=1602494031, title=None, item_type='comment', url=None, parent=24752372, text='The main boon of Redux et al in my experience is that they impose some rules as to where and how state changers are handled, meaning less weird inconsistencies when working in a team (especielly if the team members change over time).')

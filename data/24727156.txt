@@ -1,1 +1,1 @@
-Item(by='monocasa', descendants=None, kids=None, score=None, time=1602221729, title=None, item_type='comment', url=None, parent=24727000, text='They&#x27;re explicitly neo-fascist.')
+Item(by='monocasa', descendants=None, kids=[24753151], score=None, time=1602221729, title=None, item_type='comment', url=None, parent=24727000, text='They&#x27;re explicitly neo-fascist.')

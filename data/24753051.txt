@@ -1,0 +1,1 @@
+Item(by='FreeFull', descendants=None, kids=[24754441, 24753177, 24753562], score=None, time=1602498671, title=None, item_type='comment', url=None, parent=24753001, text='Rust also supports it, and it&#x27;s actually very commonly used. For example, the function `Default::default()`, where Default is a trait that you can easily implement for your own types, too.')

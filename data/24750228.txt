@@ -1,1 +1,1 @@
-Item(by='nabla9', descendants=None, kids=None, score=None, time=1602461372, title=None, item_type='comment', url=None, parent=24750210, text='<a href="https:&#x2F;&#x2F;xkcd.com&#x2F;1138&#x2F;" rel="nofollow">https:&#x2F;&#x2F;xkcd.com&#x2F;1138&#x2F;</a>')
+Item(by='nabla9', descendants=None, kids=[24753192], score=None, time=1602461372, title=None, item_type='comment', url=None, parent=24750210, text='<a href="https:&#x2F;&#x2F;xkcd.com&#x2F;1138&#x2F;" rel="nofollow">https:&#x2F;&#x2F;xkcd.com&#x2F;1138&#x2F;</a>')

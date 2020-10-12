@@ -1,1 +1,1 @@
-Item(by='AtlasBarfed', descendants=None, kids=None, score=None, time=1602480226, title=None, item_type='comment', url=None, parent=24751341, text='IBM did it for their mainframes back in the day.')
+Item(by='AtlasBarfed', descendants=None, kids=[24753581], score=None, time=1602480226, title=None, item_type='comment', url=None, parent=24751341, text='IBM did it for their mainframes back in the day.')

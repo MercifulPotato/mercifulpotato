@@ -1,0 +1,1 @@
+Item(by='chrismorgan', descendants=None, kids=None, score=None, time=1602496042, title=None, item_type='comment', url=None, parent=24752758, text='Technical correction: core is a crate, not a module in the std crate. Your paths will be core::<i>, not std::core::</i>.')

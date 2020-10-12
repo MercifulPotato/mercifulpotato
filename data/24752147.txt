@@ -1,1 +1,1 @@
-Item(by='mackrevinack', descendants=None, kids=None, score=None, time=1602486847, title=None, item_type='comment', url=None, parent=24751127, text='yes especially with music, most of the time I&#x27;m listening to the same songs and only listen to new ones maybe 10 or 20% of the time')
+Item(by='mackrevinack', descendants=None, kids=[24753402], score=None, time=1602486847, title=None, item_type='comment', url=None, parent=24751127, text='yes especially with music, most of the time I&#x27;m listening to the same songs and only listen to new ones maybe 10 or 20% of the time')

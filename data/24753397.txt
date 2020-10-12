@@ -1,0 +1,1 @@
+Item(by='gugagore', descendants=None, kids=None, score=None, time=1602502755, title=None, item_type='comment', url=None, parent=24751215, text='MATLAB, NumPy, and a lot of GPU programming (not to mention, Julia) relate to APL and J. You might be surprised by how important what you&#x27;re learning is to express an efficient computation on a GPU in terms of array operations.')

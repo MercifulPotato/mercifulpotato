@@ -1,1 +1,1 @@
-Item(by='rayhendricks', descendants=None, kids=None, score=None, time=1602469925, title=None, item_type='comment', url=None, parent=24748780, text='We could have said this about XOM a couple years ago.  Look where it is now.')
+Item(by='rayhendricks', descendants=None, kids=[24753154], score=None, time=1602469925, title=None, item_type='comment', url=None, parent=24748780, text='We could have said this about XOM a couple years ago.  Look where it is now.')

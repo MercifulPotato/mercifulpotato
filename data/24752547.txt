@@ -1,0 +1,1 @@
+Item(by='1_player', descendants=None, kids=[24753600], score=None, time=1602492583, title=None, item_type='comment', url=None, parent=24749486, text='To tell the whole story, the NVIDIA argument is that they want cross platform standard interfaces (EGLStream), which would use the same code the Windows driver uses, but the Linux world is pushing for Linux-only interfaces (EGL)')

@@ -1,1 +1,1 @@
-Item(by='AtlasBarfed', descendants=None, kids=None, score=None, time=1602480307, title=None, item_type='comment', url=None, parent=24750886, text='That&#x27;s precisely the point, Oracle forbids benchmarking and comparisons in its licensing.<p>So how would anyone (legally) know?')
+Item(by='AtlasBarfed', descendants=None, kids=[24752790], score=None, time=1602480307, title=None, item_type='comment', url=None, parent=24750886, text='That&#x27;s precisely the point, Oracle forbids benchmarking and comparisons in its licensing.<p>So how would anyone (legally) know?')

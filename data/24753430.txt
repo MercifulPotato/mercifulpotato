@@ -1,0 +1,1 @@
+Item(by='Mikhail_Edoshin', descendants=None, kids=None, score=None, time=1602503111, title=None, item_type='comment', url=None, parent=24744374, text='Actually MathML is much simpler to parse: it&#x27;s already parsed, what you get is basically an AST in XML.')

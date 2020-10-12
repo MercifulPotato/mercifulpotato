@@ -1,0 +1,1 @@
+Item(by='0-_-0', descendants=None, kids=None, score=None, time=1602496047, title=None, item_type='comment', url=None, parent=24745702, text='&gt;those delays are on the order of microseconds<p>That&#x27;s wrong, on a 60Hz CRT it takes the beam 1&#x2F;120th of a second to reach the center of the screen, which is an average lag of 8.3 milliseconds. There are LCDs with 9ms lag.')

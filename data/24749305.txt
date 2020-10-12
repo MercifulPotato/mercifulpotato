@@ -1,1 +1,1 @@
-Item(by='technofiend', descendants=None, kids=None, score=None, time=1602452204, title=None, item_type='comment', url=None, parent=24747524, text='In particular lpmud was fun because when you reached level 20, you were given a room of your own and could expand the game from there.')
+Item(by='technofiend', descendants=None, kids=[24753943], score=None, time=1602452204, title=None, item_type='comment', url=None, parent=24747524, text='In particular lpmud was fun because when you reached level 20, you were given a room of your own and could expand the game from there.')

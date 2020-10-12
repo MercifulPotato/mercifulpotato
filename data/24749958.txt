@@ -1,1 +1,1 @@
-Item(by='CameronNemo', descendants=None, kids=None, score=None, time=1602458309, title=None, item_type='comment', url=None, parent=24749945, text='&gt; If you spend your time with people who make you happy your weekend is a success at minimum.<p>I wish I had friends.')
+Item(by='CameronNemo', descendants=None, kids=[24752831], score=None, time=1602458309, title=None, item_type='comment', url=None, parent=24749945, text='&gt; If you spend your time with people who make you happy your weekend is a success at minimum.<p>I wish I had friends.')

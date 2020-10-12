@@ -1,1 +1,1 @@
-Item(by='analognoise', descendants=None, kids=None, score=None, time=1602482009, title=None, item_type='comment', url=None, parent=24750224, text='Buy a Radeon. I&#x27;m not seeing the problem. You have options? Nobody is forcing you to buy Nvidia hardware.')
+Item(by='analognoise', descendants=None, kids=[24752876], score=None, time=1602482009, title=None, item_type='comment', url=None, parent=24750224, text='Buy a Radeon. I&#x27;m not seeing the problem. You have options? Nobody is forcing you to buy Nvidia hardware.')

@@ -1,0 +1,1 @@
+Item(by='user5994461', descendants=None, kids=[24754407], score=None, time=1602510219, title=None, item_type='comment', url=None, parent=24754137, text='Windows is UTF-16 internally while Linux is UTF-8.<p>If Windows goes to unicode by default, it will make things a lot worse because it won&#x27;t be the same unicode.')

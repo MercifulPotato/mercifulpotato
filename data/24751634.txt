@@ -1,1 +1,1 @@
-Item(by='wereHamster', descendants=None, kids=None, score=None, time=1602480234, title=None, item_type='comment', url=None, parent=24751459, text='So… like immer &#x2F; use-immer?')
+Item(by='wereHamster', descendants=None, kids=[24753367], score=None, time=1602480234, title=None, item_type='comment', url=None, parent=24751459, text='So… like immer &#x2F; use-immer?')

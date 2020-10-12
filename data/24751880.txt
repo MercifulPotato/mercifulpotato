@@ -1,1 +1,1 @@
-Item(by='hashtagmarkup', descendants=None, kids=None, score=None, time=1602483598, title=None, item_type='comment', url=None, parent=24751476, text='I think that you are missing the point.  The set of all kinds of symbols is more expressive than you are prepared to codify.')
+Item(by='hashtagmarkup', descendants=None, kids=[24752698], score=None, time=1602483598, title=None, item_type='comment', url=None, parent=24751476, text='I think that you are missing the point.  The set of all kinds of symbols is more expressive than you are prepared to codify.')

@@ -1,0 +1,1 @@
+Item(by='m0llusk', descendants=None, kids=None, score=None, time=1602506433, title=None, item_type='comment', url=None, parent=24753082, text='This data is in a GeMS standard database, so it should be relatively easy to do fun things with it like importing it with Postgresql GIS, making Quake levels, or whatever.')

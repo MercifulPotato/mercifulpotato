@@ -1,1 +1,1 @@
-Item(by='ackbar03', descendants=None, kids=None, score=None, time=1602478772, title=None, item_type='comment', url=None, parent=24751354, text='Negreanu is amazing. I&#x27;m no expert but I always thought he had one of the most solid, stable and rational plays.')
+Item(by='ackbar03', descendants=None, kids=[24752824, 24752667], score=None, time=1602478772, title=None, item_type='comment', url=None, parent=24751354, text='Negreanu is amazing. I&#x27;m no expert but I always thought he had one of the most solid, stable and rational plays.')

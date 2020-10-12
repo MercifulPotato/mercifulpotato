@@ -1,1 +1,1 @@
-Item(by='nitrogen', descendants=None, kids=None, score=None, time=1602478976, title=None, item_type='comment', url=None, parent=24750975, text='If you started a call at 5:59 AM (or whenever it was) would the entire call be discounted?')
+Item(by='nitrogen', descendants=None, kids=[24753508], score=None, time=1602478976, title=None, item_type='comment', url=None, parent=24750975, text='If you started a call at 5:59 AM (or whenever it was) would the entire call be discounted?')

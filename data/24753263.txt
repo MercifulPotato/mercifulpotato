@@ -1,0 +1,1 @@
+Item(by='brabel', descendants=None, kids=[24753602], score=None, time=1602501282, title=None, item_type='comment', url=None, parent=24752948, text='I&#x27;ve seen bugs caused by a tool not knowing that version `1.12` &lt; `1.20` :&#x2F; so yeah, some professional developers don&#x27;t know that.')

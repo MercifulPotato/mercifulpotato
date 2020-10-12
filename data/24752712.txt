@@ -1,0 +1,1 @@
+Item(by='TomGullen', descendants=None, kids=[24754022, 24753143], score=None, time=1602494433, title=None, item_type='comment', url=None, parent=24745194, text='Could browsers that cache resources cross reference the integrity check and load their cached version even if the domain is different as a speed optimisation?')
