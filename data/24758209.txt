@@ -1,1 +1,1 @@
-Item(by='collate', descendants=0, kids=None, score=5, time=1602529747, title='Other Things Equal (1992) [pdf]', item_type='story', url='https://www.deirdremccloskey.com/docs/graham/natural.pdf', parent=None, text=None)
+Item(by='collate', descendants=3, kids=[24761954, 24761750, 24761776], score=7, time=1602529747, title='Other Things Equal (1992) [pdf]', item_type='story', url='https://www.deirdremccloskey.com/docs/graham/natural.pdf', parent=None, text=None)

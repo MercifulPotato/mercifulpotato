@@ -1,1 +1,1 @@
-Item(by='angrais', descendants=None, kids=None, score=None, time=1602546339, title=None, item_type='comment', url=None, parent=24759517, text='Why&#x27;d you go for gRPC in particular for your Reddit clone?')
+Item(by='angrais', descendants=None, kids=[24762579], score=None, time=1602546339, title=None, item_type='comment', url=None, parent=24759517, text='Why&#x27;d you go for gRPC in particular for your Reddit clone?')

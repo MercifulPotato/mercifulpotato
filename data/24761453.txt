@@ -1,1 +1,1 @@
-Item(by='sushicalculus', descendants=0, kids=None, score=1, time=1602553281, title='Um: Create and maintain your own man pages so you can remember how to do stuff', item_type='story', url='https://github.com/sinclairtarget/um', parent=None, text=None)
+Item(by='sushicalculus', descendants=1, kids=[24761584], score=2, time=1602553281, title='Um: Create and maintain your own man pages so you can remember how to do stuff', item_type='story', url='https://github.com/sinclairtarget/um', parent=None, text=None)

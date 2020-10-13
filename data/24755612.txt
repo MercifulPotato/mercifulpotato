@@ -1,1 +1,1 @@
-Item(by='whateveracct', descendants=None, kids=None, score=None, time=1602517506, title=None, item_type='comment', url=None, parent=24755580, text='oh jfc - mods, get in here! at least do as good a job as Facebook.')
+Item(by='whateveracct', descendants=None, kids=[24762356], score=None, time=1602517506, title=None, item_type='comment', url=None, parent=24755580, text='oh jfc - mods, get in here! at least do as good a job as Facebook.')

@@ -1,0 +1,1 @@
+Item(by='sudhirj', descendants=None, kids=[24762589], score=None, time=1602565632, title=None, item_type='comment', url=None, parent=24762434, text='Serverless and microservices aren’t the same thing. You can deploy a monolith to lambda, and make a thousand small services on VMs or orchestration platforms. It’s purely a question of how to organise your code.')

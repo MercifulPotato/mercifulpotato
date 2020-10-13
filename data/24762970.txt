@@ -1,0 +1,1 @@
+Item(by='andreypopp', descendants=None, kids=None, score=None, time=1602571931, title=None, item_type='comment', url=None, parent=24761113, text='That’s a different thing. In some cases the whole table needs to be replaced. Then inserts into UNLOGGED tables are still much faster than into regular tables (even if there wasn’t a DELETE before).')

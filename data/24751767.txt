@@ -1,1 +1,1 @@
-Item(by='kiyanwang', descendants=0, kids=None, score=1, time=1602482002, title='Keeping Calm: When Distributed Consistency Is Easy', item_type='story', url='https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext', parent=None, text=None)
+Item(by='kiyanwang', descendants=3, kids=[24762659, 24761960, 24762496], score=31, time=1602482002, title='Keeping Calm: When Distributed Consistency Is Easy', item_type='story', url='https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='jacques_chester', descendants=None, kids=None, score=None, time=1602547965, title=None, item_type='comment', url=None, parent=24760273, text='It&#x27;s tremendously useful for ETL.')
+Item(by='jacques_chester', descendants=None, kids=[24762298], score=None, time=1602547965, title=None, item_type='comment', url=None, parent=24760273, text='It&#x27;s tremendously useful for ETL.')

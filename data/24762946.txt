@@ -1,0 +1,1 @@
+Item(by='andreypopp', descendants=None, kids=None, score=None, time=1602571748, title=None, item_type='comment', url=None, parent=24760869, text='Yeah, transactional DDL is a good thing, the potential problem with this solution though — if you have views pointing to the old table they won’t be updated with the new table and you will have to deal with them as well.')

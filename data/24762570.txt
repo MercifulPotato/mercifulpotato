@@ -1,0 +1,1 @@
+Item(by='vanviegen', descendants=None, kids=[24762594], score=None, time=1602567059, title=None, item_type='comment', url=None, parent=24762323, text='But where does the data sit? Would you be using some fancy multi-master synchronous replication for that, or is there a database server behind it?')

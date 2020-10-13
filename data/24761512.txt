@@ -1,1 +1,1 @@
-Item(by='kleton', descendants=None, kids=None, score=None, time=1602554029, title=None, item_type='comment', url=None, parent=24759458, text='There is no Nobel prize in Economics')
+Item(by='kleton', descendants=None, kids=[24761917], score=None, time=1602554029, title=None, item_type='comment', url=None, parent=24759458, text='There is no Nobel prize in Economics')

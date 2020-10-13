@@ -1,1 +1,1 @@
-Item(by='teleforce', descendants=None, kids=None, score=None, time=1602370965, title=None, item_type='comment', url=None, parent=24736896, text='For introductory learning about modern CPU design, Inside the Machine book by Jon Stokes is really good.')
+Item(by='teleforce', descendants=None, kids=[24762860], score=None, time=1602370965, title=None, item_type='comment', url=None, parent=24736896, text='For introductory learning about modern CPU design, Inside the Machine book by Jon Stokes is really good.')

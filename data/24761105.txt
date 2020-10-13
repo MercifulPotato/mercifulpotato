@@ -1,1 +1,1 @@
-Item(by='drob', descendants=0, kids=None, score=3, time=1602548922, title='Applying Textbook Data Structures for Real Life Wins', item_type='story', url='https://heap.io/blog/engineering/applying-textbook-data-structures-for-real-life-wins', parent=None, text=None)
+Item(by='drob', descendants=15, kids=[24762094, 24762451, 24761988, 24762017], score=52, time=1602548922, title='Applying Textbook Data Structures for Real Life Wins', item_type='story', url='https://heap.io/blog/engineering/applying-textbook-data-structures-for-real-life-wins', parent=None, text=None)

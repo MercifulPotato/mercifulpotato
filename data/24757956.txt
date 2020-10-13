@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=2, time=1602528570, title='Apple: apple_rules_lint, a linting framework for Bazel', item_type='story', url='https://github.com/apple/apple_rules_lint', parent=None, text=None)
+Item(by='tosh', descendants=0, kids=None, score=3, time=1602528570, title='Apple: apple_rules_lint, a linting framework for Bazel', item_type='story', url='https://github.com/apple/apple_rules_lint', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='shotgunsparkle', descendants=None, kids=None, score=None, time=1602554505, title=None, item_type='comment', url=None, parent=24761282, text='On the flip side, serverless can scale to 0. Makes it very cost effective for one off functions')
+Item(by='shotgunsparkle', descendants=None, kids=[24761742], score=None, time=1602554505, title=None, item_type='comment', url=None, parent=24761282, text='On the flip side, serverless can scale to 0. Makes it very cost effective for one off functions')

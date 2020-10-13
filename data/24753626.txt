@@ -1,1 +1,1 @@
-Item(by='dgellow', descendants=0, kids=None, score=2, time=1602505045, title='Giving up on wlroots-rs (2019)', item_type='story', url='http://way-cooler.org/blog/2019/04/29/rewriting-way-cooler-in-c.html', parent=None, text=None)
+Item(by='dgellow', descendants=9, kids=[24762590, 24762798, 24762785, 24762544, 24762432], score=22, time=1602505045, title='Giving up on wlroots-rs (2019)', item_type='story', url='http://way-cooler.org/blog/2019/04/29/rewriting-way-cooler-in-c.html', parent=None, text=None)

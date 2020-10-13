@@ -1,1 +1,1 @@
-Item(by='walterbell', descendants=0, kids=None, score=2, time=1602505185, title='RF Shielding Tips and Tricks', item_type='story', url='https://www.assemblymag.com/articles/94891-shielding-tips-and-tricks', parent=None, text=None)
+Item(by='walterbell', descendants=16, kids=[24762620, 24762188, 24762344], score=35, time=1602505185, title='RF Shielding Tips and Tricks', item_type='story', url='https://www.assemblymag.com/articles/94891-shielding-tips-and-tricks', parent=None, text=None)

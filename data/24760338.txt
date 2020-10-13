@@ -1,1 +1,1 @@
-Item(by='Spivak', descendants=None, kids=None, score=None, time=1602542683, title=None, item_type='comment', url=None, parent=24760263, text='I guess people see ~2% death rate and assume that&#x27;s low?')
+Item(by='Spivak', descendants=None, kids=[24762215], score=None, time=1602542683, title=None, item_type='comment', url=None, parent=24760263, text='I guess people see ~2% death rate and assume that&#x27;s low?')

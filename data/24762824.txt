@@ -1,0 +1,1 @@
+Item(by='gogs_bread', descendants=None, kids=[24762977], score=None, time=1602570307, title=None, item_type='comment', url=None, parent=24757056, text='um..A cell can only be in 3 states(X, O or Empty) and there are only 9 cells; so the total possible board states be 3^9 = 19683 states?')

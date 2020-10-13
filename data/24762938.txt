@@ -1,0 +1,1 @@
+Item(by='haakonhr', descendants=None, kids=None, score=None, time=1602571707, title=None, item_type='comment', url=None, parent=24762871, text='Minizinc is just a DSL for describing different models which is then compiled to flatzinc. Flatzinc is then accepted as input to a wide range of solvers, including Google OR.')

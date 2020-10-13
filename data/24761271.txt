@@ -1,1 +1,1 @@
-Item(by='beders', descendants=None, kids=None, score=None, time=1602551017, title=None, item_type='comment', url=None, parent=24753493, text='The only shortcut I needed to be successful:<p>&quot;sout&quot; extends to System.out.println<p>;)')
+Item(by='beders', descendants=None, kids=[24761831], score=None, time=1602551017, title=None, item_type='comment', url=None, parent=24753493, text='The only shortcut I needed to be successful:<p>&quot;sout&quot; extends to System.out.println<p>;)')

@@ -1,0 +1,1 @@
+Item(by='zaarn', descendants=None, kids=None, score=None, time=1602569306, title=None, item_type='comment', url=None, parent=24761387, text='That&#x27;s why you have three hetzner servers, so if one goes toast, you still have a redundant operation as you can easily failover while you recover the other host.')

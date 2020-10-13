@@ -1,0 +1,1 @@
+Item(by='exabrial', descendants=None, kids=None, score=None, time=1602573843, title=None, item_type='comment', url=None, parent=24741982, text='&gt;  One thread, however, is blocked in libc read on stdin. When I hit Enter, the read finishes and the whole program unhangs.<p>Seems like a problem easily solved with a Cron job!<p>&#x2F;me exits building')

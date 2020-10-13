@@ -1,1 +1,1 @@
-Item(by='tyrust', descendants=None, kids=None, score=None, time=1602524097, title=None, item_type='comment', url=None, parent=24752015, text='I got it.  It just seemed like from the phrasing of your post that a link to the description of Prop 25 would have made more sense.')
+Item(by='tyrust', descendants=None, kids=[24762035], score=None, time=1602524097, title=None, item_type='comment', url=None, parent=24752015, text='I got it.  It just seemed like from the phrasing of your post that a link to the description of Prop 25 would have made more sense.')

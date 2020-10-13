@@ -1,1 +1,1 @@
-Item(by='sharjeelsayed', descendants=1, kids=[24759130], score=9, time=1602534469, title='Kubernetes: Curated List of Tools and Resources', item_type='story', url='https://devopsunlocked.com/kubernetes-curated-list-of-tools-and-resources/', parent=None, text=None)
+Item(by='sharjeelsayed', descendants=2, kids=[24762507, 24759130], score=20, time=1602534469, title='Kubernetes: Curated List of Tools and Resources', item_type='story', url='https://devopsunlocked.com/kubernetes-curated-list-of-tools-and-resources/', parent=None, text=None)

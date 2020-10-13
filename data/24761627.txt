@@ -1,1 +1,1 @@
-Item(by='brianwawok', descendants=None, kids=None, score=None, time=1602555662, title=None, item_type='comment', url=None, parent=24759721, text='Eh? I was able to go from a docker image to live and 0 downtime deploys in a few hours?')
+Item(by='brianwawok', descendants=None, kids=[24763189, 24761747], score=None, time=1602555662, title=None, item_type='comment', url=None, parent=24759721, text='Eh? I was able to go from a docker image to live and 0 downtime deploys in a few hours?')

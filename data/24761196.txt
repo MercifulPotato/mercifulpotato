@@ -1,1 +1,1 @@
-Item(by='leothekim', descendants=1, kids=[24761543], score=2, time=1602550079, title='Genomic evidence for reinfection with SARS-CoV-2: a case study', item_type='story', url='https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30764-7/fulltext', parent=None, text=None)
+Item(by='leothekim', descendants=0, kids=[24761543], score=2, time=1602550079, title='Genomic evidence for reinfection with SARS-CoV-2: a case study', item_type='story', url='https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30764-7/fulltext', parent=None, text=None)

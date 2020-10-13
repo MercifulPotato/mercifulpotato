@@ -1,1 +1,1 @@
-Item(by='homarp', descendants=7, kids=[24759179, 24759032, 24760921], score=81, time=1602529749, title='Deep Learning for Procedural Content Generation – a survey', item_type='story', url='https://arxiv.org/abs/2010.04548', parent=None, text=None)
+Item(by='homarp', descendants=10, kids=[24759179, 24759032, 24760921], score=106, time=1602529749, title='Deep Learning for Procedural Content Generation – a survey', item_type='story', url='https://arxiv.org/abs/2010.04548', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='onychomys', descendants=None, kids=None, score=None, time=1602540236, title=None, item_type='comment', url=None, parent=24759889, text='Well, not just for boys, the two winners in Chemistry this year were female.')
+Item(by='onychomys', descendants=None, kids=[24761773], score=None, time=1602540236, title=None, item_type='comment', url=None, parent=24759889, text='Well, not just for boys, the two winners in Chemistry this year were female.')

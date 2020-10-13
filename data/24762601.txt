@@ -1,0 +1,1 @@
+Item(by='willvarfar', descendants=None, kids=None, score=None, time=1602567467, title=None, item_type='comment', url=None, parent=24759982, text='Its also how MySQL works, using overwrite+undo_log rather than multiple row versions in the same table.')

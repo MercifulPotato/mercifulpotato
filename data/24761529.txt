@@ -1,1 +1,1 @@
-Item(by='teslaAC', descendants=0, kids=None, score=1, time=1602554275, title='Disruption of Blood Dynamics as the Cause of “Long Covid”', item_type='story', url='https://medium.com/@nkalex/blood-dysfunction-as-the-cause-of-long-covid-926c0af4ea63', parent=None, text=None)
+Item(by='teslaAC', descendants=1, kids=[24761848], score=3, time=1602554275, title='Disruption of Blood Dynamics as the Cause of “Long Covid”', item_type='story', url='https://medium.com/@nkalex/blood-dysfunction-as-the-cause-of-long-covid-926c0af4ea63', parent=None, text=None)
