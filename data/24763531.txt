@@ -1,0 +1,1 @@
+Item(by='eru', descendants=None, kids=None, score=None, time=1602578386, title=None, item_type='comment', url=None, parent=24762278, text='Prolog is a very different kind of system.  It basically does backtracking natively, and everything else you have to build as libraries just like in any other language.')

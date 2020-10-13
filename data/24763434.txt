@@ -1,0 +1,1 @@
+Item(by='marosgrego', descendants=None, kids=None, score=None, time=1602577325, title=None, item_type='comment', url=None, parent=24762217, text='Blades currently doesn&#x27;t break the sitemap, but it can easily be implemented. I see that 50k pages is a maximum for one sitemap file.\nDo you think it should break into separate pages only after reaching 50k, or sooner?')

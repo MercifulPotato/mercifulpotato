@@ -1,1 +1,1 @@
-Item(by='easytiger', descendants=None, kids=None, score=None, time=1602573794, title=None, item_type='comment', url=None, parent=24760345, text='&gt; The idea is to buy some time.<p>It has been 8 months. That ship has sailed')
+Item(by='easytiger', descendants=None, kids=[24764337], score=None, time=1602573794, title=None, item_type='comment', url=None, parent=24760345, text='&gt; The idea is to buy some time.<p>It has been 8 months. That ship has sailed')

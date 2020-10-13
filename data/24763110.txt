@@ -1,1 +1,1 @@
-Item(by='hoppla', descendants=0, kids=None, score=1, time=1602573672, title='Backdoorer the Xplora: Bugs in smart watches for kids', item_type='story', url='https://www.theregister.com/2020/10/12/xplora_4_smartwatches/', parent=None, text=None)
+Item(by='hoppla', descendants=4, kids=[24763194, 24763524], score=4, time=1602573672, title='Backdoorer the Xplora: Bugs in smart watches for kids', item_type='story', url='https://www.theregister.com/2020/10/12/xplora_4_smartwatches/', parent=None, text=None)

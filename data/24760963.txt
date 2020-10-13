@@ -1,1 +1,1 @@
-Item(by='S-Stanley', descendants=0, kids=None, score=1, time=1602547651, title='What do you want to learn?', item_type='story', url=None, parent=None, text='What do you want to learn (code, math, architecture, or any) and how do you plan to learn about this subject ?')
+Item(by='S-Stanley', descendants=2, kids=[24765321, 24764745], score=3, time=1602547651, title='What do you want to learn?', item_type='story', url=None, parent=None, text='What do you want to learn (code, math, architecture, or any) and how do you plan to learn about this subject ?')

@@ -1,1 +1,1 @@
-Item(by='romwell', descendants=None, kids=None, score=None, time=1602541508, title=None, item_type='comment', url=None, parent=24759614, text='A jump-start kit&#x2F;powerbank that charges from USB costs $20.<p>It addresses this problem 99% of the time.')
+Item(by='romwell', descendants=None, kids=[24764240], score=None, time=1602541508, title=None, item_type='comment', url=None, parent=24759614, text='A jump-start kit&#x2F;powerbank that charges from USB costs $20.<p>It addresses this problem 99% of the time.')

@@ -1,0 +1,1 @@
+Item(by='narrator', descendants=None, kids=None, score=None, time=1602580078, title=None, item_type='comment', url=None, parent=24763570, text='Auto-scaling is usually a myth anyway.  You have to understand your system deeply and where all the bottlenecks are to really scale.  If you have a part that&#x27;s a big black box, that&#x27;s going to get in the way of that.')

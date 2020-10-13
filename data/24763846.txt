@@ -1,0 +1,1 @@
+Item(by='wingtw', descendants=None, kids=None, score=None, time=1602581921, title=None, item_type='comment', url=None, parent=24763845, text='Created a small library for fluent access to HTMLElements without any large dependencies. Thought I&#x27;d OS (my first :) ), hopefully learning in the process. Comments&#x2F;PRs&#x2F;suggestions warmly welcomed.')

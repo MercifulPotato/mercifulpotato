@@ -1,1 +1,1 @@
-Item(by='rtpg', descendants=None, kids=None, score=None, time=1602545954, title=None, item_type='comment', url=None, parent=24759749, text='Apparently people who are likely to win the prize tend to hear rumors beforehand and are mentally prepared for this (especially if they care)')
+Item(by='rtpg', descendants=None, kids=[24765112], score=None, time=1602545954, title=None, item_type='comment', url=None, parent=24759749, text='Apparently people who are likely to win the prize tend to hear rumors beforehand and are mentally prepared for this (especially if they care)')

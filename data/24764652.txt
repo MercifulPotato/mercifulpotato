@@ -1,0 +1,1 @@
+Item(by='eutectic', descendants=None, kids=None, score=None, time=1602590209, title=None, item_type='comment', url=None, parent=24763112, text='Optimal depth for union-find is O(1); every node points directly to the root. It&#x27;s a very different case than building a binary search tree.')

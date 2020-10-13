@@ -1,1 +1,1 @@
-Item(by='clouddrover', descendants=0, kids=None, score=4, time=1602550270, title='Creating fuel from thin air with artificial leaves', item_type='story', url='https://www.bbc.com/news/business-54390932', parent=None, text=None)
+Item(by='clouddrover', descendants=1, kids=[24764839], score=10, time=1602550270, title='Creating fuel from thin air with artificial leaves', item_type='story', url='https://www.bbc.com/news/business-54390932', parent=None, text=None)

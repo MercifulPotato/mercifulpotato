@@ -1,0 +1,1 @@
+Item(by='anamexis', descendants=None, kids=None, score=None, time=1602595444, title=None, item_type='comment', url=None, parent=24763828, text='I agree, but then I think then we&#x27;re comparing using SES (or Mailgun&#x2F;Sendgrid&#x2F;Mandrill&#x2F;whatever) versus maintaining your own MTA, which is orthogonal to the serverless vs non-serverless debate.')

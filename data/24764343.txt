@@ -1,0 +1,1 @@
+Item(by='malinens', descendants=None, kids=None, score=None, time=1602587585, title=None, item_type='comment', url=None, parent=24763822, text='actually You can not run Your code smoothly on Rasberry PI because it has different architecture (ARM) and needs different sets of dependency images (If You are lucky at all Your deps are available on ARM)')

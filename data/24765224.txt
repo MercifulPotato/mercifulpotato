@@ -1,0 +1,1 @@
+Item(by='opnitro', descendants=None, kids=None, score=None, time=1602594670, title=None, item_type='comment', url=None, parent=24765151, text='Indeed. Languages like idris have the `total` keyword that runs a halting checker on functions. Of course, as you mentioned, there are functions that might halt that it can&#x27;t figure out. But it&#x27;s pretty darn good.')

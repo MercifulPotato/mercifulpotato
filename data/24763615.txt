@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=None, score=None, time=1602579411, title=None, item_type='comment', url=None, parent=24759660, text='Undo logging vs redo logging (except both are MVCC).')

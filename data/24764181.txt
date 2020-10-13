@@ -1,0 +1,1 @@
+Item(by='nebulous1', descendants=None, kids=[24764425], score=None, time=1602585902, title=None, item_type='comment', url=None, parent=24763660, text='&gt; try rebooting the instances<p>I haven&#x27;t done anything with serverless, but surely the class of problems that would be fixed by an instance restart don&#x27;t happen in the first place on serverless')

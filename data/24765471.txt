@@ -1,0 +1,1 @@
+Item(by='vbezhenar', descendants=None, kids=None, score=None, time=1602596565, title=None, item_type='comment', url=None, parent=24763216, text='If I understood it correctly, monitor doesn&#x27;t really go away in your event handler, so C code don&#x27;t have to deal with that.')

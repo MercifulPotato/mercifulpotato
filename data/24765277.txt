@@ -1,0 +1,1 @@
+Item(by='bearjaws', descendants=None, kids=None, score=None, time=1602595127, title=None, item_type='comment', url=None, parent=24762980, text='Anyone moving to Hitrust or SOC2 loves serverless for that exact reason. When asked how I maintain my infrastructure, I point to RDS, API gateway, and Lambda. This leaves my security mostly free to focus on application level security.')

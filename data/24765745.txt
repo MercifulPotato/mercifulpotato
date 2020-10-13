@@ -1,0 +1,1 @@
+Item(by='contravariant', descendants=None, kids=None, score=None, time=1602598634, title=None, item_type='comment', url=None, parent=24765416, text='That&#x27;s a binary tree where each node divides the space along a single axis. A quad-, oct-, 2^n-tree divides along all axes for every node.')

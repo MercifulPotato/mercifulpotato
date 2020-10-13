@@ -1,0 +1,1 @@
+Item(by='2fast4you', descendants=None, kids=None, score=None, time=1602574008, title=None, item_type='comment', url=None, parent=24763115, text='Sure, but a CI provider like GitLab provides some assurances that the compiler is not compromised. I can use my own container for the build if I want to')

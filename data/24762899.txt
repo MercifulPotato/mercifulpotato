@@ -1,1 +1,1 @@
-Item(by='gostsamo', descendants=None, kids=None, score=None, time=1602571244, title=None, item_type='comment', url=None, parent=24762642, text='Are you looking for Teams alternatives or for Team client alternatives (same service, but different app to access it)?')
+Item(by='gostsamo', descendants=None, kids=[24763283], score=None, time=1602571244, title=None, item_type='comment', url=None, parent=24762642, text='Are you looking for Teams alternatives or for Team client alternatives (same service, but different app to access it)?')

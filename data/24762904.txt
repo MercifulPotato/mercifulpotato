@@ -1,1 +1,1 @@
-Item(by='asdff', descendants=None, kids=None, score=None, time=1602571317, title=None, item_type='comment', url=None, parent=24756673, text='How often have you had to outrun a hijacker?')
+Item(by='asdff', descendants=None, kids=[24764068], score=None, time=1602571317, title=None, item_type='comment', url=None, parent=24756673, text='How often have you had to outrun a hijacker?')

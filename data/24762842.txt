@@ -1,1 +1,1 @@
-Item(by='burgerzzz', descendants=None, kids=None, score=None, time=1602570522, title=None, item_type='comment', url=None, parent=24762447, text='The media is directly responsible for most of this. It amplifies and celebrates misinformation for more profits.')
+Item(by='burgerzzz', descendants=None, kids=[24763580, 24763790], score=None, time=1602570522, title=None, item_type='comment', url=None, parent=24762447, text='The media is directly responsible for most of this. It amplifies and celebrates misinformation for more profits.')

@@ -1,1 +1,1 @@
-Item(by='boyobo', descendants=None, kids=None, score=None, time=1602557379, title=None, item_type='comment', url=None, parent=24760867, text='I think people are using the word in different ways. The person you are responding to is using it as a description of the current state.')
+Item(by='boyobo', descendants=None, kids=[24763368], score=None, time=1602557379, title=None, item_type='comment', url=None, parent=24760867, text='I think people are using the word in different ways. The person you are responding to is using it as a description of the current state.')
