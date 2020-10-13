@@ -1,0 +1,1 @@
+Item(by='andrewmutz', descendants=None, kids=None, score=None, time=1602552847, title=None, item_type='comment', url=None, parent=24760536, text='I came here to say this.  We deploy production apps on cloud run and it is awesome.  It directly addresses the problems that the author cites.<p>I think it, and the Knative project more broadly, is the future of serverless.')

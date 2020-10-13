@@ -1,0 +1,1 @@
+Item(by='gjasny', descendants=None, kids=None, score=None, time=1602535916, title=None, item_type='comment', url=None, parent=24757833, text='Our internal mono-repo with about 11000 C++ compilation units took about the same time with clang-11 compared to clang-10.\nI used the Ubuntu 20.04 packages from apt.llvm.org for testing.')

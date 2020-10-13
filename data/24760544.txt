@@ -1,0 +1,1 @@
+Item(by='revicon', descendants=None, kids=[24761048], score=None, time=1602543934, title=None, item_type='comment', url=None, parent=24759294, text='we use the serverless framework and use<p>&gt;  serverless invoke local<p>All the time for doing testing.  You can pass in a json file that contains a simulated event to test different scenarios.  Works very well for us.')

@@ -1,0 +1,1 @@
+Item(by='drfuchs', descendants=None, kids=None, score=None, time=1602535511, title=None, item_type='comment', url=None, parent=24756380, text='Zig&#x27;s home-grown backend is strictly for super-quick turnaround compile and link during development. For optimized release builds, they&#x27;ll depend on LLVM forever.')

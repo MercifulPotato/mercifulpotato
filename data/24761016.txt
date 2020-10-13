@@ -1,0 +1,1 @@
+Item(by='sega_sai', descendants=None, kids=None, score=None, time=1602548170, title=None, item_type='comment', url=None, parent=24757333, text='It is nice that PG got another storage engine. I hope that will ease the implementation of the column based storage in official PG, as the row based storage is a major problem with very large datasets.')

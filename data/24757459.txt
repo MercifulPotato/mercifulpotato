@@ -1,1 +1,1 @@
-Item(by='just-juan-post', descendants=None, kids=None, score=None, time=1602526111, title=None, item_type='comment', url=None, parent=24757410, text='Definitely not a smear job.')
+Item(by='just-juan-post', descendants=None, kids=[24760328, 24760424], score=None, time=1602526111, title=None, item_type='comment', url=None, parent=24757410, text='Definitely not a smear job.')

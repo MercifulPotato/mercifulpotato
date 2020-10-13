@@ -1,1 +1,1 @@
-Item(by='wglb', descendants=0, kids=None, score=1, time=1602473046, title='Case 001 – The Stolen Szechuan Sauce', item_type='story', url='https://dfirmadness.com/the-stolen-szechuan-sauce/', parent=None, text=None)
+Item(by='wglb', descendants=2, kids=[24761120, 24760875], score=27, time=1602473046, title='Case 001 – The Stolen Szechuan Sauce', item_type='story', url='https://dfirmadness.com/the-stolen-szechuan-sauce/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='asciimov', descendants=None, kids=None, score=None, time=1602525384, title=None, item_type='comment', url=None, parent=24756671, text='Embrace<p>- &lt;-- We are here.<p>Extend<p>-<p>Extinguish')
+Item(by='asciimov', descendants=None, kids=[24759831], score=None, time=1602525384, title=None, item_type='comment', url=None, parent=24756671, text='Embrace<p>- &lt;-- We are here.<p>Extend<p>-<p>Extinguish')

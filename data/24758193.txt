@@ -1,1 +1,1 @@
-Item(by='snazz', descendants=None, kids=None, score=None, time=1602529669, title=None, item_type='comment', url=None, parent=24758139, text='Ah, that&#x27;s another good point. Turning your head happens a lot more in street driving than racing.')
+Item(by='snazz', descendants=None, kids=[24758818, 24759306], score=None, time=1602529669, title=None, item_type='comment', url=None, parent=24758139, text='Ah, that&#x27;s another good point. Turning your head happens a lot more in street driving than racing.')

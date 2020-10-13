@@ -1,0 +1,1 @@
+Item(by='oblio', descendants=None, kids=[24761232, 24760606], score=None, time=1602543377, title=None, item_type='comment', url=None, parent=24760410, text='I think his point was that you should be able to run and test the Lambda code independently of Lambda. After all the entry point is just a method with some parameters, you can replicate that locally.')

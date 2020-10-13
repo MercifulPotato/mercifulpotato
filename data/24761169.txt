@@ -1,0 +1,1 @@
+Item(by='remexre', descendants=None, kids=[24761382], score=None, time=1602549778, title=None, item_type='comment', url=None, parent=24760883, text='&gt; I don&#x27;t understand what this is supposed to mean. How are e.g. coq tactics not the exact same?<p>Well, I&#x27;ve never gotten `induction&#x27; to generate anything close to a readable program -- hopefully this is better?')

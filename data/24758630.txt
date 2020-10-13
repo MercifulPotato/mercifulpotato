@@ -1,1 +1,1 @@
-Item(by='dvt', descendants=None, kids=None, score=None, time=1602531914, title=None, item_type='comment', url=None, parent=24758599, text='I guess I&#x27;m a fan of the old adage: &quot;Dress for the job you want.&quot;')
+Item(by='dvt', descendants=None, kids=[24761167, 24760979], score=None, time=1602531914, title=None, item_type='comment', url=None, parent=24758599, text='I guess I&#x27;m a fan of the old adage: &quot;Dress for the job you want.&quot;')

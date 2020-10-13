@@ -1,0 +1,1 @@
+Item(by='Matthias247', descendants=None, kids=None, score=None, time=1602531217, title=None, item_type='comment', url=None, parent=24757965, text='I would be surprised if it sees a lot of use. As soon as people start building eventloops around io_uring, they might not care at all anymore about epoll.')

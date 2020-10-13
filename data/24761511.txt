@@ -1,0 +1,1 @@
+Item(by='pengaru', descendants=None, kids=None, score=None, time=1602554025, title=None, item_type='comment', url=None, parent=24741982, text='If pthread_cond_signal() is broken pthreads is useless for all but the most trivial threaded programs.')

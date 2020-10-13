@@ -1,1 +1,1 @@
-Item(by='redisman', descendants=None, kids=None, score=None, time=1602533617, title=None, item_type='comment', url=None, parent=24758753, text='Everyone should just do “x very specific thing that happened to work for me”')
+Item(by='redisman', descendants=None, kids=[24759160], score=None, time=1602533617, title=None, item_type='comment', url=None, parent=24758753, text='Everyone should just do “x very specific thing that happened to work for me”')

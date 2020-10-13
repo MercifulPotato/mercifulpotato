@@ -1,0 +1,1 @@
+Item(by='merb', descendants=None, kids=None, score=None, time=1602541820, title=None, item_type='comment', url=None, parent=24760114, text='it&#x27;s python and saying A[0] means first character and ord returns an integer for the current unicode glyph (like char, but for unicode) i.e. the seed are basically the first three characters.')

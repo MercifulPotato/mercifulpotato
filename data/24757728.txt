@@ -1,1 +1,1 @@
-Item(by='rsynnott', descendants=None, kids=None, score=None, time=1602527381, title=None, item_type='comment', url=None, parent=24754845, text='Screens _are_ much lighter than they were when it was made; the screens on the G4 iMac would have had CFL backlighting, in particular.')
+Item(by='rsynnott', descendants=None, kids=[24759201], score=None, time=1602527381, title=None, item_type='comment', url=None, parent=24754845, text='Screens _are_ much lighter than they were when it was made; the screens on the G4 iMac would have had CFL backlighting, in particular.')

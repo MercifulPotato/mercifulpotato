@@ -1,1 +1,1 @@
-Item(by='thiicket', descendants=2, kids=[24751850], score=5, time=1602366622, title='Show HN: I made an alternative to hosted Redis – Serverless for Redis', item_type='story', url='https://thiicket.com/', parent=None, text=None)
+Item(by='thiicket', descendants=4, kids=[24761058, 24751850], score=5, time=1602366622, title='Show HN: I made an alternative to hosted Redis – Serverless for Redis', item_type='story', url='https://thiicket.com/', parent=None, text=None)

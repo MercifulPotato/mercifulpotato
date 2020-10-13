@@ -1,1 +1,1 @@
-Item(by='swyx', descendants=0, kids=None, score=1, time=1602530720, title='Dark and the Long Term', item_type='story', url='https://blog.darklang.com/dark-and-the-long-term/', parent=None, text=None)
+Item(by='swyx', descendants=1, kids=[24759352], score=3, time=1602530720, title='Dark and the Long Term', item_type='story', url='https://blog.darklang.com/dark-and-the-long-term/', parent=None, text=None)

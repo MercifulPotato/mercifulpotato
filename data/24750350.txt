@@ -1,1 +1,1 @@
-Item(by='azhenley', descendants=0, kids=None, score=9, time=1602462503, title='What makes C hard to compile?', item_type='story', url='https://www.reddit.com/r/ProgrammingLanguages/comments/j3j4s9/what_makes_c_hard_to_compile/', parent=None, text=None)
+Item(by='azhenley', descendants=1, kids=[24758430], score=9, time=1602462503, title='What makes C hard to compile?', item_type='story', url='https://www.reddit.com/r/ProgrammingLanguages/comments/j3j4s9/what_makes_c_hard_to_compile/', parent=None, text=None)

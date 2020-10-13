@@ -1,1 +1,1 @@
-Item(by='thrwyoilarticle', descendants=None, kids=None, score=None, time=1602530437, title=None, item_type='comment', url=None, parent=24757188, text='It doesn&#x27;t what my monitor does: I disable the output to it in Windows every time. And every time, Windows re-enables it.')
+Item(by='thrwyoilarticle', descendants=None, kids=[24758744], score=None, time=1602530437, title=None, item_type='comment', url=None, parent=24757188, text='It doesn&#x27;t what my monitor does: I disable the output to it in Windows every time. And every time, Windows re-enables it.')

@@ -1,0 +1,1 @@
+Item(by='FrenchTouch42', descendants=None, kids=None, score=None, time=1602548542, title=None, item_type='comment', url=None, parent=24760544, text='Unfortunately, it has a lot of issues with how credentials are handled.<p>I believe they decided to re-create their own credentials chain and a lot of things are not working with MFA (like support for credential_process).')

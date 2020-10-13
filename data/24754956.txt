@@ -1,1 +1,1 @@
-Item(by='paulcole', descendants=None, kids=None, score=None, time=1602514514, title=None, item_type='comment', url=None, parent=24753922, text='Messi’s marketing value would be incredible. There’s more to a sports team than on-field performance.')
+Item(by='paulcole', descendants=None, kids=[24758477], score=None, time=1602514514, title=None, item_type='comment', url=None, parent=24753922, text='Messi’s marketing value would be incredible. There’s more to a sports team than on-field performance.')

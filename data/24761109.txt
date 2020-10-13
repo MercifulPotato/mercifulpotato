@@ -1,0 +1,1 @@
+Item(by='JesseObrien', descendants=None, kids=None, score=None, time=1602548989, title=None, item_type='comment', url=None, parent=24761054, text='Sounds like you need to use the reflog more often. git reflog keeps track of all changed references (branch tips, etc) being changed in your repository. You can effectively check back out into any state you want, whenever you want.')

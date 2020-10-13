@@ -1,0 +1,1 @@
+Item(by='autotune', descendants=None, kids=[24761591], score=None, time=1602546029, title=None, item_type='comment', url=None, parent=24760317, text='This doesn&#x27;t solve the general lack of observability, lack of logging, and slowness of CloudFormation itself.')

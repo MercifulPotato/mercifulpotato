@@ -1,0 +1,1 @@
+Item(by='robertlagrant', descendants=None, kids=None, score=None, time=1602538453, title=None, item_type='comment', url=None, parent=24759276, text='K8s lockin isn&#x27;t the same. You can run it on any cloud, or run it locally. None of that is true for serverless functions (unless you go for knative, which is, yep, built on K8s).')

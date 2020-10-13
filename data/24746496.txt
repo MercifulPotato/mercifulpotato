@@ -1,1 +1,1 @@
-Item(by='bichiliad', descendants=None, kids=None, score=None, time=1602430659, title=None, item_type='comment', url=None, parent=24742512, text='Are you saying that from experience with webpack 5, or is that a prediction?')
+Item(by='bichiliad', descendants=None, kids=[24761097], score=None, time=1602430659, title=None, item_type='comment', url=None, parent=24742512, text='Are you saying that from experience with webpack 5, or is that a prediction?')

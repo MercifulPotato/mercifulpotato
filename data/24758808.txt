@@ -1,1 +1,1 @@
-Item(by='sharadov', descendants=None, kids=None, score=None, time=1602532910, title=None, item_type='comment', url=None, parent=24757730, text='Where is this, I want to move there!')
+Item(by='sharadov', descendants=None, kids=[24759698, 24760782], score=None, time=1602532910, title=None, item_type='comment', url=None, parent=24757730, text='Where is this, I want to move there!')
