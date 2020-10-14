@@ -1,0 +1,1 @@
+Item(by='dmitrygr', descendants=None, kids=None, score=None, time=1602624014, title=None, item_type='comment', url=None, parent=24770122, text='SBC itself, as a codec, can have latency as low as 64 samples. But it is up to your implementation to make that happen (and bandwidth use goes up as you use smaller packets)')

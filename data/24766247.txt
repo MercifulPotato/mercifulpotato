@@ -1,0 +1,1 @@
+Item(by='whatsmyusername', descendants=None, kids=[24767029, 24766381], score=None, time=1602601451, title=None, item_type='comment', url=None, parent=24765971, text='Relying on X-Forward-For for... pretty much anything is not a security best practice. The user can easily manipulate this header.')

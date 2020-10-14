@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=None, score=None, time=1602631518, title=None, item_type='comment', url=None, parent=24769770, text='It&#x27;s not just useful for tiny platforms.  Consider the erlang virtual machine, which has something like 11 custom allocators internally, for different performance characteristics.')

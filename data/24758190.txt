@@ -1,1 +1,1 @@
-Item(by='anderspitman', descendants=None, kids=None, score=None, time=1602529648, title=None, item_type='comment', url=None, parent=24756257, text='What do you see as the main advantages of SCTP over QUIC?')
+Item(by='anderspitman', descendants=None, kids=[24772194], score=None, time=1602529648, title=None, item_type='comment', url=None, parent=24756257, text='What do you see as the main advantages of SCTP over QUIC?')

@@ -1,0 +1,1 @@
+Item(by='doliveira', descendants=None, kids=None, score=None, time=1602639789, title=None, item_type='comment', url=None, parent=24772095, text='In my case I can&#x27;t even use Bluetooth microphones, just the output mode. Apparently when switching from Bluez4 to Bluez5 this was dropped by all major distributions, which frankly baffles me.')

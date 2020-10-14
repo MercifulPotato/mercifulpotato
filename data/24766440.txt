@@ -1,0 +1,1 @@
+Item(by='qalmakka', descendants=None, kids=[24766526], score=None, time=1602602486, title=None, item_type='comment', url=None, parent=24765863, text='I&#x27;m not talking about allocators or global new&#x2F;delete, I&#x27;m talking about operator new and delete inside of classes, which are arguably almost never used.')

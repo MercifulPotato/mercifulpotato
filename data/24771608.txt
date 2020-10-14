@@ -1,0 +1,1 @@
+Item(by='jandrese', descendants=None, kids=[24771629], score=None, time=1602632401, title=None, item_type='comment', url=None, parent=24771548, text='How much danger is a DOS bootsector virus to a modern system?  I guess DOSBox might be vulnerable since it does such a good job of emulating the hardware.')

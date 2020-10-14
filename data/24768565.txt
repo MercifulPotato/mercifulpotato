@@ -1,0 +1,1 @@
+Item(by='shawnz', descendants=None, kids=None, score=None, time=1602614077, title=None, item_type='comment', url=None, parent=24767846, text='On Windows you could create and mount a VHD file and format it as FAT32 by using the diskpart utility, with the commands &quot;create vdisk&quot;, &quot;attach vdisk&quot;, and &quot;format&quot;')

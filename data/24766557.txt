@@ -1,0 +1,1 @@
+Item(by='kuschku', descendants=None, kids=None, score=None, time=1602603131, title=None, item_type='comment', url=None, parent=24765796, text='KDE on wayland supports it natively, on X11 you could set the environment variable QT_SCREEN_SCALE_FACTORS, but this will only affect Qt&#x2F;KDE applications, not Gtk&#x2F;Gnome applications')

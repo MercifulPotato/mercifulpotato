@@ -1,0 +1,1 @@
+Item(by='scottlamb', descendants=None, kids=[24772235], score=None, time=1602636344, title=None, item_type='comment', url=None, parent=24771942, text='I think the system allocator on most platforms is a lot better now than it was then, and if it&#x27;s not, you can swap in jemalloc easily. I&#x27;d recommend this over implementing your own buddy allocator.')

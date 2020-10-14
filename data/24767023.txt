@@ -1,0 +1,1 @@
+Item(by='zipotm', descendants=1, kids=[24767165], score=1, time=1602606158, title="Ask HN: Why IP address can't be faked like MAC address?", item_type='story', url=None, parent=None, text='I&#x27;m still unable to figure out why IP whitelisting works so well...  How it&#x27;s possible to have an unique ID(IP) without encryption?')

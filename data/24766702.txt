@@ -1,0 +1,1 @@
+Item(by='jpillora', descendants=None, kids=[24767520], score=None, time=1602604064, title=None, item_type='comment', url=None, parent=24765757, text='Demo shows root shell. So an attacker could simply install a RAT into &#x2F;Library&#x2F;LaunchDaemons and it&#x27;s permanent.')

@@ -1,1 +1,1 @@
-Item(by='egberts1', descendants=None, kids=None, score=None, time=1602594255, title=None, item_type='comment', url=None, parent=24760625, text='A wonderful archaic technology that is also an useful thing-to-know in post-apocalyptic settings.')
+Item(by='egberts1', descendants=None, kids=[24770101], score=None, time=1602594255, title=None, item_type='comment', url=None, parent=24760625, text='A wonderful archaic technology that is also an useful thing-to-know in post-apocalyptic settings.')

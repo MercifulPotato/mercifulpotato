@@ -1,1 +1,1 @@
-Item(by='jlgaddis', descendants=None, kids=None, score=None, time=1602588663, title=None, item_type='comment', url=None, parent=24764464, text='At Google, et al, because that&#x27;s what you agreed to do when you accepted the job.')
+Item(by='jlgaddis', descendants=None, kids=[24767071], score=None, time=1602588663, title=None, item_type='comment', url=None, parent=24764464, text='At Google, et al, because that&#x27;s what you agreed to do when you accepted the job.')

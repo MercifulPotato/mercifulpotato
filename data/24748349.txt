@@ -1,1 +1,1 @@
-Item(by='ananto30', descendants=2, kids=[24764128, 24759068, 24755436], score=4, time=1602444509, title='Show HN: AskHadith – A Hadith search engine based on Mongo text search', item_type='story', url='https://github.com/Ananto30/ask-hadith', parent=None, text=None)
+Item(by='ananto30', descendants=4, kids=[24759068, 24755436, 24764128], score=5, time=1602444509, title='Show HN: AskHadith – A Hadith search engine based on Mongo text search', item_type='story', url='https://github.com/Ananto30/ask-hadith', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='asfarley', descendants=None, kids=None, score=None, time=1602612429, title=None, item_type='comment', url=None, parent=24766042, text='I was thinking about doing a medium-complexity UI for tagging bounding boxes using D3, but I ended up learning Vue for this purpose and was quite pleased with the results.')

@@ -1,1 +1,1 @@
-Item(by='victor106', descendants=None, kids=None, score=None, time=1602594686, title=None, item_type='comment', url=None, parent=24764097, text='Thank you.<p>Is Kogito ready for production use? Does it have a UI that lets users develop their own rules?')
+Item(by='victor106', descendants=None, kids=[24766637], score=None, time=1602594686, title=None, item_type='comment', url=None, parent=24764097, text='Thank you.<p>Is Kogito ready for production use? Does it have a UI that lets users develop their own rules?')

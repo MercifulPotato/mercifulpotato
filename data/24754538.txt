@@ -1,1 +1,1 @@
-Item(by='deeplstm', descendants=1, kids=[24754539], score=3, time=1602512211, title='Transformers for Image Recognition at Scale [video]', item_type='story', url='https://youtu.be/Gl48KciWZp0', parent=None, text=None)
+Item(by='deeplstm', descendants=11, kids=[24754539, 24771584, 24766018, 24767268, 24766709, 24769953], score=36, time=1602512211, title='Transformers for Image Recognition at Scale [video]', item_type='story', url='https://youtu.be/Gl48KciWZp0', parent=None, text=None)

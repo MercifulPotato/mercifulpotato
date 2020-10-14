@@ -1,0 +1,1 @@
+Item(by='tedunangst', descendants=None, kids=None, score=None, time=1602616898, title=None, item_type='comment', url=None, parent=24768220, text='For those that don&#x27;t know, on unix ssh-agent is setgid which should prevent you from attaching to your own process and reading its memory, even as the same user.')

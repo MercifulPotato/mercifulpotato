@@ -1,0 +1,1 @@
+Item(by='vbezhenar', descendants=None, kids=[24767026], score=None, time=1602605602, title=None, item_type='comment', url=None, parent=24765868, text='At this point I think that those APIs should be implemented with high-performance JS or Wasm and browsers should provide just enough API entry points to allow for efficient implementation.')

@@ -1,1 +1,1 @@
-Item(by='kgwgk', descendants=None, kids=None, score=None, time=1602585649, title=None, item_type='comment', url=None, parent=24763554, text='&gt; A shared RNG seed is essentially entanglement.<p>Classical entanglement, which is not good enough to explain quantum entanglement.')
+Item(by='kgwgk', descendants=None, kids=[24771808], score=None, time=1602585649, title=None, item_type='comment', url=None, parent=24763554, text='&gt; A shared RNG seed is essentially entanglement.<p>Classical entanglement, which is not good enough to explain quantum entanglement.')

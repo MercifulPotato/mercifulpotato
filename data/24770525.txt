@@ -1,0 +1,1 @@
+Item(by='artlong', descendants=None, kids=None, score=None, time=1602624437, title=None, item_type='comment', url=None, parent=24753940, text='This is a really nice product. One caveat - is it possible to restrict egress as well? The example suggested that if I am running a Digital Ocean instance, I will need to change my firewall to make egress ALL open.')

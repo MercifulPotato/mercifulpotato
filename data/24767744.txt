@@ -1,0 +1,1 @@
+Item(by='vruiz', descendants=None, kids=[24769961], score=None, time=1602610385, title=None, item_type='comment', url=None, parent=24764323, text='Hi Marko, just a heads up. You might want to consider keeping the JS tracker separately under MIT, since some compliance guy somewhere could consider that embedded usage.')

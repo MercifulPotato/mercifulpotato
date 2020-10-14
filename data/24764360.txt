@@ -1,1 +1,1 @@
-Item(by='bubblehack3r', descendants=0, kids=None, score=3, time=1602587723, title='Ransomwiz – Online ransomware simulation platform', item_type='story', url='https://ransomwiz.gg/', parent=None, text=None)
+Item(by='bubblehack3r', descendants=3, kids=[24769994, 24765710], score=20, time=1602587723, title='Ransomwiz – Online ransomware simulation platform', item_type='story', url='https://ransomwiz.gg/', parent=None, text=None)

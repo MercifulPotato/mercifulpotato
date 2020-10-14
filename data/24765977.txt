@@ -1,0 +1,1 @@
+Item(by='shmerl', descendants=None, kids=[24766451], score=None, time=1602599940, title=None, item_type='comment', url=None, parent=24765894, text='I&#x27;ve been using it for a long time and didn&#x27;t notice any slowness (make sure file search is off).<p>What&#x27;s bugging me though is that subsurfaces clipping bug in Wayland session. Kmail is still broken in 5.19.x.')

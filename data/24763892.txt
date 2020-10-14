@@ -1,1 +1,1 @@
-Item(by='baud147258', descendants=None, kids=None, score=None, time=1602582435, title=None, item_type='comment', url=None, parent=24762293, text='Nice link, it was a fun exercise to refresh my memory of the SQL syntax')
+Item(by='baud147258', descendants=None, kids=[24767375], score=None, time=1602582435, title=None, item_type='comment', url=None, parent=24762293, text='Nice link, it was a fun exercise to refresh my memory of the SQL syntax')

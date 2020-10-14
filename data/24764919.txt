@@ -1,1 +1,1 @@
-Item(by='yostrovs', descendants=None, kids=None, score=None, time=1602592000, title=None, item_type='comment', url=None, parent=24764352, text='The grammatical errors are disturbing to see, considering it&#x27;s a tweet by a guild of New York Times.')
+Item(by='yostrovs', descendants=None, kids=[24765508], score=None, time=1602592000, title=None, item_type='comment', url=None, parent=24764352, text='The grammatical errors are disturbing to see, considering it&#x27;s a tweet by a guild of New York Times.')

@@ -1,0 +1,1 @@
+Item(by='Vinnl', descendants=None, kids=[24768707], score=None, time=1602601761, title=None, item_type='comment', url=None, parent=24765878, text='Make sure to only do it after you&#x27;ve deployed it - part of the WebMention process is that the mentioned page actually checks the page that sends the mention for the given link.<p>(Also annoying if the link is added client-side.)')

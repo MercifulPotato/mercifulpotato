@@ -1,1 +1,1 @@
-Item(by='deafcalculus', descendants=1, kids=[24762870], score=3, time=1602570489, title='Custom Allocators Demystified', item_type='story', url='https://slembcke.github.io/2020/10/12/CustomAllocators.html', parent=None, text=None)
+Item(by='deafcalculus', descendants=50, kids=[24769681, 24771431, 24771906, 24772183, 24769770, 24769560, 24770767, 24772606, 24762870, 24769843, 24769624, 24769645], score=65, time=1602570489, title='Custom Allocators Demystified', item_type='story', url='https://slembcke.github.io/2020/10/12/CustomAllocators.html', parent=None, text=None)

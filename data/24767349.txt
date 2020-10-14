@@ -1,0 +1,1 @@
+Item(by='jrockway', descendants=None, kids=None, score=None, time=1602607886, title=None, item_type='comment', url=None, parent=24766682, text='I checked my own website for these issues (trailing slash canonicalization, canonical links in &lt;head&gt;) and it seems like Hugo (or the template I started with) handles all of this for me.')

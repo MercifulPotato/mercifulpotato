@@ -1,1 +1,1 @@
-Item(by='nojokes', descendants=None, kids=None, score=None, time=1602587414, title=None, item_type='comment', url=None, parent=24763748, text='Can you explain how is this shift in probability measured?')
+Item(by='nojokes', descendants=None, kids=[24766914], score=None, time=1602587414, title=None, item_type='comment', url=None, parent=24763748, text='Can you explain how is this shift in probability measured?')

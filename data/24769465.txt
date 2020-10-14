@@ -1,0 +1,1 @@
+Item(by='Arnavion', descendants=None, kids=None, score=None, time=1602618176, title=None, item_type='comment', url=None, parent=24768816, text='The key is being read from HKCU. That hive is ACLed to you. You don&#x27;t need admin to read it, but it also isn&#x27;t a privilege escalation of any sort since it&#x27;s your hive to read in the first place.')

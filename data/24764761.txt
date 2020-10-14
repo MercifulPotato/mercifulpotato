@@ -1,1 +1,1 @@
-Item(by='nkozyra', descendants=None, kids=None, score=None, time=1602590902, title=None, item_type='comment', url=None, parent=24764636, text='I&#x27;m not sure of your number or the actual impact, but yes, it&#x27;s going to cost something whether you do it or not.')
+Item(by='nkozyra', descendants=None, kids=[24767331], score=None, time=1602590902, title=None, item_type='comment', url=None, parent=24764636, text='I&#x27;m not sure of your number or the actual impact, but yes, it&#x27;s going to cost something whether you do it or not.')

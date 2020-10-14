@@ -1,0 +1,1 @@
+Item(by='janjongboom', descendants=None, kids=None, score=None, time=1602607318, title=None, item_type='comment', url=None, parent=24767178, text='FYI, this runs a realtime custom keyword spotting model in 31K of RAM and 47K of ROM (including all DSP code and Neural Network) on the updated micro:bit three times a second. We can do a lot these days on embedded devices!')

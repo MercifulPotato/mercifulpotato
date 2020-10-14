@@ -1,1 +1,1 @@
-Item(by='jedberg', descendants=None, kids=None, score=None, time=1602544063, title=None, item_type='comment', url=None, parent=24760195, text='Berkeley has a lot more laureates than Stanford.  It would be a weak flex. :)<p>Berkeley already has rows of NL parking.')
+Item(by='jedberg', descendants=None, kids=[24767570], score=None, time=1602544063, title=None, item_type='comment', url=None, parent=24760195, text='Berkeley has a lot more laureates than Stanford.  It would be a weak flex. :)<p>Berkeley already has rows of NL parking.')

@@ -1,1 +1,1 @@
-Item(by='usepgp', descendants=None, kids=None, score=None, time=1602569540, title=None, item_type='comment', url=None, parent=24762449, text='I put my reddit name in and it broke the site. Either that or it was hugged to death.')
+Item(by='usepgp', descendants=None, kids=[24771668], score=None, time=1602569540, title=None, item_type='comment', url=None, parent=24762449, text='I put my reddit name in and it broke the site. Either that or it was hugged to death.')

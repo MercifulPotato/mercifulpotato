@@ -1,1 +1,1 @@
-Item(by='feross', descendants=0, kids=None, score=1, time=1602534143, title='Yesterday’s corporate network design isn’t working for working from home', item_type='story', url='https://arstechnica.com/?p=1713067', parent=None, text=None)
+Item(by='feross', descendants=38, kids=[24771308, 24771603, 24771786, 24771651, 24771657, 24772213, 24771825, 24771237, 24771472, 24771368], score=53, time=1602534143, title="Corporate networks weren't designed for working from home", item_type='story', url='https://arstechnica.com/?p=1713067', parent=None, text=None)

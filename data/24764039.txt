@@ -1,1 +1,1 @@
-Item(by='scott31', descendants=None, kids=None, score=None, time=1602584096, title=None, item_type='comment', url=None, parent=24763210, text='you don&#x27;t even have https on the site, Google is right to lower your rank')
+Item(by='scott31', descendants=None, kids=[24771779], score=None, time=1602584096, title=None, item_type='comment', url=None, parent=24763210, text='you don&#x27;t even have https on the site, Google is right to lower your rank')

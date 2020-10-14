@@ -1,1 +1,1 @@
-Item(by='Doctor_Fegg', descendants=None, kids=None, score=None, time=1602596237, title=None, item_type='comment', url=None, parent=24764606, text='Your periodic reminder: as the Google rules demonstrate, WTFPL works really well as a permissive-except-for-bigcos licence.')
+Item(by='Doctor_Fegg', descendants=None, kids=[24769957], score=None, time=1602596237, title=None, item_type='comment', url=None, parent=24764606, text='Your periodic reminder: as the Google rules demonstrate, WTFPL works really well as a permissive-except-for-bigcos licence.')

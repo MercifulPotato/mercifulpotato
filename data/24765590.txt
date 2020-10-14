@@ -1,1 +1,1 @@
-Item(by='pnutjam', descendants=None, kids=None, score=None, time=1602597606, title=None, item_type='comment', url=None, parent=24764790, text='I believe you can also turn it off in your account settings.')
+Item(by='pnutjam', descendants=None, kids=[24766707], score=None, time=1602597606, title=None, item_type='comment', url=None, parent=24764790, text='I believe you can also turn it off in your account settings.')

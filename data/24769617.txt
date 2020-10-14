@@ -1,0 +1,1 @@
+Item(by='ghusbands', descendants=None, kids=None, score=None, time=1602618915, title=None, item_type='comment', url=None, parent=24766891, text='&gt; pre-processing that makes sense only if you know you are going to search for the same pattern repeatedly<p>The pre-processing is typically worth it if you&#x27;re searching through a large string, even just once.')

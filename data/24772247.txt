@@ -1,0 +1,1 @@
+Item(by='ikeboy', descendants=None, kids=None, score=None, time=1602638752, title=None, item_type='comment', url=None, parent=24763593, text='Any way to get VLC to automatically detect the latency and adjust? I seem to need to manually input -200ms every time.')

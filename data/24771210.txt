@@ -1,0 +1,1 @@
+Item(by='zimpenfish', descendants=None, kids=None, score=None, time=1602629398, title=None, item_type='comment', url=None, parent=24766937, text='&gt; they also need to consider Little o and average runtime.<p>Frequency of run is also important - a batch job that takes 5 hours that only runs once a month?  Is it worth optimising that?')

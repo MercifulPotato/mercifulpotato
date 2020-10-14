@@ -1,1 +1,1 @@
-Item(by='r_singh', descendants=0, kids=None, score=3, time=1602588164, title='Bootstrapping', item_type='story', url='https://mattturck.com/bootstrapping/', parent=None, text=None)
+Item(by='r_singh', descendants=19, kids=[24767396, 24766324, 24767216, 24765821, 24766591, 24768573, 24768558, 24766523], score=47, time=1602588164, title='Bootstrapping (2019)', item_type='story', url='https://mattturck.com/bootstrapping/', parent=None, text=None)

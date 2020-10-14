@@ -1,0 +1,1 @@
+Item(by='halfnormalform', descendants=None, kids=None, score=None, time=1602621618, title=None, item_type='comment', url=None, parent=24768740, text='Homekit might limit you as far as hardware goes, but if you’re handy you can run a Home Assistant instance and connect Siri to just about anything: Z-wave sensors, Logitech Harmony Hub, non-HomeKit light bulbs, etc.')

@@ -1,0 +1,1 @@
+Item(by='foldr', descendants=None, kids=None, score=None, time=1602613947, title=None, item_type='comment', url=None, parent=24767819, text='It makes a lot of technical sense to solder SSDs to the board given the insane speed of modern SSDs. Solder joints are much better than a connector for a high bandwidth link. Even tiny parasitic capacitances become a major headache.')

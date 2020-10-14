@@ -1,1 +1,1 @@
-Item(by='dbergamin', descendants=None, kids=None, score=None, time=1602576392, title=None, item_type='comment', url=None, parent=24763068, text='I don&#x27;t agree, serverless code in itself tends to be portable. It&#x27;s the surrounding services that lock you in.')
+Item(by='dbergamin', descendants=None, kids=[24765681], score=None, time=1602576392, title=None, item_type='comment', url=None, parent=24763068, text='I don&#x27;t agree, serverless code in itself tends to be portable. It&#x27;s the surrounding services that lock you in.')

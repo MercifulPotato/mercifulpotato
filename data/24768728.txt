@@ -1,0 +1,1 @@
+Item(by='AgentME', descendants=None, kids=None, score=None, time=1602614758, title=None, item_type='comment', url=None, parent=24768416, text='I visited the page with NoScript turned on and it looked the same. All the HTML is sent fully rendered by the server, so there shouldn&#x27;t be any reason to expect that JS would be necessary to show the page.')
