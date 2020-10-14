@@ -1,1 +1,1 @@
-Item(by='vsnf', descendants=None, kids=None, score=None, time=1602598435, title=None, item_type='comment', url=None, parent=24763734, text='There are a few comments in this thread expressing distaste for dual licensing. Can anyone explain what the reasoning behind this might be?')
+Item(by='vsnf', descendants=None, kids=[24774521], score=None, time=1602598435, title=None, item_type='comment', url=None, parent=24763734, text='There are a few comments in this thread expressing distaste for dual licensing. Can anyone explain what the reasoning behind this might be?')

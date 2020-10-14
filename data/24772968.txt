@@ -1,1 +1,1 @@
-Item(by='bbarnett', descendants=None, kids=None, score=None, time=1602647764, title=None, item_type='comment', url=None, parent=24772951, text='Amusing, IMMEDIATE downvote by closed-source advocates.')
+Item(by='bbarnett', descendants=None, kids=[24775873], score=None, time=1602647764, title=None, item_type='comment', url=None, parent=24772951, text='Amusing, IMMEDIATE downvote by closed-source advocates.')

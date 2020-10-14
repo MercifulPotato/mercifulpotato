@@ -1,1 +1,1 @@
-Item(by='ullarah', descendants=None, kids=None, score=None, time=1602631814, title=None, item_type='comment', url=None, parent=24762895, text='Is this something that could possibly be self-hosted?')
+Item(by='ullarah', descendants=None, kids=[24774258], score=None, time=1602631814, title=None, item_type='comment', url=None, parent=24762895, text='Is this something that could possibly be self-hosted?')

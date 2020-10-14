@@ -1,1 +1,1 @@
-Item(by='oftenwrong', descendants=0, kids=None, score=3, time=1602627419, title='Prefer Fakes over Mocks', item_type='story', url='https://tyrrrz.me/blog/fakes-over-mocks', parent=None, text=None)
+Item(by='oftenwrong', descendants=72, kids=[24774546, 24775092, 24774512, 24774970, 24776088, 24775616, 24774260, 24775239, 24774510, 24774812, 24774297, 24774419, 24775010, 24774880, 24774461, 24774822], score=65, time=1602627419, title='Prefer Fakes over Mocks', item_type='story', url='https://tyrrrz.me/blog/fakes-over-mocks', parent=None, text=None)

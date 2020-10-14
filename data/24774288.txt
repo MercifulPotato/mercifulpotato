@@ -1,1 +1,1 @@
-Item(by='bamboozled', descendants=None, kids=None, score=None, time=1602662524, title=None, item_type='comment', url=None, parent=24773800, text='Would it not just be like getting crushed by a very heavy object?')
+Item(by='bamboozled', descendants=None, kids=[24774471], score=None, time=1602662524, title=None, item_type='comment', url=None, parent=24773800, text='Would it not just be like getting crushed by a very heavy object?')

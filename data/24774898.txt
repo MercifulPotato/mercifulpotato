@@ -1,0 +1,1 @@
+Item(by='rocqua', descendants=None, kids=None, score=None, time=1602669331, title=None, item_type='comment', url=None, parent=24774546, text='I agree, but the two are very similar if you read &#x27;defects in a program&#x27; as bugs.<p>Bugs can be hard to cause, and thus not be noticed by user acceptance testing. So for catching them, tests are more useful.')

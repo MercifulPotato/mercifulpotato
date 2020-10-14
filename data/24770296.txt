@@ -1,1 +1,1 @@
-Item(by='foopod', descendants=None, kids=None, score=None, time=1602623129, title=None, item_type='comment', url=None, parent=24762895, text='Would be good to see more currencies (am from NZ), although not sure if it actually matters for most purposes.')
+Item(by='foopod', descendants=None, kids=[24774265], score=None, time=1602623129, title=None, item_type='comment', url=None, parent=24762895, text='Would be good to see more currencies (am from NZ), although not sure if it actually matters for most purposes.')

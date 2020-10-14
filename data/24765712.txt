@@ -1,1 +1,1 @@
-Item(by='gimboland', descendants=None, kids=None, score=None, time=1602598417, title=None, item_type='comment', url=None, parent=24763836, text='Also useful for doing the development in the first place!')
+Item(by='gimboland', descendants=None, kids=[24774382], score=None, time=1602598417, title=None, item_type='comment', url=None, parent=24763836, text='Also useful for doing the development in the first place!')

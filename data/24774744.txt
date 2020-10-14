@@ -1,0 +1,1 @@
+Item(by='Fredej', descendants=None, kids=None, score=None, time=1602667510, title=None, item_type='comment', url=None, parent=24771562, text='We recently moved _away_ from split tunneling. It&#x27;s still giving me headaches. Not just performance, but things like docker containers don&#x27;t always work right.')

@@ -1,0 +1,1 @@
+Item(by='lxgr', descendants=None, kids=None, score=None, time=1602669879, title=None, item_type='comment', url=None, parent=24770122, text='The problem for Bluetooth non-call audio isn&#x27;t (just) codec latency, but rather that A2DP is using a quite large buffer and TCP-style retransmissions. SDP itself has pretty decent latency.')

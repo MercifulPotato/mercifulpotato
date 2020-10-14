@@ -1,0 +1,1 @@
+Item(by='dagw', descendants=None, kids=None, score=None, time=1602684149, title=None, item_type='comment', url=None, parent=24775981, text='On windows you have to run<p><pre><code>   pip install windows-curses\n</code></pre>\nafter pip installing visidata')

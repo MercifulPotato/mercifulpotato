@@ -1,1 +1,1 @@
-Item(by='jshen', descendants=None, kids=None, score=None, time=1602657792, title=None, item_type='comment', url=None, parent=24772674, text='You can connect an echo to other speakers.')
+Item(by='jshen', descendants=None, kids=[24774961], score=None, time=1602657792, title=None, item_type='comment', url=None, parent=24772674, text='You can connect an echo to other speakers.')

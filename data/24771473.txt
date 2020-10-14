@@ -1,1 +1,1 @@
-Item(by='toxik', descendants=None, kids=None, score=None, time=1602631390, title=None, item_type='comment', url=None, parent=24770872, text='Put it on something magnetic. It sticks to whatever it sits on. I put it on my pc chassis.')
+Item(by='toxik', descendants=None, kids=[24776224], score=None, time=1602631390, title=None, item_type='comment', url=None, parent=24770872, text='Put it on something magnetic. It sticks to whatever it sits on. I put it on my pc chassis.')

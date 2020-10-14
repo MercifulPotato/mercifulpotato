@@ -1,1 +1,1 @@
-Item(by='nonoesp', descendants=0, kids=None, score=10, time=1602594811, title='On Automation Part 2: If it can be automated, it will', item_type='story', url='https://sketch.nono.ma/if-it-can-be-automated-it-will', parent=None, text=None)
+Item(by='nonoesp', descendants=1, kids=[24775480], score=10, time=1602594811, title='On Automation Part 2: If it can be automated, it will', item_type='story', url='https://sketch.nono.ma/if-it-can-be-automated-it-will', parent=None, text=None)

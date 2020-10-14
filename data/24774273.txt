@@ -1,1 +1,1 @@
-Item(by='elcomet', descendants=None, kids=None, score=None, time=1602662326, title=None, item_type='comment', url=None, parent=24773823, text='There is some luck involved in minesweeper anyway.')
+Item(by='elcomet', descendants=None, kids=[24774444], score=None, time=1602662326, title=None, item_type='comment', url=None, parent=24773823, text='There is some luck involved in minesweeper anyway.')

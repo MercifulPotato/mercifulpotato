@@ -1,0 +1,1 @@
+Item(by='lxgr', descendants=None, kids=None, score=None, time=1602669992, title=None, item_type='comment', url=None, parent=24771847, text='It&#x27;s a specific design decision: The non-call audio profile (A2DP) prioritizes a low error rate over low latency by intentionally introducing a retransmit buffer on both ends of the connection.')

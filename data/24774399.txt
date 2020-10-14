@@ -1,0 +1,1 @@
+Item(by='phendrenad2', descendants=None, kids=None, score=None, time=1602663916, title=None, item_type='comment', url=None, parent=24773858, text='I&#x27;m pretty sure calling DirectX (even 12) in C++ can only be done via COM, so I assume modern game engines still use it.')

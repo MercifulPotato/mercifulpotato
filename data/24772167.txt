@@ -1,1 +1,1 @@
-Item(by='cmckn', descendants=None, kids=None, score=None, time=1602637884, title=None, item_type='comment', url=None, parent=24772115, text='Fair enough, but I bit the bullet on AirPods Pro earlier this year and have been really impressed.')
+Item(by='cmckn', descendants=None, kids=[24774383], score=None, time=1602637884, title=None, item_type='comment', url=None, parent=24772115, text='Fair enough, but I bit the bullet on AirPods Pro earlier this year and have been really impressed.')
