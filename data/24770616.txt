@@ -1,1 +1,1 @@
-Item(by='texodus', descendants=0, kids=None, score=2, time=1602625124, title='1M Cell Minesweeper', item_type='story', url='https://bl.ocks.org/texodus/96a9ed60d0250f7d3187c0fed5f5b78c', parent=None, text=None)
+Item(by='texodus', descendants=14, kids=[24774100, 24774199, 24774035, 24773480], score=39, time=1602625124, title='1M Cell Minesweeper', item_type='story', url='https://bl.ocks.org/texodus/96a9ed60d0250f7d3187c0fed5f5b78c', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='h0m3us3r', descendants=None, kids=None, score=None, time=1602652632, title=None, item_type='comment', url=None, parent=24767651, text='Yes, sigchecks had to be patched out of the kernel. And yes, it does not persist T2 reboot, but T2 only reboots if you hold power button for 5 sec. MacOS &quot;reboot&quot; does _not_ reboot T2.')

@@ -1,1 +1,1 @@
-Item(by='moron4hire', descendants=None, kids=None, score=None, time=1602640375, title=None, item_type='comment', url=None, parent=24772072, text='Efficient for those doing the teaching, but not for the one being taught.')
+Item(by='moron4hire', descendants=None, kids=[24773114], score=None, time=1602640375, title=None, item_type='comment', url=None, parent=24772072, text='Efficient for those doing the teaching, but not for the one being taught.')

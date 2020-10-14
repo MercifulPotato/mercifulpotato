@@ -1,0 +1,1 @@
+Item(by='ignoramous', descendants=None, kids=[24773363], score=None, time=1602647893, title=None, item_type='comment', url=None, parent=24772421, text='Afaik, Tailscale works very hard to P2P connections and uses the gateway either to punchhole through NATs, or proxy connections in case of hard NATs, or for authz&#x2F;n.')

@@ -1,0 +1,1 @@
+Item(by='malkia', descendants=None, kids=None, score=None, time=1602645376, title=None, item_type='comment', url=None, parent=24771121, text='No it doesn&#x27;t. It can&#x27;t replace allocators in DLLS (e.g. it&#x27;s possible, but the jemalloc implementation was not able to do, unlike say mimalloc, though special precaution had to be taken during linking with mimalloc).')

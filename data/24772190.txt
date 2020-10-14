@@ -1,1 +1,1 @@
-Item(by='helm33', descendants=None, kids=None, score=None, time=1602638048, title=None, item_type='comment', url=None, parent=24766959, text='Colorado is horrible. Denver gets 10 feet of snow every winter. Austin is way better.')
+Item(by='helm33', descendants=None, kids=[24773021], score=None, time=1602638048, title=None, item_type='comment', url=None, parent=24766959, text='Colorado is horrible. Denver gets 10 feet of snow every winter. Austin is way better.')

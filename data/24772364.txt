@@ -1,1 +1,1 @@
-Item(by='jupp0r', descendants=None, kids=None, score=None, time=1602640157, title=None, item_type='comment', url=None, parent=24772138, text='France begs to differ. You have spectacularly good restaurants in rural areas all over the county (Michelin star good).')
+Item(by='jupp0r', descendants=None, kids=[24772789], score=None, time=1602640157, title=None, item_type='comment', url=None, parent=24772138, text='France begs to differ. You have spectacularly good restaurants in rural areas all over the county (Michelin star good).')

@@ -1,0 +1,1 @@
+Item(by='progre', descendants=None, kids=[24773294], score=None, time=1602650824, title=None, item_type='comment', url=None, parent=24762637, text='Another great one is &quot;Service Consolidation&quot;: When you notice that some of your microservices spends most of their time chattering with each other, it&#x27;s time to clump them togeather into a regular old service.')

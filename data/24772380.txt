@@ -1,1 +1,1 @@
-Item(by='twodayslate', descendants=None, kids=None, score=None, time=1602640364, title=None, item_type='comment', url=None, parent=24772329, text='Wireless CarPlay already exists')
+Item(by='twodayslate', descendants=None, kids=[24772562], score=None, time=1602640364, title=None, item_type='comment', url=None, parent=24772329, text='Wireless CarPlay already exists')

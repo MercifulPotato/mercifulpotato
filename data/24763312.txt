@@ -1,1 +1,1 @@
-Item(by='pabs3', descendants=0, kids=None, score=5, time=1602576016, title='Whitespace, the Language', item_type='story', url='http://bewatermyfriend.org/p/2020/000/', parent=None, text=None)
+Item(by='pabs3', descendants=4, kids=[24773610, 24773293, 24772628], score=15, time=1602576016, title='Whitespace, the Language', item_type='story', url='http://bewatermyfriend.org/p/2020/000/', parent=None, text=None)

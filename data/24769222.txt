@@ -1,1 +1,1 @@
-Item(by='valeg', descendants=0, kids=None, score=3, time=1602617081, title='Perhaps Mozilla Should Unfck Itself Before “Unfcking the Internet”', item_type='story', url='https://fosspost.org/mozilla-go-unfck-yourself/', parent=None, text=None)
+Item(by='valeg', descendants=1, kids=[24772780], score=6, time=1602617081, title='Perhaps Mozilla Should Unfck Itself Before “Unfcking the Internet”', item_type='story', url='https://fosspost.org/mozilla-go-unfck-yourself/', parent=None, text=None)

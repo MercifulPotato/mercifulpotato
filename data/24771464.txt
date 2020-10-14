@@ -1,1 +1,1 @@
-Item(by='mromanuk', descendants=None, kids=None, score=None, time=1602631299, title=None, item_type='comment', url=None, parent=24769966, text='Nope, it doesn’t work. It ask you to uncover your face')
+Item(by='mromanuk', descendants=None, kids=[24774078], score=None, time=1602631299, title=None, item_type='comment', url=None, parent=24769966, text='Nope, it doesn’t work. It ask you to uncover your face')
