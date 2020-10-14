@@ -1,1 +1,1 @@
-Item(by='hombre_fatal', descendants=None, kids=None, score=None, time=1602613224, title=None, item_type='comment', url=None, parent=24767819, text='There&#x27;s a lot more to care about in the world than whether or not my laptop&#x27;s SSD is soldered to the mobo.')
+Item(by='hombre_fatal', descendants=None, kids=[24779311], score=None, time=1602613224, title=None, item_type='comment', url=None, parent=24767819, text='There&#x27;s a lot more to care about in the world than whether or not my laptop&#x27;s SSD is soldered to the mobo.')

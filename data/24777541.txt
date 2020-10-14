@@ -1,0 +1,1 @@
+Item(by='felipelemos', descendants=None, kids=[24777715, 24777906], score=None, time=1602688968, title=None, item_type='comment', url=None, parent=24777428, text='&gt; On the other hand, changing the docker user to non root might introduce some failure scenarios (eg file ownership)<p>If you application needs root to execute, with very few exceptions, it is already wrong.')

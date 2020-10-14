@@ -1,0 +1,1 @@
+Item(by='petergeoghegan', descendants=None, kids=[24780366], score=None, time=1602702029, title=None, item_type='comment', url=None, parent=24779891, text='pg_stat_activity isn&#x27;t an extension -- it&#x27;s a standard system view')

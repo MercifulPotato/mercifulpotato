@@ -1,0 +1,1 @@
+Item(by='Justsignedup', descendants=None, kids=[24780041], score=None, time=1602700177, title=None, item_type='comment', url=None, parent=24778920, text='An interesting idea. I know this will cause issues with Devise or something similar when the login token needs to be refreshed and it needs to update a record for that. I guess it depends on how the auth is set up.')

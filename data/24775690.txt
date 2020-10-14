@@ -1,1 +1,1 @@
-Item(by='Cmmn_Dscndnt', descendants=None, kids=None, score=None, time=1602678285, title=None, item_type='comment', url=None, parent=24773150, text='It seems more as if the authors are abusing terms from Machine Learning like &quot;Supervised Learning&quot;.')
+Item(by='Cmmn_Dscndnt', descendants=None, kids=[24777886], score=None, time=1602678285, title=None, item_type='comment', url=None, parent=24773150, text='It seems more as if the authors are abusing terms from Machine Learning like &quot;Supervised Learning&quot;.')

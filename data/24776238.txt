@@ -1,1 +1,1 @@
-Item(by='The_rationalist', descendants=None, kids=None, score=None, time=1602681946, title=None, item_type='comment', url=None, parent=24773546, text='Why is the aspiration so slow?')
+Item(by='The_rationalist', descendants=None, kids=[24777041], score=None, time=1602681946, title=None, item_type='comment', url=None, parent=24773546, text='Why is the aspiration so slow?')

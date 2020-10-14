@@ -1,1 +1,1 @@
-Item(by='mddanishyusuf', descendants=None, kids=None, score=None, time=1602604420, title=None, item_type='comment', url=None, parent=24766746, text='So, you can customize the cache time.')
+Item(by='mddanishyusuf', descendants=None, kids=[24772999], score=None, time=1602604420, title=None, item_type='comment', url=None, parent=24766746, text='So, you can customize the cache time.')

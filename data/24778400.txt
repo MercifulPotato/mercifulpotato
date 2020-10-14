@@ -1,0 +1,1 @@
+Item(by='readams', descendants=None, kids=None, score=None, time=1602692621, title=None, item_type='comment', url=None, parent=24778035, text='I think you are very confused about how availability is tracked. If a class of users is always getting an error this would be investigated. There is literally no way, at any scale, to guarantee 100% availability.')

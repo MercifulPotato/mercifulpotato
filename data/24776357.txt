@@ -1,1 +1,1 @@
-Item(by='0xdeadb00f', descendants=None, kids=None, score=None, time=1602682687, title=None, item_type='comment', url=None, parent=24774543, text='Funny now the one time a title change would be actually useful the HN mods haven&#x27;t changed it.')
+Item(by='0xdeadb00f', descendants=None, kids=[24778546], score=None, time=1602682687, title=None, item_type='comment', url=None, parent=24774543, text='Funny now the one time a title change would be actually useful the HN mods haven&#x27;t changed it.')

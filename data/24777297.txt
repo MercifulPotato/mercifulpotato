@@ -1,0 +1,1 @@
+Item(by='Deukhoofd', descendants=None, kids=[24777931], score=None, time=1602687867, title=None, item_type='comment', url=None, parent=24777109, text='It&#x27;s not so much that the browser can do it, as it has been able to for a long time, but that an app in a sandboxed environment, with an abstraction between itself and the host machine, can do it in decently fast times.')

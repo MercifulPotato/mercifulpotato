@@ -1,1 +1,1 @@
-Item(by='agluszak', descendants=22, kids=[24764092, 24759416, 24759850, 24764529, 24761007, 24760561], score=30, time=1602523960, title='Proving that 1 and 1 = 2 in Rust', item_type='story', url='https://gist.github.com/gretingz/bc194c20a2de2c7bcc0f457282ba2662', parent=None, text=None)
+Item(by='agluszak', descendants=22, kids=[24759416, 24764092, 24759850, 24761007, 24764529, 24760561], score=30, time=1602523960, title='Proving that 1 and 1 = 2 in Rust', item_type='story', url='https://gist.github.com/gretingz/bc194c20a2de2c7bcc0f457282ba2662', parent=None, text=None)

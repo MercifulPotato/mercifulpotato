@@ -1,0 +1,1 @@
+Item(by='galbar', descendants=None, kids=None, score=None, time=1602690503, title=None, item_type='comment', url=None, parent=24777930, text='Hi all! Long time reader, first time poster.<p>This library started as a weekend project of &quot;how would I  make a dependency injector in Python?&quot;. This is the result 1.5 years later.<p>Let me know what you think :D')

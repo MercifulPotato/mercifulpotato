@@ -1,0 +1,1 @@
+Item(by='lemonJS', descendants=None, kids=None, score=None, time=1602703148, title=None, item_type='comment', url=None, parent=24778802, text='We use Flask and Python with Postgres, and for the payments we use Stripe. Basically everything is automated, apart from withdrawing your winnings. That part is still manual for now as we haven&#x27;t had the time.')

@@ -1,1 +1,1 @@
-Item(by='the_only_law', descendants=None, kids=None, score=None, time=1602682184, title=None, item_type='comment', url=None, parent=24776241, text='How do you even figure out who does and does not have the authority to say &quot;yes&quot; an an outsider though.')
+Item(by='the_only_law', descendants=None, kids=[24777403], score=None, time=1602682184, title=None, item_type='comment', url=None, parent=24776241, text='How do you even figure out who does and does not have the authority to say &quot;yes&quot; an an outsider though.')

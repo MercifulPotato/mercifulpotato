@@ -1,0 +1,1 @@
+Item(by='Nullabillity', descendants=None, kids=None, score=None, time=1602692539, title=None, item_type='comment', url=None, parent=24777680, text='&gt; and I think possibly decreases cache misses as well.<p>Unlikely, you&#x27;d still have misses because of stuff like file metadata mismatches (think modification times).')

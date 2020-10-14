@@ -1,0 +1,1 @@
+Item(by='xxpor', descendants=None, kids=None, score=None, time=1602690419, title=None, item_type='comment', url=None, parent=24772700, text='Ah that&#x27;s quite interesting. There how do they work around the client controlling the DNS server? I suppose part of the session setup could be sending anyconnect a known trusted DNS server address.')

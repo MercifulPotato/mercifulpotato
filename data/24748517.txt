@@ -1,1 +1,1 @@
-Item(by='mitchbob', descendants=0, kids=None, score=3, time=1602445707, title='Machiavelli: The Art of Teaching People What to Fear', item_type='story', url='https://www.nybooks.com/articles/2020/10/22/machiavelli-whatever-it-takes/', parent=None, text=None)
+Item(by='mitchbob', descendants=1, kids=[24777310], score=14, time=1602445707, title='Machiavelli: Whatever It Takes', item_type='story', url='https://www.nybooks.com/articles/2020/10/22/machiavelli-whatever-it-takes/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='surfer7837', descendants=None, kids=[24778373], score=None, time=1602691779, title=None, item_type='comment', url=None, parent=24776771, text='I also use Red Hat UBI (Universal Base Images). If you pull down any package from DockerHub (even official images) you&#x27;ll be surprised about how many vulnerabilities they have.')

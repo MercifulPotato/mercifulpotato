@@ -1,1 +1,1 @@
-Item(by='dingaling', descendants=None, kids=None, score=None, time=1602658819, title=None, item_type='comment', url=None, parent=24771534, text='&gt; Of course there’s a limit on anything “unlimited”, the world is finite.<p>So it&#x27;s false advertising?')
+Item(by='dingaling', descendants=None, kids=[24777353], score=None, time=1602658819, title=None, item_type='comment', url=None, parent=24771534, text='&gt; Of course there’s a limit on anything “unlimited”, the world is finite.<p>So it&#x27;s false advertising?')

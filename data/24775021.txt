@@ -1,1 +1,1 @@
-Item(by='hanspagel', descendants=None, kids=None, score=None, time=1602670543, title=None, item_type='comment', url=None, parent=24775020, text='Took us 12 months and 1.700 hours to put this post together.')
+Item(by='hanspagel', descendants=None, kids=[24778744], score=None, time=1602670543, title=None, item_type='comment', url=None, parent=24775020, text='Took us 12 months and 1.700 hours to put this post together.')

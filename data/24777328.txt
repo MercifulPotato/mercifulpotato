@@ -1,0 +1,1 @@
+Item(by='elvis70', descendants=None, kids=None, score=None, time=1602687954, title=None, item_type='comment', url=None, parent=24776948, text='Yes, you can only test the carry and zero flags with JR.<p>Note that JP takes one byte more but is a bit faster than JR when the condition is met.')

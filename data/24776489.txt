@@ -1,1 +1,1 @@
-Item(by='phone8675309', descendants=None, kids=None, score=None, time=1602683480, title=None, item_type='comment', url=None, parent=24776022, text='I always find this stance on 4chan amusing since 4chan is also social media.  Just anonymous social media.')
+Item(by='phone8675309', descendants=None, kids=[24776778, 24779383], score=None, time=1602683480, title=None, item_type='comment', url=None, parent=24776022, text='I always find this stance on 4chan amusing since 4chan is also social media.  Just anonymous social media.')

@@ -1,1 +1,1 @@
-Item(by='niteshade', descendants=None, kids=None, score=None, time=1602650276, title=None, item_type='comment', url=None, parent=24770327, text='I had the same issue - it eventually started working after restarting the phone.')
+Item(by='niteshade', descendants=None, kids=[24779217], score=None, time=1602650276, title=None, item_type='comment', url=None, parent=24770327, text='I had the same issue - it eventually started working after restarting the phone.')

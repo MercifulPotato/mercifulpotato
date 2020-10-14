@@ -1,0 +1,1 @@
+Item(by='marmaduke', descendants=None, kids=None, score=None, time=1602693907, title=None, item_type='comment', url=None, parent=24778073, text='This looks like an interesting alternative to k8s ingress, even if the goal is similar, especially when the default ingress controllers don&#x27;t support e.g. SSH.<p>Way too much ceremony for scientific compute sites tho')

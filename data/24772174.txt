@@ -1,1 +1,1 @@
-Item(by='idlewords', descendants=None, kids=None, score=None, time=1602637961, title=None, item_type='comment', url=None, parent=24771084, text='Whoa, you take it out of the box? Enjoy your scratched-up, damaged phone!')
+Item(by='idlewords', descendants=None, kids=[24778882], score=None, time=1602637961, title=None, item_type='comment', url=None, parent=24771084, text='Whoa, you take it out of the box? Enjoy your scratched-up, damaged phone!')

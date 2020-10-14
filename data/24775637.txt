@@ -1,1 +1,1 @@
-Item(by='radley', descendants=None, kids=None, score=None, time=1602677816, title=None, item_type='comment', url=None, parent=24774425, text='I stick the metal plate in a phone case instead of on the phone. Better trade-in value for my phone that way.')
+Item(by='radley', descendants=None, kids=[24776894], score=None, time=1602677816, title=None, item_type='comment', url=None, parent=24774425, text='I stick the metal plate in a phone case instead of on the phone. Better trade-in value for my phone that way.')

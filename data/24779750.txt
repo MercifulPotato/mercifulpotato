@@ -1,0 +1,1 @@
+Item(by='silverwind', descendants=None, kids=[24780424], score=None, time=1602699490, title=None, item_type='comment', url=None, parent=24778360, text='Better yet, only COPY the actually needed needed files instead of the whole working directory. That way, there&#x27;s no need for a `.dockerignore`.')

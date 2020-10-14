@@ -1,0 +1,1 @@
+Item(by='aleksi', descendants=None, kids=[24779891], score=None, time=1602692692, title=None, item_type='comment', url=None, parent=24778369, text='This page talks about pg_stat_activity, which is a standard PostgreSQL feature, not about Percona&#x27;s custom extension that was just announced.')

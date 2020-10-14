@@ -1,1 +1,1 @@
-Item(by='thebean11', descendants=None, kids=None, score=None, time=1602634027, title=None, item_type='comment', url=None, parent=24771582, text='There are single hard drives that store 16TB, and most pre made NAS boxes have at least two drive bays.')
+Item(by='thebean11', descendants=None, kids=[24777188], score=None, time=1602634027, title=None, item_type='comment', url=None, parent=24771582, text='There are single hard drives that store 16TB, and most pre made NAS boxes have at least two drive bays.')

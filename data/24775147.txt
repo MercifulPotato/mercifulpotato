@@ -1,1 +1,1 @@
-Item(by='Angostura', descendants=None, kids=None, score=None, time=1602672197, title=None, item_type='comment', url=None, parent=24772992, text='Another +1 for lint. Use a wooden toothpick and be gentle')
+Item(by='Angostura', descendants=None, kids=[24778851], score=None, time=1602672197, title=None, item_type='comment', url=None, parent=24772992, text='Another +1 for lint. Use a wooden toothpick and be gentle')

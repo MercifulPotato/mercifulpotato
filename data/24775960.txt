@@ -1,1 +1,1 @@
-Item(by='wtetzner', descendants=None, kids=None, score=None, time=1602680174, title=None, item_type='comment', url=None, parent=24775855, text='Or it means more people will stop using Windows.')
+Item(by='wtetzner', descendants=None, kids=[24780018], score=None, time=1602680174, title=None, item_type='comment', url=None, parent=24775855, text='Or it means more people will stop using Windows.')

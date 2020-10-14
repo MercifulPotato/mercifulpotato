@@ -1,0 +1,1 @@
+Item(by='donpark', descendants=None, kids=None, score=None, time=1602701636, title=None, item_type='comment', url=None, parent=24780110, text='E2EE uses WebRTC Insertable Streams feature which is enabled by default on latest stable Chrome (v86) so web client support is at least possible now.')

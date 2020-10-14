@@ -1,1 +1,1 @@
-Item(by='cdebeling', descendants=0, kids=None, score=1, time=1602681723, title='Show HN: Profitable stock market investments and insights delivered daily', item_type='story', url='https://intellitrade.app/', parent=None, text=None)
+Item(by='cdebeling', descendants=1, kids=[24776291, 24776309], score=5, time=1602681723, title='Show HN: Profitable stock market investments and insights delivered daily', item_type='story', url='https://intellitrade.app/', parent=None, text=None)

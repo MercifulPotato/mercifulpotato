@@ -1,1 +1,1 @@
-Item(by='tylergetsay', descendants=None, kids=None, score=None, time=1602677110, title=None, item_type='comment', url=None, parent=24767029, text='Depends, some load balancers may think they are behind another load balancer, and forward the header. This is default behavior iirc.')
+Item(by='tylergetsay', descendants=None, kids=[24778463], score=None, time=1602677110, title=None, item_type='comment', url=None, parent=24767029, text='Depends, some load balancers may think they are behind another load balancer, and forward the header. This is default behavior iirc.')
