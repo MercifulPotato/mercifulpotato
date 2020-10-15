@@ -1,1 +1,1 @@
-Item(by='blobster', descendants=0, kids=None, score=2, time=1602744699, title='Nature supports Joe Biden for US president', item_type='story', url='https://www.nature.com/articles/d41586-020-02852-x', parent=None, text=None)
+Item(by='blobster', descendants=27, kids=[24786671, 24785922, 24786279, 24786356, 24786123], score=39, time=1602744699, title='Nature supports Joe Biden for US president', item_type='story', url='https://www.nature.com/articles/d41586-020-02852-x', parent=None, text=None)

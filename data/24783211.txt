@@ -1,1 +1,1 @@
-Item(by='refurb', descendants=None, kids=None, score=None, time=1602720122, title=None, item_type='comment', url=None, parent=24783062, text='One of them is saying “it’s not true” and one of them is saying “we should stop the public from seeing that”.')
+Item(by='refurb', descendants=None, kids=[24786918], score=None, time=1602720122, title=None, item_type='comment', url=None, parent=24783062, text='One of them is saying “it’s not true” and one of them is saying “we should stop the public from seeing that”.')

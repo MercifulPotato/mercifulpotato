@@ -1,0 +1,1 @@
+Item(by='monocasa', descendants=None, kids=[24787605], score=None, time=1602748154, title=None, item_type='comment', url=None, parent=24785813, text='If anyone is interested why R15 is special cased here a bit, it&#x27;s because R15 is the program counter and that extra cycle is the interlock where they&#x27;d otherwise have to put a delay slot.')

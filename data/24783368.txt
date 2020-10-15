@@ -1,1 +1,1 @@
-Item(by='andybak', descendants=None, kids=None, score=None, time=1602721315, title=None, item_type='comment', url=None, parent=24782829, text='Because the official beatmaps are pretty damn good?<p>(Are custom songs really broken? Haven&#x27;t tried in a month or so)')
+Item(by='andybak', descendants=None, kids=[24787966], score=None, time=1602721315, title=None, item_type='comment', url=None, parent=24782829, text='Because the official beatmaps are pretty damn good?<p>(Are custom songs really broken? Haven&#x27;t tried in a month or so)')

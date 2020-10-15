@@ -1,1 +1,1 @@
-Item(by='CGamesPlay', descendants=None, kids=[24785812, 24785813, 24785820], score=None, time=1602745835, title=None, item_type='comment', url=None, parent=24785357, text='So, 1 instruction, but how many clock cycles does it take to load 16 registers?')
+Item(by='CGamesPlay', descendants=None, kids=[24785888, 24785812, 24785813, 24786987, 24785820], score=None, time=1602745835, title=None, item_type='comment', url=None, parent=24785357, text='So, 1 instruction, but how many clock cycles does it take to load 16 registers?')

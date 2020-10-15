@@ -1,1 +1,1 @@
-Item(by='ithkuil', descendants=None, kids=None, score=None, time=1602746205, title=None, item_type='comment', url=None, parent=24785357, text='Is a risc still a risc when you have complex instructions like this?')
+Item(by='ithkuil', descendants=None, kids=[24786940, 24787038, 24785962, 24785905, 24786599], score=None, time=1602746205, title=None, item_type='comment', url=None, parent=24785357, text='Is a risc still a risc when you have complex instructions like this?')

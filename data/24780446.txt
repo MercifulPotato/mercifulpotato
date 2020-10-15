@@ -1,1 +1,1 @@
-Item(by='patrickdevivo', descendants=0, kids=[24783468], score=10, time=1602703247, title='Managing your hosts file with a CLI', item_type='story', url='https://github.com/guumaster/hostctl', parent=None, text=None)
+Item(by='patrickdevivo', descendants=2, kids=[24783468], score=10, time=1602703247, title='Managing your hosts file with a CLI', item_type='story', url='https://github.com/guumaster/hostctl', parent=None, text=None)

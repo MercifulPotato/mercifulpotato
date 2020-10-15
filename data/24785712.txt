@@ -1,1 +1,1 @@
-Item(by='spendyt', descendants=None, kids=None, score=None, time=1602745470, title=None, item_type='comment', url=None, parent=24777568, text='At this moment only one currency per account. Would multiple currencies be interesting for some people?')
+Item(by='spendyt', descendants=None, kids=[24786148], score=None, time=1602745470, title=None, item_type='comment', url=None, parent=24777568, text='At this moment only one currency per account. Would multiple currencies be interesting for some people?')

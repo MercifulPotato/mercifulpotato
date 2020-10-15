@@ -1,0 +1,1 @@
+Item(by='Tiberium', descendants=None, kids=None, score=None, time=1602768359, title=None, item_type='comment', url=None, parent=24788245, text='It can, ARC is really not a full-blown GC (people usually associate GC with a tracing garbage collector which ARC is not). ARC is fully suitable for writing any low-level stuff such as OSes and similar.')

@@ -1,1 +1,1 @@
-Item(by='lemming', descendants=0, kids=None, score=5, time=1602712185, title='The Fascinating Influence of Cyclone (2019)', item_type='story', url='http://pling.jondgoodwin.com/post/cyclone/', parent=None, text=None)
+Item(by='lemming', descendants=2, kids=[24787611], score=23, time=1602712185, title='The Fascinating Influence of Cyclone (2019)', item_type='story', url='http://pling.jondgoodwin.com/post/cyclone/', parent=None, text=None)

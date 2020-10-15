@@ -1,1 +1,1 @@
-Item(by='colesantiago', descendants=0, kids=None, score=1, time=1602746134, title='Magic Link: Auth simplified for passwordless and social login', item_type='story', url='https://magic.link/', parent=None, text=None)
+Item(by='colesantiago', descendants=1, kids=[24785996], score=1, time=1602746134, title='Magic Link: Auth simplified for passwordless and social login', item_type='story', url='https://magic.link/', parent=None, text=None)

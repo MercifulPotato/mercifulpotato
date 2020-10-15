@@ -1,0 +1,1 @@
+Item(by='galacticdessert', descendants=None, kids=None, score=None, time=1602751371, title=None, item_type='comment', url=None, parent=24764483, text='Any thoughts on the development experience of this versus the Elixir based Nerves project, putting aside obvious platform differences (i.e. the BEAM being concurrent and resilient by design vs JS having a ton of libraries, etc.)?')

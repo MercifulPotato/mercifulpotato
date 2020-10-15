@@ -1,1 +1,1 @@
-Item(by='beervirus', descendants=None, kids=None, score=None, time=1602724993, title=None, item_type='comment', url=None, parent=24780229, text='If that&#x27;s not a backdoor, what in the world is?')
+Item(by='beervirus', descendants=None, kids=[24788234], score=None, time=1602724993, title=None, item_type='comment', url=None, parent=24780229, text='If that&#x27;s not a backdoor, what in the world is?')

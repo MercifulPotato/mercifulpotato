@@ -1,1 +1,1 @@
-Item(by='izacus', descendants=None, kids=None, score=None, time=1602749508, title=None, item_type='comment', url=None, parent=24785985, text='This literally what Samsung phones do right now. No need to wait for Apple to save you.')
+Item(by='izacus', descendants=None, kids=[24788006, 24787714], score=None, time=1602749508, title=None, item_type='comment', url=None, parent=24785985, text='This literally what Samsung phones do right now. No need to wait for Apple to save you.')

@@ -1,1 +1,1 @@
-Item(by='asamant', descendants=0, kids=None, score=16, time=1602590479, title='MusicNet (2016)', item_type='story', url='https://homes.cs.washington.edu/~thickstn/musicnet.html', parent=None, text=None)
+Item(by='asamant', descendants=2, kids=[24788023, 24787931], score=23, time=1602590479, title='MusicNet (2016)', item_type='story', url='https://homes.cs.washington.edu/~thickstn/musicnet.html', parent=None, text=None)

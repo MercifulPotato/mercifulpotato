@@ -1,1 +1,1 @@
-Item(by='rgbrgb', descendants=0, kids=None, score=1, time=1602746342, title='Room Service: Build Multiplayer Features in 15 Minutes', item_type='story', url='https://www.roomservice.dev/', parent=None, text=None)
+Item(by='rgbrgb', descendants=1, kids=[24785965], score=2, time=1602746342, title='Room Service: Build Multiplayer Features in 15 Minutes', item_type='story', url='https://www.roomservice.dev/', parent=None, text=None)

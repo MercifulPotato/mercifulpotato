@@ -1,1 +1,1 @@
-Item(by='OkGoDoIt', descendants=None, kids=None, score=None, time=1602730628, title=None, item_type='comment', url=None, parent=24784108, text='Microsoft remote desktop seems to work pretty well over cellular on my iPad')
+Item(by='OkGoDoIt', descendants=None, kids=[24787495], score=None, time=1602730628, title=None, item_type='comment', url=None, parent=24784108, text='Microsoft remote desktop seems to work pretty well over cellular on my iPad')

@@ -1,1 +1,1 @@
-Item(by='Thorrez', descendants=None, kids=None, score=None, time=1602744711, title=None, item_type='comment', url=None, parent=24785062, text='But Biden did respond to it. He said the meeting didn&#x27;t take place.')
+Item(by='Thorrez', descendants=None, kids=[24785953], score=None, time=1602744711, title=None, item_type='comment', url=None, parent=24785062, text='But Biden did respond to it. He said the meeting didn&#x27;t take place.')

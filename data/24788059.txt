@@ -1,0 +1,1 @@
+Item(by='jedisct1', descendants=None, kids=None, score=None, time=1602766355, title=None, item_type='comment', url=None, parent=24785357, text='On m68k my favorite instruction was MOVEM, which was similar except that we had to provide a register range.<p>MOVEM was the key to fast buffer-&gt;screen copies.')

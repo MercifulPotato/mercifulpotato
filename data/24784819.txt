@@ -1,1 +1,1 @@
-Item(by='philliphaydon', descendants=None, kids=None, score=None, time=1602734769, title=None, item_type='comment', url=None, parent=24782958, text='It took KDDI 4 weeks to change the speed of our connection from 100mbit to 200mbit... Japan is weird.')
+Item(by='philliphaydon', descendants=None, kids=[24788224], score=None, time=1602734769, title=None, item_type='comment', url=None, parent=24782958, text='It took KDDI 4 weeks to change the speed of our connection from 100mbit to 200mbit... Japan is weird.')

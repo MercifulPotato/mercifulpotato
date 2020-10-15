@@ -1,0 +1,1 @@
+Item(by='SEJeff', descendants=None, kids=[24788468], score=None, time=1602766950, title=None, item_type='comment', url=None, parent=24788071, text='“Configuration as code, not YAML” - this is a hilarious and relatable tagline.<p>I wonder how this compares to some existing CI&#x2F;CD tools like Jenkins, circle ci, GitHub actions, etc.')

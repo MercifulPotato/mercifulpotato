@@ -1,1 +1,1 @@
-Item(by='benbreen', descendants=0, kids=None, score=1, time=1602652566, title='Charisma: Now You’ve Got It, Now You Don’t', item_type='story', url='https://lareviewofbooks.org/article/the-risks-of-charisma', parent=None, text=None)
+Item(by='benbreen', descendants=32, kids=[24788119, 24788964, 24786582, 24787767, 24786278, 24787706, 24788266, 24786120], score=58, time=1602652566, title='Charisma: Now You’ve Got It, Now You Don’t', item_type='story', url='https://lareviewofbooks.org/article/the-risks-of-charisma', parent=None, text=None)

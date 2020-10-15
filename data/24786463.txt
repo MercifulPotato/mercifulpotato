@@ -1,0 +1,1 @@
+Item(by='Tuna-Fish', descendants=None, kids=[24786621, 24788369, 24786617], score=None, time=1602752809, title=None, item_type='comment', url=None, parent=24786101, text='It&#x27;s slow as sin, though. Just straight emulating it using more common instructions is like 4x better in most modern Intel CPUs. For some insane reason, it emits 8 uops on Skylake.')

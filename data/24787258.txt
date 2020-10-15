@@ -1,0 +1,1 @@
+Item(by='rainworld', descendants=None, kids=None, score=None, time=1602760398, title=None, item_type='comment', url=None, parent=24786843, text='The output of a CS_P_RNG is by definition reproducible. And there’s really only a small number of applications where, say, ChaCha8 would be too slow.')

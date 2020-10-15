@@ -1,0 +1,1 @@
+Item(by='zaarn', descendants=None, kids=None, score=None, time=1602751387, title=None, item_type='comment', url=None, parent=24786201, text='On Archlinux only root can login by default last time I installed it. Heavily distro dependent and just weird that it requires a webinterface to configure.')

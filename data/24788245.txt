@@ -1,0 +1,1 @@
+Item(by='babo', descendants=None, kids=[24788371], score=None, time=1602767637, title=None, item_type='comment', url=None, parent=24787956, text='Not really. As the intro of this article says, it&#x27;s possible to disable GC, but you loose most of the libraries, which is one of the strengths of Nim.')

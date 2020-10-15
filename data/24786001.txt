@@ -1,0 +1,1 @@
+Item(by='monocasa', descendants=None, kids=None, score=None, time=1602748549, title=None, item_type='comment', url=None, parent=24785989, text='No, because you still want fairly dense dumps of registers out to cache for function prologues.  So blits from the integer register file still show up in your profile traces, hence LDP&#x2F;STP.')
