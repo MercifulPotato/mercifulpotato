@@ -1,1 +1,1 @@
-Item(by='vbezhenar', descendants=None, kids=None, score=None, time=1602703168, title=None, item_type='comment', url=None, parent=24775774, text='It’s feels good to be an asocial nerd. Like nothing really changed for me.')
+Item(by='vbezhenar', descendants=None, kids=[24782867], score=None, time=1602703168, title=None, item_type='comment', url=None, parent=24775774, text='It’s feels good to be an asocial nerd. Like nothing really changed for me.')

@@ -1,1 +1,1 @@
-Item(by='tannhaeuser', descendants=0, kids=None, score=2, time=1602701987, title='Deprecate FTP Support (Deprecated)', item_type='story', url='https://www.chromestatus.com/feature/6246151319715840', parent=None, text=None)
+Item(by='tannhaeuser', descendants=57, kids=[24781129, 24781223, 24783222, 24781246, 24783310, 24782248, 24783752, 24783798, 24781300, 24783623], score=43, time=1602701987, title='Deprecate FTP support (deprecated)', item_type='story', url='https://www.chromestatus.com/feature/6246151319715840', parent=None, text=None)

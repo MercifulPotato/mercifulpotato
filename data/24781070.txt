@@ -1,1 +1,1 @@
-Item(by='chrisseaton', descendants=None, kids=None, score=None, time=1602706687, title=None, item_type='comment', url=None, parent=24781058, text='But this new phone has different components. How do you know that the price of the phone without accessories is the same as before?')
+Item(by='chrisseaton', descendants=None, kids=[24781135], score=None, time=1602706687, title=None, item_type='comment', url=None, parent=24781058, text='But this new phone has different components. How do you know that the price of the phone without accessories is the same as before?')

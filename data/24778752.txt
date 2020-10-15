@@ -1,1 +1,1 @@
-Item(by='alteria', descendants=None, kids=None, score=None, time=1602694231, title=None, item_type='comment', url=None, parent=24775238, text='Is Spotify on Airplay 1 still?')
+Item(by='alteria', descendants=None, kids=[24782797], score=None, time=1602694231, title=None, item_type='comment', url=None, parent=24775238, text='Is Spotify on Airplay 1 still?')

@@ -1,0 +1,1 @@
+Item(by='shakezula', descendants=None, kids=None, score=None, time=1602709030, title=None, item_type='comment', url=None, parent=24781418, text='Exactly my thought. if your state modeling is so in-depth and advanced, either decompose it into smaller state tables and analyze those individually or go full-formal with TLA+.')

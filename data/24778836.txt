@@ -1,1 +1,1 @@
-Item(by='olyjohn', descendants=None, kids=None, score=None, time=1602694640, title=None, item_type='comment', url=None, parent=24777880, text='Voyager was on UPN. Maybe in some areas where there was no UPN station, the local Fox station picked it up.')
+Item(by='olyjohn', descendants=None, kids=[24781327], score=None, time=1602694640, title=None, item_type='comment', url=None, parent=24777880, text='Voyager was on UPN. Maybe in some areas where there was no UPN station, the local Fox station picked it up.')

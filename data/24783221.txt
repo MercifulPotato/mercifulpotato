@@ -1,0 +1,1 @@
+Item(by='piaste', descendants=None, kids=None, score=None, time=1602720173, title=None, item_type='comment', url=None, parent=24778374, text='For many popular images, you can use a major-version tag and fetch the latest patch but avoid breaking changes.<p>Eg. postgres:12 instead of either postgres:latest or postgres:12.0.1')

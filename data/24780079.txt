@@ -1,1 +1,1 @@
-Item(by='brylie', descendants=None, kids=None, score=None, time=1602701115, title=None, item_type='comment', url=None, parent=24776347, text='Most static site generators seem oriented towards blogging&#x2F;publishing content. Is there an open-source static page builder like Wix?')
+Item(by='brylie', descendants=None, kids=[24781646], score=None, time=1602701115, title=None, item_type='comment', url=None, parent=24776347, text='Most static site generators seem oriented towards blogging&#x2F;publishing content. Is there an open-source static page builder like Wix?')

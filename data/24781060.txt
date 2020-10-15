@@ -1,0 +1,1 @@
+Item(by='lipanski', descendants=None, kids=None, score=None, time=1602706643, title=None, item_type='comment', url=None, parent=24779750, text='I&#x27;m not sure that&#x27;s always practical. Consider the average Rails or Symfony app - you&#x27;d have to include quite a few files (even if you add entire directories at a time).')

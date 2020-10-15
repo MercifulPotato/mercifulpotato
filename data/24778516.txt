@@ -1,1 +1,1 @@
-Item(by='User23', descendants=None, kids=None, score=None, time=1602693110, title=None, item_type='comment', url=None, parent=24778455, text='I imagine he had at least some fondness for Algol 60 since he is co-credited with writing the first compiler for it.')
+Item(by='User23', descendants=None, kids=[24781398], score=None, time=1602693110, title=None, item_type='comment', url=None, parent=24778455, text='I imagine he had at least some fondness for Algol 60 since he is co-credited with writing the first compiler for it.')

@@ -1,1 +1,1 @@
-Item(by='mufasaYC', descendants=0, kids=None, score=1, time=1602700223, title='The perfect personal task manager by an indie developer. Reminders meet Kanban', item_type='story', url='https://apps.apple.com/us/app/tasks-smart-lists-reminders/id1502903102', parent=None, text=None)
+Item(by='mufasaYC', descendants=2, kids=[24782285], score=1, time=1602700223, title='The perfect personal task manager by an indie developer. Reminders meet Kanban', item_type='story', url='https://apps.apple.com/us/app/tasks-smart-lists-reminders/id1502903102', parent=None, text=None)

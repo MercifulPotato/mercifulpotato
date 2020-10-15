@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=1, time=1602700864, title='SEGA 60th Anniversary', item_type='story', url='https://www.sega60th.com', parent=None, text=None)
+Item(by='tosh', descendants=1, kids=[24780612], score=2, time=1602700864, title='SEGA 60th Anniversary', item_type='story', url='https://www.sega60th.com', parent=None, text=None)

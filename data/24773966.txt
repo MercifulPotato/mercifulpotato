@@ -1,1 +1,1 @@
-Item(by='jeffbee', descendants=None, kids=None, score=None, time=1602659334, title=None, item_type='comment', url=None, parent=24773616, text='No amount of verbal abuse is going to make a 15-year-old boy as strong as a 25-year-old man.')
+Item(by='jeffbee', descendants=None, kids=[24783874], score=None, time=1602659334, title=None, item_type='comment', url=None, parent=24773616, text='No amount of verbal abuse is going to make a 15-year-old boy as strong as a 25-year-old man.')

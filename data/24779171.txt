@@ -1,1 +1,1 @@
-Item(by='chosen1111', descendants=None, kids=None, score=None, time=1602696315, title=None, item_type='comment', url=None, parent=24779022, text='I&#x27;m thinking in terms of money, we are talking well into the trillions of dollars. And probably having to develop AGI.')
+Item(by='chosen1111', descendants=None, kids=[24780605], score=None, time=1602696315, title=None, item_type='comment', url=None, parent=24779022, text='I&#x27;m thinking in terms of money, we are talking well into the trillions of dollars. And probably having to develop AGI.')

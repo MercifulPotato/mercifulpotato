@@ -1,0 +1,1 @@
+Item(by='lifty', descendants=None, kids=[24781495], score=None, time=1602708527, title=None, item_type='comment', url=None, parent=24778976, text='Hey Mitchell, congrats on the new announcements, great stuff! Out of curiosity, how are you building and operate HCP? Are you running it on top of Kubernetes or Nomad, or you&#x27;re doing some other custom stuff?')

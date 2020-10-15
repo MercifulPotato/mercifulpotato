@@ -1,1 +1,1 @@
-Item(by='ksk', descendants=None, kids=None, score=None, time=1602701305, title=None, item_type='comment', url=None, parent=24779842, text='I guess we&#x27;ll have to wait for another leak to get confirmation on the exact nature of the relationship.')
+Item(by='ksk', descendants=None, kids=[24780853], score=None, time=1602701305, title=None, item_type='comment', url=None, parent=24779842, text='I guess we&#x27;ll have to wait for another leak to get confirmation on the exact nature of the relationship.')

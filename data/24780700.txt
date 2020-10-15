@@ -1,1 +1,1 @@
-Item(by='mrweasel', descendants=None, kids=None, score=None, time=1602704701, title=None, item_type='comment', url=None, parent=24780665, text='Maybe you’re not using Terraform. I suspect that your problem is an insufficient usage of HCL.')
+Item(by='mrweasel', descendants=None, kids=[24781021], score=None, time=1602704701, title=None, item_type='comment', url=None, parent=24780665, text='Maybe you’re not using Terraform. I suspect that your problem is an insufficient usage of HCL.')

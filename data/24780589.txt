@@ -1,1 +1,1 @@
-Item(by='izacus', descendants=None, kids=None, score=None, time=1602704071, title=None, item_type='comment', url=None, parent=24780273, text='Why not?<p>(We started at 7:00 and it was... fine? Quite possible to imagine?)')
+Item(by='izacus', descendants=None, kids=[24781299, 24781542], score=None, time=1602704071, title=None, item_type='comment', url=None, parent=24780273, text='Why not?<p>(We started at 7:00 and it was... fine? Quite possible to imagine?)')

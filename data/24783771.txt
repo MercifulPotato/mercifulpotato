@@ -1,0 +1,1 @@
+Item(by='remexre', descendants=None, kids=None, score=None, time=1602725117, title=None, item_type='comment', url=None, parent=24781830, text='&gt; Go ask a Haskell developer and the first reaction you will get is probably &quot;wait, you were running getData inside the original function?!&quot;<p>Haskell developer here, this was indeed my first reaction :P')

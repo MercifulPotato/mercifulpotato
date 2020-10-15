@@ -1,1 +1,1 @@
-Item(by='sam_lowry_', descendants=None, kids=None, score=None, time=1602706128, title=None, item_type='comment', url=None, parent=24775532, text='Ukraine is not in EU.')
+Item(by='sam_lowry_', descendants=None, kids=[24782045], score=None, time=1602706128, title=None, item_type='comment', url=None, parent=24775532, text='Ukraine is not in EU.')

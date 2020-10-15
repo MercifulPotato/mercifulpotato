@@ -1,1 +1,1 @@
-Item(by='p1mrx', descendants=None, kids=None, score=None, time=1602706099, title=None, item_type='comment', url=None, parent=24765382, text='Why is this article written in the past tense?  Is the pandemic over and everyone forgot to tell me?')
+Item(by='p1mrx', descendants=None, kids=[24781644], score=None, time=1602706099, title=None, item_type='comment', url=None, parent=24765382, text='Why is this article written in the past tense?  Is the pandemic over and everyone forgot to tell me?')

@@ -1,1 +1,1 @@
-Item(by='mqrs', descendants=None, kids=None, score=None, time=1602706418, title=None, item_type='comment', url=None, parent=24780821, text='Whatever the reason is--are corporations obliged to pass cost savings to the customer, or is their objective to maximize profit margins?')
+Item(by='mqrs', descendants=None, kids=[24781204], score=None, time=1602706418, title=None, item_type='comment', url=None, parent=24780821, text='Whatever the reason is--are corporations obliged to pass cost savings to the customer, or is their objective to maximize profit margins?')

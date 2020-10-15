@@ -1,1 +1,1 @@
-Item(by='stevenwliao', descendants=None, kids=None, score=None, time=1602705375, title=None, item_type='comment', url=None, parent=24777074, text='What kind of service would you expect if you ask them to give you a list of every LP you&#x27;ve ever purchased from them?')
+Item(by='stevenwliao', descendants=None, kids=[24783321], score=None, time=1602705375, title=None, item_type='comment', url=None, parent=24777074, text='What kind of service would you expect if you ask them to give you a list of every LP you&#x27;ve ever purchased from them?')

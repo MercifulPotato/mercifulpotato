@@ -1,1 +1,1 @@
-Item(by='galbar', descendants=1, kids=[24777967], score=1, time=1602690353, title='Show HN: Applipy, a library for building modular Python applications', item_type='story', url='https://gitlab.com/applipy/applipy/', parent=None, text=None)
+Item(by='galbar', descendants=2, kids=[24780828, 24777967], score=1, time=1602690353, title='Show HN: Applipy, a library for building modular Python applications', item_type='story', url='https://gitlab.com/applipy/applipy/', parent=None, text=None)

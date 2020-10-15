@@ -1,1 +1,1 @@
-Item(by='rbecker', descendants=0, kids=None, score=4, time=1602694752, title='Google Employees Are Free to Speak Up. Except on Antitrust', item_type='story', url='https://www.nytimes.com/2020/10/13/technology/google-employees-antitrust.html', parent=None, text=None)
+Item(by='rbecker', descendants=0, kids=[24780782], score=4, time=1602694752, title='Google Employees Are Free to Speak Up. Except on Antitrust', item_type='story', url='https://www.nytimes.com/2020/10/13/technology/google-employees-antitrust.html', parent=None, text=None)

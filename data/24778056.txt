@@ -1,1 +1,1 @@
-Item(by='boogies', descendants=None, kids=None, score=None, time=1602690851, title=None, item_type='comment', url=None, parent=24777553, text='Inkscape?')
+Item(by='boogies', descendants=None, kids=[24782846], score=None, time=1602690851, title=None, item_type='comment', url=None, parent=24777553, text='Inkscape?')
