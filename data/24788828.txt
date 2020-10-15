@@ -1,1 +1,1 @@
-Item(by='AlexITC', descendants=None, kids=None, score=None, time=1602771054, title=None, item_type='comment', url=None, parent=24785333, text='I remember you don&#x27;t get a notification unless you visit your basket, where the notification is displayed.')
+Item(by='AlexITC', descendants=None, kids=[24789025], score=None, time=1602771054, title=None, item_type='comment', url=None, parent=24785333, text='I remember you don&#x27;t get a notification unless you visit your basket, where the notification is displayed.')

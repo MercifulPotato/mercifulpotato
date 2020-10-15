@@ -1,1 +1,1 @@
-Item(by='nlitened', descendants=None, kids=None, score=None, time=1602744959, title=None, item_type='comment', url=None, parent=24781473, text='Do you know if AirPods Pro could be used as hearing aids? I know nothing about hearing disabilities, but this sounds like a good idea.')
+Item(by='nlitened', descendants=None, kids=[24792504, 24790562], score=None, time=1602744959, title=None, item_type='comment', url=None, parent=24781473, text='Do you know if AirPods Pro could be used as hearing aids? I know nothing about hearing disabilities, but this sounds like a good idea.')

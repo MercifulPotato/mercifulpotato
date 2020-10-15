@@ -1,1 +1,1 @@
-Item(by='skrowl', descendants=None, kids=None, score=None, time=1602767246, title=None, item_type='comment', url=None, parent=24787073, text='Some people believe that open borders to all countries are a human right.')
+Item(by='skrowl', descendants=None, kids=[24788876], score=None, time=1602767246, title=None, item_type='comment', url=None, parent=24787073, text='Some people believe that open borders to all countries are a human right.')

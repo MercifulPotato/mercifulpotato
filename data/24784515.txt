@@ -1,1 +1,1 @@
-Item(by='johng', descendants=None, kids=None, score=None, time=1602731635, title=None, item_type='comment', url=None, parent=24783939, text='Did they fake the pictures of him with the crackpipe in his mouth as well? I would say that’s pretty newsworthy.')
+Item(by='johng', descendants=None, kids=[24790130], score=None, time=1602731635, title=None, item_type='comment', url=None, parent=24783939, text='Did they fake the pictures of him with the crackpipe in his mouth as well? I would say that’s pretty newsworthy.')

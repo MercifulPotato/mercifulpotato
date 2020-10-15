@@ -1,0 +1,1 @@
+Item(by='simias', descendants=None, kids=None, score=None, time=1602785497, title=None, item_type='comment', url=None, parent=24791523, text='The mednafen PSX emulator uses this trick to implement some of the modules (the MDEC and SPU use it IIRC). I always found it hard to follow and personally prefer simpler, more verbose code with explicit state management.')

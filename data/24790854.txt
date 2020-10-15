@@ -1,0 +1,1 @@
+Item(by='c0nsumer', descendants=None, kids=None, score=None, time=1602781279, title=None, item_type='comment', url=None, parent=24777942, text='I believe the DNS gets assigned to the client during the VPN session setup. And this is watched, and if something tries to change it, it shuts down the tunnel.')

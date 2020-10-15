@@ -1,1 +1,1 @@
-Item(by='cwwc', descendants=0, kids=None, score=2, time=1602686314, title='Woman arrested; conducted secret intelligence missions for Holy See in Africa', item_type='story', url='https://www.ft.com/content/5107d34a-5b0c-4fd3-8012-70b39f9de181', parent=None, text=None)
+Item(by='cwwc', descendants=1, kids=[24792648], score=3, time=1602686314, title='Woman arrested; conducted secret intelligence missions for Holy See in Africa', item_type='story', url='https://www.ft.com/content/5107d34a-5b0c-4fd3-8012-70b39f9de181', parent=None, text=None)

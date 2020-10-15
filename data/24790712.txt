@@ -1,0 +1,1 @@
+Item(by='sushicalculus', descendants=None, kids=None, score=None, time=1602780562, title=None, item_type='comment', url=None, parent=24790457, text='Yes, I know. I meant for some resources (the code for creating was added, but not for destroying those resources). I had to write a custom provider to temporarily fix it')

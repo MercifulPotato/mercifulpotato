@@ -1,0 +1,1 @@
+Item(by='bulatz', descendants=None, kids=None, score=None, time=1602786219, title=None, item_type='comment', url=None, parent=24783091, text='I tried to set up sftp via strongdm hoping it will work since sftp is using ssh, but I failed. It just did not connect')

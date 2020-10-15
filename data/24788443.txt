@@ -1,1 +1,1 @@
-Item(by='rattray', descendants=None, kids=None, score=None, time=1602768677, title=None, item_type='comment', url=None, parent=24787651, text='Who has the best ad platform in the world?')
+Item(by='rattray', descendants=None, kids=[24790241], score=None, time=1602768677, title=None, item_type='comment', url=None, parent=24787651, text='Who has the best ad platform in the world?')

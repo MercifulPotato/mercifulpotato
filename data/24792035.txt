@@ -1,0 +1,1 @@
+Item(by='bgorman', descendants=None, kids=None, score=None, time=1602786671, title=None, item_type='comment', url=None, parent=24782047, text='This is pretty interesting, from the description I would much rather program in Cyclone than C++. It would be great if gcc&#x2F;clang supported cyclone, then most programs could gradually migrate to using Cyclone instead of C.')

@@ -1,1 +1,1 @@
-Item(by='vvillena', descendants=None, kids=None, score=None, time=1602750573, title=None, item_type='comment', url=None, parent=24784244, text='Some people (like me) prefer the 8 bit Sonic games. Sonic 2 for Master System was a completely original game, and it is a 2D platforming gem.')
+Item(by='vvillena', descendants=None, kids=[24788860], score=None, time=1602750573, title=None, item_type='comment', url=None, parent=24784244, text='Some people (like me) prefer the 8 bit Sonic games. Sonic 2 for Master System was a completely original game, and it is a 2D platforming gem.')

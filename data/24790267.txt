@@ -1,0 +1,1 @@
+Item(by='ChrisLomont', descendants=None, kids=None, score=None, time=1602778645, title=None, item_type='comment', url=None, parent=24785479, text='&gt;methods like ChaCha20 can generate random data at 4GB+ per core per second on a modern CPU<p>That&#x27;s around 30x slower than a decent version of PCG, which also has a lot of variants to cover a lot of use cases.')

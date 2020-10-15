@@ -1,1 +1,1 @@
-Item(by='hhs', descendants=0, kids=None, score=1, time=1602769030, title='Facebook Users May Spread Russian Propaganda Less Often When Aware of Its Source', item_type='story', url='https://www.rand.org/news/press/2020/10/15.html', parent=None, text=None)
+Item(by='hhs', descendants=1, kids=[24789761], score=6, time=1602769030, title='Facebook users may spread Russian propaganda less often when aware of its source', item_type='story', url='https://www.rand.org/news/press/2020/10/15.html', parent=None, text=None)

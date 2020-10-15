@@ -1,0 +1,1 @@
+Item(by='tomp', descendants=None, kids=[24791101], score=None, time=1602781923, title=None, item_type='comment', url=None, parent=24789743, text='Haskell loses because it takes 2000 lines just to write a logging statement. Scala loses because you can’t even write a fast for loop. Lisp loses because it disrespects 100 years of math.<p>I’m exaggerating a bit but not by much.')

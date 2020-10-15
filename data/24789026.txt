@@ -1,0 +1,1 @@
+Item(by='L1quid', descendants=None, kids=None, score=None, time=1602772406, title=None, item_type='comment', url=None, parent=24785683, text='I think Amazon is adding the language parameter.  We do not force a language on outgoing links.  Worth stripping on our end, though.<p>Thanks for the feedback.')

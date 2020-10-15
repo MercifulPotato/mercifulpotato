@@ -1,1 +1,1 @@
-Item(by='nullc', descendants=None, kids=None, score=None, time=1602633996, title=None, item_type='comment', url=None, parent=24771088, text='Any idea if RA Guard will block unicast RAs? -- it wouldn&#x27;t need to for the ordinary purpose of blocking misconfigured devices.')
+Item(by='nullc', descendants=None, kids=[24788944], score=None, time=1602633996, title=None, item_type='comment', url=None, parent=24771088, text='Any idea if RA Guard will block unicast RAs? -- it wouldn&#x27;t need to for the ordinary purpose of blocking misconfigured devices.')

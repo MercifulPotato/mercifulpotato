@@ -1,1 +1,1 @@
-Item(by='kfdm', descendants=0, kids=None, score=3, time=1602748389, title='Raindrop 5.0', item_type='story', url='https://medium.com/raindrop-io/raindrop-io-5-0-c146c4770bc6', parent=None, text=None)
+Item(by='kfdm', descendants=7, kids=[24791838, 24792070, 24791732, 24791727, 24791712], score=16, time=1602748389, title='Raindrop 5.0', item_type='story', url='https://medium.com/raindrop-io/raindrop-io-5-0-c146c4770bc6', parent=None, text=None)

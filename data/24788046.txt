@@ -1,1 +1,1 @@
-Item(by='davemateer', descendants=1, kids=[24788248], score=2, time=1602766279, title='Storing Passwords in .NET Core', item_type='story', url='https://medium.com/dealeron-dev/storing-passwords-in-net-core-3de29a3da4d2', parent=None, text=None)
+Item(by='davemateer', descendants=2, kids=[24788248], score=4, time=1602766279, title='Storing Passwords in .NET Core', item_type='story', url='https://medium.com/dealeron-dev/storing-passwords-in-net-core-3de29a3da4d2', parent=None, text=None)

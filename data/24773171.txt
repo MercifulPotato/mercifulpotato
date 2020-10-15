@@ -1,1 +1,1 @@
-Item(by='mitchbob', descendants=0, kids=None, score=3, time=1602650884, title='Simultaneous Interpreting (2013)', item_type='story', url='https://www.lrb.co.uk/the-paper/v35/n21/lynn-visson/diary', parent=None, text=None)
+Item(by='mitchbob', descendants=1, kids=[24788328], score=6, time=1602650884, title='Simultaneous Interpreting (2013)', item_type='story', url='https://www.lrb.co.uk/the-paper/v35/n21/lynn-visson/diary', parent=None, text=None)

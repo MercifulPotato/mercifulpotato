@@ -1,0 +1,1 @@
+Item(by='blunte', descendants=None, kids=[24792446], score=None, time=1602786493, title=None, item_type='comment', url=None, parent=24791757, text='People post guides to HN periodically about how to do exactly this.  But it will require a lot of effort and a carefully designed backup&#x2F;failover plan for when your self-hosted things tank (or get hacked).')

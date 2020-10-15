@@ -1,1 +1,1 @@
-Item(by='dangus', descendants=None, kids=None, score=None, time=1602771558, title=None, item_type='comment', url=None, parent=24754778, text='It’s so easy to over-modularize terraform. I could be wrong but the feeling I get after reading this article is that this is going overboard.<p>It’s just so complex, it really doesn’t have to be this way, even in a large organization.<p>And I hate all the screenshot code, why not use markdown?')
+Item(by=None, descendants=None, kids=None, score=None, time=1602771558, title=None, item_type='comment', url=None, parent=24754778, text=None)

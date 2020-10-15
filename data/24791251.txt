@@ -1,0 +1,1 @@
+Item(by='junon', descendants=None, kids=None, score=None, time=1602783126, title=None, item_type='comment', url=None, parent=24780503, text='Kubernetes as well. We ran into instances where iptables contention was so bad during outage recovery that things just stalled. iptables-save looked like a bomb went off.')

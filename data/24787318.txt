@@ -1,1 +1,1 @@
-Item(by='edpichler', descendants=0, kids=None, score=5, time=1602760818, title='ReactOS', item_type='story', url='https://reactos.org/', parent=None, text=None)
+Item(by='edpichler', descendants=86, kids=[24789680, 24792019, 24789014, 24788756, 24788680, 24793189, 24792429, 24792598, 24790672, 24789967, 24792580, 24788511, 24788620, 24789159, 24790220, 24789214, 24790081], score=196, time=1602760818, title='ReactOS', item_type='story', url='https://reactos.org/', parent=None, text=None)

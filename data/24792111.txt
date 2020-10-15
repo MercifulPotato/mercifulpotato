@@ -1,0 +1,1 @@
+Item(by='ramshorns', descendants=None, kids=[24792493, 24792181, 24792512], score=None, time=1602786970, title=None, item_type='comment', url=None, parent=24791283, text='Are void functions not considered functions in functional programming?<p>I guess in math they&#x27;re not. Functions have to have a codomain and map some things into it.')

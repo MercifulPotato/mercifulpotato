@@ -1,1 +1,1 @@
-Item(by='Uhhrrr', descendants=None, kids=None, score=None, time=1602713749, title=None, item_type='comment', url=None, parent=24782135, text='I recommended Star Wars before the other 8 came out, and have continued this pattern since.')
+Item(by='Uhhrrr', descendants=None, kids=[24788873], score=None, time=1602713749, title=None, item_type='comment', url=None, parent=24782135, text='I recommended Star Wars before the other 8 came out, and have continued this pattern since.')

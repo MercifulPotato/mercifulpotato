@@ -1,0 +1,1 @@
+Item(by='brandmeyer', descendants=None, kids=None, score=None, time=1602787842, title=None, item_type='comment', url=None, parent=24787660, text='Callee-saved registers are saved on function entry, all at once.  There is no interaction other than the register allocation step choosing how many values need to be preserved across function calls.')

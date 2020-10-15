@@ -1,1 +1,1 @@
-Item(by='ptbrowne', descendants=0, kids=None, score=2, time=1602762733, title="Reverse Engineer Amazon's Whispersync", item_type='story', url='https://ptbrowne.github.io/posts/whispersync-reverse-engineering/', parent=None, text=None)
+Item(by='ptbrowne', descendants=24, kids=[24789325, 24789106, 24789271, 24790923, 24789816, 24789598, 24789756, 24790318], score=103, time=1602762733, title="Reverse Engineer Amazon's Whispersync", item_type='story', url='https://ptbrowne.github.io/posts/whispersync-reverse-engineering/', parent=None, text=None)

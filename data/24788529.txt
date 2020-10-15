@@ -1,1 +1,1 @@
-Item(by='krimeo', descendants=None, kids=None, score=None, time=1602769203, title=None, item_type='comment', url=None, parent=24785143, text='Eh, so people are paying for upvotes, sock puppets accounts etc. but it doesn&#x27;t work ? :o')
+Item(by='krimeo', descendants=None, kids=[24790264], score=None, time=1602769203, title=None, item_type='comment', url=None, parent=24785143, text='Eh, so people are paying for upvotes, sock puppets accounts etc. but it doesn&#x27;t work ? :o')

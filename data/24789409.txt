@@ -1,0 +1,1 @@
+Item(by='PaulDavisThe1st', descendants=None, kids=[24789536], score=None, time=1602774693, title=None, item_type='comment', url=None, parent=24787852, text='Maybe compile supercollider to wasm and use that, so that you don&#x27;t fully reinvent the wheel for synthesis languages (not that it hasn&#x27;t already been reinvented over and over and over).')
