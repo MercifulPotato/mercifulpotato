@@ -1,0 +1,1 @@
+Item(by='srtjstjsj', descendants=None, kids=None, score=None, time=1602737693, title=None, item_type='comment', url=None, parent=24775239, text='Inheritance is orthogonal. The stuff you want to override can just as well be composed in instead, as a constructor paramter.')

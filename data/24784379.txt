@@ -1,0 +1,1 @@
+Item(by='OkGoDoIt', descendants=None, kids=[24784935], score=None, time=1602730422, title=None, item_type='comment', url=None, parent=24784309, text='iOS allows key repeat from external keyboards, but not from the onscreen keyboard. In theory a third-party keyboard should be able to implement that, although I can’t say I’ve seen any examples of it.')

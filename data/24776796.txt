@@ -1,1 +1,1 @@
-Item(by='arkitaip', descendants=None, kids=None, score=None, time=1602685190, title=None, item_type='comment', url=None, parent=24776720, text='Great, now they are on some unknown platform where trivial dynamic features are going to be expensive and difficult to implement.')
+Item(by='arkitaip', descendants=None, kids=[24785172], score=None, time=1602685190, title=None, item_type='comment', url=None, parent=24776720, text='Great, now they are on some unknown platform where trivial dynamic features are going to be expensive and difficult to implement.')

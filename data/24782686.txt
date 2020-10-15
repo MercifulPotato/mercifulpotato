@@ -1,1 +1,1 @@
-Item(by='WalterSobchak', descendants=0, kids=None, score=2, time=1602716178, title="Flink on PaaSTA: Yelp's new stream processing platform runs on Kubernetes", item_type='story', url='https://engineeringblog.yelp.com/2020/10/flink-on-paasta.html', parent=None, text=None)
+Item(by='WalterSobchak', descendants=0, kids=None, score=3, time=1602716178, title="Flink on PaaSTA: Yelp's new stream processing platform runs on Kubernetes", item_type='story', url='https://engineeringblog.yelp.com/2020/10/flink-on-paasta.html', parent=None, text=None)

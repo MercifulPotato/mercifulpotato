@@ -1,0 +1,1 @@
+Item(by='Thorrez', descendants=None, kids=None, score=None, time=1602745046, title=None, item_type='comment', url=None, parent=24785533, text='That doesn&#x27;t require unpredictability. For example, Mersenne Twister seeded from &#x2F;dev&#x2F;urandom would work fine for that, even though it&#x27;s predictable because Mersenne Twister is predictable.')

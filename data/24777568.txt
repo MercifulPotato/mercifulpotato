@@ -1,1 +1,1 @@
-Item(by='bwb', descendants=None, kids=None, score=None, time=1602689054, title=None, item_type='comment', url=None, parent=24762895, text='Very cool, does it support multiple currencies in the same account or just one currency per account?')
+Item(by='bwb', descendants=None, kids=[24785712], score=None, time=1602689054, title=None, item_type='comment', url=None, parent=24762895, text='Very cool, does it support multiple currencies in the same account or just one currency per account?')

@@ -1,1 +1,1 @@
-Item(by='082349872349872', descendants=None, kids=None, score=None, time=1602678881, title=None, item_type='comment', url=None, parent=24774566, text='Dusk and dawn are good times to see wildlife, especially during the pandemic, and even in &quot;suburbia.&quot;')
+Item(by='082349872349872', descendants=None, kids=[24785674], score=None, time=1602678881, title=None, item_type='comment', url=None, parent=24774566, text='Dusk and dawn are good times to see wildlife, especially during the pandemic, and even in &quot;suburbia.&quot;')

@@ -1,0 +1,1 @@
+Item(by='TomasD', descendants=0, kids=None, score=1, time=1602737726, title='Setup minimal go webapp and profiling Fprintln vs. WriteString using pprof', item_type='story', url='https://www.tomas.io/articles/go-webapp', parent=None, text=None)

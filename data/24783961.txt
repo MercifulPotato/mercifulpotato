@@ -1,1 +1,1 @@
-Item(by='bertjk', descendants=None, kids=None, score=None, time=1602726986, title=None, item_type='comment', url=None, parent=24783727, text='I&#x27;ve used CCC the chrome extension for a long time.  What is newsworthy here?  Is the landing page new?')
+Item(by='bertjk', descendants=None, kids=[24784058, 24784128, 24784166], score=None, time=1602726986, title=None, item_type='comment', url=None, parent=24783727, text='I&#x27;ve used CCC the chrome extension for a long time.  What is newsworthy here?  Is the landing page new?')

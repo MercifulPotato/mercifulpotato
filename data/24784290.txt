@@ -1,1 +1,1 @@
-Item(by='microcolonel', descendants=None, kids=None, score=None, time=1602729569, title=None, item_type='comment', url=None, parent=24783473, text='Hacker culture is dead, and someone somewhere is saying <i>good riddance</i> with a smug look on their face.')
+Item(by='microcolonel', descendants=None, kids=[24784398], score=None, time=1602729569, title=None, item_type='comment', url=None, parent=24783473, text='Hacker culture is dead, and someone somewhere is saying <i>good riddance</i> with a smug look on their face.')

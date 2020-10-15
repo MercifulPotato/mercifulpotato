@@ -1,0 +1,1 @@
+Item(by='spockz', descendants=None, kids=None, score=None, time=1602736866, title=None, item_type='comment', url=None, parent=24778073, text='What is it this exactly adds on top of an authenticating reverse proxy like nginx? Is it the rbac to grant access to specific resources based on their labels instead of per hostname&#x2F;servicename auth?')

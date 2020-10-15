@@ -1,1 +1,1 @@
-Item(by='aboutBen', descendants=None, kids=None, score=None, time=1602725083, title=None, item_type='comment', url=None, parent=24783315, text='Don&#x27;t confuse Buzzfeed with Buzzfeed News.  The former is a full of lists and click-bait.  The latter is an award winning news site.')
+Item(by='aboutBen', descendants=None, kids=[24784240], score=None, time=1602725083, title=None, item_type='comment', url=None, parent=24783315, text='Don&#x27;t confuse Buzzfeed with Buzzfeed News.  The former is a full of lists and click-bait.  The latter is an award winning news site.')

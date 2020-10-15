@@ -1,0 +1,1 @@
+Item(by='barumi', descendants=None, kids=[24785939], score=None, time=1602744456, title=None, item_type='comment', url=None, parent=24785516, text='&gt; Currently CUPS is a rather poor user experience, (...)<p>Isn&#x27;t CUPS an infrastructure service that exposes a bunch of APIs for downstream consumers, such as desktop environments, to build upon?')

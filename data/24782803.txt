@@ -1,1 +1,1 @@
-Item(by='joeskyyy', descendants=None, kids=None, score=None, time=1602717112, title=None, item_type='comment', url=None, parent=24777541, text='Soooo... docker? haha<p>edit: I joke, I love what containers accomplish, and working with Docker has been a joy (:')
+Item(by='joeskyyy', descendants=None, kids=[24785170], score=None, time=1602717112, title=None, item_type='comment', url=None, parent=24777541, text='Soooo... docker? haha<p>edit: I joke, I love what containers accomplish, and working with Docker has been a joy (:')

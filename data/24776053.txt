@@ -1,1 +1,1 @@
-Item(by='twapi', descendants=5, kids=[24783744, 24778247, 24778888], score=21, time=1602680848, title='Google Journalist Studio', item_type='story', url='https://journaliststudio.google.com/', parent=None, text=None)
+Item(by='twapi', descendants=7, kids=[24783744, 24785068, 24778247, 24778888], score=22, time=1602680848, title='Google Journalist Studio', item_type='story', url='https://journaliststudio.google.com/', parent=None, text=None)

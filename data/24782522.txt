@@ -1,1 +1,1 @@
-Item(by='chillee', descendants=None, kids=None, score=None, time=1602714992, title=None, item_type='comment', url=None, parent=24781601, text='One issue now is that the title mentions Facebook but the linked article does not, which is somewhat confusing.')
+Item(by='chillee', descendants=None, kids=[24784673], score=None, time=1602714992, title=None, item_type='comment', url=None, parent=24781601, text='One issue now is that the title mentions Facebook but the linked article does not, which is somewhat confusing.')

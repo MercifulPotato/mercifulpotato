@@ -1,1 +1,1 @@
-Item(by='zobzu', descendants=None, kids=None, score=None, time=1602712277, title=None, item_type='comment', url=None, parent=24781621, text='&quot;You&#x27;re free to speak up and they&#x27;re free to fire you&quot;')
+Item(by='zobzu', descendants=None, kids=[24785150], score=None, time=1602712277, title=None, item_type='comment', url=None, parent=24781621, text='&quot;You&#x27;re free to speak up and they&#x27;re free to fire you&quot;')

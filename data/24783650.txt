@@ -1,1 +1,1 @@
-Item(by='sriku', descendants=None, kids=None, score=None, time=1602724116, title=None, item_type='comment', url=None, parent=24775661, text='For some reason that didn&#x27;t hit me at all. Perhaps I was already in a mode to draw a link. Apologies.')
+Item(by='sriku', descendants=None, kids=[24785647], score=None, time=1602724116, title=None, item_type='comment', url=None, parent=24775661, text='For some reason that didn&#x27;t hit me at all. Perhaps I was already in a mode to draw a link. Apologies.')

@@ -1,0 +1,1 @@
+Item(by='jasonjayr', descendants=None, kids=None, score=None, time=1602738962, title=None, item_type='comment', url=None, parent=24781507, text='Given SFTP is ssh based, it seems like it could support agent forwarding + an FXP-like mechanism to jump from server  to Server w&#x2F;o transferring to the controlling host ...')

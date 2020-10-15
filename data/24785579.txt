@@ -1,0 +1,1 @@
+Item(by='stonogo', descendants=None, kids=None, score=None, time=1602744247, title=None, item_type='comment', url=None, parent=24785489, text='There are implementations of Arc4Random which introduce entropy during generation.  So, it&#x27;s not a design feature of the algorithm as much as it is an implementation detail.')
