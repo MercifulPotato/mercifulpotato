@@ -1,0 +1,1 @@
+Item(by='jpcooper', descendants=None, kids=None, score=None, time=1602831934, title=None, item_type='comment', url=None, parent=24790199, text='Just made me think. Linear types coming into Haskell should allow this sort of thing to be done in like in C++, avoiding the problem of worrying about fusion and compiler rewrite rules.')

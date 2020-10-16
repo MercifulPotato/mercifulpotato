@@ -1,0 +1,1 @@
+Item(by='1024core', descendants=None, kids=[24798304, 24797933, 24797903, 24798007, 24797950], score=None, time=1602827202, title=None, item_type='comment', url=None, parent=24785175, text='Can you flash Tasmota on to devices without using additional hardware (other than a Linux desktop with Wifi, for example)? Last I checked you had to do soldering, etc.')

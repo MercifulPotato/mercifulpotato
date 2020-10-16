@@ -1,0 +1,1 @@
+Item(by='barumi', descendants=None, kids=None, score=None, time=1602828698, title=None, item_type='comment', url=None, parent=24797697, text='Is there any usecase that justifies a jq-style tool for HTML? There are plenty of usecases involving getting a specific element from the DOM, but I see no case involving extracting and transforming subtrees.')

@@ -1,1 +1,1 @@
-Item(by='jiofih', descendants=None, kids=None, score=None, time=1602815529, title=None, item_type='comment', url=None, parent=24793691, text='I use this. It kinda sucks, and the battery goes way too quickly.')
+Item(by='jiofih', descendants=None, kids=[24797848], score=None, time=1602815529, title=None, item_type='comment', url=None, parent=24793691, text='I use this. It kinda sucks, and the battery goes way too quickly.')

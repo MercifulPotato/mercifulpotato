@@ -1,1 +1,1 @@
-Item(by='zlsa', descendants=None, kids=None, score=None, time=1602816967, title=None, item_type='comment', url=None, parent=24796885, text='To get notifications about an alert in a given area?')
+Item(by='zlsa', descendants=None, kids=[24797613], score=None, time=1602816967, title=None, item_type='comment', url=None, parent=24796885, text='To get notifications about an alert in a given area?')

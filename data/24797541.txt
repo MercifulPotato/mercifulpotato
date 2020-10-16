@@ -1,0 +1,1 @@
+Item(by='jhardy54', descendants=None, kids=[24798449], score=None, time=1602823301, title=None, item_type='comment', url=None, parent=24796179, text='Git examples:<p>- Commits provide the state of each file at that snapshot.<p>- Diffs (patches) provide a minimal operation to move from one FS state to another.')

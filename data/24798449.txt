@@ -1,0 +1,1 @@
+Item(by='zaarn', descendants=None, kids=None, score=None, time=1602833134, title=None, item_type='comment', url=None, parent=24797541, text='I don&#x27; think git is a good example since if you edit two git repositories together and you try to merge them, you can get conflicts.<p>The point of CRDTs is that when you merge state, there <i>CANNOT</i> be a conflict, ever.')

@@ -1,1 +1,1 @@
-Item(by='vehemenz', descendants=None, kids=None, score=None, time=1602793579, title=None, item_type='comment', url=None, parent=24790975, text='Who is we? Fox News has been at 6.5 since Bush Jr.')
+Item(by='vehemenz', descendants=None, kids=[24798179, 24797165], score=None, time=1602793579, title=None, item_type='comment', url=None, parent=24790975, text='Who is we? Fox News has been at 6.5 since Bush Jr.')

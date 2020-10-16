@@ -1,0 +1,1 @@
+Item(by='ww520', descendants=None, kids=None, score=None, time=1602830726, title=None, item_type='comment', url=None, parent=24797423, text='I&#x27;m hoping Chromium become componentized.  E.g. I can package WebGl component only for game or I can strip out the WebGl component for normal HTML&#x2F;CSS app.')

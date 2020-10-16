@@ -1,1 +1,1 @@
-Item(by='noja', descendants=0, kids=None, score=1, time=1602739183, title='Tasmota: Cloud-free open source smart home firmware for ESP8266 devices', item_type='story', url='https://tasmota.github.io/docs/About/', parent=None, text=None)
+Item(by='noja', descendants=20, kids=[24797643, 24798197, 24798699, 24798151, 24798522, 24797801, 24797873, 24797172, 24797743], score=99, time=1602739183, title='Tasmota: Cloud-free open source smart home firmware for ESP8266 devices', item_type='story', url='https://tasmota.github.io/docs/About/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='colinmhayes', descendants=None, kids=None, score=None, time=1602805148, title=None, item_type='comment', url=None, parent=24794275, text='People are stupid. They&#x27;re easily mislead. They make horrible decisions. Those decisions effect me.')
+Item(by='colinmhayes', descendants=None, kids=[24797233], score=None, time=1602805148, title=None, item_type='comment', url=None, parent=24794275, text='People are stupid. They&#x27;re easily mislead. They make horrible decisions. Those decisions effect me.')

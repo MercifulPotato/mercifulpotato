@@ -1,1 +1,1 @@
-Item(by='cpard', descendants=2, kids=[24796748, 24796179], score=39, time=1602801123, title="A family of CRDT's supporting both State and Op based replication in Rust", item_type='story', url='https://github.com/rust-crdt/rust-crdt', parent=None, text=None)
+Item(by='cpard', descendants=7, kids=[24796179, 24796748, 24797826, 24797402], score=93, time=1602801123, title='A family of CRDTs supporting both State and Op based replication in Rust', item_type='story', url='https://github.com/rust-crdt/rust-crdt', parent=None, text=None)

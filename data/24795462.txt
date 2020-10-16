@@ -1,1 +1,1 @@
-Item(by='bergstromm466', descendants=None, kids=None, score=None, time=1602803684, title=None, item_type='comment', url=None, parent=24795458, text='Yes, thanks for adding that important fact!')
+Item(by='bergstromm466', descendants=None, kids=[24798067], score=None, time=1602803684, title=None, item_type='comment', url=None, parent=24795458, text='Yes, thanks for adding that important fact!')

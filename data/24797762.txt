@@ -1,0 +1,1 @@
+Item(by='bmarquez', descendants=None, kids=None, score=None, time=1602825856, title=None, item_type='comment', url=None, parent=24797663, text='I&#x27;ve seen commenters on HN that claim that the emails are suspect because they don&#x27;t include DKIM signatures. Redacting the email would make it even more suspicious in their eyes.')

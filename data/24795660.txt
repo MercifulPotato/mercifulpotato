@@ -1,1 +1,1 @@
-Item(by='askvictor', descendants=None, kids=None, score=None, time=1602805013, title=None, item_type='comment', url=None, parent=24792550, text='This. We need to create an email portability system (like there currently is with mobile phone numbers)')
+Item(by='askvictor', descendants=None, kids=[24798082], score=None, time=1602805013, title=None, item_type='comment', url=None, parent=24792550, text='This. We need to create an email portability system (like there currently is with mobile phone numbers)')

@@ -1,1 +1,1 @@
-Item(by='zepto', descendants=None, kids=None, score=None, time=1602727948, title=None, item_type='comment', url=None, parent=24783525, text='I stand corrected.')
+Item(by='zepto', descendants=None, kids=[24797625], score=None, time=1602727948, title=None, item_type='comment', url=None, parent=24783525, text='I stand corrected.')

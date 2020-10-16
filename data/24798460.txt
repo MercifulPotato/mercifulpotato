@@ -1,0 +1,1 @@
+Item(by='akerro', descendants=None, kids=None, score=None, time=1602833193, title=None, item_type='comment', url=None, parent=24798118, text='My solution was to change the checks into single methods and move one god-decision-making-method into classes that are components with their own logic.')

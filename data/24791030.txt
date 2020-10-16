@@ -1,1 +1,1 @@
-Item(by='almost_usual', descendants=None, kids=None, score=None, time=1602782129, title=None, item_type='comment', url=None, parent=24790992, text='Well Twitter just poured jet fuel on the fire now that they locked the account deleted the tweet and now it’s back on Twitter.')
+Item(by='almost_usual', descendants=None, kids=[24796974], score=None, time=1602782129, title=None, item_type='comment', url=None, parent=24790992, text='Well Twitter just poured jet fuel on the fire now that they locked the account deleted the tweet and now it’s back on Twitter.')

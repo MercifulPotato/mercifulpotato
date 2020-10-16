@@ -1,0 +1,1 @@
+Item(by='wichert', descendants=None, kids=None, score=None, time=1602833015, title=None, item_type='comment', url=None, parent=24796603, text='kubeadm is very bare bones though; it gives you a running node but you are still responsible for configuring network and storage providers, an ingress controller and probably a load balancer.')

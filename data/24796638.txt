@@ -1,1 +1,1 @@
-Item(by='krapp', descendants=None, kids=None, score=None, time=1602813639, title=None, item_type='comment', url=None, parent=24796633, text='You&#x27;re not society, though, are you?')
+Item(by='krapp', descendants=None, kids=[24797378], score=None, time=1602813639, title=None, item_type='comment', url=None, parent=24796633, text='You&#x27;re not society, though, are you?')

@@ -1,0 +1,1 @@
+Item(by='inque3d', descendants=None, kids=[24798671, 24798651], score=None, time=1602833570, title=None, item_type='comment', url=None, parent=24798344, text='Not just es2020, Duktape doesn&#x27;t even support arrow functions and classes.<p>QuickJS seems interesting, but I couldn&#x27;t manage to compile it on Windows (without MSYS2).')

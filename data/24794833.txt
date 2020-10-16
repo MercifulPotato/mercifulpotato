@@ -1,1 +1,1 @@
-Item(by='saalweachter', descendants=None, kids=None, score=None, time=1602800219, title=None, item_type='comment', url=None, parent=24791317, text='1 gigabyte over a billion cellphones turns into a exabyte, so I would guess, similar orders of magnitude?')
+Item(by='saalweachter', descendants=None, kids=[24797143], score=None, time=1602800219, title=None, item_type='comment', url=None, parent=24791317, text='1 gigabyte over a billion cellphones turns into a exabyte, so I would guess, similar orders of magnitude?')

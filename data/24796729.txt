@@ -1,1 +1,1 @@
-Item(by='colechristensen', descendants=None, kids=None, score=None, time=1602814551, title=None, item_type='comment', url=None, parent=24796406, text='Yes, it is an Elsevier journal. Specifically, it is not one of the citation mill fake journals which will publish anything.')
+Item(by='colechristensen', descendants=None, kids=[24796910], score=None, time=1602814551, title=None, item_type='comment', url=None, parent=24796406, text='Yes, it is an Elsevier journal. Specifically, it is not one of the citation mill fake journals which will publish anything.')
