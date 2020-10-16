@@ -1,0 +1,1 @@
+Item(by='Tiberium', descendants=None, kids=[24801318], score=None, time=1602853166, title=None, item_type='comment', url=None, parent=24800296, text='Sorry if you got misled by the article - ORC is what you should use if your program has cycles. ORC deals with async just fine.')

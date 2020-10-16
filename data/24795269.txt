@@ -1,1 +1,1 @@
-Item(by='theBashShell', descendants=6, kids=[24796826, 24797875, 24796792, 24798165], score=25, time=1602802499, title='Svelte: Cybernetically Enhanced Web Apps', item_type='story', url='https://svelte.dev/', parent=None, text=None)
+Item(by='theBashShell', descendants=6, kids=[24797875, 24796826, 24796792, 24798165], score=30, time=1602802499, title='Svelte: Cybernetically Enhanced Web Apps', item_type='story', url='https://svelte.dev/', parent=None, text=None)

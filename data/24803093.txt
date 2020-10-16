@@ -1,0 +1,1 @@
+Item(by='core-questions', descendants=None, kids=None, score=None, time=1602869971, title=None, item_type='comment', url=None, parent=24799441, text='IPv6 is just not widely used, so when you do use it, you stick out like a sore thumb. Think like a bayesian: for Google, it&#x27;s easy to just block whole &#x2F;32s of IPv6 space.')

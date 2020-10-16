@@ -1,0 +1,1 @@
+Item(by='tom_mellior', descendants=None, kids=None, score=None, time=1602862466, title=None, item_type='comment', url=None, parent=24779231, text='Thanks. I know I have used this decorator approach in the past to grab the ASTs for Python functions, but I guess my scenarios were all on the happy path. I see now where this might not be bulletproof.')

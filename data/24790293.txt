@@ -1,1 +1,1 @@
-Item(by='mikehodgson', descendants=None, kids=None, score=None, time=1602778723, title=None, item_type='comment', url=None, parent=24788379, text='You&#x27;re perfectly fine with potentially killing family members? Do they know this?')
+Item(by='mikehodgson', descendants=None, kids=[24800295], score=None, time=1602778723, title=None, item_type='comment', url=None, parent=24788379, text='You&#x27;re perfectly fine with potentially killing family members? Do they know this?')

@@ -1,1 +1,1 @@
-Item(by='willis936', descendants=None, kids=None, score=None, time=1602714250, title=None, item_type='comment', url=None, parent=24778619, text='The addition of FaceID isn’t the design mistake; the removal of TouchID is.')
+Item(by='willis936', descendants=None, kids=[24800084], score=None, time=1602714250, title=None, item_type='comment', url=None, parent=24778619, text='The addition of FaceID isn’t the design mistake; the removal of TouchID is.')

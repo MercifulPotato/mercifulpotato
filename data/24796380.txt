@@ -1,1 +1,1 @@
-Item(by='corytheboyd', descendants=None, kids=None, score=None, time=1602811042, title=None, item_type='comment', url=None, parent=24775407, text='FYI your scripting on app.betafeedback.com hijacks and breaks the back button')
+Item(by='corytheboyd', descendants=None, kids=[24799348], score=None, time=1602811042, title=None, item_type='comment', url=None, parent=24775407, text='FYI your scripting on app.betafeedback.com hijacks and breaks the back button')

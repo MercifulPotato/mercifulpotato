@@ -1,0 +1,1 @@
+Item(by='zaphar', descendants=None, kids=[24800743], score=None, time=1602855271, title=None, item_type='comment', url=None, parent=24800637, text='It&#x27;s not inherent to the language. It&#x27;s inherent in the build tooling. Back in the cabal days haskell had the same problems. Nix is a more hermetic build and packaging tool which is why it&#x27;s better at it.')

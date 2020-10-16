@@ -1,0 +1,1 @@
+Item(by='AznHisoka', descendants=None, kids=[24803806], score=None, time=1602873905, title=None, item_type='comment', url=None, parent=24803745, text='Outages are not always caused by bugs you deploy to production. They can be due to capacity issues with too many users at once using the platform.')

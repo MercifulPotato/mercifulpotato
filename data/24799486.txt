@@ -1,0 +1,1 @@
+Item(by='madjam002', descendants=None, kids=None, score=None, time=1602845252, title=None, item_type='comment', url=None, parent=24798197, text='I love ESPhome. I don’t use their web interface or anything for management, instead I have all of my config in a repo as “infrastructure as code” which gets deployed to all of my devices in one command.')

@@ -1,0 +1,1 @@
+Item(by='imtringued', descendants=None, kids=None, score=None, time=1602879591, title=None, item_type='comment', url=None, parent=24801989, text='High memory usage forces you to only run one JVM process. If you need to do something that doesn&#x27;t require a significant amount of memory you can&#x27;t use Java at all.')

@@ -1,0 +1,1 @@
+Item(by='jnwatson', descendants=None, kids=[24801014], score=None, time=1602855461, title=None, item_type='comment', url=None, parent=24800617, text='Not really.  Fedora IoT only supports x86_64, aarch64, and armhfp, which has some intersection with this space, but not a lot.<p>Regardless, that wasn&#x27;t really the point of the article.')

@@ -1,0 +1,1 @@
+Item(by='05', descendants=None, kids=[24804298], score=None, time=1602857656, title=None, item_type='comment', url=None, parent=24800795, text='Using a package manager on an embedded system is just asking for trouble. Or read-write rootfs, for that matter.')

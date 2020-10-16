@@ -1,0 +1,1 @@
+Item(by='lostlogin', descendants=None, kids=None, score=None, time=1602841448, title=None, item_type='comment', url=None, parent=24799037, text='I didn’t know you could write your own code with ESPHome, I’ll have to dig deeper.<p>When I hit a limit I went to Arduino and then hooked that into Home Assistant via and MQTT broker - Mosquitto.')

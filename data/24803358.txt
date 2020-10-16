@@ -1,0 +1,1 @@
+Item(by='sampo', descendants=None, kids=[24803798], score=None, time=1602871521, title=None, item_type='comment', url=None, parent=24802886, text='&gt; What can we say about `not A&#x27; and `not B&#x27;?<p>Haha, yes. I interpreted the `and` in that sentence as a logical connective, and (A → B) says nothing about (¬A ∧ ¬B). But he meant `and` in the human language sense.')

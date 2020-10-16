@@ -1,1 +1,1 @@
-Item(by='samclemens', descendants=0, kids=None, score=4, time=1602730813, title='Graveyard Shift', item_type='story', url='https://www.laphamsquarterly.org/roundtable/graveyard-shift', parent=None, text=None)
+Item(by='samclemens', descendants=3, kids=[24800530, 24800507], score=33, time=1602730813, title='Graveyard Shift', item_type='story', url='https://www.laphamsquarterly.org/roundtable/graveyard-shift', parent=None, text=None)

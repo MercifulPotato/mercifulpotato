@@ -1,1 +1,1 @@
-Item(by='dylan604', descendants=None, kids=None, score=None, time=1602818118, title=None, item_type='comment', url=None, parent=24796411, text='&quot;That&#x27;s one hell of a Twinkie.&quot; -Winston Zeddemore')
+Item(by='dylan604', descendants=None, kids=[24804438], score=None, time=1602818118, title=None, item_type='comment', url=None, parent=24796411, text='&quot;That&#x27;s one hell of a Twinkie.&quot; -Winston Zeddemore')

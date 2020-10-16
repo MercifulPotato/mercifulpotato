@@ -1,0 +1,1 @@
+Item(by='garethrowlands', descendants=None, kids=[24803177], score=None, time=1602865773, title=None, item_type='comment', url=None, parent=24801397, text='If Rust does more inlining than Haskell, it does _a lot_ of inlining! Haskell doesn&#x27;t monomorphise (it calls it specialise) much by default though.')

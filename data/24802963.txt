@@ -1,0 +1,1 @@
+Item(by='andi999', descendants=None, kids=[24803373], score=None, time=1602869077, title=None, item_type='comment', url=None, parent=24800037, text='Shouldnt you avoid malloc and free (after the startup phase of your application) completely in long running applications?')

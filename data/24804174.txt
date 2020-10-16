@@ -1,0 +1,1 @@
+Item(by='atraac', descendants=None, kids=None, score=None, time=1602876647, title=None, item_type='comment', url=None, parent=24801354, text='&gt; We might have to re-do some bots,<p>You might not even be able to, Teams API is quite badly convoluted and limited. You simply won&#x27;t be able to f.e. recreate Slackbot experience in group conversations(chats).')

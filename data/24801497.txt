@@ -1,0 +1,1 @@
+Item(by='karmakaze', descendants=None, kids=[24802027], score=None, time=1602860673, title=None, item_type='comment', url=None, parent=24800296, text='I&#x27;m not familiar with Nim. Does it also support weak references?<p>A significant portion of the problems with cycles in ARC are parent references.')

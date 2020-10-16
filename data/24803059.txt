@@ -1,0 +1,1 @@
+Item(by='cycloptic', descendants=None, kids=None, score=None, time=1602869736, title=None, item_type='comment', url=None, parent=24802268, text='&gt;malloc for the Internet.<p>I actually thought this was what the article was going to be. Someone could probably hack up a malloc implementation quickly that mounts shm files over nfs.<p>But, wasm is cool too.')

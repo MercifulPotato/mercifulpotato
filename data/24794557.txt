@@ -1,1 +1,1 @@
-Item(by='andy_ppp', descendants=None, kids=None, score=None, time=1602798823, title=None, item_type='comment', url=None, parent=24789379, text='Is Twitter down? I don’t know where to look to check if everyone can see if Twitter is down...')
+Item(by='andy_ppp', descendants=None, kids=[24799929], score=None, time=1602798823, title=None, item_type='comment', url=None, parent=24789379, text='Is Twitter down? I don’t know where to look to check if everyone can see if Twitter is down...')

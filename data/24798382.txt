@@ -1,0 +1,1 @@
+Item(by='scollet', descendants=None, kids=None, score=None, time=1602832511, title=None, item_type='comment', url=None, parent=24798328, text=' &gt; concurrency solutions are often context specific and need handwritten solutions.<p>Wanted to second this as it sounds like a great design problem. I personally love reasoning about concurrency models.')

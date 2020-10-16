@@ -1,0 +1,1 @@
+Item(by='wtetzner', descendants=None, kids=None, score=None, time=1602862615, title=None, item_type='comment', url=None, parent=24800202, text='I think another good reason is that it lets you specify language-agnostic dependencies, including build tools etc. If Nix really takes off, we can stop dealing with language-specific package managers.')

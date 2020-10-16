@@ -1,1 +1,1 @@
-Item(by='frutiger', descendants=None, kids=None, score=None, time=1602817357, title=None, item_type='comment', url=None, parent=24796402, text='This is what happens when you don’t bother to make a separate function!')
+Item(by='frutiger', descendants=None, kids=[24802655], score=None, time=1602817357, title=None, item_type='comment', url=None, parent=24796402, text='This is what happens when you don’t bother to make a separate function!')

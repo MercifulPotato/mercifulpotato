@@ -1,0 +1,1 @@
+Item(by='wtetzner', descendants=None, kids=None, score=None, time=1602868626, title=None, item_type='comment', url=None, parent=24802825, text='Yes, I know. nix-shell on macOS works fine for me, but vlc fails to install because the Nix package is not supported on macOS.<p>I was just sad that I couldn&#x27;t use the cool Nix magic to view the stream.')

@@ -1,1 +1,1 @@
-Item(by='jagger27', descendants=None, kids=None, score=None, time=1602827021, title=None, item_type='comment', url=None, parent=24797528, text='What’s so bad about it? The thumbs up emoji or the Medium plug?')
+Item(by='jagger27', descendants=None, kids=[24800259], score=None, time=1602827021, title=None, item_type='comment', url=None, parent=24797528, text='What’s so bad about it? The thumbs up emoji or the Medium plug?')

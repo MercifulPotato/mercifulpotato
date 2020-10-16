@@ -1,0 +1,1 @@
+Item(by='chris140957', descendants=None, kids=[24803826], score=None, time=1602868614, title=None, item_type='comment', url=None, parent=24802773, text='Backend is django with graphene, frontend is vuejs with vuetify and Apollo. DB is Postgres. DB and backend is hosted in AWS, frontend is netlify')

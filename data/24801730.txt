@@ -1,0 +1,1 @@
+Item(by='wtetzner', descendants=None, kids=None, score=None, time=1602861951, title=None, item_type='comment', url=None, parent=24801696, text='I&#x27;m not completely sure, but it seems like maybe Sciter is able to stay so lightweight because it implements a subset of the HTML&#x2F;CSS.<p>If not, though, that would be a pretty big deal.')

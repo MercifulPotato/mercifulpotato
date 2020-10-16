@@ -1,0 +1,1 @@
+Item(by='wtetzner', descendants=None, kids=None, score=None, time=1602868813, title=None, item_type='comment', url=None, parent=24802707, text='Thanks! This worked:<p><pre><code>    nix-shell --packages mpv --run &quot;mpv https:&#x2F;&#x2F;dash.nixcon.net&#x2F;dash&#x2F;master.m3u8&quot;</code></pre>')

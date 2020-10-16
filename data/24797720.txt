@@ -1,1 +1,1 @@
-Item(by='oweiler', descendants=0, kids=None, score=6, time=1602825407, title="Don't Copy Paste into a Shell", item_type='story', url='https://briantracy.xyz/writing/copy-paste-shell.html', parent=None, text=None)
+Item(by='oweiler', descendants=2, kids=[24801490], score=10, time=1602825407, title="Don't Copy Paste into a Shell", item_type='story', url='https://briantracy.xyz/writing/copy-paste-shell.html', parent=None, text=None)

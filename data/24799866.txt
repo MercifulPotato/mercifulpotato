@@ -1,0 +1,1 @@
+Item(by='twsted', descendants=None, kids=None, score=None, time=1602849172, title=None, item_type='comment', url=None, parent=24798689, text='On macOS add the line net.inet.tcp.delayed_ack=0 to the file &#x2F;etc&#x2F;sysctl.conf (which doesn&#x27;t initially exist).')

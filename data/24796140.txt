@@ -1,1 +1,1 @@
-Item(by='timClicks', descendants=None, kids=None, score=None, time=1602808952, title=None, item_type='comment', url=None, parent=24795248, text='Just pin to a channel.')
+Item(by='timClicks', descendants=None, kids=[24803182], score=None, time=1602808952, title=None, item_type='comment', url=None, parent=24795248, text='Just pin to a channel.')
