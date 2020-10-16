@@ -1,1 +1,1 @@
-Item(by='benbreen', descendants=0, kids=None, score=3, time=1602714806, title='We All Live in Don DeLillo’s World. He’s Confused by It Too', item_type='story', url='https://www.nytimes.com/interactive/2020/10/12/magazine/don-delillo-interview.html', parent=None, text=None)
+Item(by='benbreen', descendants=3, kids=[24794133, 24793741], score=32, time=1602714806, title='We All Live in Don DeLillo’s World', item_type='story', url='https://www.nytimes.com/interactive/2020/10/12/magazine/don-delillo-interview.html', parent=None, text=None)

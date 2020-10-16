@@ -1,0 +1,1 @@
+Item(by='Diederich', descendants=None, kids=[24794862], score=None, time=1602800013, title=None, item_type='comment', url=None, parent=24794429, text='Can LIDAR reliably detect stop signs?  I think it would have to be based on the shape, and LIDAR loses resolution pretty quickly over distance.')

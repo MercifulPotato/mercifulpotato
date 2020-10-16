@@ -1,1 +1,1 @@
-Item(by='Ice_cream_suit', descendants=0, kids=None, score=2, time=1602750056, title='The second decade of synthetic biology: 2010–2020', item_type='story', url='https://www.nature.com/articles/s41467-020-19092-2', parent=None, text=None)
+Item(by='Ice_cream_suit', descendants=5, kids=[24796197, 24796305, 24796111], score=29, time=1602750056, title='The second decade of synthetic biology: 2010–2020', item_type='story', url='https://www.nature.com/articles/s41467-020-19092-2', parent=None, text=None)

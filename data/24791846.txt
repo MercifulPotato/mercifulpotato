@@ -1,1 +1,1 @@
-Item(by='tech234a', descendants=0, kids=None, score=1, time=1602785885, title='The Latest on Google Hangouts and the Upgrade to Google Chat', item_type='story', url='https://blog.google/products/workspace/latest-google-hangouts-and-upgrade-google-chat/', parent=None, text=None)
+Item(by='tech234a', descendants=2, kids=[24793840], score=3, time=1602785885, title='The Latest on Google Hangouts and the Upgrade to Google Chat', item_type='story', url='https://blog.google/products/workspace/latest-google-hangouts-and-upgrade-google-chat/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='jjmarinho', descendants=None, kids=None, score=None, time=1602773468, title=None, item_type='comment', url=None, parent=24789011, text='It&#x27;s not a zero sum game. WFH can simultaneously save money for the company and for the employees.')
+Item(by='jjmarinho', descendants=None, kids=[24795398], score=None, time=1602773468, title=None, item_type='comment', url=None, parent=24789011, text='It&#x27;s not a zero sum game. WFH can simultaneously save money for the company and for the employees.')

@@ -1,0 +1,1 @@
+Item(by='merb', descendants=None, kids=None, score=None, time=1602797163, title=None, item_type='comment', url=None, parent=24793862, text='sadly you need to run with kube-proxy and can&#x27;t use calico&#x27;s own sauce. but I already raised an issue for that, if I would use it more instead of kubespray (which I will deprecate soon) than I maybe fix it on my own time.')

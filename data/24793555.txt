@@ -1,0 +1,1 @@
+Item(by='pas', descendants=None, kids=None, score=None, time=1602794086, title=None, item_type='comment', url=None, parent=24792908, text='k3s recently (v1.19) deprecated built-in dqlite support. (it was replaced with built-in etcd.)<p>though with kine (kine is not etcd) you can easily use mysql&#x2F;sqlite&#x2F;dqlite&#x2F;postgresql.')

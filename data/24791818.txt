@@ -1,1 +1,1 @@
-Item(by='dennnis', descendants=None, kids=None, score=None, time=1602785773, title=None, item_type='comment', url=None, parent=24791633, text='lol the world we are in now...')
+Item(by='dennnis', descendants=None, kids=[24796484], score=None, time=1602785773, title=None, item_type='comment', url=None, parent=24791633, text='lol the world we are in now...')

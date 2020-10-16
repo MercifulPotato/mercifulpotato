@@ -1,1 +1,1 @@
-Item(by='msoucy', descendants=None, kids=None, score=None, time=1602790990, title=None, item_type='comment', url=None, parent=24791419, text='Most of the samples don&#x27;t show anything for me... Maybe a description of what it&#x27;s supposed to be, at most. No code or files.')
+Item(by='msoucy', descendants=None, kids=[24793462, 24793450], score=None, time=1602790990, title=None, item_type='comment', url=None, parent=24791419, text='Most of the samples don&#x27;t show anything for me... Maybe a description of what it&#x27;s supposed to be, at most. No code or files.')

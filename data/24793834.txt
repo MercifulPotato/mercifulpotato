@@ -1,0 +1,1 @@
+Item(by='tomp', descendants=None, kids=None, score=None, time=1602795521, title=None, item_type='comment', url=None, parent=24791101, text='Instead of writing 1 + 2 as in mathematics, in Lisp you write (+ 1 2). I&#x27;m not sure I get the second statement of yours, but personally I find Clojure in particular very inspiring and amazing, if only it had a better syntax...')

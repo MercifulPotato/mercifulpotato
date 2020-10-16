@@ -1,1 +1,1 @@
-Item(by='AlfeG', descendants=None, kids=None, score=None, time=1602786480, title=None, item_type='comment', url=None, parent=24791871, text='Do You know, is there a self hosted solution for automatic photos upload to own server?')
+Item(by='AlfeG', descendants=None, kids=[24793890], score=None, time=1602786480, title=None, item_type='comment', url=None, parent=24791871, text='Do You know, is there a self hosted solution for automatic photos upload to own server?')

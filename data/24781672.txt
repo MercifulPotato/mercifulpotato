@@ -1,1 +1,1 @@
-Item(by='tsimionescu', descendants=None, kids=None, score=None, time=1602709926, title=None, item_type='comment', url=None, parent=24780610, text='But why then can particles in different universes interact with each other (or even themselves)?')
+Item(by='tsimionescu', descendants=None, kids=[24795323], score=None, time=1602709926, title=None, item_type='comment', url=None, parent=24780610, text='But why then can particles in different universes interact with each other (or even themselves)?')

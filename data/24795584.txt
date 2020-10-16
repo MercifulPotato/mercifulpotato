@@ -1,0 +1,1 @@
+Item(by='nonsapreiche', descendants=None, kids=None, score=None, time=1602804568, title=None, item_type='comment', url=None, parent=24786731, text='f(x)\n return default if x = 0\n else return f(g(x))')

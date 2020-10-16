@@ -1,1 +1,1 @@
-Item(by='lvs', descendants=None, kids=None, score=None, time=1602781260, title=None, item_type='comment', url=None, parent=24790406, text='Not heavily reported is that ATC tasked a military aircraft that was already in airspace with callsign IDAHO30 to turn westbound and check it out.')
+Item(by='lvs', descendants=None, kids=[24793809], score=None, time=1602781260, title=None, item_type='comment', url=None, parent=24790406, text='Not heavily reported is that ATC tasked a military aircraft that was already in airspace with callsign IDAHO30 to turn westbound and check it out.')

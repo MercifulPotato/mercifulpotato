@@ -1,0 +1,1 @@
+Item(by='krimeo', descendants=None, kids=None, score=None, time=1602799513, title=None, item_type='comment', url=None, parent=24794410, text='Linux kernel ABI is stable as rock.<p>To answer your question, I&#x27;m talking about Linux <i></i>userspace<i></i> ABI - you can&#x27;t rely on ABI of essential libraries, openssl for example. That&#x27;s why docker was born back then.')

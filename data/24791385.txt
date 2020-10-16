@@ -1,1 +1,1 @@
-Item(by='samcolvin', descendants=0, kids=None, score=1, time=1602783730, title='Monday morning mistake: sudo rm -rf –no-preserve-root /', item_type='story', url='https://serverfault.com/questions/587102/monday-morning-mistake-sudo-rm-rf-no-preserve-root', parent=None, text=None)
+Item(by='samcolvin', descendants=1, kids=[24795721], score=1, time=1602783730, title='Monday morning mistake: sudo rm -rf –no-preserve-root /', item_type='story', url='https://serverfault.com/questions/587102/monday-morning-mistake-sudo-rm-rf-no-preserve-root', parent=None, text=None)

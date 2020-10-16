@@ -1,1 +1,1 @@
-Item(by='systemvoltage', descendants=None, kids=[24778183, 24778178, 24785047, 24781207], score=None, time=1602691090, title=None, item_type='comment', url=None, parent=24775500, text='How do you even start to build something like this? What frameworks could I use?')
+Item(by='systemvoltage', descendants=None, kids=[24778183, 24778178, 24781207, 24785047], score=None, time=1602691090, title=None, item_type='comment', url=None, parent=24775500, text='How do you even start to build something like this? What frameworks could I use?')

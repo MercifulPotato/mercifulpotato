@@ -1,1 +1,1 @@
-Item(by='CharlesW', descendants=0, kids=None, score=4, time=1602783582, title='A Free Hyperlegible Typeface from the Braille Institute', item_type='story', url='https://kottke.org/20/10/a-free-hyperlegible-typeface-from-the-braille-institute', parent=None, text=None)
+Item(by='CharlesW', descendants=3, kids=[24795470, 24795505, 24795650], score=26, time=1602783582, title='A Free Hyperlegible Typeface from the Braille Institute', item_type='story', url='https://kottke.org/20/10/a-free-hyperlegible-typeface-from-the-braille-institute', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='zanew101', descendants=None, kids=None, score=None, time=1602778290, title=None, item_type='comment', url=None, parent=24785762, text='Maybe this is something you want to keep internal to your company, but can you say anything about the model architecture being used here?')
+Item(by='zanew101', descendants=None, kids=[24792261], score=None, time=1602778290, title=None, item_type='comment', url=None, parent=24785762, text='Maybe this is something you want to keep internal to your company, but can you say anything about the model architecture being used here?')

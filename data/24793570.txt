@@ -1,1 +1,1 @@
-Item(by='mjfl', descendants=None, kids=None, score=None, time=1602794146, title=None, item_type='comment', url=None, parent=24793448, text='oh right because of the russian bots on twitter. did the nurse give you your meds today?')
+Item(by='mjfl', descendants=None, kids=[24793736], score=None, time=1602794146, title=None, item_type='comment', url=None, parent=24793448, text='oh right because of the russian bots on twitter.')

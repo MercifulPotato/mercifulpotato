@@ -1,1 +1,1 @@
-Item(by='mortenlarsen', descendants=1, kids=[24791257], score=10, time=1602782027, title='The Excel warriors saving the world from spreadsheet disaster', item_type='story', url='https://www.wired.co.uk/article/spreadsheet-excel-errors', parent=None, text=None)
+Item(by='mortenlarsen', descendants=3, kids=[24795887, 24791257, 24792995], score=15, time=1602782027, title='The Excel warriors saving the world from spreadsheet disaster', item_type='story', url='https://www.wired.co.uk/article/spreadsheet-excel-errors', parent=None, text=None)

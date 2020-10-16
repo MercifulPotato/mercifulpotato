@@ -1,1 +1,1 @@
-Item(by='CyberRabbi', descendants=None, kids=None, score=None, time=1602756953, title=None, item_type='comment', url=None, parent=24786774, text='The answer is trivial if you believe in the protection of civil rights.')
+Item(by='CyberRabbi', descendants=None, kids=[24793565], score=None, time=1602756953, title=None, item_type='comment', url=None, parent=24786774, text='The answer is trivial if you believe in the protection of civil rights.')

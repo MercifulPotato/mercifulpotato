@@ -1,1 +1,1 @@
-Item(by='newen', descendants=None, kids=None, score=None, time=1602793388, title=None, item_type='comment', url=None, parent=24791447, text='How can a site that calls itself a fact checking site possibly be called a color commenter?')
+Item(by='newen', descendants=None, kids=[24794017], score=None, time=1602793388, title=None, item_type='comment', url=None, parent=24791447, text='How can a site that calls itself a fact checking site possibly be called a color commenter?')

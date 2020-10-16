@@ -1,1 +1,1 @@
-Item(by='dredmorbius', descendants=None, kids=None, score=None, time=1602785903, title=None, item_type='comment', url=None, parent=24786060, text='Interesting, thanks!<p>And of course the origin of <i>propaganda</i> is the church....')
+Item(by='dredmorbius', descendants=None, kids=[24795672], score=None, time=1602785903, title=None, item_type='comment', url=None, parent=24786060, text='Interesting, thanks!<p>And of course the origin of <i>propaganda</i> is the church....')

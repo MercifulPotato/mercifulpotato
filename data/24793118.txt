@@ -1,0 +1,1 @@
+Item(by='candiddevmike', descendants=None, kids=[24796134], score=None, time=1602792069, title=None, item_type='comment', url=None, parent=24792463, text='It uses distributed sqlite (dqlite) vs etcd&#x2F;RDBMS (postgresql and friends).  It&#x27;s also not part of the CNCF like k3s is (yet?).')

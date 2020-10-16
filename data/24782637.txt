@@ -1,1 +1,1 @@
-Item(by='TulliusCicero', descendants=None, kids=None, score=None, time=1602715792, title=None, item_type='comment', url=None, parent=24782179, text='I think comparing yourself to Jesus probably has a different connotation in a Japanese context.')
+Item(by='TulliusCicero', descendants=None, kids=[24795920], score=None, time=1602715792, title=None, item_type='comment', url=None, parent=24782179, text='I think comparing yourself to Jesus probably has a different connotation in a Japanese context.')

@@ -1,1 +1,1 @@
-Item(by='silasdb', descendants=1, kids=[24792914], score=9, time=1602783884, title='Neon Programming Language', item_type='story', url='https://neon-lang.dev/', parent=None, text=None)
+Item(by='silasdb', descendants=22, kids=[24793159, 24794264, 24794578, 24792914, 24794839, 24795949, 24794881, 24795411, 24793597, 24795544], score=34, time=1602783884, title='Neon Programming Language', item_type='story', url='https://neon-lang.dev/', parent=None, text=None)

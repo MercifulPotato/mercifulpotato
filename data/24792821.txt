@@ -1,1 +1,1 @@
-Item(by='sna1l', descendants=0, kids=None, score=1, time=1602790487, title='Chinchillas sit atop 3.5m ounces of gold', item_type='story', url='https://undark.org/2020/10/12/chinchillas-and-the-gold-mine/', parent=None, text=None)
+Item(by='sna1l', descendants=2, kids=[24793480, 24792945, 24793867], score=3, time=1602790487, title='Chinchillas sit atop 3.5m ounces of gold', item_type='story', url='https://undark.org/2020/10/12/chinchillas-and-the-gold-mine/', parent=None, text=None)

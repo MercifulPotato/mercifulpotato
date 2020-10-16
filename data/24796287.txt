@@ -1,0 +1,1 @@
+Item(by='thescriptkiddie', descendants=None, kids=None, score=None, time=1602810212, title=None, item_type='comment', url=None, parent=24763341, text='Do inverters communicate with the grid operator, or do they just monitor the frequency they see on the mains? And how do they all agree on what UTC is with sufficient accuracy? At 50 Hz, a 1% deviation is only 200 uS.')
