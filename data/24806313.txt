@@ -1,0 +1,1 @@
+Item(by='minot', descendants=None, kids=[24806868], score=None, time=1602893885, title=None, item_type='comment', url=None, parent=24806248, text='My understanding of Jira is that it by itself does not suck but it bends over backwards for asinine “business processes” so it is difficult to find an implementation in the wild that does not suck.')

@@ -1,0 +1,1 @@
+Item(by='ineedasername', descendants=None, kids=None, score=None, time=1602897970, title=None, item_type='comment', url=None, parent=24799660, text='How is a &quot;canary&quot; script that simulates user interactions with a page different than something like selenium&#x2F;splinter? Is it just the ux of accomplishing it via recorded actions, or something more?')

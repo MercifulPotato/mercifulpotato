@@ -1,1 +1,1 @@
-Item(by='varispeed', descendants=None, kids=None, score=None, time=1602853593, title=None, item_type='comment', url=None, parent=24799912, text='Big companies use OSS to avoid hiring employees and paying their wages plus taxes. It is a loophole that should be regulated.')
+Item(by='varispeed', descendants=None, kids=[24805471], score=None, time=1602853593, title=None, item_type='comment', url=None, parent=24799912, text='Big companies use OSS to avoid hiring employees and paying their wages plus taxes. It is a loophole that should be regulated.')

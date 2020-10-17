@@ -1,1 +1,1 @@
-Item(by='Thevet', descendants=0, kids=None, score=5, time=1602863909, title='Central Asian Horse Riders Played Ball Games 3k Years Ago', item_type='story', url='https://www.media.uzh.ch/en/Press-Releases/2020/Horse-Riders-.html', parent=None, text=None)
+Item(by='Thevet', descendants=10, kids=[24805964, 24805688, 24804975, 24804542], score=27, time=1602863909, title='Central Asian Horse Riders Played Ball Games 3k Years Ago', item_type='story', url='https://www.media.uzh.ch/en/Press-Releases/2020/Horse-Riders-.html', parent=None, text=None)

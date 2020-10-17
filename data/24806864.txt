@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=None, score=None, time=1602899627, title=None, item_type='comment', url=None, parent=24806183, text='My favorite weapon of choice for this is absl::StrSplit. It can be very efficient because it adapts to any return type you like (including range types, so you can `for(string_view : StrSplit()) {...}`).')

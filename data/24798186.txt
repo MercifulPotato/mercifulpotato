@@ -1,1 +1,1 @@
-Item(by='ben_bai', descendants=None, kids=None, score=None, time=1602830628, title=None, item_type='comment', url=None, parent=24797815, text='&quot;Tell em about the twinkie.&quot;')
+Item(by='ben_bai', descendants=None, kids=[24805370], score=None, time=1602830628, title=None, item_type='comment', url=None, parent=24797815, text='&quot;Tell em about the twinkie.&quot;')

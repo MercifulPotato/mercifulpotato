@@ -1,0 +1,1 @@
+Item(by='dom96', descendants=None, kids=None, score=None, time=1602880625, title=None, item_type='comment', url=None, parent=24802297, text='Note that what we&#x27;re referring to as &quot;async&quot; for Nim is actually &quot;async await&quot;. AFAIK Swift doesn&#x27;t support that, does it?')

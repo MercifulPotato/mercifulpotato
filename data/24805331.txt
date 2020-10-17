@@ -1,0 +1,1 @@
+Item(by='reificator', descendants=None, kids=None, score=None, time=1602884557, title=None, item_type='comment', url=None, parent=24802275, text='Just a heads up, it looks like you&#x27;re using single newlines and `-` for bullet points. If you don&#x27;t want HN to eat your formatting just add another newline after each bulletpoint.<p>Sincerely, Clippy')

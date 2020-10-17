@@ -1,1 +1,1 @@
-Item(by='davidw', descendants=None, kids=None, score=None, time=1602869940, title=None, item_type='comment', url=None, parent=24801534, text='Well that&#x27;s depressing to contemplate.')
+Item(by='davidw', descendants=None, kids=[24805577], score=None, time=1602869940, title=None, item_type='comment', url=None, parent=24801534, text='Well that&#x27;s depressing to contemplate.')

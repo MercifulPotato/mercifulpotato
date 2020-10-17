@@ -1,0 +1,1 @@
+Item(by='kyleee', descendants=None, kids=None, score=None, time=1602901235, title=None, item_type='comment', url=None, parent=24806445, text='i just keep a repo of public configs and curl them to any new machines and have a simple script to symlink the various configs to their expected locations')

@@ -1,1 +1,1 @@
-Item(by='ogogmad', descendants=None, kids=None, score=None, time=1602875083, title=None, item_type='comment', url=None, parent=24803820, text='&gt; One of the worst things I&#x27;ve experienced working in software development is that there&#x27;s way too many people who keep sending me these blog posts.<p>You must be very privileged.')
+Item(by=None, descendants=None, kids=None, score=None, time=1602875083, title=None, item_type='comment', url=None, parent=24803820, text=None)

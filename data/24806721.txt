@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=None, score=None, time=1602897832, title=None, item_type='comment', url=None, parent=24806307, text='I mean, it&#x27;s even more weird than you said. It&#x27;s not impossible that Foo(int) and (int)Foo or int g = foo do completely different things. Foo could define an `operator int` that terminates the program, or does any damn thing.')

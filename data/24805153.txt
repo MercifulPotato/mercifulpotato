@@ -1,0 +1,1 @@
+Item(by='elderbarry', descendants=None, kids=None, score=None, time=1602883092, title=None, item_type='comment', url=None, parent=24792463, text='Several commenters here say they have fewer bugs with MicroK8s, makes sense since it’s less of a modification than k3s. Slightly bigger since it keeps api and worker processes as separate binaries albeit in a single package.')

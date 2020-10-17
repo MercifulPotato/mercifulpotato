@@ -1,0 +1,1 @@
+Item(by='plorkyeran', descendants=None, kids=None, score=None, time=1602888079, title=None, item_type='comment', url=None, parent=24805054, text='Manifest V3 breaks ad blocking without doing anything about extensions spying on the user. It provides read-only access to everything that previously was available and merely removes the ability to modify or block requests.')

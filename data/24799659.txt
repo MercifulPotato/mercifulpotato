@@ -1,1 +1,1 @@
-Item(by='FRidh', descendants=44, kids=[24803564, 24802861, 24800202, 24802219, 24801030, 24800338, 24799824, 24801962, 24801995, 24800352], score=136, time=1602847419, title='NixCon Live', item_type='story', url='https://2020.nixcon.org/live.html', parent=None, text=None)
+Item(by='FRidh', descendants=44, kids=[24800202, 24803564, 24802861, 24802219, 24801030, 24800338, 24799824, 24801962, 24801995, 24800352], score=141, time=1602847419, title='NixCon Live', item_type='story', url='https://2020.nixcon.org/live.html', parent=None, text=None)

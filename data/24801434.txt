@@ -1,1 +1,1 @@
-Item(by='PixyMisa', descendants=None, kids=None, score=None, time=1602860305, title=None, item_type='comment', url=None, parent=24799642, text='The Post made no such claims.')
+Item(by='PixyMisa', descendants=None, kids=[24805620], score=None, time=1602860305, title=None, item_type='comment', url=None, parent=24799642, text='The Post made no such claims.')

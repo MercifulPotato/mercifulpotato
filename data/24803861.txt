@@ -1,0 +1,1 @@
+Item(by='Joker_vD', descendants=None, kids=None, score=None, time=1602874542, title=None, item_type='comment', url=None, parent=24803059, text='You can kinda already do something equivalent to this with Redis, right?<p>But the very idea of using mmap() over NFS... wow. I wonder how user quotas would interact with it? Would they count against RAM or disk usage?')

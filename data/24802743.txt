@@ -1,1 +1,1 @@
-Item(by='aidenn0', descendants=None, kids=None, score=None, time=1602867784, title=None, item_type='comment', url=None, parent=24802689, text='There are people who argue that housing is insufficiently fungible for an increased supply to lower prices.')
+Item(by='aidenn0', descendants=None, kids=[24804962], score=None, time=1602867784, title=None, item_type='comment', url=None, parent=24802689, text='There are people who argue that housing is insufficiently fungible for an increased supply to lower prices.')

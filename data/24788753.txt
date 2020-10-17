@@ -1,1 +1,1 @@
-Item(by='prostoalex', descendants=0, kids=None, score=2, time=1602770615, title='The Digital Divide Starts with a Laptop Shortage', item_type='story', url='https://www.nytimes.com/2020/10/12/technology/laptops-schools-digital-divide.html', parent=None, text=None)
+Item(by='prostoalex', descendants=12, kids=[24806693, 24806457, 24805782], score=15, time=1602770615, title='The Digital Divide Starts with a Laptop Shortage', item_type='story', url='https://www.nytimes.com/2020/10/12/technology/laptops-schools-digital-divide.html', parent=None, text=None)

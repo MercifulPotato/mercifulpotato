@@ -1,0 +1,1 @@
+Item(by='sasaf5', descendants=None, kids=None, score=None, time=1602897876, title=None, item_type='comment', url=None, parent=24806309, text='I would risk to mention Tcl as a good candidate, which might be unfair because the language is designed for strings.<p><pre><code>  split &quot;foo.bar&quot; .\n    =&gt; foo bar</code></pre>')

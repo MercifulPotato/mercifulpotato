@@ -1,1 +1,1 @@
-Item(by='Guest42', descendants=None, kids=None, score=None, time=1602866478, title=None, item_type='comment', url=None, parent=24801448, text='I think hubspot is an interesting inclusion after reading the Dan Lyons books.')
+Item(by='Guest42', descendants=None, kids=[24804560], score=None, time=1602866478, title=None, item_type='comment', url=None, parent=24801448, text='I think hubspot is an interesting inclusion after reading the Dan Lyons books.')

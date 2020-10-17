@@ -1,1 +1,1 @@
-Item(by='sprsimplestuff', descendants=None, kids=None, score=None, time=1602820148, title=None, item_type='comment', url=None, parent=24790396, text='and Nigeria is only one country on the continent')
+Item(by='sprsimplestuff', descendants=None, kids=[24805531], score=None, time=1602820148, title=None, item_type='comment', url=None, parent=24790396, text='and Nigeria is only one country on the continent')

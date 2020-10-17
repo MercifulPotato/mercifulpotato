@@ -1,0 +1,1 @@
+Item(by='zacmps', descendants=None, kids=[24805202], score=None, time=1602882856, title=None, item_type='comment', url=None, parent=24805006, text='Not to disparage Nim, but I can think of a number of other languages where this is possible:<p>* JS, obviously<p>* Rust<p>* C&#x2F;C++<p>* Anything else that can compile to WASM')
