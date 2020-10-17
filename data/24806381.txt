@@ -1,1 +1,1 @@
-Item(by='ghastmaster', descendants=None, kids=None, score=None, time=1602894396, title=None, item_type='comment', url=None, parent=24804663, text='This is not too unusual. For me if I jut my jaw forward, it temporarily increases the noise also.')
+Item(by='ghastmaster', descendants=None, kids=[24807524], score=None, time=1602894396, title=None, item_type='comment', url=None, parent=24804663, text='This is not too unusual. For me if I jut my jaw forward, it temporarily increases the noise also.')

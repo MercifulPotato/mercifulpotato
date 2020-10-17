@@ -1,1 +1,1 @@
-Item(by='messe', descendants=None, kids=None, score=None, time=1602870946, title=None, item_type='comment', url=None, parent=24803154, text='&gt; Kind of like the PC BIOS is still around.<p>Not any more. The BIOS has been replaced with UEFI on most new machines for about a decade now.')
+Item(by='messe', descendants=None, kids=[24807456], score=None, time=1602870946, title=None, item_type='comment', url=None, parent=24803154, text='&gt; Kind of like the PC BIOS is still around.<p>Not any more. The BIOS has been replaced with UEFI on most new machines for about a decade now.')

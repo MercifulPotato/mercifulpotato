@@ -1,0 +1,1 @@
+Item(by='dcl', descendants=None, kids=[24807463], score=None, time=1602906975, title=None, item_type='comment', url=None, parent=24807350, text='&gt; To me, it talks about everything but actually deploying a machine learning model in production.<p>This seems to be a common theme of a lot of articles about &#x27;how to put ML models in to production&#x27;.')

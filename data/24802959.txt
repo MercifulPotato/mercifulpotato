@@ -1,1 +1,1 @@
-Item(by='tshaddox', descendants=None, kids=None, score=None, time=1602869062, title=None, item_type='comment', url=None, parent=24802850, text='More than 99% of species that have ever lived are now extinct.')
+Item(by='tshaddox', descendants=None, kids=[24807263], score=None, time=1602869062, title=None, item_type='comment', url=None, parent=24802850, text='More than 99% of species that have ever lived are now extinct.')

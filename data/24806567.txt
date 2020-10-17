@@ -1,1 +1,1 @@
-Item(by='mtm7', descendants=0, kids=None, score=2, time=1602896005, title='Modular Game Worlds in Phaser', item_type='story', url='https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6', parent=None, text=None)
+Item(by='mtm7', descendants=1, kids=[24807841], score=4, time=1602896005, title='Modular Game Worlds in Phaser', item_type='story', url='https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6', parent=None, text=None)

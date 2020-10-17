@@ -1,0 +1,1 @@
+Item(by='core-questions', descendants=None, kids=None, score=None, time=1602907142, title=None, item_type='comment', url=None, parent=24807299, text='Looks like I&#x27;ll be switching to self-hosted Gitlab or some other equivelent. I can deal with cloud Jira, but there&#x27;s no way I&#x27;m going to use cloud Bitbucket instead of hosting my own Git.')

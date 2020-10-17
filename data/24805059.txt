@@ -1,1 +1,1 @@
-Item(by='ksk', descendants=None, kids=None, score=None, time=1602882360, title=None, item_type='comment', url=None, parent=24804625, text='I work in vaccines, so maybe I&#x27;m more sensitive to misinformation than most :)')
+Item(by='ksk', descendants=None, kids=[24807201], score=None, time=1602882360, title=None, item_type='comment', url=None, parent=24804625, text='I work in vaccines, so maybe I&#x27;m more sensitive to misinformation than most :)')

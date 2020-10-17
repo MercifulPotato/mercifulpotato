@@ -1,1 +1,1 @@
-Item(by='klipt', descendants=None, kids=None, score=None, time=1602886569, title=None, item_type='comment', url=None, parent=24804961, text='I think most successful people would say &quot;of course I&#x27;m rational but what&#x27;s the point of making an -ism out of it?&quot;')
+Item(by='klipt', descendants=None, kids=[24807100], score=None, time=1602886569, title=None, item_type='comment', url=None, parent=24804961, text='I think most successful people would say &quot;of course I&#x27;m rational but what&#x27;s the point of making an -ism out of it?&quot;')

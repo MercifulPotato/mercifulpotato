@@ -1,1 +1,1 @@
-Item(by='timdaub', descendants=None, kids=None, score=None, time=1602839197, title=None, item_type='comment', url=None, parent=24798600, text='Well, if you don&#x27;t see the deep ciriticism of technical interviews that I&#x27;m try to point out, that&#x27;s ur view.')
+Item(by='timdaub', descendants=None, kids=[24807283], score=None, time=1602839197, title=None, item_type='comment', url=None, parent=24798600, text='Well, if you don&#x27;t see the deep ciriticism of technical interviews that I&#x27;m try to point out, that&#x27;s ur view.')

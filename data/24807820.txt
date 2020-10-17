@@ -1,0 +1,1 @@
+Item(by='laichzeit0', descendants=None, kids=None, score=None, time=1602915507, title=None, item_type='comment', url=None, parent=24807717, text='There are some subtleties to deployment. If you trained a model with say sklearn version X and the component serving requests deserializes it but it’s using sklearn version Y then things can break badly.')

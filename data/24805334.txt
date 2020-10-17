@@ -1,1 +1,1 @@
-Item(by='benbreen', descendants=7, kids=[24805848, 24805636], score=142, time=1602884578, title='Cat Gap', item_type='story', url='https://en.wikipedia.org/wiki/Cat_gap', parent=None, text=None)
+Item(by='benbreen', descendants=29, kids=[24807416, 24805848, 24805636, 24807559, 24807554], score=248, time=1602884578, title='Cat Gap', item_type='story', url='https://en.wikipedia.org/wiki/Cat_gap', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='throwaway189262', descendants=None, kids=None, score=None, time=1602917160, title=None, item_type='comment', url=None, parent=24806138, text='I suspect packets per second has been scaling slower than bandwidth. For instance consumer routers can push 1 gigabit but only at rather large packet sizes. This is a major selling point for commercial networking gear')

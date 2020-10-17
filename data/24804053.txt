@@ -1,1 +1,1 @@
-Item(by='iptrans', descendants=None, kids=None, score=None, time=1602875881, title=None, item_type='comment', url=None, parent=24798859, text='Honestly, 99% uptime is pretty crap for an ISP. That’s three full days of downtime over 9 months.<p>Aren’t customers complaining constantly?')
+Item(by='iptrans', descendants=None, kids=[24807333], score=None, time=1602875881, title=None, item_type='comment', url=None, parent=24798859, text='Honestly, 99% uptime is pretty crap for an ISP. That’s three full days of downtime over 9 months.<p>Aren’t customers complaining constantly?')

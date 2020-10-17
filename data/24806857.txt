@@ -1,1 +1,1 @@
-Item(by='wetpaws', descendants=0, kids=None, score=1, time=1602899580, title='Tesla asks customers to vote against Right to Repair', item_type='story', url='https://www.reddit.com/r/teslamotors/comments/jb2z09/tesla_policy_team_letter_to_question_1_voters/', parent=None, text=None)
+Item(by='wetpaws', descendants=2, kids=[24807410], score=5, time=1602899580, title='Tesla asks customers to vote against Right to Repair', item_type='story', url='https://www.reddit.com/r/teslamotors/comments/jb2z09/tesla_policy_team_letter_to_question_1_voters/', parent=None, text=None)

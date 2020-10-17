@@ -1,1 +1,1 @@
-Item(by='barumi', descendants=14, kids=[24800051, 24800309, 24803437, 24799505], score=57, time=1602758512, title='Qt Support for State Charts', item_type='story', url='https://doc.qt.io/qtcreator/creator-scxml.html', parent=None, text=None)
+Item(by='barumi', descendants=14, kids=[24800051, 24800309, 24803437, 24799505], score=60, time=1602758512, title='Qt Support for State Charts', item_type='story', url='https://doc.qt.io/qtcreator/creator-scxml.html', parent=None, text=None)

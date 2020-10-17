@@ -1,0 +1,1 @@
+Item(by='ryannevius', descendants=None, kids=None, score=None, time=1602911612, title=None, item_type='comment', url=None, parent=24807275, text='<p><pre><code>    nnoremap ; :\n    nnoremap : ;\n</code></pre>\nAllows me to use : for repeating.')

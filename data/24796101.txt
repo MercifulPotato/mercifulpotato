@@ -1,1 +1,1 @@
-Item(by='rektide', descendants=None, kids=None, score=None, time=1602808546, title=None, item_type='comment', url=None, parent=24796072, text='Go build your&#x2F;our own then.')
+Item(by='rektide', descendants=None, kids=[24807171], score=None, time=1602808546, title=None, item_type='comment', url=None, parent=24796072, text='Go build your&#x2F;our own then.')
