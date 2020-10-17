@@ -1,1 +1,1 @@
-Item(by='reanimus', descendants=None, kids=None, score=None, time=1602916949, title=None, item_type='comment', url=None, parent=24807691, text='Were all of the other OS X versions affected, too? The CVE only lists 10.9.x (so, 10.9 and 10.9.1)')
+Item(by='reanimus', descendants=None, kids=[24811173], score=None, time=1602916949, title=None, item_type='comment', url=None, parent=24807691, text='Were all of the other OS X versions affected, too? The CVE only lists 10.9.x (so, 10.9 and 10.9.1)')

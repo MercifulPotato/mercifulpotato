@@ -1,1 +1,1 @@
-Item(by='erikrothoff', descendants=None, kids=None, score=None, time=1602864756, title=None, item_type='comment', url=None, parent=24801956, text='As an aspiring manager of engineers, do you mean that it&#x27;s far from the truth of real-life counterexamples?')
+Item(by='erikrothoff', descendants=None, kids=[24810427], score=None, time=1602864756, title=None, item_type='comment', url=None, parent=24801956, text='As an aspiring manager of engineers, do you mean that it&#x27;s far from the truth of real-life counterexamples?')

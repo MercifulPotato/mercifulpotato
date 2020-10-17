@@ -1,0 +1,1 @@
+Item(by='sorenbouma', descendants=None, kids=None, score=None, time=1602968697, title=None, item_type='comment', url=None, parent=24809964, text='That benchmark appears to compare full precision fp32 inference on the nano with uint8 inference on the coral,  that floor wiping comes with a lot of caveats')

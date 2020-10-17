@@ -1,1 +1,1 @@
-Item(by='Wowfunhappy', descendants=None, kids=None, score=None, time=1602943167, title=None, item_type='comment', url=None, parent=24809995, text='You mean the EULAs that no one ever reads because if you did, it would practically constitute a part-time job?')
+Item(by='Wowfunhappy', descendants=None, kids=[24810495], score=None, time=1602943167, title=None, item_type='comment', url=None, parent=24809995, text='You mean the EULAs that no one ever reads because if they did, it would practically constitute a part-time job?')

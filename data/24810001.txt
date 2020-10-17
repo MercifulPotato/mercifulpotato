@@ -1,1 +1,1 @@
-Item(by='_wldu', descendants=None, kids=None, score=None, time=1602943046, title=None, item_type='comment', url=None, parent=24808419, text='C++ has already been around for 36 years.')
+Item(by='_wldu', descendants=None, kids=[24810347], score=None, time=1602943046, title=None, item_type='comment', url=None, parent=24808419, text='C++ has already been around for 36 years.')

@@ -1,1 +1,1 @@
-Item(by='marmaduke', descendants=None, kids=None, score=None, time=1602917477, title=None, item_type='comment', url=None, parent=24807230, text='Windows 10 seems to have made updates to their calculator similarly with a graphing mode, conversions, scientific mode etc.')
+Item(by='marmaduke', descendants=None, kids=[24810888], score=None, time=1602917477, title=None, item_type='comment', url=None, parent=24807230, text='Windows 10 seems to have made updates to their calculator similarly with a graphing mode, conversions, scientific mode etc.')

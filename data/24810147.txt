@@ -1,1 +1,1 @@
-Item(by='rjtavares', descendants=None, kids=None, score=None, time=1602944362, title=None, item_type='comment', url=None, parent=24808804, text='It may take longer to load, but it allows you to automate the data processing. That&#x27;s where the effort (and errors) usually lie...')
+Item(by='rjtavares', descendants=None, kids=[24812428], score=None, time=1602944362, title=None, item_type='comment', url=None, parent=24808804, text='It may take longer to load, but it allows you to automate the data processing. That&#x27;s where the effort (and errors) usually lie...')

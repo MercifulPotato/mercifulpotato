@@ -1,0 +1,1 @@
+Item(by='3np', descendants=None, kids=None, score=None, time=1602951973, title=None, item_type='comment', url=None, parent=24811073, text='Major difference here is that GH (in terms of git repo hosting and interaction) have API-compatible free and open implementations - there’s no vendor lock-in (apart from the network effect if you count that, which I don’t)')

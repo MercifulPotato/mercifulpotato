@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1602958986, title=None, item_type='comment', url=None, parent=24811805, text='&gt; Cortex-A73 at 2.4GHz<p>That&#x27;s indeed much faster than the Pi4. Do you know the state of kernel support for that board?')

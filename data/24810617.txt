@@ -1,0 +1,1 @@
+Item(by='dblohm7', descendants=None, kids=[24810742], score=None, time=1602948002, title=None, item_type='comment', url=None, parent=24809976, text='One thing we do in the Firefox codebase is build using a clang plugin that we wrote to statically enforce additional rules.<p>It’s not a perfect solution , and obviously not built in, but it is a big help for avoiding footguns.')

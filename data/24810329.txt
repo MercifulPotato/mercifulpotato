@@ -1,1 +1,1 @@
-Item(by='Broken_Hippo', descendants=None, kids=None, score=None, time=1602946035, title=None, item_type='comment', url=None, parent=24809943, text='Prisoners aren&#x27;t free, but they still use infrastructure and I&#x27;m pretty sure they are supposed to be counted in the census.')
+Item(by='Broken_Hippo', descendants=None, kids=[24810887], score=None, time=1602946035, title=None, item_type='comment', url=None, parent=24809943, text='Prisoners aren&#x27;t free, but they still use infrastructure and I&#x27;m pretty sure they are supposed to be counted in the census.')

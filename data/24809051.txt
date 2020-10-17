@@ -1,1 +1,1 @@
-Item(by='noexani', descendants=1, kids=[24809052], score=2, time=1602931517, title='Intel microcontroller from 1976 used to create new gadget', item_type='story', url='http://tech.mattmillman.com/projects/an-intel-mcs-48-based-dual-temperature-sensor/', parent=None, text=None)
+Item(by='noexani', descendants=1, kids=[24809052], score=3, time=1602931517, title='An Intel MCS-48 based dual temperature sensor', item_type='story', url='http://tech.mattmillman.com/projects/an-intel-mcs-48-based-dual-temperature-sensor/', parent=None, text=None)

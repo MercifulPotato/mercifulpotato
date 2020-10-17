@@ -1,0 +1,1 @@
+Item(by='moonchild', descendants=None, kids=[24813114], score=None, time=1602965521, title=None, item_type='comment', url=None, parent=24808027, text='Reference counting is still GC, but I stand by what I said that the majority of all GC research goes into java.  The GP was talking about using a tracing GC—like java uses—in nim; which I argue against.')

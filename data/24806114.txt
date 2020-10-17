@@ -1,1 +1,1 @@
-Item(by='pc86', descendants=None, kids=None, score=None, time=1602891882, title=None, item_type='comment', url=None, parent=24806076, text='<a href="https:&#x2F;&#x2F;www.atlassian.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.atlassian.com&#x2F;</a>')
+Item(by='pc86', descendants=None, kids=[24811502], score=None, time=1602891882, title=None, item_type='comment', url=None, parent=24806076, text='<a href="https:&#x2F;&#x2F;www.atlassian.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.atlassian.com&#x2F;</a>')

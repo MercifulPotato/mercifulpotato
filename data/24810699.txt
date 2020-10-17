@@ -1,0 +1,1 @@
+Item(by='shorts_theory', descendants=None, kids=None, score=None, time=1602948687, title=None, item_type='comment', url=None, parent=24809193, text='I don’t think the Jetson nano even has a DL accelerator, so I could see the Google SBC achieving much better INT8 inference performance. The Jetson has a CUDA capable GPU, so the comparison is kind of apples and oranges.')

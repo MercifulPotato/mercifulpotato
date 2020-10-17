@@ -1,1 +1,1 @@
-Item(by='neilv', descendants=None, kids=None, score=None, time=1602889189, title=None, item_type='comment', url=None, parent=24805068, text='I&#x27;d like to suggest that, if one helps others naturally, the &quot;word will get back to them&quot; part isn&#x27;t a consideration.')
+Item(by='neilv', descendants=None, kids=[24812205], score=None, time=1602889189, title=None, item_type='comment', url=None, parent=24805068, text='I&#x27;d like to suggest that, if one helps others naturally, the &quot;word will get back to them&quot; part isn&#x27;t a consideration.')

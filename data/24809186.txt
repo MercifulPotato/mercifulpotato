@@ -1,1 +1,1 @@
-Item(by='matejmecka', descendants=None, kids=None, score=None, time=1602933598, title=None, item_type='comment', url=None, parent=24808755, text='Is this going to be one of the killed by Google projects or can we only hope that it&#x27;ll be alive')
+Item(by='matejmecka', descendants=None, kids=[24810438, 24810324], score=None, time=1602933598, title=None, item_type='comment', url=None, parent=24808755, text='Is this going to be one of the killed by Google projects or can we only hope that it&#x27;ll be alive')

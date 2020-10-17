@@ -1,1 +1,1 @@
-Item(by='gschier', descendants=3, kids=[24807647, 24806546], score=14, time=1602879322, title='Smaller Docker Images Using Multi-Stage Builds', item_type='story', url='https://codesalad.dev/blog/smaller-docker-images-using-multi-stage-builds-8', parent=None, text=None)
+Item(by='gschier', descendants=3, kids=[24806546, 24807647], score=17, time=1602879322, title='Smaller Docker Images Using Multi-Stage Builds', item_type='story', url='https://codesalad.dev/blog/smaller-docker-images-using-multi-stage-builds-8', parent=None, text=None)
