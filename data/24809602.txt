@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=None, kids=None, score=None, time=1602939366, title=None, item_type='comment', url=None, parent=24805717, text='The example program&#x27;s safety review missed UB triggered by the count potentially overflowing (depending on input). My answer: yes it does.')

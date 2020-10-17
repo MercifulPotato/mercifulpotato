@@ -1,1 +1,1 @@
-Item(by='rapferreira', descendants=None, kids=None, score=None, time=1602917850, title=None, item_type='comment', url=None, parent=24805916, text='Thank you that didn&#x27;t take 6 minutes to read, very good and informative and helpful.')
+Item(by='rapferreira', descendants=None, kids=[24808958], score=None, time=1602917850, title=None, item_type='comment', url=None, parent=24805916, text='Thank you that didn&#x27;t take 6 minutes to read, very good and informative and helpful.')

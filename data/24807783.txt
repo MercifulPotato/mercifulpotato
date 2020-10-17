@@ -1,1 +1,1 @@
-Item(by='thallium205', descendants=None, kids=None, score=None, time=1602914883, title=None, item_type='comment', url=None, parent=24805569, text='How would you even know if a drone is in the sky?  Many can operate very high in the air that would never be detected.')
+Item(by='thallium205', descendants=None, kids=[24809072], score=None, time=1602914883, title=None, item_type='comment', url=None, parent=24805569, text='How would you even know if a drone is in the sky?  Many can operate very high in the air that would never be detected.')

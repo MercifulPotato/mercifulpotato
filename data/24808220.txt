@@ -1,1 +1,1 @@
-Item(by='coderspirit', descendants=1, kids=[24808228], score=1, time=1602920943, title='Introducing Avatar-CLI', item_type='story', url='https://blog.coderspirit.xyz/blog/2020/08/22/introducing-avatar-cli/', parent=None, text=None)
+Item(by='coderspirit', descendants=1, kids=[24808228], score=1, time=1602920943, title='Introducing Avatar-CLI: run containerized cli applications', item_type='story', url='https://blog.coderspirit.xyz/blog/2020/08/22/introducing-avatar-cli/', parent=None, text=None)

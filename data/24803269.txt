@@ -1,1 +1,1 @@
-Item(by='black_puppydog', descendants=None, kids=None, score=None, time=1602870958, title=None, item_type='comment', url=None, parent=24801188, text='Huh, gotta check that out then I guess? I was going off &quot;Enemy of the State&quot; :P')
+Item(by='black_puppydog', descendants=None, kids=[24808631], score=None, time=1602870958, title=None, item_type='comment', url=None, parent=24801188, text='Huh, gotta check that out then I guess? I was going off &quot;Enemy of the State&quot; :P')

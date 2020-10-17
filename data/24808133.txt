@@ -1,1 +1,1 @@
-Item(by='tromp', descendants=None, kids=None, score=None, time=1602919759, title=None, item_type='comment', url=None, parent=24808066, text='Well, if you&#x27;re free to pick countries with low energy demands, then I&#x27;m sure it&#x27;s many more than 3 countries put together.')
+Item(by='tromp', descendants=None, kids=[24808475], score=None, time=1602919759, title=None, item_type='comment', url=None, parent=24808066, text='Well, if you&#x27;re free to pick countries with low energy demands, then I&#x27;m sure it&#x27;s many more than 3 countries put together.')

@@ -1,1 +1,1 @@
-Item(by='fabrizio_italia', descendants=0, kids=None, score=2, time=1602889904, title='Neural Databases', item_type='story', url='https://twitter.com/fabreetseo/status/1317068719173009408', parent=None, text=None)
+Item(by='fabrizio_italia', descendants=16, kids=[24808589, 24808947, 24808552], score=67, time=1602889904, title='Neural Databases', item_type='story', url='https://arxiv.org/abs/2010.06973', parent=None, text=None)

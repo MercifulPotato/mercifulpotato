@@ -1,1 +1,1 @@
-Item(by='Teever', descendants=None, kids=None, score=None, time=1602882880, title=None, item_type='comment', url=None, parent=24801737, text='Dude, dogs hump inanimate objects.  Sooner or later a pair of patented dogs will breed without any human being involved.<p>What then?')
+Item(by='Teever', descendants=None, kids=[24808948], score=None, time=1602882880, title=None, item_type='comment', url=None, parent=24801737, text='Dude, dogs hump inanimate objects.  Sooner or later a pair of patented dogs will breed without any human being involved.<p>What then?')

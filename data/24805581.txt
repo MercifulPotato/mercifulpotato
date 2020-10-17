@@ -1,1 +1,1 @@
-Item(by='minxomat', descendants=None, kids=None, score=None, time=1602886823, title=None, item_type='comment', url=None, parent=24805452, text='CTE are no longer definitive optimization barriers, as recent Postgres versions will always inline side effect free CTE.')
+Item(by='minxomat', descendants=None, kids=[24808685], score=None, time=1602886823, title=None, item_type='comment', url=None, parent=24805452, text='CTE are no longer definitive optimization barriers, as recent Postgres versions will always inline side effect free CTE.')

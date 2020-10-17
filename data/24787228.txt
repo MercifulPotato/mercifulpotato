@@ -1,1 +1,1 @@
-Item(by='gjvc', descendants=6, kids=[24807699, 24806939, 24806962], score=27, time=1602760216, title='John Cocke, the father of RISC architecture', item_type='story', url='https://www.ibm.com/ibm/history/ibm100/us/en/icons/risc/', parent=None, text=None)
+Item(by='gjvc', descendants=12, kids=[24808188, 24808945, 24806939, 24806962, 24807699], score=49, time=1602760216, title='John Cocke, the father of RISC architecture', item_type='story', url='https://www.ibm.com/ibm/history/ibm100/us/en/icons/risc/', parent=None, text=None)

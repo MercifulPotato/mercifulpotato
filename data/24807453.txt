@@ -1,1 +1,1 @@
-Item(by='luord', descendants=0, kids=None, score=2, time=1602908299, title='Fixing Linux filesystem performance regressions', item_type='story', url='https://engineering.linkedin.com/blog/2020/fixing-linux-filesystem-performance-regressions', parent=None, text=None)
+Item(by='luord', descendants=0, kids=None, score=3, time=1602908299, title='Fixing Linux filesystem performance regressions', item_type='story', url='https://engineering.linkedin.com/blog/2020/fixing-linux-filesystem-performance-regressions', parent=None, text=None)

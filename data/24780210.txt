@@ -1,1 +1,1 @@
-Item(by='Hooke', descendants=0, kids=None, score=3, time=1602701797, title='A Scientist’s Reckoning with the Cruelty of Chance', item_type='story', url='https://www.newyorker.com/culture/personal-history/a-scientists-reckoning-with-the-cruelty-of-chance', parent=None, text=None)
+Item(by='Hooke', descendants=2, kids=[24808163, 24808199], score=26, time=1602701797, title='A Scientist’s Reckoning with the Cruelty of Chance', item_type='story', url='https://www.newyorker.com/culture/personal-history/a-scientists-reckoning-with-the-cruelty-of-chance', parent=None, text=None)

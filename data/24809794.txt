@@ -1,0 +1,1 @@
+Item(by='Tipewryter', descendants=None, kids=None, score=None, time=1602941050, title=None, item_type='comment', url=None, parent=24809063, text='SQL is how I want to talk to my storage abstraction layer. And I want it to do that one thing and do it well.<p>Syncing to a server is another issue and I am not sure if it should be part of the same library.')

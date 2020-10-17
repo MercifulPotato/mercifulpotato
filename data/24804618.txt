@@ -1,1 +1,1 @@
-Item(by='JJMcJ', descendants=None, kids=None, score=None, time=1602879379, title=None, item_type='comment', url=None, parent=24802741, text='It&#x27;s always seemed to me that a company that both audits and provides consulting services has a conflict of interest.')
+Item(by='JJMcJ', descendants=None, kids=[24808535], score=None, time=1602879379, title=None, item_type='comment', url=None, parent=24802741, text='It&#x27;s always seemed to me that a company that both audits and provides consulting services has a conflict of interest.')

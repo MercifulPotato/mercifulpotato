@@ -1,0 +1,1 @@
+Item(by='icebraining', descendants=None, kids=None, score=None, time=1602940309, title=None, item_type='comment', url=None, parent=24806983, text='Can&#x27;t say I blame python or even the library; why is the code even trying to convert every string in an object, instead of just the keys that are supposed to contain dates?! Seems like a poor hack, imho.')

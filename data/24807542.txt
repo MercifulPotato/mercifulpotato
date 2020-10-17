@@ -1,1 +1,1 @@
-Item(by='RicardoLuis0', descendants=0, kids=None, score=5, time=1602910027, title='Building a 10BASE5 “Thick Ethernet” Network (2012)', item_type='story', url='http://tech.mattmillman.com/projects/10base5/', parent=None, text=None)
+Item(by='RicardoLuis0', descendants=16, kids=[24809575, 24809989, 24809853, 24809059, 24808519, 24809056], score=36, time=1602910027, title='Building a 10BASE5 “Thick Ethernet” Network (2012)', item_type='story', url='http://tech.mattmillman.com/projects/10base5/', parent=None, text=None)

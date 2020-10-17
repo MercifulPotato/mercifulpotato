@@ -1,1 +1,1 @@
-Item(by='pvg', descendants=None, kids=None, score=None, time=1602921210, title=None, item_type='comment', url=None, parent=24808226, text='You can definitely turn off the random reboot with policies, on Pro and up.')
+Item(by='pvg', descendants=None, kids=[24808389], score=None, time=1602921210, title=None, item_type='comment', url=None, parent=24808226, text='You can definitely turn off the random reboot with policies, on Pro and up.')

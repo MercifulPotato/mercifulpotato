@@ -1,1 +1,1 @@
-Item(by='meanie', descendants=0, kids=None, score=2, time=1602911476, title='The World Henry Ford Made', item_type='story', url='http://bostonreview.net/class-inequality-politics/justin-h-vassallo-world-henry-ford-made', parent=None, text=None)
+Item(by='meanie', descendants=1, kids=[24809951], score=17, time=1602911476, title='The World Henry Ford Made', item_type='story', url='http://bostonreview.net/class-inequality-politics/justin-h-vassallo-world-henry-ford-made', parent=None, text=None)

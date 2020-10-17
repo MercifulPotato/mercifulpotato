@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1602881552, title=None, item_type='comment', url=None, parent=24803423, text='But would you consider it reasonable to force people into lockdowns and quarantines for the cold?')
+Item(by='tinus_hn', descendants=None, kids=[24809477], score=None, time=1602881552, title=None, item_type='comment', url=None, parent=24803423, text='But would you consider it reasonable to force people into lockdowns and quarantines for the cold?')

@@ -1,0 +1,1 @@
+Item(by='skohan', descendants=None, kids=[24808781], score=None, time=1602925455, title=None, item_type='comment', url=None, parent=24808610, text='&gt; enable WSL and work from there<p>What do you mean?  You can set up a bootable Linux install from Windows, or just use WSL instead of booting Linux?')
