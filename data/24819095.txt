@@ -1,0 +1,1 @@
+Item(by='tijsvd', descendants=None, kids=[24819235], score=None, time=1603039261, title=None, item_type='comment', url=None, parent=24818953, text='How is it the default in Rust? Like C++, the Rust stdlib gives you both options (std::path::Path::metadata). It boils down to calling stat vs fstat (on posix systems), and it&#x27;s up to the programmer to make the right choice.')

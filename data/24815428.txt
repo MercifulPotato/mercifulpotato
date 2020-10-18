@@ -1,1 +1,1 @@
-Item(by='AlexCoventry', descendants=None, kids=None, score=None, time=1602993356, title=None, item_type='comment', url=None, parent=24814889, text='The web client has been pretty seamless, for me.')
+Item(by='AlexCoventry', descendants=None, kids=[24820565], score=None, time=1602993356, title=None, item_type='comment', url=None, parent=24814889, text='The web client has been pretty seamless, for me.')

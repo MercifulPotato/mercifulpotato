@@ -1,1 +1,1 @@
-Item(by='postalrat', descendants=None, kids=None, score=None, time=1602869115, title=None, item_type='comment', url=None, parent=24802438, text='I don&#x27;t see those things part of a progression closer to the singularity.')
+Item(by='postalrat', descendants=None, kids=[24818425], score=None, time=1602869115, title=None, item_type='comment', url=None, parent=24802438, text='I don&#x27;t see those things part of a progression closer to the singularity.')

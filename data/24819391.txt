@@ -1,0 +1,1 @@
+Item(by='hannofcart', descendants=None, kids=[24819951], score=None, time=1603041433, title=None, item_type='comment', url=None, parent=24819218, text='This statement is a bit confusing: are you saying that there is such a thing as too much code reuse? That it should be necessarily a bit difficult to integrate a third party library in your codebase?')

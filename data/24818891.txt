@@ -1,0 +1,1 @@
+Item(by='ufo', descendants=None, kids=None, score=None, time=1603037599, title=None, item_type='comment', url=None, parent=24817510, text='The Lua benchmarks are a bit funny because many of them were tuned for LuaJIT, including tricks such as eval-based metaprogramming which work well in a JIT.')

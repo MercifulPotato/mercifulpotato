@@ -1,0 +1,1 @@
+Item(by='m463', descendants=None, kids=None, score=None, time=1603039021, title=None, item_type='comment', url=None, parent=24818888, text='I turned off everything I could in firefox and it still phoned home all the time.<p>Finally I just firewalled it off:<p><pre><code>  firefox.settings.services.mozilla.com\n  shavar.services.mozilla.com\n  aus5.mozilla.org</code></pre>')

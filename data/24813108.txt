@@ -1,1 +1,1 @@
-Item(by='ginko', descendants=None, kids=None, score=None, time=1602966953, title=None, item_type='comment', url=None, parent=24811752, text='Why would you ever involve a credit card processor in this? Can&#x27;t you just do a wire transfer?')
+Item(by='ginko', descendants=None, kids=[24818221], score=None, time=1602966953, title=None, item_type='comment', url=None, parent=24811752, text='Why would you ever involve a credit card processor in this? Can&#x27;t you just do a wire transfer?')

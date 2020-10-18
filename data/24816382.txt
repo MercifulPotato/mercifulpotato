@@ -1,1 +1,1 @@
-Item(by='warabe', descendants=None, kids=None, score=None, time=1603010666, title=None, item_type='comment', url=None, parent=24815668, text='It’s quite popular I believe. \nYou can buy one anywhere. Quality varies, though. \nWhy did you ask me that?')
+Item(by='warabe', descendants=None, kids=[24818519], score=None, time=1603010666, title=None, item_type='comment', url=None, parent=24815668, text='It’s quite popular I believe. \nYou can buy one anywhere. Quality varies, though. \nWhy did you ask me that?')

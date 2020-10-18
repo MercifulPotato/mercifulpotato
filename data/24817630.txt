@@ -1,1 +1,1 @@
-Item(by='snird', descendants=0, kids=None, score=13, time=1603026752, title='Show HN: Data engineering learning path with recommended resources', item_type='story', url='https://awesomedataengineering.com', parent=None, text=None)
+Item(by='snird', descendants=18, kids=[24818291, 24818200, 24818481, 24820249, 24819733, 24818649, 24819121, 24818824, 24819453], score=149, time=1603026752, title='Data engineering learning path with recommended resources', item_type='story', url='https://awesomedataengineering.com', parent=None, text=None)

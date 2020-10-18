@@ -1,0 +1,1 @@
+Item(by='dgacmu', descendants=None, kids=None, score=None, time=1603039570, title=None, item_type='comment', url=None, parent=24819056, text='The rust code gets the metadata from the opened file handle, which internally uses fstat (on Unix).<p>it would have been just as possible to write the code incorrectly by using the path version to get metadata.')

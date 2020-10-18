@@ -1,0 +1,1 @@
+Item(by='megous', descendants=None, kids=None, score=None, time=1603035246, title=None, item_type='comment', url=None, parent=24818273, text='ust is a timestamp. usg is probably some kind of HMAC (q || ust, secret) so that only google can generate the redirecting urls. If you change the usg, the redirection fails. The same happens if you change ust or q.')

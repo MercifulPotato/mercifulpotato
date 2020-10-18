@@ -1,0 +1,1 @@
+Item(by='Filligree', descendants=None, kids=[24819095, 24819056], score=None, time=1603038197, title=None, item_type='comment', url=None, parent=24818903, text='The Rust version in fact doesn&#x27;t have that problem. It opens the file, then checks the type of the open file.<p>You could do the same in C++, but in Rust it&#x27;s the default. So...')

@@ -1,1 +1,1 @@
-Item(by='wozer', descendants=None, kids=None, score=None, time=1602924420, title=None, item_type='comment', url=None, parent=24808432, text='Usually I would agree, but a few days ago, my Pro machine did a forced reboot, for the first time.')
+Item(by='wozer', descendants=None, kids=[24819456], score=None, time=1602924420, title=None, item_type='comment', url=None, parent=24808432, text='Usually I would agree, but a few days ago, my Pro machine did a forced reboot, for the first time.')

@@ -1,1 +1,1 @@
-Item(by='OJFord', descendants=0, kids=None, score=2, time=1603015844, title='Blue Peter shows off a phone with no cable (1976; video)', item_type='story', url='https://twitter.com/i/status/1316314050515664898', parent=None, text=None)
+Item(by='OJFord', descendants=2, kids=[24818856], score=14, time=1603015844, title='Blue Peter shows off a phone with no cable (1976; video)', item_type='story', url='https://twitter.com/i/status/1316314050515664898', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='burntsushi', descendants=None, kids=[24820369], score=None, time=1603047313, title=None, item_type='comment', url=None, parent=24820054, text='The problem is that walkdir isn&#x27;t really an alternative to globwalk. It&#x27;s only a good alternative in this specific simple case. globwalk even depends on walkdir. :)')
