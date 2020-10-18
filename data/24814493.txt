@@ -1,0 +1,1 @@
+Item(by='Negitivefrags', descendants=None, kids=[24814604], score=None, time=1602979371, title=None, item_type='comment', url=None, parent=24813795, text='If you are using postgres, configure it to keep the WAL logs for at least 24 hours.<p>They could have used point-in-time recovery to not lose any data from this at all.')

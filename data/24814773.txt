@@ -1,0 +1,1 @@
+Item(by='minusf', descendants=None, kids=None, score=None, time=1602982583, title=None, item_type='comment', url=None, parent=24814421, text='postgresql can use ICU and on some platforms it&#x27;s the only way to get utf8 collations.')

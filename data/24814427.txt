@@ -1,0 +1,1 @@
+Item(by='cortesoft', descendants=None, kids=[24814453], score=None, time=1602978762, title=None, item_type='comment', url=None, parent=24814396, text='It likely doesn&#x27;t... it probably reads it from the environment or a config role, and since it was in production it had the production credentials.')

@@ -1,1 +1,1 @@
-Item(by='1f60c', descendants=None, kids=None, score=None, time=1602958476, title=None, item_type='comment', url=None, parent=24810773, text='The other day, I found a household appliance (I don&#x27;t remember what kind), that boasted 16 gigs of RAM.')
+Item(by='1f60c', descendants=None, kids=[24814535, 24813938], score=None, time=1602958476, title=None, item_type='comment', url=None, parent=24810773, text='The other day, I found a household appliance (I don&#x27;t remember what kind), that boasted 16 gigs of RAM.')

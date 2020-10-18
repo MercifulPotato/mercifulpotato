@@ -1,1 +1,1 @@
-Item(by='brundolf', descendants=None, kids=None, score=None, time=1602964303, title=None, item_type='comment', url=None, parent=24812582, text='Seeing as JavaScript was designed and implemented in two weeks, I&#x27;m betting this is the answer')
+Item(by='brundolf', descendants=None, kids=[24813254], score=None, time=1602964303, title=None, item_type='comment', url=None, parent=24812582, text='Seeing as JavaScript was designed and implemented in two weeks, I&#x27;m betting this is the answer')

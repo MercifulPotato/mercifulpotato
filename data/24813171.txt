@@ -1,0 +1,1 @@
+Item(by='sharpneli', descendants=None, kids=[24813649], score=None, time=1602967307, title=None, item_type='comment', url=None, parent=24813029, text='Fixed width instructions allow trivial parallel instruction decoding.<p>With variable length instructions one must decode a previous one to figure out where the next one will start.')

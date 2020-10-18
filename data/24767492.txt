@@ -1,1 +1,1 @@
-Item(by='lxe', descendants=None, kids=[24771313, 24768529, 24783314, 24767727], score=None, time=1602608738, title=None, item_type='comment', url=None, parent=24766682, text='How did we end up in a place where we need react, react-helmet, and graphql to build a static blog?')
+Item(by='lxe', descendants=None, kids=[24771313, 24768529, 24767727, 24783314], score=None, time=1602608738, title=None, item_type='comment', url=None, parent=24766682, text='How did we end up in a place where we need react, react-helmet, and graphql to build a static blog?')

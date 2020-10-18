@@ -1,1 +1,1 @@
-Item(by='cblconfederate', descendants=None, kids=None, score=None, time=1602919749, title=None, item_type='comment', url=None, parent=24797645, text='yeah conferences still exist (eventhough they are more of a leisure activity in recent decades) , but the einsteins are not there')
+Item(by='cblconfederate', descendants=None, kids=[24813679], score=None, time=1602919749, title=None, item_type='comment', url=None, parent=24797645, text='yeah conferences still exist (eventhough they are more of a leisure activity in recent decades) , but the einsteins are not there')

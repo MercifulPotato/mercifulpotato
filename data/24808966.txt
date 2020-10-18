@@ -1,1 +1,1 @@
-Item(by='secondcoming', descendants=None, kids=None, score=None, time=1602930027, title=None, item_type='comment', url=None, parent=24807944, text='It&#x27;s quite obvious that the poster was referring to codegen.')
+Item(by='secondcoming', descendants=None, kids=[24812811], score=None, time=1602930027, title=None, item_type='comment', url=None, parent=24807944, text='It&#x27;s quite obvious that the poster was referring to codegen.')

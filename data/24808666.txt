@@ -1,1 +1,1 @@
-Item(by='martin_bech', descendants=None, kids=None, score=None, time=1602925674, title=None, item_type='comment', url=None, parent=24808654, text='OSX, it just works, even more than windows.')
+Item(by='martin_bech', descendants=None, kids=[24813609], score=None, time=1602925674, title=None, item_type='comment', url=None, parent=24808654, text='OSX, it just works, even more than windows.')

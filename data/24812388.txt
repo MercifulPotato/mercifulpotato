@@ -1,1 +1,1 @@
-Item(by='_Microft', descendants=None, kids=None, score=None, time=1602962086, title=None, item_type='comment', url=None, parent=24811976, text='Not really. It sounds like Newspeak.')
+Item(by='_Microft', descendants=None, kids=[24813677], score=None, time=1602962086, title=None, item_type='comment', url=None, parent=24811976, text='Not really. It sounds like Newspeak.')

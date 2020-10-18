@@ -1,1 +1,1 @@
-Item(by='cutemonster', descendants=None, kids=None, score=None, time=1602935315, title=None, item_type='comment', url=None, parent=24807902, text='How do you do js load balancing? Trying different hostnames via js?')
+Item(by='cutemonster', descendants=None, kids=[24814015], score=None, time=1602935315, title=None, item_type='comment', url=None, parent=24807902, text='How do you do js load balancing? Trying different hostnames via js?')

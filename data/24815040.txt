@@ -1,0 +1,1 @@
+Item(by='spullara', descendants=None, kids=None, score=None, time=1602987219, title=None, item_type='comment', url=None, parent=24814863, text='Snowflake (and others) will let you either pull that in and query it or as an external query that queries it in place. You can, if it makes sense for your use case, now just T from the data lake.')

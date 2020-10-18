@@ -1,1 +1,1 @@
-Item(by='marcusarmstrong', descendants=None, kids=None, score=None, time=1602964431, title=None, item_type='comment', url=None, parent=24812500, text='A great question for the folks who actually do CPU design! As somebody who writes JS rather frequently I’m not complaining.')
+Item(by='marcusarmstrong', descendants=None, kids=[24815039], score=None, time=1602964431, title=None, item_type='comment', url=None, parent=24812500, text='A great question for the folks who actually do CPU design! As somebody who writes JS rather frequently I’m not complaining.')

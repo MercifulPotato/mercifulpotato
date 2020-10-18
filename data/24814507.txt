@@ -1,0 +1,1 @@
+Item(by='moron4hire', descendants=None, kids=None, score=None, time=1602979498, title=None, item_type='comment', url=None, parent=24814266, text='Might be GPU blacklisting. I&#x27;ve encountered it with Chrome on older Samsung hardware. Try force enabling hardware acceleration in chrome:&#x2F;&#x2F;flags or about:config?')

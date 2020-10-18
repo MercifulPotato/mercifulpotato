@@ -1,1 +1,1 @@
-Item(by='austincheney', descendants=None, kids=None, score=None, time=1602904985, title=None, item_type='comment', url=None, parent=24807196, text='&gt; Or maybe I’m just talking out of my ass here.<p>Only half so. It’s not that much harder.')
+Item(by='austincheney', descendants=None, kids=[24814059], score=None, time=1602904985, title=None, item_type='comment', url=None, parent=24807196, text='&gt; Or maybe I’m just talking out of my ass here.<p>Only half so. It’s not that much harder.')

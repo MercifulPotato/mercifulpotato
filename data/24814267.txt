@@ -1,0 +1,1 @@
+Item(by='mgauto', descendants=None, kids=None, score=None, time=1602977321, title=None, item_type='comment', url=None, parent=24814192, text='There is no certified MySQL STIG yet. There is one for Postgres though.<p>STIGs are hardening guidelines used the US Department of Defense.')

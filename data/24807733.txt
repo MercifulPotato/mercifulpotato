@@ -1,1 +1,1 @@
-Item(by='elchin', descendants=None, kids=None, score=None, time=1602914133, title=None, item_type='comment', url=None, parent=24807504, text='Not killed, but replaced by Location Sharing?')
+Item(by='elchin', descendants=None, kids=[24813603], score=None, time=1602914133, title=None, item_type='comment', url=None, parent=24807504, text='Not killed, but replaced by Location Sharing?')

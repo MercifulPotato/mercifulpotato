@@ -1,1 +1,1 @@
-Item(by='cma', descendants=None, kids=None, score=None, time=1602961469, title=None, item_type='comment', url=None, parent=24810182, text='0.1% for flu is of symptomatic infections.  I think covid would get another near ~2X multiplier under the same measure.')
+Item(by='cma', descendants=None, kids=[24813117], score=None, time=1602961469, title=None, item_type='comment', url=None, parent=24810182, text='0.1% for flu is of symptomatic infections.  I think covid would get another near ~2X multiplier under the same measure.')

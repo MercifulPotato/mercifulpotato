@@ -1,0 +1,1 @@
+Item(by='guenthert', descendants=None, kids=None, score=None, time=1602969059, title=None, item_type='comment', url=None, parent=24812937, text='Que?  It is claimed to be lock free, not race condition free (now if it weren&#x27;t <i>also</i> race condition free, no one would care).  In the absence of locks it <i>is</i> lock-free.  Not sure, what you were asking.')

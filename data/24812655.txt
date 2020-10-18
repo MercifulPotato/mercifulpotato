@@ -1,1 +1,1 @@
-Item(by='softblush', descendants=None, kids=None, score=None, time=1602964249, title=None, item_type='comment', url=None, parent=24812615, text='Isolated from the rest of the world forever? Probably not worth it')
+Item(by='softblush', descendants=None, kids=[24813151, 24812957], score=None, time=1602964249, title=None, item_type='comment', url=None, parent=24812615, text='Isolated from the rest of the world forever? Probably not worth it')

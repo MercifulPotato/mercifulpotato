@@ -1,0 +1,1 @@
+Item(by='emerongi', descendants=None, kids=None, score=None, time=1602979790, title=None, item_type='comment', url=None, parent=24814491, text='I wrote a migration that dropped columns for a functionality that was no longer to be used.<p>Then the client wanted that functionality back. Oops.')

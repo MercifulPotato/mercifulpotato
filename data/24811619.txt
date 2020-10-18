@@ -1,1 +1,1 @@
-Item(by='xorcist', descendants=None, kids=None, score=None, time=1602956041, title=None, item_type='comment', url=None, parent=24808933, text='You would think that, until you try to use ServiceNow.')
+Item(by='xorcist', descendants=None, kids=[24813511], score=None, time=1602956041, title=None, item_type='comment', url=None, parent=24808933, text='You would think that, until you try to use ServiceNow.')

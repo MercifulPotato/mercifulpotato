@@ -1,0 +1,1 @@
+Item(by='a-b', descendants=None, kids=[24814426], score=None, time=1602978688, title=None, item_type='comment', url=None, parent=24813795, text='Recreate and seed test database is totally ok in RoR world.<p>I think the main reason of this accident is lack of separation between development and operations.')

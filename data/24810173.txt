@@ -1,1 +1,1 @@
-Item(by='amirathi', descendants=5, kids=[24810978, 24810863, 24810949], score=5, time=1602944662, title='Atlassian ends support for all server products', item_type='story', url='https://www.atlassian.com/blog/announcements/journey-to-cloud', parent=None, text=None)
+Item(by='amirathi', descendants=5, kids=[24810863, 24810978, 24810949], score=7, time=1602944662, title='Atlassian ends support for all server products', item_type='story', url='https://www.atlassian.com/blog/announcements/journey-to-cloud', parent=None, text=None)

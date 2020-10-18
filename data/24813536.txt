@@ -1,0 +1,1 @@
+Item(by='Fnoord', descendants=None, kids=[24814681, 24814317], score=None, time=1602970127, title=None, item_type='comment', url=None, parent=24812983, text='Wireguard doesn&#x27;t support MFA so it isn&#x27;t complaint to the frameworks we require (I guess Tailscale is). Tho you can make a SSH proxy with MFA if you enforce MFA via PAM (e.g. FIDO2 or TOTP are both possible).')
