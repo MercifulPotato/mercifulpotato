@@ -1,1 +1,1 @@
-Item(by='colinprince', descendants=0, kids=None, score=3, time=1602920170, title='Springtime Everywhere', item_type='story', url='https://reallifemag.com/springtime-everywhere/', parent=None, text=None)
+Item(by='colinprince', descendants=4, kids=[24815468, 24815216, 24815185], score=9, time=1602920170, title='Springtime Everywhere', item_type='story', url='https://reallifemag.com/springtime-everywhere/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='ir123', descendants=None, kids=None, score=None, time=1603005195, title=None, item_type='comment', url=None, parent=24816023, text='If managed DBs on DigitalOcean are anything like those on AWS, you can not run commands directly on them since SSH is prohibited. EDIT: there&#x27;s also the deal with different credentials for dev and prod envs.')

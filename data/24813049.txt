@@ -1,1 +1,1 @@
-Item(by='morsch', descendants=None, kids=None, score=None, time=1602966658, title=None, item_type='comment', url=None, parent=24812932, text='Our 5 year old XPS 13 isn&#x27;t showing any signs of wear and tear. Maybe they were built better back then.')
+Item(by='morsch', descendants=None, kids=[24815687], score=None, time=1602966658, title=None, item_type='comment', url=None, parent=24812932, text='Our 5 year old XPS 13 isn&#x27;t showing any signs of wear and tear. Maybe they were built better back then.')

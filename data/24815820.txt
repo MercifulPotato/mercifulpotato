@@ -1,0 +1,1 @@
+Item(by='thdrdt', descendants=None, kids=[24816096, 24816120], score=None, time=1603000936, title=None, item_type='comment', url=None, parent=24815400, text='When a server runs out of memory a lot of strange things can happen.<p>It can even fail while in the middle of a transaction commit.<p>So transactions won&#x27;t fix this.')

@@ -1,0 +1,1 @@
+Item(by='lukego', descendants=None, kids=None, score=None, time=1603010055, title=None, item_type='comment', url=None, parent=24815323, text='I&#x27;ve ported Squeak Smalltalk to run on a Forth firmware substrate (OLPC XO.) That&#x27;s not bootstrapping but it is a satisfyingly compact high-level OS.')

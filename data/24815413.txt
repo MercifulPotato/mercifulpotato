@@ -1,0 +1,1 @@
+Item(by='freeone3000', descendants=None, kids=None, score=None, time=1602993146, title=None, item_type='comment', url=None, parent=24815109, text='This uses existing rounding modes with pre-set flags, so it costs 1 entry in the LUT and a small number of muxes, one per flag, assuming the worst case.')

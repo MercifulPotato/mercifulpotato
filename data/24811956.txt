@@ -1,1 +1,1 @@
-Item(by='ianlevesque', descendants=None, kids=[24813421, 24814252, 24812447, 24812867], score=None, time=1602958633, title=None, item_type='comment', url=None, parent=24809381, text='We could call it something like &quot;Common Language Infrastructure&quot; or COM maybe.')
+Item(by='ianlevesque', descendants=None, kids=[24813421, 24812867, 24814252, 24812447], score=None, time=1602958633, title=None, item_type='comment', url=None, parent=24809381, text='We could call it something like &quot;Common Language Infrastructure&quot; or COM maybe.')

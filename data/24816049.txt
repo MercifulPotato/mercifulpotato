@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=None, score=None, time=1603004761, title=None, item_type='comment', url=None, parent=24813836, text='WASM would have at least one f64 -&gt; int32 conversion routine with the same semantics as JS, if possibly not the only one.')

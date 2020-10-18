@@ -1,0 +1,1 @@
+Item(by='stepbeek', descendants=None, kids=[24816386], score=None, time=1603007148, title=None, item_type='comment', url=None, parent=24815340, text='If a team doesn’t have the engineering know how to split a monolith into distinct services in a straightforward fashion, then I’m not sure that team will have the chops to start with microservices.')

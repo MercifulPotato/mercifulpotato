@@ -1,0 +1,1 @@
+Item(by='justinclift', descendants=None, kids=[24816414], score=None, time=1602995884, title=None, item_type='comment', url=None, parent=24812267, text='&gt; triple-redundant ceph-based storage<p>Just to point out, that&#x27;s still not a <i>backup</i> system.  That&#x27;s only one software bug (in your systems or theirs) away from having no working current data set. ;)')

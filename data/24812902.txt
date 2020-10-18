@@ -1,1 +1,1 @@
-Item(by='twirlock', descendants=None, kids=None, score=None, time=1602965688, title=None, item_type='comment', url=None, parent=24812853, text='When I realized this, I immediately stopped reading and made a mental note to avoid the site in the future.')
+Item(by='twirlock', descendants=None, kids=[24815277], score=None, time=1602965688, title=None, item_type='comment', url=None, parent=24812853, text='When I realized this, I immediately stopped reading and made a mental note to avoid the site in the future.')

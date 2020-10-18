@@ -1,1 +1,1 @@
-Item(by='btashton', descendants=0, kids=None, score=3, time=1602984033, title='How Does a C Debugger Work?', item_type='story', url='https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work', parent=None, text=None)
+Item(by='btashton', descendants=12, kids=[24815630, 24816140, 24815721, 24815502, 24815401], score=58, time=1602984033, title='How Does a C Debugger Work? (2014)', item_type='story', url='https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work', parent=None, text=None)

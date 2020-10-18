@@ -1,1 +1,1 @@
-Item(by='meltyshev', descendants=0, kids=None, score=3, time=1602965678, title='Planka – an open-source self-hosted Trello-like app', item_type='story', url='https://github.com/plankanban/planka', parent=None, text=None)
+Item(by='meltyshev', descendants=0, kids=None, score=10, time=1602965678, title='Planka – an open-source self-hosted Trello-like app', item_type='story', url='https://github.com/plankanban/planka', parent=None, text=None)

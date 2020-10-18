@@ -1,1 +1,1 @@
-Item(by='ajmarcic', descendants=1, kids=[24811873], score=9, time=1602920730, title='The curious case of Romanian broadband', item_type='story', url='https://medium.com/cgo-benchmark/the-curious-case-of-romanian-broadband-c58291b2fcda', parent=None, text=None)
+Item(by='ajmarcic', descendants=13, kids=[24815701, 24811873, 24815552, 24815396], score=29, time=1602920730, title='The curious case of Romanian broadband', item_type='story', url='https://medium.com/cgo-benchmark/the-curious-case-of-romanian-broadband-c58291b2fcda', parent=None, text=None)

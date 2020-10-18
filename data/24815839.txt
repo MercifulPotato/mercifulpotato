@@ -1,0 +1,1 @@
+Item(by='pkulak', descendants=None, kids=[24816228, 24816205, 24815912, 24815913], score=None, time=1603001415, title=None, item_type='comment', url=None, parent=24815036, text='Yeah, but isn&#x27;t the whole point of ARM to be a reduced instruction set? How reduced are we, really, if we&#x27;re dedicating transistors to the quirks of a single language?')

@@ -1,1 +1,1 @@
-Item(by='GekkePrutser', descendants=None, kids=None, score=None, time=1602964302, title=None, item_type='comment', url=None, parent=24811439, text='And with gmail, <i>don&#x27;t be evil</i>. Lol were we fooled.')
+Item(by='GekkePrutser', descendants=None, kids=[24816127], score=None, time=1602964302, title=None, item_type='comment', url=None, parent=24811439, text='And with gmail, <i>don&#x27;t be evil</i>. Lol were we fooled.')

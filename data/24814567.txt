@@ -1,1 +1,1 @@
-Item(by='clouddrover', descendants=None, kids=None, score=None, time=1602979985, title=None, item_type='comment', url=None, parent=24812644, text='Volkswagen and Renault-Nissan EVs outsell Tesla in Europe. Hyundai is also close to outselling Tesla in Europe.')
+Item(by='clouddrover', descendants=None, kids=[24815745], score=None, time=1602979985, title=None, item_type='comment', url=None, parent=24812644, text='Volkswagen and Renault-Nissan EVs outsell Tesla in Europe. Hyundai is also close to outselling Tesla in Europe.')

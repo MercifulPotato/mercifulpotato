@@ -1,1 +1,1 @@
-Item(by='splatzone', descendants=None, kids=None, score=None, time=1602983461, title=None, item_type='comment', url=None, parent=24811653, text='Nice work, and I think the price is fair for such a small but useful feature')
+Item(by='splatzone', descendants=None, kids=[24815958], score=None, time=1602983461, title=None, item_type='comment', url=None, parent=24811653, text='Nice work, and I think the price is fair for such a small but useful feature')

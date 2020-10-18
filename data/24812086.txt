@@ -1,1 +1,1 @@
-Item(by='Nextgrid', descendants=None, kids=None, score=None, time=1602959618, title=None, item_type='comment', url=None, parent=24811976, text='Laser-induced rapid scheduled disassembly.')
+Item(by='Nextgrid', descendants=None, kids=[24815771], score=None, time=1602959618, title=None, item_type='comment', url=None, parent=24811976, text='Laser-induced rapid scheduled disassembly.')

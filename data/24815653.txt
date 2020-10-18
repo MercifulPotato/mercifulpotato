@@ -1,0 +1,1 @@
+Item(by='wolfgang000', descendants=None, kids=None, score=None, time=1602997329, title=None, item_type='comment', url=None, parent=24815000, text='I don&#x27;t believe having a massive repo with backups would be the ideal solution. Couldn&#x27;t you just upload the backup to an s3 bucket instead?')

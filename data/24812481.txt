@@ -1,1 +1,1 @@
-Item(by='colesantiago', descendants=None, kids=None, score=None, time=1602962916, title=None, item_type='comment', url=None, parent=24811592, text='turn on javascript?')
+Item(by='colesantiago', descendants=None, kids=[24814950], score=None, time=1602962916, title=None, item_type='comment', url=None, parent=24811592, text='turn on javascript?')
