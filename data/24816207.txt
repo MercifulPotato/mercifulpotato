@@ -1,1 +1,1 @@
-Item(by='aww_dang', descendants=0, kids=None, score=1, time=1603007451, title='China warns U.S. it may detain Americans over prosecutions', item_type='story', url='https://www.reuters.com/article/uk-usa-china-idUKKBN2720XN', parent=None, text=None)
+Item(by='aww_dang', descendants=1, kids=[24816537], score=2, time=1603007451, title='China warns U.S. it may detain Americans over prosecutions', item_type='story', url='https://www.reuters.com/article/uk-usa-china-idUKKBN2720XN', parent=None, text=None)

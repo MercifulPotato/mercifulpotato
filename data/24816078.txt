@@ -1,1 +1,1 @@
-Item(by='emteycz', descendants=None, kids=None, score=None, time=1603005431, title=None, item_type='comment', url=None, parent=24815768, text='Normally JS devs don&#x27;t really encounter these notorious problems, for many years now.')
+Item(by='emteycz', descendants=None, kids=[24816716], score=None, time=1603005431, title=None, item_type='comment', url=None, parent=24815768, text='Normally JS devs don&#x27;t really encounter these notorious problems, for many years now.')

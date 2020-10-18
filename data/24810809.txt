@@ -1,1 +1,1 @@
-Item(by='jleahy', descendants=None, kids=None, score=None, time=1602949482, title=None, item_type='comment', url=None, parent=24809595, text='In at least some locales tolower segfaults under that condition, in glibc at least.<p>(before anyone says that ‘in reality it’s probably fine’)')
+Item(by='jleahy', descendants=None, kids=[24817559], score=None, time=1602949482, title=None, item_type='comment', url=None, parent=24809595, text='In at least some locales tolower segfaults under that condition, in glibc at least.<p>(before anyone says that ‘in reality it’s probably fine’)')

@@ -1,1 +1,1 @@
-Item(by='chombier', descendants=None, kids=None, score=None, time=1602859116, title=None, item_type='comment', url=None, parent=24800947, text='For those wondering about the &quot;breathing technique&quot;, figure 2 has a link to a movie.')
+Item(by='chombier', descendants=None, kids=[24818008], score=None, time=1602859116, title=None, item_type='comment', url=None, parent=24800947, text='For those wondering about the &quot;breathing technique&quot;, figure 2 has a link to a movie.')

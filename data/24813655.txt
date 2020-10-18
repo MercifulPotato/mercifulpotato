@@ -1,1 +1,1 @@
-Item(by='sedatk', descendants=None, kids=None, score=None, time=1602971161, title=None, item_type='comment', url=None, parent=24813489, text='It&#x27;s closer than 2000.')
+Item(by='sedatk', descendants=None, kids=[24817206], score=None, time=1602971161, title=None, item_type='comment', url=None, parent=24813489, text='It&#x27;s closer than 2000.')

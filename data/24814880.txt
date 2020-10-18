@@ -1,1 +1,1 @@
-Item(by='everbody', descendants=0, kids=None, score=2, time=1602984605, title='Classified knots: Researchers create optical framed knots to encode information', item_type='story', url='https://phys.org/news/2020-10-optical-encode.html', parent=None, text=None)
+Item(by='everbody', descendants=2, kids=[24817271, 24817715], score=16, time=1602984605, title='Classified knots: Researchers create optical framed knots to encode information', item_type='story', url='https://phys.org/news/2020-10-optical-encode.html', parent=None, text=None)

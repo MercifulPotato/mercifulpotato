@@ -1,0 +1,1 @@
+Item(by='dschuetz', descendants=None, kids=None, score=None, time=1603017475, title=None, item_type='comment', url=None, parent=24816023, text='As someone else said it below: &quot;hardcoded to <i>localhost</i>&quot; doesn&#x27;t mean it&#x27;s hardcoded. It means it goes to whatever localhost resolves to. Really hardcoded should ALWAYS mean: 127.0.0.1')

@@ -1,1 +1,1 @@
-Item(by='rgbrgb', descendants=3, kids=[24815998, 24815905], score=30, time=1602997057, title='Temporal: open-source microservices orchestration platform', item_type='story', url='https://temporal.io/', parent=None, text=None)
+Item(by='rgbrgb', descendants=13, kids=[24817682, 24816859, 24815905, 24815998, 24816391], score=64, time=1602997057, title='Temporal: open-source microservices orchestration platform', item_type='story', url='https://temporal.io/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='jibal', descendants=None, kids=None, score=None, time=1603022715, title=None, item_type='comment', url=None, parent=24803605, text='Python is written in C, and yet ...<p>Compiling to C really isn&#x27;t relevant. &quot;50 years of work on C compilers&quot; is not at all relevant--languages that compile to LLVM get all the advantages of the optimization work.')

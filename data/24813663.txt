@@ -1,1 +1,1 @@
-Item(by='roywiggins', descendants=None, kids=None, score=None, time=1602971220, title=None, item_type='comment', url=None, parent=24812079, text='I would have thought the 1918 flu must have done. Eventually people stopped dying of it, and it&#x27;s not because there was a vaccine.')
+Item(by='roywiggins', descendants=None, kids=[24817279], score=None, time=1602971220, title=None, item_type='comment', url=None, parent=24812079, text='I would have thought the 1918 flu must have done. Eventually people stopped dying of it, and it&#x27;s not because there was a vaccine.')

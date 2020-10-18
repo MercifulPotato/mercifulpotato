@@ -1,0 +1,1 @@
+Item(by='azeirah', descendants=None, kids=None, score=None, time=1603020932, title=None, item_type='comment', url=None, parent=24815537, text='Quick tip for anyone learning from this thread.<p>If you&#x27;re using MySQL, it&#x27;s called a binary log and not a Write Ahead Log, it was very difficult to find meaningful Google results for &quot;MySQL WAL&quot;')

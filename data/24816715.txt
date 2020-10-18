@@ -1,0 +1,1 @@
+Item(by='DelightOne', descendants=None, kids=None, score=None, time=1603015584, title=None, item_type='comment', url=None, parent=24815035, text='If you use terraform to deploy the managed production database, do you use the postgresql terraform provider to create roles or are you creating them manually?')

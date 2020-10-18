@@ -1,0 +1,1 @@
+Item(by='scrollbar', descendants=None, kids=None, score=None, time=1603027096, title=None, item_type='comment', url=None, parent=24817127, text='Probably just the emergence of dbt? I’ve only been doing ETL for a couple years personally but couldn’t imagine using so much SQL in our pipelines without a framework like dbt')

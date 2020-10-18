@@ -1,0 +1,1 @@
+Item(by='minkeymaniac', descendants=None, kids=None, score=None, time=1603026532, title=None, item_type='comment', url=None, parent=24813795, text='That is why we can only access the prod db from a jump box in our shop.... And even then it&#x27;s just certain people with less privileges than a sysadmin account.   No way you can do this accidentally from your laptop then...')

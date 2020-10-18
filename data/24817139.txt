@@ -1,0 +1,1 @@
+Item(by='jbverschoor', descendants=None, kids=None, score=None, time=1603021464, title=None, item_type='comment', url=None, parent=24813795, text='&gt; Why? This is something we’re still trying to figure<p>Probably the admin has set the hba config to trust localhost.\nSolution - don&#x27;t use the same db name in prod jsut to be sure')

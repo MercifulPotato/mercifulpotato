@@ -1,1 +1,1 @@
-Item(by='nprateem', descendants=None, kids=None, score=None, time=1603004054, title=None, item_type='comment', url=None, parent=24815512, text='Run it on a lightweight k8s (eg k3s) on your machine then use iptables to forward all traffic from k8s to your VPS')
+Item(by='nprateem', descendants=None, kids=[24817859], score=None, time=1603004054, title=None, item_type='comment', url=None, parent=24815512, text='Run it on a lightweight k8s (eg k3s) on your machine then use iptables to forward all traffic from k8s to your VPS')

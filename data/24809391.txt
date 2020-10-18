@@ -1,1 +1,1 @@
-Item(by='nemoniac', descendants=4, kids=[24815776, 24815028, 24814885], score=31, time=1602936748, title='Algorand Consensus Protocol', item_type='story', url='https://developer.algorand.org/docs/algorand_consensus/', parent=None, text=None)
+Item(by='nemoniac', descendants=7, kids=[24815776, 24815028, 24816357, 24814885], score=46, time=1602936748, title='Algorand Consensus Protocol', item_type='story', url='https://developer.algorand.org/docs/algorand_consensus/', parent=None, text=None)

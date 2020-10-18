@@ -1,0 +1,1 @@
+Item(by='majkinetor', descendants=None, kids=None, score=None, time=1603020680, title=None, item_type='comment', url=None, parent=24813795, text='Once it happened to me, and now all scripts in last 10 years have<p><pre><code>    if (Env.Name -like &#x27;*prod*&#x27; ) { then throw }\n</code></pre>\nand similar to all destructive stuff.')

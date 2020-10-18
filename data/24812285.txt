@@ -1,1 +1,1 @@
-Item(by='jjuhl', descendants=None, kids=None, score=None, time=1602961282, title=None, item_type='comment', url=None, parent=24812094, text='Strong typing and static typing - yes please.')
+Item(by='jjuhl', descendants=None, kids=[24817851], score=None, time=1602961282, title=None, item_type='comment', url=None, parent=24812094, text='Strong typing and static typing - yes please.')

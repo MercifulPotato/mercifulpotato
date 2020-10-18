@@ -1,1 +1,1 @@
-Item(by='Jon_Lowtek', descendants=None, kids=None, score=None, time=1602960157, title=None, item_type='comment', url=None, parent=24812107, text='The replication crisis does not mean all science is false and the title of that paper is itself false.')
+Item(by='Jon_Lowtek', descendants=None, kids=[24818304], score=None, time=1602960157, title=None, item_type='comment', url=None, parent=24812107, text='The replication crisis does not mean all science is false and the title of that paper is itself false.')

@@ -1,0 +1,1 @@
+Item(by='politelemon', descendants=None, kids=None, score=None, time=1603023615, title=None, item_type='comment', url=None, parent=24817261, text='Does the use of Private DNS (dns over tls) feature override this behaviour for you?  You can try a throwaway account on nextdns.io and if private dns works you can see your dns traffic in their analytics tab')

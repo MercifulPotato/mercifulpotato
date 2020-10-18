@@ -1,1 +1,1 @@
-Item(by='ashtonkem', descendants=None, kids=None, score=None, time=1602935816, title=None, item_type='comment', url=None, parent=24805957, text='My experience with Jira makes me think that extensions are a big portion of the problem here.<p>Confluence just sucks though.')
+Item(by='ashtonkem', descendants=None, kids=[24816628], score=None, time=1602935816, title=None, item_type='comment', url=None, parent=24805957, text='My experience with Jira makes me think that extensions are a big portion of the problem here.<p>Confluence just sucks though.')

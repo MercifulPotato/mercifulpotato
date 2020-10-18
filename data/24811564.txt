@@ -1,1 +1,1 @@
-Item(by='amanaplanacanal', descendants=None, kids=None, score=None, time=1602955606, title=None, item_type='comment', url=None, parent=24809690, text='So no public internet? You only forward packets for people you trust? This seems... less than optimal.')
+Item(by='amanaplanacanal', descendants=None, kids=[24817694], score=None, time=1602955606, title=None, item_type='comment', url=None, parent=24809690, text='So no public internet? You only forward packets for people you trust? This seems... less than optimal.')

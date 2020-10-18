@@ -1,1 +1,1 @@
-Item(by='smir', descendants=0, kids=None, score=2, time=1602918712, title='How to Read a Surface Weather Map', item_type='story', url='https://www.outsideonline.com/2414872/how-to-read-surface-weather-maps', parent=None, text=None)
+Item(by='smir', descendants=3, kids=[24817396, 24816842, 24816305], score=27, time=1602918712, title='How to Read a Surface Weather Map', item_type='story', url='https://www.outsideonline.com/2414872/how-to-read-surface-weather-maps', parent=None, text=None)

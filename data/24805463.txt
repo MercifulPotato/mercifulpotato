@@ -1,1 +1,1 @@
-Item(by='p1necone', descendants=None, kids=None, score=None, time=1602885633, title=None, item_type='comment', url=None, parent=24802594, text='Just an addendum - when I said Railroad Tycoon I meant Transport Tycoon - I was getting the two mixed up.<p>And no problem :)')
+Item(by='p1necone', descendants=None, kids=[24816778], score=None, time=1602885633, title=None, item_type='comment', url=None, parent=24802594, text='Just an addendum - when I said Railroad Tycoon I meant Transport Tycoon - I was getting the two mixed up.<p>And no problem :)')

@@ -1,1 +1,1 @@
-Item(by='censusthrowaway', descendants=None, kids=None, score=None, time=1602949395, title=None, item_type='comment', url=None, parent=24810533, text='Upper management wouldn&#x27;t know what that means. \nCan&#x27;t even make a good app.')
+Item(by='censusthrowaway', descendants=None, kids=[24816941], score=None, time=1602949395, title=None, item_type='comment', url=None, parent=24810533, text='Upper management wouldn&#x27;t know what that means. \nCan&#x27;t even make a good app.')
