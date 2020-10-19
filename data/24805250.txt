@@ -1,1 +1,1 @@
-Item(by='based2', descendants=1, kids=[24805950], score=16, time=1602883874, title='Keptn: An event-based control plane for continuous delivery and automated operat', item_type='story', url='https://keptn.sh/', parent=None, text=None)
+Item(by='based2', descendants=2, kids=[24805950], score=17, time=1602883874, title='Keptn: An event-based control plane for continuous delivery and automated operat', item_type='story', url='https://keptn.sh/', parent=None, text=None)

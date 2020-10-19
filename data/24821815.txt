@@ -1,1 +1,1 @@
-Item(by='pmiller2', descendants=None, kids=None, score=None, time=1603061949, title=None, item_type='comment', url=None, parent=24818698, text='It could always be worse. As I remember it,  MS-DOS also had overlays....')
+Item(by='pmiller2', descendants=None, kids=[24824527], score=None, time=1603061949, title=None, item_type='comment', url=None, parent=24818698, text='It could always be worse. As I remember it,  MS-DOS also had overlays....')

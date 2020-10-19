@@ -1,0 +1,1 @@
+Item(by='londons_explore', descendants=None, kids=[24824965], score=None, time=1603103025, title=None, item_type='comment', url=None, parent=24824378, text='Where are these keys stored?  A 4 bit key for each 16 byte granule of memory in the system sounds substantial.  Does the Linux kernel have to give the CPU a memory region to keep those mappings?')

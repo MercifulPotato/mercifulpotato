@@ -1,1 +1,1 @@
-Item(by='michalf6', descendants=None, kids=None, score=None, time=1603050636, title=None, item_type='comment', url=None, parent=24819254, text='A motorcycle. Traffic is a non-issue now, in addition to the loads of fun I get from it.')
+Item(by='michalf6', descendants=None, kids=[24825898], score=None, time=1603050636, title=None, item_type='comment', url=None, parent=24819254, text='A motorcycle. Traffic is a non-issue now, in addition to the loads of fun I get from it.')

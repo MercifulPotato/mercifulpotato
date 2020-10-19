@@ -1,0 +1,1 @@
+Item(by='youngtaff', descendants=None, kids=None, score=None, time=1603097440, title=None, item_type='comment', url=None, parent=24822580, text='Challenge is Chrome downloads images at a lower priority than scripts<p>Even bottom of body scripts (unless marked as defer) will download before images')

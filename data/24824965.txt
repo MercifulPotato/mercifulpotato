@@ -1,0 +1,1 @@
+Item(by='dan-robertson', descendants=None, kids=[24824979], score=None, time=1603103367, title=None, item_type='comment', url=None, parent=24824935, text='The keys are stored in the bottom nibble of the top byte of pointers (I.e. bits 56-59)')

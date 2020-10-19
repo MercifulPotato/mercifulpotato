@@ -1,1 +1,1 @@
-Item(by='Google234', descendants=None, kids=None, score=None, time=1603092494, title=None, item_type='comment', url=None, parent=24822755, text='Wow, only 5k for this? discord is cheap.')
+Item(by='Google234', descendants=None, kids=[24824217, 24824247], score=None, time=1603092494, title=None, item_type='comment', url=None, parent=24822755, text='Wow, only 5k for this? discord is cheap.')

@@ -1,1 +1,1 @@
-Item(by='WalterBright', descendants=None, kids=None, score=None, time=1603090113, title=None, item_type='comment', url=None, parent=24823411, text='What a dump!')
+Item(by='WalterBright', descendants=None, kids=[24824377], score=None, time=1603090113, title=None, item_type='comment', url=None, parent=24823411, text='What a dump!')

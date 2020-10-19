@@ -1,1 +1,1 @@
-Item(by='nunez', descendants=None, kids=None, score=None, time=1603085393, title=None, item_type='comment', url=None, parent=24819254, text='Easily the bidet. That coupled with reusable and washable cloth wipes drastically reduced our dependency on toilet paper.')
+Item(by='nunez', descendants=None, kids=[24825937], score=None, time=1603085393, title=None, item_type='comment', url=None, parent=24819254, text='Easily the bidet. That coupled with reusable and washable cloth wipes drastically reduced our dependency on toilet paper.')

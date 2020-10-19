@@ -1,0 +1,1 @@
+Item(by='elFarto', descendants=None, kids=None, score=None, time=1603113339, title=None, item_type='comment', url=None, parent=24824796, text='I was thinking you could use a PCIe Non-Transparent Bridge IC to connect all the PI&#x27;s together. However those sort of chips aren&#x27;t cheap, and it would only be a ~5x speed increase over the Gigabit ethernet.')

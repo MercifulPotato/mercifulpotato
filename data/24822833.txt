@@ -1,1 +1,1 @@
-Item(by='ishcheklein', descendants=0, kids=None, score=6, time=1603074075, title='State of AI Report 2020', item_type='story', url='https://www.stateof.ai/', parent=None, text=None)
+Item(by='ishcheklein', descendants=2, kids=[24825004], score=16, time=1603074075, title='State of AI Report 2020', item_type='story', url='https://www.stateof.ai/', parent=None, text=None)

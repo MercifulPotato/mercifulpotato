@@ -1,0 +1,1 @@
+Item(by='LeonB', descendants=None, kids=None, score=None, time=1603108972, title=None, item_type='comment', url=None, parent=24825155, text='I also wrote a version that used javascript to see what elements existed in the page and generate the relevant before&#x2F;after styles. Adding attributes would’ve be doable. But it gets a bit silly really, once you have a giant page.')

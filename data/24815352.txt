@@ -1,1 +1,1 @@
-Item(by='netheril96', descendants=None, kids=[24815400], score=None, time=1602992161, title=None, item_type='comment', url=None, parent=24814585, text='Why does the DB get corrupted? Does ACID mean anything these days?')
+Item(by='netheril96', descendants=None, kids=[24826166, 24815400], score=None, time=1602992161, title=None, item_type='comment', url=None, parent=24814585, text='Why does the DB get corrupted? Does ACID mean anything these days?')

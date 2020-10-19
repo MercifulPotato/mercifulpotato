@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=[24825869], score=None, time=1603110544, title=None, item_type='comment', url=None, parent=24825686, text='AFAIK in HTML5 you need a doctype and and a non-empty title, but the &lt;html&gt; etc tags are optional:<p><pre><code>    &lt;!DOCTYPE html&gt;\n    &lt;title&gt;x&lt;&#x2F;title&gt;</code></pre>')

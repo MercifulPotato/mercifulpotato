@@ -1,0 +1,1 @@
+Item(by='jmgao', descendants=None, kids=None, score=None, time=1603106565, title=None, item_type='comment', url=None, parent=24825167, text='10^50 is definitely not 60 bits: log_2(10^50) = 50 * log_2(10), and log_2(10) &gt; 3')

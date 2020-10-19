@@ -1,1 +1,1 @@
-Item(by='bigbubba', descendants=None, kids=None, score=None, time=1602954883, title=None, item_type='comment', url=None, parent=24811432, text='Cynthia, cinder, cyrillic... I wonder why scythe is spelled with an S...')
+Item(by='bigbubba', descendants=None, kids=[24826428], score=None, time=1602954883, title=None, item_type='comment', url=None, parent=24811432, text='Cynthia, cinder, cyrillic... I wonder why scythe is spelled with an S...')

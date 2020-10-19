@@ -1,0 +1,1 @@
+Item(by='jlouis', descendants=None, kids=None, score=None, time=1603108578, title=None, item_type='comment', url=None, parent=24818706, text='This is fun, because it shows just how pervasive function application is in programming. You can build whole programming languages on just function application (which is what the Lambda calculus is about).')

@@ -1,0 +1,1 @@
+Item(by='LeonB', descendants=None, kids=None, score=None, time=1603108588, title=None, item_type='comment', url=None, parent=24825449, text='If the page knew to show “&lt;script&gt;” before and after script tags, and to apply “ white-space: pre-wrap;” to script tags, it would’ve been slightly clearer what those tools were doing to you.')
