@@ -1,1 +1,1 @@
-Item(by='peterwwillis', descendants=None, kids=None, score=None, time=1603115794, title=None, item_type='comment', url=None, parent=24826335, text='If it can receive input and create output, what else is it?')
+Item(by='peterwwillis', descendants=None, kids=[24826670], score=None, time=1603115794, title=None, item_type='comment', url=None, parent=24826335, text='It can receive input and create output. The browser is the interpreter for scripted HTML programs.')

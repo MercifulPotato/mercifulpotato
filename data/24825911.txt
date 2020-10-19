@@ -1,1 +1,1 @@
-Item(by='mocmoc', descendants=None, kids=None, score=None, time=1603112489, title=None, item_type='comment', url=None, parent=24824784, text='Before downvoting , prove Einstein wrong')
+Item(by='mocmoc', descendants=None, kids=[24827786], score=None, time=1603112489, title=None, item_type='comment', url=None, parent=24824784, text='Before downvoting , prove Einstein wrong')

@@ -1,0 +1,1 @@
+Item(by='jackewiehose', descendants=None, kids=[24827450, 24827603], score=None, time=1603120376, title=None, item_type='comment', url=None, parent=24826638, text='You can use the pointer as an object id, but only for living objects.\nThe pointer becomes invalid the moment the memory is freed.  Your bug\nwas that you used an invalid pointer.')

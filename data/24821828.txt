@@ -1,1 +1,1 @@
-Item(by='cle', descendants=None, kids=None, score=None, time=1603062151, title=None, item_type='comment', url=None, parent=24818714, text='I presented an argument that your point is irrelevant to the discussion, and you provided no meaningful counter-argument in response.')
+Item(by='cle', descendants=None, kids=[24829900], score=None, time=1603062151, title=None, item_type='comment', url=None, parent=24818714, text='I presented an argument that your point is irrelevant to the discussion, and you provided no meaningful counter-argument in response.')

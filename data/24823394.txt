@@ -1,1 +1,1 @@
-Item(by='triangleman', descendants=None, kids=None, score=None, time=1603082642, title=None, item_type='comment', url=None, parent=24823199, text='How about if you don&#x27;t want to go to China?')
+Item(by='triangleman', descendants=None, kids=[24826899], score=None, time=1603082642, title=None, item_type='comment', url=None, parent=24823199, text='How about if you don&#x27;t want to go to China?')

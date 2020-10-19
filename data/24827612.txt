@@ -1,0 +1,1 @@
+Item(by='cma', descendants=None, kids=None, score=None, time=1603123318, title=None, item_type='comment', url=None, parent=24827091, text='Wireguard is 7.6MB.  I thought even smaller since the article mentions the kernel extension was only around 4000 lines of code, but I guess the Android app is a bit more complex or pushed up by static dependencies and icons and stuff.')

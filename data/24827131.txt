@@ -1,0 +1,1 @@
+Item(by='raimue', descendants=None, kids=None, score=None, time=1603120790, title=None, item_type='comment', url=None, parent=24826977, text='Yes, the man page documents the option to specify the browser on command line with -B&#x2F;--browser or in the environment as RDRVIEW_BROWSER. By default it parses your mailcap preferences for text&#x2F;html.')

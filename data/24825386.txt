@@ -1,1 +1,1 @@
-Item(by='jansan', descendants=None, kids=None, score=None, time=1603107721, title=None, item_type='comment', url=None, parent=24824977, text='I really like that at this moment the two top stories on HN are about actual hacks!')
+Item(by='jansan', descendants=None, kids=[24827909], score=None, time=1603107721, title=None, item_type='comment', url=None, parent=24824977, text='I really like that at this moment the two top stories on HN are about actual hacks!')

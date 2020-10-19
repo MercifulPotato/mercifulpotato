@@ -1,0 +1,1 @@
+Item(by='pitaj', descendants=None, kids=[24829113, 24828866], score=None, time=1603129647, title=None, item_type='comment', url=None, parent=24828490, text='I think you misinterpreted his comment. He was saying Firefox by default uses its own store, so enterprises switch it to use the OS store when they need it to use internal certs.')

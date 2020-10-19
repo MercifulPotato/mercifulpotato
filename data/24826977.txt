@@ -1,0 +1,1 @@
+Item(by='jpsalm', descendants=None, kids=[24829389, 24827131], score=None, time=1603119720, title=None, item_type='comment', url=None, parent=24825417, text='The output html is getting picked up by xdg-open and directed into Firefox -- anyway of redirecting the output to lynx e.g. .&#x2F;rdrview &#x27;&lt;site&gt;&#x27; | lynx')

@@ -1,0 +1,1 @@
+Item(by='sergeykish', descendants=None, kids=None, score=None, time=1603131756, title=None, item_type='comment', url=None, parent=24822939, text='<p><pre><code>    FooBar = Module.new\n    def FooBar.foo(a) a &lt; 0 ? bar(a, -1) : bar(a, 1) end\n    def FooBar.bar(a, b) self.puts [a, b].reduce &amp;:* end</code></pre>')

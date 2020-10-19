@@ -1,1 +1,1 @@
-Item(by='raducu', descendants=None, kids=None, score=None, time=1603086364, title=None, item_type='comment', url=None, parent=24821415, text='So, do gravitons exist or not?')
+Item(by='raducu', descendants=None, kids=[24827174], score=None, time=1603086364, title=None, item_type='comment', url=None, parent=24821415, text='So, do gravitons exist or not?')

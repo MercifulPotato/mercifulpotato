@@ -1,1 +1,1 @@
-Item(by='andyjohnson0', descendants=0, kids=None, score=3, time=1603112622, title='Slaughterbots', item_type='story', url='https://www.youtube.com/watch?v=HipTO_7mUOw', parent=None, text=None)
+Item(by='andyjohnson0', descendants=26, kids=[24826750, 24826593, 24826468, 24826728], score=50, time=1603112622, title='Slaughterbots', item_type='story', url='https://www.youtube.com/watch?v=HipTO_7mUOw', parent=None, text=None)

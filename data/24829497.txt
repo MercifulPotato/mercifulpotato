@@ -1,0 +1,1 @@
+Item(by='dagmx', descendants=None, kids=None, score=None, time=1603133048, title=None, item_type='comment', url=None, parent=24829323, text='Oh that&#x27;s good to know. Apologies for that bug.\nI&#x27;ll have to see how noscript compliant I can make the site since it&#x27;s based on gatsby, which does some amount of client side rehydration.')

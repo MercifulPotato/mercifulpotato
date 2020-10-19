@@ -1,0 +1,1 @@
+Item(by='geophile', descendants=0, kids=None, score=1, time=1603116018, title='One-Line Quine (Python)', item_type='story', url=None, parent=None, text='import os, sys; os.system(f&#x27;cat {sys.argv[0]}&#x27;)')

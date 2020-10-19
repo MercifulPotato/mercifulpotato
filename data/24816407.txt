@@ -1,1 +1,1 @@
-Item(by='DeusExMachina', descendants=0, kids=None, score=2, time=1603011061, title='Patterns of Biophilic Design', item_type='story', url='https://www.terrapinbrightgreen.com/reports/14-patterns/', parent=None, text=None)
+Item(by='DeusExMachina', descendants=3, kids=[24829364, 24828653, 24828526], score=24, time=1603011061, title='Patterns of Biophilic Design', item_type='story', url='https://www.terrapinbrightgreen.com/reports/14-patterns/', parent=None, text=None)

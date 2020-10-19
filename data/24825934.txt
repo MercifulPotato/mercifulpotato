@@ -1,1 +1,1 @@
-Item(by='0-_-0', descendants=None, kids=None, score=None, time=1603112658, title=None, item_type='comment', url=None, parent=24825767, text='IIRC the PCIe interface is not compatible with GPUs.')
+Item(by='0-_-0', descendants=None, kids=[24826398], score=None, time=1603112658, title=None, item_type='comment', url=None, parent=24825767, text='IIRC the PCIe interface is not compatible with GPUs.')

@@ -1,0 +1,1 @@
+Item(by='renox', descendants=None, kids=None, score=None, time=1603131752, title=None, item_type='comment', url=None, parent=24829189, text='In the first diff after the @@ there&#x27;s a reference to the enclosing class, in the second diff it&#x27;s a reference to the enclosing method.\nWhich could help perhaps if the methods are moved?')

@@ -1,0 +1,1 @@
+Item(by='atennapel', descendants=None, kids=None, score=None, time=1603133121, title=None, item_type='comment', url=None, parent=24815859, text='Note that one combinator is enough: X = \\x. x S K is turing complete! K = X (X (X X)) and S = X (X (X (X X))).')

@@ -1,1 +1,1 @@
-Item(by='RoutinePlayer', descendants=None, kids=None, score=None, time=1603108882, title=None, item_type='comment', url=None, parent=24800011, text='To be replaced by Caps Lock cola')
+Item(by='RoutinePlayer', descendants=None, kids=[24828388], score=None, time=1603108882, title=None, item_type='comment', url=None, parent=24800011, text='To be replaced by Caps Lock cola')

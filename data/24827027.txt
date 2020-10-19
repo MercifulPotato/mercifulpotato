@@ -1,0 +1,1 @@
+Item(by='baybal2', descendants=None, kids=None, score=None, time=1603120037, title=None, item_type='comment', url=None, parent=24826860, text='You can compose multiple XML docs using XSL, the catch is XML is not rendering until the whole document is loaded in Chrome, the benefit on the other side is that XSL, and referenced XML docs are cacheable.')

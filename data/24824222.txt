@@ -1,1 +1,1 @@
-Item(by='dannyw', descendants=None, kids=None, score=None, time=1603095021, title=None, item_type='comment', url=None, parent=24823208, text='If you get tired of paying RCEs for a third party library, you should stop using that library.<p>A RCE is a RCE.')
+Item(by='dannyw', descendants=None, kids=[24830203], score=None, time=1603095021, title=None, item_type='comment', url=None, parent=24823208, text='If you get tired of paying RCEs for a third party library, you should stop using that library.<p>A RCE is a RCE.')

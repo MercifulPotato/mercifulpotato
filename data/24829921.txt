@@ -1,0 +1,1 @@
+Item(by='geerlingguy', descendants=None, kids=[24829968], score=None, time=1603135612, title=None, item_type='comment', url=None, parent=24829769, text='For the mini PCIe, do you mean they will be PCIe 1x slots, or something like an M.2 connector?<p>And will it be set up where each board gets one of those slots (e.g. 2 boards get single PCIe, 2 boards get single SATA)?')

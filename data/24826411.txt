@@ -1,0 +1,1 @@
+Item(by='geerlingguy', descendants=None, kids=None, score=None, time=1603116052, title=None, item_type='comment', url=None, parent=24825403, text='You can boot over USB but not yet via NVMe. The same NVMe drive (Samsung 970 EVO) was 2x faster for random access when mounted as an NVMe drive vs. in a USB 3.0 adapter with a superspeed PCIe USB 3.0 adapter card.')

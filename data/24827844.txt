@@ -1,0 +1,1 @@
+Item(by='egberts1', descendants=None, kids=[24828815], score=None, time=1603124586, title=None, item_type='comment', url=None, parent=24827451, text='Fail2ban is a bit shaky when it transitions to Python3.<p>Hasn’t pass the pylint,?futurize, or 2to3 by much.<p>But if the maintainers are willing, I can do those things.')

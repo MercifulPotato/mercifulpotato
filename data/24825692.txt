@@ -1,1 +1,1 @@
-Item(by='thomasfromcdnjs', descendants=None, kids=None, score=None, time=1603110418, title=None, item_type='comment', url=None, parent=24825056, text='Ahh this looks rather brilliant at first glance. (if only as an educational tool)')
+Item(by='thomasfromcdnjs', descendants=None, kids=[24826480], score=None, time=1603110418, title=None, item_type='comment', url=None, parent=24825056, text='Ahh this looks rather brilliant at first glance. (if only as an educational tool)')

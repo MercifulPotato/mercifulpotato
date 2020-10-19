@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=5, kids=[24825024, 24825104, 24825046, 24824600], score=32, time=1602864615, title='Analogue Duo: FPGA Based TurboGrafx-16/PC Engine Clone', item_type='story', url='https://www.analogue.co/duo/', parent=None, text=None)
+Item(by='zdw', descendants=17, kids=[24825046, 24825024, 24825104, 24827137, 24824600], score=51, time=1602864615, title='Analogue Duo: FPGA Based TurboGrafx-16/PC Engine Clone', item_type='story', url='https://www.analogue.co/duo/', parent=None, text=None)

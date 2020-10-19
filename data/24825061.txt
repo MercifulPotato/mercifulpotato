@@ -1,1 +1,1 @@
-Item(by='robertlagrant', descendants=None, kids=None, score=None, time=1603104483, title=None, item_type='comment', url=None, parent=24824706, text='Ah, an internet psychiatrist and control freak all in one.')
+Item(by='robertlagrant', descendants=None, kids=[24828763], score=None, time=1603104483, title=None, item_type='comment', url=None, parent=24824706, text='Ah, an internet psychiatrist and control freak all in one.')

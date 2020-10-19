@@ -1,0 +1,1 @@
+Item(by='mikequinlan', descendants=None, kids=[24828387], score=None, time=1603116400, title=None, item_type='comment', url=None, parent=24822859, text='I am curious, do you know if user-mode programs had access to more than a single 256K word address space? Did they add something like segment registers or a split between Data and Instruction space?')

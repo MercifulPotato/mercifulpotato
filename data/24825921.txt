@@ -1,1 +1,1 @@
-Item(by='ghaff', descendants=None, kids=None, score=None, time=1603112564, title=None, item_type='comment', url=None, parent=24825586, text='Which basically is the reasoning behind Prop 13 in CA that people here like to rag on.')
+Item(by='ghaff', descendants=None, kids=[24827607], score=None, time=1603112564, title=None, item_type='comment', url=None, parent=24825586, text='Which basically is the reasoning behind Prop 13 in CA that people here like to rag on.')

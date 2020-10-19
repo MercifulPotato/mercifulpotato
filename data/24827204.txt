@@ -1,0 +1,1 @@
+Item(by='stagas', descendants=None, kids=None, score=None, time=1603121173, title=None, item_type='comment', url=None, parent=24825137, text='&gt; but fails on newer Chrome because of click-to-play audio.<p>In these cases, you can also refresh and rapid click, it gets registered as a user gesture and the audio is allowed to start. Maybe try two-three times.')
