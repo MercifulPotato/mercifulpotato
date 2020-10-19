@@ -1,1 +1,1 @@
-Item(by='isoprophlex', descendants=None, kids=[24818922, 24820170, 24817191], score=None, time=1603011485, title=None, item_type='comment', url=None, parent=24816264, text='<p><pre><code>    brew install coreutils\n</code></pre>\nLot less complexity than running things in docker.')
+Item(by='isoprophlex', descendants=None, kids=[24818922, 24817191, 24820170], score=None, time=1603011485, title=None, item_type='comment', url=None, parent=24816264, text='<p><pre><code>    brew install coreutils\n</code></pre>\nLot less complexity than running things in docker.')

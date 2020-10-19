@@ -1,1 +1,1 @@
-Item(by='sanp', descendants=None, kids=None, score=None, time=1603033254, title=None, item_type='comment', url=None, parent=24817547, text='OK, don&#x27;t trust the numbers from China. Do you trust the numbers from South Korea, Taiwan, Japan, Singapore, NZ?')
+Item(by='sanp', descendants=None, kids=[24820886], score=None, time=1603033254, title=None, item_type='comment', url=None, parent=24817547, text='OK, don&#x27;t trust the numbers from China. Do you trust the numbers from South Korea, Taiwan, Japan, Singapore, NZ?')

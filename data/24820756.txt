@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[24821058], score=None, time=1603052060, title=None, item_type='comment', url=None, parent=24820699, text='Aha, I didn&#x27;t notice the little [+] widget next to the Iterator trait in the docs. You have to click it to get the Item type, otherwise it&#x27;s hidden. Thanks!')

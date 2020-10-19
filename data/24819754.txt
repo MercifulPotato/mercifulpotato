@@ -1,1 +1,1 @@
-Item(by='optimiz3', descendants=None, kids=None, score=None, time=1603043737, title=None, item_type='comment', url=None, parent=24817352, text='Maybe politicians shouldn&#x27;t be allowed to lie?')
+Item(by='optimiz3', descendants=None, kids=[24822814], score=None, time=1603043737, title=None, item_type='comment', url=None, parent=24817352, text='Maybe politicians shouldn&#x27;t be allowed to lie?')

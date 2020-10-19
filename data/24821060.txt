@@ -1,0 +1,1 @@
+Item(by='cb321', descendants=None, kids=None, score=None, time=1603054461, title=None, item_type='comment', url=None, parent=24820998, text='(You could also just save the len and use that as a comparison prefix, but the hash value is less likely to yield a false positive.)')

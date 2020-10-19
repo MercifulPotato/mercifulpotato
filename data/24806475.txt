@@ -1,1 +1,1 @@
-Item(by='juniper_strong', descendants=None, kids=None, score=None, time=1602895132, title=None, item_type='comment', url=None, parent=24800754, text='To me, both Personal Jesus and Hurt are Johnny Cash songs now.')
+Item(by='juniper_strong', descendants=None, kids=[24821408], score=None, time=1602895132, title=None, item_type='comment', url=None, parent=24800754, text='To me, both Personal Jesus and Hurt are Johnny Cash songs now.')

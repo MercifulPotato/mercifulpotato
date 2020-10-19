@@ -1,1 +1,1 @@
-Item(by='ISL', descendants=None, kids=[24818386, 24818382], score=None, time=1603033570, title=None, item_type='comment', url=None, parent=24818024, text='Is there a reason that this would ever make sense for the end-user?<p>If I click on a link, my browser opens it. Done, right?')
+Item(by='ISL', descendants=None, kids=[24818382, 24818386], score=None, time=1603033570, title=None, item_type='comment', url=None, parent=24818024, text='Is there a reason that this would ever make sense for the end-user?<p>If I click on a link, my browser opens it. Done, right?')

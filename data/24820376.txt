@@ -1,1 +1,1 @@
-Item(by='tptacek', descendants=None, kids=None, score=None, time=1603049016, title=None, item_type='comment', url=None, parent=24819632, text='Why do you need a dynamic string of any sort for this problem?')
+Item(by='tptacek', descendants=None, kids=[24821146], score=None, time=1603049016, title=None, item_type='comment', url=None, parent=24819632, text='Why do you need a dynamic string of any sort for this problem?<p>(I think you estimated badly, for what it&#x27;s worth.)')

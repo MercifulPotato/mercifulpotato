@@ -1,1 +1,1 @@
-Item(by='MeinBlutIstBlau', descendants=None, kids=None, score=None, time=1603045197, title=None, item_type='comment', url=None, parent=24819316, text='Cspan in a nutshell')
+Item(by='MeinBlutIstBlau', descendants=None, kids=[24822720], score=None, time=1603045197, title=None, item_type='comment', url=None, parent=24819316, text='Cspan in a nutshell')

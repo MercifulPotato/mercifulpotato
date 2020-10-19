@@ -1,0 +1,1 @@
+Item(by='bitL', descendants=None, kids=None, score=None, time=1603052370, title=None, item_type='comment', url=None, parent=24820676, text='&quot;Upgrade packs&quot; might be already possible using transformer adapters, i.e. tiny networks trained on customized data plugged into a large fixed pretrained transformer, providing whatever custom functionality you require.')

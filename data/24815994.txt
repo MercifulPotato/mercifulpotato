@@ -1,1 +1,1 @@
-Item(by='likeclockwork', descendants=None, kids=None, score=None, time=1603003889, title=None, item_type='comment', url=None, parent=24815768, text='Yeah, that&#x27;s not objective. Sorry.')
+Item(by='likeclockwork', descendants=None, kids=[24820978, 24820469], score=None, time=1603003889, title=None, item_type='comment', url=None, parent=24815768, text='Yeah, that&#x27;s not objective. Sorry.')

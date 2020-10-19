@@ -1,0 +1,1 @@
+Item(by='pierrebai', descendants=None, kids=None, score=None, time=1603058336, title=None, item_type='comment', url=None, parent=24819040, text='C++ multi-threading is easy by not sharing data. Just have each thread produce a result and have a thread that accumulates the results via std::future.<p>I&#x27;ve converted many mono-thread C++ algorithm this way.')

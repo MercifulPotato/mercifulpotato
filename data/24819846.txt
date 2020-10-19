@@ -1,1 +1,1 @@
-Item(by='krn', descendants=0, kids=None, score=6, time=1603044439, title='Russians spread fake news over Oxford coronavirus vaccine', item_type='story', url='https://www.thetimes.co.uk/article/russians-spread-fake-news-over-oxford-coronavirus-vaccine-2nzpk8vrq', parent=None, text=None)
+Item(by='krn', descendants=1, kids=[24821954], score=7, time=1603044439, title='Russians spread fake news over Oxford coronavirus vaccine', item_type='story', url='https://www.thetimes.co.uk/article/russians-spread-fake-news-over-oxford-coronavirus-vaccine-2nzpk8vrq', parent=None, text=None)

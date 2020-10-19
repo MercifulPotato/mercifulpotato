@@ -1,1 +1,1 @@
-Item(by='SafaT', descendants=None, kids=None, score=None, time=1603037554, title=None, item_type='comment', url=None, parent=24818829, text='I strongly agree with you, most of the time I feel that non-Google browsers including Safari is somehow blocked or slowed down.')
+Item(by='SafaT', descendants=None, kids=[24821812], score=None, time=1603037554, title=None, item_type='comment', url=None, parent=24818829, text='I strongly agree with you, most of the time I feel that non-Google browsers including Safari is somehow blocked or slowed down.')

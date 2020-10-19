@@ -1,1 +1,1 @@
-Item(by='kybernetikos', descendants=None, kids=None, score=None, time=1603023300, title=None, item_type='comment', url=None, parent=24814583, text='Helping people feel better can be good for productivity.')
+Item(by='kybernetikos', descendants=None, kids=[24821248], score=None, time=1603023300, title=None, item_type='comment', url=None, parent=24814583, text='Helping people feel better can be good for productivity.')

@@ -1,1 +1,1 @@
-Item(by='CameronNemo', descendants=None, kids=None, score=None, time=1603037795, title=None, item_type='comment', url=None, parent=24818069, text='Twitter and Google are not the same... At all.')
+Item(by='CameronNemo', descendants=None, kids=[24820791], score=None, time=1603037795, title=None, item_type='comment', url=None, parent=24818069, text='Twitter and Google are not the same... At all.')

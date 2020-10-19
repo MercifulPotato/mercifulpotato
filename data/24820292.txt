@@ -1,1 +1,1 @@
-Item(by='jug', descendants=None, kids=None, score=None, time=1603048221, title=None, item_type='comment', url=None, parent=24820186, text='Eh, so doubleclick.net, ad network extraordinaire, gets special treatment as a &quot;Google host&quot; as well? Eww.')
+Item(by='jug', descendants=None, kids=[24820747], score=None, time=1603048221, title=None, item_type='comment', url=None, parent=24820186, text='Eh, so doubleclick.net, ad network extraordinaire, gets special treatment as a &quot;Google host&quot; as well? Eww.')

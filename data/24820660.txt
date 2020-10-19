@@ -1,0 +1,1 @@
+Item(by='amelius', descendants=None, kids=[24820696, 24820798, 24820721, 24821489], score=None, time=1603051393, title=None, item_type='comment', url=None, parent=24819387, text='Mastodon should implement &quot;events&quot; as they exist in Facebook.<p>And provide a scraper for FB events which users can run.')

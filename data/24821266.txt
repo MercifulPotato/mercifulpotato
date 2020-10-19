@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=None, score=None, time=1603056654, title=None, item_type='comment', url=None, parent=24821146, text='Yeah, I just used strdup and strsep, like a C programmer. You don&#x27;t need a dynamic string to count words.<p>:P')

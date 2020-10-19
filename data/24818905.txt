@@ -1,1 +1,1 @@
-Item(by='SubiculumCode', descendants=None, kids=None, score=None, time=1603037755, title=None, item_type='comment', url=None, parent=24815939, text='Was this written by an AI')
+Item(by='SubiculumCode', descendants=None, kids=[24821154], score=None, time=1603037755, title=None, item_type='comment', url=None, parent=24815939, text='Was this written by an AI')

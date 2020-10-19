@@ -1,1 +1,1 @@
-Item(by='elvis70', descendants=20, kids=[24819640, 24819701, 24818698, 24819864, 24819845], score=34, time=1603024116, title='What is the PDP-11 instruction set?', item_type='story', url='http://ftp.dbit.com/pub/pdp11/faq/faq.pages/PDPinst.html', parent=None, text=None)
+Item(by='elvis70', descendants=34, kids=[24819640, 24818698, 24819701, 24820583, 24820728, 24820729, 24819864, 24819845], score=44, time=1603024116, title='What is the PDP-11 instruction set?', item_type='story', url='http://ftp.dbit.com/pub/pdp11/faq/faq.pages/PDPinst.html', parent=None, text=None)
