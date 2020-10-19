@@ -1,1 +1,1 @@
-Item(by='post_break', descendants=None, kids=None, score=None, time=1603070342, title=None, item_type='comment', url=None, parent=24822324, text='My galaxy buds plus have replaceable lithium coin cell batteries. They are basically airpods but you can repair them.')
+Item(by='post_break', descendants=None, kids=[24823282], score=None, time=1603070342, title=None, item_type='comment', url=None, parent=24822324, text='My galaxy buds plus have replaceable lithium coin cell batteries. They are basically airpods but you can repair them.')

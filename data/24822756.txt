@@ -1,1 +1,1 @@
-Item(by='davideguida', descendants=0, kids=None, score=1, time=1603072814, title='Blazor Gamedev – part 11: improved assets loading', item_type='story', url='https://www.davideguida.com/blazor-gamedev-part-11-improved-assets-loading/', parent=None, text=None)
+Item(by='davideguida', descendants=1, kids=[24822829], score=2, time=1603072814, title='Blazor Gamedev – part 11: improved assets loading', item_type='story', url='https://www.davideguida.com/blazor-gamedev-part-11-improved-assets-loading/', parent=None, text=None)

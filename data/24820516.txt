@@ -1,1 +1,1 @@
-Item(by='fogihujy', descendants=None, kids=None, score=None, time=1603050381, title=None, item_type='comment', url=None, parent=24819565, text='`AllowTcpForwarding No`<p>There are ways around it, of course, but it prevents the scenario described above.')
+Item(by='fogihujy', descendants=None, kids=[24823682], score=None, time=1603050381, title=None, item_type='comment', url=None, parent=24819565, text='`AllowTcpForwarding No`<p>There are ways around it, of course, but it prevents the scenario described above.')

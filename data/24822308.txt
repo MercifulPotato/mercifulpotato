@@ -1,1 +1,1 @@
-Item(by='longdefeat', descendants=0, kids=None, score=3, time=1603067163, title="Large 2k-year-old cat discovered in Peru's Nazca lines", item_type='story', url='https://www.bbc.com/news/world-latin-america-54593295', parent=None, text=None)
+Item(by='longdefeat', descendants=1, kids=[24823136], score=11, time=1603067163, title="Large 2k-year-old cat discovered in Peru's Nazca lines", item_type='story', url='https://www.bbc.com/news/world-latin-america-54593295', parent=None, text=None)

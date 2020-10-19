@@ -1,1 +1,1 @@
-Item(by='thatfrenchguy', descendants=None, kids=None, score=None, time=1603072046, title=None, item_type='comment', url=None, parent=24822400, text='I’m French and this does not look like a house you would see or own in France')
+Item(by='thatfrenchguy', descendants=None, kids=[24823024], score=None, time=1603072046, title=None, item_type='comment', url=None, parent=24822400, text='I’m French and this does not look like a house you would see or own in France')

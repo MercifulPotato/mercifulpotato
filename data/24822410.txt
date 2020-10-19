@@ -1,1 +1,1 @@
-Item(by='bradknowles', descendants=None, kids=None, score=None, time=1603068336, title=None, item_type='comment', url=None, parent=24818748, text='The name is “ηMatrix”, not “ΗMatrix”, yes?')
+Item(by='bradknowles', descendants=None, kids=[24822794], score=None, time=1603068336, title=None, item_type='comment', url=None, parent=24818748, text='The name is “ηMatrix”, not “ΗMatrix”, yes?')

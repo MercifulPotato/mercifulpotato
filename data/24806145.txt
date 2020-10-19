@@ -1,1 +1,1 @@
-Item(by='TameAntelope', descendants=None, kids=None, score=None, time=1602892318, title=None, item_type='comment', url=None, parent=24805151, text='Poorly, because hindsight is hard, I just would skip the steps related to hiding my biases behind overly precise numbers.')
+Item(by='TameAntelope', descendants=None, kids=[24823251], score=None, time=1602892318, title=None, item_type='comment', url=None, parent=24805151, text='Poorly, because hindsight is hard, I just would skip the steps related to hiding my biases behind overly precise numbers.')

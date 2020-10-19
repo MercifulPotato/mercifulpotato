@@ -1,1 +1,1 @@
-Item(by='gitgud', descendants=0, kids=None, score=2, time=1603062834, title='Pnpm – An Efficient NPM alternative using a content-addressable filesystem', item_type='story', url='https://github.com/pnpm/pnpm', parent=None, text=None)
+Item(by='gitgud', descendants=0, kids=None, score=3, time=1603062834, title='Pnpm – An Efficient NPM alternative using a content-addressable filesystem', item_type='story', url='https://github.com/pnpm/pnpm', parent=None, text=None)

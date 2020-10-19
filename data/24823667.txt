@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=[24823686], score=None, time=1603086967, title=None, item_type='comment', url=None, parent=24823460, text='It&#x27;d be super interesting to hear more about the performance implications of contextIsolation; as an attacker, an intuition for _why_ developers select less-hardened options is quite useful in prioritizing targets.')

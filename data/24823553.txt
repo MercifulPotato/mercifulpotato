@@ -1,0 +1,1 @@
+Item(by='TaylorAlexander', descendants=None, kids=None, score=None, time=1603085312, title=None, item_type='comment', url=None, parent=24817347, text='For reference I am making a farming robot that goes at 1 meter per second and I run the main control loop at 10hz. I would absolutely run a car that goes freeway speeds at at least 100hz.')

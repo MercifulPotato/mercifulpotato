@@ -1,1 +1,1 @@
-Item(by='Koshkin', descendants=None, kids=None, score=None, time=1603069219, title=None, item_type='comment', url=None, parent=24821727, text='Locally speaking, the earth is flat.')
+Item(by='Koshkin', descendants=None, kids=[24823364], score=None, time=1603069219, title=None, item_type='comment', url=None, parent=24821727, text='Locally speaking, the earth is flat.')

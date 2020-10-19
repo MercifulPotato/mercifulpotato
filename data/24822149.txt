@@ -1,1 +1,1 @@
-Item(by='satya71', descendants=None, kids=None, score=None, time=1603065536, title=None, item_type='comment', url=None, parent=24821840, text='We tried ClickUp and gave up quickly. It has so many features that finding the thing to do takes a lot of time.')
+Item(by='satya71', descendants=None, kids=[24823873], score=None, time=1603065536, title=None, item_type='comment', url=None, parent=24821840, text='We tried ClickUp and gave up quickly. It has so many features that finding the thing to do takes a lot of time.')

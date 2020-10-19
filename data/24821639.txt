@@ -1,1 +1,1 @@
-Item(by='SpecialistEMT', descendants=None, kids=None, score=None, time=1603060198, title=None, item_type='comment', url=None, parent=24819515, text='I imagine the ratio is even smaller. HN is a often a particularly uninviting place to comment on.')
+Item(by='SpecialistEMT', descendants=None, kids=[24823064], score=None, time=1603060198, title=None, item_type='comment', url=None, parent=24819515, text='I imagine the ratio is even smaller. HN is a often a particularly uninviting place to comment on.')

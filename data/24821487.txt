@@ -1,1 +1,1 @@
-Item(by='shiny', descendants=None, kids=None, score=None, time=1603058666, title=None, item_type='comment', url=None, parent=24821325, text='Bedrock Sandals for me.  I can walk forever in them.  Feet can breathe and toes can spread.')
+Item(by='shiny', descendants=None, kids=[24823354], score=None, time=1603058666, title=None, item_type='comment', url=None, parent=24821325, text='Bedrock Sandals for me.  I can walk forever in them.  Feet can breathe and toes can spread.')

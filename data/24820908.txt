@@ -1,1 +1,1 @@
-Item(by='vishnunair', descendants=0, kids=None, score=1, time=1603053156, title='A GitHub-Action to create a Google cloud dataproc cluster for test use-cases', item_type='story', url='https://github.com/marketplace/actions/gcloud-dataproc-cluster-creation', parent=None, text=None)
+Item(by='vishnunair', descendants=0, kids=None, score=3, time=1603053156, title='A GitHub-Action to create a Google cloud dataproc cluster for test use-cases', item_type='story', url='https://github.com/marketplace/actions/gcloud-dataproc-cluster-creation', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='rad_gruchalski', descendants=None, kids=None, score=None, time=1603065351, title=None, item_type='comment', url=None, parent=24818550, text='Not everybody, no. I pay 42%. If one pays agewerbesteuer, it’s around 49% total.')
+Item(by='rad_gruchalski', descendants=None, kids=[24823817], score=None, time=1603065351, title=None, item_type='comment', url=None, parent=24818550, text='Not everybody, no. I pay 42%. If one pays agewerbesteuer, it’s around 49% total.')
