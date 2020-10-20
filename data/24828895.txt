@@ -1,1 +1,1 @@
-Item(by='AnimalMuppet', descendants=None, kids=None, score=None, time=1603130059, title=None, item_type='comment', url=None, parent=24828516, text='Some thoughtful praise of the interview style, yes.  But zero discussion of the actual content of the interview.')
+Item(by='AnimalMuppet', descendants=None, kids=[24831253], score=None, time=1603130059, title=None, item_type='comment', url=None, parent=24828516, text='Some thoughtful praise of the interview style, yes.  But zero discussion of the actual content of the interview.')

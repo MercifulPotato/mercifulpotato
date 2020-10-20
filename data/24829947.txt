@@ -1,1 +1,1 @@
-Item(by='catacombs', descendants=0, kids=None, score=2, time=1603135752, title='Interdimensional Cable Box', item_type='story', url='https://nimaid.github.io/tv/', parent=None, text=None)
+Item(by='catacombs', descendants=4, kids=[24832362], score=18, time=1603135752, title='Interdimensional Cable Box', item_type='story', url='https://nimaid.github.io/tv/', parent=None, text=None)

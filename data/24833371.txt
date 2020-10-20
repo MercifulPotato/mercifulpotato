@@ -1,0 +1,1 @@
+Item(by='ak217', descendants=None, kids=None, score=None, time=1603160422, title=None, item_type='comment', url=None, parent=24827360, text='I wish Bash had proper support for in-process subshells. I timed my code recently, and a variety of loop constructs was dramatically faster without subshells - but often required crazy contortions to avoid spawning one.')

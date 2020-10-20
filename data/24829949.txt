@@ -1,1 +1,1 @@
-Item(by='getunblnded', descendants=0, kids=None, score=1, time=1603135765, title='Show HN: What do you think about Retro Design for Social Networks? Nowadays', item_type='story', url='http://unblnd.com', parent=None, text=None)
+Item(by='getunblnded', descendants=3, kids=[24830250, 24830335], score=3, time=1603135765, title='Show HN: What do you think about Retro Design for Social Networks? Nowadays', item_type='story', url='http://unblnd.com', parent=None, text=None)

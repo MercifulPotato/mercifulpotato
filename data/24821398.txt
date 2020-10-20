@@ -1,1 +1,1 @@
-Item(by='silt', descendants=0, kids=None, score=3, time=1603057869, title='E. B. White’s “Plain Style” at 75', item_type='story', url='https://www.publicbooks.org/e-b-whites-plain-style-75/?utm_source=PUBLIC+BOOKS+Newsletter', parent=None, text=None)
+Item(by='silt', descendants=34, kids=[24831418, 24833445, 24830319, 24830283, 24832772, 24830270, 24830763], score=72, time=1603057869, title='E. B. White’s “Plain Style” at 75', item_type='story', url='https://www.publicbooks.org/e-b-whites-plain-style-75/?utm_source=PUBLIC+BOOKS+Newsletter', parent=None, text=None)

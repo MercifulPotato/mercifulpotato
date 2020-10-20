@@ -1,0 +1,1 @@
+Item(by='glebshevchuk', descendants=None, kids=None, score=None, time=1603136522, title=None, item_type='comment', url=None, parent=24823611, text='Can this approach be made more robust so it could be used in critical programs? Is there a way to formally verify performance of an approach like this?')

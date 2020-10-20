@@ -1,0 +1,1 @@
+Item(by='ndesaulniers', descendants=None, kids=None, score=None, time=1603140146, title=None, item_type='comment', url=None, parent=24829492, text='I use these a lot when someone sends a patch, I&#x27;ll use `vim -t &lt;function&gt;` to jump to the definition of &lt;function&gt; to better understand the change. (Where &lt;function&gt; is from the header of the hunk.)')

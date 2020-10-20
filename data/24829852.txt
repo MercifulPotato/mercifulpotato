@@ -1,1 +1,1 @@
-Item(by='flibble', descendants=0, kids=None, score=1, time=1603135255, title="Farmers seeking 'veggieburger' label ban in Europe", item_type='story', url='https://www.rte.ie/news/newslens/2020/1019/1172539-eu-farmers-veggieburger-ban/', parent=None, text=None)
+Item(by='flibble', descendants=1, kids=[24830735, 24830127], score=2, time=1603135255, title="Farmers seeking 'veggieburger' label ban in Europe", item_type='story', url='https://www.rte.ie/news/newslens/2020/1019/1172539-eu-farmers-veggieburger-ban/', parent=None, text=None)

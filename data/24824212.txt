@@ -1,1 +1,1 @@
-Item(by='creolabs', descendants=1, kids=[24828065], score=14, time=1603094895, title='SQLite Begin Concurrent', item_type='story', url='https://sqlite.org/src/doc/begin-concurrent/doc/begin_concurrent.md', parent=None, text=None)
+Item(by='creolabs', descendants=2, kids=[24828065], score=18, time=1603094895, title='SQLite Begin Concurrent', item_type='story', url='https://sqlite.org/src/doc/begin-concurrent/doc/begin_concurrent.md', parent=None, text=None)

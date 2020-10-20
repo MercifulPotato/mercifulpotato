@@ -1,0 +1,1 @@
+Item(by='danpeddle', descendants=None, kids=[24831708], score=None, time=1603145948, title=None, item_type='comment', url=None, parent=24831154, text='I took a very quick look at the source code, and seems you’re using the curl default options for things like the user agent. Please correct me if wrong!<p>Did you try pretending to be a search engine crawler, for an idea..?')

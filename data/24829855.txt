@@ -1,1 +1,1 @@
-Item(by='necrotic_comp', descendants=None, kids=None, score=None, time=1603135277, title=None, item_type='comment', url=None, parent=24829829, text='Why ? To me, Discord seems like a more fully featured IRC. What am I missing ?')
+Item(by='necrotic_comp', descendants=None, kids=[24830499], score=None, time=1603135277, title=None, item_type='comment', url=None, parent=24829829, text='Why ? To me, Discord seems like a more fully featured IRC. What am I missing ?')

@@ -1,1 +1,1 @@
-Item(by='dhxt', descendants=0, kids=None, score=3, time=1603127174, title='Faster full-text search with Django and Postgres', item_type='story', url='https://hodovi.ch/blog/optimizing-postgres-full-text-search-django/', parent=None, text=None)
+Item(by='dhxt', descendants=0, kids=None, score=4, time=1603127174, title='Faster full-text search with Django and Postgres', item_type='story', url='https://hodovi.ch/blog/optimizing-postgres-full-text-search-django/', parent=None, text=None)

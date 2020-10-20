@@ -1,1 +1,1 @@
-Item(by='beervirus', descendants=None, kids=None, score=None, time=1603129429, title=None, item_type='comment', url=None, parent=24826606, text='If that&#x27;s the definition, then plain text is also a program. It instructs your text editor what to display on the screen.')
+Item(by='beervirus', descendants=None, kids=[24831843, 24831334], score=None, time=1603129429, title=None, item_type='comment', url=None, parent=24826606, text='If that&#x27;s the definition, then plain text is also a program. It instructs your text editor what to display on the screen.')

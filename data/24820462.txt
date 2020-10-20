@@ -1,1 +1,1 @@
-Item(by='treis', descendants=None, kids=None, score=None, time=1603049867, title=None, item_type='comment', url=None, parent=24819251, text='Lots of people can&#x27;t test Safari because they don&#x27;t have Macs.')
+Item(by='treis', descendants=None, kids=[24830679], score=None, time=1603049867, title=None, item_type='comment', url=None, parent=24819251, text='Lots of people can&#x27;t test Safari because they don&#x27;t have Macs.')

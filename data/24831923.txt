@@ -1,0 +1,1 @@
+Item(by='lilyball', descendants=None, kids=None, score=None, time=1603148015, title=None, item_type='comment', url=None, parent=24828984, text='FWIW shellcheck can help flag cases where you used a bashism in a file with the #!&#x2F;bin&#x2F;sh shebang.')

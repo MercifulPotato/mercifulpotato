@@ -1,1 +1,1 @@
-Item(by='ajuc', descendants=None, kids=None, score=None, time=1603129566, title=None, item_type='comment', url=None, parent=24828778, text='At the machine code level there&#x27;s no Iteration just GOTO :)')
+Item(by='ajuc', descendants=None, kids=[24831097], score=None, time=1603129566, title=None, item_type='comment', url=None, parent=24828778, text='At the machine code level there&#x27;s no Iteration just GOTO :)')

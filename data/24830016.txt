@@ -1,1 +1,1 @@
-Item(by='kache_', descendants=None, kids=None, score=None, time=1603136106, title=None, item_type='comment', url=None, parent=24829650, text='If you&#x27;re using monero correctly, no one should know you own any.')
+Item(by='kache_', descendants=None, kids=[24831002, 24831046], score=None, time=1603136106, title=None, item_type='comment', url=None, parent=24829650, text='If you&#x27;re using monero correctly, no one should know you own any.')

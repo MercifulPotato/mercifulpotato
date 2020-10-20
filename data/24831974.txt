@@ -1,0 +1,1 @@
+Item(by='ViViDboarder', descendants=None, kids=None, score=None, time=1603148315, title=None, item_type='comment', url=None, parent=24827903, text='Within the app, sure. But they can’t arbitrarily exfiltrate information from other apps or from your file system since each app is sandboxed.')

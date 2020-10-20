@@ -1,1 +1,1 @@
-Item(by='dredmorbius', descendants=6, kids=[24823758, 24823397, 24823996, 24823685], score=36, time=1603006391, title='PlentyFS: PoC read-only filesystem with random contents generated on demand', item_type='story', url='https://github.com/Minoru/plentyfs/', parent=None, text=None)
+Item(by='dredmorbius', descendants=9, kids=[24823758, 24823397, 24823996, 24823685], score=38, time=1603006391, title='PlentyFS: PoC read-only filesystem with random contents generated on demand', item_type='story', url='https://github.com/Minoru/plentyfs/', parent=None, text=None)

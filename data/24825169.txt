@@ -1,1 +1,1 @@
-Item(by='qayxc', descendants=None, kids=None, score=None, time=1603105522, title=None, item_type='comment', url=None, parent=24823169, text='But isn&#x27;t the fact that the AI doesn&#x27;t get bored and can stay focused indefinitely an important factor in the evaluation?')
+Item(by='qayxc', descendants=None, kids=[24830868], score=None, time=1603105522, title=None, item_type='comment', url=None, parent=24823169, text='But isn&#x27;t the fact that the AI doesn&#x27;t get bored and can stay focused indefinitely an important factor in the evaluation?')

@@ -1,1 +1,1 @@
-Item(by='musicale', descendants=None, kids=None, score=None, time=1603090416, title=None, item_type='comment', url=None, parent=24823312, text='&gt;I&#x27;m not distracted by my body&#x27;s internal sounds<p>You are very lucky.')
+Item(by='musicale', descendants=None, kids=[24831484], score=None, time=1603090416, title=None, item_type='comment', url=None, parent=24823312, text='&gt;I&#x27;m not distracted by my body&#x27;s internal sounds<p>You are very lucky.')

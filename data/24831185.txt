@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=[24831512, 24831959, 24831301, 24833275], score=None, time=1603142608, title=None, item_type='comment', url=None, parent=24829552, text='You can&#x27;t coherently be alarmed by Signal&#x27;s use of SGX while at the same time endorsing systems that use no cryptography whatsoever to protect the metadata Signal uses SGX for.')

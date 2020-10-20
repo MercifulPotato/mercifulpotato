@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=[24831239], score=None, time=1603140151, title=None, item_type='comment', url=None, parent=24830750, text='I mean you could also imagine someone somehow seeding your ip address into the crowdsourced fail2ban to maliciously deny you access to your machine for maintenance, or to trigger some sort of opsec regression to get access.')
