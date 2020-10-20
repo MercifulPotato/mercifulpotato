@@ -1,0 +1,1 @@
+Item(by='robmsmt', descendants=None, kids=None, score=None, time=1603163771, title=None, item_type='comment', url=None, parent=24833506, text='We mostly use gitflow. Commits do not just &quot;sneak in&quot;. Master is locked and needs a PR&#x2F;CR to merge. The process usually takes care of the majority of the issues and usually works okay for us.')

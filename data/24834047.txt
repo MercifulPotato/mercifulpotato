@@ -1,0 +1,1 @@
+Item(by='mvila', descendants=None, kids=None, score=None, time=1603169733, title=None, item_type='comment', url=None, parent=24833411, text='Any Node.js environment can run the backend. As for the database, Liaison supports only MongoDB for now, but more databases are expected to be supported in the future.')

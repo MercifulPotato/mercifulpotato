@@ -1,1 +1,1 @@
-Item(by='cwyers', descendants=None, kids=None, score=None, time=1603144848, title=None, item_type='comment', url=None, parent=24831468, text='Who, though? Matrix has contact discovery, doesn&#x27;t it?')
+Item(by='cwyers', descendants=None, kids=[24833602], score=None, time=1603144848, title=None, item_type='comment', url=None, parent=24831468, text='Who, though? Matrix has contact discovery, doesn&#x27;t it?')

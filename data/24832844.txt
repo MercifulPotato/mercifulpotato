@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=1, time=1603154838, title='Assorted Thoughts on Zig (and Rust)', item_type='story', url='https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/', parent=None, text=None)
+Item(by='todsacerdoti', descendants=0, kids=[24834639], score=5, time=1603154838, title='Assorted Thoughts on Zig (and Rust)', item_type='story', url='https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/', parent=None, text=None)

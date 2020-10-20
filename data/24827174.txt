@@ -1,1 +1,1 @@
-Item(by='lovegoblin', descendants=None, kids=None, score=None, time=1603121055, title=None, item_type='comment', url=None, parent=24823617, text='Unknown. They are only hypothetical.')
+Item(by='lovegoblin', descendants=None, kids=[24834382], score=None, time=1603121055, title=None, item_type='comment', url=None, parent=24823617, text='Unknown. They are only hypothetical.')

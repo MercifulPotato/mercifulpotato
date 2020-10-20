@@ -1,0 +1,1 @@
+Item(by='CamperBob2', descendants=None, kids=[24834259, 24834291], score=None, time=1603171678, title=None, item_type='comment', url=None, parent=24833218, text='Interesting.  The CPU-based texture lookups sound murderous, though.  Why not convert the PTEX textures to a format the GPU can handle?')

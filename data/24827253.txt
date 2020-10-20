@@ -1,1 +1,1 @@
-Item(by='miked85', descendants=None, kids=[24827554, 24829062, 24827344, 24828070, 24827955, 24827716], score=None, time=1603121470, title=None, item_type='comment', url=None, parent=24826792, text='Is the fact that it is &quot;written in Go&quot; a selling point?')
+Item(by='miked85', descendants=None, kids=[24827554, 24827344, 24829062, 24828070, 24827716, 24827955], score=None, time=1603121470, title=None, item_type='comment', url=None, parent=24826792, text='Is the fact that it is &quot;written in Go&quot; a selling point?')

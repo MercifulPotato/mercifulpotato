@@ -1,1 +1,1 @@
-Item(by='nabla9', descendants=None, kids=None, score=None, time=1603142316, title=None, item_type='comment', url=None, parent=24831125, text='Microsoft owns GitHub.')
+Item(by='nabla9', descendants=None, kids=[24834016], score=None, time=1603142316, title=None, item_type='comment', url=None, parent=24831125, text='Microsoft owns GitHub.')

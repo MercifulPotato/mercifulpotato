@@ -1,1 +1,1 @@
-Item(by='ApolloRising', descendants=None, kids=None, score=None, time=1603098388, title=None, item_type='comment', url=None, parent=24823163, text='Can you self host some of it? How much can you afford, you left that part out so it is hard to figure out what would fit in your budget.')
+Item(by='ApolloRising', descendants=None, kids=[24833429], score=None, time=1603098388, title=None, item_type='comment', url=None, parent=24823163, text='Can you self host some of it? How much can you afford, you left that part out so it is hard to figure out what would fit in your budget.')

@@ -1,1 +1,1 @@
-Item(by='nendroid', descendants=None, kids=None, score=None, time=1602987299, title=None, item_type='comment', url=None, parent=24814424, text='Which is the majority of applications nowadays.')
+Item(by='nendroid', descendants=None, kids=[24834904], score=None, time=1602987299, title=None, item_type='comment', url=None, parent=24814424, text='Which is the majority of applications nowadays.')

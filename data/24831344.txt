@@ -1,1 +1,1 @@
-Item(by='patrec', descendants=None, kids=None, score=None, time=1603143734, title=None, item_type='comment', url=None, parent=24830661, text='That&#x27;s mostly irrelevant, since basically no one writes shell code in zsh and this is unlikely to change that.')
+Item(by='patrec', descendants=None, kids=[24833547], score=None, time=1603143734, title=None, item_type='comment', url=None, parent=24830661, text='That&#x27;s mostly irrelevant, since basically no one writes shell code in zsh and this is unlikely to change that.')

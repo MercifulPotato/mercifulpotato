@@ -1,1 +1,1 @@
-Item(by='aidenn0', descendants=None, kids=None, score=None, time=1603074948, title=None, item_type='comment', url=None, parent=24818854, text='C was specified by K&amp;R in 1978.  Pascal had a specification for the core language, and BASIC was largely seen as a toy.')
+Item(by='aidenn0', descendants=None, kids=[24834094], score=None, time=1603074948, title=None, item_type='comment', url=None, parent=24818854, text='C was specified by K&amp;R in 1978.  Pascal had a specification for the core language, and BASIC was largely seen as a toy.')

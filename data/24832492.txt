@@ -1,1 +1,1 @@
-Item(by='molsonhart', descendants=None, kids=None, score=None, time=1603152385, title=None, item_type='comment', url=None, parent=24826188, text='Injection molding is really hard. I can program and I find it to be harder than computer science, by a lot.')
+Item(by='molsonhart', descendants=None, kids=[24833529], score=None, time=1603152385, title=None, item_type='comment', url=None, parent=24826188, text='Injection molding is really hard. I can program and I find it to be harder than computer science, by a lot.')

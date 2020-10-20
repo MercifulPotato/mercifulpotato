@@ -1,0 +1,1 @@
+Item(by='thejsa', descendants=None, kids=None, score=None, time=1603176749, title=None, item_type='comment', url=None, parent=24833746, text='My understanding is that the permissions popup is used for the registration flow (generating &amp; enrolling a key into the Secure Enclave), and after that if there are existing credentials, it&#x27;s just &#x27;Touch ID to login&#x27;.')

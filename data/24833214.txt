@@ -1,1 +1,1 @@
-Item(by='eloff', descendants=None, kids=None, score=None, time=1603158311, title=None, item_type='comment', url=None, parent=24833021, text='I can&#x27;t reveal that here because it&#x27;s easy to identify me from my HN posts and thus tie his pen name to his real identity.')
+Item(by='eloff', descendants=None, kids=[24833923], score=None, time=1603158311, title=None, item_type='comment', url=None, parent=24833021, text='I can&#x27;t reveal that here because it&#x27;s easy to identify me from my HN posts and thus tie his pen name to his real identity.')

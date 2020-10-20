@@ -1,1 +1,1 @@
-Item(by='1_player', descendants=None, kids=None, score=None, time=1603156120, title=None, item_type='comment', url=None, parent=24830563, text='Care to point out where in TFA Nvidia has been putting the blame on Linux?')
+Item(by='1_player', descendants=None, kids=[24834503], score=None, time=1603156120, title=None, item_type='comment', url=None, parent=24830563, text='Care to point out where in TFA Nvidia has been putting the blame on Linux?')

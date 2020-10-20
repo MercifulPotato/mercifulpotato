@@ -1,1 +1,1 @@
-Item(by='dilap', descendants=None, kids=None, score=None, time=1603072933, title=None, item_type='comment', url=None, parent=24822702, text='Yeah there&#x27;s definitely a place for both.<p>That said, the older I get, the more I appreciate obvious code...')
+Item(by='dilap', descendants=None, kids=[24833773], score=None, time=1603072933, title=None, item_type='comment', url=None, parent=24822702, text='Yeah there&#x27;s definitely a place for both.<p>That said, the older I get, the more I appreciate obvious code...')

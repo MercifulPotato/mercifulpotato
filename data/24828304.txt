@@ -1,1 +1,1 @@
-Item(by='lapetitejort', descendants=None, kids=None, score=None, time=1603126811, title=None, item_type='comment', url=None, parent=24827886, text='I regularly use sad emojis when I let my boss know I just screwed something up in production. For celebrations we use giphy.')
+Item(by='lapetitejort', descendants=None, kids=[24834631], score=None, time=1603126811, title=None, item_type='comment', url=None, parent=24827886, text='I regularly use sad emojis when I let my boss know I just screwed something up in production. For celebrations we use giphy.')

@@ -1,1 +1,1 @@
-Item(by='IA21', descendants=39, kids=[24833371, 24828750, 24832982, 24828984, 24830611, 24832867], score=97, time=1603122160, title='Pure sh bible – Posix sh alternatives to external processes', item_type='story', url='https://github.com/dylanaraps/pure-sh-bible', parent=None, text=None)
+Item(by='IA21', descendants=43, kids=[24828750, 24828984, 24830611, 24832982, 24833371, 24832867], score=124, time=1603122160, title='Pure sh bible – Posix sh alternatives to external processes', item_type='story', url='https://github.com/dylanaraps/pure-sh-bible', parent=None, text=None)

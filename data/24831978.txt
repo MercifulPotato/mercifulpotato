@@ -1,1 +1,1 @@
-Item(by='eertami', descendants=None, kids=None, score=None, time=1603148355, title=None, item_type='comment', url=None, parent=24830341, text='But... surely you could then also use OTR on Discord?')
+Item(by='eertami', descendants=None, kids=[24834669, 24834632], score=None, time=1603148355, title=None, item_type='comment', url=None, parent=24830341, text='But... surely you could then also use OTR on Discord?')

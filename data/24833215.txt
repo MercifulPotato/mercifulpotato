@@ -1,1 +1,1 @@
-Item(by='kristianov', descendants=None, kids=None, score=None, time=1603158314, title=None, item_type='comment', url=None, parent=24832902, text='Terry Gou was running for president of taiwan, and he needed support and endorsement from Trump. He got it, and he still lost.')
+Item(by='kristianov', descendants=None, kids=[24833874], score=None, time=1603158314, title=None, item_type='comment', url=None, parent=24832902, text='Terry Gou was running for president of taiwan, and he needed support and endorsement from Trump. He got it, and he still lost.')

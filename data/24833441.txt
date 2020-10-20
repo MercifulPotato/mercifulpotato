@@ -1,0 +1,1 @@
+Item(by='zxcvbn4038', descendants=None, kids=[24833528], score=None, time=1603161328, title=None, item_type='comment', url=None, parent=24829565, text='Last I checked Apple only supported U2F and similar in Safari - the WebKit exposed for the other iOS browsers use can’t access those features. Did that change in iOS 14?')

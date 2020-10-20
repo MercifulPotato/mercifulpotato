@@ -1,1 +1,1 @@
-Item(by='pradn', descendants=None, kids=None, score=None, time=1603147901, title=None, item_type='comment', url=None, parent=24830762, text='I&#x27;m curious: how much revenue can an acre generate where you are?')
+Item(by='pradn', descendants=None, kids=[24833919], score=None, time=1603147901, title=None, item_type='comment', url=None, parent=24830762, text='I&#x27;m curious: how much revenue can an acre generate where you are?')

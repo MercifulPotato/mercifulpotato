@@ -1,0 +1,1 @@
+Item(by='kyboren', descendants=None, kids=[24834033, 24834011], score=None, time=1603162164, title=None, item_type='comment', url=None, parent=24830927, text='Alternatively:<p><pre><code>    gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=output.pdf input1.pdf input2.pdf input3.pdf [...]</code></pre>')

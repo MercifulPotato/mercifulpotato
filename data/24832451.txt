@@ -1,1 +1,1 @@
-Item(by='wh1t3n01s3', descendants=None, kids=None, score=None, time=1603151962, title=None, item_type='comment', url=None, parent=24832237, text='With Brave browser it’s trivial to stop the <i>crookies</i>, even for the average user.\nProblem is, no average user uses Brave.')
+Item(by='wh1t3n01s3', descendants=None, kids=[24833460], score=None, time=1603151962, title=None, item_type='comment', url=None, parent=24832237, text='With Brave browser it’s trivial to stop the <i>crookies</i>, even for the average user.\nProblem is, no average user uses Brave.')
