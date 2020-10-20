@@ -1,0 +1,1 @@
+Item(by='scoopr', descendants=None, kids=[24837547, 24835828], score=None, time=1603189731, title=None, item_type='comment', url=None, parent=24835219, text='Hmm, this is very neat and elegant! But how well is svg (or data:) favicons supported in random non-strictly-browser context, like password managers, or some link aggregator&#x2F;bookmarking style sites or apps?')

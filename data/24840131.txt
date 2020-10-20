@@ -1,0 +1,1 @@
+Item(by='rolls-reus', descendants=None, kids=[24840308], score=None, time=1603215165, title=None, item_type='comment', url=None, parent=24839702, text='How do you find out that the optimiser inlined the subquery? Is this visible in the explain output?')

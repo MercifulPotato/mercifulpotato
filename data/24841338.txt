@@ -1,0 +1,1 @@
+Item(by='978e4721a', descendants=None, kids=None, score=None, time=1603221676, title=None, item_type='comment', url=None, parent=24835357, text='Rust restricts compile time code to what t can prove.<p>Exactly! That&#x27;s a feature. Rust is a step forward to a future where code is based on sound theory (type Theory) not on some ad-hoc &quot;seems to be working&quot; basis.')

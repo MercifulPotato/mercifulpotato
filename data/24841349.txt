@@ -1,0 +1,1 @@
+Item(by='ZephyrBlu', descendants=None, kids=[24841736], score=None, time=1603221719, title=None, item_type='comment', url=None, parent=24840412, text='Why is language interop not this simple for everything?<p>It seems insane to me that it&#x27;s this easy in Julia, yet most other languages are completely incompatible without transpiling one into the other.')

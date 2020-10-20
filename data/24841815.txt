@@ -1,0 +1,1 @@
+Item(by='Nextgrid', descendants=None, kids=None, score=None, time=1603224268, title=None, item_type='comment', url=None, parent=24838875, text='Firmware bugs (an overflowing counter, etc) are not predictable and this is where long-term enterprise usage data could be helpful as drives that are always-on for years are more likely to trigger those bugs than casual desktop usage.')

@@ -1,1 +1,1 @@
-Item(by='lprd', descendants=None, kids=None, score=None, time=1603178495, title=None, item_type='comment', url=None, parent=24834629, text='How much is citizenship?')
+Item(by='lprd', descendants=None, kids=[24834744, 24834915], score=None, time=1603178495, title=None, item_type='comment', url=None, parent=24834629, text='How much is citizenship?')

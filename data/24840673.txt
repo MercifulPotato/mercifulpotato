@@ -1,0 +1,1 @@
+Item(by='commandlinefan', descendants=None, kids=[24841611], score=None, time=1603218002, title=None, item_type='comment', url=None, parent=24839101, text='I was trying to figure out how my routing table was set up on my iPad and I found out that iOS doesn&#x27;t expose <i>any</i> interface to routing tables, at any level of privilege.  Very frustrating.')

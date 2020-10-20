@@ -1,0 +1,1 @@
+Item(by='chmod600', descendants=None, kids=None, score=None, time=1603213896, title=None, item_type='comment', url=None, parent=24839736, text='Rust has an RFC process, which is great in many ways. But for something like a module system where everyone has an opinion, it can result in an over-engineered solution that tries to satisfy everyone.')

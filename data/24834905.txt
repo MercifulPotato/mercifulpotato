@@ -1,1 +1,1 @@
-Item(by='pabs3', descendants=None, kids=None, score=None, time=1603180824, title=None, item_type='comment', url=None, parent=24834843, text='IIRC archive.org pay attention to the robots.txt now rather than in 2024.')
+Item(by='pabs3', descendants=None, kids=[24834979], score=None, time=1603180824, title=None, item_type='comment', url=None, parent=24834843, text='IIRC archive.org pay attention to the robots.txt now rather than in 2024.')

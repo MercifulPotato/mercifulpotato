@@ -1,1 +1,1 @@
-Item(by='swebs', descendants=None, kids=None, score=None, time=1603148097, title=None, item_type='comment', url=None, parent=24830680, text='Biometric data is leaked whenever you touch a doorknob.')
+Item(by='swebs', descendants=None, kids=[24835723], score=None, time=1603148097, title=None, item_type='comment', url=None, parent=24830680, text='Biometric data is leaked whenever you touch a doorknob.')

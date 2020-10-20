@@ -1,0 +1,1 @@
+Item(by='ignoramous', descendants=None, kids=None, score=None, time=1603210085, title=None, item_type='comment', url=None, parent=24838978, text='I use Firefox 78 on Ubuntu 19.10 and do not see 100% CPU usage at all. In fact, with over 1000+ tabs all 8 cores are just over 10% (of course there are other processes running as well).<p>Is there a bug with more details on this?')

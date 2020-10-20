@@ -1,0 +1,1 @@
+Item(by='dheera', descendants=None, kids=[24839239], score=None, time=1603210973, title=None, item_type='comment', url=None, parent=24839101, text='&gt; wait for a DNS response and then use said DNS response to synchronize time via NTP before letting the user use the keyboard<p>... and what if your network is down? You can&#x27;t even use your keyboard?')

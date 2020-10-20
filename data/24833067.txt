@@ -1,1 +1,1 @@
-Item(by='zapzupnz', descendants=None, kids=None, score=None, time=1603156701, title=None, item_type='comment', url=None, parent=24831914, text='It&#x27;s not recent at all. That&#x27;s how I first used Discord back in 2015.')
+Item(by='zapzupnz', descendants=None, kids=[24835912], score=None, time=1603156701, title=None, item_type='comment', url=None, parent=24831914, text='It&#x27;s not recent at all. That&#x27;s how I first used Discord back in 2015.')

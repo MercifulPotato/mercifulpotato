@@ -1,0 +1,1 @@
+Item(by='pron', descendants=None, kids=[24838141], score=None, time=1603197425, title=None, item_type='comment', url=None, parent=24835357, text='&gt; As long as all unsafe code obeys the aliasing and lifetime rules, rust protects completely against UAF. Zig has little protection.<p>... now. The goal is to have full protection against UAF (in safe-mode only, of course).')

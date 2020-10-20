@@ -1,1 +1,1 @@
-Item(by='etaioinshrdlu', descendants=None, kids=None, score=None, time=1603173577, title=None, item_type='comment', url=None, parent=24833218, text='Is this work sponsored by anyone, or for a competition, or is it just for fun?')
+Item(by='etaioinshrdlu', descendants=None, kids=[24835107], score=None, time=1603173577, title=None, item_type='comment', url=None, parent=24833218, text='Is this work sponsored by anyone, or for a competition, or is it just for fun?')

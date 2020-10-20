@@ -1,0 +1,1 @@
+Item(by='tux1968', descendants=None, kids=[24840872], score=None, time=1603208107, title=None, item_type='comment', url=None, parent=24838471, text='Not sure why you&#x27;re seeing that, a tab shouldn&#x27;t be reloaded until you click on it the first time in the reloaded session, just retested here to confirm that is the case.')

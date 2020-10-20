@@ -1,0 +1,1 @@
+Item(by='eptcyka', descendants=None, kids=[24839522, 24839282], score=None, time=1603211024, title=None, item_type='comment', url=None, parent=24839226, text='I should&#x27;ve clarified - it only does this if there is a default route. Funnily enough, whilst the firewalls in the original twitter post would possibly fail to catch this traffic, PF will block it just fine.')

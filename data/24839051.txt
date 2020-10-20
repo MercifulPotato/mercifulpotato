@@ -1,0 +1,1 @@
+Item(by='skohan', descendants=None, kids=None, score=None, time=1603210177, title=None, item_type='comment', url=None, parent=24837567, text='But is that because of npm, or is it because of their massive array of dependencies, plus webpack, bable, pollyfills and whatever 5 transpilers they have integraated into their project?')

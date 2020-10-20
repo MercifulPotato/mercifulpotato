@@ -1,0 +1,1 @@
+Item(by='acqq', descendants=None, kids=None, score=None, time=1603198124, title=None, item_type='comment', url=None, parent=24836406, text='Exactly. Probably better using some established C http library in Zig? Using C libraries is very easy in Zig, as far as I understand. What‘s the problem in using Libcurl?')

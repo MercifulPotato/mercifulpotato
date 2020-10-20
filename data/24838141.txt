@@ -1,0 +1,1 @@
+Item(by='mwcampbell', descendants=None, kids=[24838240, 24838699], score=None, time=1603206234, title=None, item_type='comment', url=None, parent=24836565, text='&gt; (in safe-mode only, of course)<p>Then it seems to me that Rust still has an advantage, in that it offers full protection of UAF with zero runtime overhead.')

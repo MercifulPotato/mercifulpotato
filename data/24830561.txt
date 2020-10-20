@@ -1,1 +1,1 @@
-Item(by='kortilla', descendants=None, kids=None, score=None, time=1603139016, title=None, item_type='comment', url=None, parent=24830037, text='IRC isn’t a glass house when it comes to lack of a central censor&#x2F;arbiter of the protocol.')
+Item(by='kortilla', descendants=None, kids=[24835091], score=None, time=1603139016, title=None, item_type='comment', url=None, parent=24830037, text='IRC isn’t a glass house when it comes to lack of a central censor&#x2F;arbiter of the protocol.')

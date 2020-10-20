@@ -1,0 +1,1 @@
+Item(by='marmaduke', descendants=None, kids=[24840988], score=None, time=1603219153, title=None, item_type='comment', url=None, parent=24840694, text='&gt; I&#x27;m sure an AVX-based compile could work eventually.<p>Eventually is nice but it’s also easy to imagine that it never gets done. ISPC works today.')

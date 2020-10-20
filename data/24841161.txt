@@ -1,0 +1,1 @@
+Item(by='saddlerustle', descendants=None, kids=None, score=None, time=1603220634, title=None, item_type='comment', url=None, parent=24840611, text='Google Cloud does not support IPv6. There&#x27;s no way to make connections to IPv6 hosts from a GCE vm.')

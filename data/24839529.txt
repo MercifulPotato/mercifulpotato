@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=None, kids=[24840240], score=None, time=1603212266, title=None, item_type='comment', url=None, parent=24839381, text='DNSSEC does not do encryption: DNSSEC is about data origin authentication. Encrypted DNS is DoT or DoH, DNS-over-TLS or DNS-over-HTTPS (and maybe in the future DoQ, DNS-over-QUIC)')

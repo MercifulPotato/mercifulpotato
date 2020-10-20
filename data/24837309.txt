@@ -1,0 +1,1 @@
+Item(by='coldtea', descendants=58, kids=[24838221, 24837890, 24839697, 24840997, 24839669, 24838504, 24839663, 24840262, 24841159, 24840954, 24837627, 24839286], score=143, time=1603202126, title='Implementation plan for speeding up CPython', item_type='story', url='https://github.com/markshannon/faster-cpython/blob/master/plan.md', parent=None, text=None)

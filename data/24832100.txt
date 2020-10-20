@@ -1,1 +1,1 @@
-Item(by='gowld', descendants=None, kids=None, score=None, time=1603149157, title=None, item_type='comment', url=None, parent=24830980, text='It&#x27;s extremely cheap to syndicate to Medium plus other venues. Not so for Sign In With.')
+Item(by='gowld', descendants=None, kids=[24838736], score=None, time=1603149157, title=None, item_type='comment', url=None, parent=24830980, text='It&#x27;s extremely cheap to syndicate to Medium plus other venues. Not so for Sign In With.')

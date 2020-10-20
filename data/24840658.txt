@@ -1,0 +1,1 @@
+Item(by='LeoPanthera', descendants=None, kids=None, score=None, time=1603217940, title=None, item_type='comment', url=None, parent=24839355, text='&quot;International Atomic Time&quot; (TAI) is probably the logical choice. It&#x27;s the same as UTC, but without leap seconds.<p>Maybe the &quot;stardate&quot; of the future will simply be Unix Time, but based on TAI.')

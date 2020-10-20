@@ -1,1 +1,1 @@
-Item(by='dboreham', descendants=None, kids=None, score=None, time=1603156836, title=None, item_type='comment', url=None, parent=24829929, text='Based on a recent trip to Vegas, machines that accept cash are now rare.')
+Item(by='dboreham', descendants=None, kids=[24834920], score=None, time=1603156836, title=None, item_type='comment', url=None, parent=24829929, text='Based on a recent trip to Vegas, machines that accept cash are now rare.')

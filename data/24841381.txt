@@ -1,0 +1,1 @@
+Item(by='GekkePrutser', descendants=None, kids=None, score=None, time=1603221867, title=None, item_type='comment', url=None, parent=24839618, text='Won&#x27;t Launchd simply start them all up again? It&#x27;ll be simpler to disable the launchDaemons :P<p>And really, put a sleep in there of at least a second or so or this&#x27;ll be a huge resource hog.')

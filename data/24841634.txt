@@ -1,0 +1,1 @@
+Item(by='ignoramous', descendants=None, kids=None, score=None, time=1603223247, title=None, item_type='comment', url=None, parent=24841388, text='&gt; <i>Third, I set my recursive resolver to use the nextdns.io endpoint as its upstream source of DNS.</i><p>Wouldn&#x27;t that relegate your recursive resolver to a stub resolver?')

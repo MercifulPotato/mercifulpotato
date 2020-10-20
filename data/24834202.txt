@@ -1,1 +1,1 @@
-Item(by='mleonhard', descendants=None, kids=None, score=None, time=1603172056, title=None, item_type='comment', url=None, parent=24820558, text='Do you have a proper muffler?  If not, your noise diminishes quality of life for everyone around you every day.')
+Item(by='mleonhard', descendants=None, kids=[24835984], score=None, time=1603172056, title=None, item_type='comment', url=None, parent=24820558, text='Do you have a proper muffler?  If not, your noise diminishes quality of life for everyone around you every day.')

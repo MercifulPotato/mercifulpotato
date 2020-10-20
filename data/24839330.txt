@@ -1,0 +1,1 @@
+Item(by='monksy', descendants=None, kids=[24841050], score=None, time=1603211361, title=None, item_type='comment', url=None, parent=24837031, text='This sounds like streaming and what kafka streaming has been doing for a while. Everything is eventually consistent and what&#x27;s served up is the current state at the time of the request.')

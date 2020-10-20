@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=None, score=None, time=1603205657, title=None, item_type='comment', url=None, parent=24837485, text='I see a lot of tracing and sampling profilers for Python, but are there any profilers for manual instrumentation (goes by a bunch of names, frame profiling, performance telemetry, APM etc.)?')

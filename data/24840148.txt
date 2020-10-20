@@ -1,0 +1,1 @@
+Item(by='Spivak', descendants=None, kids=None, score=None, time=1603215245, title=None, item_type='comment', url=None, parent=24839572, text='But DoH is just any other HTTP request. This is the downside of networks blocking everything except 80&#x2F;443 outbound and browsers not supporting SRV records.')

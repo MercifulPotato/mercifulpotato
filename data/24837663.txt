@@ -1,0 +1,1 @@
+Item(by='true_religion', descendants=None, kids=None, score=None, time=1603204021, title=None, item_type='comment', url=None, parent=24837599, text='People using numpy are not in the fringe. If this wasn’t triaged during prereleases then it’s either that it doesn’t always cause problems, or there is an issue in the diversity of testers.')

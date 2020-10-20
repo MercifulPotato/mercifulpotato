@@ -1,1 +1,1 @@
-Item(by='stchacademy', descendants=0, kids=None, score=25, time=1603178073, title='Show HN: Arturo – REBOL-inspired programming language and VM written in Nim', item_type='story', url='https://github.com/arturo-lang', parent=None, text=None)
+Item(by='stchacademy', descendants=47, kids=[24836257, 24837104, 24835452, 24837030, 24836413, 24835269, 24836042, 24834820, 24835221, 24835233], score=244, time=1603178073, title='Show HN: Arturo – REBOL-inspired programming language and VM written in Nim', item_type='story', url='https://github.com/arturo-lang', parent=None, text=None)

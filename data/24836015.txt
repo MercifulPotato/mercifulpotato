@@ -1,0 +1,1 @@
+Item(by='jventura', descendants=None, kids=[24836071, 24836040], score=None, time=1603192049, title=None, item_type='comment', url=None, parent=24835694, text='Typical..<p><pre><code>  while (1) { \n    company_does_something_stupid();\n    gets_caught();\n    apologize();\n    makes_promises();\n    if (bankrupt)\n        break;\n  }</code></pre>')

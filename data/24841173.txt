@@ -1,0 +1,1 @@
+Item(by='karmakaze', descendants=None, kids=None, score=None, time=1603220717, title=None, item_type='comment', url=None, parent=24838415, text='For MySQL with the default InnoDB where text bytes also depends on the &#x27;row format&#x27; in use. &quot;The InnoDB storage engine supports four row formats: REDUNDANT, COMPACT, DYNAMIC, and COMPRESSED.&quot;')

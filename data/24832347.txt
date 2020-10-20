@@ -1,1 +1,1 @@
-Item(by='hpagey', descendants=None, kids=None, score=None, time=1603150940, title=None, item_type='comment', url=None, parent=24828948, text='Can I contact you ? If so how?')
+Item(by='hpagey', descendants=None, kids=[24837537], score=None, time=1603150940, title=None, item_type='comment', url=None, parent=24828948, text='Can I contact you ? If so how?')

@@ -1,0 +1,1 @@
+Item(by='outworlder', descendants=None, kids=None, score=None, time=1603223296, title=None, item_type='comment', url=None, parent=24836979, text='One thing to keep in mind is that TOAST tables also require vacuum. As any other table, they will also count towards the TXID limits. Make sure to tune the DB accordingly if you have too many of those and the DB is busy with writes.')

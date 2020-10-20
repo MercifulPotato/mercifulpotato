@@ -1,0 +1,1 @@
+Item(by='moultano', descendants=None, kids=[24841935], score=None, time=1603224603, title=None, item_type='comment', url=None, parent=24841786, text='With squared loss where it&#x27;s easy for the loss to be zero, then yes, it will have lots of global minima, all at a loss of zero. For losses that asympotote, like logloss, they may have no minima.')

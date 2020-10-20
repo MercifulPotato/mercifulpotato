@@ -1,0 +1,1 @@
+Item(by='a1369209993', descendants=None, kids=None, score=None, time=1603222314, title=None, item_type='comment', url=None, parent=24840857, text='&gt; if you do strlen(s) without checking if there is actually a NUL first<p>Then your problems have nothing to do with invalid UTF-8, because that issue occurs even in pure ASCII.')

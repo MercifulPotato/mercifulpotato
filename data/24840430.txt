@@ -1,0 +1,1 @@
+Item(by='klodolph', descendants=None, kids=None, score=None, time=1603216641, title=None, item_type='comment', url=None, parent=24840091, text='You’d probably want to do it in FFmpeg, because in order to get the audio in to Audacity and back out again you’d have to use FFmpeg anyway.<p>I also get a massive headache just from using Audacity.')

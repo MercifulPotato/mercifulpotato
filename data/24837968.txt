@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=[24841665], score=None, time=1603205445, title=None, item_type='comment', url=None, parent=24837921, text='Exactly.  You can <i>also</i> use non-comptime functions in comptime, if it avoids certain types of stateful behaviour.')

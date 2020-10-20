@@ -1,0 +1,1 @@
+Item(by='wslh', descendants=None, kids=[24838381, 24840259, 24838417, 24838389, 24838501, 24838424], score=None, time=1603206631, title=None, item_type='comment', url=None, parent=24837944, text='So HN could detect dups based on hashes instead? I understand the HTML could be different while the content is the same but this is an extra step that helps.')

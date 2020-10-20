@@ -1,0 +1,1 @@
+Item(by='cyphar', descendants=None, kids=[24841097], score=None, time=1603212003, title=None, item_type='comment', url=None, parent=24838091, text='Signal and other OTR-derived systems actually cannot cryptographically prove that someone sent a message (the recipient can forge the message because the message is authenticated via HMAC not a signature).')

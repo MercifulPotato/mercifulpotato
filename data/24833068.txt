@@ -1,1 +1,1 @@
-Item(by='wbl', descendants=None, kids=None, score=None, time=1603156703, title=None, item_type='comment', url=None, parent=24832486, text='But then you have to type your wifi info into a tiny little screen with buttons and deal with memory unqble to handle giant PDFs.')
+Item(by='wbl', descendants=None, kids=[24835090], score=None, time=1603156703, title=None, item_type='comment', url=None, parent=24832486, text='But then you have to type your wifi info into a tiny little screen with buttons and deal with memory unqble to handle giant PDFs.')

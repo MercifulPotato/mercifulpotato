@@ -1,1 +1,1 @@
-Item(by='ahupp', descendants=None, kids=None, score=None, time=1603172201, title=None, item_type='comment', url=None, parent=24833218, text='This is really cool work.  What kind of speedup does the GPU give for this kind of workload, e.g how long does a CPU-only implementation take?')
+Item(by='ahupp', descendants=None, kids=[24837854], score=None, time=1603172201, title=None, item_type='comment', url=None, parent=24833218, text='This is really cool work.  What kind of speedup does the GPU give for this kind of workload, e.g how long does a CPU-only implementation take?')

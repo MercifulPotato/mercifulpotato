@@ -1,0 +1,1 @@
+Item(by='tgb', descendants=None, kids=[24840700, 24840769], score=None, time=1603216483, title=None, item_type='comment', url=None, parent=24839744, text='Can the DifferentialEquations package actually solve quaternion equations correctly? Quaternions are non-commutative and I&#x27;d hazard to guess that some solver methods would assume commutativity at some point.')

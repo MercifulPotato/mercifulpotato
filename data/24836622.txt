@@ -1,0 +1,1 @@
+Item(by='draklor40', descendants=None, kids=None, score=None, time=1603197826, title=None, item_type='comment', url=None, parent=24831259, text='There is nothing in the schematics about multiple power supplies or battery backups, etc. If you are hooking up all 4 rpis to the same power source , might as well replace it with one x86 processor.')

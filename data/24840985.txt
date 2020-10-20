@@ -1,0 +1,1 @@
+Item(by='singhrac', descendants=None, kids=None, score=None, time=1603219745, title=None, item_type='comment', url=None, parent=24836402, text='Wow I love this. This is one of my favorite features of Rust&#x2F;OCaml (along with variant types &#x2F; data-bearing-enums).<p>I think the latter would help a lot with error handling in particular, not to mention defining protocols.')

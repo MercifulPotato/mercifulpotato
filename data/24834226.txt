@@ -1,1 +1,1 @@
-Item(by='ponderingfish', descendants=0, kids=None, score=5, time=1603172339, title='Generating Screenshots/Thumbnails using FFmpeg (frame-accurate way)', item_type='story', url='https://ottverse.com/thumbnails-screenshots-using-ffmpeg/', parent=None, text=None)
+Item(by='ponderingfish', descendants=2, kids=[24839120], score=27, time=1603172339, title='Thumbnails and Screenshots using FFmpeg', item_type='story', url='https://ottverse.com/thumbnails-screenshots-using-ffmpeg/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='rufname', descendants=4, kids=[24839149, 24839182, 24839166, 24839183], score=2, time=1603210488, title='Ask HN: Why create a browser plugin instead of a bookmarklet?', item_type='story', url=None, parent=None, text='Why would somebody create a browser plugin, if the same functionality could be achieved with a bookmarklet?\nAre there advantages?')
