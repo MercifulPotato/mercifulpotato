@@ -1,1 +1,1 @@
-Item(by='jtolmar', descendants=None, kids=None, score=None, time=1603235890, title=None, item_type='comment', url=None, parent=24843280, text='It&#x27;s possible, just uncommon! Congrats, you&#x27;re uncommonly good at wall-following.')
+Item(by='jtolmar', descendants=None, kids=[24848098], score=None, time=1603235890, title=None, item_type='comment', url=None, parent=24843280, text='It&#x27;s possible, just uncommon! Congrats, you&#x27;re uncommonly good at wall-following.')

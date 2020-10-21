@@ -1,0 +1,1 @@
+Item(by='vptr', descendants=None, kids=None, score=None, time=1603297740, title=None, item_type='comment', url=None, parent=24847946, text='Depending on which DB you&#x27;re using, I&#x27;d suggest trying out <a href="https:&#x2F;&#x2F;sqlc.dev" rel="nofollow">https:&#x2F;&#x2F;sqlc.dev</a> instead of gorm if on PG. Mysql support is a bit flaky last time I checked.')

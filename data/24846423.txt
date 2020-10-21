@@ -1,1 +1,1 @@
-Item(by='phnofive', descendants=None, kids=None, score=None, time=1603276197, title=None, item_type='comment', url=None, parent=24836167, text='(2009)')
+Item(by='phnofive', descendants=None, kids=[24849779], score=None, time=1603276197, title=None, item_type='comment', url=None, parent=24836167, text='(2009)')

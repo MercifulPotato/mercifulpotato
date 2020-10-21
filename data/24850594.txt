@@ -1,0 +1,1 @@
+Item(by='lhball', descendants=None, kids=[24850630, 24850658, 24851263, 24850750], score=None, time=1603304614, title=None, item_type='comment', url=None, parent=24842270, text='Pretty, but performance is abysmal.<p>Also looks like it changes the browser history on every interaction, ie any drag and drop, which seems, to me, to indicate some behind the scenes UUID tracking.')

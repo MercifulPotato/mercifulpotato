@@ -1,0 +1,1 @@
+Item(by='cj', descendants=None, kids=[24850967], score=None, time=1603306589, title=None, item_type='comment', url=None, parent=24850294, text='For people running apps behind Cloudfront&#x2F;Fastly&#x2F;Cloudflare, is it similar to h2 where it can be enabled at the CDN level, or load balancer?')

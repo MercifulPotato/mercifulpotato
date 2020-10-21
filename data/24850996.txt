@@ -1,0 +1,1 @@
+Item(by='zdw', descendants=None, kids=None, score=None, time=1603307334, title=None, item_type='comment', url=None, parent=24848511, text='How much of this can be solved by using a linter like yamllint, or a a mode that validates the data via a schema or dry-run mode?  I&#x27;d think it would knock out most of the low hanging fruit.')

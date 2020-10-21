@@ -1,1 +1,1 @@
-Item(by='wocram', descendants=None, kids=None, score=None, time=1603289006, title=None, item_type='comment', url=None, parent=24847702, text='What makes you think Google is using bazel for rust? I haven&#x27;t seen or heard any evidence of this.')
+Item(by='wocram', descendants=None, kids=[24848132], score=None, time=1603289006, title=None, item_type='comment', url=None, parent=24847702, text='What makes you think Google is using bazel for rust? I haven&#x27;t seen or heard any evidence of this.')

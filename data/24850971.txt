@@ -1,0 +1,1 @@
+Item(by='titanomachy', descendants=None, kids=None, score=None, time=1603307194, title=None, item_type='comment', url=None, parent=24850583, text='I like how it plays nice with linux pipes.<p>I&#x27;ve used this on macOS before to accomplish the same thing:<p>`afplay ~&#x2F;song.mp3 &amp; do_something_slow; pkill afplay; tput bel`')

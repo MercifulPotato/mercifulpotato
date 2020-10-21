@@ -1,1 +1,1 @@
-Item(by='IshKebab', descendants=None, kids=[24847769], score=None, time=1603281896, title=None, item_type='comment', url=None, parent=24846885, text='Julia uses `end` because it is derived from MATLAB which also uses `end`, it&#x27;s not to save ASCII characters.')
+Item(by='IshKebab', descendants=None, kids=[24847769, 24848474], score=None, time=1603281896, title=None, item_type='comment', url=None, parent=24846885, text='Julia uses `end` because it is derived from MATLAB which also uses `end`, it&#x27;s not to save ASCII characters.')

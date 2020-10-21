@@ -1,0 +1,1 @@
+Item(by='Rochus', descendants=None, kids=None, score=None, time=1603300769, title=None, item_type='comment', url=None, parent=24849915, text='CPython could implement an alternative, more efficient FFI (such as e.g. the one by LuaJIT) which would not slow down PyPy. So people could gradually migrate.')

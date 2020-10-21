@@ -1,0 +1,1 @@
+Item(by='Valgrim', descendants=None, kids=[24850512], score=None, time=1603302220, title=None, item_type='comment', url=None, parent=24849770, text='RAM and registers are volatile memory, meaning it loses information when its power source is cut. In computer forensics, RAM is usually captured before shutting down the computer.')

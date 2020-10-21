@@ -1,1 +1,1 @@
-Item(by='KaiserPro', descendants=None, kids=None, score=None, time=1603261657, title=None, item_type='comment', url=None, parent=24839562, text='&gt; they captured Paris in a few days, London would&#x27;ve been quicker.<p>as we all know paris is a well known island.')
+Item(by='KaiserPro', descendants=None, kids=[24848706], score=None, time=1603261657, title=None, item_type='comment', url=None, parent=24839562, text='&gt; they captured Paris in a few days, London would&#x27;ve been quicker.<p>as we all know paris is a well known island.')

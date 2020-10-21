@@ -1,1 +1,1 @@
-Item(by='bryanrasmussen', descendants=0, kids=None, score=11, time=1603193997, title='Darwin’s theory about atolls is ‘beautiful’ but wrong', item_type='story', url='https://www.futurity.org/darwins-theory-atolls-2454202-2/', parent=None, text=None)
+Item(by='bryanrasmussen', descendants=7, kids=[24850735, 24850670, 24849314], score=38, time=1603193997, title='Darwin’s theory about atolls is ‘beautiful’ but wrong', item_type='story', url='https://www.futurity.org/darwins-theory-atolls-2454202-2/', parent=None, text=None)

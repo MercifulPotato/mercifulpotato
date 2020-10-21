@@ -1,0 +1,1 @@
+Item(by='liminal', descendants=None, kids=[24850319], score=None, time=1603302187, title=None, item_type='comment', url=None, parent=24849806, text='Is it possible to have each domain open in a persistent container? It looks like Temporary Containers uses a new one each time a site is visited. Containerise, on the other hand, seems to need to know about each domain in advance.')

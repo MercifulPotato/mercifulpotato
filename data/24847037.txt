@@ -1,1 +1,1 @@
-Item(by='cwoolfe', descendants=None, kids=None, score=None, time=1603282766, title=None, item_type='comment', url=None, parent=24835539, text='Looks like these guys are just sitting around playing video games...haha')
+Item(by='cwoolfe', descendants=None, kids=[24847817], score=None, time=1603282766, title=None, item_type='comment', url=None, parent=24835539, text='Looks like these guys are just sitting around playing video games...haha')

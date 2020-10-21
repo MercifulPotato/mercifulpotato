@@ -1,1 +1,1 @@
-Item(by='jiveturkey', descendants=None, kids=None, score=None, time=1603241216, title=None, item_type='comment', url=None, parent=24841512, text='T3 vs USB3, not USB3 vs USB2.')
+Item(by='jiveturkey', descendants=None, kids=[24850603], score=None, time=1603241216, title=None, item_type='comment', url=None, parent=24841512, text='T3 vs USB3, not USB3 vs USB2.')

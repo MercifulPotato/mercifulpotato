@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1603283132, title=None, item_type='comment', url=None, parent=24845995, text='It&#x27;s probably to get better cache hits. Otherwise they need to store every version of jquery, for instance.')
+Item(by='gruez', descendants=None, kids=[24848472], score=None, time=1603283132, title=None, item_type='comment', url=None, parent=24845995, text='It&#x27;s probably to get better cache hits. Otherwise they need to store every version of jquery, for instance.')

@@ -1,0 +1,1 @@
+Item(by='Nullabillity', descendants=None, kids=None, score=None, time=1603308575, title=None, item_type='comment', url=None, parent=24845861, text='Java wasn&#x27;t designed with it in mind either, yet Maven&#x27;s dependency resolution scheme has been the de-facto standard for over a decade at this point (despite all of its warts, like being completely binary-oriented).')

@@ -1,0 +1,1 @@
+Item(by='overgard', descendants=None, kids=None, score=None, time=1603301448, title=None, item_type='comment', url=None, parent=24849915, text='Slow != Breaks. I&#x27;ve run plenty of production python code in pypy. I&#x27;m sure it&#x27;s not appropriate everywhere, but I wouldn&#x27;t go so far as to call it a separate dialect.')

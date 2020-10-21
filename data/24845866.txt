@@ -1,1 +1,1 @@
-Item(by='dmurray', descendants=None, kids=None, score=None, time=1603268834, title=None, item_type='comment', url=None, parent=24845204, text='Surely professional or hobbyist software developers are more likely than the average user to use Safari or Firefox, not less.')
+Item(by='dmurray', descendants=None, kids=[24848280], score=None, time=1603268834, title=None, item_type='comment', url=None, parent=24845204, text='Surely professional or hobbyist software developers are more likely than the average user to use Safari or Firefox, not less.')

@@ -1,0 +1,1 @@
+Item(by='jashmatthews', descendants=None, kids=None, score=None, time=1603304956, title=None, item_type='comment', url=None, parent=24850150, text='IIRC that uses the Lua C API which LuaJIT supports by fully restoring the interpreter state?')

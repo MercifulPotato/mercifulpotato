@@ -1,0 +1,1 @@
+Item(by='korijn', descendants=None, kids=[24849152, 24849426], score=None, time=1603296292, title=None, item_type='comment', url=None, parent=24849032, text='Have you established that <i>searching</i> for modules is slow? I think it just takes time to actually process the imported modules and load everything into memory.')

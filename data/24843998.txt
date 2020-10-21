@@ -1,1 +1,1 @@
-Item(by='rasz', descendants=None, kids=None, score=None, time=1603243378, title=None, item_type='comment', url=None, parent=24841125, text='is that the one where &quot;AI&quot; told them to just turn off unused cloud instances?')
+Item(by='rasz', descendants=None, kids=[24849352], score=None, time=1603243378, title=None, item_type='comment', url=None, parent=24841125, text='is that the one where &quot;AI&quot; told them to just turn off unused cloud instances?')

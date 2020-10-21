@@ -1,0 +1,1 @@
+Item(by='mmcnl', descendants=None, kids=None, score=None, time=1603301456, title=None, item_type='comment', url=None, parent=24845300, text='This article hits the nail on the head. ORMs rarely solve a problem but they almost always add complexity. I always advise against ORM.')

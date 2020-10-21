@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=None, kids=[24850150], score=None, time=1603300780, title=None, item_type='comment', url=None, parent=24849603, text='Lua exposes much less of its internals than Python. For example the comment you replied to mentioned stack frames which are not exposed in Lua.')

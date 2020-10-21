@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=None, score=None, time=1603296473, title=None, item_type='comment', url=None, parent=24849124, text='On Windows (what with atrocious NTFS performance and all) an interpreter that&#x27;s using a zipped library is way faster than one using loose modules.')

@@ -1,0 +1,1 @@
+Item(by='yencabulator', descendants=None, kids=None, score=None, time=1603309686, title=None, item_type='comment', url=None, parent=24847323, text='A browser vendor could just decide to prepopulate the cache with 20 MB of the most common minified JS libraries, though. That would only fingerprint the browser version, not the user.')

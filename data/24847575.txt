@@ -1,1 +1,1 @@
-Item(by='blmsjw', descendants=None, kids=None, score=None, time=1603286530, title=None, item_type='comment', url=None, parent=24847198, text='Arbitrary stat but ok. Deaths are kinda the most important otherwise we wouldn&#x27;t be shutdown')
+Item(by='blmsjw', descendants=None, kids=[24847773], score=None, time=1603286530, title=None, item_type='comment', url=None, parent=24847198, text='Arbitrary stat but ok. Deaths are kinda the most important otherwise we wouldn&#x27;t be shutdown')

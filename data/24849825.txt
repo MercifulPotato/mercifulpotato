@@ -1,0 +1,1 @@
+Item(by='TheRealKing', descendants=None, kids=None, score=None, time=1603300025, title=None, item_type='comment', url=None, parent=24842294, text='Fortran Coarray is far beyond simple Fork-Join. It enables one-sided remote memory access, something that is impossible with OpenMP or CUDA, as far as I am aware, and requires the highest levels of skill to do it right in MPI.')

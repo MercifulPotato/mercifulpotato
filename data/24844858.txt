@@ -1,1 +1,1 @@
-Item(by='mtnGoat', descendants=None, kids=None, score=None, time=1603256325, title=None, item_type='comment', url=None, parent=24834487, text='Not sure if I&#x27;d rely on the theory that one entity can always discover what another did. ( #1 above)')
+Item(by='mtnGoat', descendants=None, kids=[24850848], score=None, time=1603256325, title=None, item_type='comment', url=None, parent=24834487, text='Not sure if I&#x27;d rely on the theory that one entity can always discover what another did. ( #1 above)')

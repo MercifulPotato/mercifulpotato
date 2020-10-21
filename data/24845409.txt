@@ -1,1 +1,1 @@
-Item(by='wokwokwok', descendants=None, kids=None, score=None, time=1603263764, title=None, item_type='comment', url=None, parent=24843856, text='I don&#x27;t understand what that means; this isn&#x27;t reddit, please don&#x27;t just post blatantly false statements.')
+Item(by='wokwokwok', descendants=None, kids=[24848995], score=None, time=1603263764, title=None, item_type='comment', url=None, parent=24843856, text='I don&#x27;t understand what that means; this isn&#x27;t reddit, please don&#x27;t just post blatantly false statements.')

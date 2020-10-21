@@ -1,0 +1,1 @@
+Item(by='gruez', descendants=None, kids=None, score=None, time=1603301610, title=None, item_type='comment', url=None, parent=24849962, text='&gt; Would that actually work? Don&#x27;t notifications cause your browser to communicate regularly, in the background, with the site?<p>no, communication is done through a push provider.')

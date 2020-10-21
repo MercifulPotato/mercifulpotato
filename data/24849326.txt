@@ -1,0 +1,1 @@
+Item(by='slotrans', descendants=None, kids=None, score=None, time=1603297422, title=None, item_type='comment', url=None, parent=24845300, text='ORMs ultimately serve no purpose.<p>If your data model is small, they save you very little work.<p>If your data model is large, they collapse and you have to abandon them.<p>There is no middle ground.')

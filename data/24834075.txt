@@ -1,1 +1,1 @@
-Item(by='ceilingcorner', descendants=None, kids=None, score=None, time=1603170161, title=None, item_type='comment', url=None, parent=24832038, text='By watching a variety of news sources over the past four years?')
+Item(by='ceilingcorner', descendants=None, kids=[24849634], score=None, time=1603170161, title=None, item_type='comment', url=None, parent=24832038, text='By watching a variety of news sources over the past four years?')

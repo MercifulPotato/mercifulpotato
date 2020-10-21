@@ -1,0 +1,1 @@
+Item(by='kissgyorgy', descendants=None, kids=[24849986], score=None, time=1603296696, title=None, item_type='comment', url=None, parent=24835436, text='I had the idea to write a HTTP proxy which parses all traffic and caches CDN results on a local network and use those instead, but this might be even better.')

@@ -1,0 +1,1 @@
+Item(by='edogg', descendants=None, kids=None, score=None, time=1603298920, title=None, item_type='comment', url=None, parent=24847386, text='I got a Synology 218. It does checksumming like zfs to guard against bit rot. and I didn’t have to spend any time wading through how to’s and blog posts to make it work, “just works” out of the box')

@@ -1,0 +1,1 @@
+Item(by='dfox', descendants=None, kids=[24849411], score=None, time=1603297154, title=None, item_type='comment', url=None, parent=24849095, text='JS and Python has essentially same data model with everything being at least conceptually built out of dicts.<p>And well, most JS implementations do not have GIL because they are not multithreaded at all.')
