@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=2, kids=[24845208, 24845199], score=7, time=1603109113, title="Large 2000-year-old cat discovered in Peru's Nazca lines", item_type='story', url='https://www.bbc.com/news/world-latin-america-54593295', parent=None, text=None)
+Item(by='tosh', descendants=3, kids=[24845208, 24845199, 24845849], score=9, time=1603109113, title="Large 2000-year-old cat discovered in Peru's Nazca lines", item_type='story', url='https://www.bbc.com/news/world-latin-america-54593295', parent=None, text=None)

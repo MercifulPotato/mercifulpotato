@@ -1,1 +1,1 @@
-Item(by='tomklein', descendants=0, kids=None, score=1, time=1603264509, title='AWS and their Billions in IPv4 addresses', item_type='story', url='https://toonk.io/aws-and-their-billions-in-ipv4-addresses/', parent=None, text=None)
+Item(by='tomklein', descendants=2, kids=[24846062, 24846090], score=15, time=1603264509, title='AWS and their Billions in IPv4 addresses', item_type='story', url='https://toonk.io/aws-and-their-billions-in-ipv4-addresses/', parent=None, text=None)

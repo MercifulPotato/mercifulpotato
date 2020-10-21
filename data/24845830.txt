@@ -1,0 +1,1 @@
+Item(by='JZumun', descendants=None, kids=None, score=None, time=1603268594, title=None, item_type='comment', url=None, parent=24844992, text='&gt; for (let elem : arr) { ... }<p>Do you mean:<p><pre><code>  for (let elem of arr) { ... }\n\n</code></pre>\nUnless this is a joke about writing in Java &amp; C++ (for which the colon syntax is valid) instead of javascript.')

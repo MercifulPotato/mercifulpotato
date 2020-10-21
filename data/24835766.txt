@@ -1,1 +1,1 @@
-Item(by='forgotpwd16', descendants=2, kids=[24845105], score=47, time=1603189600, title='Raymarching with Fennel and LÖVE', item_type='story', url='https://andreyorst.gitlab.io/posts/2020-10-15-raymarching-with-fennel-and-love/', parent=None, text=None)
+Item(by='forgotpwd16', descendants=3, kids=[24846178, 24845105], score=60, time=1603189600, title='Raymarching with Fennel and LÖVE', item_type='story', url='https://andreyorst.gitlab.io/posts/2020-10-15-raymarching-with-fennel-and-love/', parent=None, text=None)

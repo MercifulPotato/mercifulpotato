@@ -1,0 +1,1 @@
+Item(by='andix', descendants=None, kids=None, score=None, time=1603266644, title=None, item_type='comment', url=None, parent=24843459, text='It can be disabled (BLOCK_USER_AGENT=no), but it is on by default.<p>Why would someone like to block crawlers and also TOR-clients? The malicious ones will be anyway disguised as normal browsers.')

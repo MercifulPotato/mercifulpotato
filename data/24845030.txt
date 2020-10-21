@@ -1,1 +1,1 @@
-Item(by='colordrops', descendants=None, kids=None, score=None, time=1603258454, title=None, item_type='comment', url=None, parent=24844653, text='That&#x27;s a huge lack of imagination.  If Mozilla gets a large percentage of users they will find funding one way or another.')
+Item(by='colordrops', descendants=None, kids=[24846285], score=None, time=1603258454, title=None, item_type='comment', url=None, parent=24844653, text='That&#x27;s a huge lack of imagination.  If Mozilla gets a large percentage of users they will find funding one way or another.')

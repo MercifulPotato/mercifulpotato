@@ -1,0 +1,1 @@
+Item(by='ivanbakel', descendants=None, kids=[24847960], score=None, time=1603288151, title=None, item_type='comment', url=None, parent=24847702, text='Google uses pure Bazel, rather than just a Cargo wrapper? I was under the impression that Bazel was for plugging build and dependency systems into - that&#x27;s certainly how I&#x27;ve seen it used.')

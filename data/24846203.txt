@@ -1,0 +1,1 @@
+Item(by='dkersten', descendants=None, kids=None, score=None, time=1603273661, title=None, item_type='comment', url=None, parent=24845148, text='&gt; it&#x27;s typically not faster than a lock-based approach<p>A common train of thought seems to be &quot;locks are slow, so lock free must be fast&quot;, while lock-free says nothing about performance -- only about forward progress.')

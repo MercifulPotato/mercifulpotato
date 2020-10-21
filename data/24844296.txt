@@ -1,1 +1,1 @@
-Item(by='jbritton', descendants=None, kids=None, score=None, time=1603248041, title=None, item_type='comment', url=None, parent=24844135, text='How did you do this?\n“semi-automatically translated it to C++”<p>Or is that part of why you said you needed to write an essay.')
+Item(by='jbritton', descendants=None, kids=[24845983], score=None, time=1603248041, title=None, item_type='comment', url=None, parent=24844135, text='How did you do this?\n“semi-automatically translated it to C++”<p>Or is that part of why you said you needed to write an essay.')

@@ -1,1 +1,1 @@
-Item(by='grumple', descendants=None, kids=None, score=None, time=1603221711, title=None, item_type='comment', url=None, parent=24840775, text='Not all monopolies are unlawful, and not all laws regarding anti trust require a monopoly.')
+Item(by='grumple', descendants=None, kids=[24846908], score=None, time=1603221711, title=None, item_type='comment', url=None, parent=24840775, text='Not all monopolies are unlawful, and not all laws regarding anti trust require a monopoly.')

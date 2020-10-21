@@ -1,0 +1,1 @@
+Item(by='matteuan', descendants=None, kids=None, score=None, time=1603281154, title=None, item_type='comment', url=None, parent=24846656, text='If there was something better than Spark for distributed processing, we would be using it. The rest of your comment is a straw man argument, assuming everybody uses it for datasets fitting in memory of a single node.')

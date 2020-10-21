@@ -1,0 +1,1 @@
+Item(by='dkersten', descendants=None, kids=None, score=None, time=1603269706, title=None, item_type='comment', url=None, parent=24845835, text='Run the DB in docker, import the stored procedures as part of the setup migrations and run tests against that from your normal test suite.')

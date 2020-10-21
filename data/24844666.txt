@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=11, time=1603253408, title='Diablo (Pitch from 1994) (2016) [pdf]', item_type='story', url='http://www.graybeardgames.com/download/diablo_pitch.pdf', parent=None, text=None)
+Item(by='tosh', descendants=4, kids=[24847463, 24845795, 24846512], score=24, time=1603253408, title='Diablo (Pitch from 1994) (2016) [pdf]', item_type='story', url='http://www.graybeardgames.com/download/diablo_pitch.pdf', parent=None, text=None)

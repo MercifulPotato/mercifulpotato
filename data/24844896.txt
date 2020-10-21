@@ -1,1 +1,1 @@
-Item(by='cglong', descendants=0, kids=None, score=1, time=1603256700, title='Twitch streamers were issued tons of DMCA takedown notices today', item_type='story', url='https://www.polygon.com/2020/10/20/21525587/twitch-dmca-takedown-notice-content', parent=None, text=None)
+Item(by='cglong', descendants=1, kids=[24847411], score=1, time=1603256700, title='Twitch streamers were issued tons of DMCA takedown notices today', item_type='story', url='https://www.polygon.com/2020/10/20/21525587/twitch-dmca-takedown-notice-content', parent=None, text=None)

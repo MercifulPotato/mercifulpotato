@@ -1,0 +1,1 @@
+Item(by='dkersten', descendants=None, kids=None, score=None, time=1603269155, title=None, item_type='comment', url=None, parent=24845556, text='You edit your generated makefile or tweak the autoconf (or whatever you used) config to point at a specific version of the library, I guess.')

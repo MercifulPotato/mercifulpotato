@@ -1,1 +1,1 @@
-Item(by='fmsf', descendants=0, kids=None, score=2, time=1603262737, title='PySpark Style Guide', item_type='story', url='https://github.com/palantir/pyspark-style-guide', parent=None, text=None)
+Item(by='fmsf', descendants=14, kids=[24847630, 24846507, 24846011, 24845931, 24846266, 24846015, 24847107, 24846656], score=30, time=1603262737, title='PySpark Style Guide', item_type='story', url='https://github.com/palantir/pyspark-style-guide', parent=None, text=None)

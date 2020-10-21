@@ -1,1 +1,1 @@
-Item(by='nemetroid', descendants=None, kids=None, score=None, time=1603240955, title=None, item_type='comment', url=None, parent=24843731, text='No, one prong gets a phase and one prong gets the neutral, resulting in 230 V. Only equipment designed for 400 V gets two (or three) phases.')
+Item(by='nemetroid', descendants=None, kids=[24847119], score=None, time=1603240955, title=None, item_type='comment', url=None, parent=24843731, text='No, one prong gets a phase and one prong gets the neutral, resulting in 230 V. Only equipment designed for 400 V gets two (or three) phases.')

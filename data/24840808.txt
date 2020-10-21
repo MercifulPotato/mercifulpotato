@@ -1,1 +1,1 @@
-Item(by='moultano', descendants=None, kids=None, score=None, time=1603218719, title=None, item_type='comment', url=None, parent=24840623, text='This isn&#x27;t true. A loss function that asymptotes can also have no minima, which commonly used loss functions do.')
+Item(by='moultano', descendants=None, kids=[24846756], score=None, time=1603218719, title=None, item_type='comment', url=None, parent=24840623, text='This isn&#x27;t true. A loss function that asymptotes can also have no minima, which commonly used loss functions do.')

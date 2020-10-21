@@ -1,0 +1,1 @@
+Item(by='FranzFerdiNaN', descendants=None, kids=None, score=None, time=1603277768, title=None, item_type='comment', url=None, parent=24842820, text='I wished python was 1-indexed. I can&#x27;t count the number of times I made an error because somehow programming languages count from 0, which is insane. I also keep having to do dumb things like len(x)-1, which also is dumb.')

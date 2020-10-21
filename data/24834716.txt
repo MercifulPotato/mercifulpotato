@@ -1,1 +1,1 @@
-Item(by='bobf', descendants=12, kids=[24845307, 24844527, 24844950, 24834830, 24845341, 24844902], score=48, time=1603178909, title='Adolphe Sax, Inventor of the Saxophone', item_type='story', url='http://www.dinant.be/en/inheritance/adolphe-sax', parent=None, text=None)
+Item(by='bobf', descendants=23, kids=[24845307, 24844527, 24834830, 24844950, 24845341, 24844902], score=68, time=1603178909, title='Adolphe Sax, Inventor of the Saxophone', item_type='story', url='http://www.dinant.be/en/inheritance/adolphe-sax', parent=None, text=None)

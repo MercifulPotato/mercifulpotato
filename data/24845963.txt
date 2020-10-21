@@ -1,0 +1,1 @@
+Item(by='layoutIfNeeded', descendants=None, kids=[24846004], score=None, time=1603270190, title=None, item_type='comment', url=None, parent=24845138, text='&gt;[...] discovered that access to object properties is faster than accessing array indexes half the time. That was in C language, but it holds true in JavaScript.<p>What are these <i>object properties</i> in C?')

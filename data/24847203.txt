@@ -1,0 +1,1 @@
+Item(by='bovermyer', descendants=None, kids=None, score=None, time=1603284056, title=None, item_type='comment', url=None, parent=24845300, text='I&#x27;ll use an ORM until I start running into performance bottlenecks. Then I&#x27;ll write raw SQL for those specific instances, and continue to use the ORM elsewhere.<p>This approach has worked so far.')

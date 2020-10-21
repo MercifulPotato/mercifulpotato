@@ -1,1 +1,1 @@
-Item(by='tbejn', descendants=None, kids=None, score=None, time=1603262837, title=None, item_type='comment', url=None, parent=24834716, text='Dinant is beautiful city, famous for Sax, but well worth the visit. Adolphe&#x27;s house is a small museum, well organized.')
+Item(by='tbejn', descendants=None, kids=[24847377], score=None, time=1603262837, title=None, item_type='comment', url=None, parent=24834716, text='Dinant is beautiful city, famous for Sax, but well worth the visit. Adolphe&#x27;s house is a small museum, well organized.')

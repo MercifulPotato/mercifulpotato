@@ -1,0 +1,1 @@
+Item(by='3np', descendants=None, kids=None, score=None, time=1603270014, title=None, item_type='comment', url=None, parent=24838514, text='Indeed - integrity should be dependent on the content, not the URI. It looks like they do it to allow &quot;replacements&quot; (e.g. serve package version x.y.z-1 if it can&#x27;t find x.y.z).<p>This sounds like a horrible idea.')

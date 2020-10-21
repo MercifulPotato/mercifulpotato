@@ -1,1 +1,1 @@
-Item(by='register', descendants=None, kids=None, score=None, time=1603266451, title=None, item_type='comment', url=None, parent=24845579, text='That is Java. In .NET using linq with entity framework looks almost like SQL.')
+Item(by='register', descendants=None, kids=[24846021], score=None, time=1603266451, title=None, item_type='comment', url=None, parent=24845579, text='That is Java. In .NET using linq with entity framework looks almost like SQL.')

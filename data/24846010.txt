@@ -1,0 +1,1 @@
+Item(by='slifin', descendants=None, kids=None, score=None, time=1603270856, title=None, item_type='comment', url=None, parent=24844345, text='Unless you&#x27;re using Clojure engines with Datomic pull syntax, SQL engines (most? all?) can&#x27;t pull out nested results without serialization nastiness')

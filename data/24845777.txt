@@ -1,0 +1,1 @@
+Item(by='sto_hristo', descendants=None, kids=None, score=None, time=1603268120, title=None, item_type='comment', url=None, parent=24845511, text='But the inherent problem is still the inability to deal with dependencies in a standard and portable way. As you said - pkg-config is standard on POSIX, but the world is bigger than this.')

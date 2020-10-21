@@ -1,0 +1,1 @@
+Item(by='sgk284', descendants=None, kids=None, score=None, time=1603268387, title=None, item_type='comment', url=None, parent=24842694, text='I think the assumption is that nginx is your frontend server &#x2F; load balancer, so all external requests go through it.')

@@ -1,0 +1,1 @@
+Item(by='tinus_hn', descendants=None, kids=[24847208], score=None, time=1603279667, title=None, item_type='comment', url=None, parent=24843562, text='How do they avoid race conditions if the kernel can use these pointers while userspace can modify them at the same time?')

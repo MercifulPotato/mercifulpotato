@@ -1,1 +1,1 @@
-Item(by='ArcVRArthur', descendants=None, kids=None, score=None, time=1603243164, title=None, item_type='comment', url=None, parent=24826951, text='Perhaps now may be the appropriate time to begin transitioning my friend group on Matrix over to XMPP.')
+Item(by='ArcVRArthur', descendants=None, kids=[24847831], score=None, time=1603243164, title=None, item_type='comment', url=None, parent=24826951, text='Perhaps now may be the appropriate time to begin transitioning my friend group on Matrix over to XMPP.')
