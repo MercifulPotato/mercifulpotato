@@ -1,0 +1,1 @@
+Item(by='QuarterDuplex', descendants=None, kids=None, score=None, time=1603264512, title=None, item_type='comment', url=None, parent=24845276, text='Speaking only of CMake, it makes my life much much easier.  If a project has &lt; 5 files, a pure makefile is just fine.  However once it gets any larger CMake makes linking, recompile times, and other stuff much much eaiser')

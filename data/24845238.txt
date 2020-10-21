@@ -1,0 +1,1 @@
+Item(by='spockz', descendants=None, kids=None, score=None, time=1603261373, title=None, item_type='comment', url=None, parent=24840403, text='Local network access is a separate permission since iOS 14. I’m not sure whether that is for scanning or multicast only (e.g. finding devices such as Chromecast) or complete access to anything other that the gateway and dns servers.')

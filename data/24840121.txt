@@ -1,1 +1,1 @@
-Item(by='Spivak', descendants=None, kids=None, score=None, time=1603215094, title=None, item_type='comment', url=None, parent=24839196, text='You use your pi-hole as your encrypted DNS provider?')
+Item(by='Spivak', descendants=None, kids=[24844229], score=None, time=1603215094, title=None, item_type='comment', url=None, parent=24839196, text='You use your pi-hole as your encrypted DNS provider?')

@@ -1,1 +1,1 @@
-Item(by='geerlingguy', descendants=1, kids=[24842526], score=3, time=1603228794, title='Overclocking the Raspberry Pi Compute Module 4', item_type='story', url='https://www.jeffgeerling.com/blog/2020/overclocking-raspberry-pi-compute-module-4', parent=None, text=None)
+Item(by='geerlingguy', descendants=2, kids=[24842526], score=5, time=1603228794, title='Overclocking the Raspberry Pi Compute Module 4', item_type='story', url='https://www.jeffgeerling.com/blog/2020/overclocking-raspberry-pi-compute-module-4', parent=None, text=None)

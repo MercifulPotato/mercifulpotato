@@ -1,1 +1,1 @@
-Item(by='feross', descendants=0, kids=None, score=2, time=1603228993, title='Node v15.0.0 Changelog', item_type='story', url='https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V15.md#15.0.0', parent=None, text=None)
+Item(by='feross', descendants=1, kids=[24844789], score=2, time=1603228993, title='Node v15.0.0 Changelog', item_type='story', url='https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V15.md#15.0.0', parent=None, text=None)

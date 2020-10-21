@@ -1,1 +1,1 @@
-Item(by='amosson', descendants=3, kids=[24842755, 24840985, 24838217], score=29, time=1603196015, title='Pattern Matching in Python', item_type='story', url='https://github.com/gvanrossum/patma', parent=None, text=None)
+Item(by='amosson', descendants=3, kids=[24842755, 24840985, 24838217], score=32, time=1603196015, title='Pattern Matching in Python', item_type='story', url='https://github.com/gvanrossum/patma', parent=None, text=None)

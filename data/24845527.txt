@@ -1,0 +1,1 @@
+Item(by='keithnoizu', descendants=None, kids=None, score=None, time=1603265099, title=None, item_type='comment', url=None, parent=24845502, text='On high volume applications I would avoid it since it&#x27;s usually easier to horizontally scale web servers than sql servers, and it makes cache strategies more difficult depending on how and what you&#x27;re querying.')

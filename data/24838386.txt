@@ -1,1 +1,1 @@
-Item(by='wongmjane', descendants=1, kids=[24838624], score=5, time=1603207326, title='Node.js v15.0.0', item_type='story', url='https://nodejs.org/en/blog/release/v15.0.0', parent=None, text=None)
+Item(by='wongmjane', descendants=2, kids=[24844785, 24838624], score=5, time=1603207326, title='Node.js v15.0.0', item_type='story', url='https://nodejs.org/en/blog/release/v15.0.0', parent=None, text=None)

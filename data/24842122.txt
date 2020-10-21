@@ -1,1 +1,1 @@
-Item(by='feross', descendants=2, kids=[24842640, 24842183], score=5, time=1603226335, title='React v17.0.0 Changelog', item_type='story', url='https://github.com/facebook/react/blob/master/CHANGELOG.md#1700-october-20-2020', parent=None, text=None)
+Item(by='feross', descendants=2, kids=[24842640, 24842183], score=6, time=1603226335, title='React v17.0.0 Changelog', item_type='story', url='https://github.com/facebook/react/blob/master/CHANGELOG.md#1700-october-20-2020', parent=None, text=None)

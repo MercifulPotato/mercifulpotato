@@ -1,0 +1,1 @@
+Item(by='umanwizard', descendants=None, kids=None, score=None, time=1603259669, title=None, item_type='comment', url=None, parent=24831773, text='Personal anecdote: I wrote my own email server; it has no spam blocking of any kind other than checking the Spamhaus blacklist. That gets me down to a spam message every few days at most.')

@@ -1,0 +1,1 @@
+Item(by='gui77aume', descendants=None, kids=[24845250, 24844492], score=None, time=1603249431, title=None, item_type='comment', url=None, parent=24842306, text='Shouldn&#x27;t the Dockerfile have a USER directive, so it doesn&#x27;t use root by default?')

@@ -1,0 +1,1 @@
+Item(by='brundolf', descendants=None, kids=[24844844, 24844842], score=None, time=1603255920, title=None, item_type='comment', url=None, parent=24844816, text='Why would there be a whole new scope for every declaration, instead of just each block? To prevent access within the block but before the declaration?')

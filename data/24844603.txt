@@ -1,0 +1,1 @@
+Item(by='cybersol', descendants=None, kids=[24844648], score=None, time=1603252325, title=None, item_type='comment', url=None, parent=24844409, text='The people who made psycho decided they needed a JIT to really make Python much faster. So they created PyPy and developed it instead.')

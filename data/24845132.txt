@@ -1,0 +1,1 @@
+Item(by='shabda', descendants=1, kids=[24845261], score=1, time=1603259817, title='Trade off in url structures for SaaS apps', item_type='story', url=None, parent=None, text='Between the common url structures for SaaS apps<p>- &lt;customer&gt;.example.com\n- app.example.com\n- app.example.com&#x2F;&lt;customer&gt;<p>Which one is better and what are the trade offs?')

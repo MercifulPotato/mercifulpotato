@@ -1,1 +1,1 @@
-Item(by='klmadfejno', descendants=None, kids=None, score=None, time=1603135872, title=None, item_type='comment', url=None, parent=24827653, text='Voyager&#x27;s the main character. Once it goes too far, we&#x27;ll just cease to exist.')
+Item(by='klmadfejno', descendants=None, kids=[24844966], score=None, time=1603135872, title=None, item_type='comment', url=None, parent=24827653, text='Voyager&#x27;s the main character. Once it goes too far, we&#x27;ll just cease to exist.')

@@ -1,0 +1,1 @@
+Item(by='judge2020', descendants=None, kids=None, score=None, time=1603257519, title=None, item_type='comment', url=None, parent=24844914, text='To add: any project or random script that hasn&#x27;t at least considered babel&#x2F;webpack probably isn&#x27;t at a point where they would notice a 10x slowdown - the difference could be 10ms vs 100ms.')

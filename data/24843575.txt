@@ -1,1 +1,1 @@
-Item(by='DubiousPusher', descendants=None, kids=None, score=None, time=1603238434, title=None, item_type='comment', url=None, parent=24843534, text='It&#x27;s cool but similar things have already been done in humans.')
+Item(by='DubiousPusher', descendants=None, kids=[24844376], score=None, time=1603238434, title=None, item_type='comment', url=None, parent=24843534, text='It&#x27;s cool but similar things have already been done in humans.')

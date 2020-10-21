@@ -1,1 +1,1 @@
-Item(by='arey_abhishek', descendants=6, kids=[24843870, 24840528, 24842768], score=26, time=1603216336, title='Open source alternative to Retool: Appsmith', item_type='story', url='https://github.com/appsmithorg/appsmith', parent=None, text=None)
+Item(by='arey_abhishek', descendants=7, kids=[24840528, 24843870, 24842768], score=51, time=1603216336, title='Open source alternative to Retool: Appsmith', item_type='story', url='https://github.com/appsmithorg/appsmith', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='Tomis02', descendants=None, kids=None, score=None, time=1603255564, title=None, item_type='comment', url=None, parent=24844098, text='How come? As far as I know if the jsonb data was toasted (too big to fit in 2kb), then in order to query anything back from inside the jsonb you have to de-toast it, by definition.')

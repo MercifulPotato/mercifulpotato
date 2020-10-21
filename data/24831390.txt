@@ -1,1 +1,1 @@
-Item(by='wferrell', descendants=None, kids=None, score=None, time=1603143969, title=None, item_type='comment', url=None, parent=24829903, text='Says the founder of Discord :)')
+Item(by='wferrell', descendants=None, kids=[24844700], score=None, time=1603143969, title=None, item_type='comment', url=None, parent=24829903, text='Says the founder of Discord :)')

@@ -1,0 +1,1 @@
+Item(by='lhorie', descendants=None, kids=None, score=None, time=1603261465, title=None, item_type='comment', url=None, parent=24844813, text='I use var when I pop open devtools as a REPL. const&#x2F;let are annoying there because copy&#x2F;paste into the REPL multiple times throws rebinding errors. Just goes to show there are jobs for every tool :)')

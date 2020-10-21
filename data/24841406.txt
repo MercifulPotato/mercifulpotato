@@ -1,1 +1,1 @@
-Item(by='GekkePrutser', descendants=None, kids=None, score=None, time=1603222000, title=None, item_type='comment', url=None, parent=24838967, text='Who cares about the world.. I just want full access to the system I paid for. This should always remain an option.')
+Item(by='GekkePrutser', descendants=None, kids=[24844925], score=None, time=1603222000, title=None, item_type='comment', url=None, parent=24838967, text='Who cares about the world.. I just want full access to the system I paid for. This should always remain an option.')

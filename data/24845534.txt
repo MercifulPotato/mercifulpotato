@@ -1,0 +1,1 @@
+Item(by='afiori', descendants=None, kids=None, score=None, time=1603265143, title=None, item_type='comment', url=None, parent=24844944, text='I would expect that a let at a function scope should be equivalent to a var inside a block')

@@ -1,0 +1,1 @@
+Item(by='chrismorgan', descendants=None, kids=None, score=None, time=1603261475, title=None, item_type='comment', url=None, parent=24844971, text='That would apply to a pure interpreter, but all JS runtimes will do at least <i>some</i> optimisations, even on their baseline profile.')

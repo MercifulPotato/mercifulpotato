@@ -1,0 +1,1 @@
+Item(by='om2', descendants=None, kids=None, score=None, time=1603260774, title=None, item_type='comment', url=None, parent=24844951, text='If the code is hot, there is no perf difference in modern JavaScript engines. They will speculate and both your var access and length property access turn into just simple a memory read or a constant.')
