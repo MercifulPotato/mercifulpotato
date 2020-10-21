@@ -1,0 +1,1 @@
+Item(by='Athas', descendants=None, kids=[24842209], score=None, time=1603224632, title=None, item_type='comment', url=None, parent=24840972, text='I&#x27;m not sure I understand the bounds checking example.  Can someone shed some light on how CUDA.jl does bounds checking?  It&#x27;s not entirely straightforward to do on a GPU.')

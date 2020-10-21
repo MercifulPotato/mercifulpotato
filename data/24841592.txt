@@ -1,1 +1,1 @@
-Item(by='wmf', descendants=None, kids=None, score=None, time=1603223068, title=None, item_type='comment', url=None, parent=24841558, text='They bought it. A TLD costs $200K or more.')
+Item(by='wmf', descendants=None, kids=[24842377], score=None, time=1603223068, title=None, item_type='comment', url=None, parent=24841558, text='They bought it. A TLD costs $200K or more.')

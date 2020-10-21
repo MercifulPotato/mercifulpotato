@@ -1,1 +1,1 @@
-Item(by='nr2x', descendants=None, kids=None, score=None, time=1603219013, title=None, item_type='comment', url=None, parent=24839659, text='Is this two finger tap to zoom or pinch?  Not clear to me.')
+Item(by='nr2x', descendants=None, kids=[24841933], score=None, time=1603219013, title=None, item_type='comment', url=None, parent=24839659, text='Is this two finger tap to zoom or pinch?  Not clear to me.')

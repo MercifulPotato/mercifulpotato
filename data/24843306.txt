@@ -1,0 +1,1 @@
+Item(by='datanecdote', descendants=None, kids=[24843484, 24843492], score=None, time=1603236093, title=None, item_type='comment', url=None, parent=24843171, text='It is true that Jax cannot differentiate through C code. But it can differentiate through python code that was written to accept Numpy.')

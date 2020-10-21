@@ -1,1 +1,1 @@
-Item(by='Aeolun', descendants=None, kids=None, score=None, time=1603113489, title=None, item_type='comment', url=None, parent=24826045, text='Google definitely does.<p>That reminds me that it might trigger since I’m not really using my Google accounts any more...')
+Item(by='Aeolun', descendants=None, kids=[24826234], score=None, time=1603113489, title=None, item_type='comment', url=None, parent=24826045, text='Google definitely does.<p>That reminds me that it might trigger since I’m not really using my Google accounts any more...')

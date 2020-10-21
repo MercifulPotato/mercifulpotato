@@ -1,1 +1,1 @@
-Item(by='notRobot', descendants=None, kids=None, score=None, time=1603214926, title=None, item_type='comment', url=None, parent=24839920, text='Seems like a completely sensible option to me. What objections do you have?')
+Item(by='notRobot', descendants=None, kids=[24843894], score=None, time=1603214926, title=None, item_type='comment', url=None, parent=24839920, text='Seems like a completely sensible option to me. What objections do you have?')

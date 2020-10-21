@@ -1,0 +1,1 @@
+Item(by='jerrysievert', descendants=None, kids=None, score=None, time=1603244643, title=None, item_type='comment', url=None, parent=24839702, text='the funny thing is that pg shouldn&#x27;t need to do a detoasting to be able to query as long as it&#x27;s jsonb, it&#x27;s a pretty straightforward iteration - we do the same thing when converting from jsonb to v8 in plv8.')

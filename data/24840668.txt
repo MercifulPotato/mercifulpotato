@@ -1,1 +1,1 @@
-Item(by='brightball', descendants=None, kids=None, score=None, time=1603217989, title=None, item_type='comment', url=None, parent=24839865, text='Tried PopOS from System76 recently? It&#x27;s IMHO the current best user experience of Gnome.')
+Item(by='brightball', descendants=None, kids=[24842003], score=None, time=1603217989, title=None, item_type='comment', url=None, parent=24839865, text='Tried PopOS from System76 recently? It&#x27;s IMHO the current best user experience of Gnome.')

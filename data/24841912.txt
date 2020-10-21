@@ -1,0 +1,1 @@
+Item(by='moldavi', descendants=None, kids=None, score=None, time=1603224883, title=None, item_type='comment', url=None, parent=24838141, text='This isnt quite true, the borrow checker forces us to use things like RefCell, or Vec with (generational) indices, which all have run-time overhead. (this isnt even counting those who use Rc)')

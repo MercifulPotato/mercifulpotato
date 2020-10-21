@@ -1,1 +1,1 @@
-Item(by='hardmaru', descendants=0, kids=None, score=3, time=1603173010, title='FermiNet: Quantum Physics and Chemistry from First Principles', item_type='story', url='https://deepmind.com/blog/article/FermiNet', parent=None, text=None)
+Item(by='hardmaru', descendants=1, kids=[24843447], score=54, time=1603173010, title='FermiNet: Quantum Physics and Chemistry from First Principles', item_type='story', url='https://deepmind.com/blog/article/FermiNet', parent=None, text=None)

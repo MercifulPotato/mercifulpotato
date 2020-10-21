@@ -1,0 +1,1 @@
+Item(by='twoodfin', descendants=None, kids=[24843561, 24843542], score=None, time=1603237320, title=None, item_type='comment', url=None, parent=24843364, text='Neat! Have any of the common libc’s picked this up yet?<p>How does ERMS deal with interrupts? If I `rep movsb` while interrupted, do I also get the fast implementation?')

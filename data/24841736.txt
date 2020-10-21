@@ -1,1 +1,1 @@
-Item(by='adamnemecek', descendants=None, kids=None, score=None, time=1603223830, title=None, item_type='comment', url=None, parent=24841349, text='Magic of macros.')
+Item(by='adamnemecek', descendants=None, kids=[24841974], score=None, time=1603223830, title=None, item_type='comment', url=None, parent=24841349, text='Magic of macros.')

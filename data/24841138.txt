@@ -1,1 +1,1 @@
-Item(by='fastball', descendants=None, kids=None, score=None, time=1603220497, title=None, item_type='comment', url=None, parent=24840474, text='I should certainly hope that DDG makes less per search than Google, since they are just repackaging a lot of google searches.')
+Item(by='fastball', descendants=None, kids=[24841629], score=None, time=1603220497, title=None, item_type='comment', url=None, parent=24840474, text='I should certainly hope that DDG makes less per search than Google, since they are just repackaging a lot of google searches.')

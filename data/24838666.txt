@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1603208507, title=None, item_type='comment', url=None, parent=24838237, text='Me, on Windows Phone, still my secondary phone and main one while traveling.')
+Item(by='pjmlp', descendants=None, kids=[24843783], score=None, time=1603208507, title=None, item_type='comment', url=None, parent=24838237, text='Me, on Windows Phone, still my secondary phone and main one while traveling.')

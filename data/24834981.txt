@@ -1,1 +1,1 @@
-Item(by='liotier', descendants=0, kids=None, score=4, time=1603181663, title="Galileo's Ground Segment Problem", item_type='story', url='https://berthub.eu/articles/posts/galileos-ground-segment-problem/', parent=None, text=None)
+Item(by='liotier', descendants=18, kids=[24843193, 24843603, 24843372], score=91, time=1603181663, title="Galileo's Ground Segment Problem", item_type='story', url='https://berthub.eu/articles/posts/galileos-ground-segment-problem/', parent=None, text=None)

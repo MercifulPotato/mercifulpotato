@@ -1,0 +1,1 @@
+Item(by='DNF2', descendants=None, kids=[24842685], score=None, time=1603226009, title=None, item_type='comment', url=None, parent=24841990, text='Perhaps I misunderstand what a &#x27;work array&#x27; is, but you can easily pre-allocate arrays, and then work on them in-place, including with LinearAlgebra functions like `mul!` et. al.')

@@ -1,1 +1,1 @@
-Item(by='skyde', descendants=None, kids=None, score=None, time=1603220073, title=None, item_type='comment', url=None, parent=24839330, text='it is but I think you can do more complex query and « the current state » is a table built from all event ever received not a small time window')
+Item(by='skyde', descendants=None, kids=[24842184], score=None, time=1603220073, title=None, item_type='comment', url=None, parent=24839330, text='it is but I think you can do more complex query and « the current state » is a table built from all event ever received not a small time window')

@@ -1,1 +1,1 @@
-Item(by='outworlder', descendants=None, kids=None, score=None, time=1603223981, title=None, item_type='comment', url=None, parent=24839757, text='That tweet is a big deal if true.<p>Were there any follow-ups from Backblaze?')
+Item(by='outworlder', descendants=None, kids=[24842871], score=None, time=1603223981, title=None, item_type='comment', url=None, parent=24839757, text='That tweet is a big deal if true.<p>Were there any follow-ups from Backblaze?')

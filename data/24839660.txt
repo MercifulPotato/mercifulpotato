@@ -1,1 +1,1 @@
-Item(by='anamexis', descendants=None, kids=None, score=None, time=1603212866, title=None, item_type='comment', url=None, parent=24839399, text='I think in both cases, people generally say &quot;use Linux&quot;.')
+Item(by='anamexis', descendants=None, kids=[24841679], score=None, time=1603212866, title=None, item_type='comment', url=None, parent=24839399, text='I think in both cases, people generally say &quot;use Linux&quot;.')

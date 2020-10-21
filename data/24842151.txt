@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=[24843209], score=None, time=1603226498, title=None, item_type='comment', url=None, parent=24839663, text='fwiw CPython is a really naive bytecode interpreter. Way more naive and basic than people seem to generally assume.')

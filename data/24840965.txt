@@ -1,1 +1,1 @@
-Item(by='hartator', descendants=None, kids=[24841190, 24841260], score=None, time=1603219659, title=None, item_type='comment', url=None, parent=24840013, text='I really don’t like the “x is broken”-style of saying something doesn’t work. It’s not broken, it’s suboptimal.')
+Item(by='hartator', descendants=None, kids=[24841260, 24841190], score=None, time=1603219659, title=None, item_type='comment', url=None, parent=24840013, text='I really don’t like the “x is broken”-style of saying something doesn’t work. It’s not broken, it’s suboptimal.')

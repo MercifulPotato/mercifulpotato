@@ -1,1 +1,1 @@
-Item(by='Florin_Andrei', descendants=None, kids=None, score=None, time=1603222605, title=None, item_type='comment', url=None, parent=24840579, text='&gt; <i>Just before an election?</i><p>It&#x27;s very obvious that&#x27;s the whole point.')
+Item(by='Florin_Andrei', descendants=None, kids=[24844073], score=None, time=1603222605, title=None, item_type='comment', url=None, parent=24840579, text='&gt; <i>Just before an election?</i><p>It&#x27;s very obvious that&#x27;s the whole point.')

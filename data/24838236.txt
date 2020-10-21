@@ -1,1 +1,1 @@
-Item(by='tmsbrg', descendants=0, kids=None, score=6, time=1603206698, title='I created a webapp to help me learn simplified Chinese characters', item_type='story', url='https://www.thomasvanderberg.nl/blog/cn-hanzi/', parent=None, text=None)
+Item(by='tmsbrg', descendants=1, kids=[24843343], score=6, time=1603206698, title='I created a webapp to help me learn simplified Chinese characters', item_type='story', url='https://www.thomasvanderberg.nl/blog/cn-hanzi/', parent=None, text=None)

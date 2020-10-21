@@ -1,0 +1,1 @@
+Item(by='FridgeSeal', descendants=None, kids=None, score=None, time=1603235196, title=None, item_type='comment', url=None, parent=24842151, text='It also does (to my knowledge) no real optimisation on user code. I&#x27;ve also read that a lot of pythons construction and language semantics make it difficult to implement more performance optimisations.')

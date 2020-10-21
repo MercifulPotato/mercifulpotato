@@ -1,1 +1,1 @@
-Item(by='zweig', descendants=0, kids=None, score=8, time=1603189536, title='Minimalism in Programming: How Complexity Harms Your Productivity', item_type='story', url='https://blog.finxter.com/minimalism-in-programming/', parent=None, text=None)
+Item(by='zweig', descendants=4, kids=[24843122, 24843263], score=18, time=1603189536, title='Minimalism in Programming: How Complexity Harms Your Productivity', item_type='story', url='https://blog.finxter.com/minimalism-in-programming/', parent=None, text=None)

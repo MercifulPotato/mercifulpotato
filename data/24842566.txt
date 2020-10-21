@@ -1,0 +1,1 @@
+Item(by='kazinator', descendants=None, kids=[24842926], score=None, time=1603229516, title=None, item_type='comment', url=None, parent=24840968, text='So, process starts with fd 2 being unused; opens something, and that something gets fd 2, which now looks like stderr?')

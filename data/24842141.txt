@@ -1,0 +1,1 @@
+Item(by='patrec', descendants=None, kids=None, score=None, time=1603226448, title=None, item_type='comment', url=None, parent=24841665, text='In common-lisp you could do something equivalent, but you&#x27;d have to wrap the definitions you want to be able at both compile and and run time in eval-when.')

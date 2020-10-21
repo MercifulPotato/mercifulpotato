@@ -1,1 +1,1 @@
-Item(by='polm23', descendants=6, kids=[24841014, 24840080], score=40, time=1603209528, title='Pylo: Python front-end for several Prolog engines', item_type='story', url='https://github.com/sebdumancic/pylo2', parent=None, text=None)
+Item(by='polm23', descendants=9, kids=[24841014, 24840080], score=44, time=1603209528, title='Pylo: Python front-end for several Prolog engines', item_type='story', url='https://github.com/sebdumancic/pylo2', parent=None, text=None)

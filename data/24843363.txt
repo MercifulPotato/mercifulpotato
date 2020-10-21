@@ -1,0 +1,1 @@
+Item(by='jellyksong', descendants=None, kids=[24844080], score=None, time=1603236688, title=None, item_type='comment', url=None, parent=24840454, text='This article is about optimization (finding good parameters), not the approximation power of neural networks (which is well-known through the universal approximation theorem).')

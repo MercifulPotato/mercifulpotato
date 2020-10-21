@@ -1,0 +1,1 @@
+Item(by='coldtea', descendants=None, kids=None, score=None, time=1603229742, title=None, item_type='comment', url=None, parent=24838208, text='&gt;<i>I personally think tracing JIT is a bad technology. It&#x27;s over complicated and makes it hard to reason about runtime space and time efficiencies of code.</i><p>Hasn&#x27;t Strongtalk, Java, and JS put those concerns to sleep?')

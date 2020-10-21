@@ -1,0 +1,1 @@
+Item(by='morei', descendants=None, kids=None, score=None, time=1603235829, title=None, item_type='comment', url=None, parent=24843121, text='Yes, the more accurate title would be &quot;Why is it faster to read data from a file via mmap() than via the read() system call?&quot;')

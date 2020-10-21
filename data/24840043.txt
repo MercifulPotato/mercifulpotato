@@ -1,1 +1,1 @@
-Item(by='leptons', descendants=None, kids=None, score=None, time=1603214674, title=None, item_type='comment', url=None, parent=24839714, text='&quot;If the product is free, then you are the product&quot;')
+Item(by='leptons', descendants=None, kids=[24842569], score=None, time=1603214674, title=None, item_type='comment', url=None, parent=24839714, text='&quot;If the product is free, then you are the product&quot;')

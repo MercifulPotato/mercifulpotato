@@ -1,0 +1,1 @@
+Item(by='rudasn', descendants=None, kids=[24843311], score=None, time=1603234944, title=None, item_type='comment', url=None, parent=24842994, text='You still need access to the host, via ssh for example, to start the containers and do some basic maintenance. Won&#x27;t you have fail2ban installed on the host since your ssh port would be open?')

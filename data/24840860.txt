@@ -1,1 +1,1 @@
-Item(by='mdoms', descendants=None, kids=None, score=None, time=1603219089, title=None, item_type='comment', url=None, parent=24839030, text='I trust my friend Mike to drive me to the pub. I don&#x27;t trust Mike to be the executor of my will.')
+Item(by='mdoms', descendants=None, kids=[24842315], score=None, time=1603219089, title=None, item_type='comment', url=None, parent=24839030, text='I trust my friend Mike to drive me to the pub. I don&#x27;t trust Mike to be the executor of my will.')

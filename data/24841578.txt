@@ -1,0 +1,1 @@
+Item(by='app4soft', descendants=0, kids=None, score=2, time=1603222971, title='CVE: Buffer overflow by FreeType can happen for some TTF files with PNG glyphs', item_type='story', url='https://www.mail-archive.com/freetype-announce@nongnu.org/msg00125.html', parent=None, text=None)

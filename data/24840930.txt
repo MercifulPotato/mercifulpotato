@@ -1,1 +1,1 @@
-Item(by='scrozier', descendants=8, kids=[24841176, 24841019], score=1, time=1603219508, title='New York MTA launches real-time digital subway map', item_type='story', url='https://map.mta.info/', parent=None, text=None)
+Item(by='scrozier', descendants=10, kids=[24841176, 24841019], score=4, time=1603219508, title='New York MTA launches real-time digital subway map', item_type='story', url='https://map.mta.info/', parent=None, text=None)

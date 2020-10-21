@@ -1,1 +1,1 @@
-Item(by='snicker7', descendants=None, kids=[24821892, 24821326], score=None, time=1603056400, title=None, item_type='comment', url=None, parent=24821106, text='TeXmacs is not built on top of TeX. It is closer to a Lisp.')
+Item(by='snicker7', descendants=None, kids=[24821326, 24821892], score=None, time=1603056400, title=None, item_type='comment', url=None, parent=24821106, text='TeXmacs is not built on top of TeX. It is closer to a Lisp.')

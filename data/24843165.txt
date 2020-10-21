@@ -1,0 +1,1 @@
+Item(by='dyingkneepad', descendants=None, kids=[24843249], score=None, time=1603234781, title=None, item_type='comment', url=None, parent=24843121, text='But you call mmap only once per file: it gives you a pointer and then you just use the pointer normally. While for read() you have to call once per read() operation (minus some user space buffering).')

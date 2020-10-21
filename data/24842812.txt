@@ -1,0 +1,1 @@
+Item(by='hariboapfel', descendants=None, kids=None, score=None, time=1603231593, title=None, item_type='comment', url=None, parent=24838816, text='i think this is a bug. for instance iCloud photos syncing network traffic, (belongig to nsurlsessiond) doesnt show up in the BigSur native Activity Monitor, but for some reason still gets shown in my Stats app.')

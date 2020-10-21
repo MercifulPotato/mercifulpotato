@@ -1,1 +1,1 @@
-Item(by='stmw', descendants=None, kids=None, score=None, time=1603222471, title=None, item_type='comment', url=None, parent=24841445, text='Having used interviewing.io a lot, that&#x27;s pretty close to how it works... It even had a &quot;chatroulette...&quot; tagline early on.')
+Item(by='stmw', descendants=None, kids=[24842968], score=None, time=1603222471, title=None, item_type='comment', url=None, parent=24841445, text='Having used interviewing.io a lot, that&#x27;s pretty close to how it works... It even had a &quot;chatroulette...&quot; tagline early on.')

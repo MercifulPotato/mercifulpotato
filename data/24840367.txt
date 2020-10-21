@@ -1,1 +1,1 @@
-Item(by='rado', descendants=None, kids=None, score=None, time=1603216370, title=None, item_type='comment', url=None, parent=24838716, text='FF performance is very poor compared to Safari and Chrome (on Mac).')
+Item(by='rado', descendants=None, kids=[24841860], score=None, time=1603216370, title=None, item_type='comment', url=None, parent=24838716, text='FF performance is very poor compared to Safari and Chrome (on Mac).')

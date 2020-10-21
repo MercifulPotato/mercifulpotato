@@ -1,1 +1,1 @@
-Item(by='Kortaggio', descendants=0, kids=None, score=1, time=1603221426, title='What Every Programmer Should Know About Memory (2007) [pdf]', item_type='story', url='https://people.freebsd.org/~lstewart/articles/cpumemory.pdf', parent=None, text=None)
+Item(by='Kortaggio', descendants=0, kids=None, score=2, time=1603221426, title='What Every Programmer Should Know About Memory (2007) [pdf]', item_type='story', url='https://people.freebsd.org/~lstewart/articles/cpumemory.pdf', parent=None, text=None)

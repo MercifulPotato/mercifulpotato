@@ -1,1 +1,1 @@
-Item(by='mulmen', descendants=None, kids=None, score=None, time=1603217547, title=None, item_type='comment', url=None, parent=24840296, text='Tor operates over the Internet.<p>Did you mean to compare Tor to the World Wide Web?')
+Item(by='mulmen', descendants=None, kids=[24843067], score=None, time=1603217547, title=None, item_type='comment', url=None, parent=24840296, text='Tor operates over the Internet.<p>Did you mean to compare Tor to the World Wide Web?')

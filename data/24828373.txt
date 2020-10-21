@@ -1,1 +1,1 @@
-Item(by='b20000', descendants=1, kids=[24832050], score=16, time=1603127138, title='ProgrammerLivesMatter', item_type='story', url='https://www.youtube.com/watch?v=ouKgUdqZMds', parent=None, text=None)
+Item(by='b20000', descendants=4, kids=[24835893, 24832050], score=17, time=1603127138, title='ProgrammerLivesMatter', item_type='story', url='https://www.youtube.com/watch?v=ouKgUdqZMds', parent=None, text=None)

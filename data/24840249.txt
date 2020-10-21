@@ -1,1 +1,1 @@
-Item(by='DrAwdeOccarim', descendants=None, kids=None, score=None, time=1603215731, title=None, item_type='comment', url=None, parent=24839592, text='Try Linux Mint with xfce. Really nice out of the box.')
+Item(by='DrAwdeOccarim', descendants=None, kids=[24844127], score=None, time=1603215731, title=None, item_type='comment', url=None, parent=24839592, text='Try Linux Mint with xfce. Really nice out of the box.')

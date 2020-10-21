@@ -1,0 +1,1 @@
+Item(by='krastanov', descendants=None, kids=[24843306], score=None, time=1603234843, title=None, item_type='comment', url=None, parent=24842739, text='E.g. jax does not autodifferentiate anything that is not jax (scipy ode solvers, special functions, image processing libraries, special number types (mpmath), domain-specific libraries). Compare that to Zygote.jl')

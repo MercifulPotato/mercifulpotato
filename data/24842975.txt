@@ -1,0 +1,1 @@
+Item(by='Rusky', descendants=None, kids=None, score=None, time=1603233047, title=None, item_type='comment', url=None, parent=24842816, text='Right, I&#x27;ve been telling you it&#x27;s not relevant for the past three comments now.<p>You seem to be under the impression that dlopen somehow interacts with language undefined behavior; it does not in either Rust or C++.')
