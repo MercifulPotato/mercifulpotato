@@ -1,1 +1,1 @@
-Item(by='codeadict', descendants=0, kids=None, score=4, time=1603203903, title='A Brief Introduction to Beam – Erlang/OTP Blog', item_type='story', url='https://blog.erlang.org/a-brief-BEAM-primer/', parent=None, text=None)
+Item(by='codeadict', descendants=34, kids=[24852041, 24856661, 24852235, 24851598, 24851425, 24853830, 24854343, 24851774, 24854186], score=208, time=1603203903, title='A brief introduction to BEAM', item_type='story', url='https://blog.erlang.org/a-brief-BEAM-primer/', parent=None, text=None)

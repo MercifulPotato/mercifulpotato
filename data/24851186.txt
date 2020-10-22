@@ -1,0 +1,1 @@
+Item(by='yomansat', descendants=None, kids=[24852563, 24852411], score=None, time=1603308667, title=None, item_type='comment', url=None, parent=24850583, text='To ring terminal bell after running process<p>&gt; Ctrl+g # (^g)<p>Or any of:<p>&gt; tput bel<p>&gt; echo -n -a &quot;\\a&quot;<p>&gt; echo $&#x27;\\a&#x27;')

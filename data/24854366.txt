@@ -1,0 +1,1 @@
+Item(by='jdub', descendants=None, kids=[24855437], score=None, time=1603333970, title=None, item_type='comment', url=None, parent=24854301, text='There&#x27;s been some interest among the Samba hackers, including some discussion with Microsoft. They seem quite excited about SMB-on-QUIC as an Internet-capable network filesystem protocol.')

@@ -1,0 +1,1 @@
+Item(by='stefanjudis', descendants=17, kids=[24857342, 24856067, 24856428, 24856009, 24856362], score=32, time=1603350393, title='A Kubernetes operator to sync secrets from AWS Secrets Manager', item_type='story', url='https://www.contentful.com/blog/2020/10/20/open-source-kube-secret-syncer/', parent=None, text=None)

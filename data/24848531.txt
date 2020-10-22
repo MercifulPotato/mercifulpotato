@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=None, score=None, time=1603292635, title=None, item_type='comment', url=None, parent=24847153, text='I was under the impression, at least as it pertained to the elderly, that GA is commonly known to be a significant risk.')
+Item(by='kube-system', descendants=None, kids=[24852604], score=None, time=1603292635, title=None, item_type='comment', url=None, parent=24847153, text='I was under the impression, at least as it pertained to the elderly, that GA is commonly known to be a significant risk.')

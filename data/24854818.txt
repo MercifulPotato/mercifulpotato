@@ -1,0 +1,1 @@
+Item(by='ac29', descendants=None, kids=None, score=None, time=1603340151, title=None, item_type='comment', url=None, parent=24854641, text='The Linux kernel does use loadable modules, and indeed that is how most drivers are used. My relatively boring laptop setup is using 219 modules at the moment.')

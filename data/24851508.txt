@@ -1,1 +1,1 @@
-Item(by='wrkronmiller', descendants=None, kids=None, score=None, time=1603310737, title=None, item_type='comment', url=None, parent=24850549, text='Might have something to do with this snippet:<p><pre><code>  movingTrainsInterval.current = setInterval(() =&gt; {\n            setMovingTrainsUpdated(Date.now());\n          }, 1000 &#x2F; MOVING_TRAIN_FPS);</code></pre>')
+Item(by=None, descendants=None, kids=None, score=None, time=1603310737, title=None, item_type='comment', url=None, parent=24850549, text=None)

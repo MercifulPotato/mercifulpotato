@@ -1,0 +1,1 @@
+Item(by='pklausler', descendants=None, kids=[24853358], score=None, time=1603322174, title=None, item_type='comment', url=None, parent=24852237, text='If you construct your parser in some kind of declarative fashion (e.g., a parser combinator DSL), you can do that kind of error checking directly on the same spec that you compile to produce your parser.')

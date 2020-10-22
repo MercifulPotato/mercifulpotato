@@ -1,0 +1,1 @@
+Item(by='secretsatan', descendants=None, kids=None, score=None, time=1603368417, title=None, item_type='comment', url=None, parent=24856984, text='I&#x27;ve implemented it in mobile to authorize our app to communicate with our cloud, it does still use a webview to enter credentials, but there&#x27;s a specific framework for doing authorisation with a webview on iOS')

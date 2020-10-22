@@ -1,0 +1,1 @@
+Item(by='mjoras', descendants=None, kids=None, score=None, time=1603348446, title=None, item_type='comment', url=None, parent=24854366, text='Indeed. I believe the latest Windows Insiders builds have SMB over QUIC support (via msquic). I think QUIC brings a lot potential to finally run network filesystem protocols on the Internet.')

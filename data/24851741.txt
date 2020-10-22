@@ -1,0 +1,1 @@
+Item(by='Siira', descendants=None, kids=None, score=None, time=1603311884, title=None, item_type='comment', url=None, parent=24851065, text='I use the idletime (among other factors) to decide the alarm&#x27;s duration.<p><pre><code>  getidle-darwin () {\n      ioreg -c IOHIDSystem | awk &#x27;&#x2F;HIDIdleTime&#x2F; {print \n  $NF&#x2F;1000000000; exit}&#x27;\n  }</code></pre>')

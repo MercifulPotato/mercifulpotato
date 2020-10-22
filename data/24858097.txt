@@ -1,0 +1,1 @@
+Item(by='q3k', descendants=None, kids=None, score=None, time=1603375292, title=None, item_type='comment', url=None, parent=24858048, text='Doesn&#x27;t that issue come from the fact that OAuth2 state mostly lives in GET URL data (redirects&#x2F;callbacks) and request headers (bearer tokens), vs. POST body (which is something OAuth3 does seem to get right)?')

@@ -1,0 +1,1 @@
+Item(by='dan-robertson', descendants=None, kids=None, score=None, time=1603319174, title=None, item_type='comment', url=None, parent=24843388, text='That’s a statement about modern implementations of memcpy, whereas I was asking about what processors themselves do when they see a non-vector memcpy loop.')

@@ -1,1 +1,1 @@
-Item(by='pavlov', descendants=None, kids=None, score=None, time=1603255654, title=None, item_type='comment', url=None, parent=24844509, text='Why not WebAssembly for a C++ sandbox?')
+Item(by='pavlov', descendants=None, kids=[24854569, 24853037], score=None, time=1603255654, title=None, item_type='comment', url=None, parent=24844509, text='Why not WebAssembly for a C++ sandbox?')

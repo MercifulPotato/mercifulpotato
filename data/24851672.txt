@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=None, score=None, time=1603311571, title=None, item_type='comment', url=None, parent=24849142, text='panfrost is buggy as hell on my Odroid-C2.  To the point where I have to use the framebuffer driver to run X.')

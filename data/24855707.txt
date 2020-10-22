@@ -1,0 +1,1 @@
+Item(by='goatinaboat', descendants=None, kids=[24856567], score=None, time=1603351923, title=None, item_type='comment', url=None, parent=24854933, text='<i>Realistically, you can&#x27;t do &quot;data sharing of unknown types&quot; - at that point you&#x27;re just sharing binary blobs.</i><p>ASN.1 and CORBA both let you share types that are unknown ahead of receiving.')

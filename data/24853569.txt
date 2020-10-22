@@ -1,0 +1,1 @@
+Item(by='EdwardDiego', descendants=None, kids=None, score=None, time=1603324077, title=None, item_type='comment', url=None, parent=24852937, text='IDEA&#x27;s K8s plugin validates its YAML. It&#x27;s stricter than K8S itself though.<p>K8s will accept a cpu value of 0.1, but the plugin marks it as an error, it wants the millicpu version 100m instead.')

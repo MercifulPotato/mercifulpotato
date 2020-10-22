@@ -1,0 +1,1 @@
+Item(by='nuker', descendants=None, kids=[24856836], score=None, time=1603363664, title=None, item_type='comment', url=None, parent=24856620, text='Secrets to be fetched by CFN of the Service. &quot;define a config file as a &quot;volume&quot; and mount into the container&quot; is very unusual. Store it in S3, and give your Task&#x27;s IAM Role permission to fetch it.')

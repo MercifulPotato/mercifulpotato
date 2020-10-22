@@ -1,0 +1,1 @@
+Item(by='labawi', descendants=None, kids=None, score=None, time=1603311940, title=None, item_type='comment', url=None, parent=24843353, text='You are likely correct. I knew you could do zero-copy, but it seems special syscalls are necessary for the stated reasons. Calls like mmap, splice, vmsplice, tee, sendfile, io_uring, ..')

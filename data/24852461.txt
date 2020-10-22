@@ -1,0 +1,1 @@
+Item(by='tiarkrompf', descendants=None, kids=[24853652, 24852992, 24852862], score=None, time=1603316048, title=None, item_type='comment', url=None, parent=24852221, text='I just pushed a fix for Chrome (apparently it doesn&#x27;t report affected selection ranges for input events). Hope it works now!')

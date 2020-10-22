@@ -1,0 +1,1 @@
+Item(by='om2', descendants=None, kids=None, score=None, time=1603320424, title=None, item_type='comment', url=None, parent=24846612, text='It would be easier to swap JS engines than other browser engine components probably, but yeah, not trivial. The patches to make WebKit support choice of JSC or V8 were janky in the first place and constrained what we could do.')

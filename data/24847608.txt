@@ -1,1 +1,1 @@
-Item(by='justusthane', descendants=None, kids=None, score=None, time=1603286668, title=None, item_type='comment', url=None, parent=24839378, text='For what it’s worth I’ve used Decentraleyes, which this extension is forked from, for years and have never noticed it break a site.')
+Item(by='justusthane', descendants=None, kids=[24854009], score=None, time=1603286668, title=None, item_type='comment', url=None, parent=24839378, text='For what it’s worth I’ve used Decentraleyes, which this extension is forked from, for years and have never noticed it break a site.')

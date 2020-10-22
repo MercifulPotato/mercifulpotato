@@ -1,0 +1,1 @@
+Item(by='dtech', descendants=None, kids=[24857355, 24856906], score=None, time=1603365486, title=None, item_type='comment', url=None, parent=24856647, text='&gt; define a config file as a &quot;volume&quot; and mount into the container<p>That is how kubernetes secrets work so I wouldn&#x27;t call it unusual')

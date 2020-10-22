@@ -1,0 +1,1 @@
+Item(by='joshribakoff', descendants=None, kids=[24853870], score=None, time=1603326765, title=None, item_type='comment', url=None, parent=24852625, text='Radar isn’t great at detecting stopped objects especially when the sensor is moving at highway speeds, which is why most AV companies are using LIDAR')

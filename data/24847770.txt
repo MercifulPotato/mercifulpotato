@@ -1,1 +1,1 @@
-Item(by='toyg', descendants=None, kids=None, score=None, time=1603287696, title=None, item_type='comment', url=None, parent=24847601, text='dspillet wrote (A)GPL, implying it was about both. As I stated, the gpl itself does not have such requirement.')
+Item(by='toyg', descendants=None, kids=[24855946], score=None, time=1603287696, title=None, item_type='comment', url=None, parent=24847601, text='dspillet wrote (A)GPL, implying it was about both. As I stated, the gpl itself does not have such requirement.')

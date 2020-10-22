@@ -1,1 +1,1 @@
-Item(by='bigbubba', descendants=None, kids=None, score=None, time=1603229367, title=None, item_type='comment', url=None, parent=24840806, text='Contrary to what British newspapers might like you to believe, NASA is always capitalized.')
+Item(by='bigbubba', descendants=None, kids=[24852062], score=None, time=1603229367, title=None, item_type='comment', url=None, parent=24840806, text='Contrary to what British newspapers might like you to believe, NASA is always capitalized.')

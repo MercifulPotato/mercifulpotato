@@ -1,0 +1,1 @@
+Item(by='lunixbochs', descendants=None, kids=None, score=None, time=1603316755, title=None, item_type='comment', url=None, parent=24849810, text='I developed much of the original Talon code using a single Python file (the combination of std.py + basic_keys.py) and Vim.')

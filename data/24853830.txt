@@ -1,0 +1,1 @@
+Item(by='alberth', descendants=None, kids=[24853948], score=None, time=1603326969, title=None, item_type='comment', url=None, parent=24837640, text='Has anyone seen benchmarks of the new JIT vs HiPE?<p>Everything I’ve read is comparing the JIT to the interpreter, but HiPE itself is faster than the interpreter. So is JIT faster than HiPE?')

@@ -1,0 +1,1 @@
+Item(by='dheera', descendants=None, kids=[24854899], score=None, time=1603338282, title=None, item_type='comment', url=None, parent=24854358, text='AWS credits? You can get a bunch of free credits for each account, and then build an abstraction around boto3 to make 20 accounts look like 1 account to you.')

@@ -1,0 +1,1 @@
+Item(by='beagle3', descendants=None, kids=None, score=None, time=1603355656, title=None, item_type='comment', url=None, parent=24852712, text='Thanks for the correction, indeed, I meant lisp2 even though I typed lisp1;<p>It makes it easier to compile than a lisp1 (to which Python is closer), because the standard call form s-expression can be bound early.')

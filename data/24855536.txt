@@ -1,0 +1,1 @@
+Item(by='doteka', descendants=None, kids=[24857765], score=None, time=1603349835, title=None, item_type='comment', url=None, parent=24854989, text='What Drew is saying is absolutely correct though. YAML was specifically designed to be a superset of JSON. Conversely, when JSON was designed, YAML did not exist, so it only became a subset of YAML when the latter was introduced.')

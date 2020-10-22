@@ -1,0 +1,1 @@
+Item(by='quesera', descendants=None, kids=None, score=None, time=1603327463, title=None, item_type='comment', url=None, parent=24850548, text='When I last tested, it varied by platform.<p>Linux was happy to open a new instance without the `--new-instance` option (which is implied by `--no-remote`), but macOS required it.')

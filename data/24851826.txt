@@ -1,0 +1,1 @@
+Item(by='Isamu', descendants=None, kids=[24852900], score=None, time=1603312275, title=None, item_type='comment', url=None, parent=24850491, text='You can filter pretty much any packet. The downside with using TCP is you are looking at individual packets, which may be out of order, that sort of thing.')

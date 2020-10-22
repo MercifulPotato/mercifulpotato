@@ -1,0 +1,1 @@
+Item(by='p_l', descendants=None, kids=None, score=None, time=1603372552, title=None, item_type='comment', url=None, parent=24835431, text='From what I remember on HTTP&#x2F;3 vs HTTP&#x2F;2,main differences are due to different transport layer - in fact yiu can even use QUIC without HTTP. The HTTP part are mostly lifted from HTTP&#x2F;2')

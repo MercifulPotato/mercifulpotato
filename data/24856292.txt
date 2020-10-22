@@ -1,0 +1,1 @@
+Item(by='kzrdude', descendants=None, kids=[24856330], score=None, time=1603359480, title=None, item_type='comment', url=None, parent=24850511, text='Could we seriously start looking at deprecating some of the features that make Python slow? Who needs mutable interpreter frames?')

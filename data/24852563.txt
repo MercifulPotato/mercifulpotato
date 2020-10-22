@@ -1,0 +1,1 @@
+Item(by='Gys', descendants=None, kids=None, score=None, time=1603316723, title=None, item_type='comment', url=None, parent=24851186, text='On MacOS instead of tput bel I use: `say &quot;finished&quot;` (or something)<p>For non-Mac users: `say` will activate a voice saying some text')

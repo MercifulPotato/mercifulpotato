@@ -1,1 +1,1 @@
-Item(by='willempienaar', descendants=4, kids=[24849507, 24848387, 24848414, 24848429], score=43, time=1603289160, title='What Is a Feature Store?', item_type='story', url='https://www.tecton.ai/blog/what-is-a-feature-store/', parent=None, text=None)
+Item(by='willempienaar', descendants=5, kids=[24849507, 24848387, 24848414, 24848429], score=49, time=1603289160, title='What Is a Feature Store?', item_type='story', url='https://www.tecton.ai/blog/what-is-a-feature-store/', parent=None, text=None)

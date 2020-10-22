@@ -1,0 +1,1 @@
+Item(by='phoe-krk', descendants=None, kids=[24851715], score=None, time=1603310260, title=None, item_type='comment', url=None, parent=24837640, text='In the exception example, there is a line saying:<p><pre><code>    {&#x27;try&#x27;,{y,0},{f,13}}.\n</code></pre>\nWhy is the symbol `try` quoted here? Does it need to, if its name is all lowercase?')

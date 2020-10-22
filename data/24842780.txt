@@ -1,1 +1,1 @@
-Item(by='hungryhobo', descendants=None, kids=None, score=None, time=1603231274, title=None, item_type='comment', url=None, parent=24834435, text='Just interesting that on an article about Intel (a US company) and Hynix (a Korean company), half the comments are about china.')
+Item(by='hungryhobo', descendants=None, kids=[24854280], score=None, time=1603231274, title=None, item_type='comment', url=None, parent=24834435, text='Just interesting that on an article about Intel (a US company) and Hynix (a Korean company), half the comments are about china.')

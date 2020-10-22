@@ -1,0 +1,1 @@
+Item(by='smitty1e', descendants=None, kids=[24852958], score=None, time=1603319137, title=None, item_type='comment', url=None, parent=24852849, text='But you can&#x27;t put comments in JSON.<p>But you can write Python (or pretty much any other tool) and have it emitted as JSON.')

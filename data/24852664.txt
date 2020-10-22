@@ -1,0 +1,1 @@
+Item(by='fsuuttg', descendants=None, kids=None, score=None, time=1603317338, title=None, item_type='comment', url=None, parent=24852311, text='Why does it matter? Turing completeness is a low bar. Both exp(exp(N)) and log(log(N)) algorithms solve the AI problem in a finite number of steps, but one of them is a useless abstraction, while the other one really works.')
