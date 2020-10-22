@@ -1,0 +1,1 @@
+Item(by='timonoko', descendants=None, kids=[24860403, 24860321], score=None, time=1603386294, title=None, item_type='comment', url=None, parent=24857834, text='They did not ask, but Swedish letter &quot;å&quot; is bloody useless on Finnish keyboard, so I have<p><pre><code>    (global-set-key (kbd &quot;å&quot;)  &#x27;hippie-expand)</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='ansoni', descendants=None, kids=None, score=None, time=1603389074, title=None, item_type='comment', url=None, parent=24856607, text='why do 34.242.162.234 and 18.203.64.15 both translate to 10.54.1.1?<p>Are they both registered with the NLB and assigned to the same EC2 instance?')

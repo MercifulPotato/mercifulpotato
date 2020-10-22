@@ -1,1 +1,1 @@
-Item(by='nuker', descendants=None, kids=[24856620], score=None, time=1603360334, title=None, item_type='comment', url=None, parent=24855569, text='Just switch from kube to ECS already, if you&#x27;re in AWS. Much better integration and support.')
+Item(by='nuker', descendants=None, kids=[24858366, 24857856, 24856620], score=None, time=1603360334, title=None, item_type='comment', url=None, parent=24855569, text='Just switch from kube to ECS already, if you&#x27;re in AWS. Much better integration and support.')

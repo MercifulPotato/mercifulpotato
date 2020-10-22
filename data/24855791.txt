@@ -1,1 +1,1 @@
-Item(by='IshKebab', descendants=None, kids=None, score=None, time=1603352961, title=None, item_type='comment', url=None, parent=24851104, text='Right, but Julia is not derived from Ruby or Pascal.')
+Item(by='IshKebab', descendants=None, kids=[24859772], score=None, time=1603352961, title=None, item_type='comment', url=None, parent=24851104, text='Right, but Julia is not derived from Ruby or Pascal.')

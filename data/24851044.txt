@@ -1,1 +1,1 @@
-Item(by='nomel', descendants=None, kids=None, score=None, time=1603307705, title=None, item_type='comment', url=None, parent=24850593, text='Maybe someday a giant will push UDP broadcast. That would be neat.')
+Item(by='nomel', descendants=None, kids=[24858331], score=None, time=1603307705, title=None, item_type='comment', url=None, parent=24850593, text='Maybe someday a giant will push UDP broadcast. That would be neat.')

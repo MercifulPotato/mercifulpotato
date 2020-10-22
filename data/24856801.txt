@@ -1,1 +1,1 @@
-Item(by='Fnoord', descendants=None, kids=None, score=None, time=1603365174, title=None, item_type='comment', url=None, parent=24856253, text='You would think a Google project like Google Chrome would benefit from Google Search.')
+Item(by='Fnoord', descendants=None, kids=[24862119], score=None, time=1603365174, title=None, item_type='comment', url=None, parent=24856253, text='You would think a Google project like Google Chrome would benefit from Google Search.')

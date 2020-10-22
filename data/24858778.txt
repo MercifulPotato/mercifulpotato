@@ -1,0 +1,1 @@
+Item(by='renke1', descendants=None, kids=[24858876, 24859086, 24858935, 24859001, 24859101], score=None, time=1603379078, title=None, item_type='comment', url=None, parent=24858363, text='I am not an K8S expert, but why is it that (most?) cloud load balancers not act as ingress controllers?')

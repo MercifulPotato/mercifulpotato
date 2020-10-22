@@ -1,0 +1,1 @@
+Item(by='etxm', descendants=None, kids=[24862527], score=None, time=1603395179, title=None, item_type='comment', url=None, parent=24861855, text='I started using Traefik originally because it was easy to run outside of k8s.<p>This allowed our front end devs to run it locally when they were running local api servers.')

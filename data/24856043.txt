@@ -1,1 +1,1 @@
-Item(by='koheripbal', descendants=None, kids=None, score=None, time=1603356726, title=None, item_type='comment', url=None, parent=24854721, text='It&#x27;s important to remember that revolutions do not produce justice - they produce change.')
+Item(by='koheripbal', descendants=None, kids=[24861205], score=None, time=1603356726, title=None, item_type='comment', url=None, parent=24854721, text='It&#x27;s important to remember that revolutions do not produce justice - they produce change.')

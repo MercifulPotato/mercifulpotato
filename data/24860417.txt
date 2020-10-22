@@ -1,0 +1,1 @@
+Item(by='shmerl', descendants=None, kids=[24861164], score=None, time=1603386877, title=None, item_type='comment', url=None, parent=24860338, text='How does using shader in language X in Vulkan compare to approaches of OpenCL and CUDA? I.e. is it ergonomic to use for compute?')

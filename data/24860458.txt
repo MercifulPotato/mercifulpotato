@@ -1,0 +1,1 @@
+Item(by='dleslie', descendants=None, kids=None, score=None, time=1603387107, title=None, item_type='comment', url=None, parent=24859571, text='&gt; I&#x27;ve never found a fully satisfactory c++ setup<p>My preferred stack is:\nEmacs + lsp + ccls + dumb-jump + rg + projectile + dap<p>It&#x27;s still not perfect, but it&#x27;s the best I can do.')

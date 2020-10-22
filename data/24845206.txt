@@ -1,1 +1,1 @@
-Item(by='jhoechtl', descendants=None, kids=None, score=None, time=1603260901, title=None, item_type='comment', url=None, parent=24843842, text='Its Schuko, short for SCHutzKOntak, &quot;contacts and ground&quot;.')
+Item(by='jhoechtl', descendants=None, kids=[24861925], score=None, time=1603260901, title=None, item_type='comment', url=None, parent=24843842, text='Its Schuko, short for SCHutzKOntak, &quot;contacts and ground&quot;.')

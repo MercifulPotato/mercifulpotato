@@ -1,0 +1,1 @@
+Item(by='dilyevsky', descendants=None, kids=[24862262], score=None, time=1603393013, title=None, item_type='comment', url=None, parent=24861070, text='It will not, in fact, just work bc many clients cache old entries for a long time so you won’t be able to solve your load spreading problem quickly at least in general case')

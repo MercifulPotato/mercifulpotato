@@ -1,0 +1,1 @@
+Item(by='guenthert', descendants=None, kids=[24862172], score=None, time=1603387998, title=None, item_type='comment', url=None, parent=24860101, text='Elisp can be used by package developers, but it is really meant to be used by Emacs users.  In that, Emacs is fundamentally different than other editors.  Users are not only enabled, but encouraged to extend their editor.')

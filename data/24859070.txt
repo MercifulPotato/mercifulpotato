@@ -1,0 +1,1 @@
+Item(by='speedgoose', descendants=None, kids=[24860722, 24859288, 24859196], score=None, time=1603380618, title=None, item_type='comment', url=None, parent=24858968, text='In my humble opinion, Golang is pretty verbose in a bad way when it comes to JSON. Rust and the crate serde_json are also strongly typed and it&#x27;s a lot better.')

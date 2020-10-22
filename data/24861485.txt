@@ -1,0 +1,1 @@
+Item(by='aidos', descendants=None, kids=None, score=None, time=1603391323, title=None, item_type='comment', url=None, parent=24859285, text='Are there any gotchas with using these machines for general workloads? Are there compatibility issues you need to be aware of? Can I just run a Postgres instance on them and expect everything to work?')

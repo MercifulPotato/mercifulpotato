@@ -1,0 +1,1 @@
+Item(by='p_l', descendants=None, kids=None, score=None, time=1603382232, title=None, item_type='comment', url=None, parent=24859076, text='AWS ALB is exposed as Ingress through alb-ingress-controller.\nNLB is exposed through Service objects which correspond to L4 load balancers (with Type=LoadBalancer set)')

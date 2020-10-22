@@ -1,1 +1,1 @@
-Item(by='epylar', descendants=None, kids=None, score=None, time=1603332421, title=None, item_type='comment', url=None, parent=24849399, text='Does this sort of thing show up on an MRI? (nerve inflammation&#x2F;mobility)')
+Item(by='epylar', descendants=None, kids=[24859963], score=None, time=1603332421, title=None, item_type='comment', url=None, parent=24849399, text='Does this sort of thing show up on an MRI? (nerve inflammation&#x2F;mobility)')

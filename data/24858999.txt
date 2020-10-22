@@ -1,0 +1,1 @@
+Item(by='renke1', descendants=None, kids=[24861610, 24860229, 24860761], score=None, time=1603380273, title=None, item_type='comment', url=None, parent=24858935, text='How do you typically access your K8S cluster when it&#x27;s not fronted by a LB and it has multiple nodes?')

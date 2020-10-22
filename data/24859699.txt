@@ -1,0 +1,1 @@
+Item(by='jcims', descendants=None, kids=[24860795], score=None, time=1603383577, title=None, item_type='comment', url=None, parent=24856607, text='Is anyone experiencing this type of issue when publishing PrivateLink Endpoint Services?  Presumably it means you need to deploy services to every AZ in the region you are operating?  Is that adequate?')

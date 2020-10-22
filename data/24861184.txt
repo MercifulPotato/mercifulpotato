@@ -1,0 +1,1 @@
+Item(by='throwaway894345', descendants=None, kids=None, score=None, time=1603390123, title=None, item_type='comment', url=None, parent=24861165, text='It&#x27;s not clear from the docs whether any Nickel program can perform side-effects or if the Nickel interpreter must be extended to allow programs to perform side-effects (a la Starlark). Can you clarify this point?')

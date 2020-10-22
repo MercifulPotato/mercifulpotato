@@ -1,1 +1,1 @@
-Item(by='Thorentis', descendants=None, kids=None, score=None, time=1603335305, title=None, item_type='comment', url=None, parent=24852525, text='Diversity quotas.')
+Item(by='Thorentis', descendants=None, kids=[24857976], score=None, time=1603335305, title=None, item_type='comment', url=None, parent=24852525, text='Diversity quotas.')

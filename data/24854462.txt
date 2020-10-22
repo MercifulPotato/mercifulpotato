@@ -1,1 +1,1 @@
-Item(by='geerlingguy', descendants=3, kids=[24854475], score=13, time=1603335254, title='Trying to Get an Nvidia GPU to Work with Raspberry Pi CM4', item_type='story', url='https://gist.github.com/geerlingguy/9f1510ab028e68b712381520308db2af', parent=None, text=None)
+Item(by='geerlingguy', descendants=5, kids=[24854475, 24859000], score=20, time=1603335254, title='Trying to Get an Nvidia GPU to Work with Raspberry Pi CM4', item_type='story', url='https://gist.github.com/geerlingguy/9f1510ab028e68b712381520308db2af', parent=None, text=None)

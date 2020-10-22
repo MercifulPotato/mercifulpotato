@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=None, kids=[24861527, 24861634], score=None, time=1603390307, title=None, item_type='comment', url=None, parent=24856502, text='The main reasons I started using Ansible in 2013 were its agentless setup (which this article covers nicely) and its --check --diff options (which this article leaves out). Does salt have a do-nothing sanity check mode?')

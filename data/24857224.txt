@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=1, time=1603369435, title='What can a pipe wrench teach us about software engineering?', item_type='story', url='https://mokacoding.com/blog/pipe-wrench/', parent=None, text=None)
+Item(by='ingve', descendants=30, kids=[24860055, 24859280, 24858985, 24861658, 24859330, 24859812, 24860115, 24861327, 24859040, 24860175, 24858694], score=51, time=1603369435, title='What can a pipe wrench teach us about software engineering?', item_type='story', url='https://mokacoding.com/blog/pipe-wrench/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='klelatti', descendants=None, kids=[24860323], score=None, time=1603386050, title=None, item_type='comment', url=None, parent=24859077, text='Thanks for the really interesting work and article. A couple of quick questions:<p>- How does the generated ptx code interface with the rest of the system. Is it embedded into some CUDA code?<p>- Any plans to open source?')

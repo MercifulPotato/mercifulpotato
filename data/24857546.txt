@@ -1,1 +1,1 @@
-Item(by='ogoffart', descendants=1, kids=[24857554], score=10, time=1603371864, title='Show HN: SixtyFPS – multi-language GUI toolkit made in Rust (alpha)', item_type='story', url='https://github.com/sixtyfpsui/sixtyfps', parent=None, text=None)
+Item(by='ogoffart', descendants=5, kids=[24857554, 24858095, 24857845], score=17, time=1603371864, title='Show HN: SixtyFPS – multi-language GUI toolkit made in Rust (alpha)', item_type='story', url='https://github.com/sixtyfpsui/sixtyfps', parent=None, text=None)

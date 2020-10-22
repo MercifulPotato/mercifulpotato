@@ -1,0 +1,1 @@
+Item(by='kppullin', descendants=None, kids=[24861018, 24860757], score=None, time=1603387936, title=None, item_type='comment', url=None, parent=24859285, text='I&#x27;d really like to try this out on a postgres replica, however these instances don&#x27;t appear in the web console at least when creating a replica from an existing x86 primary. Anyone have insight here?')

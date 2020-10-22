@@ -1,1 +1,1 @@
-Item(by='app4soft', descendants=9, kids=[24856059, 24856445, 24856420], score=77, time=1603349298, title='Publishing an F-Droid Repo using a Hardware Security Module', item_type='story', url='https://f-droid.org/en/2020/10/05/ntrokey-signing.html', parent=None, text=None)
+Item(by='app4soft', descendants=17, kids=[24856059, 24858817, 24856445, 24856420], score=90, time=1603349298, title='Publishing an F-Droid Repo using a Hardware Security Module', item_type='story', url='https://f-droid.org/en/2020/10/05/ntrokey-signing.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='pjbk', descendants=None, kids=None, score=None, time=1603389530, title=None, item_type='comment', url=None, parent=24852728, text='Yes. It was an indentation issue. It turned that the parent list accepted an item with the same id, so it was a valid statement and the full thing seemed OK. However the data ended up missing from where it was supposed to be.')

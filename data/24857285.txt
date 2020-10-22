@@ -1,1 +1,1 @@
-Item(by='mda', descendants=None, kids=None, score=None, time=1603369935, title=None, item_type='comment', url=None, parent=24857166, text='I am having difficulty understanding this post.')
+Item(by='mda', descendants=None, kids=[24858112], score=None, time=1603369935, title=None, item_type='comment', url=None, parent=24857166, text='I am having difficulty understanding this post.')

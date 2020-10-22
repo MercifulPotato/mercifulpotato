@@ -1,1 +1,1 @@
-Item(by='detay', descendants=None, kids=None, score=None, time=1603368799, title=None, item_type='comment', url=None, parent=24855750, text='better prepare for OAuth 3.0 bounties. a man&#x27;s gotta eat.')
+Item(by='detay', descendants=None, kids=[24859116], score=None, time=1603368799, title=None, item_type='comment', url=None, parent=24855750, text='better prepare for OAuth 3.0 bounties. a man&#x27;s gotta eat.')

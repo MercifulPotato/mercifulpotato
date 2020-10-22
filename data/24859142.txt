@@ -1,0 +1,1 @@
+Item(by='dboreham', descendants=None, kids=[24859985], score=None, time=1603380972, title=None, item_type='comment', url=None, parent=24856467, text='Don&#x27;t we say &quot;build ON&quot; rather than &quot;build FROM&quot;??<p>From would imply running ssh client on OS A to log into machine with OS B where you run &#x27;make&#x27;.')

@@ -1,0 +1,1 @@
+Item(by='GordonS', descendants=None, kids=None, score=None, time=1603391763, title=None, item_type='comment', url=None, parent=24860464, text='It&#x27;s not the same as union types, but you can also often achieve polymorphic serialisation with any OO language, through the use of interfaces.')

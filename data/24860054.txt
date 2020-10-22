@@ -1,0 +1,1 @@
+Item(by='choeger', descendants=None, kids=None, score=None, time=1603385175, title=None, item_type='comment', url=None, parent=24858663, text='Integration. If I want to open emacs inside a Cmake c++ project, everything it needs is already there. But I have to configure all the tools myself. Then I switch to a python project and the same stuff has to happen again.')

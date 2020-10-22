@@ -1,1 +1,1 @@
-Item(by='saganus', descendants=0, kids=None, score=2, time=1603369135, title='The false promise of herd immunity for Covid-19', item_type='story', url='https://www.nature.com/articles/d41586-020-02948-4', parent=None, text=None)
+Item(by='saganus', descendants=1, kids=[24860431], score=5, time=1603369135, title='The false promise of herd immunity for Covid-19', item_type='story', url='https://www.nature.com/articles/d41586-020-02948-4', parent=None, text=None)

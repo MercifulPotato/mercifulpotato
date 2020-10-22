@@ -1,1 +1,1 @@
-Item(by='jacquesm', descendants=0, kids=None, score=2, time=1603371079, title='Spaced Repetition', item_type='story', url='https://www.gwern.net/Spaced-repetition', parent=None, text=None)
+Item(by='jacquesm', descendants=55, kids=[24860325, 24858404, 24858593, 24859672, 24859057, 24859923, 24858549, 24859176, 24861458, 24858821, 24859206, 24858555, 24859663, 24858546, 24860183, 24858760, 24858784], score=75, time=1603371079, title='Spaced Repetition (2019)', item_type='story', url='https://www.gwern.net/Spaced-repetition', parent=None, text=None)

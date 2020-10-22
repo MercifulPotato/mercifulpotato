@@ -1,1 +1,1 @@
-Item(by='dalmo3', descendants=None, kids=None, score=None, time=1603357099, title=None, item_type='comment', url=None, parent=24855686, text='Genius comment, spoiled by unambiguous font.')
+Item(by='dalmo3', descendants=None, kids=[24858751], score=None, time=1603357099, title=None, item_type='comment', url=None, parent=24855686, text='Genius comment, spoiled by unambiguous font.')
