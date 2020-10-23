@@ -1,1 +1,1 @@
-Item(by='ed25519FUUU', descendants=None, kids=None, score=None, time=1603416260, title=None, item_type='comment', url=None, parent=24864789, text='Another idea I’ve heard is to take your life expectancy in days as beads into a jar, and move one each day (or night) into another jar.')
+Item(by='ed25519FUUU', descendants=None, kids=[24865890], score=None, time=1603416260, title=None, item_type='comment', url=None, parent=24864789, text='Another idea I’ve heard is to take your life expectancy in days as beads into a jar, and move one each day (or night) into another jar.')

@@ -1,1 +1,1 @@
-Item(by='Farow', descendants=None, kids=None, score=None, time=1603321633, title=None, item_type='comment', url=None, parent=24852678, text='You can open a private window when doing your banking, extensions aren&#x27;t allowed there by default.')
+Item(by='Farow', descendants=None, kids=[24865655], score=None, time=1603321633, title=None, item_type='comment', url=None, parent=24852678, text='You can open a private window when doing your banking, extensions aren&#x27;t allowed there by default.')

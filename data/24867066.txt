@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=None, score=None, time=1603440295, title=None, item_type='comment', url=None, parent=24866043, text='Well I was doing graphics transformations on affine vectors, so they are all 4x4 and 4x1 vectors... You can&#x27;t &quot;know you are in the wrong order by checking dimensions&quot; in that case.')

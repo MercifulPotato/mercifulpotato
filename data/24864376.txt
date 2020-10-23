@@ -1,1 +1,1 @@
-Item(by='capableweb', descendants=5, kids=[24865260, 24865344, 24865346], score=12, time=1603408716, title='Email cannot be encrypted at rest and this cannot be fixed', item_type='story', url='https://www.migadu.com/procon/#not-encrypted-at-rest', parent=None, text=None)
+Item(by='capableweb', descendants=15, kids=[24865260, 24865715, 24865927, 24865704, 24865412, 24865805, 24865346, 24865580, 24865344], score=31, time=1603408716, title='Email cannot be encrypted at rest', item_type='story', url='https://www.migadu.com/procon/#not-encrypted-at-rest', parent=None, text=None)

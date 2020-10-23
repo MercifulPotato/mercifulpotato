@@ -1,1 +1,1 @@
-Item(by='bhaavan', descendants=12, kids=[24865144, 24863878, 24864953, 24863651, 24864224, 24863747], score=41, time=1603274145, title='Nginx Service Mesh', item_type='story', url='https://www.nginx.com/blog/introducing-nginx-service-mesh/', parent=None, text=None)
+Item(by='bhaavan', descendants=19, kids=[24866003, 24865479, 24863878, 24863651, 24866494, 24865144, 24864953, 24864224, 24863747], score=70, time=1603274145, title='Nginx Service Mesh', item_type='story', url='https://www.nginx.com/blog/introducing-nginx-service-mesh/', parent=None, text=None)

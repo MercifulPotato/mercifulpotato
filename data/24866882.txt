@@ -1,0 +1,1 @@
+Item(by='_a1_', descendants=None, kids=None, score=None, time=1603438225, title=None, item_type='comment', url=None, parent=24863352, text='With SAX (Simple API for XML) api, both UTF16 to UTF8 conversion and unlimited XML size can be parsed even under 1mb of RAM. It&#x27;s harder than DOM processing, but SAX was created for dealing with huge amounts of data inside XML.')

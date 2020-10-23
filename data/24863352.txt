@@ -1,1 +1,1 @@
-Item(by='aazaa', descendants=3, kids=[24865331, 24865162], score=23, time=1603401113, title='XMHell: Handling 38GB of UTF-16 XML with Rust', item_type='story', url='http://usethe.computer/posts/14-xmhell.html', parent=None, text=None)
+Item(by='aazaa', descendants=29, kids=[24866344, 24866060, 24865331, 24866882, 24865506, 24866010, 24866804, 24866500, 24866403, 24866346, 24866293, 24865162, 24866305], score=57, time=1603401113, title='XMHell: Handling 38GB of UTF-16 XML with Rust', item_type='story', url='http://usethe.computer/posts/14-xmhell.html', parent=None, text=None)

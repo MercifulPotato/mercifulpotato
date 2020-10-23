@@ -1,1 +1,1 @@
-Item(by='nwienert', descendants=None, kids=[24845076, 24845048, 24845703], score=None, time=1603258170, title=None, item_type='comment', url=None, parent=24844931, text='The premise of React isn’t at all about performance optimization, it’s about components.')
+Item(by='nwienert', descendants=None, kids=[24845703, 24845076, 24845048], score=None, time=1603258170, title=None, item_type='comment', url=None, parent=24844931, text='The premise of React isn’t at all about performance optimization, it’s about components.')

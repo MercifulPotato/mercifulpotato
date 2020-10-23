@@ -1,1 +1,1 @@
-Item(by='URfejk', descendants=0, kids=None, score=4, time=1603396737, title='Securely tunnel smart phone traffic with WireGuard and OpenBSD', item_type='story', url='https://thomasward.com/openbsd-wireguard/', parent=None, text=None)
+Item(by='URfejk', descendants=1, kids=[24865652], score=8, time=1603396737, title='Securely tunnel smart phone traffic with WireGuard and OpenBSD', item_type='story', url='https://thomasward.com/openbsd-wireguard/', parent=None, text=None)

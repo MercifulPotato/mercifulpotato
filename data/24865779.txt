@@ -1,0 +1,1 @@
+Item(by='zzo38computer', descendants=None, kids=None, score=None, time=1603423605, title=None, item_type='comment', url=None, parent=24862864, text='I agree. However, at least on Firefox I can set the &quot;browser.link.open_newwindow&quot; option to disable this feature (and to otherwise configure it); I set it to 1 to tell it to ignore target=&quot;_blank&quot;.')
