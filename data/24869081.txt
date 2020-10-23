@@ -1,0 +1,1 @@
+Item(by='fraktl', descendants=None, kids=None, score=None, time=1603458581, title=None, item_type='comment', url=None, parent=24867689, text='Dev. here, using PHP for 20 years. Short story: I&#x27;m working on a system that peaks at 200k rps. Using PHP with Swoole.')

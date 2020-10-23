@@ -1,0 +1,1 @@
+Item(by='dmm', descendants=None, kids=None, score=None, time=1603456159, title=None, item_type='comment', url=None, parent=24865435, text='The idea, I assume, is that you disable javascript globally and then enable it on a per-site basis. There&#x27;s a button the in the uBlock origin menu to enable js for the current site.')

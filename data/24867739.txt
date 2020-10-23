@@ -1,0 +1,1 @@
+Item(by='cm2187', descendants=None, kids=[24869074, 24867864], score=None, time=1603447372, title=None, item_type='comment', url=None, parent=24866902, text='And when ingesting srt files in ffmpeg. Ffmpeg expects the srt file to be utf8 encoded, but it is sometimes encoded in Windows-1252 which is the original format. So you might need to transcode it first.')

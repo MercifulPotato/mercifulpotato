@@ -1,1 +1,1 @@
-Item(by='nicbou', descendants=None, kids=None, score=None, time=1603391018, title=None, item_type='comment', url=None, parent=24860553, text='Why should churches be more important?')
+Item(by='nicbou', descendants=None, kids=[24869168], score=None, time=1603391018, title=None, item_type='comment', url=None, parent=24860553, text='Why should churches be more important?')

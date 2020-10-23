@@ -1,0 +1,1 @@
+Item(by='corentin88', descendants=None, kids=[24868867, 24868657, 24868837], score=None, time=1603453949, title=None, item_type='comment', url=None, parent=24868426, text='GDPR states “For data to be truly anonymised, the anonymisation must be irreversible”. So dropping 3 digits is clearly not enough to anonymize PII, it’s more pseudonymization.')

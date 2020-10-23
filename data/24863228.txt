@@ -1,1 +1,1 @@
-Item(by='grishka', descendants=None, kids=None, score=None, time=1603400353, title=None, item_type='comment', url=None, parent=24863214, text='And since it&#x27;s Linux, whenever you want to use an app that didn&#x27;t come with your distro the UX is meh to say the least.')
+Item(by='grishka', descendants=None, kids=[24869631], score=None, time=1603400353, title=None, item_type='comment', url=None, parent=24863214, text='And since it&#x27;s Linux, whenever you want to use an app that didn&#x27;t come with your distro the UX is meh to say the least.')

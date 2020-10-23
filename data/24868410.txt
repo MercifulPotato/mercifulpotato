@@ -1,0 +1,1 @@
+Item(by='jamil7', descendants=None, kids=[24869547], score=None, time=1603453364, title=None, item_type='comment', url=None, parent=24865079, text='I still don&#x27;t really get this, if they&#x27;re using GraphQL which it appears they are with Falcor why do they need a specific microservices for every client? Can the data that each client needs not be queried ad-hoc?')

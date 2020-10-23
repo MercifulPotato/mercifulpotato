@@ -1,1 +1,1 @@
-Item(by='connor-brooks', descendants=None, kids=None, score=None, time=1603394788, title=None, item_type='comment', url=None, parent=24861923, text='Really happy to see Apple has finally allowed this on the App Store!')
+Item(by='connor-brooks', descendants=None, kids=[24868360], score=None, time=1603394788, title=None, item_type='comment', url=None, parent=24861923, text='Really happy to see Apple has finally allowed this on the App Store!')

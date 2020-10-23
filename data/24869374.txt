@@ -1,0 +1,1 @@
+Item(by='kissgyorgy', descendants=None, kids=None, score=None, time=1603460652, title=None, item_type='comment', url=None, parent=24868533, text='I&#x27;m pretty confident f-strings use str.format under the hood, so instead of AST mambo-jumbo, you can do just query.format(var1=&quot;something&quot;) or something.')

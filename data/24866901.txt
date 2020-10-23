@@ -1,1 +1,1 @@
-Item(by='Ma8ee', descendants=None, kids=None, score=None, time=1603438370, title=None, item_type='comment', url=None, parent=24866696, text='I write in a journal most days. It helps me clarify my thoughts and feelings. It is rarely read even by me and, I hope, never by anyone else.')
+Item(by='Ma8ee', descendants=None, kids=[24868144], score=None, time=1603438370, title=None, item_type='comment', url=None, parent=24866696, text='I write in a journal most days. It helps me clarify my thoughts and feelings. It is rarely read even by me and, I hope, never by anyone else.')

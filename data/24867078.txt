@@ -1,1 +1,1 @@
-Item(by='GordonS', descendants=None, kids=None, score=None, time=1603440357, title=None, item_type='comment', url=None, parent=24865450, text='Are there any OSS options that come anywhere close to the functionality of apps in the CS2 or CS3 bundles?')
+Item(by='GordonS', descendants=None, kids=[24867713], score=None, time=1603440357, title=None, item_type='comment', url=None, parent=24865450, text='Are there any OSS options that come anywhere close to the functionality of apps in the CS2 or CS3 bundles?')

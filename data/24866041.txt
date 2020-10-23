@@ -1,1 +1,1 @@
-Item(by='dstaley', descendants=None, kids=None, score=None, time=1603427357, title=None, item_type='comment', url=None, parent=24864852, text='Yup, it&#x27;s about 1.8x for the instance sizes I checked.')
+Item(by='dstaley', descendants=None, kids=[24868095], score=None, time=1603427357, title=None, item_type='comment', url=None, parent=24864852, text='Yup, it&#x27;s about 1.8x for the instance sizes I checked.')

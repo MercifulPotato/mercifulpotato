@@ -1,1 +1,1 @@
-Item(by='spiderfarmer', descendants=None, kids=None, score=None, time=1603438979, title=None, item_type='comment', url=None, parent=24866924, text='And even those problems are very far down the line if the business logic results in the expected revenue.')
+Item(by='spiderfarmer', descendants=None, kids=[24866992], score=None, time=1603438979, title=None, item_type='comment', url=None, parent=24866924, text='And even those problems are very far down the line if the business logic results in the expected revenue.')

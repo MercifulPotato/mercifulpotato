@@ -1,0 +1,1 @@
+Item(by='Mikushi', descendants=None, kids=None, score=None, time=1603448746, title=None, item_type='comment', url=None, parent=24867689, text='&gt; my point was php is slow and max throughput is 200-500 rps<p>Absolutely not, you could already go to 5k rps 10 years ago and PHP has massively improved since.')

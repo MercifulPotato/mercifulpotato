@@ -1,1 +1,1 @@
-Item(by='exolymph', descendants=None, kids=None, score=None, time=1603398726, title=None, item_type='comment', url=None, parent=24860088, text='Well, maybe <i>you</i> shouldn&#x27;t do drugs. It doesn&#x27;t follow that no one should; not everyone is you.')
+Item(by='exolymph', descendants=None, kids=[24867520], score=None, time=1603398726, title=None, item_type='comment', url=None, parent=24860088, text='Well, maybe <i>you</i> shouldn&#x27;t do drugs. It doesn&#x27;t follow that no one should; not everyone is you.')

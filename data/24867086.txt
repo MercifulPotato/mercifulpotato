@@ -1,1 +1,1 @@
-Item(by='nxpnsv', descendants=None, kids=None, score=None, time=1603440455, title=None, item_type='comment', url=None, parent=24862159, text='Not all writing is thinking, and there is definitively more to thinking than writing.')
+Item(by='nxpnsv', descendants=None, kids=[24867603], score=None, time=1603440455, title=None, item_type='comment', url=None, parent=24862159, text='Not all writing is thinking, and there is definitively more to thinking than writing.')

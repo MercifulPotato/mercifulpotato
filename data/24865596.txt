@@ -1,1 +1,1 @@
-Item(by='leephillips', descendants=None, kids=None, score=None, time=1603421736, title=None, item_type='comment', url=None, parent=24865484, text='Pretty judgemental? Give me some credit. I was extremely judgemental.')
+Item(by='leephillips', descendants=None, kids=[24867562], score=None, time=1603421736, title=None, item_type='comment', url=None, parent=24865484, text='Pretty judgemental? Give me some credit. I was extremely judgemental.')

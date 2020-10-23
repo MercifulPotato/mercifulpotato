@@ -1,0 +1,1 @@
+Item(by='megous', descendants=None, kids=[24868271], score=None, time=1603451548, title=None, item_type='comment', url=None, parent=24868166, text='It differentiates variables from global constant things (constants, class names, function names, ...) for which the scoping is different. So you can have $strlen = strlen(...);')
