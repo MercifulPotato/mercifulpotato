@@ -1,1 +1,1 @@
-Item(by='jml7c5', descendants=None, kids=None, score=None, time=1603389012, title=None, item_type='comment', url=None, parent=24858887, text='You say that it is &quot;provably bad&quot;. Can you provide such proof?')
+Item(by='jml7c5', descendants=None, kids=[24863315], score=None, time=1603389012, title=None, item_type='comment', url=None, parent=24858887, text='You say that it is &quot;provably bad&quot;. Can you provide such proof?')

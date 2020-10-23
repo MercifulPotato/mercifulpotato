@@ -1,1 +1,1 @@
-Item(by='dylz', descendants=None, kids=None, score=None, time=1603391660, title=None, item_type='comment', url=None, parent=24861389, text='Most places don&#x27;t demand email verification.')
+Item(by='dylz', descendants=None, kids=[24862746], score=None, time=1603391660, title=None, item_type='comment', url=None, parent=24861389, text='Most places don&#x27;t demand email verification.')

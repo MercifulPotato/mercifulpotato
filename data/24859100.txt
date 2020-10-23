@@ -1,1 +1,1 @@
-Item(by='cwyers', descendants=None, kids=None, score=None, time=1603380784, title=None, item_type='comment', url=None, parent=24858913, text='The point here isn&#x27;t how valuable the employee is, it&#x27;s how much of a developer&#x27;s time this donation buys.')
+Item(by='cwyers', descendants=None, kids=[24864287], score=None, time=1603380784, title=None, item_type='comment', url=None, parent=24858913, text='The point here isn&#x27;t how valuable the employee is, it&#x27;s how much of a developer&#x27;s time this donation buys.')

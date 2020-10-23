@@ -1,0 +1,1 @@
+Item(by='mortehu', descendants=None, kids=[24863016, 24864108], score=None, time=1603398260, title=None, item_type='comment', url=None, parent=24857944, text='Last I checked it could only install from the filesystem, and not directly generate a key and install a certificate through the web. Do you have an example site where this works with Chrome?')

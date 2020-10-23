@@ -1,1 +1,1 @@
-Item(by='mikestew', descendants=None, kids=None, score=None, time=1603398056, title=None, item_type='comment', url=None, parent=24862758, text='<i>but somehow made horrible</i><p>I&#x27;m unclear on your meaning. I loved that car, where does &quot;horrible&quot; fit in?')
+Item(by='mikestew', descendants=None, kids=[24862977], score=None, time=1603398056, title=None, item_type='comment', url=None, parent=24862758, text='<i>but somehow made horrible</i><p>I&#x27;m unclear on your meaning. I loved that car, where does &quot;horrible&quot; fit in?')

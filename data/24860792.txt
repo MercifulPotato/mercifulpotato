@@ -1,1 +1,1 @@
-Item(by='dirtnugget', descendants=None, kids=None, score=None, time=1603388544, title=None, item_type='comment', url=None, parent=24860737, text='This source says explicitly that he was on his way to Ecuador')
+Item(by='dirtnugget', descendants=None, kids=[24862935], score=None, time=1603388544, title=None, item_type='comment', url=None, parent=24860737, text='This source says explicitly that he was on his way to Ecuador')

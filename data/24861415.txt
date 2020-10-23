@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=1, kids=[24861450], score=4, time=1603391055, title='UK Companies House warns customers of company name with possible XSS-injection', item_type='story', url='https://twitter.com/jonty/status/1319325590223204352', parent=None, text=None)
+Item(by='tosh', descendants=3, kids=[24862745, 24861450], score=10, time=1603391055, title='UK Companies House warns customers of company name with possible XSS-injection', item_type='story', url='https://twitter.com/jonty/status/1319325590223204352', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='qkhhly', descendants=0, kids=None, score=2, time=1603393062, title='Huawei Mate 40', item_type='story', url='https://consumer.huawei.com/en/phones/mate40/', parent=None, text=None)
+Item(by='qkhhly', descendants=1, kids=[24865146], score=3, time=1603393062, title='Huawei Mate 40', item_type='story', url='https://consumer.huawei.com/en/phones/mate40/', parent=None, text=None)

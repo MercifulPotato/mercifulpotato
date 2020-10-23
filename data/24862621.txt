@@ -1,1 +1,1 @@
-Item(by='dTal', descendants=None, kids=None, score=None, time=1603396438, title=None, item_type='comment', url=None, parent=24860705, text='Maybe the State Department should have thought of that before cancelling his passport while he was in Moscow.')
+Item(by='dTal', descendants=None, kids=[24862885], score=None, time=1603396438, title=None, item_type='comment', url=None, parent=24860705, text='Maybe the State Department should have thought of that before cancelling his passport while he was in Moscow.')

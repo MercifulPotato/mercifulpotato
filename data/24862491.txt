@@ -1,0 +1,1 @@
+Item(by='mooreds', descendants=0, kids=None, score=2, time=1603395687, title='Chrome limits URLs to a maximum length of 2MB for practical reasons', item_type='story', url='https://chromium.googlesource.com/chromium/src/+/master/docs/security/url_display_guidelines/url_display_guidelines.md#URL-Length', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='tsimionescu', descendants=None, kids=None, score=None, time=1603397756, title=None, item_type='comment', url=None, parent=24862721, text='If they do nothing wrong, they will have nothing to fear!')
+Item(by='tsimionescu', descendants=None, kids=[24863176], score=None, time=1603397756, title=None, item_type='comment', url=None, parent=24862721, text='If they do nothing wrong, they will have nothing to fear!')

@@ -1,1 +1,1 @@
-Item(by='PaulHoule', descendants=None, kids=None, score=None, time=1603391864, title=None, item_type='comment', url=None, parent=24859329, text='People want fits bad enough that they buy them lightly used at new prices.')
+Item(by='PaulHoule', descendants=None, kids=[24863285], score=None, time=1603391864, title=None, item_type='comment', url=None, parent=24859329, text='People want fits bad enough that they buy them lightly used at new prices.')

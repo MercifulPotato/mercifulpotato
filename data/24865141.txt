@@ -1,0 +1,1 @@
+Item(by='sooheon', descendants=None, kids=[24865491], score=None, time=1603415787, title=None, item_type='comment', url=None, parent=24864824, text='cmd-B does nothing in a standard text field. If you mean text fields with code to handle keyboard shortcuts, you can just as easily have cmd-B surround text in asterisks as trigger wysiwyg bold formatting.')

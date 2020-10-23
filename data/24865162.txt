@@ -1,0 +1,1 @@
+Item(by='slaymaker1907', descendants=None, kids=[24865306], score=None, time=1603416078, title=None, item_type='comment', url=None, parent=24863352, text='Why not just change the encoding to UTF-8? That would probably also reduce the file size since most of it is ASCII, potentially even halving the size.')

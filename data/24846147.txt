@@ -1,1 +1,1 @@
-Item(by='simion314', descendants=None, kids=None, score=None, time=1603272771, title=None, item_type='comment', url=None, parent=24844110, text='&gt;The user bought an Apple computer so they clearly trust Apple<p>This is false, maybe I bought X because it was the least shitty choice.')
+Item(by='simion314', descendants=None, kids=[24864905], score=None, time=1603272771, title=None, item_type='comment', url=None, parent=24844110, text='&gt;The user bought an Apple computer so they clearly trust Apple<p>This is false, maybe I bought X because it was the least shitty choice.')

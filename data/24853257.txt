@@ -1,1 +1,1 @@
-Item(by='beaner', descendants=None, kids=None, score=None, time=1603321624, title=None, item_type='comment', url=None, parent=24853086, text='What&#x27;s the evidence this is happening? That miner centralization is continuing?')
+Item(by='beaner', descendants=None, kids=[24863152], score=None, time=1603321624, title=None, item_type='comment', url=None, parent=24853086, text='What&#x27;s the evidence this is happening? That miner centralization is continuing?')

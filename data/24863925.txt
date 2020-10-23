@@ -1,0 +1,1 @@
+Item(by='ddevault', descendants=None, kids=None, score=None, time=1603405489, title=None, item_type='comment', url=None, parent=24863917, text='The solution to this is not to use target=&quot;_blank&quot; - it&#x27;s not making the origin page non-cachable, take a long time to load, or require client-side state.')

@@ -1,1 +1,1 @@
-Item(by='ponker', descendants=None, kids=None, score=None, time=1603386467, title=None, item_type='comment', url=None, parent=24858493, text='Not everyone has this flexibility but if I had a job that made me feel like I needed to do this, I’d hand in my badge that day.')
+Item(by='ponker', descendants=None, kids=[24864473], score=None, time=1603386467, title=None, item_type='comment', url=None, parent=24858493, text='Not everyone has this flexibility but if I had a job that made me feel like I needed to do this, I’d hand in my badge that day.')

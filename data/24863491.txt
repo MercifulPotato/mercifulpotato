@@ -1,0 +1,1 @@
+Item(by='tambourine_man', descendants=None, kids=[24864026], score=None, time=1603402099, title=None, item_type='comment', url=None, parent=24862396, text='&gt; The App Store doesn’t allow dynamically generated code to be marked executable (i.e. JIT compilation)<p>Unless it’s JavaScript. I see a missed opportunity here: compile everything to ASM.js! :)<p>I’m only half-kidding.')

@@ -1,1 +1,1 @@
-Item(by='dpcan', descendants=None, kids=None, score=None, time=1603383641, title=None, item_type='comment', url=None, parent=24859594, text='It&#x27;s far more likely that this article is fake.')
+Item(by='dpcan', descendants=None, kids=[24865183], score=None, time=1603383641, title=None, item_type='comment', url=None, parent=24859594, text='It&#x27;s far more likely that this article is fake.')

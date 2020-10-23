@@ -1,0 +1,1 @@
+Item(by='asdjklqwwq', descendants=None, kids=None, score=None, time=1603418762, title=None, item_type='comment', url=None, parent=24864376, text='About 2FA. Protomail does have it, by having their own proxy app on client&#x27;s side. Your mail apps do not connect to mail server directly, instead, they connect to the proxy app, and proxy app is authed with 2FA.')

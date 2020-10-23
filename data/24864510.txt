@@ -1,0 +1,1 @@
+Item(by='ddevault', descendants=None, kids=None, score=None, time=1603409767, title=None, item_type='comment', url=None, parent=24863589, text='Gemini clients could easily add support for images: if a URL ends in .png et al, fetch it and if the mimetype is image&#x2F;* then just stick it in the page. Tada! Some clients already do this.')

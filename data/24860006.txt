@@ -1,1 +1,1 @@
-Item(by='barrkel', descendants=None, kids=[24860538, 24860098], score=None, time=1603384967, title=None, item_type='comment', url=None, parent=24858475, text='I&#x27;m not sure emacs will properly evolve as long as RMS is still involved.')
+Item(by='barrkel', descendants=None, kids=[24860098, 24860538], score=None, time=1603384967, title=None, item_type='comment', url=None, parent=24858475, text='I&#x27;m not sure emacs will properly evolve as long as RMS is still involved.')

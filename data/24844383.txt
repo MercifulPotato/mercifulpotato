@@ -1,1 +1,1 @@
-Item(by='hannofcart', descendants=None, kids=None, score=None, time=1603249395, title=None, item_type='comment', url=None, parent=24844038, text='Also 4) Android.')
+Item(by='hannofcart', descendants=None, kids=[24865130], score=None, time=1603249395, title=None, item_type='comment', url=None, parent=24844038, text='Also 4) Android.')

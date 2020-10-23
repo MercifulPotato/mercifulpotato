@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=0, kids=None, score=1, time=1603409975, title="A pitfall of Rust's move/copy/drop semantics and zeroing data", item_type='story', url='https://benma.github.io/2020/10/16/rust-zeroize-move.html', parent=None, text=None)

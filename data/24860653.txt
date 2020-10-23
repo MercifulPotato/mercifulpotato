@@ -1,1 +1,1 @@
-Item(by='benesch', descendants=0, kids=None, score=2, time=1603388013, title='Debugging async generator errors in Rust', item_type='story', url='https://meltware.com/2020/10/21/rust-async-nonsense.html', parent=None, text=None)
+Item(by='benesch', descendants=0, kids=None, score=3, time=1603388013, title='Debugging async generator errors in Rust', item_type='story', url='https://meltware.com/2020/10/21/rust-async-nonsense.html', parent=None, text=None)

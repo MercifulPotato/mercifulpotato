@@ -1,1 +1,1 @@
-Item(by='programd', descendants=0, kids=None, score=1, time=1603393847, title='Investigation of a micro-fighter airborne aircraft carrier concept [pdf]', item_type='story', url='https://apps.dtic.mil/dtic/tr/fulltext/u2/529372.pdf', parent=None, text=None)
+Item(by='programd', descendants=1, kids=[24862657], score=2, time=1603393847, title='Investigation of a micro-fighter airborne aircraft carrier concept [pdf]', item_type='story', url='https://apps.dtic.mil/dtic/tr/fulltext/u2/529372.pdf', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='wannabebarista', descendants=None, kids=None, score=None, time=1603387621, title=None, item_type='comment', url=None, parent=24860383, text='I&#x27;m a fan of the Steelcase Think, but I&#x27;ve enjoyed the Leap at an office I visited in the past.')
+Item(by='wannabebarista', descendants=None, kids=[24862316], score=None, time=1603387621, title=None, item_type='comment', url=None, parent=24860383, text='I&#x27;m a fan of the Steelcase Think, but I&#x27;ve enjoyed the Leap at an office I visited in the past.')

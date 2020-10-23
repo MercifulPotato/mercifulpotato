@@ -1,1 +1,1 @@
-Item(by='luhn', descendants=None, kids=None, score=None, time=1603388433, title=None, item_type='comment', url=None, parent=24860634, text='Are you running 12.3 or higher?')
+Item(by='luhn', descendants=None, kids=[24863870], score=None, time=1603388433, title=None, item_type='comment', url=None, parent=24860634, text='Are you running 12.3 or higher?')

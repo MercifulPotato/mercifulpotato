@@ -1,0 +1,1 @@
+Item(by='nyanpasu64', descendants=None, kids=None, score=None, time=1603405495, title=None, item_type='comment', url=None, parent=24856777, text='YAML has !Tag syntax for expressing polymorphism. Shame that nobody uses YAML because the standard is so complex, and shame that AppVeyor uses a single-element key-value mapping instead of a tag for this purpose...')

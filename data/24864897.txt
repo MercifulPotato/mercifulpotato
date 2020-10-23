@@ -1,0 +1,1 @@
+Item(by='kazinator', descendants=None, kids=None, score=None, time=1603413004, title=None, item_type='comment', url=None, parent=24861939, text='There are multiple problems. One is that if you have a card with a nice long interval, and you happen to lapse on it, the interval is trimmed to a very short value, by default.')
