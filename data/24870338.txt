@@ -1,0 +1,1 @@
+Item(by='Iolaum', descendants=None, kids=None, score=None, time=1603466114, title=None, item_type='comment', url=None, parent=24870172, text='I just format them with Gnome Disks (that uses LUKS in the background and supports many filesystems) and use a strong (LUKS) passphrase that goes in the password manager.<p>Has been pretty reliable and widely available.')

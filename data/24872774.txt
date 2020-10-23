@@ -1,0 +1,1 @@
+Item(by='bobbylarrybobby', descendants=None, kids=None, score=None, time=1603480287, title=None, item_type='comment', url=None, parent=24871812, text='If using safari, any extension that utilizes the content blocker API is safe — they all merely provide a blocklist to safari and have no access to page contents themselves.')

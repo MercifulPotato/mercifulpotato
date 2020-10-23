@@ -1,0 +1,1 @@
+Item(by='lxe', descendants=None, kids=[24872607], score=None, time=1603478774, title=None, item_type='comment', url=None, parent=24871946, text='After half a decade of &quot;better than JSON&quot; mentality, fiddling with thrift, protobufs, custom serialization methods, I came to realize JSON&#x2F;HTTP is usually the right tool for 90% of jobs.')

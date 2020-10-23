@@ -1,0 +1,1 @@
+Item(by='cwp', descendants=None, kids=None, score=None, time=1603468464, title=None, item_type='comment', url=None, parent=24869200, text='Npm is very buggy for local dependencies - eg in a monorepo that contains node modules. That might be fixed in npm 7, but I doubt it.<p>OTOH, yarn handles this just fine.')

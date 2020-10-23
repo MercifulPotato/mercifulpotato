@@ -1,0 +1,1 @@
+Item(by='captrb', descendants=None, kids=None, score=None, time=1603478804, title=None, item_type='comment', url=None, parent=24872290, text='Markup character and namespaces aside, I think what makes JSON easier to read is that it is more explicit about whether a child object is a singleton or a list, where XML requires you to consult the schema for minOccurs and maxOccurs.')

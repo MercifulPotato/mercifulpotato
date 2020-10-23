@@ -1,1 +1,1 @@
-Item(by='arethuza', descendants=None, kids=None, score=None, time=1603451151, title=None, item_type='comment', url=None, parent=24867922, text='Not very difficult to think of counterexamples to that rule: Iain Banks, Neal Stephenson, Charlie Stross...')
+Item(by='arethuza', descendants=None, kids=[24871001], score=None, time=1603451151, title=None, item_type='comment', url=None, parent=24867922, text='Not very difficult to think of counterexamples to that rule: Iain Banks, Neal Stephenson, Charlie Stross...')

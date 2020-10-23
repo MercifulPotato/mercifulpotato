@@ -1,1 +1,1 @@
-Item(by='r00fus', descendants=None, kids=None, score=None, time=1603403139, title=None, item_type='comment', url=None, parent=24862887, text='Isn&#x27;t that something that Google has been accused of before, adding things to carts, and then leaving?')
+Item(by='r00fus', descendants=None, kids=[24871374], score=None, time=1603403139, title=None, item_type='comment', url=None, parent=24862887, text='Isn&#x27;t that something that Google has been accused of before, adding things to carts, and then leaving?')

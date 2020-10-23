@@ -1,1 +1,1 @@
-Item(by='kgwgk', descendants=None, kids=None, score=None, time=1603456664, title=None, item_type='comment', url=None, parent=24864809, text='Minor correction: it&#x27;s &quot;detailed balance&quot; (not &quot;detail balance&quot;).')
+Item(by='kgwgk', descendants=None, kids=[24870487], score=None, time=1603456664, title=None, item_type='comment', url=None, parent=24864809, text='Minor correction: it&#x27;s &quot;detailed balance&quot; (not &quot;detail balance&quot;).')

@@ -1,0 +1,1 @@
+Item(by='jherazob', descendants=None, kids=None, score=None, time=1603470774, title=None, item_type='comment', url=None, parent=24859467, text='Have you tried Firejail? I&#x27;m not sure i&#x27;m clear on what your requirements are, but at a glance it seems to me that Firejail should do what you need, a Contained sandbox for GUI processes')

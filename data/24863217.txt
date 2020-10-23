@@ -1,1 +1,1 @@
-Item(by='freeone3000', descendants=None, kids=None, score=None, time=1603400204, title=None, item_type='comment', url=None, parent=24863033, text='Men with badges and guns.')
+Item(by='freeone3000', descendants=None, kids=[24871190], score=None, time=1603400204, title=None, item_type='comment', url=None, parent=24863033, text='Men with badges and guns.')

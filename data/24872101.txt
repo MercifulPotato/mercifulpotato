@@ -1,0 +1,1 @@
+Item(by='demomode', descendants=None, kids=None, score=None, time=1603475956, title=None, item_type='comment', url=None, parent=24870708, text='You can&#x27;t use expressions like that (from ffmpeg cmld) in gst-launch.<p>As far as I know in gst-launch you can&#x27;t access properties from one element (video stream width) in other elements.')

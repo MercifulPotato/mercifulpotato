@@ -1,1 +1,1 @@
-Item(by='anoraca', descendants=None, kids=None, score=None, time=1603461561, title=None, item_type='comment', url=None, parent=24869216, text='That&#x27;s a shockingly cynical view. Not everyone exists purely to make money.')
+Item(by='anoraca', descendants=None, kids=[24871679], score=None, time=1603461561, title=None, item_type='comment', url=None, parent=24869216, text='That&#x27;s a shockingly cynical view. Not everyone exists purely to make money.')

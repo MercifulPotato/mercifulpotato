@@ -1,0 +1,1 @@
+Item(by='dankilman', descendants=None, kids=None, score=None, time=1603460839, title=None, item_type='comment', url=None, parent=24862804, text='It keeps a terminal emulator for each input stream using pyte (pure python terminal emulator). Then draws everything using ANSI escape codes to put the cursor in different places :)')

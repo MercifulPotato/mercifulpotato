@@ -1,1 +1,1 @@
-Item(by='unishark', descendants=None, kids=None, score=None, time=1603423687, title=None, item_type='comment', url=None, parent=24864746, text='I thought Uber return to Austin after the city changed the law to accommodate them, not the other way around.')
+Item(by='unishark', descendants=None, kids=[24870308], score=None, time=1603423687, title=None, item_type='comment', url=None, parent=24864746, text='I thought Uber return to Austin after the city changed the law to accommodate them, not the other way around.')

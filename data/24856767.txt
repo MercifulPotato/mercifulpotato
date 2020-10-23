@@ -1,1 +1,1 @@
-Item(by='Lealen', descendants=40, kids=[24859469, 24861058, 24860712, 24862018, 24859264], score=173, time=1603364814, title='A Go unikernel running on x86 bare metal', item_type='story', url='https://github.com/icexin/eggos', parent=None, text=None)
+Item(by='Lealen', descendants=41, kids=[24859469, 24861058, 24860712, 24862018, 24859264], score=174, time=1603364814, title='A Go unikernel running on x86 bare metal', item_type='story', url='https://github.com/icexin/eggos', parent=None, text=None)

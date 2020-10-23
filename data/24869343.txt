@@ -1,1 +1,1 @@
-Item(by='mcdoh', descendants=None, kids=None, score=None, time=1603460494, title=None, item_type='comment', url=None, parent=24866785, text='It&#x27;s confusing for native English speakers as well.')
+Item(by='mcdoh', descendants=None, kids=[24871718], score=None, time=1603460494, title=None, item_type='comment', url=None, parent=24866785, text='It&#x27;s confusing for native English speakers as well.')

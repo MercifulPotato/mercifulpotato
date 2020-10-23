@@ -1,0 +1,1 @@
+Item(by='jozzy-james', descendants=None, kids=None, score=None, time=1603475969, title=None, item_type='comment', url=None, parent=24869012, text='the largest performance issue i&#x27;ve come across with the execution model is that connection pooling is...well, pretty crap. opcache handles most of the other interpreted woes rather well.')

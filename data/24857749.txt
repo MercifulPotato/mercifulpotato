@@ -1,1 +1,1 @@
-Item(by='ddxxdd', descendants=None, kids=None, score=None, time=1603373299, title=None, item_type='comment', url=None, parent=24856780, text='To make peace you must prepare for war. Also, it&#x27;s better to be a warrior in a garden than a gardener in a war.')
+Item(by='ddxxdd', descendants=None, kids=[24870446], score=None, time=1603373299, title=None, item_type='comment', url=None, parent=24856780, text='To make peace you must prepare for war. Also, it&#x27;s better to be a warrior in a garden than a gardener in a war.')
