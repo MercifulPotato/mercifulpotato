@@ -1,1 +1,1 @@
-Item(by='longdefeat', descendants=1, kids=[24876797], score=12, time=1603501263, title='A Surreal New Bookstore Has Just Opened in China', item_type='story', url='https://www.architecturaldigest.com/story/surreal-new-bookstore-opened-china', parent=None, text=None)
+Item(by='longdefeat', descendants=2, kids=[24877793, 24876797], score=14, time=1603501263, title='A Surreal New Bookstore Has Just Opened in China', item_type='story', url='https://www.architecturaldigest.com/story/surreal-new-bookstore-opened-china', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='criddell', descendants=None, kids=None, score=None, time=1603479565, title=None, item_type='comment', url=None, parent=24872023, text='&gt; It is really hard to organise 6000+ people to do anything.<p>For sure, but we know we can do it because we&#x27;ve already done it.')
+Item(by='criddell', descendants=None, kids=[24879209], score=None, time=1603479565, title=None, item_type='comment', url=None, parent=24872023, text='&gt; It is really hard to organise 6000+ people to do anything.<p>For sure, but we know we can do it because we&#x27;ve already done it.')

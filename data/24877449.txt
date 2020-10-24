@@ -1,1 +1,1 @@
-Item(by='arno1', descendants=None, kids=None, score=None, time=1603522239, title=None, item_type='comment', url=None, parent=24877294, text='Or Gitea!')
+Item(by='arno1', descendants=None, kids=[24878905], score=None, time=1603522239, title=None, item_type='comment', url=None, parent=24877294, text='Or Gitea!')

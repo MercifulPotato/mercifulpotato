@@ -1,0 +1,1 @@
+Item(by='petre', descendants=None, kids=None, score=None, time=1603547139, title=None, item_type='comment', url=None, parent=24878549, text='Yup with external libs. JSON.parse is builtin. We do the renderin in browser so why bother with protobuf.')

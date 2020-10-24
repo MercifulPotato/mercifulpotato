@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=[24878487], score=None, time=1603536429, title=None, item_type='comment', url=None, parent=24877837, text='For deduplicated storage you really want A=B &lt;=&gt; H(A)=H(B) to hold for <i>all data you are going to see</i>, so accessible constructions for collisions should already bar an algorithm from this application.')

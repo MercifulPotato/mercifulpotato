@@ -1,1 +1,1 @@
-Item(by='treypitt', descendants=8, kids=[24874593, 24876473, 24874901, 24876359, 24874704, 24875718], score=8, time=1603486822, title='Monorepo Is a Bad Idea', item_type='story', url='https://medium.com/@alexey.soshin/monorepo-is-a-bad-idea-5e587e848a07', parent=None, text=None)
+Item(by='treypitt', descendants=8, kids=[24874593, 24874901, 24876473, 24876359, 24874704, 24875718], score=8, time=1603486822, title='Monorepo Is a Bad Idea', item_type='story', url='https://medium.com/@alexey.soshin/monorepo-is-a-bad-idea-5e587e848a07', parent=None, text=None)

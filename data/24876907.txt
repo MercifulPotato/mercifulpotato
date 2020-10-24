@@ -1,1 +1,1 @@
-Item(by='nerdponx', descendants=None, kids=None, score=None, time=1603513193, title=None, item_type='comment', url=None, parent=24875904, text='NYU Ad Observatory is overseen by a research university with an IRB, and also operates in plain view of the public.')
+Item(by='nerdponx', descendants=None, kids=[24878088], score=None, time=1603513193, title=None, item_type='comment', url=None, parent=24875904, text='NYU Ad Observatory is overseen by a research university with an IRB, and also operates in plain view of the public.')

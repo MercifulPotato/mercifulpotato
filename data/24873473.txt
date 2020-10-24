@@ -1,1 +1,1 @@
-Item(by='CJefferson', descendants=None, kids=None, score=None, time=1603483781, title=None, item_type='comment', url=None, parent=24873094, text='Also, using copying an entire Harry Potter book as the  basic tutorial.')
+Item(by='CJefferson', descendants=None, kids=[24878915], score=None, time=1603483781, title=None, item_type='comment', url=None, parent=24873094, text='Also, using copying an entire Harry Potter book as the  basic tutorial.')

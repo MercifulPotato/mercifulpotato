@@ -1,1 +1,1 @@
-Item(by='randmeerkat', descendants=None, kids=None, score=None, time=1603524354, title=None, item_type='comment', url=None, parent=24877016, text='I like your vision, but I’ve never worked for a company organised how you’re describing it. While I would like to imagine that it would work, I’m also skeptical, there’s always tasks that people don’t want to do and I honestly wonder if they would get solved in this model.')
+Item(by=None, descendants=None, kids=None, score=None, time=1603524354, title=None, item_type='comment', url=None, parent=24877016, text=None)

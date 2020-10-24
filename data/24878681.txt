@@ -1,0 +1,1 @@
+Item(by='chipaca', descendants=None, kids=[24879082, 24878912, 24879046], score=None, time=1603541463, title=None, item_type='comment', url=None, parent=24877846, text='why is it still acceptable to suggest something like<p><pre><code>  curl -sLfS https:&#x2F;&#x2F;cli.openfaas.com | sudo sh\n\n?</code></pre>')

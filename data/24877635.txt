@@ -1,1 +1,1 @@
-Item(by='soheilpro', descendants=0, kids=None, score=3, time=1603525553, title='Adobe XD for Visual Studio Code', item_type='story', url='https://letsxd.com/vscode', parent=None, text=None)
+Item(by='soheilpro', descendants=2, kids=[24877740], score=3, time=1603525553, title='Adobe XD for Visual Studio Code', item_type='story', url='https://letsxd.com/vscode', parent=None, text=None)

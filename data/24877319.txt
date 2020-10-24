@@ -1,1 +1,1 @@
-Item(by='di4na', descendants=None, kids=None, score=None, time=1603519965, title=None, item_type='comment', url=None, parent=24877130, text='Making a profit.')
+Item(by='di4na', descendants=None, kids=[24878442], score=None, time=1603519965, title=None, item_type='comment', url=None, parent=24877130, text='Making a profit.')

@@ -1,1 +1,1 @@
-Item(by='PurpleFoxy', descendants=None, kids=None, score=None, time=1603511479, title=None, item_type='comment', url=None, parent=24876692, text='It’s not a Facebook service which is an instant plus')
+Item(by='PurpleFoxy', descendants=None, kids=[24879424], score=None, time=1603511479, title=None, item_type='comment', url=None, parent=24876692, text='It’s not a Facebook service which is an instant plus')

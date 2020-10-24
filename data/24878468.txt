@@ -1,0 +1,1 @@
+Item(by='toastal', descendants=None, kids=None, score=None, time=1603538313, title=None, item_type='comment', url=None, parent=24872926, text='Tangentially you can use Dhall to get many types for Bash. You can have your options&#x2F;configuration typed, then have Bash run a loop over it or whatever you need ho do.')

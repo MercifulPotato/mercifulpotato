@@ -1,1 +1,1 @@
-Item(by='1024core', descendants=None, kids=None, score=None, time=1603507779, title=None, item_type='comment', url=None, parent=24876525, text='&gt;  That&#x27;s quite a paranoid conspiracy theory you have there.<p>RIAA people have been known to do it, you know.')
+Item(by='1024core', descendants=None, kids=[24877992], score=None, time=1603507779, title=None, item_type='comment', url=None, parent=24876525, text='&gt;  That&#x27;s quite a paranoid conspiracy theory you have there.<p>RIAA people have been known to do it, you know.')

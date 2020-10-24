@@ -1,1 +1,1 @@
-Item(by='kmlx', descendants=None, kids=None, score=None, time=1603521539, title=None, item_type='comment', url=None, parent=24873303, text='isn’t DMCA a US law? so why not move youtube-dl outside the US github to a country that doesn’t have DMCA&#x2F;copyright?')
+Item(by='kmlx', descendants=None, kids=[24878333], score=None, time=1603521539, title=None, item_type='comment', url=None, parent=24873303, text='isn’t DMCA a US law? so why not move youtube-dl outside the US github to a country that doesn’t have DMCA&#x2F;copyright?')

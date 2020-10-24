@@ -1,1 +1,1 @@
-Item(by='sdenton4', descendants=None, kids=None, score=None, time=1603516711, title=None, item_type='comment', url=None, parent=24876008, text='(There&#x27;s an option in the settings to turn videos off and just play album versions of songs.)')
+Item(by='sdenton4', descendants=None, kids=[24877915], score=None, time=1603516711, title=None, item_type='comment', url=None, parent=24876008, text='(There&#x27;s an option in the settings to turn videos off and just play album versions of songs.)')

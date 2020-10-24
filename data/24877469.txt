@@ -1,1 +1,1 @@
-Item(by='hannob', descendants=None, kids=None, score=None, time=1603522583, title=None, item_type='comment', url=None, parent=24876918, text='Some may argue that having an undefined timeframe of backwards compatibility spanning more than a decade is a sign of a broken ecosystem.')
+Item(by='hannob', descendants=None, kids=[24878836], score=None, time=1603522583, title=None, item_type='comment', url=None, parent=24876918, text='Some may argue that having an undefined timeframe of backwards compatibility spanning more than a decade is a sign of a broken ecosystem.')

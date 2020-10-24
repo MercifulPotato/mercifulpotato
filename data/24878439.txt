@@ -1,0 +1,1 @@
+Item(by='michaelhkay', descendants=None, kids=None, score=None, time=1603537829, title=None, item_type='comment', url=None, parent=24867110, text='Accumulators in XSLT 3.0 are related to tree folds; certainly they are an attempt to solve the same problem, of providing pure functional (stateless) access to data obtained incrementally through tree navigation.')

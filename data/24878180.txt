@@ -1,0 +1,1 @@
+Item(by='RedShift1', descendants=None, kids=None, score=None, time=1603534342, title=None, item_type='comment', url=None, parent=24878135, text='Pre-1970 timestamps work too:<p><pre><code>  Welcome to Node.js v12.18.4.\n  Type &quot;.help&quot; for more information.\n  &gt; new Date(-10000)\n  1969-12-31T23:59:50.000Z</code></pre>')

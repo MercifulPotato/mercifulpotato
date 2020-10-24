@@ -1,0 +1,1 @@
+Item(by='petre', descendants=None, kids=[24878180, 24878549], score=None, time=1603533816, title=None, item_type='comment', url=None, parent=24877399, text='Because we feed the data to Js. No need for additional overhead parsing string based timestamps. Unix epoch is just an int. We don&#x27;t need pre 1970 timestamps.')

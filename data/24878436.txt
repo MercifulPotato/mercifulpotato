@@ -1,0 +1,1 @@
+Item(by='withinboredom', descendants=None, kids=None, score=None, time=1603537805, title=None, item_type='comment', url=None, parent=24867108, text='I’ve seen some self-balancing backed priority queues implementations, using some quirks of PHP, that are faster than the C implemented ones and faster than a “standard” implementation. Wall clock time, it’s still O(log n).')

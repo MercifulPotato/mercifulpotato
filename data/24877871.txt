@@ -1,1 +1,1 @@
-Item(by='xondono', descendants=None, kids=None, score=None, time=1603529638, title=None, item_type='comment', url=None, parent=24877766, text='- C has its own syntax for generics<p>C has generics?')
+Item(by='xondono', descendants=None, kids=[24878163], score=None, time=1603529638, title=None, item_type='comment', url=None, parent=24877766, text='- C has its own syntax for generics<p>C has generics?')

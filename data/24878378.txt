@@ -1,0 +1,1 @@
+Item(by='withinboredom', descendants=None, kids=None, score=None, time=1603537118, title=None, item_type='comment', url=None, parent=24872104, text='Are you talking about connection pooling to services like databases and caches? Most extensions implement it (pgsql and I think MySQL) but you need to configure it. I’ve also use a local nginx proxy to pool the connections.')

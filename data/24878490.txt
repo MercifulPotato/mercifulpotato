@@ -1,0 +1,1 @@
+Item(by='withinboredom', descendants=None, kids=None, score=None, time=1603538626, title=None, item_type='comment', url=None, parent=24868271, text='You can do:<p>$strlen = &#x27;strlen&#x27;;<p>echo $strlen(&#x27;test&#x27;);<p>I’ve also seen things like this:<p>$return = ...<p>You can’t use a keyword as a variable in most other languages.')
