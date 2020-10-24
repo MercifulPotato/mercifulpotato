@@ -1,0 +1,1 @@
+Item(by='snuxoll', descendants=None, kids=None, score=None, time=1603484665, title=None, item_type='comment', url=None, parent=24849491, text='I mean, the general design is fine, the UX kind of sucks though. systemctl stop&#x2F;start&#x2F;restart&#x2F;reload&#x2F;enable&#x2F;disable is a lot easier to grok than launchctl.')

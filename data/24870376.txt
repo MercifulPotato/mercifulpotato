@@ -1,1 +1,1 @@
-Item(by='Gedxx', descendants=2, kids=[24872618], score=13, time=1603466329, title='Falsehoods programmers believe about time zones', item_type='story', url='https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/', parent=None, text=None)
+Item(by='Gedxx', descendants=7, kids=[24876152, 24872618, 24874181, 24875224, 24873091], score=29, time=1603466329, title='Falsehoods programmers believe about time zones', item_type='story', url='https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/', parent=None, text=None)

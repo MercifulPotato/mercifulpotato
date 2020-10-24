@@ -1,1 +1,1 @@
-Item(by='foldr', descendants=None, kids=None, score=None, time=1603469506, title=None, item_type='comment', url=None, parent=24868554, text='Well, any time you spend less than all of your money on fundamental research you&#x27;re implicitly making a calculation of that kind.')
+Item(by='foldr', descendants=None, kids=[24874835], score=None, time=1603469506, title=None, item_type='comment', url=None, parent=24868554, text='Well, any time you spend less than all of your money on fundamental research you&#x27;re implicitly making a calculation of that kind.')

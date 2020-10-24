@@ -1,1 +1,1 @@
-Item(by='chrisprice', descendants=0, kids=None, score=2, time=1603464942, title='Fixing the D3-zoom API for my use-case', item_type='story', url='https://blog.scottlogic.com/2020/10/22/fixing-the-d3-zoom-api.html', parent=None, text=None)
+Item(by='chrisprice', descendants=3, kids=[24875394, 24875468], score=11, time=1603464942, title='Fixing the D3-zoom API for my use-case', item_type='story', url='https://blog.scottlogic.com/2020/10/22/fixing-the-d3-zoom-api.html', parent=None, text=None)

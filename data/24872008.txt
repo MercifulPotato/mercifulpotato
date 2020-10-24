@@ -1,1 +1,1 @@
-Item(by='adamors', descendants=None, kids=None, score=None, time=1603475356, title=None, item_type='comment', url=None, parent=24868333, text='I&#x27;ve been using AM on Windows for years and years now. I want to say it&#x27;s been there since inception but I&#x27;m not sure.')
+Item(by='adamors', descendants=None, kids=[24873700], score=None, time=1603475356, title=None, item_type='comment', url=None, parent=24868333, text='I&#x27;ve been using AM on Windows for years and years now. I want to say it&#x27;s been there since inception but I&#x27;m not sure.')

@@ -1,0 +1,1 @@
+Item(by='saddlerustle', descendants=None, kids=[24876029], score=None, time=1603495230, title=None, item_type='comment', url=None, parent=24874920, text='A german court ruled youtube&#x27;s obfuscation of video request signatures is an effective technological protection measure. YoutubeIE._decrypt_signature in youtube_dl&#x2F;extractor&#x2F;youtube.py bypasses this.')

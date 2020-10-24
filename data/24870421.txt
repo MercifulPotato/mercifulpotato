@@ -1,1 +1,1 @@
-Item(by='darekkay', descendants=1, kids=[24873083], score=11, time=1603466582, title='Create React App 4.0', item_type='story', url='https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md', parent=None, text=None)
+Item(by='darekkay', descendants=7, kids=[24873083, 24873299, 24874463], score=26, time=1603466582, title='Create React App 4.0', item_type='story', url='https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md', parent=None, text=None)

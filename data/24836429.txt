@@ -1,1 +1,1 @@
-Item(by='merpnderp', descendants=None, kids=None, score=None, time=1603196278, title=None, item_type='comment', url=None, parent=24836017, text='If it’s good land you’d be pressed to run a hundred head of cattle on it. It qualifies as a tiny ranch.')
+Item(by='merpnderp', descendants=None, kids=[24875732], score=None, time=1603196278, title=None, item_type='comment', url=None, parent=24836017, text='If it’s good land you’d be pressed to run a hundred head of cattle on it. It qualifies as a tiny ranch.')

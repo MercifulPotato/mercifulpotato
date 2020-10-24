@@ -1,1 +1,1 @@
-Item(by='acemarke', descendants=None, kids=None, score=None, time=1603475199, title=None, item_type='comment', url=None, parent=24871838, text='Can you clarify what you mean by &quot;obfuscating the dependency tree&quot;?')
+Item(by='acemarke', descendants=None, kids=[24874873, 24875059], score=None, time=1603475199, title=None, item_type='comment', url=None, parent=24871838, text='Can you clarify what you mean by &quot;obfuscating the dependency tree&quot;?')

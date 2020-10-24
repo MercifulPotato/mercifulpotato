@@ -1,0 +1,1 @@
+Item(by='mhh__', descendants=None, kids=[24875187], score=None, time=1603492113, title=None, item_type='comment', url=None, parent=24871609, text='It&#x27;s relatively new in the mainstream of compiler&#x27;s, i.e. MSVC only got SSA in its backend 5 years ago or so.<p>I think Appel wrote a paper comparing SSA to functional programming way back in the 90s.')

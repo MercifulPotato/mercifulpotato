@@ -1,0 +1,1 @@
+Item(by='t-writescode', descendants=None, kids=[24873751], score=None, time=1603482726, title=None, item_type='comment', url=None, parent=24873108, text='Definitely not for simplicity of server&#x2F;client code. Using a Json serialization library basically means implementing a POJO at this point.')

@@ -1,0 +1,1 @@
+Item(by='andyfleming', descendants=None, kids=None, score=None, time=1603492186, title=None, item_type='comment', url=None, parent=24873299, text='This may have to do with Babel compiling typescript. It might run the type-checking separately and compile regardless of if it passes.')

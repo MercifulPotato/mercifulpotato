@@ -1,0 +1,1 @@
+Item(by='khuey', descendants=None, kids=None, score=None, time=1603507779, title=None, item_type='comment', url=None, parent=24875218, text='I obviously don&#x27;t know the details of what you were doing but it&#x27;s generally easier to implement the gdbserver protocol than to implement ptrace itself.')

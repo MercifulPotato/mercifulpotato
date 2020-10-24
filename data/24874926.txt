@@ -1,0 +1,1 @@
+Item(by='SahAssar', descendants=None, kids=[24875445], score=None, time=1603491742, title=None, item_type='comment', url=None, parent=24873797, text='Last I checked normal youtube videos are just a MPEG-DASH&#x2F;HLS stream, with no DRM.<p>What youtube-dl essentially does is reading the playlist and concatenating chunks together, there is no DRM circumvention here.')

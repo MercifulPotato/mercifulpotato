@@ -1,0 +1,1 @@
+Item(by='bjconlan', descendants=None, kids=None, score=None, time=1603501198, title=None, item_type='comment', url=None, parent=24872707, text='From recollection it’s the native data transmission format for Datomic (which is driven by Cognitect&#x2F;Nubank). I think there is a little bit more to the bias’ of EDN (mostly driven by language preferences in this case).')

@@ -1,1 +1,1 @@
-Item(by='bryanbraun', descendants=0, kids=None, score=1, time=1603465281, title='ES modules in production: my experience so far', item_type='story', url='https://www.bryanbraun.com/2020/10/23/es-modules-in-production-my-experience-so-far/', parent=None, text=None)
+Item(by='bryanbraun', descendants=1, kids=[24874403], score=2, time=1603465281, title='ES modules in production: my experience so far', item_type='story', url='https://www.bryanbraun.com/2020/10/23/es-modules-in-production-my-experience-so-far/', parent=None, text=None)

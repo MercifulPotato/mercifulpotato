@@ -1,1 +1,1 @@
-Item(by='mcguire', descendants=None, kids=None, score=None, time=1603479320, title=None, item_type='comment', url=None, parent=24872394, text='Q: What do you call the founder and CEO of a 1-2 person company that failed and went bankrupt?<p>A: Founder and CEO.')
+Item(by='mcguire', descendants=None, kids=[24875399], score=None, time=1603479320, title=None, item_type='comment', url=None, parent=24872394, text='Q: What do you call the founder and CEO of a 1-2 person company that failed and went bankrupt?<p>A: Founder and CEO.')

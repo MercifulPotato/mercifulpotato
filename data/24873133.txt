@@ -1,0 +1,1 @@
+Item(by='skrtskrt', descendants=None, kids=None, score=None, time=1603482342, title=None, item_type='comment', url=None, parent=24872997, text='Is that what VSCode does for the settings.json and similar settings files?<p>I haven&#x27;t tried multiline strings but it allows comments and trailing commas')

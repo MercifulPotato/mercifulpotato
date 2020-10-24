@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=None, kids=None, score=None, time=1603488432, title=None, item_type='comment', url=None, parent=24872302, text='JSONB is a private internal data representation in PostgreSQL, designed to be faster to index than textual JSON. As I understand it, it isn’t guaranteed to be stable, it isn’t exposed outside PostgreSQL, nor designed for data interchange.')

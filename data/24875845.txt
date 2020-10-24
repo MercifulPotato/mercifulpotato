@@ -1,0 +1,1 @@
+Item(by='austincheney', descendants=None, kids=[24875889, 24876327, 24875871, 24876105], score=None, time=1603499299, title=None, item_type='comment', url=None, parent=24870807, text='Strange that people are still implementing technology around SHA1. It is still challenging to find collisions, but none the less SHA1 is provably broken.')

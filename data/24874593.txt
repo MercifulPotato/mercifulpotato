@@ -1,0 +1,1 @@
+Item(by='michaelgiba', descendants=None, kids=None, score=None, time=1603489584, title=None, item_type='comment', url=None, parent=24874114, text='I respectfully disagree with this. Assuming you have the right build system and tooling setup a monorepo is strictly better than the alternatives solely from the code reuse and cross-stack visibility gains you get.')

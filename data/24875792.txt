@@ -1,0 +1,1 @@
+Item(by='grishka', descendants=None, kids=[24876339], score=None, time=1603498872, title=None, item_type='comment', url=None, parent=24875323, text='Yes, it&#x27;s correct and it should return that. The top-level serialization format is simply a URL query string aka application&#x2F;x-www-form-urlencoded. No idea why but probably historical reasons.')

@@ -1,1 +1,1 @@
-Item(by='plankers', descendants=None, kids=None, score=None, time=1603473672, title=None, item_type='comment', url=None, parent=24865502, text='This is good. Now if only they&#x27;d stop trying to wall off the podcast market.<p><i>glares angrily at Joe Rogan</i>')
+Item(by='plankers', descendants=None, kids=[24875343], score=None, time=1603473672, title=None, item_type='comment', url=None, parent=24865502, text='This is good. Now if only they&#x27;d stop trying to wall off the podcast market.<p><i>glares angrily at Joe Rogan</i>')

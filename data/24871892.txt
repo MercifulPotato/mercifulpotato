@@ -1,1 +1,1 @@
-Item(by='positivejam', descendants=None, kids=None, score=None, time=1603474671, title=None, item_type='comment', url=None, parent=24871624, text='Agreed. Would renaming it vertical-split or vertical-alternating reduce confusion?')
+Item(by='positivejam', descendants=None, kids=[24874797], score=None, time=1603474671, title=None, item_type='comment', url=None, parent=24871624, text='Agreed. Would renaming it vertical-split or vertical-alternating reduce confusion?')
