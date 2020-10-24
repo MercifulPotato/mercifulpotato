@@ -1,0 +1,1 @@
+Item(by='kevin_thibedeau', descendants=None, kids=None, score=None, time=1603560454, title=None, item_type='comment', url=None, parent=24880163, text='The point of base64 is to have a safe way to get 8-bit data through channels that only support 7-bit ASCII and strip control chars.')

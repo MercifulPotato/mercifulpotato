@@ -1,0 +1,1 @@
+Item(by='pmarreck', descendants=None, kids=None, score=None, time=1603568731, title=None, item_type='comment', url=None, parent=24879763, text='He thinks passing around the world state as a functional immutable data structure is “gross”, but modifying the same state as a global from anywhere in the program... isn’t?')

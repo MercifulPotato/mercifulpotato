@@ -1,0 +1,1 @@
+Item(by='rcarmo', descendants=None, kids=[24881503], score=None, time=1603552102, title=None, item_type='comment', url=None, parent=24877846, text='This should be flagged as 2019 in the title. OpenFaaS has progressed further (IIRC there are Docker Compose files for single-node deployments out there).')

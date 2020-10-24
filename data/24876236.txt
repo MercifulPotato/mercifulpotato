@@ -1,1 +1,1 @@
-Item(by='duskwuff', descendants=None, kids=None, score=None, time=1603504012, title=None, item_type='comment', url=None, parent=24874314, text='The footnotes appear to be missing from the text files, but are present in the RTFs.')
+Item(by='duskwuff', descendants=None, kids=[24879521], score=None, time=1603504012, title=None, item_type='comment', url=None, parent=24874314, text='The footnotes appear to be missing from the text files, but are present in the RTFs.')

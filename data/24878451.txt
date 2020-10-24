@@ -1,1 +1,1 @@
-Item(by='antihero', descendants=None, kids=None, score=None, time=1603537985, title=None, item_type='comment', url=None, parent=24878333, text='I&#x27;ve always struggled with the idea of laws that seemingly seem to overstep their jurisdiction.')
+Item(by='antihero', descendants=None, kids=[24879414], score=None, time=1603537985, title=None, item_type='comment', url=None, parent=24878333, text='I&#x27;ve always struggled with the idea of laws that seemingly seem to overstep their jurisdiction.')

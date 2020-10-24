@@ -1,1 +1,1 @@
-Item(by='Epskampie', descendants=None, kids=None, score=None, time=1603531204, title=None, item_type='comment', url=None, parent=24874349, text='Now you are just confirming that you need to understand promises to use async.')
+Item(by='Epskampie', descendants=None, kids=[24880515], score=None, time=1603531204, title=None, item_type='comment', url=None, parent=24874349, text='Now you are just confirming that you need to understand promises to use async.')

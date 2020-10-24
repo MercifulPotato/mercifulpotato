@@ -1,1 +1,1 @@
-Item(by='kevsim', descendants=None, kids=None, score=None, time=1603543689, title=None, item_type='comment', url=None, parent=24878867, text='As many other comments have mentioned, this doesn&#x27;t apply to G Suite.')
+Item(by='kevsim', descendants=None, kids=[24879619], score=None, time=1603543689, title=None, item_type='comment', url=None, parent=24878867, text='As many other comments have mentioned, this doesn&#x27;t apply to G Suite.')

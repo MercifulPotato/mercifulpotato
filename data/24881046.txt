@@ -1,0 +1,1 @@
+Item(by='jhawk28', descendants=None, kids=None, score=None, time=1603564542, title=None, item_type='comment', url=None, parent=24880950, text='nng is a reimplementation of nanomsg by the guy who made mangos (the go native impl of nanomsg). Nanomsg was written by the original author of zeromq.')

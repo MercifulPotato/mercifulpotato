@@ -1,1 +1,1 @@
-Item(by='sogen', descendants=None, kids=None, score=None, time=1603404863, title=None, item_type='comment', url=None, parent=24863394, text='how profitable is it?')
+Item(by='sogen', descendants=None, kids=[24879226], score=None, time=1603404863, title=None, item_type='comment', url=None, parent=24863394, text='how profitable is it?')

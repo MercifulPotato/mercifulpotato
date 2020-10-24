@@ -1,1 +1,1 @@
-Item(by='zamfofex', descendants=1, kids=[24866900], score=1, time=1603438332, title='Show HN: Greg – a simple “cal” clone written in C', item_type='story', url='https://greg-calendar.vercel.app', parent=None, text=None)
+Item(by='zamfofex', descendants=28, kids=[24879345, 24879340, 24879065, 24866900, 24879778, 24879591, 24879123, 24879268, 24879342, 24879305], score=42, time=1603438332, title='Show HN: Greg – a simple “cal” clone written in C', item_type='story', url='https://greg-calendar.vercel.app', parent=None, text=None)

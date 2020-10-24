@@ -1,1 +1,1 @@
-Item(by='olah_1', descendants=None, kids=None, score=None, time=1603542656, title=None, item_type='comment', url=None, parent=24878517, text='I was recommended the github project “timeliner”. I’m open to other ideas though!')
+Item(by='olah_1', descendants=None, kids=[24879708], score=None, time=1603542656, title=None, item_type='comment', url=None, parent=24878517, text='I was recommended the github project “timeliner”. I’m open to other ideas though!')

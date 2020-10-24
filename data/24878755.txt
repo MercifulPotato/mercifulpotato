@@ -1,1 +1,1 @@
-Item(by='yeutterg', descendants=None, kids=None, score=None, time=1603542410, title=None, item_type='comment', url=None, parent=24878450, text='Hey Jack, I&#x27;ve always found your Anki guides to be some of the best. I&#x27;m curious, are you still using it all these years later?')
+Item(by='yeutterg', descendants=None, kids=[24881149], score=None, time=1603542410, title=None, item_type='comment', url=None, parent=24878450, text='Hey Jack, I&#x27;ve always found your Anki guides to be some of the best. I&#x27;m curious, are you still using it all these years later?')

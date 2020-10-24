@@ -1,1 +1,1 @@
-Item(by='Luc', descendants=None, kids=None, score=None, time=1603547222, title=None, item_type='comment', url=None, parent=24878868, text='&gt; It is a very good idea that you read a book about mnemonics<p>Do you have any particular books in mind? Thanks!')
+Item(by='Luc', descendants=None, kids=[24880335], score=None, time=1603547222, title=None, item_type='comment', url=None, parent=24878868, text='&gt; It is a very good idea that you read a book about mnemonics<p>Do you have any particular books in mind? Thanks!')

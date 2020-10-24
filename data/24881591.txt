@@ -1,0 +1,1 @@
+Item(by='DoingIsLearning', descendants=None, kids=None, score=None, time=1603569676, title=None, item_type='comment', url=None, parent=24881346, text='Did exactly the same in a previous job but used flatbuffers for serialization instead.<p>I wasn&#x27;t a part of the initial decision making but was pretty happy with how easy it was to work with both zmq and flatbuffers.')

@@ -1,0 +1,1 @@
+Item(by='justinsaccount', descendants=None, kids=None, score=None, time=1603563726, title=None, item_type='comment', url=None, parent=24880554, text='&gt; REQ&#x2F;REP would pretty much always block forever if the peer goes away<p>unless you tell it to do otherwise, that&#x27;s exactly what it will do.  The guide covers this: 4. Reliable Request-Reply Patterns')

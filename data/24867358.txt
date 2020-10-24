@@ -1,1 +1,1 @@
-Item(by='fraqed', descendants=0, kids=None, score=2, time=1603443775, title='The Canadian printer who successfully sued the Soviet Union', item_type='story', url='https://www.cbc.ca/archives/soviet-ship-seizure-solution-1.5763649?cmp=rss', parent=None, text=None)
+Item(by='fraqed', descendants=3, kids=[24881102, 24880825], score=21, time=1603443775, title='The Canadian printer who successfully sued the Soviet Union', item_type='story', url='https://www.cbc.ca/archives/soviet-ship-seizure-solution-1.5763649?cmp=rss', parent=None, text=None)

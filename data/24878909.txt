@@ -1,1 +1,1 @@
-Item(by='lucb1e', descendants=None, kids=None, score=None, time=1603544206, title=None, item_type='comment', url=None, parent=24878834, text='YouTube works without JavaScript? Or can you somehow selectively block the scripts responsible for nag screens?')
+Item(by='lucb1e', descendants=None, kids=[24879536], score=None, time=1603544206, title=None, item_type='comment', url=None, parent=24878834, text='YouTube works without JavaScript? Or can you somehow selectively block the scripts responsible for nag screens?')

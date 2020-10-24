@@ -1,1 +1,1 @@
-Item(by='hanklazard', descendants=0, kids=None, score=2, time=1603544775, title='The engines of SARS-CoV-2 spread', item_type='story', url='https://science.sciencemag.org/content/370/6515/406', parent=None, text=None)
+Item(by='hanklazard', descendants=16, kids=[24880075, 24880490, 24879573], score=43, time=1603544775, title='The engines of SARS-CoV-2 spread', item_type='story', url='https://science.sciencemag.org/content/370/6515/406', parent=None, text=None)

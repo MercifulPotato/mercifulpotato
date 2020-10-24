@@ -1,1 +1,1 @@
-Item(by='tbrock', descendants=None, kids=None, score=None, time=1603547465, title=None, item_type='comment', url=None, parent=24877846, text='The most surprising thing is this article is that containerd maintainers don’t provide binaries for anything but x86_64!')
+Item(by='tbrock', descendants=None, kids=[24881510], score=None, time=1603547465, title=None, item_type='comment', url=None, parent=24877846, text='The most surprising thing is this article is that containerd maintainers don’t provide binaries for anything but x86_64!')
