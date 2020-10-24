@@ -1,1 +1,1 @@
-Item(by='bryanmillstein', descendants=0, kids=None, score=4, time=1603488169, title='Show HN: Run Your Bitcoin Numbers', item_type='story', url='https://mybtcstats.com/#/', parent=None, text=None)
+Item(by='bryanmillstein', descendants=1, kids=[24876523], score=5, time=1603488169, title='Show HN: Run Your Bitcoin Numbers', item_type='story', url='https://mybtcstats.com/#/', parent=None, text=None)

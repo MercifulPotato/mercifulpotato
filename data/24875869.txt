@@ -1,1 +1,1 @@
-Item(by='bhl', descendants=None, kids=None, score=None, time=1603499601, title=None, item_type='comment', url=None, parent=24875301, text='Both the standard react router and nextjs framework are open source.')
+Item(by='bhl', descendants=None, kids=[24876778], score=None, time=1603499601, title=None, item_type='comment', url=None, parent=24875301, text='Both the standard react router and nextjs framework are open source.')

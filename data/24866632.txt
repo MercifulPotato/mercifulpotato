@@ -1,1 +1,1 @@
-Item(by='boomlinde', descendants=None, kids=None, score=None, time=1603435413, title=None, item_type='comment', url=None, parent=24861781, text='How convenient that there&#x27;s a fictional space opera that can verify your predictions of the future.')
+Item(by='boomlinde', descendants=None, kids=[24876934], score=None, time=1603435413, title=None, item_type='comment', url=None, parent=24861781, text='How convenient that there&#x27;s a fictional space opera that can verify your predictions of the future.')

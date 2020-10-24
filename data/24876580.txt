@@ -1,0 +1,1 @@
+Item(by='tatersolid', descendants=None, kids=[24877253], score=None, time=1603508128, title=None, item_type='comment', url=None, parent=24876037, text='At four times the computation, which is a pretty big problem when you’re trying to authenticate every packet on a &gt;= 10 Gb&#x2F;s network<p>Using a better hash like Blake2 makes a lot more sense')

@@ -1,1 +1,1 @@
-Item(by='3np', descendants=None, kids=None, score=None, time=1603504737, title=None, item_type='comment', url=None, parent=24876039, text='&gt; shorter shelf-life than a bottle of ketchup<p>You know, that doesn’t really work, because ketchup lasts for ages')
+Item(by='3np', descendants=None, kids=[24877797, 24877482], score=None, time=1603504737, title=None, item_type='comment', url=None, parent=24876039, text='&gt; shorter shelf-life than a bottle of ketchup<p>You know, that doesn’t really work, because ketchup lasts for ages')

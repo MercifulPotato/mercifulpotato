@@ -1,0 +1,1 @@
+Item(by='gitgud', descendants=None, kids=None, score=None, time=1603525462, title=None, item_type='comment', url=None, parent=24877088, text='Well, git commits can be signed by they&#x27;re authors, verifying authenticity.<p>This would prove if malicious commits have been added to a mirrored repository.')

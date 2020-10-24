@@ -1,1 +1,1 @@
-Item(by='secondary', descendants=0, kids=None, score=6, time=1603483338, title='The Children of the Opera', item_type='story', url='https://newcriterion.com/blogs/dispatch/11929', parent=None, text=None)
+Item(by='secondary', descendants=1, kids=[24877169, 24876779], score=19, time=1603483338, title='The Children of the Opera', item_type='story', url='https://newcriterion.com/blogs/dispatch/11929', parent=None, text=None)

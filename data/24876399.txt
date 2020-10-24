@@ -1,1 +1,1 @@
-Item(by='banaana', descendants=None, kids=None, score=None, time=1603505986, title=None, item_type='comment', url=None, parent=24876141, text='Apple Music has filled that need for me quite well')
+Item(by='banaana', descendants=None, kids=[24876879], score=None, time=1603505986, title=None, item_type='comment', url=None, parent=24876141, text='Apple Music has filled that need for me quite well')

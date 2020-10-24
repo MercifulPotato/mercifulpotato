@@ -1,1 +1,1 @@
-Item(by='fyrabanks', descendants=None, kids=None, score=None, time=1603491693, title=None, item_type='comment', url=None, parent=24874884, text='this is honestly the first Hacker News article in a few years that made me yell at my computer. pure insanity.')
+Item(by='fyrabanks', descendants=None, kids=[24876749], score=None, time=1603491693, title=None, item_type='comment', url=None, parent=24874884, text='this is honestly the first Hacker News article in a few years that made me yell at my computer. pure insanity.')

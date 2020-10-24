@@ -1,1 +1,1 @@
-Item(by='pier25', descendants=None, kids=None, score=None, time=1603251485, title=None, item_type='comment', url=None, parent=24843664, text='For the database and auth check FaunaDB.<p>It doesn&#x27;t have sync or realtime yet, but it&#x27;s a much better database overall.')
+Item(by='pier25', descendants=None, kids=[24876483], score=None, time=1603251485, title=None, item_type='comment', url=None, parent=24843664, text='For the database and auth check FaunaDB.<p>It doesn&#x27;t have sync or realtime yet, but it&#x27;s a much better database overall.')

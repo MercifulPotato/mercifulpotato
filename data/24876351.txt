@@ -1,1 +1,1 @@
-Item(by='entee', descendants=None, kids=None, score=None, time=1603505501, title=None, item_type='comment', url=None, parent=24871699, text='“Easy” is rarely a word I’ve heard associated with crystallography. Hence cryo-em! Easier and faster sample prep.')
+Item(by='entee', descendants=None, kids=[24876642], score=None, time=1603505501, title=None, item_type='comment', url=None, parent=24871699, text='“Easy” is rarely a word I’ve heard associated with crystallography. Hence cryo-em! Easier and faster sample prep.')

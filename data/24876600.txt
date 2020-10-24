@@ -1,0 +1,1 @@
+Item(by='cyphar', descendants=None, kids=None, score=None, time=1603508317, title=None, item_type='comment', url=None, parent=24875871, text='But there are even better choices for non-cryptographic hash functions (FNV and MurmurHash for instance) because they were designed without the need to have a tradeoff between cryptographic security and efficiency.')

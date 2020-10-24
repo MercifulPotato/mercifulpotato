@@ -1,1 +1,1 @@
-Item(by='nwienert', descendants=None, kids=None, score=None, time=1603471654, title=None, item_type='comment', url=None, parent=24870177, text='No you don’t. You just have to be better at delivering medicine.')
+Item(by='nwienert', descendants=None, kids=[24877045], score=None, time=1603471654, title=None, item_type='comment', url=None, parent=24870177, text='No you don’t. You just have to be better at delivering medicine.')

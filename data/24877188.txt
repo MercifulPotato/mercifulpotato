@@ -1,0 +1,1 @@
+Item(by='ed25519FUUU', descendants=None, kids=None, score=None, time=1603517643, title=None, item_type='comment', url=None, parent=24875810, text='Python startup time is slow for you?? It’s basically instantaneously on every machine I’ve ever used, unless there’s some seriously poorly written imports.')

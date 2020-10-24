@@ -1,1 +1,1 @@
-Item(by='acnops', descendants=None, kids=None, score=None, time=1603479971, title=None, item_type='comment', url=None, parent=24871957, text='Good point, we’ll add more login options.')
+Item(by='acnops', descendants=None, kids=[24876807], score=None, time=1603479971, title=None, item_type='comment', url=None, parent=24871957, text='Good point, we’ll add more login options.')

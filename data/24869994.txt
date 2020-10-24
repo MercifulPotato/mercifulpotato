@@ -1,1 +1,1 @@
-Item(by='uint256_t', descendants=15, kids=[24875905, 24870968, 24871361], score=129, time=1603464217, title='My own C compiler on my own compiler infrastructure', item_type='story', url='https://github.com/maekawatoshiki/cilk/tree/master/cilkcc', parent=None, text=None)
+Item(by='uint256_t', descendants=15, kids=[24875905, 24870968, 24871361], score=142, time=1603464217, title='My own C compiler on my own compiler infrastructure', item_type='story', url='https://github.com/maekawatoshiki/cilk/tree/master/cilkcc', parent=None, text=None)

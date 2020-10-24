@@ -1,0 +1,1 @@
+Item(by='petre', descendants=None, kids=[24877399], score=None, time=1603518139, title=None, item_type='comment', url=None, parent=24873318, text='You need to parse that. For graphs with thousands of data points just use Unix time plus a timezone or use the browser&#x27;s timezone. ISO 8601 would leave your graphs churning for seconds.')
