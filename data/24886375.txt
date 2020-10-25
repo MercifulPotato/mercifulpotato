@@ -1,0 +1,1 @@
+Item(by='null_deref', descendants=None, kids=None, score=None, time=1603634894, title=None, item_type='comment', url=None, parent=24886339, text='Yes, that&#x27;s was an interesting case of what you mentioned <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=24364793" rel="nofollow">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=24364793</a>')

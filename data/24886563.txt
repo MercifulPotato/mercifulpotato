@@ -1,0 +1,1 @@
+Item(by='enahs-sf', descendants=None, kids=None, score=None, time=1603636286, title=None, item_type='comment', url=None, parent=24884764, text='Anyone else here think Downloading an executable as root from a URL that follows redirects is a bad idea? Seems like they could break the (Unix) install down into a few more steps that take some caution')

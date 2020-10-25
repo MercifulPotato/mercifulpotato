@@ -1,0 +1,1 @@
+Item(by='chrismorgan', descendants=None, kids=[24889399], score=None, time=1603644377, title=None, item_type='comment', url=None, parent=24887332, text='Eh, it’s not underspecified. It’s just… strangely specified, in a way that people <i>will</i> ignore and misparse. But then, if it had been specified in any other way people would have ignored and misparsed it too.')

@@ -1,0 +1,1 @@
+Item(by='HeadsUpHigh', descendants=None, kids=None, score=None, time=1603639705, title=None, item_type='comment', url=None, parent=24886505, text='The main code of what? Wayland doesn&#x27;t have a codebase. There are protocols( just like x11) and different compositors support different extensions. The point is that it&#x27;s much more modular this way.')

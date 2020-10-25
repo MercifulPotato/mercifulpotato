@@ -1,0 +1,1 @@
+Item(by='kllrnohj', descendants=None, kids=None, score=None, time=1603641474, title=None, item_type='comment', url=None, parent=24885675, text='I think the problem with Wayland is it <i>isn&#x27;t</i> half-assed. The insistence on being a generic protocol instead of a product fragments an already small dev community. And being a protocol so incredibly slows down velocity.')

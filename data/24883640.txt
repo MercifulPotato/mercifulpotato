@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1603596653, title=None, item_type='comment', url=None, parent=24882513, text='you mean shsh blobs? Didn&#x27;t they turn obsolete years ago when they patched the firmware to require random nonces?')
+Item(by='gruez', descendants=None, kids=[24887682], score=None, time=1603596653, title=None, item_type='comment', url=None, parent=24882513, text='you mean shsh blobs? Didn&#x27;t they turn obsolete years ago when they patched the firmware to require random nonces?')

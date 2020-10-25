@@ -1,1 +1,1 @@
-Item(by='AsyncAwait', descendants=None, kids=None, score=None, time=1603622209, title=None, item_type='comment', url=None, parent=24884031, text='I think they meant without requiring a PC?')
+Item(by='AsyncAwait', descendants=None, kids=[24887598], score=None, time=1603622209, title=None, item_type='comment', url=None, parent=24884031, text='I think they meant without requiring a PC?')

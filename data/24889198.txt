@@ -1,0 +1,1 @@
+Item(by='rsiqueira', descendants=None, kids=None, score=None, time=1603654507, title=None, item_type='comment', url=None, parent=24885421, text='QuickJS starts and runs a local js program much faster than NodeJS. That&#x27;s why I use QuickJS to run local JavaScript files in my servers.')

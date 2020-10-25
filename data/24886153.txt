@@ -1,1 +1,1 @@
-Item(by='beervirus', descendants=None, kids=None, score=None, time=1603633032, title=None, item_type='comment', url=None, parent=24885861, text='Having an active maintainer fixing security bugs as they arise isn’t “finding new problems to solve.”')
+Item(by='beervirus', descendants=None, kids=[24886643], score=None, time=1603633032, title=None, item_type='comment', url=None, parent=24885861, text='Having an active maintainer fixing security bugs as they arise isn’t “finding new problems to solve.”')

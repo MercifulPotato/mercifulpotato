@@ -1,1 +1,1 @@
-Item(by='jhgb', descendants=None, kids=None, score=None, time=1603635864, title=None, item_type='comment', url=None, parent=24886402, text='Without the hub, we could call it just &quot;Git&quot; or something like that.')
+Item(by='jhgb', descendants=None, kids=[24887299], score=None, time=1603635864, title=None, item_type='comment', url=None, parent=24886402, text='Without the hub, we could call it just &quot;Git&quot; or something like that.')

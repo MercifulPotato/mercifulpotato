@@ -1,1 +1,1 @@
-Item(by='justaj', descendants=None, kids=None, score=None, time=1603628720, title=None, item_type='comment', url=None, parent=24885607, text='It&#x27;s amazing that no one has thought to do this yet considering the checkered history of GitHub&#x27;s compliance with DMCA takedowns.')
+Item(by='justaj', descendants=None, kids=[24888596], score=None, time=1603628720, title=None, item_type='comment', url=None, parent=24885607, text='It&#x27;s amazing that no one has thought to do this yet considering the checkered history of GitHub&#x27;s compliance with DMCA takedowns.')

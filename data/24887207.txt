@@ -1,0 +1,1 @@
+Item(by='drewg123', descendants=None, kids=None, score=None, time=1603641240, title=None, item_type='comment', url=None, parent=24866489, text='Sounds very much like what FreeBSD (and Solaris) does with its ithreads, except that ithreads are for most interrupts, and not just network interrupts.')

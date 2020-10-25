@@ -1,0 +1,1 @@
+Item(by='ajsnigrutin', descendants=None, kids=[24888539, 24888545], score=None, time=1603640359, title=None, item_type='comment', url=None, parent=24886774, text='&gt; It&#x27;s also rather complicated to set-up on the server side (xauth, magic cookie, etc).<p>you mean &quot;ssh -Y user@host...&quot;?')

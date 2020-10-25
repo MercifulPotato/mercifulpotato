@@ -1,0 +1,1 @@
+Item(by='closeparen', descendants=None, kids=[24888427, 24888178], score=None, time=1603645725, title=None, item_type='comment', url=None, parent=24887796, text='Can you elaborate on private struct fields? The same criticism would apply for any OO language with access control &#x2F; visibility of fields right?')

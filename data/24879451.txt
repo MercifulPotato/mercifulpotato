@@ -1,1 +1,1 @@
-Item(by='dpeck', descendants=None, kids=None, score=None, time=1603550305, title=None, item_type='comment', url=None, parent=24877487, text='you misspelled hire')
+Item(by='dpeck', descendants=None, kids=[24887424], score=None, time=1603550305, title=None, item_type='comment', url=None, parent=24877487, text='you misspelled hire')

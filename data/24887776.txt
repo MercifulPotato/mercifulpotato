@@ -1,0 +1,1 @@
+Item(by='biryani_chicken', descendants=None, kids=None, score=None, time=1603645325, title=None, item_type='comment', url=None, parent=24885977, text='Repos could also have a notice like &quot;It&#x27;s been X days since last interaction&quot; which would track the last commit, merge or even just comment in the issue tracker made by the maintainers.')

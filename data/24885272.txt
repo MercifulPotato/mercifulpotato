@@ -1,1 +1,1 @@
-Item(by='H8crilA', descendants=None, kids=None, score=None, time=1603622208, title=None, item_type='comment', url=None, parent=24884175, text='Hey, here&#x27;s a shockingly simple idea: don&#x27;t buy a home if you don&#x27;t want equity, rent instead.')
+Item(by='H8crilA', descendants=None, kids=[24889382], score=None, time=1603622208, title=None, item_type='comment', url=None, parent=24884175, text='Hey, here&#x27;s a shockingly simple idea: don&#x27;t buy a home if you don&#x27;t want equity, rent instead.')

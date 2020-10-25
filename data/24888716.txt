@@ -1,0 +1,1 @@
+Item(by='surround', descendants=None, kids=[24889017], score=None, time=1603651213, title=None, item_type='comment', url=None, parent=24887443, text='I recommend running your own DNS resolver, so that you don’t have to trust any 3rd party server with your DNS traffic.<p>I run Unbound (a DNS resolver) alongside Pi-hole on a dedicated raspberry pi for my home network.')

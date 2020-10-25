@@ -1,1 +1,1 @@
-Item(by='carlob', descendants=None, kids=None, score=None, time=1603616555, title=None, item_type='comment', url=None, parent=24884774, text='Depending on what Renaissance, definitely not the Italian one as it started about 200 years before the introduction of coffee to Europe')
+Item(by='carlob', descendants=None, kids=[24886743], score=None, time=1603616555, title=None, item_type='comment', url=None, parent=24884774, text='Depending on what Renaissance, definitely not the Italian one as it started about 200 years before the introduction of coffee to Europe')

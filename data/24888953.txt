@@ -1,0 +1,1 @@
+Item(by='lanstin', descendants=None, kids=None, score=None, time=1603652790, title=None, item_type='comment', url=None, parent=24888323, text='Which makes rolling back a bad push really interesting. Give me a append only repo with my static binaries that my compute nodes deploy from. I even went to the trouble to put Python into RPMs for this.')

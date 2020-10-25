@@ -1,1 +1,1 @@
-Item(by='octoberfranklin', descendants=None, kids=None, score=None, time=1603572711, title=None, item_type='comment', url=None, parent=24880112, text='No evidence that you&#x27;re aware of.<p>Because they&#x27;re not a publicly-traded company like US West.<p>This is unsurprising.')
+Item(by='octoberfranklin', descendants=None, kids=[24888040], score=None, time=1603572711, title=None, item_type='comment', url=None, parent=24880112, text='No evidence that you&#x27;re aware of.<p>Because they&#x27;re not a publicly-traded company like US West.<p>This is unsurprising.')

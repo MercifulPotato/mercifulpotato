@@ -1,1 +1,1 @@
-Item(by='rozab', descendants=None, kids=None, score=None, time=1603631449, title=None, item_type='comment', url=None, parent=24885923, text='Just host a gitlab instance through TOR or something, bish bash bosh')
+Item(by='rozab', descendants=None, kids=[24888110], score=None, time=1603631449, title=None, item_type='comment', url=None, parent=24885923, text='Just host a gitlab instance through TOR or something, bish bash bosh')

@@ -1,1 +1,1 @@
-Item(by='voltagex_', descendants=None, kids=None, score=None, time=1603615724, title=None, item_type='comment', url=None, parent=24884461, text='How did you handle chunks with audio? Every time I try that the audio and video desync.')
+Item(by='voltagex_', descendants=None, kids=[24886986], score=None, time=1603615724, title=None, item_type='comment', url=None, parent=24884461, text='How did you handle chunks with audio? Every time I try that the audio and video desync.')

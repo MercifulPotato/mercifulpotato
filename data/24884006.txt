@@ -1,1 +1,1 @@
-Item(by='snicker7', descendants=None, kids=None, score=None, time=1603602681, title=None, item_type='comment', url=None, parent=24883361, text='There isn&#x27;t a functional difference between a 5% tariff and a 50% tariff for most goods.')
+Item(by='snicker7', descendants=None, kids=[24886832], score=None, time=1603602681, title=None, item_type='comment', url=None, parent=24883361, text='There isn&#x27;t a functional difference between a 5% tariff and a 50% tariff for most goods.')

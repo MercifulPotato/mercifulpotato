@@ -1,0 +1,1 @@
+Item(by='makeworld', descendants=None, kids=None, score=None, time=1603642963, title=None, item_type='comment', url=None, parent=24886120, text='I run my own DNS resolver at home, and it&#x27;s coming up with my own public IP address, with my ISP as the name. Neat.')

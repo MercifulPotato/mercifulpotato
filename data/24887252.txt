@@ -1,0 +1,1 @@
+Item(by='amelius', descendants=None, kids=None, score=None, time=1603641667, title=None, item_type='comment', url=None, parent=24885973, text='Perhaps performance plays a role; transforming documents is usually not a bottleneck (unless you are running some server farm).<p>Also transforming documents seems like a task well suited to functional languages.')

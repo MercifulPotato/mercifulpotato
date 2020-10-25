@@ -1,0 +1,1 @@
+Item(by='psanford', descendants=None, kids=None, score=None, time=1603651648, title=None, item_type='comment', url=None, parent=24887787, text='Sorry you&#x27;ve had issues with gopls, the gopls deep completions are one of my favorite things!<p>At this point gopls works way better than godef+gocode ever did for me.')

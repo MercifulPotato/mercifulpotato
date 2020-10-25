@@ -1,0 +1,1 @@
+Item(by='akvadrako', descendants=None, kids=None, score=None, time=1603645942, title=None, item_type='comment', url=None, parent=24885832, text='Wayland is a protocol, like X. X.org is an implementation, like a compositor.<p>Screenshots require a privileged application to have access to the whole screen. The X protocol doesn’t provide that, though some implementation might.')
