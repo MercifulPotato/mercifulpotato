@@ -1,0 +1,1 @@
+Item(by='MobiusHorizons', descendants=None, kids=None, score=None, time=1603580870, title=None, item_type='comment', url=None, parent=24882391, text='I believe it could be used. The biggest problem is that all of the DOM classes have to be replicated, and the api surface is absolutely huge, so that would take a large amount of work.')

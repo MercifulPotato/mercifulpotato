@@ -1,1 +1,1 @@
-Item(by='paulpauper', descendants=0, kids=None, score=1, time=1603556903, title='The Peter Pans of the Pandemic', item_type='story', url='https://melmagazine.com/en-us/story/the-peter-pans-of-the-pandemic', parent=None, text=None)
+Item(by='paulpauper', descendants=1, kids=[24882272], score=1, time=1603556903, title='The Peter Pans of the Pandemic', item_type='story', url='https://melmagazine.com/en-us/story/the-peter-pans-of-the-pandemic', parent=None, text=None)

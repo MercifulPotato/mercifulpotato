@@ -1,1 +1,1 @@
-Item(by='riliano', descendants=1, kids=[24880642], score=3, time=1603558944, title='Doing Easy Things the Hard Way: Blog Creation', item_type='story', url='https://rilia.xyz/blog/easy-hard-blog-creation.html', parent=None, text=None)
+Item(by='riliano', descendants=2, kids=[24880642, 24881590], score=4, time=1603558944, title='Doing Easy Things the Hard Way: Blog Creation', item_type='story', url='https://rilia.xyz/blog/easy-hard-blog-creation.html', parent=None, text=None)

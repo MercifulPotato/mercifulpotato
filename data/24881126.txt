@@ -1,1 +1,1 @@
-Item(by='edward', descendants=0, kids=None, score=2, time=1603565222, title='Coronavirus has wreaked havoc with our sleep', item_type='story', url='https://www.theguardian.com/world/2020/oct/23/the-zzz-factor-how-coronavirus-has-wreaked-havoc-with-our-sleep', parent=None, text=None)
+Item(by='edward', descendants=1, kids=[24882240], score=3, time=1603565222, title='Coronavirus has wreaked havoc with our sleep', item_type='story', url='https://www.theguardian.com/world/2020/oct/23/the-zzz-factor-how-coronavirus-has-wreaked-havoc-with-our-sleep', parent=None, text=None)

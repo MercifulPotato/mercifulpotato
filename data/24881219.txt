@@ -1,0 +1,1 @@
+Item(by='nwellnhof', descendants=None, kids=None, score=None, time=1603566113, title=None, item_type='comment', url=None, parent=24880446, text='&gt; In short: portability to other Unix systems is inferior today compared with CMake.<p>CMake requires a C++11 compiler and quite a few C libraries like libuv, so you can&#x27;t even compile it on platforms like HP-UX.')

@@ -1,1 +1,1 @@
-Item(by='cheeaun', descendants=0, kids=None, score=3, time=1603432963, title='Vdx – An intuitive CLI for processing video, powered by FFmpeg', item_type='story', url='https://github.com/yuanqing/vdx', parent=None, text=None)
+Item(by='cheeaun', descendants=7, kids=[24883134, 24882945, 24883043, 24882943], score=31, time=1603432963, title='Vdx – An intuitive CLI for processing video, powered by FFmpeg', item_type='story', url='https://github.com/yuanqing/vdx', parent=None, text=None)

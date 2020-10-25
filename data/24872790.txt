@@ -1,1 +1,1 @@
-Item(by='the-dude', descendants=None, kids=None, score=None, time=1603480434, title=None, item_type='comment', url=None, parent=24872513, text='140 000 ton ?')
+Item(by='the-dude', descendants=None, kids=[24883395], score=None, time=1603480434, title=None, item_type='comment', url=None, parent=24872513, text='140 000 ton ?')

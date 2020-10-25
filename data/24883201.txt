@@ -1,0 +1,1 @@
+Item(by='svnpenn', descendants=None, kids=None, score=None, time=1603589632, title=None, item_type='comment', url=None, parent=24883109, text='Workaround:<p><pre><code>    let m = {year: 2019};\n    let s = JSON.stringify(m);\n    console.log(s); &#x2F;&#x2F; {&quot;year&quot;:2019}</code></pre>')

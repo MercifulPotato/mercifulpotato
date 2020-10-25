@@ -1,1 +1,1 @@
-Item(by='a_t48', descendants=None, kids=None, score=None, time=1603565082, title=None, item_type='comment', url=None, parent=24880804, text='I had morphine for appendicitis. It didn&#x27;t appear to do anything for me. :(')
+Item(by='a_t48', descendants=None, kids=[24882804, 24882333], score=None, time=1603565082, title=None, item_type='comment', url=None, parent=24880804, text='I had morphine for appendicitis. It didn&#x27;t appear to do anything for me. :(')

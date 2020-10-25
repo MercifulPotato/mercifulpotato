@@ -1,0 +1,1 @@
+Item(by='gray_-_wolf', descendants=None, kids=None, score=None, time=1603580973, title=None, item_type='comment', url=None, parent=24875948, text='Or, in actual posix compatible way:<p><pre><code>    find &#x2F;tmp&#x2F;test -type f -iname &#x27;*.ogg&#x27; -exec sh -c &#x27;for f; do printf &quot;%s\\n&quot; &quot;${f##*&#x2F;}&quot;; done&#x27; - {} +</code></pre>')

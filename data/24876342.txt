@@ -1,1 +1,1 @@
-Item(by='sova', descendants=None, kids=None, score=None, time=1603505439, title=None, item_type='comment', url=None, parent=24871773, text='Have you ever met a pollster?')
+Item(by='sova', descendants=None, kids=[24881592], score=None, time=1603505439, title=None, item_type='comment', url=None, parent=24871773, text='Have you ever met a pollster?')

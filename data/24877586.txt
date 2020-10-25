@@ -1,1 +1,1 @@
-Item(by='arok', descendants=None, kids=None, score=None, time=1603524706, title=None, item_type='comment', url=None, parent=24876933, text='To put it another way, all votes are equal, but some votes are more equal than others. That sounds vaguely familiar…')
+Item(by='arok', descendants=None, kids=[24883068], score=None, time=1603524706, title=None, item_type='comment', url=None, parent=24876933, text='To put it another way, all votes are equal, but some votes are more equal than others. That sounds vaguely familiar…')

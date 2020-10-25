@@ -1,1 +1,1 @@
-Item(by='londons_explore', descendants=None, kids=None, score=None, time=1603491557, title=None, item_type='comment', url=None, parent=24872403, text='Openstreetmap has most public toilets tagged...   Making an app which highlights them on a map would be trivial...')
+Item(by='londons_explore', descendants=None, kids=[24883172], score=None, time=1603491557, title=None, item_type='comment', url=None, parent=24872403, text='Openstreetmap has most public toilets tagged...   Making an app which highlights them on a map would be trivial...')

@@ -1,0 +1,1 @@
+Item(by='barrkel', descendants=None, kids=[24882942], score=None, time=1603580151, title=None, item_type='comment', url=None, parent=24881711, text='(Oh and you want to source your .bashrc from your .bash_profile so you start out with both env vars and everything else.)')

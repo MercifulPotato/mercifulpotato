@@ -1,1 +1,1 @@
-Item(by='rolha-capoeira', descendants=None, kids=None, score=None, time=1603459923, title=None, item_type='comment', url=None, parent=24869030, text='What tools do you use?')
+Item(by='rolha-capoeira', descendants=None, kids=[24882822], score=None, time=1603459923, title=None, item_type='comment', url=None, parent=24869030, text='What tools do you use?')

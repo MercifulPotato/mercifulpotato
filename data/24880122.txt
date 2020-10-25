@@ -1,1 +1,1 @@
-Item(by='jhayward', descendants=None, kids=None, score=None, time=1603556551, title=None, item_type='comment', url=None, parent=24875810, text='You find Emacs to have a faster startup time than Python?')
+Item(by='jhayward', descendants=None, kids=[24881689], score=None, time=1603556551, title=None, item_type='comment', url=None, parent=24875810, text='You find Emacs to have a faster startup time than Python?')

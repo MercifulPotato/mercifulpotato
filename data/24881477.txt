@@ -1,1 +1,1 @@
-Item(by='thijsvandien', descendants=None, kids=None, score=None, time=1603568711, title=None, item_type='comment', url=None, parent=24881457, text='Useless when Apple won&#x27;t activate them anymore.')
+Item(by='thijsvandien', descendants=None, kids=[24882513], score=None, time=1603568711, title=None, item_type='comment', url=None, parent=24881457, text='Useless when Apple won&#x27;t activate them anymore.')

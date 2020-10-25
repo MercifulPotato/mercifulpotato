@@ -1,1 +1,1 @@
-Item(by='daniellarusso', descendants=None, kids=None, score=None, time=1603562056, title=None, item_type='comment', url=None, parent=24880184, text='I was thinking about a sleeping pet.')
+Item(by='daniellarusso', descendants=None, kids=[24881471], score=None, time=1603562056, title=None, item_type='comment', url=None, parent=24880184, text='I was thinking about a sleeping pet.')

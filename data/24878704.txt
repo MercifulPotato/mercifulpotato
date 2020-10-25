@@ -1,1 +1,1 @@
-Item(by='eigenket', descendants=None, kids=None, score=None, time=1603541815, title=None, item_type='comment', url=None, parent=24877440, text='Photons do not have mass (their relativistic mass is zero). Momentum and pressure do not require mass to exist.')
+Item(by='eigenket', descendants=None, kids=[24883240], score=None, time=1603541815, title=None, item_type='comment', url=None, parent=24877440, text='Photons do not have mass (their relativistic mass is zero). Momentum and pressure do not require mass to exist.')

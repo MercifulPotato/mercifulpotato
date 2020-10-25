@@ -1,1 +1,1 @@
-Item(by='docuru', descendants=0, kids=None, score=5, time=1603501988, title='Jobs, Wozniak, Cook (Build, Sell, Scale)', item_type='story', url='http://blog.eladgil.com/2020/10/jobs-wozniak-cook-build-sell-scale.html', parent=None, text=None)
+Item(by='docuru', descendants=1, kids=[24881997], score=6, time=1603501988, title='Jobs, Wozniak, Cook (Build, Sell, Scale)', item_type='story', url='http://blog.eladgil.com/2020/10/jobs-wozniak-cook-build-sell-scale.html', parent=None, text=None)

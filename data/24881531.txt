@@ -1,1 +1,1 @@
-Item(by='tome', descendants=None, kids=None, score=None, time=1603569223, title=None, item_type='comment', url=None, parent=24881166, text='Huh, what do you mean by &quot;modular&quot; that isn&#x27;t satisfied by the closures?')
+Item(by='tome', descendants=None, kids=[24883156], score=None, time=1603569223, title=None, item_type='comment', url=None, parent=24881166, text='Huh, what do you mean by &quot;modular&quot; that isn&#x27;t satisfied by the closures?')

@@ -1,1 +1,1 @@
-Item(by='QuiXotical1', descendants=None, kids=None, score=None, time=1603542281, title=None, item_type='comment', url=None, parent=24869401, text='You watch the news too much')
+Item(by='QuiXotical1', descendants=None, kids=[24881981], score=None, time=1603542281, title=None, item_type='comment', url=None, parent=24869401, text='You watch the news too much')

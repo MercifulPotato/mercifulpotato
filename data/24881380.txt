@@ -1,1 +1,1 @@
-Item(by='s3krit', descendants=None, kids=None, score=None, time=1603567842, title=None, item_type='comment', url=None, parent=24881033, text='Love DMT, me')
+Item(by='s3krit', descendants=None, kids=[24882208], score=None, time=1603567842, title=None, item_type='comment', url=None, parent=24881033, text='Love DMT, me')

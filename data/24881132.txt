@@ -1,1 +1,1 @@
-Item(by='DanBC', descendants=2, kids=[24881197, 24881245], score=7, time=1603565265, title='Far-Right Groups Are Behind Most U.S. Terrorist Attacks, Report Finds', item_type='story', url='https://www.nytimes.com/2020/10/24/us/domestic-terrorist-groups.html', parent=None, text=None)
+Item(by='DanBC', descendants=4, kids=[24881736, 24881245, 24881197], score=11, time=1603565265, title='Far-Right Groups Are Behind Most U.S. Terrorist Attacks, Report Finds', item_type='story', url='https://www.nytimes.com/2020/10/24/us/domestic-terrorist-groups.html', parent=None, text=None)

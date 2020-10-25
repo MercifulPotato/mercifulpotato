@@ -1,0 +1,1 @@
+Item(by='helloSam43', descendants=None, kids=[24883452], score=None, time=1603591211, title=None, item_type='comment', url=None, parent=24879314, text='So, for those not in the know?  Ghidra is software&#x2F; software language for reverse-engineering?  So I feed it the .exe file and it will try to tell me the original C++ code?')

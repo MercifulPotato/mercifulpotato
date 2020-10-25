@@ -1,1 +1,1 @@
-Item(by='creolabs', descendants=1, kids=[24867153], score=1, time=1603440739, title='A small but complete JavaScript engine', item_type='story', url='https://bellard.org/quickjs/', parent=None, text=None)
+Item(by='creolabs', descendants=43, kids=[24882162, 24882637, 24882761, 24867153, 24883189, 24882593, 24882584, 24882018, 24882994, 24882391, 24883130, 24882743, 24883056, 24882484, 24882165], score=227, time=1603440739, title='A small but complete JavaScript engine', item_type='story', url='https://bellard.org/quickjs/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='bane', descendants=0, kids=None, score=2, time=1603565577, title='The Making of Monkey Island (30th Anniversary Documentary)', item_type='story', url='https://www.youtube.com/watch?v=xgqEneDNQto', parent=None, text=None)
+Item(by='bane', descendants=1, kids=[24882312], score=11, time=1603565577, title='The Making of Monkey Island (30th Anniversary Documentary)', item_type='story', url='https://www.youtube.com/watch?v=xgqEneDNQto', parent=None, text=None)

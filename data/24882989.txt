@@ -1,0 +1,1 @@
+Item(by='IceDane', descendants=None, kids=[24883047], score=None, time=1603586440, title=None, item_type='comment', url=None, parent=24882961, text='This has little do with pandoc and everything with how awfully Haskell packages are packaged for some distros. Imagine if installing a program that runs on node would pull in every single npm dependency as its own package.')
