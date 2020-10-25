@@ -1,1 +1,1 @@
-Item(by='akandiah', descendants=0, kids=None, score=3, time=1603587334, title="All of South Australia's power comes from solar panels", item_type='story', url='https://www.abc.net.au/news/2020-10-25/all-sa-power-from-solar-for-first-time/12810366', parent=None, text=None)
+Item(by='akandiah', descendants=4, kids=[24884377, 24883969, 24884047], score=18, time=1603587334, title="All of South Australia's power comes from solar panels", item_type='story', url='https://www.abc.net.au/news/2020-10-25/all-sa-power-from-solar-for-first-time/12810366', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='octoberfranklin', descendants=None, kids=None, score=None, time=1603584838, title=None, item_type='comment', url=None, parent=24882570, text='see toothpaste.c, line 2817')
+Item(by='octoberfranklin', descendants=None, kids=[24884019], score=None, time=1603584838, title=None, item_type='comment', url=None, parent=24882570, text='see toothpaste.c, line 2817')

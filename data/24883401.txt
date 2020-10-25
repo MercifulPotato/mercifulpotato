@@ -1,1 +1,1 @@
-Item(by='neonate', descendants=None, kids=None, score=None, time=1603592796, title=None, item_type='comment', url=None, parent=24883244, text='<a href="https:&#x2F;&#x2F;archive.is&#x2F;0bEcU" rel="nofollow">https:&#x2F;&#x2F;archive.is&#x2F;0bEcU</a>')
+Item(by='neonate', descendants=None, kids=[24883789], score=None, time=1603592796, title=None, item_type='comment', url=None, parent=24883244, text='<a href="https:&#x2F;&#x2F;archive.is&#x2F;0bEcU" rel="nofollow">https:&#x2F;&#x2F;archive.is&#x2F;0bEcU</a>')

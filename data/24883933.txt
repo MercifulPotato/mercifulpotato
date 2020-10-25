@@ -1,0 +1,1 @@
+Item(by='MrStonedOne', descendants=None, kids=[24884340], score=None, time=1603601845, title=None, item_type='comment', url=None, parent=24882923, text='if you have the dmca repo on your computer, you can checkout this PR via git fetch upstream pull&#x2F;8142&#x2F;head:pr-8142&amp;&amp;git checkout pr-8142<p>Should work even if they blackhole the pr.')

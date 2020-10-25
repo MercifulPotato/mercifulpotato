@@ -1,1 +1,1 @@
-Item(by='rantwasp', descendants=None, kids=None, score=None, time=1603593552, title=None, item_type='comment', url=None, parent=24883438, text='change it how? i think Carmack is a super smart guy that has made significant contributions when it comes to games, game engines and VR.')
+Item(by='rantwasp', descendants=None, kids=[24883996], score=None, time=1603593552, title=None, item_type='comment', url=None, parent=24883438, text='change it how? i think Carmack is a super smart guy that has made significant contributions when it comes to games, game engines and VR.')

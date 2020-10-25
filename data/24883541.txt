@@ -1,0 +1,1 @@
+Item(by='ratww', descendants=None, kids=None, score=None, time=1603594732, title=None, item_type='comment', url=None, parent=24883182, text='It will probably include module-mocking in it (aka jest.mock), since it happens during &quot;bundling&quot;&#x2F;compilation, but the assertion and function mocking can certainly be handled by a third-party library.')

@@ -1,1 +1,1 @@
-Item(by='jaclaz', descendants=None, kids=None, score=None, time=1603559673, title=None, item_type='comment', url=None, parent=24880465, text='&gt;Most A&#x2F;B testing is blindness dressed in nice clothes.<p>... and harassing you.<p>Excellent definition.')
+Item(by='jaclaz', descendants=None, kids=[24884568], score=None, time=1603559673, title=None, item_type='comment', url=None, parent=24880465, text='&gt;Most A&#x2F;B testing is blindness dressed in nice clothes.<p>... and harassing you.<p>Excellent definition.')

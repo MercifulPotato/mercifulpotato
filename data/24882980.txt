@@ -1,1 +1,1 @@
-Item(by='olah_1', descendants=None, kids=None, score=None, time=1603586316, title=None, item_type='comment', url=None, parent=24881639, text='Did you use a specific guide? I’d like to try again and follow the exact same steps as you.')
+Item(by='olah_1', descendants=None, kids=[24883484], score=None, time=1603586316, title=None, item_type='comment', url=None, parent=24881639, text='Did you use a specific guide? I’d like to try again and follow the exact same steps as you.')

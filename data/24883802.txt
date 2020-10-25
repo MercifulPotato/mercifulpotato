@@ -1,0 +1,1 @@
+Item(by='svnpenn', descendants=None, kids=[24883896], score=None, time=1603599564, title=None, item_type='comment', url=None, parent=24867610, text='This site has something weird going on.<p>If you try to select text, you can only select it in reverse. If you try to select forward, it just selects the entire page.<p>Why do people do stuff like this?')

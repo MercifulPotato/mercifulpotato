@@ -1,0 +1,1 @@
+Item(by='orlandohill', descendants=None, kids=None, score=None, time=1603611836, title=None, item_type='comment', url=None, parent=24881817, text='Yes, grammars can be used for both string matching and string generation. You could generate strings from an <i>ungrammar</i>, but you would need a way to generate valid tokens too.')

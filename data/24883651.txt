@@ -1,0 +1,1 @@
+Item(by='strogonoff', descendants=None, kids=None, score=None, time=1603596871, title=None, item_type='comment', url=None, parent=24881537, text='Git ships with a server daemon so no third-party hosting is strictly required. In addition, Git has tools for creating and incorporating patches that can be sent by plain email. I believe that’s how Linux development works.')

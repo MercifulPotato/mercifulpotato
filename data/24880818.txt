@@ -1,1 +1,1 @@
-Item(by='xwdv', descendants=None, kids=None, score=None, time=1603562431, title=None, item_type='comment', url=None, parent=24880218, text='At times I have been a WOLF and a ZEBRA. I would probably consider myself a fairly dangerous but effective developer.')
+Item(by='xwdv', descendants=None, kids=[24884539], score=None, time=1603562431, title=None, item_type='comment', url=None, parent=24880218, text='At times I have been a WOLF and a ZEBRA. I would probably consider myself a fairly dangerous but effective developer.')

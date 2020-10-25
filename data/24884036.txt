@@ -1,0 +1,1 @@
+Item(by='_Gyan_', descendants=None, kids=None, score=None, time=1603603024, title=None, item_type='comment', url=None, parent=24883633, text='The FFmpeg project has 8 libraries. libavcodec only deals with decoding&#x2F;encoding and bitstream parsing &amp; filtering. Demuxing&#x2F;muxing, frame filtering, scaling.. are all handled by other separate libraries.')

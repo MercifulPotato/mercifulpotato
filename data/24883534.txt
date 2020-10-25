@@ -1,1 +1,1 @@
-Item(by='Pfhreak', descendants=None, kids=None, score=None, time=1603594665, title=None, item_type='comment', url=None, parent=24883527, text='The Valve Index appears to be a very good piece of hardware, from everything I&#x27;ve read.')
+Item(by='Pfhreak', descendants=None, kids=[24883584], score=None, time=1603594665, title=None, item_type='comment', url=None, parent=24883527, text='The Valve Index appears to be a very good piece of hardware, from everything I&#x27;ve read.')

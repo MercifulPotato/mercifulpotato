@@ -1,1 +1,1 @@
-Item(by='parisianka', descendants=0, kids=None, score=4, time=1603586875, title='Origami Simulator', item_type='story', url='https://origamisimulator.org/', parent=None, text=None)
+Item(by='parisianka', descendants=10, kids=[24884272, 24884456, 24884444, 24884137, 24883752, 24884045, 24884027, 24883939], score=115, time=1603586875, title='Origami Simulator', item_type='story', url='https://origamisimulator.org/', parent=None, text=None)

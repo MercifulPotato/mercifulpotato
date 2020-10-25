@@ -1,1 +1,1 @@
-Item(by='vmception', descendants=None, kids=None, score=None, time=1603593332, title=None, item_type='comment', url=None, parent=24882812, text='Ok Sony, this is your chance to save us')
+Item(by='vmception', descendants=None, kids=[24883551, 24883707], score=None, time=1603593332, title=None, item_type='comment', url=None, parent=24882812, text='Ok Sony, this is your chance to save us')

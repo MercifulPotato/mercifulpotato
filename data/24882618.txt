@@ -1,1 +1,1 @@
-Item(by='EvgeniyZh', descendants=0, kids=None, score=2, time=1603580907, title="Don't ever break a URL if you can help it's Blog", item_type='story', url='https://www.hanselman.com/blog/dont-ever-break-a-url-if-you-can-help-it', parent=None, text=None)
+Item(by='EvgeniyZh', descendants=1, kids=[24884318], score=3, time=1603580907, title="Don't ever break a URL if you can help it's Blog", item_type='story', url='https://www.hanselman.com/blog/dont-ever-break-a-url-if-you-can-help-it', parent=None, text=None)

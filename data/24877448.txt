@@ -1,1 +1,1 @@
-Item(by='sfifs', descendants=None, kids=None, score=None, time=1603522201, title=None, item_type='comment', url=None, parent=24876720, text='Isn&#x27;t colab going away and being replaced by AI Notebooks? At least that&#x27;s what a GCP partner trainer was telling me...')
+Item(by='sfifs', descendants=None, kids=[24883614], score=None, time=1603522201, title=None, item_type='comment', url=None, parent=24876720, text='Isn&#x27;t colab going away and being replaced by AI Notebooks? At least that&#x27;s what a GCP partner trainer was telling me...')

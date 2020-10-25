@@ -1,1 +1,1 @@
-Item(by='person_of_color', descendants=None, kids=None, score=None, time=1603590049, title=None, item_type='comment', url=None, parent=24860557, text='Arent laser cutters like 5k? Have you recouped that?<p>Also, did you create the designs')
+Item(by='person_of_color', descendants=None, kids=[24883800], score=None, time=1603590049, title=None, item_type='comment', url=None, parent=24860557, text='Arent laser cutters like 5k? Have you recouped that?<p>Also, did you create the designs')

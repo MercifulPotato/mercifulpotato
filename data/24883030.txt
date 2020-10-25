@@ -1,1 +1,1 @@
-Item(by='tambourine_man', descendants=0, kids=None, score=2, time=1603586981, title='Lossless-cut: The swiss army knife of lossless video/audio editing', item_type='story', url='https://github.com/mifi/lossless-cut', parent=None, text=None)
+Item(by='tambourine_man', descendants=3, kids=[24884193, 24884138], score=10, time=1603586981, title='Lossless-cut: The swiss army knife of lossless video/audio editing', item_type='story', url='https://github.com/mifi/lossless-cut', parent=None, text=None)

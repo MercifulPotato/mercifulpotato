@@ -1,1 +1,1 @@
-Item(by='scsilver', descendants=None, kids=None, score=None, time=1603577075, title=None, item_type='comment', url=None, parent=24880775, text='You need a computer and the right cords to program a controller, the pi is that computer as well as the controller.')
+Item(by='scsilver', descendants=None, kids=[24883528], score=None, time=1603577075, title=None, item_type='comment', url=None, parent=24880775, text='You need a computer and the right cords to program a controller, the pi is that computer as well as the controller.')
