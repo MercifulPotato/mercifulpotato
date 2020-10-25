@@ -1,1 +1,1 @@
-Item(by='Aeolun', descendants=None, kids=None, score=None, time=1603597605, title=None, item_type='comment', url=None, parent=24882524, text='Half a FAANG salary to write open source sounds pretty good.')
+Item(by='Aeolun', descendants=None, kids=[24884910], score=None, time=1603597605, title=None, item_type='comment', url=None, parent=24882524, text='Half a FAANG salary to write open source sounds pretty good.')

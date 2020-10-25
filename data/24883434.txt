@@ -1,1 +1,1 @@
-Item(by='razodactyl', descendants=1, kids=[24883443], score=3, time=1603593230, title='PSA: You can control Docker containers through Minecraft', item_type='story', url='https://github.com/docker/dockercraft', parent=None, text=None)
+Item(by='razodactyl', descendants=1, kids=[24883443], score=4, time=1603593230, title='PSA: You can control Docker containers through Minecraft', item_type='story', url='https://github.com/docker/dockercraft', parent=None, text=None)

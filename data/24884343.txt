@@ -1,1 +1,1 @@
-Item(by='hkon', descendants=None, kids=None, score=None, time=1603609033, title=None, item_type='comment', url=None, parent=24883572, text='Why would you build something similar to RabbitMQ ontop of ZeroMQ instead of just using Rabbit?')
+Item(by='hkon', descendants=None, kids=[24885296], score=None, time=1603609033, title=None, item_type='comment', url=None, parent=24883572, text='Why would you build something similar to RabbitMQ ontop of ZeroMQ instead of just using Rabbit?')

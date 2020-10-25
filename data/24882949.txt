@@ -1,1 +1,1 @@
-Item(by='hcurtiss', descendants=None, kids=None, score=None, time=1603585831, title=None, item_type='comment', url=None, parent=24882471, text='Just as soon as China does.')
+Item(by='hcurtiss', descendants=None, kids=[24885971], score=None, time=1603585831, title=None, item_type='comment', url=None, parent=24882471, text='Just as soon as China does.')

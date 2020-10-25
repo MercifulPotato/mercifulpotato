@@ -1,0 +1,1 @@
+Item(by='vetinari', descendants=None, kids=None, score=None, time=1603629376, title=None, item_type='comment', url=None, parent=24885615, text='It is blurry only if you have fractional scaling enabled (enabled is enough, even if you use integer scale). With fractional scaling disabled, even xwayland apps are sharp.')

@@ -1,1 +1,1 @@
-Item(by='sabalaba', descendants=0, kids=None, score=2, time=1603609123, title='Structured Procrastination', item_type='story', url='http://www.structuredprocrastination.com/', parent=None, text=None)
+Item(by='sabalaba', descendants=4, kids=[24886105, 24886051, 24885378], score=17, time=1603609123, title='Structured Procrastination', item_type='story', url='http://www.structuredprocrastination.com/', parent=None, text=None)

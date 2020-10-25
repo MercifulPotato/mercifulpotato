@@ -1,1 +1,1 @@
-Item(by='manjana', descendants=0, kids=None, score=1, time=1603607551, title='SQLAlchemy Basics Tutorial', item_type='story', url='https://leportella.com/sqlalchemy-tutorial/', parent=None, text=None)
+Item(by='manjana', descendants=0, kids=None, score=2, time=1603607551, title='SQLAlchemy Basics Tutorial', item_type='story', url='https://leportella.com/sqlalchemy-tutorial/', parent=None, text=None)

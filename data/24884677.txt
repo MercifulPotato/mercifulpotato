@@ -1,0 +1,1 @@
+Item(by='d0mine', descendants=None, kids=None, score=None, time=1603613845, title=None, item_type='comment', url=None, parent=24884295, text='`git fetch origin` failed for me<p><pre><code>  fatal: Couldn&#x27;t find remote ref 416da574ec\n</code></pre>\n`git fetch origin pull&#x2F;8142&#x2F;head` worked (the ref became available).')

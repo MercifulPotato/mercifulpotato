@@ -1,1 +1,1 @@
-Item(by='zzleeper', descendants=None, kids=None, score=None, time=1603599861, title=None, item_type='comment', url=None, parent=24883379, text='I&#x27;m the author of panflute, and--in fact--wrote my PhD thesis in pandoc+panflute!')
+Item(by='zzleeper', descendants=None, kids=[24884930], score=None, time=1603599861, title=None, item_type='comment', url=None, parent=24883379, text='I&#x27;m the author of panflute, and--in fact--wrote my PhD thesis in pandoc+panflute!')

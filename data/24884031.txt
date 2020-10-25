@@ -1,1 +1,1 @@
-Item(by='chrischen', descendants=None, kids=None, score=None, time=1603602973, title=None, item_type='comment', url=None, parent=24883553, text='Yes, HTC makes them.')
+Item(by='chrischen', descendants=None, kids=[24885273], score=None, time=1603602973, title=None, item_type='comment', url=None, parent=24883553, text='Yes, HTC makes them.')

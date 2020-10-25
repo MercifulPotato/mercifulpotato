@@ -1,0 +1,1 @@
+Item(by='davedx', descendants=None, kids=None, score=None, time=1603623107, title=None, item_type='comment', url=None, parent=24884561, text='Python. Many perf bottlenecks go away if you use the right libraries that vectorize your operations (eg pandas dataframes, or tensorflow for more involved crunching).')

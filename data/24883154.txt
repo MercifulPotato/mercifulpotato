@@ -1,1 +1,1 @@
-Item(by='adamsea', descendants=0, kids=None, score=3, time=1603588888, title='New England Journal of Medicine: Dying in a Leadership Vacuum', item_type='story', url='https://www.nejm.org/doi/full/10.1056/NEJMe2029812', parent=None, text=None)
+Item(by='adamsea', descendants=1, kids=[24884617], score=3, time=1603588888, title='New England Journal of Medicine: Dying in a Leadership Vacuum', item_type='story', url='https://www.nejm.org/doi/full/10.1056/NEJMe2029812', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='kwanbix', descendants=None, kids=None, score=None, time=1603546175, title=None, item_type='comment', url=None, parent=24866347, text='The problem is, how do you make sure it has no virus?')
+Item(by='kwanbix', descendants=None, kids=[24884543], score=None, time=1603546175, title=None, item_type='comment', url=None, parent=24866347, text='The problem is, how do you make sure it has no virus?')

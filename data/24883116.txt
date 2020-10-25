@@ -1,1 +1,1 @@
-Item(by='mandragon', descendants=None, kids=None, score=None, time=1603588334, title=None, item_type='comment', url=None, parent=24882438, text='PSA: The site redirects me to a malware advertisement for a sketchy VPN app.')
+Item(by='mandragon', descendants=None, kids=[24884678], score=None, time=1603588334, title=None, item_type='comment', url=None, parent=24882438, text='PSA: The site redirects me to a malware advertisement for a sketchy VPN app.')

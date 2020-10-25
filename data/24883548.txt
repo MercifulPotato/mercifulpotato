@@ -1,1 +1,1 @@
-Item(by='hashtagmarkup', descendants=None, kids=None, score=None, time=1603594880, title=None, item_type='comment', url=None, parent=24883376, text='Facebook patent lawyers will make sure it never reaches market.')
+Item(by='hashtagmarkup', descendants=None, kids=[24885174, 24885031], score=None, time=1603594880, title=None, item_type='comment', url=None, parent=24883376, text='Facebook patent lawyers will make sure it never reaches market.')

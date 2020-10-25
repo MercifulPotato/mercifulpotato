@@ -1,0 +1,1 @@
+Item(by='usr1106', descendants=None, kids=None, score=None, time=1603632410, title=None, item_type='comment', url=None, parent=24885246, text='And even the Linux kernel does not use a centralized 3rd party service. They use only email.<p>Of course the server hosting LKML or in the end Linus&#x27; mailbox are single points of failures.')

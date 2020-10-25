@@ -1,0 +1,1 @@
+Item(by='bjarnek', descendants=None, kids=[24885701], score=None, time=1603627696, title=None, item_type='comment', url=None, parent=24885643, text='systemd is hanging in 90% of all shutdowns on my machine.\nThis never happened with sysvinit scripts.')

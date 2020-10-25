@@ -1,0 +1,1 @@
+Item(by='mrob', descendants=None, kids=[24885797], score=None, time=1603628708, title=None, item_type='comment', url=None, parent=24885675, text='I&#x27;m against Wayland because it forces compositing on all windowed applications. I&#x27;ll stay on Xorg as long as possible because I&#x27;m not willing to sacrifice latency for no tearing.')

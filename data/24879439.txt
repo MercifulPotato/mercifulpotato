@@ -1,1 +1,1 @@
-Item(by='Koshkin', descendants=None, kids=None, score=None, time=1603550201, title=None, item_type='comment', url=None, parent=24879292, text='Don&#x27;t forget about anti-quarks. Oh, and the colors...')
+Item(by='Koshkin', descendants=None, kids=[24884921], score=None, time=1603550201, title=None, item_type='comment', url=None, parent=24879292, text='Don&#x27;t forget about anti-quarks. Oh, and the colors...')

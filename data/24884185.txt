@@ -1,1 +1,1 @@
-Item(by='catears', descendants=None, kids=None, score=None, time=1603606386, title=None, item_type='comment', url=None, parent=24884162, text='It&#x27;s true. Unfortunately whichever road a project takes it will eventually lead to Rome.')
+Item(by='catears', descendants=None, kids=[24885347], score=None, time=1603606386, title=None, item_type='comment', url=None, parent=24884162, text='It&#x27;s true. Unfortunately whichever road a project takes it will eventually lead to Rome.')

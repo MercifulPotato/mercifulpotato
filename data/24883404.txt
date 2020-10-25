@@ -1,1 +1,1 @@
-Item(by='unixhero', descendants=None, kids=None, score=None, time=1603592851, title=None, item_type='comment', url=None, parent=24882411, text='Steam will run it on Linux using Proton. Just enable it in settings.')
+Item(by='unixhero', descendants=None, kids=[24885536], score=None, time=1603592851, title=None, item_type='comment', url=None, parent=24882411, text='Steam will run it on Linux using Proton. Just enable it in settings.')

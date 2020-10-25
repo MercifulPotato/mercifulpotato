@@ -1,0 +1,1 @@
+Item(by='TruffleMuffin', descendants=1, kids=[24885311], score=2, time=1603619102, title='AWS Cloudwatch Metrics Global Outage?', item_type='story', url=None, parent=None, text='Currently receiving no cloudwatch metrics since ~9:30 UTC. eu-west-1, eu-west-2, us-east-1.<p>Anyone else having issues?')

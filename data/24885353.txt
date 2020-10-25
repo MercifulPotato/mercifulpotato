@@ -1,0 +1,1 @@
+Item(by='unrealhoang', descendants=None, kids=[24885884], score=None, time=1603623532, title=None, item_type='comment', url=None, parent=24885286, text='You can create and use Option without problem, your Option will be crate::Option, whereas Rust Option will be std::option::Option. \nstd::option::Option&lt;Option&gt; works, yay.')

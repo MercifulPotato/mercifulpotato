@@ -1,0 +1,1 @@
+Item(by='akvadrako', descendants=None, kids=[24885845, 24885850], score=None, time=1603627954, title=None, item_type='comment', url=None, parent=24885672, text='There is a one-line fix for that. Change this line in <i>&#x2F;etc&#x2F;systemd&#x2F;system.conf</i>:<p><pre><code>  DefaultTimeoutStopSec=2s</code></pre>')

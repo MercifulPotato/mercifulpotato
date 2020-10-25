@@ -1,1 +1,1 @@
-Item(by='may4m', descendants=None, kids=[24882238, 24881591], score=None, time=1603567394, title=None, item_type='comment', url=None, parent=24881310, text='nice, we&#x27;re also using it for rpc calls using protobuffs.')
+Item(by='may4m', descendants=None, kids=[24881591, 24882238], score=None, time=1603567394, title=None, item_type='comment', url=None, parent=24881310, text='nice, we&#x27;re also using it for rpc calls using protobuffs.')

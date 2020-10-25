@@ -1,1 +1,1 @@
-Item(by='lharries', descendants=0, kids=None, score=2, time=1603563871, title='How Git rebase conflicts work', item_type='story', url='http://h2.jaguarpaw.co.uk/posts/git-rebase-conflicts/', parent=None, text=None)
+Item(by='lharries', descendants=0, kids=None, score=3, time=1603563871, title='How Git rebase conflicts work', item_type='story', url='http://h2.jaguarpaw.co.uk/posts/git-rebase-conflicts/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1603603423, title=None, item_type='comment', url=None, parent=24884030, text='The problem is that there is no penalty for fraudulently issuing claims.')
+Item(by='saagarjha', descendants=None, kids=[24885784], score=None, time=1603603423, title=None, item_type='comment', url=None, parent=24884030, text='The problem is that there is no penalty for fraudulently issuing claims.')

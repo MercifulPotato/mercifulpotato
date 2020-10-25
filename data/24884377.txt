@@ -1,1 +1,1 @@
-Item(by='lenkite', descendants=None, kids=None, score=None, time=1603609632, title=None, item_type='comment', url=None, parent=24883045, text='I wish we had data for how many square kilometre of land do all these solar farms take.')
+Item(by='lenkite', descendants=None, kids=[24885710], score=None, time=1603609632, title=None, item_type='comment', url=None, parent=24883045, text='I wish we had data for how many square kilometre of land do all these solar farms take.')

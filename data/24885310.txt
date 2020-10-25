@@ -1,0 +1,1 @@
+Item(by='jojo14', descendants=None, kids=[24886054], score=None, time=1603622906, title=None, item_type='comment', url=None, parent=24884340, text='Isn&#x27;t it more like the following?:<p><pre><code>  git clone https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;dmca.git\n  git fetch origin pull&#x2F;8142&#x2F;head\n  git checkout FETCH_HEAD</code></pre>')
