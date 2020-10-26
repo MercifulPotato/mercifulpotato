@@ -1,1 +1,1 @@
-Item(by='pureliquidhw', descendants=None, kids=None, score=None, time=1603650255, title=None, item_type='comment', url=None, parent=24888486, text='I don&#x27;t think this is true anymore. DDG results have declined significantly as they have become more mainstream.')
+Item(by='pureliquidhw', descendants=None, kids=[24889614, 24889648], score=None, time=1603650255, title=None, item_type='comment', url=None, parent=24888486, text='I don&#x27;t think this is true anymore. DDG results have declined significantly as they have become more mainstream.')

@@ -1,0 +1,1 @@
+Item(by='dijit', descendants=None, kids=[24891906], score=None, time=1603666446, title=None, item_type='comment', url=None, parent=24887763, text='It would only affect you if your doing direct DNS requests to route53- which is almost never the case for clients.')

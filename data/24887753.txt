@@ -1,1 +1,1 @@
-Item(by='anarazel', descendants=0, kids=None, score=3, time=1603645212, title='Improving Postgres Connection Scalability: Snapshots', item_type='story', url='https://www.citusdata.com/blog/2020/10/25/improving-postgres-connection-scalability-snapshots/', parent=None, text=None)
+Item(by='anarazel', descendants=0, kids=None, score=4, time=1603645212, title='Improving Postgres Connection Scalability: Snapshots', item_type='story', url='https://www.citusdata.com/blog/2020/10/25/improving-postgres-connection-scalability-snapshots/', parent=None, text=None)

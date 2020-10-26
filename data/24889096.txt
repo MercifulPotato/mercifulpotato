@@ -1,1 +1,1 @@
-Item(by='alphite', descendants=None, kids=None, score=None, time=1603653692, title=None, item_type='comment', url=None, parent=24879870, text='More ycombinator suppression dropping this off the main page. Great job big tech.')
+Item(by='alphite', descendants=None, kids=[24890858], score=None, time=1603653692, title=None, item_type='comment', url=None, parent=24879870, text='More ycombinator suppression dropping this off the main page. Great job big tech.')

@@ -1,0 +1,1 @@
+Item(by='dsr_', descendants=None, kids=None, score=None, time=1603678086, title=None, item_type='comment', url=None, parent=24888635, text='Which is why my nameservers answer NXDOMAIN to use-application-dns.net, which DoH-using applications are supposed to honor.<p>And I supply DNS-over-TLS and DNS-over-HTTPS locally. It&#x27;s really not too difficult.')

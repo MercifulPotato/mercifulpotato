@@ -1,0 +1,1 @@
+Item(by='easton', descendants=None, kids=None, score=None, time=1603672994, title=None, item_type='comment', url=None, parent=24890313, text='It makes sure that someone didn’t boot into another OS on my laptop and try to decrypt BitLocker, since BitLocker will hard lock if the secure boot keystore is fiddled with or if a USB drive is booted from.')

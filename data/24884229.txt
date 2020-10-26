@@ -1,1 +1,1 @@
-Item(by='m00x', descendants=None, kids=None, score=None, time=1603607204, title=None, item_type='comment', url=None, parent=24883607, text='That&#x27;s gotta be the dumbest comment I&#x27;ve ever read.<p>You gonna plan your child&#x27;s life around your company&#x27;s projects?')
+Item(by='m00x', descendants=None, kids=[24891973], score=None, time=1603607204, title=None, item_type='comment', url=None, parent=24883607, text='That&#x27;s gotta be the dumbest comment I&#x27;ve ever read.<p>You gonna plan your child&#x27;s life around your company&#x27;s projects?')

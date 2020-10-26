@@ -1,0 +1,1 @@
+Item(by='TylerE', descendants=None, kids=[24892049, 24892083], score=None, time=1603676806, title=None, item_type='comment', url=None, parent=24892031, text='FTA: &quot;This simple one line change reduced our clone times by 99% and significantly reduced our build times as a result&quot;<p>Unless their build is 100% git pull time, this did not reduce build time by 99%.')

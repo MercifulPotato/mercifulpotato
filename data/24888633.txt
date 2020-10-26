@@ -1,1 +1,1 @@
-Item(by='peter_d_sherman', descendants=0, kids=None, score=1, time=1603650608, title='Sixteen-Segment Display', item_type='story', url='https://en.wikipedia.org/wiki/Sixteen-segment_display', parent=None, text=None)
+Item(by='peter_d_sherman', descendants=1, kids=[24889739], score=2, time=1603650608, title='Sixteen-Segment Display', item_type='story', url='https://en.wikipedia.org/wiki/Sixteen-segment_display', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='imglorp', descendants=None, kids=None, score=None, time=1603650613, title=None, item_type='comment', url=None, parent=24888213, text='Except for certain applications that want to do their own DNS, eg DOH...')
+Item(by='imglorp', descendants=None, kids=[24892179, 24890212], score=None, time=1603650613, title=None, item_type='comment', url=None, parent=24888213, text='Except for certain applications that want to do their own DNS, eg DOH...')

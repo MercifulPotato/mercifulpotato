@@ -1,1 +1,1 @@
-Item(by='hh3k0', descendants=None, kids=None, score=None, time=1603655226, title=None, item_type='comment', url=None, parent=24887231, text='And 42.7% of all statistics are made up on the spot.')
+Item(by='hh3k0', descendants=None, kids=[24890168], score=None, time=1603655226, title=None, item_type='comment', url=None, parent=24887231, text='And 42.7% of all statistics are made up on the spot.')

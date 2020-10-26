@@ -1,1 +1,1 @@
-Item(by='Andys', descendants=None, kids=None, score=None, time=1603604045, title=None, item_type='comment', url=None, parent=24883969, text='We are heading to a point soon in Australia where 90+% of the cost of household power will be for the grid infrastructure')
+Item(by='Andys', descendants=None, kids=[24890397], score=None, time=1603604045, title=None, item_type='comment', url=None, parent=24883969, text='We are heading to a point soon in Australia where 90+% of the cost of household power will be for the grid infrastructure')

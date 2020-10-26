@@ -1,1 +1,1 @@
-Item(by='fnbr', descendants=None, kids=None, score=None, time=1603653864, title=None, item_type='comment', url=None, parent=24887967, text='Possibly a dumb question, but how do I get that link from the Pinterest one?')
+Item(by='fnbr', descendants=None, kids=[24889875], score=None, time=1603653864, title=None, item_type='comment', url=None, parent=24887967, text='Possibly a dumb question, but how do I get that link from the Pinterest one?')

@@ -1,0 +1,1 @@
+Item(by='ComputerGuru', descendants=None, kids=None, score=None, time=1603669267, title=None, item_type='comment', url=None, parent=24885296, text='More to the point, while you could build a theoretical HareMQ atop of ZMQ, you can also build a hundred different products&#x2F;services that aren’t a RabbitMQ alternative out of it, too. Apples and oranges.')

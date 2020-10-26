@@ -1,1 +1,1 @@
-Item(by='mentalpiracy', descendants=None, kids=None, score=None, time=1603645751, title=None, item_type='comment', url=None, parent=24887735, text='Do you believe that humanity can only allocate resources to one problem at a time?')
+Item(by='mentalpiracy', descendants=None, kids=[24889709], score=None, time=1603645751, title=None, item_type='comment', url=None, parent=24887735, text='Do you believe that humanity can only allocate resources to one problem at a time?')

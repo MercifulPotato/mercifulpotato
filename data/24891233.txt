@@ -1,0 +1,1 @@
+Item(by='spicyramen', descendants=None, kids=None, score=None, time=1603669386, title=None, item_type='comment', url=None, parent=24886962, text='Google Cloud supports UEFI via secure boot, unfortunately you need to reinstall your VM from scratch to enable it if VM was not created with an OS image which didn&#x27;t support this feature.')

@@ -1,1 +1,1 @@
-Item(by='s3graham', descendants=None, kids=None, score=None, time=1603654564, title=None, item_type='comment', url=None, parent=24889115, text='I feel like it&#x27;s indeed very fault tolerant, but we&#x27;re smashing nodes pretty quickly and all over the place.')
+Item(by='s3graham', descendants=None, kids=[24889526, 24889502], score=None, time=1603654564, title=None, item_type='comment', url=None, parent=24889115, text='I feel like it&#x27;s indeed very fault tolerant, but we&#x27;re smashing nodes pretty quickly and all over the place.')

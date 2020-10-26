@@ -1,1 +1,1 @@
-Item(by='BrendanEich', descendants=None, kids=None, score=None, time=1603604267, title=None, item_type='comment', url=None, parent=24865543, text='Prop 8 passed.<p>Obama had the same position I did in 2008.<p>What&#x27;s with the ignorance or (I hope not) revisionist history?')
+Item(by='BrendanEich', descendants=None, kids=[24890830], score=None, time=1603604267, title=None, item_type='comment', url=None, parent=24865543, text='Prop 8 passed.<p>Obama had the same position I did in 2008.<p>What&#x27;s with the ignorance or (I hope not) revisionist history?')

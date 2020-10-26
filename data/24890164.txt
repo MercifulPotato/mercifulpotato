@@ -1,0 +1,1 @@
+Item(by='aksss', descendants=None, kids=[24890313], score=None, time=1603662246, title=None, item_type='comment', url=None, parent=24889995, text='You can of course leave secure boot disabled in UEFI, but you can’t run secure boot with BIO, to my knowledge. That’s why the association - if you want SB, use UEFI.')

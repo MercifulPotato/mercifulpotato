@@ -1,0 +1,1 @@
+Item(by='Arnavion', descendants=None, kids=None, score=None, time=1603662804, title=None, item_type='comment', url=None, parent=24888989, text='You are correct that if you run your own resolver, then all the DNS traffic from your resolver to other nameservers is in cleartext. DoH and DoT only get used by forwarders.')
