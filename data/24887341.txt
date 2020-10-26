@@ -1,1 +1,1 @@
-Item(by='eru', descendants=None, kids=None, score=None, time=1603642473, title=None, item_type='comment', url=None, parent=24886985, text='You make an interesting point that with enough bad regulation, you can destroy any good and sensible idea.')
+Item(by='eru', descendants=None, kids=[24894174], score=None, time=1603642473, title=None, item_type='comment', url=None, parent=24886985, text='You make an interesting point that with enough bad regulation, you can destroy any good and sensible idea.')

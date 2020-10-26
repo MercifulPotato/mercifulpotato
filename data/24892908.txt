@@ -1,1 +1,1 @@
-Item(by='Thorrez', descendants=None, kids=None, score=None, time=1603687624, title=None, item_type='comment', url=None, parent=24892218, text='Where does the article say &quot;99% of the entire build was spent downloading code&quot;?')
+Item(by='Thorrez', descendants=None, kids=[24894438, 24893863], score=None, time=1603687624, title=None, item_type='comment', url=None, parent=24892218, text='Where does the article say &quot;99% of the entire build was spent downloading code&quot;?')

@@ -1,1 +1,1 @@
-Item(by='drunner', descendants=None, kids=None, score=None, time=1603677279, title=None, item_type='comment', url=None, parent=24892028, text='Doesn&#x27;t rdp feel super laggy&#x2F;artifacty?<p>Or are you just doing ssh work?')
+Item(by='drunner', descendants=None, kids=[24894183, 24893985], score=None, time=1603677279, title=None, item_type='comment', url=None, parent=24892028, text='Doesn&#x27;t rdp feel super laggy&#x2F;artifacty?<p>Or are you just doing ssh work?')

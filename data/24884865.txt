@@ -1,1 +1,1 @@
-Item(by='jobigoud', descendants=None, kids=None, score=None, time=1603616651, title=None, item_type='comment', url=None, parent=24884669, text='If you create a new account and don&#x27;t use it it&#x27;s flagged as spambot.')
+Item(by='jobigoud', descendants=None, kids=[24895373], score=None, time=1603616651, title=None, item_type='comment', url=None, parent=24884669, text='If you create a new account and don&#x27;t use it it&#x27;s flagged as spambot.')

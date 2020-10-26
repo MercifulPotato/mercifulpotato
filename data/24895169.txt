@@ -1,0 +1,1 @@
+Item(by='jhasse', descendants=None, kids=None, score=None, time=1603713703, title=None, item_type='comment', url=None, parent=24886271, text='btw: Fedora automatically disables Wayland on Nvidia hardware (because Xwayland applications can&#x27;t be accelerated IIRC).')

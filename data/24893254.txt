@@ -1,1 +1,1 @@
-Item(by='ReptileMan', descendants=None, kids=None, score=None, time=1603692905, title=None, item_type='comment', url=None, parent=24893148, text='Can you keep them in prime 95?')
+Item(by='ReptileMan', descendants=None, kids=[24894363], score=None, time=1603692905, title=None, item_type='comment', url=None, parent=24893148, text='Can you keep them in prime 95?')

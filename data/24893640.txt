@@ -1,1 +1,1 @@
-Item(by='timzaman', descendants=None, kids=None, score=None, time=1603697550, title=None, item_type='comment', url=None, parent=24877034, text='Misleading title. They reduced their clone time by 99%. Not their build time.')
+Item(by='timzaman', descendants=None, kids=[24894005], score=None, time=1603697550, title=None, item_type='comment', url=None, parent=24877034, text='Misleading title. They reduced their clone time by 99%. Not their build time.')

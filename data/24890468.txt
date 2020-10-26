@@ -1,1 +1,1 @@
-Item(by='gsa', descendants=0, kids=None, score=2, time=1603664050, title='The story of udemy-dl', item_type='story', url='https://gaganpreet.in/blog/2020/10/25/udemy-dl-story/', parent=None, text=None)
+Item(by='gsa', descendants=1, kids=[24893859], score=2, time=1603664050, title='The story of udemy-dl', item_type='story', url='https://gaganpreet.in/blog/2020/10/25/udemy-dl-story/', parent=None, text=None)

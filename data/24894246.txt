@@ -1,0 +1,1 @@
+Item(by='nurettin', descendants=None, kids=None, score=None, time=1603704175, title=None, item_type='comment', url=None, parent=24894110, text='This was harder to say back in 2003, but these days a lot of boost is already integrated into standard c++ anyway. We already have refcounting smart pointers, a unified threading model, ways of handling datetime, etc.')

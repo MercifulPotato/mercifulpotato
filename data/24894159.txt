@@ -1,0 +1,1 @@
+Item(by='ATsch', descendants=None, kids=[24894546], score=None, time=1603703430, title=None, item_type='comment', url=None, parent=24894017, text='I remember fuzzing stb_truetype and it finding hundreds of trivial segfaults instantly. Perhaps they fixed some but I can&#x27;t advise using these with any untrusted data, it&#x27;s obvious security is usually not a priority.')

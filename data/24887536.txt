@@ -1,1 +1,1 @@
-Item(by='mrob', descendants=None, kids=None, score=None, time=1603643786, title=None, item_type='comment', url=None, parent=24887251, text='That&#x27;s no reason to add another layer of avoidable compositing.')
+Item(by='mrob', descendants=None, kids=[24895110], score=None, time=1603643786, title=None, item_type='comment', url=None, parent=24887251, text='That&#x27;s no reason to add another layer of avoidable compositing.')

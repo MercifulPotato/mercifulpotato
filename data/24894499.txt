@@ -1,0 +1,1 @@
+Item(by='robjan', descendants=None, kids=None, score=None, time=1603707248, title=None, item_type='comment', url=None, parent=24893075, text='In many cases the build agent is a stateless container which is destroyed as soon as the build is finished. In cases like this the repo needs to be (shallow) cloned each time.')

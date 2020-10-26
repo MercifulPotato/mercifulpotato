@@ -1,1 +1,1 @@
-Item(by='ystad', descendants=None, kids=None, score=None, time=1603659509, title=None, item_type='comment', url=None, parent=24886075, text='Just Curious: How has your experience with Toptal or Facet been, and how long have you been doing this (since the Pandemic)?')
+Item(by='ystad', descendants=None, kids=[24895870], score=None, time=1603659509, title=None, item_type='comment', url=None, parent=24886075, text='Just Curious: How has your experience with Toptal or Facet been, and how long have you been doing this (since the Pandemic)?')

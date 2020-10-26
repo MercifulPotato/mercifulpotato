@@ -1,0 +1,1 @@
+Item(by='rightbyte', descendants=None, kids=None, score=None, time=1603716764, title=None, item_type='comment', url=None, parent=24895394, text='That is really neat. Never thought of just including the c-files in a c-file.<p>There is a breakpoint between invoking gcc manually and having a build system like make or cmake that is quite annoying and this would be a nice bridge.')

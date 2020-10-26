@@ -1,1 +1,1 @@
-Item(by='vbezhenar', descendants=None, kids=None, score=None, time=1603692653, title=None, item_type='comment', url=None, parent=24893046, text='Is there any phone with full open source support? So you can compile Android and run it without any proprietary driver blobs.')
+Item(by='vbezhenar', descendants=None, kids=[24894718], score=None, time=1603692653, title=None, item_type='comment', url=None, parent=24893046, text='Is there any phone with full open source support? So you can compile Android and run it without any proprietary driver blobs.')

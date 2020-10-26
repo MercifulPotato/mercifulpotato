@@ -1,0 +1,1 @@
+Item(by='easton', descendants=None, kids=None, score=None, time=1603716863, title=None, item_type='comment', url=None, parent=24895381, text='Why not? Maybe not for a client, but for a blog or static site it takes just about no compute to host that, especially if it&#x27;s behind Cloudflare or something.')

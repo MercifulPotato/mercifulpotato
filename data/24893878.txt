@@ -1,0 +1,1 @@
+Item(by='iamd3vil', descendants=None, kids=[24894364, 24893940], score=None, time=1603700508, title=None, item_type='comment', url=None, parent=24893615, text='I think a better option would be to create a Wireguard tunnel between Raspberry Pi and the remote server instead of a SSH Tunnel. Then there is no need to add or change ports and restart the tunnel for every service.')

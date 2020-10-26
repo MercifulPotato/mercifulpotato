@@ -1,0 +1,1 @@
+Item(by='a012', descendants=None, kids=None, score=None, time=1603704869, title=None, item_type='comment', url=None, parent=24893746, text='A lot of them are redundant, like there&#x27;s minikube, kubeadm, but no k3s; and tail tools too. Also, people running k8s with service mesh, security, but without backup&#x2F;restore?')

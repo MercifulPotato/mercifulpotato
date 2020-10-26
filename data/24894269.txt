@@ -1,0 +1,1 @@
+Item(by='quaintdev', descendants=None, kids=[24894329, 24894476], score=None, time=1603704422, title=None, item_type='comment', url=None, parent=24894164, text='NAT like security for IPv6 is just dumb. We should always configure firewall for v4 and V6. NAT is not for security!! It has different purpose which is now being taken care by V6 and NAT should just die.')

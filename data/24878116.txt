@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=0, kids=None, score=1, time=1603533514, title='Rethinking Attention with Performers', item_type='story', url='https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html', parent=None, text=None)
+Item(by='headalgorithm', descendants=23, kids=[24896453, 24896067, 24895504, 24895191, 24896472, 24895660, 24895621, 24895388], score=96, time=1603533514, title='Rethinking Attention with Performers', item_type='story', url='https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html', parent=None, text=None)

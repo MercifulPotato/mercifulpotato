@@ -1,0 +1,1 @@
+Item(by='apta', descendants=None, kids=[24894856], score=None, time=1603709353, title=None, item_type='comment', url=None, parent=24889445, text='No language will magically give you maintainability. I&#x27;ve worked on several year old golang projects and they&#x27;ve been terrible, made worse by the fact that golang doesn&#x27;t scale well for teams or larger programs.')

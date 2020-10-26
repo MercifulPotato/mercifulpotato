@@ -1,0 +1,1 @@
+Item(by='jakub_g', descendants=None, kids=None, score=None, time=1603716203, title=None, item_type='comment', url=None, parent=24877034, text='Semi-related for JS developers: if you do `eslint` as part of your build, make sure `node_modules` (and `node_modules` in subolders if you have monorepo-ish solution) is excluded.')

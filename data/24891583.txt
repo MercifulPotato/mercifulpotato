@@ -1,1 +1,1 @@
-Item(by='Aardwolf', descendants=None, kids=[24893038], score=None, time=1603672602, title=None, item_type='comment', url=None, parent=24891445, text='If you&#x27;re running multithreaded build jobs with ninja and have many cores then maybe?')
+Item(by='Aardwolf', descendants=None, kids=[24894338, 24893038], score=None, time=1603672602, title=None, item_type='comment', url=None, parent=24891445, text='If you&#x27;re running multithreaded build jobs with ninja and have many cores then maybe?')
