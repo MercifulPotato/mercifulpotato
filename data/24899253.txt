@@ -1,0 +1,1 @@
+Item(by='_ph_', descendants=None, kids=[24899286], score=None, time=1603736278, title=None, item_type='comment', url=None, parent=24899072, text='In newer TCL (8.5+) you can import mathop to get the typical operators as functions so that you do no longer need &quot;expr&quot;.')

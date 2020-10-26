@@ -1,1 +1,1 @@
-Item(by='elvis70', descendants=0, kids=None, score=1, time=1603531944, title='The Sounds of Pi (2019)', item_type='story', url='https://joereynoldsaudio.com/2019/12/04/the-sounds-of-pi.html', parent=None, text=None)
+Item(by='elvis70', descendants=6, kids=[24896418, 24896171], score=15, time=1603531944, title='The Sounds of Pi (2019)', item_type='story', url='https://joereynoldsaudio.com/2019/12/04/the-sounds-of-pi.html', parent=None, text=None)

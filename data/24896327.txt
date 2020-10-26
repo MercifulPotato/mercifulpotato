@@ -1,0 +1,1 @@
+Item(by='holtalanm', descendants=None, kids=None, score=None, time=1603721499, title=None, item_type='comment', url=None, parent=24896266, text='Unfortunately, the issues we had with Cypress were with the framework itself, not the tests.<p>I used to write automation, and I can say that Selenium tests can be written to be very stable.  Just depends on how they are written.')

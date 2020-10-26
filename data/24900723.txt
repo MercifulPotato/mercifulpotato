@@ -1,0 +1,1 @@
+Item(by='somehnguy', descendants=None, kids=None, score=None, time=1603742864, title=None, item_type='comment', url=None, parent=24900664, text='???<p>I&#x27;ve been using Java daily for years at this point. The only time I&#x27;ve had that sort of issue is when the program I was writing dealt with large files in memory, and it was solved with a simple -Xmx16G.')

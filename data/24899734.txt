@@ -1,0 +1,1 @@
+Item(by='qznc', descendants=None, kids=None, score=None, time=1603738417, title=None, item_type='comment', url=None, parent=24898492, text='I think it really makes sense if you want an interactive shell. In contrast to most other languages, you need no parens or other fancy sigils for normal commands.<p>A classic use case is a debugger like gdb. What else, though?')

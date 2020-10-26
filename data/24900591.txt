@@ -1,0 +1,1 @@
+Item(by='dleslie', descendants=None, kids=None, score=None, time=1603742205, title=None, item_type='comment', url=None, parent=24899457, text='This is kind of clumsy in R5RS Scheme:<p><pre><code>    ((eval (string-&gt;symbol (string-append &quot;dis&quot; &quot;play&quot;))) &quot;Hello world&quot;)</code></pre>')

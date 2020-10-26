@@ -1,1 +1,1 @@
-Item(by='tylerjwilk00', descendants=None, kids=None, score=None, time=1603721102, title=None, item_type='comment', url=None, parent=24877075, text='Is there a galactic equivalent of a solar system&#x27;s heliosphere?')
+Item(by='tylerjwilk00', descendants=None, kids=[24896895], score=None, time=1603721102, title=None, item_type='comment', url=None, parent=24877075, text='Is there a galactic equivalent of a solar system&#x27;s heliosphere?')

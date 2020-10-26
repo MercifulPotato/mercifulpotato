@@ -1,0 +1,1 @@
+Item(by='geogra4', descendants=None, kids=[24897822, 24896980, 24897594], score=None, time=1603723606, title=None, item_type='comment', url=None, parent=24896505, text='I think really the use case is to run in a VM to handle old code and keep security up to date. I wouldn&#x27;t want to run it on bare hardware for that reason (3)')

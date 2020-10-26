@@ -1,1 +1,1 @@
-Item(by='userbinator', descendants=None, kids=None, score=None, time=1603521350, title=None, item_type='comment', url=None, parent=24877363, text='This is how you &quot;dumb&quot; a smart TV.')
+Item(by='userbinator', descendants=None, kids=[24896200, 24897301, 24898387, 24897001], score=None, time=1603521350, title=None, item_type='comment', url=None, parent=24877363, text='This is how you &quot;dumb&quot; a smart TV.')

@@ -1,0 +1,1 @@
+Item(by='dbrueck', descendants=None, kids=None, score=None, time=1603722562, title=None, item_type='comment', url=None, parent=24894135, text='The negative effect is probably overblown; keep in mind that subsequent visits by the user to the same site can still use the cached version they loaded previously, and the odds of a cache hit in that case are relatively high.')

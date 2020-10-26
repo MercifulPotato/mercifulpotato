@@ -1,0 +1,1 @@
+Item(by='ISL', descendants=None, kids=[24896869], score=None, time=1603723633, title=None, item_type='comment', url=None, parent=24896532, text='Isn&#x27;t this architecture dependent?<p>It is hard to imagine the same performance on a Pentium Pro.<p>What is the right processor-independent measure for latencies like this? Number of clock-ticks? That seems flawed, too.')

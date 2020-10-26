@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=None, score=None, time=1603730182, title=None, item_type='comment', url=None, parent=24894801, text='Inversion of control is used on large teams and at it&#x27;s best it is IMO more leaky and harder to understand than well written control-flow macros in lisp.')

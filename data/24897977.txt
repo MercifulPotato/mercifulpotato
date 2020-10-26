@@ -1,0 +1,1 @@
+Item(by='nv-vn', descendants=None, kids=None, score=None, time=1603729960, title=None, item_type='comment', url=None, parent=24897863, text='Probably a hardware team using FPGAs. Software tends to be way less predictable than hardware, so to even get to the point where you can reasonably count nanoseconds it often requires hardware')

@@ -1,1 +1,1 @@
-Item(by='HeadsUpHigh', descendants=None, kids=None, score=None, time=1603706628, title=None, item_type='comment', url=None, parent=24892302, text='So a couple hundred dollars extra. For functionality that has existed since forever.')
+Item(by='HeadsUpHigh', descendants=None, kids=[24899729], score=None, time=1603706628, title=None, item_type='comment', url=None, parent=24892302, text='So a couple hundred dollars extra. For functionality that has existed since forever.')

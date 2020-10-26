@@ -1,0 +1,1 @@
+Item(by='KaiserPro', descendants=None, kids=None, score=None, time=1603719418, title=None, item_type='comment', url=None, parent=24895194, text='There isn&#x27;t anything overly wrong with the ESP8266, or ESP32.<p>If you wanted you could use a SAM21 with micropython, but the general tooling around it is much less google&#x27;able')

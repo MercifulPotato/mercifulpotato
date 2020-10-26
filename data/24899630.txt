@@ -1,0 +1,1 @@
+Item(by='forlorn', descendants=None, kids=None, score=None, time=1603737918, title=None, item_type='comment', url=None, parent=24898016, text='Web scraping only sounds like a simple thing but when you add multithreading, queues, workers and rate limiting it becomes a real monster.')

@@ -1,1 +1,1 @@
-Item(by='utxaa', descendants=None, kids=[24896150], score=None, time=1603718066, title=None, item_type='comment', url=None, parent=24894830, text='this is all going to end in X12.')
+Item(by='utxaa', descendants=None, kids=[24896922, 24896150], score=None, time=1603718066, title=None, item_type='comment', url=None, parent=24894830, text='this is all going to end in X12.')

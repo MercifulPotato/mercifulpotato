@@ -1,0 +1,1 @@
+Item(by='pdpi', descendants=None, kids=None, score=None, time=1603732035, title=None, item_type='comment', url=None, parent=24897746, text='The JVM does scalar replacement, not stack allocation. The former is much more limited in functionality, and much more finicky. You also have about zero control over it, compared to, say, C# structs.')

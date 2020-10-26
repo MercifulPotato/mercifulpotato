@@ -1,1 +1,1 @@
-Item(by='White_Wolf', descendants=None, kids=None, score=None, time=1603721358, title=None, item_type='comment', url=None, parent=24894622, text='Are the full results of the human trials available anywhere?')
+Item(by='White_Wolf', descendants=None, kids=[24898100], score=None, time=1603721358, title=None, item_type='comment', url=None, parent=24894622, text='Are the full results of the human trials available anywhere?')

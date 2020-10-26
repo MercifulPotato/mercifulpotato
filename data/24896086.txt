@@ -1,1 +1,1 @@
-Item(by='MrFantastic', descendants=None, kids=None, score=None, time=1603720004, title=None, item_type='comment', url=None, parent=24895383, text='Corporations live forever. They should have an unlimited Statue of Limitations as well.')
+Item(by='MrFantastic', descendants=None, kids=[24898196], score=None, time=1603720004, title=None, item_type='comment', url=None, parent=24895383, text='Corporations live forever. They should have an unlimited Statue of Limitations as well.')

@@ -1,1 +1,1 @@
-Item(by='Hooke', descendants=1, kids=[24894651], score=6, time=1603576221, title='Babbage the unfortunate (2004)', item_type='story', url='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1772188/', parent=None, text=None)
+Item(by='Hooke', descendants=3, kids=[24894651, 24896065], score=8, time=1603576221, title='Babbage the unfortunate (2004)', item_type='story', url='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1772188/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='jacobush', descendants=None, kids=None, score=None, time=1603732251, title=None, item_type='comment', url=None, parent=24898243, text='Yeah but that makes Wine sound simpler than it is. The bulk of what makes ReactOS tick is <i>from</i> Wine.<p>Wine is a syscall layer plus a reimplementation of <i>all user mode DLLs</i> in a Windows installation.')

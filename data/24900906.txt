@@ -1,0 +1,1 @@
+Item(by='anderspitman', descendants=None, kids=None, score=None, time=1603743720, title=None, item_type='comment', url=None, parent=24895060, text='I&#x27;d recommend doing almost exactly what OP describes. Start on your local network first. Get a raspberry pi, and figure out how to set up a webserver on it you can access from other computers on your network.')

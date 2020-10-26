@@ -1,0 +1,1 @@
+Item(by='eska', descendants=None, kids=None, score=None, time=1603722274, title=None, item_type='comment', url=None, parent=24895700, text='Probably just like shared libraries. Ostensibly multiple applications will share the same DLL.. In practice their versions are incompatible, if software uses the same dependency to begin with.')

@@ -1,0 +1,1 @@
+Item(by='avinassh', descendants=None, kids=None, score=None, time=1603727978, title=None, item_type='comment', url=None, parent=24895395, text='I wish the article also explained how the C4 algorithm works and why it is _not_ an “stop the world” GC, as compared to G1.')

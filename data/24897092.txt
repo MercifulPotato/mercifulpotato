@@ -1,0 +1,1 @@
+Item(by='cj', descendants=None, kids=None, score=None, time=1603725607, title=None, item_type='comment', url=None, parent=24877034, text='I once reduced the speed of our test suite from 10 mins to &lt; 5 minutes by changing 2 characters in 1 line...<p>Then bcrypt work factor! It was originally 12, reduced it to 1 (don’t worry, production is still 12)')

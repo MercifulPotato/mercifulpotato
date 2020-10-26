@@ -1,0 +1,1 @@
+Item(by='nfg', descendants=None, kids=None, score=None, time=1603742429, title=None, item_type='comment', url=None, parent=24900354, text='I don’t see how it does at all - the point isn’t C versus Java, it’s native versus managed. Any reasonably proficient team running managed services needs to know how to deal with native dependencies, but the reverse is not true.')
