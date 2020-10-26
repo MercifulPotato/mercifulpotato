@@ -1,0 +1,1 @@
+Item(by='andrelaszlo', descendants=None, kids=None, score=None, time=1603699701, title=None, item_type='comment', url=None, parent=24877034, text='We recently reduced our build times by 5-10% or so by changing the default bcrypt iteration count (for tests). It also felt silly once we found it.')

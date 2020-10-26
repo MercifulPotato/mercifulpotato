@@ -1,1 +1,1 @@
-Item(by='Rochus', descendants=None, kids=None, score=None, time=1603661261, title=None, item_type='comment', url=None, parent=24889809, text='Do you have evidence for this statement?')
+Item(by='Rochus', descendants=None, kids=[24892527], score=None, time=1603661261, title=None, item_type='comment', url=None, parent=24889809, text='Do you have evidence for this statement?')

@@ -1,1 +1,1 @@
-Item(by='MattGaiser', descendants=None, kids=None, score=None, time=1603668966, title=None, item_type='comment', url=None, parent=24888007, text='I am fine with denying bus hijackers access to public transport too.')
+Item(by='MattGaiser', descendants=None, kids=[24892549], score=None, time=1603668966, title=None, item_type='comment', url=None, parent=24888007, text='I am fine with denying bus hijackers access to public transport too.')

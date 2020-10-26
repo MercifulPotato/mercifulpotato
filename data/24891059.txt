@@ -1,1 +1,1 @@
-Item(by='parisianka', descendants=0, kids=None, score=4, time=1603668184, title='WebGL procedural city that feels alive and is fun to watch', item_type='story', url='https://demos.littleworkshop.fr/infinitown', parent=None, text=None)
+Item(by='parisianka', descendants=6, kids=[24893582, 24893419, 24893420, 24893074, 24893228], score=15, time=1603668184, title='WebGL procedural city that feels alive and is fun to watch', item_type='story', url='https://demos.littleworkshop.fr/infinitown', parent=None, text=None)

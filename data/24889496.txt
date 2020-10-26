@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=1, kids=[24890791], score=9, time=1603656753, title='Exponential Discounting', item_type='story', url='https://johncarlosbaez.wordpress.com/2020/10/25/exponential-discounting/', parent=None, text=None)
+Item(by='headalgorithm', descendants=4, kids=[24890791, 24892545], score=15, time=1603656753, title='Exponential Discounting', item_type='story', url='https://johncarlosbaez.wordpress.com/2020/10/25/exponential-discounting/', parent=None, text=None)

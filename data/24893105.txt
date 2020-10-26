@@ -1,0 +1,1 @@
+Item(by='edoceo', descendants=None, kids=None, score=None, time=1603690681, title=None, item_type='comment', url=None, parent=24892470, text='You&#x27;re confusing full clone, which for a huge repo is OK to be long as the fix which was to specify one RefSpec so they don&#x27;t clone the full repo in CI.')

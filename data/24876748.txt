@@ -1,1 +1,1 @@
-Item(by='respinal', descendants=1, kids=[24881757], score=8, time=1603510725, title='Costco is selling at-home Covid-19 saliva tests for $130', item_type='story', url='https://www.businessinsider.com/costco-sells-at-home-covid-19-tests-using-saliva-samples-2020-10', parent=None, text=None)
+Item(by='respinal', descendants=2, kids=[24881757], score=9, time=1603510725, title='Costco is selling at-home Covid-19 saliva tests for $130', item_type='story', url='https://www.businessinsider.com/costco-sells-at-home-covid-19-tests-using-saliva-samples-2020-10', parent=None, text=None)

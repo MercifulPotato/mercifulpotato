@@ -1,1 +1,1 @@
-Item(by='wheaties', descendants=None, kids=None, score=None, time=1603675727, title=None, item_type='comment', url=None, parent=24889973, text='I worked with Matt. He&#x27;s awesome. Can&#x27;t say enough.')
+Item(by='wheaties', descendants=None, kids=[24892946], score=None, time=1603675727, title=None, item_type='comment', url=None, parent=24889973, text='I worked with Matt. He&#x27;s awesome. Can&#x27;t say enough.')

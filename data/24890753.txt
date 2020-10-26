@@ -1,1 +1,1 @@
-Item(by='ibraheemdev', descendants=0, kids=None, score=4, time=1603665980, title="No, C++ still isn't cutting it", item_type='story', url='https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html?m=1', parent=None, text=None)
+Item(by='ibraheemdev', descendants=1, kids=[24892856], score=11, time=1603665980, title="No, C++ still isn't cutting it", item_type='story', url='https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html?m=1', parent=None, text=None)

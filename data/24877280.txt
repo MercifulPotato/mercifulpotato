@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=0, kids=None, score=2, time=1603519329, title='iPhone 12 and 12 Pro Teardown', item_type='story', url='https://www.ifixit.com/Teardown/iPhone+12+and+12+Pro+Teardown/137669', parent=None, text=None)
+Item(by='zdw', descendants=1, kids=[24893382], score=18, time=1603519329, title='iPhone 12 and 12 Pro Teardown', item_type='story', url='https://www.ifixit.com/Teardown/iPhone+12+and+12+Pro+Teardown/137669', parent=None, text=None)

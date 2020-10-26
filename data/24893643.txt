@@ -1,0 +1,1 @@
+Item(by='tsbinz', descendants=None, kids=None, score=None, time=1603697563, title=None, item_type='comment', url=None, parent=24893081, text='Note that these are light models that are designed to be run quickly on a cpu with batch size 1. It&#x27;s not that uncommon to see multithreaded cpu code beat the gpu in that setting also for other backends.')

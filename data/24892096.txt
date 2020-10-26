@@ -1,1 +1,1 @@
-Item(by='octoberfranklin', descendants=None, kids=None, score=None, time=1603677322, title=None, item_type='comment', url=None, parent=24891947, text='Holy clickbait title, Batman!<p>Spoiler: there was no reactor involved.')
+Item(by='octoberfranklin', descendants=None, kids=[24892661], score=None, time=1603677322, title=None, item_type='comment', url=None, parent=24891947, text='Holy clickbait title, Batman!<p>Spoiler: there was no reactor involved.')

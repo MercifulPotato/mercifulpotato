@@ -1,1 +1,1 @@
-Item(by='ravenstine', descendants=None, kids=None, score=None, time=1603668404, title=None, item_type='comment', url=None, parent=24890773, text='Doesn&#x27;t Ubuntu use Mir, not Wayland?')
+Item(by='ravenstine', descendants=None, kids=[24892888], score=None, time=1603668404, title=None, item_type='comment', url=None, parent=24890773, text='Doesn&#x27;t Ubuntu use Mir, not Wayland?')

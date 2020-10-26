@@ -1,0 +1,1 @@
+Item(by='anitil', descendants=None, kids=None, score=None, time=1603688454, title=None, item_type='comment', url=None, parent=24886615, text='&gt; they took the float, converted it to a string, stripped out the period, then converted the string to an integer.<p>This simultaneously made my day much better, and much worse.')

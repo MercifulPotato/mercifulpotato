@@ -1,1 +1,1 @@
-Item(by='nl', descendants=0, kids=None, score=2, time=1603676237, title='OneNetbook A1 review: Handheld designed for engineers', item_type='story', url='https://liliputing.com/2020/10/one-netbook-a1-handheld-computer-preview.html', parent=None, text=None)
+Item(by='nl', descendants=1, kids=[24893131], score=7, time=1603676237, title='OneNetbook A1 review: Handheld designed for engineers', item_type='story', url='https://liliputing.com/2020/10/one-netbook-a1-handheld-computer-preview.html', parent=None, text=None)

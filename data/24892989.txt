@@ -1,0 +1,1 @@
+Item(by='praptak', descendants=None, kids=[24893043], score=None, time=1603688822, title=None, item_type='comment', url=None, parent=24892297, text='A simpler intuition. Opening parenthesis moves to the left, whitespace acts as colon.<p>So, f(a, b, c) becomes (f a b c).')

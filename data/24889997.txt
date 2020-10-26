@@ -1,1 +1,1 @@
-Item(by='layoutIfNeeded', descendants=None, kids=None, score=None, time=1603660955, title=None, item_type='comment', url=None, parent=24888829, text='&gt;strong man Randy Savage<p><i>macho</i> man Randy Savage')
+Item(by='layoutIfNeeded', descendants=None, kids=[24892992], score=None, time=1603660955, title=None, item_type='comment', url=None, parent=24888829, text='&gt;strong man Randy Savage<p><i>macho</i> man Randy Savage')
