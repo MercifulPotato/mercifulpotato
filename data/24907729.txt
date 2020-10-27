@@ -1,0 +1,1 @@
+Item(by='eru', descendants=None, kids=None, score=None, time=1603808831, title=None, item_type='comment', url=None, parent=24902030, text='You can probably make your heuristic even more robust, by looking at hints from indentation and parens and braces in addition to just semicolons.')

@@ -1,0 +1,1 @@
+Item(by='tghw', descendants=None, kids=None, score=None, time=1603807029, title=None, item_type='comment', url=None, parent=24907352, text='A WSGI middleware would not be able to catch exceptions in production mode, as the generic 500 error page would already be completed by that point.')

@@ -1,1 +1,1 @@
-Item(by='evan_', descendants=None, kids=None, score=None, time=1603768025, title=None, item_type='comment', url=None, parent=24904077, text='Uh eight days before the election. Not two weeks.')
+Item(by='evan_', descendants=None, kids=[24907233], score=None, time=1603768025, title=None, item_type='comment', url=None, parent=24904077, text='Uh eight days before the election. Not two weeks.')

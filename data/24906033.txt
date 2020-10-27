@@ -1,0 +1,1 @@
+Item(by='jiggawatts', descendants=None, kids=None, score=None, time=1603794615, title=None, item_type='comment', url=None, parent=24900351, text='Windows Server has a variant of the Rsync algorithm that it uses for its Distributed File System Replication (DFS-R) that can look for up to 4 similar files. It works okay-ish in practice, and is better than nothing.')

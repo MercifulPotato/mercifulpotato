@@ -1,0 +1,1 @@
+Item(by='apples_oranges', descendants=None, kids=[24906163], score=None, time=1603795925, title=None, item_type='comment', url=None, parent=24905920, text='How does the preconnect work with the t.co redirect in between? t.co will return a 301 right? Then we see the real domain, then the browser can preconnect to the server, not earlier, or can it?')

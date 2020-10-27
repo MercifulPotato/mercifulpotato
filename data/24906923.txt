@@ -1,0 +1,1 @@
+Item(by='brabel', descendants=None, kids=[24906994], score=None, time=1603803387, title=None, item_type='comment', url=None, parent=24906790, text='In other words, the good old MVC pattern.<p>(M) Model is your `data`.\n(V) View is what your function returns.\n(C) Controller is the functions your elements may use to mutate the data.')

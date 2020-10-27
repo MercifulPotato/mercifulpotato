@@ -1,1 +1,1 @@
-Item(by='seventhtiger', descendants=None, kids=None, score=None, time=1603782456, title=None, item_type='comment', url=None, parent=24902937, text='Did Microsoft make a decision here? I thought it was DMCA takedown which legally requires immediate removal.')
+Item(by='seventhtiger', descendants=None, kids=[24906723, 24906146], score=None, time=1603782456, title=None, item_type='comment', url=None, parent=24902937, text='Did Microsoft make a decision here? I thought it was DMCA takedown which legally requires immediate removal.')

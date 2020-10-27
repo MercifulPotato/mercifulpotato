@@ -1,1 +1,1 @@
-Item(by='jglauche', descendants=None, kids=None, score=None, time=1603780874, title=None, item_type='comment', url=None, parent=24902429, text='I tried firefox, chromium and chromium-vaapi (which gives a slight improvement).<p>Hardware is a HP T610.')
+Item(by='jglauche', descendants=None, kids=[24906198], score=None, time=1603780874, title=None, item_type='comment', url=None, parent=24902429, text='I tried firefox, chromium and chromium-vaapi (which gives a slight improvement).<p>Hardware is a HP T610.')

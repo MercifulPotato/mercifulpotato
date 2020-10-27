@@ -1,0 +1,1 @@
+Item(by='Uberphallus', descendants=None, kids=None, score=None, time=1603791018, title=None, item_type='comment', url=None, parent=24900270, text='Java is great, the JVM is hell.<p>Our shop has about the same Cassandra DBAs, as JVM experts to keep it running.<p>Every time a node goes down because of JVM shenanigans the ScyllaDB migration discussion pops back.')

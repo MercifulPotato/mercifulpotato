@@ -1,0 +1,1 @@
+Item(by='CodesInChaos', descendants=None, kids=None, score=None, time=1603807769, title=None, item_type='comment', url=None, parent=24903184, text='I think batch files do a linear scan for the target label every time the goto is executed.')

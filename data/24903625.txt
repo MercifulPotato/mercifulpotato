@@ -1,1 +1,1 @@
-Item(by='toomuchtodo', descendants=1, kids=[24904921, 24904172], score=19, time=1603762082, title='How 30 Lines of Code Blew Up a 27-Ton Generator', item_type='story', url='https://www.wired.com/story/how-30-lines-of-code-blew-up-27-ton-generator/', parent=None, text=None)
+Item(by='toomuchtodo', descendants=4, kids=[24904921, 24904172], score=22, time=1603762082, title='How 30 Lines of Code Blew Up a 27-Ton Generator', item_type='story', url='https://www.wired.com/story/how-30-lines-of-code-blew-up-27-ton-generator/', parent=None, text=None)

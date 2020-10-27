@@ -1,1 +1,1 @@
-Item(by='gmays', descendants=0, kids=None, score=2, time=1603747372, title='Asteroid samples escaping from jammed NASA spacecraft', item_type='story', url='https://apnews.com/article/us-news-asteroids-ea18a03d0b19227403a5b1677021d3fa', parent=None, text=None)
+Item(by='gmays', descendants=8, kids=[24906869, 24906729, 24906703], score=15, time=1603747372, title='Asteroid samples escaping from jammed NASA spacecraft', item_type='story', url='https://apnews.com/article/us-news-asteroids-ea18a03d0b19227403a5b1677021d3fa', parent=None, text=None)

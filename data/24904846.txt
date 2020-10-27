@@ -1,1 +1,1 @@
-Item(by='furstenheim', descendants=None, kids=None, score=None, time=1603778809, title=None, item_type='comment', url=None, parent=24900778, text='As they say, warmest October among the past years, coldest October among the ones coming...')
+Item(by='furstenheim', descendants=None, kids=[24905354], score=None, time=1603778809, title=None, item_type='comment', url=None, parent=24900778, text='As they say, warmest October among the past years, coldest October among the ones coming...')

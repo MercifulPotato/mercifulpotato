@@ -1,1 +1,1 @@
-Item(by='bigiain', descendants=None, kids=None, score=None, time=1603757944, title=None, item_type='comment', url=None, parent=24898621, text='<p><pre><code>  &lt;h1 class=&#x27;Rocks Mineral Banana Poison&#x27;&gt;Things I won&#x27;t eat!&lt;&#x2F;h1&gt;</code></pre>')
+Item(by='bigiain', descendants=None, kids=[24906145], score=None, time=1603757944, title=None, item_type='comment', url=None, parent=24898621, text='<p><pre><code>  &lt;h1 class=&#x27;Rocks Mineral Banana Poison&#x27;&gt;Things I won&#x27;t eat!&lt;&#x2F;h1&gt;</code></pre>')

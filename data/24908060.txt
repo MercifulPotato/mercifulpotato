@@ -1,0 +1,1 @@
+Item(by='noja', descendants=None, kids=None, score=None, time=1603810879, title=None, item_type='comment', url=None, parent=24906986, text='I thought this was intended: any page load that does not finish within x seconds is aborted. It will normally succeed for me on the reload with the cached assets. I understood this to be a (bad) optimization for rejecting slow clients.')

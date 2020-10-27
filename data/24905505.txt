@@ -1,0 +1,1 @@
+Item(by='KnobbleMcKnees', descendants=None, kids=None, score=None, time=1603788153, title=None, item_type='comment', url=None, parent=24877034, text='The article is erroneous in many ways as others have described, but the main error I see is that it says &#x27;git clone&#x27; is run before the fetch.<p>It should be &#x27;git init&#x27;')

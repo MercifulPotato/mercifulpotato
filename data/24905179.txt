@@ -1,1 +1,1 @@
-Item(by='PascalPrecht', descendants=2, kids=[24905209, 24905194], score=2, time=1603784192, title='Learning Rust – A Twitter Thread', item_type='story', url='https://twitter.com/PascalPrecht/status/1319209156382019584', parent=None, text=None)
+Item(by='PascalPrecht', descendants=2, kids=[24905194, 24905209], score=2, time=1603784192, title='Learning Rust – A Twitter Thread', item_type='story', url='https://twitter.com/PascalPrecht/status/1319209156382019584', parent=None, text=None)

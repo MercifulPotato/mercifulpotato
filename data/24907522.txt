@@ -1,0 +1,1 @@
+Item(by='chrisweekly', descendants=None, kids=None, score=None, time=1603807551, title=None, item_type='comment', url=None, parent=24906307, text='Using a CNAME is more resilient against DDoS attacks. Using apex introduces potential problems with subdomains and cookie &quot;leakage&quot;.')

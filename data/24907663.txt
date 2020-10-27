@@ -1,0 +1,1 @@
+Item(by='driverdan', descendants=None, kids=None, score=None, time=1603808449, title=None, item_type='comment', url=None, parent=24906211, text='I have the same issue with Firefox on MacOS. 3rd party cookies disabled, privacy protection on, uBlock Origin, and PiHole. I assume it&#x27;s a poorly handled call to a tracking or ad domain that fails, blowing it up.')

@@ -1,0 +1,1 @@
+Item(by='unsigner', descendants=None, kids=None, score=None, time=1603798401, title=None, item_type='comment', url=None, parent=24906369, text='Word on the street is that this was a vanity project of a VP, and never resulted in performance levels that couldn&#x27;t be achieved with a little bit of focused optimization of boring old CPU work (threading + SIMD).')

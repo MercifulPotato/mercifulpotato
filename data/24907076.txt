@@ -1,0 +1,1 @@
+Item(by='LeSaucy', descendants=None, kids=None, score=None, time=1603804569, title=None, item_type='comment', url=None, parent=24907016, text='You link against QtQuick to get the qml&#x2F;js environment to run your qml apps. There is some performance overhead vs straight c++ code, but its negligible even on embedded systems.')

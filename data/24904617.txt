@@ -1,1 +1,1 @@
-Item(by='Bella-Xiang', descendants=1, kids=[24904698], score=2, time=1603775045, title='Ninja: A simple way to do builds', item_type='story', url='https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/', parent=None, text=None)
+Item(by='Bella-Xiang', descendants=2, kids=[24904698], score=3, time=1603775045, title='Ninja: A simple way to do builds', item_type='story', url='https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/', parent=None, text=None)

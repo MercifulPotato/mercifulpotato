@@ -1,1 +1,1 @@
-Item(by='adwww', descendants=None, kids=None, score=None, time=1603785050, title=None, item_type='comment', url=None, parent=24903342, text='Same in London - it feels like almost every vehicle on the road is a private hire Uber in central London.')
+Item(by='adwww', descendants=None, kids=[24905888, 24906052], score=None, time=1603785050, title=None, item_type='comment', url=None, parent=24903342, text='Same in London - it feels like almost every vehicle on the road is a private hire Uber in central London.')

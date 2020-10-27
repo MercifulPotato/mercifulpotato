@@ -1,0 +1,1 @@
+Item(by='megous', descendants=None, kids=[24906176], score=None, time=1603795573, title=None, item_type='comment', url=None, parent=24906058, text='nginx will only log actual http requests there, but you can use error_log &#x2F;path debug; to log connection attempts without any http content.')

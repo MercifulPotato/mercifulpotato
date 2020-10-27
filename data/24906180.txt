@@ -1,0 +1,1 @@
+Item(by='rozab', descendants=None, kids=[24906230], score=None, time=1603796251, title=None, item_type='comment', url=None, parent=24906121, text='Is there much of a downside to just disabling all hover events in the browser? I&#x27;ve also considered disabling the clipboard API after hearing about clipboard hijacking attacks recently')

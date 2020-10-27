@@ -1,1 +1,1 @@
-Item(by='azhenley', descendants=12, kids=[24902917, 24901500, 24903310, 24901629], score=49, time=1603743189, title='Parsing RISC-V assembly', item_type='story', url='https://web.eecs.utk.edu/~azh/blog/parsingriscv.html', parent=None, text=None)
+Item(by='azhenley', descendants=12, kids=[24902917, 24901500, 24901629, 24903310], score=52, time=1603743189, title='Parsing RISC-V assembly', item_type='story', url='https://web.eecs.utk.edu/~azh/blog/parsingriscv.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='orbifold', descendants=None, kids=None, score=None, time=1603789924, title=None, item_type='comment', url=None, parent=24901679, text='Pybind11 is a dream to work with and there are python packages that implement hot reloading for C++ into a live python session aswell as autogeneration tools for it.')

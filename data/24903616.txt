@@ -1,1 +1,1 @@
-Item(by='Reelin', descendants=None, kids=None, score=None, time=1603761967, title=None, item_type='comment', url=None, parent=24903071, text='I realize it&#x27;s a bit off topic, but I just have to ask - where did you get <i>so much</i> ticker data?')
+Item(by='Reelin', descendants=None, kids=[24905627], score=None, time=1603761967, title=None, item_type='comment', url=None, parent=24903071, text='I realize it&#x27;s a bit off topic, but I just have to ask - where did you get <i>so much</i> ticker data?')

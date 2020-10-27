@@ -1,1 +1,1 @@
-Item(by='cambalache', descendants=None, kids=None, score=None, time=1603740549, title=None, item_type='comment', url=None, parent=24896933, text='You are more part of the problem than you could ever imagine.')
+Item(by='cambalache', descendants=None, kids=[24905673], score=None, time=1603740549, title=None, item_type='comment', url=None, parent=24896933, text='You are more part of the problem than you could ever imagine.')

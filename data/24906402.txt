@@ -1,0 +1,1 @@
+Item(by='dancek', descendants=None, kids=None, score=None, time=1603798422, title=None, item_type='comment', url=None, parent=24893024, text='Is this similar to git add -e? I have a hard time keeping diffs valid when editing.<p>I use git-revise a lot but it doesn&#x27;t cover all my use cases. Maybe this will be useful.')
