@@ -1,0 +1,1 @@
+Item(by='hatch_q', descendants=None, kids=None, score=None, time=1603819211, title=None, item_type='comment', url=None, parent=24908092, text='This is simply not true. React 15 is not compatible with React 16 and it can even take substantial effort to upgrade if you used componentWillReceiveProps (though which in hindsight could be avoided in the first place)')

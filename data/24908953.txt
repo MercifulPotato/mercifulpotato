@@ -1,0 +1,1 @@
+Item(by='eznzt', descendants=None, kids=None, score=None, time=1603815909, title=None, item_type='comment', url=None, parent=24904204, text='Debian already does this, it asks you to type something like &quot;yes do as I asked&quot; if you want to remove a package that is considered to be part of the core.')

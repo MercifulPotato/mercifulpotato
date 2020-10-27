@@ -1,1 +1,1 @@
-Item(by='lostmsu', descendants=None, kids=None, score=None, time=1603802723, title=None, item_type='comment', url=None, parent=24905771, text='Better social media has RSS, which I use extensively: Reddit, blogs, this very website.')
+Item(by='lostmsu', descendants=None, kids=[24908285], score=None, time=1603802723, title=None, item_type='comment', url=None, parent=24905771, text='Better social media has RSS, which I use extensively: Reddit, blogs, this very website.')

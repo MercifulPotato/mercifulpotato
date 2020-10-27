@@ -1,0 +1,1 @@
+Item(by='xyst', descendants=None, kids=[24907921, 24908178], score=None, time=1603808993, title=None, item_type='comment', url=None, parent=24906644, text='Interesting write up, however this brings up another question.<p>If the use of a shared kernel amongst containers is a security blunder, why isn&#x27;t this natively part of the container engine?')

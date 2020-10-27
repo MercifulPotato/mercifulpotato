@@ -1,1 +1,1 @@
-Item(by='tolbish', descendants=None, kids=None, score=None, time=1603801518, title=None, item_type='comment', url=None, parent=24904060, text='Is the HTC Cosmos line of VR headsets not sufficient?')
+Item(by='tolbish', descendants=None, kids=[24907538], score=None, time=1603801518, title=None, item_type='comment', url=None, parent=24904060, text='Is the HTC Cosmos line of VR headsets not sufficient?')

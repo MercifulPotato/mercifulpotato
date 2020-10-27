@@ -1,1 +1,1 @@
-Item(by='berkes', descendants=None, kids=None, score=None, time=1603808745, title=None, item_type='comment', url=None, parent=24907229, text='With field you mean &quot;organising events&quot;? If so, Meetup.com, Eventbrite and Facebook are probably the most famous.')
+Item(by='berkes', descendants=None, kids=[24910326], score=None, time=1603808745, title=None, item_type='comment', url=None, parent=24907229, text='With field you mean &quot;organising events&quot;? If so, Meetup.com, Eventbrite and Facebook are probably the most famous.')

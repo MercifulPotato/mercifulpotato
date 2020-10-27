@@ -1,1 +1,1 @@
-Item(by='gpderetta', descendants=None, kids=None, score=None, time=1603807924, title=None, item_type='comment', url=None, parent=24906151, text='Interestingly, Xilinx owns Solarflare. I wonder if that was part of the appeal.')
+Item(by='gpderetta', descendants=None, kids=[24909498], score=None, time=1603807924, title=None, item_type='comment', url=None, parent=24906151, text='Interestingly, Xilinx owns Solarflare. I wonder if that was part of the appeal.')

@@ -1,1 +1,1 @@
-Item(by='spooneybarger', descendants=None, kids=None, score=None, time=1603754350, title=None, item_type='comment', url=None, parent=24901812, text='Fault injection is a technique. Chaos engineering is a discipline.')
+Item(by='spooneybarger', descendants=None, kids=[24908834], score=None, time=1603754350, title=None, item_type='comment', url=None, parent=24901812, text='Fault injection is a technique. Chaos engineering is a discipline.')

@@ -1,1 +1,1 @@
-Item(by='swatson741', descendants=55, kids=[24906394, 24906153, 24905264, 24906263, 24905816, 24906088, 24905381, 24905486], score=210, time=1603687613, title='Linear Algebra by Jim Hefferon', item_type='story', url='https://hefferon.net/linearalgebra/', parent=None, text=None)
+Item(by='swatson741', descendants=71, kids=[24906394, 24906153, 24905264, 24906263, 24910175, 24908536, 24905816, 24906088, 24905381, 24905486], score=308, time=1603687613, title='Free Linear Algebra textbook', item_type='story', url='https://hefferon.net/linearalgebra/', parent=None, text=None)

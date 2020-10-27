@@ -1,0 +1,1 @@
+Item(by='pkulak', descendants=None, kids=None, score=None, time=1603818964, title=None, item_type='comment', url=None, parent=24908869, text='Yeah, but synchronizing time gets easier the bigger the accuracy window is, and approaches impossible the smaller. 2 seconds in well within NTP&#x27;s wheelhouse on all but the most jittery and unusable networks.')

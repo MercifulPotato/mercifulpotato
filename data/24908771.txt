@@ -1,0 +1,1 @@
+Item(by='technimad', descendants=None, kids=[24910399], score=None, time=1603814830, title=None, item_type='comment', url=None, parent=24908657, text='Indeed, ECMP uses some kind of hashing (dependant on the implementation) to do the distribution and doesn&#x27;t take different line speeds into account at all. \nGreat improvement if this project does take this into account.')

@@ -1,1 +1,1 @@
-Item(by='chmaynard', descendants=0, kids=None, score=26, time=1603800805, title='Diving into /proc/pid/mem', item_type='story', url='https://blog.cloudflare.com/diving-into-proc-pid-mem/', parent=None, text=None)
+Item(by='chmaynard', descendants=3, kids=[24907758], score=43, time=1603800805, title='Diving into /proc/pid/mem', item_type='story', url='https://blog.cloudflare.com/diving-into-proc-pid-mem/', parent=None, text=None)

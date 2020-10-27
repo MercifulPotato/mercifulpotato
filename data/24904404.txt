@@ -1,1 +1,1 @@
-Item(by='threeseed', descendants=None, kids=None, score=None, time=1603771644, title=None, item_type='comment', url=None, parent=24904231, text='Innovation is also about what you say no to.<p>Folding phones today are a mess e.g. creases, durability concerns, inconvenient form-factors.')
+Item(by='threeseed', descendants=None, kids=[24907730], score=None, time=1603771644, title=None, item_type='comment', url=None, parent=24904231, text='Innovation is also about what you say no to.<p>Folding phones today are a mess e.g. creases, durability concerns, inconvenient form-factors.')

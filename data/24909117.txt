@@ -1,0 +1,1 @@
+Item(by='Quarrelsome', descendants=None, kids=[24909590], score=None, time=1603816759, title=None, item_type='comment', url=None, parent=24908776, text='150 separate HTTP requests on startup? That seems quite a lot. I&#x27;d guess its smth multiplied by the number of teams you have?')

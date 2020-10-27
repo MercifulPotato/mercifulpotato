@@ -1,1 +1,1 @@
-Item(by='eru', descendants=None, kids=None, score=None, time=1603808892, title=None, item_type='comment', url=None, parent=24899263, text='Parsing with derivatives has been around for a long time, at least for regular languages.')
+Item(by='eru', descendants=None, kids=[24910229], score=None, time=1603808892, title=None, item_type='comment', url=None, parent=24899263, text='Parsing with derivatives has been around for a long time, at least for regular languages.')

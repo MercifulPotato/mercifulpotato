@@ -1,0 +1,1 @@
+Item(by='snicker7', descendants=None, kids=[24910125], score=None, time=1603813456, title=None, item_type='comment', url=None, parent=24907770, text='Most &quot;scientific&quot; languages have indexes starting in 1 and&#x2F;or configurable (R, Julia, Fortran, APL). In some applications (finite element methods), it makes sense for indexes to start at negative numbers.')

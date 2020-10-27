@@ -1,0 +1,1 @@
+Item(by='JackMcMack', descendants=None, kids=[24907910], score=None, time=1603809486, title=None, item_type='comment', url=None, parent=24906225, text='Something I&#x27;ve wondered about Paxos: does the voting not rely on knowing how many voters there are, to see if there is a majority? \nThat makes it harder to survive a network partition, right?')

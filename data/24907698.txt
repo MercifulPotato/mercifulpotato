@@ -1,0 +1,1 @@
+Item(by='bendiksolheim', descendants=None, kids=[24907709], score=None, time=1603808677, title=None, item_type='comment', url=None, parent=24907411, text='I had the same problem – turns out there is a javascript error on the page in Safari: ReferenceError: Can&#x27;t find variable: book. Still fails with adblocker disabled.')

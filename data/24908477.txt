@@ -1,0 +1,1 @@
+Item(by='kstrauser', descendants=None, kids=None, score=None, time=1603813309, title=None, item_type='comment', url=None, parent=24905008, text='For other uses, I’ve defined cronjobs similar to:<p><pre><code>  0 0 * * * cd &#x2F;foo; git add -A &amp;&amp; git commit -m $(date) &amp;&amp; git push\n</code></pre>\nVoila! Nightly snapshots pushed to another server.')

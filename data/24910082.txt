@@ -1,0 +1,1 @@
+Item(by='tomjakubowski', descendants=None, kids=[24910141], score=None, time=1603821853, title=None, item_type='comment', url=None, parent=24908960, text='Ninja is especially beneficial on large projects with lots of source files. Where Make can take 30+ seconds to run a &quot;no-op&quot; build, when nothing needs rebuilding, ninja does it instantly.')

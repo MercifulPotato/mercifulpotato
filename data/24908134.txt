@@ -1,0 +1,1 @@
+Item(by='wtetzner', descendants=None, kids=None, score=None, time=1603811310, title=None, item_type='comment', url=None, parent=24906415, text='I believe there is some amount of support in OpenCL for FPGAs. If only we could get companies to property support OpenCL, we&#x27;d have a nice software interface to pretty much any kind of compute resource on a machine.')

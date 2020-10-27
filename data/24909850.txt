@@ -1,0 +1,1 @@
+Item(by='Muanh', descendants=None, kids=[24911070, 24910078], score=None, time=1603820583, title=None, item_type='comment', url=None, parent=24909395, text='Your answer just shows a lack of understanding what Tesla is doing. They have a layer that transforms camera data to depth data. So if they wanted they could replace that part with lidar and just cary on from there.')

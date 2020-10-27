@@ -1,0 +1,1 @@
+Item(by='pclmulqdq', descendants=None, kids=None, score=None, time=1603813545, title=None, item_type='comment', url=None, parent=24907504, text='Intel had some heat problems when they tried this.  The FPGAs weren&#x27;t able to use their heat budget dynamically, and as a result, the whole SiP had bad performance.')

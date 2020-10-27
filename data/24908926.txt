@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=None, score=None, time=1603815763, title=None, item_type='comment', url=None, parent=24893187, text='You are not mistaken; DNSSEC doesn&#x27;t encrypt records, and DoH does. DoH also authenticates the channel between you and your name server. It&#x27;s likely that DoH will ultimately obviate the need for DNSSEC anywhere.')

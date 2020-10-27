@@ -1,0 +1,1 @@
+Item(by='peterwoerner', descendants=None, kids=None, score=None, time=1603808210, title=None, item_type='comment', url=None, parent=24905385, text='You mean like FEMAP or Hypermesh?  Granted they are geared towards structural mechanics, but they will write input files for a host of solvers including ANSYS, ABAQUS, NASTRAN, MARC and LS-DYNA.')

@@ -1,0 +1,1 @@
+Item(by='vsnf', descendants=None, kids=None, score=None, time=1603811909, title=None, item_type='comment', url=None, parent=24904204, text='I do this with a git pre-push hook to the main branch of my repositories. It displays a prompt in red and forces me to type in the name of the branch.<p>The result of one too many mindlessly accidental pushes.')

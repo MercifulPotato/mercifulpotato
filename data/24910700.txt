@@ -1,0 +1,1 @@
+Item(by='verve_rat', descendants=None, kids=None, score=None, time=1603825783, title=None, item_type='comment', url=None, parent=24910528, text='Wrap it in a transaction and roll back the transaction at the end. Then remove the transaction when you are ready to do it for real.<p>You can jam a select in the end of the transaction to check what happens.')

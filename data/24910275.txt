@@ -1,0 +1,1 @@
+Item(by='makeee', descendants=None, kids=None, score=None, time=1603823168, title=None, item_type='comment', url=None, parent=24910069, text='Next.js does server-rendering and has API routes built-in. No need for Express or Fastify unless you like the DX of those frameworks better.')

@@ -1,0 +1,1 @@
+Item(by='benlivengood', descendants=None, kids=None, score=None, time=1603823350, title=None, item_type='comment', url=None, parent=24908329, text='If half the nodes fail the cluster has failed.  Raft and Paxos need at least a majority of nodes.  It&#x27;s actually not beneficial (except for load-balancing) to run an even number of nodes.')

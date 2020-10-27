@@ -1,1 +1,1 @@
-Item(by='hasheddan', descendants=0, kids=None, score=2, time=1603715312, title='Understanding Non-Local Jumps (Setjmp/Longjmp) in RISC-V Assembly', item_type='story', url='https://danielmangum.com/posts/non-local-jumps-riscv/', parent=None, text=None)
+Item(by='hasheddan', descendants=1, kids=[24909585], score=14, time=1603715312, title='Understanding Non-Local Jumps (Setjmp/Longjmp) in RISC-V Assembly', item_type='story', url='https://danielmangum.com/posts/non-local-jumps-riscv/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='happy_path', descendants=None, kids=None, score=None, time=1603793470, title=None, item_type='comment', url=None, parent=24905890, text='While I understand the meme, I would like people to stop saying it each time something related to Spain is in the news.')
+Item(by='happy_path', descendants=None, kids=[24907996], score=None, time=1603793470, title=None, item_type='comment', url=None, parent=24905890, text='While I understand the meme, I would like people to stop saying it each time something related to Spain is in the news.')

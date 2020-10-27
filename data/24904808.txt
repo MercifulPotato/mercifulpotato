@@ -1,1 +1,1 @@
-Item(by='threeseed', descendants=None, kids=None, score=None, time=1603778148, title=None, item_type='comment', url=None, parent=24904488, text='Amazon&#x27;s ARM processors outperform AMD at similar price-points.<p>And I would expect Apple to be significantly better at Amazon.')
+Item(by='threeseed', descendants=None, kids=[24908789], score=None, time=1603778148, title=None, item_type='comment', url=None, parent=24904488, text='Amazon&#x27;s ARM processors outperform AMD at similar price-points.<p>And I would expect Apple to be significantly better at Amazon.')

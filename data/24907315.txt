@@ -1,1 +1,1 @@
-Item(by='ComodoHacker', descendants=None, kids=None, score=None, time=1603806200, title=None, item_type='comment', url=None, parent=24907046, text='Is MPTCP support required on both source and destination up to the app level?')
+Item(by='ComodoHacker', descendants=None, kids=[24908502], score=None, time=1603806200, title=None, item_type='comment', url=None, parent=24907046, text='Is MPTCP support required on both source and destination up to the app level?')

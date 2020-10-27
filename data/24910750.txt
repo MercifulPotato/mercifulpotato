@@ -1,0 +1,1 @@
+Item(by='ivalm', descendants=None, kids=[24910827], score=None, time=1603826084, title=None, item_type='comment', url=None, parent=24907826, text='In general GPT3 is not SotA on (any?) classification task, did you just not have enough data to fine tune a discriminative transformer model? Inference should be cheaper with a smaller transformer&#x2F;also less lock-in.')

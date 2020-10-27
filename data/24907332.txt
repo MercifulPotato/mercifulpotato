@@ -1,1 +1,1 @@
-Item(by='detaro', descendants=None, kids=None, score=None, time=1603806285, title=None, item_type='comment', url=None, parent=24906947, text='I assume they are thinking about a design for multi-socket systems.')
+Item(by='detaro', descendants=None, kids=[24909119], score=None, time=1603806285, title=None, item_type='comment', url=None, parent=24906947, text='I assume they are thinking about a design for multi-socket systems.')

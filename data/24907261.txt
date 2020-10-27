@@ -1,1 +1,1 @@
-Item(by='BlueTemplar', descendants=None, kids=None, score=None, time=1603805829, title=None, item_type='comment', url=None, parent=24906946, text='Yeah, or comparing IDE&#x27;s :\n- Spyder (Qt, great)\n- Atom (Electron, mediocre)\n- Eclipse (Java, bad)')
+Item(by='BlueTemplar', descendants=None, kids=[24908906], score=None, time=1603805829, title=None, item_type='comment', url=None, parent=24906946, text='Yeah, or comparing IDE&#x27;s :\n- Spyder (Qt, great)\n- Atom (Electron, mediocre)\n- Eclipse (Java, bad)')
