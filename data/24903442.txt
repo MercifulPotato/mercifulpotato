@@ -1,0 +1,1 @@
+Item(by='tracker1', descendants=None, kids=None, score=None, time=1603760349, title=None, item_type='comment', url=None, parent=24899509, text='I&#x27;ve used puppeteer + better-sqlite3 in node for similar jobs in the past... Great combo, but tend to use it only if&#x2F;when node-fetch + cheerio aren&#x27;t feasable.')

@@ -1,0 +1,1 @@
+Item(by='dsun180', descendants=None, kids=None, score=None, time=1603756176, title=None, item_type='comment', url=None, parent=24901275, text='Its mostly about having secure transactions between state transitions. If you do not need them, you have often better performance when you run multiple instances with a load balancer.')

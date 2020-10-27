@@ -1,1 +1,1 @@
-Item(by='jerodsanto', descendants=0, kids=None, score=2, time=1603740182, title='Developer Advice to Self', item_type='story', url='https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/', parent=None, text=None)
+Item(by='jerodsanto', descendants=0, kids=[24901839, 24901606], score=24, time=1603740182, title='Developer Advice to Self', item_type='story', url='https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/', parent=None, text=None)

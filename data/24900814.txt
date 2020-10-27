@@ -1,1 +1,1 @@
-Item(by='piazz', descendants=None, kids=None, score=None, time=1603743262, title=None, item_type='comment', url=None, parent=24898373, text='This looks extremely impressive and polished, especially for a single dev. Looking forward to trying. Congrats')
+Item(by='piazz', descendants=None, kids=[24901240], score=None, time=1603743262, title=None, item_type='comment', url=None, parent=24898373, text='This looks extremely impressive and polished, especially for a single dev. Looking forward to trying. Congrats')

@@ -1,1 +1,1 @@
-Item(by='Out_of_Characte', descendants=None, kids=None, score=None, time=1603743842, title=None, item_type='comment', url=None, parent=24900321, text='Untill its not, Then I have a problem because I dont understand java')
+Item(by='Out_of_Characte', descendants=None, kids=[24901189], score=None, time=1603743842, title=None, item_type='comment', url=None, parent=24900321, text='Untill its not, Then I have a problem because I dont understand java')

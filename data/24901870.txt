@@ -1,0 +1,1 @@
+Item(by='oivey', descendants=None, kids=[24901922, 24901897], score=None, time=1603748796, title=None, item_type='comment', url=None, parent=24901638, text='I just tried it, and it took 13 seconds to load and plot some random numbers. It could be better but it’s an acceptable trade off for my usage. Not as good as Python in this regard, but much better than Matlab.')

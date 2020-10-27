@@ -1,0 +1,1 @@
+Item(by='pendexgabo', descendants=None, kids=None, score=None, time=1603757288, title=None, item_type='comment', url=None, parent=24902713, text='I just want to be able to run my docker image stored in my private registry and I can&#x27;t do that. ECS allows you to set a secret with a docker _compatible_ authentication token and point to any docker registry...')

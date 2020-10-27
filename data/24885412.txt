@@ -1,1 +1,1 @@
-Item(by='jonbaer', descendants=3, kids=[24886305], score=21, time=1603624391, title='The Promise of Synthetic Data', item_type='story', url='https://news.mit.edu/2020/real-promise-synthetic-data-1016', parent=None, text=None)
+Item(by='jonbaer', descendants=4, kids=[24900448, 24886305], score=21, time=1603624391, title='The Promise of Synthetic Data', item_type='story', url='https://news.mit.edu/2020/real-promise-synthetic-data-1016', parent=None, text=None)

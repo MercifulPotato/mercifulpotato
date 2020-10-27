@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=None, score=None, time=1603744728, title=None, item_type='comment', url=None, parent=24900423, text='No, you still need to find a machine with a public IP. The usecase in parent comment mentioned only the SSH part, which is easier. But if you want to do forwarding from a specific machine to the public, you can do it manually.')

@@ -1,1 +1,1 @@
-Item(by='Dig1t', descendants=None, kids=None, score=None, time=1603740095, title=None, item_type='comment', url=None, parent=24896724, text='ChAd to the rescue!')
+Item(by='Dig1t', descendants=None, kids=[24901463], score=None, time=1603740095, title=None, item_type='comment', url=None, parent=24896724, text='ChAd to the rescue!')

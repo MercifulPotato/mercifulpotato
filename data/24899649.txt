@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=2, time=1603737987, title='But Can It Run Nytimes.com?', item_type='story', url='https://fabiensanglard.net/carbon/index.html', parent=None, text=None)
+Item(by='todsacerdoti', descendants=10, kids=[24902749, 24902926, 24903027, 24901651], score=22, time=1603737987, title='But Can It Run Nytimes.com?', item_type='story', url='https://fabiensanglard.net/carbon/index.html', parent=None, text=None)

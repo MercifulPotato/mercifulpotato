@@ -1,1 +1,1 @@
-Item(by='jobigoud', descendants=None, kids=None, score=None, time=1603739094, title=None, item_type='comment', url=None, parent=24897059, text='Do you get to know, at the end of trial, in which group you were?')
+Item(by='jobigoud', descendants=None, kids=[24901428], score=None, time=1603739094, title=None, item_type='comment', url=None, parent=24897059, text='Do you get to know, at the end of trial, in which group you were?')

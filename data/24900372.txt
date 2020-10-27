@@ -1,1 +1,1 @@
-Item(by='frank2', descendants=None, kids=None, score=None, time=1603741121, title=None, item_type='comment', url=None, parent=24900269, text='X11 used shared libraries since its beginning in the 1980s.')
+Item(by='frank2', descendants=None, kids=[24901648], score=None, time=1603741121, title=None, item_type='comment', url=None, parent=24900269, text='X11 used shared libraries since its beginning in the 1980s.')

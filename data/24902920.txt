@@ -1,0 +1,1 @@
+Item(by='wwright', descendants=None, kids=[24903007], score=None, time=1603755995, title=None, item_type='comment', url=None, parent=24900285, text='&gt; Languages like C and Rust do not have any equivalent to JVM tuning.<p>They absolutely do. It’s called “managing memory.”')

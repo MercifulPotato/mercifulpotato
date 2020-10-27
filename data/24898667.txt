@@ -1,1 +1,1 @@
-Item(by='jedberg', descendants=None, kids=None, score=None, time=1603733339, title=None, item_type='comment', url=None, parent=24898636, text='Ah this is true.  Thanks.  I was thinking that some number of vaccinated people had to get sick.')
+Item(by='jedberg', descendants=None, kids=[24901656], score=None, time=1603733339, title=None, item_type='comment', url=None, parent=24898636, text='Ah this is true.  Thanks.  I was thinking that some number of vaccinated people had to get sick.')

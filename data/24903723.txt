@@ -1,0 +1,1 @@
+Item(by='hedora', descendants=None, kids=None, score=None, time=1603763081, title=None, item_type='comment', url=None, parent=24903573, text='In that time, how often did you care about sub millisecond latency SLAs?<p>(You can read a disk 10 times in series or 100-1000 times in parallel in 1ms; it’s practically an eternity.)')

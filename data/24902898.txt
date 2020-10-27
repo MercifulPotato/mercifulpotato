@@ -1,0 +1,1 @@
+Item(by='girvo', descendants=None, kids=None, score=None, time=1603755838, title=None, item_type='comment', url=None, parent=24898334, text='You can examine and dump the byte code from the runtime with phpdbg — it basically acts as a compiler to byte code on startup.<p>Of course because it’s also very dynamic, the lines are blurred, imo')

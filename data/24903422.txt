@@ -1,0 +1,1 @@
+Item(by='tracker1', descendants=None, kids=None, score=None, time=1603760164, title=None, item_type='comment', url=None, parent=24901525, text='I&#x27;m not sure if puppeteer&#x2F;playwrite might be a better option for some of those instances, with real Chrome.<p>I prefer JS + jsdom&#x2F;cheerio as it&#x27;s closer to the in-browser experience for scraping.')

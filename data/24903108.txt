@@ -1,0 +1,1 @@
+Item(by='ricksharp', descendants=None, kids=None, score=None, time=1603757258, title=None, item_type='comment', url=None, parent=24903099, text='This is a hack to play a text adventure in the typescript type system (no runtime at all).<p>Typescript is awesome!')

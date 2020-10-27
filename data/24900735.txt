@@ -1,1 +1,1 @@
-Item(by='shock', descendants=None, kids=None, score=None, time=1603742932, title=None, item_type='comment', url=None, parent=24900470, text='I was writing the list of languages&#x2F;toolchains that I have experience with, but it started sounding like I was tooting my own horn. I have extensive experience with both native and managed toolchains.')
+Item(by=None, descendants=None, kids=None, score=None, time=1603742932, title=None, item_type='comment', url=None, parent=24900470, text=None)

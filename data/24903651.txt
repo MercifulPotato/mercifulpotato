@@ -1,0 +1,1 @@
+Item(by='hedora', descendants=None, kids=None, score=None, time=1603762379, title=None, item_type='comment', url=None, parent=24901218, text='Java 15 defaults to a pause free garbage collector with bounded space overhead?  Citation needed.<p>Edit: also, did they replace the JIT with AOT?')

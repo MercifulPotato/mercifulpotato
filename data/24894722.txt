@@ -1,1 +1,1 @@
-Item(by='apta', descendants=None, kids=None, score=None, time=1603709473, title=None, item_type='comment', url=None, parent=24893532, text='Java is getting better. It&#x27;s getting records, value types, and green threads, and pattern matching, and more.')
+Item(by='apta', descendants=None, kids=[24902236], score=None, time=1603709473, title=None, item_type='comment', url=None, parent=24893532, text='Java is getting better. It&#x27;s getting records, value types, and green threads, and pattern matching, and more.')

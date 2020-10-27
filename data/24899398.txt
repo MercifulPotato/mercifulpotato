@@ -1,1 +1,1 @@
-Item(by='chovyfu', descendants=None, kids=None, score=None, time=1603736939, title=None, item_type='comment', url=None, parent=24899391, text='Just found out about Akira the other day for us Linux users who liked Sketch.')
+Item(by='chovyfu', descendants=None, kids=[24902982], score=None, time=1603736939, title=None, item_type='comment', url=None, parent=24899391, text='Just found out about Akira the other day for us Linux users who liked Sketch.')

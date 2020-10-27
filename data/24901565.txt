@@ -1,0 +1,1 @@
+Item(by='DmitrySoshnikov', descendants=None, kids=None, score=None, time=1603747200, title=None, item_type='comment', url=None, parent=24900872, text='Absolutely! S-expression (used in Scheme, Lisp, etc) is a great AST-based syntax to start building an interpreter right away. But for fully ergonomic language you would need a parser for a more complex syntax.')

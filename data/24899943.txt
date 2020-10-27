@@ -1,1 +1,1 @@
-Item(by='phone8675309', descendants=None, kids=None, score=None, time=1603739322, title=None, item_type='comment', url=None, parent=24897616, text='40% is still less than the majority, and Wayland chose to break compatibility with X11 drivers, so they get to own half of this breakage')
+Item(by='phone8675309', descendants=None, kids=[24900611], score=None, time=1603739322, title=None, item_type='comment', url=None, parent=24897616, text='40% is still less than the majority, and Wayland chose to break compatibility with X11 drivers, so they get to own half of this breakage')
