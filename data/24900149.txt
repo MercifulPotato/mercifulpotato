@@ -1,1 +1,1 @@
-Item(by='root_axis', descendants=None, kids=None, score=None, time=1603740214, title=None, item_type='comment', url=None, parent=24899186, text='So just visit nypost.com, don&#x27;t rely on twitter for your news.')
+Item(by='root_axis', descendants=None, kids=[24904792], score=None, time=1603740214, title=None, item_type='comment', url=None, parent=24899186, text='So just visit nypost.com, don&#x27;t rely on twitter for your news.')

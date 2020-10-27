@@ -1,1 +1,1 @@
-Item(by='vm', descendants=None, kids=None, score=None, time=1603761752, title=None, item_type='comment', url=None, parent=24903553, text='While I can&#x27;t speak for Delhi, Mumbai is closer to the &quot;NY of India&quot; and attracts young people in the same way')
+Item(by='vm', descendants=None, kids=[24904258], score=None, time=1603761752, title=None, item_type='comment', url=None, parent=24903553, text='While I can&#x27;t speak for Delhi, Mumbai is closer to the &quot;NY of India&quot; and attracts young people in the same way')

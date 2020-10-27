@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1603776805, title=None, item_type='comment', url=None, parent=24903568, text='Complete replacement of GC algorithms for start, with G1, ZGC and Shenodah.<p>Regarding OpenJDK, other JVM vendors have improvements of their own.')

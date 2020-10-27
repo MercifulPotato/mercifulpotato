@@ -1,1 +1,1 @@
-Item(by='namenotrequired', descendants=None, kids=None, score=None, time=1603754295, title=None, item_type='comment', url=None, parent=24902612, text='They appear to have been named after the modern villages currently on or near their locations')
+Item(by='namenotrequired', descendants=None, kids=[24904853], score=None, time=1603754295, title=None, item_type='comment', url=None, parent=24902612, text='They appear to have been named after the modern villages currently on or near their locations')

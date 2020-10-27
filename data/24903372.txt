@@ -1,1 +1,1 @@
-Item(by='ancarda', descendants=14, kids=[24903608, 24903380, 24903444, 24903594, 24903436, 24903549], score=15, time=1603759752, title='Amy Coney Barrett Confirmed to US Supreme Court', item_type='story', url='https://www.bbc.co.uk/news/election-us-2020-54700307', parent=None, text=None)
+Item(by='ancarda', descendants=24, kids=[24903608, 24903444, 24903594, 24903380, 24903549, 24903436], score=17, time=1603759752, title='Amy Coney Barrett Confirmed to US Supreme Court', item_type='story', url='https://www.bbc.co.uk/news/election-us-2020-54700307', parent=None, text=None)

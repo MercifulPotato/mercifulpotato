@@ -1,1 +1,1 @@
-Item(by='zSigma', descendants=None, kids=None, score=None, time=1603763283, title=None, item_type='comment', url=None, parent=24897812, text='The website looks fantastic. What framework are you using for the front-end? How did you design it?')
+Item(by='zSigma', descendants=None, kids=[24905015], score=None, time=1603763283, title=None, item_type='comment', url=None, parent=24897812, text='The website looks fantastic. What framework are you using for the front-end? How did you design it?')

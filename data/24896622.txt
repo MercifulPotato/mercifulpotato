@@ -1,1 +1,1 @@
-Item(by='metalab', descendants=0, kids=None, score=9, time=1603723204, title='Launching a Company in 5 Hours', item_type='story', url='https://twitter.com/awilkinson/status/1320735459870273536', parent=None, text=None)
+Item(by='metalab', descendants=1, kids=[24903937], score=10, time=1603723204, title='Launching a Company in 5 Hours', item_type='story', url='https://twitter.com/awilkinson/status/1320735459870273536', parent=None, text=None)

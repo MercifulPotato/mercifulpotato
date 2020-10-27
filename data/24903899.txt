@@ -1,1 +1,1 @@
-Item(by='cheeze', descendants=None, kids=None, score=None, time=1603764849, title=None, item_type='comment', url=None, parent=24902488, text='I mean, GitHub took it down, no?')
+Item(by='cheeze', descendants=None, kids=[24905095, 24904221, 24904173], score=None, time=1603764849, title=None, item_type='comment', url=None, parent=24902488, text='I mean, GitHub took it down, no?')

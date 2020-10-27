@@ -1,0 +1,1 @@
+Item(by='cperciva', descendants=None, kids=[24904753], score=None, time=1603776288, title=None, item_type='comment', url=None, parent=24904644, text='I don&#x27;t know anything about Postgres in this regard, but one common reason for not pipelining requests is fairness: You don&#x27;t want one client to be able to starve others out by being very noisy.')

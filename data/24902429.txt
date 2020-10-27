@@ -1,1 +1,1 @@
-Item(by='cdrt', descendants=None, kids=[24902583], score=None, time=1603752604, title=None, item_type='comment', url=None, parent=24901898, text='What browser are you using? Google has been known to make YouTube perform worse on browsers that aren’t Chrome.')
+Item(by='cdrt', descendants=None, kids=[24902583, 24904948], score=None, time=1603752604, title=None, item_type='comment', url=None, parent=24901898, text='What browser are you using? Google has been known to make YouTube perform worse on browsers that aren’t Chrome.')

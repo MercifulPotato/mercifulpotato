@@ -1,1 +1,1 @@
-Item(by='dyeje', descendants=None, kids=None, score=None, time=1603764864, title=None, item_type='comment', url=None, parent=24903499, text='Detroit and Grand Rapids are great urban centers.')
+Item(by='dyeje', descendants=None, kids=[24904519], score=None, time=1603764864, title=None, item_type='comment', url=None, parent=24903499, text='Detroit and Grand Rapids are great urban centers.')

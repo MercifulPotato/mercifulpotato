@@ -1,1 +1,1 @@
-Item(by='inglor', descendants=1, kids=[24897298], score=17, time=1603726377, title='Show HN: Root Cause – A tool for debugging Puppeteer and Playwright tests', item_type='story', url='https://www.testim.io/root-cause/', parent=None, text=None)
+Item(by='inglor', descendants=4, kids=[24904667, 24904616, 24897298, 24904524], score=29, time=1603726377, title='Show HN: Root Cause – A tool for debugging Puppeteer and Playwright tests', item_type='story', url='https://www.testim.io/root-cause/', parent=None, text=None)
