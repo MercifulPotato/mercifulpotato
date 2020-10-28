@@ -1,1 +1,1 @@
-Item(by='cawlin', descendants=None, kids=None, score=None, time=1603857698, title=None, item_type='comment', url=None, parent=24914855, text='Is Sketch doing anything for print? I haven&#x27;t used it for a few years now and back then it was digital only.')
+Item(by='cawlin', descendants=None, kids=[24917559], score=None, time=1603857698, title=None, item_type='comment', url=None, parent=24914855, text='Is Sketch doing anything for print? I haven&#x27;t used it for a few years now and back then it was digital only.')

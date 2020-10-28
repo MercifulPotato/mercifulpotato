@@ -1,1 +1,1 @@
-Item(by='wglb', descendants=0, kids=None, score=1, time=1603857584, title='Employee Surveillance Tied to $41M GDPR Fine', item_type='story', url='https://digitalguardian.com/blog/employee-surveillance-tied-41m-gdpr-fine', parent=None, text=None)
+Item(by='wglb', descendants=1, kids=[24918600], score=1, time=1603857584, title='Employee Surveillance Tied to $41M GDPR Fine', item_type='story', url='https://digitalguardian.com/blog/employee-surveillance-tied-41m-gdpr-fine', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='sandGorgon', descendants=None, kids=None, score=None, time=1603890897, title=None, item_type='comment', url=None, parent=24910886, text='All the server side parts are now deeply linked to Vercel microservices infrastructure.<p>As a static site, nextjs is probably a little bit more complex than gatsbyjs (with its zillions of fantastic themes)')

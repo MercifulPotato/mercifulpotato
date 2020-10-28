@@ -1,0 +1,1 @@
+Item(by='3np', descendants=None, kids=None, score=None, time=1603884000, title=None, item_type='comment', url=None, parent=24917383, text='Alternatively (or complimentary) to &quot;get more RAM&quot;, to prevent system ping south as RAM fills up set vm.swappiness to 0 or 1, and configure an OOMKiller (anyone have thoughts on which is &quot;best&quot;?).')

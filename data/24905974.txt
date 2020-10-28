@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=17, time=1603793894, title='A Scientist Who Delights in the Mundane', item_type='story', url='https://www.quantamagazine.org/l-mahadevan-finds-math-inspiration-in-the-mundane-20201026/', parent=None, text=None)
+Item(by='pseudolus', descendants=2, kids=[24918096, 24916933], score=40, time=1603793894, title='A Scientist Who Delights in the Mundane', item_type='story', url='https://www.quantamagazine.org/l-mahadevan-finds-math-inspiration-in-the-mundane-20201026/', parent=None, text=None)

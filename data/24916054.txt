@@ -1,1 +1,1 @@
-Item(by='VMG', descendants=None, kids=None, score=None, time=1603868666, title=None, item_type='comment', url=None, parent=24915769, text='Rickets is <i>one</i> of the things that can happen if you don&#x27;t have enough Vitamin D. Other less obvious things can happen as well.')
+Item(by='VMG', descendants=None, kids=[24917218], score=None, time=1603868666, title=None, item_type='comment', url=None, parent=24915769, text='Rickets is <i>one</i> of the things that can happen if you don&#x27;t have enough Vitamin D. Other less obvious things can happen as well.')

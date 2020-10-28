@@ -1,0 +1,1 @@
+Item(by='mgkimsal', descendants=None, kids=None, score=None, time=1603891739, title=None, item_type='comment', url=None, parent=24918122, text='tldr - the main key is that the blog was still sending &quot;do not cache&quot; headers, and cloudflare was respecting that, so no caching was actually happening.')

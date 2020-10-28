@@ -1,1 +1,1 @@
-Item(by='chiph', descendants=None, kids=None, score=None, time=1603847523, title=None, item_type='comment', url=None, parent=24906175, text='As someone who worked through Y2K, I guarantee you that the code needed fixing, otherwise societal-level bad things really would have happened.')
+Item(by='chiph', descendants=None, kids=[24917921], score=None, time=1603847523, title=None, item_type='comment', url=None, parent=24906175, text='As someone who worked through Y2K, I guarantee you that the code needed fixing, otherwise societal-level bad things really would have happened.')

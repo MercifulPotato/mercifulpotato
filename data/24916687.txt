@@ -1,0 +1,1 @@
+Item(by='tobi1449', descendants=None, kids=[24918085], score=None, time=1603875445, title=None, item_type='comment', url=None, parent=24916474, text='As far as I understood it, Hyper-V is a native hypervisor like Xen or ESXi. So if you&#x27;re using Hyper-V even your Windows is running as Guest alongside any other Hyper-V VMs and WSL2.')

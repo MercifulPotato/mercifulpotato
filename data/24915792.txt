@@ -1,1 +1,1 @@
-Item(by='core-questions', descendants=None, kids=None, score=None, time=1603865550, title=None, item_type='comment', url=None, parent=24915685, text='Can you get an OS running on a bare metal hypervisor to have video output? Does PCI passthrough work well enough to do that?')
+Item(by='core-questions', descendants=None, kids=[24919214], score=None, time=1603865550, title=None, item_type='comment', url=None, parent=24915685, text='Can you get an OS running on a bare metal hypervisor to have video output? Does PCI passthrough work well enough to do that?')

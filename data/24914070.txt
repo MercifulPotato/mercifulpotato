@@ -1,1 +1,1 @@
-Item(by='sokoloff', descendants=None, kids=None, score=None, time=1603849049, title=None, item_type='comment', url=None, parent=24913908, text='1&#x2F;3 of the developers I know were born in New England.<p>It’s probably not hard to guess the confounding variable.')
+Item(by='sokoloff', descendants=None, kids=[24916496], score=None, time=1603849049, title=None, item_type='comment', url=None, parent=24913908, text='1&#x2F;3 of the developers I know were born in New England.<p>It’s probably not hard to guess the confounding variable.')

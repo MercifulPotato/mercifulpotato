@@ -1,0 +1,1 @@
+Item(by='arcbyte', descendants=None, kids=None, score=None, time=1603893322, title=None, item_type='comment', url=None, parent=24918131, text='And now you&#x27;re into the Liskov substitution principle. All of your implementations should honor the same contract even if they do it in different ways.')

@@ -1,0 +1,1 @@
+Item(by='dmurray', descendants=None, kids=None, score=None, time=1603881128, title=None, item_type='comment', url=None, parent=24915696, text='It seems better to alias rm to &quot;rm --one-file-system&quot;, assuming major cross-filesystem deletes aren&#x27;t something you do all the time that should be made as ergonomic as possible.')

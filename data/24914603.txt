@@ -1,1 +1,1 @@
-Item(by='redis_mlc', descendants=None, kids=None, score=None, time=1603854033, title=None, item_type='comment', url=None, parent=24908546, text='&gt; I&#x27;ve helped several do just this.<p>Interested in hearing more.<p>Which tools have you evangelized?')
+Item(by='redis_mlc', descendants=None, kids=[24918357], score=None, time=1603854033, title=None, item_type='comment', url=None, parent=24908546, text='&gt; I&#x27;ve helped several do just this.<p>Interested in hearing more.<p>Which tools have you evangelized?')

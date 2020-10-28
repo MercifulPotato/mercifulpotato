@@ -1,1 +1,1 @@
-Item(by='lgats', descendants=None, kids=None, score=None, time=1603858882, title=None, item_type='comment', url=None, parent=24906040, text='Is there any easy way to monitor preconnect &#x2F; dns prefetch and others [in chrome &#x2F; firefox] ?')
+Item(by='lgats', descendants=None, kids=[24918838], score=None, time=1603858882, title=None, item_type='comment', url=None, parent=24906040, text='Is there any easy way to monitor preconnect &#x2F; dns prefetch and others [in chrome &#x2F; firefox] ?')

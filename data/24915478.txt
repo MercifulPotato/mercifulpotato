@@ -1,1 +1,1 @@
-Item(by='shdon', descendants=0, kids=None, score=2, time=1603862105, title='DDoS attack against TinyCert announced', item_type='story', url='https://www.tinycert.org/ddos', parent=None, text=None)
+Item(by='shdon', descendants=1, kids=[24917970], score=3, time=1603862105, title='DDoS attack against TinyCert announced', item_type='story', url='https://www.tinycert.org/ddos', parent=None, text=None)

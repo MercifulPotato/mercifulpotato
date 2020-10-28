@@ -1,0 +1,1 @@
+Item(by='arrayjumper', descendants=None, kids=None, score=None, time=1603889454, title=None, item_type='comment', url=None, parent=24915485, text='They have an API using which you get a json representation of your files. That is the same as sketch (whose file format is essentially zipped json files).')

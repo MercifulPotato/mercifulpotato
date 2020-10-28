@@ -1,0 +1,1 @@
+Item(by='raxor53', descendants=None, kids=None, score=None, time=1603892255, title=None, item_type='comment', url=None, parent=24915703, text='Ryan Dahl has talked about how he regrets making npm the default package manager for Node. I think its smart to have some explicit separation between framework and package manager.')
