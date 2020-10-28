@@ -1,1 +1,1 @@
-Item(by='wavesplash', descendants=None, kids=[24914516], score=None, time=1603848900, title=None, item_type='comment', url=None, parent=24913951, text='If I recall correctly, Figma&#x27;s entire UI is C++ compiled down to webassembly.')
+Item(by='wavesplash', descendants=None, kids=[24916164, 24914516], score=None, time=1603848900, title=None, item_type='comment', url=None, parent=24913951, text='If I recall correctly, Figma&#x27;s entire UI is C++ compiled down to webassembly.')

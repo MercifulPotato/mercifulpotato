@@ -1,1 +1,1 @@
-Item(by='sangnoir', descendants=None, kids=None, score=None, time=1603836884, title=None, item_type='comment', url=None, parent=24911043, text='Wall Street has little to do with this listing, which was unimaginable 5 years ago, as Jack Ma noted.')
+Item(by='sangnoir', descendants=None, kids=[24915690], score=None, time=1603836884, title=None, item_type='comment', url=None, parent=24911043, text='Wall Street has little to do with this listing, which was unimaginable 5 years ago, as Jack Ma noted.')

@@ -1,1 +1,1 @@
-Item(by='VectorLock', descendants=None, kids=None, score=None, time=1603853576, title=None, item_type='comment', url=None, parent=24914335, text='Parent of parent was talking about the difference between stripping and prostituion.')
+Item(by='VectorLock', descendants=None, kids=[24914741], score=None, time=1603853576, title=None, item_type='comment', url=None, parent=24914335, text='Parent of parent was talking about the difference between stripping and prostituion.')

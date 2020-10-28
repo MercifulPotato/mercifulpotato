@@ -1,0 +1,1 @@
+Item(by='TeMPOraL', descendants=None, kids=[24916255], score=None, time=1603865209, title=None, item_type='comment', url=None, parent=24915004, text='Isn&#x27;t WSL2 a step backwards from WSL? A thinly veiled VM, vs. proper Linux emulation? What&#x27;s the performance story and cross-execution (starting Windows programs from Linux side, or vice versa) on WSL2 now?')

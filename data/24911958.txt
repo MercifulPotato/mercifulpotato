@@ -1,1 +1,1 @@
-Item(by='Ibethewalrus', descendants=None, kids=None, score=None, time=1603833102, title=None, item_type='comment', url=None, parent=24910995, text='Idea: a game where you fight DMCA takedowns...')
+Item(by='Ibethewalrus', descendants=None, kids=[24915717], score=None, time=1603833102, title=None, item_type='comment', url=None, parent=24910995, text='Idea: a game where you fight DMCA takedowns...')

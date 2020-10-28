@@ -1,1 +1,1 @@
-Item(by='wnissen', descendants=None, kids=None, score=None, time=1603751013, title=None, item_type='comment', url=None, parent=24901695, text='They definitely block all of AWS, are you using a VPN or similar aggregated connection?')
+Item(by='wnissen', descendants=None, kids=[24914609], score=None, time=1603751013, title=None, item_type='comment', url=None, parent=24901695, text='They definitely block all of AWS, are you using a VPN or similar aggregated connection?')

@@ -1,1 +1,1 @@
-Item(by='aminechikhaoui', descendants=0, kids=None, score=6, time=1603828720, title='NixOS 20.09 Released', item_type='story', url='https://nixos.org/news.html', parent=None, text=None)
+Item(by='aminechikhaoui', descendants=3, kids=[24916064, 24914938], score=16, time=1603828720, title='NixOS 20.09 Released', item_type='story', url='https://nixos.org/news.html', parent=None, text=None)

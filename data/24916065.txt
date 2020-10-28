@@ -1,0 +1,1 @@
+Item(by='onion2k', descendants=None, kids=None, score=None, time=1603868842, title=None, item_type='comment', url=None, parent=24908044, text='Entering www.example.com and getting example.com <i>is</i> a breaking change in the sense that you wouldn&#x27;t expect the user&#x27;s machine to make a request to a different domain.')

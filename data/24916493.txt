@@ -1,0 +1,1 @@
+Item(by='kriro', descendants=None, kids=None, score=None, time=1603873492, title=None, item_type='comment', url=None, parent=24915497, text='Is it just me, or does it feel a bit &quot;dishonest&quot; to have &quot;&quot;&quot;data = requests.get(url).json()&quot;&quot;&quot; in example 3 but use two lines for that in examples 1.')

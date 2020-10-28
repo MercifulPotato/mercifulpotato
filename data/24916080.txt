@@ -1,0 +1,1 @@
+Item(by='lenkite', descendants=None, kids=None, score=None, time=1603869026, title=None, item_type='comment', url=None, parent=24915497, text='Frankly, find_definition should be additionally modified to take a function that consumes a url and returns json data. This way it&#x27;s easily unit-testable.')

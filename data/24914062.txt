@@ -1,1 +1,1 @@
-Item(by='thesephist', descendants=0, kids=None, score=2, time=1603848967, title='When is no-code useful?', item_type='story', url='https://linus.coffee/note/no-code/', parent=None, text=None)
+Item(by='thesephist', descendants=44, kids=[24915354, 24914826, 24914457, 24914790, 24914614, 24915152, 24915137, 24914624, 24914610, 24915761, 24914522, 24914974, 24914480, 24914700], score=40, time=1603848967, title='When is no-code useful?', item_type='story', url='https://linus.coffee/note/no-code/', parent=None, text=None)

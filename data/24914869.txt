@@ -1,0 +1,1 @@
+Item(by='snailmailman', descendants=None, kids=[24915238, 24915211], score=None, time=1603856232, title=None, item_type='comment', url=None, parent=24914829, text='The issue is that Linux sets the bios to UTC, while windows wants the bios to be local time zone.<p>I just do a regedit in windows to fix it. But you can do the change in either OS')

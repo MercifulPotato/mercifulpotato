@@ -1,1 +1,1 @@
-Item(by='stuhood', descendants=3, kids=[24912375, 24912364], score=16, time=1603828682, title='Pants 2.0.0 released – Concurrently cache and orchestrate modern Python builds', item_type='story', url='https://blog.pantsbuild.org/introducing-pants-v2/', parent=None, text=None)
+Item(by='stuhood', descendants=3, kids=[24912375, 24912364], score=18, time=1603828682, title='Pants 2.0.0 released – Concurrently cache and orchestrate modern Python builds', item_type='story', url='https://blog.pantsbuild.org/introducing-pants-v2/', parent=None, text=None)

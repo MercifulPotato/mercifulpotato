@@ -1,0 +1,1 @@
+Item(by='jiggawatts', descendants=None, kids=None, score=None, time=1603863429, title=None, item_type='comment', url=None, parent=24915361, text='Firefox 83b on a 4K display shows the flickering line.<p>The Chromium-based Edge on the same computer however does not have the line.<p>I&#x27;m guessing Google has reduced their QA testing on non-Chromium browsers...')

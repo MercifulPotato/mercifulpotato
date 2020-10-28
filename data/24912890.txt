@@ -1,1 +1,1 @@
-Item(by='warkdarrior', descendants=None, kids=None, score=None, time=1603838584, title=None, item_type='comment', url=None, parent=24910202, text='Is ublock origin allowing you to scrape data from their platform? Then they may want to block that.')
+Item(by='warkdarrior', descendants=None, kids=[24915700], score=None, time=1603838584, title=None, item_type='comment', url=None, parent=24910202, text='Is ublock origin allowing you to scrape data from their platform? Then they may want to block that.')

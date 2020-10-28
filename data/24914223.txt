@@ -1,1 +1,1 @@
-Item(by='indymike', descendants=None, kids=None, score=None, time=1603850579, title=None, item_type='comment', url=None, parent=24908303, text='calling stuff like this no-code is incorrect:<p>=RIGHT(A5, SEARCH(&quot;FOO&quot;,A5))=&quot;BAR&quot;')
+Item(by='indymike', descendants=None, kids=[24914626], score=None, time=1603850579, title=None, item_type='comment', url=None, parent=24908303, text='calling stuff like this no-code is incorrect:<p>=RIGHT(A5, SEARCH(&quot;FOO&quot;,A5))=&quot;BAR&quot;')

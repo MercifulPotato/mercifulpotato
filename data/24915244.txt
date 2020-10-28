@@ -1,0 +1,1 @@
+Item(by='jolux', descendants=None, kids=None, score=None, time=1603859460, title=None, item_type='comment', url=None, parent=24914126, text='Swing is definitely not &quot;less native&quot; than Electron. The entire window is a web view in Electron apps. I believe Java Swing was even an officially supported UI toolkit on the Mac a long time ago.')

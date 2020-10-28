@@ -1,1 +1,1 @@
-Item(by='respinal', descendants=1, kids=[24911726], score=12, time=1603831484, title='Jeff Bezos in talks to buy CNN', item_type='story', url='https://twitter.com/2PMinc/status/1321160443247865857', parent=None, text=None)
+Item(by='respinal', descendants=2, kids=[24911726, 24914679], score=13, time=1603831484, title='Jeff Bezos in talks to buy CNN', item_type='story', url='https://twitter.com/2PMinc/status/1321160443247865857', parent=None, text=None)
