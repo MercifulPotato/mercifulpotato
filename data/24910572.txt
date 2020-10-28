@@ -1,1 +1,1 @@
-Item(by='chrisseaton', descendants=None, kids=None, score=None, time=1603824817, title=None, item_type='comment', url=None, parent=24910463, text='I think the whole point of the &#x27;rule&#x27; is that they have to do it themselves.')
+Item(by='chrisseaton', descendants=None, kids=[24911980], score=None, time=1603824817, title=None, item_type='comment', url=None, parent=24910463, text='I think the whole point of the &#x27;rule&#x27; is that they have to do it themselves.')

@@ -1,0 +1,1 @@
+Item(by='maple3142', descendants=None, kids=None, score=None, time=1603848541, title=None, item_type='comment', url=None, parent=24913347, text='But linux filename basically allows any byte sequence except EOF and &#x2F;, so I think it is &quot;make&quot; fault to not being able to support it. Other proper build tools support it correctly.')

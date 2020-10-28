@@ -1,0 +1,1 @@
+Item(by='lolc', descendants=None, kids=None, score=None, time=1603841723, title=None, item_type='comment', url=None, parent=24912980, text='I&#x27;m doing something like this for a system that&#x27;s configured via web-interface. It has a stable, readable export format which I&#x27;m tracking with Git. So we can actually have a diff and reviews of the changes.')

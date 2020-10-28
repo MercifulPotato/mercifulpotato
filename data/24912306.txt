@@ -1,0 +1,1 @@
+Item(by='earthboundkid', descendants=None, kids=[24913674], score=None, time=1603835172, title=None, item_type='comment', url=None, parent=24907179, text='Like most people who use ES5, your code is broken in IE11 and you had no idea. :-) You use Object.assign(state, next) which does not work in IE11.<p>Using ES5 is pretty much always a mistake in 2020.')

@@ -1,0 +1,1 @@
+Item(by='hiq', descendants=None, kids=[24913429], score=None, time=1603833991, title=None, item_type='comment', url=None, parent=24911201, text='Which latency do you get?<p>I have a cheap VPS for non latency-sensitive stuff, and I just noticed that a ping to returns 15ms more than 1.1.1.1 (for instance). I&#x27;m wondering if you can get a cheap VPS with a good latency.')

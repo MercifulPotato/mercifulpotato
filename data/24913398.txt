@@ -1,0 +1,1 @@
+Item(by='dgb23', descendants=None, kids=[24913501], score=None, time=1603842541, title=None, item_type='comment', url=None, parent=24911696, text='In short With Next you control when things are rendered: SSG&#x2F;SSR&#x2F;CSR, so you get much more flexibility and can cover more use-cases. And it is React based, which is a huge plus, especially if you adhere to a modern style.')

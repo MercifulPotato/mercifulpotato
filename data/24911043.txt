@@ -1,1 +1,1 @@
-Item(by='valuearb', descendants=None, kids=None, score=None, time=1603828052, title=None, item_type='comment', url=None, parent=24908270, text='Because Wall Street sells junk like this to suck, er, retail investors and tells them financials don’t matter.')
+Item(by='valuearb', descendants=None, kids=[24912629], score=None, time=1603828052, title=None, item_type='comment', url=None, parent=24908270, text='Because Wall Street sells junk like this to suck, er, retail investors and tells them financials don’t matter.')

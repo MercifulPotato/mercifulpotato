@@ -1,1 +1,1 @@
-Item(by='yamrzou', descendants=None, kids=None, score=None, time=1603802475, title=None, item_type='comment', url=None, parent=24906225, text='I like these kinds of explanations. As Feynman said: “What I cannot create, I do not understand”.')
+Item(by='yamrzou', descendants=None, kids=[24911241], score=None, time=1603802475, title=None, item_type='comment', url=None, parent=24906225, text='I like these kinds of explanations. As Feynman said: “What I cannot create, I do not understand”.')

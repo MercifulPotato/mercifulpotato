@@ -1,0 +1,1 @@
+Item(by='Tainnor', descendants=None, kids=None, score=None, time=1603835761, title=None, item_type='comment', url=None, parent=24907783, text='I think (from only having skimmed the contents) that there is some handwaving around the definition of the characteristic polynomial. In order to properly define it, you need to allow matrices over arbitrary rings, not just fields.')

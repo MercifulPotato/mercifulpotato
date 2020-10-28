@@ -1,0 +1,1 @@
+Item(by='ec109685', descendants=None, kids=None, score=None, time=1603852404, title=None, item_type='comment', url=None, parent=24907090, text='I don&#x27;t think individual development teams should be hosting this code in their own services. Instead, they should declaratively specify the rules on what roles can do what, and rely on another layer to honor those requirements.')

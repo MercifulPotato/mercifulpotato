@@ -1,1 +1,1 @@
-Item(by='petra', descendants=None, kids=None, score=None, time=1603793211, title=None, item_type='comment', url=None, parent=24902164, text='Where can i learn more about the leading edge of those conversational language models ?')
+Item(by='petra', descendants=None, kids=[24911212], score=None, time=1603793211, title=None, item_type='comment', url=None, parent=24902164, text='Where can i learn more about the leading edge of those conversational language models ?')

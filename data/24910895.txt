@@ -1,1 +1,1 @@
-Item(by='caycep', descendants=None, kids=None, score=None, time=1603827006, title=None, item_type='comment', url=None, parent=24908296, text='I think this article is meant more for potential donors to the university rather than other scientists...')
+Item(by='caycep', descendants=None, kids=[24911913], score=None, time=1603827006, title=None, item_type='comment', url=None, parent=24908296, text='I think this article is meant more for potential donors to the university rather than other scientists...')

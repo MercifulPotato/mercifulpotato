@@ -1,0 +1,1 @@
+Item(by='beatthatflight', descendants=None, kids=None, score=None, time=1603844457, title=None, item_type='comment', url=None, parent=24912475, text='even the docker commands are still:<p>#pull\ndocker pull liyasthomas&#x2F;postwoman<p>#build\ndocker build -t postwoman:latest .<p>#run\ndocker run -p 3000:3000 postwoman:latest')

@@ -1,1 +1,1 @@
-Item(by='taywrobel', descendants=None, kids=None, score=None, time=1603812722, title=None, item_type='comment', url=None, parent=24908305, text='An advertisement for pivot tables of all things. What an oddly specific concept to fixate on as an example of shifting technical competence.')
+Item(by='taywrobel', descendants=None, kids=[24914553], score=None, time=1603812722, title=None, item_type='comment', url=None, parent=24908305, text='An advertisement for pivot tables of all things. What an oddly specific concept to fixate on as an example of shifting technical competence.')

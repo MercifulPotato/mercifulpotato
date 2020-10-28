@@ -1,0 +1,1 @@
+Item(by='nullc', descendants=None, kids=[24913489], score=None, time=1603836625, title=None, item_type='comment', url=None, parent=24905821, text='Disable web fonts:  about:config and set gfx.downloadable_fonts.enabled to false.<p>Readable pages and bonus: two RCE vulnerabilities avoided so far.')

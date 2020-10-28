@@ -1,1 +1,1 @@
-Item(by='Bhilai', descendants=0, kids=None, score=1, time=1603825341, title='New limits on the NOAA would undercut action against global warming', item_type='story', url='https://www.nytimes.com/2020/10/27/climate/trump-election-climate-noaa.html', parent=None, text=None)
+Item(by='Bhilai', descendants=0, kids=[24911057], score=2, time=1603825341, title='New limits on the NOAA would undercut action against global warming', item_type='story', url='https://www.nytimes.com/2020/10/27/climate/trump-election-climate-noaa.html', parent=None, text=None)

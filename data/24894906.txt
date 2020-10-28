@@ -1,1 +1,1 @@
-Item(by='galfarragem', descendants=0, kids=None, score=2, time=1603711146, title='Un-opinionated S-expression syntax and macro system for JavaScript', item_type='story', url='https://github.com/anko/eslisp', parent=None, text=None)
+Item(by='galfarragem', descendants=17, kids=[24912799, 24913749, 24913863, 24912203, 24913826, 24912610, 24913679, 24912760, 24914203, 24913313], score=89, time=1603711146, title='Eslisp – An S-expression syntax for ECMAScript/JavaScript, with Lisp-like macros', item_type='story', url='https://github.com/anko/eslisp', parent=None, text=None)

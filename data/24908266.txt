@@ -1,1 +1,1 @@
-Item(by='malkia', descendants=None, kids=None, score=None, time=1603812131, title=None, item_type='comment', url=None, parent=24907106, text='Is Tableau written with QML, or QtGui? (I&#x27;m familiar with the latter, and have never used Qml)')
+Item(by='malkia', descendants=None, kids=[24913538], score=None, time=1603812131, title=None, item_type='comment', url=None, parent=24907106, text='Is Tableau written with QML, or QtGui? (I&#x27;m familiar with the latter, and have never used Qml)')

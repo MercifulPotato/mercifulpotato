@@ -1,1 +1,1 @@
-Item(by='jaden', descendants=0, kids=None, score=1, time=1603714067, title='Hoppscotch – A free, fast and beautiful API request builder', item_type='story', url='https://github.com/hoppscotch/hoppscotch', parent=None, text=None)
+Item(by='jaden', descendants=3, kids=[24912475, 24912563], score=42, time=1603714067, title='Hoppscotch – A free, fast API request builder', item_type='story', url='https://github.com/hoppscotch/hoppscotch', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='svieira', descendants=None, kids=None, score=None, time=1603831972, title=None, item_type='comment', url=None, parent=24911110, text='TL;DW - parts of Sapper may be in a future version of Svelte, but looking to add support for mixed static and dynamic pages and improving development speed to change by using Snowpack.')

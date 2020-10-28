@@ -1,0 +1,1 @@
+Item(by='wyldfire', descendants=None, kids=None, score=None, time=1603833207, title=None, item_type='comment', url=None, parent=24910995, text='Are there any boilerplate projects providing a demo of an open source 2d or 2d+physics game engine?  (Presumably the answer to that is yes). \n Bonus points if I can use rust&#x2F;zig or easily target android or iOS.')

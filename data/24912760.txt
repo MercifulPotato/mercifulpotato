@@ -1,0 +1,1 @@
+Item(by='asynchrony', descendants=None, kids=None, score=None, time=1603837627, title=None, item_type='comment', url=None, parent=24894906, text='How does it handle symbols that aren&#x27;t legal javascript identifiers? Is that on the user or are the some safety conventions in place in the compiler?')

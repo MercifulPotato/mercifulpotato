@@ -1,1 +1,1 @@
-Item(by='da-x', descendants=3, kids=[24905915, 24906402, 24907686], score=30, time=1603689291, title='Show HN: Git-Retext', item_type='story', url='https://blog.aloni.org/posts/gitology-2-git-retext/', parent=None, text=None)
+Item(by='da-x', descendants=4, kids=[24905915, 24906402, 24911254, 24907686], score=30, time=1603689291, title='Show HN: Git-Retext', item_type='story', url='https://blog.aloni.org/posts/gitology-2-git-retext/', parent=None, text=None)

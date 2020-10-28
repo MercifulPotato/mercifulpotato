@@ -1,1 +1,1 @@
-Item(by='XMPPwocky', descendants=None, kids=None, score=None, time=1603821004, title=None, item_type='comment', url=None, parent=24907303, text='Also note Xilinx&#x27;s next-gen parts have dedicated VLIW &quot;AI accelerators&quot; (full hard CPUs!)')
+Item(by='XMPPwocky', descendants=None, kids=[24911503], score=None, time=1603821004, title=None, item_type='comment', url=None, parent=24907303, text='Also note Xilinx&#x27;s next-gen parts have dedicated VLIW &quot;AI accelerators&quot; (full hard CPUs!)')

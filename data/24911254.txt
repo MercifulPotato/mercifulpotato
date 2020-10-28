@@ -1,0 +1,1 @@
+Item(by='WorldMaker', descendants=None, kids=None, score=None, time=1603829281, title=None, item_type='comment', url=None, parent=24893024, text='While `git add --patch` and `git add --interactive` have somewhat steep learning curves, they do offer the ability to edit hunks of diffs without needing to pretend you are writing an email to yourself.')

@@ -1,1 +1,1 @@
-Item(by='lucacasonato', descendants=2, kids=[24910104], score=12, time=1603813175, title='Deno 1.5', item_type='story', url='https://deno.land/posts/v1.5', parent=None, text=None)
+Item(by='lucacasonato', descendants=5, kids=[24910104, 24912522, 24912032], score=49, time=1603813175, title='Deno 1.5', item_type='story', url='https://deno.land/posts/v1.5', parent=None, text=None)
