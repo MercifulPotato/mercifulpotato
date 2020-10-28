@@ -1,1 +1,1 @@
-Item(by='hsbauauvhabzb', descendants=None, kids=[24913676], score=None, time=1603836127, title=None, item_type='comment', url=None, parent=24910454, text='Repo packages moved slowly, pip or building from source was often the only way of reliably getting it to work.')
+Item(by='hsbauauvhabzb', descendants=None, kids=[24913676, 24919035], score=None, time=1603836127, title=None, item_type='comment', url=None, parent=24910454, text='Repo packages moved slowly, pip or building from source was often the only way of reliably getting it to work.')

@@ -1,0 +1,1 @@
+Item(by='zanny', descendants=None, kids=None, score=None, time=1603907262, title=None, item_type='comment', url=None, parent=24921165, text='Kernel 5.9 seems to have finally made the 5700XT stable for me. Since 5.6 the crashes have gotten less frequent per release, but I haven&#x27;t had one in almost two weeks since this latest kernel.')

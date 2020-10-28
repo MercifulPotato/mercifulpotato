@@ -1,0 +1,1 @@
+Item(by='falcolas', descendants=None, kids=[24923659], score=None, time=1603894823, title=None, item_type='comment', url=None, parent=24918913, text='Varnish cache is great. Heck, any kind of caching is great. Even a stupidly simple 5 second cache will be sufficient for handling most levels of traffic.')

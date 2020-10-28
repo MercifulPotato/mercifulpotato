@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=None, score=None, time=1603899343, title=None, item_type='comment', url=None, parent=24919913, text='One thing one has to get away from that one change request == one issue. Multiple small commits as separate change requests for one story are fine as long as they work standalone (which is generally a good idea, e.g. to enable bisecting)')

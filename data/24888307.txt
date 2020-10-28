@@ -1,1 +1,1 @@
-Item(by='mmastrac', descendants=14, kids=[24899409, 24903324, 24900099], score=139, time=1603648430, title='UEFI-rs: Write UEFI applications in Rust', item_type='story', url='https://github.com/rust-osdev/uefi-rs', parent=None, text=None)
+Item(by='mmastrac', descendants=14, kids=[24899409, 24903324, 24900099], score=140, time=1603648430, title='UEFI-rs: Write UEFI applications in Rust', item_type='story', url='https://github.com/rust-osdev/uefi-rs', parent=None, text=None)

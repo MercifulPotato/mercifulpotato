@@ -1,0 +1,1 @@
+Item(by='mraleph', descendants=None, kids=None, score=None, time=1603912082, title=None, item_type='comment', url=None, parent=24922559, text='&gt; 2. Dart has optional typing, which is to say it supports type hints but is essentially dynamically rather than statically typed.<p>Dart has not been optionally typed since Dart 2 (released in 2018).')

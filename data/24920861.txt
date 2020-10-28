@@ -1,0 +1,1 @@
+Item(by='ibraheemdev', descendants=None, kids=None, score=None, time=1603903099, title=None, item_type='comment', url=None, parent=24920011, text='Rust is awesome. Lifetimes and ownership are amazing abstractions over memory management. However, Rust causes you to become dependent on the borrow checker, and often lazy. It might be very hard to switch to C or C++ after.')

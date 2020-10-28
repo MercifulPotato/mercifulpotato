@@ -1,0 +1,1 @@
+Item(by='tayistay', descendants=None, kids=[24921986], score=None, time=1603902525, title=None, item_type='comment', url=None, parent=24920610, text='You can do that fairly easily with C++ lambdas. I think the primary deficiency, though, is that the functions aren&#x27;t exposed for unit testing.')

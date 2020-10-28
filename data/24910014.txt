@@ -1,1 +1,1 @@
-Item(by='fuzzy2', descendants=None, kids=None, score=None, time=1603821471, title=None, item_type='comment', url=None, parent=24909695, text='React doesn&#x27;t have HTML templates though…? You can also have CSS-in-JS if you really want.')
+Item(by='fuzzy2', descendants=None, kids=[24922313], score=None, time=1603821471, title=None, item_type='comment', url=None, parent=24909695, text='React doesn&#x27;t have HTML templates though…? You can also have CSS-in-JS if you really want.')

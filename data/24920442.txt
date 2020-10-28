@@ -1,0 +1,1 @@
+Item(by='tynorf', descendants=None, kids=None, score=None, time=1603901282, title=None, item_type='comment', url=None, parent=24920339, text='I believe being lenient in accepting input is what leads to SSRF attacks (HTTP request smuggling via disagreeing `transfer-encoding` and `content-length` headers).')

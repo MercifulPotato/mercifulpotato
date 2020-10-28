@@ -1,0 +1,1 @@
+Item(by='Kube_fan_510', descendants=None, kids=None, score=None, time=1603898640, title=None, item_type='comment', url=None, parent=24919798, text='KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.')

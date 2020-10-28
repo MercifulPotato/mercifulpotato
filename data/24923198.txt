@@ -1,0 +1,1 @@
+Item(by='amw-zero', descendants=None, kids=None, score=None, time=1603913808, title=None, item_type='comment', url=None, parent=24918113, text='That&#x27;s called temporal coupling, where some code only works if some previous code set some variable earlier in time. And it&#x27;s a sign that you&#x27;re building an implicit state machine.')

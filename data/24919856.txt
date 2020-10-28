@@ -1,0 +1,1 @@
+Item(by='zubairq', descendants=None, kids=None, score=None, time=1603898859, title=None, item_type='comment', url=None, parent=24915818, text='I actually built an external version control system for Excel a few years ago. It is actually a hard problem to solve, as you have to figure out when a user cuts and pastes between worksheets to be useful.')

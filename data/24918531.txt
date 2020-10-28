@@ -1,1 +1,1 @@
-Item(by='mwcampbell', descendants=None, kids=None, score=None, time=1603891989, title=None, item_type='comment', url=None, parent=24917311, text='Interesting to read about the new ARM64 boards. Does anyone have experience using one of these as a desktop computer?')
+Item(by='mwcampbell', descendants=None, kids=[24921060], score=None, time=1603891989, title=None, item_type='comment', url=None, parent=24917311, text='Interesting to read about the new ARM64 boards. Does anyone have experience using one of these as a desktop computer?')

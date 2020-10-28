@@ -1,0 +1,1 @@
+Item(by='lumost', descendants=None, kids=[24922246], score=None, time=1603906623, title=None, item_type='comment', url=None, parent=24921342, text='ML on AMD is currently impractical, the mainstream tools have hard deps on CUDA and the AMD projects are so far half-baked.')

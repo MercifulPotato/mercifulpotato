@@ -1,0 +1,1 @@
+Item(by='chungy', descendants=None, kids=[24921054], score=None, time=1603902853, title=None, item_type='comment', url=None, parent=24920532, text='Kile most likely runs as a native Wayland application. Though for any legacy apps&#x2F;games that use X, yeah they&#x27;ll run in XWayland and should be seamless.')

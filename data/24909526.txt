@@ -1,1 +1,1 @@
-Item(by='mion', descendants=None, kids=None, score=None, time=1603819097, title=None, item_type='comment', url=None, parent=24904807, text='Thank you so much!! :) What aspects of the design did you find more appealing?')
+Item(by='mion', descendants=None, kids=[24919809], score=None, time=1603819097, title=None, item_type='comment', url=None, parent=24904807, text='Thank you so much!! :) What aspects of the design did you find more appealing?')

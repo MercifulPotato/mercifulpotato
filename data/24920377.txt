@@ -1,0 +1,1 @@
+Item(by='free_rms', descendants=None, kids=[24920797], score=None, time=1603900979, title=None, item_type='comment', url=None, parent=24920150, text='The whole function is operating on a giant shared buffer representing a texture, though.  So you can&#x27;t break it into pure functions without introducing unacceptable copies of the buffer, right?')

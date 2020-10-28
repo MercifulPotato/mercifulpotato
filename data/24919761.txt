@@ -1,0 +1,1 @@
+Item(by='maxk42', descendants=None, kids=[24920022], score=None, time=1603898470, title=None, item_type='comment', url=None, parent=24918412, text='Just spent 24 hours grappling with docker issues on fedora 32.  In the midst of these issues my OS prompts me to download F33 and I see the migration to btrfs.<p>I no longer trust the Fedora maintainers.')

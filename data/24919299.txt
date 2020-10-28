@@ -1,0 +1,1 @@
+Item(by='fsloth', descendants=None, kids=None, score=None, time=1603896376, title=None, item_type='comment', url=None, parent=24919188, text='Oh, yes, the C++ ecosystem is horribly fragmented.<p>But I would hardly call the build system the main blocker unless the software module under development is near trivial in complexity.')

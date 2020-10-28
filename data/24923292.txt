@@ -1,0 +1,1 @@
+Item(by='number101010', descendants=None, kids=None, score=None, time=1603914283, title=None, item_type='comment', url=None, parent=24922850, text='We batch up traces in a block and write a block at a time.  Internally we are currently configured to write 100k traces in one batch.')

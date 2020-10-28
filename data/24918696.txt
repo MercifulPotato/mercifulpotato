@@ -1,1 +1,1 @@
-Item(by='ashleyn', descendants=None, kids=None, score=None, time=1603893023, title=None, item_type='comment', url=None, parent=24918678, text='Derivative works from a biology paper can result in disinformation.')
+Item(by='ashleyn', descendants=None, kids=[24918799], score=None, time=1603893023, title=None, item_type='comment', url=None, parent=24918678, text='Derivative works from a biology paper can result in disinformation.')

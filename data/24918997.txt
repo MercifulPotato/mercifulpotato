@@ -1,0 +1,1 @@
+Item(by='innocenat', descendants=None, kids=None, score=None, time=1603894853, title=None, item_type='comment', url=None, parent=24918874, text='I have not used cloudfront, but cloudflare significantly increase my TTFB.')

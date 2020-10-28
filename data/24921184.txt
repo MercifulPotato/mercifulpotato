@@ -1,0 +1,1 @@
+Item(by='dogma1138', descendants=None, kids=None, score=None, time=1603904436, title=None, item_type='comment', url=None, parent=24921084, text='ROCm is only available on Linux and doesn’t support NAVI GPUs.<p>Overall if you need to have a solution that just works with any ML framework out there Radeon GPUs aren’t fit for purpose.')

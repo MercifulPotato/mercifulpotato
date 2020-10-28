@@ -1,0 +1,1 @@
+Item(by='uyt', descendants=None, kids=None, score=None, time=1603907727, title=None, item_type='comment', url=None, parent=24921005, text='I always wanted to use pouchdb as a self-hosted firebase for small projects but I have trouble reasoning about the cost.<p>How much load can a cheap VPS handle in terms of concurrent live syncing users?')

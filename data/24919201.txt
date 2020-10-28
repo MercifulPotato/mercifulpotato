@@ -1,0 +1,1 @@
+Item(by='ajoseps', descendants=None, kids=[24919358], score=None, time=1603895902, title=None, item_type='comment', url=None, parent=24919055, text='You can use custom allocators to minimize dynamic allocation. STL now provides some of these allocators out of the box, but it still can be useful to define your own. Arena or memory pool allocators are the first that come to mind.')

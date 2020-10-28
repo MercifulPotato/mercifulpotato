@@ -1,0 +1,1 @@
+Item(by='The_rationalist', descendants=None, kids=[24923837, 24923732], score=None, time=1603912786, title=None, item_type='comment', url=None, parent=24921790, text='Interesting to see that it significantly outperform pypy on some metrics, but wouldn&#x27;t have it been better to allocate the human resources towards pypy instead of a duplicated effort?')

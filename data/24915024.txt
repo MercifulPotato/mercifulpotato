@@ -1,1 +1,1 @@
-Item(by='benmccann', descendants=None, kids=None, score=None, time=1603857585, title=None, item_type='comment', url=None, parent=24909118, text='&quot;Sapper is dead&quot; is not really accurate. SvelteKit is Sapper + Snowpack and there will be a migration path.')
+Item(by='benmccann', descendants=None, kids=[24919284], score=None, time=1603857585, title=None, item_type='comment', url=None, parent=24909118, text='&quot;Sapper is dead&quot; is not really accurate. SvelteKit is Sapper + Snowpack and there will be a migration path.')

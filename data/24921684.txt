@@ -1,0 +1,1 @@
+Item(by='subtypefiddler', descendants=None, kids=[24922412], score=None, time=1603906475, title=None, item_type='comment', url=None, parent=24921592, text='It&#x27;s not just CUDA vs ROCm, ROCm has come a long way and is pretty compelling right now. What they lack is the proper hardware acceleration (e.g tensor cores).')

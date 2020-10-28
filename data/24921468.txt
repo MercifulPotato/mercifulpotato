@@ -1,0 +1,1 @@
+Item(by='sfshaw', descendants=None, kids=None, score=None, time=1603905607, title=None, item_type='comment', url=None, parent=24921110, text='It&#x27;s probably a sweet spot between adding more CU&#x27;s versus cache. Given their memory bandwidth is lower, alleviating that with cache makes more sense than adding more CU&#x27;s.')

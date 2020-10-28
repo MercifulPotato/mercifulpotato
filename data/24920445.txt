@@ -1,0 +1,1 @@
+Item(by='Cthulhu_', descendants=None, kids=[24923484, 24922220], score=None, time=1603901301, title=None, item_type='comment', url=None, parent=24920255, text='After reviewing some tools we went with Phabricator ourselves; it&#x27;s not ideal, but it&#x27;s open source (read: free, we can&#x27;t afford a $x &#x2F; seat license) and self-hosted.')

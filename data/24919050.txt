@@ -1,1 +1,1 @@
-Item(by='humbleMouse', descendants=None, kids=None, score=None, time=1603895091, title=None, item_type='comment', url=None, parent=24918891, text='Yeah this is what I was thinking.  I pity the people who navigate java projects without ctrl+alt+b.  What an existence that must be.')
+Item(by='humbleMouse', descendants=None, kids=[24920376], score=None, time=1603895091, title=None, item_type='comment', url=None, parent=24918891, text='Yeah this is what I was thinking.  I pity the people who navigate java projects without ctrl+alt+b.  What an existence that must be.')

@@ -1,0 +1,1 @@
+Item(by='easde', descendants=None, kids=None, score=None, time=1603914083, title=None, item_type='comment', url=None, parent=24922339, text='You&#x27;ll want tensor cores, so I would stick to the 2000 or 3000-series Nvidia cards. Not to mention the headaches of using AMD cards with any ML framework.')

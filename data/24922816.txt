@@ -1,0 +1,1 @@
+Item(by='JoeAltmaier', descendants=None, kids=[24923565, 24923376], score=None, time=1603911905, title=None, item_type='comment', url=None, parent=24922755, text='My experience is not this.<p>I&#x27;ve never seen an embedded app with GC.<p>And embedded is usually dog slow processor running at minimum clock, to save power. So pauses are 10X or more the issue re: desktop.')

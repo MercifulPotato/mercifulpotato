@@ -1,1 +1,1 @@
-Item(by='corruptedX', descendants=None, kids=[24918960, 24915537, 24915609, 24916034], score=None, time=1603860258, title=None, item_type='comment', url=None, parent=24914573, text='I gave up dual booting after they released WSL2.')
+Item(by='corruptedX', descendants=None, kids=[24915537, 24918960, 24915609, 24916034], score=None, time=1603860258, title=None, item_type='comment', url=None, parent=24914573, text='I gave up dual booting after they released WSL2.')

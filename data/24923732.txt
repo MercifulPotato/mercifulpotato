@@ -1,0 +1,1 @@
+Item(by='Rochus', descendants=None, kids=None, score=None, time=1603916803, title=None, item_type='comment', url=None, parent=24922993, text='Do you mean the Pylint result? Was this confirmed elsewhere? It&#x27;s unlikely that an interpreter is faster than a tracing JIT in geomean over a relevant set of benchmarks.')

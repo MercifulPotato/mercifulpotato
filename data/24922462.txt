@@ -1,0 +1,1 @@
+Item(by='dwheeler', descendants=None, kids=[24922522], score=None, time=1603910098, title=None, item_type='comment', url=None, parent=24922379, text='As far as I know CPython is quite welcoming.<p>However, per the blog post, this version of Pyston is closed source. So CPython won&#x27;t be interested, and many others won&#x27;t be interested either.')

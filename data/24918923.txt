@@ -1,0 +1,1 @@
+Item(by='dsr_', descendants=None, kids=[24919139], score=None, time=1603894412, title=None, item_type='comment', url=None, parent=24918846, text='If you render everything out and save it in cache, it mostly doesn&#x27;t matter how terribly your database is performing until you start getting lots of comments.')

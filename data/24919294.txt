@@ -1,0 +1,1 @@
+Item(by='randall', descendants=None, kids=None, score=None, time=1603896357, title=None, item_type='comment', url=None, parent=24911050, text='It&#x27;s always &quot;tear it down&quot; or &quot;build it up&quot; at the end of the day. Which one takes more effort is the right one to optimize for with your particular use case.<p>Rails vs Sinatra is a great example.')

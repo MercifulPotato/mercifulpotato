@@ -1,0 +1,1 @@
+Item(by='dr-ando', descendants=None, kids=[24920932, 24923233], score=None, time=1603902726, title=None, item_type='comment', url=None, parent=24920215, text='The dev kit is just that - a dev kit. For production you could use the jetson nano module but probably want a different carrier board. I think the Nvidia license also prevents production use of the dev kit.')

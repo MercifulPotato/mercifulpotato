@@ -1,0 +1,1 @@
+Item(by='Olipro', descendants=None, kids=[24919148, 24919201], score=None, time=1603895141, title=None, item_type='comment', url=None, parent=24919015, text='What use-case are you envisioning where one needs to &quot;carefully control&quot; the allocator for STL types?<p>Your idea of heavenly C++ sounds like my idea of hell.')

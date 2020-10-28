@@ -1,1 +1,1 @@
-Item(by='sophiebits', descendants=None, kids=None, score=None, time=1603827184, title=None, item_type='comment', url=None, parent=24909661, text='The React team has been focusing much more on SSR lately. I think it&#x27;s likely we&#x27;ll see big things in 2021.')
+Item(by='sophiebits', descendants=None, kids=[24921258], score=None, time=1603827184, title=None, item_type='comment', url=None, parent=24909661, text='The React team has been focusing much more on SSR lately. I think it&#x27;s likely we&#x27;ll see big things in 2021.')

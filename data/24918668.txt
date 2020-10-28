@@ -1,1 +1,1 @@
-Item(by='chimen', descendants=None, kids=None, score=None, time=1603892830, title=None, item_type='comment', url=None, parent=24918594, text='I put my own name and reputation behind it. Those words are real since you end&#x27;up with both the server and the client.')
+Item(by='chimen', descendants=None, kids=[24921294, 24918745], score=None, time=1603892830, title=None, item_type='comment', url=None, parent=24918594, text='I put my own name and reputation behind it. Those words are real since you end&#x27;up with both the server and the client.')

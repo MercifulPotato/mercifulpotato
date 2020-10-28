@@ -1,1 +1,1 @@
-Item(by='e12e', descendants=None, kids=None, score=None, time=1603895886, title=None, item_type='comment', url=None, parent=24914573, text='I wonder if windows 10 can&#x2F;will be able to boot off zfs ? Then we&#x27;d finally be able to share a disk and let zfs deal with encryption...')
+Item(by='e12e', descendants=None, kids=[24919520], score=None, time=1603895886, title=None, item_type='comment', url=None, parent=24914573, text='I wonder if windows 10 can&#x2F;will be able to boot off zfs ? Then we&#x27;d finally be able to share a disk and let zfs deal with encryption...')
