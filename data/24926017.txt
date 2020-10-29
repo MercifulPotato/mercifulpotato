@@ -1,0 +1,1 @@
+Item(by='rglover', descendants=None, kids=None, score=None, time=1603933944, title=None, item_type='comment', url=None, parent=24925795, text='Not quite. It&#x27;s just a client-side cache of query results matching a MongoDB query on the server (pub&#x2F;sub).')

@@ -1,1 +1,1 @@
-Item(by='radkapital', descendants=0, kids=None, score=2, time=1603909894, title='AMD, Nvidia Chip Away at Intel’s Semiconductor Dominance', item_type='story', url='https://www.wsj.com/articles/amd-nvidia-chip-away-at-intels-semiconductor-dominance-11603909252', parent=None, text=None)
+Item(by='radkapital', descendants=1, kids=[24925931], score=3, time=1603909894, title='AMD, Nvidia Chip Away at Intel’s Semiconductor Dominance', item_type='story', url='https://www.wsj.com/articles/amd-nvidia-chip-away-at-intels-semiconductor-dominance-11603909252', parent=None, text=None)

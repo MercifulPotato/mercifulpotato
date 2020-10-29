@@ -1,0 +1,1 @@
+Item(by='merb', descendants=None, kids=None, score=None, time=1603925041, title=None, item_type='comment', url=None, parent=24920702, text='well there is also React.NET which actually can use razor pages to include react components. pretty neat. also there is blazor which works with websockets and pushes html to clients.')

@@ -1,1 +1,1 @@
-Item(by='ska', descendants=None, kids=None, score=None, time=1603915303, title=None, item_type='comment', url=None, parent=24919102, text='Consulting can pay a lot more (for a typical engineer) but it really is a different job from either of those.')
+Item(by='ska', descendants=None, kids=[24924604], score=None, time=1603915303, title=None, item_type='comment', url=None, parent=24919102, text='Consulting can pay a lot more (for a typical engineer) but it really is a different job from either of those.')

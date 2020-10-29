@@ -1,0 +1,1 @@
+Item(by='millstone', descendants=None, kids=[24926103], score=None, time=1603934168, title=None, item_type='comment', url=None, parent=24925876, text='The effect is that open source projects avoid Bazel. I&#x27;d rather fight with CMake than take a Java dependency in a C++ codebase.<p>It&#x27;s a pity, feels like a real missed opportunity.')

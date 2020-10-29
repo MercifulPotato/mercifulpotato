@@ -1,0 +1,1 @@
+Item(by='firefoxd', descendants=None, kids=[24925136], score=None, time=1603925288, title=None, item_type='comment', url=None, parent=24920702, text='Maybe this is more suited to stackoverflow but, how do you load with turbolinks when the two pages use different assets? Let&#x27;s say each page have different js script tags.')

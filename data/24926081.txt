@@ -1,0 +1,1 @@
+Item(by='KidComputer', descendants=None, kids=None, score=None, time=1603934515, title=None, item_type='comment', url=None, parent=24925987, text='I&#x27;d generate document embeddings for each page then put the embedding vectors in a similarity search database like Facebook Research&#x27;s Faiss.')

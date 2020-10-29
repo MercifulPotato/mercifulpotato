@@ -1,1 +1,1 @@
-Item(by='d4rti', descendants=None, kids=None, score=None, time=1603912454, title=None, item_type='comment', url=None, parent=24920601, text='I think pipewire broke my audio when I upgraded to Kubuntu 20.10. Removing it fixed it and seems to have had no ill effects.')
+Item(by='d4rti', descendants=None, kids=[24925971], score=None, time=1603912454, title=None, item_type='comment', url=None, parent=24920601, text='I think pipewire broke my audio when I upgraded to Kubuntu 20.10. Removing it fixed it and seems to have had no ill effects.')

@@ -1,0 +1,1 @@
+Item(by='kzrdude', descendants=None, kids=None, score=None, time=1603928421, title=None, item_type='comment', url=None, parent=24924288, text='rather famously, one needs an intense operation like matrix multiplication to get cpu bound (an operation that has many enough arithmetic operations per data element, for I&#x2F;O to not dominate).')

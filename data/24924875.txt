@@ -1,0 +1,1 @@
+Item(by='k__', descendants=None, kids=[24925296], score=None, time=1603924215, title=None, item_type='comment', url=None, parent=24920702, text='Isn&#x27;t Next.js (and in turn React, on which Next is built) the answer to that question?<p>It can do client side rendering, server side rendering, and static site genration.')

@@ -1,0 +1,1 @@
+Item(by='edflsafoiewq', descendants=None, kids=None, score=None, time=1603920754, title=None, item_type='comment', url=None, parent=24923383, text='It computes (2^b) % n, assuming n is an unsigned b-bit integer. You can&#x27;t do this directly, since 2^b itself doesn&#x27;t fit into a b-bit integer.')

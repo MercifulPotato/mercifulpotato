@@ -1,1 +1,1 @@
-Item(by='pengaru', descendants=None, kids=None, score=None, time=1603915871, title=None, item_type='comment', url=None, parent=24923460, text='The vast majority of app developers use toolkits and don&#x27;t care where the window decorations come from.')
+Item(by='pengaru', descendants=None, kids=[24924071], score=None, time=1603915871, title=None, item_type='comment', url=None, parent=24923460, text='The vast majority of app developers use toolkits and don&#x27;t care where the window decorations come from.')

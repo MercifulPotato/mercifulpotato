@@ -1,0 +1,1 @@
+Item(by='gumby', descendants=None, kids=None, score=None, time=1603922381, title=None, item_type='comment', url=None, parent=24921984, text='This only works on two&#x27;s complement machines.  The C++ standard only required two&#x27;s complement with c++20.<p>That being said I am not sure I&#x27;ve ever programmed a one&#x27;s complement machine.')

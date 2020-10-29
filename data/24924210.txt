@@ -1,0 +1,1 @@
+Item(by='kentonv', descendants=None, kids=[24926454], score=None, time=1603919560, title=None, item_type='comment', url=None, parent=24922318, text='kj::Maybe has an `orDefault()` method that is like `.value_or()` but I find that it is almost never useful. You almost always want to execute different logic in the null case, rather than treat it as some default value.')

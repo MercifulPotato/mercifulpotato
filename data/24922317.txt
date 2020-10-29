@@ -1,1 +1,1 @@
-Item(by='shadowgovt', descendants=None, kids=None, score=None, time=1603909481, title=None, item_type='comment', url=None, parent=24922018, text='Clothing won&#x27;t help when the roads are slushed up.')
+Item(by='shadowgovt', descendants=None, kids=[24924688], score=None, time=1603909481, title=None, item_type='comment', url=None, parent=24922018, text='Clothing won&#x27;t help when the roads are slushed up.')

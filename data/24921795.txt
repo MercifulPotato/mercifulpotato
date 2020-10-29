@@ -1,1 +1,1 @@
-Item(by='nightski', descendants=None, kids=None, score=None, time=1603906988, title=None, item_type='comment', url=None, parent=24921612, text='To be fair to Nvidia it&#x27;s not the same.  AMD card is GDDR6 and 3090 is GDDR6X (which may be causing Nvidia&#x27;s supply issues).')
+Item(by='nightski', descendants=None, kids=[24925821], score=None, time=1603906988, title=None, item_type='comment', url=None, parent=24921612, text='To be fair to Nvidia it&#x27;s not the same.  AMD card is GDDR6 and 3090 is GDDR6X (which may be causing Nvidia&#x27;s supply issues).')

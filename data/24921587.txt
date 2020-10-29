@@ -1,1 +1,1 @@
-Item(by='7thaccount', descendants=None, kids=None, score=None, time=1603906069, title=None, item_type='comment', url=None, parent=24920872, text='Reminds me of Ursula Leguin&#x27;s &quot;the ones who walk away from Omelas&quot; which is pretty horrifying in its own way.')
+Item(by='7thaccount', descendants=None, kids=[24926851], score=None, time=1603906069, title=None, item_type='comment', url=None, parent=24920872, text='Reminds me of Ursula Leguin&#x27;s &quot;the ones who walk away from Omelas&quot; which is pretty horrifying in its own way.')

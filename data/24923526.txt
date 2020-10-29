@@ -1,1 +1,1 @@
-Item(by='xiphias2', descendants=None, kids=None, score=None, time=1603915595, title=None, item_type='comment', url=None, parent=24921023, text='Have you thought of the option of disabling links? That would make SEO spam impossible')
+Item(by='xiphias2', descendants=None, kids=[24924299], score=None, time=1603915595, title=None, item_type='comment', url=None, parent=24921023, text='Have you thought of the option of disabling links? That would make SEO spam impossible')

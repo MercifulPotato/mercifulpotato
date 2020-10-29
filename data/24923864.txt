@@ -1,0 +1,1 @@
+Item(by='foldr', descendants=None, kids=[24924560], score=None, time=1603917577, title=None, item_type='comment', url=None, parent=24921984, text='Apart from the overall oddness of this, the result of applying the modulo operator to signed arguments is technically undefined behavior in C.')

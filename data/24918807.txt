@@ -1,1 +1,1 @@
-Item(by='bproven', descendants=None, kids=None, score=None, time=1603893745, title=None, item_type='comment', url=None, parent=24917311, text='Congrats Fedora team!  I upgraded last eve on a thinkpad carbon x1 6th gen.  Took 15 min and was seemless!  My 4th upgrade on this laptop.')
+Item(by='bproven', descendants=None, kids=[24924510], score=None, time=1603893745, title=None, item_type='comment', url=None, parent=24917311, text='Congrats Fedora team!  I upgraded last eve on a thinkpad carbon x1 6th gen.  Took 15 min and was seemless!  My 4th upgrade on this laptop.')

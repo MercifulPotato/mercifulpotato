@@ -1,0 +1,1 @@
+Item(by='protoduction', descendants=None, kids=None, score=None, time=1603921233, title=None, item_type='comment', url=None, parent=24923631, text='It is also important to note that the 6-12 seconds and 7-14 seconds reported in the paper is for the garbled text CAPTCHAs, not for image labeling tasks (fire hydrants, cars, etc).')

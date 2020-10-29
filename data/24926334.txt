@@ -1,0 +1,1 @@
+Item(by='resoluteteeth', descendants=None, kids=[24926359], score=None, time=1603937374, title=None, item_type='comment', url=None, parent=24926169, text='It doesn&#x27;t seem like there&#x27;s any major difference so it&#x27;s interesting that latency is perceived as being a reason not to use blazor server in production but not as such with liveview.')

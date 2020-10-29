@@ -1,1 +1,1 @@
-Item(by='vosper', descendants=None, kids=None, score=None, time=1603915238, title=None, item_type='comment', url=None, parent=24923381, text='What&#x27;s Go like for REPL-driven &#x2F; exploratory development? That&#x27;s mostly how I use Python.')
+Item(by='vosper', descendants=None, kids=[24924448], score=None, time=1603915238, title=None, item_type='comment', url=None, parent=24923381, text='What&#x27;s Go like for REPL-driven &#x2F; exploratory development? That&#x27;s mostly how I use Python.')

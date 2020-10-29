@@ -1,1 +1,1 @@
-Item(by='Dansvidania', descendants=None, kids=None, score=None, time=1603913775, title=None, item_type='comment', url=None, parent=24919126, text='wat? that is very interesting and incredibly non obvious.')
+Item(by='Dansvidania', descendants=None, kids=[24925528, 24925426], score=None, time=1603913775, title=None, item_type='comment', url=None, parent=24919126, text='wat? that is very interesting and incredibly non obvious.')

@@ -1,0 +1,1 @@
+Item(by='edouard-harris', descendants=None, kids=[24926063, 24926017], score=None, time=1603931555, title=None, item_type='comment', url=None, parent=24925057, text='Is this the same model meteor.js uses? I seem to recall their system maintains a mini-database on the client side and syncs it with the main server through a pub-sub model.')

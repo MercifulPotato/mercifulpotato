@@ -1,1 +1,1 @@
-Item(by='kanox', descendants=None, kids=None, score=None, time=1603904346, title=None, item_type='comment', url=None, parent=24917891, text='Because tunnels can go under buildings, roads and other tunnels with very little interference.')
+Item(by='kanox', descendants=None, kids=[24925878], score=None, time=1603904346, title=None, item_type='comment', url=None, parent=24917891, text='Because tunnels can go under buildings, roads and other tunnels with very little interference.')

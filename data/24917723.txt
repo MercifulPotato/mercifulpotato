@@ -1,1 +1,1 @@
-Item(by='gemvox', descendants=None, kids=None, score=None, time=1603886323, title=None, item_type='comment', url=None, parent=24917508, text='Adobe apps also get featured and they are not on the App Store.')
+Item(by='gemvox', descendants=None, kids=[24926425], score=None, time=1603886323, title=None, item_type='comment', url=None, parent=24917508, text='Adobe apps also get featured and they are not on the App Store.')

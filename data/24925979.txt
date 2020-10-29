@@ -1,0 +1,1 @@
+Item(by='1337shadow', descendants=None, kids=None, score=None, time=1603933450, title=None, item_type='comment', url=None, parent=24920702, text='I&#x27;m replacing my StimulusJS with Web Components (and my webpack with snowpack).<p>Turbolinks you can have with an SPA codebase that will just request&#x2F;load on clicks, and post&#x2F;load on forms, not a big deal either.')

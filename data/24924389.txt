@@ -1,0 +1,1 @@
+Item(by='ihnorton', descendants=None, kids=[24925412], score=None, time=1603920999, title=None, item_type='comment', url=None, parent=24923494, text='In the context of pandas, 3 GB of (raw, uncompressed) data could easily require 30 GB of RAM, and that kind of overhead adds up quickly.')

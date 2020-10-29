@@ -1,0 +1,1 @@
+Item(by='TwoBit', descendants=None, kids=[24925568], score=None, time=1603921725, title=None, item_type='comment', url=None, parent=24923979, text='I&#x27;m sorry but OpenGL is dead on Windows. There are exceedingly few apps written against OpenGL and if you write such an app then don&#x27;t be surprised with the result. Vulkan is the portable solution of course.')

@@ -1,0 +1,1 @@
+Item(by='fuzzy2', descendants=None, kids=None, score=None, time=1603919319, title=None, item_type='comment', url=None, parent=24922313, text='It’s still not HTML. It’s just syntactic sugar for function calls. You don’t have to use it either way; you can just call `React.createElement` directly if you don’t like JSX.')

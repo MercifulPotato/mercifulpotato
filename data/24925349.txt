@@ -1,0 +1,1 @@
+Item(by='maccard', descendants=None, kids=None, score=None, time=1603927711, title=None, item_type='comment', url=None, parent=24908960, text='For cross platform-ness you can do<p><pre><code>    cmake -H. -Bbuild -GNinja\n    cd build &amp;&amp; ninja</code></pre>')

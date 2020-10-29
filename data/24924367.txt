@@ -1,0 +1,1 @@
+Item(by='abbe98', descendants=None, kids=None, score=None, time=1603920839, title=None, item_type='comment', url=None, parent=24921682, text='I would imagine authentication being done through Wikimedia&#x27;s existing LDAP or Mediawiki solution and I hope that features that already exists in Phabricator(such as snippets) will be disabled.')

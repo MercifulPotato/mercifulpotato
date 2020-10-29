@@ -1,0 +1,1 @@
+Item(by='rolae', descendants=None, kids=None, score=None, time=1603928044, title=None, item_type='comment', url=None, parent=24925024, text='Meteor.js maybe, not sure of its focus nowaday, back when I played around with it, you had basically a MongoDB that you could query and mutate on the client, everything was then synced via a pub&#x2F;sub system with the server.')

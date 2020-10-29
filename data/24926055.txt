@@ -1,0 +1,1 @@
+Item(by='diskzero', descendants=None, kids=None, score=None, time=1603934315, title=None, item_type='comment', url=None, parent=24925457, text='Flutter has a Skia-based backend with GPU acceleration. A bitmap&#x2F;pixmap solution would be the worst-case scenario and probably only occur on an esoteric platform where GPU support is absent.')

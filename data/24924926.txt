@@ -1,0 +1,1 @@
+Item(by='bwip', descendants=None, kids=None, score=None, time=1603924445, title=None, item_type='comment', url=None, parent=24924857, text='My personal site is html&#x2F;css only, no js or other frameworks on the pages. I don&#x27;t count page views but can see bandwidth usage on the free firebase instance I use for it (firebase deploy from cli is my lazy method of pushing).')

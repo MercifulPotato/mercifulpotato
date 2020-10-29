@@ -1,0 +1,1 @@
+Item(by='denkmoon', descendants=None, kids=None, score=None, time=1603937507, title=None, item_type='comment', url=None, parent=24923202, text='Can drivers be signed by any CA trusted by the system or does it have to be the Microsoft CA? Shitty solution but if you&#x27;re installing someone&#x27;s (otherwise unsigned) driver, you&#x27;re already placing a lot of trust in them.')

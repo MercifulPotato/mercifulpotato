@@ -1,1 +1,1 @@
-Item(by='bertman', descendants=None, kids=None, score=None, time=1603894130, title=None, item_type='comment', url=None, parent=24918554, text='&gt;It is so much worse than on debian<p>I feel you. What DID you end up using on Debian then?')
+Item(by='bertman', descendants=None, kids=[24923787], score=None, time=1603894130, title=None, item_type='comment', url=None, parent=24918554, text='&gt;It is so much worse than on debian<p>I feel you. What DID you end up using on Debian then?')

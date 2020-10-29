@@ -1,1 +1,1 @@
-Item(by='LockAndLol', descendants=None, kids=None, score=None, time=1603911903, title=None, item_type='comment', url=None, parent=24917593, text='Thank you. So my intuition was correct about deletions creating non-contiguous data. I wonder how often VACUUM is run by fossil.')
+Item(by='LockAndLol', descendants=None, kids=[24923910], score=None, time=1603911903, title=None, item_type='comment', url=None, parent=24917593, text='Thank you. So my intuition was correct about deletions creating non-contiguous data. I wonder how often VACUUM is run by fossil.')

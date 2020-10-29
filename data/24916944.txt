@@ -1,1 +1,1 @@
-Item(by='PeterStuer', descendants=None, kids=None, score=None, time=1603878233, title=None, item_type='comment', url=None, parent=24914289, text='They get damaged by design. The weakness is there on purpose.')
+Item(by='PeterStuer', descendants=None, kids=[24925212], score=None, time=1603878233, title=None, item_type='comment', url=None, parent=24914289, text='They get damaged by design. The weakness is there on purpose.')
