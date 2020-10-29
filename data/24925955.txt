@@ -1,1 +1,1 @@
-Item(by='coldtea', descendants=None, kids=None, score=None, time=1603933265, title=None, item_type='comment', url=None, parent=24925670, text='Pretending to be asking for a friend on a public forum is a common one...')
+Item(by='coldtea', descendants=None, kids=[24931409], score=None, time=1603933265, title=None, item_type='comment', url=None, parent=24925670, text='Pretending to be asking for a friend on a public forum is a common one...')

@@ -1,0 +1,1 @@
+Item(by='robertlagrant', descendants=None, kids=None, score=None, time=1604000270, title=None, item_type='comment', url=None, parent=24933388, text='That is pretty awesome. I&#x27;d love to see a postgres-aware cache plugin that keeps the latest versions of data in memory, SAP HANA-style.')

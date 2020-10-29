@@ -1,1 +1,1 @@
-Item(by='joshribakoff', descendants=None, kids=None, score=None, time=1603970276, title=None, item_type='comment', url=None, parent=24928932, text='No one said to do this for performance')
+Item(by='joshribakoff', descendants=None, kids=[24930059], score=None, time=1603970276, title=None, item_type='comment', url=None, parent=24928932, text='No one said to do this for performance')

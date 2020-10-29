@@ -1,0 +1,1 @@
+Item(by='robertlagrant', descendants=None, kids=[24935180, 24933501], score=None, time=1603992872, title=None, item_type='comment', url=None, parent=24931994, text='I&#x27;ll nominate myself as silly question asker.<p>Has this been used as the persistence for an event sourcing service? Does that sound like a good&#x2F;terrible idea?<p>Does it play nicely with SQLAlchemy?')

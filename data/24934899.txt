@@ -1,0 +1,1 @@
+Item(by='rurban', descendants=None, kids=None, score=None, time=1604001189, title=None, item_type='comment', url=None, parent=24924637, text='They replaced dynasm in 2014 with llvm. Then there was no other good jit around. llvm is certainly not good either, but for specific workloads in companies it&#x27;s doable, for benchmarks or short scripts not.')

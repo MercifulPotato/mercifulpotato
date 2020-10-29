@@ -1,1 +1,1 @@
-Item(by='simfoo', descendants=None, kids=None, score=None, time=1603966372, title=None, item_type='comment', url=None, parent=24927967, text='Most likely the CMake build is simply building more code than Bazel is. I am 100% sure that this is not comparing apples to apples')
+Item(by='simfoo', descendants=None, kids=[24933885], score=None, time=1603966372, title=None, item_type='comment', url=None, parent=24927967, text='Most likely the CMake build is simply building more code than Bazel is. I am 100% sure that this is not comparing apples to apples')

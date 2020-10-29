@@ -1,1 +1,1 @@
-Item(by='pulse7', descendants=None, kids=None, score=None, time=1603952900, title=None, item_type='comment', url=None, parent=24924370, text='This may be true in US, but in Germany it is not... and this was decided by Germany&#x27;s supreme court...')
+Item(by='pulse7', descendants=None, kids=[24932370], score=None, time=1603952900, title=None, item_type='comment', url=None, parent=24924370, text='This may be true in US, but in Germany it is not... and this was decided by Germany&#x27;s supreme court...')

@@ -1,0 +1,1 @@
+Item(by='magicseth', descendants=None, kids=[24932905, 24932627], score=None, time=1603989074, title=None, item_type='comment', url=None, parent=24931985, text='I would love this in my editor: if I search for<p>day = &#x27;friday&#x27;<p>I want it to find<p>day=&quot;friday&quot;<p>also!')

@@ -1,1 +1,1 @@
-Item(by='dazzawazza', descendants=None, kids=None, score=None, time=1603825286, title=None, item_type='comment', url=None, parent=24894497, text='if you look carefully it&#x27;s a picture of a disk and the page says it&#x27;s just a joke which made me unreasonably sad.')
+Item(by='dazzawazza', descendants=None, kids=[24934105], score=None, time=1603825286, title=None, item_type='comment', url=None, parent=24894497, text='if you look carefully it&#x27;s a picture of a disk and the page says it&#x27;s just a joke which made me unreasonably sad.')

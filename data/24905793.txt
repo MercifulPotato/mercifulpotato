@@ -1,1 +1,1 @@
-Item(by='antepodius', descendants=None, kids=None, score=None, time=1603791821, title=None, item_type='comment', url=None, parent=24902310, text='You would have a simulated body, simulated environment.')
+Item(by='antepodius', descendants=None, kids=[24931986], score=None, time=1603791821, title=None, item_type='comment', url=None, parent=24902310, text='You would have a simulated body, simulated environment.')

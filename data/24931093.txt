@@ -1,1 +1,1 @@
-Item(by='montagg', descendants=None, kids=None, score=None, time=1603983199, title=None, item_type='comment', url=None, parent=24930911, text='My head canon, it’s Lavos.')
+Item(by='montagg', descendants=None, kids=[24932769], score=None, time=1603983199, title=None, item_type='comment', url=None, parent=24930911, text='My head canon, it’s Lavos.')

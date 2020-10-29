@@ -1,0 +1,1 @@
+Item(by='justinlilly', descendants=None, kids=[24933417], score=None, time=1603992868, title=None, item_type='comment', url=None, parent=24932645, text='For the arrow coming from github to the cdn, I would bet that&#x27;s a deployment where the existing docs site gets deployed as a lambda. From there, CDN calls that aren&#x27;t cached go to the lambda which are then served up.')

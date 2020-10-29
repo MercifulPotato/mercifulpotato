@@ -1,1 +1,1 @@
-Item(by='redisman', descendants=None, kids=None, score=None, time=1603938045, title=None, item_type='comment', url=None, parent=24925132, text='&gt; A14 (soon to be compared VS intel no doubt)<p>Isn’t A14 a “5nm” process chip? Why would it be compared to intel and their 14nm++++?')
+Item(by='redisman', descendants=None, kids=[24933053], score=None, time=1603938045, title=None, item_type='comment', url=None, parent=24925132, text='&gt; A14 (soon to be compared VS intel no doubt)<p>Isn’t A14 a “5nm” process chip? Why would it be compared to intel and their 14nm++++?')

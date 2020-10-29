@@ -1,0 +1,1 @@
+Item(by='madeofpalk', descendants=None, kids=None, score=None, time=1603991434, title=None, item_type='comment', url=None, parent=24932212, text='tl;dr its basically just static html&#x2F;js&#x2F;css sitting in an s3 bucket, rather than having an active server (that you code&#x2F;manage yourself).<p>It pushes the page rendering from runtime to build time.')

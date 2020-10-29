@@ -1,0 +1,1 @@
+Item(by='rsstack', descendants=None, kids=[24932399], score=None, time=1603988396, title=None, item_type='comment', url=None, parent=24932008, text='It should only take a couple of days to switch those to a different cloud provider. When building a Jamstack website there is only very thin logic in the Lambda itself, and S3 is only used as managed file storage.')

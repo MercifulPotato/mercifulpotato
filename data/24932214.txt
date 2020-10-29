@@ -1,0 +1,1 @@
+Item(by='zwily', descendants=None, kids=[24932616], score=None, time=1603988785, title=None, item_type='comment', url=None, parent=24931639, text='It polls the database every second for every subscription? How does that scale to a lot of subscriptions?')

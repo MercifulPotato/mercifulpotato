@@ -1,1 +1,1 @@
-Item(by='kjhughes', descendants=1, kids=[24929963], score=2, time=1603975155, title='U.S. GDP booms at 33.1% rate in Q3, better than expected', item_type='story', url='https://www.cnbc.com/2020/10/29/us-gdp-report-third-quarter-2020.html', parent=None, text=None)
+Item(by='kjhughes', descendants=3, kids=[24929963], score=4, time=1603975155, title='U.S. GDP booms at 33.1% rate in Q3, better than expected', item_type='story', url='https://www.cnbc.com/2020/10/29/us-gdp-report-third-quarter-2020.html', parent=None, text=None)

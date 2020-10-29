@@ -1,0 +1,1 @@
+Item(by='kzrdude', descendants=None, kids=None, score=None, time=1604000322, title=None, item_type='comment', url=None, parent=24934559, text='I wonder if it&#x27;s similar to Python 3.x&#x27;s opcache for Load global and load attr? It would make a lot of sense to generalize those.')

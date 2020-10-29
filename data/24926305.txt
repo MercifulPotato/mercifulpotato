@@ -1,1 +1,1 @@
-Item(by='thespoonbends', descendants=None, kids=None, score=None, time=1603937138, title=None, item_type='comment', url=None, parent=24924904, text='What is your usecase for network transparency? Remote desktop? Is that not supported in a Wayland world?')
+Item(by='thespoonbends', descendants=None, kids=[24931048], score=None, time=1603937138, title=None, item_type='comment', url=None, parent=24924904, text='What is your usecase for network transparency? Remote desktop? Is that not supported in a Wayland world?')

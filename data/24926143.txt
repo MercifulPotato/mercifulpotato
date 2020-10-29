@@ -1,1 +1,1 @@
-Item(by='RavlaAlvar', descendants=None, kids=None, score=None, time=1603935151, title=None, item_type='comment', url=None, parent=24923917, text='They are 10yrs behind, I doubt they will ever able to catch up.')
+Item(by='RavlaAlvar', descendants=None, kids=[24932648], score=None, time=1603935151, title=None, item_type='comment', url=None, parent=24923917, text='They are 10yrs behind, I doubt they will ever able to catch up.')

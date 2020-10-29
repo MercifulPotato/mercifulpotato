@@ -1,1 +1,1 @@
-Item(by='whatever1', descendants=None, kids=None, score=None, time=1603977751, title=None, item_type='comment', url=None, parent=24928250, text='Even better, let’s ask Russia to send us a delegation to oversee our election and ensure the validity of the results.')
+Item(by='whatever1', descendants=None, kids=[24933720], score=None, time=1603977751, title=None, item_type='comment', url=None, parent=24928250, text='Even better, let’s ask Russia to send us a delegation to oversee our election and ensure the validity of the results.')

@@ -1,1 +1,1 @@
-Item(by='sethammons', descendants=1, kids=[24923918], score=6, time=1603917791, title='Go: Location interprets wrong timezone (DST) with slim zoneinfo', item_type='story', url='https://github.com/golang/go/issues/42138', parent=None, text=None)
+Item(by='sethammons', descendants=1, kids=[24923918], score=7, time=1603917791, title='Go: Location interprets wrong timezone (DST) with slim zoneinfo', item_type='story', url='https://github.com/golang/go/issues/42138', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='bgorman', descendants=None, kids=None, score=None, time=1603921467, title=None, item_type='comment', url=None, parent=24922327, text='How does this differ from the &quot;VESA&quot; linux driver?')
+Item(by='bgorman', descendants=None, kids=[24934469], score=None, time=1603921467, title=None, item_type='comment', url=None, parent=24922327, text='How does this differ from the &quot;VESA&quot; linux driver?')

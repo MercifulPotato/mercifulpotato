@@ -1,0 +1,1 @@
+Item(by='luhn', descendants=None, kids=[24932943, 24932715], score=None, time=1603991121, title=None, item_type='comment', url=None, parent=24931862, text='I&#x27;m a bit confused on the diagram for the new architecture:  What&#x27;s the purpose of the Lambda function?  I don&#x27;t see them explain that anywhere.')
