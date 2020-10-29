@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1603805846, title=None, item_type='comment', url=None, parent=24907044, text='&gt;pretty far ahead of what we have...<p>call me a luddite but that&#x27;s one innovation that I can do without.')
+Item(by='gruez', descendants=None, kids=[24930866], score=None, time=1603805846, title=None, item_type='comment', url=None, parent=24907044, text='&gt;pretty far ahead of what we have...<p>call me a luddite but that&#x27;s one innovation that I can do without.')

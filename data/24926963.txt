@@ -1,1 +1,1 @@
-Item(by='winrid', descendants=None, kids=None, score=None, time=1603942985, title=None, item_type='comment', url=None, parent=24926375, text='If you build your SPA to an index.js file and serve it without a timestamp you&#x27;re screwed when it gets cached too.')
+Item(by='winrid', descendants=None, kids=[24929422], score=None, time=1603942985, title=None, item_type='comment', url=None, parent=24926375, text='If you build your SPA to an index.js file and serve it without a timestamp you&#x27;re screwed when it gets cached too.')

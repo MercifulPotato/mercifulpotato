@@ -1,1 +1,1 @@
-Item(by='spondyl', descendants=None, kids=None, score=None, time=1603959931, title=None, item_type='comment', url=None, parent=24928268, text='Thanks for the tip about &quot;man hier&quot; :)')
+Item(by='spondyl', descendants=None, kids=[24928646], score=None, time=1603959931, title=None, item_type='comment', url=None, parent=24928268, text='Thanks for the tip about &quot;man hier&quot; :)')

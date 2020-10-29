@@ -1,1 +1,1 @@
-Item(by='deadmutex', descendants=None, kids=None, score=None, time=1603949431, title=None, item_type='comment', url=None, parent=24927304, text='Big claims need big proof. I would want to see how windows managed by a good IT team is significantly more of a threat than other OSes.')
+Item(by='deadmutex', descendants=None, kids=[24930484, 24929562], score=None, time=1603949431, title=None, item_type='comment', url=None, parent=24927304, text='Big claims need big proof. I would want to see how windows managed by a good IT team is significantly more of a threat than other OSes.')

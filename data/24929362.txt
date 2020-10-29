@@ -1,0 +1,1 @@
+Item(by='ahartmetz', descendants=None, kids=None, score=None, time=1603971122, title=None, item_type='comment', url=None, parent=24924133, text='I have worked on many C++ codebases and none of them used exceptions pervasively. It works fine and I don&#x27;t miss surprise return values.')

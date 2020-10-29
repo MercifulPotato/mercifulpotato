@@ -1,1 +1,1 @@
-Item(by='prezjordan', descendants=0, kids=None, score=2, time=1603935301, title='Remix – a new JavaScript framework from the authors of React Router', item_type='story', url='https://remix.run/features', parent=None, text=None)
+Item(by='prezjordan', descendants=1, kids=[24928607], score=4, time=1603935301, title='Remix – a new JavaScript framework from the authors of React Router', item_type='story', url='https://remix.run/features', parent=None, text=None)

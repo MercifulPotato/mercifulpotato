@@ -1,1 +1,1 @@
-Item(by='mattigames', descendants=None, kids=None, score=None, time=1603957462, title=None, item_type='comment', url=None, parent=24927988, text='Mmm, I wonder if it would work for videos too.')
+Item(by='mattigames', descendants=None, kids=[24929833], score=None, time=1603957462, title=None, item_type='comment', url=None, parent=24927988, text='Mmm, I wonder if it would work for videos too.')

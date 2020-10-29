@@ -1,1 +1,1 @@
-Item(by='jmnicolas', descendants=None, kids=None, score=None, time=1603959486, title=None, item_type='comment', url=None, parent=24928260, text='Honest, successful. For a politician you can only pick one.')
+Item(by='jmnicolas', descendants=None, kids=[24928616, 24928850], score=None, time=1603959486, title=None, item_type='comment', url=None, parent=24928260, text='Honest, successful. For a politician you can only pick one.')

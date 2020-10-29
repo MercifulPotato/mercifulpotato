@@ -1,0 +1,1 @@
+Item(by='ubertaco', descendants=None, kids=[24929072], score=None, time=1603967235, title=None, item_type='comment', url=None, parent=24916683, text='Returning an object and returning an array aren&#x27;t exactly new concepts in Javascript? The only relatively-new part is destructuring assignment, but that&#x27;s been around since 2015, since it was added in ES6.')

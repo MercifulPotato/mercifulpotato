@@ -1,1 +1,1 @@
-Item(by='tapvt', descendants=None, kids=None, score=None, time=1603936223, title=None, item_type='comment', url=None, parent=24925355, text='I am quite a fan of HTMX and am using it for multiple projects now. I hope it continues to gain traction.')
+Item(by='tapvt', descendants=None, kids=[24929714, 24928608, 24929132], score=None, time=1603936223, title=None, item_type='comment', url=None, parent=24925355, text='I am quite a fan of HTMX and am using it for multiple projects now. I hope it continues to gain traction.')

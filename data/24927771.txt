@@ -1,1 +1,1 @@
-Item(by='manmal', descendants=None, kids=None, score=None, time=1603951889, title=None, item_type='comment', url=None, parent=24925992, text='Do your parents drink alcohol often, and&#x2F;or do they exercise?')
+Item(by='manmal', descendants=None, kids=[24929439], score=None, time=1603951889, title=None, item_type='comment', url=None, parent=24925992, text='Do your parents drink alcohol often, and&#x2F;or do they exercise?')

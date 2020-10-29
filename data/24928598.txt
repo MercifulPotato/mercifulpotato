@@ -1,0 +1,1 @@
+Item(by='bonoboTP', descendants=None, kids=None, score=None, time=1603963195, title=None, item_type='comment', url=None, parent=24928337, text='Yeah, the default implementation should check the scaling factor and use AREA interpolation when downscaling and bilinear for upscaling.')

@@ -1,1 +1,1 @@
-Item(by='Traubenfuchs', descendants=None, kids=None, score=None, time=1603959972, title=None, item_type='comment', url=None, parent=24927462, text='Are you working at a special place like Google? A quick Google search lets one think 100k is absolutely exceptional in NL.')
+Item(by='Traubenfuchs', descendants=None, kids=[24929101], score=None, time=1603959972, title=None, item_type='comment', url=None, parent=24927462, text='Are you working at a special place like Google? A quick Google search lets one think 100k is absolutely exceptional in NL.')

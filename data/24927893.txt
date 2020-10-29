@@ -1,1 +1,1 @@
-Item(by='cercatrova', descendants=None, kids=None, score=None, time=1603953328, title=None, item_type='comment', url=None, parent=24926728, text='Use the basic HTML version of Gmail, you can set it to be default.')
+Item(by='cercatrova', descendants=None, kids=[24930378], score=None, time=1603953328, title=None, item_type='comment', url=None, parent=24926728, text='Use the basic HTML version of Gmail, you can set it to be default.')

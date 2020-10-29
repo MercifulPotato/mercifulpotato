@@ -1,1 +1,1 @@
-Item(by='aritmo', descendants=None, kids=None, score=None, time=1603959236, title=None, item_type='comment', url=None, parent=24915542, text='Thanks to the article editor who did not do the common &quot;The Earth is pulsating every 26 seconds and NOBODY KNOWS WHY.&quot;')
+Item(by='aritmo', descendants=None, kids=[24929550, 24928872, 24930003, 24928643], score=None, time=1603959236, title=None, item_type='comment', url=None, parent=24915542, text='Thanks to the article editor who did not do the common &quot;The Earth is pulsating every 26 seconds and NOBODY KNOWS WHY.&quot;')

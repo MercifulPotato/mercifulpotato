@@ -1,0 +1,1 @@
+Item(by='annanay', descendants=None, kids=None, score=None, time=1603969850, title=None, item_type='comment', url=None, parent=24925661, text='Since Tempo is a k&#x2F;v store that can retrieve traces given a traceID, we need either a metric system that can store traceIDs in exemplars OR any logging framework to log traceIDs that can be copied over to the Tempo Query UI.')

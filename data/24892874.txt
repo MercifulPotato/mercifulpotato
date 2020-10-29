@@ -1,1 +1,1 @@
-Item(by='talonx', descendants=30, kids=[24899987, 24899168, 24899765, 24902313, 24914947, 24904391, 24910598, 24904120], score=237, time=1603687128, title='The Chaos Engineering Book', item_type='story', url='https://www.verica.io/the-chaos-engineering-book/', parent=None, text=None)
+Item(by='talonx', descendants=30, kids=[24899987, 24899168, 24899765, 24902313, 24904391, 24914947, 24910598, 24904120], score=237, time=1603687128, title='The Chaos Engineering Book', item_type='story', url='https://www.verica.io/the-chaos-engineering-book/', parent=None, text=None)

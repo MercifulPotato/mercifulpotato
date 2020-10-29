@@ -1,1 +1,1 @@
-Item(by='loige', descendants=0, kids=None, score=1, time=1603875363, title='Emerging JavaScript pattern: multiple return values', item_type='story', url='https://loige.co/emerging-javascript-pattern-multiple-return-values', parent=None, text=None)
+Item(by='loige', descendants=12, kids=[24929138, 24928943, 24929653, 24928932, 24929090], score=21, time=1603875363, title='Emerging JavaScript pattern: multiple return values', item_type='story', url='https://loige.co/emerging-javascript-pattern-multiple-return-values', parent=None, text=None)

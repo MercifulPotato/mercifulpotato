@@ -1,1 +1,1 @@
-Item(by='nerdponx', descendants=None, kids=None, score=None, time=1603912028, title=None, item_type='comment', url=None, parent=24921386, text='So what does a Wayland-only future look like? Your clipboard, keyboard hotkey daemon, app runner, etc. all communicating happily over D-bus?')
+Item(by='nerdponx', descendants=None, kids=[24929812], score=None, time=1603912028, title=None, item_type='comment', url=None, parent=24921386, text='So what does a Wayland-only future look like? Your clipboard, keyboard hotkey daemon, app runner, etc. all communicating happily over D-bus?')

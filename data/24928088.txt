@@ -1,1 +1,1 @@
-Item(by='ethor', descendants=1, kids=[24928174], score=2, time=1603956267, title='Ask HN: Which Password Manager are you using?', item_type='story', url=None, parent=None, text='Which password manager are you using and why?')
+Item(by='ethor', descendants=10, kids=[24930587, 24929255, 24929162, 24929765, 24929844, 24929048, 24928174, 24929207, 24928920, 24928953, 24928333], score=9, time=1603956267, title='Ask HN: Which Password Manager are you using?', item_type='story', url=None, parent=None, text='Which password manager are you using and why?')

@@ -1,1 +1,1 @@
-Item(by='holtkam2', descendants=None, kids=None, score=None, time=1603939263, title=None, item_type='comment', url=None, parent=24922472, text='Someone test it out with a VW beetle and see what it says hahaha<p>(trolling... I love Porsche )')
+Item(by='holtkam2', descendants=None, kids=[24929746], score=None, time=1603939263, title=None, item_type='comment', url=None, parent=24922472, text='Someone test it out with a VW beetle and see what it says hahaha<p>(trolling... I love Porsche )')

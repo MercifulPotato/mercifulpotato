@@ -1,1 +1,1 @@
-Item(by='rlt', descendants=None, kids=None, score=None, time=1603957975, title=None, item_type='comment', url=None, parent=24928095, text='Huh, I feel like that’s something I’d remember learning.<p>Did many other people here learn that?')
+Item(by='rlt', descendants=None, kids=[24930284], score=None, time=1603957975, title=None, item_type='comment', url=None, parent=24928095, text='Huh, I feel like that’s something I’d remember learning.<p>Did many other people here learn that?')

@@ -1,1 +1,1 @@
-Item(by='rishabhd', descendants=None, kids=None, score=None, time=1603947178, title=None, item_type='comment', url=None, parent=24915542, text='With our luck in 2020, it just might be Cthulhu&#x27;s heartbeat.')
+Item(by='rishabhd', descendants=None, kids=[24930321, 24930164, 24928866], score=None, time=1603947178, title=None, item_type='comment', url=None, parent=24915542, text='With our luck in 2020, it just might be Cthulhu&#x27;s heartbeat.')

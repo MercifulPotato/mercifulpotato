@@ -1,0 +1,1 @@
+Item(by='account42', descendants=None, kids=None, score=None, time=1603970146, title=None, item_type='comment', url=None, parent=24928701, text='&gt; Some apps like AnyDesk just haven&#x27;t invested in support for Wayland<p>That they have to invest work for simple functionality to work is the problem. Until Xwayland can support this, Wayland is broken by design.')

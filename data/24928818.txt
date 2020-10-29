@@ -1,0 +1,1 @@
+Item(by='Jyaif', descendants=None, kids=None, score=None, time=1603965920, title=None, item_type='comment', url=None, parent=24916875, text='Another example of the Linux Kernel not scaling because of the lack of stable driver API.<p>You are supposed to put your driver in the tree for it to stay compatible, but it gets removed if there are too few users!')
