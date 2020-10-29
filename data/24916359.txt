@@ -1,1 +1,1 @@
-Item(by='morsch', descendants=None, kids=None, score=None, time=1603872068, title=None, item_type='comment', url=None, parent=24915101, text='No note sharing unfortunately. So much for our shared household shopping list.')
+Item(by='morsch', descendants=None, kids=[24926990], score=None, time=1603872068, title=None, item_type='comment', url=None, parent=24915101, text='No note sharing unfortunately. So much for our shared household shopping list.')

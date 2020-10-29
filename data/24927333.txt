@@ -1,0 +1,1 @@
+Item(by='PrinceKropotkin', descendants=None, kids=[24927631, 24927658, 24927861, 24927621], score=None, time=1603946877, title=None, item_type='comment', url=None, parent=24926925, text='Why does linux only support ELF?<p>Other executable formats, for instance, support multiple architectures per file. Why does Linux not?')

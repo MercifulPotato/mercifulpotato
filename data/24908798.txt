@@ -1,1 +1,1 @@
-Item(by='benbreen', descendants=0, kids=None, score=2, time=1603814988, title='1593 Transported Soldier Legend', item_type='story', url='https://en.wikipedia.org/wiki/1593_transported_soldier_legend', parent=None, text=None)
+Item(by='benbreen', descendants=5, kids=[24927406, 24927393], score=21, time=1603814988, title='1593 Transported Soldier Legend', item_type='story', url='https://en.wikipedia.org/wiki/1593_transported_soldier_legend', parent=None, text=None)

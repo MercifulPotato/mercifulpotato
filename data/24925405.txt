@@ -1,1 +1,1 @@
-Item(by='manuisin', descendants=None, kids=None, score=None, time=1603928137, title=None, item_type='comment', url=None, parent=24922956, text='That sounds very interesting. Would you happen to link to that? I tried searching for it but didn&#x27;t turn up anything.')
+Item(by='manuisin', descendants=None, kids=[24927335], score=None, time=1603928137, title=None, item_type='comment', url=None, parent=24922956, text='That sounds very interesting. Would you happen to link to that? I tried searching for it but didn&#x27;t turn up anything.')

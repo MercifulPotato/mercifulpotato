@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1603927900, title=None, item_type='comment', url=None, parent=24925315, text='Rust’s compiler is in Rust, though it does use a C++ library for the main backend, you can also use a newer one which is implemented in Rust.')

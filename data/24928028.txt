@@ -1,0 +1,1 @@
+Item(by='barbegal', descendants=None, kids=[24928044], score=None, time=1603955304, title=None, item_type='comment', url=None, parent=24927655, text='I thought almost everyone uses some form of interpolation when resizing which would defeat this attack completely. Or are there use cases for not using interpolation (I know it requires less processing)?')

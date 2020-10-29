@@ -1,1 +1,1 @@
-Item(by='djsumdog', descendants=1, kids=[24926387, 24926141], score=16, time=1603933945, title='Did Mark Zuckerberg lie to Congress?', item_type='story', url='https://twitter.com/realryanhartwig/status/1321495194013851648', parent=None, text=None)
+Item(by='djsumdog', descendants=3, kids=[24926387, 24926640, 24926525, 24926141], score=19, time=1603933945, title='Did Mark Zuckerberg lie to Congress?', item_type='story', url='https://twitter.com/realryanhartwig/status/1321495194013851648', parent=None, text=None)

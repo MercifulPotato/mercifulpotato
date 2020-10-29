@@ -1,0 +1,1 @@
+Item(by='jsolson', descendants=None, kids=None, score=None, time=1603952445, title=None, item_type='comment', url=None, parent=24926065, text='Google automates it away, to the extent that if you run our &quot;rebuild if anything changes&quot; tool it will automatically run the BUILD cleaning tool if any layering violations happen or if any dependencies are absent.')

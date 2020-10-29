@@ -1,1 +1,1 @@
-Item(by='zionic', descendants=None, kids=None, score=None, time=1603923606, title=None, item_type='comment', url=None, parent=24923810, text='This is false, none of AMD’s scalars have beat DLSS1.0’s quality, or the substantial improvement brought by DLSS2.0')
+Item(by='zionic', descendants=None, kids=[24926965], score=None, time=1603923606, title=None, item_type='comment', url=None, parent=24923810, text='This is false, none of AMD’s scalars have beat DLSS1.0’s quality, or the substantial improvement brought by DLSS2.0')

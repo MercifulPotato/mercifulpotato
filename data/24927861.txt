@@ -1,0 +1,1 @@
+Item(by='moonchild', descendants=None, kids=None, score=None, time=1603952932, title=None, item_type='comment', url=None, parent=24927333, text='That&#x27;s a function of your runtime dynamic linker, which is most likely provided by glibc (on linux).  I believe it supports a.out still; at the very least, it used to.')

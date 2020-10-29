@@ -1,1 +1,1 @@
-Item(by='Eldt', descendants=None, kids=None, score=None, time=1603929541, title=None, item_type='comment', url=None, parent=24925525, text='How would you define &quot;CAPTCHA&quot;?')
+Item(by='Eldt', descendants=None, kids=[24927006, 24927059], score=None, time=1603929541, title=None, item_type='comment', url=None, parent=24925525, text='How would you define &quot;CAPTCHA&quot;?')

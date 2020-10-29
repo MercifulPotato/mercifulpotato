@@ -1,1 +1,1 @@
-Item(by='brk', descendants=None, kids=None, score=None, time=1603916381, title=None, item_type='comment', url=None, parent=24923549, text='&quot;PCB Design Service&quot;.\nAfter that, you will likely be looking for &quot;certification services&quot; in the form of UL, FCC, CE, etc.')
+Item(by='brk', descendants=None, kids=[24926945], score=None, time=1603916381, title=None, item_type='comment', url=None, parent=24923549, text='&quot;PCB Design Service&quot;.\nAfter that, you will likely be looking for &quot;certification services&quot; in the form of UL, FCC, CE, etc.')

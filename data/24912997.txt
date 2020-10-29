@@ -1,1 +1,1 @@
-Item(by='paledot', descendants=None, kids=None, score=None, time=1603839209, title=None, item_type='comment', url=None, parent=24912373, text='Interesting point. I wonder if this is part of the disproportionately high impact of COVID on Black in the US.')
+Item(by='paledot', descendants=None, kids=[24926699], score=None, time=1603839209, title=None, item_type='comment', url=None, parent=24912373, text='Interesting point. I wonder if this is part of the disproportionately high impact of COVID on Black in the US.')

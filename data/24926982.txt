@@ -1,0 +1,1 @@
+Item(by='SubjectToChange', descendants=None, kids=None, score=None, time=1603943209, title=None, item_type='comment', url=None, parent=24926407, text='Look at what Nix or Guix would have to do to build a project using Bazel vs a project using CMake.')

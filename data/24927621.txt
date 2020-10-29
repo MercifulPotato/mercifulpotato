@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1603950096, title=None, item_type='comment', url=None, parent=24927333, text='It seems like you’re really asking two questions. My comment for the first one is that you can use binfmt_misc to add your own executable formats. For the second one, is there anything other than Mach-O that does that?')

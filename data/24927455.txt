@@ -1,0 +1,1 @@
+Item(by='malkia', descendants=None, kids=None, score=None, time=1603948085, title=None, item_type='comment', url=None, parent=24926636, text='What does it mean by &quot;bazel&quot; wants to control everything? AFAIK, it simply needs ways to get to the source of another package - whether it&#x27;s http_archive, or who knows what, and how to build it.')

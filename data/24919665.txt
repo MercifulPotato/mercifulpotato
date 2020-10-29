@@ -1,1 +1,1 @@
-Item(by='WolfRazu', descendants=None, kids=None, score=None, time=1603897982, title=None, item_type='comment', url=None, parent=24918091, text='Zoom is Electron isn&#x27;t it? That&#x27;s not native.')
+Item(by='WolfRazu', descendants=None, kids=[24927201], score=None, time=1603897982, title=None, item_type='comment', url=None, parent=24918091, text='Zoom is Electron isn&#x27;t it? That&#x27;s not native.')
