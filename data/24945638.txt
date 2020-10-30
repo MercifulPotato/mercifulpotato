@@ -1,0 +1,1 @@
+Item(by='remexre', descendants=None, kids=[24945762], score=None, time=1604084278, title=None, item_type='comment', url=None, parent=24943775, text='Why does this contain an implementation of sha256 instead of using the standard library&#x27;s crypto&#x2F;sha256?')

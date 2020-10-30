@@ -1,0 +1,1 @@
+Item(by='dragonwriter', descendants=None, kids=None, score=None, time=1604079237, title=None, item_type='comment', url=None, parent=24944586, text='&gt; Aren&#x27;t REST and webhooks just RPC protocols too?<p>REST is not, but the thing that isn&#x27;t REST that lots of people call REST is basically just RPC-over-HTTP-with-JSON.')

@@ -1,0 +1,1 @@
+Item(by='eyelidlessness', descendants=None, kids=[24943338], score=None, time=1604069652, title=None, item_type='comment', url=None, parent=24940544, text='Since all of these concurrency approaches’ pain points are around shared mutable state, maybe it’s shared mutable state that’s the pain point.')

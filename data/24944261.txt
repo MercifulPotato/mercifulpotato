@@ -1,0 +1,1 @@
+Item(by='dzove855', descendants=None, kids=None, score=None, time=1604077034, title=None, item_type='comment', url=None, parent=24944260, text='A simple devtodo equivalent in bash. Work is still in progress and requirements are &gt;=bash4.4.<p>Probably it will be rewritten in bash5 and use loadable builtins for mkdir and rm, so mv can be removed also.')

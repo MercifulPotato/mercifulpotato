@@ -1,0 +1,1 @@
+Item(by='chandlore', descendants=None, kids=None, score=None, time=1604078426, title=None, item_type='comment', url=None, parent=24931866, text='There are pre-built PDFs on the GitLab repo, but they&#x27;re pretty well buried.  If you view a CI job you can download the generated artifacts.')

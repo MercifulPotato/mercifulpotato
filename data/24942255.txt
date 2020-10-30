@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=None, score=None, time=1604066511, title=None, item_type='comment', url=None, parent=24942158, text='W3C standards usually depend on and leverage other standards, so XPath is its own standard, which is used by XSLT (and XQuery, and possibly a few other things).<p>You can&#x27;t use XSLT without XPath, but you can use XPath on its own.')

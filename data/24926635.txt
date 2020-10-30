@@ -1,1 +1,1 @@
-Item(by='closeparen', descendants=None, kids=None, score=None, time=1603940181, title=None, item_type='comment', url=None, parent=24926591, text='You don&#x27;t know this when interacting with the human ransomware people either, doesn&#x27;t seem like a requirement.')
+Item(by='closeparen', descendants=None, kids=[24943551], score=None, time=1603940181, title=None, item_type='comment', url=None, parent=24926591, text='You don&#x27;t know this when interacting with the human ransomware people either, doesn&#x27;t seem like a requirement.')

@@ -1,0 +1,1 @@
+Item(by='toast0', descendants=None, kids=None, score=None, time=1604081260, title=None, item_type='comment', url=None, parent=24944525, text='Even if the converter was doing some buffering or interpolation (which ugh, who wants?), it couldn&#x27;t reorder things to show out of order. At most, it would make things more simultaneous, or fade in.')

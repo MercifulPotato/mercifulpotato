@@ -1,1 +1,1 @@
-Item(by='doener', descendants=0, kids=None, score=1, time=1604061439, title='More online protection with the new VPN by Google One', item_type='story', url='https://blog.google/products/google-one/new-vpn-by-google-one/', parent=None, text=None)
+Item(by='doener', descendants=1, kids=[24942126], score=1, time=1604061439, title='More online protection with the new VPN by Google One', item_type='story', url='https://blog.google/products/google-one/new-vpn-by-google-one/', parent=None, text=None)

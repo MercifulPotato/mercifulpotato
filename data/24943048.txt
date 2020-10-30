@@ -1,0 +1,1 @@
+Item(by='AtlasBarfed', descendants=None, kids=[24944430], score=None, time=1604070722, title=None, item_type='comment', url=None, parent=24941663, text='With the rise of numerous hierarchical document formats (JSON, YAML, TOML, properties files), what XPath REALLY should have evolved into was a more format-flexible path language with format-specific extensions as needed.')

@@ -1,1 +1,1 @@
-Item(by='tptacek', descendants=None, kids=None, score=None, time=1604030823, title=None, item_type='comment', url=None, parent=24938997, text='Yes. Also by people with angry cats fucking in their back yards.')
+Item(by='tptacek', descendants=None, kids=[24942672], score=None, time=1604030823, title=None, item_type='comment', url=None, parent=24938997, text='Yes. Also by people with angry cats fucking in their back yards.')

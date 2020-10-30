@@ -1,0 +1,1 @@
+Item(by='pythonaut_16', descendants=None, kids=[24945118], score=None, time=1604069308, title=None, item_type='comment', url=None, parent=24941646, text='In my experience ASP.NET and its frameworks are potentially much slower than raw C#. As much as C# is supposed to be a fast language, whenever I run into a C# web app it seems to be inexplicably slow.')

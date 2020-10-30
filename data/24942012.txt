@@ -1,0 +1,1 @@
+Item(by='bonzini', descendants=None, kids=[24942146], score=None, time=1604064886, title=None, item_type='comment', url=None, parent=24941995, text='But then you are in base 100 fixed point. Converting it back to base 10 is what requires a division (but it&#x27;s still by a constant though).')

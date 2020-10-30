@@ -1,0 +1,1 @@
+Item(by='jsty', descendants=None, kids=[24943034, 24943040], score=None, time=1604070540, title=None, item_type='comment', url=None, parent=24942797, text='Quick FYI - clicking the NavBar&#x27;s &quot;pricing&quot; link on the &quot;about&quot; page links to &quot;&#x2F;about#pricing&quot; rather than &quot;&#x2F;#pricing&quot;')

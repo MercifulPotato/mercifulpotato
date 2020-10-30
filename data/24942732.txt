@@ -1,0 +1,1 @@
+Item(by='oregontechninja', descendants=None, kids=[24943114], score=None, time=1604069027, title=None, item_type='comment', url=None, parent=24942558, text='Looks like the glfw library is built for windows as a DLL and then packed as bytes into a go const and loaded at runtime! Cool beans, wish more people could appreciate how fun that is.')

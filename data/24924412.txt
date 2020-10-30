@@ -1,1 +1,1 @@
-Item(by='edogg', descendants=None, kids=None, score=None, time=1603921138, title=None, item_type='comment', url=None, parent=24921249, text='Whistler, BC')
+Item(by='edogg', descendants=None, kids=[24944273], score=None, time=1603921138, title=None, item_type='comment', url=None, parent=24921249, text='Whistler, BC')

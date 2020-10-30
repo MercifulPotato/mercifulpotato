@@ -1,1 +1,1 @@
-Item(by='wcarhart', descendants=1, kids=[24933420], score=6, time=1603993250, title='Show HN: Lurker – lightweight terminal client for Hacker News', item_type='story', url='https://github.com/wcarhart/lurker', parent=None, text=None)
+Item(by='wcarhart', descendants=2, kids=[24933420, 24943712], score=8, time=1603993250, title='Show HN: Lurker – lightweight terminal client for Hacker News', item_type='story', url='https://github.com/wcarhart/lurker', parent=None, text=None)

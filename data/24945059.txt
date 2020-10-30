@@ -1,0 +1,1 @@
+Item(by='pachico', descendants=0, kids=None, score=1, time=1604080826, title='Ask HN: Are AWS Graviton2 based products as good as advertised?', item_type='story', url=None, parent=None, text='Have you already tried them? Managed services might be a no brainer (if numbers are true) but is compiling to ARM worth the hassle for what this instance type brings to the table?')

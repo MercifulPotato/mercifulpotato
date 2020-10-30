@@ -1,0 +1,1 @@
+Item(by='remexre', descendants=None, kids=None, score=None, time=1604074433, title=None, item_type='comment', url=None, parent=24942699, text='The Creator&#x27;s update, I believe, broke Fallout: New Vegas for a while -- I think some deprecated strings that identify GPUs changed, so a fallback renderer that doesn&#x27;t work anymore was chosen.')

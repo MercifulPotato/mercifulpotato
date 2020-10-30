@@ -1,1 +1,1 @@
-Item(by='Aeolun', descendants=None, kids=None, score=None, time=1604016420, title=None, item_type='comment', url=None, parent=24936780, text='Or, you know, because it’s a legitimate concern that readers on HN value higher than the MDN maintainers.')
+Item(by='Aeolun', descendants=None, kids=[24943269], score=None, time=1604016420, title=None, item_type='comment', url=None, parent=24936780, text='Or, you know, because it’s a legitimate concern that readers on HN value higher than the MDN maintainers.')

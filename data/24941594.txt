@@ -1,1 +1,1 @@
-Item(by='bookofjoe', descendants=0, kids=None, score=1, time=1604061632, title='Some Google One plans now come with a complimentary VPN', item_type='story', url='https://www.engadget.com/google-one-vpn-191231627.html', parent=None, text=None)
+Item(by='bookofjoe', descendants=1, kids=[24942098], score=1, time=1604061632, title='Some Google One plans now come with a complimentary VPN', item_type='story', url='https://www.engadget.com/google-one-vpn-191231627.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[24945098], score=None, time=1604079966, title=None, item_type='comment', url=None, parent=24944614, text='What specifically was your problem with grpc c++ async? I&#x27;m using async C++ with one CQ per core and it seems to more or less work.')

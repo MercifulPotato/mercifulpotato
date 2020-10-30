@@ -1,0 +1,1 @@
+Item(by='wmf', descendants=None, kids=None, score=None, time=1604089140, title=None, item_type='comment', url=None, parent=24946305, text='gRPC requires HTTP&#x2F;2 while many load balancers only support HTTP&#x2F;1 on the backend.')

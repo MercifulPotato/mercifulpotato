@@ -1,1 +1,1 @@
-Item(by='aphrax', descendants=1, kids=[24941793], score=31, time=1604042871, title='CERN 2019 WorldWideWeb Rebuild', item_type='story', url='https://worldwideweb.cern.ch/', parent=None, text=None)
+Item(by='aphrax', descendants=5, kids=[24942952, 24943483, 24944634, 24943665, 24941793], score=52, time=1604042871, title='CERN 2019 WorldWideWeb Rebuild', item_type='story', url='https://worldwideweb.cern.ch/', parent=None, text=None)

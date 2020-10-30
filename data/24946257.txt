@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1604087724, title=None, item_type='comment', url=None, parent=24946232, text='Generally. As always, devil is in the details. Rust usually has a very similar performance profile to C and C++.<p>The memory usage part is where Rust is clearly at a stark advantage in that comparison.')

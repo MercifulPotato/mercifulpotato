@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=0, kids=None, score=19, time=1604058430, title='What gravitational-wave events reveal about the Universe', item_type='story', url='https://www.nature.com/articles/d41586-020-03047-0', parent=None, text=None)
+Item(by='headalgorithm', descendants=32, kids=[24942270, 24942901, 24944800, 24945027, 24943760, 24942142], score=61, time=1604058430, title='What gravitational-wave events reveal about the Universe', item_type='story', url='https://www.nature.com/articles/d41586-020-03047-0', parent=None, text=None)

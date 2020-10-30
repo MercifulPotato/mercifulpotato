@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=None, score=None, time=1604071039, title=None, item_type='comment', url=None, parent=24942792, text='Django implicitly generates migrations from your class structure.  It&#x27;s a choice, but it works very well up to a point that 90% of simple web apps will never get to.')

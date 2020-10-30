@@ -1,0 +1,1 @@
+Item(by='mbeissinger', descendants=None, kids=None, score=None, time=1604084386, title=None, item_type='comment', url=None, parent=24945427, text='Yep we are starting with image classification for this initial beta launch, but plan to expand to more data types and problem types in future releases! The vision is to make a tool usable by anyone to build custom machine learning')

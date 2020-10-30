@@ -1,0 +1,1 @@
+Item(by='bglusman', descendants=None, kids=[24945737], score=None, time=1604072230, title=None, item_type='comment', url=None, parent=24942850, text='Yup, this is the conclusion of Joe Armstrong and why Erlang&#x2F;Elixir&#x2F;BEAM just doesn&#x27;t allow mutable state, other than process dictionary which is inherently non-shared.')
