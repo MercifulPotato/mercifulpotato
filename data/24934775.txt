@@ -1,1 +1,1 @@
-Item(by='zelias', descendants=None, kids=None, score=None, time=1604000666, title=None, item_type='comment', url=None, parent=24931352, text='If we figure out how to efficiently extract resources from space, it seems likely that we can stop extracting resources from Earth')
+Item(by='zelias', descendants=None, kids=[24936683], score=None, time=1604000666, title=None, item_type='comment', url=None, parent=24931352, text='If we figure out how to efficiently extract resources from space, it seems likely that we can stop extracting resources from Earth')

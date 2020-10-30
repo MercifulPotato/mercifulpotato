@@ -1,0 +1,1 @@
+Item(by='stuhood', descendants=1, kids=[24937546], score=7, time=1604013286, title='Dependency inference in Pants 2.0.0: Precise caching without the boilerplate', item_type='story', url='https://blog.pantsbuild.org/dependency-inference/', parent=None, text=None)

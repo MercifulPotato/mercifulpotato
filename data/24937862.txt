@@ -1,0 +1,1 @@
+Item(by='technion', descendants=None, kids=[24937872], score=None, time=1604018297, title=None, item_type='comment', url=None, parent=24937298, text='Theorycrafting: Is this choice of two SHA256&#x27;s of different data a case of hedging your bets against a canonicalisation attack that may be involved in SHA512(Context || M).')

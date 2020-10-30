@@ -1,1 +1,1 @@
-Item(by='johnthescott', descendants=None, kids=None, score=None, time=1604004732, title=None, item_type='comment', url=None, parent=24932612, text='getting a javascript error in brave browser on mac.  says option not defined.')
+Item(by='johnthescott', descendants=None, kids=[24936194], score=None, time=1604004732, title=None, item_type='comment', url=None, parent=24932612, text='getting a javascript error in brave browser on mac.  says option not defined.')

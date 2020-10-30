@@ -1,1 +1,1 @@
-Item(by='3np', descendants=None, kids=None, score=None, time=1604000962, title=None, item_type='comment', url=None, parent=24932538, text='Is self-hosted on the roadmap?')
+Item(by='3np', descendants=None, kids=[24935512, 24938026], score=None, time=1604000962, title=None, item_type='comment', url=None, parent=24932538, text='Is self-hosted on the roadmap?')

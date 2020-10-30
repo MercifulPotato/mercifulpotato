@@ -1,1 +1,1 @@
-Item(by='theafh', descendants=0, kids=None, score=5, time=1603991089, title='The Most Famous Paradox in Physics Nears Its End', item_type='story', url='https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/', parent=None, text=None)
+Item(by='theafh', descendants=1, kids=[24937006], score=10, time=1603991089, title='The Most Famous Paradox in Physics Nears Its End', item_type='story', url='https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/', parent=None, text=None)

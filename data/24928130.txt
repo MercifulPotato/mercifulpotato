@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1603956987, title=None, item_type='comment', url=None, parent=24925056, text='That is a temporary solution, AOT with CoreRT will be done by .NET 6 (postponed from 5 due to Corona impact on development).')
+Item(by='pjmlp', descendants=None, kids=[24936999], score=None, time=1603956987, title=None, item_type='comment', url=None, parent=24925056, text='That is a temporary solution, AOT with CoreRT will be done by .NET 6 (postponed from 5 due to Corona impact on development).')

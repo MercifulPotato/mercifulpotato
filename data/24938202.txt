@@ -1,0 +1,1 @@
+Item(by='sgerenser', descendants=None, kids=None, score=None, time=1604021698, title=None, item_type='comment', url=None, parent=24936083, text='X86 virtualization on top of an x86 CPU is a fairly trivial task. Running the same on top of ARM at reasonable speeds is much more difficult. What makes you think Parallels will be able to pull it off anytime soon?')

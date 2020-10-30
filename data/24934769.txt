@@ -1,1 +1,1 @@
-Item(by='lolptdr', descendants=0, kids=None, score=1, time=1604000642, title='A Yukaghir girl writes a love letter', item_type='story', url='http://historyview.blogspot.com/2011/10/yukaghir-girl-writes-love-letter.html', parent=None, text=None)
+Item(by='lolptdr', descendants=1, kids=[24935105], score=1, time=1604000642, title='A Yukaghir girl writes a love letter', item_type='story', url='http://historyview.blogspot.com/2011/10/yukaghir-girl-writes-love-letter.html', parent=None, text=None)

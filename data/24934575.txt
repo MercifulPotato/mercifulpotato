@@ -1,0 +1,1 @@
+Item(by='diskzero', descendants=None, kids=[24935555], score=None, time=1603999676, title=None, item_type='comment', url=None, parent=24921247, text='Got it. Can you show an example of modifiying the button label outside of the button click? I am curious how you would modify values outside of the scope of the event handler.')

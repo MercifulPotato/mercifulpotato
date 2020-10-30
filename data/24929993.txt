@@ -1,1 +1,1 @@
-Item(by='Borkdude', descendants=6, kids=[24931235], score=99, time=1603976278, title='Show HN: Grasp – grep Clojure code using clojure.spec regexes', item_type='story', url='https://github.com/borkdude/grasp', parent=None, text=None)
+Item(by='Borkdude', descendants=8, kids=[24931235, 24937255], score=114, time=1603976278, title='Show HN: Grasp – grep Clojure code using clojure.spec regexes', item_type='story', url='https://github.com/borkdude/grasp', parent=None, text=None)

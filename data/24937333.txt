@@ -1,0 +1,1 @@
+Item(by='dternyak', descendants=None, kids=[24937854, 24937864], score=None, time=1604014089, title=None, item_type='comment', url=None, parent=24930271, text='How do you handle browsing? Does Cohere only work with SPAs? Do you inject turbolinks or something similar to prevent resets of the execution environment when users navigate between pages?')

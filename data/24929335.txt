@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=6, time=1603970858, title='For Complex Applications, Rust Is as Productive as Kotlin', item_type='story', url='https://ferrous-systems.com/blog/rust-as-productive-as-kotlin/', parent=None, text=None)
+Item(by='todsacerdoti', descendants=1, kids=[24936669], score=15, time=1603970858, title='For Complex Applications, Rust Is as Productive as Kotlin', item_type='story', url='https://ferrous-systems.com/blog/rust-as-productive-as-kotlin/', parent=None, text=None)

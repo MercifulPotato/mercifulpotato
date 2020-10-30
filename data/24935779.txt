@@ -1,0 +1,1 @@
+Item(by='zozbot234', descendants=None, kids=[24936457], score=None, time=1604005111, title=None, item_type='comment', url=None, parent=24934948, text='Much of that is due to RISC-V being quite emulation-friendly as far as ISA&#x27;s go. You wouldn&#x27;t guess that given e.g. the weird encoding of insn operands, but that turns out to be a minor factor in practice.')

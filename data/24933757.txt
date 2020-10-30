@@ -1,1 +1,1 @@
-Item(by='mercer', descendants=None, kids=None, score=None, time=1603996314, title=None, item_type='comment', url=None, parent=24932840, text='Agreed, but to be fair I suspect a polyglot programmer will still choose many other languages, outside of Java, over JavaScript.')
+Item(by='mercer', descendants=None, kids=[24937097], score=None, time=1603996314, title=None, item_type='comment', url=None, parent=24932840, text='Agreed, but to be fair I suspect a polyglot programmer will still choose many other languages, outside of Java, over JavaScript.')

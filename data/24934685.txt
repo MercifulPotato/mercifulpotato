@@ -1,1 +1,1 @@
-Item(by='antepodius', descendants=None, kids=None, score=None, time=1604000276, title=None, item_type='comment', url=None, parent=24934445, text='Seems like the move for hackernews people is to pre-emptively move to high land (Tibet?) and not take out loans.')
+Item(by='antepodius', descendants=None, kids=[24938115], score=None, time=1604000276, title=None, item_type='comment', url=None, parent=24934445, text='Seems like the move for hackernews people is to pre-emptively move to high land (Tibet?) and not take out loans.')

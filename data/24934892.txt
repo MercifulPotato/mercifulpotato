@@ -1,1 +1,1 @@
-Item(by='eecc', descendants=None, kids=None, score=None, time=1604001169, title=None, item_type='comment', url=None, parent=24932538, text='Does it have something like JIRA-1330?<p>Because that’s what makes everything else in Jira a sorry kludge')
+Item(by='eecc', descendants=None, kids=[24935053], score=None, time=1604001169, title=None, item_type='comment', url=None, parent=24932538, text='Does it have something like JIRA-1330?<p>Because that’s what makes everything else in Jira a sorry kludge')

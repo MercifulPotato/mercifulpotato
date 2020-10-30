@@ -1,0 +1,1 @@
+Item(by='FullyFunctional', descendants=None, kids=[24935779], score=None, time=1604001391, title=None, item_type='comment', url=None, parent=24933577, text='QEMU is shockingly excellent.  Do not extrapolate, but one piece of code I was working on ran at a 1&#x2F;4 of the speed in RISC-V under QEMU compared to the host.  That&#x27;s a really amazing result.')

@@ -1,1 +1,1 @@
-Item(by='rat87', descendants=None, kids=None, score=None, time=1604002476, title=None, item_type='comment', url=None, parent=24933692, text='The Intercept has long been an activist paper. That&#x27;s why Glenn joined. That doesn&#x27;t mean they care about revenue over truth though')
+Item(by='rat87', descendants=None, kids=[24935352], score=None, time=1604002476, title=None, item_type='comment', url=None, parent=24933692, text='The Intercept has long been an activist paper. That&#x27;s why Glenn joined. That doesn&#x27;t mean they care about revenue over truth though')
