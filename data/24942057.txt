@@ -1,0 +1,1 @@
+Item(by='ragnese', descendants=None, kids=[24942116], score=None, time=1604065209, title=None, item_type='comment', url=None, parent=24941170, text='Have you ever tried playing with OCaml? It&#x27;s obviously not the same thing as a LISP, but its type system is similar to Rust (Rust was largely inspired by OCaml) and it&#x27;s (much) more amenable to playing in the REPL.')

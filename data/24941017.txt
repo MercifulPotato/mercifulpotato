@@ -1,0 +1,1 @@
+Item(by='tester34', descendants=None, kids=None, score=None, time=1604055653, title=None, item_type='comment', url=None, parent=24941011, text='&gt;On normal JS it locks up the browser for 10+ seconds<p>Weird, I think I do the same thing (global exception catcher) and it works fine')

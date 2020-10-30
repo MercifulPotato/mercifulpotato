@@ -1,0 +1,1 @@
+Item(by='lincolnq', descendants=None, kids=[24941737], score=None, time=1604059198, title=None, item_type='comment', url=None, parent=24941217, text='We use Mypy to type check python, and I really like that system. Catches a lot of errors. Not as many as a full static typing system, but still a lot, and you can always drop back into dynamic typing when you want.')

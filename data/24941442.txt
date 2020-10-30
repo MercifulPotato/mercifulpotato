@@ -1,0 +1,1 @@
+Item(by='untog', descendants=None, kids=[24941535], score=None, time=1604060355, title=None, item_type='comment', url=None, parent=24941342, text='I’d be surprised, given that one of the big arguments for using Electron is that you get to write it in JS.<p>If you write Rust for WASM you could just use a native UI framework and target that instead!')

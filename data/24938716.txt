@@ -1,1 +1,1 @@
-Item(by='giovannibenussi', descendants=1, kids=[24939465], score=8, time=1604027127, title="I did some tests with React's renderer to analyze its rendering behavior", item_type='story', url='https://gbenussi.medium.com/having-fun-with-reacts-renderer-be15b39c4556', parent=None, text=None)
+Item(by='giovannibenussi', descendants=1, kids=[24939465], score=11, time=1604027127, title="I did some tests with React's renderer to analyze its rendering behavior", item_type='story', url='https://gbenussi.medium.com/having-fun-with-reacts-renderer-be15b39c4556', parent=None, text=None)

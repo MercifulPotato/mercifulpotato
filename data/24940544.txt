@@ -1,0 +1,1 @@
+Item(by='taffer', descendants=None, kids=[24941885], score=None, time=1604050339, title=None, item_type='comment', url=None, parent=24940404, text='Threads are fine as long as they do not share mutable data structures. For example, multithreaded application servers are a rather painless experience.')

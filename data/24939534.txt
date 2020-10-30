@@ -1,1 +1,1 @@
-Item(by='jkhdigital', descendants=None, kids=None, score=None, time=1604036856, title=None, item_type='comment', url=None, parent=24933814, text='I paid $50 for a year of Matt Taibbi. Literally the first time I have ever paid money for journalism, and it has been worth every penny.')
+Item(by='jkhdigital', descendants=None, kids=[24941640], score=None, time=1604036856, title=None, item_type='comment', url=None, parent=24933814, text='I paid $50 for a year of Matt Taibbi. Literally the first time I have ever paid money for journalism, and it has been worth every penny.')

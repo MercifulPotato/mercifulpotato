@@ -1,0 +1,1 @@
+Item(by='kpmah', descendants=None, kids=[24940807], score=None, time=1604052485, title=None, item_type='comment', url=None, parent=24940432, text='As with Rust&#x27;s &#x27;unsafe&#x27;, the fact that you can explicitly circumvent checks doesn&#x27;t make those checks useless. If something goes wrong you know exactly where to look.')

@@ -1,1 +1,1 @@
-Item(by='goatlover', descendants=None, kids=None, score=None, time=1604000049, title=None, item_type='comment', url=None, parent=24934075, text='The politics of terraforming a barren plant to make more suitable for colonization is going to be different from that of our home world.')
+Item(by='goatlover', descendants=None, kids=[24940621], score=None, time=1604000049, title=None, item_type='comment', url=None, parent=24934075, text='The politics of terraforming a barren plant to make more suitable for colonization is going to be different from that of our home world.')

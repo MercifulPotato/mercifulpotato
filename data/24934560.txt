@@ -1,1 +1,1 @@
-Item(by='genbit', descendants=8, kids=[24935005, 24939923, 24936395], score=102, time=1603999627, title='eBPF Summit Day 1 Recap', item_type='story', url='https://cilium.io/blog/2020/10/28/ebpf-summit-day-1/', parent=None, text=None)
+Item(by='genbit', descendants=21, kids=[24935005, 24939923, 24936395], score=109, time=1603999627, title='eBPF Summit Day 1 Recap', item_type='story', url='https://cilium.io/blog/2020/10/28/ebpf-summit-day-1/', parent=None, text=None)

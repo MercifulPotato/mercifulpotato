@@ -1,0 +1,1 @@
+Item(by='arrayjumper', descendants=None, kids=None, score=None, time=1604065871, title=None, item_type='comment', url=None, parent=24940907, text='I used wasm for a computer vision related feature we built at work. It allowed us to reuse a bunch of things from opencv without having to reimplement those things in JS.')

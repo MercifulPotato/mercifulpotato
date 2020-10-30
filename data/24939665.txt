@@ -1,1 +1,1 @@
-Item(by='dosshell', descendants=None, kids=[24939828, 24939814], score=None, time=1604038711, title=None, item_type='comment', url=None, parent=24917460, text='What does the author mean with &quot;TCP packages&quot;? How is it different from the IP packet?')
+Item(by='dosshell', descendants=None, kids=[24939814, 24939828], score=None, time=1604038711, title=None, item_type='comment', url=None, parent=24917460, text='What does the author mean with &quot;TCP packages&quot;? How is it different from the IP packet?')

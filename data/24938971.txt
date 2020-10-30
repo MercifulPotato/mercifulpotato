@@ -1,1 +1,1 @@
-Item(by='nickik', descendants=None, kids=None, score=None, time=1604029928, title=None, item_type='comment', url=None, parent=24932976, text='I was just thinking about companies in general, not specific to biotech. I have zero experience with biotech.')
+Item(by='nickik', descendants=None, kids=[24940741], score=None, time=1604029928, title=None, item_type='comment', url=None, parent=24932976, text='I was just thinking about companies in general, not specific to biotech. I have zero experience with biotech.')

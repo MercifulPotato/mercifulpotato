@@ -1,0 +1,1 @@
+Item(by='wdb', descendants=None, kids=[24940716], score=None, time=1604051972, title=None, item_type='comment', url=None, parent=24936881, text='Cloud Firestore how does that relate to Datastore? Really wish Google would allow multi-region Cloud SQL like AWS allows with RDS. Datastore is such a pain to use with its index requirements')

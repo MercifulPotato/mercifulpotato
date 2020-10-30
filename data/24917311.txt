@@ -1,1 +1,1 @@
-Item(by='doener', descendants=54, kids=[24918412, 24918245, 24918311, 24923672, 24918298, 24928179, 24918531, 24917877, 24918807], score=116, time=1603882223, title='Fedora 33', item_type='story', url='https://fedoramagazine.org/announcing-fedora-33/', parent=None, text=None)
+Item(by='doener', descendants=54, kids=[24918298, 24918412, 24918245, 24918311, 24923672, 24928179, 24918531, 24917877, 24918807], score=116, time=1603882223, title='Fedora 33', item_type='story', url='https://fedoramagazine.org/announcing-fedora-33/', parent=None, text=None)

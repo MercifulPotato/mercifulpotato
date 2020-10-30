@@ -1,0 +1,1 @@
+Item(by='sarthakjshetty', descendants=None, kids=None, score=None, time=1604052669, title=None, item_type='comment', url=None, parent=24940660, text='Yup! I&#x27;ve worked a bit with pyGame to build a robot interfaced with a PS3 joystick. By far the easiest library I&#x27;ve used for interfacing Python scripts with a joystick.')

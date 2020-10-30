@@ -1,1 +1,1 @@
-Item(by='pabloest', descendants=20, kids=[24934136, 24932029, 24932310, 24933265, 24933142, 24932278], score=105, time=1603987652, title='Introducing Semgrep and r2c', item_type='story', url='https://r2c.dev/blog/2020/introducing-semgrep-and-r2c/', parent=None, text=None)
+Item(by='pabloest', descendants=20, kids=[24934136, 24932029, 24932310, 24933265, 24933142, 24932278], score=108, time=1603987652, title='Introducing Semgrep and r2c', item_type='story', url='https://r2c.dev/blog/2020/introducing-semgrep-and-r2c/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='sergeykish', descendants=None, kids=None, score=None, time=1604025431, title=None, item_type='comment', url=None, parent=24933845, text='Can we have both PR and WYSIWYG? Login with github, Edit page, click button to submit PR with your changes.')
+Item(by='sergeykish', descendants=None, kids=[24940272], score=None, time=1604025431, title=None, item_type='comment', url=None, parent=24933845, text='Can we have both PR and WYSIWYG? Login with github, Edit page, click button to submit PR with your changes.')

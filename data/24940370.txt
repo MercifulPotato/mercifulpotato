@@ -1,0 +1,1 @@
+Item(by='andysomniac', descendants=None, kids=None, score=None, time=1604048014, title=None, item_type='comment', url=None, parent=24940347, text='It is a gem that tells you when you are accidentally making a N+1 query and suggests the best way to fix it in AR (it also tells you when you have over used includes that are not needed and other such tweaks to make to your queries).')

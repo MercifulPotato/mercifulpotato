@@ -1,1 +1,1 @@
-Item(by='greesil', descendants=None, kids=None, score=None, time=1604032708, title=None, item_type='comment', url=None, parent=24938581, text='Oh no. So that&#x27;s how the aluminum tube information spread. Thanks for pointing this out, I stand corrected.')
+Item(by='greesil', descendants=None, kids=[24940133], score=None, time=1604032708, title=None, item_type='comment', url=None, parent=24938581, text='Oh no. So that&#x27;s how the aluminum tube information spread. Thanks for pointing this out, I stand corrected.')

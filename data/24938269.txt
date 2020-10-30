@@ -1,1 +1,1 @@
-Item(by='brucehoult', descendants=None, kids=None, score=None, time=1604022763, title=None, item_type='comment', url=None, parent=24935451, text='&quot;PC&quot;: ability to use any commodity Mini-ITX PC case, commodity power supply, standard PCie video card, standard M.2 SSD.')
+Item(by='brucehoult', descendants=None, kids=[24940800], score=None, time=1604022763, title=None, item_type='comment', url=None, parent=24935451, text='&quot;PC&quot;: ability to use any commodity Mini-ITX PC case, commodity power supply, standard PCie video card, standard M.2 SSD.')

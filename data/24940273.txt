@@ -1,0 +1,1 @@
+Item(by='kleendr12', descendants=None, kids=[24940301], score=None, time=1604046895, title=None, item_type='comment', url=None, parent=24940256, text='When there&#x27;s no loop bound it cannot prove termination, see halting problem. Goal is to avoid getting an infinite loop and then freezing the kernel of course.')

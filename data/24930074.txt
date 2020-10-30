@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=0, kids=None, score=2, time=1603976916, title='How Do We Prevent War in Space?', item_type='story', url='https://www.scientificamerican.com/article/how-do-we-prevent-war-in-space/', parent=None, text=None)
+Item(by='headalgorithm', descendants=16, kids=[24941361, 24941368, 24941291, 24941315, 24941178, 24941141, 24941202], score=8, time=1603976916, title='How Do We Prevent War in Space?', item_type='story', url='https://www.scientificamerican.com/article/how-do-we-prevent-war-in-space/', parent=None, text=None)

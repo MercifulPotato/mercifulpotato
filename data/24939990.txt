@@ -1,1 +1,1 @@
-Item(by='kortilla', descendants=None, kids=None, score=None, time=1604043747, title=None, item_type='comment', url=None, parent=24938731, text='Better for the vast majority of the planet. Extreme poverty has been on a constant decline.')
+Item(by='kortilla', descendants=None, kids=[24940132], score=None, time=1604043747, title=None, item_type='comment', url=None, parent=24938731, text='Better for the vast majority of the planet. Extreme poverty has been on a constant decline.')
