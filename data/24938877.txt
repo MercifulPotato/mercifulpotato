@@ -1,0 +1,1 @@
+Item(by='gedy', descendants=None, kids=[24939654], score=None, time=1604028896, title=None, item_type='comment', url=None, parent=24936003, text='Depends on what you mean by offline, but we&#x27;re able to interact with UI and trigger mutations while offline, and it will replay the graphql calls in correct order once online again.')

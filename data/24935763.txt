@@ -1,1 +1,1 @@
-Item(by='chemodax', descendants=1, kids=[24936918], score=13, time=1604005018, title='Windows Update for the Removal of Adobe Flash Player', item_type='story', url='https://support.microsoft.com/en-us/help/4577586/update-for-removal-of-adobe-flash-player', parent=None, text=None)
+Item(by='chemodax', descendants=3, kids=[24936918, 24938507], score=17, time=1604005018, title='Windows Update for the Removal of Adobe Flash Player', item_type='story', url='https://support.microsoft.com/en-us/help/4577586/update-for-removal-of-adobe-flash-player', parent=None, text=None)

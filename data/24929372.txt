@@ -1,1 +1,1 @@
-Item(by='Drakim', descendants=None, kids=None, score=None, time=1603971198, title=None, item_type='comment', url=None, parent=24929279, text='But you likely haven&#x27;t been using destructuring assignment for 10+ years.')
+Item(by='Drakim', descendants=None, kids=[24938366], score=None, time=1603971198, title=None, item_type='comment', url=None, parent=24929279, text='But you likely haven&#x27;t been using destructuring assignment for 10+ years.')

@@ -1,0 +1,1 @@
+Item(by='ec109685', descendants=None, kids=None, score=None, time=1604033283, title=None, item_type='comment', url=None, parent=24927983, text='Biggest problem with templating libraries like mustache is they aren’t context aware, so it is up to the programmer to remember the proper way to escape based on where a variable is used.')

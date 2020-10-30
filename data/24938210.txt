@@ -1,1 +1,1 @@
-Item(by='fredguth', descendants=None, kids=None, score=None, time=1604021842, title=None, item_type='comment', url=None, parent=24937458, text='Long live the freaks of the world. We need them more than ever.')
+Item(by='fredguth', descendants=None, kids=[24939405, 24938342], score=None, time=1604021842, title=None, item_type='comment', url=None, parent=24937458, text='Long live the freaks of the world. We need them more than ever.')

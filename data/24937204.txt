@@ -1,1 +1,1 @@
-Item(by='purpleidea', descendants=None, kids=None, score=None, time=1604013053, title=None, item_type='comment', url=None, parent=24933054, text='How come this link with 749+ points and 5hours, is near the bottom of the HN page of lesser rated (and older) articles???')
+Item(by='purpleidea', descendants=None, kids=[24939656], score=None, time=1604013053, title=None, item_type='comment', url=None, parent=24933054, text='How come this link with 749+ points and 5hours, is near the bottom of the HN page of lesser rated (and older) articles???')

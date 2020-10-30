@@ -1,1 +1,1 @@
-Item(by='0xCMP', descendants=None, kids=None, score=None, time=1604022778, title=None, item_type='comment', url=None, parent=24937963, text='The intent to buy things in the mall (or not) for one')
+Item(by='0xCMP', descendants=None, kids=[24938776], score=None, time=1604022778, title=None, item_type='comment', url=None, parent=24937963, text='The intent to buy things in the mall (or not) for one')

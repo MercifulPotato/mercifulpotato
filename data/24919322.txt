@@ -1,1 +1,1 @@
-Item(by='twsted', descendants=None, kids=None, score=None, time=1603896474, title=None, item_type='comment', url=None, parent=24918639, text='I should still have the physical copy somewhere and also the BYTE issue')
+Item(by='twsted', descendants=None, kids=[24938643], score=None, time=1603896474, title=None, item_type='comment', url=None, parent=24918639, text='I should still have the physical copy somewhere and also the BYTE issue')

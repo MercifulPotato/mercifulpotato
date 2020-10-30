@@ -1,0 +1,1 @@
+Item(by='kabes', descendants=None, kids=None, score=None, time=1604041054, title=None, item_type='comment', url=None, parent=24939665, text='Tcp is a transport layer protocol on top of ip. So the tcp packet with stuff like sequence and port numbers in its header is encapsulated as the data part of an ip packet, which in turn is send via lower level packets like ethernet frames.')

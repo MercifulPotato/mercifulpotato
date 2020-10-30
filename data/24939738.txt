@@ -1,0 +1,1 @@
+Item(by='moepstar', descendants=None, kids=None, score=None, time=1604039897, title=None, item_type='comment', url=None, parent=24935995, text='FWIW, when i toyed a bit with Rails (gotta pick it up again, seriously) i used Heroku but quickly migrated over to a Dokku instance ran on my local NAS.<p>Getting Dokku running on something like Digital Ocean should be easy as pie...')

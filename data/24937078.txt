@@ -1,0 +1,1 @@
+Item(by='IgorPartola', descendants=None, kids=[24938715], score=None, time=1604012035, title=None, item_type='comment', url=None, parent=24936544, text='Why can’t you distribute latest commits via a mailing server? git fetch becomes a “check your inbox”, git push sends an email to the list.')

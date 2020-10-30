@@ -1,0 +1,1 @@
+Item(by='me2i81', descendants=None, kids=None, score=None, time=1604024745, title=None, item_type='comment', url=None, parent=24917394, text='The most common error I&#x27;ve seen in this area is that most GIS systems use (Lat, Lng) but most systems written by non-GIS people use (Lng, Lat), which they think of as (x, y).')

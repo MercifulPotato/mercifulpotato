@@ -1,0 +1,1 @@
+Item(by='zozbot234', descendants=None, kids=[24940058], score=None, time=1604040792, title=None, item_type='comment', url=None, parent=24917659, text='Unless you actually need to output human-readable numbers for some reason, the sensible approach when serializing floating point numbers is to just use hexfloats and skip the problematic &quot;rendering&quot; part altogether.')

@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1604001058, title=None, item_type='comment', url=None, parent=24934767, text='&gt;are they doing LTE data collection too?<p>Don&#x27;t cell carriers already sell your &quot;anonymized&quot; location data to marketers?')
+Item(by='gruez', descendants=None, kids=[24938533], score=None, time=1604001058, title=None, item_type='comment', url=None, parent=24934767, text='&gt;are they doing LTE data collection too?<p>Don&#x27;t cell carriers already sell your &quot;anonymized&quot; location data to marketers?')

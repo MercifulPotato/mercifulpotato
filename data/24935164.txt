@@ -1,1 +1,1 @@
-Item(by='CptFribble', descendants=None, kids=None, score=None, time=1604002312, title=None, item_type='comment', url=None, parent=24933782, text='Thank you! I&#x27;ll check both of those out')
+Item(by='CptFribble', descendants=None, kids=[24939813], score=None, time=1604002312, title=None, item_type='comment', url=None, parent=24933782, text='Thank you! I&#x27;ll check both of those out')

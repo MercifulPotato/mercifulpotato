@@ -1,1 +1,1 @@
-Item(by='Ir0nMan', descendants=None, kids=None, score=None, time=1603967551, title=None, item_type='comment', url=None, parent=24923478, text='Yep. Odd that the article makes it seem like some new innovation.')
+Item(by='Ir0nMan', descendants=None, kids=[24939278], score=None, time=1603967551, title=None, item_type='comment', url=None, parent=24923478, text='Yep. Odd that the article makes it seem like some new innovation.')

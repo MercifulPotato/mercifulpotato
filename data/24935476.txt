@@ -1,1 +1,1 @@
-Item(by='dkhmelenko', descendants=1, kids=[24935513], score=1, time=1604003844, title='Great but Underrated AWS Services', item_type='story', url='https://medium.com/better-programming/4-great-but-underrated-aws-services-3284ffcb6073', parent=None, text=None)
+Item(by='dkhmelenko', descendants=2, kids=[24939203, 24935513], score=2, time=1604003844, title='Great but Underrated AWS Services', item_type='story', url='https://medium.com/better-programming/4-great-but-underrated-aws-services-3284ffcb6073', parent=None, text=None)

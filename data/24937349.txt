@@ -1,1 +1,1 @@
-Item(by='matt_d', descendants=0, kids=None, score=1, time=1604014217, title='Random Testing for C and C++ Compilers with YARPGen [pdf]', item_type='story', url='https://www.cs.utah.edu/~regehr/yarpgen-oopsla20.pdf', parent=None, text=None)
+Item(by='matt_d', descendants=1, kids=[24939856], score=2, time=1604014217, title='Random Testing for C and C++ Compilers with YARPGen [pdf]', item_type='story', url='https://www.cs.utah.edu/~regehr/yarpgen-oopsla20.pdf', parent=None, text=None)

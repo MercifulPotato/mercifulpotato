@@ -1,0 +1,1 @@
+Item(by='anaganisk', descendants=None, kids=None, score=None, time=1604029641, title=None, item_type='comment', url=None, parent=24932942, text='At my previous shop, we used J2V8(a light weight v8 runtime wrapper) on Android to rull all the javascript business logic(shared with our web code), we only had a accessor methods in Java. No complaints at all, and it was very fast.')

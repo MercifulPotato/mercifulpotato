@@ -1,0 +1,1 @@
+Item(by='macmar', descendants=None, kids=None, score=None, time=1604023547, title=None, item_type='comment', url=None, parent=24938364, text='Built a data collection pipeline of COVID-19 cough recordings through our website (opensigma.mit.edu) between April and May 2020 and created the largest audio COVID-19 cough balanced dataset reported to date with 5,320 subjects.')

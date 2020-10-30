@@ -1,1 +1,1 @@
-Item(by='Alupis', descendants=0, kids=[24938147], score=1, time=1604020847, title='Netflix raises prices on standard and premium plans', item_type='story', url='https://www.cnbc.com/2020/10/29/netflix-raises-prices-of-its-standard-and-premium-monthly-plans.html', parent=None, text=None)
+Item(by='Alupis', descendants=0, kids=[24938147], score=3, time=1604020847, title='Netflix raises prices on standard and premium plans', item_type='story', url='https://www.cnbc.com/2020/10/29/netflix-raises-prices-of-its-standard-and-premium-monthly-plans.html', parent=None, text=None)

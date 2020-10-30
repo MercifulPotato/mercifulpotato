@@ -1,1 +1,1 @@
-Item(by='panarky', descendants=None, kids=None, score=None, time=1604019678, title=None, item_type='comment', url=None, parent=24936276, text='I trust a VPN from Google far more than others, with the possible exception of a VPN I set up myself.')
+Item(by='panarky', descendants=None, kids=[24939178], score=None, time=1604019678, title=None, item_type='comment', url=None, parent=24936276, text='I trust a VPN from Google far more than others, with the possible exception of a VPN I set up myself.')

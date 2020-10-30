@@ -1,1 +1,1 @@
-Item(by='mycall', descendants=None, kids=None, score=None, time=1604020275, title=None, item_type='comment', url=None, parent=24935825, text='Can the iMacs be used as an external monitor for other computers?')
+Item(by='mycall', descendants=None, kids=[24938953], score=None, time=1604020275, title=None, item_type='comment', url=None, parent=24935825, text='Can the iMacs be used as an external monitor for other computers?')

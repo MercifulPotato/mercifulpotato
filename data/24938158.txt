@@ -1,1 +1,1 @@
-Item(by='jimbokun', descendants=None, kids=None, score=None, time=1604021095, title=None, item_type='comment', url=None, parent=24934248, text='A lot less misery and toil than almost everyone that came before them.')
+Item(by='jimbokun', descendants=None, kids=[24939731], score=None, time=1604021095, title=None, item_type='comment', url=None, parent=24934248, text='A lot less misery and toil than almost everyone that came before them.')

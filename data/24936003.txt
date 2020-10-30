@@ -1,1 +1,1 @@
-Item(by='jamil7', descendants=None, kids=None, score=None, time=1604006150, title=None, item_type='comment', url=None, parent=24931777, text='Last I checked Apollo had a persistent cache but not true offline support.')
+Item(by='jamil7', descendants=None, kids=[24938877], score=None, time=1604006150, title=None, item_type='comment', url=None, parent=24931777, text='Last I checked Apollo had a persistent cache but not true offline support.')

@@ -1,1 +1,1 @@
-Item(by='dpflan', descendants=0, kids=None, score=6, time=1603898863, title='Quiz: Can You Tell a ‘Trump’ Fridge from a ‘Biden’ Fridge?', item_type='story', url='https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html', parent=None, text=None)
+Item(by='dpflan', descendants=0, kids=[24939460], score=9, time=1603898863, title='Quiz: Can You Tell a ‘Trump’ Fridge from a ‘Biden’ Fridge?', item_type='story', url='https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html', parent=None, text=None)
