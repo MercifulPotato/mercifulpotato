@@ -1,0 +1,1 @@
+Item(by='cat199', descendants=None, kids=None, score=None, time=1604153762, title=None, item_type='comment', url=None, parent=24948524, text='great notes<p>didn&#x27;t see anything obvious about messaging-style IPC like jms&#x2F;0mq etc or more synchronous HPC mechanisms like MPI, which are also good&#x2F;important topics to consider depending on the use case')

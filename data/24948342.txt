@@ -1,1 +1,1 @@
-Item(by='computerlab', descendants=0, kids=None, score=4, time=1604107450, title='Catala: a programming language for socio-fiscal legislative literate programming', item_type='story', url='https://github.com/CatalaLang/catala', parent=None, text=None)
+Item(by='computerlab', descendants=13, kids=[24951052, 24950359, 24951229, 24950332, 24950594], score=47, time=1604107450, title='Catala: a programming language for socio-fiscal legislative literate programming', item_type='story', url='https://github.com/CatalaLang/catala', parent=None, text=None)

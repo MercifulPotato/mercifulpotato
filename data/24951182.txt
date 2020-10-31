@@ -1,0 +1,1 @@
+Item(by='krastanov', descendants=None, kids=None, score=None, time=1604150085, title=None, item_type='comment', url=None, parent=24949721, text='Quantum effects are still things we can simulate on a Turing machine with a program that halts (just inefficiently slow given our current knowledge of complexity theory). Bringing in quantum effects does not make things uncomputable.')

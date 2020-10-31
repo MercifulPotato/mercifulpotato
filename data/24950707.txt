@@ -1,0 +1,1 @@
+Item(by='loxs', descendants=None, kids=[24950930, 24950922, 24950916], score=None, time=1604145470, title=None, item_type='comment', url=None, parent=24950658, text='Also I don&#x27;t get it, what&#x27;s the problem with shipping a statically linked binary? Yeah, it goes a bit against the debian way, but it will facilitate things like out-of-the-box init scripts etc.')

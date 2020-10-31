@@ -1,1 +1,1 @@
-Item(by='helloSam43', descendants=None, kids=None, score=None, time=1604098595, title=None, item_type='comment', url=None, parent=24943014, text='emacs and vim shortcuts or no-go')
+Item(by='helloSam43', descendants=None, kids=[24950711], score=None, time=1604098595, title=None, item_type='comment', url=None, parent=24943014, text='emacs and vim shortcuts or no-go')

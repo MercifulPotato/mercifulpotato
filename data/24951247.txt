@@ -1,0 +1,1 @@
+Item(by='benhurmarcel', descendants=None, kids=None, score=None, time=1604150516, title=None, item_type='comment', url=None, parent=24943189, text='You can also just not use a generator at all. Just publish markdown files directly on Github or similar, or convert to html with pandoc and be done with it.')

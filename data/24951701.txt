@@ -1,0 +1,1 @@
+Item(by='dimitar', descendants=None, kids=None, score=None, time=1604154133, title=None, item_type='comment', url=None, parent=24949373, text='Do you use managed Kubernetes or kubeadm?<p>I think if one uses a managed Kubernetes keeping it up-to-date is pretty easy. I did an AKS update in 10 minutes.')

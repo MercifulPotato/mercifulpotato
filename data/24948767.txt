@@ -1,1 +1,1 @@
-Item(by='jmpman', descendants=None, kids=None, score=None, time=1604112413, title=None, item_type='comment', url=None, parent=24943576, text='I’m sure a coyote can survive in Times Square. Make it illegal to shoot a wolf, and they’ll do fine in Times Square too.')
+Item(by='jmpman', descendants=None, kids=[24951248], score=None, time=1604112413, title=None, item_type='comment', url=None, parent=24943576, text='I’m sure a coyote can survive in Times Square. Make it illegal to shoot a wolf, and they’ll do fine in Times Square too.')

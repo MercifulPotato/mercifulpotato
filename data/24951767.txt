@@ -1,0 +1,1 @@
+Item(by='ibotty', descendants=None, kids=None, score=None, time=1604154649, title=None, item_type='comment', url=None, parent=24951690, text='The problem is building and packaging (and versioning) all dependencies.  It&#x27;s a reasonable policy to not allow bundling which conflicts with usual Go developing.')

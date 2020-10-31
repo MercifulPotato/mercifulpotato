@@ -1,1 +1,1 @@
-Item(by='thrwyoilarticle', descendants=None, kids=None, score=None, time=1603972048, title=None, item_type='comment', url=None, parent=24925283, text='In case you&#x27;re not aware, it&#x27;s been superseded by NVIDIA Broadcast. The RTX Voice beta just crashes on my hardware.')
+Item(by='thrwyoilarticle', descendants=None, kids=[24950610], score=None, time=1603972048, title=None, item_type='comment', url=None, parent=24925283, text='In case you&#x27;re not aware, it&#x27;s been superseded by NVIDIA Broadcast. The RTX Voice beta just crashes on my hardware.')

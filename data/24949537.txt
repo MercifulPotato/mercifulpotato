@@ -1,1 +1,1 @@
-Item(by='oftenwrong', descendants=0, kids=None, score=2, time=1604125707, title='Without humans, pumpkins may have gone extinct', item_type='story', url='https://www.sciencemag.org/news/2015/11/without-us-pumpkins-may-have-gone-extinct', parent=None, text=None)
+Item(by='oftenwrong', descendants=1, kids=[24949967], score=3, time=1604125707, title='Without humans, pumpkins may have gone extinct', item_type='story', url='https://www.sciencemag.org/news/2015/11/without-us-pumpkins-may-have-gone-extinct', parent=None, text=None)

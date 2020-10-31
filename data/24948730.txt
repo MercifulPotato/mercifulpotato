@@ -1,1 +1,1 @@
-Item(by='yobert', descendants=None, kids=None, score=None, time=1604112030, title=None, item_type='comment', url=None, parent=24948669, text='I can tell already that I do this and I should stop. My wife just hasn&#x27;t said it yet.<p>I just always default to problem solving....')
+Item(by='yobert', descendants=None, kids=[24950981], score=None, time=1604112030, title=None, item_type='comment', url=None, parent=24948669, text='I can tell already that I do this and I should stop. My wife just hasn&#x27;t said it yet.<p>I just always default to problem solving....')

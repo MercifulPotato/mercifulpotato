@@ -1,1 +1,1 @@
-Item(by='flatiron', descendants=None, kids=None, score=None, time=1604093425, title=None, item_type='comment', url=None, parent=24938872, text='Next weeks goal is to setup ao486 on my MiSTER and see how well these remind me of my first computer (486 66dx2)')
+Item(by='flatiron', descendants=None, kids=[24950406], score=None, time=1604093425, title=None, item_type='comment', url=None, parent=24938872, text='Next weeks goal is to setup ao486 on my MiSTER and see how well these remind me of my first computer (486 66dx2)')
