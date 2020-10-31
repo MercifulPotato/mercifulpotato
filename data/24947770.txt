@@ -1,0 +1,1 @@
+Item(by='zarkov99', descendants=None, kids=None, score=None, time=1604099891, title=None, item_type='comment', url=None, parent=24947375, text='sqlite is a wonderful, amazing, file manipulation API. If single-threaded file manipulation is what you need, its great. But is not an application backend in the way PG can be.')

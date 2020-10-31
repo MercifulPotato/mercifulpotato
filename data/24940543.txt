@@ -1,1 +1,1 @@
-Item(by='diggan', descendants=0, kids=None, score=3, time=1604050332, title='Generating bingo cards with clojure.spec, Clojure/test.check, RDD and TDD', item_type='story', url='https://garajeando.blogspot.com/2018/03/generating-bingo-cards-with-clojurespec.html', parent=None, text=None)
+Item(by='diggan', descendants=0, kids=None, score=12, time=1604050332, title='Generating bingo cards with clojure.spec, Clojure/test.check, RDD and TDD', item_type='story', url='https://garajeando.blogspot.com/2018/03/generating-bingo-cards-with-clojurespec.html', parent=None, text=None)

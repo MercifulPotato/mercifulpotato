@@ -1,1 +1,1 @@
-Item(by='rainworld', descendants=0, kids=None, score=16, time=1604079404, title='Swift Concurrency Roadmap', item_type='story', url='https://forums.swift.org/t/swift-concurrency-roadmap/41611', parent=None, text=None)
+Item(by='rainworld', descendants=50, kids=[24947766, 24946029, 24946952, 24948220, 24947919, 24947110, 24946978, 24946103], score=108, time=1604079404, title='Swift Concurrency Roadmap', item_type='story', url='https://forums.swift.org/t/swift-concurrency-roadmap/41611', parent=None, text=None)

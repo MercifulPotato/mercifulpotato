@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=None, score=None, time=1604096328, title=None, item_type='comment', url=None, parent=24942583, text='By parsing I mean it in the usual sense for a date... strptime, Date.Parse, etc... i.e. turning a string to a date (or multiple dates). You can call it something else if you&#x27;d like.')

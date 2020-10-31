@@ -1,1 +1,1 @@
-Item(by='benjaminjosephw', descendants=1, kids=[24945864], score=1, time=1604084749, title='Requests for Discussion', item_type='story', url='https://oxide.computer/blog/rfd-1-requests-for-discussion/', parent=None, text=None)
+Item(by='benjaminjosephw', descendants=2, kids=[24946416, 24945864], score=1, time=1604084749, title='Requests for Discussion', item_type='story', url='https://oxide.computer/blog/rfd-1-requests-for-discussion/', parent=None, text=None)

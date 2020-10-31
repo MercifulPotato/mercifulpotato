@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=None, kids=None, score=None, time=1604084487, title=None, item_type='comment', url=None, parent=24942908, text='This should be reupped...')
+Item(by=None, descendants=None, kids=None, score=None, time=1604084487, title=None, item_type='comment', url=None, parent=24942908, text=None)

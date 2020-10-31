@@ -1,1 +1,1 @@
-Item(by='brigham', descendants=0, kids=None, score=1, time=1604084042, title='Playdate October 2020 Update', item_type='story', url='https://play.date/update-oct/', parent=None, text=None)
+Item(by='brigham', descendants=2, kids=[24947805, 24947201], score=13, time=1604084042, title='Playdate October 2020 Update', item_type='story', url='https://play.date/update-oct/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='api', descendants=None, kids=[24947593, 24947489], score=None, time=1604096846, title=None, item_type='comment', url=None, parent=24947375, text='SQLite is amazing, and “lite” is really not fair. I’ve seen it handle 1tb+ with at least decent performance.<p>It’s not a replacement for a real DB but it is damn close.')

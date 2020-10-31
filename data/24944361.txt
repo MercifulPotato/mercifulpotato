@@ -1,1 +1,1 @@
-Item(by='TheSpiceIsLife', descendants=None, kids=None, score=None, time=1604077602, title=None, item_type='comment', url=None, parent=24943536, text='Ah right, thanks, I wasn’t sure if the two were related.')
+Item(by='TheSpiceIsLife', descendants=None, kids=[24947037], score=None, time=1604077602, title=None, item_type='comment', url=None, parent=24943536, text='Ah right, thanks, I wasn’t sure if the two were related.')

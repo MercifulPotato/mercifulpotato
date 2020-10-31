@@ -1,1 +1,1 @@
-Item(by='reddotX', descendants=0, kids=None, score=3, time=1604085697, title='Exxon to Slash 14,000 Jobs Worldwide as Oil Demand Drops', item_type='story', url='https://www.ecowatch.com/exxon-job-cuts-2648560659.html', parent=None, text=None)
+Item(by='reddotX', descendants=6, kids=[24947556, 24947174, 24947447, 24947590], score=40, time=1604085697, title='Exxon to Slash 14,000 Jobs Worldwide as Oil Demand Drops', item_type='story', url='https://www.ecowatch.com/exxon-job-cuts-2648560659.html', parent=None, text=None)

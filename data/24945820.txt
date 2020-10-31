@@ -1,1 +1,1 @@
-Item(by='gmays', descendants=0, kids=None, score=1, time=1604085445, title="Charting America's Debt: $27T and Counting", item_type='story', url='https://www.visualcapitalist.com/americas-debt-27-trillion-and-counting/', parent=None, text=None)
+Item(by='gmays', descendants=2, kids=[24946089, 24946164], score=6, time=1604085445, title="Charting America's Debt: $27T and Counting", item_type='story', url='https://www.visualcapitalist.com/americas-debt-27-trillion-and-counting/', parent=None, text=None)

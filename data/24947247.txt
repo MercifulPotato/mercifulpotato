@@ -1,0 +1,1 @@
+Item(by='ben201', descendants=0, kids=None, score=5, time=1604094910, title='Issue 2104: Windows Kernel cng.sys pool-based buffer overflow in IOCTL 0x390400', item_type='story', url='https://bugs.chromium.org/p/project-zero/issues/detail?id=2104', parent=None, text=None)

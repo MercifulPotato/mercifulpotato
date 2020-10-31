@@ -1,1 +1,1 @@
-Item(by='geniium', descendants=None, kids=None, score=None, time=1604085530, title=None, item_type='comment', url=None, parent=24945771, text='Came in the comment to say exactly the same.\nIt could be a title about the blog site .')
+Item(by='geniium', descendants=None, kids=[24946080], score=None, time=1604085530, title=None, item_type='comment', url=None, parent=24945771, text='Came in the comment to say exactly the same.\nIt could be a title about the blog site .')

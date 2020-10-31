@@ -1,1 +1,1 @@
-Item(by='benibela', descendants=None, kids=None, score=None, time=1604059324, title=None, item_type='comment', url=None, parent=24939805, text='That is great, until you have to use JSON')
+Item(by='benibela', descendants=None, kids=[24947118], score=None, time=1604059324, title=None, item_type='comment', url=None, parent=24939805, text='That is great, until you have to use JSON')

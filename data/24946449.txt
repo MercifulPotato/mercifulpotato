@@ -1,1 +1,1 @@
-Item(by='louib', descendants=None, kids=None, score=None, time=1604089026, title=None, item_type='comment', url=None, parent=24944537, text='&gt; There is also now an RSS feed with all the latest announcements.<p>Good to see RSS is still being added to websites in 2020!')
+Item(by='louib', descendants=None, kids=[24947236], score=None, time=1604089026, title=None, item_type='comment', url=None, parent=24944537, text='&gt; There is also now an RSS feed with all the latest announcements.<p>Good to see RSS is still being added to websites in 2020!')

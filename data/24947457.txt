@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1604096801, title=None, item_type='comment', url=None, parent=24942985, text='Web apps don&#x27;t care about which kernel the browser runs on.<p>In what concerns Crostini, it even uses another Linux kernel running on top of a container.')

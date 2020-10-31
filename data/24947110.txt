@@ -1,0 +1,1 @@
+Item(by='mirekrusin', descendants=None, kids=[24947655], score=None, time=1604093776, title=None, item_type='comment', url=None, parent=24944777, text='If all private state is managed by serial queue, doesn&#x27;t it mean you can easily deadlock yourself? Will swift statically reject deadlocks on reentrance?')

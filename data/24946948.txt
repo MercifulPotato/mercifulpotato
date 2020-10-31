@@ -1,0 +1,1 @@
+Item(by='shay_ker', descendants=None, kids=[24947039], score=None, time=1604092343, title=None, item_type='comment', url=None, parent=24944852, text='Surprised they didn&#x27;t cover transaction id wraparound, which has caused more than a few public outages at scale.<p>IIRC some Postgres folks have a plan to fix it? Maybe Craig knows?')

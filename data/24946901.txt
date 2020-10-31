@@ -1,0 +1,1 @@
+Item(by='wmf', descendants=None, kids=None, score=None, time=1604092045, title=None, item_type='comment', url=None, parent=24946628, text='This is wrong; 1 Gbps Ethernet is 125 MB&#x2F;s (including headers&#x2F;trailer and inter-packet gap so you only get ~117 in practice). Infiniband, SATA, and Fibre Channel cheat but Ethernet doesn&#x27;t.')

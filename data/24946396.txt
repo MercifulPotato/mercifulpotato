@@ -1,1 +1,1 @@
-Item(by='nitrogen', descendants=None, kids=None, score=None, time=1604088626, title=None, item_type='comment', url=None, parent=24945773, text='I think in King&#x27;s Quest it was looking up some specific code word in a random grid or something, before it would let you launch a boat?')
+Item(by='nitrogen', descendants=None, kids=[24946717], score=None, time=1604088626, title=None, item_type='comment', url=None, parent=24945773, text='I think in King&#x27;s Quest it was looking up some specific code word in a random grid or something, before it would let you launch a boat?')
