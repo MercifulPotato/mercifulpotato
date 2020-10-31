@@ -1,1 +1,1 @@
-Item(by='flatiron', descendants=None, kids=None, score=None, time=1604143265, title=None, item_type='comment', url=None, parent=24940201, text='I have a MiSTER. One day I’ll figure out how to play with it (more than games) haven’t done fpga since college though.')
+Item(by='flatiron', descendants=None, kids=[24951604], score=None, time=1604143265, title=None, item_type='comment', url=None, parent=24940201, text='I have a MiSTER. One day I’ll figure out how to play with it (more than games) haven’t done fpga since college though.')

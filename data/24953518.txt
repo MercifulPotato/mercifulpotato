@@ -1,0 +1,1 @@
+Item(by='mslot', descendants=2, kids=[24953643, 24953918], score=2, time=1604166120, title='Evolving pg_cron together: Postgres 13, audit log, background workers, job names', item_type='story', url='https://www.citusdata.com/blog/2020/10/31/evolving-pg-cron-together/', parent=None, text=None)

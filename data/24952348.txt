@@ -1,0 +1,1 @@
+Item(by='ghthor', descendants=None, kids=None, score=None, time=1604159128, title=None, item_type='comment', url=None, parent=24949685, text='Debian packaging is so arcane, I use the arch PKGBUILDs to build the file system tree and one of the deb tools that build a package from a file tree.')

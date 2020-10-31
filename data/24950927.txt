@@ -1,1 +1,1 @@
-Item(by='ForHackernews', descendants=None, kids=None, score=None, time=1604147895, title=None, item_type='comment', url=None, parent=24950891, text='Since when is Russia a democracy? But yes, foreign propaganda has existed for a long time.')
+Item(by='ForHackernews', descendants=None, kids=[24952841], score=None, time=1604147895, title=None, item_type='comment', url=None, parent=24950891, text='Since when is Russia a democracy? But yes, foreign propaganda has existed for a long time.')

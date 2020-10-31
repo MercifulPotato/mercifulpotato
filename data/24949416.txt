@@ -1,1 +1,1 @@
-Item(by='AndrewBissell', descendants=None, kids=None, score=None, time=1604123504, title=None, item_type='comment', url=None, parent=24948649, text='Sins of the Fathers was great too! I even read Jane Jensen&#x27;s novelizations of both games in the 90s.')
+Item(by='AndrewBissell', descendants=None, kids=[24954042], score=None, time=1604123504, title=None, item_type='comment', url=None, parent=24948649, text='Sins of the Fathers was great too! I even read Jane Jensen&#x27;s novelizations of both games in the 90s.')

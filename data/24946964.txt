@@ -1,1 +1,1 @@
-Item(by='MKais', descendants=2, kids=[24948050], score=16, time=1604092468, title='AI model detects asymptomatic Covid infections through cellphone-recorded coughs', item_type='story', url='https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029', parent=None, text=None)
+Item(by='MKais', descendants=4, kids=[24951892, 24948050], score=19, time=1604092468, title='AI model detects asymptomatic Covid infections through cellphone-recorded coughs', item_type='story', url='https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029', parent=None, text=None)

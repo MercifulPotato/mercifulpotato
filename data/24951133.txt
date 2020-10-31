@@ -1,1 +1,1 @@
-Item(by='hprotagonist', descendants=None, kids=None, score=None, time=1604149707, title=None, item_type='comment', url=None, parent=24950897, text='You cannot die, Highlander! You are immortal!')
+Item(by='hprotagonist', descendants=None, kids=[24954445], score=None, time=1604149707, title=None, item_type='comment', url=None, parent=24950897, text='You cannot die, Highlander! You are immortal!')

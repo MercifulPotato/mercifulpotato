@@ -1,1 +1,1 @@
-Item(by='civilized', descendants=None, kids=None, score=None, time=1604150548, title=None, item_type='comment', url=None, parent=24951233, text='Did you read the article, or just count the word mentions?')
+Item(by='civilized', descendants=None, kids=[24951396], score=None, time=1604150548, title=None, item_type='comment', url=None, parent=24951233, text='Did you read the article, or just count the word mentions?')

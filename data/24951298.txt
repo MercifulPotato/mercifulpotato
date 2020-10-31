@@ -1,1 +1,1 @@
-Item(by='Joeboy', descendants=None, kids=None, score=None, time=1604150873, title=None, item_type='comment', url=None, parent=24951214, text='A film which is so divisive I have no idea if you&#x27;re serious or not.<p>I like it a lot, and its themes have aged well even if its SFX haven&#x27;t.')
+Item(by=None, descendants=None, kids=None, score=None, time=1604150873, title=None, item_type='comment', url=None, parent=24951214, text=None)

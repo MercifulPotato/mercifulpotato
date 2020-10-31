@@ -1,0 +1,1 @@
+Item(by='benreesman', descendants=None, kids=[24953747], score=None, time=1604166042, title=None, item_type='comment', url=None, parent=24949196, text='Debatable, latency matters. It’s possible that Rust or a well-tuned JVM could be an alternative, but C++ is a sure thing and schedule matters too.')

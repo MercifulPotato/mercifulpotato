@@ -1,0 +1,1 @@
+Item(by='orasis', descendants=None, kids=None, score=None, time=1604169301, title=None, item_type='comment', url=None, parent=24952189, text='This is a good example of bad system design.  It claims simplicity and elegance but will have a serious cost in robustness.  Simple is only simple if it increases the robustness of the system.')

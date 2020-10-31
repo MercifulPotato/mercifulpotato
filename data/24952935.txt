@@ -1,0 +1,1 @@
+Item(by='vips7L', descendants=None, kids=None, score=None, time=1604163012, title=None, item_type='comment', url=None, parent=24952545, text='I wonder if forcing IntelliJ to run with ZGC would help since it releases unused memory back to the OS after some time.<p>I did this with the Eclipse Language server and my memory usage cut in half on the same project.')

@@ -1,1 +1,1 @@
-Item(by='Thevet', descendants=0, kids=None, score=1, time=1604013624, title='Farther Away: “Robinson Crusoe,” David Foster Wallace, and Solitude (2011)', item_type='story', url='https://www.newyorker.com/magazine/2011/04/18/farther-away-jonathan-franzen', parent=None, text=None)
+Item(by='Thevet', descendants=2, kids=[24953239, 24953752], score=24, time=1604013624, title='Farther Away: “Robinson Crusoe,” David Foster Wallace, and Solitude (2011)', item_type='story', url='https://www.newyorker.com/magazine/2011/04/18/farther-away-jonathan-franzen', parent=None, text=None)

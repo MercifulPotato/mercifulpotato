@@ -1,0 +1,1 @@
+Item(by='mrkeen', descendants=None, kids=None, score=None, time=1604172002, title=None, item_type='comment', url=None, parent=24952466, text='&gt; Delimited continuations can be used to implement algebraic effects, which is exciting for functional programming.<p>How-so?  I thought the type system was the precluding factor for algebraic effects, not the threading model.')

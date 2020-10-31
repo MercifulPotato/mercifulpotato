@@ -1,1 +1,1 @@
-Item(by='porter', descendants=None, kids=None, score=None, time=1604152241, title=None, item_type='comment', url=None, parent=24949624, text='is there a textbook you&#x27;d recommend for learning the content of this course...for those of us who can&#x27;t go to CMU to take it?')
+Item(by='porter', descendants=None, kids=[24952739], score=None, time=1604152241, title=None, item_type='comment', url=None, parent=24949624, text='is there a textbook you&#x27;d recommend for learning the content of this course...for those of us who can&#x27;t go to CMU to take it?')

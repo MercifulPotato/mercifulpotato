@@ -1,1 +1,1 @@
-Item(by='foogazi', descendants=None, kids=None, score=None, time=1604134929, title=None, item_type='comment', url=None, parent=24947912, text='The solution of course is to remove prop 13 protection for commercial real estate')
+Item(by='foogazi', descendants=None, kids=[24952008], score=None, time=1604134929, title=None, item_type='comment', url=None, parent=24947912, text='The solution of course is to remove prop 13 protection for commercial real estate')

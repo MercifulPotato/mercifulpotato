@@ -1,0 +1,1 @@
+Item(by='brandmeyer', descendants=None, kids=None, score=None, time=1604159081, title=None, item_type='comment', url=None, parent=24951744, text='&gt; Most machines use UTC internally<p>No, they rally aren&#x27;t.  Most machines use Posix time internally, and the fact that it doesn&#x27;t reflect real-world leap seconds is a problem.')
