@@ -1,1 +1,1 @@
-Item(by='daegloe', descendants=0, kids=None, score=8, time=1604096343, title="Nearly a decade late, Berlin's Brandenburg Airport finally opens", item_type='story', url='https://www.cnn.com/travel/article/brandenburg-new-berlin-airport-opens/index.html', parent=None, text=None)
+Item(by='daegloe', descendants=1, kids=[24948998], score=10, time=1604096343, title="Nearly a decade late, Berlin's Brandenburg Airport finally opens", item_type='story', url='https://www.cnn.com/travel/article/brandenburg-new-berlin-airport-opens/index.html', parent=None, text=None)

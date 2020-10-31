@@ -1,1 +1,1 @@
-Item(by='oso2k', descendants=None, kids=None, score=None, time=1604039444, title=None, item_type='comment', url=None, parent=24936753, text='This sounds like it shares some similarities with LZ4.')
+Item(by='oso2k', descendants=None, kids=[24948988], score=None, time=1604039444, title=None, item_type='comment', url=None, parent=24936753, text='This sounds like it shares some similarities with LZ4.')

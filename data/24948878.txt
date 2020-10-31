@@ -1,0 +1,1 @@
+Item(by='cwackerfuss', descendants=None, kids=None, score=None, time=1604114096, title=None, item_type='comment', url=None, parent=24944849, text='Isn&#x27;t it impossible for the 16kb partial to be valid json? Json starts in either a curly or square brace -- valid json more than 16kb would never close the outermost brace in the first 16kb of data, otherwise it would be invalid')

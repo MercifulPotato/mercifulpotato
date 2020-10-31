@@ -1,1 +1,1 @@
-Item(by='jkw', descendants=None, kids=None, score=None, time=1604102439, title=None, item_type='comment', url=None, parent=24944814, text='What type of ML model is it training on? Is there a base pre-train image model it&#x27;s fine-tuning on top of?')
+Item(by='jkw', descendants=None, kids=[24949093], score=None, time=1604102439, title=None, item_type='comment', url=None, parent=24944814, text='What type of ML model is it training on? Is there a base pre-train image model it&#x27;s fine-tuning on top of?')

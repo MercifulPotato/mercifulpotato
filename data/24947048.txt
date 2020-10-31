@@ -1,1 +1,1 @@
-Item(by='Ciantic', descendants=None, kids=None, score=None, time=1604093131, title=None, item_type='comment', url=None, parent=24947035, text='Oh great, so the eliminating data-races effectively means it&#x27;s also thread safe.')
+Item(by='Ciantic', descendants=None, kids=[24949745], score=None, time=1604093131, title=None, item_type='comment', url=None, parent=24947035, text='Oh great, so the eliminating data-races effectively means it&#x27;s also thread safe.')

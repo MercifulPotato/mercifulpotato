@@ -1,1 +1,1 @@
-Item(by='gowld', descendants=None, kids=None, score=None, time=1604070679, title=None, item_type='comment', url=None, parent=24942968, text='Anyone who creates a persona around their association with something else casts suspicion on anything they do outside of that something else.')
+Item(by='gowld', descendants=None, kids=[24949548], score=None, time=1604070679, title=None, item_type='comment', url=None, parent=24942968, text='Anyone who creates a persona around their association with something else casts suspicion on anything they do outside of that something else.')

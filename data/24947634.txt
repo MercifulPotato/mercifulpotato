@@ -1,1 +1,1 @@
-Item(by='foota', descendants=None, kids=None, score=None, time=1604098690, title=None, item_type='comment', url=None, parent=24947180, text='I&#x27;d be curious, how do you handle associating rpc responses from the server with the request call site? Some sort of id?')
+Item(by='foota', descendants=None, kids=[24949006], score=None, time=1604098690, title=None, item_type='comment', url=None, parent=24947180, text='I&#x27;d be curious, how do you handle associating rpc responses from the server with the request call site? Some sort of id?')

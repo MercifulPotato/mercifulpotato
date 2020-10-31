@@ -1,1 +1,1 @@
-Item(by='jackallis', descendants=None, kids=None, score=None, time=1604087173, title=None, item_type='comment', url=None, parent=24945671, text='i hope they called Jeremy first to apologize before posting this.')
+Item(by='jackallis', descendants=None, kids=[24949165], score=None, time=1604087173, title=None, item_type='comment', url=None, parent=24945671, text='i hope they called Jeremy first to apologize before posting this.')

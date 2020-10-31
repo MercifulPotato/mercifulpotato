@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=0, kids=None, score=26, time=1604095853, title='How to waste half a day by not reading RFC 1034', item_type='story', url='https://m.signalvnoise.com/how-to-waste-half-a-day-by-not-reading-rfc-1034/', parent=None, text=None)
+Item(by='zdw', descendants=1, kids=[24948696], score=34, time=1604095853, title='How to waste half a day by not reading RFC 1034', item_type='story', url='https://m.signalvnoise.com/how-to-waste-half-a-day-by-not-reading-rfc-1034/', parent=None, text=None)

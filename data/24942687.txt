@@ -1,1 +1,1 @@
-Item(by='Novalty93', descendants=6, kids=[24942688, 24945030, 24945019, 24945393], score=32, time=1604068804, title='Dasel: Query/update data structs from the cmdline. Supports JSON,YAML,TOML,XML', item_type='story', url='https://github.com/TomWright/dasel', parent=None, text=None)
+Item(by='Novalty93', descendants=6, kids=[24942688, 24945030, 24945019, 24945393], score=42, time=1604068804, title='Dasel: Query/update data structs from the cmdline. Supports JSON,YAML,TOML,XML', item_type='story', url='https://github.com/TomWright/dasel', parent=None, text=None)

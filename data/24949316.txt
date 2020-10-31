@@ -1,0 +1,1 @@
+Item(by='pushedx', descendants=None, kids=None, score=None, time=1604121558, title=None, item_type='comment', url=None, parent=24948591, text='Kubernetes binaries are meant to be statically linked. I can understand the licensing concern, but if each of those libraries was packaged separately the experience of using Kubernetes on Debian would be markedly worse.')

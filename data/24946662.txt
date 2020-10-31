@@ -1,1 +1,1 @@
-Item(by='vollmarj', descendants=0, kids=None, score=3, time=1604090334, title='Why the Soylent founder is voting for Kanye West', item_type='story', url='https://www.robrhinehart.com/why-i-am-voting-for-kanye-west/', parent=None, text=None)
+Item(by='vollmarj', descendants=1, kids=[24948577], score=3, time=1604090334, title='Why the Soylent founder is voting for Kanye West', item_type='story', url='https://www.robrhinehart.com/why-i-am-voting-for-kanye-west/', parent=None, text=None)

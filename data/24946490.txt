@@ -1,1 +1,1 @@
-Item(by='dev-bre', descendants=1, kids=[24946981], score=1, time=1604089268, title='Ask HN: Building a User-Agent parsing/detection API', item_type='story', url=None, parent=None, text='Is this a good idea?')
+Item(by='dev-bre', descendants=2, kids=[24946981], score=1, time=1604089268, title='Ask HN: Building a User-Agent parsing/detection API', item_type='story', url=None, parent=None, text='Is this a good idea?')

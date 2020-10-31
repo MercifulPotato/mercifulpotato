@@ -1,0 +1,1 @@
+Item(by='chrisseaton', descendants=None, kids=None, score=None, time=1604128863, title=None, item_type='comment', url=None, parent=24944081, text='A system cannot deadlock with CAS.<p>It can live-lock.<p>I think you’re possibly confusing lock-free and wait-free, which is a stronger guarantee.')

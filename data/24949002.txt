@@ -1,0 +1,1 @@
+Item(by='rhacker', descendants=None, kids=[24949825], score=None, time=1604116231, title=None, item_type='comment', url=None, parent=24947252, text='But I thought REST was a &quot;protocol neutral architectural style&quot;, so why are we stuck with 200, 201, 202, 204, 3xx, 4xx, 5xx which &quot;are usually fine alone&quot;.')

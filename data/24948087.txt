@@ -1,1 +1,1 @@
-Item(by='garaetjjte', descendants=None, kids=None, score=None, time=1604104294, title=None, item_type='comment', url=None, parent=24941281, text='South Korea is weird too, Google Maps only have pre-rendered bitmaps from local provider.')
+Item(by='garaetjjte', descendants=None, kids=[24949326], score=None, time=1604104294, title=None, item_type='comment', url=None, parent=24941281, text='South Korea is weird too, Google Maps only have pre-rendered bitmaps from local provider.')

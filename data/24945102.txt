@@ -1,1 +1,1 @@
-Item(by='mhewett', descendants=None, kids=None, score=None, time=1604081077, title=None, item_type='comment', url=None, parent=24944494, text='In the article it says that Dijkstra didn&#x27;t use a computer, TV, or cell phone.')
+Item(by='mhewett', descendants=None, kids=[24949174], score=None, time=1604081077, title=None, item_type='comment', url=None, parent=24944494, text='In the article it says that Dijkstra didn&#x27;t use a computer, TV, or cell phone.')

@@ -1,1 +1,1 @@
-Item(by='edgyquant', descendants=None, kids=None, score=None, time=1604098424, title=None, item_type='comment', url=None, parent=24947004, text='Json has nothing to do with the persistence part.')
+Item(by='edgyquant', descendants=None, kids=[24948812], score=None, time=1604098424, title=None, item_type='comment', url=None, parent=24947004, text='Json has nothing to do with the persistence part.')
