@@ -1,1 +1,1 @@
-Item(by='wmf', descendants=None, kids=None, score=None, time=1604201434, title=None, item_type='comment', url=None, parent=24956856, text='Plenty of people use bad-faith hair-splitting arguments to rationalize staying on IPv4 forever.')
+Item(by='wmf', descendants=None, kids=[24958520], score=None, time=1604201434, title=None, item_type='comment', url=None, parent=24956856, text='Plenty of people use bad-faith hair-splitting arguments to rationalize staying on IPv4 forever.')

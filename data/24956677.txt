@@ -1,1 +1,1 @@
-Item(by='jiofih', descendants=None, kids=None, score=None, time=1604195377, title=None, item_type='comment', url=None, parent=24956381, text='You should try Figma. Will open your eyes a bit.')
+Item(by='jiofih', descendants=None, kids=[24958772], score=None, time=1604195377, title=None, item_type='comment', url=None, parent=24956381, text='You should try Figma. Will open your eyes a bit.')

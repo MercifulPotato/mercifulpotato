@@ -1,1 +1,1 @@
-Item(by='Equiet', descendants=None, kids=None, score=None, time=1604073030, title=None, item_type='comment', url=None, parent=24943408, text='Ship early, ship often. GPUs are coming.')
+Item(by='Equiet', descendants=None, kids=[24958023], score=None, time=1604073030, title=None, item_type='comment', url=None, parent=24943408, text='Ship early, ship often. GPUs are coming.')

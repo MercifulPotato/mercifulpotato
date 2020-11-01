@@ -1,0 +1,1 @@
+Item(by='flohofwoe', descendants=None, kids=None, score=None, time=1604235708, title=None, item_type='comment', url=None, parent=24957112, text='For the &quot;user defined precision&quot; part it would be convenient to use a few bits to store where the point is located in such a fixed-point number, and that&#x27;s essentially reinventing floating point numbers ;)')

@@ -1,1 +1,1 @@
-Item(by='Pet_Ant', descendants=None, kids=None, score=None, time=1604163814, title=None, item_type='comment', url=None, parent=24952978, text='Happens all the time in electronics.  They usually built the top end and then burn off or snip the wires to produce the lower end.')
+Item(by='Pet_Ant', descendants=None, kids=[24958979], score=None, time=1604163814, title=None, item_type='comment', url=None, parent=24952978, text='Happens all the time in electronics.  They usually built the top end and then burn off or snip the wires to produce the lower end.')

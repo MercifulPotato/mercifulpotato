@@ -1,0 +1,1 @@
+Item(by='danielheath', descendants=None, kids=None, score=None, time=1604217496, title=None, item_type='comment', url=None, parent=24957869, text='If you don’t need ie11, wasm works everywhere.<p>Emscripten can produce js as well as wasm, so you can build both and deliver according to support.')

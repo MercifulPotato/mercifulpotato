@@ -1,0 +1,1 @@
+Item(by='souprock', descendants=None, kids=[24958723, 24958901, 24958679, 24958703], score=None, time=1604228223, title=None, item_type='comment', url=None, parent=24958423, text='The use of LL&#x2F;SC for atomics is a common mistake. It makes replay debuggers like rr impossible to implement.')

@@ -1,0 +1,1 @@
+Item(by='tgv', descendants=None, kids=[24958640], score=None, time=1604225754, title=None, item_type='comment', url=None, parent=24957308, text='In JS, undefined is also typical for uninitialized fields and variables, so undefined can show up without a typo. And if you&#x27;ve got typos, why not use e.g. TypeScript?')

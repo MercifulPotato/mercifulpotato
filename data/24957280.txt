@@ -1,1 +1,1 @@
-Item(by='gilad', descendants=1, kids=[24957815], score=18, time=1604205827, title='Visualizing Git Concepts with D3', item_type='story', url='https://onlywei.github.io/explain-git-with-d3/', parent=None, text=None)
+Item(by='gilad', descendants=13, kids=[24959771, 24957877, 24959500, 24958773, 24957815, 24957947, 24958521], score=138, time=1604205827, title='Visualizing Git Concepts with D3', item_type='story', url='https://onlywei.github.io/explain-git-with-d3/', parent=None, text=None)

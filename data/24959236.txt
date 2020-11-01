@@ -1,0 +1,1 @@
+Item(by='flohofwoe', descendants=None, kids=None, score=None, time=1604236116, title=None, item_type='comment', url=None, parent=24958843, text='You don&#x27;t need special compiler support for fixed-point-math, just left- and right-shift to &quot;move the point around&quot;.')

@@ -1,1 +1,1 @@
-Item(by='thotsBgone', descendants=None, kids=None, score=None, time=1604184212, title=None, item_type='comment', url=None, parent=24955675, text='Yeah, Bill Gates should stop saving thousands of lives and instead fix a few bugs in Windows 10.')
+Item(by='thotsBgone', descendants=None, kids=[24958428], score=None, time=1604184212, title=None, item_type='comment', url=None, parent=24955675, text='Yeah, Bill Gates should stop saving thousands of lives and instead fix a few bugs in Windows 10.')

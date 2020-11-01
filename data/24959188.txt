@@ -1,0 +1,1 @@
+Item(by='aabbcc1241', descendants=None, kids=None, score=None, time=1604235757, title=None, item_type='comment', url=None, parent=24959175, text='For example, doing &quot;a + b = c&quot; with React require twice the amount of code than using Svelte or Angular.<p>(a and b are inputs, c is output)')

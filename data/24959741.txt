@@ -1,0 +1,1 @@
+Item(by='cuillevel3', descendants=None, kids=None, score=None, time=1604241607, title=None, item_type='comment', url=None, parent=24957424, text='Build time dependencies. Normally distributions would put every library from the dependency tree in a package and build it.\nThen install all the dependencies on the build host and produce the Kubernetes package.')

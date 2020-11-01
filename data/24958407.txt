@@ -1,0 +1,1 @@
+Item(by='Aardwolf', descendants=None, kids=[24959469], score=None, time=1604224632, title=None, item_type='comment', url=None, parent=24957308, text='There&#x27;s still a distinction between explicitly assigned undefined, and deleted or not assigned field. So, two types of undefined in addition to null, if you will.')

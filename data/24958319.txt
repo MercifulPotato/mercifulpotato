@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1604223330, title=None, item_type='comment', url=None, parent=24957965, text='All compiled programming languages have supported static linking since the early days, then dynamic linking came into mainstream during the 90&#x27;s, and most toolchains added support for both models, including Ada compilers.')

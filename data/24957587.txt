@@ -1,1 +1,1 @@
-Item(by='susam', descendants=0, kids=None, score=4, time=1604211835, title='The Duct Tape Holding the Internet Together (2017)', item_type='story', url='https://medium.com/thisiscala/the-duct-tape-holding-the-internet-together-12118be60ff1', parent=None, text=None)
+Item(by='susam', descendants=1, kids=[24958167], score=9, time=1604211835, title='The Duct Tape Holding the Internet Together (2017)', item_type='story', url='https://medium.com/thisiscala/the-duct-tape-holding-the-internet-together-12118be60ff1', parent=None, text=None)

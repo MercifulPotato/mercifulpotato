@@ -1,1 +1,1 @@
-Item(by='respinal', descendants=0, kids=None, score=1, time=1604171838, title='Earth Keeps Pulsating Every 26 Seconds. No One Knows Why', item_type='story', url='https://www.popularmechanics.com/science/environment/a34531984/earth-pulsates-every-26-seconds/', parent=None, text=None)
+Item(by='respinal', descendants=1, kids=[24958317], score=1, time=1604171838, title='Earth Keeps Pulsating Every 26 Seconds. No One Knows Why', item_type='story', url='https://www.popularmechanics.com/science/environment/a34531984/earth-pulsates-every-26-seconds/', parent=None, text=None)

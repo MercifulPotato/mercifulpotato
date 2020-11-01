@@ -1,1 +1,1 @@
-Item(by='benkoller', descendants=0, kids=None, score=2, time=1604129931, title='The 12 Factors of reproducible Machine Learning in production', item_type='story', url='https://blog.maiot.io/12-factors-of-ml-in-production/', parent=None, text=None)
+Item(by='benkoller', descendants=0, kids=None, score=3, time=1604129931, title='Reproducible Machine Learning in production', item_type='story', url='https://blog.maiot.io/12-factors-of-ml-in-production/', parent=None, text=None)

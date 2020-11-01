@@ -1,0 +1,1 @@
+Item(by='yardstick', descendants=None, kids=None, score=None, time=1604220012, title=None, item_type='comment', url=None, parent=24956609, text='Isn’t this argument against ALG not NAT? You could have ALG with IPv6 no NAT involved, with the router enforcing deny all inbound unless ports explicitly opened (such as via this SIP ALG request).')

@@ -1,0 +1,1 @@
+Item(by='twic', descendants=None, kids=None, score=None, time=1604238426, title=None, item_type='comment', url=None, parent=24958861, text='If the device is doing NAT, it already keeps track of whether a TCP connection is new or not. It feels like it should be easy enough to check that state when applying the ALG rule.<p>Or can a SIP REGISTER happen in a packet after the first?')

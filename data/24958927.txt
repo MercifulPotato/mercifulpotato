@@ -1,0 +1,1 @@
+Item(by='pacificmint', descendants=None, kids=None, score=None, time=1604232785, title=None, item_type='comment', url=None, parent=24958903, text='Presumably because the title of the page contains a slash, which isn’t escaped in the url. Some Webservers might have interpreted as a directory.')

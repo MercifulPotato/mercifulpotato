@@ -1,0 +1,1 @@
+Item(by='rbanffy', descendants=None, kids=None, score=None, time=1604232344, title=None, item_type='comment', url=None, parent=24958650, text='Furthermore, if the function returns `undefined`, as in &quot;it&#x27;s not expected to return a value&quot;, you should probably not try to assign its return value to anything you&#x27;ll see again.')

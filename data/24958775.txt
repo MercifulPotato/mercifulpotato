@@ -1,0 +1,1 @@
+Item(by='varispeed', descendants=None, kids=[24959363], score=None, time=1604230388, title=None, item_type='comment', url=None, parent=24958644, text='Can you not add these instructions? At least when you use FPGA IP, it can be done. But you would have to update the toolchain etc to support these new instructions.')

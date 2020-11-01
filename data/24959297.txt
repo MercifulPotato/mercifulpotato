@@ -1,0 +1,1 @@
+Item(by='untog', descendants=None, kids=None, score=None, time=1604236668, title=None, item_type='comment', url=None, parent=24959021, text='Sounds messy. You’d have to manually define the JNI calls on both sides if I’m reading correctly?<p>Good to know it’s possible though. Just maybe with more tooling...')

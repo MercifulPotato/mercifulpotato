@@ -1,0 +1,1 @@
+Item(by='19870213', descendants=None, kids=None, score=None, time=1604228393, title=None, item_type='comment', url=None, parent=24958547, text='CORS is only applied to javascript, not GET requests via img, link or other tags that load resources.')
