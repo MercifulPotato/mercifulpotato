@@ -1,0 +1,1 @@
+Item(by='brandmeyer', descendants=None, kids=[24960636], score=None, time=1604247837, title=None, item_type='comment', url=None, parent=24960353, text='rotate-and-xor (and xor-and-rotate) are both common operations in ARX ciphers.  They demand 4 macro-ops in RISC-V, but only one in ARMv8.<p>Bitfield insertion is only one instruction in most RISC ISAs, but 5 or more in RISC-V.')

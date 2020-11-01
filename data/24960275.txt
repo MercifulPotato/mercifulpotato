@@ -1,0 +1,1 @@
+Item(by='Aeolun', descendants=None, kids=[24961335], score=None, time=1604246155, title=None, item_type='comment', url=None, parent=24957927, text='If you want your property to have a default value, give it an actual default value, not the explicit absence of one (kind of defeats the point to set a default value of null).')

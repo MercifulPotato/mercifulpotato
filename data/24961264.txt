@@ -1,0 +1,1 @@
+Item(by='rapsey', descendants=None, kids=None, score=None, time=1604254095, title=None, item_type='comment', url=None, parent=24960315, text='Mainly depends on the depth of the apps. If they are just UI and API calls then no. If there is a lot of processing snd state management going on then the more there is the quicker it makes sense')

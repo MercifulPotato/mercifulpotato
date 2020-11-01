@@ -1,0 +1,1 @@
+Item(by='0x0', descendants=None, kids=[24960916], score=None, time=1604250619, title=None, item_type='comment', url=None, parent=24960777, text='You could probably post a gpg-signed url to the blockchain, and scan the blockchain for new urls signed by a known gpg key. Or something like that.')

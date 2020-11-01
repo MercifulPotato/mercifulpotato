@@ -1,0 +1,1 @@
+Item(by='pizlonator', descendants=None, kids=None, score=None, time=1604245580, title=None, item_type='comment', url=None, parent=24959620, text='I’m assuming a is a constant in your example and that you’re doing a(b, b, 8). That’s one cycle on modern intels I believe (I think the manual promised this for Nehalam). OP also alludes right this fact when talking about fusion.')

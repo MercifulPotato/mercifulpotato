@@ -1,0 +1,1 @@
+Item(by='josefx', descendants=None, kids=[24961542], score=None, time=1604255410, title=None, item_type='comment', url=None, parent=24961331, text='Something as simple as malloc requires a cast in C++ when it is not needed in C, so type errors for even simple code.')

@@ -1,0 +1,1 @@
+Item(by='ZephyrBlu', descendants=None, kids=None, score=None, time=1604254209, title=None, item_type='comment', url=None, parent=24960767, text='Node.firstChild _is_ defined though, it&#x27;s just empty. Hence null.<p>An undefined property would be one like Node.helloWorld, which doesn&#x27;t not exist at all on the object.')

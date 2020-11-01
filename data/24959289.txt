@@ -1,1 +1,1 @@
-Item(by='wallflower', descendants=0, kids=None, score=2, time=1604236570, title='The Map', item_type='story', url='https://www.hustwit.com/the-map', parent=None, text=None)
+Item(by='wallflower', descendants=4, kids=[24961443, 24960883], score=4, time=1604236570, title='The Map [video]', item_type='story', url='https://www.hustwit.com/the-map', parent=None, text=None)

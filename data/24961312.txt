@@ -1,0 +1,1 @@
+Item(by='vvanders', descendants=None, kids=[24961402, 24961447], score=None, time=1604254560, title=None, item_type='comment', url=None, parent=24961093, text='Even then last I looked C++ doesn&#x27;t have it either, it&#x27;s exclusively a C99 feature.<p>For me the downsides outweigh the upsides of alloca and I usually find other approaches(free list, arenas, etc).')

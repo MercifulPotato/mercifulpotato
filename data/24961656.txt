@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1604257632, title=None, item_type='comment', url=None, parent=24961402, text='C has standardized dynamically sized automatic arrays which is close enough to alloca. The standard wouldn&#x27;t concern itself of were the space is actually allocated, just mandate that it is freed when the function terminates.')

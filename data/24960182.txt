@@ -1,0 +1,1 @@
+Item(by='nullc', descendants=None, kids=None, score=None, time=1604245413, title=None, item_type='comment', url=None, parent=24950291, text='I&#x27;ve found de bruijn sequences useful for generating test inputs, where you want to make sure every state transition is checked.')

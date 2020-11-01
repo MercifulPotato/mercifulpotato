@@ -1,0 +1,1 @@
+Item(by='panda17', descendants=None, kids=None, score=None, time=1604260085, title=None, item_type='comment', url=None, parent=24961843, text='A thing is uniquely identified by T, category by C.<p>May read it as:\nCREATE TABLE thing (T_ID integer, C_ID integer)')

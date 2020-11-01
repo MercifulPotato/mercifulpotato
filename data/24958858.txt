@@ -1,1 +1,1 @@
-Item(by='moltar', descendants=None, kids=None, score=None, time=1604231585, title=None, item_type='comment', url=None, parent=24958692, text='The answer is fasting. That’s the missing feature of our modern life. Humans need to fast to clear out the glycogen stores and liver fat.')
+Item(by='moltar', descendants=None, kids=[24959935], score=None, time=1604231585, title=None, item_type='comment', url=None, parent=24958692, text='The answer is fasting. That’s the missing feature of our modern life. Humans need to fast to clear out the glycogen stores and liver fat.')

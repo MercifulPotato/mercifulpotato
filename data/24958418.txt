@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1604224835, title=None, item_type='comment', url=None, parent=24957170, text='It doesn&#x27;t solve the GUI problems of the web in general.')
+Item(by='saagarjha', descendants=None, kids=[24960778], score=None, time=1604224835, title=None, item_type='comment', url=None, parent=24957170, text='It doesn&#x27;t solve the GUI problems of the web in general.')

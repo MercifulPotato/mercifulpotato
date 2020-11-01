@@ -1,0 +1,1 @@
+Item(by='zamalek', descendants=None, kids=[24961093, 24961069], score=None, time=1604252247, title=None, item_type='comment', url=None, parent=24960108, text='&gt; Rust doesn&#x27;t provide stack allocations at all.<p><i>What?</i> Rust allocates on the stack by default.')

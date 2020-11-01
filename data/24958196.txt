@@ -1,1 +1,1 @@
-Item(by='justincormack', descendants=None, kids=None, score=None, time=1604221625, title=None, item_type='comment', url=None, parent=24957528, text='All the large Mesos users I know of are moving to Kubernetes, I don’t know which ones you are thinking of.')
+Item(by='justincormack', descendants=None, kids=[24959685], score=None, time=1604221625, title=None, item_type='comment', url=None, parent=24957528, text='All the large Mesos users I know of are moving to Kubernetes, I don’t know which ones you are thinking of.')

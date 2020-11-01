@@ -1,0 +1,1 @@
+Item(by='IgorPartola', descendants=None, kids=None, score=None, time=1604256881, title=None, item_type='comment', url=None, parent=24961128, text='Variables would stay inside the scope of your anonymous function. Functions and classes will become defined globally. Surprise!')

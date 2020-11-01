@@ -1,0 +1,1 @@
+Item(by='jlokier', descendants=None, kids=[24960699, 24960616], score=None, time=1604248577, title=None, item_type='comment', url=None, parent=24960141, text='It&#x27;s not actually necessary to use a Git hosting service.<p>Git itself works just fine without one.<p>There are many other project hosting alternatives as well.  E.g. Canonical&#x27;s Launchpad, GNU Savannah, etc.')

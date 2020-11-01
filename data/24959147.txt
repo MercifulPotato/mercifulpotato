@@ -1,1 +1,1 @@
-Item(by='clockworksoul', descendants=0, kids=None, score=1, time=1604235434, title='Wealthy funder pays reparations for use of HeLa cells', item_type='story', url='https://www.nature.com/articles/d41586-020-03042-5', parent=None, text=None)
+Item(by='clockworksoul', descendants=1, kids=[24959513], score=3, time=1604235434, title='Wealthy funder pays reparations for use of HeLa cells', item_type='story', url='https://www.nature.com/articles/d41586-020-03042-5', parent=None, text=None)

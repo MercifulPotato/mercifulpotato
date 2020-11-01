@@ -1,0 +1,1 @@
+Item(by='base698', descendants=None, kids=None, score=None, time=1604241401, title=None, item_type='comment', url=None, parent=24957528, text='Mesos didn&#x27;t have a cronjob runner out of the box. There were other features like service discovery that were more intuitive in K8s as well.')

@@ -1,0 +1,1 @@
+Item(by='pizlonator', descendants=None, kids=None, score=None, time=1604252806, title=None, item_type='comment', url=None, parent=24960672, text='One example of 3 is branching on 32-bit add overflow on a 64-bit cpu where you do a 32-bit add, a 64-bit add, and compare&#x2F;branch on the result.')

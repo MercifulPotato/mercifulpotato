@@ -1,1 +1,1 @@
-Item(by='eitland', descendants=0, kids=None, score=1, time=1604135900, title='CBR 1000RR LEDs', item_type='story', url='http://pages.cs.wisc.edu/~fisk/cbr1000rrLED/cbr1000rrLEDInfo.html', parent=None, text=None)
+Item(by='eitland', descendants=36, kids=[24959710, 24960563, 24961359, 24961178, 24960848, 24961145, 24960289, 24959746, 24960837, 24959925, 24960862], score=53, time=1604135900, title='CBR 1000RR LEDs', item_type='story', url='http://pages.cs.wisc.edu/~fisk/cbr1000rrLED/cbr1000rrLEDInfo.html', parent=None, text=None)

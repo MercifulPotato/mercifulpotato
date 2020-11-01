@@ -1,0 +1,1 @@
+Item(by='bertr4nd', descendants=None, kids=[24961107], score=None, time=1604249311, title=None, item_type='comment', url=None, parent=24959658, text='I’d be curious to see the instruction sequences for handling overflow without condition codes.  I’m not even sure I see how to do it as efficiently as 3 or 5 instructions :-&#x2F;')

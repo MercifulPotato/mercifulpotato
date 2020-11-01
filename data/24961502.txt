@@ -1,0 +1,1 @@
+Item(by='Subsentient', descendants=None, kids=[24961533, 24961601], score=None, time=1604256408, title=None, item_type='comment', url=None, parent=24960108, text='Just occurred to me, since Rust has LLVM IR asm directives, can&#x27;t you write a portable goto in an inline function that jumps directly to pointers? Publish that crate to crates.io? Problem solved.')

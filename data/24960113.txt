@@ -1,0 +1,1 @@
+Item(by='pizlonator', descendants=None, kids=[24961121, 24960407, 24960244], score=None, time=1604244809, title=None, item_type='comment', url=None, parent=24959806, text='The best design is control bits which RISC-V doesn’t have but x86 and ARM do have.<p>The best design is part of the core ISA and not and extension since overflow checking is fundamental to modern languages.')

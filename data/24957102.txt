@@ -1,1 +1,1 @@
-Item(by='fuzxi', descendants=None, kids=None, score=None, time=1604202846, title=None, item_type='comment', url=None, parent=24957067, text='Haha, no. You pay $8000 for a license that authorizes you to use the self-driving feature in that specific vehicle.')
+Item(by='fuzxi', descendants=None, kids=[24960558], score=None, time=1604202846, title=None, item_type='comment', url=None, parent=24957067, text='Haha, no. You pay $8000 for a license that authorizes you to use the self-driving feature in that specific vehicle.')

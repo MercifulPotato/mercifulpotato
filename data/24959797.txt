@@ -1,0 +1,1 @@
+Item(by='bobbylarrybobby', descendants=None, kids=None, score=None, time=1604242167, title=None, item_type='comment', url=None, parent=24958509, text='document.querySelector(selector_with_no_matching_elements) and other similar select methods that 1. Will only yield a single element at most (never an array) 2. Might come up empty.')

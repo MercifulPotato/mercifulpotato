@@ -1,1 +1,1 @@
-Item(by='docuru', descendants=None, kids=None, score=None, time=1604209075, title=None, item_type='comment', url=None, parent=24956781, text='With firebase sdk, they already handle all backend logic as your requirements. You will need to integrate with front end')
+Item(by='docuru', descendants=None, kids=[24961888], score=None, time=1604209075, title=None, item_type='comment', url=None, parent=24956781, text='With firebase sdk, they already handle all backend logic as your requirements. You will need to integrate with front end')

@@ -1,0 +1,1 @@
+Item(by='orev', descendants=None, kids=None, score=None, time=1604252988, title=None, item_type='comment', url=None, parent=24960233, text='If you’re doing this for a real service, it would make much more sense to use nginx or Apache httpd. Mitmproxy is very cool, but it’s really meant more to be used for investigation, pen testing, etc.')

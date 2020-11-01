@@ -1,0 +1,1 @@
+Item(by='opencl', descendants=None, kids=None, score=None, time=1604256160, title=None, item_type='comment', url=None, parent=24961445, text='I should have been more specific: the 4 supports h.265 decode but not encode, none of the other Pi hardware has either.')

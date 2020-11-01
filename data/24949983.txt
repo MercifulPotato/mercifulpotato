@@ -1,1 +1,1 @@
-Item(by='quyleanh', descendants=0, kids=None, score=4, time=1604135161, title='Complexity in Operating Systems', item_type='story', url='https://x86.lol/generic/2020/10/30/complexity-in-operating-systems.html', parent=None, text=None)
+Item(by='quyleanh', descendants=3, kids=[24961420, 24961074], score=15, time=1604135161, title='Complexity in Operating Systems', item_type='story', url='https://x86.lol/generic/2020/10/30/complexity-in-operating-systems.html', parent=None, text=None)

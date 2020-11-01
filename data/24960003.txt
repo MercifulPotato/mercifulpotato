@@ -1,0 +1,1 @@
+Item(by='Shared404', descendants=None, kids=None, score=None, time=1604243917, title=None, item_type='comment', url=None, parent=24959592, text='You could set up a script for something like Void&#x2F;Alpine to just launch vim&#x2F;emacs as soon as you boot, those are both pretty minimalist ootb, you&#x27;d just have to remove internet drivers.')

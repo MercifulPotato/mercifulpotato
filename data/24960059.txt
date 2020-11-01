@@ -1,0 +1,1 @@
+Item(by='tootie', descendants=None, kids=[24960094, 24960078], score=None, time=1604244421, title=None, item_type='comment', url=None, parent=24959568, text='What exactly is the value of this though? Isn&#x27;t most non-UI code going to be buried in your server APIs no matter what? Most apps end up being 90% UI code.')

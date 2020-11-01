@@ -1,1 +1,1 @@
-Item(by='schedutron', descendants=0, kids=None, score=2, time=1604214663, title='Control Legacy Electronic Devices via the Internet', item_type='story', url='https://schedutron.medium.com/build-smart-home-systems-on-top-of-legacy-electronics-d85640d2e5ea', parent=None, text=None)
+Item(by='schedutron', descendants=1, kids=[24961781], score=6, time=1604214663, title='Control Legacy Electronic Devices via the Internet', item_type='story', url='https://schedutron.medium.com/build-smart-home-systems-on-top-of-legacy-electronics-d85640d2e5ea', parent=None, text=None)
