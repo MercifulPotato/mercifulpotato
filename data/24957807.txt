@@ -1,0 +1,1 @@
+Item(by='kd5bjo', descendants=None, kids=None, score=None, time=1604215903, title=None, item_type='comment', url=None, parent=24957416, text='Rust’s core team are pretty fanatic about backwards compatibilty, though.  Best practices are still rapidly evolving but if you have code that compiles and works, it should continue to compile and work indefinitely.')

@@ -1,1 +1,1 @@
-Item(by='fortran77', descendants=0, kids=None, score=3, time=1604176232, title='Why no one has measured the speed of light', item_type='story', url='https://www.youtube.com/watch?v=pTn6Ewhb27k', parent=None, text=None)
+Item(by='fortran77', descendants=1, kids=[24957002], score=3, time=1604176232, title='Why no one has measured the speed of light', item_type='story', url='https://www.youtube.com/watch?v=pTn6Ewhb27k', parent=None, text=None)

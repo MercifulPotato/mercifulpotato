@@ -1,1 +1,1 @@
-Item(by='joubert', descendants=4, kids=[24953000, 24954756, 24954823, 24952618], score=28, time=1604158929, title='Sexagesimal', item_type='story', url='https://en.wikipedia.org/wiki/Sexagesimal', parent=None, text=None)
+Item(by='joubert', descendants=6, kids=[24953000, 24956821, 24954756, 24954823, 24952618], score=30, time=1604158929, title='Sexagesimal', item_type='story', url='https://en.wikipedia.org/wiki/Sexagesimal', parent=None, text=None)

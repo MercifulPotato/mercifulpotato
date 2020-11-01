@@ -1,0 +1,1 @@
+Item(by='slewis', descendants=None, kids=None, score=None, time=1604203670, title=None, item_type='comment', url=None, parent=24956156, text='As others have mentioned, you can’t get rid of null, because of third-party libraries for one. Instead your code should treat them the same at comparison time: ‘== null’ is the canonical way to check for either.')

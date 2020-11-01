@@ -1,1 +1,1 @@
-Item(by='eximius', descendants=None, kids=None, score=None, time=1604194046, title=None, item_type='comment', url=None, parent=24956160, text='It sounds like OP is keeping 25%, with 75% going to the three new guys.<p>For 200k.')
+Item(by='eximius', descendants=None, kids=[24957042], score=None, time=1604194046, title=None, item_type='comment', url=None, parent=24956160, text='It sounds like OP is keeping 25%, with 75% going to the three new guys.<p>For 200k.')

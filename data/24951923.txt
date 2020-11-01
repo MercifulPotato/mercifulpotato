@@ -1,1 +1,1 @@
-Item(by='jwworth', descendants=0, kids=None, score=9, time=1604155955, title='Essays on Programming I Think About a Lot', item_type='story', url='https://www.jakeworth.com/essays-on-programming-i-think-about-a-lot/', parent=None, text=None)
+Item(by='jwworth', descendants=1, kids=[24956780], score=9, time=1604155955, title='Essays on Programming I Think About a Lot', item_type='story', url='https://www.jakeworth.com/essays-on-programming-i-think-about-a-lot/', parent=None, text=None)

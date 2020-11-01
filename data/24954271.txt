@@ -1,1 +1,1 @@
-Item(by='craftinator', descendants=None, kids=None, score=None, time=1604171128, title=None, item_type='comment', url=None, parent=24953995, text='Excellent breakdown!')
+Item(by='craftinator', descendants=None, kids=[24957022], score=None, time=1604171128, title=None, item_type='comment', url=None, parent=24953995, text='Excellent breakdown!')

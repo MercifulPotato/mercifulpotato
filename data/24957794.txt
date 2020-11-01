@@ -1,0 +1,1 @@
+Item(by='sdridi', descendants=1, kids=[24957795], score=1, time=1604215759, title='Simple implementation of a NN using only Numpy and does gradient check', item_type='story', url='https://github.com/seifeddinedridi/machine-learning-fun/blob/master/vanilla-neural-network/vanilla-fcnn-mnist-dataset.ipynb', parent=None, text=None)

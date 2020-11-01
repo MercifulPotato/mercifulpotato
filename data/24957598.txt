@@ -1,0 +1,1 @@
+Item(by='Buttons840', descendants=None, kids=None, score=None, time=1604212120, title=None, item_type='comment', url=None, parent=24957063, text='The solution in Python is to create a sentinel value&#x2F;object. You can even call it undefined: `undefined = object()`. `None is undefined` ==&gt; false')

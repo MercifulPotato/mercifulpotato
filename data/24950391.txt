@@ -1,1 +1,1 @@
-Item(by='q3k', descendants=None, kids=[24950475], score=None, time=1604141423, title=None, item_type='comment', url=None, parent=24950076, text='Kubernetes clusters can be upgraded in place, though? GKE definitely allows you to do that.')
+Item(by='q3k', descendants=None, kids=[24950475, 24957064], score=None, time=1604141423, title=None, item_type='comment', url=None, parent=24950076, text='Kubernetes clusters can be upgraded in place, though? GKE definitely allows you to do that.')

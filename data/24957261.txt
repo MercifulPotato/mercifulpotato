@@ -1,0 +1,1 @@
+Item(by='anonytrary', descendants=None, kids=[24957568], score=None, time=1604205513, title=None, item_type='comment', url=None, parent=24956938, text='<p><pre><code>  const w = (fn, _) =&gt; function(...args){\n    return (_ = fn(...args)) === null ? undefined : _;\n  };\n  document.getElementById = w(document.getElementById.bind(document));</code></pre>')

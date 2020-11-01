@@ -1,1 +1,1 @@
-Item(by='kenjackson', descendants=None, kids=None, score=None, time=1604181896, title=None, item_type='comment', url=None, parent=24954849, text='I think it may be more accurate to say they are both hard problems.  It is still open if P=NC.')
+Item(by='kenjackson', descendants=None, kids=[24957670], score=None, time=1604181896, title=None, item_type='comment', url=None, parent=24954849, text='I think it may be more accurate to say they are both hard problems.  It is still open if P=NC.')

@@ -1,1 +1,1 @@
-Item(by='martinko', descendants=None, kids=None, score=None, time=1604159545, title=None, item_type='comment', url=None, parent=24952273, text='&gt; Bitcoin Cash is what we call Bitcoin now<p>Really? The market begs to differ.')
+Item(by='martinko', descendants=None, kids=[24957634], score=None, time=1604159545, title=None, item_type='comment', url=None, parent=24952273, text='&gt; Bitcoin Cash is what we call Bitcoin now<p>Really? The market begs to differ.')

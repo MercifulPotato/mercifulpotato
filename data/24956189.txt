@@ -1,1 +1,1 @@
-Item(by='moltar', descendants=None, kids=None, score=None, time=1604187813, title=None, item_type='comment', url=None, parent=24955188, text='11. Good design is expensive<p>A base model of their chair is GBP 3245 (USD 4200).')
+Item(by='moltar', descendants=None, kids=[24957173], score=None, time=1604187813, title=None, item_type='comment', url=None, parent=24955188, text='11. Good design is expensive<p>A base model of their chair is GBP 3245 (USD 4200).')

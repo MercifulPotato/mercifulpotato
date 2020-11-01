@@ -1,1 +1,1 @@
-Item(by='toxik', descendants=None, kids=None, score=None, time=1604165569, title=None, item_type='comment', url=None, parent=24953077, text='Algorithms which only Tesla can give you. That is why it’s a dick move to sell it to you.')
+Item(by='toxik', descendants=None, kids=[24957032], score=None, time=1604165569, title=None, item_type='comment', url=None, parent=24953077, text='Algorithms which only Tesla can give you. That is why it’s a dick move to sell it to you.')

@@ -1,1 +1,1 @@
-Item(by='cpard', descendants=None, kids=None, score=None, time=1604183471, title=None, item_type='comment', url=None, parent=24955150, text='Yeah, that&#x27;s what I quickly realized by searching around. Best bet is to try and find used copies on eBay or something.')
+Item(by='cpard', descendants=None, kids=[24957179], score=None, time=1604183471, title=None, item_type='comment', url=None, parent=24955150, text='Yeah, that&#x27;s what I quickly realized by searching around. Best bet is to try and find used copies on eBay or something.')
