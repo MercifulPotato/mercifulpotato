@@ -1,1 +1,1 @@
-Item(by='geforce', descendants=0, kids=None, score=11, time=1604162553, title='I Got 99 Problems and a Distributed Database Ain’t One', item_type='story', url='https://medium.com/@olfal/ive-got-99-problems-and-a-distributed-database-ain-t-one-70977de7896c', parent=None, text=None)
+Item(by='geforce', descendants=0, kids=[24955793], score=19, time=1604162553, title='I Got 99 Problems and a Distributed Database Ain’t One', item_type='story', url='https://medium.com/@olfal/ive-got-99-problems-and-a-distributed-database-ain-t-one-70977de7896c', parent=None, text=None)

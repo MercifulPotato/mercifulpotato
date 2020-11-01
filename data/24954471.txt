@@ -1,1 +1,1 @@
-Item(by='jamisteven', descendants=None, kids=None, score=None, time=1604172742, title=None, item_type='comment', url=None, parent=24951616, text='I just want to know one thing: What percentage of the world population actually uses Bitcoin?')
+Item(by='jamisteven', descendants=None, kids=[24956238], score=None, time=1604172742, title=None, item_type='comment', url=None, parent=24951616, text='I just want to know one thing: What percentage of the world population actually uses Bitcoin?')

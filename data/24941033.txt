@@ -1,1 +1,1 @@
-Item(by='jstanley', descendants=0, kids=None, score=22, time=1604055889, title='V6: Color (2018)', item_type='story', url='https://v6.robweychert.com/blog/2018/02/v6-color/', parent=None, text=None)
+Item(by='jstanley', descendants=1, kids=[24955565], score=23, time=1604055889, title='V6: Color (2018)', item_type='story', url='https://v6.robweychert.com/blog/2018/02/v6-color/', parent=None, text=None)

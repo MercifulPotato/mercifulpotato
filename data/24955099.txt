@@ -1,0 +1,1 @@
+Item(by='megous', descendants=None, kids=None, score=None, time=1604177521, title=None, item_type='comment', url=None, parent=24954152, text='Also ad hoc in-production debugging&#x2F;observability is kinda easy. ssh to your server, add a log statement to code. Done.<p>I can&#x27;t do that with a node app by default without restarting it, killing all connections, etc.')

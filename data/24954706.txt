@@ -1,1 +1,1 @@
-Item(by='aphextron', descendants=None, kids=None, score=None, time=1604174456, title=None, item_type='comment', url=None, parent=24952136, text='What exactly is a &quot;junior enterprise architect&quot;?')
+Item(by='aphextron', descendants=None, kids=[24955194], score=None, time=1604174456, title=None, item_type='comment', url=None, parent=24952136, text='What exactly is a &quot;junior enterprise architect&quot;?')

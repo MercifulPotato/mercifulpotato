@@ -1,0 +1,1 @@
+Item(by='anthk', descendants=None, kids=None, score=None, time=1604197566, title=None, item_type='comment', url=None, parent=24956765, text='nm-applet is the network manager applet on Linux, you need to place it at ~&#x2F;.icewm&#x2F;autostart:<p>nm-applet &amp;<p>If you use wicd, you need to put &quot;wicd-gtk -t &amp;&quot; instead.')

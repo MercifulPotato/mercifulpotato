@@ -1,1 +1,1 @@
-Item(by='xd', descendants=None, kids=None, score=None, time=1604175245, title=None, item_type='comment', url=None, parent=24952571, text='2012.. it&#x27;s almost 8 years later.  Also it&#x27;s an incredibly subjective article, you could write a &quot;fractal of bad design&quot; about any language given enough motivation.')
+Item(by=None, descendants=None, kids=None, score=None, time=1604175245, title=None, item_type='comment', url=None, parent=24952571, text=None)

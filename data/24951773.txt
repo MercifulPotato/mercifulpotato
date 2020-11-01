@@ -1,1 +1,1 @@
-Item(by='thdrdt', descendants=None, kids=None, score=None, time=1604154673, title=None, item_type='comment', url=None, parent=24951644, text='With so many analog clocks this is not going to be a realistic option.<p>That&#x27;s why UTC is fine. It is based on the sun time.')
+Item(by='thdrdt', descendants=None, kids=[24955750], score=None, time=1604154673, title=None, item_type='comment', url=None, parent=24951644, text='With so many analog clocks this is not going to be a realistic option.<p>That&#x27;s why UTC is fine. It is based on the sun time.')

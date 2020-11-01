@@ -1,1 +1,1 @@
-Item(by='fithisux', descendants=None, kids=None, score=None, time=1604160584, title=None, item_type='comment', url=None, parent=24951964, text='What is your experience with D vs Rust?')
+Item(by='fithisux', descendants=None, kids=[24955406], score=None, time=1604160584, title=None, item_type='comment', url=None, parent=24951964, text='What is your experience with D vs Rust?')

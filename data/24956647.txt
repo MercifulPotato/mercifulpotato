@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=None, score=None, time=1604194916, title=None, item_type='comment', url=None, parent=24956616, text='I didn&#x27;t say it relies on http headers. Just made a guess on what alg may be doing. Yeah - it&#x27;s broken with fragmentation, and possibly in other ways too.')

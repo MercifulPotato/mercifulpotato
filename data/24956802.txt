@@ -1,0 +1,1 @@
+Item(by='sjwright', descendants=None, kids=None, score=None, time=1604197706, title=None, item_type='comment', url=None, parent=24956609, text='It’s wrong to say NAT provides no security. NAT <i>does</i> provide some security, it’s just uncertain, unreliable and has no effect on outbound connections.')

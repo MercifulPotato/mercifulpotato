@@ -1,1 +1,1 @@
-Item(by='edjrage', descendants=None, kids=None, score=None, time=1604174480, title=None, item_type='comment', url=None, parent=24951791, text='You literally linked to the same article as the parent comment.')
+Item(by='edjrage', descendants=None, kids=[24956140], score=None, time=1604174480, title=None, item_type='comment', url=None, parent=24951791, text='You literally linked to the same article as the parent comment.')

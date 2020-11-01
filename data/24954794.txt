@@ -1,1 +1,1 @@
-Item(by='jedberg', descendants=None, kids=None, score=None, time=1604175032, title=None, item_type='comment', url=None, parent=24954649, text='No it wasn&#x27;t created for ad tech, but it really took off because of ad tech.')
+Item(by='jedberg', descendants=None, kids=[24955050], score=None, time=1604175032, title=None, item_type='comment', url=None, parent=24954649, text='No it wasn&#x27;t created for ad tech, but it really took off because of ad tech.')

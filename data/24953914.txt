@@ -1,1 +1,1 @@
-Item(by='throwaway_pdp09', descendants=None, kids=None, score=None, time=1604168642, title=None, item_type='comment', url=None, parent=24952968, text='What are these active ingredients?')
+Item(by='throwaway_pdp09', descendants=None, kids=[24954662], score=None, time=1604168642, title=None, item_type='comment', url=None, parent=24952968, text='What are these active ingredients?')

@@ -1,0 +1,1 @@
+Item(by='CJefferson', descendants=None, kids=None, score=None, time=1604186014, title=None, item_type='comment', url=None, parent=24955589, text='I think this reasoning goes the other way (as I understand), Rust can express threadsafe mutability, as you can only have one mutable reference to any object, so if I can mutate, I know I have the only reference.')

@@ -1,1 +1,1 @@
-Item(by='philtar', descendants=None, kids=None, score=None, time=1604155068, title=None, item_type='comment', url=None, parent=24950123, text='Would be interesting to hear a before and after sample')
+Item(by='philtar', descendants=None, kids=[24955898], score=None, time=1604155068, title=None, item_type='comment', url=None, parent=24950123, text='Would be interesting to hear a before and after sample')

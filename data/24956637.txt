@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=None, score=None, time=1604194769, title=None, item_type='comment', url=None, parent=24956336, text='&gt; i don&#x27;t see a quick way to mitigate this<p>Go to your router&#x27;s panel and disable sip support &#x2F; alg. Even if you use sip, it&#x27;s still going to work. (Apart from some really weird edge case network setups)')

@@ -1,0 +1,1 @@
+Item(by='FpUser', descendants=None, kids=None, score=None, time=1604181741, title=None, item_type='comment', url=None, parent=24954311, text='Software usually has state (unless that state is completely kept and managed externally in a database for example). And the state mutates. Simple case example is a big array that has to be processed in place.')

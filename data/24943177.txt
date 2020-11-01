@@ -1,1 +1,1 @@
-Item(by='fullung', descendants=2, kids=[24949229], score=10, time=1604071298, title='How we saved $100k a month with Kafka networking optimization', item_type='story', url='https://segment.com/blog/kafka-optimization', parent=None, text=None)
+Item(by='fullung', descendants=3, kids=[24949229], score=10, time=1604071298, title='How we saved $100k a month with Kafka networking optimization', item_type='story', url='https://segment.com/blog/kafka-optimization', parent=None, text=None)

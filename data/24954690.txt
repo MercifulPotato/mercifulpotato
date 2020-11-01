@@ -1,1 +1,1 @@
-Item(by='mulmen', descendants=None, kids=None, score=None, time=1604174348, title=None, item_type='comment', url=None, parent=24954442, text='I&#x27;m not sure what this means?<p>Is this a Metric vs US Customary thing?  How does that relate to supply chains?')
+Item(by='mulmen', descendants=None, kids=[24955423], score=None, time=1604174348, title=None, item_type='comment', url=None, parent=24954442, text='I&#x27;m not sure what this means?<p>Is this a Metric vs US Customary thing?  How does that relate to supply chains?')

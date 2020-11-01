@@ -1,1 +1,1 @@
-Item(by='manfredo', descendants=None, kids=None, score=None, time=1604168428, title=None, item_type='comment', url=None, parent=24953601, text='The US east coast does not suffer from earthquakes. A tsunami is a geological event, not a weather event.')
+Item(by='manfredo', descendants=None, kids=[24955436], score=None, time=1604168428, title=None, item_type='comment', url=None, parent=24953601, text='The US east coast does not suffer from earthquakes. A tsunami is a geological event, not a weather event.')

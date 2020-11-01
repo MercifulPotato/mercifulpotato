@@ -1,1 +1,1 @@
-Item(by='mac01021', descendants=None, kids=None, score=None, time=1604160971, title=None, item_type='comment', url=None, parent=24952392, text='So you want &quot;midnight&quot; to refer to &quot;approximately one hour from the middle of the night&quot;.')
+Item(by='mac01021', descendants=None, kids=[24955864], score=None, time=1604160971, title=None, item_type='comment', url=None, parent=24952392, text='So you want &quot;midnight&quot; to refer to &quot;approximately one hour from the middle of the night&quot;.')

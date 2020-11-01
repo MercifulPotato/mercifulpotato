@@ -1,0 +1,1 @@
+Item(by='closeparen', descendants=None, kids=None, score=None, time=1604190741, title=None, item_type='comment', url=None, parent=24955192, text='A fat jar dropped on a server doesn’t just run. You need something else to run the process, restart it if it crashes, manage log output, etc.<p>PHP is served as soon as it’s dropped into a DocumentRoot.')

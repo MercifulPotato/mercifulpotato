@@ -1,1 +1,1 @@
-Item(by='marcopolis', descendants=0, kids=None, score=2, time=1604170388, title='Precomp: Further compress files that are already compressed', item_type='story', url='https://github.com/schnaader/precomp-cpp', parent=None, text=None)
+Item(by='marcopolis', descendants=18, kids=[24956020, 24955249, 24954738, 24955482, 24954954, 24954676], score=36, time=1604170388, title='Precomp: Further compress files that are already compressed', item_type='story', url='https://github.com/schnaader/precomp-cpp', parent=None, text=None)

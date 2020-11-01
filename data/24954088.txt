@@ -1,1 +1,1 @@
-Item(by='devin', descendants=None, kids=None, score=None, time=1604169745, title=None, item_type='comment', url=None, parent=24953119, text='The joke is Sean Connery would pronounce &quot;save&quot; as &quot;shave&quot;.')
+Item(by='devin', descendants=None, kids=[24956442, 24954800], score=None, time=1604169745, title=None, item_type='comment', url=None, parent=24953119, text='The joke is Sean Connery would pronounce &quot;save&quot; as &quot;shave&quot;.')

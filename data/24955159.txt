@@ -1,0 +1,1 @@
+Item(by='tromp', descendants=None, kids=[24955715], score=None, time=1604178012, title=None, item_type='comment', url=None, parent=24954533, text='Only an archive node needs to keep a copy of the entire chain. But every full node needs to download and verify all of it, so it&#x27;s more a question of bandwidth and time.\nIt would be nice to be able to so within a day.')

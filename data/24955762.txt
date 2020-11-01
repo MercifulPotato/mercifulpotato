@@ -1,0 +1,1 @@
+Item(by='jolux', descendants=None, kids=[24955777], score=None, time=1604183763, title=None, item_type='comment', url=None, parent=24955409, text='That’s because the parallelization in the STL is encapsulated. In Haskell and Rust it’s explicit, it’s not just about adding a parameter to an existing function, it’s a general mechanism.')

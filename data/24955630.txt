@@ -1,0 +1,1 @@
+Item(by='lostcolony', descendants=None, kids=[24955752], score=None, time=1604182447, title=None, item_type='comment', url=None, parent=24954815, text='But that&#x27;s identical to what he&#x27;s saying; he&#x27;s not saying no one has to deal with mutable memory. Just that most developers who need concurrency shouldn&#x27;t have to. Same as registers, GOTO, etc.')

@@ -1,0 +1,1 @@
+Item(by='dudul', descendants=None, kids=None, score=None, time=1604187049, title=None, item_type='comment', url=None, parent=24953690, text='Immutability is not about safety (not only i guess). It is about having code that is easier to reason about.')

@@ -1,1 +1,1 @@
-Item(by='voisin', descendants=None, kids=None, score=None, time=1604175575, title=None, item_type='comment', url=None, parent=24953933, text='I am super interested to hear more about the vitiligo clearing up! Can you elaborate?')
+Item(by='voisin', descendants=None, kids=[24955176], score=None, time=1604175575, title=None, item_type='comment', url=None, parent=24953933, text='I am super interested to hear more about the vitiligo clearing up! Can you elaborate?')

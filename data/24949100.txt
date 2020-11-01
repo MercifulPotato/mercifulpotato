@@ -1,1 +1,1 @@
-Item(by='tjalfi', descendants=0, kids=None, score=2, time=1604118029, title='Specifications for the Interconnection of a Host and an IMP (1976) [pdf]', item_type='story', url='https://walden-family.com/impcode/BBN1822_Jan1976.pdf', parent=None, text=None)
+Item(by='tjalfi', descendants=1, kids=[24955671], score=11, time=1604118029, title='Specifications for the Interconnection of a Host and an IMP (1976) [pdf]', item_type='story', url='https://walden-family.com/impcode/BBN1822_Jan1976.pdf', parent=None, text=None)
