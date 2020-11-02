@@ -1,1 +1,1 @@
-Item(by='dbtc', descendants=None, kids=None, score=None, time=1604286485, title=None, item_type='comment', url=None, parent=24963599, text='Lamy converters and cartridges fit in my Parker 45.<p>You can also use a syringe to clean and refill disposable cartridges from an ink bottle.')
+Item(by='dbtc', descendants=None, kids=[24968118], score=None, time=1604286485, title=None, item_type='comment', url=None, parent=24963599, text='Lamy converters and cartridges fit in my Parker 45.<p>You can also use a syringe to clean and refill disposable cartridges from an ink bottle.')

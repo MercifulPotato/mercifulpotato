@@ -1,0 +1,1 @@
+Item(by='vsskanth', descendants=None, kids=[24969833], score=None, time=1604333375, title=None, item_type='comment', url=None, parent=24968805, text='This seems restricted to just an oscillating system. Neural ODEs (DiffEqFlux) seem a bit more general than this to learn any kind of dynamical system')

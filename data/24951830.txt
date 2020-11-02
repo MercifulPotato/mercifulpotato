@@ -1,1 +1,1 @@
-Item(by='BlueTemplar', descendants=None, kids=None, score=None, time=1604155129, title=None, item_type='comment', url=None, parent=24944473, text='Think of another company affected by this merger - Blizzard.')
+Item(by='BlueTemplar', descendants=None, kids=[24970279], score=None, time=1604155129, title=None, item_type='comment', url=None, parent=24944473, text='Think of another company affected by this merger - Blizzard.')

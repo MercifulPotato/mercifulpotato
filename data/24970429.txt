@@ -1,0 +1,1 @@
+Item(by='dahart', descendants=None, kids=None, score=None, time=1604337110, title=None, item_type='comment', url=None, parent=24970201, text='Sadly I&#x27;m on Linux with the latest NVidia driver, and I&#x27;m seeing the black regions too, on both Chrome and Firefox. It looks great on my Windows laptop on both the Intel integrated GPU and the Nvidia mobile GPU.')

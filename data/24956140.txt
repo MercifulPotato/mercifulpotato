@@ -1,1 +1,1 @@
-Item(by='throwawaw', descendants=None, kids=None, score=None, time=1604187327, title=None, item_type='comment', url=None, parent=24954710, text='Wouldn&#x27;t that be shocking? But in fact, the URL in question opens a specific <i>reply</i> to that article. How embarrassing!')
+Item(by='throwawaw', descendants=None, kids=[24970404], score=None, time=1604187327, title=None, item_type='comment', url=None, parent=24954710, text='Wouldn&#x27;t that be shocking? But in fact, the URL in question opens a specific <i>reply</i> to that article. How embarrassing!')

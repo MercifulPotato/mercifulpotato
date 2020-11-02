@@ -1,1 +1,1 @@
-Item(by='megous', descendants=None, kids=None, score=None, time=1604323883, title=None, item_type='comment', url=None, parent=24967276, text='That would backfire spectacularly, and would probably kill gmail.')
+Item(by='megous', descendants=None, kids=[24968204, 24968872, 24967991], score=None, time=1604323883, title=None, item_type='comment', url=None, parent=24967276, text='That would backfire spectacularly, and would probably kill gmail.')

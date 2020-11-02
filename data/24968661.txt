@@ -1,0 +1,1 @@
+Item(by='WJW', descendants=None, kids=None, score=None, time=1604328497, title=None, item_type='comment', url=None, parent=24965602, text='SO_REUSEPORT has only been supported since about 2013 though, the trick with passing the fd over a Unix socket has worked for way longer than that.')

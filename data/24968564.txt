@@ -1,0 +1,1 @@
+Item(by='rbanffy', descendants=None, kids=[24969859], score=None, time=1604328045, title=None, item_type='comment', url=None, parent=24967128, text='My concern is that almost anything that fits in a C64 will run out of the L1 cache in most modern CPUs and yield very unrealistic results compared to reasonable modern workloads.')

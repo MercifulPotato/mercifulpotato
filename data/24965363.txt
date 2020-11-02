@@ -1,1 +1,1 @@
-Item(by='loosescrews', descendants=None, kids=None, score=None, time=1604300162, title=None, item_type='comment', url=None, parent=24964800, text='Too bad it doesn&#x27;t seem to be supported in Firefox.')
+Item(by='loosescrews', descendants=None, kids=[24968227], score=None, time=1604300162, title=None, item_type='comment', url=None, parent=24964800, text='Too bad it doesn&#x27;t seem to be supported in Firefox.')

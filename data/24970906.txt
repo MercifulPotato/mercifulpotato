@@ -1,0 +1,1 @@
+Item(by='NiceWayToDoIT', descendants=None, kids=None, score=None, time=1604339608, title=None, item_type='comment', url=None, parent=24968777, text='Lets imagine that a@exam.com and b@exam.com have same hash, so you use different salt so that they are different.\nHow do you know which one is which? Which salt belongs to what email?')

@@ -1,0 +1,1 @@
+Item(by='cure', descendants=None, kids=None, score=None, time=1604339219, title=None, item_type='comment', url=None, parent=24967115, text='I boot a RPi 4 via PXE (or rather, the RPi version of PXE, which is decidedly non-standard, meh). No SD card in the slot. No problem. Are you on the latest firmware?')

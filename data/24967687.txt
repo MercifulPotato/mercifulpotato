@@ -1,1 +1,1 @@
-Item(by='wrkronmiller', descendants=None, kids=None, score=None, time=1604322156, title=None, item_type='comment', url=None, parent=24967476, text='How do you deal with data egress costs w&#x2F;r&#x2F;t AWS though?')
+Item(by='wrkronmiller', descendants=None, kids=[24971928], score=None, time=1604322156, title=None, item_type='comment', url=None, parent=24967476, text='How do you deal with data egress costs w&#x2F;r&#x2F;t AWS though?')

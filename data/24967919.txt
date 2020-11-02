@@ -1,1 +1,1 @@
-Item(by='sivakon', descendants=None, kids=None, score=None, time=1604323880, title=None, item_type='comment', url=None, parent=24967315, text='Just want to understand, if I change the repo name to something else but does the same job, will that trigger RIAA?')
+Item(by='sivakon', descendants=None, kids=[24971263], score=None, time=1604323880, title=None, item_type='comment', url=None, parent=24967315, text='Just want to understand, if I change the repo name to something else but does the same job, will that trigger RIAA?')

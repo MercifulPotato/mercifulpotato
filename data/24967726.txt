@@ -1,1 +1,1 @@
-Item(by='thelittleone', descendants=None, kids=None, score=None, time=1604322391, title=None, item_type='comment', url=None, parent=24967578, text='How big a problem is this since emails are transported  predominantly in clear text?')
+Item(by='thelittleone', descendants=None, kids=[24970462], score=None, time=1604322391, title=None, item_type='comment', url=None, parent=24967578, text='How big a problem is this since emails are transported  predominantly in clear text?')

@@ -1,1 +1,1 @@
-Item(by='hhas01', descendants=None, kids=None, score=None, time=1604175326, title=None, item_type='comment', url=None, parent=24950296, text='Dear downvoters: I have points to spare. What you don’t have is an argument.')
+Item(by='hhas01', descendants=None, kids=[24970428], score=None, time=1604175326, title=None, item_type='comment', url=None, parent=24950296, text='Dear downvoters: I have points to spare. What you don’t have is an argument.')

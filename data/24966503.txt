@@ -1,1 +1,1 @@
-Item(by='konschubert', descendants=None, kids=None, score=None, time=1604312966, title=None, item_type='comment', url=None, parent=24964601, text='Travis is changing from growth mode to milk-the-melting-ice-cube mode.<p>That’s why they are turning off free foss builds.')
+Item(by='konschubert', descendants=None, kids=[24969442], score=None, time=1604312966, title=None, item_type='comment', url=None, parent=24964601, text='Travis is changing from growth mode to milk-the-melting-ice-cube mode.<p>That’s why they are turning off free foss builds.')

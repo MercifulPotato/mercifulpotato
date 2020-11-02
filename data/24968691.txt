@@ -1,0 +1,1 @@
+Item(by='teddywilson', descendants=None, kids=None, score=None, time=1604328676, title=None, item_type='comment', url=None, parent=24968690, text='Yesterday I created a Github action for basic markdown field and type validation. It is missing quite a few features, but I would love if you all checked it out, filed any feature requests, or (best case scenario) contributed!')
