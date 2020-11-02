@@ -1,1 +1,1 @@
-Item(by='kibwen', descendants=None, kids=None, score=None, time=1604259717, title=None, item_type='comment', url=None, parent=24961787, text='...Why on earth would this be downvoted? Would anyone care to elaborate?')
+Item(by='kibwen', descendants=None, kids=[24961960], score=None, time=1604259717, title=None, item_type='comment', url=None, parent=24961787, text='...Why on earth would this be downvoted? Would anyone care to elaborate?')

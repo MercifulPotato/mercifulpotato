@@ -1,0 +1,1 @@
+Item(by='pax_americana', descendants=None, kids=None, score=None, time=1604278499, title=None, item_type='comment', url=None, parent=24962988, text='You seem you have a hate boner for CanvasKit. It&#x27;s just a Skia project that Flutter uses as one of its render targets. It&#x27;s main use is to provide a better Canvas painting API than what browsers offer natively.')

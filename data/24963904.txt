@@ -1,0 +1,1 @@
+Item(by='thirtythree', descendants=None, kids=None, score=None, time=1604277862, title=None, item_type='comment', url=None, parent=24939227, text='Most documentation is bad and seems to promote formality over usefulness. Examples go a long way.<p>The most recent example of good docs I have come across recently is svelte.dev')

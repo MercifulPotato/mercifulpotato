@@ -1,0 +1,1 @@
+Item(by='ent', descendants=None, kids=[24962163], score=None, time=1604260371, title=None, item_type='comment', url=None, parent=24961900, text='It does, but as far as I&#x27;ve understood, FPGA&#x27;s are much simpler and more regular so hiding backdoors into those would be harder than hiding one into a hardware cpu.')

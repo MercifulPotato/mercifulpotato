@@ -1,0 +1,1 @@
+Item(by='_chris_', descendants=None, kids=None, score=None, time=1604265662, title=None, item_type='comment', url=None, parent=24960832, text='The problem is that providing extra bits for &quot;sign-extension mode&quot; and &quot;read 32b or 64b&quot; blows through the opcode space very quickly.')

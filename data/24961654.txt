@@ -1,1 +1,1 @@
-Item(by='nanomonkey', descendants=None, kids=[24961747], score=None, time=1604257620, title=None, item_type='comment', url=None, parent=24961342, text='I love the idea of open source verifiable hardware, but this price seems a bit high, even noting that the profits are going towards developing software for the hardware.')
+Item(by=None, descendants=None, kids=[24961747], score=None, time=1604257620, title=None, item_type='comment', url=None, parent=24961342, text=None)

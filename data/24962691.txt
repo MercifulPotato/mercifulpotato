@@ -1,0 +1,1 @@
+Item(by='tomjakubowski', descendants=None, kids=[24962851], score=None, time=1604266386, title=None, item_type='comment', url=None, parent=24962675, text='Rust has special syntax to name loops, and to refer to them by name when breaking.<p><pre><code>    &#x27;foo: loop {\n      &#x27;bar: loop {\n        break &#x27;foo\n      }\n    }</code></pre>')

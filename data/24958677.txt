@@ -1,1 +1,1 @@
-Item(by='getlawgdon', descendants=None, kids=None, score=None, time=1604228817, title=None, item_type='comment', url=None, parent=24957850, text='That&#x27;s a beautiful, committed, and complete fantasy.')
+Item(by='getlawgdon', descendants=None, kids=[24963468], score=None, time=1604228817, title=None, item_type='comment', url=None, parent=24957850, text='That&#x27;s a beautiful, committed, and complete fantasy.')

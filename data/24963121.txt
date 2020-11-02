@@ -1,0 +1,1 @@
+Item(by='stjohnswarts', descendants=None, kids=None, score=None, time=1604269927, title=None, item_type='comment', url=None, parent=24958521, text='Probably one of your extensions blocking it. Turn off stuff like ublock and privacy badger and reload. I tried on Mac Firefox and it does indeed fail in even safe mode.')

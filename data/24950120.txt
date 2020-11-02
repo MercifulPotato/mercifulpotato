@@ -1,1 +1,1 @@
-Item(by='merlinscholz', descendants=0, kids=None, score=2, time=1604137786, title='Extreme Debugging', item_type='story', url='https://squanderingti.me/blog/2020/10/28/extreme-debugging.html', parent=None, text=None)
+Item(by='merlinscholz', descendants=15, kids=[24963260, 24962481, 24963459, 24962712, 24963223, 24962452], score=111, time=1604137786, title='Extreme Debugging', item_type='story', url='https://squanderingti.me/blog/2020/10/28/extreme-debugging.html', parent=None, text=None)

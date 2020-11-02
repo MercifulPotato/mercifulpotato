@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1604264064, title=None, item_type='comment', url=None, parent=24961577, text='At least in gcc, vla and alloca prevent inlining.')

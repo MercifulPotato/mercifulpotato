@@ -1,1 +1,1 @@
-Item(by='eunos', descendants=None, kids=None, score=None, time=1604249189, title=None, item_type='comment', url=None, parent=24956983, text='Quick question, based on this, would it be a bad idea if I decide to use Mesos for Spark based scheduler?')
+Item(by='eunos', descendants=None, kids=[24963037], score=None, time=1604249189, title=None, item_type='comment', url=None, parent=24956983, text='Quick question, based on this, would it be a bad idea if I decide to use Mesos for Spark based scheduler?')

@@ -1,0 +1,1 @@
+Item(by='spacenick88', descendants=None, kids=None, score=None, time=1604263372, title=None, item_type='comment', url=None, parent=24959834, text='Instead of fusing them, shouldn&#x27;t it be possible to speculate that it will not overflow, process the check on a separate slow path and do a roll back in case it did overflow?')

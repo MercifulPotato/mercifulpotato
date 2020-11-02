@@ -1,1 +1,1 @@
-Item(by='bpierre', descendants=10, kids=[24947506, 24945463, 24946409, 24947606, 24945449, 24952669, 24946994], score=55, time=1604078169, title='SDLang – Simple Declarative Language', item_type='story', url='https://sdlang.org/', parent=None, text=None)
+Item(by='bpierre', descendants=10, kids=[24947506, 24945463, 24946409, 24947606, 24945449, 24946994, 24952669], score=55, time=1604078169, title='SDLang – Simple Declarative Language', item_type='story', url='https://sdlang.org/', parent=None, text=None)

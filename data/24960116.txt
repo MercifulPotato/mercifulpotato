@@ -1,1 +1,1 @@
-Item(by='agilob', descendants=None, kids=[24961266], score=None, time=1604244828, title=None, item_type='comment', url=None, parent=24960106, text='We can&#x27;t open issues or PR there, it is a read-only repo.')
+Item(by='agilob', descendants=None, kids=[24961266, 24962182], score=None, time=1604244828, title=None, item_type='comment', url=None, parent=24960106, text='We can&#x27;t open issues or PR there, it is a read-only repo.')
