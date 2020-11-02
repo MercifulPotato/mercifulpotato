@@ -1,0 +1,1 @@
+Item(by='brianhicks', descendants=None, kids=[24968221], score=None, time=1604322075, title=None, item_type='comment', url=None, parent=24967320, text='What shell are you running this under? Unquoted exclamation marks will do things that may be outside your intent for this script. It’ll still fail, just perhaps not in the way you expect.')

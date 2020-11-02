@@ -1,1 +1,1 @@
-Item(by='jiriro', descendants=None, kids=None, score=None, time=1604300778, title=None, item_type='comment', url=None, parent=24965005, text='0.5 FPS on iPhone SE (1st gen) and it doesn’t look  like glass at all.')
+Item(by='jiriro', descendants=None, kids=[24965822], score=None, time=1604300778, title=None, item_type='comment', url=None, parent=24965005, text='0.5 FPS on iPhone SE (1st gen) and it doesn’t look  like glass at all.')

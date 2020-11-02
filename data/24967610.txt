@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=None, kids=[24967755], score=None, time=1604321583, title=None, item_type='comment', url=None, parent=24965614, text='One thing that the Pi 400 has that the 4B does not is POE (power over ethernet) built in: the chunky BOURNS chip near the ethernet socket is a POE transformer. So it only meets network, display, and mouse to work!')

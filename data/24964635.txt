@@ -1,1 +1,1 @@
-Item(by='ncmncm', descendants=None, kids=None, score=None, time=1604288453, title=None, item_type='comment', url=None, parent=24961656, text='Removed from the last C Standard. It was recognized as a mistake.')
+Item(by='ncmncm', descendants=None, kids=[24966460], score=None, time=1604288453, title=None, item_type='comment', url=None, parent=24961656, text='Removed from the last C Standard. It was recognized as a mistake.')

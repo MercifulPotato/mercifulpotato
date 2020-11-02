@@ -1,1 +1,1 @@
-Item(by='dkersten', descendants=None, kids=None, score=None, time=1604060732, title=None, item_type='comment', url=None, parent=24941345, text='Do you watch movies, TV shows or read books? Playing a single player story game is the same as those other art forms for me.')
+Item(by='dkersten', descendants=None, kids=[24967736], score=None, time=1604060732, title=None, item_type='comment', url=None, parent=24941345, text='Do you watch movies, TV shows or read books? Playing a single player story game is the same as those other art forms for me.')

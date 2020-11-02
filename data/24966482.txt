@@ -1,0 +1,1 @@
+Item(by='ImprobableTruth', descendants=None, kids=[24966599], score=None, time=1604312758, title=None, item_type='comment', url=None, parent=24966007, text='Why would you use Data.List.head rather than just matching on lst?')

@@ -1,0 +1,1 @@
+Item(by='jonex', descendants=None, kids=[24966404], score=None, time=1604308514, title=None, item_type='comment', url=None, parent=24965609, text='It is done on the CPU instead of the GPU. GPU would seem like the natural choice for a convolution heavy model but was not used here for the mentioned reasons.')

@@ -1,0 +1,1 @@
+Item(by='cm2187', descendants=None, kids=[24966149, 24966979], score=None, time=1604308837, title=None, item_type='comment', url=None, parent=24965671, text='Good points. Though given how many emails have been leaked already, not sure sha256 with fixed salt achieves much. One can build a rainbow table with that salt fairly quickly. You might as well use bcrypt, scrypt and co.')

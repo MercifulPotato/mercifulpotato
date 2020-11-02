@@ -1,0 +1,1 @@
+Item(by='runeks', descendants=None, kids=None, score=None, time=1604318217, title=None, item_type='comment', url=None, parent=24966770, text='I see your point. But I’d argue that you avoid it in both cases, since without inlining the error-call is unreachable anyway.')

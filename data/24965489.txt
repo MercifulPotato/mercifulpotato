@@ -1,0 +1,1 @@
+Item(by='abrkn', descendants=None, kids=[24967626], score=None, time=1604302038, title=None, item_type='comment', url=None, parent=24964944, text='I&#x27;ve been using TypeOrm in production for a few years in a project with dozens of entity types and hundreds of queries. My recommendation is to use something else. Anyone know of an alternative?')

@@ -1,0 +1,1 @@
+Item(by='revskill', descendants=None, kids=None, score=None, time=1604311294, title=None, item_type='comment', url=None, parent=24963241, text='Agree about the hard to debug problem with React.\nEspecially in SPA routing, normal navigation works fine, but in some cases, SPA navigation breaks the new route just because SPA routing is not stateless somehow.')

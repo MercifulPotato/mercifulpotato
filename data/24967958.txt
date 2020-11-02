@@ -1,0 +1,1 @@
+Item(by='chillaranand', descendants=None, kids=None, score=None, time=1604324149, title=None, item_type='comment', url=None, parent=24967320, text='We can also use ssl-cert-check cli tool. `ssl-cert-check -s avilpage.com -p 443 -x 30` will return if the certificate will expire in 30 days.<p>We can use this command in CI pipeline or setup a cron job to monitor it.')

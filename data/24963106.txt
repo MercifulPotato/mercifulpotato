@@ -1,1 +1,1 @@
-Item(by='tixocloud', descendants=None, kids=None, score=None, time=1604269780, title=None, item_type='comment', url=None, parent=24962116, text='How do you get started with a custom dev shop? What type of technical companies would you focus on?')
+Item(by='tixocloud', descendants=None, kids=[24965791], score=None, time=1604269780, title=None, item_type='comment', url=None, parent=24962116, text='How do you get started with a custom dev shop? What type of technical companies would you focus on?')

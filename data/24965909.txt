@@ -1,0 +1,1 @@
+Item(by='Gehinnn', descendants=None, kids=[24967633], score=None, time=1604307015, title=None, item_type='comment', url=None, parent=24964944, text='I cannot recommend it. It has a bug on sqlite that swaps the arguments randomly. This is super bad.<p>For my next project, I will check out Mikro-Orm.')

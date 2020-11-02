@@ -1,0 +1,1 @@
+Item(by='adrian_b', descendants=None, kids=None, score=None, time=1604315495, title=None, item_type='comment', url=None, parent=24965274, text='Probably the GPU and the GPU drivers matter most.<p>On Linux Chromium browser with an NVIDIA GPU, using the NVIDIA Linux driver, the FPS is pinned to 60 no matter what zooms and rotations are done.')

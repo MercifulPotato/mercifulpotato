@@ -1,1 +1,1 @@
-Item(by='wallflower', descendants=11, kids=[24960883, 24965164, 24963745, 24961443, 24963939, 24963301], score=30, time=1604236570, title='The Map [video]', item_type='story', url='https://www.hustwit.com/the-map', parent=None, text=None)
+Item(by='wallflower', descendants=16, kids=[24960883, 24963745, 24965164, 24966037, 24965492, 24961443, 24963939, 24963301, 24965453], score=40, time=1604236570, title="The redesign of New York City's subway map [video]", item_type='story', url='https://www.hustwit.com/the-map', parent=None, text=None)

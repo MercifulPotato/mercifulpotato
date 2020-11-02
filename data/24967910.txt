@@ -1,0 +1,1 @@
+Item(by='GekkePrutser', descendants=None, kids=None, score=None, time=1604323770, title=None, item_type='comment', url=None, parent=24960337, text='MotionEyeOS consistently crashes for me on raspberry pi zeroes. It&#x27;s just not stable enough. I suppose it&#x27;s the transcoding to mjpeg that&#x27;s too heavy. But I&#x27;ll try some of the alternatives mentioned here.')

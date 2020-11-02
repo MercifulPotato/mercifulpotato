@@ -1,0 +1,1 @@
+Item(by='switch007', descendants=None, kids=None, score=None, time=1604321586, title=None, item_type='comment', url=None, parent=24967458, text='Nagios checks have thresholds for WARNING and CRITICAL. With these kind of checks it&#x27;s usually &#x27;days until expiry&#x27;, so it certainly can be used to warn in advance.')

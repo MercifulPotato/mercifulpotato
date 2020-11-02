@@ -1,1 +1,1 @@
-Item(by='CyberRabbi', descendants=None, kids=None, score=None, time=1604301569, title=None, item_type='comment', url=None, parent=24965213, text='Hmm asking to read something more carefully is not rude if the commenter is refuting a point that was never made in the article.')
+Item(by='CyberRabbi', descendants=None, kids=[24965674], score=None, time=1604301569, title=None, item_type='comment', url=None, parent=24965213, text='Hmm asking to read something more carefully is not rude if the commenter is refuting a point that was never made in the article.')

@@ -1,0 +1,1 @@
+Item(by='marcos100', descendants=None, kids=None, score=None, time=1604312528, title=None, item_type='comment', url=None, parent=24965378, text='Basically, every time you use UNIQUE in a column or set of columns that is not a PK, it is an AK (Alternate Key).')

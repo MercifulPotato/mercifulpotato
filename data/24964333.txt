@@ -1,1 +1,1 @@
-Item(by='icedchai', descendants=None, kids=None, score=None, time=1604283811, title=None, item_type='comment', url=None, parent=24954490, text='ASNs numbers are plentiful, and easy to get. \nIPv4 space, not so easy.')
+Item(by='icedchai', descendants=None, kids=[24965714], score=None, time=1604283811, title=None, item_type='comment', url=None, parent=24954490, text='ASNs numbers are plentiful, and easy to get. \nIPv4 space, not so easy.')

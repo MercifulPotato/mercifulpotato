@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1604319014, title=None, item_type='comment', url=None, parent=24965096, text='encapsulate your nested loops in a function and return to exit multiple loops at the same time. Having nested lightweight functions allows minimal syntactical overhead compared to plain loops, although still not zero.')

@@ -1,1 +1,1 @@
-Item(by='projektfu', descendants=None, kids=None, score=None, time=1604281306, title=None, item_type='comment', url=None, parent=24963142, text='My issue on the iPhone SE 2 was an obnoxious overlay that hid its close button.')
+Item(by='projektfu', descendants=None, kids=[24967249], score=None, time=1604281306, title=None, item_type='comment', url=None, parent=24963142, text='My issue on the iPhone SE 2 was an obnoxious overlay that hid its close button.')

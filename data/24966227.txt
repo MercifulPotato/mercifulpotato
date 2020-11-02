@@ -1,0 +1,1 @@
+Item(by='floatboth', descendants=None, kids=None, score=None, time=1604310011, title=None, item_type='comment', url=None, parent=24966155, text='On the 4, the USB 2 ports come from XHCI too. I guess on the CM then they used the DWC-OTG controller for them? (Which on the 4 is used for Type-C in device&#x2F;gadget mode)')

@@ -1,0 +1,1 @@
+Item(by='catovh', descendants=None, kids=None, score=None, time=1604318456, title=None, item_type='comment', url=None, parent=24966930, text='Not op, but what you described is called a catchall address. Easily done with custom domain. Basically a regex for *@domain.tld, every mail sent to (anything)@domain.tld will arrive at a preconfigured mailbox, say admin@domain.tld etc')

@@ -1,1 +1,1 @@
-Item(by='Gupie', descendants=None, kids=None, score=None, time=1604267054, title=None, item_type='comment', url=None, parent=24961283, text='What do you think of the SpaceX UI?')
+Item(by='Gupie', descendants=None, kids=[24967485], score=None, time=1604267054, title=None, item_type='comment', url=None, parent=24961283, text='What do you think of the SpaceX UI?')

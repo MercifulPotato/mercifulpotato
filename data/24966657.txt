@@ -1,0 +1,1 @@
+Item(by='TheChaplain', descendants=None, kids=[24966745, 24966792], score=None, time=1604314427, title=None, item_type='comment', url=None, parent=24966631, text='That is a hassle indeed, you need to set up SPF, DMARC and DKIM to at least have a chance to reach the inbox on gmail or outlook.')

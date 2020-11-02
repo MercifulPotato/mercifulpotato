@@ -1,0 +1,1 @@
+Item(by='the_mitsuhiko', descendants=None, kids=None, score=None, time=1604309291, title=None, item_type='comment', url=None, parent=24966081, text='Yeah, it&#x27;s pretty awful. The only remotely sane way to use them is also to use SOCK_SEQPACKET which is not supported everywhere.  Another way that works for some cases on Linux at least is to pick up fds from &#x2F;proc.')

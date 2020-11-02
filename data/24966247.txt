@@ -1,0 +1,1 @@
+Item(by='cm2187', descendants=None, kids=None, score=None, time=1604310212, title=None, item_type='comment', url=None, parent=24966149, text='Sorry, I missed the point about it being the identifier.<p>Though technically you can still use the bcrypt hash as your identifier, unless it has to be correlated to an external source of emails.')

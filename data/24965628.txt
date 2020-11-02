@@ -1,0 +1,1 @@
+Item(by='blauditore', descendants=None, kids=None, score=None, time=1604304088, title=None, item_type='comment', url=None, parent=24965609, text='Probably increased latency due to additional round trips to the server. Perhaps image streams are sent between clients directly, but I&#x27;m not sure.')
