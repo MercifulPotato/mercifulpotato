@@ -1,0 +1,1 @@
+Item(by='larschdk', descendants=None, kids=[24964868], score=None, time=1604287428, title=None, item_type='comment', url=None, parent=24957887, text='systemd also has container support baked it. It&#x27;s actually as simple as &#x27;pacstrap&#x2F;debootstrap&#x27; followed by &#x27;machinectl start&#x27;.')

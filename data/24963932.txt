@@ -1,1 +1,1 @@
-Item(by='kortilla', descendants=None, kids=None, score=None, time=1604278130, title=None, item_type='comment', url=None, parent=24961105, text='Is this an alternative to income tax in all brackets? If so, doesn’t this discourage things like home ownership and saving for retirement?')
+Item(by='kortilla', descendants=None, kids=[24965052], score=None, time=1604278130, title=None, item_type='comment', url=None, parent=24961105, text='Is this an alternative to income tax in all brackets? If so, doesn’t this discourage things like home ownership and saving for retirement?')

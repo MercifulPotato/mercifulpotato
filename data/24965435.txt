@@ -1,0 +1,1 @@
+Item(by='arketyp', descendants=None, kids=None, score=None, time=1604301071, title=None, item_type='comment', url=None, parent=24964800, text='They mention SIMD support, but It&#x27;s unclear to me in what capacity the GPU is leveraged. The hair segmentation example on the MediaPipe webpage suggests it&#x27;s evaluating the graph on the GPU though.')

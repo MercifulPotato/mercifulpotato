@@ -1,1 +1,1 @@
-Item(by='yann510', descendants=0, kids=None, score=3, time=1604274501, title='Stator: A full-stack boilerplate – releases, deployments, enforced conventions', item_type='story', url='https://github.com/chocolat-chaud-io/stator', parent=None, text=None)
+Item(by='yann510', descendants=12, kids=[24964944, 24964585, 24964451, 24965060, 24964919, 24964717], score=31, time=1604274501, title='Stator: A full-stack boilerplate – releases, deployments, enforced conventions', item_type='story', url='https://github.com/chocolat-chaud-io/stator', parent=None, text=None)

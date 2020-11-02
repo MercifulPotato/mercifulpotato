@@ -1,1 +1,1 @@
-Item(by='eddyb', descendants=None, kids=None, score=None, time=1604277389, title=None, item_type='comment', url=None, parent=24963749, text='Betting on smart compilers without putting in the effort to build them is how the Itanic happened.')
+Item(by='eddyb', descendants=None, kids=[24964810], score=None, time=1604277389, title=None, item_type='comment', url=None, parent=24963749, text='Betting on smart compilers without putting in the effort to build them is how the Itanic happened.')

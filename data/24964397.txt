@@ -1,0 +1,1 @@
+Item(by='bumblebritches5', descendants=None, kids=None, score=None, time=1604284693, title=None, item_type='comment', url=None, parent=24959658, text='One thing that also sucks about RISC-V is that basic bitwise operators aren&#x27;t in the core ISA; they&#x27;re an extension.')

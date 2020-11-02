@@ -1,1 +1,1 @@
-Item(by='srtjstjsj', descendants=None, kids=None, score=None, time=1604261997, title=None, item_type='comment', url=None, parent=24959560, text='Tesla has an environmental marketing, not an environmental mission.<p>An environmental car is something like a LEAF.')
+Item(by='srtjstjsj', descendants=None, kids=[24964649], score=None, time=1604261997, title=None, item_type='comment', url=None, parent=24959560, text='Tesla has an environmental marketing, not an environmental mission.<p>An environmental car is something like a LEAF.')

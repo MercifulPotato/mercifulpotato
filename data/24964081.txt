@@ -1,1 +1,1 @@
-Item(by='gtirloni', descendants=0, kids=None, score=2, time=1604280202, title='Ask HN: Which NoSQL database should I learn in 2020?', item_type='story', url=None, parent=None, text=None)
+Item(by='gtirloni', descendants=1, kids=[24964265], score=3, time=1604280202, title='Ask HN: Which NoSQL database should I learn in 2020?', item_type='story', url=None, parent=None, text=None)

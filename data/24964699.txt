@@ -1,0 +1,1 @@
+Item(by='nneonneo', descendants=None, kids=None, score=None, time=1604289368, title=None, item_type='comment', url=None, parent=24964456, text='`struct stat` and `struct stat64` differ in size - so no, this would not be possible. Using `stat64` in place of `stat` would cause a buffer overflow (not to mention screwing up structure offsets).')

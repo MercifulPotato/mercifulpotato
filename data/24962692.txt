@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=3, time=1604266387, title='ARM ecosystem disintegration and the rise of RISC-V', item_type='story', url='https://www.reflectionsofthevoid.com/2020/11/arm-ecosystem-disintegration-and-rise.html', parent=None, text=None)
+Item(by='ingve', descendants=1, kids=[24965230], score=9, time=1604266387, title='ARM ecosystem disintegration and the rise of RISC-V', item_type='story', url='https://www.reflectionsofthevoid.com/2020/11/arm-ecosystem-disintegration-and-rise.html', parent=None, text=None)

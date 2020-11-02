@@ -1,1 +1,1 @@
-Item(by='nootropicat', descendants=None, kids=None, score=None, time=1604273379, title=None, item_type='comment', url=None, parent=24962732, text='Bitcoin is old and stagnant, the future is full anonymity in the form of zk-snarks, used by millions.')
+Item(by='nootropicat', descendants=None, kids=[24964242], score=None, time=1604273379, title=None, item_type='comment', url=None, parent=24962732, text='Bitcoin is old and stagnant, the future is full anonymity in the form of zk-snarks, used by millions.')

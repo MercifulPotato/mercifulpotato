@@ -1,1 +1,1 @@
-Item(by='dzonga', descendants=None, kids=None, score=None, time=1604273751, title=None, item_type='comment', url=None, parent=24950417, text='write on paper first using pen, then type out the notes to computer. efficient and reinforces learning')
+Item(by='dzonga', descendants=None, kids=[24964880], score=None, time=1604273751, title=None, item_type='comment', url=None, parent=24950417, text='write on paper first using pen, then type out the notes to computer. efficient and reinforces learning')

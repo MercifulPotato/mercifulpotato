@@ -1,1 +1,1 @@
-Item(by='Etheryte', descendants=None, kids=None, score=None, time=1604280494, title=None, item_type='comment', url=None, parent=24964097, text='As a tip about HN, you&#x27;re ranked higher if you submit your post as a link and then add your description as a comment.')
+Item(by='Etheryte', descendants=None, kids=[24964604], score=None, time=1604280494, title=None, item_type='comment', url=None, parent=24964097, text='As a tip about HN, you&#x27;re ranked higher if you submit your post as a link and then add your description as a comment.')

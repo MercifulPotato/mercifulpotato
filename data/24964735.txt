@@ -1,0 +1,1 @@
+Item(by='AnonC', descendants=None, kids=None, score=None, time=1604289883, title=None, item_type='comment', url=None, parent=24964589, text='There are editors that allow preserving the line endings (be they LF, CRLF or CR) from the source file. That could be a solution since you already seem to have control over your environments.')
