@@ -1,0 +1,1 @@
+Item(by='ezekg', descendants=None, kids=None, score=None, time=1604358479, title=None, item_type='comment', url=None, parent=24974375, text='Unlike something like friendly_id, this isn&#x27;t really indexable, since n is variable in the sluggable query, at least for pg:<p><pre><code>    left(id::text, n) = friendy_uuid\n</code></pre>\nIt always results in a sequential scan.')

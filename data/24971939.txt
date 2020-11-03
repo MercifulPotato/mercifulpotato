@@ -1,1 +1,1 @@
-Item(by='rmason', descendants=0, kids=None, score=2, time=1604344812, title='Will Covid-19 Turn Las Vegas into Reno or Virginia City?', item_type='story', url='https://thenevadaindependent.com/article/will-covid-19-turn-las-vegas-into-reno-or-virginia-city', parent=None, text=None)
+Item(by='rmason', descendants=4, kids=[24973923], score=14, time=1604344812, title='Will Covid-19 Turn Las Vegas into Reno or Virginia City?', item_type='story', url='https://thenevadaindependent.com/article/will-covid-19-turn-las-vegas-into-reno-or-virginia-city', parent=None, text=None)

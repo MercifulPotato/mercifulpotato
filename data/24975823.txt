@@ -1,0 +1,1 @@
+Item(by='dwohnitmok', descendants=None, kids=None, score=None, time=1604371244, title=None, item_type='comment', url=None, parent=24975465, text='It&#x27;s perhaps worth pointing out that the author of this blog post explicitly decided against using Clojure a second time for Dark after cofounding CircleCI, mainly due to a lack of sum types.')

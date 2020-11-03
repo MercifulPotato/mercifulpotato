@@ -1,1 +1,1 @@
-Item(by='the_fury', descendants=None, kids=None, score=None, time=1604328691, title=None, item_type='comment', url=None, parent=24968503, text='&quot;in such a wide scale and availability as today&quot;')
+Item(by='the_fury', descendants=None, kids=[24974697], score=None, time=1604328691, title=None, item_type='comment', url=None, parent=24968503, text='&quot;in such a wide scale and availability as today&quot;')

@@ -1,0 +1,1 @@
+Item(by='rictic', descendants=None, kids=[24973609, 24974698], score=None, time=1604347620, title=None, item_type='comment', url=None, parent=24970911, text='Something I found myself saying recently: &quot;When the parent process is about to die it&#x27;s tries to kill its children, otherwise the orphans stick around holding onto their ports which is super annoying.&quot;')

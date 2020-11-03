@@ -1,0 +1,1 @@
+Item(by='darksaints', descendants=None, kids=[24975502], score=None, time=1604367253, title=None, item_type='comment', url=None, parent=24975397, text='At least as of a couple years ago, OCaml wins on performance for anything single core, but not by much. F# is usually within a 5-10% performance gap. Absolutely better than Python.')

@@ -1,1 +1,1 @@
-Item(by='cmacole', descendants=0, kids=None, score=1, time=1604342581, title='Show HN: An NLP tool to analyze text with n-gram visualizations', item_type='story', url='https://stratoai.com/', parent=None, text=None)
+Item(by='cmacole', descendants=1, kids=[24972246], score=1, time=1604342581, title='Show HN: An NLP tool to analyze text with n-gram visualizations', item_type='story', url='https://stratoai.com/', parent=None, text=None)

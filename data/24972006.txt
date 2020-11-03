@@ -1,1 +1,1 @@
-Item(by='rplnt', descendants=None, kids=None, score=None, time=1604345199, title=None, item_type='comment', url=None, parent=24970708, text='My wishlist would be no HDMI at all. Proprietary and licensed, while we have as capable (if not more) options available.')
+Item(by='rplnt', descendants=None, kids=[24972922], score=None, time=1604345199, title=None, item_type='comment', url=None, parent=24970708, text='My wishlist would be no HDMI at all. Proprietary and licensed, while we have as capable (if not more) options available.')

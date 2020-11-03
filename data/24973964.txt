@@ -1,0 +1,1 @@
+Item(by='Arnavion', descendants=None, kids=None, score=None, time=1604354496, title=None, item_type='comment', url=None, parent=24973887, text='Even if you stripped systemd down to the &quot;as-SysV-init replacement&quot; part it still wouldn&#x27;t run on FreeBSD, because systemd uses cgroups for that.')

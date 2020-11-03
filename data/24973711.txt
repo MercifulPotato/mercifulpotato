@@ -1,0 +1,1 @@
+Item(by='xxpor', descendants=None, kids=None, score=None, time=1604352956, title=None, item_type='comment', url=None, parent=24971271, text='&gt;TCP takes care of mere (eg probabilistic) packet loss ok.<p>I&#x27;d imagine this is largely due to MSS clamping rather than actual MTU caused packet loss.')

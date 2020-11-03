@@ -1,0 +1,1 @@
+Item(by='shironineja__', descendants=None, kids=None, score=None, time=1604363779, title=None, item_type='comment', url=None, parent=24963742, text='Most of the issues in the article can be addressed with an API Gateway or similar wrapper abstraction so that consumers may integrate with the gateway one time and then add each feature as-needed.')

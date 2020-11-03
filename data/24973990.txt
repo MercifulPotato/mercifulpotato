@@ -1,0 +1,1 @@
+Item(by='muds', descendants=None, kids=[24974116], score=None, time=1604354626, title=None, item_type='comment', url=None, parent=24973905, text='&gt; no way to run headless if you wan&#x27;t 64bit OS.<p>Could you expand on that a bit more? I&#x27;m currently running a Pi3B+ 64bit Raspbian headless and have had no problems so far. Does the Pi4 not allow 64bit headless?')

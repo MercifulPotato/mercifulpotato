@@ -1,0 +1,1 @@
+Item(by='wldlyinaccurate', descendants=None, kids=None, score=None, time=1604367952, title=None, item_type='comment', url=None, parent=24975430, text='Git commit hashes _are_ deterministic. Run `git cat-file -p &lt;hash&gt;` on your two hashes. The timestamp in the committer field will be different. That is why the hash changed.')

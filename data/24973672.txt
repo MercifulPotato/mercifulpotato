@@ -1,0 +1,1 @@
+Item(by='loeg', descendants=None, kids=[24973824], score=None, time=1604352740, title=None, item_type='comment', url=None, parent=24973508, text='Pretty much.  Long predates WSL1, though, and facing many of the same difficulties that prompted the Windows team to just run Linux in a hypervisor (WSL2).')

@@ -1,1 +1,1 @@
-Item(by='medecau', descendants=None, kids=None, score=None, time=1604343266, title=None, item_type='comment', url=None, parent=24969462, text='Curious for an update on Centrifuge.')
+Item(by='medecau', descendants=None, kids=[24974331], score=None, time=1604343266, title=None, item_type='comment', url=None, parent=24969462, text='Curious for an update on Centrifuge.')

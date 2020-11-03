@@ -1,1 +1,1 @@
-Item(by='throwaway894345', descendants=None, kids=None, score=None, time=1604344918, title=None, item_type='comment', url=None, parent=24971740, text='Cool, this is the stuff that interests me. Comparing the nominal cost of hardware with the nominal AWS costs is boring.')
+Item(by='throwaway894345', descendants=None, kids=[24974118], score=None, time=1604344918, title=None, item_type='comment', url=None, parent=24971740, text='Cool, this is the stuff that interests me. Comparing the nominal cost of hardware with the nominal AWS costs is boring.')

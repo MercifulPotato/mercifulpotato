@@ -1,1 +1,1 @@
-Item(by='Wistar', descendants=None, kids=None, score=None, time=1604302091, title=None, item_type='comment', url=None, parent=24965313, text='Very clean and at least 60 fps in Chrome on a 3 year old iPad. Amazing.')
+Item(by='Wistar', descendants=None, kids=[24974089], score=None, time=1604302091, title=None, item_type='comment', url=None, parent=24965313, text='Very clean and at least 60 fps in Chrome on a 3 year old iPad. Amazing.')

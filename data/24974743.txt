@@ -1,0 +1,1 @@
+Item(by='echeese', descendants=None, kids=[24974793], score=None, time=1604360230, title=None, item_type='comment', url=None, parent=24959157, text='I wonder how it holds up to something like this on a modern processor and compiler:<p><pre><code>    float rsqrt(float number) { return 1.0f &#x2F; sqrtf(number); }</code></pre>')

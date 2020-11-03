@@ -1,0 +1,1 @@
+Item(by='tikhonj', descendants=None, kids=None, score=None, time=1604367271, title=None, item_type='comment', url=None, parent=24975351, text='In OCaml, &quot;functors&quot; are parametrized modules—mostly unrelated to functors and applicatives in the Haskell sense. Think about it as a module that can take another module as an input.')

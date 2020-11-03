@@ -1,0 +1,1 @@
+Item(by='nukemandan', descendants=None, kids=None, score=None, time=1604348334, title=None, item_type='comment', url=None, parent=24972711, text='NAT Slipstreaming allows an attacker to remotely access any TCP&#x2F;UDP services bound to a victim machine, bypassing the victim&#x27;s NAT&#x2F;firewall (arbitrary firewall pinhole control), just by the victim visiting a website.')

@@ -1,0 +1,1 @@
+Item(by='thu2111', descendants=None, kids=[24974408], score=None, time=1604355343, title=None, item_type='comment', url=None, parent=24971954, text='Why? If the primary benefit you&#x27;re getting from the cloud is VMs, it&#x27;s valid to compare to hardware. The overhead of bare metal on top of cloud VMs is basically knowing how to handle RAID and set up load balancing.')

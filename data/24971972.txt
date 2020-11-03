@@ -1,1 +1,1 @@
-Item(by='goferito', descendants=None, kids=None, score=None, time=1604345020, title=None, item_type='comment', url=None, parent=24971889, text='So, you think ARM has its own version of IME&#x2F;PSP?')
+Item(by='goferito', descendants=None, kids=[24972219], score=None, time=1604345020, title=None, item_type='comment', url=None, parent=24971889, text='So, you think ARM has its own version of IME&#x2F;PSP?')

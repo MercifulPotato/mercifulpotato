@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=0, kids=None, score=3, time=1604276183, title="Microservices – architecture nihilism in minimalism's clothes", item_type='story', url='https://vlfig.me/posts/microservices', parent=None, text=None)
+Item(by='zdw', descendants=11, kids=[24974889, 24975031, 24975132, 24975037, 24974953, 24975050, 24974879, 24975097], score=45, time=1604276183, title="Microservices – architecture nihilism in minimalism's clothes", item_type='story', url='https://vlfig.me/posts/microservices', parent=None, text=None)

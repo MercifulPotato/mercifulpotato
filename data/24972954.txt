@@ -1,0 +1,1 @@
+Item(by='sergeykish', descendants=None, kids=None, score=None, time=1604349429, title=None, item_type='comment', url=None, parent=24971755, text='Disable cookies by default, uMatrix<p><pre><code>    * * cookie block\n</code></pre>\nAnd purge LocalStorage, SessionStorage, DatabaseStorage, CacheStorage if JavaScript allowed.')

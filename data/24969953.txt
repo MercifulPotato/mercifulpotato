@@ -1,1 +1,1 @@
-Item(by='kopos', descendants=None, kids=None, score=None, time=1604335053, title=None, item_type='comment', url=None, parent=24968416, text='Currently it is JetBrains Mono<p>Earlier\n- IBM Plex\n- Fira Sans\n- Operator Mono\n- Source Code Pro')
+Item(by='kopos', descendants=None, kids=[24972682], score=None, time=1604335053, title=None, item_type='comment', url=None, parent=24968416, text='Currently it is JetBrains Mono<p>Earlier\n- IBM Plex\n- Fira Sans\n- Operator Mono\n- Source Code Pro')

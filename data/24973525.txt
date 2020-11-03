@@ -1,0 +1,1 @@
+Item(by='bgdam', descendants=None, kids=None, score=None, time=1604352028, title=None, item_type='comment', url=None, parent=24973291, text='The last time I looked into this (about 3 years ago), it was ridiculously difficult to embed Gecko into anything, almost to the point of being impossible. Chromium in comparison is relatively easy to embed (via CEF or LibChromiumContent).')

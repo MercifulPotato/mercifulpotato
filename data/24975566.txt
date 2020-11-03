@@ -1,0 +1,1 @@
+Item(by='darksaints', descendants=None, kids=[24975731], score=None, time=1604368361, title=None, item_type='comment', url=None, parent=24975497, text='But those are all database abstraction mechanisms or ORMs. Regular SQL access to postgres databases is pretty much a fully solved problem in F#, even if the ORMs are not.')

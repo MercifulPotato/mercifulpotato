@@ -1,1 +1,1 @@
-Item(by='mgraczyk', descendants=None, kids=None, score=None, time=1604345309, title=None, item_type='comment', url=None, parent=24971793, text='This looks like decompiled bytecode, not source code. Does anybody have a deep link to something in this repo that actually contains source code?')
+Item(by='mgraczyk', descendants=None, kids=[24972064, 24972053], score=None, time=1604345309, title=None, item_type='comment', url=None, parent=24971793, text='[deleted]')
