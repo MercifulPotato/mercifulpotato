@@ -1,1 +1,1 @@
-Item(by='spydum', descendants=0, kids=None, score=2, time=1604405924, title='Chrome to provide its own Cert Authority store', item_type='story', url='https://www.chromium.org/Home/chromium-security/root-ca-policy', parent=None, text=None)
+Item(by='spydum', descendants=0, kids=None, score=3, time=1604405924, title='Chrome to provide its own Cert Authority store', item_type='story', url='https://www.chromium.org/Home/chromium-security/root-ca-policy', parent=None, text=None)

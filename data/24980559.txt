@@ -1,0 +1,1 @@
+Item(by='Joker_vD', descendants=None, kids=[24982986], score=None, time=1604417777, title=None, item_type='comment', url=None, parent=24980134, text='Wait, Rust doesn&#x27;t associate executors with futures? If it does, and there is a single-threaded executor available, then it&#x27;s absolutely possible to deadlock just like in .NET.')

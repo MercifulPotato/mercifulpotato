@@ -1,1 +1,1 @@
-Item(by='deadbunny', descendants=None, kids=None, score=None, time=1604368675, title=None, item_type='comment', url=None, parent=24975161, text='Please patch your systems.')
+Item(by='deadbunny', descendants=None, kids=[24982952], score=None, time=1604368675, title=None, item_type='comment', url=None, parent=24975161, text='Please patch your systems.')

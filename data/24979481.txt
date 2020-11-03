@@ -1,1 +1,1 @@
-Item(by='neilkakkar', descendants=0, kids=None, score=1, time=1604410504, title='If Sapiens were a blog post', item_type='story', url='https://neilkakkar.com/sapiens.html', parent=None, text=None)
+Item(by='neilkakkar', descendants=1, kids=[24979551], score=2, time=1604410504, title='If Sapiens were a blog post', item_type='story', url='https://neilkakkar.com/sapiens.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='xdavidliu', descendants=None, kids=None, score=None, time=1604330344, title=None, item_type='comment', url=None, parent=24968050, text='you had a gmail account since 2001?')
+Item(by='xdavidliu', descendants=None, kids=[24981056], score=None, time=1604330344, title=None, item_type='comment', url=None, parent=24968050, text='you had a gmail account since 2001?')

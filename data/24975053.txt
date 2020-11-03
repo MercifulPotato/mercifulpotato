@@ -1,1 +1,1 @@
-Item(by='kgc', descendants=None, kids=None, score=None, time=1604363306, title=None, item_type='comment', url=None, parent=24970769, text='South Korea&#x27;s approach was different from China&#x27;s and relied heavily on widespread testing.')
+Item(by='kgc', descendants=None, kids=[24981363], score=None, time=1604363306, title=None, item_type='comment', url=None, parent=24970769, text='South Korea&#x27;s approach was different from China&#x27;s and relied heavily on widespread testing.')

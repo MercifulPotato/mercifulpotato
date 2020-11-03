@@ -1,0 +1,1 @@
+Item(by='msoad', descendants=None, kids=None, score=None, time=1604419890, title=None, item_type='comment', url=None, parent=24980880, text='Wish they could simply disable this behavior! Or at least sandbox those scripts like Deno so if post install needs network or disk access, user has to specify a flag when installing')

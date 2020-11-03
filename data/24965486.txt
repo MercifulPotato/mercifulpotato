@@ -1,1 +1,1 @@
-Item(by='slimsag', descendants=None, kids=None, score=None, time=1604301945, title=None, item_type='comment', url=None, parent=24965471, text='What do you do as a programmer in film sound? How did you get into that? Sounds very niche&#x2F;interesting')
+Item(by='slimsag', descendants=None, kids=[24982127], score=None, time=1604301945, title=None, item_type='comment', url=None, parent=24965471, text='What do you do as a programmer in film sound? How did you get into that? Sounds very niche&#x2F;interesting')

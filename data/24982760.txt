@@ -1,0 +1,1 @@
+Item(by='jhallenworld', descendants=None, kids=[24983001], score=None, time=1604430007, title=None, item_type='comment', url=None, parent=24982136, text='Is anybody having success using ECP5 (not -5G) at 1.25 GHz for 1000BASE-X Gigabit Ethernet?  I&#x27;m suspecting that the serdes has locking problems at these lower speeds.')

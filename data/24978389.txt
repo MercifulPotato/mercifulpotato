@@ -1,1 +1,1 @@
-Item(by='kkapelon', descendants=None, kids=None, score=None, time=1604400703, title=None, item_type='comment', url=None, parent=24978112, text='All people that don&#x27;t have a private registry mirror setup.<p>Especially in CI pipelines that like to rebuild images from scratch.')
+Item(by='kkapelon', descendants=None, kids=[24981396], score=None, time=1604400703, title=None, item_type='comment', url=None, parent=24978112, text='All people that don&#x27;t have a private registry mirror setup.<p>Especially in CI pipelines that like to rebuild images from scratch.')

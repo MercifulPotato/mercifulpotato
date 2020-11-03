@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=None, score=None, time=1604436165, title=None, item_type='comment', url=None, parent=24983723, text='The point of my remark here is we aren&#x27;t talking about rendering text along a path or whatever. We&#x27;re talking about opening a file and parsing a binary format, which is in most use cases not at all performance-sensitive.')

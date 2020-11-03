@@ -1,1 +1,1 @@
-Item(by='0-_-0', descendants=None, kids=None, score=None, time=1604402262, title=None, item_type='comment', url=None, parent=24977306, text='In your example it&#x27;s not possible to increase supply in response to increased demand.')
+Item(by='0-_-0', descendants=None, kids=[24981069], score=None, time=1604402262, title=None, item_type='comment', url=None, parent=24977306, text='In your example it&#x27;s not possible to increase supply in response to increased demand.')

@@ -1,1 +1,1 @@
-Item(by='andromeduck', descendants=None, kids=None, score=None, time=1604394700, title=None, item_type='comment', url=None, parent=24976310, text='How are you going to run a GPU sim on a bunch of meat?')
+Item(by='andromeduck', descendants=None, kids=[24979847], score=None, time=1604394700, title=None, item_type='comment', url=None, parent=24976310, text='How are you going to run a GPU sim on a bunch of meat?')

@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=None, score=None, time=1604433248, title=None, item_type='comment', url=None, parent=24978924, text='thread-per core with userland coroutine scheduling is very much an erlang thing since... the late 1980s (though erlang is much, much more powerful than just that).')

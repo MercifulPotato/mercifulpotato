@@ -1,0 +1,1 @@
+Item(by='im3w1l', descendants=None, kids=None, score=None, time=1604421725, title=None, item_type='comment', url=None, parent=24981099, text='The issue is in the bindings, which necessarily call libpng in an unsafe way. But if you use known-good bindings it should be prevented. Or if you use a native memory safe library for that matter.')

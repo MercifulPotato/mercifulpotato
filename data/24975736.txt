@@ -1,1 +1,1 @@
-Item(by='arp242', descendants=None, kids=None, score=None, time=1604370091, title=None, item_type='comment', url=None, parent=24967192, text='My great-grandfather wasn&#x27;t deployed. Anne Frank wasn&#x27;t deployed. They were just regular citizens.')
+Item(by='arp242', descendants=None, kids=[24982138], score=None, time=1604370091, title=None, item_type='comment', url=None, parent=24967192, text='My great-grandfather wasn&#x27;t deployed. Anne Frank wasn&#x27;t deployed. They were just regular citizens.')

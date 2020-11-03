@@ -1,0 +1,1 @@
+Item(by='jamesgeck0', descendants=None, kids=[24983132], score=None, time=1604428976, title=None, item_type='comment', url=None, parent=24981380, text='Flutter on the web is more complicated than just a canvas element. The project has a fair amount of effort put into a11y on mobile; I’d be really surprised if the web output isn’t also accessible.')

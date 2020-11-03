@@ -1,1 +1,1 @@
-Item(by='emrehan', descendants=0, kids=None, score=1, time=1604409423, title='Secure Phone Series: Device Security', item_type='story', url='https://copperhead.co/blog/secure-phone-series-device-security/', parent=None, text=None)
+Item(by='emrehan', descendants=33, kids=[24979897, 24982215, 24980017, 24981308, 24981448, 24979890, 24980106, 24980758, 24981878, 24981881, 24981705, 24979797], score=30, time=1604409423, title='Secure Phone Series: Device Security', item_type='story', url='https://copperhead.co/blog/secure-phone-series-device-security/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='wolfgke', descendants=None, kids=[24980718], score=None, time=1604418228, title=None, item_type='comment', url=None, parent=24980542, text='GPG signature only ensures that the package was signed by the owner of the key. It does not by itself ensure that the owner of the key is who he claims to be.')

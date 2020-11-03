@@ -1,1 +1,1 @@
-Item(by='dimitrios1', descendants=None, kids=None, score=None, time=1604369290, title=None, item_type='comment', url=None, parent=24975335, text='Save for Erlang and Elixir, this tends to be the case with ML-family FP languages, not so much with LISPs, in my opinion of course.')
+Item(by='dimitrios1', descendants=None, kids=[24980078], score=None, time=1604369290, title=None, item_type='comment', url=None, parent=24975335, text='Save for Erlang and Elixir, this tends to be the case with ML-family FP languages, not so much with LISPs, in my opinion of course.')

@@ -1,1 +1,1 @@
-Item(by='tehlike', descendants=4, kids=[24979333, 24979376], score=26, time=1604379829, title='Kraken – P2P Docker Registry', item_type='story', url='https://github.com/uber/kraken', parent=None, text=None)
+Item(by='tehlike', descendants=8, kids=[24979376, 24979333, 24980370], score=70, time=1604379829, title='Kraken – P2P Docker Registry', item_type='story', url='https://github.com/uber/kraken', parent=None, text=None)

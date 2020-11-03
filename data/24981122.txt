@@ -1,0 +1,1 @@
+Item(by='bryanrasmussen', descendants=None, kids=[24981292], score=None, time=1604421092, title=None, item_type='comment', url=None, parent=24981084, text='try npm install --ignore-scripts when first installing<p>if problem, evaluate if you need to install that component and if look at the script.')

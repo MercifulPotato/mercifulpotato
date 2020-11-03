@@ -1,1 +1,1 @@
-Item(by='nix23', descendants=None, kids=None, score=None, time=1604406302, title=None, item_type='comment', url=None, parent=24976928, text='&gt;carefully designed system<p>Ehm...really? Are you making fun of us?')
+Item(by='nix23', descendants=None, kids=[24980499], score=None, time=1604406302, title=None, item_type='comment', url=None, parent=24976928, text='&gt;carefully designed system<p>Ehm...really? Are you making fun of us?')

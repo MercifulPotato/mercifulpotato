@@ -1,0 +1,1 @@
+Item(by='withinboredom', descendants=None, kids=None, score=None, time=1604429568, title=None, item_type='comment', url=None, parent=24980187, text='Does anyone actually trust their CI for running PRs on a public repo (in repo or forks)? I was taught from my first forays into commercial software never to trust CI&#x27;s until after a review (even if it&#x27;s another coworker).')

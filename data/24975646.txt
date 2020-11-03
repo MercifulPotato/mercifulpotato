@@ -1,1 +1,1 @@
-Item(by='jameshart', descendants=None, kids=None, score=None, time=1604368996, title=None, item_type='comment', url=None, parent=24964631, text='Are you.... asserting that it&#x27;s impossible to make a program that handles interactivity... using functional programming?')
+Item(by='jameshart', descendants=None, kids=[24981269], score=None, time=1604368996, title=None, item_type='comment', url=None, parent=24964631, text='Are you.... asserting that it&#x27;s impossible to make a program that handles interactivity... using functional programming?')

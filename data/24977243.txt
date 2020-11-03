@@ -1,1 +1,1 @@
-Item(by='kitd', descendants=None, kids=None, score=None, time=1604387961, title=None, item_type='comment', url=None, parent=24974284, text='As a layman, I found &quot;The Gene Machine&quot; by Matt Ridley a fascinating exposition on how &#x27;mechanical&#x27; genetics can be.')
+Item(by='kitd', descendants=None, kids=[24980074], score=None, time=1604387961, title=None, item_type='comment', url=None, parent=24974284, text='As a layman, I found &quot;The Gene Machine&quot; by Matt Ridley a fascinating exposition on how &#x27;mechanical&#x27; genetics can be.')

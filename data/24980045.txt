@@ -1,0 +1,1 @@
+Item(by='nitrogen', descendants=None, kids=None, score=None, time=1604414770, title=None, item_type='comment', url=None, parent=24978176, text='On Linux it should be possible to see if something is recording through PulseAudio using its command line tools, and ALSA&#x2F;OSS use could be detected with lsof.')

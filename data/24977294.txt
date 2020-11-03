@@ -1,1 +1,1 @@
-Item(by='poga', descendants=0, kids=None, score=3, time=1604388609, title='Racket v7.9, with parallel garbage collection', item_type='story', url='https://blog.racket-lang.org/2020/11/racket-v7-9.html', parent=None, text=None)
+Item(by='poga', descendants=2, kids=[24981714], score=20, time=1604388609, title='Racket v7.9, with parallel garbage collection', item_type='story', url='https://blog.racket-lang.org/2020/11/racket-v7-9.html', parent=None, text=None)

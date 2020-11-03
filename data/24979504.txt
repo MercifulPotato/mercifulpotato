@@ -1,1 +1,1 @@
-Item(by='JoeAltmaier', descendants=None, kids=None, score=None, time=1604410626, title=None, item_type='comment', url=None, parent=24979496, text='It&#x27;d have been little different if there were a dozen of these companies, instead of a near-monopoly?')
+Item(by='JoeAltmaier', descendants=None, kids=[24980711], score=None, time=1604410626, title=None, item_type='comment', url=None, parent=24979496, text='It&#x27;d have been little different if there were a dozen of these companies, instead of a near-monopoly?')

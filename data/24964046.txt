@@ -1,1 +1,1 @@
-Item(by='growthunter', descendants=None, kids=None, score=None, time=1604279783, title=None, item_type='comment', url=None, parent=24958856, text='Its called validation. A lot of successful companies are doing it. Zappos by Tony Hsieh is one example that comes to mind.')
+Item(by='growthunter', descendants=None, kids=[24982916], score=None, time=1604279783, title=None, item_type='comment', url=None, parent=24958856, text='Its called validation. A lot of successful companies are doing it. Zappos by Tony Hsieh is one example that comes to mind.')

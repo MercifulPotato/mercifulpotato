@@ -1,0 +1,1 @@
+Item(by='dkarl', descendants=None, kids=None, score=None, time=1604417096, title=None, item_type='comment', url=None, parent=24980293, text='I don&#x27;t know OCaml, so I can&#x27;t give you a great answer, but I know that OCaml has a different type system that has some features that Scala 2 lacks, such as union types.')

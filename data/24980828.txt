@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1604419440, title=None, item_type='comment', url=None, parent=24980484, text='To be fair, concurrent writes do not scale, but single writers multiple readers work just fine, so you only need to an hard partition of writers and can allow all threads (or the appropriate NUMA subset) to access any data.')

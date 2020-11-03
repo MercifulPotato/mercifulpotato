@@ -1,0 +1,1 @@
+Item(by='im3w1l', descendants=None, kids=[24981453], score=None, time=1604422350, title=None, item_type='comment', url=None, parent=24981020, text='One question I have, since the JVM, Flash VM, and also Javascript VM seems to have occasional security issues - how confident are we that rustc bugs wont undermine the security of correctly written rust programs?')

@@ -1,1 +1,1 @@
-Item(by='secondcoming', descendants=None, kids=None, score=None, time=1604412259, title=None, item_type='comment', url=None, parent=24979649, text='I&#x27;m pretty sure the moon is already being bombarded with all sorts of nasty radiation.')
+Item(by='secondcoming', descendants=None, kids=[24979955], score=None, time=1604412259, title=None, item_type='comment', url=None, parent=24979649, text='I&#x27;m pretty sure the moon is already being bombarded with all sorts of nasty radiation.')

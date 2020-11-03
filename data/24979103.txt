@@ -1,1 +1,1 @@
-Item(by='buaiscia', descendants=0, kids=None, score=3, time=1604407475, title='Epic React: Fundamentals. Learning, mistakes and improvements', item_type='story', url='https://buaiscia.github.io/posts/learning-on-epic-react-fundamentals', parent=None, text=None)
+Item(by='buaiscia', descendants=38, kids=[24979922, 24982464, 24981388, 24981516, 24980445, 24982483], score=72, time=1604407475, title='React Fundamentals: What I’m Learning', item_type='story', url='https://buaiscia.github.io/posts/learning-on-epic-react-fundamentals', parent=None, text=None)

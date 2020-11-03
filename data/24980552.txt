@@ -1,0 +1,1 @@
+Item(by='vlang1dot0', descendants=None, kids=[24981003], score=None, time=1604417732, title=None, item_type='comment', url=None, parent=24980371, text='dotnet and Rust are essentially neck and neck on plain text. On any benchmark that actually does work though, dotnet is nowhere to be found (less than half the performance of actix).')

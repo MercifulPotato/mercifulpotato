@@ -1,1 +1,1 @@
-Item(by='JackMorgan', descendants=None, kids=None, score=None, time=1604405513, title=None, item_type='comment', url=None, parent=24976630, text='Rather why not F#, which has all of that but with a fast compiler and is just a superset of OCaml')
+Item(by='JackMorgan', descendants=None, kids=[24979971, 24980044], score=None, time=1604405513, title=None, item_type='comment', url=None, parent=24976630, text='Rather why not F#, which has all of that but with a fast compiler and is just a superset of OCaml')

@@ -1,1 +1,1 @@
-Item(by='pbiggar', descendants=None, kids=None, score=None, time=1604371751, title=None, item_type='comment', url=None, parent=24975823, text='Right, Clojure is dynamically typed, and I&#x27;m not interested in dealing with the challenges of that again (esp nulls).')
+Item(by='pbiggar', descendants=None, kids=[24980864], score=None, time=1604371751, title=None, item_type='comment', url=None, parent=24975823, text='Right, Clojure is dynamically typed, and I&#x27;m not interested in dealing with the challenges of that again (esp nulls).')

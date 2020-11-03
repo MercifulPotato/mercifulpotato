@@ -1,0 +1,1 @@
+Item(by='pbiggar', descendants=None, kids=None, score=None, time=1604425704, title=None, item_type='comment', url=None, parent=24981910, text='No, feature flags are used to wrap an expression and conditionally choose another expression. Its a fancy if expression. In Dark you add one by selecting `add-feature-flag` from the command palette.')

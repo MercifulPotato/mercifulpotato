@@ -1,0 +1,1 @@
+Item(by='deepnotderp', descendants=None, kids=[24983475, 24982684], score=None, time=1604428973, title=None, item_type='comment', url=None, parent=24982273, text='This is not true.<p>Consider the two sequences:<p>1 2 3 4 5 6<p>And<p>6 4 6 3 8 2<p>Do these sequences <i>really</i> have equivalent entropy? Welcome to algorithmic information theory :)')
