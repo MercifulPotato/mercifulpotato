@@ -1,0 +1,1 @@
+Item(by='ing33k', descendants=None, kids=None, score=None, time=1604408574, title=None, item_type='comment', url=None, parent=24978792, text='I am using Rancher and it has option to configure private registries. I cannot use a user&#x2F;password combo to login to the registry without using aws command.')

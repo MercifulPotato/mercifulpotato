@@ -1,1 +1,1 @@
-Item(by='Cthulhu_', descendants=None, kids=None, score=None, time=1604391141, title=None, item_type='comment', url=None, parent=24977356, text='It makes me think of the demoscene, that is doing things like getting 3D graphics on the Commodore or whatever it was.')
+Item(by='Cthulhu_', descendants=None, kids=[24979217, 24978206], score=None, time=1604391141, title=None, item_type='comment', url=None, parent=24977356, text='It makes me think of the demoscene, that is doing things like getting 3D graphics on the Commodore or whatever it was.')

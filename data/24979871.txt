@@ -1,0 +1,1 @@
+Item(by='jcranmer', descendants=None, kids=None, score=None, time=1604413455, title=None, item_type='comment', url=None, parent=24977955, text='&gt; There is no IPC within a typical glib app.<p>Except for anything to do with the UI, although admittedly, the details of this is usually hidden within the relevant libraries.')

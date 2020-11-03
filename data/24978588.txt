@@ -1,0 +1,1 @@
+Item(by='diegoperini', descendants=None, kids=[24978894], score=None, time=1604402512, title=None, item_type='comment', url=None, parent=24963742, text='Honest question:<p>Is there a type-safe way of communicating across microservices without duplicating verification logic, writing extra layers for the protocol overhead and conceding to more cognitive load during programming?')

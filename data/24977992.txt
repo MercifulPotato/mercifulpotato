@@ -1,0 +1,1 @@
+Item(by='jleahy', descendants=None, kids=None, score=None, time=1604396117, title=None, item_type='comment', url=None, parent=24976347, text='Even if you pretend it’s a few values (which it’s not, there are a lot of floats), this would be dramatically slower due to the cache miss involved.')

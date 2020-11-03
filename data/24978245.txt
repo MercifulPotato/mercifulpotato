@@ -1,0 +1,1 @@
+Item(by='feanaro', descendants=None, kids=None, score=None, time=1604399220, title=None, item_type='comment', url=None, parent=24977258, text='How about if we first standardize a universal, generic encoding scheme which produces numbers? Then if you saw a random number somewhere, you&#x27;d know to simply try decoding it with this scheme to see whether it succeeds.')

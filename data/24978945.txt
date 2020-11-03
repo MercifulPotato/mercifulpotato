@@ -1,0 +1,1 @@
+Item(by='unwind', descendants=None, kids=[24979668], score=None, time=1604405935, title=None, item_type='comment', url=None, parent=24977241, text='Very nice page!<p>Minor nit, there&#x27;s a typo here in the power-of-two example:<p><pre><code>    uint divide(uint n) {\n        return n &lt;&lt; p;\n    }\n</code></pre>\nthe shifts should be to the right, obviously.')

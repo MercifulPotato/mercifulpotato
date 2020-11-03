@@ -1,1 +1,1 @@
-Item(by='nextos', descendants=None, kids=None, score=None, time=1604369538, title=None, item_type='comment', url=None, parent=24972733, text='I meant in terms of quality.')
+Item(by='nextos', descendants=None, kids=[24979412], score=None, time=1604369538, title=None, item_type='comment', url=None, parent=24972733, text='I meant in terms of quality.')

@@ -1,0 +1,1 @@
+Item(by='smcl', descendants=None, kids=None, score=None, time=1604391936, title=None, item_type='comment', url=None, parent=24976160, text='iirc Quake 3 required a 3D accelerator and didn&#x27;t support software rendering - but this was before graphics cards supported hardware T&amp;L so you&#x27;re right those lighting calcs would be performed on the CPU')

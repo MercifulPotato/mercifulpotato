@@ -1,1 +1,1 @@
-Item(by='Semaphor', descendants=None, kids=None, score=None, time=1604371305, title=None, item_type='comment', url=None, parent=24975343, text='All the tracking is far more involved than cookies though.')
+Item(by='Semaphor', descendants=None, kids=[24978429], score=None, time=1604371305, title=None, item_type='comment', url=None, parent=24975343, text='All the tracking is far more involved than cookies though.')

@@ -1,0 +1,1 @@
+Item(by='some_furry', descendants=None, kids=[24978520], score=None, time=1604400021, title=None, item_type='comment', url=None, parent=24978070, text='Yes, that&#x27;s the point though: To make DKIM not serve as a non-repudiation mechanism. It forces actors to go through other notarization steps instead of relying on DKIM.')

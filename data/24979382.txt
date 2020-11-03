@@ -1,0 +1,1 @@
+Item(by='kitten_mittens_', descendants=None, kids=None, score=None, time=1604409799, title=None, item_type='comment', url=None, parent=24979359, text='In browser JS can drop down to the old Promise callbacks (.then) to avoid coloring synchronous callers.')

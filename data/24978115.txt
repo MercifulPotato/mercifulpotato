@@ -1,0 +1,1 @@
+Item(by='trasz', descendants=None, kids=None, score=None, time=1604397422, title=None, item_type='comment', url=None, parent=24977606, text='From what I understand, with qemu-usermode you&#x27;re still risking incompatibilities, as QEmu needs to be able to handle the syscalls to translate (or &#x27;transmarshal&#x27;, if that&#x27;s a word) each of the syscalls.')

@@ -1,1 +1,1 @@
-Item(by='TheGuyWhoCodes', descendants=0, kids=None, score=4, time=1604368905, title='AWS GPU-Equipped EC2 P4 (Nvidia A100)', item_type='story', url='https://aws.amazon.com/blogs/aws/new-gpu-equipped-ec2-p4-instances-for-machine-learning-hpc/', parent=None, text=None)
+Item(by='TheGuyWhoCodes', descendants=0, kids=None, score=5, time=1604368905, title='AWS GPU-Equipped EC2 P4 (Nvidia A100)', item_type='story', url='https://aws.amazon.com/blogs/aws/new-gpu-equipped-ec2-p4-instances-for-machine-learning-hpc/', parent=None, text=None)

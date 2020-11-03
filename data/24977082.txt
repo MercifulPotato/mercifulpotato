@@ -1,1 +1,1 @@
-Item(by='hinkley', descendants=None, kids=None, score=None, time=1604386211, title=None, item_type='comment', url=None, parent=24976669, text='These trees were already 8+-10 inches in diameter. Wouldn’t you normally do the thinning much sooner?')
+Item(by='hinkley', descendants=None, kids=[24977797], score=None, time=1604386211, title=None, item_type='comment', url=None, parent=24976669, text='These trees were already 8+-10 inches in diameter. Wouldn’t you normally do the thinning much sooner?')

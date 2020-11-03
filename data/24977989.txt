@@ -1,0 +1,1 @@
+Item(by='danielheath', descendants=None, kids=None, score=None, time=1604396083, title=None, item_type='comment', url=None, parent=24977864, text='Threads are still going to make syscalls into kernel code, so... not as much, no.')

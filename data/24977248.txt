@@ -1,1 +1,1 @@
-Item(by='jek0', descendants=None, kids=None, score=None, time=1604388043, title=None, item_type='comment', url=None, parent=24976713, text='&quot;vim only provides basic text editing functionality by default&quot;<p>It looks like someone has never read the vim manual.')
+Item(by='jek0', descendants=None, kids=[24977540], score=None, time=1604388043, title=None, item_type='comment', url=None, parent=24976713, text='&quot;vim only provides basic text editing functionality by default&quot;<p>It looks like someone has never read the vim manual.')

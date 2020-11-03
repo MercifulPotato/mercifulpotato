@@ -1,0 +1,1 @@
+Item(by='Paradigma11', descendants=None, kids=None, score=None, time=1604398154, title=None, item_type='comment', url=None, parent=24977151, text='In F# you have List&lt;&#x27;a&gt; but you cant have a single map operation abstracting over Lists, Arrays, Options..... so they have to be implemented separately Option.map, Array.map.....')

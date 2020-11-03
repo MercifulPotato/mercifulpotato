@@ -1,0 +1,1 @@
+Item(by='Aldipower', descendants=None, kids=[24979378], score=None, time=1604408833, title=None, item_type='comment', url=None, parent=24978695, text='This looks very promising! Do you think it is a good idea to install the development environment in a lxd container and run it in production? Because I could not find any documentation for self-hosting it. Just the heruko docs..')

@@ -1,1 +1,1 @@
-Item(by='DaiPlusPlus', descendants=None, kids=None, score=None, time=1604358508, title=None, item_type='comment', url=None, parent=24967562, text='The manifest is stored as a Win32 Resource, any resource-editor will work. I used Visual Studio (File &gt; Open &gt; EXE).')
+Item(by='DaiPlusPlus', descendants=None, kids=[24979115], score=None, time=1604358508, title=None, item_type='comment', url=None, parent=24967562, text='The manifest is stored as a Win32 Resource, any resource-editor will work. I used Visual Studio (File &gt; Open &gt; EXE).')

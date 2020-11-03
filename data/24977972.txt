@@ -1,0 +1,1 @@
+Item(by='joshlk', descendants=None, kids=None, score=None, time=1604395852, title=None, item_type='comment', url=None, parent=24975421, text='Yes - you can use nested dataclasses. But you will loose some of the nice features')

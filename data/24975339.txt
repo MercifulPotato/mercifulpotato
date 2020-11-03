@@ -1,1 +1,1 @@
-Item(by='jdanil', descendants=6, kids=[24976546, 24976512, 24976574], score=24, time=1604366024, title='Libyear – a simple measure of software dependency freshness', item_type='story', url='https://libyear.com/', parent=None, text=None)
+Item(by='jdanil', descendants=15, kids=[24979543, 24976546, 24977551, 24977555, 24976512, 24976574], score=45, time=1604366024, title='Libyear – a simple measure of software dependency freshness', item_type='story', url='https://libyear.com/', parent=None, text=None)

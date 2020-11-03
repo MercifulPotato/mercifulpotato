@@ -1,0 +1,1 @@
+Item(by='shakna', descendants=None, kids=None, score=None, time=1604393731, title=None, item_type='comment', url=None, parent=24977678, text='I run MicroPython on a half dozen of my ESPs.<p>Being able to drop into REPL and rewrite it is a super power. And while MicroPython doesn&#x27;t tend to come with every library that Python does, you can generally install them via pip.')

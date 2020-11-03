@@ -1,0 +1,1 @@
+Item(by='collyw', descendants=None, kids=[24979189], score=None, time=1604399776, title=None, item_type='comment', url=None, parent=24975516, text='If you have a high availability system, then one whole monolith instance going down is going to have less effect than one crucial micro-service going down.')

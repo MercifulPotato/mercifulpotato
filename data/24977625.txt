@@ -1,0 +1,1 @@
+Item(by='DoingIsLearning', descendants=None, kids=None, score=None, time=1604392163, title=None, item_type='comment', url=None, parent=24977533, text='Another &#x27;niche&#x27; use case is doing DSP calculations on an FPGA. If you can accept the trade-off of some degree of error with fixed-point, you can have very fast and heavily parallelized implementations.')

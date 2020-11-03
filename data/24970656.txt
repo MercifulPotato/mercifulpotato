@@ -1,1 +1,1 @@
-Item(by='muststopmyths', descendants=None, kids=None, score=None, time=1604338301, title=None, item_type='comment', url=None, parent=24967619, text='&gt;&quot;Time for a decentralized version control system?&quot;<p>A GitTorrent, if you will.')
+Item(by='muststopmyths', descendants=None, kids=[24978723], score=None, time=1604338301, title=None, item_type='comment', url=None, parent=24967619, text='&gt;&quot;Time for a decentralized version control system?&quot;<p>A GitTorrent, if you will.')

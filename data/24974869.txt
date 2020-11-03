@@ -1,1 +1,1 @@
-Item(by='yet-another-tim', descendants=0, kids=None, score=7, time=1604361280, title='Levus Zero Gravity Ergonomic Workstation', item_type='story', url='https://levus.co/', parent=None, text=None)
+Item(by='yet-another-tim', descendants=2, kids=[24979349, 24977565], score=10, time=1604361280, title='Levus Zero Gravity Ergonomic Workstation', item_type='story', url='https://levus.co/', parent=None, text=None)

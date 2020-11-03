@@ -1,0 +1,1 @@
+Item(by='nukifw', descendants=None, kids=None, score=None, time=1604410527, title=None, item_type='comment', url=None, parent=24975475, text='He&#x27;s talking about functor from OCaml and SML which are basically a function in the module level. So a module which take other modules as arguments and produce a new module.')

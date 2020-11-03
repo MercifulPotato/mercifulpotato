@@ -1,1 +1,1 @@
-Item(by='drinkwell', descendants=None, kids=None, score=None, time=1604365847, title=None, item_type='comment', url=None, parent=24975252, text='Yeah, shouldn&#x27;t it be &#x27;fast reciprocal square root&#x27;?')
+Item(by='drinkwell', descendants=None, kids=[24977960], score=None, time=1604365847, title=None, item_type='comment', url=None, parent=24975252, text='Yeah, shouldn&#x27;t it be &#x27;fast reciprocal square root&#x27;?')

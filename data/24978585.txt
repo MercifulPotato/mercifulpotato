@@ -1,0 +1,1 @@
+Item(by='tastyminerals2', descendants=None, kids=None, score=None, time=1604402487, title=None, item_type='comment', url=None, parent=24977460, text='This is not an excuse for an editor being claimed &quot;fast&quot;. Textadept is written in C and is also very fast but has the exact same issue -- choking on huge files when Vim and others are able to handle it.')
