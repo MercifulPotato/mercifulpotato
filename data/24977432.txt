@@ -1,0 +1,1 @@
+Item(by='techsin101', descendants=None, kids=None, score=None, time=1604390198, title=None, item_type='comment', url=None, parent=24940676, text='css selector aren&#x27;t alternative to xpath, alternative would be to write it out yourself in js, sort of entire tree parsing algo. there are times when this is the only option when scrapping.')

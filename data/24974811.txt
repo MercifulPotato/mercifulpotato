@@ -1,1 +1,1 @@
-Item(by='moonbug', descendants=None, kids=None, score=None, time=1604360773, title=None, item_type='comment', url=None, parent=24969934, text='If you believe that, I&#x27;ve got a vintage Allegro to sell you.')
+Item(by='moonbug', descendants=None, kids=[24976809], score=None, time=1604360773, title=None, item_type='comment', url=None, parent=24969934, text='If you believe that, I&#x27;ve got a vintage Allegro to sell you.')

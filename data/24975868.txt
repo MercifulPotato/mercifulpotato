@@ -1,0 +1,1 @@
+Item(by='TwoBit', descendants=None, kids=[24976552, 24976889], score=None, time=1604371771, title=None, item_type='comment', url=None, parent=24975534, text='I really wish C and C++ had an explicit type punning operator. They are systems programming languages and this is very often needed.')

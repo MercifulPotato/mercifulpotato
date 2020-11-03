@@ -1,0 +1,1 @@
+Item(by='nine_k', descendants=None, kids=None, score=None, time=1604370549, title=None, item_type='comment', url=None, parent=24975513, text='Good thing if your data fit into a single database; sometimes they do not, because they are too big.<p>OTOH you can often export the data in different, more appropriate  ways to make your joins more efficient.')

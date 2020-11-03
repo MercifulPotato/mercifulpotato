@@ -1,0 +1,1 @@
+Item(by='zyedidia', descendants=None, kids=None, score=None, time=1604387432, title=None, item_type='comment', url=None, parent=24977090, text='Yeah that&#x27;s a drawback -- multi-cursors will be displayed as blocks regardless. As far as I know there is no way to solve that, but using block cursors for multi-cursor operations isn&#x27;t that bad.')

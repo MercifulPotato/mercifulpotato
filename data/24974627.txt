@@ -1,1 +1,1 @@
-Item(by='romanovcode', descendants=None, kids=None, score=None, time=1604359175, title=None, item_type='comment', url=None, parent=24972999, text='Closed Source.')
+Item(by='romanovcode', descendants=None, kids=[24976629], score=None, time=1604359175, title=None, item_type='comment', url=None, parent=24972999, text='Closed Source.')

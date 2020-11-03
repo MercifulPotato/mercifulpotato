@@ -1,1 +1,1 @@
-Item(by='question000', descendants=None, kids=None, score=None, time=1604349271, title=None, item_type='comment', url=None, parent=24972394, text='Americans love labor unions it&#x27;s just that you can get fired for supporting them so people have to remain silent.')
+Item(by='question000', descendants=None, kids=[24976016], score=None, time=1604349271, title=None, item_type='comment', url=None, parent=24972394, text='Americans love labor unions it&#x27;s just that you can get fired for supporting them so people have to remain silent.')

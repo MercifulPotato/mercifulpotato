@@ -1,1 +1,1 @@
-Item(by='gaius_baltar', descendants=0, kids=None, score=3, time=1604346170, title='Git-bug: Distributed, offline-first bug tracker embedded in Git, with bridges', item_type='story', url='https://github.com/MichaelMure/git-bug.git', parent=None, text=None)
+Item(by='gaius_baltar', descendants=0, kids=None, score=4, time=1604346170, title='Git-bug: Distributed, offline-first bug tracker embedded in Git, with bridges', item_type='story', url='https://github.com/MichaelMure/git-bug.git', parent=None, text=None)

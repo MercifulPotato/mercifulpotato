@@ -1,1 +1,1 @@
-Item(by='m463', descendants=None, kids=None, score=None, time=1604362132, title=None, item_type='comment', url=None, parent=24972156, text='I believe the Russians have some pretty amazing stations.')
+Item(by='m463', descendants=None, kids=[24975745], score=None, time=1604362132, title=None, item_type='comment', url=None, parent=24972156, text='I believe the Russians have some pretty amazing stations.')

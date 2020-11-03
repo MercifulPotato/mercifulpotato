@@ -1,0 +1,1 @@
+Item(by='sharpneli', descendants=None, kids=None, score=None, time=1604389160, title=None, item_type='comment', url=None, parent=24975611, text='Linux is written in C. In C99 and later type punning trough unions is well defined operation. No issues there.<p>It’s C++ that’s lacking this feature. Not C.')

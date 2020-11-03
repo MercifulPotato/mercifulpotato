@@ -1,0 +1,1 @@
+Item(by='enriquto', descendants=None, kids=None, score=None, time=1604384245, title=None, item_type='comment', url=None, parent=24975868, text='Casting pointers in C used to work back in the day.  It still works in most cases (except with aggressive optimization options), but it may may make some people uneasy.')

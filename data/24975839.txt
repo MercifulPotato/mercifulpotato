@@ -1,1 +1,1 @@
-Item(by='tolbish', descendants=None, kids=None, score=None, time=1604371409, title=None, item_type='comment', url=None, parent=24975619, text='No engineer is an island. Engineers eventually need to work closely with salespeople, testers, and other engineers. It&#x27;s much easier to work with a human being in the flesh than an enigma through a screen for many businesses.')
+Item(by=None, descendants=None, kids=None, score=None, time=1604371409, title=None, item_type='comment', url=None, parent=24975619, text=None)

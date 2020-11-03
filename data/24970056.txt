@@ -1,1 +1,1 @@
-Item(by='unnouinceput', descendants=None, kids=None, score=None, time=1604335564, title=None, item_type='comment', url=None, parent=24967631, text='My point was about &quot;best games of all time&quot;. While Colonization is a good game, Heroes is the best in TBS games.')
+Item(by='unnouinceput', descendants=None, kids=[24977246], score=None, time=1604335564, title=None, item_type='comment', url=None, parent=24967631, text='My point was about &quot;best games of all time&quot;. While Colonization is a good game, Heroes is the best in TBS games.')

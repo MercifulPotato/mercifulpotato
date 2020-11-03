@@ -1,1 +1,1 @@
-Item(by='geerlingguy', descendants=3, kids=[24974367, 24974289], score=2, time=1604356471, title='The Raspberry Pi 400 can be overclocked to 2.2 GHz', item_type='story', url='https://www.jeffgeerling.com/blog/2020/raspberry-pi-400-can-be-overclocked-22-ghz', parent=None, text=None)
+Item(by='geerlingguy', descendants=3, kids=[24974367, 24974289], score=3, time=1604356471, title='The Raspberry Pi 400 can be overclocked to 2.2 GHz', item_type='story', url='https://www.jeffgeerling.com/blog/2020/raspberry-pi-400-can-be-overclocked-22-ghz', parent=None, text=None)

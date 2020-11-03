@@ -1,0 +1,1 @@
+Item(by='laumars', descendants=None, kids=None, score=None, time=1604388394, title=None, item_type='comment', url=None, parent=24976987, text='Indeed. However what is more telling is failing to set up git commit hooks (so one doesn’t need to remember running a formatter) and then randomly mashing the keyboard for the commit message.')

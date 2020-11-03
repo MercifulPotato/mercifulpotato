@@ -1,0 +1,1 @@
+Item(by='shrimpx', descendants=None, kids=[24977029], score=None, time=1604384295, title=None, item_type='comment', url=None, parent=24975516, text='How is a blast radius limited in the case where a bunch of things depend on that microservice? It seems a microservice can have an arbitrarily large blast radius.')
