@@ -1,1 +1,1 @@
-Item(by='chasd00', descendants=None, kids=None, score=None, time=1604443460, title=None, item_type='comment', url=None, parent=24984580, text='that&#x27;s a scary comment. I&#x27;ll remind you that he&#x27;s innocent until someone proves otherwise.')
+Item(by='chasd00', descendants=None, kids=[24991711], score=None, time=1604443460, title=None, item_type='comment', url=None, parent=24984580, text='that&#x27;s a scary comment. I&#x27;ll remind you that he&#x27;s innocent until someone proves otherwise.')

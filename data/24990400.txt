@@ -1,0 +1,1 @@
+Item(by='10000truths', descendants=None, kids=[24992348, 24991134], score=None, time=1604506997, title=None, item_type='comment', url=None, parent=24989196, text='If you really want to go barebones, just mmap &#x2F;dev&#x2F;fb0 and do a memset 0 on the region of screen that you want black. Key&#x2F;pointer events are a matter of reading files from &#x2F;dev&#x2F;input.')

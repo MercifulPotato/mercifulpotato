@@ -1,1 +1,1 @@
-Item(by='ceejayoz', descendants=None, kids=None, score=None, time=1604498008, title=None, item_type='comment', url=None, parent=24988897, text='Why the SEC?<p>The CFPB or the FDIC are far more likely to have jurisdiction here.')
+Item(by='ceejayoz', descendants=None, kids=[24991798, 24989381], score=None, time=1604498008, title=None, item_type='comment', url=None, parent=24988897, text='Why the SEC?<p>The CFPB or the FDIC are far more likely to have jurisdiction here.')

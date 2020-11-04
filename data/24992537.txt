@@ -1,0 +1,1 @@
+Item(by='mc10', descendants=None, kids=None, score=None, time=1604520217, title=None, item_type='comment', url=None, parent=24992223, text='As someone who&#x27;s relatively new to Rust, I&#x27;m curious: what is an example of a situation where someone might lean on Rc&#x2F;Arc as a &quot;band-aid&quot;, and what would be a more &quot;idiomatic&quot;, non-Rc&#x2F;Arc solution?')

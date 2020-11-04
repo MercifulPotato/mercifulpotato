@@ -1,0 +1,1 @@
+Item(by='jph00', descendants=None, kids=None, score=None, time=1604516204, title=None, item_type='comment', url=None, parent=24990658, text='Very nice! One thing I noticed is that `}` (move-next-sibling) doesn&#x27;t work if the next sibling isn&#x27;t visible (i.e. if you&#x27;re not showing the parent). I&#x27;d like `}` and `{` to work regardless of visibility.')

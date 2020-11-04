@@ -1,1 +1,1 @@
-Item(by='nanomonkey', descendants=None, kids=None, score=None, time=1604442005, title=None, item_type='comment', url=None, parent=24983115, text='This was my use case, unfortunately I never figured out how to get my keyboard to accept CapsLock as a Ctrl key.  Any suggestions??!')
+Item(by='nanomonkey', descendants=None, kids=[24990168], score=None, time=1604442005, title=None, item_type='comment', url=None, parent=24983115, text='This was my use case, unfortunately I never figured out how to get my keyboard to accept CapsLock as a Ctrl key.  Any suggestions??!')

@@ -1,1 +1,1 @@
-Item(by='nine_k', descendants=None, kids=None, score=None, time=1604470725, title=None, item_type='comment', url=None, parent=24986469, text='Same applies to winged aircraft.<p>I&#x27;m fine with having dedicated landing pads, much like we have dedicated parking lots.')
+Item(by='nine_k', descendants=None, kids=[24989372], score=None, time=1604470725, title=None, item_type='comment', url=None, parent=24986469, text='Same applies to winged aircraft.<p>I&#x27;m fine with having dedicated landing pads, much like we have dedicated parking lots.')

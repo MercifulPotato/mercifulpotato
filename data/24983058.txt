@@ -1,1 +1,1 @@
-Item(by='drran', descendants=None, kids=None, score=None, time=1604431803, title=None, item_type='comment', url=None, parent=24980601, text='&gt; I regularly run into issue where I get pauses while I type.<p>Close your web browser or install &quot;auto tab discard&quot; plugin.')
+Item(by='drran', descendants=None, kids=[24992311], score=None, time=1604431803, title=None, item_type='comment', url=None, parent=24980601, text='&gt; I regularly run into issue where I get pauses while I type.<p>Close your web browser or install &quot;auto tab discard&quot; plugin.')

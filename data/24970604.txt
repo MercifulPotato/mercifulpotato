@@ -1,1 +1,1 @@
-Item(by='boboboboboboo', descendants=None, kids=None, score=None, time=1604338044, title=None, item_type='comment', url=None, parent=24970040, text='There are very important differences between Biden and Trump. Why do you think there aren’t?')
+Item(by='boboboboboboo', descendants=None, kids=[24972752], score=None, time=1604338044, title=None, item_type='comment', url=None, parent=24970040, text='There are very important differences between Biden and Trump. Why do you think there aren’t?')

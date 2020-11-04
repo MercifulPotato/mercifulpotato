@@ -1,1 +1,1 @@
-Item(by='FireBeyond', descendants=None, kids=None, score=None, time=1604460893, title=None, item_type='comment', url=None, parent=24982286, text='Weren&#x27;t you an attorney for a telco lobbying organization? Seems like that&#x27;s a relevant disclosure, no?')
+Item(by='FireBeyond', descendants=None, kids=[24991146], score=None, time=1604460893, title=None, item_type='comment', url=None, parent=24982286, text='Weren&#x27;t you an attorney for a telco lobbying organization? Seems like that&#x27;s a relevant disclosure, no?')

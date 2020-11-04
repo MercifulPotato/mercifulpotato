@@ -1,0 +1,1 @@
+Item(by='tomas789', descendants=None, kids=None, score=None, time=1604514276, title=None, item_type='comment', url=None, parent=24991570, text='This is my go to framework when doing simple image processing in C++. Most alternatives like OpenCV tend to be more feature-rich but with steeper learning curve. It also has only a few build-time dependencies.')

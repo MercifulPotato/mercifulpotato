@@ -1,1 +1,1 @@
-Item(by='WilTimSon', descendants=None, kids=None, score=None, time=1604490785, title=None, item_type='comment', url=None, parent=24987786, text='Wow, that is stunning. Somehow I never thought about Escher having other works besides the stairs stuff.')
+Item(by='WilTimSon', descendants=None, kids=[24989585], score=None, time=1604490785, title=None, item_type='comment', url=None, parent=24987786, text='Wow, that is stunning. Somehow I never thought about Escher having other works besides the stairs stuff.')

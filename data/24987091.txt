@@ -1,1 +1,1 @@
-Item(by='beerglass', descendants=1, kids=[24988597], score=22, time=1604475607, title='The Two Party Swindle', item_type='story', url='https://www.lesswrong.com/posts/qAJgWCWJJkke4mE8x/the-two-party-swindle', parent=None, text=None)
+Item(by='beerglass', descendants=3, kids=[24988597, 24989748], score=31, time=1604475607, title='The Two Party Swindle', item_type='story', url='https://www.lesswrong.com/posts/qAJgWCWJJkke4mE8x/the-two-party-swindle', parent=None, text=None)

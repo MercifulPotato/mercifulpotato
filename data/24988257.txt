@@ -1,1 +1,1 @@
-Item(by='jermaustin1', descendants=None, kids=None, score=None, time=1604491187, title=None, item_type='comment', url=None, parent=24987018, text='I kept telling them, they are always the last place you look.')
+Item(by=None, descendants=None, kids=None, score=None, time=1604491187, title=None, item_type='comment', url=None, parent=24987018, text=None)

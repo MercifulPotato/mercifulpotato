@@ -1,1 +1,1 @@
-Item(by='poyu', descendants=None, kids=[24985857], score=None, time=1604450554, title=None, item_type='comment', url=None, parent=24983726, text='What’s the reason to avoid class components though? The official tutorial still uses it, though that could just be because it’s outdated?')
+Item(by='poyu', descendants=None, kids=[24990524, 24985857], score=None, time=1604450554, title=None, item_type='comment', url=None, parent=24983726, text='What’s the reason to avoid class components though? The official tutorial still uses it, though that could just be because it’s outdated?')

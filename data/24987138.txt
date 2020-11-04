@@ -1,1 +1,1 @@
-Item(by='vasco', descendants=None, kids=None, score=None, time=1604476446, title=None, item_type='comment', url=None, parent=24986776, text='Where do you propose people leave their kids at when both parents need to work?')
+Item(by='vasco', descendants=None, kids=[24991791], score=None, time=1604476446, title=None, item_type='comment', url=None, parent=24986776, text='Where do you propose people leave their kids at when both parents need to work?')

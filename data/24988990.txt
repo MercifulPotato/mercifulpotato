@@ -1,1 +1,1 @@
-Item(by='pnutjam', descendants=None, kids=None, score=None, time=1604497749, title=None, item_type='comment', url=None, parent=24988779, text='What? That&#x27;s their bread and butter. You wouldn&#x27;t expect a pizza place to give away pizza....')
+Item(by='pnutjam', descendants=None, kids=[24989560, 24989482], score=None, time=1604497749, title=None, item_type='comment', url=None, parent=24988779, text='What? That&#x27;s their bread and butter. You wouldn&#x27;t expect a pizza place to give away pizza....')

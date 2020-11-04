@@ -1,1 +1,1 @@
-Item(by='absolutelyrad', descendants=None, kids=None, score=None, time=1604496872, title=None, item_type='comment', url=None, parent=24988664, text='&gt; <i>Why not just wire the LEDs up to the same power line that goes to the camera?</i><p>You know why.')
+Item(by='absolutelyrad', descendants=None, kids=[24989292, 24989311], score=None, time=1604496872, title=None, item_type='comment', url=None, parent=24988664, text='&gt; <i>Why not just wire the LEDs up to the same power line that goes to the camera?</i><p>You know why.')

@@ -1,0 +1,1 @@
+Item(by='jandeboevrie', descendants=None, kids=None, score=None, time=1604508387, title=None, item_type='comment', url=None, parent=24990466, text='The SCSI controller is less stable (more buggy) than the IDE controller, but glad it works for you! The non fatal errors are okay as well, now time for you to setup a cluster!')

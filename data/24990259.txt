@@ -1,0 +1,1 @@
+Item(by='esarbe', descendants=None, kids=None, score=None, time=1604506154, title=None, item_type='comment', url=None, parent=24988837, text='You still need a JVM, which what the GP is trying to point out (I think...)<p>That said; nowadays you have the Native and JS runtimes as possible targets as well. Scala.js works surprisingly good with very few caveats.')

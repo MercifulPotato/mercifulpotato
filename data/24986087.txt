@@ -1,1 +1,1 @@
-Item(by='delduca', descendants=0, kids=None, score=3, time=1604456451, title='Patching macOS Sketch.App for Unlimited Trial in Ghidra', item_type='story', url='https://duraki.github.io/posts/o/20200214-sketch.app-patch-in-ghidra.html', parent=None, text=None)
+Item(by='delduca', descendants=1, kids=[24989068], score=3, time=1604456451, title='Patching macOS Sketch.App for Unlimited Trial in Ghidra', item_type='story', url='https://duraki.github.io/posts/o/20200214-sketch.app-patch-in-ghidra.html', parent=None, text=None)

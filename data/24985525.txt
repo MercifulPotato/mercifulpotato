@@ -1,1 +1,1 @@
-Item(by='b0afc375b5', descendants=None, kids=None, score=None, time=1604449009, title=None, item_type='comment', url=None, parent=24983888, text='I mean you could say the same for vim, but I still learned it and am now reaping the benefits.')
+Item(by='b0afc375b5', descendants=None, kids=[24991244], score=None, time=1604449009, title=None, item_type='comment', url=None, parent=24983888, text='I mean you could say the same for vim, but I still learned it and am now reaping the benefits.')

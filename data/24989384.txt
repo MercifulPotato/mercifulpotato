@@ -1,0 +1,1 @@
+Item(by='mjgs', descendants=None, kids=None, score=None, time=1604500634, title=None, item_type='comment', url=None, parent=24989212, text='Yeah the way token permissions are implemented totally baffles me every time. I never know if I’m creating a token for read or write or both.')

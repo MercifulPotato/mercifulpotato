@@ -1,0 +1,1 @@
+Item(by='lihaoyi', descendants=None, kids=None, score=None, time=1604506235, title=None, item_type='comment', url=None, parent=24989936, text='You can in fact mix typed and untyped parsing, by having a `ujson.Value` field in the middle of your typed case class or collection. It just works')
