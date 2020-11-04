@@ -1,1 +1,1 @@
-Item(by='nathanvanfleet', descendants=None, kids=None, score=None, time=1604448714, title=None, item_type='comment', url=None, parent=24985289, text='So research is just random shots in the dark? Or is there insights that are then researched and determined to be true or false?')
+Item(by='nathanvanfleet', descendants=None, kids=[24987355], score=None, time=1604448714, title=None, item_type='comment', url=None, parent=24985289, text='So research is just random shots in the dark? Or is there insights that are then researched and determined to be true or false?')

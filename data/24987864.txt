@@ -1,0 +1,1 @@
+Item(by='rdrey', descendants=None, kids=None, score=None, time=1604485862, title=None, item_type='comment', url=None, parent=24985049, text='Just a quick heads up: I&#x27;m a weirdo with WebRTC disabled by default which broke app.paircast.io for me. Because the pricing page embeds pricing from app.paircast.io, that failed for me, too, until I enabled WebRTC.')

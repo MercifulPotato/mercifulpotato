@@ -1,0 +1,1 @@
+Item(by='perfunctory', descendants=None, kids=[24987849], score=None, time=1604479990, title=None, item_type='comment', url=None, parent=24987364, text='The way I understand it, the idea is that widgets don&#x27;t own the state. They are sort of stateless. Your app owns the state.')

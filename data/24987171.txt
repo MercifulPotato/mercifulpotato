@@ -1,0 +1,1 @@
+Item(by='aliakhtar', descendants=None, kids=[24987299, 24987852], score=None, time=1604476771, title=None, item_type='comment', url=None, parent=24986707, text='I have a pretty large codebase written in scala 2.12 or so (whatever the version was around late 2018). I&#x27;d like to migrate it to scala 3. Any ideas how hard it&#x27;ll be?')

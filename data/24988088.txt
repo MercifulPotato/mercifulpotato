@@ -1,0 +1,1 @@
+Item(by='uryga', descendants=None, kids=None, score=None, time=1604488930, title=None, item_type='comment', url=None, parent=24988052, text='honestly, im pretty sure imgui can&#x27;t help you here, i.e. you have to calculate all the necessary sizes&#x2F;positions yourself and tell imgui where everything should be')

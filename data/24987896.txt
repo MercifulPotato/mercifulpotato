@@ -1,0 +1,1 @@
+Item(by='say_it_as_it_is', descendants=None, kids=None, score=None, time=1604486373, title=None, item_type='comment', url=None, parent=24967601, text='I&#x27;d like to understand how the team decided to move all of the BBC services entirely to serverless infrastructure.  How is serverless the best solution for a heavily used platform?      What lead management down this path?')

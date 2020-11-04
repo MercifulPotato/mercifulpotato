@@ -1,1 +1,1 @@
-Item(by='tomatohs', descendants=None, kids=None, score=None, time=1604468494, title=None, item_type='comment', url=None, parent=24986097, text='Why not both?')
+Item(by='tomatohs', descendants=None, kids=[24988005], score=None, time=1604468494, title=None, item_type='comment', url=None, parent=24986097, text='Why not both?')

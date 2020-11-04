@@ -1,0 +1,1 @@
+Item(by='pestouille', descendants=None, kids=None, score=None, time=1604488599, title=None, item_type='comment', url=None, parent=24985765, text='I don&#x27;t think so.\nWaypoint focus on application deployment.\nQovery seems to bring up the complete platform (database, front...) per environment (one environment per branch).')

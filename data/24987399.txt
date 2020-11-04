@@ -1,0 +1,1 @@
+Item(by='ramanova', descendants=None, kids=None, score=None, time=1604479960, title=None, item_type='comment', url=None, parent=24975988, text='Installed from brew and tried to open an html file.\n1. no syntax highlighting\n2. formatting is off (tried with nano - formatting is great)\n3. the cursor moving is not rendered, eventually got lost (bug)')

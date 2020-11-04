@@ -1,1 +1,1 @@
-Item(by='cm2187', descendants=None, kids=None, score=None, time=1604473190, title=None, item_type='comment', url=None, parent=24986527, text='But you only need to break it up. Perhaps that could be achieved?')
+Item(by='cm2187', descendants=None, kids=[24987532], score=None, time=1604473190, title=None, item_type='comment', url=None, parent=24986527, text='But you only need to break it up. Perhaps that could be achieved?')

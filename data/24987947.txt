@@ -1,0 +1,1 @@
+Item(by='andybak', descendants=None, kids=[24988025, 24988053], score=None, time=1604487093, title=None, item_type='comment', url=None, parent=24986908, text='I haven&#x27;t properly thought this through but is here a sense in which the React &quot;one way data flow&quot; paradigm is a case of rediscovering immediate mode GUIs on the web?')

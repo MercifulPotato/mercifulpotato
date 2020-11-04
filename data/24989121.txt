@@ -1,0 +1,1 @@
+Item(by='eznzt', descendants=None, kids=None, score=None, time=1604498688, title=None, item_type='comment', url=None, parent=24988488, text='I see now. That is indeed one of the things I hated about Go, having to reuse err (or maybe, making the mistake of reusing err) several times in a single function.')

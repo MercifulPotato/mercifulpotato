@@ -1,0 +1,1 @@
+Item(by='physicsguy', descendants=None, kids=None, score=None, time=1604492157, title=None, item_type='comment', url=None, parent=24987208, text='The biggest issue is that if you run the command &#x27;docker pull X&#x27;, it counts as a pull even if you already have the up-to-date image, and so it doesn&#x27;t do a download.')

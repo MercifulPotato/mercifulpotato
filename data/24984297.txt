@@ -1,1 +1,1 @@
-Item(by='kubanczyk', descendants=None, kids=None, score=None, time=1604439504, title=None, item_type='comment', url=None, parent=24984226, text='&quot;A language is a dialect with an army and navy.&quot; -- Max Weinreich')
+Item(by='kubanczyk', descendants=None, kids=[24987970], score=None, time=1604439504, title=None, item_type='comment', url=None, parent=24984226, text='&quot;A language is a dialect with an army and navy.&quot; -- Max Weinreich')
