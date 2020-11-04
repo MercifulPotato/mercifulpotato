@@ -1,0 +1,1 @@
+Item(by='ekelsen', descendants=None, kids=None, score=None, time=1604443796, title=None, item_type='comment', url=None, parent=24981805, text='Standard convolutions are not memory bandwidth bound for common sizes&#x2F;shapes.  Convolutions run much faster using the TC than not using them.<p>Depthwise convolutions are different though - they usually are bandwidth bound.')

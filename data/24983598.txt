@@ -1,0 +1,1 @@
+Item(by='duckerude', descendants=None, kids=None, score=None, time=1604435168, title=None, item_type='comment', url=None, parent=24983311, text='I find Termux most useful when I <i>don&#x27;t</i> have connectivity. Two thirds of what I do in Termux could also be done over SSH, but I like keeping it local.')

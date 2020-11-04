@@ -1,0 +1,1 @@
+Item(by='rodgerd', descendants=None, kids=None, score=None, time=1604438148, title=None, item_type='comment', url=None, parent=24981633, text='Even prior to k8s, Red Hat and Cloud Foundry (amongst others) were pitching better container orchestration tooling that Docker offered (e.g. OpenShift 1 wasn&#x27;t based on k8s).')

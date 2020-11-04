@@ -1,1 +1,1 @@
-Item(by='908B64B197', descendants=None, kids=None, score=None, time=1604432416, title=None, item_type='comment', url=None, parent=24982643, text='I keep hearing about telemetry but how bad is it really? Doesn&#x27;t macOS collects some as well?')
+Item(by='908B64B197', descendants=None, kids=[24983874, 24984387], score=None, time=1604432416, title=None, item_type='comment', url=None, parent=24982643, text='I keep hearing about telemetry but how bad is it really? Doesn&#x27;t macOS collects some as well?')

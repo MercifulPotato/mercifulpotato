@@ -1,1 +1,1 @@
-Item(by='tomcam', descendants=None, kids=None, score=None, time=1604429838, title=None, item_type='comment', url=None, parent=24982698, text='Thank you! Was ready to create this site myself. Glad you did a better job. I would love the ability to upload an image as linking to its URL.')
+Item(by='tomcam', descendants=None, kids=[24983623], score=None, time=1604429838, title=None, item_type='comment', url=None, parent=24982698, text='Thank you! Was ready to create this site myself. Glad you did a better job. I would love the ability to upload an image as linking to its URL.')

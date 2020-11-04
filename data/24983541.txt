@@ -1,1 +1,1 @@
-Item(by='nmcain', descendants=None, kids=None, score=None, time=1604434829, title=None, item_type='comment', url=None, parent=24983502, text='Bit of a fun fact, chrome OS is mostly C++ for the GUI.')
+Item(by='nmcain', descendants=None, kids=[24984119], score=None, time=1604434829, title=None, item_type='comment', url=None, parent=24983502, text='Bit of a fun fact, chrome OS is mostly C++ for the GUI.')

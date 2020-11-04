@@ -1,0 +1,1 @@
+Item(by='narism', descendants=0, kids=None, score=1, time=1604451817, title="We're moving Dependency Proxy to Core to help Docker Hub rate limiting issues", item_type='story', url='https://about.gitlab.com/blog/2020/10/30/minor-breaking-change-dependency-proxy/', parent=None, text=None)

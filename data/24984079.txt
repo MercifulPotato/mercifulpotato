@@ -1,0 +1,1 @@
+Item(by='brandontreb', descendants=None, kids=[24984292], score=None, time=1604438196, title=None, item_type='comment', url=None, parent=24982545, text='It&#x27;s crazy that companies are still using SMS for 2FA.  TOTP solves this problem is a much more elegant way and is immune to such attacks.')

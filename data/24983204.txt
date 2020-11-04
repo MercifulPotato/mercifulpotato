@@ -1,1 +1,1 @@
-Item(by='pvaldes', descendants=None, kids=None, score=None, time=1604432585, title=None, item_type='comment', url=None, parent=24981355, text='Yes but that would need a similar planetary alignment I assume. Could a repeater send orders to voyager too?')
+Item(by='pvaldes', descendants=None, kids=[24983793, 24983955], score=None, time=1604432585, title=None, item_type='comment', url=None, parent=24981355, text='Yes but that would need a similar planetary alignment I assume. Could a repeater send orders to voyager too?')

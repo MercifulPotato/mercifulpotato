@@ -1,0 +1,1 @@
+Item(by='scottmcdot', descendants=None, kids=[24985732], score=None, time=1604439450, title=None, item_type='comment', url=None, parent=24984079, text='You might have set up TOTP and removed SMS 2FA on Gmail but don&#x27;t forget to remove your phone number as a recovery method as this can be equally devastating when exploited by SIM Swapping.')

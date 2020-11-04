@@ -1,1 +1,1 @@
-Item(by='EnderNightLord', descendants=None, kids=None, score=None, time=1604389898, title=None, item_type='comment', url=None, parent=24977383, text='&gt; How old was Linus Torvalds when started Linux?<p>He was 21.')
+Item(by='EnderNightLord', descendants=None, kids=[24984743], score=None, time=1604389898, title=None, item_type='comment', url=None, parent=24977383, text='&gt; How old was Linus Torvalds when started Linux?<p>He was 21.')

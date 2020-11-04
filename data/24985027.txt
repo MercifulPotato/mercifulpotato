@@ -1,0 +1,1 @@
+Item(by='nahuel0x', descendants=None, kids=[24985069], score=None, time=1604444403, title=None, item_type='comment', url=None, parent=24984942, text='what about using rust for scripting but compiled to wasm, so beavy can (hot-re)load wasm modules?')

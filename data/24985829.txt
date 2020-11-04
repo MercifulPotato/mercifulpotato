@@ -1,0 +1,1 @@
+Item(by='jacques_chester', descendants=None, kids=None, score=None, time=1604452337, title=None, item_type='comment', url=None, parent=24985123, text='I disagree. You can still apply rules to repo&#x2F;image and have those descend to blobs, just as happens now. If you ask for a blob and have access to repo&#x2F;image with that blob, you see it. Otherwise not.')

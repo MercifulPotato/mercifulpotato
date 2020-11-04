@@ -1,0 +1,1 @@
+Item(by='feiss', descendants=None, kids=[24985076], score=None, time=1604444739, title=None, item_type='comment', url=None, parent=24984647, text='Hi! I just wanted to say that the sub-asset loading feature is really neat! Beautiful way to handle that use case. One question: if you load two sub-assets from the same gltf, is the gltf cached or loaded twice?')

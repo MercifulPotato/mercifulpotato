@@ -1,1 +1,1 @@
-Item(by='projct', descendants=None, kids=[24983606, 24981441], score=None, time=1604422129, title=None, item_type='comment', url=None, parent=24981263, text='I would bet that most libraries chrome uses for file format parsing would not lose any performance at all if rewritten in rust.')
+Item(by='projct', descendants=None, kids=[24981441, 24983606], score=None, time=1604422129, title=None, item_type='comment', url=None, parent=24981263, text='I would bet that most libraries chrome uses for file format parsing would not lose any performance at all if rewritten in rust.')

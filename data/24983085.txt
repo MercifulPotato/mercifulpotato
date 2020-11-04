@@ -1,1 +1,1 @@
-Item(by='brirec', descendants=None, kids=None, score=None, time=1604431925, title=None, item_type='comment', url=None, parent=24982899, text='It’s not <i>that</i> slow...')
+Item(by='brirec', descendants=None, kids=[24983543, 24985727, 24983705], score=None, time=1604431925, title=None, item_type='comment', url=None, parent=24982899, text='It’s not <i>that</i> slow...')

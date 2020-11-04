@@ -1,0 +1,1 @@
+Item(by='gitgud', descendants=None, kids=None, score=None, time=1604448391, title=None, item_type='comment', url=None, parent=24985117, text='Seems a bit redundant to store an audio file in version control which essentially represents a comment...<p>Why not just use a &quot;<i>speech-to-text</i>&quot; software to add documentation?')

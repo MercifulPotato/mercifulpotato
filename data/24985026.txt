@@ -1,0 +1,1 @@
+Item(by='bosswipe', descendants=None, kids=None, score=None, time=1604444394, title=None, item_type='comment', url=None, parent=24984107, text='But Java has interfaces for interacting with the host OS, for example you can create a file by writing `new File(&quot;myfile&quot;).createNewFile()` which makes a Linux call under the hood. Android 11 breaks that File API.')

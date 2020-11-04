@@ -1,1 +1,1 @@
-Item(by='openssl', descendants=None, kids=None, score=None, time=1604280877, title=None, item_type='comment', url=None, parent=24962633, text='USA has your data already (internet cables), why \nsend it to China?<p>Not going to answer the 2nd question for personal reasons.')
+Item(by='openssl', descendants=None, kids=[24985127], score=None, time=1604280877, title=None, item_type='comment', url=None, parent=24962633, text='USA has your data already (internet cables), why \nsend it to China?<p>Not going to answer the 2nd question for personal reasons.')

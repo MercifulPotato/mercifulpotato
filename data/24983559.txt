@@ -1,1 +1,1 @@
-Item(by='quibbler', descendants=None, kids=None, score=None, time=1604434924, title=None, item_type='comment', url=None, parent=24983186, text='How do you create such conditions if you are not the government? Who does the creating?')
+Item(by='quibbler', descendants=None, kids=[24983825], score=None, time=1604434924, title=None, item_type='comment', url=None, parent=24983186, text='How do you create such conditions if you are not the government? Who does the creating?')

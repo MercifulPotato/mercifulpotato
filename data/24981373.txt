@@ -1,1 +1,1 @@
-Item(by='Finage', descendants=0, kids=None, score=2, time=1604422519, title='Real-Time Stock API', item_type='story', url='https://finage.co.uk', parent=None, text=None)
+Item(by='Finage', descendants=1, kids=[24983610], score=2, time=1604422519, title='Real-Time Stock API', item_type='story', url='https://finage.co.uk', parent=None, text=None)

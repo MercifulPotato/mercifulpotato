@@ -1,0 +1,1 @@
+Item(by='_cart', descendants=None, kids=None, score=None, time=1604444982, title=None, item_type='comment', url=None, parent=24984993, text='It should be able to run in a webview via WASM, but im less certain about the java communication part. If its a normal JS interface then you can probably do it.')

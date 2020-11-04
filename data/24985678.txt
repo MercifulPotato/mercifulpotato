@@ -1,0 +1,1 @@
+Item(by='onedr0p', descendants=None, kids=None, score=None, time=1604450599, title=None, item_type='comment', url=None, parent=24983565, text='This. Termux is a great AIO app for a lot of apps available on the Play Store. I use it for running kubectl, ssh, scp, rclone, rsync, etc.. if there is a ARM binary it will most likely run in Termux.')

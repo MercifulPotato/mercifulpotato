@@ -1,0 +1,1 @@
+Item(by='the_duke', descendants=None, kids=None, score=None, time=1604434905, title=None, item_type='comment', url=None, parent=24982134, text='I reported a minor GraphQL API issue a while ago, which was actually my fault (incorrect usage), and received a helpful response within 30 minutes.')

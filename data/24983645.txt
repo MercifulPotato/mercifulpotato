@@ -1,0 +1,1 @@
+Item(by='judge2020', descendants=None, kids=[24983929], score=None, time=1604435546, title=None, item_type='comment', url=None, parent=24982524, text='Sadly tokens you use for Container Registry are full access tokens - they can also be used for everything else in the Digital Ocean API. I don&#x27;t see why DO doesn&#x27;t have scoped token support yet.')

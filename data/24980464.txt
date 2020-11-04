@@ -1,1 +1,1 @@
-Item(by='resotto', descendants=0, kids=None, score=2, time=1604417195, title='Gochk – Static Dependency Analysis Tool for Go Files', item_type='story', url='https://github.com/resotto/gochk', parent=None, text=None)
+Item(by='resotto', descendants=1, kids=[24985596], score=2, time=1604417195, title='Gochk – Static Dependency Analysis Tool for Go Files', item_type='story', url='https://github.com/resotto/gochk', parent=None, text=None)

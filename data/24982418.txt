@@ -1,1 +1,1 @@
-Item(by='swatson741', descendants=0, kids=None, score=2, time=1604427976, title='The HP Garage', item_type='story', url='https://www.hpmuseum.org/garage/garage.htm', parent=None, text=None)
+Item(by='swatson741', descendants=17, kids=[24983979, 24984156, 24985035], score=51, time=1604427976, title='The HP Garage (2009)', item_type='story', url='https://www.hpmuseum.org/garage/garage.htm', parent=None, text=None)

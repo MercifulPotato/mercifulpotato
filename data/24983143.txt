@@ -1,1 +1,1 @@
-Item(by='sixstringtheory', descendants=None, kids=None, score=None, time=1604432288, title=None, item_type='comment', url=None, parent=24983046, text='Minority Report proposed a solution to the automated public retinal scans...')
+Item(by='sixstringtheory', descendants=None, kids=[24984554], score=None, time=1604432288, title=None, item_type='comment', url=None, parent=24983046, text='Minority Report proposed a solution to the automated public retinal scans...')

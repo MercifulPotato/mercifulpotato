@@ -1,0 +1,1 @@
+Item(by='cmwelsh', descendants=None, kids=[24985688], score=None, time=1604447790, title=None, item_type='comment', url=None, parent=24983548, text='Usually when using Java streams, I’m mid-thought and the IDE cannot offer suggestions on my not-yet-syntactically-valid code. I end up typing the whole Collectors part by sheer muscle memory. I think this makes sense.')

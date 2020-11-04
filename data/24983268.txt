@@ -1,0 +1,1 @@
+Item(by='jacques_chester', descendants=None, kids=[24985123], score=None, time=1604433005, title=None, item_type='comment', url=None, parent=24983220, text='I almost mentioned the auth thing but left it out as a bit of an implementation detail.<p>It would not be difficult to map from a digest to a list of repositories.')

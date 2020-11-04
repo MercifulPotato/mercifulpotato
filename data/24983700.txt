@@ -1,0 +1,1 @@
+Item(by='ephimetheus', descendants=None, kids=None, score=None, time=1604435867, title=None, item_type='comment', url=None, parent=24981959, text='Ah, this would make sense. They mean if I put data in the url and retrieve it from there. www.example.com&#x2F;search?q=abcd would be fine in that interpretation.')
