@@ -1,1 +1,1 @@
-Item(by='tomatohs', descendants=None, kids=None, score=None, time=1604451387, title=None, item_type='comment', url=None, parent=24985715, text='The git commit hash is included at the top of every diff in the transcript. You can `git checkout [the hash]` to get the code at that point.')
+Item(by='tomatohs', descendants=None, kids=[24986268], score=None, time=1604451387, title=None, item_type='comment', url=None, parent=24985715, text='The git commit hash is included at the top of every diff in the transcript. You can `git checkout [the hash]` to get the code at that point.')

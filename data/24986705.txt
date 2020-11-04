@@ -1,0 +1,1 @@
+Item(by='fomine3', descendants=None, kids=None, score=None, time=1604469916, title=None, item_type='comment', url=None, parent=24978107, text='IIRC initial LTE (UE category 3) only supports max 100Mbps (on spec) by 15MHz bandwidth. So I had measured max 50Mbps on 75Mbps (on spec, 10MHz) network.')

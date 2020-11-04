@@ -1,1 +1,1 @@
-Item(by='RickJWagner', descendants=0, kids=None, score=4, time=1604452867, title='A68 iceberg on collision path with South Georgia', item_type='story', url='https://www.bbc.com/news/science-environment-54798031', parent=None, text=None)
+Item(by='RickJWagner', descendants=17, kids=[24986565, 24986375, 24986404], score=44, time=1604452867, title='A68 iceberg on collision path with South Georgia', item_type='story', url='https://www.bbc.com/news/science-environment-54798031', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='mooreds', descendants=1, kids=[24985693], score=20, time=1604405160, title='Scary Outage Stories from CTOs', item_type='story', url='https://thenewstack.io/6-scary-outage-stories-from-ctos/', parent=None, text=None)
+Item(by='mooreds', descendants=7, kids=[24986222, 24986723, 24985961, 24985693, 24985812, 24985867], score=58, time=1604405160, title='Scary Outage Stories from CTOs', item_type='story', url='https://thenewstack.io/6-scary-outage-stories-from-ctos/', parent=None, text=None)

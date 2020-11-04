@@ -1,1 +1,1 @@
-Item(by='krzyk', descendants=3, kids=[24985392], score=10, time=1604434877, title='Add Stream.toList() Method [Java]', item_type='story', url='https://mail.openjdk.java.net/pipermail/core-libs-dev/2020-November/070782.html', parent=None, text=None)
+Item(by='krzyk', descendants=3, kids=[24985392], score=12, time=1604434877, title='Add Stream.toList() Method [Java]', item_type='story', url='https://mail.openjdk.java.net/pipermail/core-libs-dev/2020-November/070782.html', parent=None, text=None)

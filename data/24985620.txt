@@ -1,1 +1,1 @@
-Item(by='sam_bristow', descendants=None, kids=None, score=None, time=1604449989, title=None, item_type='comment', url=None, parent=24983483, text='FYI it&#x27;s <i>Claire</i> Wolfe now.')
+Item(by='sam_bristow', descendants=None, kids=[24986645], score=None, time=1604449989, title=None, item_type='comment', url=None, parent=24983483, text='FYI it&#x27;s <i>Claire</i> Wolfe now.')

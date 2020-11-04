@@ -1,1 +1,1 @@
-Item(by='jefftk', descendants=None, kids=None, score=None, time=1604355144, title=None, item_type='comment', url=None, parent=24965496, text='Note that you&#x27;re really complementing WebKit here: alternative browsers on iDevices are just reskinned Safari.')
+Item(by='jefftk', descendants=None, kids=[24986494], score=None, time=1604355144, title=None, item_type='comment', url=None, parent=24965496, text='Note that you&#x27;re really complementing WebKit here: alternative browsers on iDevices are just reskinned Safari.')

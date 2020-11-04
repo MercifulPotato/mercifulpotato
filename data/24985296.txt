@@ -1,1 +1,1 @@
-Item(by='j_walter', descendants=None, kids=None, score=None, time=1604446993, title=None, item_type='comment', url=None, parent=24984862, text='I can&#x27;t believe it&#x27;s not the Sun')
+Item(by='j_walter', descendants=None, kids=[24986564], score=None, time=1604446993, title=None, item_type='comment', url=None, parent=24984862, text='I can&#x27;t believe it&#x27;s not the Sun')

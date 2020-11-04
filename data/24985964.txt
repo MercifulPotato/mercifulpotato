@@ -1,1 +1,1 @@
-Item(by='BenjiWiebe', descendants=None, kids=None, score=None, time=1604454465, title=None, item_type='comment', url=None, parent=24985691, text='See if JuiceSSH fits the bill for you. I use it and love it.')
+Item(by='BenjiWiebe', descendants=None, kids=[24986394], score=None, time=1604454465, title=None, item_type='comment', url=None, parent=24985691, text='See if JuiceSSH fits the bill for you. I use it and love it.')

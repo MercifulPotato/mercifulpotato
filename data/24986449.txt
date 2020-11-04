@@ -1,0 +1,1 @@
+Item(by='sneak', descendants=None, kids=[24986823], score=None, time=1604464083, title=None, item_type='comment', url=None, parent=24986334, text='<a href="https:&#x2F;&#x2F;github.com&#x2F;mvdan&#x2F;gofumpt" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;mvdan&#x2F;gofumpt</a><p>Drop in replacement for `go fmt` and probably does most of what you want.')

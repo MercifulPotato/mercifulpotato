@@ -1,1 +1,1 @@
-Item(by='aphrax', descendants=0, kids=None, score=2, time=1604403057, title='When Computers Were Cool', item_type='story', url='https://datagubbe.se/coolcomp.html', parent=None, text=None)
+Item(by='aphrax', descendants=25, kids=[24986231, 24986587, 24986192, 24986224, 24985974, 24986184, 24986116, 24986070, 24986484, 24986407, 24986185, 24986115, 24985934, 24986266, 24985882], score=61, time=1604403057, title='When Computers Were Cool', item_type='story', url='https://datagubbe.se/coolcomp.html', parent=None, text=None)
