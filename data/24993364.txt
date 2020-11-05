@@ -1,0 +1,1 @@
+Item(by='dgolunski', descendants=1, kids=[24993365], score=3, time=1604526387, title='Critical Git Git-lfs vuln RCE exploit CVE-2020-27955 many Git clients affected', item_type='story', url='https://legalhackers.com/advisories/Git-LFS-RCE-Exploit-CVE-2020-27955.html', parent=None, text=None)

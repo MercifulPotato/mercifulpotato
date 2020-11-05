@@ -1,0 +1,1 @@
+Item(by='ibliskavka', descendants=0, kids=None, score=1, time=1604540459, title='Tiny AWS SAM Lambda that can trigger EC2 reboots on a CRON schedule', item_type='story', url='https://github.com/ibliskavka/scheduled-ec2-reboot', parent=None, text=None)

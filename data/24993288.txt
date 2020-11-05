@@ -1,0 +1,1 @@
+Item(by='saurik', descendants=None, kids=[24994789], score=None, time=1604525692, title=None, item_type='comment', url=None, parent=24992206, text='(Which is, of course, ironic given that the entire original goal of LLVM was only to build a JIT; it was too slow, but made an OK enough compiler backend ;P.)')

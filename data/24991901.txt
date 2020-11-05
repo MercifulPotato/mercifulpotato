@@ -1,1 +1,1 @@
-Item(by='robflynn', descendants=None, kids=None, score=None, time=1604516280, title=None, item_type='comment', url=None, parent=24991852, text='Yup, this was my first thought.  I think the generated page looks great but it definitely has a11y problems.')
+Item(by='robflynn', descendants=None, kids=[24993165], score=None, time=1604516280, title=None, item_type='comment', url=None, parent=24991852, text='Yup, this was my first thought.  I think the generated page looks great but it definitely has a11y problems.')

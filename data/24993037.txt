@@ -1,0 +1,1 @@
+Item(by='leephillips', descendants=None, kids=None, score=None, time=1604523734, title=None, item_type='comment', url=None, parent=24992674, text='But those are comments (non-executable) that keep track of the order in which the cells are presented in the notebook. There is no hidden state relevant to the computation.')

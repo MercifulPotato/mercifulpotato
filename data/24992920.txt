@@ -1,0 +1,1 @@
+Item(by='crazypython', descendants=None, kids=[24993011, 24993362, 24992989], score=None, time=1604523034, title=None, item_type='comment', url=None, parent=24989682, text='How is this a JIT? Everything is compiled to machine code. There&#x27;s no advanced type specialization or lazy deoptimization. It might as well be an in-memory, lazy, AOT compiler.')

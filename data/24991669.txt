@@ -1,1 +1,1 @@
-Item(by='jart', descendants=0, kids=None, score=2, time=1604514679, title='Show HN: Das Blinkenlights', item_type='story', url='https://justine.storage.googleapis.com/blinkenlights/index.html', parent=None, text=None)
+Item(by='jart', descendants=2, kids=[24993334, 24992590], score=4, time=1604514679, title='Show HN: Das Blinkenlights', item_type='story', url='https://justine.storage.googleapis.com/blinkenlights/index.html', parent=None, text=None)

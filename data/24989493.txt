@@ -1,1 +1,1 @@
-Item(by='beamatronic', descendants=None, kids=None, score=None, time=1604501300, title=None, item_type='comment', url=None, parent=24989298, text='I think you hit on something interesting. No one is enforcing quality or safety really, not any of them, including taxis.')
+Item(by='beamatronic', descendants=None, kids=[24992903], score=None, time=1604501300, title=None, item_type='comment', url=None, parent=24989298, text='I think you hit on something interesting. No one is enforcing quality or safety really, not any of them, including taxis.')

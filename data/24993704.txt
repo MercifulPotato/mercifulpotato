@@ -1,0 +1,1 @@
+Item(by='brailsafe', descendants=None, kids=None, score=None, time=1604528931, title=None, item_type='comment', url=None, parent=24991030, text='I wonder if Postgres&#x27; foreign data wrappers would help with either migrating data out of Mongo, or sort of siloing it while you migrate interfaces and new services to Postgres only')

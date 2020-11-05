@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1604473723, title=None, item_type='comment', url=None, parent=24984838, text='The difference is that Rust is still quite far to support the dynamic capabilities and code reloading of C++.')
+Item(by='pjmlp', descendants=None, kids=[24992754], score=None, time=1604473723, title=None, item_type='comment', url=None, parent=24984838, text='The difference is that Rust is still quite far to support the dynamic capabilities and code reloading of C++.')

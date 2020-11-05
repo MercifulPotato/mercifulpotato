@@ -1,1 +1,1 @@
-Item(by='ashtonkem', descendants=None, kids=None, score=None, time=1604503782, title=None, item_type='comment', url=None, parent=24988267, text='How’s it fare against a gas turbine power plant? Because that’s what it would actually replace, not a PWR.')
+Item(by='ashtonkem', descendants=None, kids=[24993631], score=None, time=1604503782, title=None, item_type='comment', url=None, parent=24988267, text='How’s it fare against a gas turbine power plant? Because that’s what it would actually replace, not a PWR.')

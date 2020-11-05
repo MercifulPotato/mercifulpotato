@@ -1,1 +1,1 @@
-Item(by='soorajchandran', descendants=None, kids=None, score=None, time=1604495283, title=None, item_type='comment', url=None, parent=24988380, text='There are some silly, stupid mistakes I&#x27;ve done when going through YCombinator - building my first startup.')
+Item(by='soorajchandran', descendants=None, kids=[24993003], score=None, time=1604495283, title=None, item_type='comment', url=None, parent=24988380, text='There are some silly, stupid mistakes I&#x27;ve done when going through YCombinator - building my first startup.')

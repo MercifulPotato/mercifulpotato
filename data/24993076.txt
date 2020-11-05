@@ -1,0 +1,1 @@
+Item(by='antognini', descendants=None, kids=None, score=None, time=1604524021, title=None, item_type='comment', url=None, parent=24992389, text='I&#x27;ve tried `set foldmethod=indent`, but I&#x27;ve found it to be <i>very</i> slow and it introduces a noticeable lag when typing.')

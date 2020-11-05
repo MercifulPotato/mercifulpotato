@@ -1,1 +1,1 @@
-Item(by='daniellarusso', descendants=None, kids=None, score=None, time=1604497061, title=None, item_type='comment', url=None, parent=24988358, text='Wow. I would have guessed mid-30s from the video?')
+Item(by='daniellarusso', descendants=None, kids=[24993327], score=None, time=1604497061, title=None, item_type='comment', url=None, parent=24988358, text='Wow. I would have guessed mid-30s from the video?')

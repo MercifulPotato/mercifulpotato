@@ -1,1 +1,1 @@
-Item(by='lelf', descendants=24, kids=[24991577, 24991682, 24991931, 24991465, 24991894], score=87, time=1604502628, title='A First Look at the JIT', item_type='story', url='https://blog.erlang.org/a-first-look-at-the-jit/', parent=None, text=None)
+Item(by='lelf', descendants=47, kids=[24991577, 24991682, 24991465, 24991931, 24991894, 24992920], score=167, time=1604502628, title='A First Look at the JIT', item_type='story', url='https://blog.erlang.org/a-first-look-at-the-jit/', parent=None, text=None)

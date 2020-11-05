@@ -1,1 +1,1 @@
-Item(by='rusk', descendants=None, kids=None, score=None, time=1604347688, title=None, item_type='comment', url=None, parent=24968858, text='Yes ... and they are getting reinfected. The fatality rate among medics is quite high relative to general population')
+Item(by='rusk', descendants=None, kids=[24992825], score=None, time=1604347688, title=None, item_type='comment', url=None, parent=24968858, text='Yes ... and they are getting reinfected. The fatality rate among medics is quite high relative to general population')

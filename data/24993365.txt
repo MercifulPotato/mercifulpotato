@@ -1,0 +1,1 @@
+Item(by='dgolunski', descendants=None, kids=None, score=None, time=1604526387, title=None, item_type='comment', url=None, parent=24993364, text='Critical Git git-lfs RCE exploit - the vulnerability allows to compromise a git client on clone operation, no other interaction required. Many git clients affected')

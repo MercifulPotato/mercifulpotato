@@ -1,0 +1,1 @@
+Item(by='nl', descendants=None, kids=None, score=None, time=1604535019, title=None, item_type='comment', url=None, parent=24993715, text='For ML maybe?<p>You can get the AMD builds of TF and PyTorch and then build a cluster out.<p>Realistically it&#x27;d likely to be more trouble than its worth. The AMD versions are always behind the core versions.')

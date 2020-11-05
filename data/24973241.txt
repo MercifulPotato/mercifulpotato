@@ -1,1 +1,1 @@
-Item(by='dcminter', descendants=0, kids=None, score=1, time=1604350641, title='20 Years Aboard the International Space Station', item_type='story', url='https://www.nytimes.com/interactive/2020/11/02/science/iss-20th-anniversary-timeline.html', parent=None, text=None)
+Item(by='dcminter', descendants=0, kids=None, score=3, time=1604350641, title='20 Years Aboard the International Space Station', item_type='story', url='https://www.nytimes.com/interactive/2020/11/02/science/iss-20th-anniversary-timeline.html', parent=None, text=None)

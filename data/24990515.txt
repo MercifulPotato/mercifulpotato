@@ -1,1 +1,1 @@
-Item(by='wombatmobile', descendants=2, kids=[24990516, 24991068], score=2, time=1604507743, title="Humans are born with brains 'prewired' to see words", item_type='story', url='https://www.sciencedaily.com/releases/2020/10/201022125525.htm', parent=None, text=None)
+Item(by='wombatmobile', descendants=4, kids=[24991068, 24990516], score=2, time=1604507743, title="Humans are born with brains 'prewired' to see words", item_type='story', url='https://www.sciencedaily.com/releases/2020/10/201022125525.htm', parent=None, text=None)

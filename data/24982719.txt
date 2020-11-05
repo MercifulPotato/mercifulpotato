@@ -1,1 +1,1 @@
-Item(by='wheresvic4', descendants=6, kids=[24990495, 24986157, 24987160, 24982754], score=28, time=1604429734, title='Docker in 10 Minutes', item_type='story', url='https://smalldata.tech/blog/2019/06/08/docker-in-10-minutes', parent=None, text=None)
+Item(by='wheresvic4', descendants=6, kids=[24986157, 24990495, 24987160, 24982754], score=33, time=1604429734, title='Docker in 10 Minutes', item_type='story', url='https://smalldata.tech/blog/2019/06/08/docker-in-10-minutes', parent=None, text=None)

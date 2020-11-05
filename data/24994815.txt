@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=None, score=None, time=1604539365, title=None, item_type='comment', url=None, parent=24988472, text='&gt; That is already possible by exposing a `New` function and making the struct itself unexposed;<p>I thought Go didn&#x27;t allow functions with default argument values either?')

@@ -1,1 +1,1 @@
-Item(by='susam', descendants=1, kids=[24991559], score=1, time=1604513461, title='What is the "goes to" operator in C++? (2009)', item_type='story', url='https://stackoverflow.com/q/1642028/303363', parent=None, text=None)
+Item(by='susam', descendants=2, kids=[24991559], score=1, time=1604513461, title='What is the "goes to" operator in C++? (2009)', item_type='story', url='https://stackoverflow.com/q/1642028/303363', parent=None, text=None)

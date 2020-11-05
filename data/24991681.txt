@@ -1,1 +1,1 @@
-Item(by='Grakel', descendants=None, kids=None, score=None, time=1604514754, title=None, item_type='comment', url=None, parent=24991372, text='You&#x27;re presenting a very slanted opinion as neutral fact.')
+Item(by='Grakel', descendants=None, kids=[24992791], score=None, time=1604514754, title=None, item_type='comment', url=None, parent=24991372, text='You&#x27;re presenting a very slanted opinion as neutral fact.')

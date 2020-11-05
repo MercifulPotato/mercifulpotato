@@ -1,1 +1,1 @@
-Item(by='leephillips', descendants=None, kids=None, score=None, time=1604514903, title=None, item_type='comment', url=None, parent=24990662, text='I think the key is that the state is not <i>hidden</i>: what you see is what you get.')
+Item(by='leephillips', descendants=None, kids=[24992674], score=None, time=1604514903, title=None, item_type='comment', url=None, parent=24990662, text='I think the key is that the state is not <i>hidden</i>: what you see is what you get.')

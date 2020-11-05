@@ -1,1 +1,1 @@
-Item(by='tt433', descendants=None, kids=None, score=None, time=1604512481, title=None, item_type='comment', url=None, parent=24990979, text='Completely off topic but there&#x27;s no way to get to r&#x2F;friends from the mobile app. It&#x27;s pathetic.')
+Item(by='tt433', descendants=None, kids=[24992918], score=None, time=1604512481, title=None, item_type='comment', url=None, parent=24990979, text='Completely off topic but there&#x27;s no way to get to r&#x2F;friends from the mobile app. It&#x27;s pathetic.')

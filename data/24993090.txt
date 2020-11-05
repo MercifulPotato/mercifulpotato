@@ -1,0 +1,1 @@
+Item(by='BookHeretykow', descendants=None, kids=None, score=None, time=1604524117, title=None, item_type='comment', url=None, parent=24992178, text='I&#x27;ve seen memory leaks because of optimization and other stupid excuses enough times to know this is not a valid statement. it doesn&#x27;t matter GC or know. It&#x27;s minimum to know how to manage your memory.')

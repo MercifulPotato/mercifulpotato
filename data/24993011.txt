@@ -1,0 +1,1 @@
+Item(by='yxhuvud', descendants=None, kids=None, score=None, time=1604523631, title=None, item_type='comment', url=None, parent=24992920, text='&gt; It might as well be an in-memory, lazy<p>Yeah, that is a jit. Perhaps not a very fancy one, the same way ARC is a very unfancy GC, but it is still a jit.')

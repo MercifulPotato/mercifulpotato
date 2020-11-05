@@ -1,1 +1,1 @@
-Item(by='tptacek', descendants=None, kids=None, score=None, time=1604511299, title=None, item_type='comment', url=None, parent=24986299, text='Comments like this aren&#x27;t allowed on HN; see the Guidelines below.')
+Item(by='tptacek', descendants=None, kids=[24994019], score=None, time=1604511299, title=None, item_type='comment', url=None, parent=24986299, text='Comments like this aren&#x27;t allowed on HN; see the Guidelines below.')

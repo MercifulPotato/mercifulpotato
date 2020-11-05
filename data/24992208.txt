@@ -1,1 +1,1 @@
-Item(by='nathias', descendants=None, kids=None, score=None, time=1604518072, title=None, item_type='comment', url=None, parent=24992103, text='Not at all, not conceptually and not historically.')
+Item(by='nathias', descendants=None, kids=[24992657], score=None, time=1604518072, title=None, item_type='comment', url=None, parent=24992103, text='Not at all, not conceptually and not historically.')

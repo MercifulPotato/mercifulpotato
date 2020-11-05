@@ -1,0 +1,1 @@
+Item(by='simlevesque', descendants=None, kids=None, score=None, time=1604536630, title=None, item_type='comment', url=None, parent=24994499, text='there is always two part to these ports:<p>- a webassembly blob<p>- a javascript wrapper to call the webassembly&#x27;s functions from js in a practical way.')

@@ -1,1 +1,1 @@
-Item(by='bshanks', descendants=0, kids=None, score=2, time=1604346325, title='Typedefs', item_type='story', url='https://typedefs.com/', parent=None, text=None)
+Item(by='bshanks', descendants=15, kids=[24994304, 24993492, 24994170, 24994338, 24993595, 24993917], score=65, time=1604346325, title='Typedefs', item_type='story', url='https://typedefs.com/', parent=None, text=None)
