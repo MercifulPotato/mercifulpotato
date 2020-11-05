@@ -1,0 +1,1 @@
+Item(by='jfrunyon', descendants=None, kids=None, score=None, time=1604559077, title=None, item_type='comment', url=None, parent=24995648, text='Their UI is far better at it than the git tool itself. You have to explicitly tell git to check signatures (not to mention needing to go get people&#x27;s keys and verify that they&#x27;re correct, which GitHub does for you).')

@@ -1,0 +1,1 @@
+Item(by='sullyj3', descendants=None, kids=None, score=None, time=1604547672, title=None, item_type='comment', url=None, parent=24989126, text='It&#x27;s worth noting that Haskell allows mutable variables in IO actions - a type used to model computations that are not referentially transparent. It&#x27;s just that using this facility is not super ergonomic.')

@@ -1,0 +1,1 @@
+Item(by='yawaramin', descendants=None, kids=None, score=None, time=1604551885, title=None, item_type='comment', url=None, parent=24984029, text='Java doesn&#x27;t have one of the fundamentals of typed FP--algebraic data types with exhaustive pattern matching. And just in general--Scala, despite its warts, can be very succinct and packs a lot of power in simple-looking code.')

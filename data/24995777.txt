@@ -1,0 +1,1 @@
+Item(by='treve', descendants=None, kids=None, score=None, time=1604552197, title=None, item_type='comment', url=None, parent=24987829, text='Another way this _could_ be solved is to allow HTML authors to use idempotent HTTP methods like PUT.<p>Sadly, it doesn&#x27;t seem browser vendors are very interested to support this.')

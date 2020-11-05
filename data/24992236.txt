@@ -1,1 +1,1 @@
-Item(by='semy', descendants=0, kids=None, score=2, time=1604518208, title='Show HN: Free 3D Avatars for the Community', item_type='story', url='https://www.avatarz.design/', parent=None, text=None)
+Item(by='semy', descendants=1, kids=[24995560], score=2, time=1604518208, title='Show HN: Free 3D Avatars for the Community', item_type='story', url='https://www.avatarz.design/', parent=None, text=None)

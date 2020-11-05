@@ -1,1 +1,1 @@
-Item(by='xur17', descendants=None, kids=None, score=None, time=1604542208, title=None, item_type='comment', url=None, parent=24992852, text='So you&#x27;re saying there is a chance.')
+Item(by='xur17', descendants=None, kids=[24995248], score=None, time=1604542208, title=None, item_type='comment', url=None, parent=24992852, text='So you&#x27;re saying there is a chance.')

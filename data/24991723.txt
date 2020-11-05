@@ -1,1 +1,1 @@
-Item(by='SteveNuts', descendants=None, kids=None, score=None, time=1604515066, title=None, item_type='comment', url=None, parent=24990892, text='I&#x27;m curious what you mean by worrisome in this context?')
+Item(by='SteveNuts', descendants=None, kids=[24996018], score=None, time=1604515066, title=None, item_type='comment', url=None, parent=24990892, text='I&#x27;m curious what you mean by worrisome in this context?')

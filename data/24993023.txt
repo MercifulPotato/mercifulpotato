@@ -1,1 +1,1 @@
-Item(by='istjohn', descendants=None, kids=None, score=None, time=1604523660, title=None, item_type='comment', url=None, parent=24992690, text='Unless he withdrew the money, he didn&#x27;t steal anything.')
+Item(by='istjohn', descendants=None, kids=[24995048], score=None, time=1604523660, title=None, item_type='comment', url=None, parent=24992690, text='Unless he withdrew the money, he didn&#x27;t steal anything.')

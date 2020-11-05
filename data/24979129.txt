@@ -1,1 +1,1 @@
-Item(by='komuW', descendants=0, kids=None, score=2, time=1604407706, title='The Fatal Flaw of Ownership Semantics', item_type='story', url='http://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/', parent=None, text=None)
+Item(by='komuW', descendants=12, kids=[24996074, 24995800, 24996062, 24996029, 24996100, 24995992, 24995815, 24995841], score=26, time=1604407706, title='The Fatal Flaw of Ownership Semantics', item_type='story', url='http://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/', parent=None, text=None)

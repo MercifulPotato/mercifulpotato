@@ -1,1 +1,1 @@
-Item(by='wolco2', descendants=None, kids=None, score=None, time=1604537912, title=None, item_type='comment', url=None, parent=24994660, text='Make sure to lobby to grow your own.')
+Item(by='wolco2', descendants=None, kids=[24995257], score=None, time=1604537912, title=None, item_type='comment', url=None, parent=24994660, text='Make sure to lobby to grow your own.')

@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=None, score=None, time=1604557921, title=None, item_type='comment', url=None, parent=24996064, text='I&#x27;m part of the development team at Fly.io. Actually, most of what I&#x27;ve been writing lately has been C, with the BPF verifier. But the rest of it has largely been Rust, and Rust is the language our proxies are written in.')

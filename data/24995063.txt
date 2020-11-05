@@ -1,1 +1,1 @@
-Item(by='strogonoff', descendants=None, kids=None, score=None, time=1604542292, title=None, item_type='comment', url=None, parent=24990368, text='FlightAware is like Wikipedia, if Wikipedia showed ads and charged readers for full access to articles provided by unpaid volunteers.')
+Item(by=None, descendants=None, kids=None, score=None, time=1604542292, title=None, item_type='comment', url=None, parent=24990368, text=None)

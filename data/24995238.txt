@@ -1,0 +1,1 @@
+Item(by='avinassh', descendants=None, kids=[24995298, 24995328], score=None, time=1604544490, title=None, item_type='comment', url=None, parent=24994458, text='&gt; AWS has sqs &amp; kinesis which are much better queueing options in that scenario where you’re in AWS doing new dev and can pick a technology.<p>Why are they better?')

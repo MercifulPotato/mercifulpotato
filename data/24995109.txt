@@ -1,1 +1,1 @@
-Item(by='emrehan', descendants=None, kids=None, score=None, time=1604542887, title=None, item_type='comment', url=None, parent=24994746, text='Now that the damage is done, GitHub can go release the source code and own it.')
+Item(by='emrehan', descendants=None, kids=[24995153], score=None, time=1604542887, title=None, item_type='comment', url=None, parent=24994746, text='Now that the damage is done, GitHub can go release the source code and own it.')

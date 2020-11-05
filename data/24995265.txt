@@ -1,0 +1,1 @@
+Item(by='pteraspidomorph', descendants=None, kids=[24995440], score=None, time=1604544880, title=None, item_type='comment', url=None, parent=24994760, text='According to caniuse some headers are necessary for it to work on Firefox. I guess the developer has to fix the demo.')

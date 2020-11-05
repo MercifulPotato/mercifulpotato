@@ -1,0 +1,1 @@
+Item(by='rlanday', descendants=None, kids=None, score=None, time=1604545642, title=None, item_type='comment', url=None, parent=24995188, text='It’s long been possible to decode H.264 using JavaScript (which obviously uses way more power than the native decoder). This is why browsers only restrict audio playback rather than actually autoplaying video.')
