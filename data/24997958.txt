@@ -1,0 +1,1 @@
+Item(by='robertlagrant', descendants=None, kids=None, score=None, time=1604582307, title=None, item_type='comment', url=None, parent=24996865, text='I sort of wonder why it isn&#x27;t a content workflow in the background that triggers (say) a push to Fastly or Cloudflare to update a subset of cached content.<p>Or maybe it is that, and that still takes 200 lambdas&#x2F;sec.')

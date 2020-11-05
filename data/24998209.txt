@@ -1,0 +1,1 @@
+Item(by='sofixa', descendants=None, kids=None, score=None, time=1604584581, title=None, item_type='comment', url=None, parent=24996770, text='How is using AWS or Azure&#x27;s managed RabbitMQ service lock-in? You can easily switch to someone else&#x27;s managed service, or roll your own, since it&#x27;s still just good old RabbitMQ.')

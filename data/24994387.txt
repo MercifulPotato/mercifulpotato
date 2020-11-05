@@ -1,1 +1,1 @@
-Item(by='pmiller2', descendants=None, kids=None, score=None, time=1604534709, title=None, item_type='comment', url=None, parent=24987634, text='&quot;Can be sidestepped&quot; is a far cry from &quot;average users can do this,&quot; you know.')
+Item(by='pmiller2', descendants=None, kids=[24998346], score=None, time=1604534709, title=None, item_type='comment', url=None, parent=24987634, text='&quot;Can be sidestepped&quot; is a far cry from &quot;average users can do this,&quot; you know.')

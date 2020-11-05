@@ -1,1 +1,1 @@
-Item(by='TimTheTinker', descendants=None, kids=None, score=None, time=1604557959, title=None, item_type='comment', url=None, parent=24995255, text='This. Either GH EE server’s readme says it’s GitHub.com, or Nat bent the truth, or I missed something.')
+Item(by='TimTheTinker', descendants=None, kids=[24997233], score=None, time=1604557959, title=None, item_type='comment', url=None, parent=24995255, text='This. Either GH EE server’s readme says it’s GitHub.com, or Nat bent the truth, or I missed something.')

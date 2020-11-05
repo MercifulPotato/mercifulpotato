@@ -1,1 +1,1 @@
-Item(by='onion2k', descendants=None, kids=None, score=None, time=1604506620, title=None, item_type='comment', url=None, parent=24989587, text='If it&#x27;s important then having support and an SLA is essential. You&#x27;re not getting either of those for $0.12&#x2F;month.')
+Item(by='onion2k', descendants=None, kids=[24996905], score=None, time=1604506620, title=None, item_type='comment', url=None, parent=24989587, text='If it&#x27;s important then having support and an SLA is essential. You&#x27;re not getting either of those for $0.12&#x2F;month.')

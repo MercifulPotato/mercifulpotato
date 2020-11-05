@@ -1,0 +1,1 @@
+Item(by='Fnoord', descendants=None, kids=None, score=None, time=1604580417, title=None, item_type='comment', url=None, parent=24997399, text='They are shell-specific, yes. Fish also has it built-in.<p>Try <i>man -a {pushd,popd}</i> you can also use the <i>man -k</i> flag to find manpages, and see <i>man man</i> (or <i>man --help</i>) for more flags.')

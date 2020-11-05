@@ -1,0 +1,1 @@
+Item(by='dep_b', descendants=None, kids=None, score=None, time=1604584032, title=None, item_type='comment', url=None, parent=24997992, text='Much better base packages. Date handling. Type hints. Not an OO fan but it does have real classes. IMHO handles complex applications better.<p>Though Python can look a bit more clunky than modern JS.')

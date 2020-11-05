@@ -1,0 +1,1 @@
+Item(by='ThePadawan', descendants=None, kids=[24998107], score=None, time=1604581703, title=None, item_type='comment', url=None, parent=24996973, text='The author points out that these were monitoring logs (and the screenshot looks very much like an Elastic cluster).<p>Thus this could be a missing or misconfigured log filter for PII.')

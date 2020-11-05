@@ -1,0 +1,1 @@
+Item(by='anticodon', descendants=None, kids=[24996672], score=None, time=1604565667, title=None, item_type='comment', url=None, parent=24990658, text='I&#x27;m using Tridactyl Firefox addon and it seems it doesn&#x27;t play well with vimflowy. Some keypresses are intercepted by Tridactyl and create confusion. I need to find a way to blocklist certain domains in Tridactyl.')

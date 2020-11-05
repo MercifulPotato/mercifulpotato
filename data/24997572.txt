@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1604578708, title=None, item_type='comment', url=None, parent=24996967, text='Move semantics even predate C++11. The need for move only types was identified very and such types have existed in various form for a ling time.')

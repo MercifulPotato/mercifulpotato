@@ -1,1 +1,1 @@
-Item(by='ndevtk', descendants=0, kids=None, score=2, time=1604527404, title='Show HN: Crash OS Using Chrome', item_type='story', url='https://ransom.ndev.tk/crash/', parent=None, text=None)
+Item(by='ndevtk', descendants=3, kids=[24997737, 24996881, 24996388], score=3, time=1604527404, title='Show HN: Crash OS Using Chrome', item_type='story', url='https://ransom.ndev.tk/crash/', parent=None, text=None)

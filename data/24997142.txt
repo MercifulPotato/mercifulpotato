@@ -1,0 +1,1 @@
+Item(by='flohofwoe', descendants=None, kids=None, score=None, time=1604572849, title=None, item_type='comment', url=None, parent=24995188, text='Playing audio from WASM means going through WebAudio, there is no magic direct connection between WASM and the system&#x27;s audio device.')

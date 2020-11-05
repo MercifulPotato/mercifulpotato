@@ -1,1 +1,1 @@
-Item(by='erichurkman', descendants=None, kids=None, score=None, time=1604527011, title=None, item_type='comment', url=None, parent=24993112, text='This needs a &#x27;Best viewed in Chrome 86 on iMac Pro&#x27; banner.')
+Item(by='erichurkman', descendants=None, kids=[24996961], score=None, time=1604527011, title=None, item_type='comment', url=None, parent=24993112, text='This needs a &#x27;Best viewed in Chrome 86 on iMac Pro&#x27; banner.')

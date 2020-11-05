@@ -1,1 +1,1 @@
-Item(by='jdbernard', descendants=None, kids=None, score=None, time=1604546674, title=None, item_type='comment', url=None, parent=24995297, text='Ironically, this is a feature people have been asking GitHub to implement for years now.')
+Item(by='jdbernard', descendants=None, kids=[24997440], score=None, time=1604546674, title=None, item_type='comment', url=None, parent=24995297, text='Ironically, this is a feature people have been asking GitHub to implement for years now.')

@@ -1,0 +1,1 @@
+Item(by='gnufied', descendants=None, kids=None, score=None, time=1604580640, title=None, item_type='comment', url=None, parent=24996966, text='I can&#x27;t speak for other stuff in the blog but it does not depend on libcurl anymore at least and has its own http implementation.')

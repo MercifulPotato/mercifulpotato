@@ -1,1 +1,1 @@
-Item(by='andreareina', descendants=None, kids=None, score=None, time=1604557003, title=None, item_type='comment', url=None, parent=24993237, text='Are you sure that&#x27;s not from your display font missing the symbol? I&#x27;ve got (unfilled) circles rendering for me.')
+Item(by='andreareina', descendants=None, kids=[24996551], score=None, time=1604557003, title=None, item_type='comment', url=None, parent=24993237, text='Are you sure that&#x27;s not from your display font missing the symbol? I&#x27;ve got (unfilled) circles rendering for me.')

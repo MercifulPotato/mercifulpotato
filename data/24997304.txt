@@ -1,0 +1,1 @@
+Item(by='roblabla', descendants=None, kids=[24997975], score=None, time=1604575232, title=None, item_type='comment', url=None, parent=24995962, text='I don&#x27;t think WASM can write to its code memory to self-decrypt. At some point, the WASM has to create a DOM node containing the decrypted script, at which point you can process the code.')

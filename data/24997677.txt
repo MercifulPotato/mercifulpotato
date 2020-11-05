@@ -1,0 +1,1 @@
+Item(by='rb12345', descendants=None, kids=None, score=None, time=1604579681, title=None, item_type='comment', url=None, parent=24994141, text='That&#x27;s true, but a lot of software standardised on RabbitMQ specifically, including its client libraries.  That means there&#x27;s still a lot of demand for AMQP 0.9.1 over 1.0.  (RabbitMQ does have a plugin for AMQP 1.0, however.)')

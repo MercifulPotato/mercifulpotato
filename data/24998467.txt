@@ -1,0 +1,1 @@
+Item(by='Retric', descendants=None, kids=None, score=None, time=1604586316, title=None, item_type='comment', url=None, parent=24997917, text='IMO, this is one of those theory vs practice things. CSS is turing-complete, but that’s really not how it’s used.  So, excluding CSS really should also exclude SQL, though not TSQL.')

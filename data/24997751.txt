@@ -1,0 +1,1 @@
+Item(by='achn', descendants=None, kids=None, score=None, time=1604580361, title=None, item_type='comment', url=None, parent=24997698, text='There are some big improvements in .net 5 that allow more granular linking and should help reduce solitary binary size, and that may trickle down to Mono and Wasm soon.')

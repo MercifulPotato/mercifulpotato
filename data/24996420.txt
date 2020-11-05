@@ -1,1 +1,1 @@
-Item(by='raducu', descendants=None, kids=None, score=None, time=1604562934, title=None, item_type='comment', url=None, parent=24994545, text='Could we do the same for ticks?')
+Item(by='raducu', descendants=None, kids=[24997177, 24996610], score=None, time=1604562934, title=None, item_type='comment', url=None, parent=24994545, text='Could we do the same for ticks?')

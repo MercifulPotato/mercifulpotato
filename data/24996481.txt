@@ -1,0 +1,1 @@
+Item(by='eru', descendants=None, kids=None, score=None, time=1604563862, title=None, item_type='comment', url=None, parent=24989553, text='Yes, either a deep_copy() or a way to declare things immutable.  (Or both.)')
