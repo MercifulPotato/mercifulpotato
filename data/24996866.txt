@@ -1,1 +1,1 @@
-Item(by='robertlagrant', descendants=None, kids=None, score=None, time=1604569515, title=None, item_type='comment', url=None, parent=24996236, text='Your personal git isn&#x27;t relevant to the question.')
+Item(by='robertlagrant', descendants=None, kids=[24998508], score=None, time=1604569515, title=None, item_type='comment', url=None, parent=24996236, text='Your personal git isn&#x27;t relevant to the question.')

@@ -1,1 +1,1 @@
-Item(by='mpsq', descendants=None, kids=None, score=None, time=1604583015, title=None, item_type='comment', url=None, parent=24998004, text='That is the entire point of this thing, hydrogen comes from electricity (renewables with electrolysis).')
+Item(by=None, descendants=None, kids=None, score=None, time=1604583015, title=None, item_type='comment', url=None, parent=24998004, text=None)

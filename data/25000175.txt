@@ -1,0 +1,1 @@
+Item(by='snek', descendants=None, kids=None, score=None, time=1604598037, title=None, item_type='comment', url=None, parent=24997340, text='I brought up web accessibility concerns with them almost a year ago and as far as I can tell all they&#x27;ve done since then is add `tab-index` attributes. Probably best to avoid this until they improve it more.')

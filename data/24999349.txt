@@ -1,0 +1,1 @@
+Item(by='CodesInChaos', descendants=None, kids=None, score=None, time=1604592247, title=None, item_type='comment', url=None, parent=24982111, text='I think switching text for a structured format is the solution. I&#x27;d go for some encoding of s-expressions, since it&#x27;s the simplest format that supports reliable splitting into atoms and nesting.')

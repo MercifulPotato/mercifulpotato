@@ -1,1 +1,1 @@
-Item(by='lakeWater', descendants=None, kids=None, score=None, time=1604550109, title=None, item_type='comment', url=None, parent=24995399, text='This allows Ring owners to opt-in to allowing a live feed to police. I’m pretty sure that works around that sort of issue.')
+Item(by='lakeWater', descendants=None, kids=[24999338], score=None, time=1604550109, title=None, item_type='comment', url=None, parent=24995399, text='This allows Ring owners to opt-in to allowing a live feed to police. I’m pretty sure that works around that sort of issue.')

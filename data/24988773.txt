@@ -1,1 +1,1 @@
-Item(by='Digit-Al', descendants=0, kids=None, score=3, time=1604496367, title='The Great Cannonball Boom', item_type='story', url='https://www.gq.com/story/the-great-cannonball-boom', parent=None, text=None)
+Item(by='Digit-Al', descendants=46, kids=[24998194, 24998650, 24999807, 24997974, 24999612, 24999297, 24999528, 24997924, 24998158, 24999168, 24997967, 24998201], score=36, time=1604496367, title='The Great Cannonball Boom', item_type='story', url='https://www.gq.com/story/the-great-cannonball-boom', parent=None, text=None)

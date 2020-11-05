@@ -1,0 +1,1 @@
+Item(by='easton', descendants=None, kids=None, score=None, time=1604587986, title=None, item_type='comment', url=None, parent=24996592, text='They have a grey unverified thing that pops up if there was an error when using GPG to sign the commit, I wonder why it doesn’t show up the rest of the time when you don’t sign something at all.')

@@ -1,1 +1,1 @@
-Item(by='mrguyorama', descendants=None, kids=None, score=None, time=1604585827, title=None, item_type='comment', url=None, parent=24994961, text='So you&#x27;re willing to pay $1000 for a HEDT CPU but not $150 for a modern GPU?')
+Item(by='mrguyorama', descendants=None, kids=[25001413], score=None, time=1604585827, title=None, item_type='comment', url=None, parent=24994961, text='So you&#x27;re willing to pay $1000 for a HEDT CPU but not $150 for a modern GPU?')

@@ -1,0 +1,1 @@
+Item(by='zadler', descendants=None, kids=[25000258], score=None, time=1604598312, title=None, item_type='comment', url=None, parent=25000186, text='The simple way to do it is to send the btc to an address for which the private key is unknown, thereby making it impossible to spend. Watch them not do this.')

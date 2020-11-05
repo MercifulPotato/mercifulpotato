@@ -1,0 +1,1 @@
+Item(by='tijsvd', descendants=None, kids=None, score=None, time=1604605713, title=None, item_type='comment', url=None, parent=25000366, text='Interesting. This actually sounds very similar to game developers embedding Lua or V8 for various logic. I&#x27;ve used Lua myself in a similar way, embedded in a high perf application, with a user script driving the logic.')

@@ -1,1 +1,1 @@
-Item(by='noitpmeder', descendants=None, kids=[24998282], score=None, time=1604584437, title=None, item_type='comment', url=None, parent=24998048, text='I love dataclasses, incredibly simple to use but so useful. My only gripe is no first-class support for &quot;__slots__&quot;.')
+Item(by='noitpmeder', descendants=None, kids=[24998282, 25000167], score=None, time=1604584437, title=None, item_type='comment', url=None, parent=24998048, text='I love dataclasses, incredibly simple to use but so useful. My only gripe is no first-class support for &quot;__slots__&quot;.')

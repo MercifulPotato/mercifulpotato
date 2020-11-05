@@ -1,1 +1,1 @@
-Item(by='pgustafs', descendants=2, kids=[24995929], score=14, time=1604550312, title='Show HN: Toy Haskell blockchain with variable hash functions for ASIC resistance', item_type='story', url='https://github.com/PaulGustafson/dcc', parent=None, text=None)
+Item(by='pgustafs', descendants=7, kids=[24995929, 24998291], score=15, time=1604550312, title='Show HN: Toy Haskell blockchain with variable hash functions for ASIC resistance', item_type='story', url='https://github.com/PaulGustafson/dcc', parent=None, text=None)

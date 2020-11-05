@@ -1,0 +1,1 @@
+Item(by='criddell', descendants=None, kids=[25001095, 24998866], score=None, time=1604587509, title=None, item_type='comment', url=None, parent=24998486, text='Do you have &quot;+y and &quot;+p configured to use the system clipboard? Does that work for you even when running vim over ssh?')

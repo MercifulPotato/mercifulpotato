@@ -1,1 +1,1 @@
-Item(by='danjac', descendants=None, kids=None, score=None, time=1604582666, title=None, item_type='comment', url=None, parent=24997830, text='Not only horrible unhealthy lifestyles, but horrible unhealthy codebases.')
+Item(by='danjac', descendants=None, kids=[24999248, 24999893, 24999196], score=None, time=1604582666, title=None, item_type='comment', url=None, parent=24997830, text='Not only horrible unhealthy lifestyles, but horrible unhealthy codebases.')

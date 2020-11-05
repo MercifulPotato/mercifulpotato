@@ -1,0 +1,1 @@
+Item(by='recrudesce', descendants=None, kids=[24998513], score=None, time=1604586176, title=None, item_type='comment', url=None, parent=24998337, text='Does this keep the database updated, or is that manual ?  If manual, does it replace the database every time, or does it do a delta update ?')

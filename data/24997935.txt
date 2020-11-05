@@ -1,1 +1,1 @@
-Item(by='unnouinceput', descendants=None, kids=None, score=None, time=1604582112, title=None, item_type='comment', url=None, parent=24996192, text='You&#x27;re asking the wrong crowd. Go talk to an Amish about this, you&#x27;ll get a lot better answers.')
+Item(by='unnouinceput', descendants=None, kids=[24998505], score=None, time=1604582112, title=None, item_type='comment', url=None, parent=24996192, text='You&#x27;re asking the wrong crowd. Go talk to an Amish about this, you&#x27;ll get a lot better answers.')

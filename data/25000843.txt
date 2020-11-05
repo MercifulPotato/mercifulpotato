@@ -1,0 +1,1 @@
+Item(by='cloudhead', descendants=None, kids=None, score=None, time=1604602540, title=None, item_type='comment', url=None, parent=25000370, text='Keep in mind the receiving public key is not revealed when money is sent to an address, only its hash. So you&#x27;d have to &quot;reverse&quot; SHA256 first.')

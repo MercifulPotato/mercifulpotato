@@ -1,0 +1,1 @@
+Item(by='cmwelsh', descendants=None, kids=None, score=None, time=1604594290, title=None, item_type='comment', url=None, parent=24988559, text='It’s type safe once you have it all written out and syntactically valid. Just like you can omit types when working with generics using diamond operator. However, this is a nice reminder that lambda argument types can help sometimes.')

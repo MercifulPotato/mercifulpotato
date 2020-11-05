@@ -1,0 +1,1 @@
+Item(by='AbacusAvenger', descendants=None, kids=[25001232], score=None, time=1604599363, title=None, item_type='comment', url=None, parent=25000268, text='They only announce a &#x2F;64 prefix via RA (with no DHCPv6 or DHCPv6-PD), so address assignments are via SLAAC. For that ISP (Wave G), I use NDP proxying to allow the LAN side to utilize those addresses as well.')

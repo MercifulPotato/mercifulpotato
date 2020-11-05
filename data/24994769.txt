@@ -1,1 +1,1 @@
-Item(by='Draiken', descendants=None, kids=None, score=None, time=1604538893, title=None, item_type='comment', url=None, parent=24994393, text='Not being offended by something does not make it sexist or not')
+Item(by='Draiken', descendants=None, kids=[24999796], score=None, time=1604538893, title=None, item_type='comment', url=None, parent=24994393, text='Not being offended by something does not make it sexist or not')

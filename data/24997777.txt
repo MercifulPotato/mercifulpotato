@@ -1,1 +1,1 @@
-Item(by='derberg', descendants=0, kids=None, score=4, time=1604580533, title='Is Hacktoberfest Good for Maintainers?', item_type='story', url='https://www.asyncapi.com/blog/hacktoberfest-summary-2020', parent=None, text=None)
+Item(by='derberg', descendants=0, kids=None, score=6, time=1604580533, title='Is Hacktoberfest Good for Maintainers?', item_type='story', url='https://www.asyncapi.com/blog/hacktoberfest-summary-2020', parent=None, text=None)

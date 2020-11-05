@@ -1,0 +1,1 @@
+Item(by='neverartful', descendants=None, kids=[25001057, 25001065], score=None, time=1604601998, title=None, item_type='comment', url=None, parent=25000646, text='I was really happy when I first learned of type annotations being added to Python. However, much of that excitement evaporated when I read that it was just a &#x27;hint&#x27; and not something that&#x27;s enforced.')

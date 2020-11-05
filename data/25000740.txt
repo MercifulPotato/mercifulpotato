@@ -1,0 +1,1 @@
+Item(by='kostarelo', descendants=None, kids=None, score=None, time=1604601914, title=None, item_type='comment', url=None, parent=24998496, text='CLI is great for playing around but IMO an even more important interface is the one to provision the state of the PaaS, e.g. a Terraform module.')

@@ -1,0 +1,1 @@
+Item(by='jedberg', descendants=None, kids=None, score=None, time=1604604729, title=None, item_type='comment', url=None, parent=25000514, text='So this was a very long web page to say: Facebook forgot to rate limit their web scraper on a per user basis, but we told them and they fixed it.')

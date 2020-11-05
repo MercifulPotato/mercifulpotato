@@ -1,1 +1,1 @@
-Item(by='asicsp', descendants=None, kids=None, score=None, time=1604581538, title=None, item_type='comment', url=None, parent=24997720, text='can also use `help pushd` to get manual only for that command (&#x27;help&#x27; is like &#x27;man&#x27; for built-ins)')
+Item(by='asicsp', descendants=None, kids=[24999519], score=None, time=1604581538, title=None, item_type='comment', url=None, parent=24997720, text='can also use `help pushd` to get manual only for that command (&#x27;help&#x27; is like &#x27;man&#x27; for built-ins)')
