@@ -1,1 +1,1 @@
-Item(by='refurb', descendants=None, kids=None, score=None, time=1604626427, title=None, item_type='comment', url=None, parent=25003866, text='If those issues were easily solved then they’d be solved by now.  Point is they aren’t easy to solve.')
+Item(by='refurb', descendants=None, kids=[25004560], score=None, time=1604626427, title=None, item_type='comment', url=None, parent=25003866, text='If those issues were easily solved then they’d be solved by now.  Point is they aren’t easy to solve.')

@@ -1,1 +1,1 @@
-Item(by='heavyset_go', descendants=None, kids=None, score=None, time=1604600787, title=None, item_type='comment', url=None, parent=25000031, text='Can you just use Kotlin to avoid Android&#x27;s Java, or are there instances where you need to dip into Java get stuff done?')
+Item(by='heavyset_go', descendants=None, kids=[25004248], score=None, time=1604600787, title=None, item_type='comment', url=None, parent=25000031, text='Can you just use Kotlin to avoid Android&#x27;s Java, or are there instances where you need to dip into Java get stuff done?')

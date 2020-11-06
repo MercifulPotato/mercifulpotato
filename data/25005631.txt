@@ -1,0 +1,1 @@
+Item(by='pmeunier', descendants=None, kids=None, score=None, time=1604646445, title=None, item_type='comment', url=None, parent=25003540, text='`cargo install anu --version 1.0.0-alpha --features git` gives you a one-way incremental import, with the command `anu git`.')

@@ -1,1 +1,1 @@
-Item(by='k__', descendants=None, kids=None, score=None, time=1604473654, title=None, item_type='comment', url=None, parent=24986906, text='Probably.<p>I mostly like who I am as a person, but some things got messed up along the way.')
+Item(by='k__', descendants=None, kids=[25004444], score=None, time=1604473654, title=None, item_type='comment', url=None, parent=24986906, text='Probably.<p>I mostly like who I am as a person, but some things got messed up along the way.')

@@ -1,0 +1,1 @@
+Item(by='flak48', descendants=None, kids=None, score=None, time=1604637373, title=None, item_type='comment', url=None, parent=25003542, text='Reminds me of simpler times not too long ago, when we used to run an entire startup by simply rsyncing files to production via Gitlab CI after tests passed after every commit.')

@@ -1,1 +1,1 @@
-Item(by='huevosabio', descendants=None, kids=None, score=None, time=1604617565, title=None, item_type='comment', url=None, parent=25002977, text='Everyone works but the empty lot.<p>I was not aware that Henry George was from San Francisco.')
+Item(by='huevosabio', descendants=None, kids=[25004893], score=None, time=1604617565, title=None, item_type='comment', url=None, parent=25002977, text='Everyone works but the empty lot.<p>I was not aware that Henry George was from San Francisco.')

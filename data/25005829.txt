@@ -1,0 +1,1 @@
+Item(by='graderjs', descendants=None, kids=None, score=None, time=1604648588, title=None, item_type='comment', url=None, parent=25005799, text='I know Drew from Dropbox implemented a binary diff for his first version (on a bus) but I don&#x27;t know the details. I don&#x27;t know if git can somehow...but I suppose you could always MIME encode it (like email base64 encoding).')

@@ -1,1 +1,1 @@
-Item(by='suyash', descendants=None, kids=None, score=None, time=1604620441, title=None, item_type='comment', url=None, parent=25002582, text='That would be a foolish goal, SF is part of Silicon Valley, that will be like a suicide.')
+Item(by='suyash', descendants=None, kids=[25004200], score=None, time=1604620441, title=None, item_type='comment', url=None, parent=25002582, text='That would be a foolish goal, SF is part of Silicon Valley, that will be like a suicide.')

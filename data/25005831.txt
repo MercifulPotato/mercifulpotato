@@ -1,0 +1,1 @@
+Item(by='moonchild', descendants=None, kids=None, score=None, time=1604648625, title=None, item_type='comment', url=None, parent=25004897, text='An mutch easier solution that gets you 90% of the way is to just use a binary patcher (like bsdiff) with whatever database format you&#x27;re already using.')

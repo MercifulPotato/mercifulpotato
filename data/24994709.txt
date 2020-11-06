@@ -1,1 +1,1 @@
-Item(by='test_user_123', descendants=12, kids=[24995396, 24996279, 24997691, 24995735], score=108, time=1604538142, title='A Pedometer in the Real World (2015)', item_type='story', url='http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html', parent=None, text=None)
+Item(by='test_user_123', descendants=12, kids=[24995396, 24996279, 24997691, 24995735], score=109, time=1604538142, title='A Pedometer in the Real World (2015)', item_type='story', url='http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html', parent=None, text=None)

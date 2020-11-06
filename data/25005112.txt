@@ -1,0 +1,1 @@
+Item(by='m0zg', descendants=None, kids=None, score=None, time=1604639738, title=None, item_type='comment', url=None, parent=25001594, text='&gt; It was the worst abomination ever known to man. Crashes in random places. Race conditions. Global variables. Memory corruption galore.<p>All of these are trivially detected with msan, tsan, lsan and ubsan.')

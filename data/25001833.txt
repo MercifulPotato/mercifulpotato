@@ -1,1 +1,1 @@
-Item(by='fsloth', descendants=None, kids=None, score=None, time=1604609568, title=None, item_type='comment', url=None, parent=25001756, text='Most exits are purchases by private equity? I had no idea - are there any references for that available?')
+Item(by='fsloth', descendants=None, kids=[25004757], score=None, time=1604609568, title=None, item_type='comment', url=None, parent=25001756, text='Most exits are purchases by private equity? I had no idea - are there any references for that available?')

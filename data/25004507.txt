@@ -1,0 +1,1 @@
+Item(by='55555', descendants=None, kids=[25005321], score=None, time=1604632227, title=None, item_type='comment', url=None, parent=25002847, text='Practically speaking how does one MITM an SMTP connection? For example, from Google to Microsoft. They connect directly to the IP addresses they get from MX records + lookup. What&#x27;s the actual threat vector&#x2F;execution here?')

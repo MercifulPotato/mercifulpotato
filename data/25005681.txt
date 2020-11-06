@@ -1,0 +1,1 @@
+Item(by='pkolaczk', descendants=None, kids=None, score=None, time=1604646962, title=None, item_type='comment', url=None, parent=24988837, text='Of course you can call C functions, but it is neither ergonomic nor performant. And good luck exchanging more complex data structures. Java can&#x27;t use C structures directly, Rust can.')

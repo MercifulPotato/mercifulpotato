@@ -1,1 +1,1 @@
-Item(by='haspok', descendants=None, kids=[24990259], score=None, time=1604496803, title=None, item_type='comment', url=None, parent=24988481, text='&gt; Scala is limited mostly to JVM...<p>No, it&#x27;s not. You can call native (C) functions from the JVM.')
+Item(by='haspok', descendants=None, kids=[25005681, 24990259], score=None, time=1604496803, title=None, item_type='comment', url=None, parent=24988481, text='&gt; Scala is limited mostly to JVM...<p>No, it&#x27;s not. You can call native (C) functions from the JVM.')
