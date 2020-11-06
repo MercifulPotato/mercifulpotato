@@ -1,1 +1,1 @@
-Item(by='cdsousa', descendants=1, kids=[25001090], score=4, time=1604603693, title='Introducing: oneAPI.jl (a Julia package for programming Intel GPUs)', item_type='story', url='https://juliagpu.org/2020-11-05-oneapi_0.1', parent=None, text=None)
+Item(by='cdsousa', descendants=1, kids=[25001090], score=6, time=1604603693, title='Introducing: oneAPI.jl (a Julia package for programming Intel GPUs)', item_type='story', url='https://juliagpu.org/2020-11-05-oneapi_0.1', parent=None, text=None)

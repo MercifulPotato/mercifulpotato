@@ -1,1 +1,1 @@
-Item(by='dom96', descendants=None, kids=None, score=None, time=1604592522, title=None, item_type='comment', url=None, parent=24998694, text='My question is: how do you get into this line of work? Does anyone know how Jim Keller got to be such a one-of-a-kind chipset designer?')
+Item(by='dom96', descendants=None, kids=[25001483], score=None, time=1604592522, title=None, item_type='comment', url=None, parent=24998694, text='My question is: how do you get into this line of work? Does anyone know how Jim Keller got to be such a one-of-a-kind chipset designer?')

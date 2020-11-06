@@ -1,1 +1,1 @@
-Item(by='axyjo', descendants=0, kids=None, score=1, time=1604604568, title='Apple releases iOS 14.2 and 12.4.9, fixing in-the-wild exploited vulnerabilities', item_type='story', url='https://support.apple.com/en-us/HT211940', parent=None, text=None)
+Item(by='axyjo', descendants=113, kids=[25001475, 25001299, 25001465, 25001466, 25001631, 25001420, 25001561, 25001366], score=121, time=1604604568, title='About the security content of iOS 12.4.9', item_type='story', url='https://support.apple.com/en-us/HT211940', parent=None, text=None)

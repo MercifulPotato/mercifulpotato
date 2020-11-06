@@ -1,0 +1,1 @@
+Item(by='Solarsail', descendants=None, kids=None, score=None, time=1604610188, title=None, item_type='comment', url=None, parent=24999761, text='Sounds like the errors I got installing spacemacs.  I think...  I forced it to work by changing the access permissions on a folder that spacemacs itself had created.')

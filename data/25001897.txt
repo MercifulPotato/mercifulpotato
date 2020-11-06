@@ -1,0 +1,1 @@
+Item(by='bsder', descendants=None, kids=None, score=None, time=1604609914, title=None, item_type='comment', url=None, parent=25000281, text='It tends to be frowned on in Python.  Mostly because some fairly popular projects did it first, and if you monkey patch over them, you break them.<p>Consequently, there was a big disincentive to monkeypatching.')

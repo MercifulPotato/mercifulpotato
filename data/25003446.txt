@@ -1,0 +1,1 @@
+Item(by='turing_complete', descendants=None, kids=[25003487, 25003544], score=None, time=1604620743, title=None, item_type='comment', url=None, parent=25001789, text='I am curious, what are the benefits of running kubernetes on your personal servers? Seems like introducing unnecessary complexity.')

@@ -1,0 +1,1 @@
+Item(by='tomjakubowski', descendants=None, kids=[25002901], score=None, time=1604613075, title=None, item_type='comment', url=None, parent=25002316, text='git fundamentally tracks\nand stores snapshots, not changes. I believe mentioning this is meant to emphasize a difference between Anu (or Pijul) and git.')

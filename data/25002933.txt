@@ -1,0 +1,1 @@
+Item(by='nicusor', descendants=None, kids=None, score=None, time=1604616472, title=None, item_type='comment', url=None, parent=24998639, text='vscode has that, basically connects to a background neovim instance. I use the same vimrc (with minor tweaks for easymotion) for both neovim in cli and in vscode. Although at work I&#x27;m still using webstorm with the vim emulator')

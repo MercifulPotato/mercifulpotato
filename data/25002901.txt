@@ -1,0 +1,1 @@
+Item(by='ben509', descendants=None, kids=None, score=None, time=1604616176, title=None, item_type='comment', url=None, parent=25002415, text='This is correct. The common misunderstanding is due to the fact that gits pack files are delta compressed, but that&#x27;s a implementation detail.')

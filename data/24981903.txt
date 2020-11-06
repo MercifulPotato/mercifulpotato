@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=1, time=1604425305, title='A Brush with the Goncourts – On the brothers behind the prize', item_type='story', url='https://literaryreview.co.uk/a-brush-with-the-goncourts', parent=None, text=None)
+Item(by='pseudolus', descendants=1, kids=[25002082], score=5, time=1604425305, title='A Brush with the Goncourts', item_type='story', url='https://literaryreview.co.uk/a-brush-with-the-goncourts', parent=None, text=None)

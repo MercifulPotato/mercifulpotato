@@ -1,1 +1,1 @@
-Item(by='n_u_l_l', descendants=None, kids=None, score=None, time=1604601581, title=None, item_type='comment', url=None, parent=25000462, text='What might have happened is that an admin account of the university has been hacked, and someone is abusing it for spam.')
+Item(by='n_u_l_l', descendants=None, kids=[25002813, 25001999], score=None, time=1604601581, title=None, item_type='comment', url=None, parent=25000462, text='What might have happened is that an admin account of the university has been hacked, and someone is abusing it for spam.')

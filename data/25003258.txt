@@ -1,0 +1,1 @@
+Item(by='z3t4', descendants=None, kids=None, score=None, time=1604618901, title=None, item_type='comment', url=None, parent=24999572, text='Relying on the type system for code insight and bug catching means one have not carefully studied the code, which is what causes most bugs. If the code base is too large for anyone to digest, then break up responsibility.')

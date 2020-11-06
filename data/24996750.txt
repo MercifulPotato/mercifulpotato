@@ -1,1 +1,1 @@
-Item(by='kevinak', descendants=1, kids=[24999351], score=10, time=1604567878, title="What's the Deal with SvelteKit?", item_type='story', url='https://svelte.dev/blog/whats-the-deal-with-sveltekit', parent=None, text=None)
+Item(by='kevinak', descendants=2, kids=[25001540, 24999351], score=19, time=1604567878, title="What's the Deal with SvelteKit?", item_type='story', url='https://svelte.dev/blog/whats-the-deal-with-sveltekit', parent=None, text=None)

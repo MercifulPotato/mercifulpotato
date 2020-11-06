@@ -1,0 +1,1 @@
+Item(by='CountSessine', descendants=None, kids=[25003952, 25002535, 25002623], score=None, time=1604613433, title=None, item_type='comment', url=None, parent=24999800, text='Is it possible to do <i>inoremap jk &lt;ESC&gt;</i> yet in Evil? That&#x27;s a huge optimization for a really large minority of Vim users and without that, Evil definitely isn&#x27;t Vim&#x27;s equal.')

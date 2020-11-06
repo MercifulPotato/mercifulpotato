@@ -1,1 +1,1 @@
-Item(by='robotresearcher', descendants=None, kids=None, score=None, time=1604603063, title=None, item_type='comment', url=None, parent=25000817, text='There are many places around the world where the government is not the good guys.')
+Item(by='robotresearcher', descendants=None, kids=[25001760], score=None, time=1604603063, title=None, item_type='comment', url=None, parent=25000817, text='There are many places around the world where the government is not the good guys.')

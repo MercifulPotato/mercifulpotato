@@ -1,1 +1,1 @@
-Item(by='yumraj', descendants=None, kids=None, score=None, time=1604426791, title=None, item_type='comment', url=None, parent=24978744, text='Why is the HN title editorialized to say <i>annexed</i> instead of the original which says <i>merged</i>.')
+Item(by='yumraj', descendants=None, kids=[25001406], score=None, time=1604426791, title=None, item_type='comment', url=None, parent=24978744, text='Why is the HN title editorialized to say <i>annexed</i> instead of the original which says <i>merged</i>.')

@@ -1,1 +1,1 @@
-Item(by='ohyes', descendants=None, kids=None, score=None, time=1604591330, title=None, item_type='comment', url=None, parent=24998995, text='you need to run your ship on iron fuel as well. I guess that is the test though, can it ship itself?')
+Item(by='ohyes', descendants=None, kids=[25002643], score=None, time=1604591330, title=None, item_type='comment', url=None, parent=24998995, text='you need to run your ship on iron fuel as well. I guess that is the test though, can it ship itself?')

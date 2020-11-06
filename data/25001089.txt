@@ -1,1 +1,1 @@
-Item(by='doggosphere', descendants=None, kids=None, score=None, time=1604604246, title=None, item_type='comment', url=None, parent=25000921, text='Citation?')
+Item(by='doggosphere', descendants=None, kids=[25001989], score=None, time=1604604246, title=None, item_type='comment', url=None, parent=25000921, text='Citation?')

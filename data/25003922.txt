@@ -1,0 +1,1 @@
+Item(by='willberman', descendants=None, kids=None, score=None, time=1604625669, title=None, item_type='comment', url=None, parent=25003243, text='+1 on vim with fzf and rg being enough for almost any task. I use that setup for most things and then when I need something with a little more syntactic awareness, I pop open my IDE.')

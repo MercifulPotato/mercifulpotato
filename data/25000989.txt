@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1604603535, title=None, item_type='comment', url=None, parent=25000976, text='Sounds all well and good until your bank account gets seized by the authorities.')
+Item(by='gruez', descendants=None, kids=[25002578], score=None, time=1604603535, title=None, item_type='comment', url=None, parent=25000976, text='Sounds all well and good until your bank account gets seized by the authorities.')

@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=0, kids=None, score=5, time=1604571398, title='The Allure of Supercavitating Torpedoes', item_type='story', url='https://www.naval-technology.com/features/featurethe-allure-of-supercavitating-torpedoes-5838643/', parent=None, text=None)
+Item(by='rbanffy', descendants=5, kids=[25003822, 25003821, 25003323], score=21, time=1604571398, title='The Allure of Supercavitating Torpedoes', item_type='story', url='https://www.naval-technology.com/features/featurethe-allure-of-supercavitating-torpedoes-5838643/', parent=None, text=None)

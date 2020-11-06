@@ -1,1 +1,1 @@
-Item(by='ilikecode', descendants=None, kids=None, score=None, time=1604603339, title=None, item_type='comment', url=None, parent=25000757, text='Maybe it took 8 years to crack the password?')
+Item(by='ilikecode', descendants=None, kids=[25001809], score=None, time=1604603339, title=None, item_type='comment', url=None, parent=25000757, text='Maybe it took 8 years to crack the password?')

@@ -1,1 +1,1 @@
-Item(by='lunchbreak', descendants=0, kids=None, score=3, time=1604590282, title="For 1 hour all of South Australia's power came from solar panels", item_type='story', url='https://www.abc.net.au/article/12810366', parent=None, text=None)
+Item(by='lunchbreak', descendants=1, kids=[25001732], score=3, time=1604590282, title="For 1 hour all of South Australia's power came from solar panels", item_type='story', url='https://www.abc.net.au/article/12810366', parent=None, text=None)

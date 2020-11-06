@@ -1,1 +1,1 @@
-Item(by='coolspot', descendants=None, kids=None, score=None, time=1604602691, title=None, item_type='comment', url=None, parent=24998419, text='Because all ML and data tools are written by scientists in Python: PyTorch, TensorFlow')
+Item(by='coolspot', descendants=None, kids=[25001904], score=None, time=1604602691, title=None, item_type='comment', url=None, parent=24998419, text='Because all ML and data tools are written by scientists in Python: PyTorch, TensorFlow')

@@ -1,0 +1,1 @@
+Item(by='sethammons', descendants=None, kids=None, score=None, time=1604619285, title=None, item_type='comment', url=None, parent=24996089, text='I like `grep -F` - it treats the search as a literal; no more escaping regex when you are really wanting a &quot;.&quot;.')

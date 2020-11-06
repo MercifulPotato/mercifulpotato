@@ -1,0 +1,1 @@
+Item(by='ball_of_lint', descendants=None, kids=None, score=None, time=1604622569, title=None, item_type='comment', url=None, parent=24999018, text='Git isn&#x27;t a great proxy for cli usage. Many developers use git exclusively through a GUI or their text editor.')

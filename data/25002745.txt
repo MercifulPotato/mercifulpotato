@@ -1,0 +1,1 @@
+Item(by='renewiltord', descendants=None, kids=None, score=None, time=1604615036, title=None, item_type='comment', url=None, parent=25001789, text='Very cool. I use GKE with nginx as my ingress controller. The Google LB ingresses are too expensive for this sort of thing.<p>Also appreciate the cert manager advice. Thank you!')

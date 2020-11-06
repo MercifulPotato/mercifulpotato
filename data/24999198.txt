@@ -1,1 +1,1 @@
-Item(by='drtz', descendants=None, kids=None, score=None, time=1604591128, title=None, item_type='comment', url=None, parent=24999110, text='I&#x27;m not aware of any languages so simple that renaming an identifier and its usages isn&#x27;t a useful feature.')
+Item(by='drtz', descendants=None, kids=[25002200], score=None, time=1604591128, title=None, item_type='comment', url=None, parent=24999110, text='I&#x27;m not aware of any languages so simple that renaming an identifier and its usages isn&#x27;t a useful feature.')

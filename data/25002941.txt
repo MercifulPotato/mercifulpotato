@@ -1,0 +1,1 @@
+Item(by='p_l', descendants=None, kids=[25002979], score=None, time=1604616529, title=None, item_type='comment', url=None, parent=25002715, text='I recently ended up setting up &quot;classic&quot; server again after a significant time keeping mostly containerized infrastructure on k8s.<p>Never again, the amount of things that are simply <i>harder</i> in comparison is staggering.')

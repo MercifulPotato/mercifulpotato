@@ -1,0 +1,1 @@
+Item(by='baking', descendants=None, kids=None, score=None, time=1604619971, title=None, item_type='comment', url=None, parent=25003240, text='I may be reading it wrong, but if there is a 50% chance that a worker can finish a task in one turn, two workers would help keep the backlog down to linear time.  But I learned it from Alvin Drake in 6.041.')

@@ -1,0 +1,1 @@
+Item(by='creata', descendants=None, kids=None, score=None, time=1604619621, title=None, item_type='comment', url=None, parent=25001936, text='It&#x27;s not just vim, either — most command-line tools let you write &quot;-&quot; where you&#x27;d usually write a filename, which tells them to use stdin as the file.')

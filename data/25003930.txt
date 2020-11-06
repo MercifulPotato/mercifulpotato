@@ -1,0 +1,1 @@
+Item(by='dsr_', descendants=None, kids=[25003995], score=None, time=1604625781, title=None, item_type='comment', url=None, parent=25003834, text='I keep config in git so that when I screw up, I can figure out how. What else would I be doing? Merging conflicts with my dev team?')

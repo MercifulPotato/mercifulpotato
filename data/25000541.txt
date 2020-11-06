@@ -1,1 +1,1 @@
-Item(by='moogly', descendants=None, kids=None, score=None, time=1604600343, title=None, item_type='comment', url=None, parent=25000220, text='I&#x27;ll buy &quot;undead&quot;, since it&#x27;s just maintenance (just check their roadmap).')
+Item(by='moogly', descendants=None, kids=[25002263], score=None, time=1604600343, title=None, item_type='comment', url=None, parent=25000220, text='I&#x27;ll buy &quot;undead&quot;, since it&#x27;s just maintenance (just check their roadmap).')

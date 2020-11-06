@@ -1,1 +1,1 @@
-Item(by='beervirus', descendants=None, kids=None, score=None, time=1604597333, title=None, item_type='comment', url=None, parent=24998259, text='Article definitely written by a nonlawyer.')
+Item(by='beervirus', descendants=None, kids=[25001900], score=None, time=1604597333, title=None, item_type='comment', url=None, parent=24998259, text='Article definitely written by a nonlawyer.')
