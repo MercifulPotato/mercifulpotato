@@ -1,0 +1,1 @@
+Item(by='dmurray', descendants=None, kids=[25010084], score=None, time=1604687962, title=None, item_type='comment', url=None, parent=25008665, text='What I meant was, cp chose one meaning for -p, ssh chose another. scp can&#x27;t match them both (so if scp had the behaviour you wanted, someone else who uses cp all the time would be confused by it).')

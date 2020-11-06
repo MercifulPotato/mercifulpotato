@@ -1,0 +1,1 @@
+Item(by='shawnz', descendants=None, kids=[25007545, 25008090], score=None, time=1604670170, title=None, item_type='comment', url=None, parent=25007488, text='Isn&#x27;t it decreasing attack surface if it&#x27;s removing functionality? Unless you typically disable SFTP on your servers, in which case it seems like there would be basically equal attack surface after this change.')

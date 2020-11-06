@@ -1,0 +1,1 @@
+Item(by='shoeffner', descendants=None, kids=[25010177], score=None, time=1604669244, title=None, item_type='comment', url=None, parent=25007061, text='If I got it correctly, they do not have do-while, it was only shown as an example operation. Instead, they only use &quot;for each&quot;, i.e., bounded loops directly on the data structures list&#x2F;array.')

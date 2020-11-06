@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[25010088, 25008727], score=None, time=1604672685, title=None, item_type='comment', url=None, parent=25006837, text='It feels like finding a deeply nested key in a structured document is a job for XPath. Most people including myself until recently ignore that XPath 3.1 operates on JSON.')

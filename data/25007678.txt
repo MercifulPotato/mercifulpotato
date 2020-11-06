@@ -1,0 +1,1 @@
+Item(by='shawnz', descendants=None, kids=None, score=None, time=1604671965, title=None, item_type='comment', url=None, parent=25007264, text='Dropbear only supports SFTP if you provide the sftp-server binary, same as how it only supports SCP if you provide the scp binary.')

@@ -1,1 +1,1 @@
-Item(by='mister_hn', descendants=None, kids=None, score=None, time=1604671050, title=None, item_type='comment', url=None, parent=24978090, text='A Motorola G9 Power? It can last for sure more than 3 days with 6000 mAh')
+Item(by='mister_hn', descendants=None, kids=[25008895], score=None, time=1604671050, title=None, item_type='comment', url=None, parent=24978090, text='A Motorola G9 Power? It can last for sure more than 3 days with 6000 mAh')

@@ -1,0 +1,1 @@
+Item(by='stjohnswarts', descendants=None, kids=[25008722], score=None, time=1604674650, title=None, item_type='comment', url=None, parent=25007922, text='rsync with the weird &#x2F; logic is annoying. I prefer scp. I&#x27;ll use rcp and dig around for the weird incantations if I have something that I need to sync regularly though.')

@@ -1,0 +1,1 @@
+Item(by='Conlectus', descendants=None, kids=None, score=None, time=1604682909, title=None, item_type='comment', url=None, parent=25009056, text='For finite sized memory, the problem can be solved by recording every system state (registers, memory values etc.) and seeing if the same state is ever reached twice. If so, the program will never terminate, and vice versa.')

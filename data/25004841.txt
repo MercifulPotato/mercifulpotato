@@ -1,1 +1,1 @@
-Item(by='vips7L', descendants=None, kids=None, score=None, time=1604636181, title=None, item_type='comment', url=None, parent=25000870, text='Then bind to Skia like both compose and flutter are doing? I don&#x27;t understand the problem here.')
+Item(by='vips7L', descendants=None, kids=[25009958], score=None, time=1604636181, title=None, item_type='comment', url=None, parent=25000870, text='Then bind to Skia like both compose and flutter are doing? I don&#x27;t understand the problem here.')

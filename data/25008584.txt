@@ -1,0 +1,1 @@
+Item(by='Joker_vD', descendants=None, kids=[25010328, 25008650], score=None, time=1604678590, title=None, item_type='comment', url=None, parent=25008432, text='No, count&#x2F;2 can sometimes take non-numbers in the second argument, behold:<p><pre><code>    1&gt; c(test_count).\n    {ok,test_count}\n    2&gt; test_count:count([], bang).\n    bang</code></pre>')

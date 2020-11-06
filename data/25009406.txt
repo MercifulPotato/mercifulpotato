@@ -1,0 +1,1 @@
+Item(by='light_hue_1', descendants=None, kids=None, score=None, time=1604684199, title=None, item_type='comment', url=None, parent=25009056, text='It does not. A Turing machine with a finite tape is called a Linear Bounded Automaton. Halting is decidable for LBAs, but we don&#x27;t know of any particularly fast algorithms for doing so.')

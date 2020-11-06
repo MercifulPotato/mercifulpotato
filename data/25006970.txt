@@ -1,1 +1,1 @@
-Item(by='whereistimbo', descendants=0, kids=None, score=2, time=1604663567, title='The Influence of Breathing on the Central Nervous System', item_type='story', url='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6070065/', parent=None, text=None)
+Item(by='whereistimbo', descendants=2, kids=[25009885, 25009908], score=2, time=1604663567, title='The Influence of Breathing on the Central Nervous System', item_type='story', url='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6070065/', parent=None, text=None)

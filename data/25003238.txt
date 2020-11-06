@@ -1,1 +1,1 @@
-Item(by='lokedhs', descendants=None, kids=None, score=None, time=1604618761, title=None, item_type='comment', url=None, parent=25002628, text='How&#x27;s do you you deal with Firefox updates where it refuses to load any pages until you restart?')
+Item(by='lokedhs', descendants=None, kids=[25008150], score=None, time=1604618761, title=None, item_type='comment', url=None, parent=25002628, text='How&#x27;s do you you deal with Firefox updates where it refuses to load any pages until you restart?')

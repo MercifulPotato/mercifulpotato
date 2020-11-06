@@ -1,0 +1,1 @@
+Item(by='pachico', descendants=None, kids=[25009854, 25009990], score=None, time=1604683974, title=None, item_type='comment', url=None, parent=25009347, text='I&#x27;m wondering how they manage the tables creation on a 100 nodes cluster. Is it all by hand?\nAnd why do to they use clickhouse_exporter? Doesn&#x27;t the built in exporter provide the required data?')

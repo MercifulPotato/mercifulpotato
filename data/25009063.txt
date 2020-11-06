@@ -1,0 +1,1 @@
+Item(by='marcosdumay', descendants=None, kids=None, score=None, time=1604681800, title=None, item_type='comment', url=None, parent=25007922, text='On the other hand, rsync just assumes the network is the only slow resource, and use plenty of everything else.<p>What is faster depends a lot on what you are trying to do. Rsync can be several times slower at times.')

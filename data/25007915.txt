@@ -1,0 +1,1 @@
+Item(by='zwilliamson', descendants=None, kids=None, score=None, time=1604673970, title=None, item_type='comment', url=None, parent=25003387, text='I moved my open source repos to GitHub Actions from TravisCI after experiencing 6+ hour build queues. So far, GitHub Actions has been great and I love the Super Linter!')

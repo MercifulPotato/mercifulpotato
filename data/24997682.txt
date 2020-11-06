@@ -1,1 +1,1 @@
-Item(by='sohkamyung', descendants=0, kids=None, score=1, time=1604579731, title='How to wear your baby to work', item_type='story', url='https://www.nature.com/articles/d41586-020-03142-2', parent=None, text=None)
+Item(by='sohkamyung', descendants=8, kids=[25009680, 25009605, 25009791, 25009696, 25009699], score=9, time=1604579731, title='How to wear your baby to work', item_type='story', url='https://www.nature.com/articles/d41586-020-03142-2', parent=None, text=None)

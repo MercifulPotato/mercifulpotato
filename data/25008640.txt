@@ -1,0 +1,1 @@
+Item(by='juancampa', descendants=None, kids=None, score=None, time=1604678953, title=None, item_type='comment', url=None, parent=25006277, text='Very nice! I don&#x27;t like that it can also make network requests. It&#x27;s potential security hole and completely unnecessary given that we already have curl and pipes for that.')

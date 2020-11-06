@@ -1,0 +1,1 @@
+Item(by='stjohnswarts', descendants=None, kids=None, score=None, time=1604675285, title=None, item_type='comment', url=None, parent=25007559, text='Yeah it will break a lot of old scripts, I&#x27;m guessing someone would just come up with equivalent commands for rsync and build an executable&#x2F;script around it to use the old scp flags and semantics.')

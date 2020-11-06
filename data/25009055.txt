@@ -1,0 +1,1 @@
+Item(by='jolmg', descendants=None, kids=None, score=None, time=1604681732, title=None, item_type='comment', url=None, parent=25005952, text='Refactoring doesn&#x27;t consist only of renaming identifiers, and for the portion that it does, regular vim features like `&#x2F;`, `c`, `n`, and `.` or macros or such are often enough.')

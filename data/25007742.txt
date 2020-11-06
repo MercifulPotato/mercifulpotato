@@ -1,0 +1,1 @@
+Item(by='rikatee', descendants=None, kids=None, score=None, time=1604672520, title=None, item_type='comment', url=None, parent=25007689, text='Perhaps I need to clarify &quot;auto fix&quot; - the dev still needs to click &quot;commit&quot; on the suggestion. Given a PR with 3 Django Doctor suggestions, 2 could be ignored and only 1 committed by the dev if they choose.')

@@ -1,0 +1,1 @@
+Item(by='jbirer', descendants=None, kids=[25008630, 25008583], score=None, time=1604678311, title=None, item_type='comment', url=None, parent=25005567, text='I use SCP all the time to transfer files to a VPS. I do not understand this trend of deprecating things that are working (X.org, SCP) with inferior alternatives (wayland, ssh cat etc).')

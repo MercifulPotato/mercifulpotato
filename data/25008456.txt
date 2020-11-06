@@ -1,0 +1,1 @@
+Item(by='dvfjsdhgfv', descendants=None, kids=[25008901], score=None, time=1604677794, title=None, item_type='comment', url=None, parent=25007539, text='OpenSSH takes ca. 2 minutes to build (the configure script probably takes longer than the compilation itself). Then you&#x27;re free to use just the scp binary if you really need to stick to the legacy version.')

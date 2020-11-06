@@ -1,0 +1,1 @@
+Item(by='stjohnswarts', descendants=None, kids=None, score=None, time=1604674771, title=None, item_type='comment', url=None, parent=25007901, text='exactly. I always do dry runs on folders and files to makes sure it&#x27;s not going to blow away something. Scp is nice and simple and close enough to what I need 95% of the time. I only use rsync when I need a sledgehammer')
