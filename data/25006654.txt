@@ -1,0 +1,1 @@
+Item(by='3np', descendants=None, kids=[25007516], score=None, time=1604659589, title=None, item_type='comment', url=None, parent=25006579, text='You need the sftp subsystem enabled on the server, which may be disabled on the server side (not that uncommon). The current scp still works fine in that scenario.')

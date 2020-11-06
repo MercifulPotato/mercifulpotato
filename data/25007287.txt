@@ -1,0 +1,1 @@
+Item(by='rzodkiew', descendants=None, kids=None, score=None, time=1604667654, title=None, item_type='comment', url=None, parent=25007046, text='I&#x27;m probably old fashioned, but I don&#x27;t understand why would I want something like that as a web-service, rather than something I can run locally (like all the js linters or rubocop).')

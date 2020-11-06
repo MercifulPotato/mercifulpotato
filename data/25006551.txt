@@ -1,0 +1,1 @@
+Item(by='gnufx', descendants=None, kids=None, score=None, time=1604658020, title=None, item_type='comment', url=None, parent=25003540, text='For what it&#x27;s worth, darcs can consume and produce git import&#x2F;export streams. I&#x27;ve synced a darcs repo with git and mercurial mirrors with cron (to avoid slowing down commits by doing it in a hook).')

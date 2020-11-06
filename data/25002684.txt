@@ -1,1 +1,1 @@
-Item(by='polski-g', descendants=None, kids=None, score=None, time=1604614612, title=None, item_type='comment', url=None, parent=24999784, text='Go needs to be renamed to something that can be googled.')
+Item(by='polski-g', descendants=None, kids=[25006440], score=None, time=1604614612, title=None, item_type='comment', url=None, parent=24999784, text='Go needs to be renamed to something that can be googled.')

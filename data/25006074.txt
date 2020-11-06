@@ -1,0 +1,1 @@
+Item(by='SuperCuber', descendants=None, kids=[25006332], score=None, time=1604652251, title=None, item_type='comment', url=None, parent=25006031, text='The problem is that it supports several files per transaction, for example recursively copying a folder from remote to local - then only the remote actually knows the names of the files and it has to send them.')

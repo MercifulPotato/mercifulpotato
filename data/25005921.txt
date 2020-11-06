@@ -1,0 +1,1 @@
+Item(by='sgt', descendants=None, kids=None, score=None, time=1604650001, title=None, item_type='comment', url=None, parent=25002002, text='Could it perhaps be fixed by having some kind of Snap cache for frequently used apps? At the expense of a little disk space, but vastly improving load times.')

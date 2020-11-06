@@ -1,0 +1,1 @@
+Item(by='dirkc', descendants=None, kids=None, score=None, time=1604662727, title=None, item_type='comment', url=None, parent=25004763, text='looks like you&#x27;re using terraform to provision your docker containers locally? What is the benefit over using docker-compose? Or do you also provision other things?')

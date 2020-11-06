@@ -1,1 +1,1 @@
-Item(by='dylan604', descendants=None, kids=None, score=None, time=1604632103, title=None, item_type='comment', url=None, parent=25003508, text='Do Americans really represent half of smart phone users? I would though it to be smaller than that given the population of the planet.')
+Item(by='dylan604', descendants=None, kids=[25007573], score=None, time=1604632103, title=None, item_type='comment', url=None, parent=25003508, text='Do Americans really represent half of smart phone users? I would though it to be smaller than that given the population of the planet.')

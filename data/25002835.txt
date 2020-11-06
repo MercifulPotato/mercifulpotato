@@ -1,1 +1,1 @@
-Item(by='jabo', descendants=5, kids=[25005250, 25005046, 25004365, 25003307, 25003410, 25004370], score=4, time=1604615665, title='Ask HN: What newsletters do you subscribe to (and read)?', item_type='story', url=None, parent=None, text=None)
+Item(by='jabo', descendants=5, kids=[25005046, 25005250, 25003307, 25004365, 25003410, 25004370], score=6, time=1604615665, title='Ask HN: What newsletters do you subscribe to (and read)?', item_type='story', url=None, parent=None, text=None)

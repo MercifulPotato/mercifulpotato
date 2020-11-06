@@ -1,0 +1,1 @@
+Item(by='Anthony-G', descendants=None, kids=None, score=None, time=1604668396, title=None, item_type='comment', url=None, parent=25005130, text='I run scripts using both dash and bash and always use `set -eu`.  Returning a false exit status is not a problem if you wrap the `grep` inside an `if` statement:<p><pre><code>   if grep pattern file; then echo y; fi</code></pre>')

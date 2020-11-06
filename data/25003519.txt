@@ -1,1 +1,1 @@
-Item(by='chriddyp', descendants=0, kids=None, score=1, time=1604621431, title='Store application logs in timescaleDB/Postgres', item_type='story', url='https://www.komu.engineer/blogs/timescaledb/timescaledb-for-logs', parent=None, text=None)
+Item(by='chriddyp', descendants=0, kids=None, score=2, time=1604621431, title='Store application logs in timescaleDB/Postgres', item_type='story', url='https://www.komu.engineer/blogs/timescaledb/timescaledb-for-logs', parent=None, text=None)

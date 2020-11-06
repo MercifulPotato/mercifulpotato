@@ -1,0 +1,1 @@
+Item(by='sildur', descendants=None, kids=[25006709, 25006130, 25006407, 25006374, 25006187], score=None, time=1604651608, title=None, item_type='comment', url=None, parent=25005567, text='Ah, the old &quot;too many boring bugs, let&#x27;s rewrite instead of fixing them (this time in rust!)&quot; adagio.')

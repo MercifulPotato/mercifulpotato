@@ -1,0 +1,1 @@
+Item(by='aprdm', descendants=None, kids=[25006786, 25006170], score=None, time=1604649640, title=None, item_type='comment', url=None, parent=25005702, text='Jenkins pipelines are written in Groovy and you do not need to use the web ui, everything is exposed via its API (i.e: new job creation).<p>I have heard good things about Concourse, want to give it a try in the future!')

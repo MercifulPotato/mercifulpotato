@@ -1,1 +1,1 @@
-Item(by='trevyn', descendants=None, kids=None, score=None, time=1604641678, title=None, item_type='comment', url=None, parent=25004817, text='I&#x27;m willing to bet that Airbnb monthly is just as convenient.')
+Item(by='trevyn', descendants=None, kids=[25006177], score=None, time=1604641678, title=None, item_type='comment', url=None, parent=25004817, text='I&#x27;m willing to bet that Airbnb monthly is just as convenient.')

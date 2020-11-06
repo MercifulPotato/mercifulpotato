@@ -1,1 +1,1 @@
-Item(by='FpUser', descendants=None, kids=None, score=None, time=1604627728, title=None, item_type='comment', url=None, parent=25003302, text='I said &quot;assuming&quot;. In no way I was pretending to be correct. Just a wild guess.')
+Item(by='FpUser', descendants=None, kids=[25007327], score=None, time=1604627728, title=None, item_type='comment', url=None, parent=25003302, text='I said &quot;assuming&quot;. In no way I was pretending to be correct. Just a wild guess.')

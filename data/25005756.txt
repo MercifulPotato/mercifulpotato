@@ -1,1 +1,1 @@
-Item(by='szatkus', descendants=None, kids=None, score=None, time=1604647798, title=None, item_type='comment', url=None, parent=25005639, text='If anything Finnish is much easier than Japanese for Europeans.')
+Item(by='szatkus', descendants=None, kids=[25005816], score=None, time=1604647798, title=None, item_type='comment', url=None, parent=25005639, text='If anything Finnish is much easier than Japanese for Europeans.')

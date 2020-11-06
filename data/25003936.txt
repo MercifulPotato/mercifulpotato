@@ -1,1 +1,1 @@
-Item(by='fomine3', descendants=None, kids=None, score=None, time=1604625811, title=None, item_type='comment', url=None, parent=25000745, text='Just curious, why scalping for PC parts wasn&#x27;t a huge thing until 2020?')
+Item(by='fomine3', descendants=None, kids=[25006547], score=None, time=1604625811, title=None, item_type='comment', url=None, parent=25000745, text='Just curious, why scalping for PC parts wasn&#x27;t a huge thing until 2020?')

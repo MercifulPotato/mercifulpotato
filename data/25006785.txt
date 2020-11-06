@@ -1,0 +1,1 @@
+Item(by='Buttons840', descendants=None, kids=[25007512, 25006982], score=None, time=1604661288, title=None, item_type='comment', url=None, parent=25006665, text='What does rsync&#x27;ing &quot;the directory itself&quot; (in contrast to the directory content) even do? A mkdir? Does it even need to use the network connection?')

@@ -1,1 +1,1 @@
-Item(by='Dagger2', descendants=None, kids=None, score=None, time=1604639674, title=None, item_type='comment', url=None, parent=25001036, text='How did we end up in this world where regular DNS updates aren&#x27;t considered to be &quot;regular dyndns&quot; :&#x2F;')
+Item(by='Dagger2', descendants=None, kids=[25007370], score=None, time=1604639674, title=None, item_type='comment', url=None, parent=25001036, text='How did we end up in this world where regular DNS updates aren&#x27;t considered to be &quot;regular dyndns&quot; :&#x2F;')

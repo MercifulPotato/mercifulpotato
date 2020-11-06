@@ -1,0 +1,1 @@
+Item(by='fest', descendants=None, kids=None, score=None, time=1604659658, title=None, item_type='comment', url=None, parent=25006615, text='A few weeks ago I was scratching my head why scp was working on an embedded board and sftp- not. Yocto&#x27;s default build recipes did not include the required plugin&#x2F;library for sftp functionality.')

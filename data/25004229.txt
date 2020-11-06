@@ -1,1 +1,1 @@
-Item(by='staktrace', descendants=1, kids=[25004436], score=3, time=1604628985, title='Data Science Is Hard: ALSA in Firefox', item_type='story', url='https://chuttenblog.wordpress.com/2020/11/05/data-science-is-hard-alsa-in-firefox/', parent=None, text=None)
+Item(by='staktrace', descendants=2, kids=[25006495, 25004436], score=4, time=1604628985, title='Data Science Is Hard: ALSA in Firefox', item_type='story', url='https://chuttenblog.wordpress.com/2020/11/05/data-science-is-hard-alsa-in-firefox/', parent=None, text=None)

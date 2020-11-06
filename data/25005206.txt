@@ -1,1 +1,1 @@
-Item(by='varbhat', descendants=0, kids=[25005685, 25005672], score=4, time=1604640917, title='Are We Wayland Yet?', item_type='story', url='https://arewewaylandyet.com/', parent=None, text=None)
+Item(by='varbhat', descendants=1, kids=[25005691, 25005672, 25005685], score=4, time=1604640917, title='Are We Wayland Yet?', item_type='story', url='https://arewewaylandyet.com/', parent=None, text=None)

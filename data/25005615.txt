@@ -1,1 +1,1 @@
-Item(by='walterbell', descendants=0, kids=None, score=1, time=1604646259, title='Sleeping with Half a Brain', item_type='story', url='https://www.scientificamerican.com/article/sleeping-with-half-a-brain/', parent=None, text=None)
+Item(by='walterbell', descendants=8, kids=[25006451, 25007260, 25006464, 25007261], score=22, time=1604646259, title='Sleeping with Half a Brain (2016)', item_type='story', url='https://www.scientificamerican.com/article/sleeping-with-half-a-brain/', parent=None, text=None)

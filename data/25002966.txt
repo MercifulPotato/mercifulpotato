@@ -1,1 +1,1 @@
-Item(by='bobuk', descendants=None, kids=None, score=None, time=1604616675, title=None, item_type='comment', url=None, parent=25002636, text='It&#x27;s like a zombie now, whole body is working but no brain activity at least for last 6 months.')
+Item(by='bobuk', descendants=None, kids=[25006468], score=None, time=1604616675, title=None, item_type='comment', url=None, parent=25002636, text='It&#x27;s like a zombie now, whole body is working but no brain activity at least for last 6 months.')

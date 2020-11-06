@@ -1,0 +1,1 @@
+Item(by='geerlingguy', descendants=None, kids=None, score=None, time=1604668323, title=None, item_type='comment', url=None, parent=25005910, text='That&#x27;s exactly how I have 95% of my travisfiles configured (15 or so lines to describe Travis config and install a couple deps, then &#x27;[testtool run]&#x27;. But I have over 200 projects to finish migrating.')
