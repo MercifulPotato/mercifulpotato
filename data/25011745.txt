@@ -1,1 +1,1 @@
-Item(by='Arelius', descendants=None, kids=None, score=None, time=1604701584, title=None, item_type='comment', url=None, parent=25010118, text='So who does that leave? Linux, Android and Stadia? And maybe Nintendo? There is about as much not supporting it as are.')
+Item(by='Arelius', descendants=None, kids=[25014004], score=None, time=1604701584, title=None, item_type='comment', url=None, parent=25010118, text='So who does that leave? Linux, Android and Stadia? And maybe Nintendo? There is about as much not supporting it as are.')

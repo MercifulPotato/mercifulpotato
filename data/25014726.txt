@@ -1,0 +1,1 @@
+Item(by='momentoftop', descendants=None, kids=None, score=None, time=1604752799, title=None, item_type='comment', url=None, parent=25012783, text='An MITM attack on an HTTPS connection looks exactly like an untrusted HTTPS connection, and the main purpose of HTTPS is to prevent a MITM. The browser should rightly scream louder here than it does for an unsecure HTTP connection.')

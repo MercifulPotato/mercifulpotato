@@ -1,1 +1,1 @@
-Item(by='christian_fei', descendants=0, kids=None, score=2, time=1604689663, title='Test driving a Hacker News scraper with Node.js', item_type='story', url='https://cri.dev/posts/2020-11-06-Test-driving-a-HackerNews-scraper-with-Nodejs/', parent=None, text=None)
+Item(by='christian_fei', descendants=0, kids=None, score=3, time=1604689663, title='Test driving a Hacker News scraper with Node.js', item_type='story', url='https://cri.dev/posts/2020-11-06-Test-driving-a-HackerNews-scraper-with-Nodejs/', parent=None, text=None)

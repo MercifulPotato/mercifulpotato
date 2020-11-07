@@ -1,1 +1,1 @@
-Item(by='logicry', descendants=0, kids=None, score=3, time=1604710146, title='Curious Pointers of Modern C++', item_type='story', url='https://blog.digitalreverie.com/posts/cpp-curious-pointers/', parent=None, text=None)
+Item(by='logicry', descendants=1, kids=[25014028], score=3, time=1604710146, title='Curious Pointers of Modern C++', item_type='story', url='https://blog.digitalreverie.com/posts/cpp-curious-pointers/', parent=None, text=None)

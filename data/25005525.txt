@@ -1,1 +1,1 @@
-Item(by='Fiveplus', descendants=61, kids=[25006212, 25006251, 25009643, 25011181, 25007317, 25006284, 25010960, 25009527, 25007886], score=204, time=1604645031, title='Real World Haskell', item_type='story', url='https://mmhaskell.com/real-world', parent=None, text=None)
+Item(by='Fiveplus', descendants=65, kids=[25006212, 25006251, 25009643, 25011181, 25007317, 25006284, 25010960, 25009527, 25007886], score=208, time=1604645031, title='Real World Haskell', item_type='story', url='https://mmhaskell.com/real-world', parent=None, text=None)

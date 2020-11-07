@@ -1,0 +1,1 @@
+Item(by='momentoftop', descendants=None, kids=None, score=None, time=1604751038, title=None, item_type='comment', url=None, parent=25012555, text='This code relies on GHC and GHC specific extensions. The mentioned pragmas are not defined by the 2010 standard.<p>The lastest GHC release is from August 8th of this year.')

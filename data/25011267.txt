@@ -1,1 +1,1 @@
-Item(by='apollinaire', descendants=0, kids=None, score=9, time=1604697465, title='The Living Mahabharata', item_type='story', url='https://aeon.co/essays/the-indian-epic-mahabharata-imparts-a-dark-nuanced-moral-vision', parent=None, text=None)
+Item(by='apollinaire', descendants=2, kids=[25013754, 25014346], score=9, time=1604697465, title='The Living Mahabharata', item_type='story', url='https://aeon.co/essays/the-indian-epic-mahabharata-imparts-a-dark-nuanced-moral-vision', parent=None, text=None)

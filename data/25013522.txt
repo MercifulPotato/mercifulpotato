@@ -1,1 +1,1 @@
-Item(by='latchkey', descendants=0, kids=None, score=1, time=1604730548, title='Why the Speed of Light Is Unmeasurable', item_type='story', url='https://www.youtube.com/watch?v=pTn6Ewhb27k', parent=None, text=None)
+Item(by='latchkey', descendants=1, kids=[25013719], score=6, time=1604730548, title='Why the Speed of Light Is Unmeasurable', item_type='story', url='https://www.youtube.com/watch?v=pTn6Ewhb27k', parent=None, text=None)

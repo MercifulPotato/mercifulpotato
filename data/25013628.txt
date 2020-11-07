@@ -1,1 +1,1 @@
-Item(by='rbecker', descendants=0, kids=None, score=1, time=1604733088, title='White America is quietly self-segregating (2017)', item_type='story', url='https://www.vox.com/2017/1/18/14296126/white-segregated-suburb-neighborhood-cartoon', parent=None, text=None)
+Item(by='rbecker', descendants=1, kids=[25014142], score=6, time=1604733088, title='White America is quietly self-segregating (2017)', item_type='story', url='https://www.vox.com/2017/1/18/14296126/white-segregated-suburb-neighborhood-cartoon', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='anirudhmurali', descendants=None, kids=None, score=None, time=1604736468, title=None, item_type='comment', url=None, parent=24988327, text='I believe Datadog and New Relic have integrations to monitor Google Cloud functions. You can also monitor through Cloud Monitoring if I am not wrong.')

@@ -1,0 +1,1 @@
+Item(by='nojvek', descendants=None, kids=[25014676], score=None, time=1604751923, title=None, item_type='comment', url=None, parent=25014027, text='AFAIK graphql does have response error codes. You should always have response error codes no matter the form of api. They are semantic info.')

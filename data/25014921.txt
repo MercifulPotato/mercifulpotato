@@ -1,0 +1,1 @@
+Item(by='diveanon', descendants=None, kids=None, score=None, time=1604755366, title=None, item_type='comment', url=None, parent=25014678, text='gRPC is coupled to individual services whereas graphql gives you an abstraction layer that allows you to expose your data in a controlled manner while allowing you the flexibility to refactor the underlying services whenever you want.')

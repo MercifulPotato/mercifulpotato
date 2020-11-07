@@ -1,1 +1,1 @@
-Item(by='kova12', descendants=None, kids=None, score=None, time=1604715981, title=None, item_type='comment', url=None, parent=25011760, text='Can you copy paste the text? Article is behind paywall')
+Item(by='kova12', descendants=None, kids=[25013809], score=None, time=1604715981, title=None, item_type='comment', url=None, parent=25011760, text='Can you copy paste the text? Article is behind paywall')

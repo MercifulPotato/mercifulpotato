@@ -1,0 +1,1 @@
+Item(by='calrain', descendants=None, kids=[25014815, 25015000, 25014790], score=None, time=1604753381, title=None, item_type='comment', url=None, parent=25014582, text='It&#x27;s incredibly difficult to optimize performance around.<p>With REST, I know how the data is being presented, and can craft DB queries with focused indexes to ensure it&#x27;s as fast as possible.')

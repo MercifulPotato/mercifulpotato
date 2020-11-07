@@ -1,0 +1,1 @@
+Item(by='nojvek', descendants=None, kids=None, score=None, time=1604753706, title=None, item_type='comment', url=None, parent=25014676, text='I could be wrong. Some of the graphql servers I have interacted with have given me useful error codes. E.g GitHub.<p>We do have nice wrappers around the request to raise a proper named exception regardless so it doesn’t matter.')

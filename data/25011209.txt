@@ -1,1 +1,1 @@
-Item(by='iso8859-1', descendants=None, kids=[25012816, 25011236], score=None, time=1604697136, title=None, item_type='comment', url=None, parent=25010955, text='A lot of GNOME is written in JavaScript now, this is just GIMP catching up to that ecosystem.')
+Item(by='iso8859-1', descendants=None, kids=[25011236, 25012816], score=None, time=1604697136, title=None, item_type='comment', url=None, parent=25010955, text='A lot of GNOME is written in JavaScript now, this is just GIMP catching up to that ecosystem.')

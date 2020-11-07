@@ -1,1 +1,1 @@
-Item(by='lukastyrychtr', descendants=0, kids=None, score=1, time=1604732268, title='Continuous Deployment for Rust Applications', item_type='story', url='https://www.lpalmieri.com/posts/2020-11-01-zero-to-production-5-how-to-deploy-a-rust-application/', parent=None, text=None)
+Item(by='lukastyrychtr', descendants=0, kids=None, score=2, time=1604732268, title='Continuous Deployment for Rust Applications', item_type='story', url='https://www.lpalmieri.com/posts/2020-11-01-zero-to-production-5-how-to-deploy-a-rust-application/', parent=None, text=None)

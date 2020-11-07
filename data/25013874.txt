@@ -1,0 +1,1 @@
+Item(by='bonzini', descendants=None, kids=[25014175], score=None, time=1604738623, title=None, item_type='comment', url=None, parent=25013854, text='It&#x27;s not real C64 BASIC though. POKE and GET didn&#x27;t work exactly like that. You&#x27;d need to know some details about the Commodore kernel&#x27;s memory map to port the game to a real C64.')

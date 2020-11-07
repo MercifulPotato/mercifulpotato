@@ -1,0 +1,1 @@
+Item(by='atmin', descendants=None, kids=None, score=None, time=1604745789, title=None, item_type='comment', url=None, parent=25014309, text='sql.js does this<p>&gt; sql.js uses emscripten to compile SQLite to webassembly (or to javascript code for compatibility with older browsers)<p>&gt; By default, sql.js uses wasm')

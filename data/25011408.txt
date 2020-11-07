@@ -1,1 +1,1 @@
-Item(by='chewxy', descendants=4, kids=[25013508, 25012902, 25012766], score=19, time=1604698463, title='Manual Memory Management in Go using jemalloc', item_type='story', url='https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/', parent=None, text=None)
+Item(by='chewxy', descendants=4, kids=[25012902, 25013508, 25012766], score=24, time=1604698463, title='Manual Memory Management in Go using jemalloc', item_type='story', url='https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/', parent=None, text=None)

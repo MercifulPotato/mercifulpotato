@@ -1,1 +1,1 @@
-Item(by='jonny_eh', descendants=None, kids=None, score=None, time=1604683234, title=None, item_type='comment', url=None, parent=25007925, text='&gt; A lot of &quot;new Googles&quot; got made.<p>Such as?')
+Item(by='jonny_eh', descendants=None, kids=[25014379], score=None, time=1604683234, title=None, item_type='comment', url=None, parent=25007925, text='&gt; A lot of &quot;new Googles&quot; got made.<p>Such as?')

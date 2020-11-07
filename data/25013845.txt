@@ -1,0 +1,1 @@
+Item(by='RedShift1', descendants=None, kids=[25013930, 25014009], score=None, time=1604738168, title=None, item_type='comment', url=None, parent=25013353, text='Another reason to use GraphQL. No more endless discussion about which HTTP codes to use, which HTTP action to use, how to send in data, how to format your response, ...')

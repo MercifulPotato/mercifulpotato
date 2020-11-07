@@ -1,0 +1,1 @@
+Item(by='yoz-y', descendants=None, kids=None, score=None, time=1604750076, title=None, item_type='comment', url=None, parent=25012371, text='I&#x27;ve been out of the loop for a while but I imagine this is because Flatpaks bundle all of the dependencies and thus you don&#x27;t run a risk of the installation of one deb resulting in broken dependencies for other programs.')

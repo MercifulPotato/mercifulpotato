@@ -1,1 +1,1 @@
-Item(by='emgo', descendants=6, kids=[25013429, 25002162, 25006124, 25005569], score=4, time=1604611521, title='Show HN: Sidenote – a web app to take timestamped notes on YouTube videos', item_type='story', url='https://sidenote.me', parent=None, text=None)
+Item(by='emgo', descendants=6, kids=[25002162, 25013429, 25006124, 25005569], score=4, time=1604611521, title='Show HN: Sidenote – a web app to take timestamped notes on YouTube videos', item_type='story', url='https://sidenote.me', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='twhitmore', descendants=0, kids=None, score=3, time=1604743345, title='Boolean comparisons cause extremely slow compilation in Swift', item_type='story', url='https://forums.swift.org/t/boolean-comparison-causes-extremely-slow-compilation/41609', parent=None, text=None)
