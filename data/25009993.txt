@@ -1,1 +1,1 @@
-Item(by='trillic', descendants=None, kids=None, score=None, time=1604687840, title=None, item_type='comment', url=None, parent=25009514, text='How much does that much data typically cost??')
+Item(by='trillic', descendants=None, kids=[25012980], score=None, time=1604687840, title=None, item_type='comment', url=None, parent=25009514, text='How much does that much data typically cost??')

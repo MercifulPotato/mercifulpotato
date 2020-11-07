@@ -1,1 +1,1 @@
-Item(by='raspyberr', descendants=None, kids=None, score=None, time=1604710045, title=None, item_type='comment', url=None, parent=25011590, text='I&#x27;ve already seen kids talking about &quot;classical rouglikes such as Spelunky&quot;. So no, it doesn&#x27;t.')
+Item(by='raspyberr', descendants=None, kids=[25012893], score=None, time=1604710045, title=None, item_type='comment', url=None, parent=25011590, text='I&#x27;ve already seen kids talking about &quot;classical rouglikes such as Spelunky&quot;. So no, it doesn&#x27;t.')

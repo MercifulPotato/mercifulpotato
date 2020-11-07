@@ -1,1 +1,1 @@
-Item(by='jonbaer', descendants=0, kids=None, score=5, time=1604703799, title="Saturn's Hexagon", item_type='story', url='https://en.wikipedia.org/wiki/Saturn%27s_hexagon', parent=None, text=None)
+Item(by='jonbaer', descendants=2, kids=[25013004, 25013016], score=5, time=1604703799, title="Saturn's Hexagon", item_type='story', url='https://en.wikipedia.org/wiki/Saturn%27s_hexagon', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='zhenyavinogrdov', descendants=None, kids=None, score=None, time=1604725768, title=None, item_type='comment', url=None, parent=25011604, text='Allowing untrusted certificates for https, and showing just a warning for them, would make it impossible for websites to ensure that their traffic is not intercepted')

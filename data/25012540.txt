@@ -1,1 +1,1 @@
-Item(by='julienchastang', descendants=1, kids=[25012578], score=3, time=1604711283, title='Are We Losing a Generation of Children to Remote Learning?', item_type='story', url='https://www.nytimes.com/2020/11/06/nyregion/nyc-remote-learning.html', parent=None, text=None)
+Item(by='julienchastang', descendants=3, kids=[25012967, 25012772, 25012578], score=4, time=1604711283, title='Are We Losing a Generation of Children to Remote Learning?', item_type='story', url='https://www.nytimes.com/2020/11/06/nyregion/nyc-remote-learning.html', parent=None, text=None)

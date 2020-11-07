@@ -1,1 +1,1 @@
-Item(by='masijo', descendants=4, kids=[25008370, 25006056], score=15, time=1604635472, title='Thorium-Based Nuclear Power', item_type='story', url='https://en.wikipedia.org/wiki/Thorium-based_nuclear_power', parent=None, text=None)
+Item(by='masijo', descendants=5, kids=[25008370, 25006056], score=15, time=1604635472, title='Thorium-Based Nuclear Power', item_type='story', url='https://en.wikipedia.org/wiki/Thorium-based_nuclear_power', parent=None, text=None)

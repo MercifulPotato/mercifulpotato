@@ -1,0 +1,1 @@
+Item(by='ReidZB', descendants=None, kids=None, score=None, time=1604715791, title=None, item_type='comment', url=None, parent=25011182, text='Yes, it is arguably an unholy contrivance, but someone&#x27;s already written it, and invoking it as a shell alias or likewise <i>is</i> both easy and useful.<p><pre><code>    $ jq-structure my-file.json</code></pre>')

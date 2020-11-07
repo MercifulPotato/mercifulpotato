@@ -1,1 +1,1 @@
-Item(by='takeda', descendants=None, kids=None, score=None, time=1604706524, title=None, item_type='comment', url=None, parent=25004946, text='I guess it is just my bias against tunnels. BTW: what is your bandwidth?')
+Item(by='takeda', descendants=None, kids=[25012935], score=None, time=1604706524, title=None, item_type='comment', url=None, parent=25004946, text='I guess it is just my bias against tunnels. BTW: what is your bandwidth?')

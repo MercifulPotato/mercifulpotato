@@ -1,1 +1,1 @@
-Item(by='tlarkworthy', descendants=1, kids=[25011858], score=7, time=1604699642, title='Ridiculously Rapid SaaS Development with Observable, Firebase and Stripe', item_type='story', url='https://observablehq.com/@tomlarkworthy/saas-tutorial', parent=None, text=None)
+Item(by='tlarkworthy', descendants=2, kids=[25013077, 25011858], score=11, time=1604699642, title='Ridiculously Rapid SaaS Development with Observable, Firebase and Stripe', item_type='story', url='https://observablehq.com/@tomlarkworthy/saas-tutorial', parent=None, text=None)

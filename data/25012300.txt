@@ -1,1 +1,1 @@
-Item(by='dukedougal', descendants=0, kids=None, score=3, time=1604707787, title='My 40 year quest to find a lost Roguelike', item_type='story', url='https://www.youtube.com/watch?v=xgBGrgucH2s', parent=None, text=None)
+Item(by='dukedougal', descendants=1, kids=[25012712], score=3, time=1604707787, title='My 40 year quest to find a lost Roguelike', item_type='story', url='https://www.youtube.com/watch?v=xgBGrgucH2s', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='mpweiher', descendants=0, kids=None, score=7, time=1604678426, title='The Lost Ways of Programming: Commodore 64 Basic', item_type='story', url='http://tomasp.net/commodore64/', parent=None, text=None)
+Item(by='mpweiher', descendants=15, kids=[25012837, 25012905, 25013695, 25013265, 25013139], score=87, time=1604678426, title='The Lost Ways of Programming: Commodore 64 Basic', item_type='story', url='http://tomasp.net/commodore64/', parent=None, text=None)

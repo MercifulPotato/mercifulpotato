@@ -1,1 +1,1 @@
-Item(by='GoblinSlayer', descendants=None, kids=None, score=None, time=1604691426, title=None, item_type='comment', url=None, parent=25009872, text='In firefox (at least in desktop version) you can disable javascript and css. Not sure if they are still downloaded.')
+Item(by='GoblinSlayer', descendants=None, kids=[25012942], score=None, time=1604691426, title=None, item_type='comment', url=None, parent=25009872, text='In firefox (at least in desktop version) you can disable javascript and css. Not sure if they are still downloaded.')

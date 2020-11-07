@@ -1,1 +1,1 @@
-Item(by='dbtc', descendants=None, kids=[25007391, 25005736, 25007730], score=None, time=1604638168, title=None, item_type='comment', url=None, parent=25003243, text='How do you hook vim up to email and HN comments?')
+Item(by='dbtc', descendants=None, kids=[25005736, 25007391, 25007730], score=None, time=1604638168, title=None, item_type='comment', url=None, parent=25003243, text='How do you hook vim up to email and HN comments?')

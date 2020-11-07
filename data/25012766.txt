@@ -1,0 +1,1 @@
+Item(by='erik_seaberg', descendants=None, kids=[25013309], score=None, time=1604714865, title=None, item_type='comment', url=None, parent=25011408, text='If you’ve brave enough to try managing memory yourself, C++ has a whole library of collections that support custom allocators without the readability penalty for FFI. I wish they would have written why they didn’t use it.')
