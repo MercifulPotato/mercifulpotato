@@ -1,0 +1,1 @@
+Item(by='joshspankit', descendants=None, kids=None, score=None, time=1604697129, title=None, item_type='comment', url=None, parent=25003792, text='Also on Proxmox, but run separate LXCs for each docker container. Lets me do per-“application” QoS&#x2F;monitoring as Proxmox is also running my firewall.<p>Am I missing out?')

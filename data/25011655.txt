@@ -1,0 +1,1 @@
+Item(by='jlgaddis', descendants=1, kids=[25011714], score=3, time=1604700727, title='RHEL 8.3: fapolicyd breaks system upgrade, leaving system in dead state', item_type='story', url='https://bugzilla.redhat.com/show_bug.cgi?id=1895467', parent=None, text=None)

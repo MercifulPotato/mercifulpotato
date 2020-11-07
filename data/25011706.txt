@@ -1,0 +1,1 @@
+Item(by='gravypod', descendants=None, kids=[25012203], score=None, time=1604701144, title=None, item_type='comment', url=None, parent=25011457, text='Your PV would likely still exist but the `mount` command on the pod&#x27;s cgroup will fail and you&#x27;ll get into a crashloop with a NotReady (I think).')

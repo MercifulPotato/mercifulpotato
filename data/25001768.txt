@@ -1,1 +1,1 @@
-Item(by='adamnemecek', descendants=2, kids=[25002947, 25003281], score=20, time=1604609086, title='Anu: Version control software in Rust, written by Pijul developers', item_type='story', url='https://nest.anu.dev/anu/anu', parent=None, text=None)
+Item(by='adamnemecek', descendants=2, kids=[25002947, 25003281], score=22, time=1604609086, title='Anu: Version control software in Rust, written by Pijul developers', item_type='story', url='https://nest.anu.dev/anu/anu', parent=None, text=None)

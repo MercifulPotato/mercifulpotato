@@ -1,1 +1,1 @@
-Item(by='sawirricardo', descendants=0, kids=[25007919], score=2, time=1604673831, title='Show HN: Only API Web (Or with JSON). Experimental Web', item_type='story', url='https://apionly.sawirstudio.com', parent=None, text=None)
+Item(by='sawirricardo', descendants=1, kids=[25011247, 25007919], score=2, time=1604673831, title='Show HN: Only API Web (Or with JSON). Experimental Web', item_type='story', url='https://apionly.sawirstudio.com', parent=None, text=None)

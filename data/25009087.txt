@@ -1,1 +1,1 @@
-Item(by='marcosdumay', descendants=None, kids=None, score=None, time=1604682010, title=None, item_type='comment', url=None, parent=25007117, text='And yet again security people universally makes uninformed decisions that hurt everything. Including security.')
+Item(by='marcosdumay', descendants=None, kids=[25010797], score=None, time=1604682010, title=None, item_type='comment', url=None, parent=25007117, text='And yet again security people universally makes uninformed decisions that hurt everything. Including security.')

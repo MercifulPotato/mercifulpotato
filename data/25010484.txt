@@ -1,1 +1,1 @@
-Item(by='aj7', descendants=None, kids=None, score=None, time=1604691829, title=None, item_type='comment', url=None, parent=25009490, text='What about birth control pills? Or any prescription, for that matter?')
+Item(by='aj7', descendants=None, kids=[25010580], score=None, time=1604691829, title=None, item_type='comment', url=None, parent=25009490, text='What about birth control pills? Or any prescription, for that matter?')

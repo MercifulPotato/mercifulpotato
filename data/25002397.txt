@@ -1,1 +1,1 @@
-Item(by='chmaynard', descendants=4, kids=[25004773, 25006336, 25004587, 25004349], score=42, time=1604612944, title='Deprecating scp', item_type='story', url='https://lwn.net/SubscriberLink/835962/2064b65b35d8ee12/', parent=None, text=None)
+Item(by='chmaynard', descendants=4, kids=[25004773, 25004587, 25006336, 25004349], score=45, time=1604612944, title='Deprecating scp', item_type='story', url='https://lwn.net/SubscriberLink/835962/2064b65b35d8ee12/', parent=None, text=None)

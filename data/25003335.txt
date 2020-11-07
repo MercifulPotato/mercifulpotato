@@ -1,1 +1,1 @@
-Item(by='cam0', descendants=None, kids=None, score=None, time=1604619595, title=None, item_type='comment', url=None, parent=25003201, text='Tokyo is consistently ranked as one of the most expensive cities in the world.')
+Item(by='cam0', descendants=None, kids=[25012697], score=None, time=1604619595, title=None, item_type='comment', url=None, parent=25003201, text='Tokyo is consistently ranked as one of the most expensive cities in the world.')

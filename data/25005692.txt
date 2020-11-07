@@ -1,1 +1,1 @@
-Item(by='pepys', descendants=0, kids=None, score=4, time=1604647068, title='Carrosses à Cinq Sols', item_type='story', url='https://en.wikipedia.org/wiki/Carrosses_à_cinq_sols', parent=None, text=None)
+Item(by='pepys', descendants=1, kids=[25012130], score=19, time=1604647068, title='Carrosses à Cinq Sols', item_type='story', url='https://en.wikipedia.org/wiki/Carrosses_à_cinq_sols', parent=None, text=None)

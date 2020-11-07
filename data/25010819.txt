@@ -1,0 +1,1 @@
+Item(by='based2', descendants=1, kids=[25010826], score=1, time=1604694548, title='CVE-2020-17510 Apache Shiro before 1.7.0, when using Apache Shiro with Spring, a', item_type='story', url='https://nvd.nist.gov/vuln/detail/CVE-2020-17510', parent=None, text=None)

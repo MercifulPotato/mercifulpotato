@@ -1,1 +1,1 @@
-Item(by='chmaynard', descendants=0, kids=None, score=5, time=1604676800, title='SQL.js: SQLite Compiled to JavaScript', item_type='story', url='https://sql.js.org/#/', parent=None, text=None)
+Item(by='chmaynard', descendants=29, kids=[25010718, 25012649, 25012349, 25011413], score=98, time=1604676800, title='SQL.js: SQLite Compiled to JavaScript', item_type='story', url='https://sql.js.org/#/', parent=None, text=None)

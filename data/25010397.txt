@@ -1,1 +1,1 @@
-Item(by='triceratops', descendants=None, kids=None, score=None, time=1604691153, title=None, item_type='comment', url=None, parent=25008720, text='Sounds like France is getting the better end of the bargain.')
+Item(by='triceratops', descendants=None, kids=[25011740], score=None, time=1604691153, title=None, item_type='comment', url=None, parent=25008720, text='Sounds like France is getting the better end of the bargain.')

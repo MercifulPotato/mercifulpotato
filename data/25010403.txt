@@ -1,1 +1,1 @@
-Item(by='lallysingh', descendants=None, kids=None, score=None, time=1604691198, title=None, item_type='comment', url=None, parent=25010137, text='My brothers have all come with regular full cartridges')
+Item(by='lallysingh', descendants=None, kids=[25010606], score=None, time=1604691198, title=None, item_type='comment', url=None, parent=25010137, text='My brothers have all come with regular full cartridges')

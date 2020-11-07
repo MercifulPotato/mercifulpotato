@@ -1,1 +1,1 @@
-Item(by='gerland', descendants=None, kids=None, score=None, time=1604664715, title=None, item_type='comment', url=None, parent=25005110, text='He was gay, so I would not be surprised by a pederastia incident.')
+Item(by='gerland', descendants=None, kids=[25011245], score=None, time=1604664715, title=None, item_type='comment', url=None, parent=25005110, text='He was gay, so I would not be surprised by a pederastia incident.')

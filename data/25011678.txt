@@ -1,0 +1,1 @@
+Item(by='BlueTemplar', descendants=None, kids=None, score=None, time=1604700858, title=None, item_type='comment', url=None, parent=25009181, text='E-mails should never be used as IDs (or logins), since they aren&#x27;t case-sensitive…<p>(the domain part by the RFC, but the local part is often made case-insensitive (and more!) by the e-mail providers.)')

@@ -1,1 +1,1 @@
-Item(by='rasz', descendants=None, kids=None, score=None, time=1604685010, title=None, item_type='comment', url=None, parent=25007513, text='My &quot;How to make money with online courses&quot; course is all sold out.')
+Item(by='rasz', descendants=None, kids=[25010500], score=None, time=1604685010, title=None, item_type='comment', url=None, parent=25007513, text='My &quot;How to make money with online courses&quot; course is all sold out.')

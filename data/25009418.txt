@@ -1,1 +1,1 @@
-Item(by='jeffrallen', descendants=None, kids=None, score=None, time=1604684277, title=None, item_type='comment', url=None, parent=25008159, text='After Rocket Lake comes Desperation Lake and then Up Shit Creek. The latter comes only in a low cost version, without paddle.')
+Item(by='jeffrallen', descendants=None, kids=[25011371], score=None, time=1604684277, title=None, item_type='comment', url=None, parent=25008159, text='After Rocket Lake comes Desperation Lake and then Up Shit Creek. The latter comes only in a low cost version, without paddle.')

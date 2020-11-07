@@ -1,0 +1,1 @@
+Item(by='Godel_unicode', descendants=None, kids=None, score=None, time=1604706215, title=None, item_type='comment', url=None, parent=25011747, text='If you&#x27;re generating that much logging though, you&#x27;re definitely not using brocut&#x2F;jq&#x2F;etc, you&#x27;re going to be well into Kafka&#x2F;Hadoop&#x2F;elk territory. See also, Apache metron.')

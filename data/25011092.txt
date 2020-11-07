@@ -1,0 +1,1 @@
+Item(by='parentheses', descendants=None, kids=None, score=None, time=1604696522, title=None, item_type='comment', url=None, parent=25001789, text='k8s is all about automating resource allocation&#x2F;topology among other things. this is a focus on what&#x27;s outside of the scope of the processes that are part of the system.<p>imo, personal servers rarely require this.')
