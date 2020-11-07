@@ -1,0 +1,1 @@
+Item(by='leesalminen', descendants=None, kids=None, score=None, time=1604765334, title=None, item_type='comment', url=None, parent=25015321, text='It’s up to whoever built the backend. GQL doesn’t care either way. If the person who built the back end wanted to allow query by phone number, they’d index that field to maintain query performance.')

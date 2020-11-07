@@ -1,1 +1,1 @@
-Item(by='elihu', descendants=None, kids=None, score=None, time=1604730479, title=None, item_type='comment', url=None, parent=25011827, text='There is another option, it&#x27;s just a lot harder than leaving and rarely said out loud.  Which is to organize.')
+Item(by='elihu', descendants=None, kids=[25015600], score=None, time=1604730479, title=None, item_type='comment', url=None, parent=25011827, text='There is another option, it&#x27;s just a lot harder than leaving and rarely said out loud.  Which is to organize.')

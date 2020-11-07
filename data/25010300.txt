@@ -1,1 +1,1 @@
-Item(by='read_if_gay_', descendants=None, kids=None, score=None, time=1604690341, title=None, item_type='comment', url=None, parent=25010052, text='Profound insights often seem obvious when stated.')
+Item(by='read_if_gay_', descendants=None, kids=[25016088], score=None, time=1604690341, title=None, item_type='comment', url=None, parent=25010052, text='Profound insights often seem obvious when stated.')

@@ -1,1 +1,1 @@
-Item(by='simion314', descendants=None, kids=None, score=None, time=1604675690, title=None, item_type='comment', url=None, parent=25003238, text='I click the restart button. It is annoying that it happens unexpectedly but not a big deal.')
+Item(by='simion314', descendants=None, kids=[25015296], score=None, time=1604675690, title=None, item_type='comment', url=None, parent=25003238, text='I click the restart button. It is annoying that it happens unexpectedly but not a big deal.')

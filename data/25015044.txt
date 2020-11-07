@@ -1,0 +1,1 @@
+Item(by='phyrex', descendants=None, kids=[25015198], score=None, time=1604756924, title=None, item_type='comment', url=None, parent=25014756, text='Fwiw, first-class parallelism was one of the premises of Clojure, but in practice those features aren’t used very heavily. I’m not sure why that is.')

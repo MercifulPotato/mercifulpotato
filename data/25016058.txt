@@ -1,0 +1,1 @@
+Item(by='gruez', descendants=None, kids=[25016196, 25017681], score=None, time=1604767045, title=None, item_type='comment', url=None, parent=25015968, text='It doesn&#x27;t, but only if you assume all text is utf-8. You can&#x27;t do that on windows because there&#x27;s plenty of legacy files that use encoding like windows-1252 which are incompatible with utf-8.')

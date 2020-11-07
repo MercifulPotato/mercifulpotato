@@ -1,0 +1,1 @@
+Item(by='MickerNews', descendants=None, kids=[25016058], score=None, time=1604766351, title=None, item_type='comment', url=None, parent=25015796, text='It shouldn&#x27;t need a BOM. Besides, UTF-8 doesn&#x27;t need a BOM at all.')

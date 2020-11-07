@@ -1,1 +1,1 @@
-Item(by='enferCLestOtre', descendants=None, kids=None, score=None, time=1604688456, title=None, item_type='comment', url=None, parent=25009158, text='what was the fatal design mistake ?')
+Item(by='enferCLestOtre', descendants=None, kids=[25017291], score=None, time=1604688456, title=None, item_type='comment', url=None, parent=25009158, text='what was the fatal design mistake ?')

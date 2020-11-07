@@ -1,0 +1,1 @@
+Item(by='jrimbault', descendants=None, kids=None, score=None, time=1604762958, title=None, item_type='comment', url=None, parent=25015539, text='That was also my thought getting to this line. First line is a list of the records fields names, then every line is a tuple of a record, convert tuple to struct and done.')

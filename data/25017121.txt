@@ -1,0 +1,1 @@
+Item(by='sdfhbdf', descendants=None, kids=[25017512], score=None, time=1604773532, title=None, item_type='comment', url=None, parent=25017077, text='That&#x27;s a very interesting idea.<p>Is there an example use case this could be useful for? Storing some audio&#x2F;video media for example?<p>Am I understanding it correctly that it&#x27;s kind of Redis with S3 persistance?')

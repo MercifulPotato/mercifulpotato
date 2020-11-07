@@ -1,0 +1,1 @@
+Item(by='rattray', descendants=None, kids=None, score=None, time=1604773951, title=None, item_type='comment', url=None, parent=25016954, text='Exactly. Could even add a doctype of some kind to indicate nothing follows the &quot;data&quot; key to help with streaming (though I&#x27;m not familiar with streaming json and this may not really help in practice).')

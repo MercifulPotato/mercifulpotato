@@ -1,0 +1,1 @@
+Item(by='webmaven', descendants=None, kids=None, score=None, time=1604763587, title=None, item_type='comment', url=None, parent=25015171, text='It isn&#x27;t always obvious for future workloads whether scaling out vs. scaling up will win.<p>And even when it is obvious for particular workloads, the relative value and demand of various future workloads is definitely non-obvious.')

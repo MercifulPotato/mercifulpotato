@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=None, score=None, time=1604765687, title=None, item_type='comment', url=None, parent=25015778, text='Yes it does. Excel does not generate valid CSV (as per RFC4180) on e.g. German computers.')

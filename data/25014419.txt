@@ -1,1 +1,1 @@
-Item(by='fatihguner', descendants=1, kids=[25014420], score=2, time=1604747366, title='I wrote a book about sales objections', item_type='story', url='https://customerobjections.com/', parent=None, text=None)
+Item(by='fatihguner', descendants=2, kids=[25017369, 25014420], score=4, time=1604747366, title='I wrote a book about sales objections', item_type='story', url='https://customerobjections.com/', parent=None, text=None)

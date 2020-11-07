@@ -1,0 +1,1 @@
+Item(by='pessimizer', descendants=None, kids=None, score=None, time=1604758945, title=None, item_type='comment', url=None, parent=25015182, text='Not really in Erlang, since you manually build the actors with a recursive tail call. There&#x27;s nothing called an &quot;actor&quot; in Erlang, but it&#x27;s definitely an actor-based language.')

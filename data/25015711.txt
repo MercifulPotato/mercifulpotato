@@ -1,0 +1,1 @@
+Item(by='freerobby', descendants=None, kids=[25015789, 25015870], score=None, time=1604764191, title=None, item_type='comment', url=None, parent=25015590, text='Yep, same problem with eMMC on Tesla&#x27;s Tegra board. Solution: mount &#x2F;var&#x2F;log and other such partitions as ramdisks :)')

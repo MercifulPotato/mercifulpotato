@@ -1,0 +1,1 @@
+Item(by='KptMarchewa', descendants=None, kids=None, score=None, time=1604771406, title=None, item_type='comment', url=None, parent=25015964, text='Do you think of any solutions for this other than batching? I&#x27;m working on something similar just now, and I buffer several million records in memory, then write the file to external storage.')

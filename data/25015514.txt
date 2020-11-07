@@ -1,0 +1,1 @@
+Item(by='jensneuse', descendants=None, kids=None, score=None, time=1604762197, title=None, item_type='comment', url=None, parent=25015156, text='I think it would be a nice feature @tanmaigo should add to Hasura if it&#x27;s not alredy there. Hasura could automatically detect slow queries and suggest indexes.')

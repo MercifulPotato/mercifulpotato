@@ -1,0 +1,1 @@
+Item(by='droffel', descendants=None, kids=None, score=None, time=1604774171, title=None, item_type='comment', url=None, parent=25017157, text='If you&#x27;ve got slow HDDs, the usual solution is to RAID them together. At that point your limiter starts becoming how fast you can slurp data down the line. RAID-0 would sort of emulate what you&#x27;re talking about here.')

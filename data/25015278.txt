@@ -1,0 +1,1 @@
+Item(by='iampims', descendants=None, kids=[25015311], score=None, time=1604759745, title=None, item_type='comment', url=None, parent=25015218, text='It’s up to the graphql server implementation to resolve queries however it sees fit.\nIn many cases this type of query would be implemented with a cursor, so not all users would be returned at once.')

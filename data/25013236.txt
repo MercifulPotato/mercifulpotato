@@ -1,1 +1,1 @@
-Item(by='tasty_freeze', descendants=None, kids=None, score=None, time=1604723527, title=None, item_type='comment', url=None, parent=25012550, text='Watch the linked video. He goes into that issue.')
+Item(by='tasty_freeze', descendants=None, kids=[25016845], score=None, time=1604723527, title=None, item_type='comment', url=None, parent=25012550, text='Watch the linked video. He goes into that issue.')

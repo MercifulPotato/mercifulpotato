@@ -1,1 +1,1 @@
-Item(by='rbekker87', descendants=0, kids=None, score=1, time=1604744300, title='Alerting with Loki when your Log Ingestion Rate goes above the set threshold', item_type='story', url='https://blog.ruanbekker.com/blog/2020/11/06/how-to-setup-alerting-with-loki/', parent=None, text=None)
+Item(by='rbekker87', descendants=0, kids=None, score=2, time=1604744300, title='Alerting with Loki when your Log Ingestion Rate goes above the set threshold', item_type='story', url='https://blog.ruanbekker.com/blog/2020/11/06/how-to-setup-alerting-with-loki/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='tdevito', descendants=0, kids=None, score=1, time=1604754377, title='Friendly Machine Learning for the Web', item_type='story', url='https://ml5js.org/', parent=None, text=None)
+Item(by='tdevito', descendants=2, kids=[25014982, 25014959], score=1, time=1604754377, title='Friendly Machine Learning for the Web', item_type='story', url='https://ml5js.org/', parent=None, text=None)

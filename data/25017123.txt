@@ -1,0 +1,1 @@
+Item(by='elitan', descendants=None, kids=None, score=None, time=1604773536, title=None, item_type='comment', url=None, parent=25015527, text='You need to set permissions manually for every GraphQL operation to be exposed with Hasura.<p>I think backend devs should be more worried about loosing 75% of their work when it comes to Hasura.')

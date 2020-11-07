@@ -1,0 +1,1 @@
+Item(by='diveanon', descendants=None, kids=None, score=None, time=1604761504, title=None, item_type='comment', url=None, parent=25015319, text='This problem is solved at the db layer. If your data is not queryable in an efficient manner from the DB then it doesn&#x27;t really matter if you use REST or GQL.')

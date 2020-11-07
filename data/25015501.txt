@@ -1,0 +1,1 @@
+Item(by='bpicolo', descendants=None, kids=[25015601], score=None, time=1604762076, title=None, item_type='comment', url=None, parent=25015457, text='&gt; uses POST by default<p>I&#x27;ve found that this leads to a huge miss on the observability side. The ecosystem of tools doesn&#x27;t solve for this well today, especially when it comes to the various vendor integrations.')

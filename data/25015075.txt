@@ -1,1 +1,1 @@
-Item(by='LeifCarrotson', descendants=None, kids=None, score=None, time=1604757211, title=None, item_type='comment', url=None, parent=25015005, text='The lasers used are going to be class 1, which is so low-power it can&#x27;t hurt and doesn&#x27;t require a label.')
+Item(by='LeifCarrotson', descendants=None, kids=[25015168], score=None, time=1604757211, title=None, item_type='comment', url=None, parent=25015005, text='The lasers used are going to be class 1, which is so low-power it can&#x27;t hurt and doesn&#x27;t require a label.')

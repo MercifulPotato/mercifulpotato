@@ -1,1 +1,1 @@
-Item(by='qqii', descendants=None, kids=None, score=None, time=1604688936, title=None, item_type='comment', url=None, parent=25010035, text='That won&#x27;t fix any other apps though will it? Anything that uses chrome webview for example.')
+Item(by='qqii', descendants=None, kids=[25015508], score=None, time=1604688936, title=None, item_type='comment', url=None, parent=25010035, text='That won&#x27;t fix any other apps though will it? Anything that uses chrome webview for example.')

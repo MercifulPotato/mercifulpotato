@@ -1,0 +1,1 @@
+Item(by='sharpercoder', descendants=None, kids=[25016162, 25016291], score=None, time=1604763408, title=None, item_type='comment', url=None, parent=25014721, text='We can still decide to start to use ascii 34, 35, 36 and 37. Sure, we&#x27;ll need to deal with tsv and csv backward compat. But at least we won&#x27;t have any escaping problems and can do very simple parsing.')
