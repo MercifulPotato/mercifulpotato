@@ -1,0 +1,1 @@
+Item(by='neop1x', descendants=None, kids=None, score=None, time=1604779821, title=None, item_type='comment', url=None, parent=25009074, text='Firefox is not a workaround for non-web mobile apps. Lots of them will stop working unless they do cert pinning &#x2F; have their own CA bundle or simply stop using LE..')

@@ -1,1 +1,1 @@
-Item(by='Clubber', descendants=None, kids=None, score=None, time=1604729093, title=None, item_type='comment', url=None, parent=24997059, text='Humans are emotional creatures that can think, not thinking creatures that have emotions.')
+Item(by='Clubber', descendants=None, kids=[25022217], score=None, time=1604729093, title=None, item_type='comment', url=None, parent=24997059, text='Humans are emotional creatures that can think, not thinking creatures that have emotions.')

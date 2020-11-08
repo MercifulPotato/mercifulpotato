@@ -1,0 +1,1 @@
+Item(by='ywei3410', descendants=None, kids=None, score=None, time=1604785831, title=None, item_type='comment', url=None, parent=25013698, text='Speaking from experience, session&#x2F;object management is always tricky with ORM&#x27;s. SQLAlchemy has been good for us; but the usage has been very, very disciplined and doesn&#x27;t look idiomatic.')

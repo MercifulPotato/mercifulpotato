@@ -1,1 +1,1 @@
-Item(by='petra', descendants=None, kids=None, score=None, time=1604774729, title=None, item_type='comment', url=None, parent=25014419, text='Yep , In order to get some free chapters , I need to enter my email , and login to a site.<p>That guy sure knows how to sell.')
+Item(by='petra', descendants=None, kids=[25019482], score=None, time=1604774729, title=None, item_type='comment', url=None, parent=25014419, text='Yep , In order to get some free chapters , I need to enter my email , and login to a site.<p>That guy sure knows how to sell.')

@@ -1,1 +1,1 @@
-Item(by='beervirus', descendants=None, kids=None, score=None, time=1604777297, title=None, item_type='comment', url=None, parent=25017774, text='Anyone who’s just been living life and not obsessively reading CNN will tell you that the last 4 years have been pretty ordinary and fine.')
+Item(by='beervirus', descendants=None, kids=[25018627], score=None, time=1604777297, title=None, item_type='comment', url=None, parent=25017774, text='Anyone who’s just been living life and not obsessively reading CNN will tell you that the last 4 years have been pretty ordinary and fine.')

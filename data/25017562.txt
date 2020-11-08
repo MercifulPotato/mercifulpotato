@@ -1,1 +1,1 @@
-Item(by='lemper', descendants=None, kids=None, score=None, time=1604775575, title=None, item_type='comment', url=None, parent=25017310, text='chief, it uses hotswap sockets. you don&#x27;t have to desolder the switches in case of trouble.')
+Item(by='lemper', descendants=None, kids=[25018083], score=None, time=1604775575, title=None, item_type='comment', url=None, parent=25017310, text='chief, it uses hotswap sockets. you don&#x27;t have to desolder the switches in case of trouble.')

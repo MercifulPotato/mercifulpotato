@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=2, time=1604762132, title='For Millions Deep in Student Loan Debt, Bankruptcy Is No Easy Fix', item_type='story', url='https://www.nytimes.com/2020/11/07/your-money/student-loans-bankruptcy.html', parent=None, text=None)
+Item(by='pseudolus', descendants=0, kids=[25021419], score=2, time=1604762132, title='For Millions Deep in Student Loan Debt, Bankruptcy Is No Easy Fix', item_type='story', url='https://www.nytimes.com/2020/11/07/your-money/student-loans-bankruptcy.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='graderjs', descendants=0, kids=None, score=2, time=1604770046, title='Show HN: JSPaint.exe – MS Paint as a cross-platform binary', item_type='story', url='https://github.com/c9fe/jspaint.exe', parent=None, text=None)
+Item(by='graderjs', descendants=4, kids=[25021344, 25020752], score=11, time=1604770046, title='Show HN: JSPaint.exe – MS Paint as a cross-platform binary', item_type='story', url='https://github.com/c9fe/jspaint.exe', parent=None, text=None)

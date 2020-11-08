@@ -1,0 +1,1 @@
+Item(by='mholt', descendants=None, kids=None, score=None, time=1604790067, title=None, item_type='comment', url=None, parent=25019095, text='BuyPass doesn&#x27;t support wildcards, and only allows up to 5 subjects per certificate (Caddy only uses 1 SAN, but still) -- and Caddy is a ZeroSSL project. We also prefer shorter cert lifetimes.')

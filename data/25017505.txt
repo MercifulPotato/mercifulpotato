@@ -1,1 +1,1 @@
-Item(by='amf12', descendants=None, kids=None, score=None, time=1604775329, title=None, item_type='comment', url=None, parent=25017426, text='The difference being Joe did not call himself that. He waited for AP to call it.')
+Item(by='amf12', descendants=None, kids=[25021141], score=None, time=1604775329, title=None, item_type='comment', url=None, parent=25017426, text='The difference being Joe did not call himself that. He waited for AP to call it.')

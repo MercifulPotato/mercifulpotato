@@ -1,1 +1,1 @@
-Item(by='asicsp', descendants=0, kids=[25007225], score=1, time=1604661751, title='Show HN: Perl One-Liners Cookbook', item_type='story', url='https://learnbyexample.github.io/learn_perl_oneliners/one-liner-introduction.html', parent=None, text=None)
+Item(by='asicsp', descendants=5, kids=[25021660, 25007225, 25021618, 25021410], score=19, time=1604661751, title='Perl One-Liners Cookbook', item_type='story', url='https://learnbyexample.github.io/learn_perl_oneliners/one-liner-introduction.html', parent=None, text=None)

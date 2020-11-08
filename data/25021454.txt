@@ -1,0 +1,1 @@
+Item(by='musicale', descendants=None, kids=None, score=None, time=1604795681, title=None, item_type='comment', url=None, parent=25008941, text='I like the cgroups approach because it seems to logically build on the established idea of process groups.<p>I also tend to think that processes in cgroups are a sweet spot of lightweight containerization that can do quite a bit.')

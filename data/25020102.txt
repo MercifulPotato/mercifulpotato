@@ -1,0 +1,1 @@
+Item(by='maerF0x0', descendants=None, kids=[25022116], score=None, time=1604787351, title=None, item_type='comment', url=None, parent=25015721, text='golang builtin doesnt handle UTF BOM well . have to preprocess the io.Reader')

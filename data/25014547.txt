@@ -1,1 +1,1 @@
-Item(by='bokwoon', descendants=None, kids=None, score=None, time=1604749631, title=None, item_type='comment', url=None, parent=25013813, text='Could you explain what you mean by things start getting hard? Why did the languages you mentioned stop using their HTTP interfaces?')
+Item(by='bokwoon', descendants=None, kids=[25019526], score=None, time=1604749631, title=None, item_type='comment', url=None, parent=25013813, text='Could you explain what you mean by things start getting hard? Why did the languages you mentioned stop using their HTTP interfaces?')

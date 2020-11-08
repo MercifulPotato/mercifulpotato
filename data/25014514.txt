@@ -1,1 +1,1 @@
-Item(by='anoncake', descendants=None, kids=None, score=None, time=1604749048, title=None, item_type='comment', url=None, parent=25013602, text='Does a viral load at the levels the article calls a false positive still trigger the production of antibodies?')
+Item(by='anoncake', descendants=None, kids=[25018642], score=None, time=1604749048, title=None, item_type='comment', url=None, parent=25013602, text='Does a viral load at the levels the article calls a false positive still trigger the production of antibodies?')

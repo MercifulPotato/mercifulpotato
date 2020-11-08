@@ -1,0 +1,1 @@
+Item(by='AsyncAwait', descendants=None, kids=None, score=None, time=1604785689, title=None, item_type='comment', url=None, parent=25014582, text='Am curious how well is GraphQL supported outside the JavaScript ecosystem. I know there are various unofficial libraries, but it seems that gRPC has far better official support for non-JS&#x2F;non-Node ecosystems.')

@@ -1,1 +1,1 @@
-Item(by='wnevets', descendants=None, kids=None, score=None, time=1604609717, title=None, item_type='comment', url=None, parent=25001821, text='That may have been their public explanation after being caught throttling the hardware.')
+Item(by='wnevets', descendants=None, kids=[25021318], score=None, time=1604609717, title=None, item_type='comment', url=None, parent=25001821, text='That may have been their public explanation after being caught throttling the hardware.')

@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=None, score=None, time=1604791500, title=None, item_type='comment', url=None, parent=25019129, text='honestly passing around allocators is only a thing to worry about if you&#x27;re a <i>library writer</i>, if you&#x27;re a <i>library consumer</i>, just make a global GP allocator for your program, and pass that in when you need it.')

@@ -1,1 +1,1 @@
-Item(by='rtx', descendants=None, kids=None, score=None, time=1604777880, title=None, item_type='comment', url=None, parent=25018062, text='Sitting ducks, more of aliablity today.')
+Item(by='rtx', descendants=None, kids=[25018232], score=None, time=1604777880, title=None, item_type='comment', url=None, parent=25018062, text='Sitting ducks, more of aliablity today.')

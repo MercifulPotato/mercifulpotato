@@ -1,0 +1,1 @@
+Item(by='zomglings', descendants=None, kids=None, score=None, time=1604786754, title=None, item_type='comment', url=None, parent=25018585, text='The easiest way for us to manage this complexity was to add new, simple, RPC endpoints to our vanilla API. It certainly wasn&#x27;t worth adding GraphQL resolvers to the mix.')
