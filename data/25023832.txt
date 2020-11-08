@@ -1,0 +1,1 @@
+Item(by='blepblep', descendants=None, kids=[25023863], score=None, time=1604820289, title=None, item_type='comment', url=None, parent=25023527, text='Not to say I agree with that comment. But I think the case for why ECC would be easier to break than RSA using quantum computing is that key sizes of ECC are much smaller so would require less qbits to break.')

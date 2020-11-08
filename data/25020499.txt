@@ -1,1 +1,1 @@
-Item(by='Tyr42', descendants=None, kids=None, score=None, time=1604789773, title=None, item_type='comment', url=None, parent=25019351, text='I mean, pay Factorio and you can see it.')
+Item(by='Tyr42', descendants=None, kids=[25022448], score=None, time=1604789773, title=None, item_type='comment', url=None, parent=25019351, text='I mean, pay Factorio and you can see it.')

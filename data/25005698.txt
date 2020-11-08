@@ -1,1 +1,1 @@
-Item(by='emptybits', descendants=2, kids=[25018179, 25017635], score=16, time=1604647113, title='The Complexity of Songs (1984) [pdf]', item_type='story', url='http://www.cs.bme.hu/~friedl/alg/knuth_song_complexity.pdf', parent=None, text=None)
+Item(by='emptybits', descendants=2, kids=[25018179, 25017635], score=20, time=1604647113, title='The Complexity of Songs (1984) [pdf]', item_type='story', url='http://www.cs.bme.hu/~friedl/alg/knuth_song_complexity.pdf', parent=None, text=None)

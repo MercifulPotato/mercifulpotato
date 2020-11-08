@@ -1,1 +1,1 @@
-Item(by='Gaelan', descendants=None, kids=None, score=None, time=1604763576, title=None, item_type='comment', url=None, parent=25015248, text='I wonder how hard it would be to build a proxy of sorts that sat in front of WorldWideWeb and let it speak HTTPS and HTTP&#x2F;1.1.')
+Item(by='Gaelan', descendants=None, kids=[25022081], score=None, time=1604763576, title=None, item_type='comment', url=None, parent=25015248, text='I wonder how hard it would be to build a proxy of sorts that sat in front of WorldWideWeb and let it speak HTTPS and HTTP&#x2F;1.1.')

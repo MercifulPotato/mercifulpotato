@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=None, score=None, time=1604820984, title=None, item_type='comment', url=None, parent=25023353, text='There&#x27;s a great Boneh talk discussing the history of elliptic curves that refutes this weird argument. At any rate, the history of elliptic curves and RSA in <i>cryptography</i> is intimately intertwined.')

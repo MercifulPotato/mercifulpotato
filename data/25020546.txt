@@ -1,1 +1,1 @@
-Item(by='arrrg', descendants=None, kids=None, score=None, time=1604790049, title=None, item_type='comment', url=None, parent=25019383, text='Why rightfully?')
+Item(by='arrrg', descendants=None, kids=[25022317], score=None, time=1604790049, title=None, item_type='comment', url=None, parent=25019383, text='Why rightfully?')

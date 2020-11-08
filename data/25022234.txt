@@ -1,1 +1,1 @@
-Item(by='p0nce', descendants=None, kids=None, score=None, time=1604802552, title=None, item_type='comment', url=None, parent=25019753, text='Device makers should stay in their device-making roles.')
+Item(by='p0nce', descendants=None, kids=[25022321], score=None, time=1604802552, title=None, item_type='comment', url=None, parent=25019753, text='Device makers should stay in their device-making roles.')

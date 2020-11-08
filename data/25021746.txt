@@ -1,1 +1,1 @@
-Item(by='vmception', descendants=None, kids=None, score=None, time=1604797758, title=None, item_type='comment', url=None, parent=25021604, text='git clone &amp;&amp; move on<p>works perfectly fine for me')
+Item(by='vmception', descendants=None, kids=[25023059], score=None, time=1604797758, title=None, item_type='comment', url=None, parent=25021604, text='git clone &amp;&amp; move on<p>works perfectly fine for me')

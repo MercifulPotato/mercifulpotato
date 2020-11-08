@@ -1,0 +1,1 @@
+Item(by='mundo', descendants=None, kids=[25023392], score=None, time=1604814307, title=None, item_type='comment', url=None, parent=25023323, text='&gt; Trail of Bits recommends using Curve25519 for key exchange and digital signatures... it is implemented in libsodium, which has easy-to-read documentation and is available for most languages.')

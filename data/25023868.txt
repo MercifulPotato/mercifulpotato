@@ -1,0 +1,1 @@
+Item(by='gsathya_hn', descendants=None, kids=None, score=None, time=1604820645, title=None, item_type='comment', url=None, parent=25018453, text='The doc is incorrect, `let`(and even `var`) does perform as well as `const` in optimized code (but it comes with performance cliffs, if there is a re-assignment).')

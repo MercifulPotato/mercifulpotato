@@ -1,1 +1,1 @@
-Item(by='sillysaurusx', descendants=None, kids=[25005309, 25005392], score=None, time=1604636262, title=None, item_type='comment', url=None, parent=25004554, text='Amusingly, this is almost identical to how HN’s database works. Or worked.<p>It wasn’t json, but it probably could’ve been.')
+Item(by='sillysaurusx', descendants=None, kids=[25005392, 25005309], score=None, time=1604636262, title=None, item_type='comment', url=None, parent=25004554, text='Amusingly, this is almost identical to how HN’s database works. Or worked.<p>It wasn’t json, but it probably could’ve been.')

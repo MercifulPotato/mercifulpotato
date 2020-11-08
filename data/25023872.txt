@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=None, score=None, time=1604820705, title=None, item_type='comment', url=None, parent=25023323, text='You use ECDH to establish keys for sessions or files. You use ECDSA and ECC-Schnorr stuff like Ed25519 to sign things. That covers 99.9% of what RSA is used for. HTH.')

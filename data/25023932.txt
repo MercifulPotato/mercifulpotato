@@ -1,0 +1,1 @@
+Item(by='xedrac', descendants=None, kids=None, score=None, time=1604821441, title=None, item_type='comment', url=None, parent=25015338, text='I think Zig might be better suited for Linux kernel development than Rust, even though I really love Rust.  My biggest issue with Zig is that heap allocated memory must be manually freed.  There is no RAII, smart pointers etc...')

@@ -1,1 +1,1 @@
-Item(by='pizza', descendants=0, kids=None, score=2, time=1604796631, title='cdecl: C Gibberish ↔ English', item_type='story', url='https://cdecl.org/', parent=None, text=None)
+Item(by='pizza', descendants=4, kids=[25023365, 25023546, 25022603], score=11, time=1604796631, title='cdecl: C Gibberish ↔ English', item_type='story', url='https://cdecl.org/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='NullPrefix', descendants=None, kids=[25023725], score=None, time=1604818290, title=None, item_type='comment', url=None, parent=25023635, text='Why would they? Given two random numbers with a size of n, the probability that upper halves (size of upper half is n&#x2F;2) are the same is 1&#x2F;(1+n&#x2F;2).')

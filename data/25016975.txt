@@ -1,1 +1,1 @@
-Item(by='dave_sid', descendants=None, kids=None, score=None, time=1604772493, title=None, item_type='comment', url=None, parent=25014871, text='Why post your comment?')
+Item(by='dave_sid', descendants=None, kids=[25022953], score=None, time=1604772493, title=None, item_type='comment', url=None, parent=25014871, text='Why post your comment?')

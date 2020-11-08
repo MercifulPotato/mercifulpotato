@@ -1,1 +1,1 @@
-Item(by='devindotcom', descendants=None, kids=None, score=None, time=1604780330, title=None, item_type='comment', url=None, parent=25015667, text='Oh man. I&#x27;ve been fantasizing about an ASCII-based windowed UI like this for years. I want this to be a real thing.')
+Item(by='devindotcom', descendants=None, kids=[25023409], score=None, time=1604780330, title=None, item_type='comment', url=None, parent=25015667, text='Oh man. I&#x27;ve been fantasizing about an ASCII-based windowed UI like this for years. I want this to be a real thing.')

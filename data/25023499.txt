@@ -1,0 +1,1 @@
+Item(by='ktta', descendants=None, kids=[25023572], score=None, time=1604815780, title=None, item_type='comment', url=None, parent=25023301, text='For TLS certs, you can just use ECDSA. Let&#x27;s Encrypt has a ECDSA root.')
