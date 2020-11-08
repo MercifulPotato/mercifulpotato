@@ -1,1 +1,1 @@
-Item(by='tjalfi', descendants=6, kids=[25024619], score=22, time=1604724829, title='Why TCP Timers Don’t Work Well (1986) [pdf]', item_type='story', url='http://comet.lehman.cuny.edu/griffeth/classes/Spring06/Homeworks/Papers/2_22WhyTCPTimersDontWorkWell.pdf', parent=None, text=None)
+Item(by='tjalfi', descendants=13, kids=[25024619, 25026131], score=34, time=1604724829, title='Why TCP Timers Don’t Work Well (1986) [pdf]', item_type='story', url='http://comet.lehman.cuny.edu/griffeth/classes/Spring06/Homeworks/Papers/2_22WhyTCPTimersDontWorkWell.pdf', parent=None, text=None)

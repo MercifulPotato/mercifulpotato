@@ -1,0 +1,1 @@
+Item(by='trulyrandom', descendants=None, kids=None, score=None, time=1604853906, title=None, item_type='comment', url=None, parent=25026211, text='Applying kernel patches in NixOS is actually really easy. Look up the &quot;boot.kernelPatches&quot; option.')

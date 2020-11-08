@@ -1,0 +1,1 @@
+Item(by='CameronNemo', descendants=None, kids=None, score=None, time=1604862690, title=None, item_type='comment', url=None, parent=25028008, text='Also FWIW gtk is not difficult to build&#x2F;package, distros like Void Linux no longer have Qt 4, and gtk2 should be an uncommon dependency with GIMP, Inkscape, and Firefox dropping it or already having dropped it.')

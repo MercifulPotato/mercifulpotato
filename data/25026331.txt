@@ -1,0 +1,1 @@
+Item(by='seattle_spring', descendants=None, kids=[25026470], score=None, time=1604849471, title=None, item_type='comment', url=None, parent=25026310, text='Did you read the code? It <i>is</i> standard functionality, but only in newer Node versions and browsers. The linked package is basically a polyfill.')

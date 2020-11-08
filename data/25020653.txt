@@ -1,1 +1,1 @@
-Item(by='chrismcb', descendants=None, kids=None, score=None, time=1604790574, title=None, item_type='comment', url=None, parent=25019734, text='What is more likely is that some vote recount changes things. It is highly unlikely that an ejector will change their mind.')
+Item(by='chrismcb', descendants=None, kids=[25026340], score=None, time=1604790574, title=None, item_type='comment', url=None, parent=25019734, text='What is more likely is that some vote recount changes things. It is highly unlikely that an ejector will change their mind.')

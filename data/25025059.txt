@@ -1,1 +1,1 @@
-Item(by='garmaine', descendants=None, kids=None, score=None, time=1604835413, title=None, item_type='comment', url=None, parent=25025026, text='These sorts of things are routinely published in journals, no? I’ve seen Disney animatronic stuff show up in SIGGRAPH.')
+Item(by='garmaine', descendants=None, kids=[25027019], score=None, time=1604835413, title=None, item_type='comment', url=None, parent=25025026, text='These sorts of things are routinely published in journals, no? I’ve seen Disney animatronic stuff show up in SIGGRAPH.')

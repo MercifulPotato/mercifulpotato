@@ -1,1 +1,1 @@
-Item(by='pizza', descendants=18, kids=[25024713, 25025246, 25024445, 25022603, 25023365, 25024394, 25024308, 25023546], score=48, time=1604796631, title='Cdecl – C gibberish ↔ English', item_type='story', url='https://cdecl.org/', parent=None, text=None)
+Item(by='pizza', descendants=25, kids=[25024713, 25023365, 25024445, 25022603, 25025246, 25026149, 25023546, 25024308, 25024394], score=63, time=1604796631, title='Cdecl – C gibberish ↔ English', item_type='story', url='https://cdecl.org/', parent=None, text=None)

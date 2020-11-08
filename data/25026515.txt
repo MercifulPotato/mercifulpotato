@@ -1,0 +1,1 @@
+Item(by='shmerl', descendants=None, kids=None, score=None, time=1604850830, title=None, item_type='comment', url=None, parent=25026105, text='Running anything in VM is always not bare metal. Just run Linux on your hardware. The only use case for WSL is when someone forces Windows on you (like corp IT?) and you don&#x27;t have a choice.')

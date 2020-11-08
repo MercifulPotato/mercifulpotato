@@ -1,0 +1,1 @@
+Item(by='avoidwork', descendants=None, kids=None, score=None, time=1604848610, title=None, item_type='comment', url=None, parent=25026105, text='can confirm. i&#x27;ve also found really odd bottlenecks with hyperv virtual switches (even with &quot;for workstation&quot; sku with a 3970x). i now have a proxmox ve machine for all local non-windows needs on an i7 nuc.')

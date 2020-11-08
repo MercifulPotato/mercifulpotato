@@ -1,0 +1,1 @@
+Item(by='gonzo41', descendants=None, kids=[25026588, 25026560], score=None, time=1604850274, title=None, item_type='comment', url=None, parent=25026400, text='Actually I did read the function, and I thought about the cycles that  toString.call(arr) == &#x27;[object Array]&#x27; costs.')

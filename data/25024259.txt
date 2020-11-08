@@ -1,1 +1,1 @@
-Item(by='Aeolun', descendants=None, kids=None, score=None, time=1604825977, title=None, item_type='comment', url=None, parent=25023695, text='Why? Are you a terrorist or in a most-wanted database?')
+Item(by='Aeolun', descendants=None, kids=[25025856], score=None, time=1604825977, title=None, item_type='comment', url=None, parent=25023695, text='Why? Are you a terrorist or in a most-wanted database?')

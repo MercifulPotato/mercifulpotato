@@ -1,1 +1,1 @@
-Item(by='jitl', descendants=None, kids=None, score=None, time=1604776899, title=None, item_type='comment', url=None, parent=25007326, text='How do you handle collaboration and search? Does the browser need to load all the records from the server to search them?')
+Item(by='jitl', descendants=None, kids=[25025671], score=None, time=1604776899, title=None, item_type='comment', url=None, parent=25007326, text='How do you handle collaboration and search? Does the browser need to load all the records from the server to search them?')

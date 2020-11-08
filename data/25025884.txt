@@ -1,1 +1,1 @@
-Item(by='db48x', descendants=None, kids=None, score=None, time=1604844387, title=None, item_type='comment', url=None, parent=25025639, text='I agree about the language. Guix is in many respects the same as Nix, but it benefits quite a lot by using Scheme instead.')
+Item(by='db48x', descendants=None, kids=[25027739], score=None, time=1604844387, title=None, item_type='comment', url=None, parent=25025639, text='I agree about the language. Guix is in many respects the same as Nix, but it benefits quite a lot by using Scheme instead.')

@@ -1,0 +1,1 @@
+Item(by='jspash', descendants=None, kids=None, score=None, time=1604850539, title=None, item_type='comment', url=None, parent=25026095, text='Does browserlist not help with packages like this in any way? Ie if you aren’t supporting IE6 or whatever, doesn’t something throw up a warning like “you probably don’t need this package”.')
