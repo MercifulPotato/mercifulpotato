@@ -1,0 +1,1 @@
+Item(by='fendy3002', descendants=None, kids=[25025430], score=None, time=1604826301, title=None, item_type='comment', url=None, parent=25015536, text='That&#x27;s why I only use orm with the simplest query. It helps so much if the queries are just select where, create update delete rather than composing the queries myself.')

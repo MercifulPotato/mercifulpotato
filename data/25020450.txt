@@ -1,1 +1,1 @@
-Item(by='metiscus', descendants=None, kids=None, score=None, time=1604789534, title=None, item_type='comment', url=None, parent=25020075, text='I&#x27;m not sure that $5000 goes a long way with senators. Can you even buy a full page newspaper advert in a regional paper with that?')
+Item(by='metiscus', descendants=None, kids=[25025058], score=None, time=1604789534, title=None, item_type='comment', url=None, parent=25020075, text='I&#x27;m not sure that $5000 goes a long way with senators. Can you even buy a full page newspaper advert in a regional paper with that?')

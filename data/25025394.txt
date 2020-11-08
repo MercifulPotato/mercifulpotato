@@ -1,0 +1,1 @@
+Item(by='lyxsus', descendants=None, kids=None, score=None, time=1604838999, title=None, item_type='comment', url=None, parent=25025364, text='If you’re a backend developer, it’s just more work to do, unless you really make use of gql abstractions, they’re kind of more expressive than raw rest. For clients - instant exploitability, type safety, much more flexibility.')

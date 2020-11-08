@@ -1,0 +1,1 @@
+Item(by='grishka', descendants=None, kids=None, score=None, time=1604845173, title=None, item_type='comment', url=None, parent=25025726, text='TIL about `fastboot flash avb_custom_key`. Certainly better than nothing, but seeing how it shows a warning on each boot in this mode, it most probably trips SafetyNet as well.')

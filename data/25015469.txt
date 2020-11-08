@@ -1,1 +1,1 @@
-Item(by='joubert', descendants=0, kids=None, score=22, time=1604761782, title='Introduction to ARM Assembly Basics', item_type='story', url='https://azeria-labs.com/writing-arm-assembly-part-1/', parent=None, text=None)
+Item(by='joubert', descendants=1, kids=[25024276], score=25, time=1604761782, title='Introduction to ARM Assembly Basics', item_type='story', url='https://azeria-labs.com/writing-arm-assembly-part-1/', parent=None, text=None)

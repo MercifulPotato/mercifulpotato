@@ -1,1 +1,1 @@
-Item(by='root993', descendants=0, kids=None, score=3, time=1604815613, title='Wonder how your email client keeps emails in the same thread?', item_type='story', url='https://twitter.com/sankalpjonna/status/1325303669558947840', parent=None, text=None)
+Item(by='root993', descendants=1, kids=[25024105], score=4, time=1604815613, title='Wonder how your email client keeps emails in the same thread?', item_type='story', url='https://twitter.com/sankalpjonna/status/1325303669558947840', parent=None, text=None)

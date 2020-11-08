@@ -1,1 +1,1 @@
-Item(by='tomgs', descendants=1, kids=[25015835], score=2, time=1604765212, title="The most simplistic protocol in the world is not 'Hello, World ' but DISCARD", item_type='story', url='https://tools.ietf.org/html/rfc863', parent=None, text=None)
+Item(by='tomgs', descendants=1, kids=[25015835], score=3, time=1604765212, title="The most simplistic protocol in the world is not 'Hello, World ' but DISCARD", item_type='story', url='https://tools.ietf.org/html/rfc863', parent=None, text=None)

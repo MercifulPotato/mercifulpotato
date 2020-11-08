@@ -1,1 +1,1 @@
-Item(by='karamanolev', descendants=None, kids=[25021313], score=None, time=1604791963, title=None, item_type='comment', url=None, parent=25020198, text='A friendly minor correction - a resilver is only when a drive is replaced, the periodic checksum check is a scrub in ZFS parlance.')
+Item(by='karamanolev', descendants=None, kids=[25024304, 25021313], score=None, time=1604791963, title=None, item_type='comment', url=None, parent=25020198, text='A friendly minor correction - a resilver is only when a drive is replaced, the periodic checksum check is a scrub in ZFS parlance.')

@@ -1,1 +1,1 @@
-Item(by='luu', descendants=0, kids=None, score=2, time=1604717378, title='Is this Mahler? This sounds like Mahler', item_type='story', url='http://sarabee.github.io/2020/09/13/is-this-mahler/', parent=None, text=None)
+Item(by='luu', descendants=20, kids=[25024251, 25024330, 25024593, 25024939], score=162, time=1604717378, title='Is this Mahler? This sounds like Mahler', item_type='story', url='http://sarabee.github.io/2020/09/13/is-this-mahler/', parent=None, text=None)

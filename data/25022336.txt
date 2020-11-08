@@ -1,1 +1,1 @@
-Item(by='tekknik', descendants=None, kids=None, score=None, time=1604803402, title=None, item_type='comment', url=None, parent=25021490, text='Biden’s position on gun control, combined with Kamala Harris, is what did it for many of the republicans I know.')
+Item(by='tekknik', descendants=None, kids=[25024399], score=None, time=1604803402, title=None, item_type='comment', url=None, parent=25021490, text='Biden’s position on gun control, combined with Kamala Harris, is what did it for many of the republicans I know.')

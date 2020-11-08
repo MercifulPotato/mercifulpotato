@@ -1,1 +1,1 @@
-Item(by='app4soft', descendants=0, kids=None, score=2, time=1604773966, title='The Trouble with the Purple Election Map (2014)', item_type='story', url='https://medium.com/matter/the-trouble-with-the-purple-election-map-31e6cb9f1827', parent=None, text=None)
+Item(by='app4soft', descendants=1, kids=[25024013], score=2, time=1604773966, title='The Trouble with the Purple Election Map (2014)', item_type='story', url='https://medium.com/matter/the-trouble-with-the-purple-election-map-31e6cb9f1827', parent=None, text=None)

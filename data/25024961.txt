@@ -1,0 +1,1 @@
+Item(by='booi', descendants=None, kids=None, score=None, time=1604834207, title=None, item_type='comment', url=None, parent=25023877, text='Unless you are a credit card ISSUER, there are no good reasons for storing CVV numbers and it’s actually PCI non-compliant. Do not do this, the fine is high and per CVV stored. Don’t even store these in logs.')

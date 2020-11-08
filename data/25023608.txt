@@ -1,1 +1,1 @@
-Item(by='ggm', descendants=None, kids=None, score=None, time=1604817233, title=None, item_type='comment', url=None, parent=25023478, text='Libsodium. Djb or his equivalent did that already and if there is a timing attack,  it will get found and fixed faster.')
+Item(by='ggm', descendants=None, kids=[25024279], score=None, time=1604817233, title=None, item_type='comment', url=None, parent=25023478, text='Libsodium. Djb or his equivalent did that already and if there is a timing attack,  it will get found and fixed faster.')

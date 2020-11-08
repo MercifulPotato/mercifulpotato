@@ -1,1 +1,1 @@
-Item(by='o-__-o', descendants=None, kids=None, score=None, time=1604813965, title=None, item_type='comment', url=None, parent=25016255, text='Maybe a bastard kid running around somewhere.')
+Item(by='o-__-o', descendants=None, kids=[25024795], score=None, time=1604813965, title=None, item_type='comment', url=None, parent=25016255, text='Maybe a bastard kid running around somewhere.')

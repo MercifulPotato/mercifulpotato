@@ -1,1 +1,1 @@
-Item(by='maffydub', descendants=None, kids=None, score=None, time=1604821735, title=None, item_type='comment', url=None, parent=25023454, text='I believe there&#x27;s very little agriculture in Singapore - almost all food is imported.')
+Item(by='maffydub', descendants=None, kids=[25024457], score=None, time=1604821735, title=None, item_type='comment', url=None, parent=25023454, text='I believe there&#x27;s very little agriculture in Singapore - almost all food is imported.')

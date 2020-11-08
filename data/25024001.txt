@@ -1,0 +1,1 @@
+Item(by='skunkworker', descendants=None, kids=[25024074], score=None, time=1604822477, title=None, item_type='comment', url=None, parent=25023502, text='You&#x27;ve got a logic bug. When dragging something from Quadrant 2,3,4 to Quadrant 1 it doesn&#x27;t go positive until you let go.')

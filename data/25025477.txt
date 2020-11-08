@@ -1,0 +1,1 @@
+Item(by='tyingq', descendants=None, kids=[25025578], score=None, time=1604839934, title=None, item_type='comment', url=None, parent=25025400, text='Try using mawk instead of GNU awk.  It&#x27;s much faster than either Perl or gawk in this scenario for me. Roughly 2x.<p>Also, &quot;export LC_ALL=C&quot; typically speeds up gawk quite a lot.')

@@ -1,1 +1,1 @@
-Item(by='RMPR', descendants=None, kids=None, score=None, time=1604823321, title=None, item_type='comment', url=None, parent=25020639, text='That&#x27;s what drove me initially to aerc + notmuch')
+Item(by='RMPR', descendants=None, kids=[25024301], score=None, time=1604823321, title=None, item_type='comment', url=None, parent=25020639, text='That&#x27;s what drove me initially to aerc + notmuch')
