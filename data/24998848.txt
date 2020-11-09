@@ -1,1 +1,1 @@
-Item(by='jason_zig', descendants=None, kids=None, score=None, time=1604588784, title=None, item_type='comment', url=None, parent=24995486, text='That&#x27;s absolutely their fault from a product perspective.')
+Item(by='jason_zig', descendants=None, kids=[25031339], score=None, time=1604588784, title=None, item_type='comment', url=None, parent=24995486, text='That&#x27;s absolutely their fault from a product perspective.')

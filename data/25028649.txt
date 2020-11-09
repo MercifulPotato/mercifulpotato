@@ -1,1 +1,1 @@
-Item(by='pvg', descendants=None, kids=None, score=None, time=1604867000, title=None, item_type='comment', url=None, parent=25028308, text='It&#x27;s fine to downvote to disagree on HN and people do it all the time in all discussions.')
+Item(by='pvg', descendants=None, kids=[25031029], score=None, time=1604867000, title=None, item_type='comment', url=None, parent=25028308, text='It&#x27;s fine to downvote to disagree on HN and people do it all the time in all discussions.')

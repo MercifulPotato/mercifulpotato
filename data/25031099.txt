@@ -1,0 +1,1 @@
+Item(by='Ecco', descendants=None, kids=[25031446], score=None, time=1604891291, title=None, item_type='comment', url=None, parent=25031067, text='An implementation of the “core” math function of the C standard library, colloquially known as libm.<p>Think implementing cos(x) using only pure C (so essentially addition, subtraction, multiplication and division of floats).')

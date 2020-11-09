@@ -1,0 +1,1 @@
+Item(by='cordite', descendants=None, kids=None, score=None, time=1604894706, title=None, item_type='comment', url=None, parent=25027783, text='Mbedtls is small code size configurable build library. I am not surprised they’re using it, it embeds with applications or firmwares easily and has a decent API. Which cannot be said for openssl.')

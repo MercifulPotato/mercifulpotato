@@ -1,1 +1,1 @@
-Item(by='kelnos', descendants=None, kids=None, score=None, time=1604557987, title=None, item_type='comment', url=None, parent=24995486, text='So few people sign their commits that the default is to assume commits are from where they say they are, even if they&#x27;re not verified.')
+Item(by='kelnos', descendants=None, kids=[25031103], score=None, time=1604557987, title=None, item_type='comment', url=None, parent=24995486, text='So few people sign their commits that the default is to assume commits are from where they say they are, even if they&#x27;re not verified.')

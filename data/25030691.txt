@@ -1,1 +1,1 @@
-Item(by='srtjstjsj', descendants=None, kids=None, score=None, time=1604886650, title=None, item_type='comment', url=None, parent=25030666, text='Why isn&#x27;t purism using AOSP as a base?')
+Item(by='srtjstjsj', descendants=None, kids=[25031499], score=None, time=1604886650, title=None, item_type='comment', url=None, parent=25030666, text='Why isn&#x27;t purism using AOSP as a base?')

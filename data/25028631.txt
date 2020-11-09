@@ -1,1 +1,1 @@
-Item(by='jobigoud', descendants=None, kids=None, score=None, time=1604866875, title=None, item_type='comment', url=None, parent=25026164, text='Why does it say &quot;accidental&quot; genius? Did the creator not create the app on purpose to be a &quot;ping&quot; for humans?')
+Item(by='jobigoud', descendants=None, kids=[25031245], score=None, time=1604866875, title=None, item_type='comment', url=None, parent=25026164, text='Why does it say &quot;accidental&quot; genius? Did the creator not create the app on purpose to be a &quot;ping&quot; for humans?')

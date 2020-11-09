@@ -1,1 +1,1 @@
-Item(by='parsecs', descendants=0, kids=None, score=3, time=1604872586, title='I Took a Break from Ham Radio and Why I Came Back', item_type='story', url='https://www.kj7nzl.net/blog/3-reasons-why-i-took-a-break-from-ham-radio-why-i-came-back/', parent=None, text=None)
+Item(by='parsecs', descendants=3, kids=[25031327], score=12, time=1604872586, title='I Took a Break from Ham Radio and Why I Came Back', item_type='story', url='https://www.kj7nzl.net/blog/3-reasons-why-i-took-a-break-from-ham-radio-why-i-came-back/', parent=None, text=None)

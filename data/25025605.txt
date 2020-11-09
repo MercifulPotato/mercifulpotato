@@ -1,1 +1,1 @@
-Item(by='mrbbk', descendants=0, kids=None, score=10, time=1604841407, title='Wav2Lip: Accurately Lip-Sync Videos to Any Speech', item_type='story', url='http://bhaasha.iiit.ac.in/lipsync/', parent=None, text=None)
+Item(by='mrbbk', descendants=2, kids=[25031437, 25030999], score=15, time=1604841407, title='Wav2Lip: Accurately Lip-Sync Videos to Any Speech', item_type='story', url='http://bhaasha.iiit.ac.in/lipsync/', parent=None, text=None)
