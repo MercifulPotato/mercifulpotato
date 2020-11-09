@@ -1,1 +1,1 @@
-Item(by='spekcular', descendants=0, kids=None, score=2, time=1604901318, title='AMD Ryzen 5 5600X Linux Performance', item_type='story', url='https://www.phoronix.com/scan.php?page=article&item=amd-ryzen-5600x&num=1', parent=None, text=None)
+Item(by='spekcular', descendants=1, kids=[25032788], score=4, time=1604901318, title='AMD Ryzen 5 5600X Linux Performance', item_type='story', url='https://www.phoronix.com/scan.php?page=article&item=amd-ryzen-5600x&num=1', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='nieve', descendants=None, kids=[25034275], score=None, time=1604926213, title=None, item_type='comment', url=None, parent=25033056, text='Is there support for reverse lookup that I&#x27;m just overlooking? There&#x27;s of PTR records being used for reverse lookups, but no sign of how to do it without reversing the octets by hand.')

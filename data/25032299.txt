@@ -1,1 +1,1 @@
-Item(by='cool-RR', descendants=None, kids=None, score=None, time=1604908099, title=None, item_type='comment', url=None, parent=25032225, text='It&#x27;s not stealing when you&#x27;ve given it away, explicitly and out of your own free will.')
+Item(by='cool-RR', descendants=None, kids=[25034433], score=None, time=1604908099, title=None, item_type='comment', url=None, parent=25032225, text='It&#x27;s not stealing when you&#x27;ve given it away, explicitly and out of your own free will.')

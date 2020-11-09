@@ -1,1 +1,1 @@
-Item(by='panny', descendants=0, kids=None, score=3, time=1604905442, title='Vote rigging: How to spot the tell-tale signs (2016)', item_type='story', url='https://www.bbc.com/news/world-africa-37243190', parent=None, text=None)
+Item(by='panny', descendants=1, kids=[25032303], score=11, time=1604905442, title='Vote rigging: How to spot the tell-tale signs (2016)', item_type='story', url='https://www.bbc.com/news/world-africa-37243190', parent=None, text=None)

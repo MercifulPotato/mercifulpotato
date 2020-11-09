@@ -1,1 +1,1 @@
-Item(by='novok', descendants=None, kids=None, score=None, time=1604908091, title=None, item_type='comment', url=None, parent=25032251, text='They can afford customer service in this case, since stuff is being sold for $20-$30 a pop with $300 devices.')
+Item(by='novok', descendants=None, kids=[25032588], score=None, time=1604908091, title=None, item_type='comment', url=None, parent=25032251, text='They can afford customer service in this case, since stuff is being sold for $20-$30 a pop with $300 devices.')

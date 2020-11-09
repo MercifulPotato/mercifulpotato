@@ -1,1 +1,1 @@
-Item(by='nickm12', descendants=None, kids=None, score=None, time=1604905558, title=None, item_type='comment', url=None, parent=25030781, text='Is anyone using it?  It gets posted on Hacker News from time to time, but it&#x27;s not clear it&#x27;s gotten any traction.')
+Item(by='nickm12', descendants=None, kids=[25033694], score=None, time=1604905558, title=None, item_type='comment', url=None, parent=25030781, text='Is anyone using it?  It gets posted on Hacker News from time to time, but it&#x27;s not clear it&#x27;s gotten any traction.')

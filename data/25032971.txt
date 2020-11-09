@@ -1,0 +1,1 @@
+Item(by='soraminazuki', descendants=None, kids=None, score=None, time=1604913979, title=None, item_type='comment', url=None, parent=25031222, text='The documentation and language syntax is order of magnitudes better than RPM, though. With RPM, even stuff like commenting out code doesn&#x27;t work as expected due to parsing quirks and good luck trying to figure out why.')

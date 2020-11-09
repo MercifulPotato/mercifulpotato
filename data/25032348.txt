@@ -1,1 +1,1 @@
-Item(by='ntucker', descendants=None, kids=None, score=None, time=1604908568, title=None, item_type='comment', url=None, parent=25032328, text='So write the license this way.  I think it&#x27;s a fabulous idea.')
+Item(by='ntucker', descendants=None, kids=[25032898], score=None, time=1604908568, title=None, item_type='comment', url=None, parent=25032328, text='So write the license this way.  I think it&#x27;s a fabulous idea.')

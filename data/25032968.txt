@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1604913964, title=None, item_type='comment', url=None, parent=25030602, text='Apple&#x27;s static analysis to detect private API usage is not very clever; you can get around it with some fairly trivial tricks.')

@@ -1,1 +1,1 @@
-Item(by='erinnh', descendants=None, kids=None, score=None, time=1604909581, title=None, item_type='comment', url=None, parent=25032246, text='Can you give an example, because Im not sure what you mean exactly.')
+Item(by='erinnh', descendants=None, kids=[25033067], score=None, time=1604909581, title=None, item_type='comment', url=None, parent=25032246, text='Can you give an example, because Im not sure what you mean exactly.')

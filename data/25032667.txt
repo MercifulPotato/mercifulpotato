@@ -1,0 +1,1 @@
+Item(by='Someone', descendants=None, kids=[25034367], score=None, time=1604911355, title=None, item_type='comment', url=None, parent=25032176, text='A properly sandboxed local shell is OK, but on iOS “properly sandboxed” means you can’t download and run software other than via the App Store.<p>If a shell app were allowed to download and run binaries, so would Epic’s apps.')

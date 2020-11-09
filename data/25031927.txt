@@ -1,1 +1,1 @@
-Item(by='nextaccountic', descendants=None, kids=None, score=None, time=1604902854, title=None, item_type='comment', url=None, parent=25031760, text='This has cool graphics but it doesn&#x27;t seem to simulate fluid dynamics (which requires solving a differential equation).')
+Item(by='nextaccountic', descendants=None, kids=[25033749, 25032558], score=None, time=1604902854, title=None, item_type='comment', url=None, parent=25031760, text='This has cool graphics but it doesn&#x27;t seem to simulate fluid dynamics (which requires solving a differential equation).')

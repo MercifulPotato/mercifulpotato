@@ -1,1 +1,1 @@
-Item(by='parsecs', descendants=1, kids=[25027962], score=8, time=1604860911, title='Reverse-engineering the carry-lookahead circuit in the Intel 8008 processor', item_type='story', url='http://www.righto.com/2020/11/reverse-engineering-carry-lookahead.html', parent=None, text=None)
+Item(by='parsecs', descendants=2, kids=[25032531, 25027962], score=9, time=1604860911, title='Reverse-engineering the carry-lookahead circuit in the Intel 8008 processor', item_type='story', url='http://www.righto.com/2020/11/reverse-engineering-carry-lookahead.html', parent=None, text=None)

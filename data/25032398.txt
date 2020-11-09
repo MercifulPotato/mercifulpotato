@@ -1,1 +1,1 @@
-Item(by='waynesonfire', descendants=None, kids=None, score=None, time=1604908983, title=None, item_type='comment', url=None, parent=25032105, text='Used the open source licence to get popular and now you&#x27;re butt hurt? You would have zero users if your project was closed source.')
+Item(by='waynesonfire', descendants=None, kids=[25032929], score=None, time=1604908983, title=None, item_type='comment', url=None, parent=25032105, text='Used the open source licence to get popular and now you&#x27;re butt hurt? You would have zero users if your project was closed source.')

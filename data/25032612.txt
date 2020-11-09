@@ -1,1 +1,1 @@
-Item(by='trevyn', descendants=None, kids=None, score=None, time=1604910865, title=None, item_type='comment', url=None, parent=25032499, text='Playing a gig at a coffee shop for tips and not compromising on your vision seems like a solid choice to me.')
+Item(by='trevyn', descendants=None, kids=[25033575, 25034070, 25033571], score=None, time=1604910865, title=None, item_type='comment', url=None, parent=25032499, text='Playing a gig at a coffee shop for tips and not compromising on your vision seems like a solid choice to me.')

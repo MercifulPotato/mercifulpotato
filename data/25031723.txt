@@ -1,1 +1,1 @@
-Item(by='defen', descendants=None, kids=None, score=None, time=1604899567, title=None, item_type='comment', url=None, parent=25031231, text='You still haven&#x27;t answered how a hack could find deleted emails?')
+Item(by='defen', descendants=None, kids=[25032807], score=None, time=1604899567, title=None, item_type='comment', url=None, parent=25031231, text='You still haven&#x27;t answered how a hack could find deleted emails?')

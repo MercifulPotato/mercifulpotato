@@ -1,0 +1,1 @@
+Item(by='anonymoushn', descendants=None, kids=[25034082], score=None, time=1604912223, title=None, item_type='comment', url=None, parent=25023594, text='On OSX Chrome, this page is always horizontally scrollable because the navbar is wider than the rest of the content by a margin of the vertical scrollbar&#x27;s width. You can set max-width: 100% on the navbar to fix this.')

@@ -1,1 +1,1 @@
-Item(by='zepto', descendants=None, kids=None, score=None, time=1604887543, title=None, item_type='comment', url=None, parent=25029641, text='Why wouldn’t they?<p>Macs and iOS devices are for completely different purposes.')
+Item(by='zepto', descendants=None, kids=[25034290], score=None, time=1604887543, title=None, item_type='comment', url=None, parent=25029641, text='Why wouldn’t they?<p>Macs and iOS devices are for completely different purposes.')

@@ -1,0 +1,1 @@
+Item(by='shantara', descendants=None, kids=None, score=None, time=1604921847, title=None, item_type='comment', url=None, parent=25033683, text='This rule is enabled by default in the latest SwiftLint version, and triggers a linting error for using &quot;non-inclusive&quot; variable or class names like &quot;masterViewController&quot; or &quot;blacklist&quot;.')

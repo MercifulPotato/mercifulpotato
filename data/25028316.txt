@@ -1,1 +1,1 @@
-Item(by='apetrovic', descendants=None, kids=None, score=None, time=1604864466, title=None, item_type='comment', url=None, parent=25028109, text='Kaleidoscope is a Mac app. &quot;On OS X, Meld is not yet officially supported&quot;')
+Item(by='apetrovic', descendants=None, kids=[25034211], score=None, time=1604864466, title=None, item_type='comment', url=None, parent=25028109, text='Kaleidoscope is a Mac app. &quot;On OS X, Meld is not yet officially supported&quot;')
