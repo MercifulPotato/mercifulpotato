@@ -1,0 +1,1 @@
+Item(by='banana_giraffe', descendants=None, kids=None, score=None, time=1604877925, title=None, item_type='comment', url=None, parent=25029657, text='The QEMU fork that the Android Emulator uses, or at least used.<p>I had thought Goldfish was no longer used, and something closer to the QEMU repo is used for Android, but I&#x27;m not sure about that side of things.')

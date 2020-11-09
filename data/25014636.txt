@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=3, time=1604751266, title='What It Takes to Dismantle and Move a 40-Foot Whale Skeleton', item_type='story', url='https://www.atlasobscura.com/articles/moving-a-museum-whale-skeleton', parent=None, text=None)
+Item(by='pseudolus', descendants=1, kids=[25029821], score=8, time=1604751266, title='What it takes to dismantle and move a 40-foot whale skeleton', item_type='story', url='https://www.atlasobscura.com/articles/moving-a-museum-whale-skeleton', parent=None, text=None)

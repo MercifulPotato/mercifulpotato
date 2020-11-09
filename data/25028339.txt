@@ -1,0 +1,1 @@
+Item(by='implfuture', descendants=None, kids=[25028372], score=None, time=1604864703, title=None, item_type='comment', url=None, parent=25026757, text='For vscode users, I recently discovered you can right-click any line and select “copy remote uri.” The copied link takes you right to that line on github (useful for quickly pointing someone to a line of code over slack).')

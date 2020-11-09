@@ -1,1 +1,1 @@
-Item(by='octoberfranklin', descendants=None, kids=None, score=None, time=1604832134, title=None, item_type='comment', url=None, parent=25024258, text='If I were made of photons it wouldn&#x27;t be able to!')
+Item(by='octoberfranklin', descendants=None, kids=[25030653], score=None, time=1604832134, title=None, item_type='comment', url=None, parent=25024258, text='If I were made of photons it wouldn&#x27;t be able to!')

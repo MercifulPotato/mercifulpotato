@@ -1,1 +1,1 @@
-Item(by='mqsley', descendants=None, kids=None, score=None, time=1604861837, title=None, item_type='comment', url=None, parent=25027321, text='Yes these questions are dumb - I learned later they are cognitive distortions. I was in a bad place.')
+Item(by='mqsley', descendants=None, kids=[25028509], score=None, time=1604861837, title=None, item_type='comment', url=None, parent=25027321, text='Yes these questions are dumb - I learned later they are cognitive distortions. I was in a bad place.')

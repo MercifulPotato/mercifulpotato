@@ -1,0 +1,1 @@
+Item(by='jdelsman', descendants=None, kids=None, score=None, time=1604877630, title=None, item_type='comment', url=None, parent=25028408, text='If you want to run them in an environment which reduces payload size (i.e. AWS Lambda) you really do, I&#x27;m afraid. This is possibly great news for Go users on AWS :)')

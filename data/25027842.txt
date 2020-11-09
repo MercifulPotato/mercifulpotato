@@ -1,1 +1,1 @@
-Item(by='lukifer', descendants=None, kids=None, score=None, time=1604861075, title=None, item_type='comment', url=None, parent=25027515, text='I had no idea that FileMerge had a CLI (which apparently also supports `opendiff file1 file2`). That&#x27;s quite helpful, thanks for the tip!')
+Item(by='lukifer', descendants=None, kids=[25029008], score=None, time=1604861075, title=None, item_type='comment', url=None, parent=25027515, text='I had no idea that FileMerge had a CLI (which apparently also supports `opendiff file1 file2`). That&#x27;s quite helpful, thanks for the tip!')

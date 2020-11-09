@@ -1,0 +1,1 @@
+Item(by='Polylactic_acid', descendants=None, kids=None, score=None, time=1604873860, title=None, item_type='comment', url=None, parent=25025306, text='&gt;at least show a sensible error message<p>The only way to do this typically is to either already be aware of the issue so you can add an error (And in that case you would have just fixed the issue)<p>Or to dump a stack trace.')

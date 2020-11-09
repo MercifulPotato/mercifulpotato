@@ -1,0 +1,1 @@
+Item(by='mikeknoop', descendants=None, kids=[25029716], score=None, time=1604874291, title=None, item_type='comment', url=None, parent=25029632, text='Could you use a VPN on the device to make a remote server appear as a local server for network installs? If so, could you loop back an on device “server” through a remote proxy?')

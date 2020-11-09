@@ -1,1 +1,1 @@
-Item(by='andai', descendants=None, kids=None, score=None, time=1604863427, title=None, item_type='comment', url=None, parent=25027741, text='Serious question, is the marine ecosystem more important than the one on land? Or are they at the same level?')
+Item(by='andai', descendants=None, kids=[25029788, 25029403], score=None, time=1604863427, title=None, item_type='comment', url=None, parent=25027741, text='Serious question, is the marine ecosystem more important than the one on land? Or are they at the same level?')

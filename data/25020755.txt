@@ -1,1 +1,1 @@
-Item(by='edaemon', descendants=None, kids=None, score=None, time=1604791070, title=None, item_type='comment', url=None, parent=25018876, text='Those networks called Florida for Gore, not the whole election.')
+Item(by='edaemon', descendants=None, kids=[25030711], score=None, time=1604791070, title=None, item_type='comment', url=None, parent=25018876, text='Those networks called Florida for Gore, not the whole election.')

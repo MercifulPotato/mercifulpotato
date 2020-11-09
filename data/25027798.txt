@@ -1,1 +1,1 @@
-Item(by='535188B17C93743', descendants=None, kids=None, score=None, time=1604860787, title=None, item_type='comment', url=None, parent=25027380, text='Ken Jennings has already stated he&#x27;s not interest––listen to his episode on the podcast &quot;People I Mostly Admire&quot;.')
+Item(by='535188B17C93743', descendants=None, kids=[25028756], score=None, time=1604860787, title=None, item_type='comment', url=None, parent=25027380, text='Ken Jennings has already stated he&#x27;s not interest––listen to his episode on the podcast &quot;People I Mostly Admire&quot;.')

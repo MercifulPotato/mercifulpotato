@@ -1,0 +1,1 @@
+Item(by='sixplusone', descendants=None, kids=None, score=None, time=1604866386, title=None, item_type='comment', url=None, parent=25021605, text='For anyone else wondering: &quot;cast into block&quot; (^) is a non-standard lambda&#x2F;closure declaration in C.<p>Also, Ritchie could have saved a lot of people a lot of hurt by using a &quot;func&quot; keyword.')

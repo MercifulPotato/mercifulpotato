@@ -1,1 +1,1 @@
-Item(by='unethical_ban', descendants=None, kids=None, score=None, time=1604853706, title=None, item_type='comment', url=None, parent=25026545, text='How is this true? I can easily disable location in apps and in settings.')
+Item(by='unethical_ban', descendants=None, kids=[25029643], score=None, time=1604853706, title=None, item_type='comment', url=None, parent=25026545, text='How is this true? I can easily disable location in apps and in settings.')

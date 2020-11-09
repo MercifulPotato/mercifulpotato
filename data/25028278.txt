@@ -1,1 +1,1 @@
-Item(by='phkahler', descendants=None, kids=None, score=None, time=1604864226, title=None, item_type='comment', url=None, parent=25028241, text='Dual license: AGPL and commercial. Simple.')
+Item(by='phkahler', descendants=None, kids=[25028451], score=None, time=1604864226, title=None, item_type='comment', url=None, parent=25028241, text='Dual license: AGPL and commercial. Simple.')

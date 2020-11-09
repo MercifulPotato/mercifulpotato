@@ -1,0 +1,1 @@
+Item(by='abledon', descendants=None, kids=None, score=None, time=1604872725, title=None, item_type='comment', url=None, parent=25024224, text='Has anyone other than Amazon successfully migrated off oracle.. and ported stuff into Postgres... e.g. 1000s of PL&#x2F;SQL procedures&#x2F;packages moved to postgres')

@@ -1,1 +1,1 @@
-Item(by='ddoice', descendants=None, kids=None, score=None, time=1604783943, title=None, item_type='comment', url=None, parent=25012270, text='I tried to read the content but IMO there are too many memes, make the content unreadable.')
+Item(by='ddoice', descendants=None, kids=[25028171], score=None, time=1604783943, title=None, item_type='comment', url=None, parent=25012270, text='I tried to read the content but IMO there are too many memes, make the content unreadable.')

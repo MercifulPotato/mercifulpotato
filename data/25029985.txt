@@ -1,0 +1,1 @@
+Item(by='samokhvalov', descendants=None, kids=None, score=None, time=1604877224, title=None, item_type='comment', url=None, parent=25024224, text='I use this almost daily. Last time it was an hour ago -- checked when hot_standby&#x27;s default changed from off to on (it was in Postgres 10).<p>Highly recommend it.')

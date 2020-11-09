@@ -1,0 +1,1 @@
+Item(by='yoz-y', descendants=None, kids=None, score=None, time=1604881493, title=None, item_type='comment', url=None, parent=25029474, text='But iSH isn’t running arbitrary machine code, it’s a x86 emulator running Linux inside. It’s more sandboxed than a JS runtime, which actually does compile down to machine code.')

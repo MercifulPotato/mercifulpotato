@@ -1,1 +1,1 @@
-Item(by='cbmuser', descendants=2, kids=[25027784], score=16, time=1604856327, title='New Motorola 68000 emulation support in QEMU (talk)', item_type='story', url='https://www.youtube.com/watch?v=s_ve0bCC9q4', parent=None, text=None)
+Item(by='cbmuser', descendants=8, kids=[25027784, 25029365], score=39, time=1604856327, title='QEMU 680x0 support [video]', item_type='story', url='https://www.youtube.com/watch?v=s_ve0bCC9q4', parent=None, text=None)

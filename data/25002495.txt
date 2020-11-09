@@ -1,1 +1,1 @@
-Item(by='EEMac', descendants=None, kids=None, score=None, time=1604613488, title=None, item_type='comment', url=None, parent=24998965, text='Well, yes. Why wouldn&#x27;t you? They hire engineers, and they have programming projects. Meets all requirements.')
+Item(by='EEMac', descendants=None, kids=[25029226], score=None, time=1604613488, title=None, item_type='comment', url=None, parent=24998965, text='Well, yes. Why wouldn&#x27;t you? They hire engineers, and they have programming projects. Meets all requirements.')

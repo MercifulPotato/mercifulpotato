@@ -1,0 +1,1 @@
+Item(by='diggan', descendants=None, kids=None, score=None, time=1604877769, title=None, item_type='comment', url=None, parent=25029042, text='Yeah, Resolve is much better at taking advantage of the GPU for sure, not just for rendering but everywhere in the editor as well, making it more fluid to work with.')

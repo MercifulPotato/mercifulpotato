@@ -1,0 +1,1 @@
+Item(by='Ericson2314', descendants=None, kids=None, score=None, time=1604882431, title=None, item_type='comment', url=None, parent=25029140, text='Plenty of us do use it on our own machines and in production, and it doesn&#x27;t seem like a never-ending packaging war.<p>Most software actually doesn&#x27;t assume the FHS. (Autoconf, Meson, and CMake all don&#x27;t, for example.)')

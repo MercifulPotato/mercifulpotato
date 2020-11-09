@@ -1,1 +1,1 @@
-Item(by='JosephRedfern', descendants=None, kids=None, score=None, time=1604838074, title=None, item_type='comment', url=None, parent=25025265, text='The malicious application would have to be able to spoof user input, which would be an issue in itself.')
+Item(by='JosephRedfern', descendants=None, kids=[25030701], score=None, time=1604838074, title=None, item_type='comment', url=None, parent=25025265, text='The malicious application would have to be able to spoof user input, which would be an issue in itself.')

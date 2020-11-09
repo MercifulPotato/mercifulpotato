@@ -1,1 +1,1 @@
-Item(by='marcusbuffett', descendants=11, kids=[24999964, 24999767, 25001515, 24999296, 25006812, 24999670], score=60, time=1604590295, title='Making a Snake Clone with Bevy', item_type='story', url='https://mbuffett.com/posts/bevy-snake-tutorial/', parent=None, text=None)
+Item(by='marcusbuffett', descendants=11, kids=[24999964, 24999767, 25001515, 24999296, 24999670, 25006812], score=60, time=1604590295, title='Making a Snake Clone with Bevy', item_type='story', url='https://mbuffett.com/posts/bevy-snake-tutorial/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='tyg13', descendants=None, kids=None, score=None, time=1604862117, title=None, item_type='comment', url=None, parent=25027241, text='&quot;what about Biden?&quot; in no way excuses Trump&#x27;s statements.')
+Item(by='tyg13', descendants=None, kids=[25028955], score=None, time=1604862117, title=None, item_type='comment', url=None, parent=25027241, text='&quot;what about Biden?&quot; in no way excuses Trump&#x27;s statements.')

@@ -1,1 +1,1 @@
-Item(by='botwriter', descendants=None, kids=None, score=None, time=1604861084, title=None, item_type='comment', url=None, parent=25027826, text='Ghost nets are some of the most ecologically destructive things on the planet.<p>creating more of them isn&#x27;t a smart move.')
+Item(by='botwriter', descendants=None, kids=[25029268], score=None, time=1604861084, title=None, item_type='comment', url=None, parent=25027826, text='Ghost nets are some of the most ecologically destructive things on the planet.<p>creating more of them isn&#x27;t a smart move.')

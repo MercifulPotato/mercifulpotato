@@ -1,1 +1,1 @@
-Item(by='dfilppi', descendants=None, kids=None, score=None, time=1604849645, title=None, item_type='comment', url=None, parent=25024337, text='A slim minority of Americans have a 401k?')
+Item(by='dfilppi', descendants=None, kids=[25028406], score=None, time=1604849645, title=None, item_type='comment', url=None, parent=25024337, text='A slim minority of Americans have a 401k?')

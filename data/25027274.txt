@@ -1,1 +1,1 @@
-Item(by='bookofjoe', descendants=0, kids=None, score=3, time=1604856852, title='How long do most species last before going extinct?', item_type='story', url='https://www.livescience.com/how-long-do-species-last.html', parent=None, text=None)
+Item(by='bookofjoe', descendants=1, kids=[25030302], score=3, time=1604856852, title='How long do most species last before going extinct?', item_type='story', url='https://www.livescience.com/how-long-do-species-last.html', parent=None, text=None)

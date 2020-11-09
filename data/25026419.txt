@@ -1,1 +1,1 @@
-Item(by='azhenley', descendants=0, kids=None, score=31, time=1604850107, title='Make a Language Using Rust', item_type='story', url='https://arzg.github.io/lang/', parent=None, text=None)
+Item(by='azhenley', descendants=8, kids=[25030720, 25029466], score=149, time=1604850107, title='Make a Language Using Rust', item_type='story', url='https://arzg.github.io/lang/', parent=None, text=None)

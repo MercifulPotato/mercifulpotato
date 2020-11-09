@@ -1,0 +1,1 @@
+Item(by='xandroo', descendants=None, kids=[25029421, 25029431], score=None, time=1604872175, title=None, item_type='comment', url=None, parent=25029348, text='It’s checked in debug modes (overflow is a runtime error). You can explicitly use the overflow operator (+%) if you know that’s the behavior you want.')
