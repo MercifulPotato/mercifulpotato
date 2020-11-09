@@ -1,1 +1,1 @@
-Item(by='loweisz', descendants=0, kids=None, score=3, time=1604918691, title='Four powerful HTTP headers, you did not know before', item_type='story', url='https://www.lorenzweiss.de/the_power_of_http_headers_with_four_examples/', parent=None, text=None)
+Item(by='loweisz', descendants=1, kids=[25036487], score=12, time=1604918691, title='Four powerful HTTP headers, you did not know before', item_type='story', url='https://www.lorenzweiss.de/the_power_of_http_headers_with_four_examples/', parent=None, text=None)

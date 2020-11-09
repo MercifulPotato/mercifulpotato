@@ -1,0 +1,1 @@
+Item(by='throw_m239339', descendants=None, kids=None, score=None, time=1604946283, title=None, item_type='comment', url=None, parent=25037800, text='&gt; How would Rust prevent &quot;rushing crude hacks out the door at the last minute&quot;?<p>Because game developers would be fighting the borrow checker instead of shipping leaky code that compiles without hurdle?')

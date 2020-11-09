@@ -1,1 +1,1 @@
-Item(by='FlyingSnake', descendants=0, kids=None, score=1, time=1604924939, title="When remote work doesn't cut it", item_type='story', url='https://samkhawase.com/blog/remote-work/', parent=None, text=None)
+Item(by='FlyingSnake', descendants=28, kids=[25038936, 25038133, 25037405, 25036364, 25036263, 25038896, 25038708, 25037399, 25038050, 25036684, 25036819, 25037956], score=48, time=1604924939, title="When remote work doesn't cut it", item_type='story', url='https://samkhawase.com/blog/remote-work/', parent=None, text=None)

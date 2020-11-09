@@ -1,0 +1,1 @@
+Item(by='derriz', descendants=None, kids=None, score=None, time=1604944815, title=None, item_type='comment', url=None, parent=25034468, text='Turing incomplete languages are not necessarily niche or a pita to use.  For example SQL (before version 3) had no recursion yet was very widely used.  Even today, I&#x27;d guess 99% of written SQL does not use recursive CTEs.')

@@ -1,1 +1,1 @@
-Item(by='qppo', descendants=None, kids=None, score=None, time=1604858931, title=None, item_type='comment', url=None, parent=25027482, text='Sure they would. Apple wasn&#x27;t a particularly special company when they were funded, new computer companies were a dime a dozen.')
+Item(by='qppo', descendants=None, kids=[25037971], score=None, time=1604858931, title=None, item_type='comment', url=None, parent=25027482, text='Sure they would. Apple wasn&#x27;t a particularly special company when they were funded, new computer companies were a dime a dozen.')

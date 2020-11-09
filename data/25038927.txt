@@ -1,0 +1,1 @@
+Item(by='Animats', descendants=None, kids=None, score=None, time=1604950910, title=None, item_type='comment', url=None, parent=25038007, text='Classic webcrap is near-stateless, with state in the database only. That way, any server in the farm can handle the next client request. Games have a consistent world to maintain in memory. Sometimes a really big consistent world.')

@@ -1,1 +1,1 @@
-Item(by='jiofih', descendants=None, kids=None, score=None, time=1604929056, title=None, item_type='comment', url=None, parent=25033813, text='I haven’t met a single person that used manual git patches in my entire career (10+ years, web services).')
+Item(by='jiofih', descendants=None, kids=[25037191, 25037203], score=None, time=1604929056, title=None, item_type='comment', url=None, parent=25033813, text='I haven’t met a single person that used manual git patches in my entire career (10+ years, web services).')

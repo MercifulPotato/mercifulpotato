@@ -1,1 +1,1 @@
-Item(by='edward', descendants=2, kids=[25031389, 25029893], score=10, time=1604874710, title='The Snood Bloober is an open source reverse-engineered Sound Blaster 1.0 clone', item_type='story', url='https://twitter.com/Foone/status/1325564321141678080', parent=None, text=None)
+Item(by='edward', descendants=3, kids=[25031389, 25029893], score=10, time=1604874710, title='The Snood Bloober is an open source reverse-engineered Sound Blaster 1.0 clone', item_type='story', url='https://twitter.com/Foone/status/1325564321141678080', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='pcdoodle', descendants=None, kids=None, score=None, time=1604928737, title=None, item_type='comment', url=None, parent=25031933, text='Good, I&#x27;ll get less spam now. Yahoo sold out early according to the 2013 leaks.')
+Item(by='pcdoodle', descendants=None, kids=[25035247], score=None, time=1604928737, title=None, item_type='comment', url=None, parent=25031933, text='Good, I&#x27;ll get less spam now. Yahoo sold out early according to the 2013 leaks.')

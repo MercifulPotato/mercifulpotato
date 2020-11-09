@@ -1,1 +1,1 @@
-Item(by='tremon', descendants=None, kids=None, score=None, time=1604834209, title=None, item_type='comment', url=None, parent=25023767, text='...and possibly with less profit, because marketing would eat away at the margins.')
+Item(by='tremon', descendants=None, kids=[25037202], score=None, time=1604834209, title=None, item_type='comment', url=None, parent=25023767, text='...and possibly with less profit, because marketing would eat away at the margins.')

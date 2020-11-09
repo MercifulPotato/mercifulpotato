@@ -1,1 +1,1 @@
-Item(by='dredmorbius', descendants=0, kids=None, score=2, time=1604911850, title='The Denialist Playbook', item_type='story', url='https://www.scientificamerican.com/article/the-denialist-playbook/', parent=None, text=None)
+Item(by='dredmorbius', descendants=12, kids=[25036196, 25036928, 25036368, 25035388, 25035994], score=26, time=1604911850, title='The Denialist Playbook', item_type='story', url='https://www.scientificamerican.com/article/the-denialist-playbook/', parent=None, text=None)

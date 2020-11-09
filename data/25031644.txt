@@ -1,1 +1,1 @@
-Item(by='gverrilla', descendants=None, kids=None, score=None, time=1604898484, title=None, item_type='comment', url=None, parent=25029353, text='why do you think game consoles are not essential to our society?')
+Item(by='gverrilla', descendants=None, kids=[25035242], score=None, time=1604898484, title=None, item_type='comment', url=None, parent=25029353, text='why do you think game consoles are not essential to our society?')

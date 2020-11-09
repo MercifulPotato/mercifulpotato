@@ -1,0 +1,1 @@
+Item(by='jack_h', descendants=None, kids=None, score=None, time=1604952052, title=None, item_type='comment', url=None, parent=25034242, text='My idea that I’ve bandied about here a few times would be to create some kind of a semantic database (not based on relational algebra). All tooling could deal with this rather than the text of the source code.')

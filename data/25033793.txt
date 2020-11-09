@@ -1,1 +1,1 @@
-Item(by='yonilevy', descendants=0, kids=None, score=2, time=1604922551, title='Drawing Machines', item_type='story', url='https://drawingmachines.org', parent=None, text=None)
+Item(by='yonilevy', descendants=6, kids=[25037441, 25038220, 25036509, 25036470], score=33, time=1604922551, title='Drawing Machines', item_type='story', url='https://drawingmachines.org', parent=None, text=None)

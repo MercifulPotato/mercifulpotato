@@ -1,1 +1,1 @@
-Item(by='cytzol', descendants=None, kids=[25034361, 25034316], score=None, time=1604926743, title=None, item_type='comment', url=None, parent=25034190, text='I didn&#x27;t think that feature fit. Would people really use a general DNS client for this? I use nslookup.')
+Item(by='cytzol', descendants=None, kids=[25034361, 25034316, 25034721], score=None, time=1604926743, title=None, item_type='comment', url=None, parent=25034190, text='I didn&#x27;t think that feature fit. Would people really use a general DNS client for this? I use nslookup.')

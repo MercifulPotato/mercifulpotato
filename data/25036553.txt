@@ -1,0 +1,1 @@
+Item(by='peterwoerner', descendants=None, kids=[25036625], score=None, time=1604939896, title=None, item_type='comment', url=None, parent=25033749, text='Euler&#x27;s method is non-conservative, you ought to be using a hire order method e.g. leap frog or Backward Time, Centered Space Method.')

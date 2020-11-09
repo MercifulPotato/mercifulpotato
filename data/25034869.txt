@@ -1,1 +1,1 @@
-Item(by='sekai', descendants=None, kids=None, score=None, time=1604930487, title=None, item_type='comment', url=None, parent=25034529, text='What are you talking about? Lockdown is to prevent a collapse of health care institutions, not to stop a pandemic, completely different from a vaccine.')
+Item(by=None, descendants=None, kids=None, score=None, time=1604930487, title=None, item_type='comment', url=None, parent=25034529, text=None)

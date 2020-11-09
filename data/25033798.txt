@@ -1,1 +1,1 @@
-Item(by='throwaway_pdp09', descendants=None, kids=None, score=None, time=1604922643, title=None, item_type='comment', url=None, parent=25033777, text='I read it, it says what it is and what it has but doesn&#x27;t compare itself there to other langs.')
+Item(by='throwaway_pdp09', descendants=None, kids=[25034390], score=None, time=1604922643, title=None, item_type='comment', url=None, parent=25033777, text='I read it, it says what it is and what it has but doesn&#x27;t compare itself there to other langs.')

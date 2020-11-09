@@ -1,1 +1,1 @@
-Item(by='vbezhenar', descendants=None, kids=None, score=None, time=1604879067, title=None, item_type='comment', url=None, parent=25029889, text='They restrict user with every new macOS release.')
+Item(by='vbezhenar', descendants=None, kids=[25035349], score=None, time=1604879067, title=None, item_type='comment', url=None, parent=25029889, text='They restrict user with every new macOS release.')

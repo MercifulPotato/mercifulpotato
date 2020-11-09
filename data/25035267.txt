@@ -1,0 +1,1 @@
+Item(by='maweki', descendants=None, kids=None, score=None, time=1604932989, title=None, item_type='comment', url=None, parent=25034906, text='The easiest way would be to use the normal python bindings and flask and attach some http endpoints to actor and sensor functions. I think this would only take a few hours to have something that essentially works.')

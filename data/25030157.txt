@@ -1,1 +1,1 @@
-Item(by='foota', descendants=None, kids=None, score=None, time=1604879219, title=None, item_type='comment', url=None, parent=25029563, text='I&#x27;ll bite: <a href="https:&#x2F;&#x2F;youtu.be&#x2F;-e-Vka_HkRU?t=107" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;-e-Vka_HkRU?t=107</a>')
+Item(by='foota', descendants=None, kids=[25036810], score=None, time=1604879219, title=None, item_type='comment', url=None, parent=25029563, text='I&#x27;ll bite: <a href="https:&#x2F;&#x2F;youtu.be&#x2F;-e-Vka_HkRU?t=107" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;-e-Vka_HkRU?t=107</a>')

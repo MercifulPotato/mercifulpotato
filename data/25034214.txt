@@ -1,1 +1,1 @@
-Item(by='Cthulhu_', descendants=None, kids=None, score=None, time=1604926369, title=None, item_type='comment', url=None, parent=25034014, text='I think Nintendo will do pretty good as well, Animal Crossing looks like an ideal game for a lockdown.')
+Item(by='Cthulhu_', descendants=None, kids=[25034973], score=None, time=1604926369, title=None, item_type='comment', url=None, parent=25034014, text='I think Nintendo will do pretty good as well, Animal Crossing looks like an ideal game for a lockdown.')

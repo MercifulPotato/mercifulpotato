@@ -1,1 +1,1 @@
-Item(by='matsutsu', descendants=0, kids=None, score=2, time=1604928372, title='Show HN: PatchGirl – QA for Web Developers', item_type='story', url='https://patchgirl.io/', parent=None, text=None)
+Item(by='matsutsu', descendants=22, kids=[25037359, 25036503, 25037290, 25036313, 25036440, 25036369], score=15, time=1604928372, title='Show HN: PatchGirl – QA for Web Developers', item_type='story', url='https://patchgirl.io/', parent=None, text=None)

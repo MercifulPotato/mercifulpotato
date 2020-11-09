@@ -1,1 +1,1 @@
-Item(by='lern_too_spel', descendants=None, kids=None, score=None, time=1604895713, title=None, item_type='comment', url=None, parent=25030786, text='That relies on the device being so insecure that it has a rootable vulnerability, which is even worse.')
+Item(by='lern_too_spel', descendants=None, kids=[25035702], score=None, time=1604895713, title=None, item_type='comment', url=None, parent=25030786, text='That relies on the device being so insecure that it has a rootable vulnerability, which is even worse.')

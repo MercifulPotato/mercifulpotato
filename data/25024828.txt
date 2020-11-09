@@ -1,1 +1,1 @@
-Item(by='ochronus', descendants=None, kids=[25027987], score=None, time=1604832625, title=None, item_type='comment', url=None, parent=25024681, text='Thanks for the tips - I&#x27;m tied to node at the moment - wasm-avif has serious issues with thready safety an memleaks :( tried it.')
+Item(by='ochronus', descendants=None, kids=[25035116, 25027987], score=None, time=1604832625, title=None, item_type='comment', url=None, parent=25024681, text='Thanks for the tips - I&#x27;m tied to node at the moment - wasm-avif has serious issues with thready safety an memleaks :( tried it.')

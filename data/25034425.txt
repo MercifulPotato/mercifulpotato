@@ -1,1 +1,1 @@
-Item(by='piracy1', descendants=None, kids=None, score=None, time=1604927671, title=None, item_type='comment', url=None, parent=25033649, text='Indeed. I would only list driveby RCE')
+Item(by='piracy1', descendants=None, kids=[25034746], score=None, time=1604927671, title=None, item_type='comment', url=None, parent=25033649, text='Indeed. I would only list driveby RCE')

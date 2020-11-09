@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1604895540, title=None, item_type='comment', url=None, parent=25031132, text='They may still be approved but I believe recent changes to the rules have made this behavior against the rules.')
+Item(by='saagarjha', descendants=None, kids=[25038003], score=None, time=1604895540, title=None, item_type='comment', url=None, parent=25031132, text='They may still be approved but I believe recent changes to the rules have made this behavior against the rules.')

@@ -1,0 +1,1 @@
+Item(by='dusted', descendants=None, kids=None, score=None, time=1604931528, title=None, item_type='comment', url=None, parent=25031538, text='I often use jq for working with more complex data structures in bash, sure it&#x27;s not built-in, so you&#x27;re forced to extract some stuff into variables before interacting with it, but that often leads to cleaner code anyway.')

@@ -1,1 +1,1 @@
-Item(by='0xdeadb00f', descendants=None, kids=None, score=None, time=1604843138, title=None, item_type='comment', url=None, parent=25025726, text='There is another called Replicant IIRC.<p>But it requires you to set up your own build + signing server in AWS.')
+Item(by='0xdeadb00f', descendants=None, kids=[25038539], score=None, time=1604843138, title=None, item_type='comment', url=None, parent=25025726, text='There is another called Replicant IIRC.<p>But it requires you to set up your own build + signing server in AWS.')

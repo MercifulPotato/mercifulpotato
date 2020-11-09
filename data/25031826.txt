@@ -1,1 +1,1 @@
-Item(by='throwaway201103', descendants=None, kids=None, score=None, time=1604901273, title=None, item_type='comment', url=None, parent=25031353, text='What percentage of the world&#x27;s car-owning population lives in the USA?<p>I own 6 cars, myself.')
+Item(by='throwaway201103', descendants=None, kids=[25036681], score=None, time=1604901273, title=None, item_type='comment', url=None, parent=25031353, text='What percentage of the world&#x27;s car-owning population lives in the USA?<p>I own 6 cars, myself.')

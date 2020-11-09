@@ -1,1 +1,1 @@
-Item(by='upofadown', descendants=1, kids=[25034076], score=4, time=1604924002, title='OpenBSD Router Guide', item_type='story', url='https://www.unixsheikh.com/tutorials/openbsd-router-guide/', parent=None, text=None)
+Item(by='upofadown', descendants=5, kids=[25035822, 25034076], score=16, time=1604924002, title='OpenBSD Router Guide', item_type='story', url='https://www.unixsheikh.com/tutorials/openbsd-router-guide/', parent=None, text=None)

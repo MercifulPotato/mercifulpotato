@@ -1,0 +1,1 @@
+Item(by='jiofih', descendants=None, kids=None, score=None, time=1604939042, title=None, item_type='comment', url=None, parent=25036310, text='Almost every project I worked on had a shitty version of faker, written in half an hour for specific needs. It’s a very cosmetic thing, as you’d never rely on this type of dataset for testing actual behaviour of critical code.')

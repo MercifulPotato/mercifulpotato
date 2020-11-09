@@ -1,1 +1,1 @@
-Item(by='AlchemistCamp', descendants=1, kids=[25033768], score=2, time=1604922142, title='No More Free Work from Marak – Pay Me or Fork This', item_type='story', url='https://github.com/Marak/faker.js/issues/1046#issue-738501253', parent=None, text=None)
+Item(by='AlchemistCamp', descendants=2, kids=[25034965, 25033768], score=2, time=1604922142, title='No More Free Work from Marak – Pay Me or Fork This', item_type='story', url='https://github.com/Marak/faker.js/issues/1046#issue-738501253', parent=None, text=None)

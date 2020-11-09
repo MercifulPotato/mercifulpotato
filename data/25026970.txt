@@ -1,1 +1,1 @@
-Item(by='warent', descendants=None, kids=None, score=None, time=1604854318, title=None, item_type='comment', url=None, parent=25026532, text='that can&#x27;t be true because nothing would stop them from taking a screencap and then photoshopping it over a different picture')
+Item(by='warent', descendants=None, kids=[25036666], score=None, time=1604854318, title=None, item_type='comment', url=None, parent=25026532, text='that can&#x27;t be true because nothing would stop them from taking a screencap and then photoshopping it over a different picture')
