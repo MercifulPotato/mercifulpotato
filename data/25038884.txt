@@ -1,1 +1,1 @@
-Item(by='criddell', descendants=None, kids=None, score=None, time=1604950709, title=None, item_type='comment', url=None, parent=25038377, text='Is it true by market value? Bitcoin itself is worth something like $200 billion. What&#x27;s the biggest counter-example?')
+Item(by='criddell', descendants=None, kids=[25039049], score=None, time=1604950709, title=None, item_type='comment', url=None, parent=25038377, text='Is it true by market value? Bitcoin itself is worth something like $200 billion. What&#x27;s the biggest counter-example?')

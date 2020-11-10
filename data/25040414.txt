@@ -1,0 +1,1 @@
+Item(by='roblabla', descendants=None, kids=None, score=None, time=1604958834, title=None, item_type='comment', url=None, parent=25030602, text='No, it&#x27;s not a security mechanism period. Public&#x2F;Private APIs aren&#x27;t part of the security model, it&#x27;s a way to prevent app breakage in their ecosystem due to applications using unstable APIs.')

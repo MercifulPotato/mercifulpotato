@@ -1,1 +1,1 @@
-Item(by='spdionis', descendants=None, kids=None, score=None, time=1604926747, title=None, item_type='comment', url=None, parent=25033592, text='That&#x27;s exactly what the maintainer of faker.js is doing. He decided to stop giving away free lunches.')
+Item(by='spdionis', descendants=None, kids=[25041189], score=None, time=1604926747, title=None, item_type='comment', url=None, parent=25033592, text='That&#x27;s exactly what the maintainer of faker.js is doing. He decided to stop giving away free lunches.')

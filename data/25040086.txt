@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=[25040950], score=None, time=1604956944, title=None, item_type='comment', url=None, parent=25039105, text='&gt; potentially faster compile times than C++ when Rust is more mature<p>First cargo needs to also handle binary dependencies, and C++20 has modules now.')

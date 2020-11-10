@@ -1,1 +1,1 @@
-Item(by='stemmlerjs', descendants=0, kids=None, score=1, time=1604945683, title='Caching Strategies in a Federated GraphQL Architecture', item_type='story', url='https://www.apollographql.com/blog/caching-strategies-in-a-federated-graphql-architecture/', parent=None, text=None)
+Item(by='stemmlerjs', descendants=0, kids=None, score=2, time=1604945683, title='Caching Strategies in a Federated GraphQL Architecture', item_type='story', url='https://www.apollographql.com/blog/caching-strategies-in-a-federated-graphql-architecture/', parent=None, text=None)

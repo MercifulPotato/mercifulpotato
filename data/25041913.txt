@@ -1,0 +1,1 @@
+Item(by='joshspankit', descendants=None, kids=None, score=None, time=1604971078, title=None, item_type='comment', url=None, parent=25037293, text='Ok, hear me out:<p>Graph databases + simple API &gt; GraphQL<p>Practically every important scenario uses <i>related</i> data. Graph databases are awesome at that.')

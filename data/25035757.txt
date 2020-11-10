@@ -1,1 +1,1 @@
-Item(by='josephcsible', descendants=None, kids=None, score=None, time=1604935929, title=None, item_type='comment', url=None, parent=25033557, text='Apple intentionally cripples mobile Safari so that Web apps will never be as good as native ones.')
+Item(by='josephcsible', descendants=None, kids=[25041202], score=None, time=1604935929, title=None, item_type='comment', url=None, parent=25033557, text='Apple intentionally cripples mobile Safari so that Web apps will never be as good as native ones.')

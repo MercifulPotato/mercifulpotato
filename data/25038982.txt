@@ -1,1 +1,1 @@
-Item(by='jscheel', descendants=None, kids=None, score=None, time=1604951060, title=None, item_type='comment', url=None, parent=25035208, text='Or, like me, your health department doesn&#x27;t even bother to contact you. I had to do my own contact tracing when I tested positive.')
+Item(by='jscheel', descendants=None, kids=[25039333], score=None, time=1604951060, title=None, item_type='comment', url=None, parent=25035208, text='Or, like me, your health department doesn&#x27;t even bother to contact you. I had to do my own contact tracing when I tested positive.')

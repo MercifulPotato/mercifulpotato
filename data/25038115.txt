@@ -1,1 +1,1 @@
-Item(by='dmurray', descendants=None, kids=None, score=None, time=1604947547, title=None, item_type='comment', url=None, parent=25038023, text='The &quot;pure&quot; vegans may be a minority, but will have a disproportionately loud voice.')
+Item(by='dmurray', descendants=None, kids=[25041392], score=None, time=1604947547, title=None, item_type='comment', url=None, parent=25038023, text='The &quot;pure&quot; vegans may be a minority, but will have a disproportionately loud voice.')

@@ -1,0 +1,1 @@
+Item(by='rebelwebmaster', descendants=None, kids=None, score=None, time=1604962738, title=None, item_type='comment', url=None, parent=25036527, text='Firefox only uses Freetype on Linux (the system-installed version) and on Android, and the vulnerable code path was only reachable in Firefox with a non-default pref set (gfx.downloadable_fonts.keep_color_bitmaps).')

@@ -1,0 +1,1 @@
+Item(by='jchrisa', descendants=None, kids=[25041205], score=None, time=1604962487, title=None, item_type='comment', url=None, parent=25040727, text='I came here to say this. The whole thing reminds me of shouldComponentUpdate, and I wonder if immutable data structures could be another solution style, or if they turn out to just work like this at a lower level.')

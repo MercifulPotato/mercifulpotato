@@ -1,1 +1,1 @@
-Item(by='seventytwo', descendants=None, kids=None, score=None, time=1604944189, title=None, item_type='comment', url=None, parent=25036670, text='The constitution.<p>You think private companies are bound by the same constraints the federal govt is??')
+Item(by='seventytwo', descendants=None, kids=[25040183], score=None, time=1604944189, title=None, item_type='comment', url=None, parent=25036670, text='The constitution.<p>You think private companies are bound by the same constraints the federal govt is??')

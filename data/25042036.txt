@@ -1,0 +1,1 @@
+Item(by='epage', descendants=None, kids=None, score=None, time=1604972571, title=None, item_type='comment', url=None, parent=25041242, text='imo the main benefit to context manager is reporting errors during cleanup while the main benefit of RAII&#x2F;destructors is composability.')

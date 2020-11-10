@@ -1,1 +1,1 @@
-Item(by='hinkley', descendants=None, kids=None, score=None, time=1604943125, title=None, item_type='comment', url=None, parent=25024962, text='They&#x27;d have to raise prices just to keep the margins the same.')
+Item(by='hinkley', descendants=None, kids=[25040660], score=None, time=1604943125, title=None, item_type='comment', url=None, parent=25024962, text='They&#x27;d have to raise prices just to keep the margins the same.')

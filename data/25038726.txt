@@ -1,1 +1,1 @@
-Item(by='d2kx', descendants=0, kids=None, score=2, time=1604950034, title='MongoDB 4.0 compatibility and Transactions in Amazon DocumentDB', item_type='story', url='https://aws.amazon.com/blogs/database/introducing-amazon-documentdb-with-mongodb-compatibility-4-0/', parent=None, text=None)
+Item(by='d2kx', descendants=0, kids=None, score=6, time=1604950034, title='MongoDB 4.0 compatibility and Transactions in Amazon DocumentDB', item_type='story', url='https://aws.amazon.com/blogs/database/introducing-amazon-documentdb-with-mongodb-compatibility-4-0/', parent=None, text=None)

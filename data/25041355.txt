@@ -1,0 +1,1 @@
+Item(by='davidwf', descendants=None, kids=[25041454], score=None, time=1604965616, title=None, item_type='comment', url=None, parent=25032924, text='I write a lot of Python and didn&#x27;t know about this despite it being a 2015 blog post! The real kicker for me is:<p>* [ExitStack] easily scales up to many resources (including a dynamic number that&#x27;s acquired in a loop)')

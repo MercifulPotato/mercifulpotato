@@ -1,0 +1,1 @@
+Item(by='bob1029', descendants=None, kids=None, score=None, time=1604968796, title=None, item_type='comment', url=None, parent=25041461, text='*asynchronous updates to shared state<p>If everyone is working in parallel, but on independent tasks, there are no issues.')

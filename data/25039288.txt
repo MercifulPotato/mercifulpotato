@@ -1,0 +1,1 @@
+Item(by='treis', descendants=None, kids=None, score=None, time=1604952636, title=None, item_type='comment', url=None, parent=25038710, text='Ok, and why do you think most people use Redis?  Is it (1) they did a careful evaluation of the options and selected Redis because it was best or (2) everyone knows you use Redis if you need an in memory cache?')

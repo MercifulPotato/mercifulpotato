@@ -1,0 +1,1 @@
+Item(by='rasz', descendants=None, kids=None, score=None, time=1604969367, title=None, item_type='comment', url=None, parent=25041114, text='Packets that still have to encode and adhere to strict VGA timings (Hsync&#x2F;Vsync&#x2F;blanking), and you arent allowed to send anything useful between the packets unless its a blanking period.')

@@ -1,0 +1,1 @@
+Item(by='salmaanp', descendants=None, kids=None, score=None, time=1604954396, title=None, item_type='comment', url=None, parent=25033398, text='another HTTP header that I recently came to know about is the &quot;Expect&quot; header. Basically used to send just the request without request body and send the body only after the server responds with HTTP status code 100.')

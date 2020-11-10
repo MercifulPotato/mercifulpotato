@@ -1,0 +1,1 @@
+Item(by='gbh444g', descendants=None, kids=None, score=None, time=1604968722, title=None, item_type='comment', url=None, parent=25041587, text='It works on Firefox, but as the error says, you have to set the correct sample rate that matches the mp3 file. You can do that with ?sr=44.1 or ?sr=48. The default value is 44.1 and on Chrome you can use any sample rate.')

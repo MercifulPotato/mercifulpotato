@@ -1,1 +1,1 @@
-Item(by='DVassallo', descendants=None, kids=None, score=None, time=1604949211, title=None, item_type='comment', url=None, parent=25038226, text='The methodology is in the sentence you quoted.')
+Item(by='DVassallo', descendants=None, kids=[25039169], score=None, time=1604949211, title=None, item_type='comment', url=None, parent=25038226, text='The methodology is in the sentence you quoted.')

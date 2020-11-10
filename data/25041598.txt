@@ -1,0 +1,1 @@
+Item(by='dfee', descendants=None, kids=None, score=None, time=1604967782, title=None, item_type='comment', url=None, parent=25039489, text='That’s kinda hard not to support. The second you have a relation modeled bidirectionally in GraphQL, you support infinite nesting (well, there are complexity guards, but alas).')

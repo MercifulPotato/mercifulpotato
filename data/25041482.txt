@@ -1,0 +1,1 @@
+Item(by='phaedryx', descendants=None, kids=None, score=None, time=1604966888, title=None, item_type='comment', url=None, parent=25039382, text='At my last job, we just dynamically generated the GraphQL schema from our Rails models and our permission system. Once we had that in place we just developed as usual.')

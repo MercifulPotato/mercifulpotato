@@ -1,0 +1,1 @@
+Item(by='spullara', descendants=None, kids=[25040966], score=None, time=1604960904, title=None, item_type='comment', url=None, parent=25039393, text='React Hooks reminds me a lot of spreadsheets. Change a dependency and everything needs to be recalculated that depends on it and so on.')

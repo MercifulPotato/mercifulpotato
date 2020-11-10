@@ -1,1 +1,1 @@
-Item(by='RonanTheGrey', descendants=None, kids=None, score=None, time=1604945559, title=None, item_type='comment', url=None, parent=25032041, text='I think it&#x27;s widely recognized that Sophie&#x27;s Choice is not a choice.')
+Item(by='RonanTheGrey', descendants=None, kids=[25039840], score=None, time=1604945559, title=None, item_type='comment', url=None, parent=25032041, text='I think it&#x27;s widely recognized that Sophie&#x27;s Choice is not a choice.')

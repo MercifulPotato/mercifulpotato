@@ -1,0 +1,1 @@
+Item(by='bdcravens', descendants=None, kids=[25040198, 25041394], score=None, time=1604953212, title=None, item_type='comment', url=None, parent=25037293, text='Has anyone gone the route of leaving GraphQL out of Rails, and using a dedicated GraphQL server like Hasura?')

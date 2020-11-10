@@ -1,0 +1,1 @@
+Item(by='tehlike', descendants=None, kids=[25041413], score=None, time=1604960474, title=None, item_type='comment', url=None, parent=25037293, text='Postgres supports json_agg which solves n+1 and also cartesian product problem. It&#x27;s neat, hasura does it nicely for example.')

@@ -1,0 +1,1 @@
+Item(by='gruez', descendants=None, kids=[25039958], score=None, time=1604955614, title=None, item_type='comment', url=None, parent=25039776, text='&gt;unless that javascript comes from a place I can easily block with pi-hole.<p>Why on earth are you you blocking javascript using dns? Shouldn&#x27;t you be doing it via the browser (via addons or site preferences)?')

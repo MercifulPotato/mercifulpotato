@@ -1,1 +1,1 @@
-Item(by='seph-reed', descendants=None, kids=None, score=None, time=1604949593, title=None, item_type='comment', url=None, parent=25038366, text='This is an interesting license, but I&#x27;m not trying to force small businesses or hobbyists to only use GPL for their project.')
+Item(by='seph-reed', descendants=None, kids=[25039386], score=None, time=1604949593, title=None, item_type='comment', url=None, parent=25038366, text='This is an interesting license, but I&#x27;m not trying to force small businesses or hobbyists to only use GPL for their project.')

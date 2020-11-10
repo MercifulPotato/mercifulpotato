@@ -1,1 +1,1 @@
-Item(by='kasbah', descendants=0, kids=None, score=2, time=1604949403, title='Show HN: Configure your own 3D-printed microscope', item_type='story', url='https://microscope-stls.openflexure.org/', parent=None, text=None)
+Item(by='kasbah', descendants=1, kids=[25039080], score=5, time=1604949403, title='Show HN: Configure your own 3D-printed microscope', item_type='story', url='https://microscope-stls.openflexure.org/', parent=None, text=None)

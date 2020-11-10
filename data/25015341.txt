@@ -1,1 +1,1 @@
-Item(by='aphextron', descendants=None, kids=None, score=None, time=1604760411, title=None, item_type='comment', url=None, parent=25013144, text='I love how all of this research always comes to the same conclusion: Eat less, and mostly vegetables.')
+Item(by='aphextron', descendants=None, kids=[25042307], score=None, time=1604760411, title=None, item_type='comment', url=None, parent=25013144, text='I love how all of this research always comes to the same conclusion: Eat less, and mostly vegetables.')

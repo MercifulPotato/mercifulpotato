@@ -1,0 +1,1 @@
+Item(by='MayeulC', descendants=None, kids=None, score=None, time=1604956824, title=None, item_type='comment', url=None, parent=25039964, text='It really depends on your filesystem for this. However, the latency should be comparable across technologies, proportionately taking a bigger chunk of transfer times for small files.')

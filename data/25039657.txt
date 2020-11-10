@@ -1,1 +1,1 @@
-Item(by='cblconfederate', descendants=None, kids=None, score=None, time=1604954702, title=None, item_type='comment', url=None, parent=25038134, text='&gt; kind of a shithole,<p>well not exactly')
+Item(by='cblconfederate', descendants=None, kids=[25040617], score=None, time=1604954702, title=None, item_type='comment', url=None, parent=25038134, text='&gt; kind of a shithole,<p>well not exactly')

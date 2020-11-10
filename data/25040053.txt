@@ -1,0 +1,1 @@
+Item(by='stanfordkid', descendants=None, kids=None, score=None, time=1604956766, title=None, item_type='comment', url=None, parent=25036110, text='I wonder at what stage notions of metabolism will be baked directly into neural network operations -- e.g optimize not just for reducing some notion of error on a dataset, but also for the training efficiency itself.')

@@ -1,0 +1,1 @@
+Item(by='maest', descendants=None, kids=[25041499], score=None, time=1604954078, title=None, item_type='comment', url=None, parent=25039393, text='Topological sorting - that&#x27;s a very nice idea.<p>In the past I&#x27;ve implemented dirty marking and, while fun to figure out the appropriate logic, topological sorting seems much neater.')

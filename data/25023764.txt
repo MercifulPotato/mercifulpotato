@@ -1,1 +1,1 @@
-Item(by='bdowling', descendants=None, kids=None, score=None, time=1604819417, title=None, item_type='comment', url=None, parent=25022858, text='If a startup fails to raise a series A round because it was 5% underfunded at the seed stage, then it was never going to succeed.')
+Item(by='bdowling', descendants=None, kids=[25040977], score=None, time=1604819417, title=None, item_type='comment', url=None, parent=25022858, text='If a startup fails to raise a series A round because it was 5% underfunded at the seed stage, then it was never going to succeed.')

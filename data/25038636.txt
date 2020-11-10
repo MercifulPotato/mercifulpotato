@@ -1,1 +1,1 @@
-Item(by='KMnO4', descendants=None, kids=None, score=None, time=1604949694, title=None, item_type='comment', url=None, parent=25038548, text='Do you need to? Both VSCode and IntelliJ have remote coding capabilities.')
+Item(by='KMnO4', descendants=None, kids=[25040498], score=None, time=1604949694, title=None, item_type='comment', url=None, parent=25038548, text='Do you need to? Both VSCode and IntelliJ have remote coding capabilities.')
