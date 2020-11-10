@@ -1,1 +1,1 @@
-Item(by='D-Coder', descendants=None, kids=None, score=None, time=1604960092, title=None, item_type='comment', url=None, parent=25039045, text='I read it. How does this article even make sense?')
+Item(by='D-Coder', descendants=None, kids=[25042993], score=None, time=1604960092, title=None, item_type='comment', url=None, parent=25039045, text='I read it. How does this article even make sense?')

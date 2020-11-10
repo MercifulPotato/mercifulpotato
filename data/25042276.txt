@@ -1,1 +1,1 @@
-Item(by='foota', descendants=None, kids=None, score=None, time=1604975059, title=None, item_type='comment', url=None, parent=25042086, text='Maybe it forces a different internal layout?')
+Item(by='foota', descendants=None, kids=[25042836], score=None, time=1604975059, title=None, item_type='comment', url=None, parent=25042086, text='Maybe it forces a different internal layout?')

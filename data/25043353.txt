@@ -1,0 +1,1 @@
+Item(by='r4victor', descendants=None, kids=None, score=None, time=1604990497, title=None, item_type='comment', url=None, parent=25039929, text='As teraflop pointed out, CPython doesn&#x27;t actually do the pop and the push in this case. Sorry for being misleading. I&#x27;ve added an update note to clarify this.')

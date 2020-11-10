@@ -1,1 +1,1 @@
-Item(by='vmception', descendants=None, kids=None, score=None, time=1604951105, title=None, item_type='comment', url=None, parent=25037600, text='&quot;If you like US then leave!&quot;<p><i>leaves</i><p>[Surprised Pikachu Face]')
+Item(by='vmception', descendants=None, kids=[25042495], score=None, time=1604951105, title=None, item_type='comment', url=None, parent=25037600, text='&quot;If you like US then leave!&quot;<p><i>leaves</i><p>[Surprised Pikachu Face]')

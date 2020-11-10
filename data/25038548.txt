@@ -1,1 +1,1 @@
-Item(by='lainga', descendants=None, kids=[25038706, 25038796, 25038636], score=None, time=1604949346, title=None, item_type='comment', url=None, parent=25036036, text='Personally, it&#x27;s because I can&#x27;t set up X11 forwarding on every machine I SSH into')
+Item(by='lainga', descendants=None, kids=[25038706, 25038636, 25038796], score=None, time=1604949346, title=None, item_type='comment', url=None, parent=25036036, text='Personally, it&#x27;s because I can&#x27;t set up X11 forwarding on every machine I SSH into')

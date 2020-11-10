@@ -1,1 +1,1 @@
-Item(by='shadowgovt', descendants=None, kids=None, score=None, time=1604973754, title=None, item_type='comment', url=None, parent=25040987, text='How?')
+Item(by='shadowgovt', descendants=None, kids=[25042175], score=None, time=1604973754, title=None, item_type='comment', url=None, parent=25040987, text='How?')

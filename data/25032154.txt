@@ -1,1 +1,1 @@
-Item(by='sohkamyung', descendants=0, kids=None, score=1, time=1604906501, title='Put Physics to the Test with a DIY Roller Coaster', item_type='story', url='https://www.nytimes.com/2020/11/07/at-home/diy-roller-coaster.html', parent=None, text=None)
+Item(by='sohkamyung', descendants=2, kids=[25043117, 25043179], score=5, time=1604906501, title='DIY Roller Coaster', item_type='story', url='https://www.nytimes.com/2020/11/07/at-home/diy-roller-coaster.html', parent=None, text=None)

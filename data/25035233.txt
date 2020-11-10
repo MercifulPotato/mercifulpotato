@@ -1,1 +1,1 @@
-Item(by='zaroth', descendants=None, kids=None, score=None, time=1604932741, title=None, item_type='comment', url=None, parent=25034729, text='Which town is that?')
+Item(by='zaroth', descendants=None, kids=[25042519], score=None, time=1604932741, title=None, item_type='comment', url=None, parent=25034729, text='Which town is that?')

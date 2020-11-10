@@ -1,0 +1,1 @@
+Item(by='cbsmith', descendants=None, kids=None, score=None, time=1604991693, title=None, item_type='comment', url=None, parent=25043188, text='In fairness, Java&#x27;s AutoCloseable interface is missing some of the niceties of ExitStack, as with C++&#x27;s destructors. People have made libraries for both that attempt to close the gap.')

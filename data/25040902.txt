@@ -1,1 +1,1 @@
-Item(by='kumarski', descendants=None, kids=None, score=None, time=1604962037, title=None, item_type='comment', url=None, parent=25039013, text='efabless.com<p>Open source chips are not common place right now, but maybe in like 10-15 years.<p>Love bunniestudios posts.')
+Item(by='kumarski', descendants=None, kids=[25043361], score=None, time=1604962037, title=None, item_type='comment', url=None, parent=25039013, text='efabless.com<p>Open source chips are not common place right now, but maybe in like 10-15 years.<p>Love bunniestudios posts.')

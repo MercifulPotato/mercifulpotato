@@ -1,0 +1,1 @@
+Item(by='glglwty', descendants=None, kids=None, score=None, time=1604986018, title=None, item_type='comment', url=None, parent=25026756, text='Try strace and look at what the is loaded by ld.so?')

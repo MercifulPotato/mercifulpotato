@@ -1,0 +1,1 @@
+Item(by='jokoon', descendants=None, kids=None, score=None, time=1604989708, title=None, item_type='comment', url=None, parent=25037141, text='So i cannot have algebraic types like vec3 etc in zig? It says there are no operators.<p>In my view modern languages should provide vector math stuff.')

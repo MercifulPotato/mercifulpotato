@@ -1,1 +1,1 @@
-Item(by='jedberg', descendants=None, kids=None, score=None, time=1604952014, title=None, item_type='comment', url=None, parent=25038867, text='Like what Facebook&#x27;s cofounder did right before the IPO.')
+Item(by='jedberg', descendants=None, kids=[25043302], score=None, time=1604952014, title=None, item_type='comment', url=None, parent=25038867, text='Like what Facebook&#x27;s cofounder did right before the IPO.')

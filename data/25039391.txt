@@ -1,1 +1,1 @@
-Item(by='bromquinn', descendants=0, kids=None, score=1, time=1604953156, title='Show HN: Using Machine Learning to Block Distracting Web Content', item_type='story', url='https://getontopic.com/', parent=None, text=None)
+Item(by='bromquinn', descendants=1, kids=[25042698], score=1, time=1604953156, title='Show HN: Using Machine Learning to Block Distracting Web Content', item_type='story', url='https://getontopic.com/', parent=None, text=None)

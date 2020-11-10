@@ -1,1 +1,1 @@
-Item(by='PaulStatezny', descendants=None, kids=None, score=None, time=1604931428, title=None, item_type='comment', url=None, parent=25022258, text='The fact that you&#x27;re getting downvoted on such a simple, objectively true statement shows the blatant bias of the HN crowd.')
+Item(by='PaulStatezny', descendants=None, kids=[25042578], score=None, time=1604931428, title=None, item_type='comment', url=None, parent=25022258, text='The fact that you&#x27;re getting downvoted on such a simple, objectively true statement shows the blatant bias of the HN crowd.')

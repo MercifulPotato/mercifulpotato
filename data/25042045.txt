@@ -1,1 +1,1 @@
-Item(by='ctr', descendants=None, kids=None, score=None, time=1604972692, title=None, item_type='comment', url=None, parent=25041875, text='There&#x27;s text hidden behind the 2016 panel but I can&#x27;t make out what it says. Anyone?')
+Item(by='ctr', descendants=None, kids=[25042130], score=None, time=1604972692, title=None, item_type='comment', url=None, parent=25041875, text='There&#x27;s text hidden behind the 2016 panel but I can&#x27;t make out what it says. Anyone?')

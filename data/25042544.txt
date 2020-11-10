@@ -1,0 +1,1 @@
+Item(by='dragontamer', descendants=None, kids=None, score=None, time=1604978507, title=None, item_type='comment', url=None, parent=25041819, text='The x++ isn&#x27;t necessary.<p><pre><code>    x = 1;\n    assert(x==1); &#x2F;&#x2F; May fail in a parallel world</code></pre>')

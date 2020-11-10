@@ -1,1 +1,1 @@
-Item(by='BitwiseFool', descendants=None, kids=None, score=None, time=1604959040, title=None, item_type='comment', url=None, parent=25040284, text='The E in E Coli stands for &quot;Escherichia&quot;. Which sounds like a kind of Queso. Maybe they can make it work.')
+Item(by='BitwiseFool', descendants=None, kids=[25042274], score=None, time=1604959040, title=None, item_type='comment', url=None, parent=25040284, text='The E in E Coli stands for &quot;Escherichia&quot;. Which sounds like a kind of Queso. Maybe they can make it work.')

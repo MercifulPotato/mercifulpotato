@@ -1,1 +1,1 @@
-Item(by='throwaway2245', descendants=None, kids=None, score=None, time=1604965479, title=None, item_type='comment', url=None, parent=25040574, text='The emergency alert system (which plays its own alarm tone) seems pretty trustworthy.')
+Item(by='throwaway2245', descendants=None, kids=[25042840], score=None, time=1604965479, title=None, item_type='comment', url=None, parent=25040574, text='The emergency alert system (which plays its own alarm tone) seems pretty trustworthy.')
