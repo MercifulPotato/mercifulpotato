@@ -1,0 +1,1 @@
+Item(by='beatle_sauce', descendants=None, kids=None, score=None, time=1605025203, title=None, item_type='comment', url=None, parent=25046738, text='Is this basically the learning parity with noise problem, but instead of a fixed size vector, the noisy output is generated in by a PRNG with a pre-determined secret seed?\nHow can this be used for authentication or encryption?')

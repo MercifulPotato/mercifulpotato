@@ -1,0 +1,1 @@
+Item(by='wetpaws', descendants=None, kids=None, score=None, time=1605036697, title=None, item_type='comment', url=None, parent=25047750, text='Does not work for me neither on gnome not on kde and I have to explicitly add gtk_gdi_scalibg to run arguments. Also no fractional scaling, lol.')

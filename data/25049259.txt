@@ -1,0 +1,1 @@
+Item(by='jen20', descendants=None, kids=None, score=None, time=1605032826, title=None, item_type='comment', url=None, parent=25048783, text='If you made a attempt to upstream the work (what most people would assume from “contributed”), it will be in Gerrit [1], which allows it to be found using the “owner:&lt;email&gt;” search.<p>[1]: go-review.googlesource.com')

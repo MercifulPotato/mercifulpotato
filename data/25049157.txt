@@ -1,0 +1,1 @@
+Item(by='jle17', descendants=None, kids=None, score=None, time=1605032326, title=None, item_type='comment', url=None, parent=25045505, text='Anncient Unix also had chdir as the command name for cd. If I&#x27;m not mistaken it was changed to cd for v7 with the Bourne shell replacing the previous shell.')

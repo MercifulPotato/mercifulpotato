@@ -1,0 +1,1 @@
+Item(by='jakeva', descendants=None, kids=None, score=None, time=1605027030, title=None, item_type='comment', url=None, parent=25045008, text='&gt; git complains that somewhere around commit 4 there&#x27;s a conflict.<p>That sounds like a rebase merge, which might be the setting in the repo. A normal merge wouldn&#x27;t attempt commit by commit.')

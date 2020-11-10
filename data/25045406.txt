@@ -1,1 +1,1 @@
-Item(by='jml7c5', descendants=None, kids=None, score=None, time=1605012913, title=None, item_type='comment', url=None, parent=25044739, text='It&#x27;s possible my information is out of date, but I am under the impression that guile-emacs development stalled five years ago.')
+Item(by='jml7c5', descendants=None, kids=[25047589], score=None, time=1605012913, title=None, item_type='comment', url=None, parent=25044739, text='It&#x27;s possible my information is out of date, but I am under the impression that guile-emacs development stalled five years ago.')

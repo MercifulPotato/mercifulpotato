@@ -1,0 +1,1 @@
+Item(by='azangru', descendants=None, kids=None, score=None, time=1605025235, title=None, item_type='comment', url=None, parent=25044260, text='We do squash-and-merge for PRs. Works great so far. A minimal unit of change is thus not a single commit in a PR, but the whole diff introduced with a PR.')

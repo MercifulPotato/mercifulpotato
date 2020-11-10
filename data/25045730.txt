@@ -1,0 +1,1 @@
+Item(by='jlgaddis', descendants=None, kids=None, score=None, time=1605015365, title=None, item_type='comment', url=None, parent=25034076, text='You might have to PXE boot to launch the installation with non-default parameters but you should have little problem doing so (and both PXELINUX and iPXE support serial console).')

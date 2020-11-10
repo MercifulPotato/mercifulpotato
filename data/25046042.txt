@@ -1,0 +1,1 @@
+Item(by='daviesliu', descendants=None, kids=None, score=None, time=1605017285, title=None, item_type='comment', url=None, parent=25043037, text='Good point.<p>Juicesync does support less service, but has better coverage for enterprise (Rclone does much better for individuals).<p>Btw, we are on the way to open source JuiceFS.')

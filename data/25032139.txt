@@ -1,1 +1,1 @@
-Item(by='kiyanwang', descendants=0, kids=None, score=2, time=1604906230, title='Scaling Live streaming for millions of viewers', item_type='story', url='https://engineering.fb.com/2020/10/22/video-engineering/live-streaming/', parent=None, text=None)
+Item(by='kiyanwang', descendants=14, kids=[25050780, 25046930, 25046957, 25046449], score=38, time=1604906230, title='Scaling live streaming for millions of viewers', item_type='story', url='https://engineering.fb.com/2020/10/22/video-engineering/live-streaming/', parent=None, text=None)

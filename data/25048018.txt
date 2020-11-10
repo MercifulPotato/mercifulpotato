@@ -1,0 +1,1 @@
+Item(by='the_arun', descendants=None, kids=[25048047, 25049785], score=None, time=1605027072, title=None, item_type='comment', url=None, parent=25047409, text='I know .NET Core applications could run on Linux. But do they natively (without any wrappers) support Linux OR is there a wrapper to simulate windows within Linux?')

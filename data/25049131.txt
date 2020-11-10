@@ -1,0 +1,1 @@
+Item(by='ceesharp', descendants=None, kids=None, score=None, time=1605032236, title=None, item_type='comment', url=None, parent=25048306, text='You don&#x27;t need to inject IOptions, you can inject the Settings class directly. I don&#x27;t see an issue with those extra lines, VS generates them with one hotkey for me.')

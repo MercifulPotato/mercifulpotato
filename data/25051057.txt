@@ -1,0 +1,1 @@
+Item(by='ako', descendants=None, kids=None, score=None, time=1605038568, title=None, item_type='comment', url=None, parent=25050799, text='Had a t470s (24Gb), now on a p1 gen 2 (32Gb). Even 24Gb can feel limited when running kubernetes, number of docker images, oracle rdbms, kafka, java development environment, a browser, office suite...')

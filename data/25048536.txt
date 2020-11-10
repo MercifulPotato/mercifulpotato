@@ -1,0 +1,1 @@
+Item(by='colejohnson66', descendants=None, kids=[25050498, 25049995], score=None, time=1605029611, title=None, item_type='comment', url=None, parent=25047872, text='Didn’t .NET (pre-“Core”) have an AOT option? Or was that not “self-contained” (as in, a runtime was still needed prior)?')

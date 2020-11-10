@@ -1,0 +1,1 @@
+Item(by='jle17', descendants=None, kids=None, score=None, time=1605032869, title=None, item_type='comment', url=None, parent=25044821, text='Yes when reading the title I thought of &lt;pwd.h&gt; for reading passwd rather than of the command&#x2F;variable. Also it&#x27;s already called cwd in other places (like in &#x2F;proc, at least on Linux) so that would be more consistent.')

@@ -1,0 +1,1 @@
+Item(by='e12e', descendants=None, kids=None, score=None, time=1605034459, title=None, item_type='comment', url=None, parent=25048579, text='There&#x27;s been a few zero day client remote code execution vulnerabilities, along with some problems withe installer AFAIK.')

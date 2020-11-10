@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=None, kids=None, score=None, time=1605020298, title=None, item_type='comment', url=None, parent=25043309, text='Algebraic data types are synonymous with composite types like eg structs, which Zig has... though the structs are anonymous.')

@@ -1,0 +1,1 @@
+Item(by='nullsense', descendants=None, kids=None, score=None, time=1605037264, title=None, item_type='comment', url=None, parent=25048713, text='The web server uses a threadpool anyway. You&#x27;re not creating threads that don&#x27;t already exist. You&#x27;re simply able to use the threads you do have for other tasks while waiting for I&#x2F;O.')

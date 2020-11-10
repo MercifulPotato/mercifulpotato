@@ -1,0 +1,1 @@
+Item(by='mmd45', descendants=None, kids=[25048466, 25048007], score=None, time=1605026838, title=None, item_type='comment', url=None, parent=25047409, text='the highlights are great.  2 lowlights:\n- HttpClient&#x2F;WebRequest ReadWriteTimeout is silently ignored which can result in infinitely hung sockets when doing synchronous network i&#x2F;o\n- System.Speech is unsupported')

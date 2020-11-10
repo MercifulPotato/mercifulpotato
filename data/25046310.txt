@@ -1,0 +1,1 @@
+Item(by='smlckz', descendants=None, kids=[25046410], score=None, time=1605018568, title=None, item_type='comment', url=None, parent=25045130, text='Great job! I actually started reading the source code.<p>In src&#x2F;gemini.rs you wrote:<p><pre><code>    pub struct GeminiResonse {\n    ...\n</code></pre>\nYou meant &#x27;&#x27;GeminiResponse&#x27;&#x27;?')

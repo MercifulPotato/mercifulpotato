@@ -1,0 +1,1 @@
+Item(by='mmd45', descendants=None, kids=[25049167, 25048743], score=None, time=1605028093, title=None, item_type='comment', url=None, parent=25047409, text='is this an in-place update to the netcore3.1 runtime or does it install side by side for net5.0?  just want to know what kind of risk it is to install.  i got bit by the netfx48 in place update.')

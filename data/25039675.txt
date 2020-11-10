@@ -1,1 +1,1 @@
-Item(by='feross', descendants=0, kids=None, score=2, time=1604954788, title='The JavaScript Self-Profiling API', item_type='story', url='https://addyosmani.com/blog/js-self-profiling/', parent=None, text=None)
+Item(by='feross', descendants=3, kids=[25050514, 25050805, 25049088], score=41, time=1604954788, title='The JavaScript Self-Profiling API', item_type='story', url='https://addyosmani.com/blog/js-self-profiling/', parent=None, text=None)

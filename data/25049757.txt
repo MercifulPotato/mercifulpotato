@@ -1,0 +1,1 @@
+Item(by='semi-extrinsic', descendants=None, kids=[25049849, 25050215, 25049998], score=None, time=1605034554, title=None, item_type='comment', url=None, parent=25049434, text='Anyone know how you interact with these cores as a developer&#x2F;user? Say if I&#x27;m running some C code with OpenMP parallelism, can I bind it to three of the fast cores?')

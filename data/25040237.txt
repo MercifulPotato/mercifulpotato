@@ -1,1 +1,1 @@
-Item(by='aberoham', descendants=11, kids=[25041446, 25041870, 25041433], score=34, time=1604957730, title='Security scorecards for open source projects', item_type='story', url='https://opensource.googleblog.com/2020/11/security-scorecards-for-open-source.html', parent=None, text=None)
+Item(by='aberoham', descendants=12, kids=[25041446, 25041433, 25041870], score=35, time=1604957730, title='Security scorecards for open source projects', item_type='story', url='https://opensource.googleblog.com/2020/11/security-scorecards-for-open-source.html', parent=None, text=None)

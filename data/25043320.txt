@@ -1,1 +1,1 @@
-Item(by='Findeton', descendants=None, kids=None, score=None, time=1604989855, title=None, item_type='comment', url=None, parent=25042899, text='I thought in the US people paid money for going to university, so that classes are well-funded enough... &#x2F;sarcasm')
+Item(by='Findeton', descendants=None, kids=[25046704], score=None, time=1604989855, title=None, item_type='comment', url=None, parent=25042899, text='I thought in the US people paid money for going to university, so that classes are well-funded enough... &#x2F;sarcasm')

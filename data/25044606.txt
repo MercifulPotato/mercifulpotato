@@ -1,1 +1,1 @@
-Item(by='rusk', descendants=None, kids=None, score=None, time=1605006035, title=None, item_type='comment', url=None, parent=25033772, text='Yes but you are still free to make money off the software, and this is the topic under discussion.')
+Item(by='rusk', descendants=None, kids=[25047270], score=None, time=1605006035, title=None, item_type='comment', url=None, parent=25033772, text='Yes but you are still free to make money off the software, and this is the topic under discussion.')

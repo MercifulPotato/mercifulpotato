@@ -1,1 +1,1 @@
-Item(by='daviesliu', descendants=4, kids=[25043037, 25042909, 25043412], score=24, time=1604906654, title='Juicesync: Parallelized Rsync for Cloud Storage', item_type='story', url='https://github.com/juicedata/juicesync', parent=None, text=None)
+Item(by='daviesliu', descendants=7, kids=[25043037, 25042909, 25043412], score=27, time=1604906654, title='Juicesync: Parallelized Rsync for Cloud Storage', item_type='story', url='https://github.com/juicedata/juicesync', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='buraktamturk', descendants=None, kids=None, score=None, time=1605029498, title=None, item_type='comment', url=None, parent=25048351, text='async&#x2F;await is the first class citizen .NET and C#. You just mark your function as async and return Task&lt;OriginalReturnValue&gt; and you can call any async function with await, just like js.')

@@ -1,1 +1,1 @@
-Item(by='wincy', descendants=None, kids=None, score=None, time=1604948105, title=None, item_type='comment', url=None, parent=25037953, text='It wasn&#x27;t lard, it was beef tallow. Lard is specifically pig fat.')
+Item(by='wincy', descendants=None, kids=[25045977], score=None, time=1604948105, title=None, item_type='comment', url=None, parent=25037953, text='It wasn&#x27;t lard, it was beef tallow. Lard is specifically pig fat.')

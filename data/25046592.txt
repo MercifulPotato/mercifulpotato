@@ -1,0 +1,1 @@
+Item(by='m3nu', descendants=None, kids=None, score=None, time=1605020031, title=None, item_type='comment', url=None, parent=25043859, text='How about using virtual phone numbers (Twilio, Google Voice, etc) for SMS 2FA? Any better than a real SIM for services that don&#x27;t support other 2FA options?<p>Should eliminate OTA and SIM swap attack vectors from figure 2.')

@@ -1,0 +1,1 @@
+Item(by='vvillena', descendants=None, kids=None, score=None, time=1605029769, title=None, item_type='comment', url=None, parent=25046601, text='The community isn&#x27;t very fond of implicit conversions. That&#x27;s why you get warnings unless you enable a compiler flag, and why Scala 3 downgrades them from magic keyword definitions to avoidable stdlib types.')

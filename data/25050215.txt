@@ -1,0 +1,1 @@
+Item(by='heavyset_go', descendants=None, kids=None, score=None, time=1605035717, title=None, item_type='comment', url=None, parent=25049757, text='The macOS SDK exposes a processor affinity API that you can program against.<p>There isn&#x27;t an option like taskset on Linux to pin or move tasks among different cores, or like anything that&#x27;s exposed in Linux&#x27;s sysfs.')

@@ -1,0 +1,1 @@
+Item(by='npsimons', descendants=None, kids=None, score=None, time=1605027807, title=None, item_type='comment', url=None, parent=25044486, text='Python&#x27;s getting there! I recently went on a tear of going through &quot;elpa-*&quot; packages in Debian and setting them up, and one was elpy, which now gets closer to SLIME&#x27;s C-x C-e.')

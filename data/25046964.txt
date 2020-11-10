@@ -1,0 +1,1 @@
+Item(by='freehunter', descendants=None, kids=None, score=None, time=1605021963, title=None, item_type='comment', url=None, parent=25046817, text='Could be some back to back commands:<p>git add .<p>git commit -m “update”<p>git push<p>Although if you’re doing it that often I’d want to set up .bashrc to condense it to a single command.')

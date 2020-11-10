@@ -1,1 +1,1 @@
-Item(by='t0astbread', descendants=None, kids=None, score=None, time=1605002010, title=None, item_type='comment', url=None, parent=25032860, text='6. Quit IT, buy a farm<p><pre><code>  - Get crushed by the market\n  \n  - Die poor</code></pre>')
+Item(by='t0astbread', descendants=None, kids=[25046996], score=None, time=1605002010, title=None, item_type='comment', url=None, parent=25032860, text='6. Quit IT, buy a farm<p><pre><code>  - Get crushed by the market\n  \n  - Die poor</code></pre>')

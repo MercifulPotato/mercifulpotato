@@ -1,1 +1,1 @@
-Item(by='sc4les', descendants=None, kids=None, score=None, time=1604984890, title=None, item_type='comment', url=None, parent=25042725, text='Haha what. So it&#x27;s okay to have dog fights since the dogs wouldn&#x27;t be born otherwise? That&#x27;s such a weird argument')
+Item(by='sc4les', descendants=None, kids=[25046897], score=None, time=1604984890, title=None, item_type='comment', url=None, parent=25042725, text='Haha what. So it&#x27;s okay to have dog fights since the dogs wouldn&#x27;t be born otherwise? That&#x27;s such a weird argument')

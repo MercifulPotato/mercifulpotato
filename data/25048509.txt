@@ -1,0 +1,1 @@
+Item(by='jabart', descendants=None, kids=None, score=None, time=1605029471, title=None, item_type='comment', url=None, parent=25048464, text='You can use Notepad and run &quot;dotnet run&quot; to run your .net core programs, including winforms. .cshtml files can also be compiled at run-time or at build time with .net core.')

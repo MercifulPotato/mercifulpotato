@@ -1,0 +1,1 @@
+Item(by='balabaster', descendants=None, kids=[25048525, 25048441], score=None, time=1605028528, title=None, item_type='comment', url=None, parent=25048077, text='You&#x27;d want your config injected so that you can swap out configs for test harnesses for continuous integration and deployment. It&#x27;s one of the mainstays of making your software deployable by automation.')
