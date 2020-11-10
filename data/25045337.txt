@@ -1,0 +1,1 @@
+Item(by='ben509', descendants=None, kids=None, score=None, time=1605012281, title=None, item_type='comment', url=None, parent=25044663, text='My guess is the variable was named the same as the command to avoid confusion.<p>What&#x27;s $PWD? Same thing you get from `pwd` without forking.')

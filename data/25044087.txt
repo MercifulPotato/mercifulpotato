@@ -1,0 +1,1 @@
+Item(by='arcticbull', descendants=None, kids=None, score=None, time=1605000117, title=None, item_type='comment', url=None, parent=25043713, text='It&#x27;s basically what all variables in Rust do, with customizable destruction by implementing the Drop trait.')

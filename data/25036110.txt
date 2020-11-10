@@ -1,1 +1,1 @@
-Item(by='jonbaer', descendants=6, kids=[25040053, 25040917], score=9, time=1604937592, title='Training EfficientNets at Scale: 83% ImageNet Top-1 Accuracy in One Hour', item_type='story', url='https://arxiv.org/abs/2011.00071', parent=None, text=None)
+Item(by='jonbaer', descendants=7, kids=[25040053, 25040917], score=10, time=1604937592, title='Training EfficientNets at Scale: 83% ImageNet Top-1 Accuracy in One Hour', item_type='story', url='https://arxiv.org/abs/2011.00071', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1604994646, title=None, item_type='comment', url=None, parent=25042094, text='In Europe we hardly have proper LTE and HSCSD support outside main cities, I couldn&#x27;t care less about 5G.')
+Item(by='pjmlp', descendants=None, kids=[25044194], score=None, time=1604994646, title=None, item_type='comment', url=None, parent=25042094, text='In Europe we hardly have proper LTE and HSCSD support outside main cities, I couldn&#x27;t care less about 5G.')

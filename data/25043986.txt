@@ -1,0 +1,1 @@
+Item(by='jjav', descendants=None, kids=None, score=None, time=1604998732, title=None, item_type='comment', url=None, parent=25042347, text='&gt; DO NOT EVER MUTATE STATE!<p>Mutating state is what computers are all about.<p>You can be super inefficient about it by copying everything on every operation. But avoidance is not the road to optimal solutions.')

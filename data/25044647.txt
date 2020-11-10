@@ -1,0 +1,1 @@
+Item(by='roca', descendants=None, kids=None, score=None, time=1605006502, title=None, item_type='comment', url=None, parent=25043855, text='Yes, you can instrument simulators to get record-and-replay. Simics has a record-and-replay feature like that, so does QEMU lately. I don&#x27;t know of anything specifically for microcontrollers but it certainly could be done.')

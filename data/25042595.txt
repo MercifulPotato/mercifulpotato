@@ -1,1 +1,1 @@
-Item(by='DaniAkash', descendants=0, kids=None, score=7, time=1604979285, title='Browser Devtools for Tailwind CSS', item_type='story', url='https://ui-devtools.com/', parent=None, text=None)
+Item(by='DaniAkash', descendants=1, kids=[25044199], score=15, time=1604979285, title='Browser Devtools for Tailwind CSS', item_type='story', url='https://ui-devtools.com/', parent=None, text=None)

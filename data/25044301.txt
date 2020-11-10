@@ -1,0 +1,1 @@
+Item(by='tremon', descendants=None, kids=[25045618], score=None, time=1605002857, title=None, item_type='comment', url=None, parent=25043670, text='My main beef with F# is the .net library -- none of it is written from a functional perspective, which means you&#x27;re constantly mixing functional and object-oriented paradigms.')

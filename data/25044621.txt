@@ -1,0 +1,1 @@
+Item(by='lawrjone', descendants=1, kids=[25044631], score=11, time=1605006189, title='Service outage due to Vault certificate expiry, leading to Kubernetes pods dying', item_type='story', url='https://gocardless.com/blog/incident-review-service-outage-on-25-october-2020/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='globuous', descendants=None, kids=None, score=None, time=1604997073, title=None, item_type='comment', url=None, parent=25038934, text='Yes, I use ace-window as well: (global-set-key (kbd &quot;M-o&quot;) &#x27;ace-window)<p>Combined with maximize-window and winner-undo, I&#x27;m in heaven :)')

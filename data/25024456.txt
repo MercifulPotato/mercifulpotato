@@ -1,1 +1,1 @@
-Item(by='susam', descendants=1, kids=[25043271], score=12, time=1604828656, title='Demo or Die (1995)', item_type='story', url='https://www.wired.com/1995/07/democoders/', parent=None, text=None)
+Item(by='susam', descendants=12, kids=[25043690, 25043534, 25043644, 25043649, 25043271, 25044384, 25043794, 25043540, 25044099, 25043651], score=39, time=1604828656, title='Demo or Die (1995)', item_type='story', url='https://www.wired.com/1995/07/democoders/', parent=None, text=None)

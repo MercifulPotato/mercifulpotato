@@ -1,1 +1,1 @@
-Item(by='trevyn', descendants=None, kids=None, score=None, time=1604987323, title=None, item_type='comment', url=None, parent=25043065, text='&gt;<i>Is that insane?</i><p>I have no idea, but I’ve already lost interest.')
+Item(by='trevyn', descendants=None, kids=[25044881], score=None, time=1604987323, title=None, item_type='comment', url=None, parent=25043065, text='&gt;<i>Is that insane?</i><p>I have no idea, but I’ve already lost interest.')

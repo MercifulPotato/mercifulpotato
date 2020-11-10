@@ -1,1 +1,1 @@
-Item(by='rmk', descendants=None, kids=None, score=None, time=1604973958, title=None, item_type='comment', url=None, parent=25039477, text='A democrat is President. Science will triumph from now onward.')
+Item(by='rmk', descendants=None, kids=[25043782], score=None, time=1604973958, title=None, item_type='comment', url=None, parent=25039477, text='A democrat is President. Science will triumph from now onward.')

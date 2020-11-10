@@ -1,0 +1,1 @@
+Item(by='ProZsolt', descendants=None, kids=None, score=None, time=1605016612, title=None, item_type='comment', url=None, parent=25045363, text='I just use this oneliner to &quot;scan&quot; it:<p>convert -density 130 input.pdf -rotate 0.33 -attenuate 0.15 +noise Multiplicative -colorspace Gray output.pdf')

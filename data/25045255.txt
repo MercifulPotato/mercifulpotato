@@ -1,0 +1,1 @@
+Item(by='martinald', descendants=None, kids=None, score=None, time=1605011715, title=None, item_type='comment', url=None, parent=25044578, text='There is &#x27;native&#x27; support in Kernel 5.4 which doesn&#x27;t require any extra drivers. The other driver I&#x27;ve used before that is userspace so can be a bit slower but works fine.')

@@ -1,1 +1,1 @@
-Item(by='whym', descendants=0, kids=None, score=3, time=1604989381, title='A Primer in BERTology: What We Know About How Bert Works', item_type='story', url='https://arxiv.org/abs/2002.12327', parent=None, text=None)
+Item(by='whym', descendants=13, kids=[25044651, 25044989, 25045437, 25043732, 25044933], score=58, time=1604989381, title='A Primer in BERTology: What We Know About How Bert Works', item_type='story', url='https://arxiv.org/abs/2002.12327', parent=None, text=None)

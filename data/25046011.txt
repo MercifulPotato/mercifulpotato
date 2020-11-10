@@ -1,0 +1,1 @@
+Item(by='zaarn', descendants=None, kids=None, score=None, time=1605017124, title=None, item_type='comment', url=None, parent=25045805, text='My Laserprinter is connected via USB to my NAS. CUPS offers all the shenanigans, so it&#x27;s autodetected by iDevices, Android, Windows and Mac on the network. Linux users usually figure it out within 30 minutes.')

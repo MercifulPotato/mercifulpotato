@@ -1,1 +1,1 @@
-Item(by='29athrowaway', descendants=None, kids=None, score=None, time=1604992035, title=None, item_type='comment', url=None, parent=25043005, text='Some tooling can be expensive.<p>Klocwork costs $1700 per user per year, for example.')
+Item(by=None, descendants=None, kids=None, score=None, time=1604992035, title=None, item_type='comment', url=None, parent=25043005, text=None)

@@ -1,1 +1,1 @@
-Item(by='eru', descendants=None, kids=None, score=None, time=1604922327, title=None, item_type='comment', url=None, parent=25033034, text='The GPL is perhaps restrictive than the license you suggested.<p>It&#x27;s definitely more predictable.')
+Item(by='eru', descendants=None, kids=[25044606], score=None, time=1604922327, title=None, item_type='comment', url=None, parent=25033034, text='The GPL is perhaps restrictive than the license you suggested.<p>It&#x27;s definitely more predictable.')

@@ -1,0 +1,1 @@
+Item(by='phkahler', descendants=None, kids=[25045803], score=None, time=1605011389, title=None, item_type='comment', url=None, parent=25042355, text='There are many times when the same task is performed with a number of objects. This trivial form of parallelism is nicely handled with OpenMP.')

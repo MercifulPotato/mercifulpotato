@@ -1,1 +1,1 @@
-Item(by='111112222', descendants=2, kids=[25043379, 25027188], score=9, time=1604840460, title='Step by step guide to becoming an Android developer', item_type='story', url='https://roadmap.sh/android', parent=None, text=None)
+Item(by='111112222', descendants=2, kids=[25027188, 25043379], score=9, time=1604840460, title='Step by step guide to becoming an Android developer', item_type='story', url='https://roadmap.sh/android', parent=None, text=None)

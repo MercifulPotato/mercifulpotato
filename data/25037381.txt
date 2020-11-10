@@ -1,1 +1,1 @@
-Item(by='nayuki', descendants=None, kids=[25038013], score=None, time=1604944049, title=None, item_type='comment', url=None, parent=25034056, text='This is my first time hearing that Randall Munroe of xkcd writes for the New York Times!')
+Item(by='nayuki', descendants=None, kids=[25038013, 25044263], score=None, time=1604944049, title=None, item_type='comment', url=None, parent=25034056, text='This is my first time hearing that Randall Munroe of xkcd writes for the New York Times!')
