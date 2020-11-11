@@ -1,1 +1,1 @@
-Item(by='laktak', descendants=2, kids=[25050119, 25050076], score=15, time=1605033380, title='Apple unveils all-new MacBook Air powered by Apple Silicon M1 chip', item_type='story', url='https://9to5mac.com/2020/11/10/new-macbook-air-apple-silicon/', parent=None, text=None)
+Item(by='laktak', descendants=3, kids=[25050119, 25050076], score=21, time=1605033380, title='Apple unveils all-new MacBook Air powered by Apple Silicon M1 chip', item_type='story', url='https://9to5mac.com/2020/11/10/new-macbook-air-apple-silicon/', parent=None, text=None)

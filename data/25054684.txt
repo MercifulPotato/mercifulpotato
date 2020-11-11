@@ -1,0 +1,1 @@
+Item(by='effie', descendants=None, kids=None, score=None, time=1605059349, title=None, item_type='comment', url=None, parent=25054161, text='Agreed, login manager should be saner (less relying on other processes) than that. Also, the very existence of accounts-daemon concept seems to be a mistake from the security and simplicity point of view.')

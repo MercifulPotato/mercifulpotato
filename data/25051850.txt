@@ -1,0 +1,1 @@
+Item(by='kevincox', descendants=None, kids=None, score=None, time=1605042040, title=None, item_type='comment', url=None, parent=25051587, text='It says that they did drop some APIs.<p>&gt; Qt 6.0 does drop Qt Script and also removes Qt Multimedia &#x2F; Qt Bluetooth &#x2F; Qt Virtual-Keyboard modules until a later Qt6 version.<p>So I guess it is major if you use those APIs.')

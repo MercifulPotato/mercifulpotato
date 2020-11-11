@@ -1,0 +1,1 @@
+Item(by='xsmasher', descendants=None, kids=None, score=None, time=1605054512, title=None, item_type='comment', url=None, parent=25050183, text='iOS doesn&#x27;t use swap, it just kill background apps when it needs to devote the whole RAM to a single app; iOS apps are designed with that in mind.<p>MacOS doesn&#x27;t get to use any of those tricks.')

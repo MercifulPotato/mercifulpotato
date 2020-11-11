@@ -1,1 +1,1 @@
-Item(by='acd', descendants=None, kids=[25045930, 25045557, 25046177, 25045155, 25048897, 25047112], score=None, time=1605007837, title=None, item_type='comment', url=None, parent=25033925, text='My dream is of Open source 802.11ac Wi-Fi router. Is there any open hardware that works well?')
+Item(by='acd', descendants=None, kids=[25045930, 25045557, 25045155, 25046177, 25047112, 25048897], score=None, time=1605007837, title=None, item_type='comment', url=None, parent=25033925, text='My dream is of Open source 802.11ac Wi-Fi router. Is there any open hardware that works well?')

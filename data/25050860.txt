@@ -1,1 +1,1 @@
-Item(by='seanalexander', descendants=None, kids=None, score=None, time=1605037886, title=None, item_type='comment', url=None, parent=25050799, text='As a developer, I routinely need over 128GB. 32GB is cutting is short.')
+Item(by='seanalexander', descendants=None, kids=[25052965], score=None, time=1605037886, title=None, item_type='comment', url=None, parent=25050799, text='As a developer, I routinely need over 128GB. 32GB is cutting is short.')

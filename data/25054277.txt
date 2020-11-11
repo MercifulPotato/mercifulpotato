@@ -1,0 +1,1 @@
+Item(by='skept', descendants=None, kids=None, score=None, time=1605055984, title=None, item_type='comment', url=None, parent=25053959, text='That&#x27;s 16GB of DRAM. Caches are SRAM, which has a very different set of design tradeoffs. SRAM cells use more transistors so they can&#x27;t be packed as tightly as DRAM.')

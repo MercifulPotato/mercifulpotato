@@ -1,0 +1,1 @@
+Item(by='nimmer', descendants=None, kids=None, score=None, time=1605042335, title=None, item_type='comment', url=None, parent=25029945, text='&gt; low-level compared to Python<p>In what way? Nim gives full access to hardware, memory management &amp; co, but the expressiveness is very similar to Python.')

@@ -1,1 +1,1 @@
-Item(by='feross', descendants=1, kids=[25042810], score=20, time=1604955713, title='Virtual Consensus in Delos', item_type='story', url='https://blog.acolyer.org/2020/11/09/delos/', parent=None, text=None)
+Item(by='feross', descendants=1, kids=None, score=21, time=1604955713, title='Virtual Consensus in Delos', item_type='story', url='https://blog.acolyer.org/2020/11/09/delos/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='pauldix', descendants=None, kids=None, score=None, time=1605058203, title=None, item_type='comment', url=None, parent=25054380, text='So if my users can&#x27;t have DDL access, that means that they can&#x27;t define the schemas for the analytics that they want to do? It only works if as the developer of an application I have a fixed schema that my users interact with?')

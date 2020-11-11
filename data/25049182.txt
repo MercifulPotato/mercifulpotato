@@ -1,1 +1,1 @@
-Item(by='CameronNemo', descendants=None, kids=None, score=None, time=1605032420, title=None, item_type='comment', url=None, parent=25048998, text='There is a difference between being in bad taste and being illegal.')
+Item(by='CameronNemo', descendants=None, kids=[25054773, 25052604], score=None, time=1605032420, title=None, item_type='comment', url=None, parent=25048998, text='There is a difference between being in bad taste and being illegal.')

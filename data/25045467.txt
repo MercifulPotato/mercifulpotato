@@ -1,1 +1,1 @@
-Item(by='Konohamaru', descendants=None, kids=None, score=None, time=1605013403, title=None, item_type='comment', url=None, parent=25044434, text='It should be &quot;well-written communication.&quot;')
+Item(by='Konohamaru', descendants=None, kids=[25050434], score=None, time=1605013403, title=None, item_type='comment', url=None, parent=25044434, text='It should be &quot;well-written communication.&quot;')

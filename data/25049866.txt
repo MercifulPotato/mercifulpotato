@@ -1,1 +1,1 @@
-Item(by='jes5199', descendants=None, kids=None, score=None, time=1605034773, title=None, item_type='comment', url=None, parent=25048706, text='I can always tell when I&#x27;m using a Qt app on my mac, because my keyboard navigation shortcuts don&#x27;t work')
+Item(by='jes5199', descendants=None, kids=[25052284], score=None, time=1605034773, title=None, item_type='comment', url=None, parent=25048706, text='I can always tell when I&#x27;m using a Qt app on my mac, because my keyboard navigation shortcuts don&#x27;t work')

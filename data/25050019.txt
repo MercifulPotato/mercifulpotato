@@ -1,1 +1,1 @@
-Item(by='jonplackett', descendants=None, kids=None, score=None, time=1605035184, title=None, item_type='comment', url=None, parent=25049809, text='One for each CPU. Maybe it&#x27;s a code...?')
+Item(by='jonplackett', descendants=None, kids=[25053751], score=None, time=1605035184, title=None, item_type='comment', url=None, parent=25049809, text='One for each CPU. Maybe it&#x27;s a code...?')

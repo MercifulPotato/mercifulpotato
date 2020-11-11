@@ -1,0 +1,1 @@
+Item(by='nelsondev', descendants=None, kids=None, score=None, time=1605042845, title=None, item_type='comment', url=None, parent=25051783, text='For productionizing&#x2F;training massive models, yes.<p>But in the development phase, when you are testing on a smaller corpus of data, to make sure your code works, the on-laptop dedicated chip could expedite the development process.')

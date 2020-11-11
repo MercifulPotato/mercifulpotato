@@ -1,0 +1,1 @@
+Item(by='Xeronate', descendants=None, kids=None, score=None, time=1605045335, title=None, item_type='comment', url=None, parent=25051920, text='What’s not to like about DI? Makes it so much easier to wire up dependent services and refactor those wirings at a later time. If you don’t use DI you have to manually manage everything yourself.')

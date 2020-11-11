@@ -1,0 +1,1 @@
+Item(by='core-questions', descendants=None, kids=None, score=None, time=1605046281, title=None, item_type='comment', url=None, parent=25052705, text='TurboVNC is the best VNC. Run one of those on a cheap cloud instance, maybe alongside a Pritunl install, and you can connect up to a performant, resizeable, 3d-accelerated X desktop from any platform for dirt cheap.')

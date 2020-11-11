@@ -1,1 +1,1 @@
-Item(by='jamil7', descendants=None, kids=None, score=None, time=1605037660, title=None, item_type='comment', url=None, parent=25050766, text='Yeah fairly certain it is, despite not feeling that way from a UX perspective.')
+Item(by='jamil7', descendants=None, kids=[25051168], score=None, time=1605037660, title=None, item_type='comment', url=None, parent=25050766, text='Yeah fairly certain it is, despite not feeling that way from a UX perspective.')

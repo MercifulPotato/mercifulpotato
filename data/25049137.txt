@@ -1,1 +1,1 @@
-Item(by='StreamBright', descendants=None, kids=None, score=None, time=1605032250, title=None, item_type='comment', url=None, parent=25048566, text='We started to use F# with Elm and it works very well. Statically typed all the way.')
+Item(by='StreamBright', descendants=None, kids=[25051487], score=None, time=1605032250, title=None, item_type='comment', url=None, parent=25048566, text='We started to use F# with Elm and it works very well. Statically typed all the way.')

@@ -1,1 +1,1 @@
-Item(by='joseluisq', descendants=2, kids=[25046979], score=12, time=1604997974, title='InfluxDB 2.0', item_type='story', url='https://github.com/influxdata/influxdb/releases/tag/v2.0.0', parent=None, text=None)
+Item(by='joseluisq', descendants=3, kids=[25046979], score=17, time=1604997974, title='InfluxDB 2.0', item_type='story', url='https://github.com/influxdata/influxdb/releases/tag/v2.0.0', parent=None, text=None)

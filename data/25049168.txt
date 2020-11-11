@@ -1,1 +1,1 @@
-Item(by='pretzelhammer', descendants=0, kids=None, score=3, time=1605032365, title='Learn Assembly with Too Many Brainfuck Compilers', item_type='story', url='https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md', parent=None, text=None)
+Item(by='pretzelhammer', descendants=0, kids=None, score=4, time=1605032365, title='Learn Assembly with Too Many Brainfuck Compilers', item_type='story', url='https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md', parent=None, text=None)

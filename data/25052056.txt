@@ -1,0 +1,1 @@
+Item(by='ocdtrekkie', descendants=None, kids=None, score=None, time=1605043069, title=None, item_type='comment', url=None, parent=25048755, text='Yeah, .NET Framework will see no new features, so they&#x27;ll continue to patch bugs in 4.8 probably for over a decade to come, and a lot of new apps will just not use it, and include .NET Core runtime instead.')

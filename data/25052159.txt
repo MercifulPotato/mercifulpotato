@@ -1,0 +1,1 @@
+Item(by='jackfoxy', descendants=None, kids=None, score=None, time=1605043504, title=None, item_type='comment', url=None, parent=25047973, text='System.Speech has sadly not been supported since the beginning of .NET (as in dotnet, not the <i>framework</i>)<p>That pretty much means MS is deprecating it in favor of the Azure speech services...yeah, bummer.')

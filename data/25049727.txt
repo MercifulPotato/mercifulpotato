@@ -1,1 +1,1 @@
-Item(by='hrktb', descendants=None, kids=None, score=None, time=1605034505, title=None, item_type='comment', url=None, parent=25049429, text='Seems that you’ll also need the Pro to get 16Gb of RAM or 1~2To SSD')
+Item(by='hrktb', descendants=None, kids=[25051130], score=None, time=1605034505, title=None, item_type='comment', url=None, parent=25049429, text='Seems that you’ll also need the Pro to get 16Gb of RAM or 1~2To SSD')

@@ -1,1 +1,1 @@
-Item(by='varbhat', descendants=4, kids=[25049469, 25049433], score=19, time=1605030478, title='Qt 6.0 Beta 4 Released', item_type='story', url='https://www.phoronix.com/scan.php?page=news_item&px=Qt-6.0-Beta-4-Released', parent=None, text=None)
+Item(by='varbhat', descendants=17, kids=[25054846, 25049469, 25049433], score=68, time=1605030478, title='Qt 6.0 Beta 4 Released', item_type='story', url='https://www.phoronix.com/scan.php?page=news_item&px=Qt-6.0-Beta-4-Released', parent=None, text=None)

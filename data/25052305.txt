@@ -1,0 +1,1 @@
+Item(by='mch82', descendants=None, kids=None, score=None, time=1605044215, title=None, item_type='comment', url=None, parent=25050253, text='I’m hoping the M1 can be used for prototyping with small data sets, then final training on Google Colab with complete data sets.')

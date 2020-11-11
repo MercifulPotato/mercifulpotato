@@ -1,1 +1,1 @@
-Item(by='deergomoo', descendants=None, kids=None, score=None, time=1605034608, title=None, item_type='comment', url=None, parent=25049276, text='I expect this CPU is already faster than the i9 in most metrics.')
+Item(by='deergomoo', descendants=None, kids=[25051301], score=None, time=1605034608, title=None, item_type='comment', url=None, parent=25049276, text='I expect this CPU is already faster than the i9 in most metrics.')

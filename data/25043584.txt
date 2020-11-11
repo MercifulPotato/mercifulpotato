@@ -1,1 +1,1 @@
-Item(by='lbeltrame', descendants=None, kids=None, score=None, time=1604993625, title=None, item_type='comment', url=None, parent=25042650, text='This doesn&#x27;t replicate, AFAICS. The one in Phase I by Imperial College is instead self-replicating.')
+Item(by='lbeltrame', descendants=None, kids=[25053661], score=None, time=1604993625, title=None, item_type='comment', url=None, parent=25042650, text='This doesn&#x27;t replicate, AFAICS. The one in Phase I by Imperial College is instead self-replicating.')

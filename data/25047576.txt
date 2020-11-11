@@ -1,1 +1,1 @@
-Item(by='Alir3z4', descendants=4, kids=[25047977, 25050424, 25048280], score=41, time=1605024795, title='CockroachDB 20.2', item_type='story', url='https://www.cockroachlabs.com/blog/cockroachdb-20-2-release/', parent=None, text=None)
+Item(by='Alir3z4', descendants=6, kids=[25047977, 25050424, 25048280], score=49, time=1605024795, title='CockroachDB 20.2', item_type='story', url='https://www.cockroachlabs.com/blog/cockroachdb-20-2-release/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='mcpcpc', descendants=21, kids=[25047666, 25033627, 25048299, 25047876, 25047634, 25047829, 25047472], score=55, time=1604920951, title='Xwm – a tiny XCB floating window manager', item_type='story', url='https://github.com/mcpcpc/xwm', parent=None, text=None)
+Item(by='mcpcpc', descendants=27, kids=[25047666, 25033627, 25047876, 25048299, 25047634, 25047829, 25047472], score=64, time=1604920951, title='Xwm – a tiny XCB floating window manager', item_type='story', url='https://github.com/mcpcpc/xwm', parent=None, text=None)

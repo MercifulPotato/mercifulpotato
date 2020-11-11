@@ -1,0 +1,1 @@
+Item(by='rwmj', descendants=None, kids=None, score=None, time=1605044232, title=None, item_type='comment', url=None, parent=25052257, text='I think we can all be right.  A benefit of generating the code is that this deduplication is much easier than if all the code was hand-written (especially w.r.t keeping the code updated as new API functions get added).')

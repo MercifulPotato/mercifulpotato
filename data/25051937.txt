@@ -1,0 +1,1 @@
+Item(by='m_mueller', descendants=None, kids=None, score=None, time=1605042510, title=None, item_type='comment', url=None, parent=25051575, text='I think the main reason is discrete GPUs. I’m guessing they are currently working on PCI Express for M1. That or a much faster GPU on a different version of the SoC.')

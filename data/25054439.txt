@@ -1,0 +1,1 @@
+Item(by='geerlingguy', descendants=None, kids=None, score=None, time=1605057355, title=None, item_type='comment', url=None, parent=25053999, text='The inconsistencies are either fully removed (many in 7.x, more in 8.x), deprecated, or at least very well documented these days (e.g. with top level documentation warnings about any potential pitfalls).')

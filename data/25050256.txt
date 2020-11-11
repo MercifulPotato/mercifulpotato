@@ -1,1 +1,1 @@
-Item(by='totony', descendants=None, kids=None, score=None, time=1605035812, title=None, item_type='comment', url=None, parent=25049828, text='You could argue that mentioning Lancet Psychiatry is a citation. But to be fair the parent&#x27;s reply is overly confrontational')
+Item(by='totony', descendants=None, kids=[25051088], score=None, time=1605035812, title=None, item_type='comment', url=None, parent=25049828, text='You could argue that mentioning Lancet Psychiatry is a citation. But to be fair the parent&#x27;s reply is overly confrontational')

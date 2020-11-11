@@ -1,1 +1,1 @@
-Item(by='lsllc', descendants=None, kids=None, score=None, time=1605031775, title=None, item_type='comment', url=None, parent=25048028, text='Looks like GOPATH is finally going away and a go.mod will be required.  Time to update those old projects I guess ...')
+Item(by='lsllc', descendants=None, kids=[25051804], score=None, time=1605031775, title=None, item_type='comment', url=None, parent=25048028, text='Looks like GOPATH is finally going away and a go.mod will be required.  Time to update those old projects I guess ...')

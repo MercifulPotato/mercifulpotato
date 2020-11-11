@@ -1,0 +1,1 @@
+Item(by='pdonis', descendants=None, kids=[25054043], score=None, time=1605053229, title=None, item_type='comment', url=None, parent=25053758, text='The &quot;sandboxing&quot;, as I understand it, only applies to the filesystem; processes can still see other processes run in different firejails if they are being run by the same user.')

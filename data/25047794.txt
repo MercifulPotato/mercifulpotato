@@ -1,1 +1,1 @@
-Item(by='larrik', descendants=None, kids=None, score=None, time=1605025846, title=None, item_type='comment', url=None, parent=25047364, text='Anecdote! One of my co-workers appears to have gotten covid from flying.')
+Item(by='larrik', descendants=None, kids=[25051375], score=None, time=1605025846, title=None, item_type='comment', url=None, parent=25047364, text='Anecdote! One of my co-workers appears to have gotten covid from flying.')

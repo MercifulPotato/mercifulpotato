@@ -1,0 +1,1 @@
+Item(by='fpoling', descendants=None, kids=None, score=None, time=1605045539, title=None, item_type='comment', url=None, parent=25051901, text='For such workflow 16gb is not enough. Docker on Mac is a VM and you need to have a lot of ram for disc caching to compensate for slow IO in VM even if 16GB looks like they could do it.')

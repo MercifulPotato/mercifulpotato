@@ -1,0 +1,1 @@
+Item(by='laurent92', descendants=None, kids=None, score=None, time=1605058536, title=None, item_type='comment', url=None, parent=25054070, text='Are servers important anymore? Seems to me that servers are made to automatically scale on AWS, and that is it. 8vCPU may be equivalent to 1x M1, it doesn’t really matter as long as you can have 4 of them.')

@@ -1,1 +1,1 @@
-Item(by='ghettoimp', descendants=None, kids=None, score=None, time=1605037138, title=None, item_type='comment', url=None, parent=25050375, text='How do they get the ram into the SoC?  Is it like a massive die?')
+Item(by='ghettoimp', descendants=None, kids=[25052021], score=None, time=1605037138, title=None, item_type='comment', url=None, parent=25050375, text='How do they get the ram into the SoC?  Is it like a massive die?')

@@ -1,1 +1,1 @@
-Item(by='carapace', descendants=None, kids=None, score=None, time=1605020716, title=None, item_type='comment', url=None, parent=25045638, text='Just throw it out already, sheesh.')
+Item(by='carapace', descendants=None, kids=[25052079], score=None, time=1605020716, title=None, item_type='comment', url=None, parent=25045638, text='Just throw it out already, sheesh.')

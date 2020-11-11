@@ -1,1 +1,1 @@
-Item(by='syspec', descendants=None, kids=None, score=None, time=1605034807, title=None, item_type='comment', url=None, parent=25049429, text='Discrete GPU')
+Item(by='syspec', descendants=None, kids=[25050969], score=None, time=1605034807, title=None, item_type='comment', url=None, parent=25049429, text='Discrete GPU')
