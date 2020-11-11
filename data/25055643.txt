@@ -1,1 +1,1 @@
-Item(by='Polylactic_acid', descendants=None, kids=None, score=None, time=1605071011, title=None, item_type='comment', url=None, parent=25050102, text='Basically. What are you going to do? Not release your app on apple devices? No, you will do whatever it takes to work it out yourself.')
+Item(by='Polylactic_acid', descendants=None, kids=[25056687], score=None, time=1605071011, title=None, item_type='comment', url=None, parent=25050102, text='Basically. What are you going to do? Not release your app on apple devices? No, you will do whatever it takes to work it out yourself.')

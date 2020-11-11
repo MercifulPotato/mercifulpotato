@@ -1,0 +1,1 @@
+Item(by='zecg', descendants=None, kids=None, score=None, time=1605094119, title=None, item_type='comment', url=None, parent=25053238, text='The first I do on a new Ubuntu install is apt install ubuntu-unity-desktop instead of gnome and choose lightdm instead of gdm.')

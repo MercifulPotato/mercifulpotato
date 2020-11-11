@@ -1,0 +1,1 @@
+Item(by='valyala', descendants=None, kids=None, score=None, time=1605100405, title=None, item_type='comment', url=None, parent=25051727, text='It looks like InfluxDB is going to target general-purpose analytical workloads. It would be interesting to look at how InfluxDB will compete with ClickHouse in this space.')

@@ -1,0 +1,1 @@
+Item(by='oaiey', descendants=None, kids=None, score=None, time=1605090398, title=None, item_type='comment', url=None, parent=25050588, text='I think this will be a patch release soonish. ARM is well supported already and the toolchain on macOS is also present already.<p>And they need it to support the development of .NET 6.')

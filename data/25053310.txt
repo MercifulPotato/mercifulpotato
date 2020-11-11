@@ -1,1 +1,1 @@
-Item(by='secondcoming', descendants=None, kids=None, score=None, time=1605049643, title=None, item_type='comment', url=None, parent=25050145, text='Interesting. What area of tech are you all being hired to do?')
+Item(by='secondcoming', descendants=None, kids=[25057353], score=None, time=1605049643, title=None, item_type='comment', url=None, parent=25050145, text='Interesting. What area of tech are you all being hired to do?')

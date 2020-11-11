@@ -1,1 +1,1 @@
-Item(by='dwaltrip', descendants=None, kids=None, score=None, time=1605064568, title=None, item_type='comment', url=None, parent=25054808, text='And “scale”!')
+Item(by='dwaltrip', descendants=None, kids=[25057566], score=None, time=1605064568, title=None, item_type='comment', url=None, parent=25054808, text='And “scale”!')

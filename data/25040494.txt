@@ -1,1 +1,1 @@
-Item(by='feross', descendants=0, kids=None, score=1, time=1604959418, title='Welcome to the Cloud Zoo', item_type='story', url='https://pudding.cool/2020/11/cloud-zoo', parent=None, text=None)
+Item(by='feross', descendants=1, kids=[25057594], score=8, time=1604959418, title='Welcome to the Cloud Zoo', item_type='story', url='https://pudding.cool/2020/11/cloud-zoo', parent=None, text=None)

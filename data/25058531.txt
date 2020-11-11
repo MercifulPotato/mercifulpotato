@@ -1,0 +1,1 @@
+Item(by='andygrove', descendants=None, kids=None, score=None, time=1605104006, title=None, item_type='comment', url=None, parent=25057024, text='There are contributors and committers in the Arrow project working to resolve this. We recently removed specialization from the core Arrow crate and we plan on doing the same for the Parquet crate.')

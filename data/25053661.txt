@@ -1,1 +1,1 @@
-Item(by='antgiant', descendants=None, kids=None, score=None, time=1605051925, title=None, item_type='comment', url=None, parent=25043584, text='Did some more searching today and this one does in fact amplify just like the Imperial College one')
+Item(by='antgiant', descendants=None, kids=[25056876, 25057059], score=None, time=1605051925, title=None, item_type='comment', url=None, parent=25043584, text='Did some more searching today and this one does in fact amplify just like the Imperial College one')

@@ -1,1 +1,1 @@
-Item(by='jtsiskin', descendants=None, kids=None, score=None, time=1605029911, title=None, item_type='comment', url=None, parent=25047784, text='Is that circuit switched or packet switched?')
+Item(by='jtsiskin', descendants=None, kids=[25057307], score=None, time=1605029911, title=None, item_type='comment', url=None, parent=25047784, text='Is that circuit switched or packet switched?')

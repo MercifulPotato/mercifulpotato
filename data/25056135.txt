@@ -1,0 +1,1 @@
+Item(by='janci', descendants=None, kids=None, score=None, time=1605077979, title=None, item_type='comment', url=None, parent=25055979, text='The whole DNS rebinding thing makes this very complicated to implement correctly in browsers. (I.e. the public&#x2F;private status of a domain name can change in time under attacker control)')

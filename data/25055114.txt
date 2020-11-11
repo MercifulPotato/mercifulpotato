@@ -1,1 +1,1 @@
-Item(by='mjuarez', descendants=None, kids=None, score=None, time=1605064303, title=None, item_type='comment', url=None, parent=25053547, text='You can still buy an Intel iMac Mini with 64GB RAM and 10GB ethernet.  If you don’t like the M1 mini, buy the Intel one.')
+Item(by='mjuarez', descendants=None, kids=[25058049], score=None, time=1605064303, title=None, item_type='comment', url=None, parent=25053547, text='You can still buy an Intel iMac Mini with 64GB RAM and 10GB ethernet.  If you don’t like the M1 mini, buy the Intel one.')

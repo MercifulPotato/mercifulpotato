@@ -1,1 +1,1 @@
-Item(by='asdff', descendants=None, kids=None, score=None, time=1605074215, title=None, item_type='comment', url=None, parent=25055627, text='How AI is convincing you to want things you don&#x27;t need<i>')
+Item(by='asdff', descendants=None, kids=[25056627], score=None, time=1605074215, title=None, item_type='comment', url=None, parent=25055627, text='How AI is convincing you to want things you don&#x27;t need<i>')

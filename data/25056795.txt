@@ -1,0 +1,1 @@
+Item(by='asdfaoeu', descendants=None, kids=None, score=None, time=1605085778, title=None, item_type='comment', url=None, parent=25054836, text='That uses hardware virtualization which is very much dependent on the architecture. Running an x86 docker image on a M1 would take a significant performance penalty.')

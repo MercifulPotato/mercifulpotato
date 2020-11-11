@@ -1,1 +1,1 @@
-Item(by='theptip', descendants=None, kids=[25055682], score=None, time=1605060973, title=None, item_type='comment', url=None, parent=25054464, text='Docker runs in a VM on MacOS anyway, it’s not running on bare metal. Is instruction-set even relevant in that world?')
+Item(by='theptip', descendants=None, kids=[25056795, 25055682], score=None, time=1605060973, title=None, item_type='comment', url=None, parent=25054464, text='Docker runs in a VM on MacOS anyway, it’s not running on bare metal. Is instruction-set even relevant in that world?')

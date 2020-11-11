@@ -1,1 +1,1 @@
-Item(by='adrian_mrd', descendants=0, kids=None, score=2, time=1605077824, title='Online events startup Hopin hits $2.1bn valuation just 8 months after launch', item_type='story', url='https://sifted.eu/articles/hopin-2-1bn-valuation/', parent=None, text=None)
+Item(by='adrian_mrd', descendants=1, kids=[25056279], score=2, time=1605077824, title='Online events startup Hopin hits $2.1bn valuation just 8 months after launch', item_type='story', url='https://sifted.eu/articles/hopin-2-1bn-valuation/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='MikusR', descendants=5, kids=[25048345], score=32, time=1605025348, title='F# 5', item_type='story', url='https://devblogs.microsoft.com/dotnet/announcing-f-5/', parent=None, text=None)
+Item(by='MikusR', descendants=6, kids=[25048345], score=34, time=1605025348, title='F# 5', item_type='story', url='https://devblogs.microsoft.com/dotnet/announcing-f-5/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='sirspacey', descendants=None, kids=None, score=None, time=1605042127, title=None, item_type='comment', url=None, parent=25047390, text='Sincerely curious - what competitors do you believe were harmed here?')
+Item(by='sirspacey', descendants=None, kids=[25058115], score=None, time=1605042127, title=None, item_type='comment', url=None, parent=25047390, text='Sincerely curious - what competitors do you believe were harmed here?')

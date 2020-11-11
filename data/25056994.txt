@@ -1,0 +1,1 @@
+Item(by='silvester23', descendants=None, kids=[25057048], score=None, time=1605087995, title=None, item_type='comment', url=None, parent=25056888, text='Interesting idea. How would you model the forecast time in this case? I&#x27;m not an expert but to my knowledge, you can only have one time index in InfluxDB, right?')

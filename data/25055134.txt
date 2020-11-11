@@ -1,1 +1,1 @@
-Item(by='ablekh', descendants=None, kids=[25055282], score=None, time=1605064643, title=None, item_type='comment', url=None, parent=25055055, text='Thank you very much for sharing your DI experience. What is wrong with using IServiceProvider dependency? What is CTOR (hierarchy)?')
+Item(by='ablekh', descendants=None, kids=[25057156, 25055282], score=None, time=1605064643, title=None, item_type='comment', url=None, parent=25055055, text='Thank you very much for sharing your DI experience. What is wrong with using IServiceProvider dependency? What is CTOR (hierarchy)?')
