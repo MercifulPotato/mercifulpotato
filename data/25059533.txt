@@ -1,0 +1,1 @@
+Item(by='johncolanduoni', descendants=None, kids=[25060005], score=None, time=1605111186, title=None, item_type='comment', url=None, parent=25058995, text='I wonder what happens if you `dlopen` a shared object that wants stricter behavior than the current executable and loaded shared objects. Does it somehow coordinate changing the state for all existing threads?')

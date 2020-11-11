@@ -1,1 +1,1 @@
-Item(by='samber', descendants=15, kids=[25054847, 25055280, 25054931, 25055239, 25054792, 25055207], score=70, time=1605052791, title='InfluxDB 2.0 Is Out', item_type='story', url='https://www.influxdata.com/blog/influxdb-2-0-open-source-is-generally-available/', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

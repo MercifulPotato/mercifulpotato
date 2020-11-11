@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=None, score=None, time=1605124042, title=None, item_type='comment', url=None, parent=25056909, text='BPF has always been statically verified, back to 1991 or whenever.<p>If anything, eBPF is less sound than classic BPF, because the verifier is dramatically more complicated, as is the execution environment.')

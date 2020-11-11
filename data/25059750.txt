@@ -1,0 +1,1 @@
+Item(by='npsimons', descendants=None, kids=None, score=None, time=1605112311, title=None, item_type='comment', url=None, parent=25058887, text='While I laud the idea of having tests that reach 100% coverage (only half being snarky here), I feel that this is a bad habit to get into, just mindlessly changing things and assuming your tools will catch it.')

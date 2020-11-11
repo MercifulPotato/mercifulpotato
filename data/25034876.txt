@@ -1,1 +1,1 @@
-Item(by='dtech', descendants=None, kids=None, score=None, time=1604930540, title=None, item_type='comment', url=None, parent=25034771, text='That doesn&#x27;t solve the SPOF for leaks&#x2F;breaches&#x2F;corruption that is the problem for these kinds of systems at all.')
+Item(by='dtech', descendants=None, kids=[25058679], score=None, time=1604930540, title=None, item_type='comment', url=None, parent=25034771, text='That doesn&#x27;t solve the SPOF for leaks&#x2F;breaches&#x2F;corruption that is the problem for these kinds of systems at all.')

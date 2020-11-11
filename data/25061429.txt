@@ -1,0 +1,1 @@
+Item(by='crispyporkbites', descendants=None, kids=None, score=None, time=1605120390, title=None, item_type='comment', url=None, parent=25060731, text='Secrets should be in env vars or secret storage like hashicorps vault<p>You set those on deployment so your engineering team never see production secrets')

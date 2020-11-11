@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=3, time=1605098830, title='Anki Cards for Fast.ai', item_type='story', url='https://github.com/radekosmulski/aiquizzes-anki', parent=None, text=None)
+Item(by='tosh', descendants=7, kids=[25059591, 25059664, 25059530, 25060361, 25061523], score=62, time=1605098830, title='Anki Cards for Fast.ai', item_type='story', url='https://github.com/radekosmulski/aiquizzes-anki', parent=None, text=None)

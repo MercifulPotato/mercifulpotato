@@ -1,0 +1,1 @@
+Item(by='est', descendants=None, kids=None, score=None, time=1605114481, title=None, item_type='comment', url=None, parent=25059129, text='Back in Python2 days, you just slam &quot;import psyco&quot; and your code magically goes faster. The pysco authors went ahead and invented pypy.<p>Ambitious project, but less popularity.')

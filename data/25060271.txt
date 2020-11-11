@@ -1,0 +1,1 @@
+Item(by='pedroassumpcao', descendants=None, kids=None, score=None, time=1605114815, title=None, item_type='comment', url=None, parent=25060270, text='This is the first of a series of posts that I will present on how your application can use Event Sourcing and CQRS for specific domains with an open-source library that I am developing called Incident.')

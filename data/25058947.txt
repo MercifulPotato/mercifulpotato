@@ -1,0 +1,1 @@
+Item(by='jbn', descendants=None, kids=None, score=None, time=1605107155, title=None, item_type='comment', url=None, parent=25048410, text='thanks for the correction. I thought even with that guarantee, there is no bound on progress (so progress can in fact be very slow). lock-free algorithms are not used much because of the slowness, AFAIK.')

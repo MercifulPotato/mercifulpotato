@@ -1,0 +1,1 @@
+Item(by='texuf', descendants=None, kids=None, score=None, time=1605122940, title=None, item_type='comment', url=None, parent=25059440, text='I&#x27;ve been out of python for a while, why is the package name and the module name different? `install many-requests` vs `import many_requests`')

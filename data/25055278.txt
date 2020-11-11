@@ -1,1 +1,1 @@
-Item(by='avinassh', descendants=None, kids=[25056855], score=None, time=1605066137, title=None, item_type='comment', url=None, parent=25053954, text='How was experience using Go routines? And how would you compare it with Java? I am sure Java would have something similar')
+Item(by='avinassh', descendants=None, kids=[25058594, 25056855], score=None, time=1605066137, title=None, item_type='comment', url=None, parent=25053954, text='How was experience using Go routines? And how would you compare it with Java? I am sure Java would have something similar')

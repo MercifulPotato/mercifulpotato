@@ -1,1 +1,1 @@
-Item(by='my123', descendants=None, kids=None, score=None, time=1605097603, title=None, item_type='comment', url=None, parent=25056302, text='--permissive-security is the setting that you want. You are then able to enroll hashes of unsigned kernels with kmutil.')
+Item(by='my123', descendants=None, kids=[25058629], score=None, time=1605097603, title=None, item_type='comment', url=None, parent=25056302, text='--permissive-security is the setting that you want. You are then able to enroll hashes of unsigned kernels with kmutil.')

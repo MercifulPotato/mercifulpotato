@@ -1,1 +1,1 @@
-Item(by='p1necone', descendants=None, kids=None, score=None, time=1605063933, title=None, item_type='comment', url=None, parent=25053484, text='Why does something 5 layers down need <i>all</i> the config values?')
+Item(by='p1necone', descendants=None, kids=[25059413], score=None, time=1605063933, title=None, item_type='comment', url=None, parent=25053484, text='Why does something 5 layers down need <i>all</i> the config values?')

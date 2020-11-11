@@ -1,1 +1,1 @@
-Item(by='istjohn', descendants=None, kids=None, score=None, time=1605065520, title=None, item_type='comment', url=None, parent=25052964, text='The article says the response rate is just 1%.')
+Item(by='istjohn', descendants=None, kids=[25060244], score=None, time=1605065520, title=None, item_type='comment', url=None, parent=25052964, text='The article says the response rate is just 1%.')

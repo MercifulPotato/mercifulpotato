@@ -1,1 +1,1 @@
-Item(by='mooreds', descendants=2, kids=[25041750, 25057194], score=30, time=1604937118, title='Separating User Database and Authorization from Apps with Istio and FusionAuth', item_type='story', url='https://reachablegames.com/oidc-fusionauth-istio/', parent=None, text=None)
+Item(by='mooreds', descendants=2, kids=[25041750, 25057194], score=32, time=1604937118, title='Separating User Database and Authorization from Apps with Istio and FusionAuth', item_type='story', url='https://reachablegames.com/oidc-fusionauth-istio/', parent=None, text=None)

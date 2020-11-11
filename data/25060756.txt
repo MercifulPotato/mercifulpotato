@@ -1,0 +1,1 @@
+Item(by='robertoandred', descendants=None, kids=None, score=None, time=1605117089, title=None, item_type='comment', url=None, parent=25059377, text='No, they say AVX, AVX256, and AVX512 instructions won&#x27;t work and to run them in conditionals that verify their availability.')

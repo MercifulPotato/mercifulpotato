@@ -1,1 +1,1 @@
-Item(by='LeonB', descendants=None, kids=None, score=None, time=1605101037, title=None, item_type='comment', url=None, parent=25058034, text='If the employer finds a way not to pay Z - do they give it to you? (No they don’t)')
+Item(by='LeonB', descendants=None, kids=[25058473], score=None, time=1605101037, title=None, item_type='comment', url=None, parent=25058034, text='If the employer finds a way not to pay Z - do they give it to you? (No they don’t)')

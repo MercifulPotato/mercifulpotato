@@ -1,1 +1,1 @@
-Item(by='jakelazaroff', descendants=None, kids=None, score=None, time=1605102895, title=None, item_type='comment', url=None, parent=25058339, text='Clarification and examples do not make an inherently qualitative thing quantifiable.')
+Item(by='jakelazaroff', descendants=None, kids=[25059003], score=None, time=1605102895, title=None, item_type='comment', url=None, parent=25058339, text='Clarification and examples do not make an inherently qualitative thing quantifiable.')

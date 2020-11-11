@@ -1,0 +1,1 @@
+Item(by='mrguyorama', descendants=None, kids=[25061673], score=None, time=1605120110, title=None, item_type='comment', url=None, parent=25054641, text='Wait, why can&#x27;t OpenBSD handle <i>Bluetooth</i>? Is it just that the same chip is used for both wireless protocols and it doesn&#x27;t support them yet?')

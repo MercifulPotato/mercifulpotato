@@ -1,1 +1,1 @@
-Item(by='biryani_chicken', descendants=12, kids=[25042711, 25040744, 25043309, 25040819], score=64, time=1604942844, title='Zig 0.7.0 Release Notes', item_type='story', url='https://ziglang.org/download/0.7.0/release-notes.html', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='FullyFunctional', descendants=None, kids=None, score=None, time=1605118259, title=None, item_type='comment', url=None, parent=25057985, text='FWIW, RISC-V explicitly doesn&#x27;t support NaN payload propagation so R will have a problem there as well.')

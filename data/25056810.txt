@@ -1,1 +1,1 @@
-Item(by='Foe', descendants=None, kids=None, score=None, time=1605085907, title=None, item_type='comment', url=None, parent=25056464, text='It&#x27;s happening with Azure Virtual Desktop.')
+Item(by='Foe', descendants=None, kids=[25059013], score=None, time=1605085907, title=None, item_type='comment', url=None, parent=25056464, text='It&#x27;s happening with Azure Virtual Desktop.')

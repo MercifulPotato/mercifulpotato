@@ -1,0 +1,1 @@
+Item(by='robert_dipaolo', descendants=None, kids=None, score=None, time=1605119529, title=None, item_type='comment', url=None, parent=25060809, text='AWS has a managed service CodeArtifact that supports all the common code package repos and allows caching of upstream repos. Granted it doesn&#x27;t work with Docker Images, but you asked about packages.')

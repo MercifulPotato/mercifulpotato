@@ -1,0 +1,1 @@
+Item(by='spdionis', descendants=None, kids=None, score=None, time=1605118842, title=None, item_type='comment', url=None, parent=25060545, text='Honestly, at least in modern PHP, people just avoid using that level of dynamicness or explicitly annotate it where possible.<p>I <i>will</i> require changes in code reviews if PhpStorm cannot analyze usages in your code.')

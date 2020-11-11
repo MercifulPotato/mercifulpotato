@@ -1,0 +1,1 @@
+Item(by='axlee', descendants=None, kids=[25060880, 25060824, 25061173, 25060737], score=None, time=1605116976, title=None, item_type='comment', url=None, parent=25060662, text='Do you keep your API keys and other sensitive data in the git repo as well, visible to all git contributors regardless of their credential level?')

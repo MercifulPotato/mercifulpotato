@@ -1,0 +1,1 @@
+Item(by='the_af', descendants=None, kids=None, score=None, time=1605106399, title=None, item_type='comment', url=None, parent=25057606, text='Tests that test nothing useful are surprisingly easy to write, and lead to a similar result -- even in cases where you do run them! That&#x27;s why it makes some sense to test the tests (or at least, check their bug-detecting quality).')

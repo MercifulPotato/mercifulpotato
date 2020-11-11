@@ -1,1 +1,1 @@
-Item(by='pizza', descendants=26, kids=[25024713, 25022603, 25023365, 25024445, 25028559, 25025246, 25023546, 25026149, 25024308, 25024394], score=68, time=1604796631, title='Cdecl – C gibberish ↔ English', item_type='story', url='https://cdecl.org/', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

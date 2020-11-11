@@ -1,0 +1,1 @@
+Item(by='emersion', descendants=None, kids=None, score=None, time=1605104255, title=None, item_type='comment', url=None, parent=25055213, text='This was maybe an issue back in the day but should be fixed now. logind has a PrepareForSleep event and a lock mechanism to let the lock screen show up before the machine goes to sleep.')

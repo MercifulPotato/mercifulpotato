@@ -1,0 +1,1 @@
+Item(by='ekianjo', descendants=None, kids=None, score=None, time=1605112857, title=None, item_type='comment', url=None, parent=25059772, text='&gt; R, on the other hand, actually resolves dependencies in its package manager<p>And you have packages like renv which also help isolate specific versions of packages to make portable environments even more reliable.')

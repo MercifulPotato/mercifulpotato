@@ -1,1 +1,1 @@
-Item(by='verroq', descendants=None, kids=[25058217], score=None, time=1605101160, title=None, item_type='comment', url=None, parent=25058134, text='I doubt they’d implement PCIe since they don’t need that for their baked in GPU to talk to their baked in CPU.')
+Item(by='verroq', descendants=None, kids=[25061956, 25058738, 25058217], score=None, time=1605101160, title=None, item_type='comment', url=None, parent=25058134, text='I doubt they’d implement PCIe since they don’t need that for their baked in GPU to talk to their baked in CPU.')

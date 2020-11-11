@@ -1,1 +1,1 @@
-Item(by='The_rationalist', descendants=None, kids=None, score=None, time=1605101663, title=None, item_type='comment', url=None, parent=25050668, text='Did I state an assertion or did I ask a question?')
+Item(by='The_rationalist', descendants=None, kids=[25060487], score=None, time=1605101663, title=None, item_type='comment', url=None, parent=25050668, text='Did I state an assertion or did I ask a question?')

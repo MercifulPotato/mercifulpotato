@@ -1,1 +1,1 @@
-Item(by='wuschel', descendants=None, kids=None, score=None, time=1605100481, title=None, item_type='comment', url=None, parent=25056766, text='One word: Amazing.<p>How was this done? Raytracing? If yes, what was the resolution of the spacial data?')
+Item(by='wuschel', descendants=None, kids=[25061762], score=None, time=1605100481, title=None, item_type='comment', url=None, parent=25056766, text='One word: Amazing.<p>How was this done? Raytracing? If yes, what was the resolution of the spacial data?')

@@ -1,0 +1,1 @@
+Item(by='Karliss', descendants=None, kids=[25060308, 25059387], score=None, time=1605108157, title=None, item_type='comment', url=None, parent=25057383, text='From what I understand BSD has a feature which verifies calling address of syscall and blocks if it doesn&#x27;t comes from libc thus achieving similar result to your suggestion with randomization.')

@@ -1,0 +1,1 @@
+Item(by='bluejekyll', descendants=None, kids=[25062146], score=None, time=1605107299, title=None, item_type='comment', url=None, parent=25058702, text='From the docs filmor linked to, if a library sets <i>panic =  unwind</i> and a user sets that to abort, “If any of your users choose to abort, they&#x27;ll get a compile-time failure.”')

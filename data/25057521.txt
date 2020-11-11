@@ -1,1 +1,1 @@
-Item(by='rnestler', descendants=None, kids=None, score=None, time=1605094753, title=None, item_type='comment', url=None, parent=25057317, text='But in that case hopefully all the admins are trusted. Parent was talking about <i>untrusted</i> users.')
+Item(by='rnestler', descendants=None, kids=[25058701], score=None, time=1605094753, title=None, item_type='comment', url=None, parent=25057317, text='But in that case hopefully all the admins are trusted. Parent was talking about <i>untrusted</i> users.')

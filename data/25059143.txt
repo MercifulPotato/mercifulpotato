@@ -1,0 +1,1 @@
+Item(by='simiones', descendants=None, kids=[25059278], score=None, time=1605108644, title=None, item_type='comment', url=None, parent=25059131, text='The parent claimed that GraphQL has different DTOs for reads and writes. That could make it CQRS compatible, couldn&#x27;t it?<p>I don&#x27;t know if it would be any more idiomatic for GraphQL than it would be for REST.')

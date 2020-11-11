@@ -1,1 +1,1 @@
-Item(by='drran', descendants=None, kids=None, score=None, time=1605104379, title=None, item_type='comment', url=None, parent=25058100, text='Greenpeace is full of scientists.')
+Item(by='drran', descendants=None, kids=[25059035, 25060295], score=None, time=1605104379, title=None, item_type='comment', url=None, parent=25058100, text='Greenpeace is full of scientists.')

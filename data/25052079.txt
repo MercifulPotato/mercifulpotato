@@ -1,1 +1,1 @@
-Item(by='capableweb', descendants=None, kids=None, score=None, time=1605043172, title=None, item_type='comment', url=None, parent=25046730, text='And now there is plastic in our oceans and deep underground. Strange how that happened really.')
+Item(by='capableweb', descendants=None, kids=[25059305], score=None, time=1605043172, title=None, item_type='comment', url=None, parent=25046730, text='And now there is plastic in our oceans and deep underground. Strange how that happened really.')

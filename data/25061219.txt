@@ -1,0 +1,1 @@
+Item(by='joshlk', descendants=None, kids=None, score=None, time=1605119479, title=None, item_type='comment', url=None, parent=25061174, text='Its not simple to just &quot;swap out&quot; the requests library with an async one. This is why I wrote this package :) It deals with a lot of the headaches one would run into by trying just that.')

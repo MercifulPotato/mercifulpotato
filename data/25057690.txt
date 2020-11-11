@@ -1,1 +1,1 @@
-Item(by='1_player', descendants=None, kids=None, score=None, time=1605096661, title=None, item_type='comment', url=None, parent=25055608, text='Mind the pronunciation guide: doge the meme isn&#x27;t pronounced the same as doge the Venetian lord.')
+Item(by='1_player', descendants=None, kids=[25060916], score=None, time=1605096661, title=None, item_type='comment', url=None, parent=25055608, text='Mind the pronunciation guide: doge the meme isn&#x27;t pronounced the same as doge the Venetian lord.')

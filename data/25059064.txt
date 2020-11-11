@@ -1,0 +1,1 @@
+Item(by='candiddevmike', descendants=None, kids=[25059189], score=None, time=1605108093, title=None, item_type='comment', url=None, parent=25059015, text='Correct me if I&#x27;m wrong, but this just seems like using the opentelemetry library in node to send query info in a span.  This doesn&#x27;t seem like a full PostgreSQL integration?')

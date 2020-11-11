@@ -1,0 +1,1 @@
+Item(by='panpanna', descendants=None, kids=None, score=None, time=1605106029, title=None, item_type='comment', url=None, parent=25058718, text='Maybe because ISA is very simple to implement?<p>You can support a subset of PCI with a fairly simple fpga implementation, but even the antique pci with its 33&#x2F;66Mhz bus can be tricky to design with correct signal integrity.')

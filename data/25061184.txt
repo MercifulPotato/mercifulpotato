@@ -1,0 +1,1 @@
+Item(by='joshlk', descendants=None, kids=[25061263, 25061214], score=None, time=1605119272, title=None, item_type='comment', url=None, parent=25060764, text='All running in a single thread - but the work is executed asynchronously. This is preferred for I&#x2F;O heavy throughput such as many HTTP requests.')

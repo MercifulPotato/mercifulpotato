@@ -1,1 +1,1 @@
-Item(by='mpeklar', descendants=None, kids=None, score=None, time=1605052696, title=None, item_type='comment', url=None, parent=25053358, text='Yes, but since they control the background service too, they can just update the service to make it respond to CORS requests.')
+Item(by='mpeklar', descendants=None, kids=[25060060], score=None, time=1605052696, title=None, item_type='comment', url=None, parent=25053358, text='Yes, but since they control the background service too, they can just update the service to make it respond to CORS requests.')

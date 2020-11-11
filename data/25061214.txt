@@ -1,0 +1,1 @@
+Item(by='nurettin', descendants=None, kids=[25061270], score=None, time=1605119471, title=None, item_type='comment', url=None, parent=25061184, text='Why not distribute the concurrent work over multiple processes to get the most out of multiple cores? More event loops, better performance, and maybe more text preprocessing.')

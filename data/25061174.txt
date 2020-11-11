@@ -1,0 +1,1 @@
+Item(by='eatonphil', descendants=None, kids=[25061219], score=None, time=1605119221, title=None, item_type='comment', url=None, parent=25061168, text='Yeah, I guess swapping out requests for an async version of requests would be an improvement on my example.<p>But I think requests already handles retries on its own.')

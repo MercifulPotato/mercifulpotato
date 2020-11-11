@@ -1,0 +1,1 @@
+Item(by='barumi', descendants=None, kids=None, score=None, time=1605112725, title=None, item_type='comment', url=None, parent=25059716, text='CQRS+ES is more about event sourcing and not as much about CQRS. The hard part about the scheme is the CAP theorem stuff, not how operations are segregated into commands and queries.')

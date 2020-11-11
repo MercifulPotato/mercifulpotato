@@ -1,1 +1,1 @@
-Item(by='wolco2', descendants=None, kids=None, score=None, time=1605104117, title=None, item_type='comment', url=None, parent=25058400, text='I found setting the irq to 5 or 8 was all I needed as the default was already used.')
+Item(by='wolco2', descendants=None, kids=[25059498], score=None, time=1605104117, title=None, item_type='comment', url=None, parent=25058400, text='I found setting the irq to 5 or 8 was all I needed as the default was already used.')

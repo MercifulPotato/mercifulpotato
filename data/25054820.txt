@@ -1,1 +1,1 @@
-Item(by='theBashShell', descendants=4, kids=[25055292, 25055607, 25055592, 25055512], score=58, time=1605060825, title='TikTok says the Trump administration has forgotten about trying to ban it', item_type='story', url='https://www.theverge.com/2020/11/10/21559677/tiktok-cfius-court-petition-ban-deadline', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

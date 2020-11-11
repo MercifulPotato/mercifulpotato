@@ -1,0 +1,1 @@
+Item(by='gsnedders', descendants=None, kids=None, score=None, time=1605111664, title=None, item_type='comment', url=None, parent=25059338, text='And it effectively just sets the FPU flags, runs the instruction, then resets the FPU flags. It just avoids the JS VM from having change FPU flags repeatedly.')
