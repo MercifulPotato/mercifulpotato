@@ -1,1 +1,1 @@
-Item(by='aidenn0', descendants=None, kids=None, score=None, time=1605042405, title=None, item_type='comment', url=None, parent=25048912, text='How does bootstrapping work for other products in debian?  GCC is built using GCC and cmucl is built using cmucl.')
+Item(by='aidenn0', descendants=None, kids=[25055566], score=None, time=1605042405, title=None, item_type='comment', url=None, parent=25048912, text='How does bootstrapping work for other products in debian?  GCC is built using GCC and cmucl is built using cmucl.')

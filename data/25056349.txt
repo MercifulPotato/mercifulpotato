@@ -1,0 +1,1 @@
+Item(by='woodson', descendants=None, kids=None, score=None, time=1605080909, title=None, item_type='comment', url=None, parent=25055899, text='Unfortunately, nvidia-settings requires xorg to be installed and running (even when run in cli mode), and it&#x27;s pretty much the only way to control fan speeds on consumer GPUs.')

@@ -1,1 +1,1 @@
-Item(by='i386', descendants=None, kids=None, score=None, time=1605049221, title=None, item_type='comment', url=None, parent=25052542, text='this is as stupid as saying &quot;evolution isn&#x27;t real otherwise I could grow eyes on stalks when I want to see around corners&quot;')
+Item(by='i386', descendants=None, kids=[25056217], score=None, time=1605049221, title=None, item_type='comment', url=None, parent=25052542, text='this is as stupid as saying &quot;evolution isn&#x27;t real otherwise I could grow eyes on stalks when I want to see around corners&quot;')

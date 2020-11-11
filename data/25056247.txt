@@ -1,0 +1,1 @@
+Item(by='josefx', descendants=None, kids=[25056288], score=None, time=1605079823, title=None, item_type='comment', url=None, parent=25054447, text='They fixed a valgrind warning by blindly removing the affected function calls? Might as well reduce every program to an empty main() to enforce correctness.')

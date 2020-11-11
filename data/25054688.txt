@@ -1,0 +1,1 @@
+Item(by='mchristen', descendants=None, kids=[25054752], score=None, time=1605059391, title=None, item_type='comment', url=None, parent=25053718, text='Just because your domain is public doesn&#x27;t mean your DNS is public as well. You can use a cert signed by a public CA in a private network just fine so long as you&#x27;re using the right DNS setup.')

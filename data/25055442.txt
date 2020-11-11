@@ -1,0 +1,1 @@
+Item(by='aloukissas', descendants=None, kids=None, score=None, time=1605067993, title=None, item_type='comment', url=None, parent=25055118, text='The little that I know about NIFs is that if they crash, they bring down the entire BEAM, so it&#x27;s pretty risky if not done properly. But I&#x27;ve seen that Rust complements Elixir (via NIFs) very well.')

@@ -1,1 +1,1 @@
-Item(by='flannery', descendants=0, kids=None, score=2, time=1604953668, title='The election of the doge', item_type='story', url='https://generalist.academy/2020/11/06/the-election-of-the-doge/', parent=None, text=None)
+Item(by='flannery', descendants=33, kids=[25055608, 25055493, 25056268, 25056026, 25055545, 25055428, 25055564], score=58, time=1604953668, title='The election of the doge', item_type='story', url='https://generalist.academy/2020/11/06/the-election-of-the-doge/', parent=None, text=None)

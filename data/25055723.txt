@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=[25056008, 25056036], score=None, time=1605072277, title=None, item_type='comment', url=None, parent=25055479, text='So what happens to the VM when an index out of bounds happens in Rustler?<p>Is there a panic handler that prevents a crash and returns a magic value that makes sense to the caller?')

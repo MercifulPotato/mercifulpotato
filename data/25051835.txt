@@ -1,1 +1,1 @@
-Item(by='rerx', descendants=0, kids=None, score=2, time=1605041989, title='The Projector for JetBrains IDE', item_type='story', url='https://github.com/JetBrains/projector-server/blob/master/README-JETBRAINS.md', parent=None, text=None)
+Item(by='rerx', descendants=0, kids=None, score=3, time=1605041989, title='The Projector for JetBrains IDE', item_type='story', url='https://github.com/JetBrains/projector-server/blob/master/README-JETBRAINS.md', parent=None, text=None)

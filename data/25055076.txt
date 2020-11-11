@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=None, score=None, time=1605063818, title=None, item_type='comment', url=None, parent=25054237, text='&gt; Does Debian actually change upstream significantly? I thought they kept things fairly vanilla.<p>No, they radically change things to match their standards. E.g. look at their tomcat package which explodes it all over the filesystem.')

@@ -1,1 +1,1 @@
-Item(by='fizwhiz', descendants=0, kids=None, score=3, time=1605048422, title='Big Companies vs. Startups', item_type='story', url='https://danluu.com/startup-tradeoffs/', parent=None, text=None)
+Item(by='fizwhiz', descendants=1, kids=[25055782], score=7, time=1605048422, title='Big Companies vs. Startups', item_type='story', url='https://danluu.com/startup-tradeoffs/', parent=None, text=None)

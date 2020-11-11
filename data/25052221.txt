@@ -1,1 +1,1 @@
-Item(by='Gaishan', descendants=0, kids=None, score=1, time=1605043788, title='A Scientist Thinks These Ancient Roman Nails May Have Been Used to Crucify Jesus', item_type='story', url='https://allthatsinteresting.com/jesus-christ-nails', parent=None, text=None)
+Item(by='Gaishan', descendants=1, kids=[25055083], score=1, time=1605043788, title='A Scientist Thinks These Ancient Roman Nails May Have Been Used to Crucify Jesus', item_type='story', url='https://allthatsinteresting.com/jesus-christ-nails', parent=None, text=None)

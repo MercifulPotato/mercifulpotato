@@ -1,1 +1,1 @@
-Item(by='Isamu', descendants=None, kids=None, score=None, time=1605060193, title=None, item_type='comment', url=None, parent=25053380, text='I first assumed D. Ang')
+Item(by='Isamu', descendants=None, kids=[25055007], score=None, time=1605060193, title=None, item_type='comment', url=None, parent=25053380, text='I first assumed D. Ang')

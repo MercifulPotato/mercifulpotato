@@ -1,1 +1,1 @@
-Item(by='yborg', descendants=None, kids=None, score=None, time=1605056618, title=None, item_type='comment', url=None, parent=25054070, text='&gt;Real competition for Intel<p>AMD would like a word.')
+Item(by='yborg', descendants=None, kids=[25056277], score=None, time=1605056618, title=None, item_type='comment', url=None, parent=25054070, text='&gt;Real competition for Intel<p>AMD would like a word.')

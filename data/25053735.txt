@@ -1,1 +1,1 @@
-Item(by='bloody-crow', descendants=None, kids=None, score=None, time=1605052402, title=None, item_type='comment', url=None, parent=25052411, text='OSX and overall better dev experience?')
+Item(by='bloody-crow', descendants=None, kids=[25054879, 25056174], score=None, time=1605052402, title=None, item_type='comment', url=None, parent=25052411, text='OSX and overall better dev experience?')

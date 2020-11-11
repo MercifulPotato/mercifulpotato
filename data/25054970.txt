@@ -1,0 +1,1 @@
+Item(by='glglwty', descendants=None, kids=[25055219], score=None, time=1605062437, title=None, item_type='comment', url=None, parent=25053238, text='&gt; [...] gdm3 thinks that there are zero user accounts and it launches gnome-initial-setup.<p>What if the root user intentionally deleted all non-root users? GDM would just let anyone creates an user with wheel?')

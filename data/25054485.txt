@@ -1,0 +1,1 @@
+Item(by='ReactiveJelly', descendants=None, kids=None, score=None, time=1605057623, title=None, item_type='comment', url=None, parent=25033379, text='Why big-endian?<p>1. Optimizing for a big-endian CPU?<p>2. Optimizing for hex dump programs that don&#x27;t have a setting for endianness?<p>3. Ideological purity?')

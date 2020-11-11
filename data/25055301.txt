@@ -1,0 +1,1 @@
+Item(by='pram', descendants=None, kids=None, score=None, time=1605066326, title=None, item_type='comment', url=None, parent=25050550, text='Cross compilation is a thing, JFYI. You don&#x27;t need to be on an arm64e system to generate an arm binary today. This is the case for xcode, gcc, go, etc etc')

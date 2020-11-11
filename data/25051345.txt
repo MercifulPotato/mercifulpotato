@@ -1,1 +1,1 @@
-Item(by='vosper', descendants=None, kids=None, score=None, time=1605039692, title=None, item_type='comment', url=None, parent=25049945, text='Could this also be remedied by Apple supporting Nvidia GPUs again? And then you plug in a beefy eGPU?')
+Item(by='vosper', descendants=None, kids=[25056127], score=None, time=1605039692, title=None, item_type='comment', url=None, parent=25049945, text='Could this also be remedied by Apple supporting Nvidia GPUs again? And then you plug in a beefy eGPU?')

@@ -1,0 +1,1 @@
+Item(by='filmor', descendants=None, kids=None, score=None, time=1605076017, title=None, item_type='comment', url=None, parent=25055723, text='The called code is made unwind-safe at the FFI boundary using `std::panic::catch_unwind`. A panic will be converted to an Erlang exception.')

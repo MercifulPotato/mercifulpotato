@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=None, kids=None, score=None, time=1605075020, title=None, item_type='comment', url=None, parent=25045399, text='With Clojure, are you writing tests in the Spock DSL (or is that Groovy?) or are you writing the tests in Clojure and importing Spock as a library and extending its classes etc?')

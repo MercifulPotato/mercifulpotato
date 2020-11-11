@@ -1,0 +1,1 @@
+Item(by='stouset', descendants=None, kids=[25055737, 25055760], score=None, time=1605069139, title=None, item_type='comment', url=None, parent=25055074, text='That was <i>twelve years ago</i>.<p>Do you think equally-bad bugs haven’t made it into upstream projects directly? Hell, many downstream patches exist to <i>fix</i> security bugs.')

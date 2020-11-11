@@ -1,0 +1,1 @@
+Item(by='rbanffy', descendants=None, kids=None, score=None, time=1605081704, title=None, item_type='comment', url=None, parent=25052533, text='One of the first things I&#x27;d throw out is binary compatibility. Making it source-compatible at the assembly level would be enough and would free a lot of possibilities that being attached to old code wouldn&#x27;t.')

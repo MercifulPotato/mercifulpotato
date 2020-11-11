@@ -1,1 +1,1 @@
-Item(by='t0astbread', descendants=None, kids=None, score=None, time=1605003897, title=None, item_type='comment', url=None, parent=25039319, text='Has there been any coverage on the revenge porn incident? It sounds plausible given the circumstances but it&#x27;s a pretty heavy claim.')
+Item(by='t0astbread', descendants=None, kids=[25055339], score=None, time=1605003897, title=None, item_type='comment', url=None, parent=25039319, text='Has there been any coverage on the revenge porn incident? It sounds plausible given the circumstances but it&#x27;s a pretty heavy claim.')

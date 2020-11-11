@@ -1,1 +1,1 @@
-Item(by='recursive', descendants=None, kids=None, score=None, time=1605046530, title=None, item_type='comment', url=None, parent=25052147, text='I think mail-in ballots are a much bigger problem for exit polling than fear of being cancelled.<p>I cite no sources, just a hunch.')
+Item(by='recursive', descendants=None, kids=[25055454], score=None, time=1605046530, title=None, item_type='comment', url=None, parent=25052147, text='I think mail-in ballots are a much bigger problem for exit polling than fear of being cancelled.<p>I cite no sources, just a hunch.')

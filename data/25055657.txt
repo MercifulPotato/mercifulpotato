@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=None, kids=None, score=None, time=1605071151, title=None, item_type='comment', url=None, parent=25054014, text='in Zen 1 and Zen 2, cores have direct or indirect access to the shared L3 cache in the same CCX. In the cross-CCX case the neighboring CCX cache can be accessed over the in-package interconnect without going through system DRAM.')

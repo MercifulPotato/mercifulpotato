@@ -1,1 +1,1 @@
-Item(by='shiv86', descendants=1, kids=[25053430], score=5, time=1605050361, title='Someone from the product team at Gitlab needs to look at issue 35054', item_type='story', url='https://gitlab.com/gitlab-org/gitlab-foss/-/issues/35054#note_356003937', parent=None, text=None)
+Item(by='shiv86', descendants=4, kids=[25056136, 25053430, 25055413], score=15, time=1605050361, title='Someone from the product team at Gitlab needs to look at issue 35054', item_type='story', url='https://gitlab.com/gitlab-org/gitlab-foss/-/issues/35054#note_356003937', parent=None, text=None)

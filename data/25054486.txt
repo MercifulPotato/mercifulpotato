@@ -1,1 +1,1 @@
-Item(by='supz_k', descendants=0, kids=None, score=2, time=1605057623, title='Ask HN: Do I need to store user data in EU to be compliant with GDPR?', item_type='story', url=None, parent=None, text=None)
+Item(by='supz_k', descendants=1, kids=[25054862], score=3, time=1605057623, title='Ask HN: Do I need to store user data in EU to be compliant with GDPR?', item_type='story', url=None, parent=None, text=None)
