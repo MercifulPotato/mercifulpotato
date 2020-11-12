@@ -1,0 +1,1 @@
+Item(by='ytch', descendants=None, kids=None, score=None, time=1605150492, title=None, item_type='comment', url=None, parent=25065756, text='There is still PCIe bus and Thunderbolt, technically it is still possible to connect NVIDIA&#x2F;AMD GPU to Apple Silicon, but we need enough bus (x8 or x16) and drivers.')

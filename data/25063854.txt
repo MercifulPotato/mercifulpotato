@@ -1,0 +1,1 @@
+Item(by='scottporad', descendants=None, kids=None, score=None, time=1605134219, title=None, item_type='comment', url=None, parent=25060425, text='I like where your going with this.<p>How does feature size factor here?  Are size and complexity independent variables?  Or, is it that, by definition, larger features are more complex?')

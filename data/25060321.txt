@@ -1,1 +1,1 @@
-Item(by='laptop-man', descendants=22, kids=[25060772, 25061309, 25062548, 25064142, 25063046], score=39, time=1605115121, title='Self hosted uptime robot alternative written in go', item_type='story', url='https://github.com/TwinProduction/gatus/actions', parent=None, text=None)
+Item(by='laptop-man', descendants=25, kids=[25067275, 25060772, 25061309, 25062548, 25064142, 25063046], score=45, time=1605115121, title='Self hosted uptime robot alternative written in go', item_type='story', url='https://github.com/TwinProduction/gatus/actions', parent=None, text=None)

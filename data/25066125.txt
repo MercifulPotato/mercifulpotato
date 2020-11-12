@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1605152159, title=None, item_type='comment', url=None, parent=25065929, text='Yep, they started releasing the arm64 XNU source in 2017.<p>Funny tidbit: Raspberry Pi 3 is one of the supported platforms in the source dump.')

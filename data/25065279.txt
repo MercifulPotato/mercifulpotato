@@ -1,1 +1,1 @@
-Item(by='Ali_Jiwani', descendants=None, kids=None, score=None, time=1605144308, title=None, item_type='comment', url=None, parent=25059133, text='This looks really good and well timed. What will you do if Firebase builds something similar?')
+Item(by='Ali_Jiwani', descendants=None, kids=[25067475], score=None, time=1605144308, title=None, item_type='comment', url=None, parent=25059133, text='This looks really good and well timed. What will you do if Firebase builds something similar?')

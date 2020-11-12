@@ -1,1 +1,1 @@
-Item(by='djur', descendants=None, kids=None, score=None, time=1605149143, title=None, item_type='comment', url=None, parent=25065670, text='TAOCP isn&#x27;t exactly a laugh riot but Knuth is kind of known for his sense of humor.')
+Item(by='djur', descendants=None, kids=[25066754, 25066153], score=None, time=1605149143, title=None, item_type='comment', url=None, parent=25065670, text='TAOCP isn&#x27;t exactly a laugh riot but Knuth is kind of known for his sense of humor.')

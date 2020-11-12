@@ -1,1 +1,1 @@
-Item(by='sockpuppet_12', descendants=None, kids=None, score=None, time=1605124246, title=None, item_type='comment', url=None, parent=25058574, text='Why’d  they name it PyPy, it sounds phonetically exactly like PyPi. aaaahhh this is going to be so confusing')
+Item(by='sockpuppet_12', descendants=None, kids=[25067107], score=None, time=1605124246, title=None, item_type='comment', url=None, parent=25058574, text='Why’d  they name it PyPy, it sounds phonetically exactly like PyPi. aaaahhh this is going to be so confusing')

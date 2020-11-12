@@ -1,1 +1,1 @@
-Item(by='matijash', descendants=5, kids=[25059090, 25059406], score=32, time=1605108339, title='Show HN: Wasp (Alpha) is out – DSL for building web apps with React/Node/Prisma', item_type='story', url='https://wasp-lang.dev/', parent=None, text=None)
+Item(by='matijash', descendants=6, kids=[25066563, 25059090, 25059406], score=32, time=1605108339, title='Show HN: Wasp (Alpha) is out – DSL for building web apps with React/Node/Prisma', item_type='story', url='https://wasp-lang.dev/', parent=None, text=None)

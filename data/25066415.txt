@@ -1,0 +1,1 @@
+Item(by='Xorlev', descendants=None, kids=[25066865], score=None, time=1605155025, title=None, item_type='comment', url=None, parent=25065135, text='Did you mean Hadoop&#x2F;HDFS? HBase works pretty analogously to Bigtable (though, having run HBase in production at $dayjob-1, I&#x27;d take the latter any day).')

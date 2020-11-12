@@ -1,1 +1,1 @@
-Item(by='fastball', descendants=None, kids=None, score=None, time=1605127209, title=None, item_type='comment', url=None, parent=25046481, text='You don&#x27;t think Americans buy drugs from German companies?')
+Item(by='fastball', descendants=None, kids=[25066825], score=None, time=1605127209, title=None, item_type='comment', url=None, parent=25046481, text='You don&#x27;t think Americans buy drugs from German companies?')

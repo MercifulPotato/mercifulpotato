@@ -1,0 +1,1 @@
+Item(by='_bjh', descendants=None, kids=[25066156, 25065851], score=None, time=1605148841, title=None, item_type='comment', url=None, parent=25064855, text='This is odd, since I thought Akamai was working on LL-HLS, and the spec recommends the use of HTTP&#x2F;2 server push for periodic playlist updates.')

@@ -1,1 +1,1 @@
-Item(by='wil421', descendants=None, kids=None, score=None, time=1605126376, title=None, item_type='comment', url=None, parent=25062079, text='Why kind of quality did you get running plex? I doubt a cluster of pi’s could keep up with the transcoding.')
+Item(by='wil421', descendants=None, kids=[25067272], score=None, time=1605126376, title=None, item_type='comment', url=None, parent=25062079, text='Why kind of quality did you get running plex? I doubt a cluster of pi’s could keep up with the transcoding.')

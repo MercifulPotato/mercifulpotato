@@ -1,0 +1,1 @@
+Item(by='bdcravens', descendants=None, kids=None, score=None, time=1605154054, title=None, item_type='comment', url=None, parent=25066086, text='It does use websockets, like Stimulus Reflex. As for the rendering piece, it seems to be a different approach (SR is essentially dynamically rendering partials inside of a Rails view - obv I&#x27;m dramatically oversimplifying that)')

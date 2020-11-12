@@ -1,1 +1,1 @@
-Item(by='punnerud', descendants=0, kids=None, score=5, time=1605135225, title="You probably don't need AI/ML. You can make do with well written SQL scripts", item_type='story', url='https://threadreaderapp.com/thread/987602838594445312.html', parent=None, text=None)
+Item(by='punnerud', descendants=1, kids=[25066281], score=6, time=1605135225, title="You probably don't need AI/ML. You can make do with well written SQL scripts", item_type='story', url='https://threadreaderapp.com/thread/987602838594445312.html', parent=None, text=None)

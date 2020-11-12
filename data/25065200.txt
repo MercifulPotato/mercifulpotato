@@ -1,1 +1,1 @@
-Item(by='tambourine_man', descendants=8, kids=[25065476, 25065509, 25065539, 25065497], score=39, time=1605143779, title='MacBookAir Apple Silicon’s early benchmarks', item_type='story', url='https://browser.geekbench.com/v5/cpu/4648107', parent=None, text=None)
+Item(by='tambourine_man', descendants=2, kids=[25065621, 25065698, 25065755], score=57, time=1605143779, title='MacBookAir Apple Silicon’s early benchmarks', item_type='story', url='https://browser.geekbench.com/v5/cpu/4648107', parent=None, text=None)

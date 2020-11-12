@@ -1,0 +1,1 @@
+Item(by='K2L8M11N2', descendants=None, kids=[25065683], score=None, time=1605147053, title=None, item_type='comment', url=None, parent=25065479, text='“Notifying the server” is already done by browsers by just making a regular request. Prefetching links has been a thing for a while now. You don’t need HTTP&#x2F;2 to do it.')

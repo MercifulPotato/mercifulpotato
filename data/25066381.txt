@@ -1,0 +1,1 @@
+Item(by='bigdict', descendants=None, kids=None, score=None, time=1605154659, title=None, item_type='comment', url=None, parent=25065664, text='I wonder if M1 dominates an i9-9980HK at multithreaded workloads that make full use of available SIMD? Does an M1 dominate at peak theoretical flops?')

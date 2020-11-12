@@ -1,1 +1,1 @@
-Item(by='justinator', descendants=None, kids=None, score=None, time=1605146450, title=None, item_type='comment', url=None, parent=25065026, text='The 16GB max ram still seems a head scratcher. Not what would suppose I want for video editing.')
+Item(by='justinator', descendants=None, kids=[25065624, 25066571, 25065938, 25065651], score=None, time=1605146450, title=None, item_type='comment', url=None, parent=25065026, text='The 16GB max ram still seems a head scratcher. Not what would suppose I want for video editing.')

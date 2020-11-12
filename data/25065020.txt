@@ -1,1 +1,1 @@
-Item(by='aidenn0', descendants=None, kids=None, score=None, time=1605142572, title=None, item_type='comment', url=None, parent=25062880, text='&quot;like lisp&quot;?<p>The high quality free IDE (SLIME) is a big part of why I still use common lisp.')
+Item(by='aidenn0', descendants=None, kids=[25067110], score=None, time=1605142572, title=None, item_type='comment', url=None, parent=25062880, text='&quot;like lisp&quot;?<p>The high quality free IDE (SLIME) is a big part of why I still use common lisp.')

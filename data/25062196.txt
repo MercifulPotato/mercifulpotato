@@ -1,1 +1,1 @@
-Item(by='bigbubba', descendants=None, kids=None, score=None, time=1605124338, title=None, item_type='comment', url=None, parent=25058405, text='440MW really pushes the bounds of the S in SMR (Small Modular Reactor).  Most SMR proposals are a fraction of that.')
+Item(by='bigbubba', descendants=None, kids=[25066876], score=None, time=1605124338, title=None, item_type='comment', url=None, parent=25058405, text='440MW really pushes the bounds of the S in SMR (Small Modular Reactor).  Most SMR proposals are a fraction of that.')

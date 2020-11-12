@@ -1,1 +1,1 @@
-Item(by='LIV2', descendants=None, kids=None, score=None, time=1605145094, title=None, item_type='comment', url=None, parent=25065026, text='Is geekbench accurate at comparing across different architectures?')
+Item(by='LIV2', descendants=None, kids=[25065996, 25065831, 25065656], score=None, time=1605145094, title=None, item_type='comment', url=None, parent=25065026, text='Is geekbench accurate at comparing across different architectures?')

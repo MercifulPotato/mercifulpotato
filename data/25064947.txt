@@ -1,1 +1,1 @@
-Item(by='bmc7505', descendants=1, kids=[25065134], score=4, time=1605142112, title='JetBrains Projector', item_type='story', url='https://github.com/JetBrains/projector-server/blob/master/README-JETBRAINS.md', parent=None, text=None)
+Item(by='bmc7505', descendants=1, kids=[25065134], score=6, time=1605142112, title='JetBrains Projector', item_type='story', url='https://github.com/JetBrains/projector-server/blob/master/README-JETBRAINS.md', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='ffpip', descendants=None, kids=None, score=None, time=1605005779, title=None, item_type='comment', url=None, parent=25040994, text='I think it is possible to ban e2ee being used by the average human, but you can&#x27;t outright ban it. It&#x27;s math.')
+Item(by='ffpip', descendants=None, kids=[25045738, 25047990], score=None, time=1605005779, title=None, item_type='comment', url=None, parent=25040994, text='I think it is possible to ban e2ee being used by the average human, but you can&#x27;t outright ban it. It&#x27;s math.')

@@ -1,1 +1,1 @@
-Item(by='Liriel', descendants=1, kids=[25064921], score=20, time=1605014086, title="Understanding Associations in Elixir's Ecto", item_type='story', url='https://blog.appsignal.com/2020/11/10/understanding-associations-in-elixir-ecto.html', parent=None, text=None)
+Item(by='Liriel', descendants=5, kids=[25066143, 25064921], score=50, time=1605014086, title="Understanding Associations in Elixir's Ecto", item_type='story', url='https://blog.appsignal.com/2020/11/10/understanding-associations-in-elixir-ecto.html', parent=None, text=None)

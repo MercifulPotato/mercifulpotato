@@ -1,1 +1,1 @@
-Item(by='pshaw', descendants=0, kids=None, score=6, time=1605133038, title='Publishers’ Bind', item_type='story', url='https://www.firstthings.com/article/2020/11/publishers-bind', parent=None, text=None)
+Item(by='pshaw', descendants=2, kids=[25065633], score=13, time=1605133038, title='Publishers’ Bind', item_type='story', url='https://www.firstthings.com/article/2020/11/publishers-bind', parent=None, text=None)

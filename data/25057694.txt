@@ -1,1 +1,1 @@
-Item(by='galangalalgol', descendants=None, kids=None, score=None, time=1605096715, title=None, item_type='comment', url=None, parent=25056569, text='What about slackware?  Its been a couple decades but I used to get my kernel source from linux direct and never had problems.')
+Item(by='galangalalgol', descendants=None, kids=[25067073], score=None, time=1605096715, title=None, item_type='comment', url=None, parent=25056569, text='What about slackware?  Its been a couple decades but I used to get my kernel source from linux direct and never had problems.')

@@ -1,1 +1,1 @@
-Item(by='jklp', descendants=2, kids=[25065066], score=7, time=1605141182, title='Jira: Major Outage Reported', item_type='story', url='https://jira-software.status.atlassian.com', parent=None, text=None)
+Item(by='jklp', descendants=3, kids=[25065719, 25065066], score=7, time=1605141182, title='Jira: Major Outage Reported', item_type='story', url='https://jira-software.status.atlassian.com', parent=None, text=None)

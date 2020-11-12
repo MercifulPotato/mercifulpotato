@@ -1,1 +1,1 @@
-Item(by='bingden', descendants=0, kids=None, score=2, time=1605133098, title='What to Make of Rod McKuen?', item_type='story', url='https://neglectedbooks.com/?p=7339', parent=None, text=None)
+Item(by='bingden', descendants=1, kids=[25066207], score=10, time=1605133098, title='What to Make of Rod McKuen?', item_type='story', url='https://neglectedbooks.com/?p=7339', parent=None, text=None)
