@@ -1,1 +1,1 @@
-Item(by='retube', descendants=None, kids=None, score=None, time=1605102118, title=None, item_type='comment', url=None, parent=25057919, text='I had not realised that Rolls Royce the car manufacturer was now owned by BMW and not Rolls Royce')
+Item(by='retube', descendants=None, kids=[25069526, 25067726], score=None, time=1605102118, title=None, item_type='comment', url=None, parent=25057919, text='I had not realised that Rolls Royce the car manufacturer was now owned by BMW and not Rolls Royce')

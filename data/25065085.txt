@@ -1,1 +1,1 @@
-Item(by='wglb', descendants=1, kids=[25065575], score=6, time=1605143153, title='XScreenSaver: On Toolkit Dialogs', item_type='story', url='https://www.jwz.org/xscreensaver/toolkits.html', parent=None, text=None)
+Item(by='wglb', descendants=2, kids=[25065575, 25067486], score=8, time=1605143153, title='XScreenSaver: On Toolkit Dialogs', item_type='story', url='https://www.jwz.org/xscreensaver/toolkits.html', parent=None, text=None)

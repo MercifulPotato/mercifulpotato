@@ -1,1 +1,1 @@
-Item(by='dzhiurgis', descendants=None, kids=None, score=None, time=1605128928, title=None, item_type='comment', url=None, parent=25062563, text='The worst part about iCloud is how slow it is and how much Photos on macOs crash. It’s barely usable for anything but previewing photos.')
+Item(by='dzhiurgis', descendants=None, kids=[25067576], score=None, time=1605128928, title=None, item_type='comment', url=None, parent=25062563, text='The worst part about iCloud is how slow it is and how much Photos on macOs crash. It’s barely usable for anything but previewing photos.')

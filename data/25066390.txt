@@ -1,1 +1,1 @@
-Item(by='reaperducer', descendants=None, kids=None, score=None, time=1605154775, title=None, item_type='comment', url=None, parent=25065858, text='<i>max 2 displays (only 1 external for laptops)</i><p>I wonder if that includes AirPlay screens, or just wired.')
+Item(by='reaperducer', descendants=None, kids=[25067785, 25068323], score=None, time=1605154775, title=None, item_type='comment', url=None, parent=25065858, text='<i>max 2 displays (only 1 external for laptops)</i><p>I wonder if that includes AirPlay screens, or just wired.')

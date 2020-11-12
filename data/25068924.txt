@@ -1,0 +1,1 @@
+Item(by='Nextgrid', descendants=None, kids=None, score=None, time=1605182787, title=None, item_type='comment', url=None, parent=25068709, text='Here Maps has the Facebook SDK embedded in the app that pings Facebook upon every opening of the app (sending a persistent ID, IP address and device fingerprint including language, phone make&#x2F;model and mobile carrier).')

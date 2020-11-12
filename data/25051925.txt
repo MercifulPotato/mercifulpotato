@@ -1,1 +1,1 @@
-Item(by='jay_kyburz', descendants=None, kids=None, score=None, time=1605042433, title=None, item_type='comment', url=None, parent=25046962, text='That last part is what really annoys me. Do visibility checks on the server not the client.')
+Item(by='jay_kyburz', descendants=None, kids=[25068565], score=None, time=1605042433, title=None, item_type='comment', url=None, parent=25046962, text='That last part is what really annoys me. Do visibility checks on the server not the client.')

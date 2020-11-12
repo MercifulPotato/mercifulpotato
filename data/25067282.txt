@@ -1,1 +1,1 @@
-Item(by='manmal', descendants=None, kids=None, score=None, time=1605165053, title=None, item_type='comment', url=None, parent=25067109, text='There‘s even a recent health fad that claims deuterium is bad for health, and those people also happen to sell deuterium-depleted water.')
+Item(by='manmal', descendants=None, kids=[25068558], score=None, time=1605165053, title=None, item_type='comment', url=None, parent=25067109, text='There‘s even a recent health fad that claims deuterium is bad for health, and those people also happen to sell deuterium-depleted water.')

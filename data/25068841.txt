@@ -1,0 +1,1 @@
+Item(by='aitchnyu', descendants=None, kids=[25069096, 25069057], score=None, time=1605182076, title=None, item_type='comment', url=None, parent=25068041, text='Would inlining CSS and JS work on web sites (not apps)? I kinda feel inlined JS will bypass bytecode cache and the parsing costs have to be paid on each page load.')

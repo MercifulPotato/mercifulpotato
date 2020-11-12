@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=None, kids=None, score=None, time=1605102213, title=None, item_type='comment', url=None, parent=25058121, text='It&#x27;s a good thing their Intel machines go all the way to 28 Xeon cores and 1.5TB if RAM then...')
+Item(by='rbanffy', descendants=None, kids=[25068503], score=None, time=1605102213, title=None, item_type='comment', url=None, parent=25058121, text='It&#x27;s a good thing their Intel machines go all the way to 28 Xeon cores and 1.5TB if RAM then...')

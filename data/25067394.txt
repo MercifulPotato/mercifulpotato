@@ -1,1 +1,1 @@
-Item(by='hnick', descendants=None, kids=None, score=None, time=1605166221, title=None, item_type='comment', url=None, parent=25065768, text='&gt; good recommendations<p>That would be sweetly ironic, considering Google&#x27;s original success came from better search.')
+Item(by='hnick', descendants=None, kids=[25069421], score=None, time=1605166221, title=None, item_type='comment', url=None, parent=25065768, text='&gt; good recommendations<p>That would be sweetly ironic, considering Google&#x27;s original success came from better search.')

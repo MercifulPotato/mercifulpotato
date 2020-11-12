@@ -1,1 +1,1 @@
-Item(by='collapse', descendants=0, kids=None, score=3, time=1605133140, title='Pippi and the Moomins', item_type='story', url='https://aeon.co/essays/pippi-and-the-moomins-served-as-a-social-antidote-to-fascism', parent=None, text=None)
+Item(by='collapse', descendants=19, kids=[25069992, 25068737, 25069791, 25068714, 25068572, 25068955, 25068810], score=43, time=1605133140, title='Pippi and the Moomins', item_type='story', url='https://aeon.co/essays/pippi-and-the-moomins-served-as-a-social-antidote-to-fascism', parent=None, text=None)

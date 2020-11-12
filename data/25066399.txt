@@ -1,1 +1,1 @@
-Item(by='ttul', descendants=None, kids=None, score=None, time=1605154874, title=None, item_type='comment', url=None, parent=25066161, text='TSMC’s 5nm node is exceeding everyone’s expectations.')
+Item(by='ttul', descendants=None, kids=[25067455], score=None, time=1605154874, title=None, item_type='comment', url=None, parent=25066161, text='TSMC’s 5nm node is exceeding everyone’s expectations.')

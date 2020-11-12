@@ -1,1 +1,1 @@
-Item(by='waterhouse', descendants=None, kids=[25065614], score=None, time=1605145485, title=None, item_type='comment', url=None, parent=25065026, text='How long does Geekbench take to run?  Long enough to reach thermal equilibrium?')
+Item(by='waterhouse', descendants=None, kids=[25065614, 25067594], score=None, time=1605145485, title=None, item_type='comment', url=None, parent=25065026, text='How long does Geekbench take to run?  Long enough to reach thermal equilibrium?')

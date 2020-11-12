@@ -1,1 +1,1 @@
-Item(by='yrro', descendants=None, kids=None, score=None, time=1605126365, title=None, item_type='comment', url=None, parent=25053238, text='Hm. If a user can send signals to accounts-daemon then can they ptrace(2) it and take over the system that way?')
+Item(by='yrro', descendants=None, kids=[25069285], score=None, time=1605126365, title=None, item_type='comment', url=None, parent=25053238, text='Hm. If a user can send signals to accounts-daemon then can they ptrace(2) it and take over the system that way?')

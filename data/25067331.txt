@@ -1,1 +1,1 @@
-Item(by='kccqzy', descendants=None, kids=None, score=None, time=1605165623, title=None, item_type='comment', url=None, parent=25066593, text='I&#x27;ve personally found Geekbench results representative of real time workloads. So do more traditional benchmarks like SPECint.')
+Item(by='kccqzy', descendants=None, kids=[25068327, 25067664], score=None, time=1605165623, title=None, item_type='comment', url=None, parent=25066593, text='I&#x27;ve personally found Geekbench results representative of real time workloads. So do more traditional benchmarks like SPECint.')

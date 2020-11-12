@@ -1,1 +1,1 @@
-Item(by='stock_toaster', descendants=None, kids=None, score=None, time=1605144295, title=None, item_type='comment', url=None, parent=25065226, text='Or use &lt;link rel=&quot;preload&quot;&gt; I guess (bonus: local caching still works).')
+Item(by='stock_toaster', descendants=None, kids=[25068081], score=None, time=1605144295, title=None, item_type='comment', url=None, parent=25065226, text='Or use &lt;link rel=&quot;preload&quot;&gt; I guess (bonus: local caching still works).')

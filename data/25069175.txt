@@ -1,0 +1,1 @@
+Item(by='mgechev', descendants=None, kids=None, score=None, time=1605184832, title=None, item_type='comment', url=None, parent=25069065, text='Just a heads up. Angular does not use virtual DOM to reduce memory overhead. At build time, in Angular we&#x27;ve been generating instructions for efficient rendering and change detection since the early versions of the framework.')

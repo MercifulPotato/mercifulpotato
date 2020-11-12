@@ -1,1 +1,1 @@
-Item(by='pvsukale3', descendants=0, kids=None, score=1, time=1605159745, title='Google Takeout: Export a copy of your data in Google services', item_type='story', url='https://takeout.google.com/', parent=None, text=None)
+Item(by='pvsukale3', descendants=23, kids=[25069708, 25069917, 25069792, 25068238, 25068732, 25069037], score=95, time=1605159745, title='Google Takeout: Export a copy of your data in Google services', item_type='story', url='https://takeout.google.com/', parent=None, text=None)

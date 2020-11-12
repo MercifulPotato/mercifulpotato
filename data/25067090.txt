@@ -1,1 +1,1 @@
-Item(by='delusional', descendants=None, kids=None, score=None, time=1605162873, title=None, item_type='comment', url=None, parent=25061513, text='The exact same thing is said about other programming languages.')
+Item(by='delusional', descendants=None, kids=[25068586], score=None, time=1605162873, title=None, item_type='comment', url=None, parent=25061513, text='The exact same thing is said about other programming languages.')

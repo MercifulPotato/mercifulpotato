@@ -1,1 +1,1 @@
-Item(by='fyfy18', descendants=None, kids=None, score=None, time=1605164502, title=None, item_type='comment', url=None, parent=25064458, text='Would love to buy just the book.')
+Item(by='fyfy18', descendants=None, kids=[25068644], score=None, time=1605164502, title=None, item_type='comment', url=None, parent=25064458, text='Would love to buy just the book.')

@@ -1,0 +1,1 @@
+Item(by='collyw', descendants=None, kids=[25069524], score=None, time=1605185769, title=None, item_type='comment', url=None, parent=25068834, text='I would still choose server side rendering and a bit of jQuery over a SPA app and JS frameowrk for a new project. It would take significantly less code and maintenance and would be fine for most projects out there.')
