@@ -1,0 +1,1 @@
+Item(by='rhombocombus', descendants=None, kids=None, score=None, time=1605203540, title=None, item_type='comment', url=None, parent=25072403, text='it looks like the jobs are exportable as JSON, which would make it far more maintainable than some of the existing proprietary ETL tools (lookin&#x27; at you IBM).')

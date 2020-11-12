@@ -1,0 +1,1 @@
+Item(by='oaiey', descendants=None, kids=[25072988], score=None, time=1605193459, title=None, item_type='comment', url=None, parent=25070178, text='.NET Framework was slow. .NET Core is fast. Applicable to both, the runtime but specially the web frameworks.<p>And yes, beating PHP was never a thing. Beating node and Java containers is a thing.')

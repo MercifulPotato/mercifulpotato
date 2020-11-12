@@ -1,1 +1,1 @@
-Item(by='hajderr', descendants=0, kids=None, score=1, time=1605182028, title="Ask HN: What's a Useful Comment?", item_type='story', url=None, parent=None, text='When is a comment not worth posting anymore here at HN? I.e. with the risk of it going unseen.')
+Item(by='hajderr', descendants=1, kids=[25073310], score=1, time=1605182028, title="Ask HN: What's a Useful Comment?", item_type='story', url=None, parent=None, text='When is a comment not worth posting anymore here at HN? I.e. with the risk of it going unseen.')

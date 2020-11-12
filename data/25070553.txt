@@ -1,0 +1,1 @@
+Item(by='jbrnh', descendants=None, kids=None, score=None, time=1605193200, title=None, item_type='comment', url=None, parent=25070017, text='Or use &#x27;shuf&#x27; for passwords:<p>shuf  -r -e --random-source=&#x2F;dev&#x2F;urandom {a..z} {0..9} {A..Z} | paste -d &quot;&quot; -s | fold -w 25')

@@ -1,1 +1,1 @@
-Item(by='google234123', descendants=None, kids=None, score=None, time=1605135579, title=None, item_type='comment', url=None, parent=25063501, text='You should use compression to not use so much space.')
+Item(by='google234123', descendants=None, kids=[25073211], score=None, time=1605135579, title=None, item_type='comment', url=None, parent=25063501, text='You should use compression to not use so much space.')

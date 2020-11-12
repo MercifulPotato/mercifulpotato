@@ -1,0 +1,1 @@
+Item(by='madenine', descendants=None, kids=[25072769], score=None, time=1605204613, title=None, item_type='comment', url=None, parent=25065026, text='Is there a common linear algebra benchmark?<p>Would love to see a non-Intel chip + OpenBLAS beating out Intel + MKL')

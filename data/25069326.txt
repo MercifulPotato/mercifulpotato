@@ -1,1 +1,1 @@
-Item(by='ch460399', descendants=None, kids=None, score=None, time=1605185821, title=None, item_type='comment', url=None, parent=25062154, text='No, there is also a 16. I ordered it.')
+Item(by='ch460399', descendants=None, kids=[25070972], score=None, time=1605185821, title=None, item_type='comment', url=None, parent=25062154, text='No, there is also a 16. I ordered it.')

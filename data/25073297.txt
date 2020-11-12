@@ -1,0 +1,1 @@
+Item(by='alwillis', descendants=None, kids=[25073513], score=None, time=1605206947, title=None, item_type='comment', url=None, parent=25073128, text='I recall reading something from an Apple engineer about fixing something before enabling WebGL 2.0 by default.<p>But it&#x27;s only a click away:<p><pre><code>    Develop &gt; Experimental Features &gt; WebGL 2.0</code></pre>')

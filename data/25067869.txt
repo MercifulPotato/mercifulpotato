@@ -1,1 +1,1 @@
-Item(by='geek_at', descendants=None, kids=None, score=None, time=1605171474, title=None, item_type='comment', url=None, parent=25067605, text='yt music can play without the screen on. at least on android')
+Item(by='geek_at', descendants=None, kids=[25069991], score=None, time=1605171474, title=None, item_type='comment', url=None, parent=25067605, text='yt music can play without the screen on. at least on android')

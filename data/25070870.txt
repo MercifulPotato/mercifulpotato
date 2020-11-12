@@ -1,0 +1,1 @@
+Item(by='martin_drapeau', descendants=None, kids=None, score=None, time=1605194934, title=None, item_type='comment', url=None, parent=25070642, text='My point is that PC architecture still remains CPU + GPU + RAM mostly separate communicating over a large bus. The M1 combines this all in a SoC.')

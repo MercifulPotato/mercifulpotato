@@ -1,0 +1,1 @@
+Item(by='tinus_hn', descendants=None, kids=[25072060], score=None, time=1605201377, title=None, item_type='comment', url=None, parent=25068843, text='Be aware that downloading the GPS almanak, which is how AGPS gets a quick GPS fix when the device has been offline, does not necessarily reveal your location to anyone.')

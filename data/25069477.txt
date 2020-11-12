@@ -1,1 +1,1 @@
-Item(by='TimLeland', descendants=0, kids=None, score=1, time=1605186964, title='Can You Trust Amazon Reviews?', item_type='story', url='https://timleland.com/can-you-trust-amazon-reviews/', parent=None, text=None)
+Item(by='TimLeland', descendants=1, kids=[25069743], score=2, time=1605186964, title='Can You Trust Amazon Reviews?', item_type='story', url='https://timleland.com/can-you-trust-amazon-reviews/', parent=None, text=None)

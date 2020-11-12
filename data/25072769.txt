@@ -1,0 +1,1 @@
+Item(by='kccqzy', descendants=None, kids=None, score=None, time=1605204730, title=None, item_type='comment', url=None, parent=25072732, text='Why would you use OpenBLAS rather than Apple&#x27;s Accelerate.framework? Since you&#x27;re already using the Intel MKL, the only fair comparison is Accelerate.framework.')

@@ -1,0 +1,1 @@
+Item(by='patman81', descendants=None, kids=None, score=None, time=1605211015, title=None, item_type='comment', url=None, parent=25071502, text='That&#x27;s impressive. We struggle to find a way to &quot;migrate&quot; from AWS Aurora 1 to 2 (that is from MySQL 5.6 to 5.7). There seems to be no (easy) way to upgrade without downtime for large databases.')

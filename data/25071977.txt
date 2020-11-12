@@ -1,0 +1,1 @@
+Item(by='typedef_struct', descendants=None, kids=[25073240], score=None, time=1605201278, title=None, item_type='comment', url=None, parent=25071581, text='Is GQL still an abstraction that doesn&#x27;t map at all to the underlying datastore, so that any given query can be arbitrarily slow?')

@@ -1,0 +1,1 @@
+Item(by='ygra', descendants=None, kids=None, score=None, time=1605193952, title=None, item_type='comment', url=None, parent=25070458, text='You can tell the designer how a particular type has to be created if it doesn&#x27;t have a parameterless ctor, but yeah, it&#x27;s generally easier to do it that way.')

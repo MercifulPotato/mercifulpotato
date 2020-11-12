@@ -1,1 +1,1 @@
-Item(by='superbatfish', descendants=None, kids=None, score=None, time=1605132812, title=None, item_type='comment', url=None, parent=25062415, text='The article contradicts your assertion. Did you read it?')
+Item(by='superbatfish', descendants=None, kids=[25070795], score=None, time=1605132812, title=None, item_type='comment', url=None, parent=25062415, text='The article contradicts your assertion. Did you read it?')

@@ -1,1 +1,1 @@
-Item(by='pmorici', descendants=None, kids=None, score=None, time=1605154975, title=None, item_type='comment', url=None, parent=25062281, text='This doesn’t change anything about the speed of the nvme drive it offloads the work load from the processor.')
+Item(by='pmorici', descendants=None, kids=[25072578], score=None, time=1605154975, title=None, item_type='comment', url=None, parent=25062281, text='This doesn’t change anything about the speed of the nvme drive it offloads the work load from the processor.')

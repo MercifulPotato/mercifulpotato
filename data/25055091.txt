@@ -1,1 +1,1 @@
-Item(by='michaelmrose', descendants=None, kids=None, score=None, time=1605063965, title=None, item_type='comment', url=None, parent=25052038, text='Am I wrong to think the T2 means Linux can&#x27;t access the built in hard drive and you are dual booting from an external drive?')
+Item(by='michaelmrose', descendants=None, kids=[25073691], score=None, time=1605063965, title=None, item_type='comment', url=None, parent=25052038, text='Am I wrong to think the T2 means Linux can&#x27;t access the built in hard drive and you are dual booting from an external drive?')

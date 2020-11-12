@@ -1,0 +1,1 @@
+Item(by='dsun179', descendants=None, kids=[25073421], score=None, time=1605197650, title=None, item_type='comment', url=None, parent=25069539, text='Thank you for the insights. Wouldnt it be possible to add an @AsyncInput decorator, without ever touching the ng&#x2F;core?\nSame could be done for @AsyncOutput, with observables instead of event-emitters.')

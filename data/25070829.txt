@@ -1,0 +1,1 @@
+Item(by='0xEFF', descendants=None, kids=[25072302, 25071632], score=None, time=1605194721, title=None, item_type='comment', url=None, parent=25070300, text='I find it much easier to use direnv and set GIT_AUTHOR_EMAIL in each of ~&#x2F;work&#x2F;.envrc and ~&#x2F;personal&#x2F;.envrc No need to reconfigure every repo this way.')

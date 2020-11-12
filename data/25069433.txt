@@ -1,1 +1,1 @@
-Item(by='GordonS', descendants=0, kids=None, score=1, time=1605186620, title='Go vs. C#, part 2: Garbage Collection (2018)', item_type='story', url='https://medium.com/servicetitan-engineering/go-vs-c-part-2-garbage-collection-9384677f86f1', parent=None, text=None)
+Item(by='GordonS', descendants=1, kids=[25069711], score=1, time=1605186620, title='Go vs. C#, part 2: Garbage Collection (2018)', item_type='story', url='https://medium.com/servicetitan-engineering/go-vs-c-part-2-garbage-collection-9384677f86f1', parent=None, text=None)

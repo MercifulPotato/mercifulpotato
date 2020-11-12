@@ -1,0 +1,1 @@
+Item(by='aserafini', descendants=None, kids=[25073839], score=None, time=1605208162, title=None, item_type='comment', url=None, parent=25073308, text='No concurrency? asyncio is great for I&#x2F;O bound network stuff!')

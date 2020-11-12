@@ -1,1 +1,1 @@
-Item(by='pjmorris', descendants=None, kids=None, score=None, time=1605188887, title=None, item_type='comment', url=None, parent=25069402, text='They used to say &#x27;cycles are free&#x27;, because, for a long, long time, Moore&#x27;s law would bail them out.')
+Item(by='pjmorris', descendants=None, kids=[25070827], score=None, time=1605188887, title=None, item_type='comment', url=None, parent=25069402, text='They used to say &#x27;cycles are free&#x27;, because, for a long, long time, Moore&#x27;s law would bail them out.')

@@ -1,0 +1,1 @@
+Item(by='visarga', descendants=None, kids=None, score=None, time=1605199952, title=None, item_type='comment', url=None, parent=25069877, text='Yes, on self play, but not the supervised model. The supervised model was decent but nowhere near super human. It was used as a starting point for the self play model.')

@@ -1,0 +1,1 @@
+Item(by='Foxboron', descendants=None, kids=[25071825], score=None, time=1605198361, title=None, item_type='comment', url=None, parent=25071197, text='Implement the `git identity` portion listed earlier with a `identity-list` utilizing `git config --get-regexp`. If you <i>need</i> interactivity you can tie it together with fzf and some awk.')

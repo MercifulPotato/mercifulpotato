@@ -1,0 +1,1 @@
+Item(by='jtms', descendants=None, kids=[25071634, 25071675], score=None, time=1605198296, title=None, item_type='comment', url=None, parent=25070027, text='Ruby used to be my primary language for many years and I used its REPL extensively in my day to day and found it immensely useful. Is Clojure&#x27;s REPL different&#x2F;better than the IRB and pry REPL workflow?')

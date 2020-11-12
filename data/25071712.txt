@@ -1,0 +1,1 @@
+Item(by='segmondy', descendants=None, kids=[25071730], score=None, time=1605199940, title=None, item_type='comment', url=None, parent=25061823, text='I don&#x27;t get why folks use VM when they can use containers, unless you&#x27;re running different types of OS and CPU, why VM? LXC&#x2F;LXD is much lighter weight, and faster.')

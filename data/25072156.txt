@@ -1,0 +1,1 @@
+Item(by='turtlebits', descendants=None, kids=None, score=None, time=1605202094, title=None, item_type='comment', url=None, parent=25070197, text='I think correlating this with Netlify is a stretch.   You&#x27;re offering is tied to Golang with a specific framework.<p>I&#x27;d rather see a comparison with other no-infra solutions like AWS chalice or even Serverless framework.')

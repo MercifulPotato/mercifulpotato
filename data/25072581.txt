@@ -1,0 +1,1 @@
+Item(by='bmitc', descendants=None, kids=None, score=None, time=1605203867, title=None, item_type='comment', url=None, parent=25072365, text='I don&#x27;t understand. You can take Python code and basically write the equivalent in F#, ignoring many of F#&#x27;s additional features. It would look similar (probably even be cleaner) and would be type-safe.')

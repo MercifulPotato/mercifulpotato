@@ -1,0 +1,1 @@
+Item(by='bastawhiz', descendants=None, kids=[25072526], score=None, time=1605202443, title=None, item_type='comment', url=None, parent=25072217, text='It does the job, but aurora postgres lags behind mysql when it comes to features. Failovers are surprisingly slow, too. You&#x27;re pretty much stuck with cloudwatch for monitoring, which has significant lag.')

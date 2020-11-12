@@ -1,0 +1,1 @@
+Item(by='rovr138', descendants=None, kids=None, score=None, time=1605192066, title=None, item_type='comment', url=None, parent=25070017, text='another,<p>Find biggest 10 files in current and subdirectories and sort by file size<p>&gt;_ find . -type f -print0 | xargs -0 du -h | sort -hr | head -10<p>alternative,<p>&gt;find .&#x2F; -printf &#x27;%s--%p\\n&#x27;| sort -nr | head')

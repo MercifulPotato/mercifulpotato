@@ -1,0 +1,1 @@
+Item(by='jolux', descendants=None, kids=None, score=None, time=1605191829, title=None, item_type='comment', url=None, parent=25069966, text='Constructor injection is the preferred way to do DI because construction is a strong guarantee that an object’s state is properly initialized.')

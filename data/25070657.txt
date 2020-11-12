@@ -1,0 +1,1 @@
+Item(by='beauzero', descendants=None, kids=None, score=None, time=1605193757, title=None, item_type='comment', url=None, parent=25070192, text='C# 9.0 records with init only setters is a large step to solving this issue.  Still has security concerns with injection into serialized objects...it&#x27;s a difficult problem to solve.')

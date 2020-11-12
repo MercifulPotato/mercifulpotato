@@ -1,1 +1,1 @@
-Item(by='paulpauper', descendants=None, kids=None, score=None, time=1605189226, title=None, item_type='comment', url=None, parent=25060166, text='We see it over and over again: a single big win, in this case ali baba, can make up for tons of mistakes and then some .')
+Item(by='paulpauper', descendants=None, kids=[25070125], score=None, time=1605189226, title=None, item_type='comment', url=None, parent=25060166, text='We see it over and over again: a single big win, in this case ali baba, can make up for tons of mistakes and then some .')

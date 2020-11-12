@@ -1,0 +1,1 @@
+Item(by='goto11', descendants=None, kids=[25070567, 25071564, 25070480], score=None, time=1605190685, title=None, item_type='comment', url=None, parent=25069998, text='API&#x27;s are the same for F# and C#, so it should be trivial to translate the code examples from C# into F#. Just remove the curly braces and change &quot;var&quot; into &quot;let&quot;.')

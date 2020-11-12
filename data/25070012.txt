@@ -1,0 +1,1 @@
+Item(by='wombat-man', descendants=None, kids=None, score=None, time=1605190351, title=None, item_type='comment', url=None, parent=25069792, text='Huh, i was thinking I’d do something similar but upload the file to maybe s3 glacier storage in aws.')

@@ -1,1 +1,1 @@
-Item(by='cassepipe', descendants=None, kids=None, score=None, time=1605184548, title=None, item_type='comment', url=None, parent=25068921, text='What about &#x2F;e&#x2F; ? It&#x27;s been a while I haven&#x27;t heard about them.')
+Item(by='cassepipe', descendants=None, kids=[25071183, 25071873], score=None, time=1605184548, title=None, item_type='comment', url=None, parent=25068921, text='What about &#x2F;e&#x2F; ? It&#x27;s been a while I haven&#x27;t heard about them.')

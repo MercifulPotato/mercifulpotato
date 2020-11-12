@@ -1,0 +1,1 @@
+Item(by='cpach', descendants=None, kids=None, score=None, time=1605199649, title=None, item_type='comment', url=None, parent=25070017, text='For generating passwords, I like this one:<p><pre><code>  head -c 33 &#x2F;dev&#x2F;urandom | base64\n</code></pre>\nIt has 264 bits of entropy.')

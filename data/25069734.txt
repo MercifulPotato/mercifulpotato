@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=0, kids=None, score=1, time=1605188589, title="40ms bug: a missing writev, Nagle's algorithm, and delayed ACKs", item_type='story', url='https://vorner.github.io/2020/11/06/40-ms-bug.html', parent=None, text=None)

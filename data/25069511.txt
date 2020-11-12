@@ -1,1 +1,1 @@
-Item(by='Kinrany', descendants=None, kids=None, score=None, time=1605187181, title=None, item_type='comment', url=None, parent=25067482, text='The point is that drones are cheaper and still delivered air superiority.')
+Item(by='Kinrany', descendants=None, kids=[25073373], score=None, time=1605187181, title=None, item_type='comment', url=None, parent=25067482, text='The point is that drones are cheaper and still delivered air superiority.')

@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=None, score=None, time=1605158097, title=None, item_type='comment', url=None, parent=25066551, text='I think the fan noise you experience is not Apple&#x27;s fault, but Intel&#x27;s fault.')
+Item(by='kube-system', descendants=None, kids=[25071154], score=None, time=1605158097, title=None, item_type='comment', url=None, parent=25066551, text='I think the fan noise you experience is not Apple&#x27;s fault, but Intel&#x27;s fault.')

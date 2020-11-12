@@ -1,1 +1,1 @@
-Item(by='pionerkotik', descendants=0, kids=None, score=2, time=1605180380, title='TripAdvisor warns users over Thai hotel that legally pursued reviewer', item_type='story', url='https://www.bbc.com/news/world-asia-54914768', parent=None, text=None)
+Item(by='pionerkotik', descendants=8, kids=[25071851, 25071736], score=18, time=1605180380, title='TripAdvisor warns users over Thai hotel that legally pursued reviewer', item_type='story', url='https://www.bbc.com/news/world-asia-54914768', parent=None, text=None)

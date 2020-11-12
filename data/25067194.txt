@@ -1,1 +1,1 @@
-Item(by='speedgoose', descendants=None, kids=None, score=None, time=1605164006, title=None, item_type='comment', url=None, parent=25067063, text='There is enough music on Spotify outside pop to not bother with music that is not on Spotify.')
+Item(by='speedgoose', descendants=None, kids=[25073105, 25070240], score=None, time=1605164006, title=None, item_type='comment', url=None, parent=25067063, text='There is enough music on Spotify outside pop to not bother with music that is not on Spotify.')

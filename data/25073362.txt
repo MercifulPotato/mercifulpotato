@@ -1,0 +1,1 @@
+Item(by='Lammy', descendants=None, kids=None, score=None, time=1605207214, title=None, item_type='comment', url=None, parent=25073197, text='I just have it set up to forward most zones to my ISP DNS, but you could just as easily do that with 8.8.8.8 or whatever and still minimize the number of requests you make to them. you’ll notice the lower latency too.')
