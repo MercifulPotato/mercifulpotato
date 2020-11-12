@@ -1,1 +1,1 @@
-Item(by='The_rationalist', descendants=None, kids=None, score=None, time=1605088855, title=None, item_type='comment', url=None, parent=25053661, text='So will this be in significant quantity in my body for years?')
+Item(by='The_rationalist', descendants=None, kids=[25064401], score=None, time=1605088855, title=None, item_type='comment', url=None, parent=25053661, text='So will this be in significant quantity in my body for years?')

@@ -1,0 +1,1 @@
+Item(by='mrfox321', descendants=None, kids=[25063287], score=None, time=1605130259, title=None, item_type='comment', url=None, parent=25063053, text='In other words, the frontend gets some ACK from the DB before calling the &quot;Store Consumer&quot;? (just trying to make sure I understand your critique of the design)')

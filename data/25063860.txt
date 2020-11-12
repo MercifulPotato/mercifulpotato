@@ -1,0 +1,1 @@
+Item(by='abnry', descendants=None, kids=None, score=None, time=1605134258, title=None, item_type='comment', url=None, parent=25063700, text='It&#x27;s too hackish, system dependent, and not feature complete yet. I plan to run it as a flask app on the local network as a more intuitive way of tagging and managing bookmarks... lot more to do.')

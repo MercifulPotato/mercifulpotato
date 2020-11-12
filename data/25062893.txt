@@ -1,0 +1,1 @@
+Item(by='mirekrusin', descendants=None, kids=[25063071], score=None, time=1605128293, title=None, item_type='comment', url=None, parent=25043541, text='&quot;9. Generated declarations can inline types from dependencies&quot;<p>Why do they generate .d.ts files instead of publishing .ts files alongside .js files? This should solve inlining issue, no?')

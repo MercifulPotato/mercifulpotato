@@ -1,1 +1,1 @@
-Item(by='starik36', descendants=None, kids=None, score=None, time=1605110414, title=None, item_type='comment', url=None, parent=25055084, text='Not necessarily all options, but just maybe settings for connection to some 3rd party server.  You will need the configs.')
+Item(by='starik36', descendants=None, kids=[25064262], score=None, time=1605110414, title=None, item_type='comment', url=None, parent=25055084, text='Not necessarily all options, but just maybe settings for connection to some 3rd party server.  You will need the configs.')

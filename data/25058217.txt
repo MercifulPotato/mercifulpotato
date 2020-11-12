@@ -1,1 +1,1 @@
-Item(by='avian', descendants=None, kids=None, score=None, time=1605101615, title=None, item_type='comment', url=None, parent=25058149, text='The slides shows an external &quot;Thunderbold controller&quot; chip. Seems like something they would have hanging off a PCIe bus.')
+Item(by='avian', descendants=None, kids=[25062468], score=None, time=1605101615, title=None, item_type='comment', url=None, parent=25058149, text='The slides shows an external &quot;Thunderbold controller&quot; chip. Seems like something they would have hanging off a PCIe bus.')

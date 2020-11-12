@@ -1,0 +1,1 @@
+Item(by='munificent', descendants=None, kids=None, score=None, time=1605136959, title=None, item_type='comment', url=None, parent=25059556, text='<i>&gt; Or set a range of probabilities for the velocity value of a MIDI note.</i><p>The velocity MIDI effect already let you randomize all note velocities by a user-controlled range. This just lets you set random ranges per-note.')

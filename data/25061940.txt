@@ -1,1 +1,1 @@
-Item(by='dromancamps', descendants=0, kids=None, score=1, time=1605123029, title='School Project', item_type='story', url=None, parent=None, text='I&#x27;m trying to copy this webpage for a school project.')
+Item(by='dromancamps', descendants=1, kids=[25062302], score=1, time=1605123029, title='School Project', item_type='story', url=None, parent=None, text='I&#x27;m trying to copy this webpage for a school project.')

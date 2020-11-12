@@ -1,1 +1,1 @@
-Item(by='zepto', descendants=None, kids=None, score=None, time=1605033433, title=None, item_type='comment', url=None, parent=25043108, text='Almost all apps are not in his category.')
+Item(by='zepto', descendants=None, kids=[25064820], score=None, time=1605033433, title=None, item_type='comment', url=None, parent=25043108, text='Almost all apps are not in his category.')

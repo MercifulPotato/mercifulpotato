@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='billpg', descendants=22, kids=[25033870, 25034392, 25036075, 25033876, 25035003, 25036396, 25033617], score=74, time=1604919243, title='Company forced to change name that could be used to hack websites', item_type='story', url='https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk', parent=None, text=None)

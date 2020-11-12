@@ -1,1 +1,1 @@
-Item(by='tasuki', descendants=None, kids=None, score=None, time=1605125645, title=None, item_type='comment', url=None, parent=25060094, text='Is the &#x27;sente&#x27; in your GitHub handle the opposite of &#x27;gote&#x27;, or something else entirely?')
+Item(by='tasuki', descendants=None, kids=[25062707], score=None, time=1605125645, title=None, item_type='comment', url=None, parent=25060094, text='Is the &#x27;sente&#x27; in your GitHub handle the opposite of &#x27;gote&#x27;, or something else entirely?')

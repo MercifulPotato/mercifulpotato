@@ -1,0 +1,1 @@
+Item(by='kristopolous', descendants=None, kids=None, score=None, time=1605143826, title=None, item_type='comment', url=None, parent=25063339, text='Creating a cadence that also stores the data in EXIF isn&#x27;t really that hard if that&#x27;s your concern. You could even get SQLite triggers to do external calls to update the tags if things change. This is all pretty trivial.')

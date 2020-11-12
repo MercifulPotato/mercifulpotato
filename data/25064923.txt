@@ -1,0 +1,1 @@
+Item(by='jedberg', descendants=None, kids=None, score=None, time=1605141936, title=None, item_type='comment', url=None, parent=25064904, text='Captions, thumbnails, webpage html, etc. come from a different part of the CDN. Same with Netflix. The videos come from devices dedicated to large files, the captions and thumbnails come from a CDN designed for small files.')

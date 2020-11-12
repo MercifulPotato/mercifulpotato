@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='zonetti', descendants=15, kids=[25039570, 25038669, 25038288, 25042515, 25036695, 25039151], score=74, time=1604939116, title='Show HN: Zonote – Sticky notes with Markdown and Tabs, all in one .txt file', item_type='story', url='https://github.com/zonetti/zonote', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='metmac', descendants=0, kids=None, score=9, time=1605140360, title='YouTube Video playback is down', item_type='story', url=None, parent=None, text='Go to any youtube video and watch the network requests to redirector.googlevideo.com hang.<p>i.e. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=b3VcGKv9Cfw')

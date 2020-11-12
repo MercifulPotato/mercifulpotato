@@ -1,0 +1,1 @@
+Item(by='dev-bre', descendants=None, kids=None, score=None, time=1605127566, title=None, item_type='comment', url=None, parent=25062699, text='Thanks. I put a lot of effort in building an API which would expose as much IP related data as possible and and at the same time which would have a fast response time.<p>I will look into this CORS issue. Thanks for pointing that out.')

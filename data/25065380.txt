@@ -1,0 +1,1 @@
+Item(by='psanford', descendants=None, kids=None, score=None, time=1605144923, title=None, item_type='comment', url=None, parent=25065254, text='gRPC does not use PUSH_PROMISE. It uses HTTP&#x2F;2 streams, but those streams all get initiated by the client.')

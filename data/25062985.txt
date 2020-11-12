@@ -1,0 +1,1 @@
+Item(by='dharmab', descendants=None, kids=None, score=None, time=1605128824, title=None, item_type='comment', url=None, parent=25060729, text='We store the vault paths&#x2F;fields&#x2F;versions in git and they&#x27;re dereferenced outside of git (either directly in the software or in an intermediate deploy step).')

@@ -1,0 +1,1 @@
+Item(by='alliao', descendants=None, kids=None, score=None, time=1605133941, title=None, item_type='comment', url=None, parent=25062380, text='Synology&#x27;s photo station is slightly jarring... the whole indexing operation isn&#x27;t optimized at all so if you have like 500k photos it&#x27;s going to be spinning for a while.')

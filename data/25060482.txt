@@ -1,1 +1,1 @@
-Item(by='toomuchtodo', descendants=None, kids=None, score=None, time=1605115913, title=None, item_type='comment', url=None, parent=25059247, text='Is TransferWise an option for your cross border transfer needs?')
+Item(by='toomuchtodo', descendants=None, kids=[25063333], score=None, time=1605115913, title=None, item_type='comment', url=None, parent=25059247, text='Is TransferWise an option for your cross border transfer needs?')

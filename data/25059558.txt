@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='rvense', descendants=None, kids=None, score=None, time=1605111340, title=None, item_type='comment', url=None, parent=25044909, text='Huh, cool. How long before those spectral tools are as cliche as Beat Repeat, though...')

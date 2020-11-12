@@ -1,0 +1,1 @@
+Item(by='pier25', descendants=None, kids=None, score=None, time=1605144989, title=None, item_type='comment', url=None, parent=25061736, text='&gt; <i>No audio drivers on windows beat CoreAudio on macOS.</i><p>It&#x27;s true that generally speaking CoreAudio drivers are better, but then you have RME drivers on Windows which are just as rock solid.')

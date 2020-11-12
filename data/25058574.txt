@@ -1,1 +1,1 @@
-Item(by='endlesstrax', descendants=7, kids=[25060328, 25059026, 25059358], score=34, time=1605104332, title='PyPy: Faster Python with Minimal Effort', item_type='story', url='https://realpython.com/pypy-faster-python/', parent=None, text=None)
+Item(by='endlesstrax', descendants=11, kids=[25062992, 25063673, 25062175, 25062323, 25059026, 25060328, 25059358], score=42, time=1605104332, title='PyPy: Faster Python with Minimal Effort', item_type='story', url='https://realpython.com/pypy-faster-python/', parent=None, text=None)

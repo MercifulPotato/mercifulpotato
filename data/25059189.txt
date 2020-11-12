@@ -1,1 +1,1 @@
-Item(by='brunoqc', descendants=None, kids=None, score=None, time=1605108986, title=None, item_type='comment', url=None, parent=25059064, text='Yeah it looks like it runs on the client side right? While I was expecting a proper plugin running on the postgresql side.')
+Item(by='brunoqc', descendants=None, kids=[25063479], score=None, time=1605108986, title=None, item_type='comment', url=None, parent=25059064, text='Yeah it looks like it runs on the client side right? While I was expecting a proper plugin running on the postgresql side.')

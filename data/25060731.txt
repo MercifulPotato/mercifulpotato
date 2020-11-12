@@ -1,1 +1,1 @@
-Item(by='makach', descendants=None, kids=[25061429], score=None, time=1605116985, title=None, item_type='comment', url=None, parent=25060662, text='Do you check in passwords into your version control? How do you differentiate between different deployment settings?')
+Item(by='makach', descendants=None, kids=[25064490, 25061429], score=None, time=1605116985, title=None, item_type='comment', url=None, parent=25060662, text='Do you check in passwords into your version control? How do you differentiate between different deployment settings?')

@@ -1,0 +1,1 @@
+Item(by='krono', descendants=None, kids=[25063619, 25063780], score=None, time=1605132082, title=None, item_type='comment', url=None, parent=25063477, text='A gentleman&#x27;s agreement with some foreign entity just isn&#x27;t good enough.<p>At least on Dropbox, S3, OneDrive, etc. we can encrypt our own data (which I actually do). There is no such option in Notion.')

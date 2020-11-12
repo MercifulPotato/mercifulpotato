@@ -1,1 +1,1 @@
-Item(by='kamil3141', descendants=None, kids=None, score=None, time=1605121112, title=None, item_type='comment', url=None, parent=25058821, text='I like the idea but why can I only draw horizontally?')
+Item(by='kamil3141', descendants=None, kids=[25063050], score=None, time=1605121112, title=None, item_type='comment', url=None, parent=25058821, text='I like the idea but why can I only draw horizontally?')

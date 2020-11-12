@@ -1,0 +1,1 @@
+Item(by='0x62', descendants=None, kids=[25062509], score=None, time=1605125832, title=None, item_type='comment', url=None, parent=25060588, text='Perhaps instead of hard coding the fallback, offer a Webpack plugin that fetches the latest config at build. That way long as you&#x27;ve got internet at your build step, you&#x27;ll always have a recent version.')

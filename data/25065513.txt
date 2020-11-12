@@ -1,0 +1,1 @@
+Item(by='cmxch', descendants=None, kids=None, score=None, time=1605145964, title=None, item_type='comment', url=None, parent=25064940, text='Not surprised given their attempt to run AIX on QEMU as well.  That&#x27;s slightly more documented but still a pain to do - as it requires specific versions of AIX(7.2 TL3 SP1&#x2F;7.1 TL5 SP5).')

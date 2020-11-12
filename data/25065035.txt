@@ -1,0 +1,1 @@
+Item(by='chrisjc', descendants=None, kids=[25065147], score=None, time=1605142719, title=None, item_type='comment', url=None, parent=25064977, text='I remember a time when AWS went down and their status page said everything was fine. I think it had something to do with static content hosted on S3.<p>I wonder if Google is have their moment :)')

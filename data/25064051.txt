@@ -1,0 +1,1 @@
+Item(by='rkagerer', descendants=None, kids=[25065935], score=None, time=1605135658, title=None, item_type='comment', url=None, parent=25061901, text='I wish folks building Task frameworks would provide a standard mechanism for tasks to signal their progress.  I realize it might not be relevant here but I&#x27;ve noticed this gap in more general frameworks as well.')

@@ -1,1 +1,1 @@
-Item(by='Zitrax', descendants=None, kids=None, score=None, time=1605103594, title=None, item_type='comment', url=None, parent=25047793, text='Does that means sharing between ios and android as well?')
+Item(by='Zitrax', descendants=None, kids=[25062781], score=None, time=1605103594, title=None, item_type='comment', url=None, parent=25047793, text='Does that means sharing between ios and android as well?')

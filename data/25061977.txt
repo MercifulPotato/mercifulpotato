@@ -1,1 +1,1 @@
-Item(by='asdff', descendants=None, kids=None, score=None, time=1605123184, title=None, item_type='comment', url=None, parent=25061491, text='couldn&#x27;t hire a locksmith?')
+Item(by='asdff', descendants=None, kids=[25063241], score=None, time=1605123184, title=None, item_type='comment', url=None, parent=25061491, text='couldn&#x27;t hire a locksmith?')

@@ -1,1 +1,1 @@
-Item(by='908B64B197', descendants=None, kids=None, score=None, time=1605118696, title=None, item_type='comment', url=None, parent=25060898, text='If you are fetching multiple GB of images over the network it kinda make sense.')
+Item(by='908B64B197', descendants=None, kids=[25064625, 25063245], score=None, time=1605118696, title=None, item_type='comment', url=None, parent=25060898, text='If you are fetching multiple GB of images over the network it kinda make sense.')

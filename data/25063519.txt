@@ -1,0 +1,1 @@
+Item(by='mholt', descendants=None, kids=None, score=None, time=1605131864, title=None, item_type='comment', url=None, parent=25063339, text='Please don&#x27;t misunderstand, with your 45 years of computing experience. :) (which I highly respect) I never said the files are stored in sqlite. They are just indexed in sqlite. The files are stored on disk like normal.')

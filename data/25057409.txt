@@ -1,1 +1,1 @@
-Item(by='Toutouxc', descendants=None, kids=None, score=None, time=1605093493, title=None, item_type='comment', url=None, parent=25054881, text='I&#x27;m almost sure they couldn&#x27;t. I can&#x27;t quite put my finger on it, but that&#x27;s just not how Apple does things.')
+Item(by='Toutouxc', descendants=None, kids=[25063124], score=None, time=1605093493, title=None, item_type='comment', url=None, parent=25054881, text='I&#x27;m almost sure they couldn&#x27;t. I can&#x27;t quite put my finger on it, but that&#x27;s just not how Apple does things.')

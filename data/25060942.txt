@@ -1,1 +1,1 @@
-Item(by='alibabaSX', descendants=0, kids=None, score=7, time=1605118045, title='Overview of 3D meshing methods using open source tools', item_type='story', url='https://www.sesamx.io/blog/3d_mesh_with_free_tools/', parent=None, text=None)
+Item(by='alibabaSX', descendants=1, kids=[25062598], score=19, time=1605118045, title='Overview of 3D meshing methods using open source tools', item_type='story', url='https://www.sesamx.io/blog/3d_mesh_with_free_tools/', parent=None, text=None)

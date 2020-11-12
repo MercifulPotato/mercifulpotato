@@ -1,1 +1,1 @@
-Item(by='AlphaWeaver', descendants=0, kids=None, score=3, time=1605121961, title='LanguageTool – A Grammarly competitor with offline support', item_type='story', url='https://addons.mozilla.org/en-US/firefox/addon/languagetool/', parent=None, text=None)
+Item(by='AlphaWeaver', descendants=1, kids=[25062272], score=3, time=1605121961, title='LanguageTool – A Grammarly competitor with offline support', item_type='story', url='https://addons.mozilla.org/en-US/firefox/addon/languagetool/', parent=None, text=None)

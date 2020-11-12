@@ -1,0 +1,1 @@
+Item(by='stevesimmons', descendants=None, kids=None, score=None, time=1605137236, title=None, item_type='comment', url=None, parent=25059440, text='I have a somewhat related question:<p>What is the current best practice way to parallelize reading many parquet files on S3 using pyarrow? Deep down, it&#x27;s just lots of HTTP requests.')

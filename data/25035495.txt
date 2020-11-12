@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='edward', descendants=48, kids=[25055663, 25056066, 25057222, 25055277, 25055654, 25056971, 25058637, 25057524, 25058811, 25055836, 25058012, 25055627], score=77, time=1604934393, title='Artificial intelligence may be making people buy things', item_type='story', url='https://www.bbc.co.uk/news/technology-54522442', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='Cthulhu_', descendants=None, kids=None, score=None, time=1605106169, title=None, item_type='comment', url=None, parent=25056100, text='Isn&#x27;t that also because you have a really expensive bike? (just making a guess here)')
+Item(by='Cthulhu_', descendants=None, kids=[25063284], score=None, time=1605106169, title=None, item_type='comment', url=None, parent=25056100, text='Isn&#x27;t that also because you have a really expensive bike? (just making a guess here)')

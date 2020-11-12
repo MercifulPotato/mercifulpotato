@@ -1,1 +1,1 @@
-Item(by='prismatic', descendants=0, kids=None, score=1, time=1605121647, title='Winners of Close-Up Photographer of the Year', item_type='story', url='https://www.theatlantic.com/photo/2020/11/winners-close-up-photographer-year/617070', parent=None, text=None)
+Item(by='prismatic', descendants=1, kids=[25063525], score=1, time=1605121647, title='Winners of Close-Up Photographer of the Year', item_type='story', url='https://www.theatlantic.com/photo/2020/11/winners-close-up-photographer-year/617070', parent=None, text=None)

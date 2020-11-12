@@ -1,0 +1,1 @@
+Item(by='psychometry', descendants=None, kids=[25063269], score=None, time=1605127212, title=None, item_type='comment', url=None, parent=25062625, text='Installing even common packages like data.table require mucking around with R&#x27;s makevars. There&#x27;s no common set of variables that &quot;just work&quot;, since different packages need different compilers to install.')

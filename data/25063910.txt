@@ -1,0 +1,1 @@
+Item(by='rkagerer', descendants=None, kids=None, score=None, time=1605134685, title=None, item_type='comment', url=None, parent=25059946, text='Can anyone quantify the advantages this yields in terms of latency and bandwidth, compared to plugging a regular SSD into an external FPGA (via PCIe or whatever interface)?')

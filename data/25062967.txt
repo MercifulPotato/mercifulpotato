@@ -1,0 +1,1 @@
+Item(by='ArchOversight', descendants=None, kids=[25063164], score=None, time=1605128742, title=None, item_type='comment', url=None, parent=25061490, text='Cause users still need to update where they are pulling from.<p>There&#x27;d need to be a way within docker to alias to the new URL so that what normally would go to docker hub ends up pulling from the mirror.')

@@ -1,1 +1,1 @@
-Item(by='gnufx', descendants=None, kids=None, score=None, time=1605125839, title=None, item_type='comment', url=None, parent=25057985, text='Apple is obviously a contrast with the usual state of affairs where one of the first signs of a new CPU is in the GNU toolchain.')
+Item(by='gnufx', descendants=None, kids=[25063397], score=None, time=1605125839, title=None, item_type='comment', url=None, parent=25057985, text='Apple is obviously a contrast with the usual state of affairs where one of the first signs of a new CPU is in the GNU toolchain.')
