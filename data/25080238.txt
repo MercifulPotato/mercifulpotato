@@ -1,0 +1,1 @@
+Item(by='deepstack', descendants=None, kids=None, score=None, time=1605255743, title=None, item_type='comment', url=None, parent=25069153, text='Nice! what about the list of instances that is running? Is that on DHT? Or are there some protocol level stuff in the Funkwhale to announce the instance over gossip protocol or something like that?')

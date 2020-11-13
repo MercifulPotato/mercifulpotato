@@ -1,0 +1,1 @@
+Item(by='simonw', descendants=None, kids=None, score=None, time=1605268789, title=None, item_type='comment', url=None, parent=25078579, text='&quot;A desktop app would normally just bundle Python for its own local use&quot;<p>I&#x27;ve been working with Python for nearly twenty years and I find the idea of bundling Python with my application daunting. I want it to be easy.')

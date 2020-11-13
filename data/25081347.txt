@@ -1,0 +1,1 @@
+Item(by='robertbalent', descendants=None, kids=None, score=None, time=1605268705, title=None, item_type='comment', url=None, parent=25079822, text='I have X1 Carbon 7th and need to use throttled to get full power.<p>Try to run performance test with s-tui if you see a difference.<p>On Arch the command to enable the fix is:<p>sudo systemctl enable --now lenovo_fix.service')

@@ -1,1 +1,1 @@
-Item(by='Polylactic_acid', descendants=None, kids=None, score=None, time=1605240426, title=None, item_type='comment', url=None, parent=25077833, text='Not at all. Docker on a raspberry pi is a massive pain in the ass. Half the images are not compiled for ARM.')
+Item(by='Polylactic_acid', descendants=None, kids=[25080794], score=None, time=1605240426, title=None, item_type='comment', url=None, parent=25077833, text='Not at all. Docker on a raspberry pi is a massive pain in the ass. Half the images are not compiled for ARM.')

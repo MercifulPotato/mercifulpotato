@@ -1,0 +1,1 @@
+Item(by='iamcreasy', descendants=None, kids=None, score=None, time=1605268682, title=None, item_type='comment', url=None, parent=25076625, text='Can you tell me a bit more about how Java uses Cairo to draw? I was under the assumption that Java interface with the underlying OS to draw.')

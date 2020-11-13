@@ -1,0 +1,1 @@
+Item(by='ajliu', descendants=None, kids=None, score=None, time=1605255079, title=None, item_type='comment', url=None, parent=25073014, text='Having tried a good number of these various type checkers, it seems like Pyright is the only one that properly supports all of the accepted PEP changes to typing.')

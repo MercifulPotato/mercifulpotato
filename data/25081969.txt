@@ -1,0 +1,1 @@
+Item(by='WhiteWestie', descendants=None, kids=None, score=None, time=1605274719, title=None, item_type='comment', url=None, parent=25081147, text='They could also keep the current solution and just use a CRL as a backup to OCSP to check the revoked certificates and update it every other hour...')

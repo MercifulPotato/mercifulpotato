@@ -1,1 +1,1 @@
-Item(by='shard', descendants=None, kids=None, score=None, time=1605251711, title=None, item_type='comment', url=None, parent=25076473, text='Would you care if your personal trainer was obese?')
+Item(by='shard', descendants=None, kids=[25082038], score=None, time=1605251711, title=None, item_type='comment', url=None, parent=25076473, text='Would you care if your personal trainer was obese?')

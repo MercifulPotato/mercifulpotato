@@ -1,0 +1,1 @@
+Item(by='unwind', descendants=None, kids=[25082309, 25081075], score=None, time=1605255489, title=None, item_type='comment', url=None, parent=25079917, text='In the (brief) benchmark in the PDF posted by @DuncanMak says FastUIDraw is around 5-8 times faster than Skia.')

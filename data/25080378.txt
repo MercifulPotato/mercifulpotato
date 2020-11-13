@@ -1,0 +1,1 @@
+Item(by='innocenat', descendants=None, kids=None, score=None, time=1605257054, title=None, item_type='comment', url=None, parent=25080351, text='It works as you understand on Linux. For Windows and macOS, Docker use virtualisation to do contenatisation on Linux kernel instead.')

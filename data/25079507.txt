@@ -1,1 +1,1 @@
-Item(by='mleonhard', descendants=None, kids=None, score=None, time=1605248486, title=None, item_type='comment', url=None, parent=25078783, text='I want this to be big news.  Apple lately pretends that they care about user privacy.  They might fix it.')
+Item(by='mleonhard', descendants=None, kids=[25080640], score=None, time=1605248486, title=None, item_type='comment', url=None, parent=25078783, text='I want this to be big news.  Apple lately pretends that they care about user privacy.  They might fix it.')

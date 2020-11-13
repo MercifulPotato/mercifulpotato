@@ -1,1 +1,1 @@
-Item(by='lmm', descendants=None, kids=None, score=None, time=1605248822, title=None, item_type='comment', url=None, parent=25074524, text='The fact that you have 9 different ways all with their own different problems is exactly the problem here.')
+Item(by='lmm', descendants=None, kids=[25081244], score=None, time=1605248822, title=None, item_type='comment', url=None, parent=25074524, text='The fact that you have 9 different ways all with their own different problems is exactly the problem here.')

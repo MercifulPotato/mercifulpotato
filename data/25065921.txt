@@ -1,1 +1,1 @@
-Item(by='diodorus', descendants=0, kids=None, score=1, time=1605149963, title='Archaeologists Discover Viking Age Ship Burial in Norway', item_type='story', url='https://www.nytimes.com/2020/11/11/world/europe/viking-discovery.html', parent=None, text=None)
+Item(by='diodorus', descendants=3, kids=[25080878], score=16, time=1605149963, title='Archaeologists Discover Viking Age Ship Burial in Norway', item_type='story', url='https://www.nytimes.com/2020/11/11/world/europe/viking-discovery.html', parent=None, text=None)

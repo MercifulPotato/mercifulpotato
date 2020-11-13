@@ -1,1 +1,1 @@
-Item(by='dmitrygr', descendants=0, kids=None, score=1, time=1605252630, title='PokéWalker Hacking', item_type='story', url='http://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker', parent=None, text=None)
+Item(by='dmitrygr', descendants=1, kids=[25080444, 25080441], score=6, time=1605252630, title='PokéWalker Hacking', item_type='story', url='http://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker', parent=None, text=None)

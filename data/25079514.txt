@@ -1,1 +1,1 @@
-Item(by='firecall', descendants=None, kids=None, score=None, time=1605248565, title=None, item_type='comment', url=None, parent=25079208, text='That would be amazing...<p>But yet somehow even Koalas are in danger. So I&#x27;m not optimistic.')
+Item(by='firecall', descendants=None, kids=[25080198], score=None, time=1605248565, title=None, item_type='comment', url=None, parent=25079208, text='That would be amazing...<p>But yet somehow even Koalas are in danger. So I&#x27;m not optimistic.')

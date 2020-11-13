@@ -1,1 +1,1 @@
-Item(by='istillwritecode', descendants=None, kids=None, score=None, time=1605248407, title=None, item_type='comment', url=None, parent=25078034, text='The title should be &quot;Your apple computer isn&#x27;t yours&quot;.')
+Item(by='istillwritecode', descendants=None, kids=[25081087], score=None, time=1605248407, title=None, item_type='comment', url=None, parent=25078034, text='The title should be &quot;Your apple computer isn&#x27;t yours&quot;.')

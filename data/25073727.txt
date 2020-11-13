@@ -1,1 +1,1 @@
-Item(by='d0mine', descendants=None, kids=[25079577, 25074680, 25075123, 25074303, 25073865, 25074424], score=None, time=1605208782, title=None, item_type='comment', url=None, parent=25073308, text='Have you ever seen O(million) lines enterprise codebase that didn&#x27;t suck?')
+Item(by='d0mine', descendants=None, kids=[25074680, 25075123, 25079577, 25074303, 25073865, 25074424], score=None, time=1605208782, title=None, item_type='comment', url=None, parent=25073308, text='Have you ever seen O(million) lines enterprise codebase that didn&#x27;t suck?')

@@ -1,1 +1,1 @@
-Item(by='adamnemecek', descendants=None, kids=None, score=None, time=1605247268, title=None, item_type='comment', url=None, parent=25079266, text='They should have some screenshots.')
+Item(by='adamnemecek', descendants=None, kids=[25080413, 25081410], score=None, time=1605247268, title=None, item_type='comment', url=None, parent=25079266, text='They should have some screenshots.')

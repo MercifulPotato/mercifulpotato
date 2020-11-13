@@ -1,0 +1,1 @@
+Item(by='habosa', descendants=None, kids=[25081969], score=None, time=1605266103, title=None, item_type='comment', url=None, parent=25080849, text='Here&#x27;s an idea: log all opened binaries somewhere and then every hour or so check them against the list.<p>Never block me from opening something, but warn me about bad stuff on a regular basis.')

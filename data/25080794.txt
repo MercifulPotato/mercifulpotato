@@ -1,0 +1,1 @@
+Item(by='vocram', descendants=None, kids=None, score=None, time=1605261715, title=None, item_type='comment', url=None, parent=25078744, text='Not a bit deal. Building ARM images from Dockerfiles is trivial. And it has the benefit of not having to trust an upstream image content. \nIf you want to go the extra mile, contribute to the project to provide multi arch images support.')

@@ -1,1 +1,1 @@
-Item(by='sroussey', descendants=None, kids=None, score=None, time=1605192883, title=None, item_type='comment', url=None, parent=25069699, text='Just buy a USB magsafe type cable for $20 and be done with it.')
+Item(by='sroussey', descendants=None, kids=[25080635], score=None, time=1605192883, title=None, item_type='comment', url=None, parent=25069699, text='Just buy a USB magsafe type cable for $20 and be done with it.')

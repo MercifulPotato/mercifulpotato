@@ -1,1 +1,1 @@
-Item(by='jez', descendants=1, kids=[25075790], score=62, time=1605215249, title='Third-party macOS apps fail when Apple Gatekeeper codesigning servers under load', item_type='story', url='https://twitter.com/panic/status/1326993532138086401', parent=None, text=None)
+Item(by='jez', descendants=1, kids=[25075790], score=64, time=1605215249, title='Third-party macOS apps fail when Apple Gatekeeper codesigning servers under load', item_type='story', url='https://twitter.com/panic/status/1326993532138086401', parent=None, text=None)

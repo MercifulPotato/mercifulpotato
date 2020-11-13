@@ -1,1 +1,1 @@
-Item(by='supah', descendants=None, kids=None, score=None, time=1605236422, title=None, item_type='comment', url=None, parent=25074828, text='won’t this eat into your revenue since you won’t make money on the exchange ?')
+Item(by='supah', descendants=None, kids=[25080505], score=None, time=1605236422, title=None, item_type='comment', url=None, parent=25074828, text='won’t this eat into your revenue since you won’t make money on the exchange ?')

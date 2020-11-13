@@ -1,1 +1,1 @@
-Item(by='shajznnckfke', descendants=None, kids=None, score=None, time=1605244293, title=None, item_type='comment', url=None, parent=25078932, text='Wow, that’s astonishingly cheap. What’s wrong with these? How is the range? Can they drive at highway speeds?')
+Item(by='shajznnckfke', descendants=None, kids=[25081909], score=None, time=1605244293, title=None, item_type='comment', url=None, parent=25078932, text='Wow, that’s astonishingly cheap. What’s wrong with these? How is the range? Can they drive at highway speeds?')
