@@ -1,1 +1,1 @@
-Item(by='ptx', descendants=None, kids=None, score=None, time=1605213871, title=None, item_type='comment', url=None, parent=25072220, text='What&#x27;s wrong with virtual environments? The required tools come bundled with Python nowadays and are super easy to use.')
+Item(by='ptx', descendants=None, kids=[25078125], score=None, time=1605213871, title=None, item_type='comment', url=None, parent=25072220, text='What&#x27;s wrong with virtual environments? The required tools come bundled with Python nowadays and are super easy to use.')

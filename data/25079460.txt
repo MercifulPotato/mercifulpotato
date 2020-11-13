@@ -1,0 +1,1 @@
+Item(by='smichel17', descendants=None, kids=None, score=None, time=1605248052, title=None, item_type='comment', url=None, parent=25079340, text='<p><pre><code>    echo &quot;127.0.0.1 oscp.apple.com&quot; | sudo tee -a &#x2F;etc&#x2F;hosts\n</code></pre>\n(-a is the short version of --append)')

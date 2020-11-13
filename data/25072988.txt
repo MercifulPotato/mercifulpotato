@@ -1,1 +1,1 @@
-Item(by='mattmanser', descendants=None, kids=None, score=None, time=1605205711, title=None, item_type='comment', url=None, parent=25070601, text='Well, &quot;slow&quot; is relative, it was still blazingly fast compared to anything written in Django, Rails, etc.')
+Item(by='mattmanser', descendants=None, kids=[25079785], score=None, time=1605205711, title=None, item_type='comment', url=None, parent=25070601, text='Well, &quot;slow&quot; is relative, it was still blazingly fast compared to anything written in Django, Rails, etc.')

@@ -1,1 +1,1 @@
-Item(by='prostoalex', descendants=0, kids=None, score=4, time=1605117405, title='Scientists discover two new mammals in Australia', item_type='story', url='https://www.cnet.com/news/scientists-discover-two-new-mammals-in-australia/#ftag=CAD-09-10aai5b', parent=None, text=None)
+Item(by='prostoalex', descendants=5, kids=[25079445, 25079208], score=10, time=1605117405, title='Scientists discover two new mammals in Australia', item_type='story', url='https://www.cnet.com/news/scientists-discover-two-new-mammals-in-australia/#ftag=CAD-09-10aai5b', parent=None, text=None)

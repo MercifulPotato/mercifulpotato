@@ -1,1 +1,1 @@
-Item(by='zakjan', descendants=0, kids=None, score=4, time=1604987225, title='Cytoscape.js Mapbox GL Plugin', item_type='story', url='https://github.com/zakjan/cytoscape-mapbox-gl', parent=None, text=None)
+Item(by='zakjan', descendants=1, kids=[25079942], score=5, time=1604987225, title='Cytoscape.js Mapbox GL Plugin', item_type='story', url='https://github.com/zakjan/cytoscape-mapbox-gl', parent=None, text=None)

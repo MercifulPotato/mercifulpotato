@@ -1,0 +1,1 @@
+Item(by='Thiez', descendants=None, kids=None, score=None, time=1605248692, title=None, item_type='comment', url=None, parent=25074007, text='I am a big fan of DI, but you can often get a lot of useful unit testing done when you try and keep I&#x2F;O mostly seperate from the rest of the code. If you have ever programmed in Haskell you will know what I mean.')

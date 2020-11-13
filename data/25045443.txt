@@ -1,1 +1,1 @@
-Item(by='pabs3', descendants=0, kids=None, score=1, time=1605013202, title='PRET – Printer Exploitation Toolkit', item_type='story', url='https://github.com/RUB-NDS/PRET', parent=None, text=None)
+Item(by='pabs3', descendants=7, kids=[25078847, 25078217, 25078199, 25078627, 25078500, 25079028], score=24, time=1605013202, title='PRET – Printer Exploitation Toolkit', item_type='story', url='https://github.com/RUB-NDS/PRET', parent=None, text=None)

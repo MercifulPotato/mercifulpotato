@@ -1,1 +1,1 @@
-Item(by='vsskanth', descendants=None, kids=[25075733, 25075370, 25076033], score=None, time=1605216607, title=None, item_type='comment', url=None, parent=25075156, text='Can apple not use security certificates to verify publishers ? why does it need to go to their servers ?')
+Item(by='vsskanth', descendants=None, kids=[25075733, 25075370, 25078236, 25076033], score=None, time=1605216607, title=None, item_type='comment', url=None, parent=25075156, text='Can apple not use security certificates to verify publishers ? why does it need to go to their servers ?')

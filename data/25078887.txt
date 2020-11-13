@@ -1,0 +1,1 @@
+Item(by='greggman3', descendants=None, kids=None, score=None, time=1605241785, title=None, item_type='comment', url=None, parent=25077687, text='AFAIK Safari still has WebGL2 behind a flag which means many Shadertoy shaders will not run without enabling experimental features')

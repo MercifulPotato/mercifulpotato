@@ -1,1 +1,1 @@
-Item(by='tpxl', descendants=None, kids=None, score=None, time=1605226982, title=None, item_type='comment', url=None, parent=25076971, text='&gt; When one person plays a game, it locks the whole game library.<p>You can get around this by running steam in offline mode.')
+Item(by='tpxl', descendants=None, kids=[25078069], score=None, time=1605226982, title=None, item_type='comment', url=None, parent=25076971, text='&gt; When one person plays a game, it locks the whole game library.<p>You can get around this by running steam in offline mode.')

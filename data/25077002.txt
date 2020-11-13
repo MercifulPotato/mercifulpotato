@@ -1,1 +1,1 @@
-Item(by='pr0zac', descendants=0, kids=None, score=2, time=1605225390, title='In Twitch’s fight with the music industry, streamers are paying the price', item_type='story', url='https://www.theverge.com/2020/11/12/21562372/twitch-soundtrack-riaa-music-youtube', parent=None, text=None)
+Item(by='pr0zac', descendants=1, kids=[25079245], score=5, time=1605225390, title='In Twitch’s fight with the music industry, streamers are paying the price', item_type='story', url='https://www.theverge.com/2020/11/12/21562372/twitch-soundtrack-riaa-music-youtube', parent=None, text=None)

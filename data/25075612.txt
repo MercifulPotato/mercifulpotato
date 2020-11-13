@@ -1,1 +1,1 @@
-Item(by='rowanG077', descendants=None, kids=None, score=None, time=1605218041, title=None, item_type='comment', url=None, parent=25072556, text='An ARM version of Windows has existed for almost a decade. In fact it&#x27;s running on quite a few laptops right now.')
+Item(by='rowanG077', descendants=None, kids=[25079175], score=None, time=1605218041, title=None, item_type='comment', url=None, parent=25072556, text='An ARM version of Windows has existed for almost a decade. In fact it&#x27;s running on quite a few laptops right now.')

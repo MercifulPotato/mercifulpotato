@@ -1,0 +1,1 @@
+Item(by='bartvk', descendants=None, kids=[25079918], score=None, time=1605250738, title=None, item_type='comment', url=None, parent=25074979, text='It&#x27;s been like that for ages, isn&#x27;t that typical macOS behavior?<p>Note that I hate that behavior as well :) I fixed it first with a hotkey and a little Lua hacking within Hammerspoon. Now I just use Amethyst.')

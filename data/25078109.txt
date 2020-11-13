@@ -1,1 +1,1 @@
-Item(by='Dahoon', descendants=None, kids=None, score=None, time=1605234203, title=None, item_type='comment', url=None, parent=25078026, text='Startpage.com&#x27;s new owner makes it less private than doing a search on Facebook while logged into your Google Chrome account.')
+Item(by='Dahoon', descendants=None, kids=[25078429], score=None, time=1605234203, title=None, item_type='comment', url=None, parent=25078026, text='Startpage.com&#x27;s new owner makes it less private than doing a search on Facebook while logged into your Google Chrome account.')

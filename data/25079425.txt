@@ -1,0 +1,1 @@
+Item(by='b215826', descendants=None, kids=None, score=None, time=1605247617, title=None, item_type='comment', url=None, parent=25079340, text='<p><pre><code>  sudo sh -c &#x27;echo 127.0.0.1 oscp.apple.com &gt;&gt; &#x2F;etc&#x2F;hosts&#x27;</code></pre>')

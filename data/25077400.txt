@@ -1,1 +1,1 @@
-Item(by='sohkamyung', descendants=0, kids=None, score=2, time=1605228287, title='Android without Google: The Reg talks to founder about the /e/ smartphone', item_type='story', url='https://www.theregister.com/2020/11/12/android_without_google_e_smartphone/', parent=None, text=None)
+Item(by='sohkamyung', descendants=1, kids=[25078730], score=2, time=1605228287, title='Android without Google: The Reg talks to founder about the /e/ smartphone', item_type='story', url='https://www.theregister.com/2020/11/12/android_without_google_e_smartphone/', parent=None, text=None)

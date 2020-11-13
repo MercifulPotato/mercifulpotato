@@ -1,1 +1,1 @@
-Item(by='pavon', descendants=None, kids=None, score=None, time=1605224106, title=None, item_type='comment', url=None, parent=25076608, text='This is happening to Macs running Catalina and Mojave, not just those that upgraded to BigSur.')
+Item(by='pavon', descendants=None, kids=[25078553], score=None, time=1605224106, title=None, item_type='comment', url=None, parent=25076608, text='This is happening to Macs running Catalina and Mojave, not just those that upgraded to BigSur.')

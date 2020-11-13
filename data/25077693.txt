@@ -1,1 +1,1 @@
-Item(by='Swizec', descendants=None, kids=None, score=None, time=1605230410, title=None, item_type='comment', url=None, parent=25077637, text='This is how you could make Photoshop free back in the day. Add their stuff to &#x2F;etc&#x2F;hosts and voila')
+Item(by='Swizec', descendants=None, kids=[25078370], score=None, time=1605230410, title=None, item_type='comment', url=None, parent=25077637, text='This is how you could make Photoshop free back in the day. Add their stuff to &#x2F;etc&#x2F;hosts and voila')

@@ -1,1 +1,1 @@
-Item(by='ece', descendants=None, kids=None, score=None, time=1605210589, title=None, item_type='comment', url=None, parent=25071592, text='With iOS, you have to be an Apple developer paying $99&#x2F;yr to do ad-hoc signing, I&#x27;m guessing it&#x27;s the same now for MacOS..')
+Item(by='ece', descendants=None, kids=[25079403], score=None, time=1605210589, title=None, item_type='comment', url=None, parent=25071592, text='With iOS, you have to be an Apple developer paying $99&#x2F;yr to do ad-hoc signing, I&#x27;m guessing it&#x27;s the same now for MacOS..')

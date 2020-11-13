@@ -1,0 +1,1 @@
+Item(by='didibus', descendants=None, kids=None, score=None, time=1605248138, title=None, item_type='comment', url=None, parent=25073826, text='&gt; That multiple usages of the same concrete types requires changes on multiple places<p>Write a util function then, or like some like to call it, one of the many Factory pattern.')

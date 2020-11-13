@@ -1,1 +1,1 @@
-Item(by='blendo', descendants=0, kids=None, score=1, time=1605229908, title='California Will Burn', item_type='story', url='https://chico.newsreview.com/2020/11/12/california-will-burn/', parent=None, text=None)
+Item(by='blendo', descendants=2, kids=[25077993], score=2, time=1605229908, title='California Will Burn', item_type='story', url='https://chico.newsreview.com/2020/11/12/california-will-burn/', parent=None, text=None)

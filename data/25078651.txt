@@ -1,0 +1,1 @@
+Item(by='rck404', descendants=None, kids=None, score=None, time=1605239563, title=None, item_type='comment', url=None, parent=25073596, text='In old safari, try setting &#x27;max-content&#x27; to to any div &#x27;width&#x27; attribute and it&#x27;ll crash. This has been a persistent since many years and yet not fixed.')

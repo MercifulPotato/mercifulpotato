@@ -1,0 +1,1 @@
+Item(by='sargun', descendants=None, kids=None, score=None, time=1605247711, title=None, item_type='comment', url=None, parent=25063762, text='Isn’t the application name set at connect time? Or can you change that after startup? (Re)connecting to the database and not having a pool is kind of a nightmare.')
