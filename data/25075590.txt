@@ -1,0 +1,1 @@
+Item(by='londons_explore', descendants=None, kids=[25075662], score=None, time=1605217932, title=None, item_type='comment', url=None, parent=25075545, text='No connection -&gt; Fine<p>Good connection -&gt; Fine<p>Spotty connection -&gt; Problematic.<p>Basically, they didn&#x27;t include a timeout in their network code.')

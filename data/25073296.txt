@@ -1,1 +1,1 @@
-Item(by='izacus', descendants=None, kids=None, score=None, time=1605206946, title=None, item_type='comment', url=None, parent=25072896, text='I doubt they&#x27;ll ever update firmware on these older models :(')
+Item(by='izacus', descendants=None, kids=[25074358], score=None, time=1605206946, title=None, item_type='comment', url=None, parent=25072896, text='I doubt they&#x27;ll ever update firmware on these older models :(')

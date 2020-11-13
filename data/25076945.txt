@@ -1,0 +1,1 @@
+Item(by='Ajedi32', descendants=None, kids=None, score=None, time=1605224939, title=None, item_type='comment', url=None, parent=25074289, text='It writes to `.git&#x2F;config` in the local repo. (.git&#x2F; is ignored by default, obviously.)')

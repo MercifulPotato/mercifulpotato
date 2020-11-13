@@ -1,0 +1,1 @@
+Item(by='ericd', descendants=None, kids=None, score=None, time=1605231039, title=None, item_type='comment', url=None, parent=25074959, text='For anyone who wants to disable gatekeeper, this appears to do the trick, at least on mojave:\nsudo spctl --master-disable')

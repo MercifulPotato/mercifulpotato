@@ -1,0 +1,1 @@
+Item(by='pwinnski', descendants=None, kids=None, score=None, time=1605216087, title=None, item_type='comment', url=None, parent=25075173, text='Apparently you can set ocsp.apple.com to 127.0.0.1 in your &#x2F;etc&#x2F;hosts<p>This is really terrible, but at least the workaround is simple.')

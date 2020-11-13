@@ -1,1 +1,1 @@
-Item(by='wombat-man', descendants=None, kids=None, score=None, time=1605205635, title=None, item_type='comment', url=None, parent=25072931, text='that seems like more of an app level compromise.  I&#x27;m guessing on the OS itself they don&#x27;t include the unneeded binary data.')
+Item(by='wombat-man', descendants=None, kids=[25074955], score=None, time=1605205635, title=None, item_type='comment', url=None, parent=25072931, text='that seems like more of an app level compromise.  I&#x27;m guessing on the OS itself they don&#x27;t include the unneeded binary data.')

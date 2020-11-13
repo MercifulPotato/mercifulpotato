@@ -1,0 +1,1 @@
+Item(by='freeone3000', descendants=None, kids=[25075928, 25077842, 25076287, 25076229], score=None, time=1605219136, title=None, item_type='comment', url=None, parent=25075830, text='It IS, though. SmartScreen on Windows doesn&#x27;t check binaries created on the same machine, but you&#x27;ll get flagged if you move the untrusted binary to another machine you own.')

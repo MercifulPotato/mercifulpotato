@@ -1,0 +1,1 @@
+Item(by='joseakle', descendants=None, kids=[25076972], score=None, time=1605212105, title=None, item_type='comment', url=None, parent=25073749, text='Cool!<p>btw there&#x27;s a small bug on the storage part of the pricing plan calculation. It shows 5,525 GB units but then the calculation is for 10,100 units.')

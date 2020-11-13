@@ -1,0 +1,1 @@
+Item(by='kall', descendants=None, kids=None, score=None, time=1605215822, title=None, item_type='comment', url=None, parent=25074807, text='I assume (but don‘t know) that most workflows build the deployed docker image in some kind of CI service. Is that not true?')

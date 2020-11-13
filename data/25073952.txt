@@ -1,1 +1,1 @@
-Item(by='sharpercoder', descendants=None, kids=None, score=None, time=1605209977, title=None, item_type='comment', url=None, parent=25073704, text='Above code <i>is</i> the servicelocator pattern. It&#x27;s just for one service.')
+Item(by='sharpercoder', descendants=None, kids=[25074176], score=None, time=1605209977, title=None, item_type='comment', url=None, parent=25073704, text='Above code <i>is</i> the servicelocator pattern. It&#x27;s just for one service.')

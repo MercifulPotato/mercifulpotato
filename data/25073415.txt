@@ -1,1 +1,1 @@
-Item(by='hugoromano', descendants=None, kids=None, score=None, time=1605207429, title=None, item_type='comment', url=None, parent=25072783, text='5¢ made sense, 0.5% is a parasitic approach, the tech stack and engineering costs them 0.1¢ per recurring transaction.')
+Item(by='hugoromano', descendants=None, kids=[25075321, 25074911], score=None, time=1605207429, title=None, item_type='comment', url=None, parent=25072783, text='5¢ made sense, 0.5% is a parasitic approach, the tech stack and engineering costs them 0.1¢ per recurring transaction.')

@@ -1,1 +1,1 @@
-Item(by='alblue', descendants=None, kids=None, score=None, time=1605163603, title=None, item_type='comment', url=None, parent=25056427, text='It’s still possible to run Java programs that were compiled for 1.2 on modern day JVMs without change.')
+Item(by='alblue', descendants=None, kids=[25077849], score=None, time=1605163603, title=None, item_type='comment', url=None, parent=25056427, text='It’s still possible to run Java programs that were compiled for 1.2 on modern day JVMs without change.')

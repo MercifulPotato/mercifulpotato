@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1605208025, title=None, item_type='comment', url=None, parent=25073147, text='WebKit has a 50K rule limit per extension.')
+Item(by='saagarjha', descendants=None, kids=[25074405], score=None, time=1605208025, title=None, item_type='comment', url=None, parent=25073147, text='WebKit has a 50K rule limit per extension.')

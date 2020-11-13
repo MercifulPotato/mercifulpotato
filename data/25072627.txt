@@ -1,1 +1,1 @@
-Item(by='cortesoft', descendants=None, kids=None, score=None, time=1605204076, title=None, item_type='comment', url=None, parent=25063120, text='Canada, I am guessing?')
+Item(by='cortesoft', descendants=None, kids=[25074411], score=None, time=1605204076, title=None, item_type='comment', url=None, parent=25063120, text='Canada, I am guessing?')

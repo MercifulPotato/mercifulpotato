@@ -1,0 +1,1 @@
+Item(by='LeoNatan25', descendants=None, kids=[25075648, 25075600], score=None, time=1605216689, title=None, item_type='comment', url=None, parent=25075246, text='You can also disable code signing enforcement and amfi by adding the following boot args:<p>cs_enforcement_disable=1 amfi_get_out_of_my_way=1')

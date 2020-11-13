@@ -1,0 +1,1 @@
+Item(by='cercatrova', descendants=None, kids=None, score=None, time=1605226714, title=None, item_type='comment', url=None, parent=25071847, text='Anyone using Pylance? It&#x27;s a new Python language server implementation from Microsoft, and it&#x27;s great. With 3.8&#x27;s type hinting, you basically get a fully typed language, similar to what TypeScript did for JavaScript.')

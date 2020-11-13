@@ -1,1 +1,1 @@
-Item(by='storkhill', descendants=None, kids=None, score=None, time=1605207813, title=None, item_type='comment', url=None, parent=25072730, text='Are you kidding me? I&#x27;ve been slamming my face on the keyboard all these years for nothing?')
+Item(by='storkhill', descendants=None, kids=[25074138], score=None, time=1605207813, title=None, item_type='comment', url=None, parent=25072730, text='Are you kidding me? I&#x27;ve been slamming my face on the keyboard all these years for nothing?')

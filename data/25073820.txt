@@ -1,1 +1,1 @@
-Item(by='mikewhy', descendants=None, kids=None, score=None, time=1605209231, title=None, item_type='comment', url=None, parent=25072948, text='And my favorite:<p>- Pinned tabs are actually pinned tabs, not a small tab at the side of a single window that can still be easily closed')
+Item(by='mikewhy', descendants=None, kids=[25075692], score=None, time=1605209231, title=None, item_type='comment', url=None, parent=25072948, text='And my favorite:<p>- Pinned tabs are actually pinned tabs, not a small tab at the side of a single window that can still be easily closed')

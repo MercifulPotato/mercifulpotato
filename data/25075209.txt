@@ -1,0 +1,1 @@
+Item(by='axsharma', descendants=None, kids=None, score=None, time=1605216016, title=None, item_type='comment', url=None, parent=25075208, text='DNS cache poisoning hack discovered by Kaminsky in 2008 has returned due to how Linux ICMP rate limiter defaults to 1,000 requests&#x2F;second. A side-channel attack can be used to deduce open ports and pollute DNS resolvers.')

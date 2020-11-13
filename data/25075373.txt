@@ -1,0 +1,1 @@
+Item(by='domh', descendants=None, kids=None, score=None, time=1605216761, title=None, item_type='comment', url=None, parent=25074959, text='Having this issue on a 13&#x27; MBP. Running this to append ocsp.apple.com to the hosts file did the trick:<p>echo &#x27;127.0.0.1 ocsp.apple.com&#x27; | sudo tee -a &#x2F;etc&#x2F;hosts')

@@ -1,1 +1,1 @@
-Item(by='zepto', descendants=None, kids=None, score=None, time=1605208918, title=None, item_type='comment', url=None, parent=25073668, text='No, but repeatedly saying “it’s not correct to generalize”, does.')
+Item(by='zepto', descendants=None, kids=[25075949, 25075192], score=None, time=1605208918, title=None, item_type='comment', url=None, parent=25073668, text='No, but repeatedly saying “it’s not correct to generalize”, does.')

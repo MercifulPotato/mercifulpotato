@@ -1,0 +1,1 @@
+Item(by='kfk', descendants=None, kids=None, score=None, time=1605212322, title=None, item_type='comment', url=None, parent=25070416, text='What is the best practice to ship the compiled data to an rdbms from your platform? I am asking because you list data science in your use cases and most data from analytics jobs ends in a database eventually')

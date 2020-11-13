@@ -1,0 +1,1 @@
+Item(by='birdyrooster', descendants=None, kids=None, score=None, time=1605214719, title=None, item_type='comment', url=None, parent=25072944, text='Only because libraries have to use C bindings to make it fast enough. I don&#x27;t think Python performance is good enough when I have to stop writing in the language that we are benchmarking to get good results.')

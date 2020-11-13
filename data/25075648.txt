@@ -1,0 +1,1 @@
+Item(by='rubatuga', descendants=None, kids=None, score=None, time=1605218224, title=None, item_type='comment', url=None, parent=25075356, text='Thanks, you can also disable library code signing validation too:<p>`sudo defaults write &#x2F;Library&#x2F;Preferences&#x2F;com.apple.security.libraryvalidation.plist DisableLibraryValidation -bool true`')

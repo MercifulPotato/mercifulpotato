@@ -1,0 +1,1 @@
+Item(by='sp332', descendants=None, kids=[25076345], score=None, time=1605218920, title=None, item_type='comment', url=None, parent=25075483, text='Windows runs containers without a Linux kernel. They made a runC API out of existing Windows APIs.<p>runV and VMWare Vsphere 7 can run each container in its own VM.<p>WSL v1 did not run a Linux kernel at all, but v2 does.')

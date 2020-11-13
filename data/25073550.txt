@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1605207989, title=None, item_type='comment', url=None, parent=25073437, text='…which requires an Electron app to constantly be running for it to really work. Not great.')
+Item(by='saagarjha', descendants=None, kids=[25075922, 25074981], score=None, time=1605207989, title=None, item_type='comment', url=None, parent=25073437, text='…which requires an Electron app to constantly be running for it to really work. Not great.')

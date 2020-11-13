@@ -1,0 +1,1 @@
+Item(by='deadbunny', descendants=None, kids=[25075821], score=None, time=1605218715, title=None, item_type='comment', url=None, parent=25075682, text='Isn&#x27;t the &quot;built in&quot; neovim language server lua? I personally can&#x27;t see much difference between having to install nodejs runtime Vs the lua runtime.')

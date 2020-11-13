@@ -1,1 +1,1 @@
-Item(by='stevesimmons', descendants=None, kids=None, score=None, time=1605207163, title=None, item_type='comment', url=None, parent=25072704, text='conda taking 15+ mins to resolve dependencies is by far its biggest weakness.')
+Item(by='stevesimmons', descendants=None, kids=[25075629], score=None, time=1605207163, title=None, item_type='comment', url=None, parent=25072704, text='conda taking 15+ mins to resolve dependencies is by far its biggest weakness.')

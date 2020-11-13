@@ -1,0 +1,1 @@
+Item(by='tpush', descendants=None, kids=None, score=None, time=1605218951, title=None, item_type='comment', url=None, parent=25074959, text='Always wondered why it checks for cert revocation when starting an app instead of periodically checking in the background. Hm, that might require some sort of central cert database or something? Just spitballing here.')

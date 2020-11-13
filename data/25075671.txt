@@ -1,0 +1,1 @@
+Item(by='olivierlacan', descendants=None, kids=[25076917], score=None, time=1605218333, title=None, item_type='comment', url=None, parent=25074959, text='Add ocsp.apple.com to your Pi-Hole blocklist if you have one and the issue goes away.<p>You can also add this to your &#x2F;etc&#x2F;hosts file:<p>0.0.0.0 ocsp.apple.com')

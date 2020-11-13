@@ -1,1 +1,1 @@
-Item(by='abhijat', descendants=None, kids=None, score=None, time=1605195477, title=None, item_type='comment', url=None, parent=25066025, text='Who is Castaneda? Is this Carlos Castaneda or someone else?')
+Item(by='abhijat', descendants=None, kids=[25075732], score=None, time=1605195477, title=None, item_type='comment', url=None, parent=25066025, text='Who is Castaneda? Is this Carlos Castaneda or someone else?')

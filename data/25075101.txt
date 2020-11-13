@@ -1,0 +1,1 @@
+Item(by='michaelmior', descendants=None, kids=[25075565], score=None, time=1605215451, title=None, item_type='comment', url=None, parent=25072933, text='Interesting. I haven&#x27;t used pipenv on any very large projects, but I&#x27;m surprised to hear about the slowness. With the (admittedly small) projects I&#x27;ve tried it, I found that it does more or less <i>just work</i>.')

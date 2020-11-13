@@ -1,0 +1,1 @@
+Item(by='disgruntledphd2', descendants=None, kids=[25074332], score=None, time=1605210368, title=None, item_type='comment', url=None, parent=25073277, text='It happens with the data science&#x2F;scientific programming stack a lot, at least twice in the last month I&#x27;ve pulled in a small dependency that changed my numpy version which broke everything.')

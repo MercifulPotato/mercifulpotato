@@ -1,0 +1,1 @@
+Item(by='tutfbhuf', descendants=None, kids=None, score=None, time=1605219781, title=None, item_type='comment', url=None, parent=25074671, text='For files that big I often find myself switch back to vi. However, vi also has its limits. If the files are really huge, then grep, head, tail and awk are my best friends.')

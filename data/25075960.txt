@@ -1,0 +1,1 @@
+Item(by='guac', descendants=None, kids=None, score=None, time=1605219609, title=None, item_type='comment', url=None, parent=25075336, text='This seems to explain why my Mac was nearly unusable after a reboot last week. Turns out bind crashed on my firewall leaving me with no DNS.<p>After I restarted it I could actually launch apps other than terminal again.')

@@ -1,1 +1,1 @@
-Item(by='mjlee', descendants=12, kids=[25068355, 25068361, 25066246, 25068115], score=24, time=1605127982, title='Bitcoin has a stale chain of length 2', item_type='story', url='https://forkmonitor.info/stale/btc/656477', parent=None, text=None)
+Item(by='mjlee', descendants=12, kids=[25068355, 25068361, 25066246, 25068115], score=25, time=1605127982, title='Bitcoin has a stale chain of length 2', item_type='story', url='https://forkmonitor.info/stale/btc/656477', parent=None, text=None)

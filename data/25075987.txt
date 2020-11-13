@@ -1,0 +1,1 @@
+Item(by='loeg', descendants=None, kids=None, score=None, time=1605219745, title=None, item_type='comment', url=None, parent=25075811, text='MacOS already fails-open if the OCSP server resolves to the local host (see: every suggestion to edit &#x2F;etc&#x2F;hosts in this discussion).')

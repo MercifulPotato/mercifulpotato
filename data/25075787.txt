@@ -1,0 +1,1 @@
+Item(by='rictic', descendants=None, kids=[25075827], score=None, time=1605218887, title=None, item_type='comment', url=None, parent=25074735, text='Wow, that&#x27;s doing every filesystem operation as a separate fetch to the server? With no caching? Simple to implement, but about as slow as you could possibly get!')

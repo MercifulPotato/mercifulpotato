@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=4, kids=[25070807], score=58, time=1605164383, title='Chasing a Performance Regression with Erlang/OTP 22', item_type='story', url='https://tech.nextroll.com/blog/dev/2020/11/03/chasing-a-perf-regression-erlang.html', parent=None, text=None)
+Item(by='todsacerdoti', descendants=6, kids=[25070807, 25076467], score=66, time=1605164383, title='Chasing a Performance Regression with Erlang/OTP 22', item_type='story', url='https://tech.nextroll.com/blog/dev/2020/11/03/chasing-a-perf-regression-erlang.html', parent=None, text=None)

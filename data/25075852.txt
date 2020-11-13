@@ -1,0 +1,1 @@
+Item(by='sorenbs', descendants=None, kids=[25076063], score=None, time=1605219161, title=None, item_type='comment', url=None, parent=25075804, text='It sounds like Vectorized is a streaming platform built on top of Redpanda. Is that the right way to think about it? If yes, then why not build it directly on top of Kafka instead?')

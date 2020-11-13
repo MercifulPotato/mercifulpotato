@@ -1,0 +1,1 @@
+Item(by='Matheus28', descendants=None, kids=None, score=None, time=1605226545, title=None, item_type='comment', url=None, parent=25076552, text='Side note: Skia can&#x27;t render SVGs directly. You need a separate library to do the parsing and issue commands to Skia. I think they might have experimental support for simple svgs committed in the repo, though.')

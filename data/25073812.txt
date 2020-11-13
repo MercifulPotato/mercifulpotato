@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1605209189, title=None, item_type='comment', url=None, parent=25073577, text='&gt; resize to cover all the area between dock and menu<p>That is usually not what people want; they want it to cover the screen.')
+Item(by='saagarjha', descendants=None, kids=[25074596], score=None, time=1605209189, title=None, item_type='comment', url=None, parent=25073577, text='&gt; resize to cover all the area between dock and menu<p>That is usually not what people want; they want it to cover the screen.')

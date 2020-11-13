@@ -1,1 +1,1 @@
-Item(by='pimterry', descendants=1, kids=[25072657], score=7, time=1605002328, title='Zebras and Dots', item_type='story', url='https://www.hackerfactor.com/blog/index.php?/archives/901-Zebras-and-Dots.html', parent=None, text=None)
+Item(by='pimterry', descendants=3, kids=[25077188, 25072657], score=10, time=1605002328, title='Zebras and Dots', item_type='story', url='https://www.hackerfactor.com/blog/index.php?/archives/901-Zebras-and-Dots.html', parent=None, text=None)

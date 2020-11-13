@@ -1,1 +1,1 @@
-Item(by='mixmastamyk', descendants=None, kids=None, score=None, time=1605205597, title=None, item_type='comment', url=None, parent=25066791, text='Yes, we have a 2 but Safari is unusable.')
+Item(by='mixmastamyk', descendants=None, kids=[25074217], score=None, time=1605205597, title=None, item_type='comment', url=None, parent=25066791, text='Yes, we have a 2 but Safari is unusable.')

@@ -1,1 +1,1 @@
-Item(by='justjonathan', descendants=2, kids=[25071305], score=8, time=1605197357, title='The Historian Who Sees the Future', item_type='story', url='https://www.theatlantic.com/magazine/archive/2020/12/can-history-predict-future/616993/', parent=None, text=None)
+Item(by='justjonathan', descendants=3, kids=[25071305, 25074287], score=9, time=1605197357, title='The Historian Who Sees the Future', item_type='story', url='https://www.theatlantic.com/magazine/archive/2020/12/can-history-predict-future/616993/', parent=None, text=None)

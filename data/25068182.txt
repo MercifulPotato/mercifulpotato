@@ -1,1 +1,1 @@
-Item(by='nix23', descendants=None, kids=None, score=None, time=1605174283, title=None, item_type='comment', url=None, parent=25061855, text='Nice article and most important, have fun!<p>BTW: Don&#x27;t go to Reddit with projects like that, they are talkers no doers.')
+Item(by='nix23', descendants=None, kids=[25077280], score=None, time=1605174283, title=None, item_type='comment', url=None, parent=25061855, text='Nice article and most important, have fun!<p>BTW: Don&#x27;t go to Reddit with projects like that, they are talkers no doers.')

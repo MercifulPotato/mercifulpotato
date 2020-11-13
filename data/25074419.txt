@@ -1,0 +1,1 @@
+Item(by='7786655', descendants=None, kids=[25075489], score=None, time=1605212557, title=None, item_type='comment', url=None, parent=25072982, text='This is a problem with Google authenticator, not with RFC 6238 TOTP in general. Plenty of authenticator apps support backing up your secrets.')

@@ -1,0 +1,1 @@
+Item(by='orf', descendants=None, kids=None, score=None, time=1605219683, title=None, item_type='comment', url=None, parent=25072923, text='&gt; Internally the use of AWS is subject to the same constraints and APIs you and I have.<p>Is that true though? IAM isn’t open, and things like service accounts and service chaining (a can only access b through c) are also not.')
