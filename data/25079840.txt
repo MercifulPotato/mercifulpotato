@@ -1,1 +1,1 @@
-Item(by='pfortuny', descendants=None, kids=None, score=None, time=1605251907, title=None, item_type='comment', url=None, parent=25075470, text='So, yes: they do depend on the local (to the user) availability of that service. So they depend on that.')
+Item(by='pfortuny', descendants=None, kids=[25082983], score=None, time=1605251907, title=None, item_type='comment', url=None, parent=25075470, text='So, yes: they do depend on the local (to the user) availability of that service. So they depend on that.')

@@ -1,1 +1,1 @@
-Item(by='rasz', descendants=None, kids=None, score=None, time=1605261256, title=None, item_type='comment', url=None, parent=25073789, text='You can play PC GTA San Andreas at &gt;60 fps on a 10 year old laptop pulled from a dumpster.')
+Item(by='rasz', descendants=None, kids=[25082997], score=None, time=1605261256, title=None, item_type='comment', url=None, parent=25073789, text='You can play PC GTA San Andreas at &gt;60 fps on a 10 year old laptop pulled from a dumpster.')

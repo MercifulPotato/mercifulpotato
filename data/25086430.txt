@@ -1,0 +1,1 @@
+Item(by='throwaway2048', descendants=None, kids=None, score=None, time=1605296102, title=None, item_type='comment', url=None, parent=25085671, text='As I understand it, ssh &quot;unwraps&quot; the TCP stream back into a regular byte stream, then sends that, and reconstitutes it back into TCP packets on the other end.')

@@ -1,1 +1,1 @@
-Item(by='Gorbzel', descendants=None, kids=None, score=None, time=1605275872, title=None, item_type='comment', url=None, parent=25081110, text='Completely unfounded speculation on your part does not make other’s beliefs baffling.')
+Item(by='Gorbzel', descendants=None, kids=[25084859], score=None, time=1605275872, title=None, item_type='comment', url=None, parent=25081110, text='Completely unfounded speculation on your part does not make other’s beliefs baffling.')

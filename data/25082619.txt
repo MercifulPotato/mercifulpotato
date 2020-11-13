@@ -1,0 +1,1 @@
+Item(by='HelloNurse', descendants=None, kids=None, score=None, time=1605278444, title=None, item_type='comment', url=None, parent=25081238, text='No, it&#x27;s completely different: dict1+dict2 creates a new object and leaves inputs unchanged, dict1.update(dict2) modifies dict1.')

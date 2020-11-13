@@ -1,1 +1,1 @@
-Item(by='sliken', descendants=None, kids=None, score=None, time=1605223299, title=None, item_type='comment', url=None, parent=25075747, text='Sorry, not on Ubuntu.  It&#x27;s easy to check, compile a binary, run it, and use wireshark to watch your uplink.')
+Item(by='sliken', descendants=None, kids=[25082493], score=None, time=1605223299, title=None, item_type='comment', url=None, parent=25075747, text='Sorry, not on Ubuntu.  It&#x27;s easy to check, compile a binary, run it, and use wireshark to watch your uplink.')

@@ -1,1 +1,1 @@
-Item(by='wmf', descendants=None, kids=[25074207], score=None, time=1605211054, title=None, item_type='comment', url=None, parent=25074074, text='No, I&#x27;ve seen no evidence of this. Docker Desktop does not work [on Apple Silicon] in any form today.')
+Item(by='wmf', descendants=None, kids=[25074207, 25084346], score=None, time=1605211054, title=None, item_type='comment', url=None, parent=25074074, text='No, I&#x27;ve seen no evidence of this. Docker Desktop does not work [on Apple Silicon] in any form today.')

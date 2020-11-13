@@ -1,0 +1,1 @@
+Item(by='lmilcin', descendants=None, kids=[25083524], score=None, time=1605281764, title=None, item_type='comment', url=None, parent=25082916, text='You don&#x27;t even need a database. A Bloom filter would be very compact, easy to check, would not divulge any extra information and could adequately store hashes for orders of magnitude more apps.')

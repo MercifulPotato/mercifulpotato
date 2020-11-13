@@ -1,0 +1,1 @@
+Item(by='bonzini', descendants=None, kids=[25087151], score=None, time=1605295668, title=None, item_type='comment', url=None, parent=25085431, text='UDP is treated fairly well by firewalls... at least compared to SCTP for example. QUIC&#x2F;HTTP3 are UDP-based and even though there&#x27;s usually a TCP&#x2F;HTTP2 fallback they fare reasonably well.')

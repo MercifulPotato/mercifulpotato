@@ -1,0 +1,1 @@
+Item(by='FabHK', descendants=None, kids=None, score=None, time=1605293970, title=None, item_type='comment', url=None, parent=25074237, text='Hardware problem, or just no sound? \nI&#x27;ve found that force-quitting `coreaudiod` would fix missing sound.')

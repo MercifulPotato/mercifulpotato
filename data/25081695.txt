@@ -1,1 +1,1 @@
-Item(by='noahnu', descendants=0, kids=None, score=1, time=1605272446, title='Open source pytest snapshot testing plugin', item_type='story', url='https://medium.com/top-hat-engineering/syrupy-the-sweeter-pytest-snapshot-library-a7accb8ab7da', parent=None, text=None)
+Item(by='noahnu', descendants=1, kids=[25086213], score=3, time=1605272446, title='Open source pytest snapshot testing plugin', item_type='story', url='https://medium.com/top-hat-engineering/syrupy-the-sweeter-pytest-snapshot-library-a7accb8ab7da', parent=None, text=None)

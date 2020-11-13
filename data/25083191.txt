@@ -1,0 +1,1 @@
+Item(by='crazygringo', descendants=None, kids=[25083362, 25083706, 25085457], score=None, time=1605281084, title=None, item_type='comment', url=None, parent=25080693, text='Fascinating.<p>So then how to VPN&#x27;s work performantly?<p>I&#x27;d always assumed my VPN implemented TCP and UDP <i>over</i> a TCP connection. Do they not? Is the VPN connection actually just UDP?')

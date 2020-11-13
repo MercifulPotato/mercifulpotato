@@ -1,1 +1,1 @@
-Item(by='Benjamin_Dobell', descendants=None, kids=None, score=None, time=1605271078, title=None, item_type='comment', url=None, parent=25081390, text='<a href="https:&#x2F;&#x2F;hnreplies.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;hnreplies.com&#x2F;</a>')
+Item(by='Benjamin_Dobell', descendants=None, kids=[25082646], score=None, time=1605271078, title=None, item_type='comment', url=None, parent=25081390, text='<a href="https:&#x2F;&#x2F;hnreplies.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;hnreplies.com&#x2F;</a>')

@@ -1,1 +1,1 @@
-Item(by='yxhuvud', descendants=None, kids=None, score=None, time=1605272651, title=None, item_type='comment', url=None, parent=25078506, text='Perhaps it is a sign the project is too large and need to be broken up in more manageable parts?')
+Item(by='yxhuvud', descendants=None, kids=[25082802], score=None, time=1605272651, title=None, item_type='comment', url=None, parent=25078506, text='Perhaps it is a sign the project is too large and need to be broken up in more manageable parts?')

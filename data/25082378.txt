@@ -1,0 +1,1 @@
+Item(by='markonen', descendants=None, kids=[25085509], score=None, time=1605277236, title=None, item_type='comment', url=None, parent=25079288, text='More likely than not, those servers are at AWS. And if that&#x27;s the case, once all the components have ARM images the server instances can be switched over to the M6g instance type for significant cost savings.')

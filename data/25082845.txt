@@ -1,0 +1,1 @@
+Item(by='Someone', descendants=None, kids=None, score=None, time=1605279422, title=None, item_type='comment', url=None, parent=25082589, text='A module, by definition, is a singleton (for parametrized modules, a “once per type” object)<p>C has (unparametrized) modules, calling them “compilation unit”.')

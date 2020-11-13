@@ -1,0 +1,1 @@
+Item(by='pdpi', descendants=None, kids=[25083758, 25083696, 25084950, 25083719], score=None, time=1605282906, title=None, item_type='comment', url=None, parent=25083318, text='A bloom filter would also have a non-zero probability to produce false positives, which I don’t think is acceptable at all.')

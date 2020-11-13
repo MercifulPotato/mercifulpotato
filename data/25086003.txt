@@ -1,0 +1,1 @@
+Item(by='xav0989', descendants=None, kids=[25086217], score=None, time=1605293870, title=None, item_type='comment', url=None, parent=25083362, text='Doesn&#x27;t IPSec operate at the same level as TCP&#x2F;UDP?<p>TCP is protocol 6, UDP protocol 17; while IPsec uses protocol 50 for ESP (encrypted) and 51 for AH (authenticated).')

@@ -1,0 +1,1 @@
+Item(by='jnwatson', descendants=None, kids=None, score=None, time=1605285570, title=None, item_type='comment', url=None, parent=25073960, text='Production deployment is Docker all the time.<p>Deployment for development is just pyenv and virtualenv.')

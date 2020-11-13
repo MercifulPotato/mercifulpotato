@@ -1,0 +1,1 @@
+Item(by='wmf', descendants=None, kids=None, score=None, time=1605283895, title=None, item_type='comment', url=None, parent=25067438, text='Intel and AMD theoretically also support zero-copy but I wonder if it gets used in reality since most apps are probably optimized for discrete GPUs.')

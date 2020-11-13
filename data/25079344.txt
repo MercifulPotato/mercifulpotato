@@ -1,1 +1,1 @@
-Item(by='tshaddox', descendants=None, kids=None, score=None, time=1605246744, title=None, item_type='comment', url=None, parent=25078628, text='I’m not dismissing it, just pointing out that it’s completely ancillary to a bug that causes programs to crash.')
+Item(by='tshaddox', descendants=None, kids=[25082167], score=None, time=1605246744, title=None, item_type='comment', url=None, parent=25078628, text='I’m not dismissing it, just pointing out that it’s completely ancillary to a bug that causes programs to crash.')

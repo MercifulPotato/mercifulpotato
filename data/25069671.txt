@@ -1,1 +1,1 @@
-Item(by='privong', descendants=0, kids=None, score=6, time=1605188230, title="Apple wants privacy 'nutrition labels' on all new and updated apps", item_type='story', url='https://www.theregister.com/2020/11/06/apple_privacy_advice/', parent=None, text=None)
+Item(by='privong', descendants=1, kids=[25083465], score=8, time=1605188230, title="Apple wants privacy 'nutrition labels' on all new and updated apps", item_type='story', url='https://www.theregister.com/2020/11/06/apple_privacy_advice/', parent=None, text=None)

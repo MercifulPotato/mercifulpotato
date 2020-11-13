@@ -1,0 +1,1 @@
+Item(by='synack', descendants=None, kids=[25083885], score=None, time=1605280213, title=None, item_type='comment', url=None, parent=25082924, text='I&#x27;m curious why the author chose to use gcc 5.4.0 for the code size benchmark. Do older gcc versions generate smaller code?')

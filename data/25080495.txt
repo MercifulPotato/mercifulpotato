@@ -1,1 +1,1 @@
-Item(by='radicalbyte', descendants=None, kids=None, score=None, time=1605258304, title=None, item_type='comment', url=None, parent=25077923, text='Dell XPS have an option for a fantastic 4K screen. After calibration it&#x27;s better than the Retina screen on my 2013 MBP.')
+Item(by='radicalbyte', descendants=None, kids=[25086096, 25082553], score=None, time=1605258304, title=None, item_type='comment', url=None, parent=25077923, text='Dell XPS have an option for a fantastic 4K screen. After calibration it&#x27;s better than the Retina screen on my 2013 MBP.')

@@ -1,0 +1,1 @@
+Item(by='cercatrova', descendants=None, kids=None, score=None, time=1605287910, title=None, item_type='comment', url=None, parent=25084280, text='Sounds like PowerShell to me, each part isn&#x27;t text but its own object that every other script can manipulate.')

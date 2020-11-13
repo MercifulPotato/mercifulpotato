@@ -1,0 +1,1 @@
+Item(by='pklausler', descendants=None, kids=[25086188], score=None, time=1605294605, title=None, item_type='comment', url=None, parent=25085431, text='You meant it should <i>not</i> ack (like UDP doesn&#x27;t), <i>not</i> retransmit (like UDP doesn&#x27;t), and perform no flow&#x2F;congestion control (like UDP doesn&#x27;t), yes?')

@@ -1,1 +1,1 @@
-Item(by='loopz', descendants=None, kids=None, score=None, time=1605257224, title=None, item_type='comment', url=None, parent=25077683, text='Maybe there should be!')
+Item(by='loopz', descendants=None, kids=[25083006], score=None, time=1605257224, title=None, item_type='comment', url=None, parent=25077683, text='Maybe there should be!')

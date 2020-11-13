@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1605277026, title=None, item_type='comment', url=None, parent=25082202, text='&gt;Is it not somehow possible in to disable retranmission requests in the upper layer<p>...or just use UDP?')
+Item(by='gruez', descendants=None, kids=[25083185], score=None, time=1605277026, title=None, item_type='comment', url=None, parent=25082202, text='&gt;Is it not somehow possible in to disable retranmission requests in the upper layer<p>...or just use UDP?')

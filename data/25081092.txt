@@ -1,1 +1,1 @@
-Item(by='alex_duf', descendants=None, kids=None, score=None, time=1605265361, title=None, item_type='comment', url=None, parent=25075213, text='Qwant is a completely independent search engine though, as far as I&#x27;m aware it&#x27;s not using Bing underneath the hood anymore')
+Item(by='alex_duf', descendants=None, kids=[25083173], score=None, time=1605265361, title=None, item_type='comment', url=None, parent=25075213, text='Qwant is a completely independent search engine though, as far as I&#x27;m aware it&#x27;s not using Bing underneath the hood anymore')

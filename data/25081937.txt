@@ -1,1 +1,1 @@
-Item(by='mef', descendants=0, kids=None, score=1, time=1605274414, title='Installing every PyPI package to find malicious code', item_type='story', url='https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/', parent=None, text=None)
+Item(by='mef', descendants=10, kids=[25085038, 25083234, 25084520, 25083424, 25084799], score=97, time=1605274414, title='Hunting for Malicious Packages on PyPI', item_type='story', url='https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/', parent=None, text=None)

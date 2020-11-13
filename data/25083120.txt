@@ -1,0 +1,1 @@
+Item(by='ledbettj', descendants=None, kids=[25083251], score=None, time=1605280745, title=None, item_type='comment', url=None, parent=25076889, text='librsvg uses cairo under the hood to actually draw things, at least at the moment.')

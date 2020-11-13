@@ -1,1 +1,1 @@
-Item(by='Thorrez', descendants=None, kids=None, score=None, time=1605255862, title=None, item_type='comment', url=None, parent=25078014, text='Isn&#x27;t it possible that if more people are aware of their unconscious bias they might be able to counteract some of that bias?')
+Item(by='Thorrez', descendants=None, kids=[25083106], score=None, time=1605255862, title=None, item_type='comment', url=None, parent=25078014, text='Isn&#x27;t it possible that if more people are aware of their unconscious bias they might be able to counteract some of that bias?')

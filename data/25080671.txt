@@ -1,1 +1,1 @@
-Item(by='grishka', descendants=None, kids=None, score=None, time=1605260306, title=None, item_type='comment', url=None, parent=25080480, text='It&#x27;s gonna be a full-fledged pirate ship with big-ass cannons then.')
+Item(by='grishka', descendants=None, kids=[25083810, 25083397], score=None, time=1605260306, title=None, item_type='comment', url=None, parent=25080480, text='It&#x27;s gonna be a full-fledged pirate ship with big-ass cannons then.')

@@ -1,1 +1,1 @@
-Item(by='damm', descendants=None, kids=None, score=None, time=1605241697, title=None, item_type='comment', url=None, parent=25072948, text='and no USB Security key support like Yubikey for U2F&#x2F;FIDO.')
+Item(by='damm', descendants=None, kids=[25083233], score=None, time=1605241697, title=None, item_type='comment', url=None, parent=25072948, text='and no USB Security key support like Yubikey for U2F&#x2F;FIDO.')

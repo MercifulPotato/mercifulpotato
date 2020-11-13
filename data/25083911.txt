@@ -1,0 +1,1 @@
+Item(by='x1798DE', descendants=None, kids=None, score=None, time=1605284843, title=None, item_type='comment', url=None, parent=25083796, text='You are correct that installing a wheel doesn&#x27;t execute arbitrary code.<p>If you use `--only-binary :all:`, that is equivalent to --wheels-only. Though not all packages ship wheels')

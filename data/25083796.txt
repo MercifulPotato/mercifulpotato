@@ -1,0 +1,1 @@
+Item(by='pletnes', descendants=None, kids=[25083911], score=None, time=1605284280, title=None, item_type='comment', url=None, parent=25083424, text='The author refers to install time, not build time.<p>I thought pip did not run code when installing .whl files? A —-wheels-only option would then be useful.')

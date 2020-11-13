@@ -1,0 +1,1 @@
+Item(by='0xCMP', descendants=None, kids=None, score=None, time=1605288981, title=None, item_type='comment', url=None, parent=25083524, text='The ideal design would be using the bloom filter to reduce remote checks and check any positives for confirmation if the remote service is available.')

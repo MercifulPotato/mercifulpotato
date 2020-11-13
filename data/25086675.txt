@@ -1,0 +1,1 @@
+Item(by='diggan', descendants=None, kids=None, score=None, time=1605297439, title=None, item_type='comment', url=None, parent=25085802, text='While that would work for most text transfers (or otherwise low-bandwidth usage), many other use cases would be near impossible to get to work with good performance over Tor. Think video hosting and similar.')

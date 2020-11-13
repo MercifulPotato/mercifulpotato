@@ -1,1 +1,1 @@
-Item(by='lukasfischer', descendants=None, kids=None, score=None, time=1605254390, title=None, item_type='comment', url=None, parent=25071993, text='Would you agree on a 10% App Store fee? Or 15%? Or 5%?')
+Item(by='lukasfischer', descendants=None, kids=[25085637], score=None, time=1605254390, title=None, item_type='comment', url=None, parent=25071993, text='Would you agree on a 10% App Store fee? Or 15%? Or 5%?')

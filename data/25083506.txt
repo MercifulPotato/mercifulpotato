@@ -1,0 +1,1 @@
+Item(by='jandrese', descendants=None, kids=[25085185], score=None, time=1605282809, title=None, item_type='comment', url=None, parent=25082202, text='The problem is that the retransmissions are handled by your TCP stack, which lives outside of your program.  You are basically asking TCP to not be TCP at this point, so the easiest solution is to just use UDP instead.')

@@ -1,1 +1,1 @@
-Item(by='XCSme', descendants=None, kids=None, score=None, time=1605273302, title=None, item_type='comment', url=None, parent=25079587, text='I tried Evernote on Windows, it was so much buggier and slower than the browser web app, it was really unusable.')
+Item(by='XCSme', descendants=None, kids=[25083742], score=None, time=1605273302, title=None, item_type='comment', url=None, parent=25079587, text='I tried Evernote on Windows, it was so much buggier and slower than the browser web app, it was really unusable.')
