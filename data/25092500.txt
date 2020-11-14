@@ -1,0 +1,1 @@
+Item(by='Ingon', descendants=None, kids=None, score=None, time=1605364477, title=None, item_type='comment', url=None, parent=25090446, text='The other day, I was considering a mix of these - ddl&#x2F;dml as a serialization&#x2F;synchronization format, which gets processed locally to form a sqlite db. Then use rad tools, to craft custom UI for your needs.')

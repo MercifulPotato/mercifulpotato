@@ -1,0 +1,1 @@
+Item(by='unsigner', descendants=None, kids=[25093026], score=None, time=1605368146, title=None, item_type='comment', url=None, parent=25091538, text='You can still compile for x64 (by default Xcode produces fat binaries), and do some testing via Rosetta.')

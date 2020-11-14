@@ -1,1 +1,1 @@
-Item(by='dewey', descendants=None, kids=None, score=None, time=1605357025, title=None, item_type='comment', url=None, parent=25088913, text='Not sure if OP is the developer but if you are: The about page has a lot of CSS issues, footer overlapping and images scaled wrongly.')
+Item(by='dewey', descendants=None, kids=[25092497], score=None, time=1605357025, title=None, item_type='comment', url=None, parent=25088913, text='Not sure if OP is the developer but if you are: The about page has a lot of CSS issues, footer overlapping and images scaled wrongly.')

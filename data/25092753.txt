@@ -1,0 +1,1 @@
+Item(by='0x445442', descendants=None, kids=None, score=None, time=1605367107, title=None, item_type='comment', url=None, parent=25092212, text='Yeah, microservices should be about addressing horizonal scaling and runtime resource constraint issues, not about collaborative programming issues. We have things like modules, packages and coding standards for the latter.')

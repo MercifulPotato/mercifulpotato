@@ -1,1 +1,1 @@
-Item(by='mongol', descendants=None, kids=None, score=None, time=1605163073, title=None, item_type='comment', url=None, parent=25066902, text='Started to use it recently too, like it a lot. Before that I tried Jellyfin, was also good.')
+Item(by='mongol', descendants=None, kids=[25092861], score=None, time=1605163073, title=None, item_type='comment', url=None, parent=25066902, text='Started to use it recently too, like it a lot. Before that I tried Jellyfin, was also good.')

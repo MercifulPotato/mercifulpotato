@@ -1,1 +1,1 @@
-Item(by='civilized', descendants=None, kids=None, score=None, time=1605307700, title=None, item_type='comment', url=None, parent=25088432, text='&quot;Eat the rich&quot; isn&#x27;t that, no')
+Item(by='civilized', descendants=None, kids=[25093954], score=None, time=1605307700, title=None, item_type='comment', url=None, parent=25088432, text='&quot;Eat the rich&quot; isn&#x27;t that, no')

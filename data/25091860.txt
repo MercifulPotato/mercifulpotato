@@ -1,1 +1,1 @@
-Item(by='jrepinc', descendants=0, kids=None, score=12, time=1605356167, title='GNUnet 0.14.0', item_type='story', url='https://gnunet.org/en/news/2020-11-0.14.0.html', parent=None, text=None)
+Item(by='jrepinc', descendants=9, kids=[25093089, 25092823, 25094782, 25092130, 25092787], score=80, time=1605356167, title='GNUnet 0.14.0', item_type='story', url='https://gnunet.org/en/news/2020-11-0.14.0.html', parent=None, text=None)

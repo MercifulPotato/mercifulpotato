@@ -1,1 +1,1 @@
-Item(by='detaro', descendants=None, kids=None, score=None, time=1605339589, title=None, item_type='comment', url=None, parent=25090838, text='It&#x27;s a completely different project, so why wouldn&#x27;t it be under different constraints, e.g. funding-wise?')
+Item(by='detaro', descendants=None, kids=[25093047], score=None, time=1605339589, title=None, item_type='comment', url=None, parent=25090838, text='It&#x27;s a completely different project, so why wouldn&#x27;t it be under different constraints, e.g. funding-wise?')

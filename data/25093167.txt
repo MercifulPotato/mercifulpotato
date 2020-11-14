@@ -1,0 +1,1 @@
+Item(by='Shorel', descendants=None, kids=None, score=None, time=1605370346, title=None, item_type='comment', url=None, parent=25088827, text='A decade ago I wrote some Lisp code that generated C++ code with something similar.<p>It was completely inadequate, I would use SQLite now for the same. But it was very fun to write.')

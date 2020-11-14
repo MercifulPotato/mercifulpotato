@@ -1,0 +1,1 @@
+Item(by='rowanG077', descendants=None, kids=None, score=None, time=1605380645, title=None, item_type='comment', url=None, parent=25093176, text='It&#x27;s not temporal interpolation. It&#x27;s using data from different frame(s) to fill in the current frame. It&#x27;s not interpolation at all. It&#x27;s using a different accurate data source to augment another.')

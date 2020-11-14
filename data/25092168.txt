@@ -1,1 +1,1 @@
-Item(by='floatboth', descendants=None, kids=None, score=None, time=1605360496, title=None, item_type='comment', url=None, parent=25091533, text='That&#x27;s just someone&#x27;s opinion&#x2F;prediction. I don&#x27;t have to agree with it :)')
+Item(by='floatboth', descendants=None, kids=[25094588], score=None, time=1605360496, title=None, item_type='comment', url=None, parent=25091533, text='That&#x27;s just someone&#x27;s opinion&#x2F;prediction. I don&#x27;t have to agree with it :)')

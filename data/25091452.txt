@@ -1,1 +1,1 @@
-Item(by='bartvk', descendants=None, kids=None, score=None, time=1605350778, title=None, item_type='comment', url=None, parent=25091164, text='I&#x27;m not US based either but support is available online as well.')
+Item(by='bartvk', descendants=None, kids=[25094816], score=None, time=1605350778, title=None, item_type='comment', url=None, parent=25091164, text='I&#x27;m not US based either but support is available online as well.')

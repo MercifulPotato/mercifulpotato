@@ -1,0 +1,1 @@
+Item(by='sreevisakh', descendants=None, kids=None, score=None, time=1605381148, title=None, item_type='comment', url=None, parent=25093640, text='The authentication service should ideally be under the control of the user. At least, the user should be able to choose one that they trust. I doubt it&#x27;s an accident that current authentication systems lack that choice.')

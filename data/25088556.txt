@@ -1,1 +1,1 @@
-Item(by='ndesaulniers', descendants=None, kids=None, score=None, time=1605308240, title=None, item_type='comment', url=None, parent=25086564, text='Looks like there&#x27;s interesting &quot;offscreen&quot; optimizations that might need to be re-implemented for M1, IIUC.')
+Item(by='ndesaulniers', descendants=None, kids=[25092901], score=None, time=1605308240, title=None, item_type='comment', url=None, parent=25086564, text='Looks like there&#x27;s interesting &quot;offscreen&quot; optimizations that might need to be re-implemented for M1, IIUC.')

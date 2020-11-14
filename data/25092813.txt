@@ -1,0 +1,1 @@
+Item(by='pydry', descendants=None, kids=None, score=None, time=1605367593, title=None, item_type='comment', url=None, parent=25091988, text='That&#x27;s a nice idea in theory but making something Turing complete with loops and conditionals etc. simply can&#x27;t have the same low cognitive cost as decent languages which do not have such features.')

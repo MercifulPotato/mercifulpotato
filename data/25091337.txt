@@ -1,1 +1,1 @@
-Item(by='lucasverra', descendants=None, kids=None, score=None, time=1605348957, title=None, item_type='comment', url=None, parent=25070917, text='what&#x27;s the pitch vs an airtable wich i already use ?')
+Item(by='lucasverra', descendants=None, kids=[25092461], score=None, time=1605348957, title=None, item_type='comment', url=None, parent=25070917, text='what&#x27;s the pitch vs an airtable wich i already use ?')

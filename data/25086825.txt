@@ -1,1 +1,1 @@
-Item(by='wallflower', descendants=0, kids=None, score=2, time=1605298024, title='Small Copy, Big Impact', item_type='story', url='https://steamclock.com/blog/2020/10/microcopy/', parent=None, text=None)
+Item(by='wallflower', descendants=1, kids=[25093137], score=11, time=1605298024, title='Small Copy, Big Impact', item_type='story', url='https://steamclock.com/blog/2020/10/microcopy/', parent=None, text=None)

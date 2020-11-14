@@ -1,1 +1,1 @@
-Item(by='IceWreck', descendants=None, kids=None, score=None, time=1605354919, title=None, item_type='comment', url=None, parent=25088913, text='Does this have any advantage over the official a tour of go ?')
+Item(by='IceWreck', descendants=None, kids=[25092849], score=None, time=1605354919, title=None, item_type='comment', url=None, parent=25088913, text='Does this have any advantage over the official a tour of go ?')

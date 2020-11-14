@@ -1,0 +1,1 @@
+Item(by='nneonneo', descendants=None, kids=None, score=None, time=1605378109, title=None, item_type='comment', url=None, parent=25093288, text='FWIW, it <i>does</i> work on Windows 95 (at least in QEMU). Old builds of Windows 95 might need msvcrt.DLL, but that’s it as far as dependencies go. It did require a custom build of libSDL with a few tweaks.')

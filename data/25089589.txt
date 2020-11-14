@@ -1,1 +1,1 @@
-Item(by='xelxebar', descendants=None, kids=None, score=None, time=1605318308, title=None, item_type='comment', url=None, parent=25087010, text='Hello from a fellow TAMSter!')
+Item(by='xelxebar', descendants=None, kids=[25094670], score=None, time=1605318308, title=None, item_type='comment', url=None, parent=25087010, text='Hello from a fellow TAMSter!')

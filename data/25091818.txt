@@ -1,1 +1,1 @@
-Item(by='Fnoord', descendants=None, kids=None, score=None, time=1605355563, title=None, item_type='comment', url=None, parent=25091657, text='Doesn&#x27;t work on Firefox Android. I never go to Reddit by typing URL; I go to Reddit because I follow a link to it.')
+Item(by='Fnoord', descendants=None, kids=[25092432, 25092479], score=None, time=1605355563, title=None, item_type='comment', url=None, parent=25091657, text='Doesn&#x27;t work on Firefox Android. I never go to Reddit by typing URL; I go to Reddit because I follow a link to it.')

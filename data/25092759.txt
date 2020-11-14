@@ -1,0 +1,1 @@
+Item(by='simonw', descendants=None, kids=[25093052], score=None, time=1605367150, title=None, item_type='comment', url=None, parent=25091046, text='Have you tried Tailscale? It uses WireGuard to setup a secure mesh network between your devices that punches through NAT, and it is incredibly easy to setup.')

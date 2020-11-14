@@ -1,1 +1,1 @@
-Item(by='orbital-decay', descendants=None, kids=None, score=None, time=1605357961, title=None, item_type='comment', url=None, parent=25091721, text='Which is inevitable, I guess. If it can be abused to make complex systems, it will be abused.')
+Item(by='orbital-decay', descendants=None, kids=[25092794], score=None, time=1605357961, title=None, item_type='comment', url=None, parent=25091721, text='Which is inevitable, I guess. If it can be abused to make complex systems, it will be abused.')

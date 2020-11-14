@@ -1,1 +1,1 @@
-Item(by='charrondev', descendants=None, kids=None, score=None, time=1605359696, title=None, item_type='comment', url=None, parent=25092064, text='Very happy to have them gone myself. Somehow I don’t have any difficulty grabbing a part of the app and moving it.')
+Item(by='charrondev', descendants=None, kids=[25092140], score=None, time=1605359696, title=None, item_type='comment', url=None, parent=25092064, text='Very happy to have them gone myself. Somehow I don’t have any difficulty grabbing a part of the app and moving it.')
