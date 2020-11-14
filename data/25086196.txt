@@ -1,1 +1,1 @@
-Item(by='jonplackett', descendants=None, kids=None, score=None, time=1605294927, title=None, item_type='comment', url=None, parent=25085480, text='So the surgical mask, the only one actually designed for a medical use, is good at filtering. Who knew!')
+Item(by='jonplackett', descendants=None, kids=[25086605, 25087121], score=None, time=1605294927, title=None, item_type='comment', url=None, parent=25085480, text='So the surgical mask, the only one actually designed for a medical use, is good at filtering. Who knew!')

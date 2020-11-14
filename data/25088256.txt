@@ -1,0 +1,1 @@
+Item(by='jeff-davis', descendants=None, kids=None, score=None, time=1605306214, title=None, item_type='comment', url=None, parent=25087130, text='Unix uses <i>byte</i> streams, not <i>text</i> streams for stdout&#x2F;stdin. It can contain embedded zero bytes, so it&#x27;s not even like a C string.')

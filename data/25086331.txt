@@ -1,1 +1,1 @@
-Item(by='cs2818', descendants=None, kids=None, score=None, time=1605295567, title=None, item_type='comment', url=None, parent=25083929, text='There are dozens of us! I took Cal 2 and 3 from him.')
+Item(by='cs2818', descendants=None, kids=[25089636], score=None, time=1605295567, title=None, item_type='comment', url=None, parent=25083929, text='There are dozens of us! I took Cal 2 and 3 from him.')

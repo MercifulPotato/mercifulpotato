@@ -1,1 +1,1 @@
-Item(by='jmoss20', descendants=None, kids=None, score=None, time=1605298958, title=None, item_type='comment', url=None, parent=25086291, text='Can you say more?  Is there a thermodynamic interpretation of, say, the Halting problem?  (Or P vs. NP?)')
+Item(by='jmoss20', descendants=None, kids=[25087724, 25088503], score=None, time=1605298958, title=None, item_type='comment', url=None, parent=25086291, text='Can you say more?  Is there a thermodynamic interpretation of, say, the Halting problem?  (Or P vs. NP?)')

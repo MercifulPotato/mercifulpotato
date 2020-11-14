@@ -1,1 +1,1 @@
-Item(by='bytematic', descendants=None, kids=None, score=None, time=1605286990, title=None, item_type='comment', url=None, parent=25083839, text='Never order just 1 thing if you are getting delivery. That will never make sense for delivery of any item. Same applies for grocery.')
+Item(by='bytematic', descendants=None, kids=[25088296], score=None, time=1605286990, title=None, item_type='comment', url=None, parent=25083839, text='Never order just 1 thing if you are getting delivery. That will never make sense for delivery of any item. Same applies for grocery.')

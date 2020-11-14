@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=2, time=1605152055, title='Implicit Semicolons (Crafting Interpreters)', item_type='story', url='http://www.craftinginterpreters.com/scanning.html#design-note', parent=None, text=None)
+Item(by='tosh', descendants=17, kids=[25088295, 25089303, 25087351, 25087250, 25088889, 25088875, 25088385, 25088301, 25088846], score=27, time=1605152055, title='Design Note: Implicit Semicolons (2017)', item_type='story', url='http://www.craftinginterpreters.com/scanning.html#design-note', parent=None, text=None)

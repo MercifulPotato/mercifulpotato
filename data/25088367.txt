@@ -1,0 +1,1 @@
+Item(by='WJW', descendants=None, kids=[25089024], score=None, time=1605306871, title=None, item_type='comment', url=None, parent=25087810, text='A really underappreciated part of Haskell is innovation in things other than the type system. Linear types is one of them, but STM and lightweight threading were in Haskell long before they became popular in other languages.')

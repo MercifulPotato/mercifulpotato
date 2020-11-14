@@ -1,1 +1,1 @@
-Item(by='ryanjadhav', descendants=None, kids=None, score=None, time=1605285862, title=None, item_type='comment', url=None, parent=25083851, text='Better than IPO price, market cap is 82B+ today.')
+Item(by='ryanjadhav', descendants=None, kids=[25088249, 25087761], score=None, time=1605285862, title=None, item_type='comment', url=None, parent=25083851, text='Better than IPO price, market cap is 82B+ today.')

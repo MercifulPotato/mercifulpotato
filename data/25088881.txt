@@ -1,0 +1,1 @@
+Item(by='ChickeNES', descendants=None, kids=None, score=None, time=1605310851, title=None, item_type='comment', url=None, parent=25081481, text='I actually just dumped VSCode and went back to Neovim+extensions. I grew tired of node processes running in the background chewing up CPU and RAM even when I had it minimized, not to mention general flakiness.')

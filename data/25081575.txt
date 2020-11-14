@@ -1,1 +1,1 @@
-Item(by='jagged-chisel', descendants=None, kids=None, score=None, time=1605271485, title=None, item_type='comment', url=None, parent=25081045, text='I don&#x27;t think Apple would object to everyone dropping Macs and buying just iPads.')
+Item(by='jagged-chisel', descendants=None, kids=[25089703], score=None, time=1605271485, title=None, item_type='comment', url=None, parent=25081045, text='I don&#x27;t think Apple would object to everyone dropping Macs and buying just iPads.')

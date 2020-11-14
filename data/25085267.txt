@@ -1,1 +1,1 @@
-Item(by='bhickey', descendants=None, kids=None, score=None, time=1605290349, title=None, item_type='comment', url=None, parent=25084320, text='You and I could conquer Sealand next week if we really wanted to.')
+Item(by='bhickey', descendants=None, kids=[25089540], score=None, time=1605290349, title=None, item_type='comment', url=None, parent=25084320, text='You and I could conquer Sealand next week if we really wanted to.')

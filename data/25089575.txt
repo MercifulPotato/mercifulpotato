@@ -1,0 +1,1 @@
+Item(by='MauranKilom', descendants=None, kids=None, score=None, time=1605318195, title=None, item_type='comment', url=None, parent=25079989, text='You could just rebase on top of a new initial commit, no? Might lose some metadata but this otherwise does exactly what you asked for...')

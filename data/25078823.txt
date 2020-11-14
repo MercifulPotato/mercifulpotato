@@ -1,1 +1,1 @@
-Item(by='cyral', descendants=None, kids=None, score=None, time=1605241121, title=None, item_type='comment', url=None, parent=25078464, text='It’s inaccessible in the sense that most devs don’t have Macs')
+Item(by='cyral', descendants=None, kids=[25089352], score=None, time=1605241121, title=None, item_type='comment', url=None, parent=25078464, text='It’s inaccessible in the sense that most devs don’t have Macs')

@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1605299968, title=None, item_type='comment', url=None, parent=25086182, text='Nope, reference counting is a GC algorithm, and having a tracing GC doesn&#x27;t preclude other forms of memory management, e.g. D or .NET Native.')

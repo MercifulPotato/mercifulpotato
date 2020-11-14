@@ -1,0 +1,1 @@
+Item(by='wokkel', descendants=None, kids=[25089974], score=None, time=1605307412, title=None, item_type='comment', url=None, parent=25087914, text='The game also allows multiplayer (I&#x27;ve seen 500+ players on a server). That requires some really strong consistency guarantees that you loose by adding threads.')

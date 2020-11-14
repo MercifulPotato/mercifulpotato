@@ -1,0 +1,1 @@
+Item(by='zerocrates', descendants=None, kids=[25088811], score=None, time=1605310169, title=None, item_type='comment', url=None, parent=25088269, text='Disabling OCSP (I believe you have a typo in your hosts file suggestion, by the way) presumably doesn&#x27;t actually disable notarization, just the OCSP (checking for revoked certificates) part of that process.')

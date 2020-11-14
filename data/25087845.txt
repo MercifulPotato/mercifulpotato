@@ -1,0 +1,1 @@
+Item(by='0xquad', descendants=None, kids=[25089464, 25089474, 25089771], score=None, time=1605303782, title=None, item_type='comment', url=None, parent=25086519, text='Is there a database of already analyzed objects?  For example, can I search on the sha256sum of my IoT device&#x27;s firmware and see if someone else has done the heavy lifting?')

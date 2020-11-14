@@ -1,1 +1,1 @@
-Item(by='judge2020', descendants=None, kids=None, score=None, time=1605299515, title=None, item_type='comment', url=None, parent=25086986, text='Seems like that might just be due to the logistics of getting them across the ocean and through a port.')
+Item(by='judge2020', descendants=None, kids=[25087759], score=None, time=1605299515, title=None, item_type='comment', url=None, parent=25086986, text='Seems like that might just be due to the logistics of getting them across the ocean and through a port.')

@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=3, time=1605039801, title='Naming Law', item_type='story', url='https://en.wikipedia.org/wiki/Naming_law', parent=None, text=None)
+Item(by='tosh', descendants=19, kids=[25089215, 25088892, 25089138], score=14, time=1605039801, title='Naming Law', item_type='story', url='https://en.wikipedia.org/wiki/Naming_law', parent=None, text=None)

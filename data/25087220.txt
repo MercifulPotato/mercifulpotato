@@ -1,1 +1,1 @@
-Item(by='exolymph', descendants=None, kids=None, score=None, time=1605300102, title=None, item_type='comment', url=None, parent=25087065, text='That worked out so well for Stalin.')
+Item(by='exolymph', descendants=None, kids=[25087329], score=None, time=1605300102, title=None, item_type='comment', url=None, parent=25087065, text='That worked out so well for Stalin.')
