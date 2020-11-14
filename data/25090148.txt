@@ -1,0 +1,1 @@
+Item(by='gwbas1c', descendants=None, kids=None, score=None, time=1605325811, title=None, item_type='comment', url=None, parent=25083318, text='Is a bloom filter mutable? Can I make incremental changes to sync it? Or, do I have to download a new one every time?')

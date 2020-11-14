@@ -1,1 +1,1 @@
-Item(by='stopachka', descendants=0, kids=None, score=12, time=1605295232, title='Simulating RAM in Clojure', item_type='story', url='https://stopa.io/post/258', parent=None, text=None)
+Item(by='stopachka', descendants=9, kids=[25090890, 25090862, 25089825, 25090927, 25089819], score=85, time=1605295232, title='Simulating RAM in Clojure', item_type='story', url='https://stopa.io/post/258', parent=None, text=None)

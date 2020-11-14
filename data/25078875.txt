@@ -1,1 +1,1 @@
-Item(by='greggman3', descendants=None, kids=None, score=None, time=1605241646, title=None, item_type='comment', url=None, parent=25074148, text='yes but of course it only runs on apple devices. I use all OSes so I prefer a browser that syncs across all of them')
+Item(by='greggman3', descendants=None, kids=[25090007], score=None, time=1605241646, title=None, item_type='comment', url=None, parent=25074148, text='yes but of course it only runs on apple devices. I use all OSes so I prefer a browser that syncs across all of them')

@@ -1,1 +1,1 @@
-Item(by='the-smug-one', descendants=None, kids=None, score=None, time=1605312311, title=None, item_type='comment', url=None, parent=25088367, text='That is technically correct, but green threads were available in Java 1.1 :). They just weren&#x27;t popular enough (I guess).')
+Item(by='the-smug-one', descendants=None, kids=[25090756], score=None, time=1605312311, title=None, item_type='comment', url=None, parent=25088367, text='That is technically correct, but green threads were available in Java 1.1 :). They just weren&#x27;t popular enough (I guess).')

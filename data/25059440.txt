@@ -1,1 +1,1 @@
-Item(by='joshlk', descendants=20, kids=[25059456, 25061048, 25064263, 25060695, 25061918], score=45, time=1605110616, title='Show HN: Dead easy Python for executing many HTTP requests asynchronously', item_type='story', url='https://github.com/joshlk/many_requests', parent=None, text=None)
+Item(by='joshlk', descendants=21, kids=[25059456, 25061048, 25064263, 25060695, 25061918], score=46, time=1605110616, title='Show HN: Dead easy Python for executing many HTTP requests asynchronously', item_type='story', url='https://github.com/joshlk/many_requests', parent=None, text=None)

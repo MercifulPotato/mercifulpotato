@@ -1,0 +1,1 @@
+Item(by='zaphirplane', descendants=None, kids=[25089955], score=None, time=1605317201, title=None, item_type='comment', url=None, parent=25085745, text='Wouldn’t having more ram give the process more runway to prefetch data into ram before it’s needed ? \nWithout having new prefetch evicting unprocessed older prefetched data')

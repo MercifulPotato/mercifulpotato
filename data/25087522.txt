@@ -1,1 +1,1 @@
-Item(by='ChrisArchitect', descendants=0, kids=None, score=1, time=1605301719, title='In Rural ‘Dead Zones,’ School Comes on a Flash Drive', item_type='story', url='https://www.nytimes.com/2020/11/13/us/wifi-dead-zones-schools.html', parent=None, text=None)
+Item(by='ChrisArchitect', descendants=0, kids=[25090327], score=1, time=1605301719, title='In Rural ‘Dead Zones,’ School Comes on a Flash Drive', item_type='story', url='https://www.nytimes.com/2020/11/13/us/wifi-dead-zones-schools.html', parent=None, text=None)

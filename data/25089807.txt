@@ -1,1 +1,1 @@
-Item(by='dhanna', descendants=None, kids=None, score=None, time=1605321503, title=None, item_type='comment', url=None, parent=25086519, text='I’m curious. Is Ghidra the state of the art? Does the NSA  have something better internally?')
+Item(by='dhanna', descendants=None, kids=[25090987, 25090961, 25090243], score=None, time=1605321503, title=None, item_type='comment', url=None, parent=25086519, text='I’m curious. Is Ghidra the state of the art? Does the NSA  have something better internally?')

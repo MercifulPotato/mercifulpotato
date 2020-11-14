@@ -1,1 +1,1 @@
-Item(by='banachtarski', descendants=None, kids=None, score=None, time=1605314577, title=None, item_type='comment', url=None, parent=25087239, text='I&#x27;m a graphics engineer. It&#x27;s so low end at this point I honestly dread benchmarking on it.')
+Item(by='banachtarski', descendants=None, kids=[25090352], score=None, time=1605314577, title=None, item_type='comment', url=None, parent=25087239, text='I&#x27;m a graphics engineer. It&#x27;s so low end at this point I honestly dread benchmarking on it.')

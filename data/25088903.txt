@@ -1,1 +1,1 @@
-Item(by='nerpderp82', descendants=None, kids=None, score=None, time=1605311052, title=None, item_type='comment', url=None, parent=25082421, text='If you run the dns, you could create endpoints based on the name<p>ssh foo@ubuntu20-16G-100G-8c.project-a')
+Item(by='nerpderp82', descendants=None, kids=[25090899], score=None, time=1605311052, title=None, item_type='comment', url=None, parent=25082421, text='If you run the dns, you could create endpoints based on the name<p>ssh foo@ubuntu20-16G-100G-8c.project-a')

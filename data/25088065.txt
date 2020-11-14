@@ -1,1 +1,1 @@
-Item(by='api', descendants=None, kids=None, score=None, time=1605305060, title=None, item_type='comment', url=None, parent=25087313, text='What&#x27;s in your stack bruh?')
+Item(by='api', descendants=None, kids=[25089545], score=None, time=1605305060, title=None, item_type='comment', url=None, parent=25087313, text='What&#x27;s in your stack bruh?')

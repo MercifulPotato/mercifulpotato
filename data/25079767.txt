@@ -1,1 +1,1 @@
-Item(by='nemosaltat', descendants=None, kids=None, score=None, time=1605251006, title=None, item_type='comment', url=None, parent=25079674, text='I’ve considered making the switch back to Androids to play with F-Droid, do you have a device recommendation?')
+Item(by='nemosaltat', descendants=None, kids=[25090646], score=None, time=1605251006, title=None, item_type='comment', url=None, parent=25079674, text='I’ve considered making the switch back to Androids to play with F-Droid, do you have a device recommendation?')

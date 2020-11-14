@@ -1,1 +1,1 @@
-Item(by='todd8', descendants=0, kids=None, score=1, time=1605305557, title='Google Advanced Protection Program', item_type='story', url='https://landing.google.com/advancedprotection/', parent=None, text=None)
+Item(by='todd8', descendants=1, kids=[25089926], score=3, time=1605305557, title='Google Advanced Protection Program', item_type='story', url='https://landing.google.com/advancedprotection/', parent=None, text=None)

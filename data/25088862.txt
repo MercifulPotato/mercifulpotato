@@ -1,1 +1,1 @@
-Item(by='curiousgal', descendants=None, kids=None, score=None, time=1605310716, title=None, item_type='comment', url=None, parent=25088284, text='&quot;Ghidra&quot; sounds like &quot;غدر&quot; which is Arabic for &quot;treachery&quot; which is funny since this was released by the NSA.')
+Item(by='curiousgal', descendants=None, kids=[25090285], score=None, time=1605310716, title=None, item_type='comment', url=None, parent=25088284, text='&quot;Ghidra&quot; sounds like &quot;غدر&quot; which is Arabic for &quot;treachery&quot; which is funny since this was released by the NSA.')

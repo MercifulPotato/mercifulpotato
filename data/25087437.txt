@@ -1,1 +1,1 @@
-Item(by='ideologysec', descendants=None, kids=None, score=None, time=1605301266, title=None, item_type='comment', url=None, parent=25073864, text='Even then, you can sync open tabs with Firefox Sync! (Or Chrome sync, or Safari via iCloud)')
+Item(by='ideologysec', descendants=None, kids=[25090422], score=None, time=1605301266, title=None, item_type='comment', url=None, parent=25073864, text='Even then, you can sync open tabs with Firefox Sync! (Or Chrome sync, or Safari via iCloud)')

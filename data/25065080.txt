@@ -1,1 +1,1 @@
-Item(by='nyjah', descendants=1, kids=[25065588, 25065186, 25066647], score=16, time=1605143125, title='YouTube appears to be down worldwide', item_type='story', url='https://www.theverge.com/2020/11/11/21561764/youtube-down-outage-loading-videos', parent=None, text=None)
+Item(by='nyjah', descendants=1, kids=[25065186, 25065588, 25066647], score=16, time=1605143125, title='YouTube appears to be down worldwide', item_type='story', url='https://www.theverge.com/2020/11/11/21561764/youtube-down-outage-loading-videos', parent=None, text=None)

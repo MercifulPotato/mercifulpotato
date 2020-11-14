@@ -1,1 +1,1 @@
-Item(by='lettergram', descendants=None, kids=None, score=None, time=1605299427, title=None, item_type='comment', url=None, parent=25084415, text='Interesting, the number of FISA warrants have been growing exponentially since 2014.')
+Item(by='lettergram', descendants=None, kids=[25090390], score=None, time=1605299427, title=None, item_type='comment', url=None, parent=25084415, text='Interesting, the number of FISA warrants have been growing exponentially since 2014.')
