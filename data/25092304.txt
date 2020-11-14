@@ -1,0 +1,1 @@
+Item(by='rwdim', descendants=None, kids=None, score=None, time=1605362230, title=None, item_type='comment', url=None, parent=25090940, text='Why not fire up an ARM vm instance of linux on your machine using qemu and see if the packages you want are viable? Make sure to enable acceleration and nested virtualization if you want to test containers.')

@@ -1,0 +1,1 @@
+Item(by='junon', descendants=None, kids=[25091468, 25091472], score=None, time=1605350739, title=None, item_type='comment', url=None, parent=25090370, text='std::variant or std::any don&#x27;t count? Overloading doesn&#x27;t count? Templates don&#x27;t count?<p>Seems like you should play with C++ a bit more.')

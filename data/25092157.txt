@@ -1,0 +1,1 @@
+Item(by='foepys', descendants=None, kids=None, score=None, time=1605360322, title=None, item_type='comment', url=None, parent=25092101, text='Afaik, some apps like Netflix that rely on geo-blocking for their content licensing do it already and it&#x27;s only a matter of time until they switch to DNS over HTTP so requests cannot be altered at all.')

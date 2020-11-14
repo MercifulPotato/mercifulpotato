@@ -1,1 +1,1 @@
-Item(by='nix23', descendants=None, kids=None, score=None, time=1605314627, title=None, item_type='comment', url=None, parent=25087795, text='When both of them have nearly the same price...i take a Tesla not the Punto')
+Item(by='nix23', descendants=None, kids=[25091234], score=None, time=1605314627, title=None, item_type='comment', url=None, parent=25087795, text='When both of them have nearly the same price...i take a Tesla not the Punto')

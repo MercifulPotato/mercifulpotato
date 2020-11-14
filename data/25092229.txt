@@ -1,0 +1,1 @@
+Item(by='Anarch157a', descendants=None, kids=[25092300], score=None, time=1605361343, title=None, item_type='comment', url=None, parent=25092185, text='Wireguard. All traffic from my phone is routed thru a VPS hosted in Germany, where all traffic to 8.8.[84].[84] is blocked.')

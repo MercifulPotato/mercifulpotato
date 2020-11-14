@@ -1,0 +1,1 @@
+Item(by='Izkata', descendants=None, kids=None, score=None, time=1605347098, title=None, item_type='comment', url=None, parent=25083281, text='&gt; It would be faster because the exec takes place for every single result of the find.<p>Only if you end the exec with \\;<p>If you end it with + then the results are built up and appended to the command much like xargs.')

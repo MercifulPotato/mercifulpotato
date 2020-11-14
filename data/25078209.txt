@@ -1,1 +1,1 @@
-Item(by='polm23', descendants=0, kids=None, score=4, time=1605235357, title='Everything Is an X', item_type='story', url='https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/', parent=None, text=None)
+Item(by='polm23', descendants=21, kids=[25092321, 25091575, 25091123, 25091245, 25091811, 25091170, 25091489, 25091408, 25091916, 25091597, 25091244], score=73, time=1605235357, title='Everything Is an X', item_type='story', url='https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/', parent=None, text=None)

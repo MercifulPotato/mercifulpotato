@@ -1,1 +1,1 @@
-Item(by='unicornporn', descendants=None, kids=None, score=None, time=1605339531, title=None, item_type='comment', url=None, parent=25089933, text='Reminds me why I&#x27;m always a year behind when it comes to updating macOS.')
+Item(by='unicornporn', descendants=None, kids=[25091064], score=None, time=1605339531, title=None, item_type='comment', url=None, parent=25089933, text='Reminds me why I&#x27;m always a year behind when it comes to updating macOS.')
