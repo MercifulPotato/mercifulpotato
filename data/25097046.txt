@@ -1,1 +1,1 @@
-Item(by='noema', descendants=None, kids=None, score=None, time=1605401318, title=None, item_type='comment', url=None, parent=25094763, text='Probably because most are doing glorified CRUD, but with an absurd barrier to entry (the interview process).')
+Item(by='noema', descendants=None, kids=[25099054], score=None, time=1605401318, title=None, item_type='comment', url=None, parent=25094763, text='Probably because most are doing glorified CRUD, but with an absurd barrier to entry (the interview process).')

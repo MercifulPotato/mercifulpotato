@@ -1,1 +1,1 @@
-Item(by='loriverkutya', descendants=None, kids=None, score=None, time=1605398461, title=None, item_type='comment', url=None, parent=25096548, text='Let’s forget about the thick layer of paint between the steel and the water...')
+Item(by='loriverkutya', descendants=None, kids=[25098719], score=None, time=1605398461, title=None, item_type='comment', url=None, parent=25096548, text='Let’s forget about the thick layer of paint between the steel and the water...')

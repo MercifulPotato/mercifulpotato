@@ -1,0 +1,1 @@
+Item(by='com2kid', descendants=None, kids=None, score=None, time=1605417246, title=None, item_type='comment', url=None, parent=25089514, text='We also used NanoPB, in both C and C++.<p>I am pretty sure we used preallocated buffers, so memory management wasn&#x27;t an issue.<p>Being able to have a set of definitions that works on all major mobile platforms was all sorts of nice.')

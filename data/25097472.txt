@@ -1,1 +1,1 @@
-Item(by='Lammy', descendants=None, kids=None, score=None, time=1605405326, title=None, item_type='comment', url=None, parent=25097171, text='&gt; laugh test.<p>This seems a little rudely dismissive. GP&#x27;s skepticism sounds totally reasonable and healthy to me.')
+Item(by='Lammy', descendants=None, kids=[25098008], score=None, time=1605405326, title=None, item_type='comment', url=None, parent=25097171, text='&gt; laugh test.<p>This seems a little rudely dismissive. GP&#x27;s skepticism sounds totally reasonable and healthy to me.')

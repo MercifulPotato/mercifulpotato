@@ -1,0 +1,1 @@
+Item(by='captn3m0', descendants=None, kids=None, score=None, time=1605425798, title=None, item_type='comment', url=None, parent=25096264, text='Has anyone tried a revocation list-over bloom filters? Similar to how Google&#x27;s Safe Browsing filter works?<p>If there&#x27;s a hit, a subsequent request can be sent to Apple to verify the same - reducing the impact.')

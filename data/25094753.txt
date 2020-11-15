@@ -1,1 +1,1 @@
-Item(by='Ivoah', descendants=6, kids=[25097273, 25096119], score=20, time=1605381164, title='OpenSUSE MicroOS', item_type='story', url='https://microos.opensuse.org/', parent=None, text=None)
+Item(by='Ivoah', descendants=10, kids=[25097273, 25096119, 25097910], score=26, time=1605381164, title='OpenSUSE MicroOS', item_type='story', url='https://microos.opensuse.org/', parent=None, text=None)

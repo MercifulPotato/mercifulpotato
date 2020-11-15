@@ -1,1 +1,1 @@
-Item(by='laacz', descendants=None, kids=None, score=None, time=1605301774, title=None, item_type='comment', url=None, parent=25081986, text='I believe they can&#x27;t do that without explicitly stating such usage of data in terms of service.')
+Item(by='laacz', descendants=None, kids=[25098191], score=None, time=1605301774, title=None, item_type='comment', url=None, parent=25081986, text='I believe they can&#x27;t do that without explicitly stating such usage of data in terms of service.')

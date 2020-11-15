@@ -1,0 +1,1 @@
+Item(by='vvanders', descendants=None, kids=[25098198], score=None, time=1605410866, title=None, item_type='comment', url=None, parent=25097932, text='I think there&#x27;s been one project I worked on that had a UART hooked up to printf, usually the pin+code overhead didn&#x27;t make sense.<p>LED or Logic Analyzer are usually where I lean before reaching for printf.')

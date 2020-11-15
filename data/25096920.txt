@@ -1,1 +1,1 @@
-Item(by='felix12777', descendants=None, kids=None, score=None, time=1605399620, title=None, item_type='comment', url=None, parent=25095278, text='Interesting. Can you do that for Notion in the future?')
+Item(by='felix12777', descendants=None, kids=[25097892], score=None, time=1605399620, title=None, item_type='comment', url=None, parent=25095278, text='Interesting. Can you do that for Notion in the future?')

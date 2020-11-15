@@ -1,1 +1,1 @@
-Item(by='op03', descendants=None, kids=None, score=None, time=1605399524, title=None, item_type='comment', url=None, parent=25096707, text='I don&#x27;t know if athletes fit. They spend their whole day in training to stay accurate.<p>And thanks for the cool kudzu article!')
+Item(by='op03', descendants=None, kids=[25098165], score=None, time=1605399524, title=None, item_type='comment', url=None, parent=25096707, text='I don&#x27;t know if athletes fit. They spend their whole day in training to stay accurate.<p>And thanks for the cool kudzu article!')

@@ -1,1 +1,1 @@
-Item(by='janprincek', descendants=0, kids=None, score=2, time=1605384785, title='How to specify data types in Python', item_type='story', url='https://www.pythonstacks.com/blog/type-hints-python/', parent=None, text=None)
+Item(by='janprincek', descendants=0, kids=None, score=3, time=1605384785, title='How to specify data types in Python', item_type='story', url='https://www.pythonstacks.com/blog/type-hints-python/', parent=None, text=None)

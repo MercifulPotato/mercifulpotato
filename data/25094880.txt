@@ -1,1 +1,1 @@
-Item(by='personlurking', descendants=None, kids=None, score=None, time=1605382068, title=None, item_type='comment', url=None, parent=25093469, text='I&#x27;ve heard the term &#x27;flexitarian&#x27;, which I understand to be mostly vegetarian but sometimes eats meat.')
+Item(by='personlurking', descendants=None, kids=[25097809, 25098532], score=None, time=1605382068, title=None, item_type='comment', url=None, parent=25093469, text='I&#x27;ve heard the term &#x27;flexitarian&#x27;, which I understand to be mostly vegetarian but sometimes eats meat.')

@@ -1,1 +1,1 @@
-Item(by='aitchnyu', descendants=None, kids=None, score=None, time=1605354863, title=None, item_type='comment', url=None, parent=25083739, text='What does the innovation pipeline at Mozilla look like nowadays? Will it dry up drastically soon?')
+Item(by='aitchnyu', descendants=None, kids=[25097974], score=None, time=1605354863, title=None, item_type='comment', url=None, parent=25083739, text='What does the innovation pipeline at Mozilla look like nowadays? Will it dry up drastically soon?')
