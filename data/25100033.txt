@@ -1,0 +1,1 @@
+Item(by='iso947', descendants=None, kids=None, score=None, time=1605436848, title=None, item_type='comment', url=None, parent=25096335, text='Chrome uses CRLset, which generates a cut down CRL when the browser is updated, I don’t see any interaction with OCSP<p>HN doesn’t set OCSP must staple so we’re still a while away from being able to trust it.')

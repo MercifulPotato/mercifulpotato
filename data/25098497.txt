@@ -1,1 +1,1 @@
-Item(by='cptnapalm', descendants=None, kids=None, score=None, time=1605417852, title=None, item_type='comment', url=None, parent=25097282, text='This reminds me of an observation about the British Empire that the bureaucracy was at its most vast the day it was abolished.')
+Item(by='cptnapalm', descendants=None, kids=[25100603], score=None, time=1605417852, title=None, item_type='comment', url=None, parent=25097282, text='This reminds me of an observation about the British Empire that the bureaucracy was at its most vast the day it was abolished.')

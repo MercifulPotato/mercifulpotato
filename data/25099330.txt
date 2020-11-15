@@ -1,1 +1,1 @@
-Item(by='itsangaris', descendants=None, kids=None, score=None, time=1605428902, title=None, item_type='comment', url=None, parent=25099311, text='Did you read the article? Robert Mercer funded Parler.')
+Item(by='itsangaris', descendants=None, kids=[25099416, 25100506, 25099439], score=None, time=1605428902, title=None, item_type='comment', url=None, parent=25099311, text='Did you read the article? Robert Mercer funded Parler.')

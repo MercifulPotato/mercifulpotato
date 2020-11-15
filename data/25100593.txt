@@ -1,0 +1,1 @@
+Item(by='tutfbhuf', descendants=None, kids=None, score=None, time=1605442652, title=None, item_type='comment', url=None, parent=25100480, text='No, because you&#x27;d rely on the fact that the time critical execution paths in your python application happens to be in C. This is clearly not true in general and therefore pydis just demonstrates a special case.')

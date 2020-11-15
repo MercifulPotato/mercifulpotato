@@ -1,1 +1,1 @@
-Item(by='Caitin_Chen', descendants=0, kids=None, score=1, time=1605411508, title='Embracing NewSQL: Why We Chose TiDB over MongoDB and MySQL', item_type='story', url='https://pingcap.com/case-studies/embracing-newsql-why-we-chose-tidb-over-mongodb-and-mysql', parent=None, text=None)
+Item(by='Caitin_Chen', descendants=0, kids=None, score=2, time=1605411508, title='Embracing NewSQL: Why We Chose TiDB over MongoDB and MySQL', item_type='story', url='https://pingcap.com/case-studies/embracing-newsql-why-we-chose-tidb-over-mongodb-and-mysql', parent=None, text=None)

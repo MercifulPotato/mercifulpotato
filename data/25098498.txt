@@ -1,1 +1,1 @@
-Item(by='numpad0', descendants=None, kids=None, score=None, time=1605417856, title=None, item_type='comment', url=None, parent=25096621, text='The largest issue with the trashcan MacPro6,1 was complete lack of GPU performance. They weren’t even VR capable.')
+Item(by='numpad0', descendants=None, kids=[25100011], score=None, time=1605417856, title=None, item_type='comment', url=None, parent=25096621, text='The largest issue with the trashcan MacPro6,1 was complete lack of GPU performance. They weren’t even VR capable.')

@@ -1,1 +1,1 @@
-Item(by='r4um', descendants=0, kids=None, score=1, time=1605423317, title='Sad DNS Explained', item_type='story', url='https://blog.cloudflare.com/sad-dns-explained/', parent=None, text=None)
+Item(by='r4um', descendants=1, kids=[25100278], score=62, time=1605423317, title='Sad DNS Explained', item_type='story', url='https://blog.cloudflare.com/sad-dns-explained/', parent=None, text=None)

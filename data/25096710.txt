@@ -1,1 +1,1 @@
-Item(by='zamalek', descendants=None, kids=None, score=None, time=1605397315, title=None, item_type='comment', url=None, parent=25090306, text='&gt; Even Airpods and the Macbook chargers might be getting close these days.<p>I simply can&#x27;t agree with these logical gymnastics.')
+Item(by='zamalek', descendants=None, kids=[25100771], score=None, time=1605397315, title=None, item_type='comment', url=None, parent=25090306, text='&gt; Even Airpods and the Macbook chargers might be getting close these days.<p>I simply can&#x27;t agree with these logical gymnastics.')

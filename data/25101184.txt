@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=[25101261], score=None, time=1605448502, title=None, item_type='comment', url=None, parent=25101155, text='The Python zipfile module is actually just that, Python. It performs well enough, with compression zlib is the limiting factor anyway.')

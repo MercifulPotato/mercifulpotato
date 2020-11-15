@@ -1,1 +1,1 @@
-Item(by='x43b', descendants=0, kids=[25099074], score=9, time=1605412541, title='The Death of the $15 Salad', item_type='story', url='https://marker.medium.com/the-death-of-the-15-salad-96f920ec4dfd', parent=None, text=None)
+Item(by='x43b', descendants=1, kids=[25099074], score=10, time=1605412541, title='The Death of the $15 Salad', item_type='story', url='https://marker.medium.com/the-death-of-the-15-salad-96f920ec4dfd', parent=None, text=None)

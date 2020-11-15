@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=None, score=None, time=1605441007, title=None, item_type='comment', url=None, parent=25096928, text='That shouldn&#x27;t be an issue. Btrfs snapshots are copy-on-write, so unless all blocks changed the big binary file should be there just once.')

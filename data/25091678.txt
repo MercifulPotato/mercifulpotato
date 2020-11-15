@@ -1,1 +1,1 @@
-Item(by='enneff', descendants=None, kids=None, score=None, time=1605353927, title=None, item_type='comment', url=None, parent=25090784, text='We are insistent because we have first hand knowledge of how Google’s code review and readability processes work.')
+Item(by='enneff', descendants=None, kids=[25099415], score=None, time=1605353927, title=None, item_type='comment', url=None, parent=25090784, text='We are insistent because we have first hand knowledge of how Google’s code review and readability processes work.')

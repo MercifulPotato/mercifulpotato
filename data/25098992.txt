@@ -1,1 +1,1 @@
-Item(by='nl', descendants=None, kids=None, score=None, time=1605424122, title=None, item_type='comment', url=None, parent=25097361, text='A million times this.<p>Depression isn’t sadness, or being unhappy. It’s not even really on the same dimension as those things.')
+Item(by='nl', descendants=None, kids=[25100473], score=None, time=1605424122, title=None, item_type='comment', url=None, parent=25097361, text='A million times this.<p>Depression isn’t sadness, or being unhappy. It’s not even really on the same dimension as those things.')

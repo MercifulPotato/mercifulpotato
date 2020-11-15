@@ -1,1 +1,1 @@
-Item(by='nxpnsv', descendants=None, kids=None, score=None, time=1605264852, title=None, item_type='comment', url=None, parent=25073992, text='I see, I miss a lot of issues as don&#x27;t use any GPU stuff, mainly flask + scipy and friends.... probably this is what saves me.')
+Item(by='nxpnsv', descendants=None, kids=[25099794], score=None, time=1605264852, title=None, item_type='comment', url=None, parent=25073992, text='I see, I miss a lot of issues as don&#x27;t use any GPU stuff, mainly flask + scipy and friends.... probably this is what saves me.')

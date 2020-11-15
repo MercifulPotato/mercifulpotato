@@ -1,1 +1,1 @@
-Item(by='caseploeg', descendants=0, kids=None, score=2, time=1605410224, title='Teach X in Y Minutes', item_type='story', url='https://teachxinyminutes.com/', parent=None, text=None)
+Item(by='caseploeg', descendants=2, kids=[25099909, 25099339, 25099402], score=31, time=1605410224, title='Teach X in Y Minutes', item_type='story', url='https://teachxinyminutes.com/', parent=None, text=None)

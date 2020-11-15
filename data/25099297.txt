@@ -1,1 +1,1 @@
-Item(by='dorgo', descendants=None, kids=None, score=None, time=1605428485, title=None, item_type='comment', url=None, parent=25099044, text='What about paper cups? They last forever (in human time scales) and are still degradeble.<p>Somehow there is an idea going around that we must give up on something or suffer a little because without sacrifice no big goals can be reached. But, I think, sacrifice alone dosn&#x27;t do anything.')
+Item(by=None, descendants=None, kids=None, score=None, time=1605428485, title=None, item_type='comment', url=None, parent=25099044, text=None)
