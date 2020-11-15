@@ -1,0 +1,1 @@
+Item(by='m000', descendants=None, kids=None, score=None, time=1605450445, title=None, item_type='comment', url=None, parent=25089378, text='Why would you need anything more than a sed oneliner in your shell rc?<p>utf8-debom() {local SED=gsed; $SED -i &#x27;1s&#x2F;^\\xEF\\xBB\\xBF&#x2F;&#x2F;&#x27; $@}')

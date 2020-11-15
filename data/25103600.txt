@@ -1,0 +1,1 @@
+Item(by='Dahoon', descendants=None, kids=None, score=None, time=1605466157, title=None, item_type='comment', url=None, parent=25097927, text='Even an external firewall can&#x27;t easily block everything. Just send telemetry over port 443 to an AWS server and most can&#x27;t block it. You can&#x27;t trust a device that need an outgoing firewall.')

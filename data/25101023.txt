@@ -1,1 +1,1 @@
-Item(by='Glavnokoman', descendants=None, kids=None, score=None, time=1605446952, title=None, item_type='comment', url=None, parent=25100694, text='Good news. But I&#x27;d love to see something in a smaller form-factor.')
+Item(by='Glavnokoman', descendants=None, kids=[25102341, 25103747], score=None, time=1605446952, title=None, item_type='comment', url=None, parent=25100694, text='Good news. But I&#x27;d love to see something in a smaller form-factor.')

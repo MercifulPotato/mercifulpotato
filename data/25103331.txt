@@ -1,0 +1,1 @@
+Item(by='hodgesrm', descendants=None, kids=None, score=None, time=1605463986, title=None, item_type='comment', url=None, parent=25102509, text='Why wouldn&#x27;t Terraform be sufficient? I use Terraform to manage real deployments, but the UI is very useful to scan the environment. This is partly because the aws-cli is so awful^h^h^h^h^h hard to use as an interactive tool.')

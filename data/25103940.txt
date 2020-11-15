@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=None, kids=None, score=None, time=1605468349, title=None, item_type='comment', url=None, parent=25101252, text='This affects only the cycle detecting part of Python&#x27;s GC,  most of the work is done by the refcounting system which you can&#x27;t stop or pause.')

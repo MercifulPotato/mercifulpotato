@@ -1,1 +1,1 @@
-Item(by='roboyoshi', descendants=None, kids=None, score=None, time=1605439243, title=None, item_type='comment', url=None, parent=25098666, text='AFAIK it the &#x27;--ignore&#x27; flag works no longer so I would be very happy if your share with us how to do it.')
+Item(by='roboyoshi', descendants=None, kids=[25101601], score=None, time=1605439243, title=None, item_type='comment', url=None, parent=25098666, text='AFAIK it the &#x27;--ignore&#x27; flag works no longer so I would be very happy if your share with us how to do it.')

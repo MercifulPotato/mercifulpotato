@@ -1,1 +1,1 @@
-Item(by='nneonneo', descendants=None, kids=None, score=None, time=1605414394, title=None, item_type='comment', url=None, parent=25095931, text='Oh, this is great! Wish I&#x27;d seen this when I was compiling Chocolate Doom (on old Windows 95 builds my DOOM.EXE requires msvcrt.dll).')
+Item(by='nneonneo', descendants=None, kids=[25101886], score=None, time=1605414394, title=None, item_type='comment', url=None, parent=25095931, text='Oh, this is great! Wish I&#x27;d seen this when I was compiling Chocolate Doom (on old Windows 95 builds my DOOM.EXE requires msvcrt.dll).')

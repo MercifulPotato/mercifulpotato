@@ -1,1 +1,1 @@
-Item(by='darkerside', descendants=None, kids=None, score=None, time=1605412000, title=None, item_type='comment', url=None, parent=25097935, text='Exactly. You don&#x27;t make money without having a boss (or many bosses).')
+Item(by='darkerside', descendants=None, kids=[25101594], score=None, time=1605412000, title=None, item_type='comment', url=None, parent=25097935, text='Exactly. You don&#x27;t make money without having a boss (or many bosses).')

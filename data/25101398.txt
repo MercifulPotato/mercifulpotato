@@ -1,1 +1,1 @@
-Item(by='krelian', descendants=None, kids=None, score=None, time=1605450312, title=None, item_type='comment', url=None, parent=25101138, text='Why did D never take off?')
+Item(by='krelian', descendants=None, kids=[25101459], score=None, time=1605450312, title=None, item_type='comment', url=None, parent=25101138, text='Why did D never take off?')

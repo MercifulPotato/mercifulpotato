@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=2, time=1605443001, title="RCEP: Asia-Pacific countries form world's largest trading bloc", item_type='story', url='https://www.bbc.com/news/world-asia-54949260', parent=None, text=None)
+Item(by='pseudolus', descendants=1, kids=[25101321], score=3, time=1605443001, title="RCEP: Asia-Pacific countries form world's largest trading bloc", item_type='story', url='https://www.bbc.com/news/world-asia-54949260', parent=None, text=None)

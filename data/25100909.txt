@@ -1,1 +1,1 @@
-Item(by='Lammy', descendants=None, kids=None, score=None, time=1605445898, title=None, item_type='comment', url=None, parent=25100304, text='Personally I think we all lose in this situation, the community included. E-mail should always be an option.')
+Item(by='Lammy', descendants=None, kids=[25101730], score=None, time=1605445898, title=None, item_type='comment', url=None, parent=25100304, text='Personally I think we all lose in this situation, the community included. E-mail should always be an option.')

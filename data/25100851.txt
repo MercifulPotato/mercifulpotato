@@ -1,1 +1,1 @@
-Item(by='xwdv', descendants=None, kids=None, score=None, time=1605445367, title=None, item_type='comment', url=None, parent=25100760, text='Well yes that’s always been true, but has nothing to do with the economy.')
+Item(by='xwdv', descendants=None, kids=[25103303], score=None, time=1605445367, title=None, item_type='comment', url=None, parent=25100760, text='Well yes that’s always been true, but has nothing to do with the economy.')

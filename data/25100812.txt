@@ -1,1 +1,1 @@
-Item(by='threeseed', descendants=None, kids=None, score=None, time=1605444970, title=None, item_type='comment', url=None, parent=25099698, text='Facebook and Twitter have the right to free speech as well.<p>But I am assuming that doesn&#x27;t count in your utopia.')
+Item(by='threeseed', descendants=None, kids=[25102755], score=None, time=1605444970, title=None, item_type='comment', url=None, parent=25099698, text='Facebook and Twitter have the right to free speech as well.<p>But I am assuming that doesn&#x27;t count in your utopia.')

@@ -1,1 +1,1 @@
-Item(by='yitianjian', descendants=None, kids=None, score=None, time=1605416544, title=None, item_type='comment', url=None, parent=25096851, text='Big size, low barrier to entry (especially at SDE-1 level)<p>Source: work at Amazon')
+Item(by='yitianjian', descendants=None, kids=[25103064], score=None, time=1605416544, title=None, item_type='comment', url=None, parent=25096851, text='Big size, low barrier to entry (especially at SDE-1 level)<p>Source: work at Amazon')

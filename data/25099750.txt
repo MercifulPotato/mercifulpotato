@@ -1,1 +1,1 @@
-Item(by='grishka', descendants=None, kids=None, score=None, time=1605433912, title=None, item_type='comment', url=None, parent=25099723, text='SIP relies on entitlements, which rely on code signing. I&#x27;m not sure code signing is at all a thing on Linux.')
+Item(by='grishka', descendants=None, kids=[25102777], score=None, time=1605433912, title=None, item_type='comment', url=None, parent=25099723, text='SIP relies on entitlements, which rely on code signing. I&#x27;m not sure code signing is at all a thing on Linux.')

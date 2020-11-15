@@ -1,0 +1,1 @@
+Item(by='anentropic', descendants=None, kids=None, score=None, time=1605452474, title=None, item_type='comment', url=None, parent=25100807, text='Redis itself is single-threaded though (or was, it&#x27;s only &quot;mostly&quot; single-threaded now)')

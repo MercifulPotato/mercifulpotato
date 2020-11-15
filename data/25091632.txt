@@ -1,1 +1,1 @@
-Item(by='damnencryption', descendants=None, kids=None, score=None, time=1605353511, title=None, item_type='comment', url=None, parent=25091581, text='I really wish 2fa was implemented in convenient form everywhere. There are ton of sites that just force me to use SMS.')
+Item(by='damnencryption', descendants=None, kids=[25101982], score=None, time=1605353511, title=None, item_type='comment', url=None, parent=25091581, text='I really wish 2fa was implemented in convenient form everywhere. There are ton of sites that just force me to use SMS.')

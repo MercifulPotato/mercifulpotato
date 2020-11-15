@@ -1,1 +1,1 @@
-Item(by='disgruntledphd2', descendants=None, kids=None, score=None, time=1605434483, title=None, item_type='comment', url=None, parent=25081244, text='My core problem is with C&#x2F;C++ depedencies. Can you describe to me how you handle these when you deploy Python?')
+Item(by='disgruntledphd2', descendants=None, kids=[25102905], score=None, time=1605434483, title=None, item_type='comment', url=None, parent=25081244, text='My core problem is with C&#x2F;C++ depedencies. Can you describe to me how you handle these when you deploy Python?')

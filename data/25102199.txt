@@ -1,0 +1,1 @@
+Item(by='erikrothoff', descendants=None, kids=[25102456], score=None, time=1605456553, title=None, item_type='comment', url=None, parent=25102147, text='Really? Our frontend servers handle 50 rps and cost $20 each and are nowhere near peak utilization. If anything ever needs scaling its the database. What level of traffic are you talking about?')

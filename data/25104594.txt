@@ -1,0 +1,1 @@
+Item(by='fauigerzigerk', descendants=None, kids=None, score=None, time=1605472664, title=None, item_type='comment', url=None, parent=25103801, text='It&#x27;s not surprising that OS upgrades can fail on some machines. No amount of QA can ever guarantee 100% success.<p>What I do find surprising though is that there is no bulletproof rollback mechanism.')

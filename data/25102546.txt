@@ -1,0 +1,1 @@
+Item(by='nitrogen', descendants=None, kids=None, score=None, time=1605459109, title=None, item_type='comment', url=None, parent=25101433, text='Going from something like Puppet with a few VPSes to CloudFormation with serverless is a <i>huge</i> jump in complexity and boilerplate.')

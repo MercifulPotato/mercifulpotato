@@ -1,0 +1,1 @@
+Item(by='ddevault', descendants=None, kids=None, score=None, time=1605458182, title=None, item_type='comment', url=None, parent=25102357, text='It gives you a link to click to confirm the new repository creation, or you can use git push options to set the visibility and description (git push -o visibility=public -o description=&quot;my cool repo&quot;)')

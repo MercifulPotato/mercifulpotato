@@ -1,1 +1,1 @@
-Item(by='marktucker', descendants=None, kids=None, score=None, time=1605443162, title=None, item_type='comment', url=None, parent=25099636, text='2.8e7 records ;)')
+Item(by='marktucker', descendants=None, kids=[25103808], score=None, time=1605443162, title=None, item_type='comment', url=None, parent=25099636, text='2.8e7 records ;)')
