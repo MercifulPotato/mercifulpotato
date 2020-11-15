@@ -1,0 +1,1 @@
+Item(by='josephg', descendants=None, kids=[25097221], score=None, time=1605401096, title=None, item_type='comment', url=None, parent=25096294, text='&gt; The people who need better tools to deal with this are the language implementers who almost always abstract over this.<p>Do they? What languages abstract away the filesystem or the OS&#x27;s file abstraction?')

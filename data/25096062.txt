@@ -1,0 +1,1 @@
+Item(by='twentydollars', descendants=None, kids=None, score=None, time=1605391427, title=None, item_type='comment', url=None, parent=25095573, text='Ah, my bad. The REFERENCE implementation, written in Python, which was supposed to be supplanted by a faster, better implementation years ago, now has 10x less bugs.')

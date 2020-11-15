@@ -1,1 +1,1 @@
-Item(by='BoorishBears', descendants=None, kids=None, score=None, time=1605382890, title=None, item_type='comment', url=None, parent=25094537, text='The idea it&#x27;s recommending a 3600 over a 10600k for a thousand dollar build tells me there&#x27;s a slant...')
+Item(by='BoorishBears', descendants=None, kids=[25095385, 25096984], score=None, time=1605382890, title=None, item_type='comment', url=None, parent=25094537, text='The idea it&#x27;s recommending a 3600 over a 10600k for a thousand dollar build tells me there&#x27;s a slant...')

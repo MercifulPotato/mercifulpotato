@@ -1,0 +1,1 @@
+Item(by='Kuinox', descendants=None, kids=None, score=None, time=1605388462, title=None, item_type='comment', url=None, parent=25090096, text='I tried Kaitai struct, won&#x27;t recommend it.<p>The yaml based language is awful to use.   \nIt doesn&#x27;t support bit level reading, so you can&#x27;t do unaligned bit reading, used often in networks packets.')

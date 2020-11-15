@@ -1,1 +1,1 @@
-Item(by='Gibbon1', descendants=None, kids=None, score=None, time=1605383222, title=None, item_type='comment', url=None, parent=25094957, text='Anyone that worked at Palantir is potentially a mole.')
+Item(by='Gibbon1', descendants=None, kids=[25096061], score=None, time=1605383222, title=None, item_type='comment', url=None, parent=25094957, text='Anyone that worked at Palantir is potentially a mole.')

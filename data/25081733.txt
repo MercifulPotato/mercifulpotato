@@ -1,1 +1,1 @@
-Item(by='huhtenberg', descendants=None, kids=None, score=None, time=1605272792, title=None, item_type='comment', url=None, parent=25073701, text='Brainfuck. Mr. Müller is the father of Brainfuck.')
+Item(by='huhtenberg', descendants=None, kids=[25095733], score=None, time=1605272792, title=None, item_type='comment', url=None, parent=25073701, text='Brainfuck. Mr. Müller is the father of Brainfuck.')

@@ -1,0 +1,1 @@
+Item(by='tedd4u', descendants=None, kids=[25096351], score=None, time=1605393163, title=None, item_type='comment', url=None, parent=25095438, text='Seems like the solution is just put a short timeout on the OCSP call and fail positive? Nets the same behavior as when you’re offline.')

@@ -1,1 +1,1 @@
-Item(by='philosopher1234', descendants=13, kids=[25090838, 25092591, 25091767, 25091910, 25092498], score=113, time=1605311139, title='Play with Go', item_type='story', url='https://play-with-go.dev/guides.html', parent=None, text=None)
+Item(by='philosopher1234', descendants=13, kids=[25090838, 25092591, 25091767, 25091910, 25092498], score=115, time=1605311139, title='Play with Go', item_type='story', url='https://play-with-go.dev/guides.html', parent=None, text=None)

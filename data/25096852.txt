@@ -1,0 +1,1 @@
+Item(by='amelius', descendants=None, kids=None, score=None, time=1605398950, title=None, item_type='comment', url=None, parent=25093161, text='This reminds me of Stripe, which logs every action of a user on any webpage (even non-checkout pages), in the name of fraud detection. Not sure what to think of it, but I would turn it off if I could.')

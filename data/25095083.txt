@@ -1,1 +1,1 @@
-Item(by='captn3m0', descendants=None, kids=None, score=None, time=1605383627, title=None, item_type='comment', url=None, parent=25095054, text='I might be too sleepy, but I think there was a time where Google supported blacklisting a site on logged in queries?')
+Item(by='captn3m0', descendants=None, kids=[25096666], score=None, time=1605383627, title=None, item_type='comment', url=None, parent=25095054, text='I might be too sleepy, but I think there was a time where Google supported blacklisting a site on logged in queries?')

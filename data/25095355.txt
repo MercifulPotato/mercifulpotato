@@ -1,0 +1,1 @@
+Item(by='kazen44', descendants=None, kids=None, score=None, time=1605385689, title=None, item_type='comment', url=None, parent=25093840, text='you could also just NAT port 52 to your pihole. (translating 8.8.8.8 ofcourse).<p>I don&#x27;t know if this would work with DoH. (but DoH is terrible anyways)')

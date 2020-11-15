@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=1, kids=[25094480], score=13, time=1605346455, title='Butano: Modern C++ high level GameBoy Advance engine', item_type='story', url='https://github.com/GValiente/butano#butano', parent=None, text=None)
+Item(by='ingve', descendants=11, kids=[25094480, 25096126], score=52, time=1605346455, title='Butano: Modern C++ high level GameBoy Advance engine', item_type='story', url='https://github.com/GValiente/butano#butano', parent=None, text=None)

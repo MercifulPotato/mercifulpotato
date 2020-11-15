@@ -1,1 +1,1 @@
-Item(by='BlueTemplar', descendants=None, kids=None, score=None, time=1605373947, title=None, item_type='comment', url=None, parent=25093460, text='&gt; M1 apparently has much lower power consumption.<p>Even compared to similar manufacturing processes ?')
+Item(by='BlueTemplar', descendants=None, kids=[25095500, 25095465], score=None, time=1605373947, title=None, item_type='comment', url=None, parent=25093460, text='&gt; M1 apparently has much lower power consumption.<p>Even compared to similar manufacturing processes ?')

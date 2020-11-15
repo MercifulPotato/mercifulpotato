@@ -1,0 +1,1 @@
+Item(by='thekyle', descendants=None, kids=[25097290], score=None, time=1605402336, title=None, item_type='comment', url=None, parent=25093088, text='I don&#x27;t believe issues or pull requests are part of the Git repo. If there is a way to migrate them it would involve some GitHub API which could be shut down.')

@@ -1,1 +1,1 @@
-Item(by='Malifalitiko', descendants=0, kids=None, score=1, time=1605381345, title='Fatality rate of major virus outbreaks worldwide in the last 50 years as of 2020', item_type='story', url='https://twitter.com/_screpy/status/1327624715087785986', parent=None, text=None)
+Item(by='Malifalitiko', descendants=2, kids=[25095585, 25095051], score=3, time=1605381345, title='Fatality rate of major virus outbreaks worldwide in the last 50 years as of 2020', item_type='story', url='https://twitter.com/_screpy/status/1327624715087785986', parent=None, text=None)

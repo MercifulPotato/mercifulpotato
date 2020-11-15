@@ -1,1 +1,1 @@
-Item(by='xbar', descendants=None, kids=None, score=None, time=1605366910, title=None, item_type='comment', url=None, parent=25092078, text='You were dumb. Then you were dumber. Then you were even dumber. Then you sued Google because a lot of other folks were like you.<p>Ok.')
+Item(by='xbar', descendants=None, kids=[25096247], score=None, time=1605366910, title=None, item_type='comment', url=None, parent=25092078, text='You were dumb. Then you were dumber. Then you were even dumber. Then you sued Google because a lot of other folks were like you.<p>Ok.')

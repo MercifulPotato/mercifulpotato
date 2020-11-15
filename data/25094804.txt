@@ -1,1 +1,1 @@
-Item(by='Doctor_Fegg', descendants=None, kids=None, score=None, time=1605381507, title=None, item_type='comment', url=None, parent=25094730, text='They did, famously, deliberately kill their own iPod market by introducing the iPhone.')
+Item(by='Doctor_Fegg', descendants=None, kids=[25095417], score=None, time=1605381507, title=None, item_type='comment', url=None, parent=25094730, text='They did, famously, deliberately kill their own iPod market by introducing the iPhone.')

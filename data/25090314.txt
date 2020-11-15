@@ -1,1 +1,1 @@
-Item(by='girvo', descendants=None, kids=None, score=None, time=1605328373, title=None, item_type='comment', url=None, parent=25089434, text='You can also go to data:text&#x2F;html,&lt;body&gt; instead of example.com (if I got the syntax right for the data URI, I’m on mobile)')
+Item(by='girvo', descendants=None, kids=[25096467], score=None, time=1605328373, title=None, item_type='comment', url=None, parent=25089434, text='You can also go to data:text&#x2F;html,&lt;body&gt; instead of example.com (if I got the syntax right for the data URI, I’m on mobile)')

@@ -1,1 +1,1 @@
-Item(by='gilad', descendants=2, kids=[25090238], score=20, time=1605325022, title='A Visual Guide to Regular Expression', item_type='story', url='https://amitness.com/regex/', parent=None, text=None)
+Item(by='gilad', descendants=3, kids=[25095766, 25090238], score=24, time=1605325022, title='A Visual Guide to Regular Expression', item_type='story', url='https://amitness.com/regex/', parent=None, text=None)

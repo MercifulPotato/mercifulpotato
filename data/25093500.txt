@@ -1,1 +1,1 @@
-Item(by='asutekku', descendants=None, kids=None, score=None, time=1605372813, title=None, item_type='comment', url=None, parent=25092902, text='Telemetry at least is useful for the developers to see how people use their software&#x2F;devices&#x2F;whatever.')
+Item(by='asutekku', descendants=None, kids=[25095961], score=None, time=1605372813, title=None, item_type='comment', url=None, parent=25092902, text='Telemetry at least is useful for the developers to see how people use their software&#x2F;devices&#x2F;whatever.')

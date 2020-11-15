@@ -1,0 +1,1 @@
+Item(by='ghayes', descendants=None, kids=None, score=None, time=1605386990, title=None, item_type='comment', url=None, parent=25094074, text='The only feature I miss in Elm is do-notation. Idris does a great job of introducing do-notation without requiring inclusion in monad and simply being sugar for the bind operator.')

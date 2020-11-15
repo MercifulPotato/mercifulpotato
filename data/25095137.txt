@@ -1,1 +1,1 @@
-Item(by='highenergystar', descendants=None, kids=None, score=None, time=1605384064, title=None, item_type='comment', url=None, parent=25091725, text='I wonder whether a somewhat scrubbed exhaust could be piped into the bubble system.')
+Item(by='highenergystar', descendants=None, kids=[25095950], score=None, time=1605384064, title=None, item_type='comment', url=None, parent=25091725, text='I wonder whether a somewhat scrubbed exhaust could be piped into the bubble system.')

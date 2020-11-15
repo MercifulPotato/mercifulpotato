@@ -1,1 +1,1 @@
-Item(by='clairegiordano', descendants=0, kids=None, score=1, time=1605381016, title="What's new in the Citus 9.5 extension to Postgres", item_type='story', url='https://www.citusdata.com/blog/2020/11/14/citus-9-5-whats-new/', parent=None, text=None)
+Item(by='clairegiordano', descendants=2, kids=[25097110], score=11, time=1605381016, title="What's new in the Citus 9.5 extension to Postgres", item_type='story', url='https://www.citusdata.com/blog/2020/11/14/citus-9-5-whats-new/', parent=None, text=None)

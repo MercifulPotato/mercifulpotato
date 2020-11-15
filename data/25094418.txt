@@ -1,1 +1,1 @@
-Item(by='rachelbythebay', descendants=None, kids=None, score=None, time=1605378925, title=None, item_type='comment', url=None, parent=25091855, text='I ran my own mail servers for 30 years. I punted on this earlier this year.<p>Best to not take folks like me seriously, then.')
+Item(by='rachelbythebay', descendants=None, kids=[25096770], score=None, time=1605378925, title=None, item_type='comment', url=None, parent=25091855, text='I ran my own mail servers for 30 years. I punted on this earlier this year.<p>Best to not take folks like me seriously, then.')

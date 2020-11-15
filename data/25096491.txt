@@ -1,0 +1,1 @@
+Item(by='cirrusj', descendants=None, kids=None, score=None, time=1605394849, title=None, item_type='comment', url=None, parent=25096313, text='Quick question on that. \nHas anyone tried disabling SIPs (csrutil disable), allowing the Little Snitch kext (spctl kext-consent add MLZF7K7B5R) and just using Little Snitch 4.6 in Big Sur?')

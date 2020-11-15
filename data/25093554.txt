@@ -1,1 +1,1 @@
-Item(by='myko', descendants=None, kids=None, score=None, time=1605373217, title=None, item_type='comment', url=None, parent=25092650, text='As pointed out by others, if the quote is correct then Apple is using 700MB not 175MB')
+Item(by='myko', descendants=None, kids=[25095248], score=None, time=1605373217, title=None, item_type='comment', url=None, parent=25092650, text='As pointed out by others, if the quote is correct then Apple is using 700MB not 175MB')

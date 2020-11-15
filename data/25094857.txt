@@ -1,1 +1,1 @@
-Item(by='qz2', descendants=None, kids=None, score=None, time=1605381848, title=None, item_type='comment', url=None, parent=25094835, text='I tried that one. I am also a fan of convenience :)')
+Item(by='qz2', descendants=None, kids=[25095351], score=None, time=1605381848, title=None, item_type='comment', url=None, parent=25094835, text='I tried that one. I am also a fan of convenience :)')

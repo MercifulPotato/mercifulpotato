@@ -1,0 +1,1 @@
+Item(by='antpls', descendants=None, kids=None, score=None, time=1605390142, title=None, item_type='comment', url=None, parent=25091892, text='Most of the time, the SQL queries are only useful when they are part of a bigger application, which is often written using a Turing complete language.')

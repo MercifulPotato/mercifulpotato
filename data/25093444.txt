@@ -1,1 +1,1 @@
-Item(by='goatherders', descendants=None, kids=None, score=None, time=1605372455, title=None, item_type='comment', url=None, parent=25092974, text='You&#x27;re an EMT. Which means you aren&#x27;t trained to deal with mental health issues. Just like the police.')
+Item(by='goatherders', descendants=None, kids=[25095420], score=None, time=1605372455, title=None, item_type='comment', url=None, parent=25092974, text='You&#x27;re an EMT. Which means you aren&#x27;t trained to deal with mental health issues. Just like the police.')

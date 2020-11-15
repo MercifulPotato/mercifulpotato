@@ -1,1 +1,1 @@
-Item(by='wortelefant', descendants=None, kids=None, score=None, time=1605382074, title=None, item_type='comment', url=None, parent=25093469, text='vegan preference with occasional pizza lapses, I&#x27;d describe my diet as &#x27;vegetarian with ambitions&#x27;')
+Item(by='wortelefant', descendants=None, kids=[25097424], score=None, time=1605382074, title=None, item_type='comment', url=None, parent=25093469, text='vegan preference with occasional pizza lapses, I&#x27;d describe my diet as &#x27;vegetarian with ambitions&#x27;')

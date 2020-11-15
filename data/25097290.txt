@@ -1,0 +1,1 @@
+Item(by='Arnavion', descendants=None, kids=None, score=None, time=1605403736, title=None, item_type='comment', url=None, parent=25097137, text='The commits in pull requests are part of the git repo, in that they can be fetched from the repo&#x27;s remote. The comments are not.')

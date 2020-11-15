@@ -1,1 +1,1 @@
-Item(by='fanf2', descendants=10, kids=[25092453, 25093302, 25093720, 25094515, 25094897, 25094142], score=137, time=1605354188, title='On the expressive power of programming languages (2019)', item_type='story', url='https://pwlconf.org/2019/shriram-krishnamurthi/', parent=None, text=None)
+Item(by='fanf2', descendants=12, kids=[25092453, 25093302, 25093720, 25094515, 25094897, 25094142], score=172, time=1605354188, title='On the expressive power of programming languages (2019)', item_type='story', url='https://pwlconf.org/2019/shriram-krishnamurthi/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='ctz', descendants=None, kids=None, score=None, time=1605392307, title=None, item_type='comment', url=None, parent=25096136, text='OCSP which fails open combines pointlessness with terrible privacy. It&#x27;s why Mozilla is moving to CRLite for privacy-friendly revocation.')

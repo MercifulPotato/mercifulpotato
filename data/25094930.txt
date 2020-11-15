@@ -1,1 +1,1 @@
-Item(by='anigbrowl', descendants=None, kids=None, score=None, time=1605382375, title=None, item_type='comment', url=None, parent=25092910, text='Pretty sure there was more to the situation than that one-line summary.')
+Item(by='anigbrowl', descendants=None, kids=[25095289], score=None, time=1605382375, title=None, item_type='comment', url=None, parent=25092910, text='Pretty sure there was more to the situation than that one-line summary.')
