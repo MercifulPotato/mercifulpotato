@@ -1,1 +1,1 @@
-Item(by='quacker', descendants=None, kids=None, score=None, time=1605460944, title=None, item_type='comment', url=None, parent=25102146, text='A 2600 + RTX 3070 will outperform a 10600k + 5700XT in 1440p gaming. You&#x27;re way overestimating how much a 2600 would bottleneck the GPU.')
+Item(by='quacker', descendants=None, kids=[25104319], score=None, time=1605460944, title=None, item_type='comment', url=None, parent=25102146, text='A 2600 + RTX 3070 will outperform a 10600k + 5700XT in 1440p gaming. You&#x27;re way overestimating how much a 2600 would bottleneck the GPU.')

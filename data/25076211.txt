@@ -1,1 +1,1 @@
-Item(by='Kaze404', descendants=None, kids=None, score=None, time=1605220861, title=None, item_type='comment', url=None, parent=25073468, text='So by extension browsers allowing file downloads also falls under that? That&#x27;s just what BitTorrent is after all.')
+Item(by='Kaze404', descendants=None, kids=[25104527], score=None, time=1605220861, title=None, item_type='comment', url=None, parent=25073468, text='So by extension browsers allowing file downloads also falls under that? That&#x27;s just what BitTorrent is after all.')

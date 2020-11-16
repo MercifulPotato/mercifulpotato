@@ -1,1 +1,1 @@
-Item(by='juusto', descendants=0, kids=None, score=5, time=1605464586, title='Macs Are a Privacy Nightmare', item_type='story', url='https://www.osnews.com/story/132577/macs-are-a-privacy-nightmare/', parent=None, text=None)
+Item(by='juusto', descendants=2, kids=[25106102], score=15, time=1605464586, title='Macs Are a Privacy Nightmare', item_type='story', url='https://www.osnews.com/story/132577/macs-are-a-privacy-nightmare/', parent=None, text=None)

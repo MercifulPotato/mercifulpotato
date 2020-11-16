@@ -1,0 +1,1 @@
+Item(by='Geee', descendants=None, kids=None, score=None, time=1605488819, title=None, item_type='comment', url=None, parent=25106319, text='It might make sense to use very fast SSD as the main memory and on-chip RAM as cache. Huge amounts of RAM make only sense if your disks are slow or your workload actually needs the whole RAM which is rare.')

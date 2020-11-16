@@ -1,1 +1,1 @@
-Item(by='dwenzek', descendants=1, kids=[25092207], score=6, time=1605360931, title='Testing Database Engines via Pivoted Query Synthesis [pdf]', item_type='story', url='https://www.usenix.org/system/files/osdi20-rigger.pdf', parent=None, text=None)
+Item(by='dwenzek', descendants=1, kids=[25092207], score=7, time=1605360931, title='Testing Database Engines via Pivoted Query Synthesis [pdf]', item_type='story', url='https://www.usenix.org/system/files/osdi20-rigger.pdf', parent=None, text=None)

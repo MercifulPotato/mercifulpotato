@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=None, score=None, time=1605495439, title=None, item_type='comment', url=None, parent=25106394, text='Virtualisation <i>within</i> the x86 emulation isn&#x27;t possible. So you can&#x27;t just run the x86 build of parallels and have it work. But it should be possible to build a new dedicated ARM version of parallels.')

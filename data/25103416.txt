@@ -1,1 +1,1 @@
-Item(by='lambdamore', descendants=0, kids=None, score=2, time=1605464749, title='Improving seasonal forecast using probabilistic deep learning', item_type='story', url='https://arxiv.org/abs/2010.14610', parent=None, text=None)
+Item(by='lambdamore', descendants=1, kids=[25106274], score=27, time=1605464749, title='Improving seasonal forecast using probabilistic deep learning', item_type='story', url='https://arxiv.org/abs/2010.14610', parent=None, text=None)

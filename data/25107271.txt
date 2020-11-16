@@ -1,0 +1,1 @@
+Item(by='fb03', descendants=None, kids=None, score=None, time=1605493449, title=None, item_type='comment', url=None, parent=25107131, text='And now we have WSL2 which is quite good in that regard too.<p>I love being on Linux but I am sick of tinkering too. I make music and game on Windows and Dev on WSL2 with X11 forwarding to desktop, which is flawless.')

@@ -1,1 +1,1 @@
-Item(by='chris_wot', descendants=None, kids=None, score=None, time=1605454937, title=None, item_type='comment', url=None, parent=25100241, text='Every time I see this on HN, I always feel the need to thank Khalid.<p>This time is no different - thank you Khalid!')
+Item(by='chris_wot', descendants=None, kids=[25107080], score=None, time=1605454937, title=None, item_type='comment', url=None, parent=25100241, text='Every time I see this on HN, I always feel the need to thank Khalid.<p>This time is no different - thank you Khalid!')

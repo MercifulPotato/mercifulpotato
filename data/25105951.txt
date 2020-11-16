@@ -1,0 +1,1 @@
+Item(by='rwj', descendants=None, kids=None, score=None, time=1605482495, title=None, item_type='comment', url=None, parent=25103245, text='I&#x27;ve found it pretty easy debug GitLab CI issues.  You know the docker image, so you can create the environment locally.  You then need to concat the scripts together.')

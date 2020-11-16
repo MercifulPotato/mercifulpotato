@@ -1,1 +1,1 @@
-Item(by='Erlich_Bachman', descendants=None, kids=None, score=None, time=1605468083, title=None, item_type='comment', url=None, parent=25102198, text='Would it be possible to have a design that could be largely 3D-printed?')
+Item(by='Erlich_Bachman', descendants=None, kids=[25105251], score=None, time=1605468083, title=None, item_type='comment', url=None, parent=25102198, text='Would it be possible to have a design that could be largely 3D-printed?')

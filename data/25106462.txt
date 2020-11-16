@@ -1,0 +1,1 @@
+Item(by='easton', descendants=None, kids=[25106548], score=None, time=1605486364, title=None, item_type='comment', url=None, parent=25106394, text='Virtualization <i>is</i> possible on the M1, it is not possible on the Developer Transition Kit which uses a A12Z chip without Virtualization extensions.<p>It can only virtualize ARM, of course.')

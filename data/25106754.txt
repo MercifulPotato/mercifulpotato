@@ -1,0 +1,1 @@
+Item(by='berkut', descendants=None, kids=None, score=None, time=1605488591, title=None, item_type='comment', url=None, parent=25106543, text='? It&#x27;s LGPL, so as long as you link dynamically, it&#x27;s fine for proprietary software to use it. A lot of commercial proprietary software in the VFX industry does this (Nuke, Katana, Mari, Maya, Houdini, etc).')

@@ -1,1 +1,1 @@
-Item(by='flavor8', descendants=None, kids=None, score=None, time=1605454485, title=None, item_type='comment', url=None, parent=25101135, text='Genuinely curious - are you seriously a fan of the Kochs? What do you find admirable about them?')
+Item(by='flavor8', descendants=None, kids=[25104191], score=None, time=1605454485, title=None, item_type='comment', url=None, parent=25101135, text='Genuinely curious - are you seriously a fan of the Kochs? What do you find admirable about them?')

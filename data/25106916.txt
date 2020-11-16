@@ -1,0 +1,1 @@
+Item(by='wmf', descendants=None, kids=[25107215], score=None, time=1605489891, title=None, item_type='comment', url=None, parent=25106846, text='Such apps will use CPUID to detect that AVX is not implemented and they won&#x27;t use any AVX instructions.')

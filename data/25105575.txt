@@ -1,0 +1,1 @@
+Item(by='javawizard', descendants=None, kids=None, score=None, time=1605479465, title=None, item_type='comment', url=None, parent=25105462, text='The problem is not so much that it stores state in the URL as that it uses window.history.pushState instead of window.history.replaceState.')

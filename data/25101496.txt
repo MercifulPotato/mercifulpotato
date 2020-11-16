@@ -1,1 +1,1 @@
-Item(by='klysm', descendants=None, kids=[25103078], score=None, time=1605450948, title=None, item_type='comment', url=None, parent=25101451, text='I know you can scrape only audio from YouTube with YouTubeDL but it’s somewhat annoying')
+Item(by='klysm', descendants=None, kids=[25103078, 25105785], score=None, time=1605450948, title=None, item_type='comment', url=None, parent=25101451, text='I know you can scrape only audio from YouTube with YouTubeDL but it’s somewhat annoying')

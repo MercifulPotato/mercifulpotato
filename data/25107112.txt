@@ -1,0 +1,1 @@
+Item(by='mr_toad', descendants=None, kids=None, score=None, time=1605491928, title=None, item_type='comment', url=None, parent=25106394, text='I wouldn’t really expect x86 virtualisation instructions to be supported under Rosetta.<p>You’re going to need an ARM version of Docker, running ARM  Linux kernels, and ARM userland Linux binaries.')

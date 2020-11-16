@@ -1,0 +1,1 @@
+Item(by='euiq', descendants=None, kids=None, score=None, time=1605471819, title=None, item_type='comment', url=None, parent=25100438, text='The problem with inheriting from asyncio.Protocol is that it ties your code to the callback-based low level asyncio API—I&#x27;m not surprised that this package doesn&#x27;t have any tests.')

@@ -1,1 +1,1 @@
-Item(by='kungito', descendants=None, kids=None, score=None, time=1605464881, title=None, item_type='comment', url=None, parent=25103225, text='Pickups in Europe? Practically don&#x27;t exist')
+Item(by='kungito', descendants=None, kids=[25104740], score=None, time=1605464881, title=None, item_type='comment', url=None, parent=25103225, text='Pickups in Europe? Practically don&#x27;t exist')

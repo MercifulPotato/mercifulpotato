@@ -1,1 +1,1 @@
-Item(by='Akcium', descendants=0, kids=None, score=4, time=1605466940, title='Google, you are bad at UX', item_type='story', url='https://twitter.com/vponamariov/status/1328049247183384576', parent=None, text=None)
+Item(by='Akcium', descendants=14, kids=[25104703, 25105857, 25105859, 25104151, 25104667, 25105567, 25104961], score=30, time=1605466940, title='Google, you are bad at UX', item_type='story', url='https://twitter.com/vponamariov/status/1328049247183384576', parent=None, text=None)

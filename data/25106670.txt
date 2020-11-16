@@ -1,0 +1,1 @@
+Item(by='chrisseaton', descendants=None, kids=None, score=None, time=1605487932, title=None, item_type='comment', url=None, parent=25106326, text='The JVM is a bit lacking on ARM64. I’m still seeing super-basic intrinsics being added to the compilers.')

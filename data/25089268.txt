@@ -1,1 +1,1 @@
-Item(by='nottorp', descendants=None, kids=None, score=None, time=1605314749, title=None, item_type='comment', url=None, parent=25086422, text='That&#x27;s decent performance for a fanless laptop for sure.<p>Too bad that with the architecture change all you have to play is iOS games...')
+Item(by='nottorp', descendants=None, kids=[25107322], score=None, time=1605314749, title=None, item_type='comment', url=None, parent=25086422, text='That&#x27;s decent performance for a fanless laptop for sure.<p>Too bad that with the architecture change all you have to play is iOS games...')

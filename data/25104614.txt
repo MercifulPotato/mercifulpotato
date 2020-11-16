@@ -1,0 +1,1 @@
+Item(by='VBprogrammer', descendants=None, kids=[25104982], score=None, time=1605472865, title=None, item_type='comment', url=None, parent=25104383, text='&gt; Is also a matter of performance (no wonder Java code is that slow)<p>Surely these would be trivially inlined?')

@@ -1,1 +1,1 @@
-Item(by='nikivi', descendants=None, kids=[25103448], score=None, time=1605463475, title=None, item_type='comment', url=None, parent=25103181, text='It&#x27;s mostly just clean UI that I like. And that it&#x27;s in Swift, makes it easier to contribute than C.')
+Item(by='nikivi', descendants=None, kids=[25103448, 25106760], score=None, time=1605463475, title=None, item_type='comment', url=None, parent=25103181, text='It&#x27;s mostly just clean UI that I like. And that it&#x27;s in Swift, makes it easier to contribute than C.')

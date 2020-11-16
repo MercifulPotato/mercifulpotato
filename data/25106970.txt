@@ -1,0 +1,1 @@
+Item(by='ledauphin', descendants=None, kids=None, score=None, time=1605490452, title=None, item_type='comment', url=None, parent=25102097, text='serverless (well, lambdas) would be very expensive for any truly significant ETL work. if you have long-running jobs of any kind, that&#x27;s precisely the opposite of where serverless shines.')

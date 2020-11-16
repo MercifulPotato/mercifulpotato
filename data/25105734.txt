@@ -1,0 +1,1 @@
+Item(by='ohgodplsno', descendants=None, kids=None, score=None, time=1605480638, title=None, item_type='comment', url=None, parent=25105428, text='That&#x27;s a consequence of using ORMs. ORMs are a horrible performance mess. Just straight up write SQL. I&#x27;m sure Ruby has enough metaprogramming magic to not have to deal with cursors manually.')

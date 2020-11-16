@@ -1,0 +1,1 @@
+Item(by='nyellin', descendants=None, kids=None, score=None, time=1605473403, title=None, item_type='comment', url=None, parent=25104523, text='For context, this is the second major RCE vulnerability discovered in SD-WAN products by Realmode Labs in under a week. There are another two such vulnerabilities on the way according to the post for additional vendors.')

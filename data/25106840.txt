@@ -1,0 +1,1 @@
+Item(by='zrail', descendants=None, kids=None, score=None, time=1605489301, title=None, item_type='comment', url=None, parent=25102400, text='I end-run around the weird HA z-wave integration by using zwave2mqtt running on a pi with my HA running in a VM on a server in my homelab. I haven’t had nearly as many issues after I switched to this setup and it it running.')

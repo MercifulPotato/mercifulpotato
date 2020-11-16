@@ -1,0 +1,1 @@
+Item(by='earthboundkid', descendants=None, kids=None, score=None, time=1605490847, title=None, item_type='comment', url=None, parent=25101429, text='It’s only an “integration” test because you split things up too much. In a monolith, it would all be unit tests against a mock DB.')

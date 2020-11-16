@@ -1,0 +1,1 @@
+Item(by='anamexis', descendants=None, kids=None, score=None, time=1605492602, title=None, item_type='comment', url=None, parent=25107055, text='I&#x27;m curious what you think the fundamental difference is between passing configuration through functions and closures, and passing it with classes. Classes are just fancy closures, after all.')
