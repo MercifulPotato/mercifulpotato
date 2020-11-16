@@ -1,1 +1,1 @@
-Item(by='rubyn00bie', descendants=None, kids=None, score=None, time=1605389184, title=None, item_type='comment', url=None, parent=25094432, text='I&#x27;ve been looking at Avro for a while; how are you all feeling about it? Any suggestions or gotcha from real world usage?')
+Item(by='rubyn00bie', descendants=None, kids=[25110126], score=None, time=1605389184, title=None, item_type='comment', url=None, parent=25094432, text='I&#x27;ve been looking at Avro for a while; how are you all feeling about it? Any suggestions or gotcha from real world usage?')

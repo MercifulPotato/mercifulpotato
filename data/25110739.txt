@@ -1,0 +1,1 @@
+Item(by='cromwellian', descendants=None, kids=None, score=None, time=1605528969, title=None, item_type='comment', url=None, parent=25110269, text='Even an RTC 2060 beats it, the 2060 has 52 TFLOPs worth of tensor core ops (not counting the CUDA cores), and it has &gt;100 TOPs @ INT8, or 200+ TOPs @ INT4, so more than 10x the M1.')

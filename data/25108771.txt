@@ -1,1 +1,1 @@
-Item(by='roschdal', descendants=0, kids=None, score=2, time=1605508443, title='Show HN: Ubuntu Mate', item_type='story', url='https://ubuntu-mate.org/', parent=None, text=None)
+Item(by='roschdal', descendants=52, kids=[25109991, 25110251, 25109877, 25110100, 25110303, 25110568, 25109994, 25110622, 25110085, 25110062], score=53, time=1605508443, title='Show HN: Ubuntu Mate', item_type='story', url='https://ubuntu-mate.org/', parent=None, text=None)

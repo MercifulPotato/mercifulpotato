@@ -1,0 +1,1 @@
+Item(by='nelsontky', descendants=None, kids=[25111609], score=None, time=1605534679, title=None, item_type='comment', url=None, parent=25111394, text='What I meant was that GitHub&#x27;s API does not check for the Host header, and the API allows connections from any source. Thus, CORS isn&#x27;t an issue at all.')

@@ -1,0 +1,1 @@
+Item(by='steerablesafe', descendants=None, kids=[25111028], score=None, time=1605524197, title=None, item_type='comment', url=None, parent=25110125, text='On Linux you can also have network namespaces. It wouldn&#x27;t surprise me if Mac OS had a similar capability and their apps ran on a different network namespace than the one configurable by the user.')

@@ -1,0 +1,1 @@
+Item(by='inthewings', descendants=None, kids=None, score=None, time=1605517815, title=None, item_type='comment', url=None, parent=25105010, text='Qt has never worked correctly with HiDPI and Qt5 is a nightmare to integrate a player window (need to implement yourself on every platform).\nNo magic.')

@@ -1,0 +1,1 @@
+Item(by='Silhouette', descendants=None, kids=[25111400], score=None, time=1605533214, title=None, item_type='comment', url=None, parent=25111198, text='That is my expectation as well.<p>The other, arguably bigger, problem here is that the data is apparently being sent unencrypted, so regardless of whether Apple discards some of the data after receiving it, others might not.')

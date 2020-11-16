@@ -1,0 +1,1 @@
+Item(by='nelsontky', descendants=None, kids=None, score=None, time=1605534787, title=None, item_type='comment', url=None, parent=25111122, text='This is definitely just a fun hack and not meant for production! For production ready short links with low overheads I would personally recommend using Firebase URLs or cloud firestore.')

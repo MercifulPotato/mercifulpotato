@@ -1,0 +1,1 @@
+Item(by='steeve', descendants=None, kids=[25111058], score=None, time=1605525301, title=None, item_type='comment', url=None, parent=25110220, text='Better exploiting hardware (via seastar and the one-thread-per-core model, see ScyllaDB vs Cassandra also) and probably better architecture.')

@@ -1,0 +1,1 @@
+Item(by='notRobot', descendants=None, kids=[25111356], score=None, time=1605533162, title=None, item_type='comment', url=None, parent=25111267, text='All redirection is client-side. Even 301s are just instructions for the client to open another page, which they are free to ignore.')

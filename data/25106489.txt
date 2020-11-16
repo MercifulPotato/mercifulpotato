@@ -1,1 +1,1 @@
-Item(by='nazgulnarsil', descendants=None, kids=None, score=None, time=1605486570, title=None, item_type='comment', url=None, parent=25104787, text='1. Russia is big but not quite as big as I thought<p>2. China is bigger than I thought<p>3. India is even smaller than I thought')
+Item(by='nazgulnarsil', descendants=None, kids=[25110421], score=None, time=1605486570, title=None, item_type='comment', url=None, parent=25104787, text='1. Russia is big but not quite as big as I thought<p>2. China is bigger than I thought<p>3. India is even smaller than I thought')

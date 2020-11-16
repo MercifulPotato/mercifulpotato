@@ -1,1 +1,1 @@
-Item(by='apexalpha', descendants=None, kids=None, score=None, time=1605515065, title=None, item_type='comment', url=None, parent=25108337, text='How would one put their antenna on the roof of a train? Or does he mean 1 antenna for an entire train?')
+Item(by='apexalpha', descendants=None, kids=[25111746], score=None, time=1605515065, title=None, item_type='comment', url=None, parent=25108337, text='How would one put their antenna on the roof of a train? Or does he mean 1 antenna for an entire train?')

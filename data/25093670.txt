@@ -1,1 +1,1 @@
-Item(by='jaemoe', descendants=None, kids=None, score=None, time=1605373989, title=None, item_type='comment', url=None, parent=25093645, text='It does, currently waiting to be either invited to lobsters or for the registrations to open again.')
+Item(by='jaemoe', descendants=None, kids=[25110148], score=None, time=1605373989, title=None, item_type='comment', url=None, parent=25093645, text='It does, currently waiting to be either invited to lobsters or for the registrations to open again.')

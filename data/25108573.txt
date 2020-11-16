@@ -1,1 +1,1 @@
-Item(by='keiferski', descendants=1, kids=[25108659], score=23, time=1605506353, title='The Basque-Icelandic Pidgin', item_type='story', url='https://en.wikipedia.org/wiki/Basque–Icelandic_pidgin', parent=None, text=None)
+Item(by='keiferski', descendants=27, kids=[25108659, 25112398, 25109624, 25110092, 25110460], score=130, time=1605506353, title='The Basque-Icelandic Pidgin', item_type='story', url='https://en.wikipedia.org/wiki/Basque–Icelandic_pidgin', parent=None, text=None)

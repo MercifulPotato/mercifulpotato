@@ -1,1 +1,1 @@
-Item(by='cm2012', descendants=None, kids=None, score=None, time=1605481530, title=None, item_type='comment', url=None, parent=25104787, text='Wow South America is so much bigger than expected. Brazil is as big as the USA.')
+Item(by='cm2012', descendants=None, kids=[25109826], score=None, time=1605481530, title=None, item_type='comment', url=None, parent=25104787, text='Wow South America is so much bigger than expected. Brazil is as big as the USA.')

@@ -1,1 +1,1 @@
-Item(by='omk', descendants=None, kids=None, score=None, time=1605469975, title=None, item_type='comment', url=None, parent=25100164, text='I love reading Paul G&#x27;s essays. I just hope someday there is a reliable RSS feed I can subscribe to.')
+Item(by='omk', descendants=None, kids=[25109600], score=None, time=1605469975, title=None, item_type='comment', url=None, parent=25100164, text='I love reading Paul G&#x27;s essays. I just hope someday there is a reliable RSS feed I can subscribe to.')

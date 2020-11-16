@@ -1,1 +1,1 @@
-Item(by='JamesBarney', descendants=None, kids=None, score=None, time=1605513410, title=None, item_type='comment', url=None, parent=25107865, text='Sugar does seem to be involved in gout but high fructose corn syrup is basically indistinguishable from sugar metabolically.')
+Item(by='JamesBarney', descendants=None, kids=[25109890, 25109629], score=None, time=1605513410, title=None, item_type='comment', url=None, parent=25107865, text='Sugar does seem to be involved in gout but high fructose corn syrup is basically indistinguishable from sugar metabolically.')

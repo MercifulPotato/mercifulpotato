@@ -1,0 +1,1 @@
+Item(by='owl57', descendants=None, kids=None, score=None, time=1605532035, title=None, item_type='comment', url=None, parent=25109982, text='Even if you need, for example, word boundaries, you might be better off pretending that no non-ASCII non-word chars exist than pretending that everything is valid UTF-8 or whatever. Depends on your inputs and requirements.')

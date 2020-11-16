@@ -1,0 +1,1 @@
+Item(by='ValentineC', descendants=None, kids=[25111381], score=None, time=1605532876, title=None, item_type='comment', url=None, parent=25111130, text='I reckon it&#x27;ll be possible to &quot;simplify&quot; it even more for an end-user, by making a static site generator generate these redirect HTML files from markdown or a CSV.')
