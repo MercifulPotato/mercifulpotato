@@ -1,1 +1,1 @@
-Item(by='MichaelZuo', descendants=0, kids=None, score=2, time=1605474004, title='Braess’s Paradox', item_type='story', url='https://en.wikipedia.org/wiki/Braess%27s_paradox', parent=None, text=None)
+Item(by='MichaelZuo', descendants=1, kids=[25107969], score=2, time=1605474004, title='Braess’s Paradox', item_type='story', url='https://en.wikipedia.org/wiki/Braess%27s_paradox', parent=None, text=None)

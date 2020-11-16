@@ -1,1 +1,1 @@
-Item(by='xenocratus', descendants=0, kids=None, score=3, time=1605459967, title='Stolen irreplaceable books found under floor of Romanian house', item_type='story', url='https://www.bbc.com/news/world-europe-54209366', parent=None, text=None)
+Item(by='xenocratus', descendants=17, kids=[25109038, 25108469, 25108631, 25108765, 25109045], score=33, time=1605459967, title='Stolen irreplaceable books found under floor of Romanian house', item_type='story', url='https://www.bbc.com/news/world-europe-54209366', parent=None, text=None)

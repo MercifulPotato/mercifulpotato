@@ -1,1 +1,1 @@
-Item(by='lukeschlather', descendants=None, kids=None, score=None, time=1605495475, title=None, item_type='comment', url=None, parent=25107129, text='I&#x27;ve actually quit using Bluetooth for Zoom meetings on Windows because it has been too unreliable.')
+Item(by='lukeschlather', descendants=None, kids=[25108361], score=None, time=1605495475, title=None, item_type='comment', url=None, parent=25107129, text='I&#x27;ve actually quit using Bluetooth for Zoom meetings on Windows because it has been too unreliable.')

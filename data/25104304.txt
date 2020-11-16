@@ -1,1 +1,1 @@
-Item(by='neop1x', descendants=None, kids=None, score=None, time=1605470746, title=None, item_type='comment', url=None, parent=25097096, text='Wait a bit until a new iOS feature will require a new XCode and the new XCode will require a new MacOS. :) Been there, seen it.')
+Item(by='neop1x', descendants=None, kids=[25108951], score=None, time=1605470746, title=None, item_type='comment', url=None, parent=25097096, text='Wait a bit until a new iOS feature will require a new XCode and the new XCode will require a new MacOS. :) Been there, seen it.')

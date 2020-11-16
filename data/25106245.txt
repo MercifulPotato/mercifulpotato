@@ -1,1 +1,1 @@
-Item(by='toast0', descendants=None, kids=None, score=None, time=1605484756, title=None, item_type='comment', url=None, parent=25102997, text='In Seattle, they just modified buildings to have entrances on the 2nd floor, and raised the sidewalks, leaving the 1st floor as a basement.')
+Item(by='toast0', descendants=None, kids=[25107409], score=None, time=1605484756, title=None, item_type='comment', url=None, parent=25102997, text='In Seattle, they just modified buildings to have entrances on the 2nd floor, and raised the sidewalks, leaving the 1st floor as a basement.')

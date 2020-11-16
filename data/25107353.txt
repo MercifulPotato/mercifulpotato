@@ -1,0 +1,1 @@
+Item(by='kordlessagain', descendants=6, kids=[25109018, 25107740, 25108651, 25108042], score=7, time=1605494362, title='Turn Off JavaScript in the Browser and Then Navigate to Slack.com', item_type='story', url=None, parent=None, text='This produces infinite redirects in both Chrome and Firefox.')

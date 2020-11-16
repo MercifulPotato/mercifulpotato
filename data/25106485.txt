@@ -1,1 +1,1 @@
-Item(by='phaemon', descendants=None, kids=None, score=None, time=1605486532, title=None, item_type='comment', url=None, parent=25106210, text='The contiguous United States are slightly smaller than the Sahara.')
+Item(by='phaemon', descendants=None, kids=[25107830], score=None, time=1605486532, title=None, item_type='comment', url=None, parent=25106210, text='The contiguous United States are slightly smaller than the Sahara.')

@@ -1,0 +1,1 @@
+Item(by='redis_mlc', descendants=None, kids=None, score=None, time=1605505980, title=None, item_type='comment', url=None, parent=25107712, text='0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610<p>Hope (Days) = Calculated Est. (Hours)<p>1 day = 8 hours<p>2 days = 8 + 13 = 21 hours<p>3 days = 8 + 13 + 21 = 34 hours<p>H(days) = Fn(6+days) hours, where days &gt;= 2')

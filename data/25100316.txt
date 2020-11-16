@@ -1,1 +1,1 @@
-Item(by='Sami_Lehtinen', descendants=26, kids=[25101825, 25105842, 25100641, 25101396, 25102811], score=124, time=1605439677, title='The Messaging Layer Security (MLS) Protocol', item_type='story', url='https://datatracker.ietf.org/doc/draft-ietf-mls-protocol/', parent=None, text=None)
+Item(by='Sami_Lehtinen', descendants=26, kids=[25101825, 25100641, 25105842, 25101396, 25102811], score=128, time=1605439677, title='The Messaging Layer Security (MLS) Protocol', item_type='story', url='https://datatracker.ietf.org/doc/draft-ietf-mls-protocol/', parent=None, text=None)

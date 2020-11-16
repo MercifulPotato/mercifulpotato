@@ -1,1 +1,1 @@
-Item(by='fartcannon', descendants=None, kids=None, score=None, time=1605493284, title=None, item_type='comment', url=None, parent=25107224, text='With proton, the hoops are rare, not typical.')
+Item(by='fartcannon', descendants=None, kids=[25107800], score=None, time=1605493284, title=None, item_type='comment', url=None, parent=25107224, text='With proton, the hoops are rare, not typical.')

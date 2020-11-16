@@ -1,0 +1,1 @@
+Item(by='sirsar', descendants=None, kids=[25109050], score=None, time=1605510906, title=None, item_type='comment', url=None, parent=25108816, text='You are misunderstanding. The bloom filter is only a preliminary check; if it indicates a revoked certificate, you then verify that it&#x27;s a true positive the traditional way.')

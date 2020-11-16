@@ -1,1 +1,1 @@
-Item(by='mooreds', descendants=0, kids=None, score=3, time=1605460342, title='Every thought about giving and taking advice I’ve ever had', item_type='story', url='https://guzey.com/advice/', parent=None, text=None)
+Item(by='mooreds', descendants=7, kids=[25108964, 25109090, 25109076, 25108865], score=35, time=1605460342, title='Every thought about giving and taking advice I’ve ever had', item_type='story', url='https://guzey.com/advice/', parent=None, text=None)

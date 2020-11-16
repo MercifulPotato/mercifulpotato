@@ -1,0 +1,1 @@
+Item(by='beams', descendants=None, kids=[25109401, 25109273, 25109214], score=None, time=1605493524, title=None, item_type='comment', url=None, parent=25107126, text='Why TCP over UDP?  The whole point of TCP is retransmission.  What did you gain by encapsulating this way?')

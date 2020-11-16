@@ -1,0 +1,1 @@
+Item(by='brundolf', descendants=None, kids=[25108239], score=None, time=1605502017, title=None, item_type='comment', url=None, parent=25108022, text='Spring DI implies automatic DI containers, right? So how would that work with an abstract function type (as opposed to a specific class that gets instantiated)?')
