@@ -1,1 +1,1 @@
-Item(by='zsu', descendants=0, kids=None, score=3, time=1605617567, title='Yin-Yang: finding 1k bugs in SMT solvers (tool release)', item_type='story', url='https://github.com/testsmt/yinyang', parent=None, text=None)
+Item(by='zsu', descendants=4, kids=[25127875, 25126366, 25123575, 25125244], score=22, time=1605617567, title='Yin-Yang – A tool for stress-testing SMT solvers', item_type='story', url='https://testsmt.github.io/', parent=None, text=None)

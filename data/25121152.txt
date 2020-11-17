@@ -1,1 +1,1 @@
-Item(by='gspr', descendants=None, kids=None, score=None, time=1605599195, title=None, item_type='comment', url=None, parent=25117025, text='I haven&#x27;t made up my opinion. Part of me thinks that if they had nothing to hide, they&#x27;d show their code.')
+Item(by='gspr', descendants=None, kids=[25124696], score=None, time=1605599195, title=None, item_type='comment', url=None, parent=25117025, text='I haven&#x27;t made up my opinion. Part of me thinks that if they had nothing to hide, they&#x27;d show their code.')

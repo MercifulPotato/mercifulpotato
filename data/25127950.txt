@@ -1,0 +1,1 @@
+Item(by='bmn__', descendants=None, kids=None, score=None, time=1605639194, title=None, item_type='comment', url=None, parent=25126037, text='It&#x27;s part of the Git release. Maybe your distro split this optional part out into a separate package, try installing `git-gui`.')

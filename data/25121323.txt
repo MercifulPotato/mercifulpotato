@@ -1,1 +1,1 @@
-Item(by='benoitg', descendants=9, kids=[25123996, 25121478, 25122528, 25122899, 25123825, 25122588], score=87, time=1605601465, title='Xkcd: Ten Years', item_type='story', url='https://xkcd.com/2386/', parent=None, text=None)
+Item(by='benoitg', descendants=10, kids=[25121478, 25123996, 25122528, 25122588, 25122899, 25124910, 25123825], score=111, time=1605601465, title='Xkcd: Ten Years', item_type='story', url='https://xkcd.com/2386/', parent=None, text=None)

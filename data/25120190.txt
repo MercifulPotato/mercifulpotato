@@ -1,1 +1,1 @@
-Item(by='jonbaer', descendants=4, kids=[25121766, 25121477, 25121894, 25122694], score=36, time=1605586297, title='Text Visualization Browser', item_type='story', url='https://textvis.lnu.se/', parent=None, text=None)
+Item(by='jonbaer', descendants=8, kids=[25121766, 25121894, 25121477, 25122694, 25124216], score=55, time=1605586297, title='Text Visualization Browser', item_type='story', url='https://textvis.lnu.se/', parent=None, text=None)

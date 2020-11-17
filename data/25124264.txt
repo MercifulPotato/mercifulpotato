@@ -1,0 +1,1 @@
+Item(by='zrm', descendants=None, kids=[25126390, 25124286], score=None, time=1605624405, title=None, item_type='comment', url=None, parent=25124251, text='The issue is with Firefox overriding the system DNS with its own by default, when the system DNS may have content blocking applied and the Firefox default may not.')

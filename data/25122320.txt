@@ -1,1 +1,1 @@
-Item(by='donkeyd', descendants=None, kids=None, score=None, time=1605611122, title=None, item_type='comment', url=None, parent=25122296, text='Looked it up, that is correct. Under pressure from Facebook.')
+Item(by='donkeyd', descendants=None, kids=[25124381], score=None, time=1605611122, title=None, item_type='comment', url=None, parent=25122296, text='Looked it up, that is correct. Under pressure from Facebook.')

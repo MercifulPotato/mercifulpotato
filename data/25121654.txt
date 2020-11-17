@@ -1,1 +1,1 @@
-Item(by='lnyan', descendants=3, kids=[25123221], score=14, time=1605605009, title='Apple Silicon M1 MacBook Pro Earns 7508 Multi-Core Score in Cinebench Benchmark', item_type='story', url='https://www.macrumors.com/2020/11/16/m1-macbook-pro-cinebench-benchmark/', parent=None, text=None)
+Item(by='lnyan', descendants=5, kids=[25123221], score=17, time=1605605009, title='Apple Silicon M1 MacBook Pro Earns 7508 Multi-Core Score in Cinebench Benchmark', item_type='story', url='https://www.macrumors.com/2020/11/16/m1-macbook-pro-cinebench-benchmark/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='TonyTrapp', descendants=None, kids=None, score=None, time=1605615953, title=None, item_type='comment', url=None, parent=25122463, text='Let it run for a little bit longer (and increase DOSBox cycles to speed it up). The code is correct.')
+Item(by='TonyTrapp', descendants=None, kids=[25123959], score=None, time=1605615953, title=None, item_type='comment', url=None, parent=25122463, text='Let it run for a little bit longer (and increase DOSBox cycles to speed it up). The code is correct.')

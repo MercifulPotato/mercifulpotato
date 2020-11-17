@@ -1,0 +1,1 @@
+Item(by='apendleton', descendants=None, kids=None, score=None, time=1605635263, title=None, item_type='comment', url=None, parent=25126820, text='There&#x27;s a native ARM Rust compiler that supports Apple&#x27;s silicon, so while they don&#x27;t say, my assumption was that this was native rather than emulated.')

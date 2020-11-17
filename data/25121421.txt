@@ -1,1 +1,1 @@
-Item(by='agustif', descendants=None, kids=None, score=None, time=1605602637, title=None, item_type='comment', url=None, parent=25120747, text='The german auto-makers like BMW &#x2F; VW build their own robots for assembly, I would look up there.')
+Item(by='agustif', descendants=None, kids=[25126669], score=None, time=1605602637, title=None, item_type='comment', url=None, parent=25120747, text='The german auto-makers like BMW &#x2F; VW build their own robots for assembly, I would look up there.')

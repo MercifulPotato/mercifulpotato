@@ -1,0 +1,1 @@
+Item(by='throwhypothetic', descendants=None, kids=[25127552, 25125899, 25125676, 25128629], score=None, time=1605630287, title=None, item_type='comment', url=None, parent=25125542, text='Time should be a signed int with enough bits to go backward from the epoch at t=0 to the big bang at t=negative whatever.')

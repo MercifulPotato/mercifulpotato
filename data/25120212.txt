@@ -1,1 +1,1 @@
-Item(by='tpmx', descendants=None, kids=None, score=None, time=1605586646, title=None, item_type='comment', url=None, parent=25118948, text='A buch of my compatriots are really prickly about the current sitation, because of politics. I&#x27;m sorry for their behavior.')
+Item(by='tpmx', descendants=None, kids=[25128817], score=None, time=1605586646, title=None, item_type='comment', url=None, parent=25118948, text='A buch of my compatriots are really prickly about the current sitation, because of politics. I&#x27;m sorry for their behavior.')

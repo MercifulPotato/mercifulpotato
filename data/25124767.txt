@@ -1,0 +1,1 @@
+Item(by='MBCook', descendants=None, kids=[25124829], score=None, time=1605626604, title=None, item_type='comment', url=None, parent=25124584, text='Applications can use all 8 cores. There is one benchmark in the article where they somehow turn off the efficiency cores to figure out they add about 30% to the total CPU power in multi-core.')

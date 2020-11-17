@@ -1,1 +1,1 @@
-Item(by='jevgeni', descendants=None, kids=None, score=None, time=1605621230, title=None, item_type='comment', url=None, parent=25122702, text='These links list literally SOME and not ALL cases that need encryption.')
+Item(by='jevgeni', descendants=None, kids=[25123913], score=None, time=1605621230, title=None, item_type='comment', url=None, parent=25122702, text='These links list literally SOME and not ALL cases that need encryption.')

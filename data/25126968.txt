@@ -1,0 +1,1 @@
+Item(by='TylerE', descendants=None, kids=[25126982], score=None, time=1605635601, title=None, item_type='comment', url=None, parent=25126927, text='I wonder if the CPU can support mixed RAM.<p>E.g. have the on-die 8GB of &quot;fast&quot; ram, and then support 2 external DIMMs or something for &quot;overflow&quot;, file caching, etc.')

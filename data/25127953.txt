@@ -1,0 +1,1 @@
+Item(by='toast0', descendants=None, kids=None, score=None, time=1605639204, title=None, item_type='comment', url=None, parent=25127162, text='Have a TCP stack with synflood protection? (The mac stack was copied from FreeBSD in 2001, before syncookies&#x2F;syncache were added, and not meaningfully pulled since)')

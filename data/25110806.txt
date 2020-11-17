@@ -1,1 +1,1 @@
-Item(by='peteretep', descendants=None, kids=None, score=None, time=1605529565, title=None, item_type='comment', url=None, parent=25110767, text='Right. I like my MacBook Air just fine but I could be easily convinced to try other hardware. OS X, you can pry from my cold dead hands.')
+Item(by='peteretep', descendants=None, kids=[25112935], score=None, time=1605529565, title=None, item_type='comment', url=None, parent=25110767, text='Right. I like my MacBook Air just fine but I could be easily convinced to try other hardware. OS X, you can pry from my cold dead hands.')

@@ -1,1 +1,1 @@
-Item(by='wodenokoto', descendants=None, kids=None, score=None, time=1605611463, title=None, item_type='comment', url=None, parent=25120808, text='Wasn’t he featured in the Netflix documentary series high score?')
+Item(by='wodenokoto', descendants=None, kids=[25124306], score=None, time=1605611463, title=None, item_type='comment', url=None, parent=25120808, text='Wasn’t he featured in the Netflix documentary series high score?')

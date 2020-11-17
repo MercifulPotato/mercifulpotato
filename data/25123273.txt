@@ -1,1 +1,1 @@
-Item(by='ddalex', descendants=None, kids=None, score=None, time=1605618405, title=None, item_type='comment', url=None, parent=25123071, text='If the device can work without that ID (which Apple admits it can, since they say they never READ it), then obviously it&#x27;s not essential')
+Item(by='ddalex', descendants=None, kids=[25126676], score=None, time=1605618405, title=None, item_type='comment', url=None, parent=25123071, text='If the device can work without that ID (which Apple admits it can, since they say they never READ it), then obviously it&#x27;s not essential')

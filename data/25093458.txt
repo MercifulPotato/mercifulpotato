@@ -1,1 +1,1 @@
-Item(by='dingaling', descendants=None, kids=None, score=None, time=1605372572, title=None, item_type='comment', url=None, parent=25092457, text='That&#x27;s a fork of LineageOS so you&#x27;re still using Android')
+Item(by='dingaling', descendants=None, kids=[25124536], score=None, time=1605372572, title=None, item_type='comment', url=None, parent=25092457, text='That&#x27;s a fork of LineageOS so you&#x27;re still using Android')

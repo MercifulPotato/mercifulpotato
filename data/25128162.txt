@@ -1,0 +1,1 @@
+Item(by='wool_gather', descendants=None, kids=None, score=None, time=1605640046, title=None, item_type='comment', url=None, parent=25124873, text='Tip, instead of amending, it&#x27;s also straightforward to &quot;uncommit&quot; a temporary commit when you come back to it. `git reset HEAD~` and the state of the commit becomes the state of your working tree instead.')

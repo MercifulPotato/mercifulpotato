@@ -1,0 +1,1 @@
+Item(by='cataphract', descendants=None, kids=None, score=None, time=1605624378, title=None, item_type='comment', url=None, parent=25123599, text='You invoke it with &quot;idea.sh merge &lt;left&gt; &lt;right&gt; &lt;base&gt; &lt;out&gt;&quot;. TBH, I don&#x27;t think it&#x27;s anything special; I&#x27;ve been using p4merge for years.')

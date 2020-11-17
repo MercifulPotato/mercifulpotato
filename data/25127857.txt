@@ -1,0 +1,1 @@
+Item(by='thebravoman', descendants=None, kids=None, score=None, time=1605638853, title=None, item_type='comment', url=None, parent=25127856, text='...The way I think about technical debt is – we write certain structures like for example “if” which in many cases is a Technical Debt. Of course there are many other types, but I will stop at this one for the article.')

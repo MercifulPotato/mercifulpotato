@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=None, score=None, time=1605642009, title=None, item_type='comment', url=None, parent=25125148, text='Somebody on twitter reported that during Rust compilation the Air started throttling a bit (20-30% hit) after 3-4mn. The Pro doesn&#x27;t throttle.')

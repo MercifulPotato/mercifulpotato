@@ -1,0 +1,1 @@
+Item(by='kube-system', descendants=None, kids=[25127189, 25127173, 25127209, 25127163], score=None, time=1605635682, title=None, item_type='comment', url=None, parent=25126962, text='Right, and I think some benchmarks I&#x27;ve seen this morning indicate that it throttles during more intensive tasks.  The Pro benchmarks better, the only difference being the fan.')

@@ -1,0 +1,1 @@
+Item(by='mlindner', descendants=None, kids=None, score=None, time=1605638540, title=None, item_type='comment', url=None, parent=25126835, text='A lot of people misunderstand what Servo was. It was for developing components that could be integrated into a browser. Firefox integrated most of those and continues to develop more code in Rust. Servo lost it&#x27;s use.')

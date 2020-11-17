@@ -1,0 +1,1 @@
+Item(by='ogre_codes', descendants=None, kids=None, score=None, time=1605635432, title=None, item_type='comment', url=None, parent=25126811, text='These machines will not run Linux on bare metal. Linux will be hypervisor&#x2F; VM only on top of MacOS')

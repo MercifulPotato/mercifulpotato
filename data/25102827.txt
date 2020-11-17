@@ -1,1 +1,1 @@
-Item(by='prh8', descendants=None, kids=[25102958, 25102987], score=None, time=1605460932, title=None, item_type='comment', url=None, parent=25102009, text='CPU load being the ceiling in Rails is typically the sign of sloppy development. Most well done apps it will be the database.')
+Item(by='prh8', descendants=None, kids=[25102987, 25102958], score=None, time=1605460932, title=None, item_type='comment', url=None, parent=25102009, text='CPU load being the ceiling in Rails is typically the sign of sloppy development. Most well done apps it will be the database.')

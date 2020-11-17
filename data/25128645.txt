@@ -1,0 +1,1 @@
+Item(by='a1369209993', descendants=None, kids=[25128686], score=None, time=1605642181, title=None, item_type='comment', url=None, parent=25126500, text='Nitpick: UCS-2 actually isn&#x27;t fixed-length either, eg &quot;ẍ̊&quot; (small x+umlaut+ring above) is two code units (1E8D 030A) or possibly three (0078 0308 030A).')

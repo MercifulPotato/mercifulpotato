@@ -1,0 +1,1 @@
+Item(by='simiones', descendants=None, kids=None, score=None, time=1605635985, title=None, item_type='comment', url=None, parent=25126153, text='Well, if you&#x27;re switching branches, you already have problems with a dirty worktree. Also, pulling can actually mean rebasing (I always use pull --rebase).')

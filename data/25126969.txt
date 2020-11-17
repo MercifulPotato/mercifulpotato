@@ -1,0 +1,1 @@
+Item(by='cdcarter', descendants=None, kids=None, score=None, time=1605635610, title=None, item_type='comment', url=None, parent=25125232, text='I&#x27;ve worked at a few places where CI will automatically merge main back into open feature branches (or at least open PRs). It&#x27;s quite nice.')

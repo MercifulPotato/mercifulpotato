@@ -1,0 +1,1 @@
+Item(by='siraben', descendants=None, kids=[25128349, 25126174], score=None, time=1605630512, title=None, item_type='comment', url=None, parent=25125586, text='You can connect the device to your computer via USB and SSH into it. There&#x27;s a web interface that you can access, or you can use rsync, scp, etc.')

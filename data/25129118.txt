@@ -1,0 +1,1 @@
+Item(by='optymizer', descendants=None, kids=[25129257, 25129262], score=None, time=1605644032, title=None, item_type='comment', url=None, parent=25127912, text='Thanks for providing a real world example of code that looks fine in Rust. If you&#x27;re not using lifetimes, do you still get all the safety guarantees?')

@@ -1,0 +1,1 @@
+Item(by='snazz', descendants=None, kids=[25124925], score=None, time=1605626042, title=None, item_type='comment', url=None, parent=25124534, text='Depends on what you&#x27;re doing. For example, compiling is multi-core, but linking is normally single-core. Many workloads are still heavily single-core-dependent, so great single-core performance is still a big asset.')

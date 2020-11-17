@@ -1,0 +1,1 @@
+Item(by='kernelbugs', descendants=None, kids=[25125742], score=None, time=1605629494, title=None, item_type='comment', url=None, parent=25124606, text='Could you not perhaps git fetch &amp;&amp; git rebase origin&#x2F;master (for instance, to pull remote changes into a local development branch)?')

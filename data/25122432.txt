@@ -1,1 +1,1 @@
-Item(by='sgt', descendants=None, kids=None, score=None, time=1605611940, title=None, item_type='comment', url=None, parent=25121705, text='Skia works really well for Flutter so I think basing it on that is a brilliant choice. Will follow this project.')
+Item(by='sgt', descendants=None, kids=[25127705], score=None, time=1605611940, title=None, item_type='comment', url=None, parent=25121705, text='Skia works really well for Flutter so I think basing it on that is a brilliant choice. Will follow this project.')

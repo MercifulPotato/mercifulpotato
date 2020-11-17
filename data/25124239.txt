@@ -1,0 +1,1 @@
+Item(by='zrm', descendants=None, kids=[25124251], score=None, time=1605624233, title=None, item_type='comment', url=None, parent=25124225, text='It&#x27;s not a malicious DoH server. It&#x27;s just any DoH server which is bypassing your Pi-hole and therefore resolves the malicious name instead of blocking it.')

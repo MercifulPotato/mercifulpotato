@@ -1,0 +1,1 @@
+Item(by='pavlov', descendants=None, kids=[25126009], score=None, time=1605628767, title=None, item_type='comment', url=None, parent=25125179, text='<i>&gt; the &quot;C&quot; ABI is just the ABI of whatever platform it&#x27;s running on</i><p>But typically the C ABI is the only stable ABI those platforms provide. That&#x27;s a huge benefit.')

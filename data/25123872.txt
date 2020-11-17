@@ -1,0 +1,1 @@
+Item(by='trevyn', descendants=None, kids=None, score=None, time=1605622171, title=None, item_type='comment', url=None, parent=25123829, text='Yep. I&#x27;ll also add that &quot;books&quot; are typically used for higher-level, more narrative pieces of documentation, vs the API-level `rustdoc`-generated documentation.')

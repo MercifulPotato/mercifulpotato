@@ -1,1 +1,1 @@
-Item(by='tempodox', descendants=None, kids=[25123401], score=None, time=1605619132, title=None, item_type='comment', url=None, parent=25122202, text='The IDFA replaces the former use of a device ID that is unchangeable, but you can generate a new IDFA any time in Settings.')
+Item(by='tempodox', descendants=None, kids=[25125100, 25123401], score=None, time=1605619132, title=None, item_type='comment', url=None, parent=25122202, text='The IDFA replaces the former use of a device ID that is unchangeable, but you can generate a new IDFA any time in Settings.')

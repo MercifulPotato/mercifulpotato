@@ -1,1 +1,1 @@
-Item(by='mrkstu', descendants=None, kids=None, score=None, time=1605620820, title=None, item_type='comment', url=None, parent=25123171, text='That only works as long as the CA trusted by the user&#x27;s computer is controlled by the box trying to do this.')
+Item(by='mrkstu', descendants=None, kids=[25125020], score=None, time=1605620820, title=None, item_type='comment', url=None, parent=25123171, text='That only works as long as the CA trusted by the user&#x27;s computer is controlled by the box trying to do this.')

@@ -1,0 +1,1 @@
+Item(by='vdfs', descendants=None, kids=[25126509], score=None, time=1605632382, title=None, item_type='comment', url=None, parent=25125814, text='ELI5: Some things that ARM can do in one instruction, can be done with multiple instructions on x86')

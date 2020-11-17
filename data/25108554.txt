@@ -1,1 +1,1 @@
-Item(by='dboreham', descendants=None, kids=None, score=None, time=1605506123, title=None, item_type='comment', url=None, parent=25107916, text='And they made ARM devices for a while.')
+Item(by='dboreham', descendants=None, kids=[25128267], score=None, time=1605506123, title=None, item_type='comment', url=None, parent=25107916, text='And they made ARM devices for a while.')

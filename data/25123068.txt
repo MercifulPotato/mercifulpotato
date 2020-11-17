@@ -1,1 +1,1 @@
-Item(by='nine_k', descendants=None, kids=[25123272, 25123459, 25123171], score=None, time=1605616998, title=None, item_type='comment', url=None, parent=25122928, text='If only the OS could terminate TLS and allow to filter decrypted traffic locally.')
+Item(by='nine_k', descendants=None, kids=[25123459, 25123272, 25123171], score=None, time=1605616998, title=None, item_type='comment', url=None, parent=25122928, text='If only the OS could terminate TLS and allow to filter decrypted traffic locally.')

@@ -1,0 +1,1 @@
+Item(by='cpeterso', descendants=None, kids=None, score=None, time=1605638860, title=None, item_type='comment', url=None, parent=25122507, text='Firefox HTTPS-Only Mode is not enabled by default. The mode just shows the user an interstitial warning when navigating to non-HTTPS sites; the user is not blocked from visiting non-HTTPS sites.')

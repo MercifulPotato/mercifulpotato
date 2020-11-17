@@ -1,0 +1,1 @@
+Item(by='whb07', descendants=None, kids=None, score=None, time=1605641147, title=None, item_type='comment', url=None, parent=25127677, text='Why would this be necessary? Assume you have 4 requests coming in concurrently, AWS would just route to 4 different lambdas. Otherwise why even go down this route?')

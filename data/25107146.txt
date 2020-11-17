@@ -1,1 +1,1 @@
-Item(by='leovailati', descendants=None, kids=None, score=None, time=1605492248, title=None, item_type='comment', url=None, parent=25105627, text='You&#x27;re right! English is my second language, so I was typing &quot;Antartica&quot;. I apologize for that.')
+Item(by='leovailati', descendants=None, kids=[25127564], score=None, time=1605492248, title=None, item_type='comment', url=None, parent=25105627, text='You&#x27;re right! English is my second language, so I was typing &quot;Antartica&quot;. I apologize for that.')

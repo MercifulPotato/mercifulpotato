@@ -1,0 +1,1 @@
+Item(by='zepto', descendants=None, kids=[25128970], score=None, time=1605625970, title=None, item_type='comment', url=None, parent=25123019, text='If you want to understand IDFA, you can read Apple’s docs.<p>IDFA is not available in Safari at all.  The api is available only to App Store apps.<p>IDFA has nothing to do with browser cookies and is not combined with them.')

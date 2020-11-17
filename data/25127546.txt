@@ -1,0 +1,1 @@
+Item(by='awal2', descendants=None, kids=None, score=None, time=1605637699, title=None, item_type='comment', url=None, parent=25126743, text='The fundamental truth of ML at the moment seems to be that gathering data takes at least as much effort and infrastructure (and often much more) than actually training the models.')

@@ -1,0 +1,1 @@
+Item(by='cpitman', descendants=None, kids=None, score=None, time=1605643613, title=None, item_type='comment', url=None, parent=25122842, text='This rings true. Systems I manage have gone from using fairly complex configuration management scripts that stand up the full stack, to using really basic scripts that create systemd units to run containers.')

@@ -1,0 +1,1 @@
+Item(by='hutzlibu', descendants=None, kids=None, score=None, time=1605637283, title=None, item_type='comment', url=None, parent=25125116, text='By now, html is totally designed to be good looking.\nLook at all the amount of work, that went into CSS and co.<p>Things that cost me a line in CSS, like text-shadow, probably would require me to implement a shader libary in swing.')

@@ -1,0 +1,1 @@
+Item(by='thom', descendants=None, kids=None, score=None, time=1605643770, title=None, item_type='comment', url=None, parent=25128507, text='If you do machine learning or simulations with big datasets and lots of parameters it does become an issue, but I will admit I could just as easily run these things on a server. I don’t think I’ve ever maxed out 32gb doing anything normal.')

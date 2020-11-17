@@ -1,0 +1,1 @@
+Item(by='dheera', descendants=None, kids=None, score=None, time=1605631764, title=None, item_type='comment', url=None, parent=25122787, text='I&#x27;m not fully understanding how this works. Can&#x27;t the user just run their own secure DOH server and tell Firefox to use that instead?')

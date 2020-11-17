@@ -1,0 +1,1 @@
+Item(by='jamescampbell', descendants=None, kids=None, score=None, time=1605630388, title=None, item_type='comment', url=None, parent=25125599, text='I am wondering, give the constraint of keeping it in Python as a pypi library, can I optimize my code further? My benchmarks against nmap could also use improved rigor.')

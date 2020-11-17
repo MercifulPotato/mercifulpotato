@@ -1,0 +1,1 @@
+Item(by='Footkerchief', descendants=None, kids=None, score=None, time=1605629172, title=None, item_type='comment', url=None, parent=25121416, text='An example issue: the interactive `--patch` mode, by far the most powerful paradigm for interacting with diffs, is available for `git stash [push]` but not for `git stash pop`.  The CLI is full of inconsistencies of this kind.')
