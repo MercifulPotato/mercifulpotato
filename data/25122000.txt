@@ -1,0 +1,1 @@
+Item(by='jabl', descendants=None, kids=[25122118], score=None, time=1605608045, title=None, item_type='comment', url=None, parent=25121961, text='IIRC HTTPS Everywhere works by having a whitelist of domains that are also accessible over https, and switches to https for those.<p>So if a site isn&#x27;t in the whitelist, it won&#x27;t modify the request in any way.')

@@ -1,1 +1,1 @@
-Item(by='thehappypm', descendants=None, kids=None, score=None, time=1605572514, title=None, item_type='comment', url=None, parent=25118105, text='We don&#x27;t really know what the &quot;real-world&quot; dose is.')
+Item(by='thehappypm', descendants=None, kids=[25121215], score=None, time=1605572514, title=None, item_type='comment', url=None, parent=25118105, text='We don&#x27;t really know what the &quot;real-world&quot; dose is.')

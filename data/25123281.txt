@@ -1,0 +1,1 @@
+Item(by='jorams', descendants=None, kids=[25123560], score=None, time=1605618467, title=None, item_type='comment', url=None, parent=25122347, text='Yes, --mirror implies a level of force. The man page contains this:<p>&quot;...locally updated refs will be force updated on the remote end, and deleted refs will be removed from the remote end...&quot;')

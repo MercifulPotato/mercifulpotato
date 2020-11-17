@@ -1,0 +1,1 @@
+Item(by='user-the-name', descendants=None, kids=None, score=None, time=1605611607, title=None, item_type='comment', url=None, parent=25122272, text='The situation is slightly confusing: The change to IDFA handling was meant to roll out as part of the iOS 14 update. However, the change was delayed, but the rest of iOS 14 was not.')

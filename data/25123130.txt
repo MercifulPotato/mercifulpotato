@@ -1,0 +1,1 @@
+Item(by='mldbk', descendants=None, kids=None, score=None, time=1605617538, title=None, item_type='comment', url=None, parent=25119316, text='Docker-compose is just a wrapper by itself. It just make volumes, port forwarding, etc based what you you will describe in your docker-compose file.<p>So if you have proper Docker installation, containers will restart on reboot.')

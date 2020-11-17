@@ -1,0 +1,1 @@
+Item(by='akling', descendants=None, kids=None, score=None, time=1605620021, title=None, item_type='comment', url=None, parent=25122357, text='It says it uses flex and bison for CSS parsing, which was true at the time of writing. It was replaced by a hand-written parser by Dave Hyatt in 2016.')

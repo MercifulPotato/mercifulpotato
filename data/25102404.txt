@@ -1,1 +1,1 @@
-Item(by='generalizations', descendants=None, kids=None, score=None, time=1605458058, title=None, item_type='comment', url=None, parent=25101636, text='That&#x27;s crazy. For a non-RC dude, how much thrust does that produce, and how much did it cost?')
+Item(by='generalizations', descendants=None, kids=[25123144], score=None, time=1605458058, title=None, item_type='comment', url=None, parent=25101636, text='That&#x27;s crazy. For a non-RC dude, how much thrust does that produce, and how much did it cost?')

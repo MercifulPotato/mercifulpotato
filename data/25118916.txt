@@ -1,1 +1,1 @@
-Item(by='kevingadd', descendants=None, kids=None, score=None, time=1605572532, title=None, item_type='comment', url=None, parent=25118749, text='Electric guitar going through a clean (ish) input is a pretty narrowly scoped problem that won&#x27;t necessarily generalize')
+Item(by='kevingadd', descendants=None, kids=[25122066], score=None, time=1605572532, title=None, item_type='comment', url=None, parent=25118749, text='Electric guitar going through a clean (ish) input is a pretty narrowly scoped problem that won&#x27;t necessarily generalize')

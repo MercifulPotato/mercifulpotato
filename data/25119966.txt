@@ -1,1 +1,1 @@
-Item(by='manquer', descendants=None, kids=None, score=None, time=1605583413, title=None, item_type='comment', url=None, parent=25119488, text=' knowing the right person to ask is hard.')
+Item(by='manquer', descendants=None, kids=[25121778], score=None, time=1605583413, title=None, item_type='comment', url=None, parent=25119488, text=' knowing the right person to ask is hard.')

@@ -1,0 +1,1 @@
+Item(by='Cloudef', descendants=None, kids=None, score=None, time=1605611625, title=None, item_type='comment', url=None, parent=25121847, text='init, clone, add, commit, push, fetch, reset, checkout, status, diff, rebase and cherry-pick are all you need pretty much. I never use merge or pull. Interactive rebase is the most useful git command.')

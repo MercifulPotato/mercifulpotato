@@ -1,0 +1,1 @@
+Item(by='dejan', descendants=None, kids=None, score=None, time=1605619291, title=None, item_type='comment', url=None, parent=25122835, text='The control panel does have 2FA via TOTP and Yubikey already. Webauthn is coming. We&#x27;re working on a solution for the mailbox 2FA, hence the (yet).')

@@ -1,1 +1,1 @@
-Item(by='dylz', descendants=None, kids=None, score=None, time=1605597185, title=None, item_type='comment', url=None, parent=25120983, text='my assumption was the first and last letters of their brand')
+Item(by='dylz', descendants=None, kids=[25122572], score=None, time=1605597185, title=None, item_type='comment', url=None, parent=25120983, text='my assumption was the first and last letters of their brand')

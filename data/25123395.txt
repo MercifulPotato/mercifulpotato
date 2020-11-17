@@ -1,0 +1,1 @@
+Item(by='AlphaWeaver', descendants=None, kids=None, score=None, time=1605619210, title=None, item_type='comment', url=None, parent=25123067, text='Ansible let&#x27;s you elevate to sudo when SSHing in as a non-root account. You can do this for on a play-by-play basis or for all plays.')

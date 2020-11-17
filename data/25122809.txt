@@ -1,0 +1,1 @@
+Item(by='zander312', descendants=None, kids=None, score=None, time=1605614964, title=None, item_type='comment', url=None, parent=25118870, text='How is the performance with larger clusters? We have clusters with 20,000 to 40,000 containers. We have had to use things like Thanos and InfluxDB to get prometheus&#x2F;grafana to work ok.<p>Does this thing scale well?')

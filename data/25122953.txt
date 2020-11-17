@@ -1,0 +1,1 @@
+Item(by='iso1631', descendants=None, kids=[25123714], score=None, time=1605616103, title=None, item_type='comment', url=None, parent=25122628, text='If your network allows TLS to an arbitary DOH server it allows VPN over TLS to an arbitrary server')

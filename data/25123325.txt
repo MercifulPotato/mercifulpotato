@@ -1,0 +1,1 @@
+Item(by='dijit', descendants=None, kids=None, score=None, time=1605618734, title=None, item_type='comment', url=None, parent=25123114, text='I really don’t want to be the guy defending perforce as I have gripes with it and prefer git for the reasons I mentioned..<p>but what was the issue with `p4 edit` that caused you to write a new CLI tool for checking out files?')

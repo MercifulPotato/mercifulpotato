@@ -1,0 +1,1 @@
+Item(by='nikola1010', descendants=None, kids=[25123325], score=None, time=1605617427, title=None, item_type='comment', url=None, parent=25123010, text='At my current job, I had to create a command-line tool just to be able to checkout things from perforce. It is ridiculous how difficult the UX is for this. And companies are still paying for it!')

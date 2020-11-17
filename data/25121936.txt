@@ -1,0 +1,1 @@
+Item(by='CodesInChaos', descendants=None, kids=[25121971], score=None, time=1605607219, title=None, item_type='comment', url=None, parent=25121604, text='One change I&#x27;d like to see in browsers is when the user enters a domain without protocol in the url bar it interprets that as https instead of http.')

@@ -1,0 +1,1 @@
+Item(by='abollaert', descendants=None, kids=[25123481], score=None, time=1605617376, title=None, item_type='comment', url=None, parent=25122996, text='... which is why we want to use FFI instead ;-) Now you already can using JNA though. JNI still requires you to write native code and compile it for your target platform, FFI eliminates that need.')

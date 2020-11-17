@@ -1,0 +1,1 @@
+Item(by='pzh', descendants=None, kids=None, score=None, time=1605613652, title=None, item_type='comment', url=None, parent=25122130, text='15k reservations per min is 250 tps. If that’s the maximum it can handle, I wouldn’t call it very scalable.')

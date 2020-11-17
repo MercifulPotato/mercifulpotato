@@ -1,0 +1,1 @@
+Item(by='ziml77', descendants=None, kids=None, score=None, time=1605619515, title=None, item_type='comment', url=None, parent=25122347, text='Probably because removing branches from the remote doesn&#x27;t make the commit history inconsistent with any copies made before the push. That seems to be the only case where git second-guesses what you tell it to do.')

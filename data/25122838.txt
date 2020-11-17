@@ -1,0 +1,1 @@
+Item(by='clktmr', descendants=None, kids=None, score=None, time=1605615211, title=None, item_type='comment', url=None, parent=25122525, text='Git can be compiled as a library and statically linked.  A project using git as a library is &#x27;cgit&#x27;.')

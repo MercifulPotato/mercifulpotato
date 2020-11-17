@@ -1,1 +1,1 @@
-Item(by='sinstein', descendants=4, kids=[25120931, 25121036], score=5, time=1605596000, title="Daniel Stenberg's (badger) Twitter account seems to have been compromised", item_type='story', url='https://twitter.com/bagder/status/1328584882482769920', parent=None, text=None)
+Item(by='sinstein', descendants=9, kids=[25121188, 25122937, 25120931, 25121036], score=19, time=1605596000, title="Daniel Stenberg's (badger) Twitter account seems to have been compromised", item_type='story', url='https://twitter.com/bagder/status/1328584882482769920', parent=None, text=None)
