@@ -1,1 +1,1 @@
-Item(by='longdefeat', descendants=0, kids=None, score=4, time=1605551433, title='Sixty-Day Outcomes Among Patients Hospitalized with Covid-19', item_type='story', url='https://www.acpjournals.org/doi/10.7326/M20-5661', parent=None, text=None)
+Item(by='longdefeat', descendants=1, kids=[25120251], score=4, time=1605551433, title='Sixty-Day Outcomes Among Patients Hospitalized with Covid-19', item_type='story', url='https://www.acpjournals.org/doi/10.7326/M20-5661', parent=None, text=None)

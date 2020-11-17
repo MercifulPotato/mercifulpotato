@@ -1,0 +1,1 @@
+Item(by='coffee667', descendants=None, kids=None, score=None, time=1605598573, title=None, item_type='comment', url=None, parent=25113440, text='All those -h -U -p command line options are very confusing but luckily psql supports connections via URI scheme:<p><pre><code>    psql postgresql:&#x2F;&#x2F;username:password@myhost.com:5432&#x2F;databasename</code></pre>')

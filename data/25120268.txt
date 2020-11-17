@@ -1,0 +1,1 @@
+Item(by='jjcm', descendants=None, kids=[25120678, 25120312], score=None, time=1605587363, title=None, item_type='comment', url=None, parent=25120253, text='Docker is likely saying that it doesn’t natively run on ARM yet. Apple’s demo was likely using Rosetta. That said this is all speculation at this point. We’ll know tomorrow.')

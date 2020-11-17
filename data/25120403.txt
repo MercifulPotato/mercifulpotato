@@ -1,0 +1,1 @@
+Item(by='paxys', descendants=None, kids=[25120424], score=None, time=1605589197, title=None, item_type='comment', url=None, parent=25120253, text='That screenshot shows a full Linux VM running on the machine using Parallels. That VM then has Docker running inside it. Docker for Mac isn&#x27;t involved at all.')

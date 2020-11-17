@@ -1,0 +1,1 @@
+Item(by='1-more', descendants=None, kids=[25120244], score=None, time=1605585693, title=None, item_type='comment', url=None, parent=25120035, text='Elm (not mainstream, I concede) wraps list and array access in a Maybe (aka an Option if you&#x27;re more familiar with ocaml) so there&#x27;s no throwing or erroring when you try to get what&#x27;s not there. Kinda pleasant.')

@@ -1,0 +1,1 @@
+Item(by='dilap', descendants=None, kids=[25120149, 25120105], score=None, time=1605584230, title=None, item_type='comment', url=None, parent=25119999, text='doesnt every mainstream language panic (or undef behavior) on out of bounds array access?<p>explicit error returns is a little clumsy, but still nicer than exceptions.<p>(zig error handling seems basically perfect to me.)')

@@ -1,0 +1,1 @@
+Item(by='Freaken', descendants=None, kids=None, score=None, time=1605587216, title=None, item_type='comment', url=None, parent=25113440, text='My personal favorite psql command: \\e, which is used to edit the query currently being written or the last query run in your preferred editor.')

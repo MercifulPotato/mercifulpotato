@@ -1,1 +1,1 @@
-Item(by='bravura', descendants=None, kids=None, score=None, time=1605578482, title=None, item_type='comment', url=None, parent=25119506, text='And apparently you a not familiar with what a cargo cult is?')
+Item(by='bravura', descendants=None, kids=[25119659], score=None, time=1605578482, title=None, item_type='comment', url=None, parent=25119506, text='And apparently you a not familiar with what a cargo cult is?')

@@ -1,1 +1,1 @@
-Item(by='hyperpape', descendants=None, kids=None, score=None, time=1605547835, title=None, item_type='comment', url=None, parent=25114354, text='This is a helpful comment because not having DKIM is in the same range of bad outcomes as having your eyes gouged out.')
+Item(by='hyperpape', descendants=None, kids=[25119929], score=None, time=1605547835, title=None, item_type='comment', url=None, parent=25114354, text='This is a helpful comment because not having DKIM is in the same range of bad outcomes as having your eyes gouged out.')

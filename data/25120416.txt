@@ -1,0 +1,1 @@
+Item(by='tasogare', descendants=None, kids=None, score=None, time=1605589288, title=None, item_type='comment', url=None, parent=25119910, text='Running the same image on dev machine and prod was an illusion brought by the fact the underlying architecture was the same. It’s not reasonable to expect images to magically be cross-architecture.')

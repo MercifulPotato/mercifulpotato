@@ -1,0 +1,1 @@
+Item(by='nl', descendants=None, kids=[25120559], score=None, time=1605590153, title=None, item_type='comment', url=None, parent=25120269, text='If Docker performance on Mac was a disincentive for using it, then people would have abandoned it because of the hypervisor instead of container architecture.')

@@ -1,0 +1,1 @@
+Item(by='foolfoolz', descendants=None, kids=None, score=None, time=1605582599, title=None, item_type='comment', url=None, parent=25119451, text='this is the same argument for throwing exceptions vs returning Either. or similarly Future vs EitherT.<p>handling all the cases sucks but it does make it really clear what choices your code is making')

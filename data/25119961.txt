@@ -1,0 +1,1 @@
+Item(by='couchand', descendants=None, kids=None, score=None, time=1605583340, title=None, item_type='comment', url=None, parent=25119770, text='Can you point to any specific examples of systems that report DKIM signing status but fail to check the validity state of a DKIM signing key? That seems like an extraordinarily unlikely set of circumstances.')

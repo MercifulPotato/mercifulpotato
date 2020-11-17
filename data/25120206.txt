@@ -1,0 +1,1 @@
+Item(by='ericpauley', descendants=None, kids=None, score=None, time=1605586565, title=None, item_type='comment', url=None, parent=25119566, text='Could you write your permission changes&#x2F;rollback logic to be idempotent? In this case you could always push the changes to completion, and reason about whether each intermediate state is safe.')

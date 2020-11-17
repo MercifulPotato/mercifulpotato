@@ -1,1 +1,1 @@
-Item(by='rubicon33', descendants=None, kids=None, score=None, time=1605573013, title=None, item_type='comment', url=None, parent=25105784, text='Wow.  Yes.  Just wish I had read this prior to updating.  Lost everything back in 2013.  Sucked.')
+Item(by='rubicon33', descendants=None, kids=[25120903], score=None, time=1605573013, title=None, item_type='comment', url=None, parent=25105784, text='Wow.  Yes.  Just wish I had read this prior to updating.  Lost everything back in 2013.  Sucked.')

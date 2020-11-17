@@ -1,0 +1,1 @@
+Item(by='speg', descendants=None, kids=[25120457, 25120687, 25120455], score=None, time=1605584173, title=None, item_type='comment', url=None, parent=25119396, text='Gosh, it never occurred to me that the reason the UI was so bloated and slow was because it is using electron!<p>Why couldn’t they just write a quick set of native panels and call it a day? Sigh.')

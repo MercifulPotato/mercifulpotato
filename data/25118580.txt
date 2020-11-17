@@ -1,1 +1,1 @@
-Item(by='taneq', descendants=None, kids=None, score=None, time=1605570166, title=None, item_type='comment', url=None, parent=25118387, text='It makes it go soggy really fast but it’s good for a laugh.')
+Item(by='taneq', descendants=None, kids=[25120746], score=None, time=1605570166, title=None, item_type='comment', url=None, parent=25118387, text='It makes it go soggy really fast but it’s good for a laugh.')

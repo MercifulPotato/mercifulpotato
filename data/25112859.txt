@@ -1,1 +1,1 @@
-Item(by='zachrose', descendants=None, kids=None, score=None, time=1605540543, title=None, item_type='comment', url=None, parent=25108875, text='Yes! Craig Hickman was a professor of mine, and his class &quot;Programming for Artists&quot; is where I got into programming.')
+Item(by='zachrose', descendants=None, kids=[25121266], score=None, time=1605540543, title=None, item_type='comment', url=None, parent=25108875, text='Yes! Craig Hickman was a professor of mine, and his class &quot;Programming for Artists&quot; is where I got into programming.')

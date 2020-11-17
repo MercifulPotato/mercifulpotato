@@ -1,1 +1,1 @@
-Item(by='leetrout', descendants=None, kids=None, score=None, time=1605575144, title=None, item_type='comment', url=None, parent=25118870, text='I really enjoyed having a UI in OpenShift. I also like GKE.<p>I’ll have to give this a try!')
+Item(by='leetrout', descendants=None, kids=[25119988], score=None, time=1605575144, title=None, item_type='comment', url=None, parent=25118870, text='I really enjoyed having a UI in OpenShift. I also like GKE.<p>I’ll have to give this a try!')

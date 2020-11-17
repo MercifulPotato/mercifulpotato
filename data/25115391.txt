@@ -1,1 +1,1 @@
-Item(by='apozem', descendants=0, kids=None, score=2, time=1605552345, title='Show HN: TypeSwift, Swift-like extensions to TypeScript and JavaScript', item_type='story', url='https://www.npmjs.com/package/typeswift', parent=None, text=None)
+Item(by='apozem', descendants=1, kids=[25120008], score=2, time=1605552345, title='Show HN: TypeSwift, Swift-like extensions to TypeScript and JavaScript', item_type='story', url='https://www.npmjs.com/package/typeswift', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='plugger', descendants=None, kids=None, score=None, time=1605504337, title=None, item_type='comment', url=None, parent=25108247, text='IIRC education is Australia&#x27;s 3rd largest export.')
+Item(by='plugger', descendants=None, kids=[25120681], score=None, time=1605504337, title=None, item_type='comment', url=None, parent=25108247, text='IIRC education is Australia&#x27;s 3rd largest export.')

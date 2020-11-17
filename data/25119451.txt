@@ -1,1 +1,1 @@
-Item(by='bheni', descendants=0, kids=None, score=2, time=1605577514, title='Moving a Golang project from panics to errors. Wouldnt wish this on my enemies.', item_type='story', url='https://www.dolthub.com/blog/2020-11-16-panics-to-errors/', parent=None, text=None)
+Item(by='bheni', descendants=52, kids=[25120091, 25119999, 25119839, 25120380, 25120256, 25120290, 25119937, 25119891, 25119914, 25119868], score=33, time=1605577514, title="Don't Panic", item_type='story', url='https://www.dolthub.com/blog/2020-11-16-panics-to-errors/', parent=None, text=None)

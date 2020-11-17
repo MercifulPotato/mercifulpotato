@@ -1,0 +1,1 @@
+Item(by='johnklos', descendants=None, kids=[25119909, 25120141], score=None, time=1605582389, title=None, item_type='comment', url=None, parent=25119787, text='Answer your own question: Can Docker on ARM run x86? Can Docker on x86 run ARM?<p>If not, then why expect Apple ARM to run x86?')

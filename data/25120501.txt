@@ -1,0 +1,1 @@
+Item(by='apta', descendants=None, kids=None, score=None, time=1605590260, title=None, item_type='comment', url=None, parent=25120389, text='To an extent, but you end up getting the worst of both worlds (and then some). You end up having to &quot;catch&quot; panics at the handler level anyway, and end up with verbose and very error-prone error handling in the code.')

@@ -1,0 +1,1 @@
+Item(by='iends', descendants=None, kids=None, score=None, time=1605591702, title=None, item_type='comment', url=None, parent=25120510, text='You don&#x27;t need to wait for Go version 1.16, you can use gotip and compile for AS right now.<p>Electron 11 was released today and supports AS, but it is listed as experimental.<p>Would love to see an experimental docker for mac soon.')
