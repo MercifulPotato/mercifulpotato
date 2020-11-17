@@ -1,0 +1,1 @@
+Item(by='djeiasbsbo', descendants=None, kids=None, score=None, time=1605570976, title=None, item_type='comment', url=None, parent=25117375, text='That&#x27;s part of prompt toolkit, a python library for building cli applications. Its creator actually reimplemented a number of applications in python with similar additions. Check out pyvim, pymux, ptpython, pypager and ptterm.')

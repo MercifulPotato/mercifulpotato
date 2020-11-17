@@ -1,0 +1,1 @@
+Item(by='toyg', descendants=None, kids=[25116243], score=None, time=1605541513, title=None, item_type='comment', url=None, parent=25111645, text='What extension do you use for this? I had an issue the other day with this, which was a bit annoying - FF wanted to save an image as webp rather than a regular jpg, for some reason, and in the end i was forced to use WGET instead.')

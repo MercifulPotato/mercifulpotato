@@ -1,1 +1,1 @@
-Item(by='Fnoord', descendants=None, kids=None, score=None, time=1605530878, title=None, item_type='comment', url=None, parent=25110398, text='If you&#x27;re a soda drinker and ever in Germany, try a Club Mate. :-)')
+Item(by='Fnoord', descendants=None, kids=[25118050], score=None, time=1605530878, title=None, item_type='comment', url=None, parent=25110398, text='If you&#x27;re a soda drinker and ever in Germany, try a Club Mate. :-)')

@@ -1,0 +1,1 @@
+Item(by='jcelerier', descendants=None, kids=None, score=None, time=1605544967, title=None, item_type='comment', url=None, parent=25100794, text='&gt; The main issue with destructors is that it is impossible to determine by reading the code which destructors in which order at which lines may be called.<p>huh ? the destructors are just in reverse order than the declaration order')

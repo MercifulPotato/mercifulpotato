@@ -1,1 +1,1 @@
-Item(by='jefftk', descendants=None, kids=None, score=None, time=1605532462, title=None, item_type='comment', url=None, parent=25110215, text='Glass put a tiny display in the upper corner of your vision; it can&#x27;t put a nametag on top of someone&#x27;s head.')
+Item(by='jefftk', descendants=None, kids=[25111652], score=None, time=1605532462, title=None, item_type='comment', url=None, parent=25110215, text='Glass put a tiny display in the upper corner of your vision; it can&#x27;t put a nametag on top of someone&#x27;s head.')

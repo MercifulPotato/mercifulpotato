@@ -1,0 +1,1 @@
+Item(by='ballenf', descendants=None, kids=[25118277], score=None, time=1605567585, title=None, item_type='comment', url=None, parent=25116863, text='I wonder if a Little Snitch type application could look at both data flows and correlate the two. Anything that packet filtering detects that isn&#x27;t also detected by content filtering could itself be handled with custom rules.')

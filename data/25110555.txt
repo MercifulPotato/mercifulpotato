@@ -1,1 +1,1 @@
-Item(by='saadalem', descendants=0, kids=None, score=2, time=1605526906, title='DARPA’s 23 Challenge Questions', item_type='story', url='https://compmath.wordpress.com/about/10-the-big-picture-darpas-23-challenge-questions/', parent=None, text=None)
+Item(by='saadalem', descendants=24, kids=[25114776, 25119151, 25117107, 25117667, 25116900, 25115871, 25117346, 25114998], score=104, time=1605526906, title='DARPA’s 23 Challenge Questions', item_type='story', url='https://compmath.wordpress.com/about/10-the-big-picture-darpas-23-challenge-questions/', parent=None, text=None)

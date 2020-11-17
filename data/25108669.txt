@@ -1,1 +1,1 @@
-Item(by='velmu', descendants=1, kids=[25110200], score=6, time=1605507389, title='German court declares techno to be music', item_type='story', url='https://www.euronews.com/2020/11/12/german-court-declares-techno-to-be-music-giving-clubs-tax-break', parent=None, text=None)
+Item(by='velmu', descendants=2, kids=[25110200, 25114887], score=8, time=1605507389, title='German court declares techno to be music', item_type='story', url='https://www.euronews.com/2020/11/12/german-court-declares-techno-to-be-music-giving-clubs-tax-break', parent=None, text=None)

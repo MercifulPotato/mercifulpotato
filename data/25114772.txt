@@ -1,0 +1,1 @@
+Item(by='spullara', descendants=None, kids=[25117301], score=None, time=1605549267, title=None, item_type='comment', url=None, parent=25114446, text='Isn&#x27;t the Widevine password essentially public as it is distributed to the client where it was extracted? Or was the Widevine key somehow stolen from Google&#x27;s private repository?')

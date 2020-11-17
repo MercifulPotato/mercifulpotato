@@ -1,1 +1,1 @@
-Item(by='formerly_proven', descendants=None, kids=None, score=None, time=1605535390, title=None, item_type='comment', url=None, parent=25111631, text='There is (for now) an approximately zero percent chance that Biontech can be bought by either a US or Chinese company.')
+Item(by='formerly_proven', descendants=None, kids=[25114002, 25112368], score=None, time=1605535390, title=None, item_type='comment', url=None, parent=25111631, text='There is (for now) an approximately zero percent chance that Biontech can be bought by either a US or Chinese company.')

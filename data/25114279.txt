@@ -1,0 +1,1 @@
+Item(by='dogma1138', descendants=None, kids=None, score=None, time=1605547216, title=None, item_type='comment', url=None, parent=25114172, text='Yes, AMD’s fuckup in compute isn’t just ROCm but also their OpenCL support on Linux.<p>Windows still gets semi-decent support especially for their WS cards but Linux oh-boy...')

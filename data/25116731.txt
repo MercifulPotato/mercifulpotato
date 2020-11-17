@@ -1,0 +1,1 @@
+Item(by='aitchnyu', descendants=None, kids=None, score=None, time=1605559250, title=None, item_type='comment', url=None, parent=25115364, text='Its apparently true for RPython too, where side effects which cause &quot;methods and other class attributes do not change after startup&quot;.')

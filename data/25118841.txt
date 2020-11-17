@@ -1,0 +1,1 @@
+Item(by='junon', descendants=None, kids=None, score=None, time=1605572025, title=None, item_type='comment', url=None, parent=25108781, text='Curious, for NES emulation, the most accurate emulators also simulate minor timing inaccuracies to allow for certain hacks to take place (if memory serves).<p>How is this handled in such code-generation projects?')

@@ -1,0 +1,1 @@
+Item(by='solarized', descendants=None, kids=None, score=None, time=1605576984, title=None, item_type='comment', url=None, parent=25114907, text='one big cons of pgcli appear when we deal with long query. even it support multiline and vi mode. we still can&#x27;t integrate a formatter for convenient sake.')

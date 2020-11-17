@@ -1,0 +1,1 @@
+Item(by='junon', descendants=None, kids=None, score=None, time=1605572507, title=None, item_type='comment', url=None, parent=25115746, text='Minor formatting gripe: the first inline citation (superscript 1) looks like an exponent given that it&#x27;s right after a numeric constant in an equation.<p>It made me re-parse the sentence a few times before realizing it.')

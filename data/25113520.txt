@@ -1,0 +1,1 @@
+Item(by='elondaits', descendants=None, kids=[25114060], score=None, time=1605543930, title=None, item_type='comment', url=None, parent=25110879, text='I made a URL shortener for the organization I work at using Amazon S3. I created a bucket that is hosted as a website, to which I upload empty files with the &quot;Redirect&quot; metadata field to indicate the destination.')

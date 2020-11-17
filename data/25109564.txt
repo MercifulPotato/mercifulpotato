@@ -1,1 +1,1 @@
-Item(by='SubiculumCode', descendants=None, kids=None, score=None, time=1605516702, title=None, item_type='comment', url=None, parent=25109052, text='Do you prefer his youtube channel or his twitch stream?')
+Item(by='SubiculumCode', descendants=None, kids=[25112233], score=None, time=1605516702, title=None, item_type='comment', url=None, parent=25109052, text='Do you prefer his youtube channel or his twitch stream?')

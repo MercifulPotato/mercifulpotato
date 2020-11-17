@@ -1,1 +1,1 @@
-Item(by='leothekim', descendants=2, kids=[25111483, 25110804], score=14, time=1605528364, title='Early Data Show Moderna’s Coronavirus Vaccine Is 94.5% Effective', item_type='story', url='https://www.nytimes.com/2020/11/16/health/Covid-moderna-vaccine.html', parent=None, text=None)
+Item(by='leothekim', descendants=3, kids=[25111483, 25110804], score=17, time=1605528364, title='Early Data Show Moderna’s Coronavirus Vaccine Is 94.5% Effective', item_type='story', url='https://www.nytimes.com/2020/11/16/health/Covid-moderna-vaccine.html', parent=None, text=None)

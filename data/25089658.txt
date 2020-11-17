@@ -1,1 +1,1 @@
-Item(by='vSanjo', descendants=None, kids=None, score=None, time=1605319205, title=None, item_type='comment', url=None, parent=25089048, text='I&#x27;d love to explore this, but I feel I lack the knowledge of finding new, improved or up-to-date PiHole lists.. do you have any advice?')
+Item(by='vSanjo', descendants=None, kids=[25107233], score=None, time=1605319205, title=None, item_type='comment', url=None, parent=25089048, text='I&#x27;d love to explore this, but I feel I lack the knowledge of finding new, improved or up-to-date PiHole lists.. do you have any advice?')

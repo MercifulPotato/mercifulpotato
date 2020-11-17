@@ -1,0 +1,1 @@
+Item(by='orf', descendants=None, kids=None, score=None, time=1605564392, title=None, item_type='comment', url=None, parent=25115312, text='There used to be a performance hit because the annotation objects where all instantiated and attached to the function objects. This is no longer the case - they are only instantiated when inspected.')

@@ -1,0 +1,1 @@
+Item(by='hyperpape', descendants=None, kids=[25115779], score=None, time=1605547978, title=None, item_type='comment', url=None, parent=25114167, text='Your threat model appears to be that most email providers are hacked a substantial percent of the time, right? What defenses of anything are going to work with that threat model?')

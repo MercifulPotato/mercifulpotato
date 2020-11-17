@@ -1,1 +1,1 @@
-Item(by='jaywalk', descendants=None, kids=None, score=None, time=1605536428, title=None, item_type='comment', url=None, parent=25111226, text='I don&#x27;t believe the IME has anything to do with DRM. That would be TPM.')
+Item(by='jaywalk', descendants=None, kids=[25112604], score=None, time=1605536428, title=None, item_type='comment', url=None, parent=25111226, text='I don&#x27;t believe the IME has anything to do with DRM. That would be TPM.')

@@ -1,1 +1,1 @@
-Item(by='swebs', descendants=None, kids=None, score=None, time=1605486661, title=None, item_type='comment', url=None, parent=25106224, text='I remember it doing this as well. But I just tried it now and it doesn&#x27;t anymore.')
+Item(by='swebs', descendants=None, kids=[25112288, 25111982], score=None, time=1605486661, title=None, item_type='comment', url=None, parent=25106224, text='I remember it doing this as well. But I just tried it now and it doesn&#x27;t anymore.')

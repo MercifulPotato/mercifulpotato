@@ -1,0 +1,1 @@
+Item(by='6gvONxR4sf7o', descendants=None, kids=None, score=None, time=1605548139, title=None, item_type='comment', url=None, parent=25113674, text='It matches the expression with x_ as a named wildcard (it has lots of stuff you can do to constrain the matching, like “only match if x is prime”). Then it replaces the whole expression having x bound to whatever x_ matched.')

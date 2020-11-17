@@ -1,1 +1,1 @@
-Item(by='go-masonry', descendants=27, kids=[25104921, 25107055, 25104569, 25105544], score=71, time=1605453176, title='Golang web service framework with DI, Telemetry and more', item_type='story', url='https://github.com/go-masonry/mortar', parent=None, text=None)
+Item(by='go-masonry', descendants=27, kids=[25104921, 25107055, 25104569, 25105544], score=73, time=1605453176, title='Golang web service framework with DI, Telemetry and more', item_type='story', url='https://github.com/go-masonry/mortar', parent=None, text=None)

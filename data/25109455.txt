@@ -1,1 +1,1 @@
-Item(by='apexalpha', descendants=None, kids=None, score=None, time=1605515740, title=None, item_type='comment', url=None, parent=25107924, text='So is this a little bit like Android apps being translated into Java Byte Code at install?')
+Item(by='apexalpha', descendants=None, kids=[25114397], score=None, time=1605515740, title=None, item_type='comment', url=None, parent=25107924, text='So is this a little bit like Android apps being translated into Java Byte Code at install?')

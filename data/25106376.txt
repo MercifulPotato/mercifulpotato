@@ -1,1 +1,1 @@
-Item(by='a9h74j', descendants=None, kids=None, score=None, time=1605485701, title=None, item_type='comment', url=None, parent=25095730, text='At one time IBM had the resources to assign the same major challenge to two internal organizations.')
+Item(by='a9h74j', descendants=None, kids=[25113352], score=None, time=1605485701, title=None, item_type='comment', url=None, parent=25095730, text='At one time IBM had the resources to assign the same major challenge to two internal organizations.')

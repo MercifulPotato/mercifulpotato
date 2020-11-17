@@ -1,1 +1,1 @@
-Item(by='cupofcoffee', descendants=None, kids=None, score=None, time=1605519248, title=None, item_type='comment', url=None, parent=25109048, text='Can you please tell us more about your day to day life and why 2 hours of free-time is considered a luxury?')
+Item(by='cupofcoffee', descendants=None, kids=[25112550], score=None, time=1605519248, title=None, item_type='comment', url=None, parent=25109048, text='Can you please tell us more about your day to day life and why 2 hours of free-time is considered a luxury?')

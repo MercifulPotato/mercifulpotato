@@ -1,0 +1,1 @@
+Item(by='tinco', descendants=None, kids=[25119431, 25119040], score=None, time=1605573499, title=None, item_type='comment', url=None, parent=25118520, text='I&#x27;d make systemd unit files around the docker-compose deployments. Upload everything with something like Ansible. If you want to go perfect go for NixOS instead, but that might be controversial.')

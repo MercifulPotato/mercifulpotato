@@ -1,1 +1,1 @@
-Item(by='danieltillett', descendants=None, kids=None, score=None, time=1605495560, title=None, item_type='comment', url=None, parent=25100458, text='It is almost as though you can’t tell the difference between statements about population aggregates and statements about individuals.')
+Item(by='danieltillett', descendants=None, kids=[25117954], score=None, time=1605495560, title=None, item_type='comment', url=None, parent=25100458, text='It is almost as though you can’t tell the difference between statements about population aggregates and statements about individuals.')

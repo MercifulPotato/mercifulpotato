@@ -1,0 +1,1 @@
+Item(by='bitwize', descendants=None, kids=None, score=None, time=1605549313, title=None, item_type='comment', url=None, parent=25113601, text='I&#x27;d say facilities for text editing (buffers, kill rings, etc.) are built in, but nearly everything else -- the different modes for programming languages, games, mail, web, and IRC clients, etc, are all in Emacs Lisp.')

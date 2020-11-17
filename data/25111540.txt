@@ -1,1 +1,1 @@
-Item(by='jedimastert', descendants=None, kids=None, score=None, time=1605534455, title=None, item_type='comment', url=None, parent=25111489, text='Sorry, I meant &quot;from scratch&quot; meaning no computers. Pen and paper, compass and straight edge, that kind of thing.')
+Item(by='jedimastert', descendants=None, kids=[25112069, 25111814, 25113124], score=None, time=1605534455, title=None, item_type='comment', url=None, parent=25111489, text='Sorry, I meant &quot;from scratch&quot; meaning no computers. Pen and paper, compass and straight edge, that kind of thing.')

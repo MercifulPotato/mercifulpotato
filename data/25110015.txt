@@ -1,1 +1,1 @@
-Item(by='billyjobob', descendants=None, kids=None, score=None, time=1605520858, title=None, item_type='comment', url=None, parent=25109091, text='I’ve tried several distros and every updated kernel up to 5.9. No distro works if it has a kernel newer than 5.6.')
+Item(by='billyjobob', descendants=None, kids=[25112108], score=None, time=1605520858, title=None, item_type='comment', url=None, parent=25109091, text='I’ve tried several distros and every updated kernel up to 5.9. No distro works if it has a kernel newer than 5.6.')

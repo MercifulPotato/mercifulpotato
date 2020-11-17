@@ -1,0 +1,1 @@
+Item(by='jmnicolas', descendants=None, kids=[25112593], score=None, time=1605537344, title=None, item_type='comment', url=None, parent=25110719, text='Shouldn&#x27;t it be the opposite: have a Linux hypervisor that controls the network and a MacOS VM (or Windows for that matter)?<p>A bit like what QubeOS does.')

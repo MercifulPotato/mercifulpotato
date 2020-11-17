@@ -1,0 +1,1 @@
+Item(by='klodolph', descendants=None, kids=None, score=None, time=1605552016, title=None, item_type='comment', url=None, parent=25114428, text='I don’t want to rely on users figuring out how to use delimiters. If the URIs with trailing periods break, so be it, people can use &lt;&gt;, but don’t make people use &lt;&gt; just because the URL isn’t English.')

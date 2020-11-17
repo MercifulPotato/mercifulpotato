@@ -1,0 +1,1 @@
+Item(by='rurban', descendants=None, kids=None, score=None, time=1605531555, title=None, item_type='comment', url=None, parent=25099013, text='In my naive opinion it would have been much easier to integrate the python debugger into FreeCAD proper. No need for mocking everything, you get the real values not fake ones. And this also does not scale. FreeCAD is constantly expanded.')

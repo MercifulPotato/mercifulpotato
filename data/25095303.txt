@@ -1,1 +1,1 @@
-Item(by='vanusa', descendants=None, kids=None, score=None, time=1605385239, title=None, item_type='comment', url=None, parent=25089859, text='Nothing Musk says about anything should be considered to have a high degree of reliability.<p>Especially on topics like Covid.')
+Item(by='vanusa', descendants=None, kids=[25119188], score=None, time=1605385239, title=None, item_type='comment', url=None, parent=25089859, text='Nothing Musk says about anything should be considered to have a high degree of reliability.<p>Especially on topics like Covid.')

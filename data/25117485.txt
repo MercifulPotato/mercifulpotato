@@ -1,0 +1,1 @@
+Item(by='imtringued', descendants=None, kids=[25117652], score=None, time=1605563780, title=None, item_type='comment', url=None, parent=25115255, text='Why not simply create a youtube-login command that does nothing but launch an electron instance that lets you login into youtube and then returns the cookie?<p>youtube-dl could then call that command to obtain the cookie.')

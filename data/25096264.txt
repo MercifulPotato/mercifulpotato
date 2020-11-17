@@ -1,1 +1,1 @@
-Item(by='dabeeeenster', descendants=None, kids=[25099555, 25099107, 25096627], score=None, time=1605392918, title=None, item_type='comment', url=None, parent=25096156, text='I don&#x27;t quite understand why anyone would send data in clear text anymore, let alone Apple.')
+Item(by='dabeeeenster', descendants=None, kids=[25099555, 25096627, 25099107], score=None, time=1605392918, title=None, item_type='comment', url=None, parent=25096156, text='I don&#x27;t quite understand why anyone would send data in clear text anymore, let alone Apple.')

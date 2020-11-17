@@ -1,1 +1,1 @@
-Item(by='Aldipower', descendants=None, kids=None, score=None, time=1605537456, title=None, item_type='comment', url=None, parent=25111918, text='So, you know the long term risks? Interesting! Please tell us.')
+Item(by='Aldipower', descendants=None, kids=[25112745], score=None, time=1605537456, title=None, item_type='comment', url=None, parent=25111918, text='So, you know the long term risks? Interesting! Please tell us.')

@@ -1,0 +1,1 @@
+Item(by='heavyset_go', descendants=None, kids=[25116877], score=None, time=1605545517, title=None, item_type='comment', url=None, parent=25112387, text='This is an interesting opinion, considering that iptables has been able to do this for decades, and nftables can, too. It is trivial to filter outgoing traffic and there are even convenient GUIs to do so.')

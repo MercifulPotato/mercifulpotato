@@ -1,0 +1,1 @@
+Item(by='gumby', descendants=None, kids=None, score=None, time=1605568322, title=None, item_type='comment', url=None, parent=25117227, text='Indeed, I started using EMACS under ITS, a timesharing OS from the early 60s, whose command “shell” was the debugger.  This of course influenced the Lispm, and the GNU philosophy.')

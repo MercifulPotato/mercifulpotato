@@ -1,0 +1,1 @@
+Item(by='theodric', descendants=None, kids=[25118639], score=None, time=1605568696, title=None, item_type='comment', url=None, parent=25117173, text='Did...did they just invent statically-linked app tarballs?<p>How about we sandbox every app inside its own Docker container, just to be sure?')
