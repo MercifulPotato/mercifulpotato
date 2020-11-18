@@ -1,1 +1,1 @@
-Item(by='xiaoxing', descendants=1, kids=[25133985], score=2, time=1605677189, title='My Problem with Git', item_type='story', url='https://www.huxiaoxing.com/programming/my-problem-with-git', parent=None, text=None)
+Item(by='xiaoxing', descendants=2, kids=[25133985], score=2, time=1605677189, title='My Problem with Git', item_type='story', url='https://www.huxiaoxing.com/programming/my-problem-with-git', parent=None, text=None)

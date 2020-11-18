@@ -1,1 +1,1 @@
-Item(by='potatoman22', descendants=None, kids=None, score=None, time=1605679674, title=None, item_type='comment', url=None, parent=25132283, text='For most information retrieval purposes, Google&#x27;s NLP algorithms can effectively determine the meaning of your query thanks to BERT')
+Item(by='potatoman22', descendants=None, kids=[25134919], score=None, time=1605679674, title=None, item_type='comment', url=None, parent=25132283, text='For most information retrieval purposes, Google&#x27;s NLP algorithms can effectively determine the meaning of your query thanks to BERT')

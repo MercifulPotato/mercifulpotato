@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1605679211, title=None, item_type='comment', url=None, parent=25133410, text='From the way they have been selling in Europe, there is a very long path to go.<p>Chromebooks are only relevant in US school system.')
+Item(by='pjmlp', descendants=None, kids=[25135428], score=None, time=1605679211, title=None, item_type='comment', url=None, parent=25133410, text='From the way they have been selling in Europe, there is a very long path to go.<p>Chromebooks are only relevant in US school system.')

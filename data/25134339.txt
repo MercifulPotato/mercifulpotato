@@ -1,1 +1,1 @@
-Item(by='sadfev', descendants=None, kids=None, score=None, time=1605687760, title=None, item_type='comment', url=None, parent=25132423, text='What regressive Victorian era garbage is that?')
+Item(by='sadfev', descendants=None, kids=[25134530], score=None, time=1605687760, title=None, item_type='comment', url=None, parent=25132423, text='What regressive Victorian era garbage is that?')

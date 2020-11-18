@@ -1,1 +1,1 @@
-Item(by='bch', descendants=None, kids=None, score=None, time=1605635811, title=None, item_type='comment', url=None, parent=25126903, text='In my experience, P4 is simply hard. Maybe my introductions were rubbish, but I’ve found it difficult in its own right.')
+Item(by='bch', descendants=None, kids=[25136407, 25136277], score=None, time=1605635811, title=None, item_type='comment', url=None, parent=25126903, text='In my experience, P4 is simply hard. Maybe my introductions were rubbish, but I’ve found it difficult in its own right.')

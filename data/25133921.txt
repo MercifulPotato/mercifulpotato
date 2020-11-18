@@ -1,1 +1,1 @@
-Item(by='BookPage', descendants=0, kids=None, score=2, time=1605682705, title='Learning Rust as a Gopher – part 5', item_type='story', url='https://levpaul.com/posts/rust-lesson-7-8-9/', parent=None, text=None)
+Item(by='BookPage', descendants=51, kids=[25136264, 25134678, 25136273, 25135562, 25134608], score=43, time=1605682705, title='Rust from a Gopher – Lessons 7, 8 and 9', item_type='story', url='https://levpaul.com/posts/rust-lesson-7-8-9/', parent=None, text=None)

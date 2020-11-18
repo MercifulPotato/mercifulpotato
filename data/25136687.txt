@@ -1,0 +1,1 @@
+Item(by='brainbag', descendants=None, kids=[25137049], score=None, time=1605707516, title=None, item_type='comment', url=None, parent=25136021, text='FYI this link on mobile iOS goes into an endless redirect loop of data:urls for some reason.')

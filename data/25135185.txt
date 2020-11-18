@@ -1,0 +1,1 @@
+Item(by='Lio', descendants=None, kids=None, score=None, time=1605695334, title=None, item_type='comment', url=None, parent=25133621, text='It’s a bit like sending events to an unknown state machine.<p>You need add enough context for the event to be processed but you can’t know what will happen when it is...')

@@ -1,1 +1,1 @@
-Item(by='Ericson2314', descendants=None, kids=None, score=None, time=1605653050, title=None, item_type='comment', url=None, parent=25130836, text='&quot;LLVM monoculture&quot; as in LLVM being the backend for every niche language, not as in LLVM being the only way to compile C.')
+Item(by='Ericson2314', descendants=None, kids=[25135299], score=None, time=1605653050, title=None, item_type='comment', url=None, parent=25130836, text='&quot;LLVM monoculture&quot; as in LLVM being the backend for every niche language, not as in LLVM being the only way to compile C.')

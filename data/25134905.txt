@@ -1,0 +1,1 @@
+Item(by='uvesten', descendants=None, kids=None, score=None, time=1605692614, title=None, item_type='comment', url=None, parent=25134603, text='I had the same situation, seems the Beta auto-update doesn&#x27;t switch to the new architecture. Just download the beta again and install it over you old install. \nThe performance difference is _really_ noticeable :)')

@@ -1,1 +1,1 @@
-Item(by='corobo', descendants=None, kids=None, score=None, time=1605654924, title=None, item_type='comment', url=None, parent=25131187, text='Does it actually not work or did you not give it enough time to warm up? It&#x27;s a lava lamp!')
+Item(by='corobo', descendants=None, kids=[25134902], score=None, time=1605654924, title=None, item_type='comment', url=None, parent=25131187, text='Does it actually not work or did you not give it enough time to warm up? It&#x27;s a lava lamp!')

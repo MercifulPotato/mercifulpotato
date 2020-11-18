@@ -1,1 +1,1 @@
-Item(by='kiwicopple', descendants=1, kids=[25133403], score=6, time=1605675462, title='The Basics of Views and Materialized Views in PostgreSQL', item_type='story', url='https://supabase.io/blog/2020/11/18/postgresql-views', parent=None, text=None)
+Item(by='kiwicopple', descendants=1, kids=[25133403], score=7, time=1605675462, title='The Basics of Views and Materialized Views in PostgreSQL', item_type='story', url='https://supabase.io/blog/2020/11/18/postgresql-views', parent=None, text=None)

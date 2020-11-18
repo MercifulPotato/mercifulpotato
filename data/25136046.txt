@@ -1,0 +1,1 @@
+Item(by='kd5bjo', descendants=None, kids=[25136455], score=None, time=1605702730, title=None, item_type='comment', url=None, parent=25135412, text='Rust modules are <i>primarily</i> about namespacing, which is why the book only mentions the inclusion behavior in one short section at the end of the relevant chapter.  For a non-namespacing include, there’s the `include!` macro.')

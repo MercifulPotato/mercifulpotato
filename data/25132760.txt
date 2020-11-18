@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=1, kids=[25132927], score=2, time=1605668965, title='curl https://v2.wttr.in/London', item_type='story', url='https://v2.wttr.in/London', parent=None, text=None)
+Item(by='tosh', descendants=2, kids=[25132927], score=3, time=1605668965, title='curl https://v2.wttr.in/London', item_type='story', url='https://v2.wttr.in/London', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=None, score=None, time=1605636246, title=None, item_type='comment', url=None, parent=25126953, text='Wonder how SPAs will load on Intel after developers get used to building them on M1.')
+Item(by='kube-system', descendants=None, kids=[25135710], score=None, time=1605636246, title=None, item_type='comment', url=None, parent=25126953, text='Wonder how SPAs will load on Intel after developers get used to building them on M1.')

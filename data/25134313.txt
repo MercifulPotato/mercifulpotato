@@ -1,0 +1,1 @@
+Item(by='Deukhoofd', descendants=None, kids=None, score=None, time=1605687561, title=None, item_type='comment', url=None, parent=25134155, text='&gt; Also note that vim with all its dependencies is ~40 MB, without a GUI<p>That&#x27;s mostly just due to vim-runtime though, and the documentation in many different languages. The actual vim executable is around 3 MB.')

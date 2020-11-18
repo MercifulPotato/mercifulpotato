@@ -1,1 +1,1 @@
-Item(by='chungy', descendants=None, kids=None, score=None, time=1605672935, title=None, item_type='comment', url=None, parent=25133054, text='UCS-2, actually, but for practical purposes, everyone treats them as UTF-16 as long as they are also valid UTF-16.')
+Item(by='chungy', descendants=None, kids=[25134797], score=None, time=1605672935, title=None, item_type='comment', url=None, parent=25133054, text='UCS-2, actually, but for practical purposes, everyone treats them as UTF-16 as long as they are also valid UTF-16.')

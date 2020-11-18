@@ -1,0 +1,1 @@
+Item(by='oneplane', descendants=None, kids=None, score=None, time=1605708726, title=None, item_type='comment', url=None, parent=25133230, text='Odd, the EFI loader puts the eGPU in a fixed space that always works (mainly because it no longer looks like an external GPU to the rest of the system), and Windows can&#x27;t mis-configure it anymore.')

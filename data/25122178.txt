@@ -1,1 +1,1 @@
-Item(by='walterbell', descendants=15, kids=[25124069, 25124007, 25125001, 25125099, 25123857, 25123675], score=142, time=1605609620, title='The Rust Performance Book', item_type='story', url='https://nnethercote.github.io/perf-book/', parent=None, text=None)
+Item(by='walterbell', descendants=15, kids=[25124069, 25124007, 25125001, 25125099, 25123857, 25123675], score=144, time=1605609620, title='The Rust Performance Book', item_type='story', url='https://nnethercote.github.io/perf-book/', parent=None, text=None)

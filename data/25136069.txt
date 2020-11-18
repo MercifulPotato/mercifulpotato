@@ -1,0 +1,1 @@
+Item(by='IshKebab', descendants=None, kids=None, score=None, time=1605702952, title=None, item_type='comment', url=None, parent=25132952, text='It&#x27;s not very clear but it seems to suggest they deploy to production <i>before</i> all the tests pass? That seems silly. Why not just wait until they&#x27;ve passed?<p>Or does &quot;deploy&quot; really mean &quot;merge&quot;?')
