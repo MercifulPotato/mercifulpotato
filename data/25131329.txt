@@ -1,1 +1,1 @@
-Item(by='Shared404', descendants=None, kids=None, score=None, time=1605656007, title=None, item_type='comment', url=None, parent=25131104, text='You may like &#x27;boardreader.com&#x27;.<p>I find it helps when looking for obscure info on random topics.')
+Item(by='Shared404', descendants=None, kids=[25134238], score=None, time=1605656007, title=None, item_type='comment', url=None, parent=25131104, text='You may like &#x27;boardreader.com&#x27;.<p>I find it helps when looking for obscure info on random topics.')

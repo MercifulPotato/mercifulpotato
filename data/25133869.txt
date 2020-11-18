@@ -1,0 +1,1 @@
+Item(by='thayne', descendants=None, kids=[25134067], score=None, time=1605682034, title=None, item_type='comment', url=None, parent=25132123, text='ldd tells me go depends on libc and libpthread (at least on linux), so it still needs c code at runtime.')

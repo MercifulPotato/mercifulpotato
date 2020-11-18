@@ -1,0 +1,1 @@
+Item(by='csande17', descendants=None, kids=[25133151], score=None, time=1605671952, title=None, item_type='comment', url=None, parent=25132401, text='Aren&#x27;t JavaScript strings defined to be UTF-16? So parts of every browser will use UTF-16, forever!')

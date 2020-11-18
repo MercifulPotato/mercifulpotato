@@ -1,1 +1,1 @@
-Item(by='dharma1', descendants=None, kids=None, score=None, time=1605660335, title=None, item_type='comment', url=None, parent=25130572, text='link?')
+Item(by='dharma1', descendants=None, kids=[25133552], score=None, time=1605660335, title=None, item_type='comment', url=None, parent=25130572, text='link?')

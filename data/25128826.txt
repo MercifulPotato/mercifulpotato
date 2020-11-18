@@ -1,1 +1,1 @@
-Item(by='dralley', descendants=None, kids=None, score=None, time=1605642948, title=None, item_type='comment', url=None, parent=25127155, text='I was holding out some hope that maybe Valve or Microsoft would consider it a worthwhile project to invest in.')
+Item(by='dralley', descendants=None, kids=[25132703], score=None, time=1605642948, title=None, item_type='comment', url=None, parent=25127155, text='I was holding out some hope that maybe Valve or Microsoft would consider it a worthwhile project to invest in.')

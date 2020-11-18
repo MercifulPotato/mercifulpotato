@@ -1,0 +1,1 @@
+Item(by='bawolff', descendants=None, kids=None, score=None, time=1605665636, title=None, item_type='comment', url=None, parent=25132321, text='I think it makes more sense to give warnings in the 72 hours prior to expiration, rather than after. At least browser console warnings.<p>Or have two expires in a cert - soft and hard.')

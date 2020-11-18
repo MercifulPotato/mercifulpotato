@@ -1,1 +1,1 @@
-Item(by='suifbwish', descendants=None, kids=[25132365, 25131326], score=None, time=1605655259, title=None, item_type='comment', url=None, parent=25123954, text='In my opinion Nothing has been able to beat good old fashioned:<p>for i in $(cat listofips);do ssh $i “some linuxy thing” ;done')
+Item(by='suifbwish', descendants=None, kids=[25131326, 25132365], score=None, time=1605655259, title=None, item_type='comment', url=None, parent=25123954, text='In my opinion Nothing has been able to beat good old fashioned:<p>for i in $(cat listofips);do ssh $i “some linuxy thing” ;done')

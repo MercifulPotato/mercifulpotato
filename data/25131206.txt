@@ -1,1 +1,1 @@
-Item(by='dang', descendants=None, kids=None, score=None, time=1605655008, title=None, item_type='comment', url=None, parent=25129511, text='I&#x27;ve deleted it now.')
+Item(by='dang', descendants=None, kids=[25132807], score=None, time=1605655008, title=None, item_type='comment', url=None, parent=25129511, text='I&#x27;ve deleted it now.')

@@ -1,0 +1,1 @@
+Item(by='ProfHewitt', descendants=None, kids=None, score=None, time=1605681521, title=None, item_type='comment', url=None, parent=25133398, text='The following theorem says that every theorem can be used in another proof:<p><pre><code>         ⊢∀[Proposition Ψ] (⊢Ψ)⇒Ψ\n</code></pre>\nThe above theorem is completely standard mathematical notation.')

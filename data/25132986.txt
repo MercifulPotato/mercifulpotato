@@ -1,0 +1,1 @@
+Item(by='johntb86', descendants=None, kids=None, score=None, time=1605671281, title=None, item_type='comment', url=None, parent=25132177, text='Strncpy doesn&#x27;t add a \\0 if it truncates the string, so the user has to remember to do that.')

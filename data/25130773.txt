@@ -1,1 +1,1 @@
-Item(by='yomansat', descendants=None, kids=None, score=None, time=1605652097, title=None, item_type='comment', url=None, parent=25127468, text='Very very nice PWA, it feels like a native app.<p>This would serve as a great example to people, thank you!')
+Item(by='yomansat', descendants=None, kids=[25134033], score=None, time=1605652097, title=None, item_type='comment', url=None, parent=25127468, text='Very very nice PWA, it feels like a native app.<p>This would serve as a great example to people, thank you!')

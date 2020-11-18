@@ -1,1 +1,1 @@
-Item(by='cvhashim', descendants=None, kids=None, score=None, time=1605650864, title=None, item_type='comment', url=None, parent=25130000, text='Where in LA do you live? LA can be just as bad as SF.')
+Item(by='cvhashim', descendants=None, kids=[25132682], score=None, time=1605650864, title=None, item_type='comment', url=None, parent=25130000, text='Where in LA do you live? LA can be just as bad as SF.')

@@ -1,0 +1,1 @@
+Item(by='duskwuff', descendants=None, kids=None, score=None, time=1605683201, title=None, item_type='comment', url=None, parent=25130262, text='Thumb isn&#x27;t a factor. The Thumb encoding is only used for 32-bit ARM instructions; 64-bit instructions use a fixed-width 32-bit encoding.')

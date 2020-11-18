@@ -1,0 +1,1 @@
+Item(by='trevyn', descendants=None, kids=[25134127, 25133854], score=None, time=1605677095, title=None, item_type='comment', url=None, parent=25133348, text='Is there anything specific GCC does for performance that Clang&#x2F;LLVM could adopt? How is this race expected to evolve over time?')

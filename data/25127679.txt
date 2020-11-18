@@ -1,1 +1,1 @@
-Item(by='CrankyBear', descendants=0, kids=None, score=3, time=1605638167, title='$6B Linux deal? SUSE IPO rumored', item_type='story', url='https://www.zdnet.com/article/6-billion-linux-deal-suse-ipo-rumored/', parent=None, text=None)
+Item(by='CrankyBear', descendants=1, kids=[25133740], score=4, time=1605638167, title='$6B Linux deal? SUSE IPO rumored', item_type='story', url='https://www.zdnet.com/article/6-billion-linux-deal-suse-ipo-rumored/', parent=None, text=None)

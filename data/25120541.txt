@@ -1,1 +1,1 @@
-Item(by='achow', descendants=None, kids=None, score=None, time=1605590683, title=None, item_type='comment', url=None, parent=25119392, text='This could easily be to compensate for unvested Amazon stock that he maybe leaving behind.')
+Item(by='achow', descendants=None, kids=[25132505], score=None, time=1605590683, title=None, item_type='comment', url=None, parent=25119392, text='This could easily be to compensate for unvested Amazon stock that he maybe leaving behind.')

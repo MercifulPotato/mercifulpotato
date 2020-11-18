@@ -1,0 +1,1 @@
+Item(by='Cloudef', descendants=None, kids=None, score=None, time=1605674266, title=None, item_type='comment', url=None, parent=25132177, text='strncpy is one of the trap functions. It&#x27;s better avoided. Write your own or use snprintf.')

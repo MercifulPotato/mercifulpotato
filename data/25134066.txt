@@ -1,0 +1,1 @@
+Item(by='PeCaN', descendants=None, kids=None, score=None, time=1605684442, title=None, item_type='comment', url=None, parent=25133854, text='that&#x27;s just because gcc has certain optimization passes that can&#x27;t be disabled<p>(that said gcc -O0 is still absolutely nothing like what a human would write)')

@@ -1,1 +1,1 @@
-Item(by='longdefeat', descendants=0, kids=None, score=4, time=1605585217, title='We Are Built to Forget', item_type='story', url='https://www.theparisreview.org/blog/2020/11/16/we-are-built-to-forget/', parent=None, text=None)
+Item(by='longdefeat', descendants=20, kids=[25134130, 25134492, 25134172, 25133086, 25133208, 25133810, 25133142, 25133517, 25133754], score=59, time=1605585217, title='We Are Built to Forget', item_type='story', url='https://www.theparisreview.org/blog/2020/11/16/we-are-built-to-forget/', parent=None, text=None)

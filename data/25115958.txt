@@ -1,1 +1,1 @@
-Item(by='lisnake', descendants=None, kids=None, score=None, time=1605555122, title=None, item_type='comment', url=None, parent=25115802, text='Well, they did have a public beta stage for several months, which supposedly should have caught bugs like this one before general release')
+Item(by='lisnake', descendants=None, kids=[25132747], score=None, time=1605555122, title=None, item_type='comment', url=None, parent=25115802, text='Well, they did have a public beta stage for several months, which supposedly should have caught bugs like this one before general release')

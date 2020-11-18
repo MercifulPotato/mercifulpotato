@@ -1,1 +1,1 @@
-Item(by='deathanatos', descendants=None, kids=None, score=None, time=1605638252, title=None, item_type='comment', url=None, parent=25127353, text='I&#x27;m <i>guessing</i> that that&#x27;s b&#x2F;c that&#x27;s one of those that is inside the BMP?')
+Item(by='deathanatos', descendants=None, kids=[25133972], score=None, time=1605638252, title=None, item_type='comment', url=None, parent=25127353, text='I&#x27;m <i>guessing</i> that that&#x27;s b&#x2F;c that&#x27;s one of those that is inside the BMP?')

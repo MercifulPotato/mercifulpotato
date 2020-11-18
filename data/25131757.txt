@@ -1,1 +1,1 @@
-Item(by='projomni', descendants=0, kids=None, score=1, time=1605659711, title='Show HN: Learn personal finance by playing a game', item_type='story', url='https://www.askfinny.com', parent=None, text=None)
+Item(by='projomni', descendants=1, kids=[25132992], score=3, time=1605659711, title='Show HN: Learn personal finance by playing a game', item_type='story', url='https://www.askfinny.com', parent=None, text=None)
