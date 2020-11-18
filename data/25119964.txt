@@ -1,1 +1,1 @@
-Item(by='ISL', descendants=1, kids=[25127725], score=6, time=1605583358, title='The Joy of Writing', item_type='story', url='https://www.nobelprize.org/prizes/literature/1996/szymborska/25596-wislawa-szymborska-poetry-1996-29/', parent=None, text=None)
+Item(by='ISL', descendants=4, kids=[25128318, 25128575, 25130853, 25127725, 25128372], score=51, time=1605583358, title='The Joy of Writing (1967)', item_type='story', url='https://www.nobelprize.org/prizes/literature/1996/szymborska/25596-wislawa-szymborska-poetry-1996-29/', parent=None, text=None)

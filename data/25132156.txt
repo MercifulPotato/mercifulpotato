@@ -1,0 +1,1 @@
+Item(by='jmgao', descendants=None, kids=[25132193], score=None, time=1605663135, title=None, item_type='comment', url=None, parent=25131965, text='And that&#x27;s for static code. Chrome runs like garbage under rosetta for me, with frequent stutters, presumably because of the cost of dynamically recompiling freshly emitted code.')

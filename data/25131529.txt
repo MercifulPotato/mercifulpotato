@@ -1,0 +1,1 @@
+Item(by='SomeoneFromCA', descendants=None, kids=None, score=None, time=1605657569, title=None, item_type='comment', url=None, parent=25131384, text='OTOH I was not able to stop Chromium from leaking DNS requests when using socks5. Only in FF I could make it happen.')

@@ -1,1 +1,1 @@
-Item(by='andrewmcwatters', descendants=None, kids=None, score=None, time=1605643105, title=None, item_type='comment', url=None, parent=25128173, text='I write compositors, like the one you work with. Wanna compare some more?')
+Item(by='andrewmcwatters', descendants=None, kids=[25129057], score=None, time=1605643105, title=None, item_type='comment', url=None, parent=25128173, text='I write compositors, like the one you work with. Wanna compare some more?')

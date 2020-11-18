@@ -1,0 +1,1 @@
+Item(by='jcranmer', descendants=None, kids=[25129787], score=None, time=1605646447, title=None, item_type='comment', url=None, parent=25129622, text='It is undefined behavior if a signed integer arithmetic overflows. If T is signed, the first and fourth lines are undefined behavior.<p>The representation of signed numbers is implementation-defined, not undefined.')

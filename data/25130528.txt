@@ -1,0 +1,1 @@
+Item(by='ibraheemdev', descendants=36, kids=[25132477, 25130987, 25130547, 25131659, 25130740, 25130644, 25131407, 25131653, 25131406], score=123, time=1605650480, title='30% Faster Rust Build Times using Cranelift instead of the LLVM', item_type='story', url='https://github.com/rust-lang/rust/pull/77975', parent=None, text=None)

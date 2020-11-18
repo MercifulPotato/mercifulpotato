@@ -1,0 +1,1 @@
+Item(by='MaxBarraclough', descendants=None, kids=[25130280], score=None, time=1605647623, title=None, item_type='comment', url=None, parent=25129787, text='I think I might be missing the intent of this exercise, but that expression risks overflow (and undefined behaviour) when b is not equal to zero, right?')

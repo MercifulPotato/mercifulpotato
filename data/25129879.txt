@@ -1,0 +1,1 @@
+Item(by='asveikau', descendants=None, kids=[25132345, 25130308], score=None, time=1605647399, title=None, item_type='comment', url=None, parent=25129224, text='How about with joiners and combining characters? Eg. If you encode é as U+0065, U+0301 (\\x65\\xcc\\x81), then search for &#x27;e&#x27; and act on the result somehow, you fail to consider the whole glyph.')

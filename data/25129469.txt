@@ -1,1 +1,1 @@
-Item(by='kortilla', descendants=None, kids=None, score=None, time=1605645427, title=None, item_type='comment', url=None, parent=25129239, text='And which solar panels power California?')
+Item(by='kortilla', descendants=None, kids=[25131509, 25129869], score=None, time=1605645427, title=None, item_type='comment', url=None, parent=25129239, text='And which solar panels power California?')

@@ -1,1 +1,1 @@
-Item(by='notassigned', descendants=None, kids=None, score=None, time=1605571673, title=None, item_type='comment', url=None, parent=25118344, text='Yes. Just don&#x27;t use twitter. Over time their numbers will dwindle and they will become a dead social network.')
+Item(by='notassigned', descendants=None, kids=[25130228], score=None, time=1605571673, title=None, item_type='comment', url=None, parent=25118344, text='Yes. Just don&#x27;t use twitter. Over time their numbers will dwindle and they will become a dead social network.')

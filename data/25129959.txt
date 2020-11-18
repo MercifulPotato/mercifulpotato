@@ -1,0 +1,1 @@
+Item(by='mekster', descendants=None, kids=[25130405], score=None, time=1605647764, title=None, item_type='comment', url=None, parent=25126134, text='&gt; endless cd-ls loop<p>Better to have &quot;chpwd() { ls }&quot; in your .zshrc as this executes ls after cd&#x27;ing to save up on your infinite amount of ls typing.')

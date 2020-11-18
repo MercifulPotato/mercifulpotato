@@ -1,0 +1,1 @@
+Item(by='neop1x', descendants=None, kids=None, score=None, time=1605656161, title=None, item_type='comment', url=None, parent=25122541, text='Also note that with DNS01 challenge you can add multiple wildcard domains under one certificate. There is a limit of total domains in a certificate but I still find it interesting and helpful.')

@@ -1,1 +1,1 @@
-Item(by='pen2l', descendants=None, kids=None, score=None, time=1605641088, title=None, item_type='comment', url=None, parent=25128365, text='Amazon didn&#x27;t get to where it is by being idiots. They will enforce the rules when they know they need to enforce the rules.')
+Item(by='pen2l', descendants=None, kids=[25131200], score=None, time=1605641088, title=None, item_type='comment', url=None, parent=25128365, text='Amazon didn&#x27;t get to where it is by being idiots. They will enforce the rules when they know they need to enforce the rules.')

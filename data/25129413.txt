@@ -1,0 +1,1 @@
+Item(by='antihero', descendants=None, kids=[25129987], score=None, time=1605645201, title=None, item_type='comment', url=None, parent=25129347, text='I see this with the console at least when developing. You switch back to the tab and the console eats shit and locks up because of the back pressure.')

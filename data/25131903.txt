@@ -1,0 +1,1 @@
+Item(by='sudosysgen', descendants=None, kids=None, score=None, time=1605660735, title=None, item_type='comment', url=None, parent=25131603, text='In theory, yes. This is the case when you have small cores, which is why a lot of GPUs used VLIW.<p>But in practice the whole decoder stage is basically a rounding error because cores got so big.')

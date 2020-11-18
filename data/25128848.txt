@@ -1,1 +1,1 @@
-Item(by='moogly', descendants=None, kids=None, score=None, time=1605643031, title=None, item_type='comment', url=None, parent=25125960, text='Chrome on Android doesn&#x27;t even have plugins and never will.')
+Item(by='moogly', descendants=None, kids=[25130510], score=None, time=1605643031, title=None, item_type='comment', url=None, parent=25125960, text='Chrome on Android doesn&#x27;t even have plugins and never will.')

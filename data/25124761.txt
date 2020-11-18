@@ -1,1 +1,1 @@
-Item(by='CodesInChaos', descendants=None, kids=None, score=None, time=1605626572, title=None, item_type='comment', url=None, parent=25121998, text='Why doesn&#x27;t this end up with an infeasible number of rules and equally huge reassembled trees once you go beyond toy examples?')
+Item(by='CodesInChaos', descendants=None, kids=[25131146], score=None, time=1605626572, title=None, item_type='comment', url=None, parent=25121998, text='Why doesn&#x27;t this end up with an infeasible number of rules and equally huge reassembled trees once you go beyond toy examples?')

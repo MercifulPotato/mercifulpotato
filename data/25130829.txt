@@ -1,0 +1,1 @@
+Item(by='greggturkington', descendants=None, kids=None, score=None, time=1605652429, title=None, item_type='comment', url=None, parent=25122863, text='Ah, so just a file space with a rooted DAG where each node is a diff with paths manipulable by queries where diffs can use a groupoid action to produce a new file or conflict, resulting in an API to interact with a torsor.')

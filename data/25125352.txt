@@ -1,1 +1,1 @@
-Item(by='qz2', descendants=None, kids=None, score=None, time=1605629235, title=None, item_type='comment', url=None, parent=25124902, text='I do miss the plastic ones myself. My sweat dissolves macbooks and they give me a rash.')
+Item(by='qz2', descendants=None, kids=[25129110], score=None, time=1605629235, title=None, item_type='comment', url=None, parent=25124902, text='I do miss the plastic ones myself. My sweat dissolves macbooks and they give me a rash.')

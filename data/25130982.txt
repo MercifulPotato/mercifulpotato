@@ -1,0 +1,1 @@
+Item(by='simion314', descendants=None, kids=None, score=None, time=1605653380, title=None, item_type='comment', url=None, parent=25130888, text='Yes, I had to do something similar using the contenteditable, a giant issue is that the browsers differ a lot(I had a lot of issue with the selections&#x2F;ranges differing a lot)')

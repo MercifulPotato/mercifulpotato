@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=4, kids=[25111414, 25111372, 25111039, 25111110], score=16, time=1605530816, title='I Lost My Twitter Account', item_type='story', url='https://daniel.haxx.se/blog/2020/11/16/i-lost-my-twitter-account/', parent=None, text=None)
+Item(by='headalgorithm', descendants=7, kids=[25111414, 25111372, 25111039, 25111110, 25120964], score=30, time=1605530816, title='I Lost My Twitter Account', item_type='story', url='https://daniel.haxx.se/blog/2020/11/16/i-lost-my-twitter-account/', parent=None, text=None)

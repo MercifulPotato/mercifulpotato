@@ -1,1 +1,1 @@
-Item(by='colejohnson66', descendants=None, kids=None, score=None, time=1605622505, title=None, item_type='comment', url=None, parent=25117172, text='By that logic, playing Netflix on your browser is breaking DRM. That’s not how that works.')
+Item(by='colejohnson66', descendants=None, kids=[25131338], score=None, time=1605622505, title=None, item_type='comment', url=None, parent=25117172, text='By that logic, playing Netflix on your browser is breaking DRM. That’s not how that works.')

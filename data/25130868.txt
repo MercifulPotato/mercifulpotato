@@ -1,0 +1,1 @@
+Item(by='RussianCow', descendants=None, kids=None, score=None, time=1605652742, title=None, item_type='comment', url=None, parent=25128261, text='This is clearly not true, since the DOM interface is implemented in something like C++ (or Rust, in this case) in browser engines, so you could write your logic in the same language, or even write a binding for any language you like.')

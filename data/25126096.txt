@@ -1,1 +1,1 @@
-Item(by='andy_ppp', descendants=None, kids=None, score=None, time=1605632402, title=None, item_type='comment', url=None, parent=25125815, text='If they are Apple they are Universal apps I believe?')
+Item(by='andy_ppp', descendants=None, kids=[25131651], score=None, time=1605632402, title=None, item_type='comment', url=None, parent=25125815, text='If they are Apple they are Universal apps I believe?')

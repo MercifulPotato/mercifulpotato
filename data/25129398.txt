@@ -1,1 +1,1 @@
-Item(by='Thorentis', descendants=None, kids=None, score=None, time=1605645149, title=None, item_type='comment', url=None, parent=25123955, text='Can&#x27;t have books resemble the real world now can we?')
+Item(by='Thorentis', descendants=None, kids=[25130457], score=None, time=1605645149, title=None, item_type='comment', url=None, parent=25123955, text='Can&#x27;t have books resemble the real world now can we?')

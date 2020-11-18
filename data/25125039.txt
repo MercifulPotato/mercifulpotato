@@ -1,1 +1,1 @@
-Item(by='foldr', descendants=None, kids=[25126169], score=None, time=1605627833, title=None, item_type='comment', url=None, parent=25124657, text='The 4900HS has a 35W TDP, though. The M1 in the Mac Mini is estimated at around 20-24W TDP.')
+Item(by='foldr', descendants=None, kids=[25126169, 25130090], score=None, time=1605627833, title=None, item_type='comment', url=None, parent=25124657, text='The 4900HS has a 35W TDP, though. The M1 in the Mac Mini is estimated at around 20-24W TDP.')

@@ -1,0 +1,1 @@
+Item(by='zerkten', descendants=None, kids=[25129499], score=None, time=1605645239, title=None, item_type='comment', url=None, parent=25121545, text='Are you hosting any databases in Dokku, or do you keep data outside? For a very small PaaS keeping the DB on a separate node feels like the most reliable option.')

@@ -1,1 +1,1 @@
-Item(by='simlevesque', descendants=None, kids=None, score=None, time=1605643767, title=None, item_type='comment', url=None, parent=25126281, text='Facebook on the browser shows stories.')
+Item(by='simlevesque', descendants=None, kids=[25130922, 25130896], score=None, time=1605643767, title=None, item_type='comment', url=None, parent=25126281, text='Facebook on the browser shows stories.')

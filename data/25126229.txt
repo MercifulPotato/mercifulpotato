@@ -1,1 +1,1 @@
-Item(by='andi999', descendants=None, kids=None, score=None, time=1605632924, title=None, item_type='comment', url=None, parent=25125846, text='thankfully everybody lost most of the &#x27;90s')
+Item(by='andi999', descendants=None, kids=[25129547], score=None, time=1605632924, title=None, item_type='comment', url=None, parent=25125846, text='thankfully everybody lost most of the &#x27;90s')

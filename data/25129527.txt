@@ -1,0 +1,1 @@
+Item(by='ant6n', descendants=None, kids=[25129883], score=None, time=1605645695, title=None, item_type='comment', url=None, parent=25129330, text='I find that odd. Don’t they have some sort of icache? Intel could decode into a fixed width Alternative instruction set inside the icache, then use a wider decode when actually executing.')

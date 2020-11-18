@@ -1,0 +1,1 @@
+Item(by='wyldfire', descendants=None, kids=[25130927], score=None, time=1605651936, title=None, item_type='comment', url=None, parent=25130528, text='QEMU talked about replacing some code with rust. I wonder if they would start with TCG or device code.  Could be interesting to try an existing Rust codegen.  What backends are implemented for cranelift?')

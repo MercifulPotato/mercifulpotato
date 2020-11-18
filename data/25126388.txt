@@ -1,1 +1,1 @@
-Item(by='avmich', descendants=None, kids=None, score=None, time=1605633512, title=None, item_type='comment', url=None, parent=25123052, text='While we&#x27;re at it, we can check other elements as potential reversible fuels. Nitrogen? Sulfur? Aluminum? Sodium?.. Is iron optimal?')
+Item(by='avmich', descendants=None, kids=[25129450], score=None, time=1605633512, title=None, item_type='comment', url=None, parent=25123052, text='While we&#x27;re at it, we can check other elements as potential reversible fuels. Nitrogen? Sulfur? Aluminum? Sodium?.. Is iron optimal?')

@@ -1,0 +1,1 @@
+Item(by='axsharma', descendants=None, kids=None, score=None, time=1605644845, title=None, item_type='comment', url=None, parent=25129327, text='The data exposed via public .env files included production server database credentials, including the DB server addresses, ports, usernames, passwords, and API keys.')

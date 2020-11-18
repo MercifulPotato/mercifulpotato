@@ -1,0 +1,1 @@
+Item(by='sethammons', descendants=None, kids=[25130809], score=None, time=1605651232, title=None, item_type='comment', url=None, parent=25130111, text='ah, that is likely part of it. We always branch from master and merge back to master. Builds prevent failing code from merging. It is rare that we branch from a branch, and that 2nd branch would never be merged before the first.')

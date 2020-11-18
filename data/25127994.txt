@@ -1,1 +1,1 @@
-Item(by='secondcoming', descendants=None, kids=None, score=None, time=1605639377, title=None, item_type='comment', url=None, parent=25124012, text='You can look at piece of C code and immediately see how it&#x27;ll be laid out by the compiler.')
+Item(by='secondcoming', descendants=None, kids=[25130921], score=None, time=1605639377, title=None, item_type='comment', url=None, parent=25124012, text='You can look at piece of C code and immediately see how it&#x27;ll be laid out by the compiler.')

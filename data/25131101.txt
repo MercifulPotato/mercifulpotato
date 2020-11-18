@@ -1,0 +1,1 @@
+Item(by='yencabulator', descendants=None, kids=None, score=None, time=1605654194, title=None, item_type='comment', url=None, parent=25126183, text='The problem with that is thinking a directed acyclic graph is a flat sequential list. Try `git log --graph --oneline` or `gitk`.')

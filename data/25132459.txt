@@ -1,0 +1,1 @@
+Item(by='h0l0cube', descendants=None, kids=None, score=None, time=1605665992, title=None, item_type='comment', url=None, parent=25132096, text='I believe that&#x27;s due to ahead-of-time transpilation, but as noted in another thread, JIT code within the browser would need to be transpiled just-in-time which would mean pauses during runtime.')

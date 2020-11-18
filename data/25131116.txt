@@ -1,0 +1,1 @@
+Item(by='kubanczyk', descendants=None, kids=None, score=None, time=1605654299, title=None, item_type='comment', url=None, parent=25122817, text='Correct. The use case falls under `git status` really, it will give you boilerplate commands like `git add`, `git reset`, `git checkout -- file`, or even `git rebase --abort` depending on a situation.')
