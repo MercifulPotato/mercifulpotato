@@ -1,1 +1,1 @@
-Item(by='newen', descendants=None, kids=None, score=None, time=1605670123, title=None, item_type='comment', url=None, parent=25120387, text='Humanity should strive for that world instead of accepting this world.')
+Item(by='newen', descendants=None, kids=[25137515], score=None, time=1605670123, title=None, item_type='comment', url=None, parent=25120387, text='Humanity should strive for that world instead of accepting this world.')

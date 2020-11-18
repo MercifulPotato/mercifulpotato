@@ -1,0 +1,1 @@
+Item(by='chhamilton', descendants=None, kids=None, score=None, time=1605710778, title=None, item_type='comment', url=None, parent=25130894, text='(Chromium dev here.)<p>Yes, for now all workers continue to run unthrottled (shared, dedicated and service). They may also be throttled at some point, but we have no firm plans around this yet.')

@@ -1,1 +1,1 @@
-Item(by='bawolff', descendants=None, kids=None, score=None, time=1605639973, title=None, item_type='comment', url=None, parent=25124775, text='Honestly, that&#x27;s the high tech end of what happens.<p>Most compromises are credential stuffing.')
+Item(by='bawolff', descendants=None, kids=[25140175], score=None, time=1605639973, title=None, item_type='comment', url=None, parent=25124775, text='Honestly, that&#x27;s the high tech end of what happens.<p>Most compromises are credential stuffing.')

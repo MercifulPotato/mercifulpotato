@@ -1,0 +1,1 @@
+Item(by='da_big_ghey', descendants=0, kids=None, score=1, time=1605721432, title='A lock-free ring-buffer with contiguous reservations', item_type='story', url='https://andrea.lattuada.me/blog/2019/the-design-and-implementation-of-a-lock-free-ring-buffer-with-contiguous-reservations.html', parent=None, text=None)

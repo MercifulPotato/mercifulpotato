@@ -1,1 +1,1 @@
-Item(by='JumpCrisscross', descendants=None, kids=None, score=None, time=1605706435, title=None, item_type='comment', url=None, parent=25134192, text='&gt; <i>it makes it even less likely for your email to fit on a screen so it just gets skipped</i><p>This is a call masquerading as an email.')
+Item(by=None, descendants=None, kids=None, score=None, time=1605706435, title=None, item_type='comment', url=None, parent=25134192, text=None)

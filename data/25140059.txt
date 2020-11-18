@@ -1,0 +1,1 @@
+Item(by='livre', descendants=None, kids=None, score=None, time=1605722601, title=None, item_type='comment', url=None, parent=25132912, text='I don&#x27;t know, I&#x27;m not the one who reported that issue and I use a local DoH server, that way I make sure that when Firefox uses DoH I still have full control over it.')

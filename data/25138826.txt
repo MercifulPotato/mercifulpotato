@@ -1,0 +1,1 @@
+Item(by='renewiltord', descendants=None, kids=[25141335], score=None, time=1605717409, title=None, item_type='comment', url=None, parent=25137870, text='Non-issue. I&#x27;ve run the following because I&#x27;m used to it:<p><pre><code>    git config --global init.defaultBranch master\n</code></pre>\nThis default doesn&#x27;t matter to me.')

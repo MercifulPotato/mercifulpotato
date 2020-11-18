@@ -1,0 +1,1 @@
+Item(by='e2le', descendants=None, kids=[25138789], score=None, time=1605716833, title=None, item_type='comment', url=None, parent=25137870, text='What exactly is the rationale behind changing the default branch name? It seems like significant effort is being devoted to this (code changes, fixing broken CI, etc.) but I don&#x27;t understand why any of it is necessary.')

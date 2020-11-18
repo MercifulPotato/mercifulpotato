@@ -1,1 +1,1 @@
-Item(by='jacknews', descendants=None, kids=None, score=None, time=1605699361, title=None, item_type='comment', url=None, parent=25135409, text='Exactly.  It&#x27;s basically a scam to try and pay people in &#x27;poor&#x27; countries less.')
+Item(by='jacknews', descendants=None, kids=[25136993], score=None, time=1605699361, title=None, item_type='comment', url=None, parent=25135409, text='Exactly.  It&#x27;s basically a scam to try and pay people in &#x27;poor&#x27; countries less.')

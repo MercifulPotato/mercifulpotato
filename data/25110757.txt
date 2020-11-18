@@ -1,1 +1,1 @@
-Item(by='n_parks', descendants=5, kids=[25110833, 25115770, 25117134], score=668, time=1605529101, title="Moderna's Covid vaccine shows nearly 95% protection", item_type='story', url='https://www.bbc.com/news/health-54902908', parent=None, text=None)
+Item(by='n_parks', descendants=5, kids=[25110833, 25115770, 25117134], score=670, time=1605529101, title="Moderna's Covid vaccine shows nearly 95% protection", item_type='story', url='https://www.bbc.com/news/health-54902908', parent=None, text=None)

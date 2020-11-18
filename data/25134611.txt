@@ -1,1 +1,1 @@
-Item(by='danielEM', descendants=None, kids=None, score=None, time=1605690223, title=None, item_type='comment', url=None, parent=25133428, text='I want 3 USB-C in PinePhone please, please, please!!! :-) RK3566 supports 3 USB')
+Item(by='danielEM', descendants=None, kids=[25137677, 25137717], score=None, time=1605690223, title=None, item_type='comment', url=None, parent=25133428, text='I want 3 USB-C in PinePhone please, please, please!!! :-) RK3566 supports 3 USB')

@@ -1,0 +1,1 @@
+Item(by='artifact_44', descendants=None, kids=None, score=None, time=1605730775, title=None, item_type='comment', url=None, parent=25141791, text='I&#x27;ve done this and it works surprisingly well. I made a timesliced js scripting system this way.. it looked imperative with tight loops but it was all asynchronous. It felt like a threaded app.')

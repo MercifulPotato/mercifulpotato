@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=4, kids=[25131386, 25131083, 25131209], score=17, time=1605620928, title='The Rise and Fall of Getting Things Done', item_type='story', url='https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done', parent=None, text=None)
+Item(by='headalgorithm', descendants=1, kids=[25139046], score=22, time=1605620928, title='The Rise and Fall of Getting Things Done', item_type='story', url='https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done', parent=None, text=None)

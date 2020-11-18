@@ -1,0 +1,1 @@
+Item(by='FraKtus', descendants=None, kids=[25139771], score=None, time=1605715663, title=None, item_type='comment', url=None, parent=25132988, text='There is no need of homebrew to install ffmpeg on Apple Silicon. I could just .&#x2F;configure and make on the DTK.<p>ffmpeg has so many configure options, I always avoid building it with brew.')

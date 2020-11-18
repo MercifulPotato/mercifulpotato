@@ -1,0 +1,1 @@
+Item(by='jraph', descendants=None, kids=[25140839], score=None, time=1605725112, title=None, item_type='comment', url=None, parent=25140574, text='A timeout would most certainly not trigger during a busy loop in JS. Timeouts can only trigger when the main thread is not running code.<p>Browsers will complain against code running for too long without interruption though.')

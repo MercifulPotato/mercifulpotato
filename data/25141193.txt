@@ -1,0 +1,1 @@
+Item(by='1-more', descendants=None, kids=[25141906, 25141331], score=None, time=1605727410, title=None, item_type='comment', url=None, parent=25140526, text='We started with a blacklist to match against while(1), while(true), for(;;), etc, but we eventually found an eslint plugin (goedel.js) that nicely tells you if the code contains an infinite loop or recursion.')

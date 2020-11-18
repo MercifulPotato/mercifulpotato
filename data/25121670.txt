@@ -1,1 +1,1 @@
-Item(by='weinzierl', descendants=1, kids=[25135340], score=19, time=1605605122, title='Drawing lots of faces with sketch-RNN', item_type='story', url='https://jvns.ca/blog/2020/11/16/day-5--lots-of-faces-with-sketch-rnn/', parent=None, text=None)
+Item(by='weinzierl', descendants=2, kids=[25135340], score=32, time=1605605122, title='Drawing lots of faces with sketch-RNN', item_type='story', url='https://jvns.ca/blog/2020/11/16/day-5--lots-of-faces-with-sketch-rnn/', parent=None, text=None)

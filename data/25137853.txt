@@ -1,0 +1,1 @@
+Item(by='magicalhippo', descendants=None, kids=None, score=None, time=1605713551, title=None, item_type='comment', url=None, parent=25131144, text='Thinking about it, I guess it should be possible to flip this around by using a temporary local branch. Commit everything there, then cherry-pick into repo dir and commit proper.<p>Once done delete temp branch and push.')

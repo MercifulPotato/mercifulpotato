@@ -1,0 +1,1 @@
+Item(by='Wolfr_', descendants=None, kids=None, score=None, time=1605728265, title=None, item_type='comment', url=None, parent=25141313, text='Most people use rem these days, but there are common browser bugs with using rems or ems in media query rules, so in the rules specifically it is common to still specify pixels, even if the rest of your stylesheet uses rems or ems.')

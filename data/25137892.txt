@@ -1,0 +1,1 @@
+Item(by='dekhn', descendants=None, kids=None, score=None, time=1605713742, title=None, item_type='comment', url=None, parent=25119566, text='An alternative to this is to snapshot the database, and test the permissions change on the snapshot.  Not as good as a transaction, but often good enough to proceed with the prod operation.')

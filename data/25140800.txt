@@ -1,0 +1,1 @@
+Item(by='kube-system', descendants=None, kids=[25141129, 25141755], score=None, time=1605725782, title=None, item_type='comment', url=None, parent=25139363, text='Is losing a CPU a common enough failure-case that it makes sense to implement fail-safes for?  I would think that&#x27;s pretty low on the list of likely causes of failure.')

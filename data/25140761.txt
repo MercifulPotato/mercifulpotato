@@ -1,0 +1,1 @@
+Item(by='protoduction', descendants=None, kids=None, score=None, time=1605725596, title=None, item_type='comment', url=None, parent=25140700, text='I think so, but a worker won&#x27;t have access to the DOM and a bunch of other APIs, so the code would be fairly limited in what it can do. Which may be fine for some usecases!')

@@ -1,0 +1,1 @@
+Item(by='peteradio', descendants=None, kids=None, score=None, time=1605714918, title=None, item_type='comment', url=None, parent=25137856, text='Agreed, unique string would be ideal. Not sure how within this demo you are able to create duplicate ids with the above patch (clearly you can without the patch though...).  Purpose of patch is only to fix demo, not library code.')

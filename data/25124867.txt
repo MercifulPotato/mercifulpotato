@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=4, kids=[25136150, 25126074], score=23, time=1605627030, title='On Exactitude in Technical Debt', item_type='story', url='https://www.oreilly.com/radar/on-exactitude-in-technical-debt/', parent=None, text=None)
+Item(by='headalgorithm', descendants=8, kids=[25126074, 25136150], score=28, time=1605627030, title='On Exactitude in Technical Debt', item_type='story', url='https://www.oreilly.com/radar/on-exactitude-in-technical-debt/', parent=None, text=None)

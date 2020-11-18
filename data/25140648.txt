@@ -1,0 +1,1 @@
+Item(by='tsimionescu', descendants=None, kids=None, score=None, time=1605725092, title=None, item_type='comment', url=None, parent=25134313, text='Can the vim executable run without vim-runtime, or the other shared libaries it installz? I don&#x27;t know the internal architecture of vim, I am genuinely asking.')

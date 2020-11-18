@@ -1,1 +1,1 @@
-Item(by='denkmoon', descendants=None, kids=None, score=None, time=1605670484, title=None, item_type='comment', url=None, parent=25132819, text='This doesn&#x27;t happen when DoH is disabled in Firefox right?')
+Item(by='denkmoon', descendants=None, kids=[25140059], score=None, time=1605670484, title=None, item_type='comment', url=None, parent=25132819, text='This doesn&#x27;t happen when DoH is disabled in Firefox right?')

@@ -1,0 +1,1 @@
+Item(by='nairodd', descendants=None, kids=None, score=None, time=1605726682, title=None, item_type='comment', url=None, parent=25121705, text='Awesome initiative. I&#x27;m currently building a video game on libgdx. I wonder if I could rewrite the 2D UI using this (like, if they could be integrated at the InputProcessor and SpriteBatxh levels)')

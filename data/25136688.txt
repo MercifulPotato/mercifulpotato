@@ -1,1 +1,1 @@
-Item(by='Andy_G11', descendants=None, kids=None, score=None, time=1605707521, title=None, item_type='comment', url=None, parent=25136583, text='Last correction: use B1 = 1&#x2F;(A2+sum($A$1:A2)&#x2F;sum(A3+B3)) as the formula to drag down in column B, with A1=0 and subsequent column A cells all populated with 1.')
+Item(by=None, descendants=None, kids=None, score=None, time=1605707521, title=None, item_type='comment', url=None, parent=25136583, text=None)

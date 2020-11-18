@@ -1,1 +1,1 @@
-Item(by='lastontheboat', descendants=None, kids=None, score=None, time=1605659865, title=None, item_type='comment', url=None, parent=25129640, text='Honestly the project has had &gt;1000 contributors over the past 8 years and a lot of them did just that.')
+Item(by='lastontheboat', descendants=None, kids=[25138292], score=None, time=1605659865, title=None, item_type='comment', url=None, parent=25129640, text='Honestly the project has had &gt;1000 contributors over the past 8 years and a lot of them did just that.')

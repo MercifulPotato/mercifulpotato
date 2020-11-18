@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=None, kids=None, score=None, time=1605704706, title=None, item_type='comment', url=None, parent=25136261, text='Of these 5 billion ARM devices in daily use, how many are desktop computers running desktop computer software?')
+Item(by='rbanffy', descendants=None, kids=[25136546, 25136550], score=None, time=1605704706, title=None, item_type='comment', url=None, parent=25136261, text='Of these 5 billion ARM devices in daily use, how many are desktop computers running desktop computer software?')

@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=0, kids=None, score=19, time=1605628507, title='Setting up a WireGuard client with routing domains on OpenBSD', item_type='story', url='https://codimd.laas.fr/s/NMc3qt5PQ#', parent=None, text=None)
+Item(by='zdw', descendants=13, kids=[25140809, 25141844, 25136936, 25138043, 25138968], score=90, time=1605628507, title='Setting up a WireGuard client with routing domains on OpenBSD', item_type='story', url='https://codimd.laas.fr/s/NMc3qt5PQ#', parent=None, text=None)

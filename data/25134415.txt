@@ -1,1 +1,1 @@
-Item(by='rtx', descendants=None, kids=None, score=None, time=1605688492, title=None, item_type='comment', url=None, parent=25134286, text='I think we are still not sure if they are old memories or being rendered live.')
+Item(by='rtx', descendants=None, kids=[25137187], score=None, time=1605688492, title=None, item_type='comment', url=None, parent=25134286, text='I think we are still not sure if they are old memories or being rendered live.')
