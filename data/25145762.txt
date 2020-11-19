@@ -1,0 +1,1 @@
+Item(by='CGamesPlay', descendants=None, kids=[25147138], score=None, time=1605755109, title=None, item_type='comment', url=None, parent=25143977, text='For this use case, the &quot;tailwind solution&quot; is to use components, either Angular, React, or whatever, but to pull those &quot;hundreds of classes&quot; into reusable chunks that could be refactored.')

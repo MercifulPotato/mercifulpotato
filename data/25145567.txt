@@ -1,1 +1,1 @@
-Item(by='Causality1', descendants=None, kids=None, score=None, time=1605753126, title=None, item_type='comment', url=None, parent=25142877, text='So if you could measure an atom precisely enough you could calculate exactly when it decayed from a heavier atom?')
+Item(by='Causality1', descendants=None, kids=[25146719], score=None, time=1605753126, title=None, item_type='comment', url=None, parent=25142877, text='So if you could measure an atom precisely enough you could calculate exactly when it decayed from a heavier atom?')

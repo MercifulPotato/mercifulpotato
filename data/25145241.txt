@@ -1,1 +1,1 @@
-Item(by='elementalfire', descendants=None, kids=None, score=None, time=1605749959, title=None, item_type='comment', url=None, parent=25145239, text='Cool, interested to see the working product. What sort of background do you have?')
+Item(by='elementalfire', descendants=None, kids=[25145462], score=None, time=1605749959, title=None, item_type='comment', url=None, parent=25145239, text='Cool, interested to see the working product. What sort of background do you have?')

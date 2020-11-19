@@ -1,1 +1,1 @@
-Item(by='cjbconnor', descendants=None, kids=None, score=None, time=1605744775, title=None, item_type='comment', url=None, parent=25144422, text='Tell that to my friends&#x2F;family who only use MMS, and can&#x27;t be convinced to switch. Some people just don&#x27;t have a choice')
+Item(by='cjbconnor', descendants=None, kids=[25146020], score=None, time=1605744775, title=None, item_type='comment', url=None, parent=25144422, text='Tell that to my friends&#x2F;family who only use MMS, and can&#x27;t be convinced to switch. Some people just don&#x27;t have a choice')

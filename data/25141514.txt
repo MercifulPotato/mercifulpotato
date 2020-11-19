@@ -1,1 +1,1 @@
-Item(by='jonatron', descendants=0, kids=None, score=1, time=1605728801, title='Show HN: Minimal Slack Client in Plain JavaScript/HTML/CSS', item_type='story', url='https://github.com/jonatron/littleslack', parent=None, text=None)
+Item(by='jonatron', descendants=1, kids=[25146133], score=3, time=1605728801, title='Show HN: Minimal Slack Client in Plain JavaScript/HTML/CSS', item_type='story', url='https://github.com/jonatron/littleslack', parent=None, text=None)

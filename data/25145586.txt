@@ -1,1 +1,1 @@
-Item(by='qd6pwu4', descendants=None, kids=None, score=None, time=1605753258, title=None, item_type='comment', url=None, parent=25145512, text='Is it training or inference? Inference only is amazing enough, and I don&#x27;t expect M1 to beat 1080 for training deep neural networks.')
+Item(by='qd6pwu4', descendants=None, kids=[25145939], score=None, time=1605753258, title=None, item_type='comment', url=None, parent=25145512, text='Is it training or inference? Inference only is amazing enough, and I don&#x27;t expect M1 to beat 1080 for training deep neural networks.')

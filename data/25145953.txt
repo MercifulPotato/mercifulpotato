@@ -1,0 +1,1 @@
+Item(by='manigandham', descendants=None, kids=None, score=None, time=1605757087, title=None, item_type='comment', url=None, parent=25143378, text='&gt; <i>&quot;Padding, margins, widths, heights do not make sense as utility classes IMO.&quot;</i><p>Why not? They usually benefit from having consistency in the design and that&#x27;s where utility classes work best.')

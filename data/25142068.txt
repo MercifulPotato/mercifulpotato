@@ -1,1 +1,1 @@
-Item(by='objections', descendants=0, kids=None, score=9, time=1605731456, title='Jimmy Wales on Systems and Incentives', item_type='story', url='https://medium.com/conversations-with-tyler/jimmy-wales-tyler-cowen-wikipedia-610b6e931d20', parent=None, text=None)
+Item(by='objections', descendants=10, kids=[25146035, 25146707, 25146658, 25146827, 25147252], score=72, time=1605731456, title='Jimmy Wales on Systems and Incentives', item_type='story', url='https://medium.com/conversations-with-tyler/jimmy-wales-tyler-cowen-wikipedia-610b6e931d20', parent=None, text=None)

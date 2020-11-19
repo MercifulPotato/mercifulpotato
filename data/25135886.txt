@@ -1,1 +1,1 @@
-Item(by='WalterBright', descendants=None, kids=None, score=None, time=1605701351, title=None, item_type='comment', url=None, parent=25134434, text='The irony of strncpy is it&#x27;s supposed to eliminate memory corruption errors, but instead is a prolific source of them.')
+Item(by='WalterBright', descendants=None, kids=[25146354], score=None, time=1605701351, title=None, item_type='comment', url=None, parent=25134434, text='The irony of strncpy is it&#x27;s supposed to eliminate memory corruption errors, but instead is a prolific source of them.')

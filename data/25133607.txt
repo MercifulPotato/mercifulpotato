@@ -1,1 +1,1 @@
-Item(by='graphpapa', descendants=None, kids=None, score=None, time=1605678440, title=None, item_type='comment', url=None, parent=25127468, text='This is fun, but the fashion police descend undeterred')
+Item(by='graphpapa', descendants=None, kids=[25146427], score=None, time=1605678440, title=None, item_type='comment', url=None, parent=25127468, text='This is fun, but the fashion police descend undeterred')

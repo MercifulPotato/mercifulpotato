@@ -1,1 +1,1 @@
-Item(by='nicbou', descendants=None, kids=None, score=None, time=1605747439, title=None, item_type='comment', url=None, parent=25138826, text='This is my favourite comment in this thread. Everyone is losing their minds and you just changed your config and carried on with you day.')
+Item(by='nicbou', descendants=None, kids=[25146675, 25146672], score=None, time=1605747439, title=None, item_type='comment', url=None, parent=25138826, text='This is my favourite comment in this thread. Everyone is losing their minds and you just changed your config and carried on with you day.')

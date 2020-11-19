@@ -1,0 +1,1 @@
+Item(by='kqr', descendants=None, kids=[25146579], score=None, time=1605764096, title=None, item_type='comment', url=None, parent=25146429, text='Why is this downvoted? It sounds great to my untrained ear. You could even use TAI for user-facing timestamps (to get consistent arithmetic) and then convert to UTC only in the end before displaying the date!')

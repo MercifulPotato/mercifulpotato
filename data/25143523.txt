@@ -1,1 +1,1 @@
-Item(by='threeseed', descendants=None, kids=None, score=None, time=1605739224, title=None, item_type='comment', url=None, parent=25142954, text='No one is saying that it would slow down purchasing.<p>Only that it is user-hostile which services like Paypal absolutely are.')
+Item(by='threeseed', descendants=None, kids=[25146125], score=None, time=1605739224, title=None, item_type='comment', url=None, parent=25142954, text='No one is saying that it would slow down purchasing.<p>Only that it is user-hostile which services like Paypal absolutely are.')

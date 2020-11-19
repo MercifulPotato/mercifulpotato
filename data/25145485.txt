@@ -1,1 +1,1 @@
-Item(by='jbboehr', descendants=None, kids=None, score=None, time=1605752405, title=None, item_type='comment', url=None, parent=25139660, text='&gt; “The Fall of the House of User,”<p>Sorry for bringing it up, but is that a typo in the description?')
+Item(by='jbboehr', descendants=None, kids=[25146169, 25145801], score=None, time=1605752405, title=None, item_type='comment', url=None, parent=25139660, text='&gt; “The Fall of the House of User,”<p>Sorry for bringing it up, but is that a typo in the description?')

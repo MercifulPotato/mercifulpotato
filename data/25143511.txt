@@ -1,1 +1,1 @@
-Item(by='iJohnDoe', descendants=None, kids=None, score=None, time=1605739153, title=None, item_type='comment', url=None, parent=25143466, text='Agreed. That’s my point.<p>It says people received $25.<p>This settlement amount goes to lawyers and the states.')
+Item(by='iJohnDoe', descendants=None, kids=[25146243], score=None, time=1605739153, title=None, item_type='comment', url=None, parent=25143466, text='Agreed. That’s my point.<p>It says people received $25.<p>This settlement amount goes to lawyers and the states.')

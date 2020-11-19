@@ -1,1 +1,1 @@
-Item(by='rabidrat', descendants=None, kids=None, score=None, time=1605739988, title=None, item_type='comment', url=None, parent=25142293, text='I&#x27;d like just a .jsonl or .csv of the list.')
+Item(by='rabidrat', descendants=None, kids=[25146611], score=None, time=1605739988, title=None, item_type='comment', url=None, parent=25142293, text='I&#x27;d like just a .jsonl or .csv of the list.')

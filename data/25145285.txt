@@ -1,1 +1,1 @@
-Item(by='stryker7001', descendants=None, kids=None, score=None, time=1605750316, title=None, item_type='comment', url=None, parent=25144371, text='Joe average doesn’t want to sideload apps. That’s what people don’t understand on here.')
+Item(by='stryker7001', descendants=None, kids=[25145620], score=None, time=1605750316, title=None, item_type='comment', url=None, parent=25144371, text='Joe average doesn’t want to sideload apps. That’s what people don’t understand on here.')

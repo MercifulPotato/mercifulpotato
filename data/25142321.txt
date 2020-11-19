@@ -1,1 +1,1 @@
-Item(by='heyoni', descendants=0, kids=None, score=3, time=1605732876, title='Apple backtracking on network filter whitelist', item_type='story', url='https://blog.obdev.at/a-hole-in-the-wall/', parent=None, text=None)
+Item(by='heyoni', descendants=1, kids=[25145938], score=3, time=1605732876, title='Apple backtracking on network filter whitelist', item_type='story', url='https://blog.obdev.at/a-hole-in-the-wall/', parent=None, text=None)

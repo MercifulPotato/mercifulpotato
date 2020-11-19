@@ -1,0 +1,1 @@
+Item(by='ursaspark', descendants=None, kids=[25146417], score=None, time=1605754498, title=None, item_type='comment', url=None, parent=25145293, text='we use these in our CI&#x2F;CD pipelines as we deal with embedded hardware. they work absolutely awesome for power cycling stuck USB peripherals or powering USB-powered boards for tests.')

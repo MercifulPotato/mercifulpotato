@@ -1,1 +1,1 @@
-Item(by='ttt0', descendants=None, kids=None, score=None, time=1605748191, title=None, item_type='comment', url=None, parent=25144886, text='I don&#x27;t know, I haven&#x27;t been on facebook since ages, because I got sick of constantly being banned for discussing politics.')
+Item(by='ttt0', descendants=None, kids=[25145596], score=None, time=1605748191, title=None, item_type='comment', url=None, parent=25144886, text='I don&#x27;t know, I haven&#x27;t been on facebook since ages, because I got sick of constantly being banned for discussing politics.')
