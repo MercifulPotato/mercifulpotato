@@ -1,1 +1,1 @@
-Item(by='cercatrova', descendants=None, kids=None, score=None, time=1605682350, title=None, item_type='comment', url=None, parent=25129205, text='OS X is replaced, Big Sur is now OS 11')
+Item(by='cercatrova', descendants=None, kids=[25142670], score=None, time=1605682350, title=None, item_type='comment', url=None, parent=25129205, text='OS X is replaced, Big Sur is now OS 11')

@@ -1,1 +1,1 @@
-Item(by='kzrdude', descendants=None, kids=None, score=None, time=1605721938, title=None, item_type='comment', url=None, parent=25136621, text='Apple takes some yearly fees from developers though, that&#x27;s nearly a platform tax for Mac os.')
+Item(by='kzrdude', descendants=None, kids=[25142506], score=None, time=1605721938, title=None, item_type='comment', url=None, parent=25136621, text='Apple takes some yearly fees from developers though, that&#x27;s nearly a platform tax for Mac os.')

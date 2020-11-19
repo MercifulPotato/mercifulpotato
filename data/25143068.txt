@@ -1,0 +1,1 @@
+Item(by='gtrhtrhtrhtr', descendants=None, kids=None, score=None, time=1605737172, title=None, item_type='comment', url=None, parent=25137863, text='My guess is that he had to deal with payment APIs (like Stripe) and it&#x27;s really not fun to integrate with external APIs that take a lot of doc reading and understanding of a different field.')

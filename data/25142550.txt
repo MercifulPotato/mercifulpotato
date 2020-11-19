@@ -1,0 +1,1 @@
+Item(by='mixologic', descendants=None, kids=[25144797], score=None, time=1605734199, title=None, item_type='comment', url=None, parent=25141153, text='seems like its only a matter of time then that malicious servers wrap their TLS libs in a one time randomizer that gives them the appearance of not matching other C&amp;C hosts.')

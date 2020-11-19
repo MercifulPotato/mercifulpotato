@@ -1,0 +1,1 @@
+Item(by='asveikau', descendants=None, kids=None, score=None, time=1605733313, title=None, item_type='comment', url=None, parent=25133643, text='But wouldn&#x27;t it load the right ruby interpreter?  And anything installed via homebrew, it would also know how to exec?<p>The only problem I see is if you have a mix of different architectures wrt libraries.')

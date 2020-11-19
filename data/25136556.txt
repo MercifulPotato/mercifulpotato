@@ -1,1 +1,1 @@
-Item(by='benhurmarcel', descendants=None, kids=None, score=None, time=1605706786, title=None, item_type='comment', url=None, parent=25136332, text='He&#x27;s talking about freelance people. This link is for employees.')
+Item(by='benhurmarcel', descendants=None, kids=[25142221], score=None, time=1605706786, title=None, item_type='comment', url=None, parent=25136332, text='He&#x27;s talking about freelance people. This link is for employees.')

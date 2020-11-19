@@ -1,1 +1,1 @@
-Item(by='PankajGhosh', descendants=0, kids=None, score=2, time=1605719221, title='FCC votes to open up more Wi-Fi spectrum', item_type='story', url='https://www.theverge.com/2020/11/18/21573068/fcc-wifi-5-9ghz-unlicensed-spectrum-frequencies', parent=None, text=None)
+Item(by='PankajGhosh', descendants=1, kids=[25142027], score=2, time=1605719221, title='FCC votes to open up more Wi-Fi spectrum', item_type='story', url='https://www.theverge.com/2020/11/18/21573068/fcc-wifi-5-9ghz-unlicensed-spectrum-frequencies', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='sshroot', descendants=24, kids=[25133790, 25133981, 25134146, 25134284, 25134894], score=110, time=1605672577, title='40 millisecond bug', item_type='story', url='https://vorner.github.io/2020/11/06/40-ms-bug.html', parent=None, text=None)
+Item(by='sshroot', descendants=24, kids=[25133790, 25133981, 25134146, 25134284, 25134894], score=113, time=1605672577, title='40 millisecond bug', item_type='story', url='https://vorner.github.io/2020/11/06/40-ms-bug.html', parent=None, text=None)

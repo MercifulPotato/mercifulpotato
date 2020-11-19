@@ -1,0 +1,1 @@
+Item(by='smhmd', descendants=None, kids=None, score=None, time=1605751656, title=None, item_type='comment', url=None, parent=25142488, text='An actual inline style would suffice in this case. Before v2.0, if you want anything other than `top: 0`, it was recommended you do it in the style attribute: `style=&quot;top: 20px;&quot;`')

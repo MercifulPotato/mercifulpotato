@@ -1,1 +1,1 @@
-Item(by='boringg', descendants=None, kids=None, score=None, time=1605730813, title=None, item_type='comment', url=None, parent=25139388, text='A dramatic, unsubstantiated, one liner.')
+Item(by='boringg', descendants=None, kids=[25142083], score=None, time=1605730813, title=None, item_type='comment', url=None, parent=25139388, text='A dramatic, unsubstantiated, one liner.')

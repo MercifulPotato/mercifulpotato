@@ -1,1 +1,1 @@
-Item(by='folli', descendants=None, kids=None, score=None, time=1605731833, title=None, item_type='comment', url=None, parent=25141545, text='Any good tutorials on this? What are the required specs? I assume the dataset is huge?')
+Item(by='folli', descendants=None, kids=[25142198], score=None, time=1605731833, title=None, item_type='comment', url=None, parent=25141545, text='Any good tutorials on this? What are the required specs? I assume the dataset is huge?')

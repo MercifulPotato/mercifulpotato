@@ -1,1 +1,1 @@
-Item(by='rafaelbrandao', descendants=8, kids=[25134121, 25135921, 25135870, 25137061], score=60, time=1605671276, title='The M1 Macs', item_type='story', url='https://daringfireball.net/2020/11/the_m1_macs', parent=None, text=None)
+Item(by='rafaelbrandao', descendants=10, kids=[25134121, 25135921, 25135870, 25137061], score=62, time=1605671276, title='The M1 Macs', item_type='story', url='https://daringfireball.net/2020/11/the_m1_macs', parent=None, text=None)

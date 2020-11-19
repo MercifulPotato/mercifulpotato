@@ -1,1 +1,1 @@
-Item(by='bradlys', descendants=None, kids=None, score=None, time=1605724729, title=None, item_type='comment', url=None, parent=25140297, text='Why is programming or understanding how the device works considered more important than learning another language to speak to other people?')
+Item(by='bradlys', descendants=None, kids=[25144571], score=None, time=1605724729, title=None, item_type='comment', url=None, parent=25140297, text='Why is programming or understanding how the device works considered more important than learning another language to speak to other people?')

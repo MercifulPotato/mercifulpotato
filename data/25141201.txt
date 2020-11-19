@@ -1,1 +1,1 @@
-Item(by='robrenaud', descendants=None, kids=None, score=None, time=1605727433, title=None, item_type='comment', url=None, parent=25136827, text='That relative risk reduction is very signficant, not just statistically signficant, it is very practically signficant too.')
+Item(by='robrenaud', descendants=None, kids=[25142518], score=None, time=1605727433, title=None, item_type='comment', url=None, parent=25136827, text='That relative risk reduction is very signficant, not just statistically signficant, it is very practically signficant too.')

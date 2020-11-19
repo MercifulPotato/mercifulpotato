@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1605705650, title=None, item_type='comment', url=None, parent=25135984, text='So the distribution and cooling problems are resolved and safety is proven. I wonder what’s the next excuse for delays and FUD.')
+Item(by='tinus_hn', descendants=None, kids=[25142352], score=None, time=1605705650, title=None, item_type='comment', url=None, parent=25135984, text='So the distribution and cooling problems are resolved and safety is proven. I wonder what’s the next excuse for delays and FUD.')

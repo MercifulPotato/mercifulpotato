@@ -1,1 +1,1 @@
-Item(by='novia', descendants=0, kids=None, score=15, time=1605702404, title='Jeremy Hammond is out of jail', item_type='story', url='https://twitter.com/FreeJeremyNet/status/1328857805395267584', parent=None, text=None)
+Item(by='novia', descendants=1, kids=[25141038], score=19, time=1605702404, title='Jeremy Hammond is out of jail', item_type='story', url='https://twitter.com/FreeJeremyNet/status/1328857805395267584', parent=None, text=None)

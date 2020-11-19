@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=0, kids=None, score=3, time=1605723508, title='Transparent privacy practices for Chrome Extensions', item_type='story', url='https://blog.chromium.org/2020/11/transparent-privacy-practices.html', parent=None, text=None)
+Item(by='headalgorithm', descendants=2, kids=[25143433], score=10, time=1605723508, title='Transparent privacy practices for Chrome Extensions', item_type='story', url='https://blog.chromium.org/2020/11/transparent-privacy-practices.html', parent=None, text=None)

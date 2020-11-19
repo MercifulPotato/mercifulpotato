@@ -1,1 +1,1 @@
-Item(by='danielscrubs', descendants=None, kids=None, score=None, time=1605679163, title=None, item_type='comment', url=None, parent=25128251, text='Very nice. I just wish that they wouldn’t have used a JVM language, it just feels so constrained. I want to be able to use godbolt.')
+Item(by='danielscrubs', descendants=None, kids=[25142236], score=None, time=1605679163, title=None, item_type='comment', url=None, parent=25128251, text='Very nice. I just wish that they wouldn’t have used a JVM language, it just feels so constrained. I want to be able to use godbolt.')

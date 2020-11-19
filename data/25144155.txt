@@ -1,0 +1,1 @@
+Item(by='agustif', descendants=None, kids=None, score=None, time=1605742503, title=None, item_type='comment', url=None, parent=25137870, text='The other day I noticed my freshly created repo on GH was with main, and I took the time to create a master and make it the new default, and then deleting main.<p>It was my only way to say FU to the word police mafia')

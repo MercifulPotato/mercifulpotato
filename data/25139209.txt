@@ -1,1 +1,1 @@
-Item(by='jerodsanto', descendants=0, kids=None, score=1, time=1605718922, title='When (and when not) to store JSON in Postgres', item_type='story', url='https://www.youtube.com/watch?v=BRqcXj10FjM', parent=None, text=None)
+Item(by='jerodsanto', descendants=0, kids=None, score=3, time=1605718922, title='When (and when not) to store JSON in Postgres', item_type='story', url='https://www.youtube.com/watch?v=BRqcXj10FjM', parent=None, text=None)

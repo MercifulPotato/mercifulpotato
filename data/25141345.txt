@@ -1,1 +1,1 @@
-Item(by='beervirus', descendants=None, kids=None, score=None, time=1605728144, title=None, item_type='comment', url=None, parent=25140588, text='I fully expected this to be crankery like some of this author’s other stuff. But this one makes a lot of sense.')
+Item(by='beervirus', descendants=None, kids=[25142539], score=None, time=1605728144, title=None, item_type='comment', url=None, parent=25140588, text='I fully expected this to be crankery like some of this author’s other stuff. But this one makes a lot of sense.')

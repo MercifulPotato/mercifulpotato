@@ -1,1 +1,1 @@
-Item(by='Mindwipe', descendants=None, kids=None, score=None, time=1605729832, title=None, item_type='comment', url=None, parent=25139493, text='Amazing that people are downvoting this when Apple Arcade exists to prove it.')
+Item(by='Mindwipe', descendants=None, kids=[25142232], score=None, time=1605729832, title=None, item_type='comment', url=None, parent=25139493, text='Amazing that people are downvoting this when Apple Arcade exists to prove it.')

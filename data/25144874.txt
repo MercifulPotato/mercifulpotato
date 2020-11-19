@@ -1,0 +1,1 @@
+Item(by='cageface', descendants=None, kids=None, score=None, time=1605746952, title=None, item_type='comment', url=None, parent=25143593, text='This is the one thing that gives me pause about Svelte. I see a lot of quality of life improvements there compared to react but full type checking all the way through to templates is massively helpful.')

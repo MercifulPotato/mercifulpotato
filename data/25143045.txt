@@ -1,0 +1,1 @@
+Item(by='X-Istence', descendants=None, kids=None, score=None, time=1605737022, title=None, item_type='comment', url=None, parent=25139665, text='I think part of the issue with the eGPU as mentioned in the forum post that is linked is that the drivers haven&#x27;t been compiled for arm64. So maybe they will bring it back once the drivers are stable enough?')

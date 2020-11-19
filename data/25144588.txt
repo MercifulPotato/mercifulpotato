@@ -1,0 +1,1 @@
+Item(by='cosmotic', descendants=None, kids=[25144810], score=None, time=1605745125, title=None, item_type='comment', url=None, parent=25141740, text='Style attributes have very high specificity so they basically preclude using normal CSS files (they would mandate every line include !important)')

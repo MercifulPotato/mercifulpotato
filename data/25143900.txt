@@ -1,0 +1,1 @@
+Item(by='darekkay', descendants=None, kids=[25144908], score=None, time=1605741085, title=None, item_type='comment', url=None, parent=25142806, text='&gt; If you extract components then you require JS<p>Only for interactive components. You can use PHP or a static site generator and create components with no runtime JS at all.')

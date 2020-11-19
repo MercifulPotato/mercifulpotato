@@ -1,1 +1,1 @@
-Item(by='hanklazard', descendants=0, kids=None, score=3, time=1605727910, title='Open EMR', item_type='story', url='https://www.open-emr.org/', parent=None, text=None)
+Item(by='hanklazard', descendants=101, kids=[25145671, 25142309, 25141674, 25143748, 25141881, 25144334, 25142814, 25141528, 25142244, 25142556, 25142721, 25141544, 25141732, 25142907, 25142844], score=136, time=1605727910, title='Open EMR', item_type='story', url='https://www.open-emr.org/', parent=None, text=None)
