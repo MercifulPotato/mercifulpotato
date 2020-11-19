@@ -1,0 +1,1 @@
+Item(by='ryanmjacobs', descendants=None, kids=None, score=None, time=1605796425, title=None, item_type='comment', url=None, parent=25149439, text='Hahaha no I have several sites running with that Let&#x27;s Encrypt cert. I&#x27;m working on separating them out, but until I get my DNS Let&#x27;s Encrypt process automated, I&#x27;m just extending the cert via certbot.sh :&#x2F;')

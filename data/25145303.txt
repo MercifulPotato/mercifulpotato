@@ -1,1 +1,1 @@
-Item(by='Hnrobert42', descendants=None, kids=None, score=None, time=1605750550, title=None, item_type='comment', url=None, parent=25144696, text='Awk is ancient. Mock it if you like, but it is your loss.')
+Item(by='Hnrobert42', descendants=None, kids=[25148176], score=None, time=1605750550, title=None, item_type='comment', url=None, parent=25144696, text='Awk is ancient. Mock it if you like, but it is your loss.')

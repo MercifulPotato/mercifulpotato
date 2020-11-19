@@ -1,1 +1,1 @@
-Item(by='eznzt', descendants=None, kids=None, score=None, time=1605619846, title=None, item_type='comment', url=None, parent=25121907, text='I think it means &quot;see&quot;')
+Item(by='eznzt', descendants=None, kids=[25147992], score=None, time=1605619846, title=None, item_type='comment', url=None, parent=25121907, text='I think it means &quot;see&quot;')

@@ -1,1 +1,1 @@
-Item(by='tpetry', descendants=None, kids=None, score=None, time=1605635798, title=None, item_type='comment', url=None, parent=25125527, text='The interesting information after which time the air was throttled and how much performance is lost when throttling.')
+Item(by='tpetry', descendants=None, kids=[25149257], score=None, time=1605635798, title=None, item_type='comment', url=None, parent=25125527, text='The interesting information after which time the air was throttled and how much performance is lost when throttling.')

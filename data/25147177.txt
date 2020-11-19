@@ -1,1 +1,1 @@
-Item(by='Thorrez', descendants=None, kids=None, score=None, time=1605772339, title=None, item_type='comment', url=None, parent=25146382, text='Yes.<p><a href="https:&#x2F;&#x2F;i.imgur.com&#x2F;8aczvjV.png" rel="nofollow">https:&#x2F;&#x2F;i.imgur.com&#x2F;8aczvjV.png</a>')
+Item(by='Thorrez', descendants=None, kids=[25150111], score=None, time=1605772339, title=None, item_type='comment', url=None, parent=25146382, text='Yes.<p><a href="https:&#x2F;&#x2F;i.imgur.com&#x2F;8aczvjV.png" rel="nofollow">https:&#x2F;&#x2F;i.imgur.com&#x2F;8aczvjV.png</a>')

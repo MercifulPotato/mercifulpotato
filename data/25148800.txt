@@ -1,0 +1,1 @@
+Item(by='tzs', descendants=None, kids=[25148830], score=None, time=1605788808, title=None, item_type='comment', url=None, parent=25135014, text='I don’t understand the direction of the arrows in the class diagram. In some cases they are pointing from a class to one of its subclasses, but in others they point from a subclass to its parent class.')

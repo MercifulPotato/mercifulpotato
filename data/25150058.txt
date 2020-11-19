@@ -1,0 +1,1 @@
+Item(by='Unklejoe', descendants=None, kids=None, score=None, time=1605797441, title=None, item_type='comment', url=None, parent=25146701, text='GPS time is already immune from leap seconds. It has a fixed offset from TAI of 19 seconds and always will.<p>It also contains UTC offset information so that you can derive the current UTC time from GPS if you wanted to.')

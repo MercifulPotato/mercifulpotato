@@ -1,0 +1,1 @@
+Item(by='ohnoesjmr', descendants=None, kids=[25150193, 25150146], score=None, time=1605797753, title=None, item_type='comment', url=None, parent=25148690, text='How is this different from CPU pinning? I assume the side channel attack mitigations only happen during a context switch, so if you exclusively pin the core to an application, they shouldn&#x27;t run anyway?')

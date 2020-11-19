@@ -1,0 +1,1 @@
+Item(by='arto64', descendants=None, kids=[25149376], score=None, time=1605791599, title=None, item_type='comment', url=None, parent=25148977, text='In his case, the guard clause is completely appropriate, because &quot;super&quot; is &quot;the rest of the method&quot; the guard clause is protecting. It&#x27;s not a filter method, it&#x27;s a selective render method.')

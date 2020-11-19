@@ -1,0 +1,1 @@
+Item(by='vishbar', descendants=None, kids=[25148374], score=None, time=1605784381, title=None, item_type='comment', url=None, parent=25148268, text='Is there not an autoformatter available? We use linting as part of our Python workflow and it works pretty well along with black. There&#x27;s really not much linting work: just write your code, run black, and it&#x27;s good to go.')

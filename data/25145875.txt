@@ -1,1 +1,1 @@
-Item(by='anonytrary', descendants=None, kids=None, score=None, time=1605756303, title=None, item_type='comment', url=None, parent=25138872, text='I suggest using CMD+Enter for Mac. This is the closest&#x2F;better alternative to CTRL+Enter for PC, albeit Mac having a CTRL key.')
+Item(by='anonytrary', descendants=None, kids=[25147707], score=None, time=1605756303, title=None, item_type='comment', url=None, parent=25138872, text='I suggest using CMD+Enter for Mac. This is the closest&#x2F;better alternative to CTRL+Enter for PC, albeit Mac having a CTRL key.')

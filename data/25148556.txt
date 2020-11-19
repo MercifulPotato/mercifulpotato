@@ -1,0 +1,1 @@
+Item(by='josteink', descendants=None, kids=[25148643, 25148709], score=None, time=1605786394, title=None, item_type='comment', url=None, parent=25148335, text='Ubuntu comes with working ZFS support OOB with no need to fiddle around. You don’t even need DKMS.<p>My guess is implementing with Debian would be more effort.')

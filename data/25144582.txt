@@ -1,1 +1,1 @@
-Item(by='xchip', descendants=None, kids=None, score=None, time=1605745072, title=None, item_type='comment', url=None, parent=25143309, text='What is the fine amount per user? I bet is going to be $5')
+Item(by='xchip', descendants=None, kids=[25149186], score=None, time=1605745072, title=None, item_type='comment', url=None, parent=25143309, text='What is the fine amount per user? I bet is going to be $5')

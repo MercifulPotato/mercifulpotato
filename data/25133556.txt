@@ -1,1 +1,1 @@
-Item(by='rfreytag', descendants=0, kids=None, score=1, time=1605677681, title='Whatever Happened to New Math? (1990)', item_type='story', url='https://www.americanheritage.com/whatever-happened-new-math-0#1', parent=None, text=None)
+Item(by='rfreytag', descendants=25, kids=[25148826, 25148708, 25148445, 25148151, 25148377, 25147889, 25148427, 25147998, 25148676, 25147568], score=25, time=1605677681, title='Whatever Happened to New Math? (1990)', item_type='story', url='https://www.americanheritage.com/whatever-happened-new-math-0#1', parent=None, text=None)

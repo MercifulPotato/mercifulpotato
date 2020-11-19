@@ -1,1 +1,1 @@
-Item(by='rxever', descendants=0, kids=None, score=1, time=1605771802, title='Marrisa Mayer Launches Sunshine.com', item_type='story', url='https://sunshine.com/introducing-sunshine/', parent=None, text=None)
+Item(by='rxever', descendants=21, kids=[25147726, 25147557, 25149373, 25147491, 25148199, 25147509, 25147607, 25148876, 25147807, 25147913, 25147598, 25147529, 25147964, 25147950, 25147743, 25147740], score=11, time=1605771802, title='Introducing Sunshine', item_type='story', url='https://sunshine.com/introducing-sunshine/', parent=None, text=None)

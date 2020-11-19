@@ -1,1 +1,1 @@
-Item(by='lawik', descendants=0, kids=None, score=5, time=1605767367, title='The Mac is losing me', item_type='story', url='https://underjord.io/the-mac-is-losing-me.html', parent=None, text=None)
+Item(by='lawik', descendants=53, kids=[25147451, 25147477, 25147711, 25147683, 25149374, 25147798, 25147933, 25147729, 25147859, 25147799, 25148275, 25147347, 25147664], score=34, time=1605767367, title='The Mac is losing me', item_type='story', url='https://underjord.io/the-mac-is-losing-me.html', parent=None, text=None)

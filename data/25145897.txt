@@ -1,1 +1,1 @@
-Item(by='pabs3', descendants=2, kids=[25146977, 25146708], score=21, time=1605756565, title='RPC DRAM support in open source DRAM controller', item_type='story', url='https://antmicro.com/blog/2020/10/rpc-dram-support-in-litedram/', parent=None, text=None)
+Item(by='pabs3', descendants=7, kids=[25146977, 25147412, 25146708, 25147825], score=29, time=1605756565, title='RPC DRAM support in open source DRAM controller', item_type='story', url='https://antmicro.com/blog/2020/10/rpc-dram-support-in-litedram/', parent=None, text=None)

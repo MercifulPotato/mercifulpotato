@@ -1,1 +1,1 @@
-Item(by='toyg', descendants=None, kids=[25147410], score=None, time=1605769962, title=None, item_type='comment', url=None, parent=25146616, text='<i>&gt; GTK application development</i><p>Sigh, is this the only way to build apps for it? I hope not...')
+Item(by='toyg', descendants=None, kids=[25147769, 25147410, 25148018], score=None, time=1605769962, title=None, item_type='comment', url=None, parent=25146616, text='<i>&gt; GTK application development</i><p>Sigh, is this the only way to build apps for it? I hope not...')

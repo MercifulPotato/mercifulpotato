@@ -1,1 +1,1 @@
-Item(by='ros86', descendants=None, kids=None, score=None, time=1605773718, title=None, item_type='comment', url=None, parent=25146833, text='What about some MOOCS? There are plenty that will introduce you to this area.')
+Item(by='ros86', descendants=None, kids=[25148471], score=None, time=1605773718, title=None, item_type='comment', url=None, parent=25146833, text='What about some MOOCS? There are plenty that will introduce you to this area.')

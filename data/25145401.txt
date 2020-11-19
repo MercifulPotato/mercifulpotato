@@ -1,1 +1,1 @@
-Item(by='conductr', descendants=None, kids=None, score=None, time=1605751519, title=None, item_type='comment', url=None, parent=25142657, text='If ~200 of 35000 signed this, I think Facebook now has ~34800 content moderators')
+Item(by='conductr', descendants=None, kids=[25148527], score=None, time=1605751519, title=None, item_type='comment', url=None, parent=25142657, text='If ~200 of 35000 signed this, I think Facebook now has ~34800 content moderators')

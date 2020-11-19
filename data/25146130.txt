@@ -1,1 +1,1 @@
-Item(by='laichzeit0', descendants=None, kids=None, score=None, time=1605758843, title=None, item_type='comment', url=None, parent=25144357, text='I doubt it’s A&#x2F;B testing, more likely some multi-armed bandit algorithm.')
+Item(by='laichzeit0', descendants=None, kids=[25148286], score=None, time=1605758843, title=None, item_type='comment', url=None, parent=25144357, text='I doubt it’s A&#x2F;B testing, more likely some multi-armed bandit algorithm.')

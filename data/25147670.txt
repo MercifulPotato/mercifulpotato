@@ -1,1 +1,1 @@
-Item(by='matsemann', descendants=None, kids=None, score=None, time=1605777515, title=None, item_type='comment', url=None, parent=25147516, text='I feel like I just get the same texture stretched over whatever figures I draw.')
+Item(by='matsemann', descendants=None, kids=[25149614], score=None, time=1605777515, title=None, item_type='comment', url=None, parent=25147516, text='I feel like I just get the same texture stretched over whatever figures I draw.')

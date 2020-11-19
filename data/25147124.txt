@@ -1,1 +1,1 @@
-Item(by='Tepix', descendants=None, kids=None, score=None, time=1605771547, title=None, item_type='comment', url=None, parent=25145089, text='Very cool!\nIs there some way to tell from the outside whether or not the LIDAR is rotating?')
+Item(by='Tepix', descendants=None, kids=[25148019], score=None, time=1605771547, title=None, item_type='comment', url=None, parent=25145089, text='Very cool!\nIs there some way to tell from the outside whether or not the LIDAR is rotating?')

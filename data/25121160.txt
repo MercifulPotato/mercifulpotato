@@ -1,1 +1,1 @@
-Item(by='Gaessaki', descendants=1, kids=[25121204], score=1, time=1605599279, title='Show HN: Radish – We created a restaurant delivery platform cooperative', item_type='story', url='https://radish.coop', parent=None, text=None)
+Item(by='Gaessaki', descendants=3, kids=[25121204, 25124942], score=7, time=1605599279, title='Show HN: Radish – We created a restaurant delivery platform cooperative', item_type='story', url='https://radish.coop', parent=None, text=None)

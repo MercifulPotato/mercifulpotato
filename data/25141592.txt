@@ -1,1 +1,1 @@
-Item(by='duxup', descendants=None, kids=None, score=None, time=1605729153, title=None, item_type='comment', url=None, parent=25141455, text='You wouldn&#x27;t &#x27;be glad&#x27;.')
+Item(by='duxup', descendants=None, kids=[25148040], score=None, time=1605729153, title=None, item_type='comment', url=None, parent=25141455, text='You wouldn&#x27;t &#x27;be glad&#x27;.')

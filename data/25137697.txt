@@ -1,1 +1,1 @@
-Item(by='dtech', descendants=None, kids=None, score=None, time=1605712835, title=None, item_type='comment', url=None, parent=25137499, text='I looked it up and saw it was read by Michael Kramer. It&#x27;s worth it do just hear his voice.')
+Item(by='dtech', descendants=None, kids=[25148762], score=None, time=1605712835, title=None, item_type='comment', url=None, parent=25137499, text='I looked it up and saw it was read by Michael Kramer. It&#x27;s worth it do just hear his voice.')

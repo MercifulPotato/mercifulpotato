@@ -1,1 +1,1 @@
-Item(by='josephcsible', descendants=None, kids=None, score=None, time=1605771764, title=None, item_type='comment', url=None, parent=25146397, text='So SIP isn&#x27;t about keeping me secure. It&#x27;s about keeping my computer secure <i>from me</i>.')
+Item(by='josephcsible', descendants=None, kids=[25147751], score=None, time=1605771764, title=None, item_type='comment', url=None, parent=25146397, text='So SIP isn&#x27;t about keeping me secure. It&#x27;s about keeping my computer secure <i>from me</i>.')

@@ -1,1 +1,1 @@
-Item(by='lmm', descendants=None, kids=None, score=None, time=1605762378, title=None, item_type='comment', url=None, parent=25146389, text='The politicians will decide who gets the contract to design them over WhatsApp though.')
+Item(by='lmm', descendants=None, kids=[25147830], score=None, time=1605762378, title=None, item_type='comment', url=None, parent=25146389, text='The politicians will decide who gets the contract to design them over WhatsApp though.')

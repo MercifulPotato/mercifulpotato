@@ -1,1 +1,1 @@
-Item(by='pengaru', descendants=None, kids=None, score=None, time=1605741552, title=None, item_type='comment', url=None, parent=25143880, text='How did the librem 13 pan out?')
+Item(by='pengaru', descendants=None, kids=[25148420], score=None, time=1605741552, title=None, item_type='comment', url=None, parent=25143880, text='How did the librem 13 pan out?')
