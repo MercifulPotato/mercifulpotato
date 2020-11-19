@@ -1,1 +1,1 @@
-Item(by='yorkiebar', descendants=0, kids=None, score=1, time=1605793882, title='What Does 5G Mean for Mobile App Developers?', item_type='story', url='https://netsells.co.uk/insights/what-does-5g-mean-for-mobile-app-development', parent=None, text=None)
+Item(by='yorkiebar', descendants=3, kids=[25150296, 25149479], score=2, time=1605793882, title='What Does 5G Mean for Mobile App Developers?', item_type='story', url='https://netsells.co.uk/insights/what-does-5g-mean-for-mobile-app-development', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='cyptus', descendants=1, kids=[25150499], score=1, time=1605799850, title="GitHub's CodeQL found critical RCE in German Covid app server", item_type='story', url='https://github.com/corona-warn-app/cwa-server/pull/922', parent=None, text=None)

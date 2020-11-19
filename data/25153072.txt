@@ -1,0 +1,1 @@
+Item(by='glial', descendants=None, kids=None, score=None, time=1605812514, title=None, item_type='comment', url=None, parent=25147131, text='&gt; is anyone really training models on a Macbook or a Mac Mini?<p>In an academic environment, absolutely. Scaling is the second problem to solve, but iterating on model architecture is the first.')

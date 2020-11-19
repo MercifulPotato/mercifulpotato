@@ -1,0 +1,1 @@
+Item(by='CraigJPerry', descendants=None, kids=None, score=None, time=1605803697, title=None, item_type='comment', url=None, parent=25150529, text='Yeah. I don&#x27;t hold out hope of it surviving any vm workloads (vagrant, docker desktop etc.) but i&#x27;m ok with just installing the cli tools and connecting to remote clusters.')

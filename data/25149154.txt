@@ -1,1 +1,1 @@
-Item(by='nathaliaariza', descendants=1, kids=[25149187], score=15, time=1605791860, title='HopsFS: 100x Times Faster Than AWS S3', item_type='story', url='https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3', parent=None, text=None)
+Item(by='nathaliaariza', descendants=3, kids=[25149782, 25149187], score=17, time=1605791860, title='HopsFS: 100x Times Faster Than AWS S3', item_type='story', url='https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3', parent=None, text=None)

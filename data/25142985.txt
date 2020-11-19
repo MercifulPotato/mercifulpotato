@@ -1,1 +1,1 @@
-Item(by='tomcat27', descendants=1, kids=[25143330], score=2, time=1605736706, title='Gilfoyle in Silicon Valley Uses VSCode', item_type='story', url='https://www.youtube.com/watch?v=iqCaVR0AMTc', parent=None, text=None)
+Item(by='tomcat27', descendants=3, kids=[25151631, 25151021, 25143330], score=3, time=1605736706, title='Gilfoyle in Silicon Valley Uses VSCode', item_type='story', url='https://www.youtube.com/watch?v=iqCaVR0AMTc', parent=None, text=None)

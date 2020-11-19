@@ -1,1 +1,1 @@
-Item(by='dleightful', descendants=None, kids=None, score=None, time=1605757651, title=None, item_type='comment', url=None, parent=25145799, text='That&#x27;s deep man. Really deep. You seem to speak out of a deep wisdom there. I assume you&#x27;ve experienced it then as well.')
+Item(by='dleightful', descendants=None, kids=[25149299], score=None, time=1605757651, title=None, item_type='comment', url=None, parent=25145799, text='That&#x27;s deep man. Really deep. You seem to speak out of a deep wisdom there. I assume you&#x27;ve experienced it then as well.')

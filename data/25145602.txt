@@ -1,1 +1,1 @@
-Item(by='pabs3', descendants=None, kids=None, score=None, time=1605753414, title=None, item_type='comment', url=None, parent=25141566, text='GNOME Maps isn&#x27;t offline like OsmAnd is though, you can&#x27;t download new tiles, search, navigate etc without network.')
+Item(by='pabs3', descendants=None, kids=[25151194], score=None, time=1605753414, title=None, item_type='comment', url=None, parent=25141566, text='GNOME Maps isn&#x27;t offline like OsmAnd is though, you can&#x27;t download new tiles, search, navigate etc without network.')

@@ -1,0 +1,1 @@
+Item(by='jph', descendants=None, kids=[25150537, 25151037, 25150670], score=None, time=1605799500, title=None, item_type='comment', url=None, parent=25149969, text='Congratulations! The highlight for me is stable conversion from Vec to array:<p><pre><code>  let my_arr: [u32; 3] = my_vec.try_into().expect(&quot;msg&quot;);</code></pre>')

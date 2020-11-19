@@ -1,1 +1,1 @@
-Item(by='tomthecreator', descendants=None, kids=None, score=None, time=1605787901, title=None, item_type='comment', url=None, parent=25135014, text='I&#x27;m really sorry olivdums, but it seems I cannot read your blog post because it&#x27;s behind Mediums paywall. :)')
+Item(by='tomthecreator', descendants=None, kids=[25151941, 25149090, 25149930], score=None, time=1605787901, title=None, item_type='comment', url=None, parent=25135014, text='I&#x27;m really sorry olivdums, but it seems I cannot read your blog post because it&#x27;s behind Mediums paywall. :)')

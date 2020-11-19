@@ -1,0 +1,1 @@
+Item(by='ogre_codes', descendants=None, kids=[25152525], score=None, time=1605808654, title=None, item_type='comment', url=None, parent=25151696, text='You can include JS in iOS apps. You basically embed Javascript and call it directly from Swift&#x2F; ObjectiveC and it runs on the same Javascript engine that runs in Safari.')

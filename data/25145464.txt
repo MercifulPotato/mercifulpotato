@@ -1,1 +1,1 @@
-Item(by='tesmar2', descendants=None, kids=None, score=None, time=1605752273, title=None, item_type='comment', url=None, parent=25144297, text='Of course there is an alternative. Android.')
+Item(by='tesmar2', descendants=None, kids=[25152098], score=None, time=1605752273, title=None, item_type='comment', url=None, parent=25144297, text='Of course there is an alternative. Android.')

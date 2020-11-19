@@ -1,0 +1,1 @@
+Item(by='jasonwatkinspdx', descendants=None, kids=None, score=None, time=1605804843, title=None, item_type='comment', url=None, parent=25150685, text='So this thing is programmed via Tensorflow, Torch, etc. Your model becomes a graph in an IR format that their toolchain maps onto a set of kernels, compiling new kernels as needed to cover the graph.')

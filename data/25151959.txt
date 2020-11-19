@@ -1,0 +1,1 @@
+Item(by='kube-system', descendants=None, kids=None, score=None, time=1605807314, title=None, item_type='comment', url=None, parent=25151010, text='&gt; The command-line tools work under Rosetta 2<p>Does this mean I can `docker run` using a remote (x86_84) docker host in the meantime?')

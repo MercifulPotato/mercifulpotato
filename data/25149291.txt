@@ -1,0 +1,1 @@
+Item(by='pqdbr', descendants=None, kids=[25150964, 25149346], score=None, time=1605793094, title=None, item_type='comment', url=None, parent=25149196, text='Ruby 2.7.2, just fire up irb:<p>BigDecimal(&quot;123.45&quot;) == 123.45.to_d<p>=&gt; true')

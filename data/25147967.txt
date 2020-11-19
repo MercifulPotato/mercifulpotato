@@ -1,1 +1,1 @@
-Item(by='Ygg2', descendants=None, kids=None, score=None, time=1605780844, title=None, item_type='comment', url=None, parent=25147959, text='Actually I had a desktop computer before my current phone. So my preference is faster, even if it spends more time on the cord.')
+Item(by='Ygg2', descendants=None, kids=[25152200], score=None, time=1605780844, title=None, item_type='comment', url=None, parent=25147959, text='Actually I had a desktop computer before my current phone. So my preference is faster, even if it spends more time on the cord.')

@@ -1,1 +1,1 @@
-Item(by='muyuu', descendants=None, kids=None, score=None, time=1605740790, title=None, item_type='comment', url=None, parent=25143563, text='so maybe it worked flawlessly?')
+Item(by='muyuu', descendants=None, kids=[25149972], score=None, time=1605740790, title=None, item_type='comment', url=None, parent=25143563, text='so maybe it worked flawlessly?')

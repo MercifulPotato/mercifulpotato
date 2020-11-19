@@ -1,0 +1,1 @@
+Item(by='cl42', descendants=None, kids=None, score=None, time=1605805749, title=None, item_type='comment', url=None, parent=25149304, text='Update: NOW it&#x27;s fixed. Apparently the default echo cancellation in WebRTC isn&#x27;t great. I made it so the video gets muted on recording and unmuted on playback.')

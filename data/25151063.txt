@@ -1,0 +1,1 @@
+Item(by='Spivak', descendants=None, kids=[25151479, 25152194], score=None, time=1605803166, title=None, item_type='comment', url=None, parent=25149955, text='You can ask the user to go to about:networking#dns and it will show Firefox&#x27;s internal DNS cache. This is actually much more user-friendly today than asking them to open a terminal.')

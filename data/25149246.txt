@@ -1,1 +1,1 @@
-Item(by='mulle_nat', descendants=None, kids=[25149292], score=None, time=1605792710, title=None, item_type='comment', url=None, parent=25148397, text='It would be cool to have a LISP Machine VM that you could boot up. Does something like that exist ?')
+Item(by='mulle_nat', descendants=None, kids=[25149292, 25149924], score=None, time=1605792710, title=None, item_type='comment', url=None, parent=25148397, text='It would be cool to have a LISP Machine VM that you could boot up. Does something like that exist ?')

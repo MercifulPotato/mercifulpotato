@@ -1,0 +1,1 @@
+Item(by='rsanheim', descendants=None, kids=None, score=None, time=1605802754, title=None, item_type='comment', url=None, parent=25149994, text='I had my Ruby on Rails &#x2F; node dev env setup within a couple hours - the only weird thing was Redis (via Rosetta) had to run as root for some reason.')

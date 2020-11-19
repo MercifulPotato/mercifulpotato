@@ -1,0 +1,1 @@
+Item(by='seba_dos1', descendants=None, kids=None, score=None, time=1605804546, title=None, item_type='comment', url=None, parent=25149338, text='If you make your own UI, yes. But if you make a desktop-style application that&#x27;s supposed to adapt its UI to small touchscreens, you&#x27;re going to have a hard time with Qt Widgets. Even KDE uses Qt Quick for its adaptive apps.')

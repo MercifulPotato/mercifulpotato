@@ -1,1 +1,1 @@
-Item(by='eknkc', descendants=None, kids=None, score=None, time=1605792865, title=None, item_type='comment', url=None, parent=25148684, text='I rest my case.')
+Item(by='eknkc', descendants=None, kids=[25152793], score=None, time=1605792865, title=None, item_type='comment', url=None, parent=25148684, text='I rest my case.')
