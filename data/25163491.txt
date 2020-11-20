@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=None, kids=None, score=None, time=1605897856, title=None, item_type='comment', url=None, parent=25161546, text='People like to complain about JS but the fact is that it&#x27;s been completely optional on the frontend to write in it for 8-10 years, certainly the whole time Electron has been around. JS is a fine compile target though.')

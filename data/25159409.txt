@@ -1,1 +1,1 @@
-Item(by='user-the-name', descendants=None, kids=None, score=None, time=1605871567, title=None, item_type='comment', url=None, parent=25159297, text='Arc is a technical feature, not ergonomics.<p>Ergonomics is things like the optional handling syntax in Swift, or named arguments.')
+Item(by='user-the-name', descendants=None, kids=[25160717], score=None, time=1605871567, title=None, item_type='comment', url=None, parent=25159297, text='Arc is a technical feature, not ergonomics.<p>Ergonomics is things like the optional handling syntax in Swift, or named arguments.')

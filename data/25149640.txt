@@ -1,1 +1,1 @@
-Item(by='manjana', descendants=1, kids=[25159401], score=63, time=1605795333, title='Vim Koans', item_type='story', url='https://sanctum.geek.nz/arabesque/vim-koans/', parent=None, text=None)
+Item(by='manjana', descendants=3, kids=[25159401], score=68, time=1605795333, title='Vim Koans', item_type='story', url='https://sanctum.geek.nz/arabesque/vim-koans/', parent=None, text=None)

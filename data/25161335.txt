@@ -1,0 +1,1 @@
+Item(by='bradstewart', descendants=None, kids=[25163627], score=None, time=1605886108, title=None, item_type='comment', url=None, parent=25157622, text='We generate JSON Schema from our TypeScript interfaces, then use that to validate data at relevant points in the application. Best of both worlds, assuming the type definitions are relatively straightforward.')

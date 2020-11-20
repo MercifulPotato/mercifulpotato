@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=[25162573], score=None, time=1605889959, title=None, item_type='comment', url=None, parent=25161914, text='It is an alternative, in many cases, to automatic reference counting. It&#x27;s sort of like saying &quot;why would I need automatic reference counting? I have a tracing garbage collector.&quot;')

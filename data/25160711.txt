@@ -1,0 +1,1 @@
+Item(by='Finnucane', descendants=None, kids=None, score=None, time=1605882570, title=None, item_type='comment', url=None, parent=25160303, text='Ligatures were created to prevent crashes of overlapping bits of characters. But this is an issue that shouldn&#x27;t really occur in a monospace font.')

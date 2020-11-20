@@ -1,0 +1,1 @@
+Item(by='jcranmer', descendants=None, kids=[25161856], score=None, time=1605886827, title=None, item_type='comment', url=None, parent=25160510, text='oneAPI is not being run on top of OpenCL; it&#x27;s being run on top of Level Zero. Although I think the CPU runtime is still using the OpenCL driver for the moment.')

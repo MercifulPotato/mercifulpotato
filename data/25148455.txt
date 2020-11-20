@@ -1,1 +1,1 @@
-Item(by='fcambus', descendants=0, kids=None, score=4, time=1605785489, title='Before the BSD Kernel Starts: Part One on AMD64', item_type='story', url='https://www.moritz.systems/blog/before-the-bsd-kernel-starts-part-one-on-amd64/', parent=None, text=None)
+Item(by='fcambus', descendants=1, kids=[25163008], score=4, time=1605785489, title='Before the BSD Kernel Starts: Part One on AMD64', item_type='story', url='https://www.moritz.systems/blog/before-the-bsd-kernel-starts-part-one-on-amd64/', parent=None, text=None)

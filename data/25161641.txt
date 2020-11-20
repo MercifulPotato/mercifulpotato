@@ -1,0 +1,1 @@
+Item(by='l3s2d', descendants=None, kids=[25163127], score=None, time=1605887988, title=None, item_type='comment', url=None, parent=25161608, text='I think OIDC should be the default authentication for services like this. It is the newest, and simplest, of the three. Any sort of integration with existing SAML or LDAP can be done via a bridge. Keycloak supports this, I believe.')

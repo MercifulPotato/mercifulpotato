@@ -1,0 +1,1 @@
+Item(by='staticassertion', descendants=None, kids=None, score=None, time=1605891773, title=None, item_type='comment', url=None, parent=25160474, text='Pretty slick, reminds me of Erlang in that Actors are just functions. I&#x27;ve always thought this made stateful actors a bit weird since they have to recurse. I like the wasm approach though.')

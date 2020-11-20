@@ -1,0 +1,1 @@
+Item(by='centimeter', descendants=None, kids=None, score=None, time=1605894345, title=None, item_type='comment', url=None, parent=25161886, text='ZFS on Linux supports encryption. Very few symmetric algorithms are known to be backdoored - the AES implementation available to ZoL is thought to be fine.')

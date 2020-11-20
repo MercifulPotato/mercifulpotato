@@ -1,0 +1,1 @@
+Item(by='anoncake', descendants=None, kids=None, score=None, time=1605900490, title=None, item_type='comment', url=None, parent=25159498, text='&gt; Killing emacs ends the X session of course, as it&#x27;s the window manager<p>If killing Emacs ends the session, that must have a different cause. Killing the WM doesn&#x27;t usually end the session.')

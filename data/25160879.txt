@@ -1,0 +1,1 @@
+Item(by='CraigJPerry', descendants=None, kids=[25161235, 25163238], score=None, time=1605883572, title=None, item_type='comment', url=None, parent=25160389, text='Wait<p><pre><code>    doSomethingWithThing(thing)\n</code></pre>\nDoesn&#x27;t know about user, why does it need to be polluted with the concept of an AuthenticatedUser type which it does nothing with?')

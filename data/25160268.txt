@@ -1,1 +1,1 @@
-Item(by='fairity', descendants=None, kids=None, score=None, time=1605879260, title=None, item_type='comment', url=None, parent=25160036, text='Isn’t it pretty easy to sequence anyways? Assuming you can get a hold of a vaccine sample.')
+Item(by='fairity', descendants=None, kids=[25162810, 25160946, 25160987], score=None, time=1605879260, title=None, item_type='comment', url=None, parent=25160036, text='Isn’t it pretty easy to sequence anyways? Assuming you can get a hold of a vaccine sample.')

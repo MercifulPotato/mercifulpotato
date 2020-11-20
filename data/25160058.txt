@@ -1,1 +1,1 @@
-Item(by='minusf', descendants=0, kids=None, score=1, time=1605877528, title='YouTube Right to Monetize', item_type='story', url='https://support.google.com/youtube/thread/83733719', parent=None, text=None)
+Item(by='minusf', descendants=1, kids=[25160315], score=2, time=1605877528, title='YouTube Right to Monetize', item_type='story', url='https://support.google.com/youtube/thread/83733719', parent=None, text=None)

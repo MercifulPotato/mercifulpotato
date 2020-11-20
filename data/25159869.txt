@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1605876109, title=None, item_type='comment', url=None, parent=25158497, text='Wonder if it says anything about the account&#x27;s password.')
+Item(by='saagarjha', descendants=None, kids=[25163975, 25162980], score=None, time=1605876109, title=None, item_type='comment', url=None, parent=25158497, text='Wonder if it says anything about the account&#x27;s password.')

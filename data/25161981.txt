@@ -1,0 +1,1 @@
+Item(by='jsdavid', descendants=None, kids=[25162190], score=None, time=1605889769, title=None, item_type='comment', url=None, parent=25161546, text='The tweet mentioned in the article, saying:<p>Electron app memory usage: 150MB<p>Native app memory usage: 0 MB (because you never ship it)<p>really hit home for me.')

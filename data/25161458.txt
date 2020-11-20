@@ -1,0 +1,1 @@
+Item(by='tomp', descendants=None, kids=[25163606], score=None, time=1605886769, title=None, item_type='comment', url=None, parent=25161328, text='From my reading of the docs, Vale is <i>not</i> memory safe. It offers some tools to <i>assist</i> with memory management, but is fundamentally closer to the safety level of C++ rather than Rust.')

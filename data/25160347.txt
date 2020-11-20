@@ -1,1 +1,1 @@
-Item(by='hirundo', descendants=None, kids=None, score=None, time=1605879797, title=None, item_type='comment', url=None, parent=25159649, text='See Ghost of Tsushima. Great storytelling and the game is widely applauded for it. It made the gameplay a lot better for me.')
+Item(by=None, descendants=None, kids=None, score=None, time=1605879797, title=None, item_type='comment', url=None, parent=25159649, text=None)

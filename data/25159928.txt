@@ -1,1 +1,1 @@
-Item(by='d3nj4l', descendants=None, kids=None, score=None, time=1605876466, title=None, item_type='comment', url=None, parent=25159883, text='The ligaturized -&gt; is two characters wide and is pretty easy to tell apart.')
+Item(by='d3nj4l', descendants=None, kids=[25160729], score=None, time=1605876466, title=None, item_type='comment', url=None, parent=25159883, text='The ligaturized -&gt; is two characters wide and is pretty easy to tell apart.')

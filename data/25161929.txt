@@ -1,0 +1,1 @@
+Item(by='dexwiz', descendants=None, kids=None, score=None, time=1605889596, title=None, item_type='comment', url=None, parent=25160853, text='Graphics programming is coupled much tighter to hardware. Both CPU intensive calculations in tight loops and interacting with a proprietary GPU make graphics programming less abstracted than other forms.')

@@ -1,0 +1,1 @@
+Item(by='axsharma', descendants=None, kids=None, score=None, time=1605881660, title=None, item_type='comment', url=None, parent=25160579, text='The vulnerability also tracked as SA-CORE-2020-012, exists due to improper validation of filenames of files uploaded to Drupal websites.<p>E.g. filename.php.txt or filename.html.gif, without an underscore (_) in the extension.')

@@ -1,0 +1,1 @@
+Item(by='rnikander', descendants=None, kids=[25161364], score=None, time=1605885628, title=None, item_type='comment', url=None, parent=25158111, text='I&#x27;d use Swift-on-server for web apps <i>if</i> there were a way to compile Swift to JS, like you can with Kotlin. As far as I know, there is not a good way to do this.')

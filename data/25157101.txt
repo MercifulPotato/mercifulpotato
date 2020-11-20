@@ -1,1 +1,1 @@
-Item(by='cercatrova', descendants=None, kids=None, score=None, time=1605843474, title=None, item_type='comment', url=None, parent=25157054, text='You can use Kiwi Browser or Firefox for Android to get extensions.')
+Item(by='cercatrova', descendants=None, kids=[25162294], score=None, time=1605843474, title=None, item_type='comment', url=None, parent=25157054, text='You can use Kiwi Browser or Firefox for Android to get extensions.')

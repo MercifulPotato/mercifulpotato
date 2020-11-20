@@ -1,0 +1,1 @@
+Item(by='ed25519FUUU', descendants=None, kids=None, score=None, time=1605901068, title=None, item_type='comment', url=None, parent=25157491, text='My main gripe with ZFS is that I can&#x27;t dynamically size up an array once it&#x27;s created. A raidz2 can&#x27;t go from 6 disks to 7 or 8 disks without completely destroying and recreating the array.')

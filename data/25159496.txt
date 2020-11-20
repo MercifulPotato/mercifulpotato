@@ -1,1 +1,1 @@
-Item(by='formerly_proven', descendants=None, kids=None, score=None, time=1605872326, title=None, item_type='comment', url=None, parent=25158571, text='IntelliJ bidirectionally maps code to UML diagrams by itself and some plugins use the same UI to show call graphs and the like.')
+Item(by='formerly_proven', descendants=None, kids=[25162341], score=None, time=1605872326, title=None, item_type='comment', url=None, parent=25158571, text='IntelliJ bidirectionally maps code to UML diagrams by itself and some plugins use the same UI to show call graphs and the like.')

@@ -1,0 +1,1 @@
+Item(by='olliej', descendants=None, kids=None, score=None, time=1605901037, title=None, item_type='comment', url=None, parent=25157858, text='electron apps work on the M1 Macs under rosetta. The problem appears to be purely that electron apps are incredibly bloated and this merely makes that more obvious, and they want to shift blame away from their runtime.')

@@ -1,1 +1,1 @@
-Item(by='dave84', descendants=None, kids=None, score=None, time=1605719598, title=None, item_type='comment', url=None, parent=25137262, text='That book paid for itself ten times over by the time I had finished reading it, practicing on insurance renewals and utility bills.')
+Item(by='dave84', descendants=None, kids=[25160501], score=None, time=1605719598, title=None, item_type='comment', url=None, parent=25137262, text='That book paid for itself ten times over by the time I had finished reading it, practicing on insurance renewals and utility bills.')

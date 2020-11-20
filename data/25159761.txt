@@ -1,1 +1,1 @@
-Item(by='uptown', descendants=0, kids=None, score=2, time=1605875012, title='Notable Books of 2020', item_type='story', url='https://www.nytimes.com/interactive/2020/books/notable-books.html', parent=None, text=None)
+Item(by='uptown', descendants=0, kids=None, score=3, time=1605875012, title='100 Notable Books of 2020', item_type='story', url='https://www.nytimes.com/interactive/2020/books/notable-books.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='tutfbhuf', descendants=None, kids=[25161534, 25161513], score=None, time=1605885059, title=None, item_type='comment', url=None, parent=25160994, text='&gt; That&#x27;s the easy thing with ZFS, just add the disks as new VDEVs<p>What are the drawbacks of this approach and why can&#x27;t I just add additional drives to an existing VDEV?')

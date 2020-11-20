@@ -1,1 +1,1 @@
-Item(by='Mageek', descendants=None, kids=None, score=None, time=1605822243, title=None, item_type='comment', url=None, parent=25152474, text='Yeah but what do you do? Feed it knowledge and it organizes it for you? Feed it queries of some sort?')
+Item(by='Mageek', descendants=None, kids=[25163052], score=None, time=1605822243, title=None, item_type='comment', url=None, parent=25152474, text='Yeah but what do you do? Feed it knowledge and it organizes it for you? Feed it queries of some sort?')

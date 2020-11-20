@@ -1,1 +1,1 @@
-Item(by='timbit42', descendants=None, kids=None, score=None, time=1605808669, title=None, item_type='comment', url=None, parent=25150895, text='<a href="https:&#x2F;&#x2F;lbry.tv&#x2F;" rel="nofollow">https:&#x2F;&#x2F;lbry.tv&#x2F;</a>')
+Item(by='timbit42', descendants=None, kids=[25160555], score=None, time=1605808669, title=None, item_type='comment', url=None, parent=25150895, text='<a href="https:&#x2F;&#x2F;lbry.tv&#x2F;" rel="nofollow">https:&#x2F;&#x2F;lbry.tv&#x2F;</a>')

@@ -1,0 +1,1 @@
+Item(by='benlivengood', descendants=None, kids=None, score=None, time=1605890524, title=None, item_type='comment', url=None, parent=25159973, text='RAIDZ on LUKS should work similarly to RAIDZ on GELI, no?<p>Encrypt each hard disk and add the decrypted block devices to the vdev in whatever RAID configuration desired.')

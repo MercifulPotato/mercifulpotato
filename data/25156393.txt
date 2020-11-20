@@ -1,1 +1,1 @@
-Item(by='MH15', descendants=None, kids=None, score=None, time=1605834889, title=None, item_type='comment', url=None, parent=25151006, text='This is also a Google product&#x2F;initiative.')
+Item(by='MH15', descendants=None, kids=[25160452], score=None, time=1605834889, title=None, item_type='comment', url=None, parent=25151006, text='This is also a Google product&#x2F;initiative.')

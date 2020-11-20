@@ -1,0 +1,1 @@
+Item(by='whalesalad', descendants=None, kids=None, score=None, time=1605885841, title=None, item_type='comment', url=None, parent=25160474, text='I have neen trying to think of a way to leverage Cloudflare&#x27;s workers&#x2F;durable objects as a poor man&#x27;s Erlang cluster... I think this might be it!')

@@ -1,0 +1,1 @@
+Item(by='rplnt', descendants=None, kids=[25164166, 25163981], score=None, time=1605892855, title=None, item_type='comment', url=None, parent=25159764, text='Not for comparison, but for boolean checks I prefer to use `foo == false` instead of `!foo`, the latter is easy to overlook.')

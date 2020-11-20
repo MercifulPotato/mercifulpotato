@@ -1,0 +1,1 @@
+Item(by='axsharma', descendants=1, kids=[25160580], score=3, time=1605881660, title='Drupal RCE via file upload (abc.html.txt, filename.php.gif)', item_type='story', url='https://securityreport.com/drupal-fixes-critical-remote-code-execution-vulnerability-patch-now/', parent=None, text=None)

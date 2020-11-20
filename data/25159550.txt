@@ -1,1 +1,1 @@
-Item(by='psibi', descendants=0, kids=None, score=2, time=1605872913, title='How to use NixOS for lightweight integration tests', item_type='story', url='http://www.haskellforall.com/2020/11/how-to-use-nixos-for-lightweight.html', parent=None, text=None)
+Item(by='psibi', descendants=0, kids=None, score=3, time=1605872913, title='How to use NixOS for lightweight integration tests', item_type='story', url='http://www.haskellforall.com/2020/11/how-to-use-nixos-for-lightweight.html', parent=None, text=None)

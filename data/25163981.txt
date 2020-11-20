@@ -1,0 +1,1 @@
+Item(by='dylan604', descendants=None, kids=None, score=None, time=1605900800, title=None, item_type='comment', url=None, parent=25162577, text='Do all languages have `foo === false`? When testing booleans, I always do the type specific test to avoid `foo = 0 !== false` stuff')

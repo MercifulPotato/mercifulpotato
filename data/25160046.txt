@@ -1,1 +1,1 @@
-Item(by='khaledh', descendants=0, kids=None, score=1, time=1605877413, title="YouTube adds ads but won't pay all content-makers", item_type='story', url='https://www.bbc.com/news/technology-55016142', parent=None, text=None)
+Item(by='khaledh', descendants=39, kids=[25160412, 25160342, 25160482, 25160388, 25160567, 25160334, 25160403, 25160333, 25160313], score=44, time=1605877413, title="YouTube adds ads but won't pay all content-makers", item_type='story', url='https://www.bbc.com/news/technology-55016142', parent=None, text=None)

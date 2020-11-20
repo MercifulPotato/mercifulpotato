@@ -1,0 +1,1 @@
+Item(by='danbolt', descendants=None, kids=[25162268], score=None, time=1605890920, title=None, item_type='comment', url=None, parent=25162098, text='I think a pure ECS has its state manipulation well-encapsulated and organizable. Part of me thinks that sort of design would mesh pretty well with Rust’s ownership system.')
