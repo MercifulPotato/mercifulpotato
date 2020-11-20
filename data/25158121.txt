@@ -1,1 +1,1 @@
-Item(by='enriquto', descendants=None, kids=None, score=None, time=1605857737, title=None, item_type='comment', url=None, parent=25157976, text='I&#x27;m fascinated, and at the same time slightly troubled, by your usage of the word &quot;compute&quot;.')
+Item(by='enriquto', descendants=None, kids=[25159572, 25158555], score=None, time=1605857737, title=None, item_type='comment', url=None, parent=25157976, text='I&#x27;m fascinated, and at the same time slightly troubled, by your usage of the word &quot;compute&quot;.')

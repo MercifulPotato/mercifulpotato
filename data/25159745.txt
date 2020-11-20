@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1605874886, title=None, item_type='comment', url=None, parent=25155030, text='I mean, it&#x27;s entirely possible to implement ptrace if you spend enough time doing it, it will just be complicated and the performance will likely be not that great. (But yes, it&#x27;s a pretty bad API.)')

@@ -1,0 +1,1 @@
+Item(by='aljarry', descendants=None, kids=None, score=None, time=1605864652, title=None, item_type='comment', url=None, parent=25158101, text='One pro of ZFS over RAID1 is that ZFS is file based and not volume based, so in case of recreating mirror disks (or general resilvering) you only copy data, not the whole volume.')

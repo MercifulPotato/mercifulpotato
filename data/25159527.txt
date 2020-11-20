@@ -1,0 +1,1 @@
+Item(by='peteri', descendants=None, kids=None, score=None, time=1605872686, title=None, item_type='comment', url=None, parent=25155257, text='Docker works fine with WSL1, I don&#x27;t think I can use WSL2 at work as we&#x27;re waiting on the next LTS version of Windows.')

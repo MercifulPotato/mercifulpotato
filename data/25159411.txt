@@ -1,0 +1,1 @@
+Item(by='DTolm', descendants=None, kids=None, score=None, time=1605871591, title=None, item_type='comment', url=None, parent=25159354, text='Actually, it is still best to aim at zero transfers between GPU and CPU during the execution. The GPU is limited by VRAM-chip bandwidth which is much bigger than the PCI-E bandwidth. And it should not be affected by SAM.')

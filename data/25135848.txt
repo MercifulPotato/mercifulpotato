@@ -1,1 +1,1 @@
-Item(by='swyx', descendants=0, kids=None, score=1, time=1605701027, title='Finding bad flamingo drawings with recurrent neural networks', item_type='story', url='https://colinmorris.github.io/blog/bad_flamingos', parent=None, text=None)
+Item(by='swyx', descendants=3, kids=[25159127, 25159427, 25158049], score=25, time=1605701027, title='Finding bad flamingo drawings with recurrent neural networks', item_type='story', url='https://colinmorris.github.io/blog/bad_flamingos', parent=None, text=None)

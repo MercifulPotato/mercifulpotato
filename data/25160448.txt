@@ -1,0 +1,1 @@
+Item(by='gsich', descendants=None, kids=None, score=None, time=1605880517, title=None, item_type='comment', url=None, parent=25158482, text='DoH does not solve the problem that the resolver can just feed you wrong data. So if you want integrity for your DNS records you need DNSSEC. DoH&#x2F;DoT does not solve that.')

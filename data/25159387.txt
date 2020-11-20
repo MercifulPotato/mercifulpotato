@@ -1,0 +1,1 @@
+Item(by='tpetry', descendants=None, kids=[25160406], score=None, time=1605871325, title=None, item_type='comment', url=None, parent=25157822, text='I don‘t see a problem with it. !!foo and foo are in boolean logic the same, but as typescript does not allow (correctly) to use a string as a boolean value you‘re already doing !!foo for e.g. strings')

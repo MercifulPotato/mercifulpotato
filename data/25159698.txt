@@ -1,0 +1,1 @@
+Item(by='ChrisMarshallNY', descendants=None, kids=[25159700], score=None, time=1605874283, title=None, item_type='comment', url=None, parent=25159433, text='If you were being &quot;idiomatic,&quot; you&#x27;d probably write it like so:<p><pre><code>    MyOwnFileManager.copyFileFrom(_ path1: String, to path2: String)\n</code></pre>\nApple has started to make it like that.')

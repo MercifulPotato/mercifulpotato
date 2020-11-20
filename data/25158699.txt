@@ -1,0 +1,1 @@
+Item(by='fy20', descendants=None, kids=None, score=None, time=1605863427, title=None, item_type='comment', url=None, parent=25157480, text='You can use something like io-ts or zod to validate external data at runtime.')

@@ -1,0 +1,1 @@
+Item(by='SamBam', descendants=None, kids=None, score=None, time=1605880654, title=None, item_type='comment', url=None, parent=25160345, text='Really? So it&#x27;s not monospaced? I&#x27; having trouble imagining any monospaced font doing this.<p>(The ligatures in fonts such as Fira Code take up the same amount of space as the non-ligatured versions.)')

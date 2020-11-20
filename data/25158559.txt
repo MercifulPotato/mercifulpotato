@@ -1,0 +1,1 @@
+Item(by='Narann', descendants=None, kids=[25158695], score=None, time=1605862098, title=None, item_type='comment', url=None, parent=25157249, text='With OpenGL you draw a triangle, and eventually write a pipeline.<p>With Vulkan you write a pipeline, and eventually draw a triangle.')

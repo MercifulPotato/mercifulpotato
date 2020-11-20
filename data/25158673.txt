@@ -1,0 +1,1 @@
+Item(by='fy20', descendants=None, kids=[25159912], score=None, time=1605863208, title=None, item_type='comment', url=None, parent=25157201, text='VS Code does this for TypeScript out of the box. For example if you have a function with Promises it will suggest it be rewritten (and rewrite it for you) using async.')

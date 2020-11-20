@@ -1,1 +1,1 @@
-Item(by='akmarinov', descendants=None, kids=None, score=None, time=1605857876, title=None, item_type='comment', url=None, parent=25157928, text='Very unlikely, they’ll still have 2 codebases and the point of these frameworks is to only write the code once.')
+Item(by='akmarinov', descendants=None, kids=[25158366], score=None, time=1605857876, title=None, item_type='comment', url=None, parent=25157928, text='Very unlikely, they’ll still have 2 codebases and the point of these frameworks is to only write the code once.')

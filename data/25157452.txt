@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=6, kids=[25157952, 25158066], score=44, time=1605848573, title='EXWM (Emacs X Window Manager)', item_type='story', url='https://github.com/ch11ng/exwm/wiki/Screenshots', parent=None, text=None)
+Item(by='tosh', descendants=38, kids=[25160464, 25157952, 25159333, 25158431, 25159048, 25158392, 25158756, 25158066, 25158389, 25158667, 25158804, 25159087], score=90, time=1605848573, title='EXWM (Emacs X Window Manager)', item_type='story', url='https://github.com/ch11ng/exwm/wiki/Screenshots', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='creata', descendants=None, kids=None, score=None, time=1605780208, title=None, item_type='comment', url=None, parent=25147629, text='&gt; non-metrical contexts<p>How do you get a geometric algebra without at least a pseudo-Riemannian metric?')
+Item(by='creata', descendants=None, kids=[25158725], score=None, time=1605780208, title=None, item_type='comment', url=None, parent=25147629, text='&gt; non-metrical contexts<p>How do you get a geometric algebra without at least a pseudo-Riemannian metric?')

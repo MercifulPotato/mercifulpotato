@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1605873006, title=None, item_type='comment', url=None, parent=25155257, text='Docker can also make use of Windows containers, and that is probably easier when everything is running on top of Hyper-V, as type 1 hypervisor.')

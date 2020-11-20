@@ -1,0 +1,1 @@
+Item(by='technofiend', descendants=None, kids=None, score=None, time=1605880575, title=None, item_type='comment', url=None, parent=25159817, text='Folks at vmware will probably disagree but I&#x27;d love to see zfs natively supported in ESX.  That gets me away from hardware raid controllers for my boot disks and lets me manage datastores across jbod.')

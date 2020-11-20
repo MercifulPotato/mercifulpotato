@@ -1,1 +1,1 @@
-Item(by='spullara', descendants=None, kids=None, score=None, time=1605822521, title=None, item_type='comment', url=None, parent=25149028, text='That is very common with the infrastructure startups that I work with, like Snowflake and others.')
+Item(by='spullara', descendants=None, kids=[25158817], score=None, time=1605822521, title=None, item_type='comment', url=None, parent=25149028, text='That is very common with the infrastructure startups that I work with, like Snowflake and others.')

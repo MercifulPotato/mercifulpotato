@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=[25160475, 25160192], score=None, time=1605878105, title=None, item_type='comment', url=None, parent=25159587, text='In that case it works reasonably well, but how do you represent the difference between `=`, `==` and `===` in javascript. IMO =, == and === is much clearer and more visually distinct than ≔, = and ≡.')

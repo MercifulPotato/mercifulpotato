@@ -1,0 +1,1 @@
+Item(by='aplummer', descendants=None, kids=None, score=None, time=1605859755, title=None, item_type='comment', url=None, parent=25158111, text='Its really fun to work with a shared foundation project containing all your Codable objects across the app and backend, then serialize &#x2F; deserialize between the same actual class - with the transport being nice readable json.')

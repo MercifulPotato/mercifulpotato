@@ -1,1 +1,1 @@
-Item(by='connerj', descendants=2, kids=[25150126], score=9, time=1605797798, title='My Review of the Ruby Programming Language', item_type='story', url='https://www.connerjensen.com/blog/the_ruby_programming_language_review', parent=None, text=None)
+Item(by='connerj', descendants=3, kids=[25158702, 25150126], score=9, time=1605797798, title='My Review of the Ruby Programming Language', item_type='story', url='https://www.connerjensen.com/blog/the_ruby_programming_language_review', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='kungito', descendants=None, kids=None, score=None, time=1605873836, title=None, item_type='comment', url=None, parent=25158640, text='Real unit tests (not integration tests) are poor man&#x27;s types. Usually when you have very small unit tests asserting inputs and outputs of methods you would simply assert those with types in more powerful languages')

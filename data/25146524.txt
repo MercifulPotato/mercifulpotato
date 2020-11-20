@@ -1,1 +1,1 @@
-Item(by='diodorus', descendants=0, kids=None, score=1, time=1605763698, title='Viking ship in Norway buried near cult temple, feast hall and funeral mounds', item_type='story', url='https://www.livescience.com/viking-ship-cult-burial.html', parent=None, text=None)
+Item(by='diodorus', descendants=2, kids=[25159827, 25159753], score=17, time=1605763698, title='Viking ship in Norway buried near cult temple, feast hall and funeral mounds', item_type='story', url='https://www.livescience.com/viking-ship-cult-burial.html', parent=None, text=None)
