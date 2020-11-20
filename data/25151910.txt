@@ -1,1 +1,1 @@
-Item(by='astrobe_', descendants=None, kids=None, score=None, time=1605807084, title=None, item_type='comment', url=None, parent=25149799, text='... And an aphorism: &quot;Any social platform that becomes as popular as TV also becomes as trash as TV&quot;.')
+Item(by='astrobe_', descendants=None, kids=[25158023], score=None, time=1605807084, title=None, item_type='comment', url=None, parent=25149799, text='... And an aphorism: &quot;Any social platform that becomes as popular as TV also becomes as trash as TV&quot;.')

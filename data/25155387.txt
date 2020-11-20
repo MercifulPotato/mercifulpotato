@@ -1,1 +1,1 @@
-Item(by='minikites', descendants=None, kids=None, score=None, time=1605826886, title=None, item_type='comment', url=None, parent=25152900, text='There&#x27;s a hint in the parent comment.')
+Item(by='minikites', descendants=None, kids=[25157732], score=None, time=1605826886, title=None, item_type='comment', url=None, parent=25152900, text='There&#x27;s a hint in the parent comment.')

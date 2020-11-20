@@ -1,1 +1,1 @@
-Item(by='top_sigrid', descendants=None, kids=None, score=None, time=1605826856, title=None, item_type='comment', url=None, parent=25154845, text='Thanks for your response :)\nJust fyi for me still the old version is showing up, also with cache cleared.')
+Item(by='top_sigrid', descendants=None, kids=[25157972, 25157962], score=None, time=1605826856, title=None, item_type='comment', url=None, parent=25154845, text='Thanks for your response :)\nJust fyi for me still the old version is showing up, also with cache cleared.')

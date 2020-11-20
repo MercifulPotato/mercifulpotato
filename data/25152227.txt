@@ -1,1 +1,1 @@
-Item(by='fartcannon', descendants=None, kids=None, score=None, time=1605808712, title=None, item_type='comment', url=None, parent=25149960, text='You can use ublock origin in Firefox on Android phones.')
+Item(by='fartcannon', descendants=None, kids=[25157248], score=None, time=1605808712, title=None, item_type='comment', url=None, parent=25149960, text='You can use ublock origin in Firefox on Android phones.')

@@ -1,1 +1,1 @@
-Item(by='mrfusion', descendants=None, kids=None, score=None, time=1605835334, title=None, item_type='comment', url=None, parent=25153712, text='Why do you need a tesla valve?  Has anyone tried this?')
+Item(by='mrfusion', descendants=None, kids=[25156820], score=None, time=1605835334, title=None, item_type='comment', url=None, parent=25153712, text='Why do you need a tesla valve?  Has anyone tried this?')

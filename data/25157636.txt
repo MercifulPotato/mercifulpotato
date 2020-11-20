@@ -1,0 +1,1 @@
+Item(by='daniellarusso', descendants=None, kids=[25157680], score=None, time=1605851021, title=None, item_type='comment', url=None, parent=25153782, text='So, naive question, and I know the concept of a ‘database’ is a bit different between MySQL and Postgres, does Postgres require a FDW to communicate between multiple databases on the same server?')

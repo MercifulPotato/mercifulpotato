@@ -1,1 +1,1 @@
-Item(by='stephpsqn', descendants=None, kids=None, score=None, time=1605822237, title=None, item_type='comment', url=None, parent=25154473, text='As a junior developer, I spend around 4-5 hours coding and the rest of my time is taken by meetings and code reviewing')
+Item(by='stephpsqn', descendants=None, kids=[25157542], score=None, time=1605822237, title=None, item_type='comment', url=None, parent=25154473, text='As a junior developer, I spend around 4-5 hours coding and the rest of my time is taken by meetings and code reviewing')

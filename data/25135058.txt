@@ -1,1 +1,1 @@
-Item(by='jandeboevrie', descendants=0, kids=None, score=2, time=1605694089, title='Frontpage: The Good, Bad and Ugly', item_type='story', url='https://invisibleup.com//articles/33/', parent=None, text=None)
+Item(by='jandeboevrie', descendants=9, kids=[25158245, 25157647, 25157997, 25158069, 25157830, 25157625, 25157664, 25157723], score=47, time=1605694089, title='Frontpage: The Good, Bad and Ugly', item_type='story', url='https://invisibleup.com//articles/33/', parent=None, text=None)

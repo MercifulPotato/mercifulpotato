@@ -1,1 +1,1 @@
-Item(by='Tomte', descendants=0, kids=None, score=12, time=1605796151, title='A Curious Moon', item_type='story', url='https://bigmachine.io/products/a-curious-moon/', parent=None, text=None)
+Item(by='Tomte', descendants=4, kids=[25156475, 25157701, 25156792, 25156692], score=49, time=1605796151, title='A Curious Moon', item_type='story', url='https://bigmachine.io/products/a-curious-moon/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='mesh', descendants=None, kids=None, score=None, time=1605841842, title=None, item_type='comment', url=None, parent=25155037, text='Yes, Adobe released an SDK (which Google used) to allow indexing content in SWF files. However, it looks like Google no longer uses it, or indexes them.')

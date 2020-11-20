@@ -1,0 +1,1 @@
+Item(by='eropple', descendants=None, kids=None, score=None, time=1605842670, title=None, item_type='comment', url=None, parent=25157021, text='In my experience nobody is &quot;pretending&quot;; within epsilon of everyone knows this, and the experienced folks are writing code against it with something like `runtypes` or `io-ts` to sanitize on the edges of their application.')

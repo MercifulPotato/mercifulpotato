@@ -1,1 +1,1 @@
-Item(by='tankenmate', descendants=None, kids=None, score=None, time=1605831250, title=None, item_type='comment', url=None, parent=25155548, text='Messagebird uses Go on the backend; I suspect that&#x27;s why they wrote the FDW in Go.')
+Item(by='tankenmate', descendants=None, kids=[25157660], score=None, time=1605831250, title=None, item_type='comment', url=None, parent=25155548, text='Messagebird uses Go on the backend; I suspect that&#x27;s why they wrote the FDW in Go.')

@@ -1,0 +1,1 @@
+Item(by='tengbretson', descendants=None, kids=None, score=None, time=1605845017, title=None, item_type='comment', url=None, parent=25157119, text='At the usage site generics can usually be fully inferred, so something that uses these features may look like a horror show at the implementation site, but when you actually use it it will just look like normal string literal types.')

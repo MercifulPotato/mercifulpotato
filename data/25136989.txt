@@ -1,1 +1,1 @@
-Item(by='oblio', descendants=None, kids=None, score=None, time=1605709151, title=None, item_type='comment', url=None, parent=25135939, text='That&#x27;s just a thin veneer. Do you think that if the US were attacked somehow, we wouldn&#x27;t have a repeat of 2003?')
+Item(by='oblio', descendants=None, kids=[25157777], score=None, time=1605709151, title=None, item_type='comment', url=None, parent=25135939, text='That&#x27;s just a thin veneer. Do you think that if the US were attacked somehow, we wouldn&#x27;t have a repeat of 2003?')

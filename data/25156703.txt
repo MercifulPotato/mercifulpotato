@@ -1,1 +1,1 @@
-Item(by='dghughes', descendants=None, kids=None, score=None, time=1605838491, title=None, item_type='comment', url=None, parent=25156367, text='Heating it would require an enormous amount of power.')
+Item(by='dghughes', descendants=None, kids=[25156944], score=None, time=1605838491, title=None, item_type='comment', url=None, parent=25156367, text='Heating it would require an enormous amount of power.')

@@ -1,0 +1,1 @@
+Item(by='lostmsu', descendants=None, kids=None, score=None, time=1605852897, title=None, item_type='comment', url=None, parent=25157451, text='No, the issue is about SSH sessions.<p><pre><code>  ssh user@windows-pc run long job\n</code></pre>\nIf you do this, and your connection is interrupted, `run long job` command will be terminated.')

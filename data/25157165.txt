@@ -1,0 +1,1 @@
+Item(by='bzbarsky', descendants=None, kids=None, score=None, time=1605844300, title=None, item_type='comment', url=None, parent=25150509, text='For what it&#x27;s worth, Rosetta 2 does claim to support JITs (which is a pretty neat trick), and the release notes for Firefox 83 claim it should work fine under Rosetta 2 on the M1.')

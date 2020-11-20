@@ -1,1 +1,1 @@
-Item(by='teej', descendants=None, kids=None, score=None, time=1605835598, title=None, item_type='comment', url=None, parent=25156361, text='This is exactly how the flash games scene was for a long time.')
+Item(by='teej', descendants=None, kids=[25156870], score=None, time=1605835598, title=None, item_type='comment', url=None, parent=25156361, text='This is exactly how the flash games scene was for a long time.')

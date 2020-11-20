@@ -1,1 +1,1 @@
-Item(by='funkymathguys', descendants=0, kids=None, score=1, time=1605836497, title='BrowserVM, an efficient x86-64 full-system emulator running in browsers', item_type='story', url='https://github.com/elliott-wen/browservm.js', parent=None, text=None)
+Item(by='funkymathguys', descendants=0, kids=None, score=3, time=1605836497, title='BrowserVM, an efficient x86-64 full-system emulator running in browsers', item_type='story', url='https://github.com/elliott-wen/browservm.js', parent=None, text=None)

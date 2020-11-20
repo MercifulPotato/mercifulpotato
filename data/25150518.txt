@@ -1,1 +1,1 @@
-Item(by='samizdis', descendants=5, kids=[25150980, 25152593, 25153277], score=28, time=1605800060, title='BBC picks SiFive RISC-V chip for Doctor Who programming-for-kids kit', item_type='story', url='https://www.theregister.com/2020/11/19/bbc_doctor_who_sifive/', parent=None, text=None)
+Item(by='samizdis', descendants=5, kids=[25150980, 25152593, 25153277], score=30, time=1605800060, title='BBC picks SiFive RISC-V chip for Doctor Who programming-for-kids kit', item_type='story', url='https://www.theregister.com/2020/11/19/bbc_doctor_who_sifive/', parent=None, text=None)

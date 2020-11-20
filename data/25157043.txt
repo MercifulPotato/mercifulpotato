@@ -1,0 +1,1 @@
+Item(by='nomel', descendants=None, kids=None, score=None, time=1605842474, title=None, item_type='comment', url=None, parent=25156879, text='I often just:<p><pre><code>    $ python\n    from math import *\n</code></pre>\nWhen you have a hammer...')

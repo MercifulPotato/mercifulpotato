@@ -1,1 +1,1 @@
-Item(by='tjr225', descendants=None, kids=None, score=None, time=1605803440, title=None, item_type='comment', url=None, parent=25150633, text='I think Doom still holds up really well. I played it for the first time around five or six years ago and had a great time.')
+Item(by='tjr225', descendants=None, kids=[25157045], score=None, time=1605803440, title=None, item_type='comment', url=None, parent=25150633, text='I think Doom still holds up really well. I played it for the first time around five or six years ago and had a great time.')

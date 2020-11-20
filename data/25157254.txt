@@ -1,0 +1,1 @@
+Item(by='snarfy', descendants=None, kids=None, score=None, time=1605845759, title=None, item_type='comment', url=None, parent=25154300, text='I tried upgrading to wsl2 only to find out USB serial doesn&#x27;t work.  I use wsl1 to program my esp32 boards.')

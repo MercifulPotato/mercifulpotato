@@ -1,0 +1,1 @@
+Item(by='jolux', descendants=None, kids=None, score=None, time=1605851311, title=None, item_type='comment', url=None, parent=25157504, text='Well in C# the collections have efficient searching and sorting built in :) but as for whether they can recognize design patterns — VS and R# can definitely move members and symbols around fluidly within a class hierarchy.')

@@ -1,0 +1,1 @@
+Item(by='M4v3R', descendants=None, kids=None, score=None, time=1605859657, title=None, item_type='comment', url=None, parent=25158174, text='It does the same for me, but for Polish. I think those posts somehow use per-sentence i18n strings, so if a generic sentence sentence was already translated they will use it. I agree it looks a bit weird, though :).')
