@@ -1,0 +1,1 @@
+Item(by='nix0n', descendants=None, kids=[25154859], score=None, time=1605822429, title=None, item_type='comment', url=None, parent=25154624, text='I can confirm Cygwin works with 10.<p>Its default package manager includes most of the standard POSIX tools.<p>I&#x27;ve used it a lot for on-Windows&#x2F;for-Windows development, but always as a complement to native Windows tools.')

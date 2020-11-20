@@ -1,0 +1,1 @@
+Item(by='codys', descendants=None, kids=None, score=None, time=1605829281, title=None, item_type='comment', url=None, parent=25155715, text='There are limits on GHA to the number of minutes for private repos when not using self-hosted runners (currently 2_000 minutes per month allocated per org&#x2F;user when using &quot;Github Free&quot;)')

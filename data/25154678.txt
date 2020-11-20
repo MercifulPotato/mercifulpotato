@@ -1,0 +1,1 @@
+Item(by='Aeolun', descendants=None, kids=None, score=None, time=1605821740, title=None, item_type='comment', url=None, parent=25154191, text='Maybe we should optimize for both? Small page size is irrelevant if the loaded js renders the page unuseable for seconds, but the same thing is true on slower connections if you have to load tons of data in the first place.')

@@ -1,0 +1,1 @@
+Item(by='psyklic', descendants=None, kids=None, score=None, time=1605836997, title=None, item_type='comment', url=None, parent=25151773, text='<a href="https:&#x2F;&#x2F;restofworld.org&#x2F;" rel="nofollow">https:&#x2F;&#x2F;restofworld.org&#x2F;</a> initially loads &lt;1M. But when you scroll down, it balloons to 3M as it loads more images. Should that count?')

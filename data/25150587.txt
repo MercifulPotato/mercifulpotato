@@ -1,1 +1,1 @@
-Item(by='bunje', descendants=None, kids=None, score=None, time=1605800440, title=None, item_type='comment', url=None, parent=25150177, text='So you say we should specify when 2 means number two and when it means the constant function? How does it help?')
+Item(by='bunje', descendants=None, kids=[25155191], score=None, time=1605800440, title=None, item_type='comment', url=None, parent=25150177, text='So you say we should specify when 2 means number two and when it means the constant function? How does it help?')

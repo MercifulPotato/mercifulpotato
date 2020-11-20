@@ -1,1 +1,1 @@
-Item(by='jakelazaroff', descendants=None, kids=None, score=None, time=1605808676, title=None, item_type='comment', url=None, parent=25150526, text='Why can&#x27;t non-AMP pages be safely prerendered?')
+Item(by='jakelazaroff', descendants=None, kids=[25153885], score=None, time=1605808676, title=None, item_type='comment', url=None, parent=25150526, text='Why can&#x27;t non-AMP pages be safely prerendered?')

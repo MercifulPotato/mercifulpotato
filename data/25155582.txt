@@ -1,0 +1,1 @@
+Item(by='ForHackernews', descendants=None, kids=[25155894], score=None, time=1605828213, title=None, item_type='comment', url=None, parent=25155568, text='Thunderbird can use &quot;app passwords&quot; and&#x2F;or oauth2, I believe. It&#x27;s not trying to maintain a browser session login cookie.')

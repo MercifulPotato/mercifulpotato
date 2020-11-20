@@ -1,0 +1,1 @@
+Item(by='lolive', descendants=None, kids=[25155446], score=None, time=1605819597, title=None, item_type='comment', url=None, parent=25153554, text='Plus it does not accept joins. So you basically have to denormalize all your data before injecting into Elastic. \nIt helps speedup things. But is a headache to manage on a day to day basis.')

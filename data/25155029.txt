@@ -1,0 +1,1 @@
+Item(by='cosmotic', descendants=None, kids=None, score=None, time=1605824209, title=None, item_type='comment', url=None, parent=25144810, text='If an element has a style attribute that sets the color, it will override every single CSS&#x2F;Style-element style that also sets the color, unless the CSS&#x2F;Style-element style also includes an !important.')

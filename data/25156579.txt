@@ -1,0 +1,1 @@
+Item(by='toomanybeersies', descendants=None, kids=None, score=None, time=1605837022, title=None, item_type='comment', url=None, parent=25156485, text='Buildkite is BYO infrastructure. It&#x27;s worked really well for us, as we have a fairly idiosyncratic build process&#x2F;test suite that out of the box solutions like GH Actions or CircleCI don&#x27;t really cater to.')

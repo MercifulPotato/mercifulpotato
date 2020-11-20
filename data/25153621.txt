@@ -1,1 +1,1 @@
-Item(by='nemoniac', descendants=None, kids=None, score=None, time=1605815487, title=None, item_type='comment', url=None, parent=25150649, text='Wait? So you can upload to Amazon or Google but nowhere else? Like to your own servers, for example?')
+Item(by='nemoniac', descendants=None, kids=[25154251], score=None, time=1605815487, title=None, item_type='comment', url=None, parent=25150649, text='Wait? So you can upload to Amazon or Google but nowhere else? Like to your own servers, for example?')

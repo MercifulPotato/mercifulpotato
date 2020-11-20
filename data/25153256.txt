@@ -1,1 +1,1 @@
-Item(by='dominictyler', descendants=0, kids=None, score=10, time=1605813590, title='Show HN: Building a VLC Media Player in JavaScript (Using Ffmpeg = WebAssembly)', item_type='story', url='https://bestmediaplayer.org/', parent=None, text=None)
+Item(by='dominictyler', descendants=11, kids=[25153833, 25153886, 25153742], score=22, time=1605813590, title='Show HN: Building a VLC-like Media Player in JS (Using Ffmpeg as WebAssembly)', item_type='story', url='https://bestmediaplayer.org/', parent=None, text=None)

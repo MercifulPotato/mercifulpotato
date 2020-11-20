@@ -1,0 +1,1 @@
+Item(by='divbzero', descendants=None, kids=None, score=None, time=1605819155, title=None, item_type='comment', url=None, parent=25151773, text='I like the use of CSS variables for the gray bars:<p><pre><code>  width: calc(var(--data-size)&#x2F;1000 * 100%);</code></pre>')

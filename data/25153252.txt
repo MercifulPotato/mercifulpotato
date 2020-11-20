@@ -1,1 +1,1 @@
-Item(by='Shared404', descendants=None, kids=None, score=None, time=1605813571, title=None, item_type='comment', url=None, parent=25153000, text='[1] Is actually a really cool idea. I thought it would just be a joke, but the article makes a good case for it, at least as a POC for a UI.')
+Item(by='Shared404', descendants=None, kids=[25155172], score=None, time=1605813571, title=None, item_type='comment', url=None, parent=25153000, text='[1] Is actually a really cool idea. I thought it would just be a joke, but the article makes a good case for it, at least as a POC for a UI.')

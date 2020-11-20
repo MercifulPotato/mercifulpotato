@@ -1,0 +1,1 @@
+Item(by='gumby', descendants=None, kids=[25156334], score=None, time=1605823241, title=None, item_type='comment', url=None, parent=25154609, text='In my experience: Julia, Java, C++. Lack of libraries in a pain; OTOH the quality of most libraries (in general) tends to be poor.<p>Examples of library issues: there is C++ support in tensor flow, but not for training.')

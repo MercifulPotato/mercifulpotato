@@ -1,1 +1,1 @@
-Item(by='scott31', descendants=None, kids=None, score=None, time=1605713814, title=None, item_type='comment', url=None, parent=25137855, text='A donation to GNU project was the best money I spent on software')
+Item(by='scott31', descendants=None, kids=[25142390], score=None, time=1605713814, title=None, item_type='comment', url=None, parent=25137855, text='A donation to GNU project was the best money I spent on software')

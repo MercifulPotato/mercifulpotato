@@ -1,0 +1,1 @@
+Item(by='obi1kenobi', descendants=5, kids=[25154212, 25154304, 25154872, 25154270], score=13, time=1605818604, title='“allballs” is a valid PostgreSQL time literal for “midnight UTC”', item_type='story', url='https://www.postgresql.org/docs/current/datatype-datetime.html#DATATYPE-DATETIME-SPECIAL-TABLE', parent=None, text=None)

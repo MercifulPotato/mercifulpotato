@@ -1,0 +1,1 @@
+Item(by='imron', descendants=None, kids=[25155533], score=None, time=1605820013, title=None, item_type='comment', url=None, parent=25151894, text='Note for people trying this at home, vim is case sensitive.<p>I still regularly use this feature to look up libc and other things. You can also type 2K to go to ‘man 2’, or 3K to go to ‘man 3’ etc.')

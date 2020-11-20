@@ -1,0 +1,1 @@
+Item(by='wk_end', descendants=None, kids=[25156185, 25156628], score=None, time=1605829334, title=None, item_type='comment', url=None, parent=25155495, text='Otherwise I agree but: ZSNES is probably a bad example. It&#x27;s written in inscrutable 32-bit x86 assembly language and hasn&#x27;t been updated in nearly 15 years, so it&#x27;s unlikely to be ported anywhere.')

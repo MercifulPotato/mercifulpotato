@@ -1,1 +1,1 @@
-Item(by='usrusr', descendants=None, kids=None, score=None, time=1605813702, title=None, item_type='comment', url=None, parent=25153167, text='If you don&#x27;t care enough about them to consider the risk that you might carry the virus to them, why would you even consider going?')
+Item(by='usrusr', descendants=None, kids=[25155065], score=None, time=1605813702, title=None, item_type='comment', url=None, parent=25153167, text='If you don&#x27;t care enough about them to consider the risk that you might carry the virus to them, why would you even consider going?')

@@ -1,1 +1,1 @@
-Item(by='xbmcuser', descendants=None, kids=None, score=None, time=1605806422, title=None, item_type='comment', url=None, parent=25151071, text='Ah no you pay the content creators by watching the ads with your time or the subscription.')
+Item(by='xbmcuser', descendants=None, kids=[25155588], score=None, time=1605806422, title=None, item_type='comment', url=None, parent=25151071, text='Ah no you pay the content creators by watching the ads with your time or the subscription.')

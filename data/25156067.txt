@@ -1,0 +1,1 @@
+Item(by='SomaticPirate', descendants=None, kids=None, score=None, time=1605831902, title=None, item_type='comment', url=None, parent=25155660, text='Buildkite for work, GH Actions for personal.<p>I used Drone CI in the past and liked the focus on Docker containers for everything. It seemed to contain the sprawling monster of bash that seem to occur in enterprise pipelines.')

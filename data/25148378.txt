@@ -1,1 +1,1 @@
-Item(by='detaro', descendants=None, kids=None, score=None, time=1605784689, title=None, item_type='comment', url=None, parent=25147990, text='The article really should start with the conclusion.')
+Item(by='detaro', descendants=None, kids=[25154861], score=None, time=1605784689, title=None, item_type='comment', url=None, parent=25147990, text='The article really should start with the conclusion.')

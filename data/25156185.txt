@@ -1,0 +1,1 @@
+Item(by='thristian', descendants=None, kids=None, score=None, time=1605832858, title=None, item_type='comment', url=None, parent=25155763, text='A better example would be the SNES emulators bsnes and higan, written in modern C++, which <i>did</i> just work when compiled on an ARM Mac the other day.')

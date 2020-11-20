@@ -1,0 +1,1 @@
+Item(by='Gibbon1', descendants=None, kids=[25155219], score=None, time=1605825382, title=None, item_type='comment', url=None, parent=25154859, text='I&#x27;ve used MinGW&#x27;s MSYS which gives you a posix development environment. Was the simplest way to get support for autotools on windows. Useful if you need to cross compile a library on windows.')

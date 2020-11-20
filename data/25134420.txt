@@ -1,1 +1,1 @@
-Item(by='sandebert', descendants=0, kids=None, score=1, time=1605688549, title='How to support full Unicode in MySQL databases', item_type='story', url='https://mathiasbynens.be/notes/mysql-utf8mb4', parent=None, text=None)
+Item(by='sandebert', descendants=5, kids=[25154559, 25154453, 25154395], score=14, time=1605688549, title='How to support full Unicode in MySQL databases', item_type='story', url='https://mathiasbynens.be/notes/mysql-utf8mb4', parent=None, text=None)

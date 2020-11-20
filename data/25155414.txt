@@ -1,0 +1,1 @@
+Item(by='flukus', descendants=None, kids=[25155462], score=None, time=1605827013, title=None, item_type='comment', url=None, parent=25154624, text='I tried migrating to wsl (1) but there was just too many little things not working so went back to cygwin. WSL had issues with watching files, mounting some network drives and windows interop that I&#x27;ve never had with cygwin.')

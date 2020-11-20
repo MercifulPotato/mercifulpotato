@@ -1,0 +1,1 @@
+Item(by='akrymski', descendants=None, kids=None, score=None, time=1605819335, title=None, item_type='comment', url=None, parent=25146412, text='Great news, building Tensorflow with GPU support for mac was a nightmare last time I did it.<p>Anyone knows if Anaconda works well on M1?<p>Just need Homebrew &amp; Docker support for M1 now.')

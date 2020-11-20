@@ -1,1 +1,1 @@
-Item(by='viburnum', descendants=2, kids=[25152321, 25152411], score=8, time=1605685392, title='The Shape of a Story', item_type='story', url='https://popula.com/2020/11/17/the-shape-of-a-story/', parent=None, text=None)
+Item(by='viburnum', descendants=6, kids=[25152321, 25152411, 25153181], score=19, time=1605685392, title='The Shape of a Story', item_type='story', url='https://popula.com/2020/11/17/the-shape-of-a-story/', parent=None, text=None)

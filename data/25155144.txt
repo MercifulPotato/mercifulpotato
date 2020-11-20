@@ -1,0 +1,1 @@
+Item(by='ASalazarMX', descendants=None, kids=[25155258], score=None, time=1605824999, title=None, item_type='comment', url=None, parent=25154998, text='At work we develop on Windows virtual machines, and WSL1 won&#x27;t run on a VM. Fortunately WSL2 does, so at least I can enjoy Linux tooling I sorely missed.')

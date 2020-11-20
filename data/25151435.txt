@@ -1,1 +1,1 @@
-Item(by='Quarrelsome', descendants=None, kids=None, score=None, time=1605804940, title=None, item_type='comment', url=None, parent=25150246, text='&gt; Why is it shady, should Youtube host your video for free?<p>That has been the service since release, so yes.')
+Item(by='Quarrelsome', descendants=None, kids=[25155480], score=None, time=1605804940, title=None, item_type='comment', url=None, parent=25150246, text='&gt; Why is it shady, should Youtube host your video for free?<p>That has been the service since release, so yes.')

@@ -1,0 +1,1 @@
+Item(by='wwright', descendants=None, kids=None, score=None, time=1605827622, title=None, item_type='comment', url=None, parent=25152330, text='I made no claims about literals, though perhaps I should have been explicit.<p>I expect that many use cases for floats do not involve any literals at all, of course.')

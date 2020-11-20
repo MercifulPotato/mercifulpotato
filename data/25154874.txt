@@ -1,0 +1,1 @@
+Item(by='ksml', descendants=None, kids=None, score=None, time=1605823239, title=None, item_type='comment', url=None, parent=25153843, text='Elixir was extremely helpful to me! It didn&#x27;t always help me understand _why_ code was written the way it was (hence my incorrect use of rcu_read_lock), but it was very helpful to see some examples.')

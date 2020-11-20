@@ -1,1 +1,1 @@
-Item(by='sprashanth', descendants=None, kids=None, score=None, time=1605817634, title=None, item_type='comment', url=None, parent=25152291, text='Jonah Peretti, the co-founder of Buzzfeed, also co-founded Huffington Post. He could be a good steward for that media entity perhaps?')
+Item(by='sprashanth', descendants=None, kids=[25155564], score=None, time=1605817634, title=None, item_type='comment', url=None, parent=25152291, text='Jonah Peretti, the co-founder of Buzzfeed, also co-founded Huffington Post. He could be a good steward for that media entity perhaps?')

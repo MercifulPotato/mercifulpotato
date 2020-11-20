@@ -1,1 +1,1 @@
-Item(by='Garbage', descendants=1, kids=[25147466], score=2, time=1605770034, title='The Cloud Development Kit for Terraform (Preview)', item_type='story', url='https://aws.amazon.com/blogs/developer/introducing-the-cloud-development-kit-for-terraform-preview/', parent=None, text=None)
+Item(by='Garbage', descendants=1, kids=[25147466], score=4, time=1605770034, title='The Cloud Development Kit for Terraform (Preview)', item_type='story', url='https://aws.amazon.com/blogs/developer/introducing-the-cloud-development-kit-for-terraform-preview/', parent=None, text=None)
