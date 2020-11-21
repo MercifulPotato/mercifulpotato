@@ -1,0 +1,1 @@
+Item(by='malinens', descendants=None, kids=None, score=None, time=1605982570, title=None, item_type='comment', url=None, parent=25162857, text='manually running pipelines is much easier and more confifurable in jenkins. there are many issues which are created in gitlab so it is easier to migrate from jenkins but those issues are not prioritized')

@@ -1,1 +1,1 @@
-Item(by='fctorial', descendants=0, kids=None, score=2, time=1605863862, title='Tinycore Linux', item_type='story', url='http://tinycorelinux.net/', parent=None, text=None)
+Item(by='fctorial', descendants=48, kids=[25171850, 25169711, 25171495, 25169917, 25170664, 25169833, 25169727, 25169719, 25171787, 25170645, 25170972, 25170256, 25169797, 25169832], score=123, time=1605863862, title='Tinycore Linux', item_type='story', url='http://tinycorelinux.net/', parent=None, text=None)

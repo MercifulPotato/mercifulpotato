@@ -1,0 +1,1 @@
+Item(by='somurzakov', descendants=None, kids=None, score=None, time=1605984972, title=None, item_type='comment', url=None, parent=25171275, text='you can probably hide postgREST behind combination of API Gateway&#x2F;Load Balancer&#x2F;WAF&#x2F;IDS+IPS that could solve most of headahches with security')

@@ -1,0 +1,1 @@
+Item(by='dmurray', descendants=None, kids=None, score=None, time=1605973540, title=None, item_type='comment', url=None, parent=25168657, text='You could add a queue and execute the queries one at a time. Probably SQLite or at least popular wrappers for it already do this? But it will be slower than a DBMS that allows you to make hundreds of queries in parallel.')

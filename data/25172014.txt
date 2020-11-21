@@ -1,0 +1,1 @@
+Item(by='lunixbochs', descendants=None, kids=None, score=None, time=1605986335, title=None, item_type='comment', url=None, parent=25171532, text='I think UIActivityIndicatorView is just:<p><pre><code>  ProgressView()\n    .progressViewStyle(CircularProgressViewStyle())</code></pre>')

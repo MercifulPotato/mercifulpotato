@@ -1,1 +1,1 @@
-Item(by='dnetesn', descendants=0, kids=None, score=13, time=1605958241, title="Field geology at Mars' equator points to ancient megaflood", item_type='story', url='https://phys.org/news/2020-11-field-geology-mars-equator-ancient.html', parent=None, text=None)
+Item(by='dnetesn', descendants=14, kids=[25169863, 25171386, 25169967, 25169900], score=99, time=1605958241, title="Field geology at Mars' equator points to ancient megaflood", item_type='story', url='https://phys.org/news/2020-11-field-geology-mars-equator-ancient.html', parent=None, text=None)

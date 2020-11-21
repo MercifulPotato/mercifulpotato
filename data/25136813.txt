@@ -1,1 +1,1 @@
-Item(by='onion2k', descendants=None, kids=None, score=None, time=1605708186, title=None, item_type='comment', url=None, parent=25136777, text='If you&#x27;re at the point of mounting a weapon on a ship and testing it the majority of the resources were spent a long time ago.')
+Item(by='onion2k', descendants=None, kids=[25170982], score=None, time=1605708186, title=None, item_type='comment', url=None, parent=25136777, text='If you&#x27;re at the point of mounting a weapon on a ship and testing it the majority of the resources were spent a long time ago.')

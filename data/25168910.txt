@@ -1,1 +1,1 @@
-Item(by='enz', descendants=None, kids=None, score=None, time=1605954874, title=None, item_type='comment', url=None, parent=25168887, text='I think. Maybe some &quot;We always did it this way, so we&#x27;ll continue&quot; thinking. (I think it&#x27;s very Japanese)')
+Item(by='enz', descendants=None, kids=[25170974], score=None, time=1605954874, title=None, item_type='comment', url=None, parent=25168887, text='I think. Maybe some &quot;We always did it this way, so we&#x27;ll continue&quot; thinking. (I think it&#x27;s very Japanese)')

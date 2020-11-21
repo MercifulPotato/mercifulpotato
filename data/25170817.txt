@@ -1,0 +1,1 @@
+Item(by='michelpp', descendants=None, kids=[25171501], score=None, time=1605977982, title=None, item_type='comment', url=None, parent=25170796, text='Sorry but I disagree, PostgREST is REST.  For example URLs map to resources and it uses HTTP verbs. GraphQL does not.')

@@ -1,1 +1,1 @@
-Item(by='innocenat', descendants=None, kids=None, score=None, time=1605930010, title=None, item_type='comment', url=None, parent=25167201, text='But fan speed is different than temperature?')
+Item(by='innocenat', descendants=None, kids=[25170935], score=None, time=1605930010, title=None, item_type='comment', url=None, parent=25167201, text='But fan speed is different than temperature?')

@@ -1,0 +1,1 @@
+Item(by='cycloptic', descendants=None, kids=None, score=None, time=1605970901, title=None, item_type='comment', url=None, parent=25170006, text='&gt;WebGL 2, SDL 2 via emscripten<p>If you target GLES3, you can have the speed benefits of both.')

@@ -1,0 +1,1 @@
+Item(by='vbezhenar', descendants=None, kids=[25170028], score=None, time=1605969064, title=None, item_type='comment', url=None, parent=25169666, text='Any abstraction leaks. Good abstractions do not leak for common use cases and provide necessary access to the internals for uncommon use cases.')

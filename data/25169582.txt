@@ -1,0 +1,1 @@
+Item(by='ntegan', descendants=None, kids=None, score=None, time=1605964760, title=None, item_type='comment', url=None, parent=25169387, text='Disable the extra TTYs and then erase this information from your long, medium, and short term memory.<p>‘’’\nfor i in {2..6}; do\n  systemctl mask getty@tty${i}.service;\ndone\n‘’’')

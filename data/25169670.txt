@@ -1,1 +1,1 @@
-Item(by='andi999', descendants=None, kids=None, score=None, time=1605965940, title=None, item_type='comment', url=None, parent=25169561, text='The size of the cake is not fixed. Excessive redistribution somehow leads to less cake production.')
+Item(by='andi999', descendants=None, kids=[25170248], score=None, time=1605965940, title=None, item_type='comment', url=None, parent=25169561, text='The size of the cake is not fixed. Excessive redistribution somehow leads to less cake production.')

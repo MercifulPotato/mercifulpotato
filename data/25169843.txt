@@ -1,1 +1,1 @@
-Item(by='eplanit', descendants=None, kids=None, score=None, time=1605968104, title=None, item_type='comment', url=None, parent=25169335, text='I think you mean that the workplace sounds subpar... or do you think it makes the commenter&#x27;s work product of poor quality, too?')
+Item(by='eplanit', descendants=None, kids=[25170338], score=None, time=1605968104, title=None, item_type='comment', url=None, parent=25169335, text='I think you mean that the workplace sounds subpar... or do you think it makes the commenter&#x27;s work product of poor quality, too?')

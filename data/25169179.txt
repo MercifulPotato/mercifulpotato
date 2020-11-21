@@ -1,1 +1,1 @@
-Item(by='aww_dang', descendants=0, kids=None, score=3, time=1605959514, title='Apple is lobbying against a bill aimed at stopping forced labor in China', item_type='story', url='https://www.washingtonpost.com/technology/2020/11/20/apple-uighur/', parent=None, text=None)
+Item(by='aww_dang', descendants=1, kids=[25172199], score=12, time=1605959514, title='Apple is lobbying against a bill aimed at stopping forced labor in China', item_type='story', url='https://www.washingtonpost.com/technology/2020/11/20/apple-uighur/', parent=None, text=None)

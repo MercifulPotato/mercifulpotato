@@ -1,0 +1,1 @@
+Item(by='Foxboron', descendants=None, kids=None, score=None, time=1605987311, title=None, item_type='comment', url=None, parent=25171797, text='There are duplicate PKGBUILD files in the repository, so depending on the PKGBUILD and where it is, there might be 3 results for every 1 patch. In many cases there are two hits pr 1 patch.')

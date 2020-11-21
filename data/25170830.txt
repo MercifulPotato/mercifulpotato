@@ -1,0 +1,1 @@
+Item(by='michelpp', descendants=None, kids=None, score=None, time=1605978067, title=None, item_type='comment', url=None, parent=25170650, text='Postgraphile and PostgREST can be used side by side, they provide different interfaces but can talk to the same database.  Two for the price of one!')

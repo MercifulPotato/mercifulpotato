@@ -1,1 +1,1 @@
-Item(by='aaronblohowiak', descendants=None, kids=None, score=None, time=1605889006, title=None, item_type='comment', url=None, parent=25160470, text='Do you know of a source for a spindle that accepts iso20 for less than 4K?')
+Item(by='aaronblohowiak', descendants=None, kids=[25170082], score=None, time=1605889006, title=None, item_type='comment', url=None, parent=25160470, text='Do you know of a source for a spindle that accepts iso20 for less than 4K?')

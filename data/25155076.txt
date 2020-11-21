@@ -1,1 +1,1 @@
-Item(by='prismatic', descendants=11, kids=[25169358, 25168167, 25168306, 25168403], score=51, time=1605824496, title='David Fincher’s Impossible Eye', item_type='story', url='https://www.nytimes.com/2020/11/19/magazine/david-fincher-mank-interview.html', parent=None, text=None)
+Item(by='prismatic', descendants=27, kids=[25168167, 25168306, 25168403, 25169358, 25170244], score=71, time=1605824496, title='David Fincher’s Impossible Eye', item_type='story', url='https://www.nytimes.com/2020/11/19/magazine/david-fincher-mank-interview.html', parent=None, text=None)

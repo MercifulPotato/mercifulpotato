@@ -1,0 +1,1 @@
+Item(by='babarock', descendants=None, kids=[25170384], score=None, time=1605969081, title=None, item_type='comment', url=None, parent=25169190, text='Honest question, what&#x27;s the difference between &quot;from inside a VM&quot; and &quot;directly on a hypervisor&quot;? I always thought it meant the same thing.')

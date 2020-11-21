@@ -1,0 +1,1 @@
+Item(by='nsonha', descendants=None, kids=None, score=None, time=1605970364, title=None, item_type='comment', url=None, parent=25163788, text='I could not find any tutorial on running akka on golang, kotlinjs or scala native. I&#x27;ll let you know how well it runs on python once I rewrite my whole infrastructure to use jython instead')

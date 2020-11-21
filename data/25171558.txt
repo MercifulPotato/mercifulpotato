@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=None, score=None, time=1605982880, title=None, item_type='comment', url=None, parent=25171460, text='&quot;HATEOAS&quot; is pretty much the only thing REST contains. &quot;REST API&quot; without HATEOAS has no meaning, it&#x27;s just a stand-in for &quot;good HTTP citizen&quot; (if even that).')

@@ -1,0 +1,1 @@
+Item(by='disgruntledphd2', descendants=None, kids=None, score=None, time=1605987422, title=None, item_type='comment', url=None, parent=25169895, text='See my previous comments.<p>tl;dr pip silently breaks my environments, mostly connected to upgrading numpy and other scientific&#x2F;data science libraries.')

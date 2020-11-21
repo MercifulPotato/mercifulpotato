@@ -1,1 +1,1 @@
-Item(by='alexellisuk', descendants=0, kids=None, score=1, time=1605963755, title='Show HN: Upgrade your Raspberry Pi 4 with a NVMe boot drive', item_type='story', url='https://medium.com/p/upgrade-your-raspberry-pi-4-with-a-nvme-boot-drive-d9ab4e8aa3c2', parent=None, text=None)
+Item(by='alexellisuk', descendants=1, kids=[25169907], score=3, time=1605963755, title='Show HN: Upgrade your Raspberry Pi 4 with a NVMe boot drive', item_type='story', url='https://medium.com/p/upgrade-your-raspberry-pi-4-with-a-nvme-boot-drive-d9ab4e8aa3c2', parent=None, text=None)

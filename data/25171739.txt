@@ -1,0 +1,1 @@
+Item(by='drummyfish', descendants=None, kids=None, score=None, time=1605984290, title=None, item_type='comment', url=None, parent=25170534, text='There is -x c in the make.sh, but you actually got me on this, I am not sure which version of C that flag chooses. But I just tried adding -std=c99 flag and it works just fine, so it is indeed in C99.')

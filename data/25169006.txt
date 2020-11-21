@@ -1,1 +1,1 @@
-Item(by='kolinko', descendants=None, kids=None, score=None, time=1605956653, title=None, item_type='comment', url=None, parent=25158588, text='As simeone who grew up with Turbo Pascal, I’d prefer the name „Turbo Python” ;)<p>But seriously - love the idea, congrats!')
+Item(by='kolinko', descendants=None, kids=[25170012, 25171418], score=None, time=1605956653, title=None, item_type='comment', url=None, parent=25158588, text='As simeone who grew up with Turbo Pascal, I’d prefer the name „Turbo Python” ;)<p>But seriously - love the idea, congrats!')

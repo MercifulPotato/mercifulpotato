@@ -1,1 +1,1 @@
-Item(by='DyslexicAtheist', descendants=1, kids=[25169132], score=2, time=1605958735, title="Thunderbird ruined GPG by storing people's keys on disk in the clear", item_type='story', url='https://gitlab.tails.boum.org/tails/tails/-/issues/17147', parent=None, text=None)
+Item(by='DyslexicAtheist', descendants=1, kids=[25169132], score=3, time=1605958735, title="Thunderbird ruined GPG by storing people's keys on disk in the clear", item_type='story', url='https://gitlab.tails.boum.org/tails/tails/-/issues/17147', parent=None, text=None)
