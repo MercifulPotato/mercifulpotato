@@ -1,0 +1,1 @@
+Item(by='grandinj', descendants=None, kids=None, score=None, time=1605944216, title=None, item_type='comment', url=None, parent=25168292, text='CIFS is do-able, but you would need the database to have a special mode for it, and for some extra API to be exposed by the kernel (byte-level locking)<p>NFS is just about impossible (except in narrowly restricted situations)')

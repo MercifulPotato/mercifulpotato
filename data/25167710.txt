@@ -1,0 +1,1 @@
+Item(by='soraminazuki', descendants=None, kids=[25168431], score=None, time=1605929976, title=None, item_type='comment', url=None, parent=25167140, text='The biggest issue lies not in the few lines in &#x2F;etc&#x2F;passwd or &#x2F;etc&#x2F;group, but rather the highly privileged process with a large attack surface that is the Docker daemon.')

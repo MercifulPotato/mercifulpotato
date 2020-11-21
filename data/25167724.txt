@@ -1,0 +1,1 @@
+Item(by='setheron', descendants=None, kids=None, score=None, time=1605930200, title=None, item_type='comment', url=None, parent=25162839, text='I made some contributions to make sorbet work with jruby but It&#x27;s still definitely 3rd or 4th class citizen.<p>That&#x27;s surprising since I would have figured most enterprise shops are on JRuby')

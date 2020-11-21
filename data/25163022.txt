@@ -1,1 +1,1 @@
-Item(by='Talyen42', descendants=None, kids=None, score=None, time=1605895215, title=None, item_type='comment', url=None, parent=25162806, text='apple makes 1&#x2F;100th the revenue from ads that google does, so it&#x27;s very clear which is abusing user data to do so')
+Item(by='Talyen42', descendants=None, kids=[25168056], score=None, time=1605895215, title=None, item_type='comment', url=None, parent=25162806, text='apple makes 1&#x2F;100th the revenue from ads that google does, so it&#x27;s very clear which is abusing user data to do so')

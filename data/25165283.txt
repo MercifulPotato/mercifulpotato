@@ -1,1 +1,1 @@
-Item(by='pxeboot', descendants=None, kids=None, score=None, time=1605908073, title=None, item_type='comment', url=None, parent=25165200, text='Zero issues for me. They even released a firmware update for the fingerprint scanner to add Linux support a few months ago. I have a 7th gen.')
+Item(by='pxeboot', descendants=None, kids=[25168194], score=None, time=1605908073, title=None, item_type='comment', url=None, parent=25165200, text='Zero issues for me. They even released a firmware update for the fingerprint scanner to add Linux support a few months ago. I have a 7th gen.')

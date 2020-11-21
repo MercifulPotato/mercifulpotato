@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=5, kids=[25161621, 25160992, 25162502], score=32, time=1605855746, title='A neural network learns when it should not be trusted', item_type='story', url='https://news.mit.edu/2020/neural-network-uncertainty-1120', parent=None, text=None)
+Item(by='headalgorithm', descendants=5, kids=[25161621, 25160992, 25162502], score=34, time=1605855746, title='A neural network learns when it should not be trusted', item_type='story', url='https://news.mit.edu/2020/neural-network-uncertainty-1120', parent=None, text=None)

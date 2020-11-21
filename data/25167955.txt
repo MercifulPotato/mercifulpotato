@@ -1,0 +1,1 @@
+Item(by='mperham', descendants=None, kids=None, score=None, time=1605934856, title=None, item_type='comment', url=None, parent=25163851, text='The ever present memory bloat with Ruby has been discovered to be a glibc issue. Jemalloc makes MRI memory usage much more predictable and stable.')

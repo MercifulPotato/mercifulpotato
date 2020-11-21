@@ -1,0 +1,1 @@
+Item(by='bobbylarrybobby', descendants=None, kids=None, score=None, time=1605939463, title=None, item_type='comment', url=None, parent=25168111, text='That’s possible. For instance, X = {{}} and U = {}. Or in general, if X_0 = {} and X_{i+1} = {X_0, ..., X_i}, then X_i is both an element and a subset of X_j whenever i &lt; j.')

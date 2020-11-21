@@ -1,1 +1,1 @@
-Item(by='joana035', descendants=None, kids=None, score=None, time=1605923224, title=None, item_type='comment', url=None, parent=25167089, text='Check the first link in the &quot;resources&quot; section at the bottom of the article page.')
+Item(by='joana035', descendants=None, kids=[25167696], score=None, time=1605923224, title=None, item_type='comment', url=None, parent=25167089, text='Check the first link in the &quot;resources&quot; section at the bottom of the article page.')

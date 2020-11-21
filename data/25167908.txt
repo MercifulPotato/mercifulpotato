@@ -1,0 +1,1 @@
+Item(by='vvanders', descendants=None, kids=None, score=None, time=1605933676, title=None, item_type='comment', url=None, parent=25161971, text='Honestly most of the iterative parts of gamedev I worked on was either already up in the tooling&#x2F;editor or in a scripting language.<p>I think Rust for core engine and Lua for game logic would be a pretty solid combo.')

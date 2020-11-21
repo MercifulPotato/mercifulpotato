@@ -1,1 +1,1 @@
-Item(by='cpard', descendants=0, kids=None, score=33, time=1605746662, title='Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography [pdf]', item_type='story', url='https://martin.kleppmann.com/papers/curve25519.pdf', parent=None, text=None)
+Item(by='cpard', descendants=0, kids=None, score=34, time=1605746662, title='Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography [pdf]', item_type='story', url='https://martin.kleppmann.com/papers/curve25519.pdf', parent=None, text=None)

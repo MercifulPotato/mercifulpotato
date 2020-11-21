@@ -1,0 +1,1 @@
+Item(by='dehrmann', descendants=None, kids=[25168339], score=None, time=1605941632, title=None, item_type='comment', url=None, parent=25168228, text='Every once in a while there&#x27;s a site that will refuse to work with uMatrix enabled, even if I manually allow everything and disable spoofing.')

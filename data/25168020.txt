@@ -1,0 +1,1 @@
+Item(by='speedgoose', descendants=None, kids=None, score=None, time=1605936197, title=None, item_type='comment', url=None, parent=25167467, text='Containers are going to be there for a while and while the engine running the containers is not always the same, the command line Docker  client and the Dockerfile DSL seem to become the standard for Linux containers.')

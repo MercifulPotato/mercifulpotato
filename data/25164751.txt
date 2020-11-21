@@ -1,1 +1,1 @@
-Item(by='detaro', descendants=None, kids=None, score=None, time=1605905210, title=None, item_type='comment', url=None, parent=25164634, text='Those are very far from complete datasheets, covering only a small part of the SoC superficially.')
+Item(by='detaro', descendants=None, kids=[25168142], score=None, time=1605905210, title=None, item_type='comment', url=None, parent=25164634, text='Those are very far from complete datasheets, covering only a small part of the SoC superficially.')

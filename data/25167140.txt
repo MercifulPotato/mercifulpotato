@@ -1,1 +1,1 @@
-Item(by='educar', descendants=None, kids=None, score=None, time=1605922041, title=None, item_type='comment', url=None, parent=25165749, text='If you lock down the docker user, is it a problem?')
+Item(by='educar', descendants=None, kids=[25167710], score=None, time=1605922041, title=None, item_type='comment', url=None, parent=25165749, text='If you lock down the docker user, is it a problem?')

@@ -1,0 +1,1 @@
+Item(by='totony', descendants=None, kids=None, score=None, time=1605942738, title=None, item_type='comment', url=None, parent=25167231, text='Except having a lot of RAM is vital for some workloads (like compilation, virtualization&#x2F;containers). Sometimes you may think you&#x27;re okay with 16GB or RAM, until you need one or two 8GB VM working and a local DB')

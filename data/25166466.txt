@@ -1,1 +1,1 @@
-Item(by='stanford_labrat', descendants=None, kids=None, score=None, time=1605915438, title=None, item_type='comment', url=None, parent=25163220, text='On the topic of telomeres, Rejuvenation Tech is a YC company (S18) working on extending telomere length for health benefits.')
+Item(by='stanford_labrat', descendants=None, kids=[25168342], score=None, time=1605915438, title=None, item_type='comment', url=None, parent=25163220, text='On the topic of telomeres, Rejuvenation Tech is a YC company (S18) working on extending telomere length for health benefits.')
