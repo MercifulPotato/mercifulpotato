@@ -1,1 +1,1 @@
-Item(by='Symmetry', descendants=1, kids=[25151263], score=3, time=1605803732, title='Using ROCm to Program FPGAs', item_type='story', url='https://forums.xilinx.com/t5/Xilinx-Xclusive-Blog/AMD-and-Xilinx-Demonstrate-Converged-ROCm-Runtime-Technology/ba-p/1175091', parent=None, text=None)
+Item(by='Symmetry', descendants=3, kids=[25151263], score=15, time=1605803732, title='Using ROCm to Program FPGAs', item_type='story', url='https://forums.xilinx.com/t5/Xilinx-Xclusive-Blog/AMD-and-Xilinx-Demonstrate-Converged-ROCm-Runtime-Technology/ba-p/1175091', parent=None, text=None)

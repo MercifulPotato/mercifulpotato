@@ -1,0 +1,1 @@
+Item(by='WA9ACE', descendants=None, kids=None, score=None, time=1605907840, title=None, item_type='comment', url=None, parent=25164900, text='I installed arm ruby via arm homebrew using `brew install ruby` and it&#x27;s working. Anything requiring the ffi gem will not compile at the moment though.')

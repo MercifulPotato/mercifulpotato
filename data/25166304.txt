@@ -1,0 +1,1 @@
+Item(by='_chris_', descendants=None, kids=None, score=None, time=1605914304, title=None, item_type='comment', url=None, parent=25165158, text='<i>&gt; The variable length instructions of x86 mean you can fit more of them in an L1i of a given size.</i><p>Unfortunately no, x86 is worse than RISC ISAs like ARMv8 and RISC-V in instruction density.')

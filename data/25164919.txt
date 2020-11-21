@@ -1,0 +1,1 @@
+Item(by='moonchild', descendants=None, kids=[25166071], score=None, time=1605906262, title=None, item_type='comment', url=None, parent=25163910, text='Not really.  Part of the point of voldemort types is that no information about the type is &#x27;leaked&#x27; outside the function.  In this case, the trait &#x27;HasGetValue&#x27; is leaked and can be used by other code.')

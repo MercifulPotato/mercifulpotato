@@ -1,0 +1,1 @@
+Item(by='Lex-2008', descendants=None, kids=None, score=None, time=1605904954, title=None, item_type='comment', url=None, parent=25158747, text='&gt; - zfs&#x27;s logical volume layer is rather more flexible than btrfs&#x27;s - you can make a multi-device set of mixed disks<p>Can you please elaborate on this? Working on mixed disks was always a killer feature of btrfs for me!')

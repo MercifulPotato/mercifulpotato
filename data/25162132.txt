@@ -1,1 +1,1 @@
-Item(by='bobthepanda', descendants=None, kids=None, score=None, time=1605890639, title=None, item_type='comment', url=None, parent=25162062, text='The French industry isn’t doing too well either; all the EPRs are also late and over budget and they took over Areva to bail it out.')
+Item(by='bobthepanda', descendants=None, kids=[25165471], score=None, time=1605890639, title=None, item_type='comment', url=None, parent=25162062, text='The French industry isn’t doing too well either; all the EPRs are also late and over budget and they took over Areva to bail it out.')

@@ -1,0 +1,1 @@
+Item(by='puzzlingcaptcha', descendants=None, kids=None, score=None, time=1605916043, title=None, item_type='comment', url=None, parent=25164691, text='You mean &#x2F;var&#x2F;log or filesystem log? What about using non-journaling filesystems or keeping &#x2F;var&#x2F;log on a ramdisk?')

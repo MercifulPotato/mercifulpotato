@@ -1,1 +1,1 @@
-Item(by='febed', descendants=None, kids=None, score=None, time=1605851261, title=None, item_type='comment', url=None, parent=25155116, text='How did you pivot from kernel programming to designing chips? Did you already have a background in embedded electronics?')
+Item(by='febed', descendants=None, kids=[25165738], score=None, time=1605851261, title=None, item_type='comment', url=None, parent=25155116, text='How did you pivot from kernel programming to designing chips? Did you already have a background in embedded electronics?')

@@ -1,0 +1,1 @@
+Item(by='znpy', descendants=None, kids=None, score=None, time=1605914393, title=None, item_type='comment', url=None, parent=25166265, text='A rootless docker would greatly simplify some use cases... For example, no need to do docker in docker.<p>Edit: apparently now net4slirp is recommended... Maybe I&#x27;ll give it another try.')

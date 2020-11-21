@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=[25167299], score=None, time=1605917278, title=None, item_type='comment', url=None, parent=25163820, text='It goes past syntax. Yes, they&#x27;re different languages, but syntax, behaviour, stdlib are so close you can port non-trivial libraries between them in a relatively short time.')

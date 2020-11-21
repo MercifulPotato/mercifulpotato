@@ -1,1 +1,1 @@
-Item(by='nillium', descendants=0, kids=None, score=2, time=1605900417, title="Why we're building Forth: A new news platform", item_type='story', url='https://blog.nillium.com/why-were-building-forth/', parent=None, text=None)
+Item(by='nillium', descendants=2, kids=[25164035, 25163995], score=6, time=1605900417, title="Why we're building Forth: A new news platform", item_type='story', url='https://blog.nillium.com/why-were-building-forth/', parent=None, text=None)

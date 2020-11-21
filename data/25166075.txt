@@ -1,0 +1,1 @@
+Item(by='znpy', descendants=None, kids=[25166374, 25166120], score=None, time=1605912883, title=None, item_type='comment', url=None, parent=25165195, text='Last time I tried podman it looked very cool being rootless and daemonless, except that since it&#x27;s rootless I couldn&#x27;t create the necessary network interfaces... making it pretty much worthless.')

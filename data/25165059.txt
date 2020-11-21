@@ -1,0 +1,1 @@
+Item(by='sohooo', descendants=None, kids=None, score=None, time=1605906991, title=None, item_type='comment', url=None, parent=25164900, text='In the meantime, you could use the version shipped with macOS:<p><pre><code>    ▶ ruby -v\n    ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.arm64e-darwin20]</code></pre>')

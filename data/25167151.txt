@@ -1,0 +1,1 @@
+Item(by='educar', descendants=None, kids=None, score=None, time=1605922170, title=None, item_type='comment', url=None, parent=25167015, text='Given that the most common case is running docker in server environments in VMs and the sysadmins are root, is this a real issue? Can you tell me an environment where a multi-tenant system runs docker?')

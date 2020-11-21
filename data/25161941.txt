@@ -1,1 +1,1 @@
-Item(by='Evrone', descendants=0, kids=None, score=9, time=1605889631, title='Building a HIPAA-compliant rules engine for text-based service company', item_type='story', url='https://evrone.com/jiseki-health', parent=None, text=None)
+Item(by='Evrone', descendants=15, kids=[25163999, 25164567], score=16, time=1605889631, title='Building a HIPAA-compliant rules engine for text-based service company', item_type='story', url='https://evrone.com/jiseki-health', parent=None, text=None)

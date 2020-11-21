@@ -1,0 +1,1 @@
+Item(by='kccqzy', descendants=None, kids=None, score=None, time=1605909487, title=None, item_type='comment', url=None, parent=25164894, text='It might be that you can use docker-machine to set up a remote Docker machine and then use a native docker CLI to control that remote instance.')

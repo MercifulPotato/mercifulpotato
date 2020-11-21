@@ -1,1 +1,1 @@
-Item(by='nextos', descendants=None, kids=None, score=None, time=1605899923, title=None, item_type='comment', url=None, parent=25163807, text='It had lots of memory leaks. I love Ruby, and I used it anyway, but this bothered me a lot back in the mid-to-late 2000s.')
+Item(by='nextos', descendants=None, kids=[25164002], score=None, time=1605899923, title=None, item_type='comment', url=None, parent=25163807, text='It had lots of memory leaks. I love Ruby, and I used it anyway, but this bothered me a lot back in the mid-to-late 2000s.')

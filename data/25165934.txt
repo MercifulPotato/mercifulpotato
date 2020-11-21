@@ -1,0 +1,1 @@
+Item(by='choeger', descendants=None, kids=None, score=None, time=1605912029, title=None, item_type='comment', url=None, parent=25165487, text='Not really corner cases, but compatibility from rootless podman to docker ends where privileges are needed, e.g., in the case of networking.')

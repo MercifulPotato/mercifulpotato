@@ -1,0 +1,1 @@
+Item(by='fiddlerwoaroof', descendants=None, kids=[25167268], score=None, time=1605923065, title=None, item_type='comment', url=None, parent=25165905, text='I think the ideal is using Nix to manage development dependencies and to handle building minimal docker images for deployment.')

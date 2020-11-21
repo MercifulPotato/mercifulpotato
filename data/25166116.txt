@@ -1,0 +1,1 @@
+Item(by='yjftsjthsd-h', descendants=None, kids=None, score=None, time=1605913067, title=None, item_type='comment', url=None, parent=25165918, text='Do you mean in that adding a user to the docker group is effectively handing them root? Because if you don&#x27;t do that, then running docker requires root&#x2F;sudo, which means that it should be exactly as secure as anything else')

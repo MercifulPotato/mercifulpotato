@@ -1,0 +1,1 @@
+Item(by='Cu3PO42', descendants=None, kids=[25164836], score=None, time=1605905613, title=None, item_type='comment', url=None, parent=25164745, text='I imagine the post you are replying to is referring to actually getting the Linux kernel to boot (since there is no BIOS, UEFI, etc.) and writing drivers for all the possibly specialized hardware Apple put in there.')

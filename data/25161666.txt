@@ -1,1 +1,1 @@
-Item(by='okpok', descendants=1, kids=[25161715], score=4, time=1605888158, title='Show HN: An experimental O(1) garbage collector', item_type='story', url='https://github.com/dkopko/klox', parent=None, text=None)
+Item(by='okpok', descendants=1, kids=[25161715], score=5, time=1605888158, title='Show HN: An experimental O(1) garbage collector', item_type='story', url='https://github.com/dkopko/klox', parent=None, text=None)

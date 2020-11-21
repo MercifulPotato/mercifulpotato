@@ -1,1 +1,1 @@
-Item(by='muzani', descendants=None, kids=None, score=None, time=1605849752, title=None, item_type='comment', url=None, parent=25154747, text='As a senior developer, I skim the code reviews and spend a few hours to fix the mess this creates.')
+Item(by='muzani', descendants=None, kids=[25165326], score=None, time=1605849752, title=None, item_type='comment', url=None, parent=25154747, text='As a senior developer, I skim the code reviews and spend a few hours to fix the mess this creates.')

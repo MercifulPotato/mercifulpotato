@@ -1,1 +1,1 @@
-Item(by='selimthegrim', descendants=None, kids=None, score=None, time=1605851195, title=None, item_type='comment', url=None, parent=25151739, text='I just remember its appearance in “The Arrival” as “el radio”')
+Item(by='selimthegrim', descendants=None, kids=[25165923], score=None, time=1605851195, title=None, item_type='comment', url=None, parent=25151739, text='I just remember its appearance in “The Arrival” as “el radio”')

@@ -1,0 +1,1 @@
+Item(by='AkihiroSuda', descendants=None, kids=None, score=None, time=1605914710, title=None, item_type='comment', url=None, parent=25166075, text='Podman 2.1 supports CNI networks (`podman network create`), so it might be worthful now')

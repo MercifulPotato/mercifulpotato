@@ -1,0 +1,1 @@
+Item(by='lifty', descendants=None, kids=[25166055], score=None, time=1605911306, title=None, item_type='comment', url=None, parent=25165758, text='Rootless is coming to Docker as well since containerd switched to cgroups v2, which was a requirement for rootless')

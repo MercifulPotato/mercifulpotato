@@ -1,1 +1,1 @@
-Item(by='cercatrova', descendants=None, kids=None, score=None, time=1605896930, title=None, item_type='comment', url=None, parent=25162107, text='Doesn&#x27;t work on mobile, could you just make it a list?')
+Item(by='cercatrova', descendants=None, kids=[25165845], score=None, time=1605896930, title=None, item_type='comment', url=None, parent=25162107, text='Doesn&#x27;t work on mobile, could you just make it a list?')

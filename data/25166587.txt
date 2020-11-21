@@ -1,0 +1,1 @@
+Item(by='nikisweeting', descendants=None, kids=None, score=None, time=1605916450, title=None, item_type='comment', url=None, parent=25165195, text='Lack of a drop-in docker-compose replacement is what stopped me last time I tried podman. podman-compose looked decent but it lacked a bunch of basic features and didn&#x27;t work smoothly last time I tried it.')

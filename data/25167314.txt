@@ -1,0 +1,1 @@
+Item(by='tripplyons', descendants=None, kids=None, score=None, time=1605924127, title=None, item_type='comment', url=None, parent=25167103, text='Thanks for the feedback. Some browsers only go up to 2kb, and since it uses base64, only 6&#x2F;8 of that I think. It might be because it was over that limit, or that there is another issue that I should look into.')

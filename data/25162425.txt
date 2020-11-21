@@ -1,0 +1,1 @@
+Item(by='vanerka', descendants=None, kids=None, score=None, time=1605892088, title=None, item_type='comment', url=None, parent=25162001, text='You can clone the snapshot (so its clone become writable, not the snapshot itself!) and you even can promote a snapshot to a &quot;parent&quot; filesystem (reverse parent-child).')

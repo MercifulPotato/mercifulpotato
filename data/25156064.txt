@@ -1,1 +1,1 @@
-Item(by='jhanschoo', descendants=None, kids=None, score=None, time=1605831870, title=None, item_type='comment', url=None, parent=25155627, text='I gotta say I&#x27;m quite excited to the refinements to the literal string types.')
+Item(by='jhanschoo', descendants=None, kids=[25165775], score=None, time=1605831870, title=None, item_type='comment', url=None, parent=25155627, text='I gotta say I&#x27;m quite excited to the refinements to the literal string types.')

@@ -1,0 +1,1 @@
+Item(by='temac', descendants=None, kids=[25165666], score=None, time=1605909333, title=None, item_type='comment', url=None, parent=25165167, text='If I remember correctly the M1 has around 600 reorder buffer entries, and I just checked and Anantech estimate the int register file at around 354 entries. That&#x27;s still big, but not 600.')

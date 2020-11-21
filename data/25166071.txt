@@ -1,0 +1,1 @@
+Item(by='skohan', descendants=None, kids=[25166432], score=None, time=1605912865, title=None, item_type='comment', url=None, parent=25164919, text='When would you want to have an interface such that nothing about the return type of a function is known to the outside world?  I&#x27;m genuinely asking; I just don&#x27;t understand the utility of this concept.')

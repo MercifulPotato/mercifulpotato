@@ -1,0 +1,1 @@
+Item(by='nhoughto', descendants=None, kids=[25166811, 25167090], score=None, time=1605916665, title=None, item_type='comment', url=None, parent=25166426, text='Docker in docker is a very common pattern in CI, in some cases is the only way to achieve certain tasks.')

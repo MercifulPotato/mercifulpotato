@@ -1,1 +1,1 @@
-Item(by='domoritz', descendants=None, kids=None, score=None, time=1605896121, title=None, item_type='comment', url=None, parent=25161930, text='Take a look at <a href="https:&#x2F;&#x2F;www.streamlit.io&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.streamlit.io&#x2F;</a>.')
+Item(by='domoritz', descendants=None, kids=[25166231], score=None, time=1605896121, title=None, item_type='comment', url=None, parent=25161930, text='Take a look at <a href="https:&#x2F;&#x2F;www.streamlit.io&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.streamlit.io&#x2F;</a>.')

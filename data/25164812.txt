@@ -1,0 +1,1 @@
+Item(by='mjn', descendants=None, kids=[25166660], score=None, time=1605905591, title=None, item_type='comment', url=None, parent=25162303, text='Seems to depend on the PDF viewer (font issues?). The kerning is almost unreadably bad in macOS&#x27;s PDF viewer (Preview), but looks perfectly fine in Firefox&#x27;s built-in PDF viewer on the same machine.')

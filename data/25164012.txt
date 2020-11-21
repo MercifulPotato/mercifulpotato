@@ -1,0 +1,1 @@
+Item(by='aerovistae', descendants=None, kids=[25164154, 25164233, 25164496], score=None, time=1605901023, title=None, item_type='comment', url=None, parent=25163982, text='That&#x27;s super informative, thank you! Can you also add a word of explanation as to how the `sig` call gets associated with the method that follows it? What ties them together, is there some static parser?')

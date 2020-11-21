@@ -1,0 +1,1 @@
+Item(by='dj_mc_merlin', descendants=None, kids=[25167276], score=None, time=1605922682, title=None, item_type='comment', url=None, parent=25162839, text='&gt; Finally, we track how many times our developers ran the command dev tc to typecheck a project with Sorbet on their development machine.<p>How? Do they track all of their devs commands?')

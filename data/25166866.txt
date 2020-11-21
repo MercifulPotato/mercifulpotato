@@ -1,0 +1,1 @@
+Item(by='dijit', descendants=None, kids=None, score=None, time=1605919300, title=None, item_type='comment', url=None, parent=25166445, text='This is going to sound like a meme, but seriously: install gentoo.<p>“Linux” doesn’t write anything to the filesystem, but various helper utilities do, and this has become more true with systemd-journald.')

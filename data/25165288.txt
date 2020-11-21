@@ -1,0 +1,1 @@
+Item(by='closeparen', descendants=None, kids=[25166408], score=None, time=1605908091, title=None, item_type='comment', url=None, parent=25161608, text='LDAP pins you down to a username+password flow and requires you to handle that password. Would much rather see authentication flows that are ready for WebAuthN, etc. by default.')

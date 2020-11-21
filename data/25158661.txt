@@ -1,1 +1,1 @@
-Item(by='londons_explore', descendants=None, kids=None, score=None, time=1605863075, title=None, item_type='comment', url=None, parent=25158549, text='Spring regen is hard because you need a very big Spring to store the energy of 80kg of bike at 30mph.')
+Item(by='londons_explore', descendants=None, kids=[25165763], score=None, time=1605863075, title=None, item_type='comment', url=None, parent=25158549, text='Spring regen is hard because you need a very big Spring to store the energy of 80kg of bike at 30mph.')

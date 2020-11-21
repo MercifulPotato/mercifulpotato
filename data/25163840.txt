@@ -1,1 +1,1 @@
-Item(by='iphorde', descendants=None, kids=[25164313], score=None, time=1605899874, title=None, item_type='comment', url=None, parent=25163488, text='something() { } obviously is a definition, something() is obviously a call.<p>Why is that hard for you?')
+Item(by='iphorde', descendants=None, kids=[25164807, 25164313], score=None, time=1605899874, title=None, item_type='comment', url=None, parent=25163488, text='something() { } obviously is a definition, something() is obviously a call.<p>Why is that hard for you?')

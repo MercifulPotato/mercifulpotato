@@ -1,0 +1,1 @@
+Item(by='czynskee', descendants=None, kids=None, score=None, time=1605921865, title=None, item_type='comment', url=None, parent=25166656, text='If x is your variable, you can just do Boolean(x) rather than !! to make it boolean. E.g. it will convert undefined, null, 0, &quot;&quot;, and NaN to false.<p>This is a much more readable cast.')
