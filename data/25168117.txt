@@ -1,1 +1,1 @@
-Item(by='TechBro8615', descendants=None, kids=None, score=None, time=1605938707, title=None, item_type='comment', url=None, parent=25166610, text='AFAIU you can&#x27;t switch to a shell runner unless you self host gitlab runner.')
+Item(by='TechBro8615', descendants=None, kids=[25168629], score=None, time=1605938707, title=None, item_type='comment', url=None, parent=25166610, text='AFAIU you can&#x27;t switch to a shell runner unless you self host gitlab runner.')

@@ -1,0 +1,1 @@
+Item(by='crummy', descendants=None, kids=None, score=None, time=1605954420, title=None, item_type='comment', url=None, parent=25166064, text='Lots of folks recommending kaniko, which we use. But it seems quite slow compared to docker build. Is this not an issue for others?')

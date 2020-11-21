@@ -1,1 +1,1 @@
-Item(by='nefitty', descendants=None, kids=None, score=None, time=1605835278, title=None, item_type='comment', url=None, parent=25152508, text='A rate books by their covers app')
+Item(by='nefitty', descendants=None, kids=[25168414], score=None, time=1605835278, title=None, item_type='comment', url=None, parent=25152508, text='A rate books by their covers app')

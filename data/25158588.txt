@@ -1,1 +1,1 @@
-Item(by='timothycrosley', descendants=0, kids=None, score=2, time=1605862416, title='Show HN: QuickPYTHON', item_type='story', url='https://timothycrosley.github.io/quickpython/', parent=None, text=None)
+Item(by='timothycrosley', descendants=5, kids=[25168317, 25169006, 25169638, 25169106, 25168903], score=81, time=1605862416, title='Show HN: QuickPYTHON', item_type='story', url='https://timothycrosley.github.io/quickpython/', parent=None, text=None)

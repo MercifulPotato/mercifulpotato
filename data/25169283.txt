@@ -1,0 +1,1 @@
+Item(by='bitigchi', descendants=0, kids=None, score=1, time=1605960859, title='Web Devs: Please make sure that the content is accessible through a CLI browser', item_type='story', url=None, parent=None, text='It is really frustrating when websites that serve mostly static content are hard to browse or not accessible at all through a CLI browser like Links, lynx etc.')

@@ -1,0 +1,1 @@
+Item(by='encom', descendants=None, kids=None, score=None, time=1605955209, title=None, item_type='comment', url=None, parent=25167217, text='<p><pre><code>    privacy.resistFingerprinting = 1\n</code></pre>\nAmong many other things, it sets UA to the LTS release, and `HTTP_ACCEPT` to a vanilla en-US string.')

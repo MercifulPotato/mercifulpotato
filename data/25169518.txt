@@ -1,0 +1,1 @@
+Item(by='IshKebab', descendants=None, kids=None, score=None, time=1605964100, title=None, item_type='comment', url=None, parent=25166175, text='That&#x27;s only required for languages that are single threaded. Your advice would be better stated as:<p>* Don&#x27;t pick languages with no concurrency support.')

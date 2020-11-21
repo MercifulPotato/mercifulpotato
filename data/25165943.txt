@@ -1,1 +1,1 @@
-Item(by='anderspitman', descendants=None, kids=None, score=None, time=1605912134, title=None, item_type='comment', url=None, parent=25165554, text='But that still requires an SD card to bootstrap the process...')
+Item(by='anderspitman', descendants=None, kids=[25168810], score=None, time=1605912134, title=None, item_type='comment', url=None, parent=25165554, text='But that still requires an SD card to bootstrap the process...')

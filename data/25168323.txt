@@ -1,1 +1,1 @@
-Item(by='bobthebuilders', descendants=None, kids=None, score=None, time=1605943253, title=None, item_type='comment', url=None, parent=25166692, text='The commentor is just mistaken. The two do the exact same thing.')
+Item(by='bobthebuilders', descendants=None, kids=[25169345], score=None, time=1605943253, title=None, item_type='comment', url=None, parent=25166692, text='The commentor is just mistaken. The two do the exact same thing.')

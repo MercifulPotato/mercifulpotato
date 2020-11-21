@@ -1,1 +1,1 @@
-Item(by='hinkley', descendants=None, kids=None, score=None, time=1605932364, title=None, item_type='comment', url=None, parent=25167260, text='Isn&#x27;t exposing the host Docker daemon the security issue that people grouse about?')
+Item(by='hinkley', descendants=None, kids=[25169237], score=None, time=1605932364, title=None, item_type='comment', url=None, parent=25167260, text='Isn&#x27;t exposing the host Docker daemon the security issue that people grouse about?')

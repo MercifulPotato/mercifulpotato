@@ -1,0 +1,1 @@
+Item(by='mercer', descendants=None, kids=None, score=None, time=1605962960, title=None, item_type='comment', url=None, parent=25148932, text='Once I properly used Tailwind for a mid-sized project, I was pretty much sold on it. Size was my main issue. With PurgeCSS the payload can be really small though. it only includes the Tailwind classes that you&#x27;re actually using.')

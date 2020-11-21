@@ -1,1 +1,1 @@
-Item(by='d-sc', descendants=None, kids=None, score=None, time=1605762463, title=None, item_type='comment', url=None, parent=25145711, text='I’me working on an embedded project and would like to setup a CI&#x2F;CD pipeline. Do you have any recommended resources?')
+Item(by='d-sc', descendants=None, kids=[25168800], score=None, time=1605762463, title=None, item_type='comment', url=None, parent=25145711, text='I’me working on an embedded project and would like to setup a CI&#x2F;CD pipeline. Do you have any recommended resources?')

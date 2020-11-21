@@ -1,1 +1,1 @@
-Item(by='throwaway-sf', descendants=0, kids=None, score=2, time=1605926974, title='A Stock Market Bubble? It’s More Like a Fire', item_type='story', url='https://www.wsj.com/articles/a-stock-market-bubble-its-more-like-a-fire-11605888002', parent=None, text=None)
+Item(by='throwaway-sf', descendants=1, kids=[25169235], score=3, time=1605926974, title='A Stock Market Bubble? It’s More Like a Fire', item_type='story', url='https://www.wsj.com/articles/a-stock-market-bubble-its-more-like-a-fire-11605888002', parent=None, text=None)

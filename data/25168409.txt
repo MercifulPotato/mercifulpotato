@@ -1,0 +1,1 @@
+Item(by='SimeVidas', descendants=None, kids=[25168966, 25168515], score=None, time=1605945269, title=None, item_type='comment', url=None, parent=25167928, text='Accessibility issue: The “Logo” image link at the top should have alt text that describes the link destination, not the image itself.')

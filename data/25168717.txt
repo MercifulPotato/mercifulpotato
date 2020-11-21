@@ -1,0 +1,1 @@
+Item(by='rythie', descendants=None, kids=None, score=None, time=1605951750, title=None, item_type='comment', url=None, parent=25168662, text='I tried the same test on a different system with spinning drives, it took 1 minute 43 seconds. The resulting file is 12kb (all inserts, no deletes or updates). It’s sync writes that are slow.')

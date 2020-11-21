@@ -1,1 +1,1 @@
-Item(by='waheoo', descendants=None, kids=None, score=None, time=1605934684, title=None, item_type='comment', url=None, parent=25165904, text='Isn&#x27;t edge a Google browser?')
+Item(by='waheoo', descendants=None, kids=[25168758], score=None, time=1605934684, title=None, item_type='comment', url=None, parent=25165904, text='Isn&#x27;t edge a Google browser?')

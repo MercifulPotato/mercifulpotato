@@ -1,1 +1,1 @@
-Item(by='orliesaurus', descendants=None, kids=None, score=None, time=1605890321, title=None, item_type='comment', url=None, parent=25161894, text='This looks really solid, how long did it take you to build this wholly?')
+Item(by='orliesaurus', descendants=None, kids=[25169171], score=None, time=1605890321, title=None, item_type='comment', url=None, parent=25161894, text='This looks really solid, how long did it take you to build this wholly?')

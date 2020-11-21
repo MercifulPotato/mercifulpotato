@@ -1,1 +1,1 @@
-Item(by='mseidl', descendants=None, kids=None, score=None, time=1605944803, title=None, item_type='comment', url=None, parent=25167854, text='We have our LTSS -&gt; Long term support at SUSE.  Just in case you&#x27;re a big government that wants to throw us lots of money.')
+Item(by='mseidl', descendants=None, kids=[25168655], score=None, time=1605944803, title=None, item_type='comment', url=None, parent=25167854, text='We have our LTSS -&gt; Long term support at SUSE.  Just in case you&#x27;re a big government that wants to throw us lots of money.')

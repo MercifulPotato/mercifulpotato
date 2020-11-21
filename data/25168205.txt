@@ -1,1 +1,1 @@
-Item(by='usaphp', descendants=0, kids=None, score=2, time=1605940505, title='Thalidomide Scandal', item_type='story', url='https://en.wikipedia.org/wiki/Thalidomide_scandal', parent=None, text=None)
+Item(by='usaphp', descendants=0, kids=[25168649], score=9, time=1605940505, title='Thalidomide Scandal', item_type='story', url='https://en.wikipedia.org/wiki/Thalidomide_scandal', parent=None, text=None)

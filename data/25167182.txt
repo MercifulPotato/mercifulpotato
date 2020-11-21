@@ -1,1 +1,1 @@
-Item(by='YeGoblynQueenne', descendants=0, kids=[25167258], score=1, time=1605922544, title='Neural Abstract Reasoner', item_type='story', url='https://arxiv.org/abs/2011.09860', parent=None, text=None)
+Item(by='YeGoblynQueenne', descendants=1, kids=[25167258], score=2, time=1605922544, title='Neural Abstract Reasoner', item_type='story', url='https://arxiv.org/abs/2011.09860', parent=None, text=None)
