@@ -1,1 +1,1 @@
-Item(by='mentos', descendants=None, kids=None, score=None, time=1605987519, title=None, item_type='comment', url=None, parent=25171617, text='How is the rendering performance with large worlds?')
+Item(by='mentos', descendants=None, kids=[25172305], score=None, time=1605987519, title=None, item_type='comment', url=None, parent=25171617, text='How is the rendering performance with large worlds?')

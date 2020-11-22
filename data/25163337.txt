@@ -1,1 +1,1 @@
-Item(by='sizzle', descendants=1, kids=[25168881], score=20, time=1605897082, title='3D bioprinted heart provides new tool for surgeons', item_type='story', url='https://engineering.cmu.edu/news-events/news/2020/11/18-3d-printed-heart.html', parent=None, text=None)
+Item(by='sizzle', descendants=2, kids=[25172649, 25168881], score=21, time=1605897082, title='3D bioprinted heart provides new tool for surgeons', item_type='story', url='https://engineering.cmu.edu/news-events/news/2020/11/18-3d-printed-heart.html', parent=None, text=None)

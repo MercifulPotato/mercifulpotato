@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=0, kids=None, score=22, time=1605855998, title='Learning State Abstractions for Long-Horizon Planning', item_type='story', url='https://bair.berkeley.edu/blog/2020/11/20/sgm/', parent=None, text=None)
+Item(by='headalgorithm', descendants=1, kids=[25172940], score=40, time=1605855998, title='Learning State Abstractions for Long-Horizon Planning', item_type='story', url='https://bair.berkeley.edu/blog/2020/11/20/sgm/', parent=None, text=None)

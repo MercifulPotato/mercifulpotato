@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[25173138, 25173097], score=None, time=1605992960, title=None, item_type='comment', url=None, parent=25149154, text='Diagram seems to imply an active&#x2F;passive namenode setup like HDFS. Doesn&#x27;t that limit it to tiny filesystems, and curse it with the same availability problems that plague HDFS?')

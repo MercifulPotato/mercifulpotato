@@ -1,0 +1,1 @@
+Item(by='worldmerge', descendants=None, kids=[25173286], score=None, time=1605997911, title=None, item_type='comment', url=None, parent=25173109, text='Well I guess my unofficial YouTube chat bot won&#x27;t work anymore. The YouTube API is awful compared to the Twitch one for bot creation so it is easier to get the functionality you want using Selenium.')

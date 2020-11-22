@@ -1,1 +1,1 @@
-Item(by='justnotworthit', descendants=None, kids=None, score=None, time=1605909004, title=None, item_type='comment', url=None, parent=25161677, text='which one is &quot;here&quot;? You&#x27;re saying Colorado 25 has low humidity and is more comfortable?')
+Item(by='justnotworthit', descendants=None, kids=[25173412], score=None, time=1605909004, title=None, item_type='comment', url=None, parent=25161677, text='which one is &quot;here&quot;? You&#x27;re saying Colorado 25 has low humidity and is more comfortable?')

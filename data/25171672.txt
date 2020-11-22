@@ -1,1 +1,1 @@
-Item(by='bluetwo', descendants=0, kids=None, score=1, time=1605983796, title="Show HN: Poacher2020 is a free Texas Hold 'em poker coach built on AI", item_type='story', url='https://labs.blueboxsw.com/poacher2020/', parent=None, text=None)
+Item(by='bluetwo', descendants=1, kids=[25172322], score=1, time=1605983796, title="Show HN: Poacher2020 is a free Texas Hold 'em poker coach built on AI", item_type='story', url='https://labs.blueboxsw.com/poacher2020/', parent=None, text=None)

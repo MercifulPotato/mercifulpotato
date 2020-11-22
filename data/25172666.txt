@@ -1,0 +1,1 @@
+Item(by='fh973', descendants=None, kids=[25172827], score=None, time=1605991911, title=None, item_type='comment', url=None, parent=25149187, text='&gt; ... but has 100X the performance of S3 for file move&#x2F;rename operations<p>Isn&#x27;t rename in S3 effectively a copy-delete operation?')

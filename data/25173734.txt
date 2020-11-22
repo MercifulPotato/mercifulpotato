@@ -1,0 +1,1 @@
+Item(by='SahAssar', descendants=None, kids=[25174118, 25174187], score=None, time=1606004128, title=None, item_type='comment', url=None, parent=25173586, text='Shouldn&#x27;t it be quite okay if using secureboot and the embedded system has locked down keys?<p>I have no idea if they did that, but mailing USB keys should be fine with the right encryption or validation')

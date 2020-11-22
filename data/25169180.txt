@@ -1,1 +1,1 @@
-Item(by='coldtea', descendants=None, kids=None, score=None, time=1605959522, title=None, item_type='comment', url=None, parent=25167964, text='Yeah so? Parent (and grandparent) talked about their direct experience. That&#x27;s by definition anecdotal.')
+Item(by='coldtea', descendants=None, kids=[25173631], score=None, time=1605959522, title=None, item_type='comment', url=None, parent=25167964, text='Yeah so? Parent (and grandparent) talked about their direct experience. That&#x27;s by definition anecdotal.')

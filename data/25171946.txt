@@ -1,1 +1,1 @@
-Item(by='maest', descendants=None, kids=None, score=None, time=1605985855, title=None, item_type='comment', url=None, parent=25170157, text='I guess emojis in non-informal literature are now here to stay?')
+Item(by='maest', descendants=None, kids=[25173407], score=None, time=1605985855, title=None, item_type='comment', url=None, parent=25170157, text='I guess emojis in non-informal literature are now here to stay?')

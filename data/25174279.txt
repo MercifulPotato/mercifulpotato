@@ -1,0 +1,1 @@
+Item(by='rsend1', descendants=None, kids=None, score=None, time=1606010675, title=None, item_type='comment', url=None, parent=25158736, text='I reduced the kernel size (stripped out unnecessary drivers) and stuffed a stripped-down version with full GUI into my BIOS &#x2F; ROM chip running coreboot. Pretty neat.')

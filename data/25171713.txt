@@ -1,1 +1,1 @@
-Item(by='lenova', descendants=None, kids=None, score=None, time=1605984122, title=None, item_type='comment', url=None, parent=25171033, text='As a junior SRE, I&#x27;m going to need details on how you got to these pay and consulting levels ;-)')
+Item(by='lenova', descendants=None, kids=[25174198, 25174209, 25172450], score=None, time=1605984122, title=None, item_type='comment', url=None, parent=25171033, text='As a junior SRE, I&#x27;m going to need details on how you got to these pay and consulting levels ;-)')

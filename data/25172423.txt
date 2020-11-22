@@ -1,0 +1,1 @@
+Item(by='ognarb', descendants=None, kids=[25172775, 25172881], score=None, time=1605989498, title=None, item_type='comment', url=None, parent=25172162, text='Wayland is heavily used in the embedded world. But the embedded world is not using KWin, Mutter or Sway but instead more minimal compositors like Qt Wayland compositor or Weston.')

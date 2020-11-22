@@ -1,1 +1,1 @@
-Item(by='kahole', descendants=None, kids=None, score=None, time=1605777836, title=None, item_type='comment', url=None, parent=25145875, text='fixed')
+Item(by='kahole', descendants=None, kids=[25173301], score=None, time=1605777836, title=None, item_type='comment', url=None, parent=25145875, text='fixed')

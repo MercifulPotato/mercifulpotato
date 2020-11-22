@@ -1,0 +1,1 @@
+Item(by='SahAssar', descendants=None, kids=None, score=None, time=1605994374, title=None, item_type='comment', url=None, parent=25171752, text='I use caddy-auth-portal and caddy-jwt to generate JWTs for AuthN (based on SSO) and then use postgres built in row level security for AuthZ.')

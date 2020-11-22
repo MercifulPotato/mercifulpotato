@@ -1,1 +1,1 @@
-Item(by='briggers', descendants=0, kids=None, score=6, time=1605963914, title='Mastering TorchScript: Tracing vs. Scripting, Device Pinning, Graph Modification', item_type='story', url='https://paulbridger.com/posts/mastering-torchscript', parent=None, text=None)
+Item(by='briggers', descendants=0, kids=None, score=7, time=1605963914, title='Mastering TorchScript: Tracing vs. Scripting, Device Pinning, Graph Modification', item_type='story', url='https://paulbridger.com/posts/mastering-torchscript', parent=None, text=None)
