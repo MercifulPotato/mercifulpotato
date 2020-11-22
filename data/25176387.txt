@@ -1,0 +1,1 @@
+Item(by='SahAssar', descendants=None, kids=None, score=None, time=1606040922, title=None, item_type='comment', url=None, parent=25175558, text='Postgrest has resource embedding that even works over join tables, so most relations should be no problem to include in a single request.')

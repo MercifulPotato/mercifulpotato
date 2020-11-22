@@ -1,1 +1,1 @@
-Item(by='ownagefool', descendants=None, kids=None, score=None, time=1605992361, title=None, item_type='comment', url=None, parent=25172445, text='Because they&#x27;ll be rang at 4am...')
+Item(by='ownagefool', descendants=None, kids=[25177249], score=None, time=1605992361, title=None, item_type='comment', url=None, parent=25172445, text='Because they&#x27;ll be rang at 4am...')

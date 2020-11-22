@@ -1,1 +1,1 @@
-Item(by='kaunta', descendants=0, kids=None, score=6, time=1606008006, title="Using Python's Bisect Module", item_type='story', url='https://johnlekberg.com/blog/2020-11-21-stdlib-bisect.html', parent=None, text=None)
+Item(by='kaunta', descendants=6, kids=[25177161, 25175774], score=24, time=1606008006, title="Using Python's Bisect Module", item_type='story', url='https://johnlekberg.com/blog/2020-11-21-stdlib-bisect.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='abdullahkhalids', descendants=None, kids=None, score=None, time=1606046240, title=None, item_type='comment', url=None, parent=25176745, text='while (1) {\n  document.getElementById(&#x27;pcontainer&#x27;).innerHTML = &#x27;&lt;p&gt;new paragraph&lt;&#x2F;p&gt;&#x27; + document.getElementById(&#x27;pcontainer&#x27;).innerHTML;\n}')

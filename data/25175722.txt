@@ -1,1 +1,1 @@
-Item(by='sooheon', descendants=None, kids=None, score=None, time=1606030500, title=None, item_type='comment', url=None, parent=25174601, text='If it was your company, would you rather have 99% market share and 1% of profits, or 1% market share and 99% of profits?')
+Item(by='sooheon', descendants=None, kids=[25176116], score=None, time=1606030500, title=None, item_type='comment', url=None, parent=25174601, text='If it was your company, would you rather have 99% market share and 1% of profits, or 1% market share and 99% of profits?')

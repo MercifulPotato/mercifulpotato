@@ -1,0 +1,1 @@
+Item(by='t0astbread', descendants=None, kids=None, score=None, time=1606048716, title=None, item_type='comment', url=None, parent=25176794, text='Can we auto-generate these clubs? One could probably set up a wildcard CNAME record for a domain and then the subdomain (from the HTTP Host header) is parsed as the size limit (e.g: `10kb.website.club`, `100b.website.club`)')

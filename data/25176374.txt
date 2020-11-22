@@ -1,0 +1,1 @@
+Item(by='snicker7', descendants=None, kids=None, score=None, time=1606040729, title=None, item_type='comment', url=None, parent=25176344, text='&gt;  Interesting to see the module defines a pure Python implementation first, then tries to import a fast C implementation.<p>Peak Python')

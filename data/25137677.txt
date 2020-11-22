@@ -1,1 +1,1 @@
-Item(by='megous', descendants=None, kids=None, score=None, time=1605712726, title=None, item_type='comment', url=None, parent=25134611, text='Buy a hub. Instead of 3 USB, I&#x27;d like USB 3. :D')
+Item(by='megous', descendants=None, kids=[25176530], score=None, time=1605712726, title=None, item_type='comment', url=None, parent=25134611, text='Buy a hub. Instead of 3 USB, I&#x27;d like USB 3. :D')

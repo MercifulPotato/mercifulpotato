@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=None, score=None, time=1606032997, title=None, item_type='comment', url=None, parent=25175256, text='&gt; the actual technical term is metaclass<p>Hard disagree. metaclass normally is the class of a class (aka `Class` in ruby), and is used to work manipulate classes.<p>In Ruby, a metaclass is instead an implicit per-object class.')

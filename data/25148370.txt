@@ -1,1 +1,1 @@
-Item(by='matt_d', descendants=7, kids=[25173542, 25174878, 25173408, 25173262], score=48, time=1605784617, title='Untangling Mechanized Proofs', item_type='story', url='https://plv.csail.mit.edu/blog/alectryon.html', parent=None, text=None)
+Item(by='matt_d', descendants=8, kids=[25173542, 25173408, 25173262, 25174878], score=52, time=1605784617, title='Untangling Mechanized Proofs', item_type='story', url='https://plv.csail.mit.edu/blog/alectryon.html', parent=None, text=None)

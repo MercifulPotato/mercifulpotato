@@ -1,0 +1,1 @@
+Item(by='shock', descendants=None, kids=None, score=None, time=1606039683, title=None, item_type='comment', url=None, parent=25175960, text='JOOQ&#x27;s fluent API gives you safety since it is introspected from the actual DB structure. Invalid code does not compile, instead of blowing up in production at runtime as it would in the case of the SQL string.')

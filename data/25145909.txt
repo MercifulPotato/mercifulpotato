@@ -1,1 +1,1 @@
-Item(by='11thEarlOfMar', descendants=None, kids=None, score=None, time=1605756701, title=None, item_type='comment', url=None, parent=25142405, text='I&#x27;m thinking about taking a sabbatical next year, 15 countries in 7 months. How well does Librem travel?')
+Item(by='11thEarlOfMar', descendants=None, kids=[25175891], score=None, time=1605756701, title=None, item_type='comment', url=None, parent=25142405, text='I&#x27;m thinking about taking a sabbatical next year, 15 countries in 7 months. How well does Librem travel?')

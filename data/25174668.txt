@@ -1,1 +1,1 @@
-Item(by='artificialLimbs', descendants=None, kids=None, score=None, time=1606015163, title=None, item_type='comment', url=None, parent=25173868, text='This is intriguing.\nIs there a book or resource you&#x27;d recommend that I could use to learn more?')
+Item(by='artificialLimbs', descendants=None, kids=[25176757], score=None, time=1606015163, title=None, item_type='comment', url=None, parent=25173868, text='This is intriguing.\nIs there a book or resource you&#x27;d recommend that I could use to learn more?')

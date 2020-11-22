@@ -1,1 +1,1 @@
-Item(by='zests', descendants=None, kids=None, score=None, time=1606011213, title=None, item_type='comment', url=None, parent=25174067, text='I like using web on mobile, I just want to use the desktop website though. No apps, no mobile version. Just give me the website.')
+Item(by='zests', descendants=None, kids=[25176472], score=None, time=1606011213, title=None, item_type='comment', url=None, parent=25174067, text='I like using web on mobile, I just want to use the desktop website though. No apps, no mobile version. Just give me the website.')

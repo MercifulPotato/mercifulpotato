@@ -1,0 +1,1 @@
+Item(by='ivan_gammel', descendants=None, kids=None, score=None, time=1606032638, title=None, item_type='comment', url=None, parent=25175156, text='1. at least 20 years<p>2. ORMs work just fine in lots of applications. There’s no real need to replace them.<p>3. JOOQ does not remove enough boilerplate and it’s not 100x more maintainable.')

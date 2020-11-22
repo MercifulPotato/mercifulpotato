@@ -1,0 +1,1 @@
+Item(by='cutler', descendants=None, kids=None, score=None, time=1606054221, title=None, item_type='comment', url=None, parent=25175666, text='PHP is fast but not as fast as Node. However, once you introduce something like Laravel into the mix performance tanks leaving it slower than Django and Rails according to Techempower benchmarks.')

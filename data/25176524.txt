@@ -1,0 +1,1 @@
+Item(by='modinfo', descendants=0, kids=None, score=2, time=1606042817, title='A fullstack but simple mail server (SMTP, IMAP, Antispam, Antivirus..) in Docker', item_type='story', url='https://github.com/tomav/docker-mailserver', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='hallway_monitor', descendants=None, kids=None, score=None, time=1606022904, title=None, item_type='comment', url=None, parent=25173497, text='I&#x27;ll keep my car thanks')
+Item(by='hallway_monitor', descendants=None, kids=[25177261, 25176707], score=None, time=1606022904, title=None, item_type='comment', url=None, parent=25173497, text='I&#x27;ll keep my car thanks')

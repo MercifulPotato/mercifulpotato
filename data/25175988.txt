@@ -1,1 +1,1 @@
-Item(by='chrisseaton', descendants=None, kids=None, score=None, time=1606034892, title=None, item_type='comment', url=None, parent=25174211, text='She doesn’t come from a generation that published online.')
+Item(by='chrisseaton', descendants=None, kids=[25176592], score=None, time=1606034892, title=None, item_type='comment', url=None, parent=25174211, text='She doesn’t come from a generation that published online.')

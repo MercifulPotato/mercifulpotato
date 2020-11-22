@@ -1,1 +1,1 @@
-Item(by='RedShift1', descendants=None, kids=None, score=None, time=1606017789, title=None, item_type='comment', url=None, parent=25172372, text='JWT is not deprecated at all, where did you get that from?')
+Item(by='RedShift1', descendants=None, kids=[25175953], score=None, time=1606017789, title=None, item_type='comment', url=None, parent=25172372, text='JWT is not deprecated at all, where did you get that from?')

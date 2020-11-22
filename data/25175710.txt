@@ -1,1 +1,1 @@
-Item(by='rendall', descendants=None, kids=None, score=None, time=1606030338, title=None, item_type='comment', url=None, parent=25175703, text='Now it&#x27;s over 6000, so I&#x27;m guessing it&#x27;s because this joke went viral')
+Item(by='rendall', descendants=None, kids=[25177366], score=None, time=1606030338, title=None, item_type='comment', url=None, parent=25175703, text='Now it&#x27;s over 6000, so I&#x27;m guessing it&#x27;s because this joke went viral')
