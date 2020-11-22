@@ -1,0 +1,1 @@
+Item(by='piaste', descendants=None, kids=None, score=None, time=1606026749, title=None, item_type='comment', url=None, parent=25174603, text='Anecdotally, I have a valid reverse DNS on my home ISP-provided static IP, and when I tried setting up a mail server I got blacklisted on the spot.<p>(I eventually went with a Tutanota account, fwiw)')

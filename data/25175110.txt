@@ -1,0 +1,1 @@
+Item(by='dragonwriter', descendants=None, kids=None, score=None, time=1606022055, title=None, item_type='comment', url=None, parent=25173244, text='IIRC, you can, but it&#x27;s  bit elliptical: because IAM access policies can key off tags, you can adopt an IAM role that can only see the desired tags, and list objects.')

@@ -1,1 +1,1 @@
-Item(by='sjg007', descendants=None, kids=None, score=None, time=1606006771, title=None, item_type='comment', url=None, parent=25173791, text='Why do you need a receipt?  Seems like Apple would have all of that information..')
+Item(by='sjg007', descendants=None, kids=[25175175], score=None, time=1606006771, title=None, item_type='comment', url=None, parent=25173791, text='Why do you need a receipt?  Seems like Apple would have all of that information..')

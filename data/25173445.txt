@@ -1,1 +1,1 @@
-Item(by='dschuler', descendants=None, kids=None, score=None, time=1606000283, title=None, item_type='comment', url=None, parent=25172260, text='ICE vehicles aren’t front-heavy like that, it would be terrible for braking performance.')
+Item(by='dschuler', descendants=None, kids=[25174936], score=None, time=1606000283, title=None, item_type='comment', url=None, parent=25172260, text='ICE vehicles aren’t front-heavy like that, it would be terrible for braking performance.')

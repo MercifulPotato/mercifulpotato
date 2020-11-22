@@ -1,1 +1,1 @@
-Item(by='gnarbarian', descendants=None, kids=None, score=None, time=1606013765, title=None, item_type='comment', url=None, parent=25174510, text='Nope. Android has more market share despite apple having the head start.')
+Item(by='gnarbarian', descendants=None, kids=[25174636], score=None, time=1606013765, title=None, item_type='comment', url=None, parent=25174510, text='Nope. Android has more market share despite apple having the head start.')

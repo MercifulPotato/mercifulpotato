@@ -1,0 +1,1 @@
+Item(by='ryanmarsh', descendants=None, kids=[25175098], score=None, time=1606015788, title=None, item_type='comment', url=None, parent=25173526, text='Hi, my use case for EFS Lambda is burts of small writes. Could you add a perf mode that favors bursts of small writes? We did some perf tests and just couldn’t make it fast enough.')

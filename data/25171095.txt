@@ -1,1 +1,1 @@
-Item(by='stargrave', descendants=0, kids=None, score=1, time=1605979791, title='Show HN: Goredo – redo implementation on pure Go', item_type='story', url='http://www.goredo.cypherpunks.ru/', parent=None, text=None)
+Item(by='stargrave', descendants=1, kids=[25175670], score=2, time=1605979791, title='Show HN: Goredo – redo implementation on pure Go', item_type='story', url='http://www.goredo.cypherpunks.ru/', parent=None, text=None)

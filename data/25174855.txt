@@ -1,0 +1,1 @@
+Item(by='rsync', descendants=None, kids=[25174945], score=None, time=1606018105, title=None, item_type='comment', url=None, parent=25173718, text='Don&#x27;t give up too easily on (something like cron+rsync).<p>Things like cron+rsync fail in boring ways.<p>Fancy things fail in <i>fascinating ways</i>.')

@@ -1,1 +1,1 @@
-Item(by='thomastjeffery', descendants=None, kids=None, score=None, time=1605982148, title=None, item_type='comment', url=None, parent=25171067, text='Doing one doesn&#x27;t accomplish the other.<p>So again I ask, why does the order matter?')
+Item(by='thomastjeffery', descendants=None, kids=[25175658], score=None, time=1605982148, title=None, item_type='comment', url=None, parent=25171067, text='Doing one doesn&#x27;t accomplish the other.<p>So again I ask, why does the order matter?')

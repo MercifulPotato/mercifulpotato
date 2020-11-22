@@ -1,0 +1,1 @@
+Item(by='hedora', descendants=None, kids=[25174822], score=None, time=1606015099, title=None, item_type='comment', url=None, parent=25174615, text='Arm standardized on dtb’s.  It’s a static file that describes all the information ACPI lets you probe dynamically at boot.<p>Edit: and also uboot, which bootstraps the kernel, and hands it a dtb.')

@@ -1,1 +1,1 @@
-Item(by='danilocesar', descendants=None, kids=None, score=None, time=1606013996, title=None, item_type='comment', url=None, parent=25174510, text='Are they? Last time I&#x27;ve heard Android still runs in the vast majority of phones, worldwide.')
+Item(by='danilocesar', descendants=None, kids=[25174705, 25174760], score=None, time=1606013996, title=None, item_type='comment', url=None, parent=25174510, text='Are they? Last time I&#x27;ve heard Android still runs in the vast majority of phones, worldwide.')

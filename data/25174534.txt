@@ -1,1 +1,1 @@
-Item(by='tertius', descendants=None, kids=None, score=None, time=1606013653, title=None, item_type='comment', url=None, parent=25173474, text='How many car miles per large truck mile is driven?')
+Item(by='tertius', descendants=None, kids=[25175056], score=None, time=1606013653, title=None, item_type='comment', url=None, parent=25173474, text='How many car miles per large truck mile is driven?')

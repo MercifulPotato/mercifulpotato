@@ -1,1 +1,1 @@
-Item(by='giuliomagnifico', descendants=0, kids=None, score=3, time=1605985917, title="Why Aren't Covid-19 Contact Tracing Apps Working?", item_type='story', url='https://time.com/5905772/covid-19-contact-tracing-apps/', parent=None, text=None)
+Item(by='giuliomagnifico', descendants=2, kids=[25174880, 25174984], score=4, time=1605985917, title="Why Aren't Covid-19 Contact Tracing Apps Working?", item_type='story', url='https://time.com/5905772/covid-19-contact-tracing-apps/', parent=None, text=None)
