@@ -1,1 +1,1 @@
-Item(by='gchinis', descendants=0, kids=None, score=1, time=1606040309, title='Specifying a simple serverless system with TLA+', item_type='story', url='https://blog.gchinis.com/posts/serverless-specification-with-tla/', parent=None, text=None)
+Item(by='gchinis', descendants=0, kids=None, score=3, time=1606040309, title='Specifying a simple serverless system with TLA+', item_type='story', url='https://blog.gchinis.com/posts/serverless-specification-with-tla/', parent=None, text=None)

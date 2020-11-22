@@ -1,1 +1,1 @@
-Item(by='pkorzeniewski', descendants=None, kids=None, score=None, time=1606056773, title=None, item_type='comment', url=None, parent=25177471, text='There&#x27;s a project called DOjS [1] that allows you to write 2D&#x2F;3D programs for DOS using JavaScript :-)<p>[1] <a href="https:&#x2F;&#x2F;github.com&#x2F;SuperIlu&#x2F;DOjS" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;SuperIlu&#x2F;DOjS</a>')
+Item(by=None, descendants=None, kids=None, score=None, time=1606056773, title=None, item_type='comment', url=None, parent=25177471, text=None)

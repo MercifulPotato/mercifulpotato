@@ -1,0 +1,1 @@
+Item(by='foxcpp', descendants=None, kids=[25178264], score=None, time=1606057209, title=None, item_type='comment', url=None, parent=25177676, text='There is no IP whitelisting feature in maddy. I believe it is possible to do it using whatever off-the-shelf firewall you have on your system. Could you elaborate on the reasons it is not a viable way for you?')

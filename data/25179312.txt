@@ -1,0 +1,1 @@
+Item(by='beagle3', descendants=None, kids=[25179919], score=None, time=1606066997, title=None, item_type='comment', url=None, parent=25178294, text='An overlooked feature of opensnitch is that the packet filter can run on a gateway (say, OpenWRT) and the GUI on any station. That’s something I’m missing with little snitch.')

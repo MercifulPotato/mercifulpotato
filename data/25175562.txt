@@ -1,1 +1,1 @@
-Item(by='geomark', descendants=None, kids=None, score=None, time=1606028438, title=None, item_type='comment', url=None, parent=25175489, text='Tangential question: How long does it take exposure to sunlight to affect serum levels?')
+Item(by='geomark', descendants=None, kids=[25179559], score=None, time=1606028438, title=None, item_type='comment', url=None, parent=25175489, text='Tangential question: How long does it take exposure to sunlight to affect serum levels?')

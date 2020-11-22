@@ -1,0 +1,1 @@
+Item(by='daviesliu', descendants=None, kids=None, score=None, time=1606063084, title=None, item_type='comment', url=None, parent=25174351, text='JuiceFS supports GCS and can be used in GCP, we have customers use it for data scientists. JuiceFS is free if you don&#x27;t have data more than 1TB.<p>Discloser: Founder of JuiceFS here')

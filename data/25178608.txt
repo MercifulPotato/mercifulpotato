@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=[25178765], score=None, time=1606061692, title=None, item_type='comment', url=None, parent=25178563, text='C++ supports C features to the extent that they don&#x27;t overlap with C++ ones.<p>The compatibility with the C library is up to C11 for example.')

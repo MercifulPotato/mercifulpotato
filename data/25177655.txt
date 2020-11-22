@@ -1,1 +1,1 @@
-Item(by='adregan', descendants=None, kids=None, score=None, time=1606055070, title=None, item_type='comment', url=None, parent=25177492, text='It’s also not compliant in the countries that require the cookie banner.')
+Item(by='adregan', descendants=None, kids=[25179148], score=None, time=1606055070, title=None, item_type='comment', url=None, parent=25177492, text='It’s also not compliant in the countries that require the cookie banner.')

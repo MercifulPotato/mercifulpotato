@@ -1,0 +1,1 @@
+Item(by='taf2', descendants=None, kids=None, score=None, time=1606076562, title=None, item_type='comment', url=None, parent=25180594, text='Just time.  I only just started learning how to use Arduino this past summer and discovered I could platformio with a Makefile this fall - it’s been pretty cool so far.  I will probably spend sometime later learning Esp-idf next')

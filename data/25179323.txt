@@ -1,0 +1,1 @@
+Item(by='xdanger', descendants=None, kids=None, score=None, time=1606067055, title=None, item_type='comment', url=None, parent=25173406, text='Biggest difference I think is that Hasura doesn&#x27;t use RLS for security. It has it&#x27;s own privileges&#x2F;roles implementation. Postgraphile kinda works in postgresql, hasura works with postgresql.')

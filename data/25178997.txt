@@ -1,0 +1,1 @@
+Item(by='nsajko', descendants=None, kids=[25179851, 25180726], score=None, time=1606064742, title=None, item_type='comment', url=None, parent=25178848, text='&gt; NULL is not guaranteed to be the stored as zeros<p>Is that a real issue, though?<p>&gt; padding is going to make your life annoying<p>Just memset?')

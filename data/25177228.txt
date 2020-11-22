@@ -1,1 +1,1 @@
-Item(by='derwiki', descendants=None, kids=None, score=None, time=1606051213, title=None, item_type='comment', url=None, parent=25176940, text='Amazing tip! Well worth the two minute setup to forward to my new Protonmail address')
+Item(by='derwiki', descendants=None, kids=[25177570], score=None, time=1606051213, title=None, item_type='comment', url=None, parent=25176940, text='Amazing tip! Well worth the two minute setup to forward to my new Protonmail address')

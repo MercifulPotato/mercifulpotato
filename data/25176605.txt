@@ -1,1 +1,1 @@
-Item(by='URfejk', descendants=0, kids=None, score=2, time=1606044064, title="Living in Syndication – generate RSS feeds for sites that don't have them", item_type='story', url='https://gitlab.com/ericlathrop/living_in_syndication', parent=None, text=None)
+Item(by='URfejk', descendants=6, kids=[25179989, 25178117, 25178133, 25178363], score=22, time=1606044064, title="Living in Syndication – Generate RSS feeds for sites that don't have them", item_type='story', url='https://gitlab.com/ericlathrop/living_in_syndication', parent=None, text=None)

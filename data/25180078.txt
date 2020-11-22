@@ -1,0 +1,1 @@
+Item(by='bitwize', descendants=None, kids=None, score=None, time=1606072136, title=None, item_type='comment', url=None, parent=25179951, text='C compiles in a flash on today&#x27;s hardware. It&#x27;s only when you have a BIG C codebase (the kernel counts as big), or a medium-sized C++ codebase, that things slow down.')

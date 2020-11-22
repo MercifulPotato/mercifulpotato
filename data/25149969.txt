@@ -1,1 +1,1 @@
-Item(by='pietroalbini', descendants=116, kids=[25150371, 25150411, 25150904, 25150552, 25151453, 25152383, 25153184, 25158100, 25152372], score=405, time=1605796907, title='Rust 1.48', item_type='story', url='https://blog.rust-lang.org/2020/11/19/Rust-1.48.html', parent=None, text=None)
+Item(by='pietroalbini', descendants=116, kids=[25150371, 25150411, 25150904, 25150552, 25151453, 25152383, 25153184, 25158100, 25152372], score=407, time=1605796907, title='Rust 1.48', item_type='story', url='https://blog.rust-lang.org/2020/11/19/Rust-1.48.html', parent=None, text=None)

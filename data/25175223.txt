@@ -1,1 +1,1 @@
-Item(by='kodah', descendants=None, kids=None, score=None, time=1606023729, title=None, item_type='comment', url=None, parent=25173767, text='This does seem problematic. I guess we&#x27;re in that state where we go from one end of the spectrum to the other.')
+Item(by='kodah', descendants=None, kids=[25179564], score=None, time=1606023729, title=None, item_type='comment', url=None, parent=25173767, text='This does seem problematic. I guess we&#x27;re in that state where we go from one end of the spectrum to the other.')

@@ -1,1 +1,1 @@
-Item(by='imglorp', descendants=None, kids=None, score=None, time=1606048745, title=None, item_type='comment', url=None, parent=25176923, text='Symmetric encryption would be good too.')
+Item(by='imglorp', descendants=None, kids=[25177694], score=None, time=1606048745, title=None, item_type='comment', url=None, parent=25176923, text='Symmetric encryption would be good too.')

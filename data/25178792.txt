@@ -1,0 +1,1 @@
+Item(by='ja27', descendants=None, kids=None, score=None, time=1606063358, title=None, item_type='comment', url=None, parent=25176531, text='Quick-n-dirty log level:<p><pre><code>    debug &amp;&amp; printf(&quot;counter: %d\\n&quot;, i);</code></pre>')

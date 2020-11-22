@@ -1,1 +1,1 @@
-Item(by='philliphaydon', descendants=None, kids=None, score=None, time=1605795149, title=None, item_type='comment', url=None, parent=25149545, text='M1 mini doesn’t have a battery. I assume you mean the M1 MacBook?')
+Item(by='philliphaydon', descendants=None, kids=[25179302], score=None, time=1605795149, title=None, item_type='comment', url=None, parent=25149545, text='M1 mini doesn’t have a battery. I assume you mean the M1 MacBook?')

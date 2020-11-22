@@ -1,1 +1,1 @@
-Item(by='CapitalistCartr', descendants=0, kids=None, score=2, time=1606052252, title='When Science Was the Best Show in America', item_type='story', url='http://m.nautil.us/issue/93/forerunners/when-science-was-the-best-show-in-america', parent=None, text=None)
+Item(by='CapitalistCartr', descendants=95, kids=[25179946, 25179123, 25178521, 25178015, 25178896, 25179122], score=93, time=1606052252, title='When science was the best show in America', item_type='story', url='http://m.nautil.us/issue/93/forerunners/when-science-was-the-best-show-in-america', parent=None, text=None)

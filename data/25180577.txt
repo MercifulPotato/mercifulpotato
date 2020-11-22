@@ -1,0 +1,1 @@
+Item(by='londons_explore', descendants=None, kids=None, score=None, time=1606075507, title=None, item_type='comment', url=None, parent=25179096, text='I was about to ask if it was legal to dereference a null pointer and then take the address of it...   I presume it is not, but I&#x27;m surprised compilers don&#x27;t complain at compilation time.')

@@ -1,1 +1,1 @@
-Item(by='neom', descendants=0, kids=None, score=1, time=1606051581, title='Autonomous Electric Tractor – Future of Farming [video]', item_type='story', url='https://www.youtube.com/watch?v=gMaQq_vRaa8', parent=None, text=None)
+Item(by='neom', descendants=1, kids=[25177637], score=1, time=1606051581, title='Autonomous Electric Tractor – Future of Farming [video]', item_type='story', url='https://www.youtube.com/watch?v=gMaQq_vRaa8', parent=None, text=None)

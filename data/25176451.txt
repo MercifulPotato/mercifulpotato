@@ -1,1 +1,1 @@
-Item(by='elephant_burger', descendants=2, kids=[25176574, 25176452], score=2, time=1606041896, title='YouTube is over 15 years old. How much is it worth today?', item_type='story', url='https://mannhowie.com/youtube-valuation', parent=None, text=None)
+Item(by='elephant_burger', descendants=49, kids=[25179081, 25178140, 25177678, 25179356, 25176574, 25178580, 25177675, 25177706, 25176452, 25178401], score=40, time=1606041896, title='How much is YouTube worth today?', item_type='story', url='https://mannhowie.com/youtube-valuation', parent=None, text=None)

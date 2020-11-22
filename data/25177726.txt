@@ -1,0 +1,1 @@
+Item(by='amarshall', descendants=None, kids=None, score=None, time=1606055670, title=None, item_type='comment', url=None, parent=25174330, text='Which is a much nicer alternative to `alias_method_chain` and similar for monkey-patching or enhancing an existing method in a class as it makes more clear the existence and origin of the patch.')

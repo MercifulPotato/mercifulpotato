@@ -1,0 +1,1 @@
+Item(by='sys_64738', descendants=None, kids=[25179176, 25178185, 25178901], score=None, time=1606058579, title=None, item_type='comment', url=None, parent=25176531, text='struct foo {\n  int a;\n  char star b;\n}<p>struct foo star p = malloc(sizeof (struct foo) + 100);\np-&gt;b[50] = &#x27;x&#x27;;')

@@ -1,1 +1,1 @@
-Item(by='thinkingemote', descendants=None, kids=None, score=None, time=1606052171, title=None, item_type='comment', url=None, parent=25176544, text='Interestingly, these lyrics are now in the public domain. They cannot be copyrighted as computers and algorithms cannot hold copyright.')
+Item(by='thinkingemote', descendants=None, kids=[25178865], score=None, time=1606052171, title=None, item_type='comment', url=None, parent=25176544, text='Interestingly, these lyrics are now in the public domain. They cannot be copyrighted as computers and algorithms cannot hold copyright.')

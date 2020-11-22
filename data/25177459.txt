@@ -1,1 +1,1 @@
-Item(by='boredatworkme', descendants=None, kids=None, score=None, time=1606053426, title=None, item_type='comment', url=None, parent=25174753, text='My firm pays a contractor for supporting our mainframe systems. His company charges us ~$900 a day for his services.')
+Item(by='boredatworkme', descendants=None, kids=[25178561], score=None, time=1606053426, title=None, item_type='comment', url=None, parent=25174753, text='My firm pays a contractor for supporting our mainframe systems. His company charges us ~$900 a day for his services.')

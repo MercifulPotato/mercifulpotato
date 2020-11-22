@@ -1,0 +1,1 @@
+Item(by='monocasa', descendants=None, kids=None, score=None, time=1606075836, title=None, item_type='comment', url=None, parent=25180076, text='You just guard those sequences by disabling and reenabling interrupts around them.  It&#x27;s a very common pattern in systems not designed for SMP.')

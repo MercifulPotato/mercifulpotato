@@ -1,1 +1,1 @@
-Item(by='prokoudine', descendants=None, kids=None, score=None, time=1606035353, title=None, item_type='comment', url=None, parent=25175569, text='Your experience from 10-15 years ago is kinda irrelevant today :)<p>No multiple windows, darktable or RawTherapee rather than UFRaw etc.')
+Item(by='prokoudine', descendants=None, kids=[25178729], score=None, time=1606035353, title=None, item_type='comment', url=None, parent=25175569, text='Your experience from 10-15 years ago is kinda irrelevant today :)<p>No multiple windows, darktable or RawTherapee rather than UFRaw etc.')

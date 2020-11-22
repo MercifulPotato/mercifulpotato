@@ -1,1 +1,1 @@
-Item(by='blindm', descendants=None, kids=None, score=None, time=1606053017, title=None, item_type='comment', url=None, parent=25176151, text='I just assume my Gmail account will be locked at some stage, so I don&#x27;t attach it to anything important. It&#x27;s convenient to give out on business cards as it&#x27;s a brand people recognize and can also remember somebusiness@gmail.com sounds better than somebusiness@customdomain.com')
+Item(by=None, descendants=None, kids=None, score=None, time=1606053017, title=None, item_type='comment', url=None, parent=25176151, text=None)

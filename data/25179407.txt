@@ -1,0 +1,1 @@
+Item(by='siraben', descendants=None, kids=[25180366], score=None, time=1606067647, title=None, item_type='comment', url=None, parent=25179128, text='IMO implementing hygienic macros properly is one of the hardest tasks in programming languages, especially since variable capture can cause subtle bugs.')

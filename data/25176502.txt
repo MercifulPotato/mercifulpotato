@@ -1,1 +1,1 @@
-Item(by='blopeur', descendants=0, kids=None, score=4, time=1606042543, title='Survey of System Architectures and Techniques for FPGA Virtualization', item_type='story', url='https://arxiv.org/abs/2011.09073', parent=None, text=None)
+Item(by='blopeur', descendants=1, kids=[25179209], score=21, time=1606042543, title='A Survey of System Architectures and Techniques for FPGA Virtualization', item_type='story', url='https://arxiv.org/abs/2011.09073', parent=None, text=None)

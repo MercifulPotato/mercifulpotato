@@ -1,0 +1,1 @@
+Item(by='srgpqt', descendants=None, kids=[25179096], score=None, time=1606061597, title=None, item_type='comment', url=None, parent=25178503, text='No need to define offsetof, it’s part of &lt;stddef.h&gt;<p>Still interesting to see the trick behind it tho.')
