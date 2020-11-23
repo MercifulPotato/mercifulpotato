@@ -1,0 +1,1 @@
+Item(by='benibela', descendants=None, kids=None, score=None, time=1606155634, title=None, item_type='comment', url=None, parent=25184446, text='FreePascal works well, too, once it is installed<p>To compile to linux it needs to have a linker installed. For windows it has an internal linker, so probably does not even need that')

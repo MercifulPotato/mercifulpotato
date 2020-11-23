@@ -1,1 +1,1 @@
-Item(by='Fnoord', descendants=None, kids=None, score=None, time=1606083967, title=None, item_type='comment', url=None, parent=25179951, text='One could just cross-compile remotely?')
+Item(by='Fnoord', descendants=None, kids=[25188435], score=None, time=1606083967, title=None, item_type='comment', url=None, parent=25179951, text='One could just cross-compile remotely?')

@@ -1,1 +1,1 @@
-Item(by='gnatman', descendants=None, kids=None, score=None, time=1605984008, title=None, item_type='comment', url=None, parent=25169967, text='Any results you can share?')
+Item(by='gnatman', descendants=None, kids=[25188511], score=None, time=1605984008, title=None, item_type='comment', url=None, parent=25169967, text='Any results you can share?')

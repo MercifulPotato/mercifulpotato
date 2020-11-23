@@ -1,0 +1,1 @@
+Item(by='fleetfox', descendants=None, kids=[25188239, 25188126, 25188177], score=None, time=1606146520, title=None, item_type='comment', url=None, parent=25187507, text='Nullable TextFields are not anti-pattern necessary. I also don&#x27;t see anything wrong with explicit default arguments.')

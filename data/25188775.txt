@@ -1,0 +1,1 @@
+Item(by='cwmma', descendants=None, kids=None, score=None, time=1606150626, title=None, item_type='comment', url=None, parent=25186913, text='I don&#x27;t think they are, I think they are using jszip in some sort of client side context and bundling it up with browserify or webpack which is bringing in some dependencies that are based off of node (like readable-streams)')

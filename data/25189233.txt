@@ -1,0 +1,1 @@
+Item(by='lacker', descendants=None, kids=None, score=None, time=1606152753, title=None, item_type='comment', url=None, parent=25162906, text='No, AWS offers DocumentDB which is &quot;MongoDB-compatible&quot;. In practice, it&#x27;s incompatible enough that many people use MongoDB Atlas, which is the MongoDB-provided full managed database service for MongoDB.')

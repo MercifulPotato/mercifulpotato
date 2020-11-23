@@ -1,0 +1,1 @@
+Item(by='milkey_mouse', descendants=None, kids=[25189888], score=None, time=1606155637, title=None, item_type='comment', url=None, parent=25189699, text='You&#x27;re correct, but I recall a Tor dev saying at one point that HTTPS for .onion wasn&#x27;t completely useless, I think in that more secure settings (CSP, etc.) apply to pages loaded with HTTPS.')

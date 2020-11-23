@@ -1,1 +1,1 @@
-Item(by='macdust', descendants=None, kids=None, score=None, time=1606136357, title=None, item_type='comment', url=None, parent=25185428, text='My reply would be deemed conspiracy theory, though it would contain no theory, only testimony.')
+Item(by='macdust', descendants=None, kids=[25188448], score=None, time=1606136357, title=None, item_type='comment', url=None, parent=25185428, text='My reply would be deemed conspiracy theory, though it would contain no theory, only testimony.')

@@ -1,0 +1,1 @@
+Item(by='xmodem', descendants=None, kids=None, score=None, time=1606148333, title=None, item_type='comment', url=None, parent=25187806, text='My take would be that once you need another environment than staging+prod, that&#x27;s the time to move to at the very least move to containers, and probably think very hard about either a hosted Kubernetes or something like Fargate.')

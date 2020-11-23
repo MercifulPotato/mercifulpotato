@@ -1,1 +1,1 @@
-Item(by='inopinatus', descendants=None, kids=None, score=None, time=1606075218, title=None, item_type='comment', url=None, parent=25179200, text='Hey, some of us old-timers fondly remember the natural warmth, presence, and low syscall latency of operating systems booted from vinyl.')
+Item(by='inopinatus', descendants=None, kids=[25186699], score=None, time=1606075218, title=None, item_type='comment', url=None, parent=25179200, text='Hey, some of us old-timers fondly remember the natural warmth, presence, and low syscall latency of operating systems booted from vinyl.')

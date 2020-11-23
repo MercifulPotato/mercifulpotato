@@ -1,1 +1,1 @@
-Item(by='kevsim', descendants=0, kids=None, score=1, time=1606137928, title='Scrum Guide', item_type='story', url='https://www.scrumguides.org/scrum-guide.html', parent=None, text=None)
+Item(by='kevsim', descendants=2, kids=[25186641, 25186512], score=3, time=1606137928, title='Scrum Guide', item_type='story', url='https://www.scrumguides.org/scrum-guide.html', parent=None, text=None)

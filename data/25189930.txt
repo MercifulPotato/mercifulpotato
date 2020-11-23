@@ -1,0 +1,1 @@
+Item(by='rusk', descendants=None, kids=None, score=None, time=1606156377, title=None, item_type='comment', url=None, parent=25188932, text='The len is being passed to malloc which I recall takes number of bytes, so this explanation seems plausible. I very much doubt memory allocation is <i>”innacurate”</i>, as per the comment ...')

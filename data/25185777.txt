@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=1, time=1606132483, title='Greenhouse gas levels at new high, despite Covid-19 measures', item_type='story', url='https://phys.org/news/2020-11-greenhouse-gas-high-covid-.html', parent=None, text=None)
+Item(by='pseudolus', descendants=0, kids=[25186516, 25187717], score=1, time=1606132483, title='Greenhouse gas levels at new high, despite Covid-19 measures', item_type='story', url='https://phys.org/news/2020-11-greenhouse-gas-high-covid-.html', parent=None, text=None)

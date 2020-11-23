@@ -1,1 +1,1 @@
-Item(by='cdmckay', descendants=None, kids=None, score=None, time=1605955552, title=None, item_type='comment', url=None, parent=25165194, text='But there’s no Messages app for iOS?')
+Item(by='cdmckay', descendants=None, kids=[25188677], score=None, time=1605955552, title=None, item_type='comment', url=None, parent=25165194, text='But there’s no Messages app for iOS?')

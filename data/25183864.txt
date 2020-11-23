@@ -1,1 +1,1 @@
-Item(by='paulie_a', descendants=None, kids=None, score=None, time=1606109276, title=None, item_type='comment', url=None, parent=25183230, text='What didnt work out with nest?')
+Item(by='paulie_a', descendants=None, kids=[25188299], score=None, time=1606109276, title=None, item_type='comment', url=None, parent=25183230, text='What didnt work out with nest?')

@@ -1,0 +1,1 @@
+Item(by='AndrewStephens', descendants=None, kids=[25187429], score=None, time=1606141433, title=None, item_type='comment', url=None, parent=25186507, text='Rosetta does work with JIT&#x27;ed code. I think the way it works is that any code in memory gets the Rosetta magic applied as soon as it is marked executable.')

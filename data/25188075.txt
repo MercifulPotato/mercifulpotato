@@ -1,0 +1,1 @@
+Item(by='beagle3', descendants=None, kids=None, score=None, time=1606147014, title=None, item_type='comment', url=None, parent=25185950, text='But do note the apt-get doesn’t get you far. You now have a compiler that can produce .o, but headers, libraries, borked make files that are unaware of cross compiles etc are still a problem.<p>Not so with Nim.')

@@ -1,1 +1,1 @@
-Item(by='cbozeman', descendants=None, kids=None, score=None, time=1606139804, title=None, item_type='comment', url=None, parent=25186654, text='One year? AMD moves to 5nm in 2021 according to leaked memos.')
+Item(by='cbozeman', descendants=None, kids=[25190039, 25189727, 25187492], score=None, time=1606139804, title=None, item_type='comment', url=None, parent=25186654, text='One year? AMD moves to 5nm in 2021 according to leaked memos.')

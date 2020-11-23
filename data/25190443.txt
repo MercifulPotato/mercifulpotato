@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1606158713, title=None, item_type='comment', url=None, parent=25186968, text='Mono and .NET can do it as long as native code isn&#x27;t used.<p>Mingw can do it provided the desired APIs are known to the toolchain.')

@@ -1,0 +1,1 @@
+Item(by='fatherlinnux', descendants=None, kids=None, score=None, time=1606149266, title=None, item_type='comment', url=None, parent=25168265, text='We&#x27;re working hard on docker-compose support. With the new Podman 2.0 REST API with a Docker compatibility layer, we are close. Not quite there, but definitely strategically on the roadmap.')

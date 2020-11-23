@@ -1,0 +1,1 @@
+Item(by='vsareto', descendants=None, kids=[25190629], score=None, time=1606159170, title=None, item_type='comment', url=None, parent=25190486, text='You don&#x27;t need XSS, that&#x27;s not interesting at all. You can get the admin password from an insecure page, and then there&#x27;s also a page to run commands as root.')

@@ -1,1 +1,1 @@
-Item(by='taejo', descendants=None, kids=None, score=None, time=1606138056, title=None, item_type='comment', url=None, parent=25185617, text='BioNTech is not a German&#x2F;Turkish company. It&#x27;s a German company, two of whose founders are of Turkish descent.')
+Item(by='taejo', descendants=None, kids=[25186938], score=None, time=1606138056, title=None, item_type='comment', url=None, parent=25185617, text='BioNTech is not a German&#x2F;Turkish company. It&#x27;s a German company, two of whose founders are of Turkish descent.')

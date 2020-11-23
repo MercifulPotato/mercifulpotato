@@ -1,1 +1,1 @@
-Item(by='sim_card_map', descendants=None, kids=None, score=None, time=1606134066, title=None, item_type='comment', url=None, parent=25185311, text='Yeah it&#x27;s nice when it&#x27;s an apt install away.<p>Not so nice on Windows or macOS.<p>While Go supports it all out of the box.')
+Item(by='sim_card_map', descendants=None, kids=[25188075], score=None, time=1606134066, title=None, item_type='comment', url=None, parent=25185311, text='Yeah it&#x27;s nice when it&#x27;s an apt install away.<p>Not so nice on Windows or macOS.<p>While Go supports it all out of the box.')

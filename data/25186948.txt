@@ -1,0 +1,1 @@
+Item(by='felixhummel', descendants=None, kids=None, score=None, time=1606141041, title=None, item_type='comment', url=None, parent=25180091, text='For the uninitiated:<p><pre><code>    $ python -c &#x27;from __future__ import braces&#x27;\n      File &quot;&lt;string&gt;&quot;, line 1\n    SyntaxError: not a chance</code></pre>')

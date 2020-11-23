@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1606141651, title=None, item_type='comment', url=None, parent=25186630, text='Rust does have tier 2 support, but it hasn’t made its way to stable yet. This means if you did try in upstream today, it would work.')

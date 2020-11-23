@@ -1,1 +1,1 @@
-Item(by='Cthulhu_', descendants=None, kids=None, score=None, time=1606137295, title=None, item_type='comment', url=None, parent=25185947, text='Weird comparison, SpaceX is not consumer hardware and few people make their living off of their services.')
+Item(by='Cthulhu_', descendants=None, kids=[25187218], score=None, time=1606137295, title=None, item_type='comment', url=None, parent=25185947, text='Weird comparison, SpaceX is not consumer hardware and few people make their living off of their services.')

@@ -1,1 +1,1 @@
-Item(by='lmilcin', descendants=None, kids=None, score=None, time=1606139457, title=None, item_type='comment', url=None, parent=25186126, text='Not here in Poland.<p>Though, it would very logical as a precaution.')
+Item(by='lmilcin', descendants=None, kids=[25186871], score=None, time=1606139457, title=None, item_type='comment', url=None, parent=25186126, text='Not here in Poland.<p>Though, it would very logical as a precaution.')

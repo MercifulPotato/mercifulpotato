@@ -1,0 +1,1 @@
+Item(by='mushishi', descendants=None, kids=None, score=None, time=1606153748, title=None, item_type='comment', url=None, parent=25188327, text='Just a thought when it might be viable: if a subset of that table receives a lot of updates, and it would be helpful to your access patterns if some of it was separated into a different table that was rarely updated but accessed a lot?')

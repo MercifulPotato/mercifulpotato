@@ -1,1 +1,1 @@
-Item(by='sohkamyung', descendants=0, kids=None, score=3, time=1606036352, title='Lessons from the Juniper Dual EC Incident (2018)', item_type='story', url='https://cacm.acm.org/magazines/2018/11/232227-where-did-i-leave-my-keys/fulltext', parent=None, text=None)
+Item(by='sohkamyung', descendants=2, kids=[25187512, 25187560], score=14, time=1606036352, title='Lessons from the Juniper Dual EC Incident (2018)', item_type='story', url='https://cacm.acm.org/magazines/2018/11/232227-where-did-i-leave-my-keys/fulltext', parent=None, text=None)

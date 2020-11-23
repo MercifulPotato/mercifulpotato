@@ -1,0 +1,1 @@
+Item(by='Tagbert', descendants=None, kids=None, score=None, time=1606145215, title=None, item_type='comment', url=None, parent=25185862, text='Rosetta 2 is not emulating an Intel CPU. It recompiles the binary to ARM when you run the app for the first time. It also does on-the-fly compilation of JITed code, too.<p>Actual emulation would be much slower.')
