@@ -1,0 +1,1 @@
+Item(by='deaddodo', descendants=None, kids=[25182721], score=None, time=1606094512, title=None, item_type='comment', url=None, parent=25182496, text='Semi-experienced C user here, I believe the anonymous block is perfectly adequate here. No idea why they are wrapping it in a single instance do loop, unless they’re unaware of block scoping or I’m unaware of some UB here.')

@@ -1,1 +1,1 @@
-Item(by='flatiron', descendants=None, kids=None, score=None, time=1606071527, title=None, item_type='comment', url=None, parent=25179899, text='My daughters school gives her a chrome book so she is growing up using Linux. Her fire tablet also uses linux.')
+Item(by='flatiron', descendants=None, kids=[25181686], score=None, time=1606071527, title=None, item_type='comment', url=None, parent=25179899, text='My daughters school gives her a chrome book so she is growing up using Linux. Her fire tablet also uses linux.')

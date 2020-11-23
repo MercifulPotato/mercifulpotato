@@ -1,0 +1,1 @@
+Item(by='a1369209993', descendants=None, kids=None, score=None, time=1606099518, title=None, item_type='comment', url=None, parent=25178756, text='Appropos of this, the idiomatic (!= obvious, sadly) way to iterate backwards over a array:<p><pre><code>  for(size_t i=N; i-- &gt; 0 ;) do_stuff_with(&amp;a[i]);</code></pre>')

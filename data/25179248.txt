@@ -1,1 +1,1 @@
-Item(by='wikus', descendants=0, kids=None, score=2, time=1606066527, title='Opinion: On Google’s ReCAPTCHA Privacy Nightmare', item_type='story', url='https://hfet.org/google-recaptcha-privacy-nightmare/', parent=None, text=None)
+Item(by='wikus', descendants=7, kids=[25182304, 25180979, 25182379, 25181200, 25182073, 25182827], score=16, time=1606066527, title='Opinion: On Google’s ReCAPTCHA Privacy Nightmare', item_type='story', url='https://hfet.org/google-recaptcha-privacy-nightmare/', parent=None, text=None)

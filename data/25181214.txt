@@ -1,0 +1,1 @@
+Item(by='celsoazevedo', descendants=None, kids=None, score=None, time=1606080022, title=None, item_type='comment', url=None, parent=25181158, text='A DNS based blocker like pi-hole, nextdns, etc, can&#x27;t block YouTube ads. Or at least it&#x27;s very hard to it without breaking something as YouTube often uses the same subdomain(s) to load ads and videos.')

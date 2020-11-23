@@ -1,0 +1,1 @@
+Item(by='hxtk', descendants=None, kids=None, score=None, time=1606086880, title=None, item_type='comment', url=None, parent=25181948, text='The underlying netfilter has not been deprecated; the userspace application for managing it is just changing from the iptables (and ip6tables, ebtables, arptables, etc.) to nftables.')

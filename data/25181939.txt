@@ -1,0 +1,1 @@
+Item(by='linux2647', descendants=None, kids=None, score=None, time=1606086030, title=None, item_type='comment', url=None, parent=25175911, text='In college, my database professor once told us about an object-oriented database that handled SIGSEGVs and created objects on the fly that were supposed to exist but didn’t (exact details are fuzzy)')

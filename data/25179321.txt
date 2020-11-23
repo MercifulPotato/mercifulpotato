@@ -1,1 +1,1 @@
-Item(by='betimd', descendants=0, kids=None, score=4, time=1606067048, title='Old but Gold: Kasparov on AI, AlphaZero and DeepBlue', item_type='story', url='https://www.youtube.com/watch?v=hbtuHtrViPo', parent=None, text=None)
+Item(by='betimd', descendants=1, kids=[25181696], score=4, time=1606067048, title='Old but Gold: Kasparov on AI, AlphaZero and DeepBlue', item_type='story', url='https://www.youtube.com/watch?v=hbtuHtrViPo', parent=None, text=None)

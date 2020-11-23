@@ -1,1 +1,1 @@
-Item(by='ZitchDog', descendants=None, kids=None, score=None, time=1606071929, title=None, item_type='comment', url=None, parent=25179925, text='It will probably have large error but still be 1000 times better than the intuition of a hungry human.')
+Item(by='ZitchDog', descendants=None, kids=[25181810], score=None, time=1606071929, title=None, item_type='comment', url=None, parent=25179925, text='It will probably have large error but still be 1000 times better than the intuition of a hungry human.')

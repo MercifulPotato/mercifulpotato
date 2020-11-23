@@ -1,1 +1,1 @@
-Item(by='feross', descendants=0, kids=None, score=2, time=1606035859, title='Aspects of Reasonableness', item_type='story', url='https://meaningness.com/eggplant/reasonableness-aspects', parent=None, text=None)
+Item(by='feross', descendants=1, kids=[25181089], score=24, time=1606035859, title='Aspects of Reasonableness', item_type='story', url='https://meaningness.com/eggplant/reasonableness-aspects', parent=None, text=None)

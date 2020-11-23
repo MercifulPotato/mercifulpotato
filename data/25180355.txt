@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=2, time=1606073976, title='A Month of Terraform', item_type='story', url='https://jeremywsherman.com/blog/2020/11/21/a-month-of-terraform/', parent=None, text=None)
+Item(by='ingve', descendants=35, kids=[25181442, 25182017, 25182192, 25182900, 25182807, 25182390, 25181748, 25182579, 25181440], score=49, time=1606073976, title='A Month of Terraform', item_type='story', url='https://jeremywsherman.com/blog/2020/11/21/a-month-of-terraform/', parent=None, text=None)

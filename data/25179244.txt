@@ -1,1 +1,1 @@
-Item(by='xaduha', descendants=None, kids=None, score=None, time=1606066487, title=None, item_type='comment', url=None, parent=25176911, text='Can someone please release a board with official first class citizen ChromeOS support? ASUS has so many Chromebooks, surely they can do that?')
+Item(by='xaduha', descendants=None, kids=[25182254], score=None, time=1606066487, title=None, item_type='comment', url=None, parent=25176911, text='Can someone please release a board with official first class citizen ChromeOS support? ASUS has so many Chromebooks, surely they can do that?')

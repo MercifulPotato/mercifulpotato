@@ -1,1 +1,1 @@
-Item(by='rscho', descendants=None, kids=None, score=None, time=1605979097, title=None, item_type='comment', url=None, parent=25170953, text='Yes, much to the EU population&#x27;s dismay.')
+Item(by='rscho', descendants=None, kids=[25180223], score=None, time=1605979097, title=None, item_type='comment', url=None, parent=25170953, text='Yes, much to the EU population&#x27;s dismay.')

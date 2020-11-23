@@ -1,0 +1,1 @@
+Item(by='scottlamb', descendants=None, kids=None, score=None, time=1606086422, title=None, item_type='comment', url=None, parent=25181580, text='Neat trick. I suppose you could also write the bytes to a self-pipe, avoiding the race the article mentions between ensuring the bytes are readable and actually reading them.')

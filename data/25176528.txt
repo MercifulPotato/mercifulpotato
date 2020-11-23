@@ -1,1 +1,1 @@
-Item(by='m463', descendants=None, kids=None, score=None, time=1606042857, title=None, item_type='comment', url=None, parent=25174850, text='I wonder if the right to repair laws that are gaining momentum might help fix this.')
+Item(by='m463', descendants=None, kids=[25183018], score=None, time=1606042857, title=None, item_type='comment', url=None, parent=25174850, text='I wonder if the right to repair laws that are gaining momentum might help fix this.')

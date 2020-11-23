@@ -1,0 +1,1 @@
+Item(by='zX41ZdbW', descendants=None, kids=[25181967, 25181691], score=None, time=1606082917, title=None, item_type='comment', url=None, parent=25181561, text='Also you can check it with the `write` syscall (just write a byte pointed by address to &#x2F;dev&#x2F;null). If a pointer is invalid, it will return setting errno to EFAULT.')

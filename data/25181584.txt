@@ -1,0 +1,1 @@
+Item(by='ericbarrett', descendants=None, kids=[25181603], score=None, time=1606082967, title=None, item_type='comment', url=None, parent=25179772, text='You’re assuming the game engine will panic on a bit error loading what’s probably a texture or model mesh. This probably isn’t the case for most games, especially release builds. You might get a console message.')

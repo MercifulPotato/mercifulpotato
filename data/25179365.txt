@@ -1,1 +1,1 @@
-Item(by='dghughes', descendants=None, kids=None, score=None, time=1606067353, title=None, item_type='comment', url=None, parent=25178525, text='&gt; Another nice feature is background audio continues to play when youre out of the app<p>It used to do that free.')
+Item(by='dghughes', descendants=None, kids=[25181093, 25181328], score=None, time=1606067353, title=None, item_type='comment', url=None, parent=25178525, text='&gt; Another nice feature is background audio continues to play when youre out of the app<p>It used to do that free.')

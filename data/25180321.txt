@@ -1,1 +1,1 @@
-Item(by='jb1991', descendants=None, kids=None, score=None, time=1606073765, title=None, item_type='comment', url=None, parent=25179033, text='It is quite <i>uncommon</i> in the Netherlands. I see it on maybe 3% of all restaurant bills.')
+Item(by='jb1991', descendants=None, kids=[25180929], score=None, time=1606073765, title=None, item_type='comment', url=None, parent=25179033, text='It is quite <i>uncommon</i> in the Netherlands. I see it on maybe 3% of all restaurant bills.')

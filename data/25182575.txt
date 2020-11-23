@@ -1,0 +1,1 @@
+Item(by='kevin_thibedeau', descendants=None, kids=None, score=None, time=1606093382, title=None, item_type='comment', url=None, parent=25180440, text='[] syntax in the last struct member is a &quot;flexible array member&quot; not a VLA. The former hasn&#x27;t been deprecated in C11.')

@@ -1,1 +1,1 @@
-Item(by='hackernewslol', descendants=None, kids=None, score=None, time=1606032169, title=None, item_type='comment', url=None, parent=25144659, text='It&#x27;s WP&#x2F;WooCommerce so likely MySQL...')
+Item(by='hackernewslol', descendants=None, kids=[25182637], score=None, time=1606032169, title=None, item_type='comment', url=None, parent=25144659, text='It&#x27;s WP&#x2F;WooCommerce so likely MySQL...')

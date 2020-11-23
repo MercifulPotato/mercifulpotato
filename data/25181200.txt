@@ -1,0 +1,1 @@
+Item(by='endemic', descendants=None, kids=[25181304], score=None, time=1606079867, title=None, item_type='comment', url=None, parent=25179248, text='I switched to hCaptcha on my home-grown blog comments. It was a drop-in replacement — they obviously have an incentive to make switching as easy as possible')

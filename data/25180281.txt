@@ -1,1 +1,1 @@
-Item(by='ksk', descendants=None, kids=None, score=None, time=1606073477, title=None, item_type='comment', url=None, parent=25179640, text='Please propose a solution too!')
+Item(by='ksk', descendants=None, kids=[25182616], score=None, time=1606073477, title=None, item_type='comment', url=None, parent=25179640, text='Please propose a solution too!')

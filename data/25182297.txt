@@ -1,0 +1,1 @@
+Item(by='ChickeNES', descendants=None, kids=[25182406], score=None, time=1606090113, title=None, item_type='comment', url=None, parent=25175911, text='The &quot;fastmem&quot; technique used by some emulators (Dolphin, for one) also uses a SIGSEGV handler to emulate the target machine&#x27;s MMU using the host&#x27;s MMU.')

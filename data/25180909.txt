@@ -1,0 +1,1 @@
+Item(by='cutler', descendants=None, kids=None, score=None, time=1606077980, title=None, item_type='comment', url=None, parent=25180832, text='Compared to React + React DOM at 109k unzipped Blazor&#x27;s runtime at 2MB is a significant hike in download size so unsuitable for older devices and constrained bandwidth networks.')

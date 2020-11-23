@@ -1,0 +1,1 @@
+Item(by='the8472', descendants=None, kids=None, score=None, time=1606079761, title=None, item_type='comment', url=None, parent=25175913, text='Seems to invert RGB values without performing a hue rotation, that leads to colors also being changed, not just the brightness.')

@@ -1,0 +1,1 @@
+Item(by='devenblake', descendants=None, kids=[25182673], score=None, time=1606092623, title=None, item_type='comment', url=None, parent=25179480, text='C n00b here - why the `do {} while(0)`? Couldn&#x27;t you just do something like `#define free(p) { free(p); p = NULL; }`?')

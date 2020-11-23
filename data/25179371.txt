@@ -1,1 +1,1 @@
-Item(by='whoisninja', descendants=0, kids=None, score=3, time=1606067419, title='Good Bitcoin Resources', item_type='story', url='https://github.com/nsingla/bookmarks/blob/master/bitcoin.md', parent=None, text=None)
+Item(by='whoisninja', descendants=1, kids=[25182764], score=3, time=1606067419, title='Good Bitcoin Resources', item_type='story', url='https://github.com/nsingla/bookmarks/blob/master/bitcoin.md', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='userbinator', descendants=None, kids=None, score=None, time=1606088569, title=None, item_type='comment', url=None, parent=25177045, text='This is of course possible since booting was much simpler when all it had to do was read from the boot device into memory and jump to it. Definitely simpler than the horrible mess that is UEFI booting...')

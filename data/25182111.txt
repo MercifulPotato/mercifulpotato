@@ -1,0 +1,1 @@
+Item(by='josephcsible', descendants=None, kids=None, score=None, time=1606088190, title=None, item_type='comment', url=None, parent=25178289, text='I wouldn&#x27;t call a kernel panic bug &quot;machine-bricking&quot;, since after the panic happens, your system is usable again upon reboot. &quot;Bricking&quot; implies that wouldn&#x27;t be the case.')

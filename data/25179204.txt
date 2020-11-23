@@ -1,1 +1,1 @@
-Item(by='etherio', descendants=0, kids=None, score=2, time=1606066258, title='The Unix Koans of Master Foo', item_type='story', url='http://www.catb.org/esr/writings/taoup/html/unix_koans.html', parent=None, text=None)
+Item(by='etherio', descendants=0, kids=None, score=3, time=1606066258, title='The Unix Koans of Master Foo', item_type='story', url='http://www.catb.org/esr/writings/taoup/html/unix_koans.html', parent=None, text=None)

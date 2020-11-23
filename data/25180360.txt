@@ -1,1 +1,1 @@
-Item(by='fortran77', descendants=0, kids=None, score=1, time=1606074013, title='Scientists warn against over-the-counter coronavirus ‘cures’', item_type='story', url='https://factcheck.afp.com/scientists-warn-against-over-counter-coronavirus-cures', parent=None, text=None)
+Item(by='fortran77', descendants=1, kids=[25180973], score=3, time=1606074013, title='Scientists warn against over-the-counter coronavirus ‘cures’', item_type='story', url='https://factcheck.afp.com/scientists-warn-against-over-counter-coronavirus-cures', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='wyclif', descendants=0, kids=None, score=2, time=1606073484, title='Famed Hacker Kevin Mitnick Shows You How to Go Invisible Online', item_type='story', url='https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online/', parent=None, text=None)
+Item(by='wyclif', descendants=1, kids=[25180930], score=12, time=1606073484, title='Famed Hacker Kevin Mitnick Shows You How to Go Invisible Online', item_type='story', url='https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online/', parent=None, text=None)

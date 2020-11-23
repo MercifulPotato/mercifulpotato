@@ -1,1 +1,1 @@
-Item(by='grantseltzer', descendants=None, kids=None, score=None, time=1606072518, title=None, item_type='comment', url=None, parent=25179013, text='I believe Cilium (ebpf based) is now default in kubernetes.')
+Item(by='grantseltzer', descendants=None, kids=[25180906], score=None, time=1606072518, title=None, item_type='comment', url=None, parent=25179013, text='I believe Cilium (ebpf based) is now default in kubernetes.')

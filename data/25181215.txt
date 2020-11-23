@@ -1,0 +1,1 @@
+Item(by='kazinator', descendants=None, kids=[25181958], score=None, time=1606080022, title=None, item_type='comment', url=None, parent=25180366, text='Macro hygiene is a solution to the problem of functions being in the same namespace as variables, together with standard, oft-needed library functions having short names that are easily chosen as variable names.')

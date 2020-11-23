@@ -1,0 +1,1 @@
+Item(by='rjmorris', descendants=None, kids=[25182546], score=None, time=1606091888, title=None, item_type='comment', url=None, parent=25182096, text='You can change the max line length in black (the Python formatter I hear mentioned most often). How would you feel about setting it to something really large, like 1000, to emulate having no line length limit?')

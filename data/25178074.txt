@@ -1,1 +1,1 @@
-Item(by='identity0', descendants=None, kids=[25180017, 25178189, 25178672], score=None, time=1606058456, title=None, item_type='comment', url=None, parent=25177481, text='&quot;Blockchain-based vinyl bootstrapper, written in Rust&quot;')
+Item(by='identity0', descendants=None, kids=[25180017, 25178672, 25178189], score=None, time=1606058456, title=None, item_type='comment', url=None, parent=25177481, text='&quot;Blockchain-based vinyl bootstrapper, written in Rust&quot;')

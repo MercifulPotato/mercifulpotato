@@ -1,1 +1,1 @@
-Item(by='joppy', descendants=None, kids=None, score=None, time=1605967207, title=None, item_type='comment', url=None, parent=25169177, text='Because context is always meaningless, right?')
+Item(by='joppy', descendants=None, kids=[25182445], score=None, time=1605967207, title=None, item_type='comment', url=None, parent=25169177, text='Because context is always meaningless, right?')

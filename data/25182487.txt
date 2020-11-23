@@ -1,0 +1,1 @@
+Item(by='pojzon', descendants=None, kids=None, score=None, time=1606092549, title=None, item_type='comment', url=None, parent=25176362, text='Uh, We moved away from postgrest and went back to regular db + rest-service architecture.<p>The project (postgrest) has too many disadventages at that scale for us.')
