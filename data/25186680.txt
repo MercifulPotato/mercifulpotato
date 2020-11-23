@@ -1,0 +1,1 @@
+Item(by='JshWright', descendants=None, kids=None, score=None, time=1606139228, title=None, item_type='comment', url=None, parent=25185435, text='That&#x27;s not going to solve the SD card corruption issue. That&#x27;s not specific to Home Assistant, it&#x27;s just a fact of life with SD cards. You&#x27;d be much better off using an SSD via USB.')

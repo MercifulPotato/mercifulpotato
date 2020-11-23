@@ -1,1 +1,1 @@
-Item(by='luu', descendants=0, kids=None, score=3, time=1606059540, title='Peregrine: A Pattern-Aware Graph Mining System', item_type='story', url='https://github.com/pdclab/peregrine', parent=None, text=None)
+Item(by='luu', descendants=1, kids=[25185919], score=22, time=1606059540, title='Peregrine: A Pattern-Aware Graph Mining System', item_type='story', url='https://github.com/pdclab/peregrine', parent=None, text=None)

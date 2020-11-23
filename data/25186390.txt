@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=[25186753, 25186535], score=None, time=1606137229, title=None, item_type='comment', url=None, parent=25186206, text='That issue is actually quite interesting.<p>It&#x27;s because if the GPU is reverse engineered enough, you can simulate an Apple GPU on another machine _and_ run other OSes with a proper GPU stack on those macs.')

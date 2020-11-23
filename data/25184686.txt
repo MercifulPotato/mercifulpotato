@@ -1,0 +1,1 @@
+Item(by='john-doe', descendants=None, kids=None, score=None, time=1606120171, title=None, item_type='comment', url=None, parent=25183772, text='Can&#x27;t reproduce this on macOS, Firefox 83. Does adding `visibility: hidden;` help?')

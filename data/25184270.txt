@@ -1,1 +1,1 @@
-Item(by='the_mitsuhiko', descendants=None, kids=None, score=None, time=1606115546, title=None, item_type='comment', url=None, parent=25181347, text='I’m not sure i follow. How does the acquisition change this?')
+Item(by='the_mitsuhiko', descendants=None, kids=[25184526], score=None, time=1606115546, title=None, item_type='comment', url=None, parent=25181347, text='I’m not sure i follow. How does the acquisition change this?')

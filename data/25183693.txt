@@ -1,1 +1,1 @@
-Item(by='kevin_thibedeau', descendants=None, kids=None, score=None, time=1606107051, title=None, item_type='comment', url=None, parent=25183122, text='Ms. Streisand made it clear that this is legal in the US. Public spaces (and airspace) are not private.')
+Item(by='kevin_thibedeau', descendants=None, kids=[25185613], score=None, time=1606107051, title=None, item_type='comment', url=None, parent=25183122, text='Ms. Streisand made it clear that this is legal in the US. Public spaces (and airspace) are not private.')

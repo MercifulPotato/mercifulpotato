@@ -1,0 +1,1 @@
+Item(by='foldr', descendants=None, kids=None, score=None, time=1606129230, title=None, item_type='comment', url=None, parent=25184649, text='You can, I think, link to libSystem dynamically without actually having libSystem to refer to. At least, you can output a macho file that calls a function in a dynamically linked library when all you know is the name of the function.')

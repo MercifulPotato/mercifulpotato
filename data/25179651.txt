@@ -1,1 +1,1 @@
-Item(by='alisonkisk', descendants=None, kids=None, score=None, time=1606069556, title=None, item_type='comment', url=None, parent=25174344, text='IBM did that by licensing the PC &quot;clone&quot; design, not Microsoft. Microsoft added the lockdown layer on top.')
+Item(by='alisonkisk', descendants=None, kids=[25185336], score=None, time=1606069556, title=None, item_type='comment', url=None, parent=25174344, text='IBM did that by licensing the PC &quot;clone&quot; design, not Microsoft. Microsoft added the lockdown layer on top.')

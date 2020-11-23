@@ -1,1 +1,1 @@
-Item(by='Austin_Conlon', descendants=0, kids=None, score=5, time=1606111395, title='Ask HN: People with an M1 Mac, how is your experience with it?', item_type='story', url=None, parent=None, text=None)
+Item(by='Austin_Conlon', descendants=1, kids=[25184351], score=12, time=1606111395, title='Ask HN: People with an M1 Mac, how is your experience with it?', item_type='story', url=None, parent=None, text=None)

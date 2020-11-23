@@ -1,1 +1,1 @@
-Item(by='zozbot234', descendants=None, kids=[25169149, 25169532], score=None, time=1605918320, title=None, item_type='comment', url=None, parent=25166477, text='SQLite is not a substitute for a proper database; it&#x27;s a substitute for fopen().')
+Item(by='zozbot234', descendants=None, kids=[25169532, 25169149], score=None, time=1605918320, title=None, item_type='comment', url=None, parent=25166477, text='SQLite is not a substitute for a proper database; it&#x27;s a substitute for fopen().')

@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=[25184858], score=None, time=1606121326, title=None, item_type='comment', url=None, parent=25179068, text='The one good use of VLAs I know of is casting a buffer into a multidimensional (variable-length) array to allow for subscripting to work.')

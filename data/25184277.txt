@@ -1,1 +1,1 @@
-Item(by='davidspiess', descendants=0, kids=None, score=2, time=1606115592, title='.NET on Google Cloud Functions', item_type='story', url='https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions', parent=None, text=None)
+Item(by='davidspiess', descendants=1, kids=[25184531], score=4, time=1606115592, title='.NET on Google Cloud Functions', item_type='story', url='https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions', parent=None, text=None)

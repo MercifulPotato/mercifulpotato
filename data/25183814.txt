@@ -1,1 +1,1 @@
-Item(by='known', descendants=None, kids=None, score=None, time=1606108622, title=None, item_type='comment', url=None, parent=25181828, text='I refuse to give my mobile number at grocery stores though  they tempt me with offers&#x2F;discounts :)')
+Item(by='known', descendants=None, kids=[25186185, 25185199, 25185578], score=None, time=1606108622, title=None, item_type='comment', url=None, parent=25181828, text='I refuse to give my mobile number at grocery stores though  they tempt me with offers&#x2F;discounts :)')

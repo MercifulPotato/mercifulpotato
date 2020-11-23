@@ -1,0 +1,1 @@
+Item(by='nwienert', descendants=None, kids=[25185050], score=None, time=1606122337, title=None, item_type='comment', url=None, parent=25184876, text='Rust is far slower as a developer to write (far more complex and verbose), Nim has orders of magnitude less ecosystem&#x2F;docs&#x2F;community (Rust has much less too), and both have far worse debugging tools, REPL, etc.')

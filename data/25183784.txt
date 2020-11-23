@@ -1,1 +1,1 @@
-Item(by='wooby', descendants=0, kids=None, score=2, time=1606108275, title='Government Cheese', item_type='story', url='https://en.wikipedia.org/wiki/Government_cheese', parent=None, text=None)
+Item(by='wooby', descendants=1, kids=[25184362], score=3, time=1606108275, title='Government Cheese', item_type='story', url='https://en.wikipedia.org/wiki/Government_cheese', parent=None, text=None)

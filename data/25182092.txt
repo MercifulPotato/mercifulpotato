@@ -1,1 +1,1 @@
-Item(by='dcuthbertson', descendants=None, kids=None, score=None, time=1606087942, title=None, item_type='comment', url=None, parent=25181973, text='In the US, if the lottery ticket is signed it then belongs to the signer')
+Item(by='dcuthbertson', descendants=None, kids=[25184505], score=None, time=1606087942, title=None, item_type='comment', url=None, parent=25181973, text='In the US, if the lottery ticket is signed it then belongs to the signer')

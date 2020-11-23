@@ -1,0 +1,1 @@
+Item(by='scruffyherder', descendants=None, kids=None, score=None, time=1606138955, title=None, item_type='comment', url=None, parent=25176531, text='Pack your structs, use tcpip host to network, and network to host to marshal data in and out, save state as ascii, never trust a float and don’t get creative and it’ll “just work“.')

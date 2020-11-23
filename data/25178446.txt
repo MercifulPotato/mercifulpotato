@@ -1,1 +1,1 @@
-Item(by='dreamcompiler', descendants=None, kids=None, score=None, time=1606060648, title=None, item_type='comment', url=None, parent=25178418, text='No. It&#x27;s definitely a special distro.')
+Item(by='dreamcompiler', descendants=None, kids=[25184764], score=None, time=1606060648, title=None, item_type='comment', url=None, parent=25178418, text='No. It&#x27;s definitely a special distro.')

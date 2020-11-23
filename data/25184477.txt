@@ -1,0 +1,1 @@
+Item(by='pantalaimon', descendants=None, kids=None, score=None, time=1606118026, title=None, item_type='comment', url=None, parent=25179976, text='I doubt they implemented CDC in hardware.\nIf they have a low-level USB peripheral, all the high-level protocols you want can be implemented in software.')

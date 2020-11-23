@@ -1,0 +1,1 @@
+Item(by='Thorrez', descendants=None, kids=[25184789], score=None, time=1606120485, title=None, item_type='comment', url=None, parent=25175769, text='&gt;The value in variable i decrements to INT_MIN after |INT_MIN| + 1 iterations.<p>Wouldn&#x27;t it be just after |INT_MIN| iterations?')

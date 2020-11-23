@@ -1,1 +1,1 @@
-Item(by='yawaramin', descendants=None, kids=None, score=None, time=1606096782, title=None, item_type='comment', url=None, parent=25172079, text='So developers who are on-call are paid 5-10x as much as JPL&#x2F;NASA engineers?')
+Item(by='yawaramin', descendants=None, kids=[25185746], score=None, time=1606096782, title=None, item_type='comment', url=None, parent=25172079, text='So developers who are on-call are paid 5-10x as much as JPL&#x2F;NASA engineers?')

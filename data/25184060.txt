@@ -1,1 +1,1 @@
-Item(by='fn1', descendants=None, kids=None, score=None, time=1606112235, title=None, item_type='comment', url=None, parent=25183999, text='It&#x27;s just that JavaScript has no threads, which is it&#x27;s problem.')
+Item(by='fn1', descendants=None, kids=[25184646], score=None, time=1606112235, title=None, item_type='comment', url=None, parent=25183999, text='It&#x27;s just that JavaScript has no threads, which is it&#x27;s problem.')
