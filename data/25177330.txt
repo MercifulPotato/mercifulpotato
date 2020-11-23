@@ -1,1 +1,1 @@
-Item(by='blindm', descendants=8, kids=[25178758, 25179462, 25178736, 25178759], score=50, time=1606052207, title='Sengi – A FLOSS multi-account Mastodon and Pleroma desktop client', item_type='story', url='https://nicolasconstant.github.io/sengi/', parent=None, text=None)
+Item(by='blindm', descendants=11, kids=[25178758, 25179462, 25178736, 25178759, 25183100], score=50, time=1606052207, title='Sengi – A FLOSS multi-account Mastodon and Pleroma desktop client', item_type='story', url='https://nicolasconstant.github.io/sengi/', parent=None, text=None)

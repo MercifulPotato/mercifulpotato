@@ -1,0 +1,1 @@
+Item(by='3np', descendants=None, kids=None, score=None, time=1606099858, title=None, item_type='comment', url=None, parent=25179476, text='The RPi can, actually. Vanilla Debian 11 works fine. Only catch is you need to copy the bootloader and firmware (available in official GH repos) to the EFI partition. No need to patch the kernel, though.')

@@ -1,1 +1,1 @@
-Item(by='xaksis', descendants=None, kids=None, score=None, time=1605920089, title=None, item_type='comment', url=None, parent=25166647, text='Have you taken a look at UserBit? Sounds to hit those requirements pretty well.')
+Item(by='xaksis', descendants=None, kids=[25170689], score=None, time=1605920089, title=None, item_type='comment', url=None, parent=25166647, text='Have you taken a look at UserBit? Sounds to hit those requirements pretty well.')

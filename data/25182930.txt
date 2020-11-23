@@ -1,1 +1,1 @@
-Item(by='TigeriusKirk', descendants=None, kids=None, score=None, time=1606097423, title=None, item_type='comment', url=None, parent=25180236, text='I watched Devs a few weeks ago and noticed the CEO of the zillion dollar quantum computer company was wearing a F-91W. Nice touch.')
+Item(by='TigeriusKirk', descendants=None, kids=[25183912], score=None, time=1606097423, title=None, item_type='comment', url=None, parent=25180236, text='I watched Devs a few weeks ago and noticed the CEO of the zillion dollar quantum computer company was wearing a F-91W. Nice touch.')

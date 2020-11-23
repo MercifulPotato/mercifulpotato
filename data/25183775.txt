@@ -1,0 +1,1 @@
+Item(by='Spivak', descendants=None, kids=None, score=None, time=1606108190, title=None, item_type='comment', url=None, parent=25175042, text='I think Ceph has the right model. The only abstraction is physical disk to addressable binary&#x2F;object storage. Everything else is implemented on top of that so you can do S3, filesystems, databases all close to the metal.')

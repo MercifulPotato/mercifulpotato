@@ -1,1 +1,1 @@
-Item(by='josephcsible', descendants=None, kids=None, score=None, time=1606089693, title=None, item_type='comment', url=None, parent=25179244, text='If you want to run Chrome OS on something roughly Pi-sized, why not just get a Chromebox?')
+Item(by='josephcsible', descendants=None, kids=[25183586], score=None, time=1606089693, title=None, item_type='comment', url=None, parent=25179244, text='If you want to run Chrome OS on something roughly Pi-sized, why not just get a Chromebox?')

@@ -1,1 +1,1 @@
-Item(by='pueblito', descendants=None, kids=None, score=None, time=1606097822, title=None, item_type='comment', url=None, parent=25182901, text='That would objectively be an improvement, absolutely')
+Item(by='pueblito', descendants=None, kids=[25183174], score=None, time=1606097822, title=None, item_type='comment', url=None, parent=25182901, text='That would objectively be an improvement, absolutely')

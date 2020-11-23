@@ -1,0 +1,1 @@
+Item(by='7sigma', descendants=None, kids=None, score=None, time=1606114660, title=None, item_type='comment', url=None, parent=25182192, text='Same here, at my previous work, they used python to generate terraform hcl. I told them you might as well use pulumi')

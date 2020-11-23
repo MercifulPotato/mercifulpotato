@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1606114829, title=None, item_type='comment', url=None, parent=25183990, text='Try to cross compile a UWP application from Linux into Windows.<p>Cross compilation only works for toy examples, or when one has 100% of the target libraries available.')

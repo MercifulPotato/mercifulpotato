@@ -1,1 +1,1 @@
-Item(by='eterm', descendants=None, kids=None, score=None, time=1606070463, title=None, item_type='comment', url=None, parent=25179074, text='You say &quot;for years&quot; meaning a year after this blog post was originally written.')
+Item(by='eterm', descendants=None, kids=[25184552], score=None, time=1606070463, title=None, item_type='comment', url=None, parent=25179074, text='You say &quot;for years&quot; meaning a year after this blog post was originally written.')

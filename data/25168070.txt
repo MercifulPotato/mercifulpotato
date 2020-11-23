@@ -1,1 +1,1 @@
-Item(by='benbreen', descendants=0, kids=None, score=7, time=1605937768, title='Drugs for the People: Rethinking the global pharmaceutical supply chain', item_type='story', url='https://thebaffler.com/salvos/drugs-for-the-people-neumann', parent=None, text=None)
+Item(by='benbreen', descendants=17, kids=[25183738, 25183860, 25183311, 25182854, 25183135], score=21, time=1605937768, title='Drugs for the People: Rethinking the global pharmaceutical supply chain', item_type='story', url='https://thebaffler.com/salvos/drugs-for-the-people-neumann', parent=None, text=None)

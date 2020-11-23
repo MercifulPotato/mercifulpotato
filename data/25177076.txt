@@ -1,1 +1,1 @@
-Item(by='YetAnotherNick', descendants=None, kids=None, score=None, time=1606049818, title=None, item_type='comment', url=None, parent=25175396, text='I think if we just rank on reliability and smoothness of video call, I would rank zoom &gt; google meet &gt; slack.')
+Item(by='YetAnotherNick', descendants=None, kids=[25183637], score=None, time=1606049818, title=None, item_type='comment', url=None, parent=25175396, text='I think if we just rank on reliability and smoothness of video call, I would rank zoom &gt; google meet &gt; slack.')

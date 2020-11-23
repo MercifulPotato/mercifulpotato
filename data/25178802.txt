@@ -1,1 +1,1 @@
-Item(by='cpncrunch', descendants=None, kids=None, score=None, time=1606063476, title=None, item_type='comment', url=None, parent=25178755, text='There doesn&#x27;t seem to be any mention of cognition as a result in the article. The primary endpoint was telomere length.')
+Item(by='cpncrunch', descendants=None, kids=[25183184], score=None, time=1606063476, title=None, item_type='comment', url=None, parent=25178755, text='There doesn&#x27;t seem to be any mention of cognition as a result in the article. The primary endpoint was telomere length.')

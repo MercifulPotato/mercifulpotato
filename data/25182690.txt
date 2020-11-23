@@ -1,1 +1,1 @@
-Item(by='whimsicalism', descendants=None, kids=None, score=None, time=1606094682, title=None, item_type='comment', url=None, parent=25182644, text='The personal is political.')
+Item(by='whimsicalism', descendants=None, kids=[25183451, 25184288], score=None, time=1606094682, title=None, item_type='comment', url=None, parent=25182644, text='The personal is political.')

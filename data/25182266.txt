@@ -1,1 +1,1 @@
-Item(by='mertyildiran', descendants=0, kids=None, score=1, time=1606089817, title='Self-replicating, self-modifying Assembly that can evolve into every program', item_type='story', url='https://github.com/mertyildiran/ldca', parent=None, text=None)
+Item(by='mertyildiran', descendants=1, kids=[25183453], score=2, time=1606089817, title='Self-replicating, self-modifying Assembly that can evolve into every program', item_type='story', url='https://github.com/mertyildiran/ldca', parent=None, text=None)

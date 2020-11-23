@@ -1,1 +1,1 @@
-Item(by='duskwuff', descendants=None, kids=None, score=None, time=1605938690, title=None, item_type='comment', url=None, parent=25167037, text='Which STM32 part? Some of them have a hardware RNG.')
+Item(by='duskwuff', descendants=None, kids=[25184126], score=None, time=1605938690, title=None, item_type='comment', url=None, parent=25167037, text='Which STM32 part? Some of them have a hardware RNG.')

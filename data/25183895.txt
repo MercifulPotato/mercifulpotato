@@ -1,0 +1,1 @@
+Item(by='Aeolun', descendants=None, kids=None, score=None, time=1606109852, title=None, item_type='comment', url=None, parent=25182192, text='I cannot recommend Pulumi enough. Terraform was a huge step up from Ansible, and Pulumi is the same step up from Terraform.<p>Writing a for loop to provision multiple machines just feels incredibly natural.')

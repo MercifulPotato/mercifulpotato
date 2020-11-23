@@ -1,1 +1,1 @@
-Item(by='Thevet', descendants=21, kids=[25180001, 25179535, 25179587, 25181629, 25179753, 25179091], score=28, time=1606060572, title='Before the Mayflower', item_type='story', url='https://www.historytoday.com/history-matters/mayflower', parent=None, text=None)
+Item(by='Thevet', descendants=24, kids=[25180001, 25179535, 25179587, 25181629, 25179091, 25179753], score=31, time=1606060572, title='Before the Mayflower', item_type='story', url='https://www.historytoday.com/history-matters/mayflower', parent=None, text=None)

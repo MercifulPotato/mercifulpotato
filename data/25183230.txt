@@ -1,1 +1,1 @@
-Item(by='jeffbee', descendants=None, kids=None, score=None, time=1606100947, title=None, item_type='comment', url=None, parent=25179081, text='The TGIF doubters were eventually right about later, even more expensive acquisitions that did not pan out, like Nest.')
+Item(by='jeffbee', descendants=None, kids=[25183864], score=None, time=1606100947, title=None, item_type='comment', url=None, parent=25179081, text='The TGIF doubters were eventually right about later, even more expensive acquisitions that did not pan out, like Nest.')

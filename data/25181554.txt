@@ -1,1 +1,1 @@
-Item(by='mino', descendants=None, kids=None, score=None, time=1606082695, title=None, item_type='comment', url=None, parent=25181452, text='This. \nI never have to take it off. Battery lasts forever, lightweight, thin, accurate (despite it lacks radio synch), extremely cheap.')
+Item(by='mino', descendants=None, kids=[25183932], score=None, time=1606082695, title=None, item_type='comment', url=None, parent=25181452, text='This. \nI never have to take it off. Battery lasts forever, lightweight, thin, accurate (despite it lacks radio synch), extremely cheap.')

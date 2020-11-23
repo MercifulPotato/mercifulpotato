@@ -1,0 +1,1 @@
+Item(by='e40', descendants=None, kids=[25184077], score=None, time=1606108653, title=None, item_type='comment', url=None, parent=25183664, text='<i>I installed it with the x86 architecture.</i><p>Do the 32-bit binaries really run on M1?  I thought only x86_64 would run there, emulated.')

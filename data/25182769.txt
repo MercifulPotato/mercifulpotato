@@ -1,1 +1,1 @@
-Item(by='hn_throwaway_99', descendants=None, kids=None, score=None, time=1606095352, title=None, item_type='comment', url=None, parent=25181480, text='Apparently you were never acquainted with the Citizens United SCOTUS decision.')
+Item(by='hn_throwaway_99', descendants=None, kids=[25183400], score=None, time=1606095352, title=None, item_type='comment', url=None, parent=25181480, text='Apparently you were never acquainted with the Citizens United SCOTUS decision.')
