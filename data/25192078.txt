@@ -1,1 +1,1 @@
-Item(by='labster', descendants=None, kids=None, score=None, time=1606166541, title=None, item_type='comment', url=None, parent=25190980, text='Wouldn’t it just be easier to start eating fish?')
+Item(by='labster', descendants=None, kids=[25196134], score=None, time=1606166541, title=None, item_type='comment', url=None, parent=25190980, text='Wouldn’t it just be easier to start eating fish?')

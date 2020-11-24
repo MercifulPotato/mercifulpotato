@@ -1,0 +1,1 @@
+Item(by='chinathrow', descendants=None, kids=None, score=None, time=1606203701, title=None, item_type='comment', url=None, parent=25194988, text='We had TCP performance issues on leased lines EU-Singapore at the time of the article (2005) and ended up using sockets with the TCP_NODELAY flag to disable Nagle. And tuning window sizes, of course.')

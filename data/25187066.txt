@@ -1,1 +1,1 @@
-Item(by='valuearb', descendants=None, kids=None, score=None, time=1606141806, title=None, item_type='comment', url=None, parent=25185814, text='I started developing iOS apps for iOS 5, and me my first apps still run on iOS 14 unchanged. Not sure what you are on about?')
+Item(by='valuearb', descendants=None, kids=[25195450], score=None, time=1606141806, title=None, item_type='comment', url=None, parent=25185814, text='I started developing iOS apps for iOS 5, and me my first apps still run on iOS 14 unchanged. Not sure what you are on about?')

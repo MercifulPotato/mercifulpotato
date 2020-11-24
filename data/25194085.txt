@@ -1,1 +1,1 @@
-Item(by='tenaciousDaniel', descendants=None, kids=None, score=None, time=1606180488, title=None, item_type='comment', url=None, parent=25193034, text='I want to add Inside to that list. It&#x27;s my favorite game of all time.')
+Item(by='tenaciousDaniel', descendants=None, kids=[25195058], score=None, time=1606180488, title=None, item_type='comment', url=None, parent=25193034, text='I want to add Inside to that list. It&#x27;s my favorite game of all time.')

@@ -1,1 +1,1 @@
-Item(by='ClawsOnPaws', descendants=1, kids=[25194327], score=3, time=1606179386, title='A fully public domain, highly portable first person shooter running on 32kb RAM', item_type='story', url='https://drummyfish.gitlab.io/anarch/', parent=None, text=None)
+Item(by='ClawsOnPaws', descendants=3, kids=[25195212, 25194327, 25194566], score=9, time=1606179386, title='A fully public domain, highly portable first person shooter running on 32kb RAM', item_type='story', url='https://drummyfish.gitlab.io/anarch/', parent=None, text=None)

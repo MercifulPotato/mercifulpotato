@@ -1,1 +1,1 @@
-Item(by='laobiz', descendants=0, kids=None, score=4, time=1606115937, title='IHP: Integrated Haskell Platform, a batteries-included web framework', item_type='story', url='https://github.com/digitallyinduced/ihp', parent=None, text=None)
+Item(by='laobiz', descendants=21, kids=[25195229, 25194790, 25194723, 25194954, 25195159, 25195434], score=76, time=1606115937, title='IHP – A Haskell web framework', item_type='story', url='https://github.com/digitallyinduced/ihp', parent=None, text=None)

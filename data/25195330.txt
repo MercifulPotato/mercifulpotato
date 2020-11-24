@@ -1,0 +1,1 @@
+Item(by='rfoo', descendants=None, kids=None, score=None, time=1606192858, title=None, item_type='comment', url=None, parent=25193075, text='The unholy basis of all modern Linux systems named glibc does not like being statically linked. It would break slightly and sometimes seriously if you do so.')

@@ -1,1 +1,1 @@
-Item(by='sedatk', descendants=None, kids=None, score=None, time=1606182956, title=None, item_type='comment', url=None, parent=25190660, text='They didn&#x27;t even trust 255, 254 or even 253. It had to be 252.')
+Item(by='sedatk', descendants=None, kids=[25195253], score=None, time=1606182956, title=None, item_type='comment', url=None, parent=25190660, text='They didn&#x27;t even trust 255, 254 or even 253. It had to be 252.')

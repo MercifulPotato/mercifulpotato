@@ -1,0 +1,1 @@
+Item(by='solotronics', descendants=None, kids=None, score=None, time=1606196212, title=None, item_type='comment', url=None, parent=25186843, text='It&#x27;s kind of a pain in the ass but a solution is to set these devices all in their own L2&#x2F;L3 network segment with separate routing (via a different VPN) out to public.')

@@ -1,1 +1,1 @@
-Item(by='pkulak', descendants=None, kids=None, score=None, time=1606167667, title=None, item_type='comment', url=None, parent=25192006, text='Having a single rendering engine is an absolute disaster for the web. It has nothing to do with Google, religion, cleansing, etc.')
+Item(by='pkulak', descendants=None, kids=[25194973], score=None, time=1606167667, title=None, item_type='comment', url=None, parent=25192006, text='Having a single rendering engine is an absolute disaster for the web. It has nothing to do with Google, religion, cleansing, etc.')

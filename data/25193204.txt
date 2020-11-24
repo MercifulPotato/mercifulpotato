@@ -1,1 +1,1 @@
-Item(by='drcode', descendants=None, kids=None, score=None, time=1606174200, title=None, item_type='comment', url=None, parent=25191367, text='I&#x27;m skeptical that an X230 user is somehow signaling any less than a user of this device.')
+Item(by='drcode', descendants=None, kids=[25195605], score=None, time=1606174200, title=None, item_type='comment', url=None, parent=25191367, text='I&#x27;m skeptical that an X230 user is somehow signaling any less than a user of this device.')

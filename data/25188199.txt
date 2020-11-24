@@ -1,1 +1,1 @@
-Item(by='dend', descendants=0, kids=None, score=1, time=1606147643, title='Show HN: BlogScroll – Minimalist open-source personal site/blog directory', item_type='story', url='https://blogscroll.com', parent=None, text=None)
+Item(by='dend', descendants=1, kids=[25195117], score=4, time=1606147643, title='Show HN: BlogScroll – Minimalist open-source personal site/blog directory', item_type='story', url='https://blogscroll.com', parent=None, text=None)

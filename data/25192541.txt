@@ -1,1 +1,1 @@
-Item(by='paulpauper', descendants=2, kids=[25192915, 25192922], score=17, time=1606169370, title='House prices rise as Covid sparks rural relocation', item_type='story', url='https://www.bbc.co.uk/news/business-54986071', parent=None, text=None)
+Item(by='paulpauper', descendants=3, kids=[25195922, 25192915, 25192922], score=23, time=1606169370, title='House prices rise as Covid sparks rural relocation', item_type='story', url='https://www.bbc.co.uk/news/business-54986071', parent=None, text=None)

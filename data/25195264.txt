@@ -1,0 +1,1 @@
+Item(by='2Gkashmiri', descendants=None, kids=None, score=None, time=1606192125, title=None, item_type='comment', url=None, parent=25187702, text='Can this be reimplemented to support peertube?\nThe algorithm would need to be changed to not work on views and subscriptions because those figures are too low. Maybe some other rules based on engagement? Time? Comments?')

@@ -1,1 +1,1 @@
-Item(by='agumonkey', descendants=None, kids=None, score=None, time=1606182413, title=None, item_type='comment', url=None, parent=25191466, text='nix&#x2F;guix = academia and like conceptualism<p>others = industry and leverage existing subsystems<p>that&#x27;s why')
+Item(by='agumonkey', descendants=None, kids=[25194936, 25194862], score=None, time=1606182413, title=None, item_type='comment', url=None, parent=25191466, text='nix&#x2F;guix = academia and like conceptualism<p>others = industry and leverage existing subsystems<p>that&#x27;s why')

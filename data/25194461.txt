@@ -1,1 +1,1 @@
-Item(by='jkaplowitz', descendants=None, kids=None, score=None, time=1606183435, title=None, item_type='comment', url=None, parent=25194073, text='This was to indeed benefit Apple, by arming their security team.')
+Item(by='jkaplowitz', descendants=None, kids=[25194874], score=None, time=1606183435, title=None, item_type='comment', url=None, parent=25194073, text='This was to indeed benefit Apple, by arming their security team.')

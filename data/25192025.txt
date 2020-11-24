@@ -1,1 +1,1 @@
-Item(by='altrunox', descendants=None, kids=None, score=None, time=1606166213, title=None, item_type='comment', url=None, parent=25191429, text='I had no idea uBlock could do that!<p>I just removed my Twitter treding topics, awesome.')
+Item(by='altrunox', descendants=None, kids=[25196083], score=None, time=1606166213, title=None, item_type='comment', url=None, parent=25191429, text='I had no idea uBlock could do that!<p>I just removed my Twitter treding topics, awesome.')

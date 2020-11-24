@@ -1,1 +1,1 @@
-Item(by='path411', descendants=None, kids=None, score=None, time=1606152219, title=None, item_type='comment', url=None, parent=25187344, text='Use typescript then')
+Item(by='path411', descendants=None, kids=[25195349], score=None, time=1606152219, title=None, item_type='comment', url=None, parent=25187344, text='Use typescript then')

@@ -1,1 +1,1 @@
-Item(by='beervirus', descendants=None, kids=None, score=None, time=1606178552, title=None, item_type='comment', url=None, parent=25193427, text='Carrying a gun makes it more likely that I’ll shoot myself?')
+Item(by='beervirus', descendants=None, kids=[25195595, 25194586], score=None, time=1606178552, title=None, item_type='comment', url=None, parent=25193427, text='Carrying a gun makes it more likely that I’ll shoot myself?')

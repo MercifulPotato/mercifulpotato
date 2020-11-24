@@ -1,0 +1,1 @@
+Item(by='Fnoord', descendants=None, kids=None, score=None, time=1606200860, title=None, item_type='comment', url=None, parent=25194616, text='I force all outgoing traffic to 53 not Pi-Hole IPs (I run redundant) to go to a Pi-Hole instead. Initially I did tgat for Chromecast. However, I doubt Chromecast still cares. Why do you think Google push Do{H,T}?')

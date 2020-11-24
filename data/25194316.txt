@@ -1,1 +1,1 @@
-Item(by='hiq', descendants=0, kids=None, score=1, time=1606182242, title='Quest to Disable LAN LEDs of an Intel NUC', item_type='story', url='https://pwmon.org/p/1900/quest-disable-lan-leds-intel-nuc/', parent=None, text=None)
+Item(by='hiq', descendants=1, kids=[25194429], score=3, time=1606182242, title='Quest to Disable LAN LEDs of an Intel NUC', item_type='story', url='https://pwmon.org/p/1900/quest-disable-lan-leds-intel-nuc/', parent=None, text=None)

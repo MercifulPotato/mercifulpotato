@@ -1,0 +1,1 @@
+Item(by='gautamdivgi', descendants=None, kids=None, score=None, time=1606200193, title=None, item_type='comment', url=None, parent=25194664, text='k8s unfortunately is the only way to maintain sanity if you want to maintain a multi-cloud environment. I don&#x27;t relish the idea of duplicating functionality but maintaining code across aws lambda&#x27;s and azure functions.')

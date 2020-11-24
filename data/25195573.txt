@@ -1,0 +1,1 @@
+Item(by='JackWritesCode', descendants=None, kids=None, score=None, time=1606195626, title=None, item_type='comment', url=None, parent=25195526, text='And to add on this, the plan moving forward is to default to writing data to the appropriate places (aim is &lt; 100-200ms) but fall back to SQS when services are unavailable.')

@@ -1,1 +1,1 @@
-Item(by='xPaw', descendants=0, kids=[25191355], score=20, time=1606138876, title='TypeScriptToLua – TypeScript to Lua Transpiler', item_type='story', url='https://typescripttolua.github.io/', parent=None, text=None)
+Item(by='xPaw', descendants=1, kids=[25194590, 25191355], score=21, time=1606138876, title='TypeScriptToLua – TypeScript to Lua Transpiler', item_type='story', url='https://typescripttolua.github.io/', parent=None, text=None)

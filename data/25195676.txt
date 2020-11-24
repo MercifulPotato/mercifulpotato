@@ -1,0 +1,1 @@
+Item(by='snicker7', descendants=None, kids=None, score=None, time=1606196849, title=None, item_type='comment', url=None, parent=25190637, text='Scheme&#x2F;lisp might be weird for some. But Guix packages are written in a highly declarative style. Very little control flow. It looks kind-of like JSON.')

@@ -1,1 +1,1 @@
-Item(by='petters', descendants=None, kids=None, score=None, time=1606169393, title=None, item_type='comment', url=None, parent=25192134, text='The latter would be legal in several European countries.')
+Item(by='petters', descendants=None, kids=[25196231], score=None, time=1606169393, title=None, item_type='comment', url=None, parent=25192134, text='The latter would be legal in several European countries.')

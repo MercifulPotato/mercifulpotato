@@ -1,0 +1,1 @@
+Item(by='justingreet', descendants=None, kids=None, score=None, time=1606190137, title=None, item_type='comment', url=None, parent=25191574, text='We use Django REST and an angular frontend. Django is hosted on heroku, and angular is hosted on netlify. Netlify makes it super easy to proxy API requests from the front-end to our API backend.')

@@ -1,1 +1,1 @@
-Item(by='blackearl', descendants=None, kids=None, score=None, time=1606182472, title=None, item_type='comment', url=None, parent=25193161, text='Is that on the newest Xbox? Saw articles earlier that you can simply switch to dev mode and run retroarch emulators already.')
+Item(by='blackearl', descendants=None, kids=[25195233], score=None, time=1606182472, title=None, item_type='comment', url=None, parent=25193161, text='Is that on the newest Xbox? Saw articles earlier that you can simply switch to dev mode and run retroarch emulators already.')
