@@ -1,0 +1,1 @@
+Item(by='diroussel', descendants=None, kids=None, score=None, time=1606207516, title=None, item_type='comment', url=None, parent=25196000, text='A high level library that buffers before sending doesn’t need the delay, as the send send reply pattern would go to the buffer and then be sent as packets.')

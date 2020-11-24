@@ -1,0 +1,1 @@
+Item(by='kburman', descendants=None, kids=None, score=None, time=1606216994, title=None, item_type='comment', url=None, parent=25189712, text='From what I know there&#x27;s no way to actually disable the default DB. Even with external DB it&#x27;s only a replica of default DB not a replacement.')

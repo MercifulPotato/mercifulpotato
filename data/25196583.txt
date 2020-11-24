@@ -1,0 +1,1 @@
+Item(by='kaba0', descendants=None, kids=None, score=None, time=1606208006, title=None, item_type='comment', url=None, parent=25195323, text='It is only required because &#x2F;nix is hardcoded (but only to make using binary caches possible). Later on, writing to this store is done by a nix user, and install can be issued by a normal user.')

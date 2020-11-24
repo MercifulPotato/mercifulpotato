@@ -1,1 +1,1 @@
-Item(by='yters', descendants=None, kids=None, score=None, time=1606172761, title=None, item_type='comment', url=None, parent=25192484, text='I guess maybe we USians don&#x27;t want to send intel to a country that doesn&#x27;t necessarily have our best interest at heart.')
+Item(by='yters', descendants=None, kids=[25197081], score=None, time=1606172761, title=None, item_type='comment', url=None, parent=25192484, text='I guess maybe we USians don&#x27;t want to send intel to a country that doesn&#x27;t necessarily have our best interest at heart.')

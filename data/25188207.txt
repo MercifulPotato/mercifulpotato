@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=0, kids=None, score=2, time=1606147675, title='On the bonkers color palette of Garfield comics', item_type='story', url='http://wondermark.com/garfield-color/', parent=None, text=None)
+Item(by='zdw', descendants=34, kids=[25198475, 25197779, 25198108, 25198272, 25198398, 25197786, 25198302, 25198104, 25197806, 25197791, 25198095], score=132, time=1606147675, title='On the bonkers color palette of Garfield comics', item_type='story', url='http://wondermark.com/garfield-color/', parent=None, text=None)

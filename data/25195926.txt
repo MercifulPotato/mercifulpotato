@@ -1,1 +1,1 @@
-Item(by='himujjal', descendants=None, kids=None, score=None, time=1606199895, title=None, item_type='comment', url=None, parent=25190367, text='What are the good open source alternatives out there?<p>DuckDuckGo&#x27;d a few ones. But not convincing ones.')
+Item(by='himujjal', descendants=None, kids=[25197208, 25197273, 25197305, 25196758], score=None, time=1606199895, title=None, item_type='comment', url=None, parent=25190367, text='What are the good open source alternatives out there?<p>DuckDuckGo&#x27;d a few ones. But not convincing ones.')

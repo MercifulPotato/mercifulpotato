@@ -1,0 +1,1 @@
+Item(by='fratajcz', descendants=None, kids=None, score=None, time=1606224865, title=None, item_type='comment', url=None, parent=25197979, text='You can check if stdout is a tty: if it&#x27;s not, you output raw text. GNU ls does this: by default it outputs in a multiple column layout, but when piped, it outputs one file per line.')

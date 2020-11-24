@@ -1,1 +1,1 @@
-Item(by='nabla9', descendants=None, kids=None, score=None, time=1606142876, title=None, item_type='comment', url=None, parent=25185197, text='Common Lisp is the best multi-paradigm language I know.')
+Item(by='nabla9', descendants=None, kids=[25197046], score=None, time=1606142876, title=None, item_type='comment', url=None, parent=25185197, text='Common Lisp is the best multi-paradigm language I know.')

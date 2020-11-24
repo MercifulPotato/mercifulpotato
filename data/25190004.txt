@@ -1,1 +1,1 @@
-Item(by='schmorptron', descendants=None, kids=None, score=None, time=1606156751, title=None, item_type='comment', url=None, parent=25185489, text='That&#x27;s true.')
+Item(by='schmorptron', descendants=None, kids=[25196744], score=None, time=1606156751, title=None, item_type='comment', url=None, parent=25185489, text='That&#x27;s true.')

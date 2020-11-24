@@ -1,1 +1,1 @@
-Item(by='zdware', descendants=None, kids=[25192510], score=None, time=1606169059, title=None, item_type='comment', url=None, parent=25192092, text='I think there&#x27;s a way with the more advanced routers to intercept all outgoing DNS queries and redirect them.')
+Item(by='zdware', descendants=None, kids=[25192510, 25196257], score=None, time=1606169059, title=None, item_type='comment', url=None, parent=25192092, text='I think there&#x27;s a way with the more advanced routers to intercept all outgoing DNS queries and redirect them.')

@@ -1,1 +1,1 @@
-Item(by='petra', descendants=None, kids=None, score=None, time=1606199836, title=None, item_type='comment', url=None, parent=25195236, text='But how much does it cost? How much will I need to pay for it, hourly on the cloud ?<p>And what&#x27;s the perf&#x2F;$ compared to GPU&#x27;s ?')
+Item(by='petra', descendants=None, kids=[25196408], score=None, time=1606199836, title=None, item_type='comment', url=None, parent=25195236, text='But how much does it cost? How much will I need to pay for it, hourly on the cloud ?<p>And what&#x27;s the perf&#x2F;$ compared to GPU&#x27;s ?')

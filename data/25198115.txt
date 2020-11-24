@@ -1,0 +1,1 @@
+Item(by='piaste', descendants=None, kids=[25198156], score=None, time=1606223595, title=None, item_type='comment', url=None, parent=25197979, text='Terminal (human) UI and scripting (machine) UI should be separate if the latter is a concern at all.<p>Think Debian&#x27;s apt which is intended for human use, while apt-get is for scripts and sticks to a predictable console output.')

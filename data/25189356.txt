@@ -1,1 +1,1 @@
-Item(by='rammy1234', descendants=None, kids=None, score=None, time=1606153359, title=None, item_type='comment', url=None, parent=25186006, text='For my blog , i am using Github as CMS using the github API.  It simply works.')
+Item(by='rammy1234', descendants=None, kids=[25196358], score=None, time=1606153359, title=None, item_type='comment', url=None, parent=25186006, text='For my blog , i am using Github as CMS using the github API.  It simply works.')

@@ -1,0 +1,1 @@
+Item(by='db48x', descendants=None, kids=[25196743], score=None, time=1606207777, title=None, item_type='comment', url=None, parent=25196477, text='Yes, though browsers have long been optimizing this by simply never processing mutation events unless the page has event handlers for them.')

@@ -1,1 +1,1 @@
-Item(by='ianertson', descendants=0, kids=None, score=1, time=1606196991, title='Show HN: JavaScript / TS State management library', item_type='story', url='https://github.com/sebbekarlsson/state0', parent=None, text=None)
+Item(by='ianertson', descendants=1, kids=[25196499], score=1, time=1606196991, title='Show HN: JavaScript / TS State management library', item_type='story', url='https://github.com/sebbekarlsson/state0', parent=None, text=None)

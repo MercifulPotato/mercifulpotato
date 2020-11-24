@@ -1,1 +1,1 @@
-Item(by='ggambetta', descendants=2, kids=[25193840, 25192912], score=27, time=1606146408, title='Somfy blinds automated via MQTT and Home Assistant', item_type='story', url='https://mwitkow.me/posts/2020-11-08_somfy/', parent=None, text=None)
+Item(by='ggambetta', descendants=3, kids=[25196062, 25192912, 25193840], score=30, time=1606146408, title='Somfy blinds automated via MQTT and Home Assistant', item_type='story', url='https://mwitkow.me/posts/2020-11-08_somfy/', parent=None, text=None)

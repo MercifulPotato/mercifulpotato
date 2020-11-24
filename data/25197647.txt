@@ -1,0 +1,1 @@
+Item(by='frostburg', descendants=None, kids=None, score=None, time=1606219135, title=None, item_type='comment', url=None, parent=25197590, text='That would mitigate one of the issues with auto-wiping (because the owner could store a copy of the key elsewhere and use it to recover the data if a false positive happened), but it should be explained very clearly to the user.')

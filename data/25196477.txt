@@ -1,0 +1,1 @@
+Item(by='onion2k', descendants=None, kids=[25196560], score=None, time=1606206843, title=None, item_type='comment', url=None, parent=25196146, text='<i>In my experience, Mutation Observers can be very punishing in terms of performance if you have large DOM structures, especially on page load.</i><p>Mutation events are what kills performance, not mutation observers.')

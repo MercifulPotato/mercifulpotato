@@ -1,0 +1,1 @@
+Item(by='happypatrik', descendants=None, kids=[25198516], score=None, time=1606226805, title=None, item_type='comment', url=None, parent=25197849, text='I&#x27;m the author of this lib. Yes, abstracting away ANSI escape sequences is one purpose of the lib, but first and foremost the purpose is to make it easier to render complex things as tables, panels, grids etc.')
