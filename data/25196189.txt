@@ -1,1 +1,1 @@
-Item(by='not_kurt_godel', descendants=None, kids=None, score=None, time=1606203416, title=None, item_type='comment', url=None, parent=25195449, text='If you were charging, how much would you charge to set up a server that you literally never have to bounce to get it back up?')
+Item(by='not_kurt_godel', descendants=None, kids=[25202075], score=None, time=1606203416, title=None, item_type='comment', url=None, parent=25195449, text='If you were charging, how much would you charge to set up a server that you literally never have to bounce to get it back up?')

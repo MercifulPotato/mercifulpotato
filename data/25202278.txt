@@ -1,0 +1,1 @@
+Item(by='zozbot234', descendants=None, kids=None, score=None, time=1606247294, title=None, item_type='comment', url=None, parent=25201538, text='You can use dynamic linking with Rust. You just have to stick to the C ABI when interfacing w&#x2F; shared objects, because there is no stable Rust-specific ABI.')

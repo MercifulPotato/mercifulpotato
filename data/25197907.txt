@@ -1,1 +1,1 @@
-Item(by='suprfsat', descendants=None, kids=None, score=None, time=1606221618, title=None, item_type='comment', url=None, parent=25197646, text='It&#x27;s eight years later, and we finally have a prayer of seeing third-party cookies blocked in all major browsers by default.')
+Item(by='suprfsat', descendants=None, kids=[25198868, 25198641, 25199766], score=None, time=1606221618, title=None, item_type='comment', url=None, parent=25197646, text='It&#x27;s eight years later, and we finally have a prayer of seeing third-party cookies blocked in all major browsers by default.')

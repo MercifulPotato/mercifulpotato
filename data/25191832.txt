@@ -1,1 +1,1 @@
-Item(by='akakievich', descendants=0, kids=None, score=3, time=1606165336, title='Demystifying the second law of thermodynamics', item_type='story', url='https://erischel.com/demystifying-the-second-law-of-thermodynamics/', parent=None, text=None)
+Item(by='akakievich', descendants=9, kids=[25200036, 25201453, 25201362, 25200894, 25200055, 25200043], score=24, time=1606165336, title='Demystifying the second law of thermodynamics', item_type='story', url='https://erischel.com/demystifying-the-second-law-of-thermodynamics/', parent=None, text=None)

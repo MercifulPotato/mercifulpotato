@@ -1,1 +1,1 @@
-Item(by='gspr', descendants=None, kids=None, score=None, time=1606220211, title=None, item_type='comment', url=None, parent=25197656, text='I agree that the first quote is unfortunate.<p>For the second quote, I struggle to understand your point. It seems entirely relevant to me.')
+Item(by='gspr', descendants=None, kids=[25198325], score=None, time=1606220211, title=None, item_type='comment', url=None, parent=25197656, text='I agree that the first quote is unfortunate.<p>For the second quote, I struggle to understand your point. It seems entirely relevant to me.')

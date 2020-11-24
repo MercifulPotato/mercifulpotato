@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1606168572, title=None, item_type='comment', url=None, parent=25190222, text='&gt;Also, we have regulated food prices in the US<p>Can you expand on this?')
+Item(by='gruez', descendants=None, kids=[25201344], score=None, time=1606168572, title=None, item_type='comment', url=None, parent=25190222, text='&gt;Also, we have regulated food prices in the US<p>Can you expand on this?')

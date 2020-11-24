@@ -1,0 +1,1 @@
+Item(by='boogies', descendants=None, kids=[25202155], score=None, time=1606246122, title=None, item_type='comment', url=None, parent=25201596, text='oof, Powershell users have a very different definition of “one line” then I do. In bash I&#x27;d run<p>while true; do xdotool key Pause; sleep 240; <i>done</i>')

@@ -1,0 +1,1 @@
+Item(by='myrloc', descendants=0, kids=None, score=2, time=1606237685, title='AWS DynamoDB now supports PartiQL', item_type='story', url='https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-use-a-sql-compatible-query-language-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/', parent=None, text=None)

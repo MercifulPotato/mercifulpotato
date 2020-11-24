@@ -1,1 +1,1 @@
-Item(by='runald', descendants=None, kids=[25198392], score=None, time=1606222791, title=None, item_type='comment', url=None, parent=25197967, text='This one will have a dot.<p>Edit: Seems to be true, but porpoise&#x27;s comments is a clear counterexample.')
+Item(by='runald', descendants=None, kids=[25198392, 25199231], score=None, time=1606222791, title=None, item_type='comment', url=None, parent=25197967, text='This one will have a dot.<p>Edit: Seems to be true, but porpoise&#x27;s comments is a clear counterexample.')

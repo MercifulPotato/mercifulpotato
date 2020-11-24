@@ -1,1 +1,1 @@
-Item(by='f1refly', descendants=None, kids=None, score=None, time=1606207935, title=None, item_type='comment', url=None, parent=25193237, text='ssh is fine, but you could also use syncthing which is about 500% more user friendly')
+Item(by='f1refly', descendants=None, kids=[25198746], score=None, time=1606207935, title=None, item_type='comment', url=None, parent=25193237, text='ssh is fine, but you could also use syncthing which is about 500% more user friendly')

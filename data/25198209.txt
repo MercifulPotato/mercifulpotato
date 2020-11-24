@@ -1,1 +1,1 @@
-Item(by='childintime', descendants=0, kids=None, score=1, time=1606224367, title='WSL2 needs serial port workarounds for Arduino and ESP32', item_type='story', url='https://github.com/microsoft/WSL/issues/4322', parent=None, text=None)
+Item(by='childintime', descendants=0, kids=None, score=2, time=1606224367, title='WSL2 needs serial port workarounds for Arduino and ESP32', item_type='story', url='https://github.com/microsoft/WSL/issues/4322', parent=None, text=None)

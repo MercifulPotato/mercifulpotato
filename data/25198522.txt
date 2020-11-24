@@ -1,0 +1,1 @@
+Item(by='jessaustin', descendants=None, kids=[25199122, 25199092], score=None, time=1606226931, title=None, item_type='comment', url=None, parent=25198448, text='If browsers could fix CSRF for JSON they could probably fix it in general. My impression is that browsers have done what they can. Sites without CSRF protection should do a better job.')

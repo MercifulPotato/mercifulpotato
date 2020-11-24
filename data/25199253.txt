@@ -1,0 +1,1 @@
+Item(by='renke1', descendants=None, kids=[25199472, 25200229, 25200467], score=None, time=1606231420, title=None, item_type='comment', url=None, parent=25199070, text='That&#x27;s rather sad, union types are really what I like most about TypeScript. This might explain why VS Code feels so slow sometimes when type checking, because I have a few types that rely heavily on unions.')

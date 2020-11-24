@@ -1,1 +1,1 @@
-Item(by='jcstauffer', descendants=None, kids=None, score=None, time=1606226567, title=None, item_type='comment', url=None, parent=25198367, text='Or Blondie?')
+Item(by='jcstauffer', descendants=None, kids=[25201901, 25198600], score=None, time=1606226567, title=None, item_type='comment', url=None, parent=25198367, text='Or Blondie?')

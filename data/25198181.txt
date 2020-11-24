@@ -1,1 +1,1 @@
-Item(by='ykat7', descendants=0, kids=None, score=2, time=1606224114, title='BitBar Needs a Developer', item_type='story', url='https://mjtsai.com/blog/2020/10/09/bitbar-needs-a-developer/', parent=None, text=None)
+Item(by='ykat7', descendants=1, kids=[25198246], score=2, time=1606224114, title='BitBar Needs a Developer', item_type='story', url='https://mjtsai.com/blog/2020/10/09/bitbar-needs-a-developer/', parent=None, text=None)

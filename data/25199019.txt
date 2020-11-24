@@ -1,0 +1,1 @@
+Item(by='dgrin91', descendants=None, kids=[25199838, 25199914], score=None, time=1606230021, title=None, item_type='comment', url=None, parent=25196023, text='It means orders of magnitude less. The part of the blockchain that proves your transaction was valid is now (oversimplifying here) just a boolean check instead of running a hash algo over and over')

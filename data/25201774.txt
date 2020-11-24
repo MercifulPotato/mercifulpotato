@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=None, score=None, time=1606244598, title=None, item_type='comment', url=None, parent=25201606, text='Apple didn&#x27;t start LLVM. Apple started <i>Clang</i> (and possibly LLDB?), Apple hired Chris Lattner because of LLVM.')

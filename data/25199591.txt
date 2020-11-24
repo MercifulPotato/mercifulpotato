@@ -1,0 +1,1 @@
+Item(by='dahfizz', descendants=None, kids=[25199663, 25199656, 25200846], score=None, time=1606233623, title=None, item_type='comment', url=None, parent=25199534, text='I don&#x27;t understand this at all. Type annotations absolutely make a code base easier to maintain, not the opposite. If you are in the &quot;types are overhead&quot; camp, why use typescript at all?')

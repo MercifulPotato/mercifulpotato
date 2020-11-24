@@ -1,1 +1,1 @@
-Item(by='anoncake', descendants=None, kids=None, score=None, time=1606173702, title=None, item_type='comment', url=None, parent=25187163, text='The 2009 outbreak wasn&#x27;t comparable to the Spanish Flu.')
+Item(by='anoncake', descendants=None, kids=[25199781], score=None, time=1606173702, title=None, item_type='comment', url=None, parent=25187163, text='The 2009 outbreak wasn&#x27;t comparable to the Spanish Flu.')

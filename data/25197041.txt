@@ -1,1 +1,1 @@
-Item(by='Dmytro_Trotsko', descendants=0, kids=None, score=9, time=1606212437, title='Enterprise UX Design: Make me think', item_type='story', url='https://adamfard.com/blog/enterprise-ux', parent=None, text=None)
+Item(by='Dmytro_Trotsko', descendants=10, kids=[25198897, 25200775, 25199219, 25201289, 25200334, 25200263, 25199337, 25198644], score=55, time=1606212437, title='Enterprise UX Design: Make me think', item_type='story', url='https://adamfard.com/blog/enterprise-ux', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='petre', descendants=None, kids=None, score=None, time=1606200240, title=None, item_type='comment', url=None, parent=25192821, text='What about residence? I don&#x27;t care much for voting rights.')
+Item(by='petre', descendants=None, kids=[25200880], score=None, time=1606200240, title=None, item_type='comment', url=None, parent=25192821, text='What about residence? I don&#x27;t care much for voting rights.')

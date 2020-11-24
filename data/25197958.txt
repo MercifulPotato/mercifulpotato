@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=4, time=1606222144, title='Amazon Sidewalk (Echo/Ring mesh network with neighbours) is opt-out', item_type='story', url='https://twitter.com/mittermayr/status/1331214262870663171', parent=None, text=None)
+Item(by='tosh', descendants=5, kids=[25198337, 25199502, 25199633], score=21, time=1606222144, title='Amazon Sidewalk (Echo/Ring mesh network with neighbours) is opt-out', item_type='story', url='https://twitter.com/mittermayr/status/1331214262870663171', parent=None, text=None)

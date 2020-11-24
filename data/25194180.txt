@@ -1,1 +1,1 @@
-Item(by='boobybomb', descendants=None, kids=None, score=None, time=1606181209, title=None, item_type='comment', url=None, parent=25169447, text='Technology gone berserk.')
+Item(by='boobybomb', descendants=None, kids=[25202416], score=None, time=1606181209, title=None, item_type='comment', url=None, parent=25169447, text='Technology gone berserk.')

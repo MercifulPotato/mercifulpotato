@@ -1,0 +1,1 @@
+Item(by='chaz6', descendants=None, kids=None, score=None, time=1606236340, title=None, item_type='comment', url=None, parent=25190125, text='I really wish ESNI used certs for IP addresses instead of relying on a DNS hack. It could do onion-style security with the outer handshake protected by the IP address cert, and the inner layer protected by the domain name cert.')
