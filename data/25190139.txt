@@ -1,1 +1,1 @@
-Item(by='surround', descendants=None, kids=None, score=None, time=1606157326, title=None, item_type='comment', url=None, parent=25189231, text='It says “no credit card required.” Can they stop people from making multiple accounts and getting unlimited certificates?')
+Item(by='surround', descendants=None, kids=[25192401], score=None, time=1606157326, title=None, item_type='comment', url=None, parent=25189231, text='It says “no credit card required.” Can they stop people from making multiple accounts and getting unlimited certificates?')

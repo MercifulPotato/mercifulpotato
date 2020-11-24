@@ -1,0 +1,1 @@
+Item(by='sgarland', descendants=None, kids=None, score=None, time=1606170868, title=None, item_type='comment', url=None, parent=25187636, text='Not having to recreate your Python env, not having to worry about dependencies (once they&#x27;re pinned), the ability to run the app on a hosted service like Fargate instead of managing the server...')

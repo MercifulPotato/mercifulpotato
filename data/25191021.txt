@@ -1,0 +1,1 @@
+Item(by='colejohnson66', descendants=None, kids=None, score=None, time=1606161533, title=None, item_type='comment', url=None, parent=25189706, text='How does yarn affect that number? AIUI, yarn caches the packages on your machine so if you create multiple tract projects (for example), it only downloads react and its dependencies once.')

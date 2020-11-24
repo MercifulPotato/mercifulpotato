@@ -1,1 +1,1 @@
-Item(by='imgabe', descendants=None, kids=None, score=None, time=1606139619, title=None, item_type='comment', url=None, parent=25186511, text='Why wouldn&#x27;t your wife and kid be backpacking with you? Kids are small, they fit in the overhead compartment.')
+Item(by='imgabe', descendants=None, kids=[25192158], score=None, time=1606139619, title=None, item_type='comment', url=None, parent=25186511, text='Why wouldn&#x27;t your wife and kid be backpacking with you? Kids are small, they fit in the overhead compartment.')

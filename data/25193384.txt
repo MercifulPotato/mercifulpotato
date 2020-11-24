@@ -1,0 +1,1 @@
+Item(by='daniellarusso', descendants=None, kids=[25194253], score=None, time=1606175344, title=None, item_type='comment', url=None, parent=25192994, text='Also, the other risk is the device not respecting what your router says to use for the DNS server.<p>So, it could still bypass piHole and still resolve hostnames.')

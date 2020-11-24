@@ -1,0 +1,1 @@
+Item(by='mod', descendants=None, kids=[25191273], score=None, time=1606162627, title=None, item_type='comment', url=None, parent=25187702, text='Instead of the lambda workflow, you could just stick it on a server in a cron job. I pretty much do that with a bunch of things on DigitalOcean, although there&#x27;s a ton of comparable services.')

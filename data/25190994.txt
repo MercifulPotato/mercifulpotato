@@ -1,1 +1,1 @@
-Item(by='ywei3410', descendants=None, kids=None, score=None, time=1606161387, title=None, item_type='comment', url=None, parent=25190558, text='Have you preferred Nix or Guix (specifically in writing the configuration&#x2F;managing the system)?')
+Item(by='ywei3410', descendants=None, kids=[25193152], score=None, time=1606161387, title=None, item_type='comment', url=None, parent=25190558, text='Have you preferred Nix or Guix (specifically in writing the configuration&#x2F;managing the system)?')

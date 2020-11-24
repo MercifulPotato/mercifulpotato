@@ -1,0 +1,1 @@
+Item(by='aclatuts', descendants=None, kids=None, score=None, time=1606171638, title=None, item_type='comment', url=None, parent=25192409, text='I have started using google cloud run as a drop in replacement for Heroku.<p>It has almost all the same features and runs at almost any GCP location.')

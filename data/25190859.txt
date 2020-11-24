@@ -1,1 +1,1 @@
-Item(by='zomgwat', descendants=None, kids=None, score=None, time=1606160834, title=None, item_type='comment', url=None, parent=25189002, text='Thanks!<p>Best done as an employee is spot on.')
+Item(by='zomgwat', descendants=None, kids=[25192974], score=None, time=1606160834, title=None, item_type='comment', url=None, parent=25189002, text='Thanks!<p>Best done as an employee is spot on.')

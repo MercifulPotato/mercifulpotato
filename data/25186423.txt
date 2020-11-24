@@ -1,1 +1,1 @@
-Item(by='wallflower', descendants=0, kids=None, score=2, time=1606137504, title='A new jailbreak for a new era', item_type='story', url='https://theodyssey.dev/', parent=None, text=None)
+Item(by='wallflower', descendants=110, kids=[25192729, 25192898, 25193580, 25192982, 25194331, 25192292, 25193583, 25192954, 25192542, 25192503], score=153, time=1606137504, title='A new jailbreak for a new era', item_type='story', url='https://theodyssey.dev/', parent=None, text=None)

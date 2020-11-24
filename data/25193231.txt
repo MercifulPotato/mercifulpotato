@@ -1,0 +1,1 @@
+Item(by='chongli', descendants=None, kids=None, score=None, time=1606174377, title=None, item_type='comment', url=None, parent=25190732, text='It’s also just a specific case of the more general idea of writing libraries and common APIs instead of monolithic applications. This can be seen in the Unix philosophy with standard IO and pipelines.')

@@ -1,0 +1,1 @@
+Item(by='zelly', descendants=None, kids=[25194039], score=None, time=1606163069, title=None, item_type='comment', url=None, parent=25190827, text='Because then you&#x27;re forcing clients to use malloc rather than their own allocator')

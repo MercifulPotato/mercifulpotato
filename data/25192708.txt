@@ -1,0 +1,1 @@
+Item(by='mbakke', descendants=None, kids=None, score=None, time=1606170532, title=None, item_type='comment', url=None, parent=25191261, text='You can do manual partitioning in the installer.<p>The 1.1.0 release had a problem with certain EFI configurations, but I think they are fixed with 1.2.0.  If not, please file a bug report!')

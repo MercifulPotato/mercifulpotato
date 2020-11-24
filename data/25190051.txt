@@ -1,1 +1,1 @@
-Item(by='TwoBit', descendants=None, kids=None, score=None, time=1606156940, title=None, item_type='comment', url=None, parent=25189719, text='I don&#x27;t see how your first sentence follows when looking at all the graphs.')
+Item(by='TwoBit', descendants=None, kids=[25191381], score=None, time=1606156940, title=None, item_type='comment', url=None, parent=25189719, text='I don&#x27;t see how your first sentence follows when looking at all the graphs.')

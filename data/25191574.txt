@@ -1,0 +1,1 @@
+Item(by='xu3u32', descendants=None, kids=[25193426], score=None, time=1606164225, title=None, item_type='comment', url=None, parent=25187940, text='How hard is CORS set up with dedicated frontend&#x2F;backend? I&#x27;m running into this with Django REST and VueJS. Or do you just host both using Heroku?')

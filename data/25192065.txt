@@ -1,0 +1,1 @@
+Item(by='kissiel', descendants=None, kids=None, score=None, time=1606166490, title=None, item_type='comment', url=None, parent=25191680, text='GNU&#x2F;Linux. As in my top post - kernel 5.9. Arch&#x27;s wiki page is close to useless for Zen2. Renoir currently reports comically low `scaling_available_frequencies` - in my case:\n`1700000 1600000 1400000` even when plugged in.')

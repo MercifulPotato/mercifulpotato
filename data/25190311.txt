@@ -1,1 +1,1 @@
-Item(by='IshKebab', descendants=None, kids=None, score=None, time=1606158137, title=None, item_type='comment', url=None, parent=25190120, text='Pretty good advert for not writing code in C.')
+Item(by='IshKebab', descendants=None, kids=[25192236], score=None, time=1606158137, title=None, item_type='comment', url=None, parent=25190120, text='Pretty good advert for not writing code in C.')

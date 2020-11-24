@@ -1,1 +1,1 @@
-Item(by='cromulent', descendants=0, kids=None, score=7, time=1606156290, title='Water Based Analog Computer', item_type='story', url='https://en.wikipedia.org/wiki/Water_integrator', parent=None, text=None)
+Item(by='cromulent', descendants=1, kids=[25191985], score=21, time=1606156290, title='Water Based Analog Computer', item_type='story', url='https://en.wikipedia.org/wiki/Water_integrator', parent=None, text=None)

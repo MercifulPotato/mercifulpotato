@@ -1,1 +1,1 @@
-Item(by='Niccizero', descendants=None, kids=None, score=None, time=1606136763, title=None, item_type='comment', url=None, parent=25185842, text='Why not just use a X230?')
+Item(by='Niccizero', descendants=None, kids=[25191367], score=None, time=1606136763, title=None, item_type='comment', url=None, parent=25185842, text='Why not just use a X230?')

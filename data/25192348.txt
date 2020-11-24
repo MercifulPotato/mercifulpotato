@@ -1,0 +1,1 @@
+Item(by='qayxc', descendants=None, kids=[25192605], score=None, time=1606168157, title=None, item_type='comment', url=None, parent=25191978, text='&gt; will this allow hardware vendors additional means to prevent me from installing Linux?<p>No. Pluton serves as an on-chip secure enclave for encryption keys and the like. This is unrelated to installing operating systems.')

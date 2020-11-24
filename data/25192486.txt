@@ -1,0 +1,1 @@
+Item(by='huhtenberg', descendants=None, kids=None, score=None, time=1606169038, title=None, item_type='comment', url=None, parent=25191434, text='Looks suspiciously like an alignment issue, with driver expecting something somewhere to be aligned to 4&#x2F;8 bytes or be a multiple of dword&#x2F;qword?')

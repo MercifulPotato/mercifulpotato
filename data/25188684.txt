@@ -1,1 +1,1 @@
-Item(by='lainga', descendants=None, kids=None, score=None, time=1606150204, title=None, item_type='comment', url=None, parent=25187451, text='Do you spend 20 minutes expounding on HN articles to your friends and family without waiting for a response?')
+Item(by='lainga', descendants=None, kids=[25192062], score=None, time=1606150204, title=None, item_type='comment', url=None, parent=25187451, text='Do you spend 20 minutes expounding on HN articles to your friends and family without waiting for a response?')

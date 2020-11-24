@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=None, score=None, time=1606181678, title=None, item_type='comment', url=None, parent=25194239, text='You can&#x27;t blame MS for UTF-16.  They adopted it when it was UCS-2 and unicode only had 64k codepoints.  They are stuck on the older technology because they were early adopters.')

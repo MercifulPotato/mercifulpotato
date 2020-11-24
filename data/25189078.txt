@@ -1,1 +1,1 @@
-Item(by='srijan4', descendants=0, kids=None, score=17, time=1606152051, title='Changed-block tracking and differential backups in QEMU', item_type='story', url='https://lwn.net/SubscriberLink/837053/1a4a7fb108cfb870/', parent=None, text=None)
+Item(by='srijan4', descendants=3, kids=[25190846, 25192721], score=35, time=1606152051, title='Changed-block tracking and differential backups in QEMU', item_type='story', url='https://lwn.net/SubscriberLink/837053/1a4a7fb108cfb870/', parent=None, text=None)
