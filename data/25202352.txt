@@ -1,0 +1,1 @@
+Item(by='twunde', descendants=None, kids=None, score=None, time=1606247695, title=None, item_type='comment', url=None, parent=25200214, text='While most mid to large size enterprizes are likely running Active Directory, it makes sense to set up SAML as GSuite, LDAP and Active Directory all support SAML workflows including Just In Time (JIT) provisioning.')

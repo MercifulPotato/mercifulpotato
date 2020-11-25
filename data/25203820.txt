@@ -1,0 +1,1 @@
+Item(by='news_to_me', descendants=None, kids=[25204416], score=None, time=1606257356, title=None, item_type='comment', url=None, parent=25203786, text='Yeah, you might be right about that. Still, that&#x27;s not using a progress bar correctly if it&#x27;s measuring multiple tasks — they should be measured individually, with spinners or a segmented progress bar.')

@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=[25205209], score=None, time=1606268557, title=None, item_type='comment', url=None, parent=25205055, text='Yeah, those aren&#x27;t relevant to what I was saying here. Pick <i>any</i> permutation of [2N, 2N + 1, ..., 3N - 1] for N as large as you want and you&#x27;ll see this algorithm estimate the median as N.')

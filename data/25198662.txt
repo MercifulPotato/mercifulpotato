@@ -1,1 +1,1 @@
-Item(by='MisutaRoboto', descendants=0, kids=None, score=4, time=1606227922, title='Vivaldi Browser Introduces Vivaldi Mail, Calendar and RSS Technical Previews', item_type='story', url='https://vivaldi.com/blog/vivaldi-mail-technical-preview/', parent=None, text=None)
+Item(by='MisutaRoboto', descendants=2, kids=[25204916, 25202625], score=20, time=1606227922, title='Vivaldi Browser Introduces Vivaldi Mail, Calendar and RSS Technical Previews', item_type='story', url='https://vivaldi.com/blog/vivaldi-mail-technical-preview/', parent=None, text=None)

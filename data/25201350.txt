@@ -1,1 +1,1 @@
-Item(by='hoppla', descendants=None, kids=None, score=None, time=1606242481, title=None, item_type='comment', url=None, parent=25200893, text='Meaningful engagement is the key for a successful bug hunt!')
+Item(by='hoppla', descendants=None, kids=[25202828], score=None, time=1606242481, title=None, item_type='comment', url=None, parent=25200893, text='Meaningful engagement is the key for a successful bug hunt!')

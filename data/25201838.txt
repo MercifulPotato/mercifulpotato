@@ -1,1 +1,1 @@
-Item(by='erentz', descendants=None, kids=None, score=None, time=1606244820, title=None, item_type='comment', url=None, parent=25201837, text='Note original title “AMA? BITFD!” is vague so chose another line from the article that better describes it.')
+Item(by='erentz', descendants=None, kids=[25202939], score=None, time=1606244820, title=None, item_type='comment', url=None, parent=25201837, text='Note original title “AMA? BITFD!” is vague so chose another line from the article that better describes it.')

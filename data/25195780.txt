@@ -1,1 +1,1 @@
-Item(by='JackWritesCode', descendants=None, kids=None, score=None, time=1606198064, title=None, item_type='comment', url=None, parent=25195690, text='They&#x27;re still going to need to process IP addresses or some kind of PII though, that&#x27;s the thing :(')
+Item(by='JackWritesCode', descendants=None, kids=[25202660], score=None, time=1606198064, title=None, item_type='comment', url=None, parent=25195690, text='They&#x27;re still going to need to process IP addresses or some kind of PII though, that&#x27;s the thing :(')

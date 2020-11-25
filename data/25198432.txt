@@ -1,1 +1,1 @@
-Item(by='rafaelturk', descendants=None, kids=None, score=None, time=1606226362, title=None, item_type='comment', url=None, parent=25198424, text='yep. Looks like the 90s, is kind of cool. equally dangerous.')
+Item(by='rafaelturk', descendants=None, kids=[25202693], score=None, time=1606226362, title=None, item_type='comment', url=None, parent=25198424, text='yep. Looks like the 90s, is kind of cool. equally dangerous.')

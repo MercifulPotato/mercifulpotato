@@ -1,0 +1,1 @@
+Item(by='slondr', descendants=None, kids=None, score=None, time=1606259020, title=None, item_type='comment', url=None, parent=25204034, text='Does this actually work as good as ssh -X? Last time I tried it the latency was horrible and it crashed often.')

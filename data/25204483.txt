@@ -1,0 +1,1 @@
+Item(by='sedatk', descendants=None, kids=[25204624], score=None, time=1606262555, title=None, item_type='comment', url=None, parent=25203864, text='Reference counting releases memory as soon as it gets dereferenced, while GC cleans up memory periodically, which means higher memory usage (more than what&#x27;s actually in use at any moment).')

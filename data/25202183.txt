@@ -1,1 +1,1 @@
-Item(by='boogies', descendants=None, kids=[25202202], score=None, time=1606246768, title=None, item_type='comment', url=None, parent=25202155, text='That’s over 80 characters long.')
+Item(by='boogies', descendants=None, kids=[25202202], score=None, time=1606246768, title=None, item_type='comment', url=None, parent=25202155, text='That’s over 80 characters long.<p>Note that comparing AHK to xdotool is like comparing a Titanic-sized roll of Flex Tape to duct tape. I don’t use boats that have taken a lot of damage, so I don&#x27;t need Titanic-sized Flex Tape.')

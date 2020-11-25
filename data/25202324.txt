@@ -1,0 +1,1 @@
+Item(by='chc', descendants=None, kids=[25203273], score=None, time=1606247530, title=None, item_type='comment', url=None, parent=25202007, text='Small clarification — Rust very deliberately does not do OO. It has features that look sort of like OO from a syntactic standpoint, but being object oriented is not a design goal for Rust.')

@@ -1,0 +1,1 @@
+Item(by='SomeoneFromCA', descendants=None, kids=None, score=None, time=1606252077, title=None, item_type='comment', url=None, parent=25197613, text='I&#x27;d argue that a NN cannot have linear activation. I mean, if the activation function is linear, it is not an NN anymore.')

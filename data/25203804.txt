@@ -1,0 +1,1 @@
+Item(by='StavrosK', descendants=None, kids=[25204328], score=None, time=1606257224, title=None, item_type='comment', url=None, parent=25203748, text='Hmm, that&#x27;s interesting. I&#x27;ve never tried ESPhome, but I should. I rolled my own five years ago and it&#x27;s been working fine so far, but ESPhome + Home Assistant might be easier to configure and update than Espurna.')

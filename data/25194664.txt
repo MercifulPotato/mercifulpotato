@@ -1,1 +1,1 @@
-Item(by='hendry', descendants=None, kids=[25195643, 25196479, 25194810, 25195951], score=None, time=1606185409, title=None, item_type='comment', url=None, parent=25192733, text='Use serverless guys.<p>k8s is a train wreck of needless complexity for 99% of developers.')
+Item(by='hendry', descendants=None, kids=[25195643, 25194810, 25196479, 25195951], score=None, time=1606185409, title=None, item_type='comment', url=None, parent=25192733, text='Use serverless guys.<p>k8s is a train wreck of needless complexity for 99% of developers.')

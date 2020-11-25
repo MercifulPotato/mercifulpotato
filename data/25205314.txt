@@ -1,0 +1,1 @@
+Item(by='bfuclusion', descendants=None, kids=None, score=None, time=1606270919, title=None, item_type='comment', url=None, parent=25203404, text='This algorithm basically works when the number of elements to compute the median for is at least as large as the true median, and you&#x27;ve a fairly normal distribution of element values.')

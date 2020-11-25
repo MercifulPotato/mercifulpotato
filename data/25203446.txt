@@ -1,0 +1,1 @@
+Item(by='Androider', descendants=None, kids=None, score=None, time=1606255225, title=None, item_type='comment', url=None, parent=25200846, text='It tells you what the function return type is, which isn&#x27;t necessarily the same as the return type you might have manually typed or intended. For example, undefined&#x27;s sneaking into the type because of branching code.')

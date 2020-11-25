@@ -1,0 +1,1 @@
+Item(by='harporoeder', descendants=0, kids=None, score=1, time=1606252714, title='Docker lock: Manage image digests by tracking them in a separate Lockfile', item_type='story', url='https://github.com/safe-waters/docker-lock', parent=None, text=None)

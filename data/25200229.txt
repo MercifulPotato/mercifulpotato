@@ -1,1 +1,1 @@
-Item(by='breck', descendants=None, kids=None, score=None, time=1606236799, title=None, item_type='comment', url=None, parent=25199253, text='id run some benchmarks first on your codebase. would be surprised if union types were a top bottleneck.')
+Item(by='breck', descendants=None, kids=[25204602], score=None, time=1606236799, title=None, item_type='comment', url=None, parent=25199253, text='id run some benchmarks first on your codebase. would be surprised if union types were a top bottleneck.')

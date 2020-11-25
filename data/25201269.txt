@@ -1,1 +1,1 @@
-Item(by='vips7L', descendants=0, kids=None, score=2, time=1606242027, title='Error codes are far slower than exceptions', item_type='story', url='https://lordsoftech.com/programming/error-codes-are-far-slower-than-exceptions/', parent=None, text=None)
+Item(by='vips7L', descendants=10, kids=[25203690, 25204899, 25204762, 25203304, 25203680, 25204668], score=21, time=1606242027, title='Error codes are far slower than exceptions', item_type='story', url='https://lordsoftech.com/programming/error-codes-are-far-slower-than-exceptions/', parent=None, text=None)

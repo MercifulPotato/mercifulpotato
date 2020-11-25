@@ -1,1 +1,1 @@
-Item(by='woahAcademia', descendants=None, kids=None, score=None, time=1606220941, title=None, item_type='comment', url=None, parent=25196667, text='I like monero, but these are complete different use cases. Ethereum wants to be a database, monero wants to be a currency.')
+Item(by='woahAcademia', descendants=None, kids=[25204405], score=None, time=1606220941, title=None, item_type='comment', url=None, parent=25196667, text='I like monero, but these are complete different use cases. Ethereum wants to be a database, monero wants to be a currency.')

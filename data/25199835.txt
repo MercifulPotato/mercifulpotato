@@ -1,1 +1,1 @@
-Item(by='elorant', descendants=1, kids=[25199899], score=4, time=1606234879, title='We Do Not Have the Internet We Deserve', item_type='story', url='https://www.techdirt.com/articles/20201026/07113245585/we-do-not-have-internet-we-deserve.shtml', parent=None, text=None)
+Item(by='elorant', descendants=2, kids=[25202929, 25199899], score=4, time=1606234879, title='We Do Not Have the Internet We Deserve', item_type='story', url='https://www.techdirt.com/articles/20201026/07113245585/we-do-not-have-internet-we-deserve.shtml', parent=None, text=None)

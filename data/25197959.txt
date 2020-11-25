@@ -1,1 +1,1 @@
-Item(by='CapitalistCartr', descendants=1, kids=[25199952], score=11, time=1606222176, title='Jeff Bezos: Here’s how I make Amazon’s highest-stakes decisions', item_type='story', url='https://www.fastcompany.com/90578272/how-jeff-bezos-makes-decisions', parent=None, text=None)
+Item(by='CapitalistCartr', descendants=2, kids=[25205082, 25199952], score=11, time=1606222176, title='Jeff Bezos: Here’s how I make Amazon’s highest-stakes decisions', item_type='story', url='https://www.fastcompany.com/90578272/how-jeff-bezos-makes-decisions', parent=None, text=None)

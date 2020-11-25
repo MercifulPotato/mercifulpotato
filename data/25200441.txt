@@ -1,1 +1,1 @@
-Item(by='HunorBorbely', descendants=1, kids=[25200778], score=2, time=1606237827, title='Learn React and Vue in 20 minutes', item_type='story', url='https://www.youtube.com/watch?v=1lPrtceM6QQ', parent=None, text=None)
+Item(by='HunorBorbely', descendants=2, kids=[25200778], score=2, time=1606237827, title='Learn React and Vue in 20 minutes', item_type='story', url='https://www.youtube.com/watch?v=1lPrtceM6QQ', parent=None, text=None)

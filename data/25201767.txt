@@ -1,1 +1,1 @@
-Item(by='Sami_Lehtinen', descendants=0, kids=None, score=2, time=1606244567, title='Scaleway Stardust Instances', item_type='story', url='https://www.scaleway.com/en/stardust-instances/', parent=None, text=None)
+Item(by='Sami_Lehtinen', descendants=32, kids=[25202977, 25203340, 25205379, 25205251, 25202884, 25203643, 25203136, 25204506, 25202647, 25203558, 25202649, 25203000, 25203761], score=78, time=1606244567, title='Scaleway Stardust Instances', item_type='story', url='https://www.scaleway.com/en/stardust-instances/', parent=None, text=None)

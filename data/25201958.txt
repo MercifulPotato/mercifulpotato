@@ -1,1 +1,1 @@
-Item(by='andrewmcwatters', descendants=None, kids=None, score=None, time=1606245407, title=None, item_type='comment', url=None, parent=25201932, text='OK, good point. Removing it.')
+Item(by='andrewmcwatters', descendants=None, kids=[25204261], score=None, time=1606245407, title=None, item_type='comment', url=None, parent=25201932, text='OK, good point. Removing it.')

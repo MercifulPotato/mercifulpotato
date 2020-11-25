@@ -1,0 +1,1 @@
+Item(by='roca', descendants=None, kids=None, score=None, time=1606252707, title=None, item_type='comment', url=None, parent=25199153, text='You could have a playback mode where you use real focus and caret. E.g. DOMRec could easily be modified to do this in fullscreen mode.<p>After that it might Just Work since the ARIA roles are in the DOM. Indeed it would be very cool!')

@@ -1,0 +1,1 @@
+Item(by='tunesmith', descendants=None, kids=[25204195], score=None, time=1606259865, title=None, item_type='comment', url=None, parent=25203038, text='I think duty #1 of a progress bar is just to reliably communicate whether it is frozen or not. In many cases, slow progress is fine as long as it isn&#x27;t stuck.')

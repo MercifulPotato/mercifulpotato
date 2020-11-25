@@ -1,0 +1,1 @@
+Item(by='raphaelj', descendants=None, kids=[25204842], score=None, time=1606261887, title=None, item_type='comment', url=None, parent=25203970, text='This is most probably more linked to Java&#x2F;Kotlin vs Objective-C&#x2F;Swift. Want an array of 1000 objects in Java ? You&#x27;ll endup with 1001 allocations and 1000 pointers.')

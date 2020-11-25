@@ -1,1 +1,1 @@
-Item(by='ampdepolymerase', descendants=None, kids=None, score=None, time=1606245178, title=None, item_type='comment', url=None, parent=25201751, text='Quantopian tried this. Didn&#x27;t work out. Now they have been acquihired by Robin Hood.')
+Item(by='ampdepolymerase', descendants=None, kids=[25204177], score=None, time=1606245178, title=None, item_type='comment', url=None, parent=25201751, text='Quantopian tried this. Didn&#x27;t work out. Now they have been acquihired by Robin Hood.')

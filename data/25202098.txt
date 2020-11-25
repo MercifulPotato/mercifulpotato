@@ -1,1 +1,1 @@
-Item(by='parpalak', descendants=0, kids=None, score=1, time=1606246228, title="Show HN: Arnold's puzzle – a brand new math puzzle based on discrete geometry", item_type='story', url='https://arnold.games/', parent=None, text=None)
+Item(by='parpalak', descendants=1, kids=[25202119], score=2, time=1606246228, title="Show HN: Arnold's puzzle – a brand new math puzzle based on discrete geometry", item_type='story', url='https://arnold.games/', parent=None, text=None)
