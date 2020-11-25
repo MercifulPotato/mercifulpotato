@@ -1,0 +1,1 @@
+Item(by='jpp', descendants=None, kids=[25212917], score=None, time=1606324874, title=None, item_type='comment', url=None, parent=25210694, text='We&#x27;re also seeing issues with FarGate ECS -- the task we had with auto-scaling scaled down to 0. The one we had with a fixed number of workers is fine.')

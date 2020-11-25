@@ -1,0 +1,1 @@
+Item(by='dtjones', descendants=None, kids=None, score=None, time=1606319298, title=None, item_type='comment', url=None, parent=25209773, text='We&#x27;re getting 504 for our well-known jwks file<p>And request timeouts against cognito-idp.us-east-1.amazonaws.com<p>And the cognito console won&#x27;t load')

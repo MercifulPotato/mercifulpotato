@@ -1,0 +1,1 @@
+Item(by='ajuc', descendants=None, kids=None, score=None, time=1606321958, title=None, item_type='comment', url=None, parent=25210818, text='I like it as a simplistic builder. Much easier to read, autocompletes, and (I assume) handles escaping for you (because it knows you put only raw data inside).<p>Just escaping alone is a big selling point for me.')

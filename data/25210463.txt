@@ -1,0 +1,1 @@
+Item(by='valuearb', descendants=None, kids=None, score=None, time=1606319389, title=None, item_type='comment', url=None, parent=25208924, text='OCSP requests don’t identify software, they identify certificates. Each certificate can be used for dozens of different apps.')

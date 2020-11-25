@@ -1,1 +1,1 @@
-Item(by='person_of_color', descendants=None, kids=None, score=None, time=1606281871, title=None, item_type='comment', url=None, parent=25199476, text='Are you going to move back after the pandemic?')
+Item(by='person_of_color', descendants=None, kids=[25209981], score=None, time=1606281871, title=None, item_type='comment', url=None, parent=25199476, text='Are you going to move back after the pandemic?')

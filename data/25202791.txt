@@ -1,1 +1,1 @@
-Item(by='opsgal', descendants=None, kids=None, score=None, time=1606250468, title=None, item_type='comment', url=None, parent=25202704, text='OP here! Would you mind sharing your browser&#x2F;OS? Can take a look at that')
+Item(by='opsgal', descendants=None, kids=[25209754], score=None, time=1606250468, title=None, item_type='comment', url=None, parent=25202704, text='OP here! Would you mind sharing your browser&#x2F;OS? Can take a look at that')

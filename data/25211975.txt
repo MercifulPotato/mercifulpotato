@@ -1,0 +1,1 @@
+Item(by='Joeri', descendants=None, kids=None, score=None, time=1606326698, title=None, item_type='comment', url=None, parent=25207247, text='I think you’re right. I’ve only ever needed 32 gb when I was running a local hadoop cluster for development. Those virtual images required the same amount of ram regardless of OS.')

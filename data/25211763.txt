@@ -1,0 +1,1 @@
+Item(by='jandrese', descendants=None, kids=None, score=None, time=1606325451, title=None, item_type='comment', url=None, parent=25211713, text='Seems like the messages were e2ee, and when they got to the last e they were decrypted and then immediately uploaded to a third party because yay cloud.')

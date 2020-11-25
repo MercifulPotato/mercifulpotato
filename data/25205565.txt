@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1606273388, title=None, item_type='comment', url=None, parent=25204478, text='It’s stored in the isa pointer inside the object.')
+Item(by='saagarjha', descendants=None, kids=[25209227], score=None, time=1606273388, title=None, item_type='comment', url=None, parent=25204478, text='It’s stored in the isa pointer inside the object.')

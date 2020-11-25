@@ -1,1 +1,1 @@
-Item(by='dewey', descendants=None, kids=None, score=None, time=1606297193, title=None, item_type='comment', url=None, parent=25207402, text='REWE has a great online shop in case that’s an option for you. I exclusively use that one for the past year and it works really well.')
+Item(by='dewey', descendants=None, kids=[25209901], score=None, time=1606297193, title=None, item_type='comment', url=None, parent=25207402, text='REWE has a great online shop in case that’s an option for you. I exclusively use that one for the past year and it works really well.')

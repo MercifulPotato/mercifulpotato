@@ -1,1 +1,1 @@
-Item(by='ignisrising', descendants=None, kids=None, score=None, time=1606296300, title=None, item_type='comment', url=None, parent=25201798, text='is there even a reason for this? Don&#x27;t get me wrong, I love it, but why?')
+Item(by='ignisrising', descendants=None, kids=[25211252], score=None, time=1606296300, title=None, item_type='comment', url=None, parent=25201798, text='is there even a reason for this? Don&#x27;t get me wrong, I love it, but why?')

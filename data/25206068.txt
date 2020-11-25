@@ -1,1 +1,1 @@
-Item(by='agravier', descendants=None, kids=None, score=None, time=1606278833, title=None, item_type='comment', url=None, parent=25204593, text='What was so fun about it?')
+Item(by='agravier', descendants=None, kids=[25211253], score=None, time=1606278833, title=None, item_type='comment', url=None, parent=25204593, text='What was so fun about it?')

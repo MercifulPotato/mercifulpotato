@@ -1,0 +1,1 @@
+Item(by='booleanbetrayal', descendants=None, kids=[25213577, 25213462], score=None, time=1606324201, title=None, item_type='comment', url=None, parent=25210694, text='This is also affecting Fargate (at least EKS) in that its scheduling system is broken. No way to get new pods.')

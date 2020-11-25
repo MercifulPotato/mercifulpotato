@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1606300452, title=None, item_type='comment', url=None, parent=25205804, text='Coffeescript also won a lot of mindshare, the point is keeping it for decades.')
+Item(by='pjmlp', descendants=None, kids=[25210451], score=None, time=1606300452, title=None, item_type='comment', url=None, parent=25205804, text='Coffeescript also won a lot of mindshare, the point is keeping it for decades.')

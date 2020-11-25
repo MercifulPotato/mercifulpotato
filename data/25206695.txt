@@ -1,1 +1,1 @@
-Item(by='the_duke', descendants=None, kids=None, score=None, time=1606288613, title=None, item_type='comment', url=None, parent=25206547, text='Qemu performance without hardware virtualization is painfully slow and is not really practical for eg running a Kubernetes cluster.')
+Item(by='the_duke', descendants=None, kids=[25211024], score=None, time=1606288613, title=None, item_type='comment', url=None, parent=25206547, text='Qemu performance without hardware virtualization is painfully slow and is not really practical for eg running a Kubernetes cluster.')

@@ -1,1 +1,1 @@
-Item(by='oblio', descendants=None, kids=None, score=None, time=1606292836, title=None, item_type='comment', url=None, parent=25204910, text='Regrets rarely appear 1 week after buying a product :-)')
+Item(by='oblio', descendants=None, kids=[25209494], score=None, time=1606292836, title=None, item_type='comment', url=None, parent=25204910, text='Regrets rarely appear 1 week after buying a product :-)')

@@ -1,1 +1,1 @@
-Item(by='tpmx', descendants=None, kids=None, score=None, time=1606254675, title=None, item_type='comment', url=None, parent=25201798, text='Now.. this is the kind of performance art&#x2F;marketing scheme I can get behind.')
+Item(by='tpmx', descendants=None, kids=[25211138], score=None, time=1606254675, title=None, item_type='comment', url=None, parent=25201798, text='Now.. this is the kind of performance art&#x2F;marketing scheme I can get behind.')

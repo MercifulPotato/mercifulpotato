@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=1, time=1606310516, title='Microsoft argues Xbox games commission is different from Apple’s App Store', item_type='story', url='https://9to5mac.com/2020/11/25/xbox-games-commission/', parent=None, text=None)
+Item(by='tosh', descendants=1, kids=[25209209], score=1, time=1606310516, title='Microsoft argues Xbox games commission is different from Apple’s App Store', item_type='story', url='https://9to5mac.com/2020/11/25/xbox-games-commission/', parent=None, text=None)

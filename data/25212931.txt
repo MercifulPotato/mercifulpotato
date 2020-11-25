@@ -1,0 +1,1 @@
+Item(by='rsynnott', descendants=None, kids=None, score=None, time=1606330916, title=None, item_type='comment', url=None, parent=25209194, text='Yeah; Apple claims 128 &quot;execution units&quot; and 24,576 concurrent threads (I assume something analogous to SMT going on there, though I don&#x27;t know enough about GPUs to be sure).')

@@ -1,0 +1,1 @@
+Item(by='anthk', descendants=None, kids=None, score=None, time=1606330359, title=None, item_type='comment', url=None, parent=25212744, text='&gt;BSD just dumps you into a shell<p>False. OpenBSD assk you at the install process if you want to launch Xenodm from Xenocara at boot.<p>You get fvwm, right, but X is totally configured.')

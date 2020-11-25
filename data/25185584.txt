@@ -1,1 +1,1 @@
-Item(by='Skinney', descendants=47, kids=[25189253, 25185608, 25191552, 25187280, 25187253], score=102, time=1606130075, title='Play: Statically typed Forth, compiled to WASM', item_type='story', url='https://www.play-lang.dev', parent=None, text=None)
+Item(by='Skinney', descendants=47, kids=[25189253, 25185608, 25191552, 25187280, 25187253], score=103, time=1606130075, title='Play: Statically typed Forth, compiled to WASM', item_type='story', url='https://www.play-lang.dev', parent=None, text=None)

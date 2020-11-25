@@ -1,1 +1,1 @@
-Item(by='tachyonbeam', descendants=None, kids=None, score=None, time=1606286978, title=None, item_type='comment', url=None, parent=25206255, text='It&#x27;s only got 8GB or 16GB of RAM AFAIK, because the RAM is part of the chip, and more memory would mean a really big die.')
+Item(by='tachyonbeam', descendants=None, kids=[25211650], score=None, time=1606286978, title=None, item_type='comment', url=None, parent=25206255, text='It&#x27;s only got 8GB or 16GB of RAM AFAIK, because the RAM is part of the chip, and more memory would mean a really big die.')

@@ -1,1 +1,1 @@
-Item(by='bdcravens', descendants=None, kids=None, score=None, time=1606314629, title=None, item_type='comment', url=None, parent=25208511, text='My first impression was that the software was from (as in, last updated) around 2008, possibly earlier. It has a very Windows XP era vibe.')
+Item(by='bdcravens', descendants=None, kids=[25210901], score=None, time=1606314629, title=None, item_type='comment', url=None, parent=25208511, text='My first impression was that the software was from (as in, last updated) around 2008, possibly earlier. It has a very Windows XP era vibe.')

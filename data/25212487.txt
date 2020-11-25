@@ -1,0 +1,1 @@
+Item(by='recursive', descendants=None, kids=[25213871], score=None, time=1606328914, title=None, item_type='comment', url=None, parent=25211115, text='Why would you be constructing stuff like that?  It consumes the input string up until it differs.  When is that useful in a regex?')

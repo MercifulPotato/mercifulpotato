@@ -1,1 +1,1 @@
-Item(by='fakedang', descendants=None, kids=None, score=None, time=1606300167, title=None, item_type='comment', url=None, parent=25207126, text='Did the bot only answer in AskReddit? Because if it did cover other subs too, I&#x27;d be shocked more.')
+Item(by='fakedang', descendants=None, kids=[25210880], score=None, time=1606300167, title=None, item_type='comment', url=None, parent=25207126, text='Did the bot only answer in AskReddit? Because if it did cover other subs too, I&#x27;d be shocked more.')

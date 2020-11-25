@@ -1,0 +1,1 @@
+Item(by='mpfundstein', descendants=None, kids=[25211853, 25211832], score=None, time=1606325285, title=None, item_type='comment', url=None, parent=25210757, text='how can one validate that the cached version is indeed bit equal to the one stored within ipfs?')

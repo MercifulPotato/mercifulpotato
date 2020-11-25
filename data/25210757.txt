@@ -1,0 +1,1 @@
+Item(by='georgyo', descendants=None, kids=[25211719], score=None, time=1606320913, title=None, item_type='comment', url=None, parent=25210642, text='You&#x27;re almost right. The IPFS gateway nodes also cache the content. IE, they are both storing, hosting, and sharing to other IPFS nodes.')

@@ -1,0 +1,1 @@
+Item(by='jdu9', descendants=None, kids=None, score=None, time=1606332988, title=None, item_type='comment', url=None, parent=25213236, text='BotStop by hCaptcha (enterprise). AFAIK there&#x27;s also a Google reCaptcha frontend that doesn&#x27;t require JS. Neither companies offer those solutions because of privacy or security benefits, but to support old IE versions of course.')

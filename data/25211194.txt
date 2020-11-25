@@ -1,0 +1,1 @@
+Item(by='rogueresearch', descendants=None, kids=None, score=None, time=1606322857, title=None, item_type='comment', url=None, parent=25210649, text='There are many servers still not using DKIM, as it requires a server&#x2F;software update.  But SPF is super easy, requiring only DNS changes.  Could probably do as you suggest looking at only SPF.')

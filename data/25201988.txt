@@ -1,1 +1,1 @@
-Item(by='shostack', descendants=None, kids=None, score=None, time=1606245581, title=None, item_type='comment', url=None, parent=25201486, text='Is it not possible to just buy a dumb LCD panel with inputs and use an OTT device to stream?')
+Item(by='shostack', descendants=None, kids=[25210349], score=None, time=1606245581, title=None, item_type='comment', url=None, parent=25201486, text='Is it not possible to just buy a dumb LCD panel with inputs and use an OTT device to stream?')

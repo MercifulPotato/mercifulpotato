@@ -1,1 +1,1 @@
-Item(by='porpoise', descendants=None, kids=None, score=None, time=1606306640, title=None, item_type='comment', url=None, parent=25207740, text='You mean &quot;substitute that other language for English&quot;? ;)')
+Item(by='porpoise', descendants=None, kids=[25211673], score=None, time=1606306640, title=None, item_type='comment', url=None, parent=25207740, text='You mean &quot;substitute that other language for English&quot;? ;)')

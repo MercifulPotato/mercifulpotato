@@ -1,1 +1,1 @@
-Item(by='draw_down', descendants=None, kids=None, score=None, time=1606307380, title=None, item_type='comment', url=None, parent=25208313, text='We used “boring technology” (the stuff we happen to like) and our startup still failed.')
+Item(by='draw_down', descendants=None, kids=[25209641], score=None, time=1606307380, title=None, item_type='comment', url=None, parent=25208313, text='We used “boring technology” (the stuff we happen to like) and our startup still failed.')

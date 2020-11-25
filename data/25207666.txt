@@ -1,1 +1,1 @@
-Item(by='florencebuzz', descendants=None, kids=None, score=None, time=1606299263, title=None, item_type='comment', url=None, parent=25206415, text='He was hired to do that, so is that his fault? I am afraid the article has a point.')
+Item(by='florencebuzz', descendants=None, kids=[25210143], score=None, time=1606299263, title=None, item_type='comment', url=None, parent=25206415, text='He was hired to do that, so is that his fault? I am afraid the article has a point.')

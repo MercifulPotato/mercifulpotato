@@ -1,0 +1,1 @@
+Item(by='actionowl', descendants=None, kids=None, score=None, time=1606333069, title=None, item_type='comment', url=None, parent=25211171, text='Multi-AZ doesn&#x27;t help when a whole region is down, unless you&#x27;re referring to multi-region AZs (e.g us-east-1a and us-west-1a)')

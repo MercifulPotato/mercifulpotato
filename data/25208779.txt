@@ -1,1 +1,1 @@
-Item(by='simonpure', descendants=1, kids=[25209062], score=2, time=1606309588, title='Why Java is better than C++ for high speed trading systems', item_type='story', url='https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems', parent=None, text=None)
+Item(by='simonpure', descendants=2, kids=[25209439, 25209062], score=4, time=1606309588, title='Why Java is better than C++ for high speed trading systems', item_type='story', url='https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems', parent=None, text=None)

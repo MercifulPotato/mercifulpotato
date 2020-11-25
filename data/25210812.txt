@@ -1,0 +1,1 @@
+Item(by='smt88', descendants=None, kids=[25212879, 25212135, 25210997], score=None, time=1606321157, title=None, item_type='comment', url=None, parent=25209508, text='It has been disappointing to see how many people on HN have business-critical production deployments in a single AZ. I thought we learned not to trust any one AWS location years ago when Netflix learned for us.')

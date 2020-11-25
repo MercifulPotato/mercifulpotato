@@ -1,1 +1,1 @@
-Item(by='jmnicolas', descendants=None, kids=None, score=None, time=1606309800, title=None, item_type='comment', url=None, parent=25208680, text='So next time tell us who you see win, then we&#x27;ll know the opponent will win! :)')
+Item(by='jmnicolas', descendants=None, kids=[25211359], score=None, time=1606309800, title=None, item_type='comment', url=None, parent=25208680, text='So next time tell us who you see win, then we&#x27;ll know the opponent will win! :)')

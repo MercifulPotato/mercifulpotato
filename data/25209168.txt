@@ -1,1 +1,1 @@
-Item(by='anthk', descendants=None, kids=None, score=None, time=1606312126, title=None, item_type='comment', url=None, parent=25207744, text='Fiber equipement is damn expensive.')
+Item(by='anthk', descendants=None, kids=[25210387], score=None, time=1606312126, title=None, item_type='comment', url=None, parent=25207744, text='Fiber equipement is damn expensive.')
