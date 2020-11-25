@@ -1,0 +1,1 @@
+Item(by='HotVector', descendants=None, kids=None, score=None, time=1606310684, title=None, item_type='comment', url=None, parent=25208474, text='RISC-V is the best example of open hardware, but it also has a lot to do with the software. Take the GPU space, for example - NVIDIA has closed source blobs, but AMD has open source drivers which makes it easier to tinker with.')

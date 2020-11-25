@@ -1,0 +1,1 @@
+Item(by='akx', descendants=None, kids=None, score=None, time=1606295825, title=None, item_type='comment', url=None, parent=25205508, text='That&#x27;s just the HTML canvas element and poor scaling. You can use your browser&#x27;s inspector to clean up the `width`&#x2F;`height` style attributes and add `image-rendering: pixelated`...')

@@ -1,1 +1,1 @@
-Item(by='Kalium', descendants=None, kids=None, score=None, time=1606287196, title=None, item_type='comment', url=None, parent=25206151, text='OKCupid moved to being swipe-based several years ago.')
+Item(by='Kalium', descendants=None, kids=[25209535], score=None, time=1606287196, title=None, item_type='comment', url=None, parent=25206151, text='OKCupid moved to being swipe-based several years ago.')

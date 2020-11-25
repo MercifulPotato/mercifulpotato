@@ -1,1 +1,1 @@
-Item(by='vaccinator', descendants=None, kids=None, score=None, time=1606287195, title=None, item_type='comment', url=None, parent=25206386, text='They do it with most subjects because they don&#x27;t have enough original content to fill in the time.')
+Item(by='vaccinator', descendants=None, kids=[25208359], score=None, time=1606287195, title=None, item_type='comment', url=None, parent=25206386, text='They do it with most subjects because they don&#x27;t have enough original content to fill in the time.')

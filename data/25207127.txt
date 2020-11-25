@@ -1,0 +1,1 @@
+Item(by='jhgb', descendants=None, kids=None, score=None, time=1606293473, title=None, item_type='comment', url=None, parent=25204868, text='You do get stack-allocated value types in languages like Go or C#, though, so these shouldn&#x27;t be subject to the same limitations that Java is.')

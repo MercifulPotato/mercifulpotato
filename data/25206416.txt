@@ -1,1 +1,1 @@
-Item(by='lilyball', descendants=None, kids=None, score=None, time=1606284649, title=None, item_type='comment', url=None, parent=25205394, text='M1 is faster at retain&#x2F;release under Rosetta2 than x86, and yet Rosetta2 still has the same strong memory model that x86 does.')
+Item(by='lilyball', descendants=None, kids=[25208019], score=None, time=1606284649, title=None, item_type='comment', url=None, parent=25205394, text='M1 is faster at retain&#x2F;release under Rosetta2 than x86, and yet Rosetta2 still has the same strong memory model that x86 does.')

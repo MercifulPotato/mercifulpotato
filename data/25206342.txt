@@ -1,1 +1,1 @@
-Item(by='simonebrunozzi', descendants=None, kids=None, score=None, time=1606283401, title=None, item_type='comment', url=None, parent=25205622, text='Couldn&#x27;t you simply do it with a battery?')
+Item(by='simonebrunozzi', descendants=None, kids=[25207182, 25207077], score=None, time=1606283401, title=None, item_type='comment', url=None, parent=25205622, text='Couldn&#x27;t you simply do it with a battery?')

@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=6, kids=[25206415, 25205985, 25206180, 25206597], score=12, time=1606277445, title='Boeing’s 737 Max Is a Saga of Capitalism Gone Awry', item_type='story', url='https://www.nytimes.com/2020/11/24/sunday-review/boeing-737-max.html', parent=None, text=None)
+Item(by='pseudolus', descendants=12, kids=[25206415, 25205985, 25206180, 25206597], score=20, time=1606277445, title='Boeing’s 737 Max Is a Saga of Capitalism Gone Awry', item_type='story', url='https://www.nytimes.com/2020/11/24/sunday-review/boeing-737-max.html', parent=None, text=None)

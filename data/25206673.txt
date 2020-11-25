@@ -1,1 +1,1 @@
-Item(by='symlinkk', descendants=None, kids=None, score=None, time=1606288296, title=None, item_type='comment', url=None, parent=25203377, text='And yet, more people meet online than any other way in 2020. So which “pool” should I go to?')
+Item(by='symlinkk', descendants=None, kids=[25208755], score=None, time=1606288296, title=None, item_type='comment', url=None, parent=25203377, text='And yet, more people meet online than any other way in 2020. So which “pool” should I go to?')

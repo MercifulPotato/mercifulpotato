@@ -1,0 +1,1 @@
+Item(by='Tomte', descendants=None, kids=[25208640], score=None, time=1606304495, title=None, item_type='comment', url=None, parent=25208148, text='Also the &lt;title&gt; tag is often different from the readable title in &lt;h1&gt; (the HN bookmarklet picks up the title tag). And that&#x27;s throughout many news organizations. CNN does that all the time.')

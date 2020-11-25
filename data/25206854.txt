@@ -1,1 +1,1 @@
-Item(by='fomine3', descendants=None, kids=None, score=None, time=1606290592, title=None, item_type='comment', url=None, parent=25201550, text='I think 30 miles is fine for some user&#x27;s daily commuting.')
+Item(by='fomine3', descendants=None, kids=[25208592], score=None, time=1606290592, title=None, item_type='comment', url=None, parent=25201550, text='I think 30 miles is fine for some user&#x27;s daily commuting.')

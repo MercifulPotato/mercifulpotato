@@ -1,0 +1,1 @@
+Item(by='sethammons', descendants=None, kids=None, score=None, time=1606310232, title=None, item_type='comment', url=None, parent=25206742, text='Documentation driven design.<p>I nearly always start at the exposed API and try to make it make sense, then design code and models that enable that interface. The API is your product.')

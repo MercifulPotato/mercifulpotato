@@ -1,0 +1,1 @@
+Item(by='ema', descendants=None, kids=None, score=None, time=1606306202, title=None, item_type='comment', url=None, parent=25205592, text='Maybe there should also be a &quot;seconds since last progress update&quot; counter. In case of a download it gets reset every time a new packet arrives.')

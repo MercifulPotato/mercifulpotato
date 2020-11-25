@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=None, score=None, time=1606297533, title=None, item_type='comment', url=None, parent=25206302, text='I suspect you mean they come with two channels on a single chip, which is not the same as two ports. Channels access separate bits of memory. Ports access the same bits of memory.')

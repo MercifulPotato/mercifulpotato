@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=None, score=None, time=1606292255, title=None, item_type='comment', url=None, parent=25206861, text='There is no “next GC cycle”, objc and swift use ref counting on every platform (there was an abortive GC attempt on desktops a few years back but it never saw wide use and has been deprecated since mountain lion).')

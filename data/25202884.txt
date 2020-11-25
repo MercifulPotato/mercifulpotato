@@ -1,1 +1,1 @@
-Item(by='tyingq', descendants=None, kids=None, score=None, time=1606251096, title=None, item_type='comment', url=None, parent=25201767, text='I suppose I know where the next wave of vulnerability scans is coming from now.')
+Item(by='tyingq', descendants=None, kids=[25207445], score=None, time=1606251096, title=None, item_type='comment', url=None, parent=25201767, text='I suppose I know where the next wave of vulnerability scans is coming from now.')

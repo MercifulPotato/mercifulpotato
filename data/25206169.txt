@@ -1,1 +1,1 @@
-Item(by='ogre_codes', descendants=None, kids=None, score=None, time=1606280232, title=None, item_type='comment', url=None, parent=25206089, text='That thing where they compress your ashes down and launch them into orbit... that may be their specialty.')
+Item(by='ogre_codes', descendants=None, kids=[25209087], score=None, time=1606280232, title=None, item_type='comment', url=None, parent=25206089, text='That thing where they compress your ashes down and launch them into orbit... that may be their specialty.')

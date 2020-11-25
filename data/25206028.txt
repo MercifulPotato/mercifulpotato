@@ -1,1 +1,1 @@
-Item(by='Ericson2314', descendants=None, kids=None, score=None, time=1606278280, title=None, item_type='comment', url=None, parent=25205337, text='This would be a game changer for various decentralized things.')
+Item(by='Ericson2314', descendants=None, kids=[25207978], score=None, time=1606278280, title=None, item_type='comment', url=None, parent=25205337, text='This would be a game changer for various decentralized things.')

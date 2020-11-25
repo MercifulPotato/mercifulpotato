@@ -1,1 +1,1 @@
-Item(by='ozim', descendants=None, kids=None, score=None, time=1606246151, title=None, item_type='comment', url=None, parent=25200682, text='Lurking for weeks is not being part of community.')
+Item(by='ozim', descendants=None, kids=[25208255], score=None, time=1606246151, title=None, item_type='comment', url=None, parent=25200682, text='Lurking for weeks is not being part of community.')

@@ -1,1 +1,1 @@
-Item(by='eyelidlessness', descendants=None, kids=None, score=None, time=1606264469, title=None, item_type='comment', url=None, parent=25203751, text='Then the `try { ... } catch { heartbeat() }` pattern will emerge.')
+Item(by='eyelidlessness', descendants=None, kids=[25208761], score=None, time=1606264469, title=None, item_type='comment', url=None, parent=25203751, text='Then the `try { ... } catch { heartbeat() }` pattern will emerge.')

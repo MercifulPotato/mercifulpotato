@@ -1,0 +1,1 @@
+Item(by='credit_guy', descendants=None, kids=None, score=None, time=1606310903, title=None, item_type='comment', url=None, parent=25208293, text='A bit tangential, but the article contains a nice gem of pattern matching in C.<p><pre><code>  nc = \n    (p &lt; p0)      ? 0\n  : (p &lt; p0 + p1) ? 1\n  :                 2;</code></pre>')

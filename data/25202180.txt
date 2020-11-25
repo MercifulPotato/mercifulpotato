@@ -1,1 +1,1 @@
-Item(by='francislavoie', descendants=None, kids=None, score=None, time=1606246757, title=None, item_type='comment', url=None, parent=25202139, text='Because it would add unnecessary complexity to the system. It&#x27;s a waste of time.')
+Item(by='francislavoie', descendants=None, kids=[25207565], score=None, time=1606246757, title=None, item_type='comment', url=None, parent=25202139, text='Because it would add unnecessary complexity to the system. It&#x27;s a waste of time.')

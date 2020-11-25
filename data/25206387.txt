@@ -1,1 +1,1 @@
-Item(by='jelliclesfarm', descendants=0, kids=None, score=2, time=1606284022, title='A Weird Monolith Is Found in the Utah Desert', item_type='story', url='https://www.nytimes.com/2020/11/24/us/Utah-monolith-red-rock-country.html', parent=None, text=None)
+Item(by='jelliclesfarm', descendants=1, kids=[25207479], score=2, time=1606284022, title='A Weird Monolith Is Found in the Utah Desert', item_type='story', url='https://www.nytimes.com/2020/11/24/us/Utah-monolith-red-rock-country.html', parent=None, text=None)
