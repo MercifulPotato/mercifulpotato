@@ -1,1 +1,1 @@
-Item(by='rmeertens', descendants=0, kids=None, score=3, time=1606132917, title='Using Emojis in Mathematical Notation', item_type='story', url='https://docs.google.com/document/d/16wbSxLCQOwJRG3OILEKNgnlcO8Wzq1T_Ba5BJ9_s8sQ/edit', parent=None, text=None)
+Item(by='rmeertens', descendants=12, kids=[25205914, 25205370, 25206373, 25205627, 25205315, 25205465, 25205796], score=16, time=1606132917, title='Using Emojis in Mathematical Notation', item_type='story', url='https://docs.google.com/document/d/16wbSxLCQOwJRG3OILEKNgnlcO8Wzq1T_Ba5BJ9_s8sQ/edit', parent=None, text=None)

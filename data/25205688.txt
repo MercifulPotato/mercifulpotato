@@ -1,0 +1,1 @@
+Item(by='ianai', descendants=None, kids=[25205780], score=None, time=1606274452, title=None, item_type='comment', url=None, parent=25205607, text='Read up on the performance overhead of GC across other languages. They’re messy and can lock up periodically. They take up significant ram and resources.')

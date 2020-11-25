@@ -1,1 +1,1 @@
-Item(by='sidpatil', descendants=None, kids=[25203755], score=None, time=1606256527, title=None, item_type='comment', url=None, parent=25203655, text='I think they&#x27;re saying that devs won&#x27;t spend as much time optimizing, since they know that the CPU is faster.')
+Item(by='sidpatil', descendants=None, kids=[25203755, 25206468], score=None, time=1606256527, title=None, item_type='comment', url=None, parent=25203655, text='I think they&#x27;re saying that devs won&#x27;t spend as much time optimizing, since they know that the CPU is faster.')

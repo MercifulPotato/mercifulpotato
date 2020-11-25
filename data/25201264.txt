@@ -1,1 +1,1 @@
-Item(by='0x0', descendants=20, kids=[25201920, 25201523, 25201601], score=38, time=1606242016, title='Pam 1.5.0 has a auth bypass under some conditions', item_type='story', url='https://www.openwall.com/lists/oss-security/2020/11/24/3', parent=None, text=None)
+Item(by='0x0', descendants=22, kids=[25201920, 25201523, 25201601], score=41, time=1606242016, title='Pam 1.5.0 has a auth bypass under some conditions', item_type='story', url='https://www.openwall.com/lists/oss-security/2020/11/24/3', parent=None, text=None)

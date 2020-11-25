@@ -1,1 +1,1 @@
-Item(by='ultrarunner', descendants=None, kids=None, score=None, time=1606268963, title=None, item_type='comment', url=None, parent=25204621, text='It’s unclear to me how reduced availability of developer tooling will result in a faster software experience for M1 owners.')
+Item(by='ultrarunner', descendants=None, kids=[25205357], score=None, time=1606268963, title=None, item_type='comment', url=None, parent=25204621, text='It’s unclear to me how reduced availability of developer tooling will result in a faster software experience for M1 owners.')

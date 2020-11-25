@@ -1,0 +1,1 @@
+Item(by='rimliu', descendants=None, kids=None, score=None, time=1606290655, title=None, item_type='comment', url=None, parent=25204689, text='If memory is released as soon as possible instead of waiting for the next GC cycle, does not it make it more efficient?')

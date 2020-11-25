@@ -1,1 +1,1 @@
-Item(by='JorgeGT', descendants=None, kids=None, score=None, time=1606263409, title=None, item_type='comment', url=None, parent=25204147, text='Electron 16: completely rewritten in Minecraft Redstone.')
+Item(by='JorgeGT', descendants=None, kids=[25205490], score=None, time=1606263409, title=None, item_type='comment', url=None, parent=25204147, text='Electron 16: completely rewritten in Minecraft Redstone.')

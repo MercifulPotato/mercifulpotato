@@ -1,0 +1,1 @@
+Item(by='tachyonbeam', descendants=None, kids=None, score=None, time=1606286799, title=None, item_type='comment', url=None, parent=25204452, text='I think it&#x27;s pretty clear they&#x27;re aiming at inference only. Training models on laptops is never going to be competitive. Might be fun for prototyping small models in PyTorch&#x2F;TensorFlow though.')

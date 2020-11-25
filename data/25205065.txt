@@ -1,1 +1,1 @@
-Item(by='zakki', descendants=None, kids=None, score=None, time=1606268146, title=None, item_type='comment', url=None, parent=25205047, text='Usual answer is: go buy other vendor product.')
+Item(by='zakki', descendants=None, kids=[25205399], score=None, time=1606268146, title=None, item_type='comment', url=None, parent=25205047, text='Usual answer is: go buy other vendor product.')

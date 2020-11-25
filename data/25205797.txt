@@ -1,0 +1,1 @@
+Item(by='ironmagma', descendants=None, kids=[25206174], score=None, time=1606275429, title=None, item_type='comment', url=None, parent=25205716, text='A sync should be an atomic operation. Or at the very least, reversible if it gets interrupted. In that case, a reboot should be able to happen at any time.')

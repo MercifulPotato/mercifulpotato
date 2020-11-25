@@ -1,0 +1,1 @@
+Item(by='wsc981', descendants=None, kids=None, score=None, time=1606274400, title=None, item_type='comment', url=None, parent=25204442, text='Have you tried doing Android dev using an Android emulator on an 8 GB Mac? Perhaps in combination with Xamarin?<p>I did and performance was horrible. For just iOS or macOS dev, 8 GB could be fine though.')

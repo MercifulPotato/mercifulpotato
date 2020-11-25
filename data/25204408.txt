@@ -1,1 +1,1 @@
-Item(by='howlgarnish', descendants=None, kids=None, score=None, time=1606261921, title=None, item_type='comment', url=None, parent=25203959, text='AFAIK he never authorized any merchandise, so he likely never got a single cent for those.')
+Item(by='howlgarnish', descendants=None, kids=[25205637], score=None, time=1606261921, title=None, item_type='comment', url=None, parent=25203959, text='AFAIK he never authorized any merchandise, so he likely never got a single cent for those.')

@@ -1,1 +1,1 @@
-Item(by='floatingatoll', descendants=None, kids=None, score=None, time=1606271630, title=None, item_type='comment', url=None, parent=25203419, text='Do you think that SpaceX would be considered competition by the carriers?')
+Item(by='floatingatoll', descendants=None, kids=[25205606, 25206289], score=None, time=1606271630, title=None, item_type='comment', url=None, parent=25203419, text='Do you think that SpaceX would be considered competition by the carriers?')

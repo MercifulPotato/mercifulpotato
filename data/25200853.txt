@@ -1,1 +1,1 @@
-Item(by='vadansky', descendants=None, kids=None, score=None, time=1606239982, title=None, item_type='comment', url=None, parent=25199137, text='I think the number one fix for autocorrect is adding an &quot;I&#x27;m an adult, no I never mean duck&quot; toggle')
+Item(by='vadansky', descendants=None, kids=[25205852], score=None, time=1606239982, title=None, item_type='comment', url=None, parent=25199137, text='I think the number one fix for autocorrect is adding an &quot;I&#x27;m an adult, no I never mean duck&quot; toggle')

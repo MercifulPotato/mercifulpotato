@@ -1,0 +1,1 @@
+Item(by='Veedrac', descendants=None, kids=[25206735], score=None, time=1606287773, title=None, item_type='comment', url=None, parent=25206527, text='&gt; It just says &quot;oh, it&#x27;s a hardware toggle&quot;; toggle of what exactly?<p>A toggle that makes the chip treat all loads and stores from that thread as TSO.')

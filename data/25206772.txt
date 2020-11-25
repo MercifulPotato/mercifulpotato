@@ -1,0 +1,1 @@
+Item(by='bpye', descendants=None, kids=None, score=None, time=1606289459, title=None, item_type='comment', url=None, parent=25206443, text='The new compute module would work but the issue with the SoC on the Raspberry Pi is that it&#x27;s not terribly low power. You&#x27;d do better with something from Qualcomm, MediaTek or Allwinner that&#x27;s designed for mobile use.')

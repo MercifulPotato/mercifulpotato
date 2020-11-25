@@ -1,0 +1,1 @@
+Item(by='torginus', descendants=None, kids=None, score=None, time=1606289503, title=None, item_type='comment', url=None, parent=25202147, text='I just realized thanks to this article, that the x86 memory-model emulation is not only available in the M1, but has been present going back to at least the A12 series. Apple has been planning this a long time.')

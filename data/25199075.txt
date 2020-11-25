@@ -1,1 +1,1 @@
-Item(by='fulafel', descendants=None, kids=None, score=None, time=1606230400, title=None, item_type='comment', url=None, parent=25197749, text='Rejecting the issue based on the fact that both logical extremes are failures is case of double headed reductio ad absurdum I think :)')
+Item(by='fulafel', descendants=None, kids=[25206618], score=None, time=1606230400, title=None, item_type='comment', url=None, parent=25197749, text='Rejecting the issue based on the fact that both logical extremes are failures is case of double headed reductio ad absurdum I think :)')

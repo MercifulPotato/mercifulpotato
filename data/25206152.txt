@@ -1,0 +1,1 @@
+Item(by='iblaine', descendants=None, kids=None, score=None, time=1606279995, title=None, item_type='comment', url=None, parent=25202756, text='Confluent seems to be thriving ever since AWS launched their own Kafka managed service.  With that as an example, this could be a good thing for Astronomer.io.')

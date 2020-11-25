@@ -1,1 +1,1 @@
-Item(by='ArtWomb', descendants=None, kids=None, score=None, time=1606259313, title=None, item_type='comment', url=None, parent=25198834, text='Eric Drexler? Now there is a name I have not heard since the &quot;nano machines&quot; days ;)')
+Item(by='ArtWomb', descendants=None, kids=[25206369], score=None, time=1606259313, title=None, item_type='comment', url=None, parent=25198834, text='Eric Drexler? Now there is a name I have not heard since the &quot;nano machines&quot; days ;)')

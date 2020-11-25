@@ -1,1 +1,1 @@
-Item(by='andrewflnr', descendants=None, kids=None, score=None, time=1606194302, title=None, item_type='comment', url=None, parent=25195409, text='It&#x27;s a little trickier, but yes.')
+Item(by='andrewflnr', descendants=None, kids=[25205965], score=None, time=1606194302, title=None, item_type='comment', url=None, parent=25195409, text='It&#x27;s a little trickier, but yes.')

@@ -1,0 +1,1 @@
+Item(by='erosenbe0', descendants=None, kids=None, score=None, time=1606284491, title=None, item_type='comment', url=None, parent=25204285, text='Memory bandwidth costs a lot of power so I think the idea is to reduce the need for unnecessary memory ops both saving power and reducing latency')

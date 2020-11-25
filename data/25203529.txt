@@ -1,1 +1,1 @@
-Item(by='theamk', descendants=None, kids=None, score=None, time=1606255747, title=None, item_type='comment', url=None, parent=25203174, text='isn&#x27;t it the one with patent&#x2F;licensing issues?\nif yes, good riddance')
+Item(by='theamk', descendants=None, kids=[25206629], score=None, time=1606255747, title=None, item_type='comment', url=None, parent=25203174, text='isn&#x27;t it the one with patent&#x2F;licensing issues?\nif yes, good riddance')

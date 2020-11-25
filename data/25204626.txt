@@ -1,1 +1,1 @@
-Item(by='trianglem', descendants=None, kids=None, score=None, time=1606263975, title=None, item_type='comment', url=None, parent=25199879, text='What I really want to know is if that is a solid piece of metal or just a metal “shell”?')
+Item(by='trianglem', descendants=None, kids=[25206494], score=None, time=1606263975, title=None, item_type='comment', url=None, parent=25199879, text='What I really want to know is if that is a solid piece of metal or just a metal “shell”?')
