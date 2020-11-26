@@ -1,1 +1,1 @@
-Item(by='XzetaU8', descendants=0, kids=None, score=2, time=1606340168, title='Your brain runs your body using something like a budget', item_type='story', url='https://www.nytimes.com/2020/11/23/opinion/brain-neuroscience-stress.html', parent=None, text=None)
+Item(by='XzetaU8', descendants=17, kids=[25217657, 25217398, 25217480], score=21, time=1606340168, title='Your brain runs your body using something like a budget', item_type='story', url='https://www.nytimes.com/2020/11/23/opinion/brain-neuroscience-stress.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='llampx', descendants=None, kids=None, score=None, time=1606333917, title=None, item_type='comment', url=None, parent=25210038, text='Why do they highlight games at every WWDC and product announcement?')
+Item(by='llampx', descendants=None, kids=[25217496], score=None, time=1606333917, title=None, item_type='comment', url=None, parent=25210038, text='Why do they highlight games at every WWDC and product announcement?')

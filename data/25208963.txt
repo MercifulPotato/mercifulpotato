@@ -1,1 +1,1 @@
-Item(by='layoutIfNeeded', descendants=None, kids=None, score=None, time=1606310884, title=None, item_type='comment', url=None, parent=25207099, text='The answer to all of your questions: because of shitty programmers and&#x2F;or PMs.')
+Item(by='layoutIfNeeded', descendants=None, kids=[25216289], score=None, time=1606310884, title=None, item_type='comment', url=None, parent=25207099, text='The answer to all of your questions: because of shitty programmers and&#x2F;or PMs.')

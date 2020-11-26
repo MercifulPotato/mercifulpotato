@@ -1,0 +1,1 @@
+Item(by='dpc_pw', descendants=None, kids=None, score=None, time=1606366764, title=None, item_type='comment', url=None, parent=25213192, text='Hardware storage got really fast and cheap, but on the cloud it seems still super-slow and expensive. AWS&#x27;s gp2 offers 3 IOPS&#x2F;GB, and upgrading to something like io2 bleeds money really fast.')

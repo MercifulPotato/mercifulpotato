@@ -1,0 +1,1 @@
+Item(by='1wd', descendants=None, kids=None, score=None, time=1606372895, title=None, item_type='comment', url=None, parent=25215623, text='Function names starting with &quot;str&quot; followed by a lowercase letter are reserved. So technically &quot;str&quot; itself and &quot;str_&quot; are not.')

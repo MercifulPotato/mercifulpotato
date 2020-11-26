@@ -1,0 +1,1 @@
+Item(by='EdSchouten', descendants=None, kids=[25217574], score=None, time=1606373600, title=None, item_type='comment', url=None, parent=25215079, text='Fun fact: &#x27;str*&#x27; is also reserved by POSIX for future extensions. This means that this library completely collides with POSIX.')

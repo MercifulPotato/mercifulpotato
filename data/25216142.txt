@@ -1,1 +1,1 @@
-Item(by='adamnemecek', descendants=None, kids=None, score=None, time=1606355129, title=None, item_type='comment', url=None, parent=25215801, text='Why not just go back to desktop apps instead of mobile desktop apps?')
+Item(by='adamnemecek', descendants=None, kids=[25216238], score=None, time=1606355129, title=None, item_type='comment', url=None, parent=25215801, text='Why not just go back to desktop apps instead of mobile desktop apps?')

@@ -1,1 +1,1 @@
-Item(by='xuhu', descendants=None, kids=None, score=None, time=1606300201, title=None, item_type='comment', url=None, parent=25206522, text='It&#x27;s not so great when you change one cpp file and run make.')
+Item(by='xuhu', descendants=None, kids=[25216489], score=None, time=1606300201, title=None, item_type='comment', url=None, parent=25206522, text='It&#x27;s not so great when you change one cpp file and run make.')

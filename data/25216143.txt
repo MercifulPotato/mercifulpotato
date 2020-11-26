@@ -1,1 +1,1 @@
-Item(by='nobody9999', descendants=0, kids=None, score=1, time=1606355141, title='The Alignment Problem by Brian Christian', item_type='story', url='https://www.kirkusreviews.com/book-reviews/brian-christian/alignment-problem/', parent=None, text=None)
+Item(by='nobody9999', descendants=1, kids=[25216160], score=1, time=1606355141, title='The Alignment Problem by Brian Christian', item_type='story', url='https://www.kirkusreviews.com/book-reviews/brian-christian/alignment-problem/', parent=None, text=None)

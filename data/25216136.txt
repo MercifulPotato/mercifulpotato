@@ -1,1 +1,1 @@
-Item(by='coldtea', descendants=None, kids=None, score=None, time=1606354986, title=None, item_type='comment', url=None, parent=25216066, text='That&#x27;s a non issue in modern mobile phones (which people use more than desktops&#x2F;laptops these days).')
+Item(by='coldtea', descendants=None, kids=[25216717, 25216234], score=None, time=1606354986, title=None, item_type='comment', url=None, parent=25216066, text='That&#x27;s a non issue in modern mobile phones (which people use more than desktops&#x2F;laptops these days).')

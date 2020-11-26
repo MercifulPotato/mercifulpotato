@@ -1,1 +1,1 @@
-Item(by='arrayntia', descendants=0, kids=None, score=1, time=1606348092, title='JavaScript Tips', item_type='story', url='https://markodenic.com/javascript-tips/', parent=None, text=None)
+Item(by='arrayntia', descendants=1, kids=[25216169], score=2, time=1606348092, title='JavaScript Tips', item_type='story', url='https://markodenic.com/javascript-tips/', parent=None, text=None)

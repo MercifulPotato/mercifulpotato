@@ -1,1 +1,1 @@
-Item(by='Sigmoid', descendants=None, kids=None, score=None, time=1606354333, title=None, item_type='comment', url=None, parent=25214255, text='&gt;  Any software vendor CAN be nefarious.<p>I&#x27;m glad you finally realized this! And thats why people should use FOSS.')
+Item(by='Sigmoid', descendants=None, kids=[25216229], score=None, time=1606354333, title=None, item_type='comment', url=None, parent=25214255, text='&gt;  Any software vendor CAN be nefarious.<p>I&#x27;m glad you finally realized this! And thats why people should use FOSS.')

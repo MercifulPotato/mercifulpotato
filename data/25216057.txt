@@ -1,1 +1,1 @@
-Item(by='cnasc', descendants=None, kids=None, score=None, time=1606353794, title=None, item_type='comment', url=None, parent=25215967, text='Apple hobbles PWAs on iOS, so unless app creators want to ignore the most profitable segment of the mobile marketplace PWAs aren’t a solution')
+Item(by='cnasc', descendants=None, kids=[25216596], score=None, time=1606353794, title=None, item_type='comment', url=None, parent=25215967, text='Apple hobbles PWAs on iOS, so unless app creators want to ignore the most profitable segment of the mobile marketplace PWAs aren’t a solution')

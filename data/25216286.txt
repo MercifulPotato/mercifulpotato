@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1606357197, title=None, item_type='comment', url=None, parent=25209227, text='Yep. It’s actually a pointer to the class instance for the object, which is a full object that contains more information than a typical vtable might, but it serves as a “type ID” that the runtime can use to dispatch on.')

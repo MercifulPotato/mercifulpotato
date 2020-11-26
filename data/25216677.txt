@@ -1,0 +1,1 @@
+Item(by='ReactiveJelly', descendants=None, kids=None, score=None, time=1606363017, title=None, item_type='comment', url=None, parent=25216353, text='Yeah, kinda. Rust is meant to solve memory unsafety, which is an even worse problem than memory leaks, especially when you&#x27;re running untrusted code.')

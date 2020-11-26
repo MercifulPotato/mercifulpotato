@@ -1,1 +1,1 @@
-Item(by='chrisjarvis', descendants=None, kids=None, score=None, time=1606341872, title=None, item_type='comment', url=None, parent=25212382, text='I have no idea thanks for the extra information! it’s a quote I’ve always liked. When I googled who said it Hillel came up.')
+Item(by='chrisjarvis', descendants=None, kids=[25217205], score=None, time=1606341872, title=None, item_type='comment', url=None, parent=25212382, text='I have no idea thanks for the extra information! it’s a quote I’ve always liked. When I googled who said it Hillel came up.')

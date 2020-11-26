@@ -1,0 +1,1 @@
+Item(by='m_mueller', descendants=None, kids=[25217616], score=None, time=1606373900, title=None, item_type='comment', url=None, parent=25217422, text='Another user commented here a while ago that they solved this problem by just throwing it on the largest instance by memory (1TB or so), disabled GC and restart it after market closes.')

@@ -1,0 +1,1 @@
+Item(by='bzbz', descendants=None, kids=None, score=None, time=1606362740, title=None, item_type='comment', url=None, parent=25215973, text='Is this really a problem? Async&#x2F;await makes async simple, and using a store like zustand gives you hooks and [g&#x2F;s]etters out of the box.')

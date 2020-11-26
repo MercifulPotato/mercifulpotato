@@ -1,1 +1,1 @@
-Item(by='dcminter', descendants=0, kids=None, score=1, time=1606302057, title='The Origin of the Shell', item_type='story', url='https://multicians.org/shell.html', parent=None, text=None)
+Item(by='dcminter', descendants=5, kids=[25216357, 25217330, 25216283, 25216398], score=42, time=1606302057, title='The Origin of the Shell', item_type='story', url='https://multicians.org/shell.html', parent=None, text=None)

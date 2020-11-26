@@ -1,0 +1,1 @@
+Item(by='coliveira', descendants=None, kids=[25217618], score=None, time=1606374162, title=None, item_type='comment', url=None, parent=25217458, text='Avoid creating classes and use lots of arrays and simple objects like float, int, and char. This way you avoid the dynamic allocations that are so common for objects in Java.')
