@@ -1,1 +1,1 @@
-Item(by='ma2rten', descendants=None, kids=None, score=None, time=1606377922, title=None, item_type='comment', url=None, parent=25217870, text='Note that Critique (Google&#x27;s main code review UI) doesn&#x27;t have the same issues that Gerrit apparently has.')
+Item(by='ma2rten', descendants=None, kids=[25218298, 25219460], score=None, time=1606377922, title=None, item_type='comment', url=None, parent=25217870, text='Note that Critique (Google&#x27;s main code review UI) doesn&#x27;t have the same issues that Gerrit apparently has.')

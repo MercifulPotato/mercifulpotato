@@ -1,1 +1,1 @@
-Item(by='edward', descendants=0, kids=None, score=2, time=1606353256, title='Cracks in the Great Stagnation?', item_type='story', url='https://www.agglomerations.tech/cracks-in-the-great-stagnation/', parent=None, text=None)
+Item(by='edward', descendants=44, kids=[25219322, 25218718, 25219505, 25218879, 25218520, 25218481, 25218633, 25218574, 25219049, 25218765], score=20, time=1606353256, title='Cracks in the Great Stagnation?', item_type='story', url='https://www.agglomerations.tech/cracks-in-the-great-stagnation/', parent=None, text=None)

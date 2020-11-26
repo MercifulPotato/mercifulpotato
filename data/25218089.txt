@@ -1,0 +1,1 @@
+Item(by='bboygravity', descendants=None, kids=[25219056], score=None, time=1606379859, title=None, item_type='comment', url=None, parent=25218072, text='I would imagine they switched to ASICs which are more optimized than FPGAs (much smaller feature size, less general reconfigurable bloat, higher clocks, etc).')

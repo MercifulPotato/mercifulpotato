@@ -1,0 +1,1 @@
+Item(by='ra7', descendants=None, kids=[25218183], score=None, time=1606379771, title=None, item_type='comment', url=None, parent=25217905, text='Unsurprisingly, this reminds me of upstream Kubernetes where code reviewers&#x2F;approvers and project maintainers are all just text files named OWNERS, and the tools just read the files to enforce the rules. Very simple and elegant!')

@@ -1,1 +1,1 @@
-Item(by='dep_b', descendants=None, kids=None, score=None, time=1606317727, title=None, item_type='comment', url=None, parent=25209600, text='I&#x27;m just sad that this person has to build it&#x27;s career on this stack knowing it could be so much better.')
+Item(by='dep_b', descendants=None, kids=[25219162], score=None, time=1606317727, title=None, item_type='comment', url=None, parent=25209600, text='I&#x27;m just sad that this person has to build it&#x27;s career on this stack knowing it could be so much better.')

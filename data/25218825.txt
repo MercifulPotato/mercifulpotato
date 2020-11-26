@@ -1,0 +1,1 @@
+Item(by='iancarroll', descendants=None, kids=[25219167], score=None, time=1606388292, title=None, item_type='comment', url=None, parent=25218806, text='AWS hasn&#x27;t really mitigated it. You just need to re-create the domain a bunch of times and eventually you&#x27;ll get the right NS to take it over.')

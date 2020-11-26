@@ -1,0 +1,1 @@
+Item(by='freethinky', descendants=None, kids=None, score=None, time=1606395089, title=None, item_type='comment', url=None, parent=25218567, text='At least until 82 I (have to try if it still works), I used:<p>about:config xpinstall.signatures.required -&gt; false<p><pre><code>    zip -0 mywebext.xpi manifest.json *.js *.png *.html\n</code></pre>\nabout:addons -&gt; install xpi')

@@ -1,0 +1,1 @@
+Item(by='ryan29', descendants=None, kids=[25219233], score=None, time=1606392311, title=None, item_type='comment', url=None, parent=25219095, text='The way AWS does it seems like it would work if they removed hosted zones for domains where all 4 NS don’t match what you’re assigned.<p>That seems to be what Cloudflare does (I’m not positive though), but with 2 NS per account.')

@@ -1,1 +1,1 @@
-Item(by='ahartmetz', descendants=None, kids=None, score=None, time=1606377770, title=None, item_type='comment', url=None, parent=25217575, text='NewPipe app or website on Firefox or Brave browser. NewPipe and Brave can even play videos in the background.')
+Item(by='ahartmetz', descendants=None, kids=[25218025, 25218517], score=None, time=1606377770, title=None, item_type='comment', url=None, parent=25217575, text='NewPipe app or website on Firefox or Brave browser. NewPipe and Brave can even play videos in the background.')

@@ -1,1 +1,1 @@
-Item(by='cambalache', descendants=None, kids=None, score=None, time=1606341620, title=None, item_type='comment', url=None, parent=25212468, text='FYI &quot;Firefox does not trust this site because it uses a certificate that is not valid for geti2p.org. &quot;')
+Item(by='cambalache', descendants=None, kids=[25218777], score=None, time=1606341620, title=None, item_type='comment', url=None, parent=25212468, text='FYI &quot;Firefox does not trust this site because it uses a certificate that is not valid for geti2p.org. &quot;')

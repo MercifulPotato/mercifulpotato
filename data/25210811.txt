@@ -1,1 +1,1 @@
-Item(by='johnfn', descendants=None, kids=None, score=None, time=1606321155, title=None, item_type='comment', url=None, parent=25205813, text='What? You can’t compare the population density of an entire country to individual cities.')
+Item(by='johnfn', descendants=None, kids=[25219206], score=None, time=1606321155, title=None, item_type='comment', url=None, parent=25205813, text='What? You can’t compare the population density of an entire country to individual cities.')

@@ -1,1 +1,1 @@
-Item(by='do', descendants=0, kids=None, score=4, time=1606359309, title='Writing well', item_type='story', url='https://www.julian.com/guide/write/intro', parent=None, text=None)
+Item(by='do', descendants=49, kids=[25218642, 25218275, 25219830, 25218380, 25219536, 25219983, 25218127, 25218300, 25219789, 25218346, 25219224, 25219255, 25218885, 25218866], score=142, time=1606359309, title='Writing well', item_type='story', url='https://www.julian.com/guide/write/intro', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='natchy', descendants=None, kids=None, score=None, time=1606377768, title=None, item_type='comment', url=None, parent=25217664, text='.net core is old now as if this last month. Now it’s just .Net 5, which is faster still.')
+Item(by='natchy', descendants=None, kids=[25217972], score=None, time=1606377768, title=None, item_type='comment', url=None, parent=25217664, text='.net core is old now as if this last month. Now it’s just .Net 5, which is faster still.')

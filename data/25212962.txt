@@ -1,1 +1,1 @@
-Item(by='suprfsat', descendants=None, kids=None, score=None, time=1606331099, title=None, item_type='comment', url=None, parent=25212616, text='People should simply use characters in correct ways and not in incorrect ways.')
+Item(by='suprfsat', descendants=None, kids=[25218738], score=None, time=1606331099, title=None, item_type='comment', url=None, parent=25212616, text='People should simply use characters in correct ways and not in incorrect ways.')

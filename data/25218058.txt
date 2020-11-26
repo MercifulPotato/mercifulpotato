@@ -1,0 +1,1 @@
+Item(by='lima', descendants=None, kids=[25218598], score=None, time=1606379453, title=None, item_type='comment', url=None, parent=25217870, text='Gerrit is configurable and it is common to use it like Critique with blocking comments and LGTMs.<p>It&#x27;s still a big step up from, say, GitHub PRs, and the UX has improved significantly.')

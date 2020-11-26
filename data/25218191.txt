@@ -1,0 +1,1 @@
+Item(by='kleiba', descendants=None, kids=None, score=None, time=1606381001, title=None, item_type='comment', url=None, parent=25216873, text='Except not all applications of regular expressions allow for that trick to be used. Case in point: grep (which of course has the -v option which together with pipes does the whole negative match thing much more neatly anyway).')

@@ -1,0 +1,1 @@
+Item(by='stingraycharles', descendants=None, kids=[25219318], score=None, time=1606380548, title=None, item_type='comment', url=None, parent=25216975, text='And don’t forget that gp2 is capped at 250MB&#x2F;sec, and io1 at 500MB&#x2F;sec. If you need more than this, you’re going to have to pool your EBS volumes in raid0, which is a PITA.')

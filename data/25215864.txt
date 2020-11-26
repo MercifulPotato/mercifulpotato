@@ -1,1 +1,1 @@
-Item(by='whatever_dude', descendants=None, kids=None, score=None, time=1606351337, title=None, item_type='comment', url=None, parent=25212695, text='The two goals are greatly symbolic of Maradona. There&#x27;s the genius and there&#x27;s the deeply flawed human.')
+Item(by='whatever_dude', descendants=None, kids=[25217877], score=None, time=1606351337, title=None, item_type='comment', url=None, parent=25212695, text='The two goals are greatly symbolic of Maradona. There&#x27;s the genius and there&#x27;s the deeply flawed human.')

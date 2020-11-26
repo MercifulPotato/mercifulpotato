@@ -1,1 +1,1 @@
-Item(by='bra-ket', descendants=0, kids=None, score=4, time=1606362241, title='Spatial Computing Could Be the Next Big Thing', item_type='story', url='https://www.scientificamerican.com/article/spatial-computing-could-be-the-next-big-thing/', parent=None, text=None)
+Item(by='bra-ket', descendants=2, kids=[25218037], score=7, time=1606362241, title='Spatial Computing Could Be the Next Big Thing', item_type='story', url='https://www.scientificamerican.com/article/spatial-computing-could-be-the-next-big-thing/', parent=None, text=None)

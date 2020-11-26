@@ -1,1 +1,1 @@
-Item(by='ta988', descendants=None, kids=None, score=None, time=1606360047, title=None, item_type='comment', url=None, parent=25215273, text='Diagrams.net is using electron for the desktop app, it works really well (and is fast despite what people often beieve of electron)')
+Item(by='ta988', descendants=None, kids=[25219024], score=None, time=1606360047, title=None, item_type='comment', url=None, parent=25215273, text='Diagrams.net is using electron for the desktop app, it works really well (and is fast despite what people often beieve of electron)')

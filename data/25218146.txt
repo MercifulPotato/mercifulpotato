@@ -1,0 +1,1 @@
+Item(by='bamboleo', descendants=None, kids=None, score=None, time=1606380445, title=None, item_type='comment', url=None, parent=25218122, text='Yes and no. I love npx but if you’re launching a package more often than once a week you should probably install it because it’s just faster to do so.<p>Just… update your global packages occasionally too. I use `npx npm-check -u -g`')

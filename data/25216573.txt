@@ -1,1 +1,1 @@
-Item(by='perardi', descendants=None, kids=None, score=None, time=1606361303, title=None, item_type='comment', url=None, parent=25215892, text='And that world is Firefox OS, which we are all using right now, right?')
+Item(by='perardi', descendants=None, kids=[25218808], score=None, time=1606361303, title=None, item_type='comment', url=None, parent=25215892, text='And that world is Firefox OS, which we are all using right now, right?')

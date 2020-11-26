@@ -1,1 +1,1 @@
-Item(by='danso', descendants=20, kids=[25212218, 25215201, 25212326, 25212044, 25199958, 25215969], score=40, time=1606235510, title='Hacking the Perfect Auction', item_type='story', url='https://www.npr.org/2020/11/06/932048876/hacking-the-perfect-auction', parent=None, text=None)
+Item(by='danso', descendants=20, kids=[25212218, 25212326, 25212044, 25215201, 25199958, 25215969], score=42, time=1606235510, title='Hacking the Perfect Auction', item_type='story', url='https://www.npr.org/2020/11/06/932048876/hacking-the-perfect-auction', parent=None, text=None)

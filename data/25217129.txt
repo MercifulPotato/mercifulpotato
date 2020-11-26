@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=[25217755], score=None, time=1606368287, title=None, item_type='comment', url=None, parent=25215079, text='It’s getting memccpy, which is an extremely important function for the creation of a performant, safe string copying method.')
+Item(by='saagarjha', descendants=None, kids=[25217755, 25218337], score=None, time=1606368287, title=None, item_type='comment', url=None, parent=25215079, text='It’s getting memccpy, which is an extremely important function for the creation of a performant, safe string copying method.')

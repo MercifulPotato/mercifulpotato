@@ -1,1 +1,1 @@
-Item(by='seirim', descendants=None, kids=None, score=None, time=1606347500, title=None, item_type='comment', url=None, parent=25215034, text='Holy crap that&#x27;s terrible and offensive.')
+Item(by='seirim', descendants=None, kids=[25217903], score=None, time=1606347500, title=None, item_type='comment', url=None, parent=25215034, text='Holy crap that&#x27;s terrible and offensive.')
