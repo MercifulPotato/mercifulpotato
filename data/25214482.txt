@@ -1,1 +1,1 @@
-Item(by='thelastwave', descendants=None, kids=None, score=None, time=1606339613, title=None, item_type='comment', url=None, parent=25210371, text='The solution is obviously to invent empathy technology.')
+Item(by='thelastwave', descendants=None, kids=[25222839], score=None, time=1606339613, title=None, item_type='comment', url=None, parent=25210371, text='The solution is obviously to invent empathy technology.')

@@ -1,1 +1,1 @@
-Item(by='cutemonster', descendants=None, kids=None, score=None, time=1606359520, title=None, item_type='comment', url=None, parent=25215120, text='&gt; unlikely to be turned into corporate goop<p>What are reasons it&#x27;s unlikely?<p>(I like Zulip btw)')
+Item(by='cutemonster', descendants=None, kids=[25221609], score=None, time=1606359520, title=None, item_type='comment', url=None, parent=25215120, text='&gt; unlikely to be turned into corporate goop<p>What are reasons it&#x27;s unlikely?<p>(I like Zulip btw)')

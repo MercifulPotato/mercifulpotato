@@ -1,1 +1,1 @@
-Item(by='dehrmann', descendants=None, kids=[25218047], score=None, time=1606375892, title=None, item_type='comment', url=None, parent=25217700, text='I&#x27;ve heard of people doing that 10-15 years ago. I&#x27;m sure it still works, but hopefully the GC situation has also improved.')
+Item(by='dehrmann', descendants=None, kids=[25218047, 25221917], score=None, time=1606375892, title=None, item_type='comment', url=None, parent=25217700, text='I&#x27;ve heard of people doing that 10-15 years ago. I&#x27;m sure it still works, but hopefully the GC situation has also improved.')

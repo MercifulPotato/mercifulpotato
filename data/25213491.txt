@@ -1,1 +1,1 @@
-Item(by='zam1', descendants=5, kids=[25217547, 25216099], score=22, time=1606333890, title='Bypass Paywalls is a Chrome extension to help bypass paywalls (NYT, WSJ, et all)', item_type='story', url='https://github.com/iamadamdev/bypass-paywalls-chrome', parent=None, text=None)
+Item(by='zam1', descendants=11, kids=[25217547, 25219763, 25220708, 25216099], score=25, time=1606333890, title='Bypass Paywalls is a Chrome extension to help bypass paywalls (NYT, WSJ, et all)', item_type='story', url='https://github.com/iamadamdev/bypass-paywalls-chrome', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='ISL', descendants=None, kids=None, score=None, time=1606353726, title=None, item_type='comment', url=None, parent=25215866, text='If quantum-computing sees broad application, middle-schoolers will be speaking the language of bras and kets within a decade.')
+Item(by='ISL', descendants=None, kids=[25220940], score=None, time=1606353726, title=None, item_type='comment', url=None, parent=25215866, text='If quantum-computing sees broad application, middle-schoolers will be speaking the language of bras and kets within a decade.')

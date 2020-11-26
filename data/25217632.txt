@@ -1,1 +1,1 @@
-Item(by='disconcision', descendants=None, kids=None, score=None, time=1606374676, title=None, item_type='comment', url=None, parent=25214532, text='what is a 3D-&gt;2D game? pre-rendered graphics ala myst?')
+Item(by='disconcision', descendants=None, kids=[25220622, 25220374], score=None, time=1606374676, title=None, item_type='comment', url=None, parent=25214532, text='what is a 3D-&gt;2D game? pre-rendered graphics ala myst?')

@@ -1,0 +1,1 @@
+Item(by='ahupp', descendants=None, kids=None, score=None, time=1606412181, title=None, item_type='comment', url=None, parent=25221950, text='In a lot of these systems (at least VMWare back when I used that, and Docker) you can clone an existing image with copy-on-write.  This is a lot faster and would avoid 20GB of writes to spin up a new VM.')

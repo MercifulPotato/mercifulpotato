@@ -1,0 +1,1 @@
+Item(by='Thaxll', descendants=None, kids=[25222613, 25221743, 25222755, 25221491, 25221501], score=None, time=1606408078, title=None, item_type='comment', url=None, parent=25220674, text='Does PHP still has that weird flow where each request is its own process? afair PHP never had an http server baked in, I remember nginx with php etc ...')

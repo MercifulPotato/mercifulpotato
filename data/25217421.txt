@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1606372153, title=None, item_type='comment', url=None, parent=25215428, text='You have 80 hours budget to deliver X features, no compromise or no pay, feel free to decide how to deal with testing.')
+Item(by='pjmlp', descendants=None, kids=[25221408], score=None, time=1606372153, title=None, item_type='comment', url=None, parent=25215428, text='You have 80 hours budget to deliver X features, no compromise or no pay, feel free to decide how to deal with testing.')

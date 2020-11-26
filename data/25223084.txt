@@ -1,0 +1,1 @@
+Item(by='rtkaratekid', descendants=None, kids=None, score=None, time=1606420694, title=None, item_type='comment', url=None, parent=25222968, text='I don’t know about io_uring, but for BPF programs only the kernel space needs to be licensed as GPLv2. Everything on the user space side is handled with system calls or higher level libraries that aren’t GPL licensed (libbpf).')

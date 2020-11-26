@@ -1,0 +1,1 @@
+Item(by='cpuguy83', descendants=None, kids=None, score=None, time=1606416775, title=None, item_type='comment', url=None, parent=25222449, text='Neither ebpf or io_uring are &quot;specialized&quot;, in fact they are specifically not specialized which is what makes them revolutionary (along with being better than currently specialized apis like aio).')

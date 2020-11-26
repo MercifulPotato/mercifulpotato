@@ -1,1 +1,1 @@
-Item(by='runeks', descendants=0, kids=None, score=4, time=1606385725, title='Existential Haskell', item_type='story', url='https://blog.sumtypeofway.com/posts/existential-haskell.html', parent=None, text=None)
+Item(by='runeks', descendants=2, kids=[25221400], score=16, time=1606385725, title='Existential Haskell', item_type='story', url='https://blog.sumtypeofway.com/posts/existential-haskell.html', parent=None, text=None)

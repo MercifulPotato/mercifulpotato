@@ -1,1 +1,1 @@
-Item(by='nextaccountic', descendants=None, kids=None, score=None, time=1606378813, title=None, item_type='comment', url=None, parent=25215540, text='How is this relevant?')
+Item(by='nextaccountic', descendants=None, kids=[25221614], score=None, time=1606378813, title=None, item_type='comment', url=None, parent=25215540, text='How is this relevant?')

@@ -1,0 +1,1 @@
+Item(by='jauco', descendants=None, kids=None, score=None, time=1606406557, title=None, item_type='comment', url=None, parent=25220477, text='This sucks. Real JSON is waay better than OP. Or at least use Protobuf, it&#x27;s popular and created by Google, or bson. Don&#x27;t use this, it&#x27;s clearly a security nightmare.')

@@ -1,0 +1,1 @@
+Item(by='crazydoggers', descendants=None, kids=[25222704], score=None, time=1606408524, title=None, item_type='comment', url=None, parent=25220139, text='I use a parser to check for a non empty list return. It’s called a unit test.<p>All joking aside, what is the practical difference or benefit here to testing?')

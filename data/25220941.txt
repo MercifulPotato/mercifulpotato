@@ -1,0 +1,1 @@
+Item(by='cpuguy83', descendants=None, kids=None, score=None, time=1606405507, title=None, item_type='comment', url=None, parent=25220914, text='Docker For Mac is based on &quot;Hyperkit&quot; which is based on xhyve.\nSo xhyve has a fair bit of mileage on it.')

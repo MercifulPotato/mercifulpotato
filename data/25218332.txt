@@ -1,1 +1,1 @@
-Item(by='sohkamyung', descendants=0, kids=None, score=7, time=1606382702, title='Fukushima’s Radioactive Wastewater Dilemma', item_type='story', url='https://www.hakaimagazine.com/article-short/fukushima-radioactive-wastewater-dilemma/', parent=None, text=None)
+Item(by='sohkamyung', descendants=1, kids=[25220604], score=8, time=1606382702, title='Fukushima’s Radioactive Wastewater Dilemma', item_type='story', url='https://www.hakaimagazine.com/article-short/fukushima-radioactive-wastewater-dilemma/', parent=None, text=None)

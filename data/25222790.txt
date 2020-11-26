@@ -1,0 +1,1 @@
+Item(by='junon', descendants=None, kids=[25222961], score=None, time=1606418058, title=None, item_type='comment', url=None, parent=25222627, text='Realtime and low latency are two different properties. Realtime systems have timing concerns and can oftentimes be slower than non-realtime systems.')

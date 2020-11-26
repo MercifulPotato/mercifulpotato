@@ -1,0 +1,1 @@
+Item(by='jpcooper', descendants=None, kids=None, score=None, time=1606402274, title=None, item_type='comment', url=None, parent=25215000, text='Hash maps are not functors similarly to how sets are not functors. That is because they do not preserve function composition.')

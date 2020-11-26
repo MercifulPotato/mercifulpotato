@@ -1,0 +1,1 @@
+Item(by='bluGill', descendants=None, kids=[25222294], score=None, time=1606403786, title=None, item_type='comment', url=None, parent=25217804, text='In many cases n is small enough that looping over a vector is faster than a hash lookup. The vector loop is very ry cache friendly, while the hash lookup typically involves a cache miss or two.')

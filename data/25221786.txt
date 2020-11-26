@@ -1,0 +1,1 @@
+Item(by='void_one', descendants=None, kids=None, score=None, time=1606410705, title=None, item_type='comment', url=None, parent=25221785, text='PSF people silently hide docs on older Python versions from the search indexes. That will make it harder to support apps developed on those older versions. In general, looks evil, are there maybe any good reasons for such a step?')

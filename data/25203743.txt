@@ -1,1 +1,1 @@
-Item(by='zelienople', descendants=None, kids=None, score=None, time=1606256893, title=None, item_type='comment', url=None, parent=25203325, text='This paper is a perfect illustration of garbage in = garbage out.')
+Item(by='zelienople', descendants=None, kids=[25220287], score=None, time=1606256893, title=None, item_type='comment', url=None, parent=25203325, text='This paper is a perfect illustration of garbage in = garbage out.')

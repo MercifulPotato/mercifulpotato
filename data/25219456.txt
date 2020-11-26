@@ -1,1 +1,1 @@
-Item(by='Rychard', descendants=None, kids=None, score=None, time=1606394217, title=None, item_type='comment', url=None, parent=25219302, text='Rebase isn&#x27;t the only solution for such scenarios.  Merging remote&#x2F;master into the source branch will serve the same purpose.')
+Item(by='Rychard', descendants=None, kids=[25219881], score=None, time=1606394217, title=None, item_type='comment', url=None, parent=25219302, text='Rebase isn&#x27;t the only solution for such scenarios.  Merging remote&#x2F;master into the source branch will serve the same purpose.')

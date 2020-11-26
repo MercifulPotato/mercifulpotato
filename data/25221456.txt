@@ -1,0 +1,1 @@
+Item(by='firethief', descendants=None, kids=[25221810], score=None, time=1606409043, title=None, item_type='comment', url=None, parent=25221306, text='Because the parser can&#x27;t typecheck &quot;ident &#x27;+&#x27; ident&quot;, so why make it vastly more complicated only to overlap with a later pass that is necessary anyway?')

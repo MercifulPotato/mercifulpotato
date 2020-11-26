@@ -1,0 +1,1 @@
+Item(by='AlexITC', descendants=None, kids=None, score=None, time=1606410941, title=None, item_type='comment', url=None, parent=25219571, text='That worked for me only after including this snippet on the manifest:<p><pre><code>  &quot;browser_specific_settings&quot;: {\n    &quot;gecko&quot;: {\n      &quot;id&quot;: &quot;example@gmail.com&quot;\n    }\n  }</code></pre>')

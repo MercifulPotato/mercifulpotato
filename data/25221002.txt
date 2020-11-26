@@ -1,0 +1,1 @@
+Item(by='boris', descendants=None, kids=[25221071, 25221244], score=None, time=1606405896, title=None, item_type='comment', url=None, parent=25219698, text='It&#x27;s funny how the way to get a Linux on ARM machine with decent performance might be getting a Mac Mini and running Linux as a VM. I doubt nested virtualization will work though.')

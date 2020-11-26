@@ -1,0 +1,1 @@
+Item(by='mg', descendants=None, kids=None, score=None, time=1606323368, title=None, item_type='comment', url=None, parent=25209389, text='It installs and configures unbound in a Docker container. So it does not matter if unbound is installed on the host or not. It changes no files on the host except temporarily &#x2F;etc&#x2F;resolv.conf for as long as it runs.')

@@ -1,0 +1,1 @@
+Item(by='gaius_baltar', descendants=None, kids=[25221663], score=None, time=1606409697, title=None, item_type='comment', url=None, parent=25221422, text='It really scares me that such system does not have RBAC, limited data access, or even a 2FA to prevent a single password leak from ruining everything.')

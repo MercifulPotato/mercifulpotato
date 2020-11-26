@@ -1,1 +1,1 @@
-Item(by='nullifidian', descendants=None, kids=None, score=None, time=1606398783, title=None, item_type='comment', url=None, parent=25219937, text='&gt;actively trying<p>He can try, but he won&#x27;t succeed.')
+Item(by='nullifidian', descendants=None, kids=[25220404, 25220228], score=None, time=1606398783, title=None, item_type='comment', url=None, parent=25219937, text='&gt;actively trying<p>He can try, but he won&#x27;t succeed.')

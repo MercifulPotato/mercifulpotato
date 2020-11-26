@@ -1,0 +1,1 @@
+Item(by='scribu', descendants=None, kids=None, score=None, time=1606413306, title=None, item_type='comment', url=None, parent=25222067, text='&gt; how many servers are running on storage this modern?<p>AWS allows you to provision EC2 instances with NVMe, without much fanfare. Cost is only ~20% more than SATA.')
