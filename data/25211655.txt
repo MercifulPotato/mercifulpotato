@@ -1,1 +1,1 @@
-Item(by='armenarmen', descendants=None, kids=None, score=None, time=1606325004, title=None, item_type='comment', url=None, parent=25210873, text='I was going to suggest IH, great place to hangout for solo and bootstrap folk')
+Item(by='armenarmen', descendants=None, kids=[25213630], score=None, time=1606325004, title=None, item_type='comment', url=None, parent=25210873, text='I was going to suggest IH, great place to hangout for solo and bootstrap folk')

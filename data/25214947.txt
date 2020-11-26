@@ -1,0 +1,1 @@
+Item(by='the_arun', descendants=None, kids=[25215507], score=None, time=1606342968, title=None, item_type='comment', url=None, parent=25212174, text='So, only us-east1 is down. If you have app running active-active over multi regions, it should be okay, right?')

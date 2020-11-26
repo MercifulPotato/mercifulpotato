@@ -1,1 +1,1 @@
-Item(by='1123581321', descendants=None, kids=None, score=None, time=1606334062, title=None, item_type='comment', url=None, parent=25213363, text='I could see that. How would you value Slack as a subsidiary of a larger B2B SaaS if all of those downsides are substantial?')
+Item(by='1123581321', descendants=None, kids=[25216016], score=None, time=1606334062, title=None, item_type='comment', url=None, parent=25213363, text='I could see that. How would you value Slack as a subsidiary of a larger B2B SaaS if all of those downsides are substantial?')

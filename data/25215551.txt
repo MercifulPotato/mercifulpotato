@@ -1,0 +1,1 @@
+Item(by='gregwebs', descendants=None, kids=None, score=None, time=1606347738, title=None, item_type='comment', url=None, parent=25206018, text='TiDB is for larger scale data and thus a better comparison would probably be with AWS Aurora. We do see customers saving money by taking on the complexity of operating a database themselves rather than using the AWS offering.')

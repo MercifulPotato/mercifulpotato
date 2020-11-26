@@ -1,0 +1,1 @@
+Item(by='deepsun', descendants=None, kids=None, score=None, time=1606355702, title=None, item_type='comment', url=None, parent=25214991, text='They don&#x27;t want to bloat language with million of rarely used syntax and hard to read features, just as Go devs do. Not to repeat the failure of Scala (and I&#x27;m afraid Rust goes the same way).')

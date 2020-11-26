@@ -1,0 +1,1 @@
+Item(by='suprfnk', descendants=None, kids=[25216137], score=None, time=1606333880, title=None, item_type='comment', url=None, parent=25205737, text='&gt; querySelectors are [..] slower [..] than static DOM methods<p>By static DOM methods, you mean the GetElementsBy methods?')

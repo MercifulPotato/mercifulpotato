@@ -1,0 +1,1 @@
+Item(by='HeyLaughingBoy', descendants=None, kids=[25215449, 25214950], score=None, time=1606342165, title=None, item_type='comment', url=None, parent=25213791, text='At one job I had, our programming standards dictated that we would have to write &quot;if (false == foo)&quot; to account for the case where someone accidentally types = instead of ==')

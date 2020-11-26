@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=1, time=1606327106, title='Chad Hurley (Co-Founder, YouTube) on verifying Creators on YouTube', item_type='story', url='https://twitter.com/Chad_Hurley/status/1331638001047195650', parent=None, text=None)
+Item(by='tosh', descendants=1, kids=[25214079], score=1, time=1606327106, title='Chad Hurley (Co-Founder, YouTube) on verifying Creators on YouTube', item_type='story', url='https://twitter.com/Chad_Hurley/status/1331638001047195650', parent=None, text=None)

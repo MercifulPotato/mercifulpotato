@@ -1,1 +1,1 @@
-Item(by='LockAndLol', descendants=None, kids=None, score=None, time=1606324062, title=None, item_type='comment', url=None, parent=25209941, text='I always found jdownloader to be quite beautiful. Way before youtube-dl was a thing, jdownloader was there to the rescue.')
+Item(by='LockAndLol', descendants=None, kids=[25214056], score=None, time=1606324062, title=None, item_type='comment', url=None, parent=25209941, text='I always found jdownloader to be quite beautiful. Way before youtube-dl was a thing, jdownloader was there to the rescue.')

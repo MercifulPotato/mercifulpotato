@@ -1,1 +1,1 @@
-Item(by='dustingetz', descendants=0, kids=None, score=10, time=1606332474, title='Quiver: A modern commutative diagram editor', item_type='story', url='https://github.com/varkor/quiver', parent=None, text=None)
+Item(by='dustingetz', descendants=32, kids=[25214940, 25213592, 25213569, 25215355, 25214740, 25214456, 25215183, 25215869, 25213763, 25214785, 25214254, 25213575], score=214, time=1606332474, title='Quiver: A modern commutative diagram editor', item_type='story', url='https://github.com/varkor/quiver', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='kiyanwang', descendants=0, kids=None, score=2, time=1606331460, title='Everything You Know About MongoDB Is Wrong', item_type='story', url='https://developer.mongodb.com/article/everything-you-know-is-wrong', parent=None, text=None)
+Item(by='kiyanwang', descendants=1, kids=[25216037], score=2, time=1606331460, title='Everything You Know About MongoDB Is Wrong', item_type='story', url='https://developer.mongodb.com/article/everything-you-know-is-wrong', parent=None, text=None)

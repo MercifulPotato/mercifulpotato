@@ -1,1 +1,1 @@
-Item(by='ibraheemdev', descendants=1, kids=[25213284], score=4, time=1606331289, title='AWS outage has taken down a big chunk of the internet', item_type='story', url='https://www.theverge.com/2020/11/25/21719396/amazon-web-services-aws-outage-down-internet/#', parent=None, text=None)
+Item(by='ibraheemdev', descendants=2, kids=[25213284, 25213881], score=4, time=1606331289, title='AWS outage has taken down a big chunk of the internet', item_type='story', url='https://www.theverge.com/2020/11/25/21719396/amazon-web-services-aws-outage-down-internet/#', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='ta8645', descendants=None, kids=None, score=None, time=1606339885, title=None, item_type='comment', url=None, parent=25214279, text='It&#x27;s really not clear why it appears without comment on the same page.  My impression is that as a first step you would use BCPL to bring up a C compiler that targets a new machine, and then use it to port UNIX onto the new machine.')

@@ -1,1 +1,1 @@
-Item(by='andrenth', descendants=3, kids=[25212896, 25211428], score=28, time=1606314099, title='Build It with Nitrogen: The Fast-Off-the-Block Erlang Web Framework', item_type='story', url='https://leanpub.com/builditwithnitrogen', parent=None, text=None)
+Item(by='andrenth', descendants=6, kids=[25213761, 25211428, 25212896], score=30, time=1606314099, title='Build It with Nitrogen: The Fast-Off-the-Block Erlang Web Framework', item_type='story', url='https://leanpub.com/builditwithnitrogen', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='paragraft', descendants=None, kids=None, score=None, time=1606342716, title=None, item_type='comment', url=None, parent=25214123, text='That design raises the question as to what happens to passwords. Do they get replicated in the global table in plaintext? Or are you still forced to do a global user password reset if you want to failover to another user pool?')

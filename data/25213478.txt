@@ -1,1 +1,1 @@
-Item(by='llampx', descendants=None, kids=None, score=None, time=1606333852, title=None, item_type='comment', url=None, parent=25211318, text='You mean you don&#x27;t like paying $500 for 8GB of soldered RAM?')
+Item(by='llampx', descendants=None, kids=[25215118], score=None, time=1606333852, title=None, item_type='comment', url=None, parent=25211318, text='You mean you don&#x27;t like paying $500 for 8GB of soldered RAM?')

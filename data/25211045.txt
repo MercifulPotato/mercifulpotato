@@ -1,1 +1,1 @@
-Item(by='flatiron', descendants=None, kids=None, score=None, time=1606322232, title=None, item_type='comment', url=None, parent=25210653, text='IntelliJ at least has a built in regex maker that you can test against strings in the IDE. Pretty close to auto complete.')
+Item(by='flatiron', descendants=None, kids=[25215488], score=None, time=1606322232, title=None, item_type='comment', url=None, parent=25210653, text='IntelliJ at least has a built in regex maker that you can test against strings in the IDE. Pretty close to auto complete.')

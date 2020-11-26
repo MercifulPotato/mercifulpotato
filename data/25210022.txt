@@ -1,1 +1,1 @@
-Item(by='mathnmusic', descendants=None, kids=None, score=None, time=1606317187, title=None, item_type='comment', url=None, parent=25209501, text='And what about when browsers (like Brave) start supporting IPFS natively, and gateways are not needed any more?')
+Item(by='mathnmusic', descendants=None, kids=[25215652], score=None, time=1606317187, title=None, item_type='comment', url=None, parent=25209501, text='And what about when browsers (like Brave) start supporting IPFS natively, and gateways are not needed any more?')

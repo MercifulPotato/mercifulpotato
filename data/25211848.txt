@@ -1,1 +1,1 @@
-Item(by='trianglem', descendants=None, kids=None, score=None, time=1606325904, title=None, item_type='comment', url=None, parent=25211384, text='Why isn’t it a living chicken after 3 days? 1 day? Immediately after fertilization? Whatever this has been argued ad infinitum.')
+Item(by='trianglem', descendants=None, kids=[25214526], score=None, time=1606325904, title=None, item_type='comment', url=None, parent=25211384, text='Why isn’t it a living chicken after 3 days? 1 day? Immediately after fertilization? Whatever this has been argued ad infinitum.')

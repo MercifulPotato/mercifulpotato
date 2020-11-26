@@ -1,0 +1,1 @@
+Item(by='sokoloff', descendants=None, kids=None, score=None, time=1606350052, title=None, item_type='comment', url=None, parent=25210677, text='That’s somewhat debatable. A site which uses https and requires TLS 1.2 or later, as is common&#x2F;good practice today, will not work with a 13 year old device. (TLS 1.2 RFC was published Aug 2008.)')

@@ -1,0 +1,1 @@
+Item(by='zzo38computer', descendants=0, kids=None, score=1, time=1606334870, title='Ask HN: How to skip some CSS animations?', item_type='story', url=None, parent=None, text='How to skip CSS animations so that if an animation only plays once it will be skipped and display only the end of the animation?')

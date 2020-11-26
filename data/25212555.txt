@@ -1,1 +1,1 @@
-Item(by='binarybits', descendants=0, kids=None, score=2, time=1606329239, title='Linus discusses challenges getting Linux on Apple Silicon Macs', item_type='story', url='https://www.zdnet.com/article/linus-torvalds-would-like-to-use-an-m1-mac-for-linux-but/', parent=None, text=None)
+Item(by='binarybits', descendants=0, kids=[25215861], score=5, time=1606329239, title='Linus discusses challenges getting Linux on Apple Silicon Macs', item_type='story', url='https://www.zdnet.com/article/linus-torvalds-would-like-to-use-an-m1-mac-for-linux-but/', parent=None, text=None)

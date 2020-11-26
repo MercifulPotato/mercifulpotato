@@ -1,1 +1,1 @@
-Item(by='papanoah', descendants=None, kids=None, score=None, time=1606327387, title=None, item_type='comment', url=None, parent=25211026, text='Hey, I have sent an E-Mail yesterday evening. Do you have a rough number, how long it takes on average before the mail gets burned?')
+Item(by='papanoah', descendants=None, kids=[25215662], score=None, time=1606327387, title=None, item_type='comment', url=None, parent=25211026, text='Hey, I have sent an E-Mail yesterday evening. Do you have a rough number, how long it takes on average before the mail gets burned?')

@@ -1,1 +1,1 @@
-Item(by='jeremylevy', descendants=0, kids=None, score=7, time=1606330381, title='France starts collecting tax on tech giants', item_type='story', url='https://techcrunch.com/2020/11/25/france-starts-collecting-tax-on-tech-giants/', parent=None, text=None)
+Item(by='jeremylevy', descendants=11, kids=[25215540, 25214055, 25214370], score=23, time=1606330381, title='France starts collecting tax on tech giants', item_type='story', url='https://techcrunch.com/2020/11/25/france-starts-collecting-tax-on-tech-giants/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='kelnos', descendants=None, kids=None, score=None, time=1606354139, title=None, item_type='comment', url=None, parent=25214014, text='Right, and given that those certificates expire after some finite amount of time, this wouldn&#x27;t be a forever-growing CRL, as expired certs could be dropped from the file periodically.')

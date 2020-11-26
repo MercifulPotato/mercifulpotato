@@ -1,1 +1,1 @@
-Item(by='offtop5', descendants=None, kids=None, score=None, time=1606327845, title=None, item_type='comment', url=None, parent=25211262, text='Rip slack.<p>Damn good exit though. Who woulda thought a chat utility could be worth billions')
+Item(by='offtop5', descendants=None, kids=[25215217], score=None, time=1606327845, title=None, item_type='comment', url=None, parent=25211262, text='Rip slack.<p>Damn good exit though. Who woulda thought a chat utility could be worth billions')

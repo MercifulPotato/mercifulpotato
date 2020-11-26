@@ -1,1 +1,1 @@
-Item(by='Faaak', descendants=None, kids=None, score=None, time=1606248696, title=None, item_type='comment', url=None, parent=25201280, text='I wouldn&#x27;t bet on that at all')
+Item(by='Faaak', descendants=None, kids=[25214385], score=None, time=1606248696, title=None, item_type='comment', url=None, parent=25201280, text='I wouldn&#x27;t bet on that at all')

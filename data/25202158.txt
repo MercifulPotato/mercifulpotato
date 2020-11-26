@@ -1,1 +1,1 @@
-Item(by='johnchristopher', descendants=None, kids=None, score=None, time=1606246651, title=None, item_type='comment', url=None, parent=25195385, text='Would you say the image quality of the pi cam is better than the laptop camera ?')
+Item(by='johnchristopher', descendants=None, kids=[25214197], score=None, time=1606246651, title=None, item_type='comment', url=None, parent=25195385, text='Would you say the image quality of the pi cam is better than the laptop camera ?')

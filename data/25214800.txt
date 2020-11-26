@@ -1,0 +1,1 @@
+Item(by='WalterBright', descendants=None, kids=None, score=None, time=1606341879, title=None, item_type='comment', url=None, parent=25214322, text='Most C compilers will give a warning for that. D makes it an error in the grammar. `a &lt; b &lt; c` is also an error in the grammar.')

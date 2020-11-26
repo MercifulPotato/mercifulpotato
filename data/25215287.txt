@@ -1,0 +1,1 @@
+Item(by='seddonm1', descendants=None, kids=None, score=None, time=1606345508, title=None, item_type='comment', url=None, parent=25207455, text='Maybe.<p>In this case Argo uses the Kubernetes distributed state store (etcd or equivalent) and is a stateless service so can deal with failures quite well.')

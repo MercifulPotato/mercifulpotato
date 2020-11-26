@@ -1,1 +1,1 @@
-Item(by='gradschool', descendants=None, kids=None, score=None, time=1606330205, title=None, item_type='comment', url=None, parent=25205341, text='Inverse imposter syndrome: I suspect most people of being incompetent at their jobs and just faking it.')
+Item(by='gradschool', descendants=None, kids=[25214423], score=None, time=1606330205, title=None, item_type='comment', url=None, parent=25205341, text='Inverse imposter syndrome: I suspect most people of being incompetent at their jobs and just faking it.')

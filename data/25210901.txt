@@ -1,1 +1,1 @@
-Item(by='fakedang', descendants=None, kids=None, score=None, time=1606321589, title=None, item_type='comment', url=None, parent=25209557, text='Exactly. Not even 2008, maybe dotcom era.')
+Item(by='fakedang', descendants=None, kids=[25214927], score=None, time=1606321589, title=None, item_type='comment', url=None, parent=25209557, text='Exactly. Not even 2008, maybe dotcom era.')

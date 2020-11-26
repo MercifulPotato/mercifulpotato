@@ -1,1 +1,1 @@
-Item(by='dmitrygr', descendants=None, kids=[25213448, 25212688], score=None, time=1606320049, title=None, item_type='comment', url=None, parent=25208474, text='Freescale&#x27;s i.MX SoCs are full open. No blobs at all. Check them out. They are sweet. Boards exist.')
+Item(by='dmitrygr', descendants=None, kids=[25212688, 25213448], score=None, time=1606320049, title=None, item_type='comment', url=None, parent=25208474, text='Freescale&#x27;s i.MX SoCs are full open. No blobs at all. Check them out. They are sweet. Boards exist.')

@@ -1,1 +1,1 @@
-Item(by='1over137', descendants=None, kids=None, score=None, time=1606333859, title=None, item_type='comment', url=None, parent=25213067, text='The actual TXT record shouldn&#x27;t have the quotes at all.')
+Item(by='1over137', descendants=None, kids=[25214403], score=None, time=1606333859, title=None, item_type='comment', url=None, parent=25213067, text='The actual TXT record shouldn&#x27;t have the quotes at all.')

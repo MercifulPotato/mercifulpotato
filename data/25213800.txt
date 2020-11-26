@@ -1,1 +1,1 @@
-Item(by='kevindong', descendants=None, kids=None, score=None, time=1606335464, title=None, item_type='comment', url=None, parent=25212694, text='I&#x27;d expect Amazon to be better able to maintain uptime than a self-hosted option at most (but not all) companies.')
+Item(by='kevindong', descendants=None, kids=[25214002], score=None, time=1606335464, title=None, item_type='comment', url=None, parent=25212694, text='I&#x27;d expect Amazon to be better able to maintain uptime than a self-hosted option at most (but not all) companies.')

@@ -1,0 +1,1 @@
+Item(by='The_rationalist', descendants=None, kids=None, score=None, time=1606347347, title=None, item_type='comment', url=None, parent=25215007, text='<i>keep workloads to their own zone depending on where they are.</i> Hadoop achieve exactly that, I wonder if their solution could be used as an inspiration for solving this in kubernetes')
