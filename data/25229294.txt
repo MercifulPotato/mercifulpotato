@@ -1,0 +1,1 @@
+Item(by='rscho', descendants=None, kids=None, score=None, time=1606490189, title=None, item_type='comment', url=None, parent=25228984, text='Isn&#x27;t chicken actually slower than Racket was before the switch? IMO its strong point is more seamless CFFI than performance. Chez also has a small C core and the rest in scheme, which I think was the main motive for the switch.')

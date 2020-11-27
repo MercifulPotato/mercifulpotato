@@ -1,1 +1,1 @@
-Item(by='andrevoget', descendants=None, kids=None, score=None, time=1606458558, title=None, item_type='comment', url=None, parent=25225574, text='It&#x27;s a reference to the forum r&#x2F;Outside on reddit.com')
+Item(by='andrevoget', descendants=None, kids=[25229342, 25231029], score=None, time=1606458558, title=None, item_type='comment', url=None, parent=25225574, text='It&#x27;s a reference to the forum r&#x2F;Outside on reddit.com')

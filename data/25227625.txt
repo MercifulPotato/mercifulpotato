@@ -1,1 +1,1 @@
-Item(by='andai', descendants=None, kids=None, score=None, time=1606475216, title=None, item_type='comment', url=None, parent=25219928, text='I have to say, I think you underestimate the\nsuffering brought by insanity. Thankfully the odds are much better than that.')
+Item(by='andai', descendants=None, kids=[25231961], score=None, time=1606475216, title=None, item_type='comment', url=None, parent=25219928, text='I have to say, I think you underestimate the\nsuffering brought by insanity. Thankfully the odds are much better than that.')

@@ -1,1 +1,1 @@
-Item(by='DarkWiiPlayer', descendants=None, kids=None, score=None, time=1606481534, title=None, item_type='comment', url=None, parent=25228145, text='been looking at `e^e = inf` for a minute now and I just don&#x27;t get the joke. What am I missing?')
+Item(by='DarkWiiPlayer', descendants=None, kids=[25230911], score=None, time=1606481534, title=None, item_type='comment', url=None, parent=25228145, text='been looking at `e^e = inf` for a minute now and I just don&#x27;t get the joke. What am I missing?')

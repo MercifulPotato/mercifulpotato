@@ -1,1 +1,1 @@
-Item(by='s_dev', descendants=None, kids=None, score=None, time=1606486572, title=None, item_type='comment', url=None, parent=25228531, text='&quot;I can&#x27;t believe it&#x27;s not butter&quot;!')
+Item(by='s_dev', descendants=None, kids=[25229015, 25229670], score=None, time=1606486572, title=None, item_type='comment', url=None, parent=25228531, text='&quot;I can&#x27;t believe it&#x27;s not butter&quot;!')

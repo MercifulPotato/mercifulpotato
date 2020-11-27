@@ -1,1 +1,1 @@
-Item(by='username90', descendants=None, kids=None, score=None, time=1606486345, title=None, item_type='comment', url=None, parent=25228424, text='PG just wrote down what he thinks about these things, sharing thoughts isn&#x27;t a waste of time.')
+Item(by='username90', descendants=None, kids=[25231809], score=None, time=1606486345, title=None, item_type='comment', url=None, parent=25228424, text='PG just wrote down what he thinks about these things, sharing thoughts isn&#x27;t a waste of time.')

@@ -1,0 +1,1 @@
+Item(by='warp', descendants=None, kids=None, score=None, time=1606490284, title=None, item_type='comment', url=None, parent=25229022, text='AWS Graviton instances apparently offer better price&#x2F;performance compared to intel EC2 instances.  So there probably is a slow move to ARM for some developers.')

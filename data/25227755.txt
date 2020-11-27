@@ -1,1 +1,1 @@
-Item(by='paul_f', descendants=None, kids=None, score=None, time=1606476402, title=None, item_type='comment', url=None, parent=25227237, text='If I remember correctly, Sigor Ros created a new language whereas this is intentional gibberish.')
+Item(by='paul_f', descendants=None, kids=[25231738], score=None, time=1606476402, title=None, item_type='comment', url=None, parent=25227237, text='If I remember correctly, Sigor Ros created a new language whereas this is intentional gibberish.')

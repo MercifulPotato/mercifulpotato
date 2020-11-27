@@ -1,0 +1,1 @@
+Item(by='Kerrick', descendants=None, kids=[25231891], score=None, time=1606504362, title=None, item_type='comment', url=None, parent=25227463, text='Fewer LoC isn&#x27;t always better for maintenance. I&#x27;d certainly rather have my team maintain 1KLoC of JavaScript than 50LoC of Brainfuck.')

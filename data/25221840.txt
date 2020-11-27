@@ -1,1 +1,1 @@
-Item(by='rutenspitz', descendants=0, kids=None, score=3, time=1606411095, title='The Code It Yourself Manifesto (2016)', item_type='story', url='https://pestilenz.org/~ckeen/blog/posts/ciy-manifesto.html', parent=None, text=None)
+Item(by='rutenspitz', descendants=14, kids=[25231396, 25231455, 25229706, 25230723, 25231333, 25230049, 25230460, 25230537, 25230472, 25230946, 25229791, 25230331], score=15, time=1606411095, title='The Code It Yourself Manifesto (2016)', item_type='story', url='https://pestilenz.org/~ckeen/blog/posts/ciy-manifesto.html', parent=None, text=None)

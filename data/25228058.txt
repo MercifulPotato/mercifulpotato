@@ -1,1 +1,1 @@
-Item(by='matthewmacleod', descendants=None, kids=None, score=None, time=1606479402, title=None, item_type='comment', url=None, parent=25226968, text='<i>I&#x27;m not quite sure what is driving your passivity here.</i><p>The fear that other people might benefit in some way.')
+Item(by='matthewmacleod', descendants=None, kids=[25228956], score=None, time=1606479402, title=None, item_type='comment', url=None, parent=25226968, text='<i>I&#x27;m not quite sure what is driving your passivity here.</i><p>The fear that other people might benefit in some way.')

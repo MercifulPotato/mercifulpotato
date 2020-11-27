@@ -1,0 +1,1 @@
+Item(by='jerjerjer', descendants=None, kids=None, score=None, time=1606487980, title=None, item_type='comment', url=None, parent=25227829, text='Took a lot of years for American developers to figure out that string inputs are not limited to ASCII. And even that is more due to emojis (bless them). It&#x27;s a slow process.')

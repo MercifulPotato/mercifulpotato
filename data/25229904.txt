@@ -1,0 +1,1 @@
+Item(by='bityard', descendants=None, kids=[25231421], score=None, time=1606493985, title=None, item_type='comment', url=None, parent=25226260, text='I guess &quot;Document&quot; in this context means &quot;blob of JSON&quot; but I came here to mention that SQLite makes a terrific personal wiki&#x2F;notes backend thanks to the very nice built-in FTS5 full-text search engine.')

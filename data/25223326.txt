@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1606422870, title=None, item_type='comment', url=None, parent=25222422, text='eBPF is already it, apparently people keep forgeting that WASM isn&#x27;t the first nor is going to be the last polyglot bytecode format.')
+Item(by='pjmlp', descendants=None, kids=[25229802], score=None, time=1606422870, title=None, item_type='comment', url=None, parent=25222422, text='eBPF is already it, apparently people keep forgeting that WASM isn&#x27;t the first nor is going to be the last polyglot bytecode format.')

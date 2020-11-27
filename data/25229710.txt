@@ -1,0 +1,1 @@
+Item(by='tehlike', descendants=None, kids=[25230026], score=None, time=1606492881, title=None, item_type='comment', url=None, parent=25229519, text='Docker on mac is a vm, and things relating to volume mounts are horrendous. Switched to a linux laptop (aero15) and things work now.')

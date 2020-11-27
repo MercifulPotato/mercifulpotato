@@ -1,0 +1,1 @@
+Item(by='sgt', descendants=None, kids=None, score=None, time=1606498162, title=None, item_type='comment', url=None, parent=25229284, text='macOS already has this and is in fact a proper Unix to begin with. Docker is supported just fine on macOS on Intel (and soon the new chip), and it runs basically Linux inside a VM, just like WSL2 does.')

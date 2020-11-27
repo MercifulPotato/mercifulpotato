@@ -1,0 +1,1 @@
+Item(by='cdcarter', descendants=None, kids=None, score=None, time=1606506099, title=None, item_type='comment', url=None, parent=25226260, text='The technique the article presents is clever. I like exposing the fields I need to query as columns, and the way that making an extracted field NON NULL can supplement&#x2F;replace complicated json check constraints is neat.')

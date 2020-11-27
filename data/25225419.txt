@@ -1,1 +1,1 @@
-Item(by='jolux', descendants=None, kids=None, score=None, time=1606449101, title=None, item_type='comment', url=None, parent=25222715, text='I still feel that you&#x27;re missing my point but I am clearly not skilled enough to make it more obvious.')
+Item(by='jolux', descendants=None, kids=[25232202], score=None, time=1606449101, title=None, item_type='comment', url=None, parent=25222715, text='I still feel that you&#x27;re missing my point but I am clearly not skilled enough to make it more obvious.')

@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1606499127, title=None, item_type='comment', url=None, parent=25230758, text='&gt; Docker support with full support for running x86 docker images from docker hub via rosetta would be what is needed for me.<p>Docker isn’t going to be doing that, at least they’re not going to work on it themselves.')

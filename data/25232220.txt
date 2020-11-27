@@ -1,0 +1,1 @@
+Item(by='amelius', descendants=None, kids=None, score=None, time=1606508272, title=None, item_type='comment', url=None, parent=25228786, text='How fast is a fully parallel -j$(nproc) build of (say) gcc on the M1 versus x86?')

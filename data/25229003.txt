@@ -1,0 +1,1 @@
+Item(by='sneak', descendants=None, kids=None, score=None, time=1606487940, title=None, item_type='comment', url=None, parent=25218220, text='System services bypassing VPN and firewall because they&#x27;re on a vendor whitelist (that can&#x27;t be modified due to OS cryptographic protections) is a) fact not rant and b) nothing to do with telemetry.')

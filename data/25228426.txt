@@ -1,1 +1,1 @@
-Item(by='fab1an', descendants=None, kids=None, score=None, time=1606482824, title=None, item_type='comment', url=None, parent=25228402, text='hCaptcha team here - thanks for the feedback, we&#x27;ll look into this!')
+Item(by='fab1an', descendants=None, kids=[25230390], score=None, time=1606482824, title=None, item_type='comment', url=None, parent=25228402, text='hCaptcha team here - thanks for the feedback, we&#x27;ll look into this!')

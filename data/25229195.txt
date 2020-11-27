@@ -1,0 +1,1 @@
+Item(by='prepend', descendants=None, kids=None, score=None, time=1606489323, title=None, item_type='comment', url=None, parent=25226527, text='Whenever I want to know a Unix command (and I’m not at a terminal), I just DDG “man &lt;command&gt;” and it shows me the manual page for this command.<p>That might help you from using the search engine that will not be named.')

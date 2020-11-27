@@ -1,1 +1,1 @@
-Item(by='erikbye', descendants=None, kids=None, score=None, time=1606473408, title=None, item_type='comment', url=None, parent=25226494, text='Yes, there are _many_ private subreddits with high quality content.')
+Item(by='erikbye', descendants=None, kids=[25229353], score=None, time=1606473408, title=None, item_type='comment', url=None, parent=25226494, text='Yes, there are _many_ private subreddits with high quality content.')
