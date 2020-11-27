@@ -1,1 +1,1 @@
-Item(by='cutler', descendants=None, kids=[25223945], score=None, time=1606424755, title=None, item_type='comment', url=None, parent=25223273, text='A world class VM tied to a dinosaur language in which you still have to escape regex metacharacters.')
+Item(by='cutler', descendants=None, kids=[25226245, 25223945], score=None, time=1606424755, title=None, item_type='comment', url=None, parent=25223273, text='A world class VM tied to a dinosaur language in which you still have to escape regex metacharacters.')

@@ -1,0 +1,1 @@
+Item(by='zaarn', descendants=None, kids=None, score=None, time=1606460269, title=None, item_type='comment', url=None, parent=25223038, text='If you rely on type labels on your functions and variables, you should rarely require a try&#x2F;catch to handle type errors for internal functions.')

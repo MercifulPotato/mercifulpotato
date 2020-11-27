@@ -1,0 +1,1 @@
+Item(by='slrz', descendants=None, kids=None, score=None, time=1606450293, title=None, item_type='comment', url=None, parent=25224568, text='This is asking for a different thing, though.<p><pre><code>  % taskset 1 nproc\n  1\n\n  % taskset 1 getconf _NPROCESSORS_ONLN\n  8</code></pre>')

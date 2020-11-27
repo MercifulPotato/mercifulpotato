@@ -1,1 +1,1 @@
-Item(by='jolux', descendants=None, kids=None, score=None, time=1606442433, title=None, item_type='comment', url=None, parent=25224346, text='You say it&#x27;s unattractive to business and yet it seems to be the single most popular brand of laptop at most tech companies these days.')
+Item(by='jolux', descendants=None, kids=[25225686], score=None, time=1606442433, title=None, item_type='comment', url=None, parent=25224346, text='You say it&#x27;s unattractive to business and yet MacBook seems to be the single most popular brand of laptop at most tech companies these days.')

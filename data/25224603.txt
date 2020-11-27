@@ -1,1 +1,1 @@
-Item(by='Taek', descendants=None, kids=None, score=None, time=1606437537, title=None, item_type='comment', url=None, parent=25217444, text='Nobody is getting convicted of a crime here.')
+Item(by='Taek', descendants=None, kids=[25225197], score=None, time=1606437537, title=None, item_type='comment', url=None, parent=25217444, text='Nobody is getting convicted of a crime here.')

@@ -1,1 +1,1 @@
-Item(by='xabush', descendants=None, kids=None, score=None, time=1606423210, title=None, item_type='comment', url=None, parent=25223194, text='Or use Rust as it fits this particular use case where you need a language that’s low-level and safe.')
+Item(by='xabush', descendants=None, kids=[25225653], score=None, time=1606423210, title=None, item_type='comment', url=None, parent=25223194, text='Or use Rust as it fits this particular use case where you need a language that’s low-level and safe.')

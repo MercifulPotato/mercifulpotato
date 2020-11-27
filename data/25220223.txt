@@ -1,1 +1,1 @@
-Item(by='mcswell', descendants=None, kids=None, score=None, time=1606400560, title=None, item_type='comment', url=None, parent=25205649, text='The article addresses red dwarves, you should read it.')
+Item(by='mcswell', descendants=None, kids=[25225678], score=None, time=1606400560, title=None, item_type='comment', url=None, parent=25205649, text='The article addresses red dwarves, you should read it.')

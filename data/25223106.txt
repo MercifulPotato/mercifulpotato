@@ -1,1 +1,1 @@
-Item(by='ripley12', descendants=1, kids=[25223128], score=1, time=1606420879, title='Themes of .NET: High-level plans for .NET 6', item_type='story', url='https://themesof.net/', parent=None, text=None)
+Item(by='ripley12', descendants=2, kids=[25225331, 25223128], score=2, time=1606420879, title='Themes of .NET: High-level plans for .NET 6', item_type='story', url='https://themesof.net/', parent=None, text=None)

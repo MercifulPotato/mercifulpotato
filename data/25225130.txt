@@ -1,0 +1,1 @@
+Item(by='anarazel', descendants=None, kids=None, score=None, time=1606444455, title=None, item_type='comment', url=None, parent=25223641, text='I&#x27;d like something roughly similar, to make the rr reverse debugger support io_uring. That likely can&#x27;t work like most other syscalls, due to the memory only interface...')

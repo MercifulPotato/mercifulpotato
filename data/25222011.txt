@@ -1,1 +1,1 @@
-Item(by='theluketaylor', descendants=None, kids=None, score=None, time=1606412279, title=None, item_type='comment', url=None, parent=25221410, text='Road damage goes up with the 4th power of axle weight, so trucks do far, far more damage than anything else.')
+Item(by='theluketaylor', descendants=None, kids=[25226410], score=None, time=1606412279, title=None, item_type='comment', url=None, parent=25221410, text='Road damage goes up with the 4th power of axle weight, so trucks do far, far more damage than anything else.')

@@ -1,0 +1,1 @@
+Item(by='waruqi', descendants=None, kids=None, score=None, time=1606442719, title=None, item_type='comment', url=None, parent=25222260, text='Xmake does not depend on msvc and msbuild at all, it has its own independent build system, and the build speed is as fast as ninja, and on windows, it can use other compilers to compile the project, such as: clang, tinycc ..')

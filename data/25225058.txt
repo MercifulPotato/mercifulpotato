@@ -1,1 +1,1 @@
-Item(by='avalys', descendants=None, kids=None, score=None, time=1606443384, title=None, item_type='comment', url=None, parent=25224250, text='Who else uses Java Swing these days?')
+Item(by='avalys', descendants=None, kids=[25225784], score=None, time=1606443384, title=None, item_type='comment', url=None, parent=25224250, text='Who else uses Java Swing these days?')

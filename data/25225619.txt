@@ -1,0 +1,1 @@
+Item(by='moonchild', descendants=None, kids=None, score=None, time=1606452571, title=None, item_type='comment', url=None, parent=25225217, text='You want to have more processes running than cores, so that if one process is waiting for i&#x2F;o another can use the CPU time for something.')

@@ -1,1 +1,1 @@
-Item(by='bfrog', descendants=None, kids=None, score=None, time=1606431086, title=None, item_type='comment', url=None, parent=25209145, text='I&#x27;ve been using nix for this, though on windows I assume its WSL only support, maybe mingw')
+Item(by='bfrog', descendants=None, kids=[25224979], score=None, time=1606431086, title=None, item_type='comment', url=None, parent=25209145, text='I&#x27;ve been using nix for this, though on windows I assume its WSL only support, maybe mingw')

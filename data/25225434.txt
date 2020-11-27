@@ -1,0 +1,1 @@
+Item(by='toast0', descendants=None, kids=None, score=None, time=1606449410, title=None, item_type='comment', url=None, parent=25224472, text='cpuset -g on FreeBSD &gt;= 7.1 will tell you what cpus are available to your shell, where a sysctl will only tell you what&#x27;s on your system. (Lots of good info in the related manual pages)')

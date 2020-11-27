@@ -1,1 +1,1 @@
-Item(by='DavidSJ', descendants=None, kids=None, score=None, time=1606440107, title=None, item_type='comment', url=None, parent=25224690, text='And on top of that, your TV manufacturer gets to spy on you. It’s win-win-win.')
+Item(by='DavidSJ', descendants=None, kids=[25225733, 25225859], score=None, time=1606440107, title=None, item_type='comment', url=None, parent=25224690, text='And on top of that, your TV manufacturer gets to spy on you. It’s win-win-win.')

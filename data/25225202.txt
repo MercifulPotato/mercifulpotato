@@ -1,0 +1,1 @@
+Item(by='rmason', descendants=None, kids=[25225276], score=None, time=1606445497, title=None, item_type='comment', url=None, parent=25224220, text='Couldn&#x27;t these companies have lambda&#x27;s running on Azure, not costing them anything when not being used.  After say three failures to connect to AWS the service would change to Azure for say 24 hours?')

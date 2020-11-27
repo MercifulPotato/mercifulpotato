@@ -1,1 +1,1 @@
-Item(by='thechao', descendants=None, kids=None, score=None, time=1606438041, title=None, item_type='comment', url=None, parent=25222824, text='I feel like everything you just said is true if you replace “cmake” with “make” and “xmake” with “cmake”.')
+Item(by='thechao', descendants=None, kids=[25224966], score=None, time=1606438041, title=None, item_type='comment', url=None, parent=25222824, text='I feel like everything you just said is true if you replace “cmake” with “make” and “xmake” with “cmake”.')

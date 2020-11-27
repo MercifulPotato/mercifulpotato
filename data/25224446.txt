@@ -1,1 +1,1 @@
-Item(by='kwk1', descendants=0, kids=None, score=19, time=1606435560, title='A look at Chang’e 5 telemetry', item_type='story', url='https://destevez.net/2020/11/a-look-at-change-5-telemetry/', parent=None, text=None)
+Item(by='kwk1', descendants=15, kids=[25226478, 25225257, 25226292, 25225526, 25225520], score=106, time=1606435560, title='A look at Chang’e 5 telemetry', item_type='story', url='https://destevez.net/2020/11/a-look-at-change-5-telemetry/', parent=None, text=None)
