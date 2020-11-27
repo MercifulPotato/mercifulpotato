@@ -1,1 +1,1 @@
-Item(by='jcims', descendants=None, kids=None, score=None, time=1606449450, title=None, item_type='comment', url=None, parent=25225257, text='Pretty awesome.  I&#x27;m guessing most of those single-frame white streaks are cosmic ray strikes on the camera sensor.')
+Item(by='jcims', descendants=None, kids=[25228350], score=None, time=1606449450, title=None, item_type='comment', url=None, parent=25225257, text='Pretty awesome.  I&#x27;m guessing most of those single-frame white streaks are cosmic ray strikes on the camera sensor.')

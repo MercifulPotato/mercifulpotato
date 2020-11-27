@@ -1,1 +1,1 @@
-Item(by='CraigRood', descendants=None, kids=None, score=None, time=1606418362, title=None, item_type='comment', url=None, parent=25222083, text='Interesting, I had no idea. What could an individual like myself do to help this situation?')
+Item(by='CraigRood', descendants=None, kids=[25226440], score=None, time=1606418362, title=None, item_type='comment', url=None, parent=25222083, text='Interesting, I had no idea. What could an individual like myself do to help this situation?')

@@ -1,0 +1,1 @@
+Item(by='darkwater', descendants=None, kids=[25226665, 25226784, 25226945], score=None, time=1606466057, title=None, item_type='comment', url=None, parent=25226345, text='Does anybody actually expose their Home Assistant installation directly on the Internet these days? Just use WireGuard!')

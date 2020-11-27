@@ -1,0 +1,1 @@
+Item(by='capableweb', descendants=None, kids=None, score=None, time=1606467706, title=None, item_type='comment', url=None, parent=25225525, text='Google Webfonts looks at the useragent (and maybe more?) of the requester and serves different stylesheets depending on that, changing if to load WOFF or TTF fonts for example.')

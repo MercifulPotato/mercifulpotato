@@ -1,1 +1,1 @@
-Item(by='johnisgood', descendants=None, kids=None, score=None, time=1606435921, title=None, item_type='comment', url=None, parent=25218888, text='What is up with this &quot;Developer edition&quot;, &quot;Unbranded stable&quot;, and God knows what else?')
+Item(by='johnisgood', descendants=None, kids=[25226813], score=None, time=1606435921, title=None, item_type='comment', url=None, parent=25218888, text='What is up with this &quot;Developer edition&quot;, &quot;Unbranded stable&quot;, and God knows what else?')

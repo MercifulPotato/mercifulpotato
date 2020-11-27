@@ -1,1 +1,1 @@
-Item(by='gkoberger', descendants=None, kids=None, score=None, time=1606460181, title=None, item_type='comment', url=None, parent=25226125, text='Private group chats, unfortunately. It’s hard to have a public one stay high quality.')
+Item(by='gkoberger', descendants=None, kids=[25226472], score=None, time=1606460181, title=None, item_type='comment', url=None, parent=25226125, text='Private group chats, unfortunately. It’s hard to have a public one stay high quality.')

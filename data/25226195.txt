@@ -1,1 +1,1 @@
-Item(by='Jare', descendants=None, kids=None, score=None, time=1606460828, title=None, item_type='comment', url=None, parent=25225987, text='Because they don&#x27;t know.<p>&gt; your availability information is meaningless.')
+Item(by='Jare', descendants=None, kids=[25227078], score=None, time=1606460828, title=None, item_type='comment', url=None, parent=25225987, text='Because they don&#x27;t know.<p>&gt; your availability information is meaningless.')

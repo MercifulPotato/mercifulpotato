@@ -1,0 +1,1 @@
+Item(by='wtallis', descendants=None, kids=None, score=None, time=1606480168, title=None, item_type='comment', url=None, parent=25225645, text='All SATA SSDs and almost all NVMe SSDs use 512-byte LBAs by default, but many NVMe SSDs can be reconfigured to use 4096-byte LBAs by default. The underlying NAND flash memory these days typically has a native page size of 16kB.')

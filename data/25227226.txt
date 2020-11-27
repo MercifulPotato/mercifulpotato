@@ -1,0 +1,1 @@
+Item(by='lifthrasiir', descendants=None, kids=None, score=None, time=1606471707, title=None, item_type='comment', url=None, parent=25227164, text='double_as_int64 as defined in the linked source code does take care of the sign so that double_as_int64(x) == -double_as_int64(-x). This is also important for the negative zero case.')

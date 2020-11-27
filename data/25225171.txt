@@ -1,1 +1,1 @@
-Item(by='codecutter', descendants=None, kids=None, score=None, time=1606445014, title=None, item_type='comment', url=None, parent=25224745, text='They need to put fail-safe mechanism such that washer spinning will stop the moment someone opens the washer door.')
+Item(by='codecutter', descendants=None, kids=[25226654], score=None, time=1606445014, title=None, item_type='comment', url=None, parent=25224745, text='They need to put fail-safe mechanism such that washer spinning will stop the moment someone opens the washer door.')

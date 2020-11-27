@@ -1,0 +1,1 @@
+Item(by='eitland', descendants=None, kids=None, score=None, time=1606477332, title=None, item_type='comment', url=None, parent=25222270, text='Interestingly the one other mainstream language that manages to mess up<p>- equality<p>- type coercion<p>- array handling<p>and more to the same degree as PHP :-)')

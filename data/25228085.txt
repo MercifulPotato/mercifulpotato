@@ -1,0 +1,1 @@
+Item(by='robin_reala', descendants=None, kids=None, score=None, time=1606479620, title=None, item_type='comment', url=None, parent=25227020, text='At one point a vendor tried to claim that ReCAPTCHA was accessible because of the audio fallback. No-one in my team or at the vendor could actually pass it, so we blocked them from implementing it.')

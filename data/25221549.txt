@@ -1,1 +1,1 @@
-Item(by='alisonkisk', descendants=None, kids=None, score=None, time=1606409457, title=None, item_type='comment', url=None, parent=25220139, text='The author contradicts the headline in the body. This seems like a poorly written bit of highbrow content marketing for his book.')
+Item(by='alisonkisk', descendants=None, kids=[25228042], score=None, time=1606409457, title=None, item_type='comment', url=None, parent=25220139, text='The author contradicts the headline in the body. This seems like a poorly written bit of highbrow content marketing for his book.')

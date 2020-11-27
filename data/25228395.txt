@@ -1,0 +1,1 @@
+Item(by='kube-system', descendants=None, kids=None, score=None, time=1606482518, title=None, item_type='comment', url=None, parent=25227509, text='I don’t think reCAPTCHA was <i>designed</i> to reinforce American culture.  I think it was simply designed to make ML training sets for their other projects, and they <i>neglected</i> to make it accessible.')

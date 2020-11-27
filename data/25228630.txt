@@ -1,0 +1,1 @@
+Item(by='pas', descendants=None, kids=None, score=None, time=1606484555, title=None, item_type='comment', url=None, parent=25227125, text='No need for super fancy anycast. Simple DNS with round-robin retry is more than enough.<p>Oh, and CockroachDB.')

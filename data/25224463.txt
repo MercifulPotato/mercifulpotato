@@ -1,1 +1,1 @@
-Item(by='epsilonclose', descendants=None, kids=None, score=None, time=1606435778, title=None, item_type='comment', url=None, parent=25221845, text='What do you mean by &quot;functions are exponentials&quot;?')
+Item(by='epsilonclose', descendants=None, kids=[25226505], score=None, time=1606435778, title=None, item_type='comment', url=None, parent=25221845, text='What do you mean by &quot;functions are exponentials&quot;?')

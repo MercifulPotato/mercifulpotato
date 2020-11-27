@@ -1,0 +1,1 @@
+Item(by='flohofwoe', descendants=None, kids=None, score=None, time=1606473335, title=None, item_type='comment', url=None, parent=25223861, text='Minor nitpick: The Amiga had preemptive multitasking (and thus didn&#x27;t depend on user code to willingly give up their time slice, in that regard it was more like UNIX, and unlike early Windows and MacOS versions).')

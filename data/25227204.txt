@@ -1,0 +1,1 @@
+Item(by='jcelerier', descendants=None, kids=None, score=None, time=1606471568, title=None, item_type='comment', url=None, parent=25224897, text='... what does not work ? provided that you have your ninja and clang binaries in your path, `cmake -GNinja -DCMAKE_CXX_COMPILER=clang++.exe` works fine here')

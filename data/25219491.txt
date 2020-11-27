@@ -1,1 +1,1 @@
-Item(by='ntang', descendants=0, kids=None, score=1, time=1606394493, title='I built the Long Leaf Pine Slate, and you can too', item_type='story', url='http://blairreeves.me/2020/11/25/the-long-leaf-pine-slate-lessons-learned/', parent=None, text=None)
+Item(by='ntang', descendants=1, kids=[25226595], score=11, time=1606394493, title='I built the Long Leaf Pine Slate, and you can too', item_type='story', url='http://blairreeves.me/2020/11/25/the-long-leaf-pine-slate-lessons-learned/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='arkolos', descendants=0, kids=None, score=2, time=1606425325, title='Show HN: A GPS for any map (Android app)', item_type='story', url='https://play.google.com/store/apps/details?id=com.you_are_here', parent=None, text=None)
+Item(by='arkolos', descendants=2, kids=[25227101, 25226877], score=2, time=1606425325, title='Show HN: A GPS for any map (Android app)', item_type='story', url='https://play.google.com/store/apps/details?id=com.you_are_here', parent=None, text=None)

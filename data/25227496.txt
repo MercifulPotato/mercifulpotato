@@ -1,0 +1,1 @@
+Item(by='hohenheim', descendants=None, kids=[25227534], score=None, time=1606474136, title=None, item_type='comment', url=None, parent=25226941, text='I wondering why Ruby&#x27;s binary search uses infinity as the max to kick off the search, instead of max float.')

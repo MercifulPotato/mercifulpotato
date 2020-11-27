@@ -1,0 +1,1 @@
+Item(by='Puts', descendants=None, kids=[25227466], score=None, time=1606470385, title=None, item_type='comment', url=None, parent=25226805, text='I&#x27;ve come to the conclusion that most bots are not that sophisticated. Basic CSRF-protection seems to eliminate most automated requests and the need for captchas.')

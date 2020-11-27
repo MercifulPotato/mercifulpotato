@@ -1,0 +1,1 @@
+Item(by='simias', descendants=None, kids=None, score=None, time=1606478757, title=None, item_type='comment', url=None, parent=25226941, text='&gt;And of course, 0 is represented in floating-point with all the bits set to 0.<p>+0 that is, -0 has the MSB set. That&#x27;s one of the potential annoyances of IEEE floats, unlike two&#x27;s complement integers there are two zeroes.')
