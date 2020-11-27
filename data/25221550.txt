@@ -1,1 +1,1 @@
-Item(by='dante_dev', descendants=None, kids=None, score=None, time=1606409463, title=None, item_type='comment', url=None, parent=25221492, text='Mostly because only cpu-intensive code greatly benefits from JIT. Serving a blog (like the demo) is not much cpu-intensive.')
+Item(by='dante_dev', descendants=None, kids=[25223719], score=None, time=1606409463, title=None, item_type='comment', url=None, parent=25221492, text='Mostly because only cpu-intensive code greatly benefits from JIT. Serving a blog (like the demo) is not much cpu-intensive.')

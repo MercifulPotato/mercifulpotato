@@ -1,0 +1,1 @@
+Item(by='jolux', descendants=None, kids=None, score=None, time=1606442546, title=None, item_type='comment', url=None, parent=25224660, text='If you&#x27;re working in a large legacy system where it&#x27;s not feasible to fully know the code you&#x27;re working on, I find that debuggers both help me find bugs quicker and improve my understanding of the code.')

@@ -1,1 +1,1 @@
-Item(by='Google234', descendants=None, kids=None, score=None, time=1606419203, title=None, item_type='comment', url=None, parent=25221355, text='The laptop works without updates.')
+Item(by='Google234', descendants=None, kids=[25223983, 25223447], score=None, time=1606419203, title=None, item_type='comment', url=None, parent=25221355, text='The laptop works without updates.')

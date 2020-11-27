@@ -1,1 +1,1 @@
-Item(by='apsec112', descendants=0, kids=None, score=5, time=1606414227, title='Why Is All Covid-19 News Bad News?', item_type='story', url='https://www.nber.org/papers/w28110', parent=None, text=None)
+Item(by='apsec112', descendants=3, kids=[25223376, 25223176, 25223502], score=12, time=1606414227, title='Why Is All Covid-19 News Bad News?', item_type='story', url='https://www.nber.org/papers/w28110', parent=None, text=None)

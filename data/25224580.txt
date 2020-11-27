@@ -1,0 +1,1 @@
+Item(by='dkersten', descendants=None, kids=None, score=None, time=1606437222, title=None, item_type='comment', url=None, parent=25223545, text='Clojure&#x27;s &quot;for&quot; is really a list comprehension function, but Clojure&#x27;s &quot;doseq&quot; is more or less what you&#x27;d expect from a for loop (like Python&#x27;s anyway or any other range-based for).')

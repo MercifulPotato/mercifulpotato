@@ -1,1 +1,1 @@
-Item(by='scastiel', descendants=20, kids=[25220880, 25220667, 25220687, 25221426, 25221987], score=79, time=1606401662, title='Show HN: Find info about the developers who post projects on Show HN', item_type='story', url='https://showhn-dashboard.netlify.app/', parent=None, text=None)
+Item(by='scastiel', descendants=21, kids=[25220880, 25225091, 25220667, 25220687, 25221987, 25221426], score=87, time=1606401662, title='Show HN: Find info about the developers who post projects on Show HN', item_type='story', url='https://showhn-dashboard.netlify.app/', parent=None, text=None)

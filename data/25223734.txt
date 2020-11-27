@@ -1,0 +1,1 @@
+Item(by='xorcist', descendants=None, kids=[25223925], score=None, time=1606426968, title=None, item_type='comment', url=None, parent=25221058, text='Perl avoids this problem by having contexts, a bit like casts but with easier syntax, and by having separate numeric and string equality operators.')

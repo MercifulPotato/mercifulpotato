@@ -1,1 +1,1 @@
-Item(by='xwdv', descendants=None, kids=None, score=None, time=1606410543, title=None, item_type='comment', url=None, parent=25218739, text='Some of the octopus are still alive today.')
+Item(by='xwdv', descendants=None, kids=[25223121], score=None, time=1606410543, title=None, item_type='comment', url=None, parent=25218739, text='Some of the octopus are still alive today.')

@@ -1,1 +1,1 @@
-Item(by='devenblake', descendants=None, kids=None, score=None, time=1606415802, title=None, item_type='comment', url=None, parent=25221711, text='Works for me. Are you gonna post the source code for it? Sharing is caring ;)')
+Item(by='devenblake', descendants=None, kids=[25223098], score=None, time=1606415802, title=None, item_type='comment', url=None, parent=25221711, text='Works for me. Are you gonna post the source code for it? Sharing is caring ;)')

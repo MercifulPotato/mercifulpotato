@@ -1,1 +1,1 @@
-Item(by='andrepd', descendants=None, kids=None, score=None, time=1606416098, title=None, item_type='comment', url=None, parent=25216797, text='But you already have a security vulnerability regardless, if you dereference p before checking if it&#x27;s null.')
+Item(by='andrepd', descendants=None, kids=[25224824, 25224003], score=None, time=1606416098, title=None, item_type='comment', url=None, parent=25216797, text='But you already have a security vulnerability regardless, if you dereference p before checking if it&#x27;s null.')

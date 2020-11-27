@@ -1,0 +1,1 @@
+Item(by='s_gourichon', descendants=None, kids=[25224268], score=None, time=1606432354, title=None, item_type='comment', url=None, parent=25213368, text='Interesting, but how does nproc get the right information ?<p>OMP_NUM_THREADS and OMP_THREAD_LIMIT are in principle extra limitations, not the main source of information, right ?')

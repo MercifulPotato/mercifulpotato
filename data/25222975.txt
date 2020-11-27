@@ -1,1 +1,1 @@
-Item(by='diminish', descendants=None, kids=None, score=None, time=1606419787, title=None, item_type='comment', url=None, parent=25219698, text='good job - Linux or Ubuntu is the killer app for apple.')
+Item(by='diminish', descendants=None, kids=[25223452], score=None, time=1606419787, title=None, item_type='comment', url=None, parent=25219698, text='good job - Linux or Ubuntu is the killer app for apple.')

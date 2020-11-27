@@ -1,0 +1,1 @@
+Item(by='will4274', descendants=None, kids=None, score=None, time=1606421627, title=None, item_type='comment', url=None, parent=25221099, text='Yes because (&#x27;0&#x27; == 32) returning true makes more intuitive sense. There are languages without type coercion for comparisons (e.g. OCaml), but C++ isn&#x27;t one of them.')

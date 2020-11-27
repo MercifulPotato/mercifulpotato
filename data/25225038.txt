@@ -1,0 +1,1 @@
+Item(by='xienze', descendants=None, kids=None, score=None, time=1606443108, title=None, item_type='comment', url=None, parent=25224987, text='It’s a home automation protocol, like X10.  You buy devices that can talk ZigBee to a hub device (probably can use a computer on your local network for this).  From the hub you can do all the usual automation tasks.')

@@ -1,0 +1,1 @@
+Item(by='xiphias2', descendants=None, kids=None, score=None, time=1606437058, title=None, item_type='comment', url=None, parent=25224324, text='The next interesting thing for me is PyTorch support, as Tensorflow is already running. I still don&#x27;t know what data types and operations the neural engine supports though for example.')

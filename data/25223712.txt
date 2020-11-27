@@ -1,0 +1,1 @@
+Item(by='WJW', descendants=None, kids=None, score=None, time=1606426783, title=None, item_type='comment', url=None, parent=25223639, text='You can ask the kernel to poll the submission queue and skip io_uring_submit too. (Though you need elevated privileges to do this IIRC)')

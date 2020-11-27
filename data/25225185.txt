@@ -1,0 +1,1 @@
+Item(by='p1necone', descendants=None, kids=None, score=None, time=1606445234, title=None, item_type='comment', url=None, parent=25225162, text='I would be surprised if the graphics API layer had a particularly big impact on power usage. One of the stated goals of Vulkan is also to reduce CPU load when rendering.')

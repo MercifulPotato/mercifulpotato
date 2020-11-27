@@ -1,0 +1,1 @@
+Item(by='mattl', descendants=None, kids=None, score=None, time=1606427205, title=None, item_type='comment', url=None, parent=25221339, text='I blocked their entire IP range from my network. Cloudflare WAF shows the amount of nonsense coming from their network. Bots and a lot of hits in the fail2ban logs.')

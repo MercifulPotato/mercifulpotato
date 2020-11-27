@@ -1,1 +1,1 @@
-Item(by='scaladev', descendants=None, kids=None, score=None, time=1606406503, title=None, item_type='comment', url=None, parent=25221030, text='And people say C++ is a complicated language.')
+Item(by='scaladev', descendants=None, kids=[25223189], score=None, time=1606406503, title=None, item_type='comment', url=None, parent=25221030, text='And people say C++ is a complicated language.')

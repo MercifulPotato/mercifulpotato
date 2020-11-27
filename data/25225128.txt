@@ -1,0 +1,1 @@
+Item(by='oso2k', descendants=None, kids=None, score=None, time=1606444446, title=None, item_type='comment', url=None, parent=25224487, text='I think logic still holds.  There’s an order magnitude more cache in today’s server CPUs.  There’s higher likelihood today that your thread or process will remain in the cache, keeping it performant.')

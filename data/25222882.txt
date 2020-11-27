@@ -1,1 +1,1 @@
-Item(by='azhenley', descendants=0, kids=None, score=1, time=1606418900, title='Functional Algorithm Design, Part 1', item_type='story', url='https://blog.sigplan.org/2020/11/25/functional-algorithm-design-1/', parent=None, text=None)
+Item(by='azhenley', descendants=1, kids=[25223164], score=1, time=1606418900, title='Functional Algorithm Design, Part 1', item_type='story', url='https://blog.sigplan.org/2020/11/25/functional-algorithm-design-1/', parent=None, text=None)

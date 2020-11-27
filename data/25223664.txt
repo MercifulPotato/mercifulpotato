@@ -1,0 +1,1 @@
+Item(by='phendrenad2', descendants=None, kids=[25223740], score=None, time=1606426202, title=None, item_type='comment', url=None, parent=25223608, text='This is why I like Ruby, something can look like a variable but be a setter&#x2F;getter under the hood. Wish all languages had that functionality. Maybe many do that I&#x27;m not aware of, with some metaprogramming hackery.')

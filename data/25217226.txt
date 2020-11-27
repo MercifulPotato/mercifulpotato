@@ -1,1 +1,1 @@
-Item(by='Beldin', descendants=None, kids=None, score=None, time=1606369548, title=None, item_type='comment', url=None, parent=25213673, text='The only route?<p>What&#x27;s different about ITER? If I remember correctly,  they&#x27;re ahead in terms of results towards energy generation.')
+Item(by='Beldin', descendants=None, kids=[25224215], score=None, time=1606369548, title=None, item_type='comment', url=None, parent=25213673, text='The only route?<p>What&#x27;s different about ITER? If I remember correctly,  they&#x27;re ahead in terms of results towards energy generation.')

@@ -1,0 +1,1 @@
+Item(by='__d', descendants=None, kids=None, score=None, time=1606440154, title=None, item_type='comment', url=None, parent=25223312, text='I think that&#x27;s the entire point of this article: the existing system software APIs that we use aren&#x27;t a good abstraction for the capabilities of the underlying hardware, leading to poor performance.')

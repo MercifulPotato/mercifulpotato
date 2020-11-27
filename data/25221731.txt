@@ -1,1 +1,1 @@
-Item(by='cmacole', descendants=0, kids=None, score=1, time=1606410344, title='Show HN: Strato AI – Substack, but for funding independent AI research', item_type='story', url='https://www.stratoai.com/', parent=None, text=None)
+Item(by='cmacole', descendants=1, kids=[25224036], score=1, time=1606410344, title='Show HN: Strato AI – Substack, but for funding independent AI research', item_type='story', url='https://www.stratoai.com/', parent=None, text=None)

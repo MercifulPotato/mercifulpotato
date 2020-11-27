@@ -1,1 +1,1 @@
-Item(by='est31', descendants=None, kids=None, score=None, time=1606410533, title=None, item_type='comment', url=None, parent=25221393, text='With their M1 based devices, they now explicitly added support for you to authorize alternative kernels to boot from (on your local machine).')
+Item(by='est31', descendants=None, kids=[25223416], score=None, time=1606410533, title=None, item_type='comment', url=None, parent=25221393, text='With their M1 based devices, they now explicitly added support for you to authorize alternative kernels to boot from (on your local machine).')

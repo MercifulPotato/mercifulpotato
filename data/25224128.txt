@@ -1,0 +1,1 @@
+Item(by='jcranmer', descendants=None, kids=[25224272], score=None, time=1606431153, title=None, item_type='comment', url=None, parent=25223883, text='What I took away from your message is that you believe that using a syscall directly would cause your application to require GPL licensing, and that glibc being the code that calls the syscall is what prevents it normally.')

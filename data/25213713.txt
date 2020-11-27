@@ -1,1 +1,1 @@
-Item(by='tintinnabula', descendants=0, kids=None, score=1, time=1606335020, title='UVB-76', item_type='story', url='https://en.wikipedia.org/wiki/UVB-76', parent=None, text=None)
+Item(by='tintinnabula', descendants=51, kids=[25223414, 25224776, 25224802, 25223574, 25223968, 25223733, 25225120, 25223560, 25224154, 25223781, 25224928, 25224080, 25225073, 25223717, 25224141, 25223618, 25223575, 25224289], score=128, time=1606335020, title='UVB-76', item_type='story', url='https://en.wikipedia.org/wiki/UVB-76', parent=None, text=None)

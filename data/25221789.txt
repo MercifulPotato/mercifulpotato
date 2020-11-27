@@ -1,1 +1,1 @@
-Item(by='headalgorithm', descendants=0, kids=None, score=2, time=1606410749, title='Advice for Newsletter-ers', item_type='story', url='https://www.robinsloan.com/notes/newsletter-seasons/', parent=None, text=None)
+Item(by='headalgorithm', descendants=5, kids=[25224905, 25223842, 25223820, 25223828], score=15, time=1606410749, title='Advice for Newsletter-ers', item_type='story', url='https://www.robinsloan.com/notes/newsletter-seasons/', parent=None, text=None)

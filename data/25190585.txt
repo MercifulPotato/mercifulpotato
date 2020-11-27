@@ -1,1 +1,1 @@
-Item(by='robgehring', descendants=3, kids=[25220546, 25217331, 25190600, 25190902], score=7, time=1606159369, title='Show HN: Speech Recognition and Audio Summarization API', item_type='story', url='https://speechtext.ai/speech-recognition-api', parent=None, text=None)
+Item(by='robgehring', descendants=4, kids=[25190600, 25217331, 25220546, 25190902], score=7, time=1606159369, title='Show HN: Speech Recognition and Audio Summarization API', item_type='story', url='https://speechtext.ai/speech-recognition-api', parent=None, text=None)

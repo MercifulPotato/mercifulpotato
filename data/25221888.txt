@@ -1,1 +1,1 @@
-Item(by='tyingq', descendants=None, kids=None, score=None, time=1606411490, title=None, item_type='comment', url=None, parent=25221866, text='Ah, so &quot;Ring&quot; doesn&#x27;t come with a wireless bell&#x2F;annunciator? I wasn&#x27;t aware of how they worked.')
+Item(by='tyingq', descendants=None, kids=[25223353], score=None, time=1606411490, title=None, item_type='comment', url=None, parent=25221866, text='Ah, so &quot;Ring&quot; doesn&#x27;t come with a wireless bell&#x2F;annunciator? I wasn&#x27;t aware of how they worked.')

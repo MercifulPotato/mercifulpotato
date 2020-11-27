@@ -1,1 +1,1 @@
-Item(by='nolok', descendants=None, kids=None, score=None, time=1606416623, title=None, item_type='comment', url=None, parent=25221526, text='It didn&#x27;t, the behavior in php has always been that it&#x27;s an error, just one that didn&#x27;t actually throw an error until now instead it silently failed and you had no way to catch it &#x2F; detect it happening.')
+Item(by=None, descendants=None, kids=None, score=None, time=1606416623, title=None, item_type='comment', url=None, parent=25221526, text=None)

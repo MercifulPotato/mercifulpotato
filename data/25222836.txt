@@ -1,1 +1,1 @@
-Item(by='yetanothermonk', descendants=3, kids=[25222866, 25222852], score=2, time=1606418516, title='See when you are likely to die (median death based only on gender and age)', item_type='story', url='https://whenwillidie.wtf/', parent=None, text=None)
+Item(by='yetanothermonk', descendants=12, kids=[25222866, 25224256, 25224343, 25222852, 25222935], score=5, time=1606418516, title='See when you are likely to die (median death based only on gender and age)', item_type='story', url='https://whenwillidie.wtf/', parent=None, text=None)

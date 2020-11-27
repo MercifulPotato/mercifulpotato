@@ -1,0 +1,1 @@
+Item(by='krick', descendants=None, kids=None, score=None, time=1606439517, title=None, item_type='comment', url=None, parent=25224482, text='Oh, come on. Did you see the benchmarks? This is CPU-bound code, like multiplying numbers 100 000 times over. This has nothing to do with your typical use case.<p>And, yeah, performance improvements are always advertised.')
