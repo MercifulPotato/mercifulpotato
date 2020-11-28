@@ -1,1 +1,1 @@
-Item(by='jelliclesfarm', descendants=None, kids=None, score=None, time=1606521923, title=None, item_type='comment', url=None, parent=25233622, text='Which begs the question: how does Elon Musk Hyperloop compare to Bullet trains?')
+Item(by='jelliclesfarm', descendants=None, kids=[25236566], score=None, time=1606521923, title=None, item_type='comment', url=None, parent=25233622, text='Which begs the question: how does Elon Musk Hyperloop compare to Bullet trains?')

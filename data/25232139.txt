@@ -1,1 +1,1 @@
-Item(by='kitotik', descendants=None, kids=None, score=None, time=1606507603, title=None, item_type='comment', url=None, parent=25231405, text='Curious why you don’t use the sync that ships with Joplin?')
+Item(by='kitotik', descendants=None, kids=[25236472], score=None, time=1606507603, title=None, item_type='comment', url=None, parent=25231405, text='Curious why you don’t use the sync that ships with Joplin?')

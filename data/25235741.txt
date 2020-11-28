@@ -1,1 +1,1 @@
-Item(by='siwatanejo', descendants=None, kids=None, score=None, time=1606545037, title=None, item_type='comment', url=None, parent=25235490, text='Was holacracy at Zappos his idea or it came from the original founder?')
+Item(by='siwatanejo', descendants=None, kids=[25236659], score=None, time=1606545037, title=None, item_type='comment', url=None, parent=25235490, text='Was holacracy at Zappos his idea or it came from the original founder?')

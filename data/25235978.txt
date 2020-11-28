@@ -1,1 +1,1 @@
-Item(by='phendrenad2', descendants=None, kids=None, score=None, time=1606548720, title=None, item_type='comment', url=None, parent=25232990, text='Why doesn&#x27;t someone port 7zip to old computers and be done with it?')
+Item(by='phendrenad2', descendants=None, kids=[25236687], score=None, time=1606548720, title=None, item_type='comment', url=None, parent=25232990, text='Why doesn&#x27;t someone port 7zip to old computers and be done with it?')

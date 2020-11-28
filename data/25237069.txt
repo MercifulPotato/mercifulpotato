@@ -1,0 +1,1 @@
+Item(by='tnolet', descendants=None, kids=None, score=None, time=1606565169, title=None, item_type='comment', url=None, parent=25236057, text='This is a pretty damn decent post mortem so soon after the outage. Also gives an architectural analysis of how Kinesis works which is something they had not have to do at all.')

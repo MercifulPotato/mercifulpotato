@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1606557445, title=None, item_type='comment', url=None, parent=25235621, text='I don&#x27;t think sharing is a big issue: TSO has some implicit acquire and releas barriers on read and writes, so the weaker side just needs to issue the relevant barriers explicitly.')

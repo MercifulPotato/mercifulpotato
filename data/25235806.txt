@@ -1,1 +1,1 @@
-Item(by='avmich', descendants=None, kids=None, score=None, time=1606546036, title=None, item_type='comment', url=None, parent=25226937, text='JSON Schema existed in 2018, so if needed, JSON isn&#x27;t fully schemaless.')
+Item(by='avmich', descendants=None, kids=[25235830], score=None, time=1606546036, title=None, item_type='comment', url=None, parent=25226937, text='JSON Schema existed in 2018, so if needed, JSON isn&#x27;t fully schemaless.')

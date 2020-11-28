@@ -1,1 +1,1 @@
-Item(by='userbinator', descendants=None, kids=None, score=None, time=1606549210, title=None, item_type='comment', url=None, parent=25235450, text='The &quot;ls &gt;output&quot; example exposes a subtle artifact of the implementation: the output file will contain its own name.')
+Item(by='userbinator', descendants=None, kids=[25236386], score=None, time=1606549210, title=None, item_type='comment', url=None, parent=25235450, text='The &quot;ls &gt;output&quot; example exposes a subtle artifact of the implementation: the output file will contain its own name.')

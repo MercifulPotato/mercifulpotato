@@ -1,1 +1,1 @@
-Item(by='ultimoo', descendants=None, kids=None, score=None, time=1606527710, title=None, item_type='comment', url=None, parent=25233130, text='I think that&#x27;s an unfair characterization based on citizenship.')
+Item(by='ultimoo', descendants=None, kids=[25236714], score=None, time=1606527710, title=None, item_type='comment', url=None, parent=25233130, text='I think that&#x27;s an unfair characterization based on citizenship.')

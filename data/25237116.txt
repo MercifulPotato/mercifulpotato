@@ -1,0 +1,1 @@
+Item(by='znpy', descendants=None, kids=None, score=None, time=1606565947, title=None, item_type='comment', url=None, parent=25237106, text='If you don&#x27;t specify a forwarder in the bind9 configuration it should query the root DNS servers directly, iirc.')

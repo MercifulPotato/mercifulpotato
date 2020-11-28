@@ -1,0 +1,1 @@
+Item(by='louwrentius', descendants=None, kids=None, score=None, time=1606574179, title=None, item_type='comment', url=None, parent=25237106, text='I think just running bind without a resolver is enough. Make sure you keep bind and thus the roots.hints file up-to-date.')

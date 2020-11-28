@@ -1,1 +1,1 @@
-Item(by='meiyulee', descendants=0, kids=None, score=19, time=1606391274, title='Continuous Bernoulli distribution of Variational autoencoders', item_type='story', url='https://github.com/meiyulee/continuous_Bernoulli', parent=None, text=None)
+Item(by='meiyulee', descendants=5, kids=[25237202, 25235878, 25236121], score=29, time=1606391274, title='Continuous Bernoulli distribution of Variational autoencoders', item_type='story', url='https://github.com/meiyulee/continuous_Bernoulli', parent=None, text=None)

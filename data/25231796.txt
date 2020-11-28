@@ -1,1 +1,1 @@
-Item(by='rwmj', descendants=None, kids=None, score=None, time=1606505055, title=None, item_type='comment', url=None, parent=25228136, text='I was there and this is utter nonsense.  Windows crashed all the time, and Linux was rock solid with <i>years</i> of uptime.')
+Item(by='rwmj', descendants=None, kids=[25236750], score=None, time=1606505055, title=None, item_type='comment', url=None, parent=25228136, text='I was there and this is utter nonsense.  Windows crashed all the time, and Linux was rock solid with <i>years</i> of uptime.')

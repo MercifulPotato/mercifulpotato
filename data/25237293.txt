@@ -1,0 +1,1 @@
+Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1606568917, title=None, item_type='comment', url=None, parent=25234821, text='The solution is to not log warnings to the browser. It’s information leakage for no benefit, the users can’t fix this issue.')

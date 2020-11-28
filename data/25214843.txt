@@ -1,1 +1,1 @@
-Item(by='danboarder', descendants=4, kids=[25216603, 25215077, 25215406], score=22, time=1606342203, title='iRobot Home App down due to AWS outage', item_type='story', url='https://twitter.com/iRobot/status/1331667670383685635', parent=None, text=None)
+Item(by='danboarder', descendants=4, kids=[25215077, 25216603, 25215406], score=22, time=1606342203, title='iRobot Home App down due to AWS outage', item_type='story', url='https://twitter.com/iRobot/status/1331667670383685635', parent=None, text=None)

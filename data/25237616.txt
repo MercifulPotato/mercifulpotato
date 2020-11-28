@@ -1,0 +1,1 @@
+Item(by='jml78', descendants=None, kids=None, score=None, time=1606573011, title=None, item_type='comment', url=None, parent=25236910, text='I am talking about out of the box features.  Docker for Mac has kubernetes built in. Check a box and you have a k8s cluster.  On Linux you need minikube, kind, or in my case, I built a custom k3s solution.')

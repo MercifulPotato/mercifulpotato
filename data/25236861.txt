@@ -1,0 +1,1 @@
+Item(by='mekster', descendants=None, kids=[25237372], score=None, time=1606560712, title=None, item_type='comment', url=None, parent=25229519, text='Why do people always try to create a local environment that would be quite different from the production environment?<p>Run a real Linux under VMware fusion or rent a remote $5 Linux and set up Docker and other stuff there.')

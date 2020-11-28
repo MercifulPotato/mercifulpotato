@@ -1,1 +1,1 @@
-Item(by='aapl88888', descendants=None, kids=None, score=None, time=1606551628, title=None, item_type='comment', url=None, parent=25236157, text='There are tons of football clubs in the UK with far rowdier fanbases than high school teams in the USA.')
+Item(by=None, descendants=None, kids=None, score=None, time=1606551628, title=None, item_type='comment', url=None, parent=25236157, text=None)

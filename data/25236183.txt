@@ -1,1 +1,1 @@
-Item(by='hibbelig', descendants=None, kids=None, score=None, time=1606551892, title=None, item_type='comment', url=None, parent=25234959, text='What about those who are intrinsically motivated?')
+Item(by='hibbelig', descendants=None, kids=[25236847], score=None, time=1606551892, title=None, item_type='comment', url=None, parent=25234959, text='What about those who are intrinsically motivated?')
