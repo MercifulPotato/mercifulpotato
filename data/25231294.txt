@@ -1,1 +1,1 @@
-Item(by='generalizations', descendants=None, kids=None, score=None, time=1606501493, title=None, item_type='comment', url=None, parent=25231181, text='I was pretty sure (from reading on hn) that the videos were validated (that the debunking was debunked...).')
+Item(by='generalizations', descendants=None, kids=[25232538, 25232408], score=None, time=1606501493, title=None, item_type='comment', url=None, parent=25231181, text='I was pretty sure (from reading on hn) that the videos were validated (that the debunking was debunked...).')

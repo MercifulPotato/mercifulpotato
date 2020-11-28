@@ -1,0 +1,1 @@
+Item(by='wyldfire', descendants=None, kids=None, score=None, time=1606523759, title=None, item_type='comment', url=None, parent=25219170, text='It would be cool to find some kind of library or set of libraries that can map directly (disambiguate) NER in text to items in an ontology. Even if it were really rudimentary it would be really handy.')

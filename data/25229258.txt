@@ -1,1 +1,1 @@
-Item(by='imtringued', descendants=None, kids=None, score=None, time=1606489867, title=None, item_type='comment', url=None, parent=25226973, text='AMD&#x27;s CPUs and Apple&#x27;s SoCs keep getting faster.')
+Item(by='imtringued', descendants=None, kids=[25234093], score=None, time=1606489867, title=None, item_type='comment', url=None, parent=25226973, text='AMD&#x27;s CPUs and Apple&#x27;s SoCs keep getting faster.')

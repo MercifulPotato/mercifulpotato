@@ -1,1 +1,1 @@
-Item(by='airstrike', descendants=None, kids=None, score=None, time=1606489104, title=None, item_type='comment', url=None, parent=25217436, text='&gt; What is the best way to organize a liberal democracy of &gt;100M citizens?<p>Start by defining &quot;best&quot;.')
+Item(by='airstrike', descendants=None, kids=[25232935], score=None, time=1606489104, title=None, item_type='comment', url=None, parent=25217436, text='&gt; What is the best way to organize a liberal democracy of &gt;100M citizens?<p>Start by defining &quot;best&quot;.')

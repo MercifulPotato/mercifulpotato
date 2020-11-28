@@ -1,1 +1,1 @@
-Item(by='krona', descendants=None, kids=None, score=None, time=1606502522, title=None, item_type='comment', url=None, parent=25229799, text='And yet many of the greatest mathematicians produced their best work before their 30th birthday.')
+Item(by='krona', descendants=None, kids=[25232155], score=None, time=1606502522, title=None, item_type='comment', url=None, parent=25229799, text='And yet many of the greatest mathematicians produced their best work before their 30th birthday.')

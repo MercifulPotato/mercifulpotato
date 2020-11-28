@@ -1,0 +1,1 @@
+Item(by='ezequiel-garzon', descendants=None, kids=None, score=None, time=1606524107, title=None, item_type='comment', url=None, parent=25233872, text='<i>I don&#x27;t know why people who make frameworks either prefer invalid HTML</i><p>I’m guessing people do this to make it less likely to have a name conflict with a custom attribute used by another library.')

@@ -1,1 +1,1 @@
-Item(by='kreeben', descendants=None, kids=None, score=None, time=1606504722, title=None, item_type='comment', url=None, parent=25231449, text='Capitalism certainly isn&#x27;t garage but HN is just that, i.e. start small, dream big.')
+Item(by='kreeben', descendants=None, kids=[25232336], score=None, time=1606504722, title=None, item_type='comment', url=None, parent=25231449, text='Capitalism certainly isn&#x27;t garage but HN is just that, i.e. start small, dream big.')

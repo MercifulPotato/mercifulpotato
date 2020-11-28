@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1606378177, title=None, item_type='comment', url=None, parent=25208586, text='Interesting how all these companies in countries that are stuck on ADSL are not aware of your arguments, or they would switch to fiber.')
+Item(by='tinus_hn', descendants=None, kids=[25233413], score=None, time=1606378177, title=None, item_type='comment', url=None, parent=25208586, text='Interesting how all these companies in countries that are stuck on ADSL are not aware of your arguments, or they would switch to fiber.')

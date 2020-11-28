@@ -1,1 +1,1 @@
-Item(by='chmaynard', descendants=0, kids=None, score=2, time=1606497597, title='Why SELECT * is bad for SQL performance', item_type='story', url='https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/', parent=None, text=None)
+Item(by='chmaynard', descendants=0, kids=None, score=3, time=1606497597, title='Why SELECT * is bad for SQL performance', item_type='story', url='https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/', parent=None, text=None)

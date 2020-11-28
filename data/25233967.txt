@@ -1,0 +1,1 @@
+Item(by='devit', descendants=None, kids=None, score=None, time=1606523774, title=None, item_type='comment', url=None, parent=25232650, text='The Linux kernel keeps full backward compatibility and you can run old distributions in a container, while Windows dropped 16-bit support on 64-bit and doesn&#x27;t let you run old userlands on new kernels.')

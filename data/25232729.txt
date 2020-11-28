@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1606512473, title=None, item_type='comment', url=None, parent=25232577, text='Rust-the-language doesn’t know anything about multiple ownership.<p>The standard library refcounted types don’t do anything special, if you get a cycle you leak. You can use weak refcounts to try and prevent this.')

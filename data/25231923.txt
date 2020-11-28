@@ -1,1 +1,1 @@
-Item(by='gameswithgo', descendants=None, kids=None, score=None, time=1606505966, title=None, item_type='comment', url=None, parent=25231682, text='if 7nm Zen3 is close, then 5nm can probably match without a fan.')
+Item(by='gameswithgo', descendants=None, kids=[25232387], score=None, time=1606505966, title=None, item_type='comment', url=None, parent=25231682, text='if 7nm Zen3 is close, then 5nm can probably match without a fan.')

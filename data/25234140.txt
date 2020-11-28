@@ -1,0 +1,1 @@
+Item(by='petra', descendants=None, kids=None, score=None, time=1606525224, title=None, item_type='comment', url=None, parent=25233836, text='Complexity isn&#x27;t only about transistors, but also about delay.<p>And sure, there&#x27;s pipelining but than your limited by latency.')

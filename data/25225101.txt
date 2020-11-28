@@ -1,1 +1,1 @@
-Item(by='merlinscholz', descendants=None, kids=[25225228], score=None, time=1606444050, title=None, item_type='comment', url=None, parent=25225022, text='The same holds true for Philips Hue products!<p>My Hue bridge is on a VLAN that doesn&#x27;t even have internet access.')
+Item(by='merlinscholz', descendants=None, kids=[25232165, 25225228], score=None, time=1606444050, title=None, item_type='comment', url=None, parent=25225022, text='The same holds true for Philips Hue products!<p>My Hue bridge is on a VLAN that doesn&#x27;t even have internet access.')

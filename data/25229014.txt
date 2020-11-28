@@ -1,1 +1,1 @@
-Item(by='ldobreira', descendants=1, kids=[25231966], score=3, time=1606487991, title='Show HN: I made a free-to-play games database API', item_type='story', url='https://www.freetogame.com/api-doc', parent=None, text=None)
+Item(by='ldobreira', descendants=2, kids=[25233509, 25231966], score=3, time=1606487991, title='Show HN: I made a free-to-play games database API', item_type='story', url='https://www.freetogame.com/api-doc', parent=None, text=None)

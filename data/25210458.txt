@@ -1,1 +1,1 @@
-Item(by='stevesimmons', descendants=None, kids=None, score=None, time=1606319364, title=None, item_type='comment', url=None, parent=25209824, text='You should write a blog post or a HN story about that!')
+Item(by='stevesimmons', descendants=None, kids=[25233563], score=None, time=1606319364, title=None, item_type='comment', url=None, parent=25209824, text='You should write a blog post or a HN story about that!')

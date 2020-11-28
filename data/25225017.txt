@@ -1,1 +1,1 @@
-Item(by='DoreenMichele', descendants=None, kids=None, score=None, time=1606442894, title=None, item_type='comment', url=None, parent=25224983, text='If you eliminate things that create dust, like books and carpeting and upholstered furniture, it doesn&#x27;t get that dusty.')
+Item(by='DoreenMichele', descendants=None, kids=[25232504], score=None, time=1606442894, title=None, item_type='comment', url=None, parent=25224983, text='If you eliminate things that create dust, like books and carpeting and upholstered furniture, it doesn&#x27;t get that dusty.')

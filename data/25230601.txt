@@ -1,1 +1,1 @@
-Item(by='simpss', descendants=0, kids=None, score=6, time=1606497989, title='European Parliament Votes for Right to Repair', item_type='story', url='https://www.ifixit.com/News/47111/european-parliament-votes-for-right-to-repair', parent=None, text=None)
+Item(by='simpss', descendants=1, kids=[25232418], score=20, time=1606497989, title='European Parliament Votes for Right to Repair', item_type='story', url='https://www.ifixit.com/News/47111/european-parliament-votes-for-right-to-repair', parent=None, text=None)

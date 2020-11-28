@@ -1,0 +1,1 @@
+Item(by='bonzini', descendants=None, kids=None, score=None, time=1606516729, title=None, item_type='comment', url=None, parent=25232870, text='They have a special mode for strongly-ordered memory accesses (IBM did something similar on POWER, also for the sake of porting x86 applications).')

@@ -1,1 +1,1 @@
-Item(by='noja', descendants=None, kids=None, score=None, time=1606468866, title=None, item_type='comment', url=None, parent=25225971, text='TP-Link devices do not require you to create an account. Please don&#x27;t spread FUD.')
+Item(by='noja', descendants=None, kids=[25233840], score=None, time=1606468866, title=None, item_type='comment', url=None, parent=25225971, text='TP-Link devices do not require you to create an account. Please don&#x27;t spread FUD.')

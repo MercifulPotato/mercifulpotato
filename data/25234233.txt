@@ -1,0 +1,1 @@
+Item(by='jeremycarter', descendants=None, kids=None, score=None, time=1606526212, title=None, item_type='comment', url=None, parent=25232570, text='That&#x27;s why Timescale just works for most workloads, because you still have Postgres with JSONB and Ltree. Querying hierarchical data is common in IoT.')

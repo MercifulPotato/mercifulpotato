@@ -1,1 +1,1 @@
-Item(by='kgwgk', descendants=None, kids=None, score=None, time=1606506143, title=None, item_type='comment', url=None, parent=25231853, text='Windows for Arm doesn’t contain x86 instructions :-)')
+Item(by='kgwgk', descendants=None, kids=None, score=None, time=1606506143, title=None, item_type='comment', url=None, parent=25231853, text='Windows for Arm runs on ARM (and emulates x86 to run win32 apps).')

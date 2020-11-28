@@ -1,0 +1,1 @@
+Item(by='SquareWheel', descendants=None, kids=[25234421], score=None, time=1606527382, title=None, item_type='comment', url=None, parent=25234130, text='I like the site.  I&#x27;m just curious, was it a conscious decision to not minify htmx.js?  Seems you could save a fair few bytes that way.')

@@ -1,1 +1,1 @@
-Item(by='mrybczyn', descendants=None, kids=None, score=None, time=1606506111, title=None, item_type='comment', url=None, parent=25230697, text='Ryzen 5800u - on TSMC 5nm - might be better than M1, let&#x27;s not forget the new generation of process that Apple has paid for.')
+Item(by='mrybczyn', descendants=None, kids=[25232524, 25232355], score=None, time=1606506111, title=None, item_type='comment', url=None, parent=25230697, text='Ryzen 5800u - on TSMC 5nm - might be better than M1, let&#x27;s not forget the new generation of process that Apple has paid for.')

@@ -1,1 +1,1 @@
-Item(by='SoSoRoCoCo', descendants=0, kids=None, score=3, time=1606500161, title='Misinformation Has Created a New World Disorder', item_type='story', url='https://www.scientificamerican.com/article/misinformation-has-created-a-new-world-disorder', parent=None, text=None)
+Item(by='SoSoRoCoCo', descendants=1, kids=[25232209], score=3, time=1606500161, title='Misinformation Has Created a New World Disorder', item_type='story', url='https://www.scientificamerican.com/article/misinformation-has-created-a-new-world-disorder', parent=None, text=None)
