@@ -1,1 +1,1 @@
-Item(by='aldanor', descendants=0, kids=None, score=1, time=1606523602, title='RipTable – multi-threaded Python data analytics tools for numpy arrays/datasets', item_type='story', url='https://github.com/rtosholdings/riptable', parent=None, text=None)
+Item(by='aldanor', descendants=2, kids=[25235816, 25235730], score=21, time=1606523602, title='RipTable – multi-threaded Python data analytics tools for numpy arrays/datasets', item_type='story', url='https://github.com/rtosholdings/riptable', parent=None, text=None)

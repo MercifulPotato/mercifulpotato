@@ -1,0 +1,1 @@
+Item(by='BeeOnRope', descendants=None, kids=[25235985], score=None, time=1606547833, title=None, item_type='comment', url=None, parent=25235674, text='I don&#x27;t have any specific info, but I would be very surprised if this MSR setting wasn&#x27;t on a per-core basis. So only cores that are currently running code that requires x86-TSO would be running in that mode.')

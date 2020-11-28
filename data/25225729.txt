@@ -1,1 +1,1 @@
-Item(by='freeone3000', descendants=None, kids=None, score=None, time=1606454569, title=None, item_type='comment', url=None, parent=25225380, text='You can use a traditional smartcard to store your GPG keys. That should meet your requirements?')
+Item(by='freeone3000', descendants=None, kids=[25236053], score=None, time=1606454569, title=None, item_type='comment', url=None, parent=25225380, text='You can use a traditional smartcard to store your GPG keys. That should meet your requirements?')

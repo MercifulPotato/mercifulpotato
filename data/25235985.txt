@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1606548787, title=None, item_type='comment', url=None, parent=25235930, text='Per core, yes. It gets set on entry and exit from the kernel for threads that have been marked as needing it.')

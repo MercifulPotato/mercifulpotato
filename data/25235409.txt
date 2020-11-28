@@ -1,0 +1,1 @@
+Item(by='Kalium', descendants=None, kids=[25235554], score=None, time=1606539607, title=None, item_type='comment', url=None, parent=25235342, text='Using a database is a partial answer at best. File formats don&#x27;t just dictate the structure of data, they carry semantic info. Using sqlite gives you structure without semantics.')

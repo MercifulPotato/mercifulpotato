@@ -1,1 +1,1 @@
-Item(by='burnthrow', descendants=None, kids=None, score=None, time=1606531946, title=None, item_type='comment', url=None, parent=25234755, text='Investment banker thinks somebody who makes less money than them is a loser, more at 11.')
+Item(by='burnthrow', descendants=None, kids=[25235340], score=None, time=1606531946, title=None, item_type='comment', url=None, parent=25234755, text='Investment banker thinks somebody who makes less money than them is a loser, more at 11.')

@@ -1,0 +1,1 @@
+Item(by='yashap', descendants=None, kids=None, score=None, time=1606534099, title=None, item_type='comment', url=None, parent=25234934, text='Indeed. I hate PHP as much as the next dev, but Varnish and the like have been around for ages, and are easy to setup and operate. Dead simple, affordable solution for an essentially static site like this.')

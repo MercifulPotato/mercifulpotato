@@ -1,1 +1,1 @@
-Item(by='jakearmitage', descendants=None, kids=None, score=None, time=1606502716, title=None, item_type='comment', url=None, parent=25230430, text='How does one emigrate to Switzerland?')
+Item(by='jakearmitage', descendants=None, kids=[25235191], score=None, time=1606502716, title=None, item_type='comment', url=None, parent=25230430, text='How does one emigrate to Switzerland?')

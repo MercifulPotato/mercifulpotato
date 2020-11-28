@@ -1,1 +1,1 @@
-Item(by='kripy', descendants=0, kids=None, score=1, time=1606525834, title='Apple Could Add Force Touch Sensors to Future MacBook Pro Touch Bar', item_type='story', url='https://www.macrumors.com/2020/11/27/apple-force-touch-future-macbook-pro-touch-bar/', parent=None, text=None)
+Item(by='kripy', descendants=1, kids=[25234783], score=1, time=1606525834, title='Apple Could Add Force Touch Sensors to Future MacBook Pro Touch Bar', item_type='story', url='https://www.macrumors.com/2020/11/27/apple-force-touch-future-macbook-pro-touch-bar/', parent=None, text=None)

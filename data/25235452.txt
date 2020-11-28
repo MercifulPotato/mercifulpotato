@@ -1,0 +1,1 @@
+Item(by='cutler', descendants=None, kids=None, score=None, time=1606540199, title=None, item_type='comment', url=None, parent=25222496, text='Yes, the worst aspect of PHP is how a lot of library code uses fully-qualified namespaces inline instead of a &quot;use&quot; declaration at the top of the file. I&#x27;ve never understood why.')

@@ -1,0 +1,1 @@
+Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1606553427, title=None, item_type='comment', url=None, parent=25235279, text='If you use a normal redirect using http headers this doesn’t happen, only if you use javascript redirect. It’s not rocket science.')

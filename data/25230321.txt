@@ -1,1 +1,1 @@
-Item(by='BossingAround', descendants=None, kids=None, score=None, time=1606496227, title=None, item_type='comment', url=None, parent=25230041, text='Yep, Digital Ocean, a cheap VM provider.')
+Item(by='BossingAround', descendants=None, kids=[25235243], score=None, time=1606496227, title=None, item_type='comment', url=None, parent=25230041, text='Yep, Digital Ocean, a cheap VM provider.')

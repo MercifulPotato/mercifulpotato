@@ -1,1 +1,1 @@
-Item(by='spitfire', descendants=None, kids=None, score=None, time=1606509388, title=None, item_type='comment', url=None, parent=25231357, text='Just so I&#x27;m clear on this, how do you pronounce &quot;synecdouche&quot;?')
+Item(by='spitfire', descendants=None, kids=[25235014], score=None, time=1606509388, title=None, item_type='comment', url=None, parent=25231357, text='Just so I&#x27;m clear on this, how do you pronounce &quot;synecdouche&quot;?')

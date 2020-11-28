@@ -1,0 +1,1 @@
+Item(by='ed25519FUUU', descendants=None, kids=None, score=None, time=1606540707, title=None, item_type='comment', url=None, parent=25229519, text='I notice that it consistently uses about 10% of a CPU while idle. I searched for this issue on github and see people complaining about it as far back as 2017, so I know it&#x27;s probably not going to be addressed anytime soon.')

@@ -1,0 +1,1 @@
+Item(by='ltearno', descendants=None, kids=None, score=None, time=1606542284, title=None, item_type='comment', url=None, parent=25234746, text='What I like too, is that there is a datadog connector. It sends the number of VUs and we can correlate that in our main datadog board, viewing how the app reacts to the load.')

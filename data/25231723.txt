@@ -1,1 +1,1 @@
-Item(by='my123', descendants=None, kids=[25233096, 25232557, 25232595], score=None, time=1606504531, title=None, item_type='comment', url=None, parent=25231616, text='The Windows on Arm devices and Arm Macs are not locked down.<p>(and neither are the Arm Chromebooks by the way too)')
+Item(by='my123', descendants=None, kids=[25233096, 25232595, 25232557], score=None, time=1606504531, title=None, item_type='comment', url=None, parent=25231616, text='The Windows on Arm devices and Arm Macs are not locked down.<p>(and neither are the Arm Chromebooks by the way too)')
