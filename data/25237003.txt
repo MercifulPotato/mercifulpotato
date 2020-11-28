@@ -1,1 +1,1 @@
-Item(by='blopeur', descendants=3, kids=[25237433, 25237007, 25237443], score=16, time=1606563661, title='TSMC: SoIC', item_type='story', url='https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/SoIC.htm', parent=None, text=None)
+Item(by='blopeur', descendants=29, kids=[25239520, 25237007, 25238118, 25237433, 25238251, 25239422, 25237443, 25238141], score=111, time=1606563661, title='TSMC: SoIC', item_type='story', url='https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/SoIC.htm', parent=None, text=None)

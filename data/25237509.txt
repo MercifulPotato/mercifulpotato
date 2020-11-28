@@ -1,1 +1,1 @@
-Item(by='ville', descendants=0, kids=None, score=1, time=1606571646, title='Synology vs. Nextcloud – Which Is Better for a Home Server?', item_type='story', url='https://kevq.uk/synology-vs-nextcloud-which-is-better-for-a-home-server/', parent=None, text=None)
+Item(by='ville', descendants=4, kids=[25238831, 25238729], score=20, time=1606571646, title='Synology vs. Nextcloud – Which Is Better for a Home Server?', item_type='story', url='https://kevq.uk/synology-vs-nextcloud-which-is-better-for-a-home-server/', parent=None, text=None)

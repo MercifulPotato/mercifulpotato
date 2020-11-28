@@ -1,1 +1,1 @@
-Item(by='path_to_file', descendants=1, kids=[25235899], score=1, time=1606547280, title='Show HN: Sealighter – Easy ETW Tracing for Security Research', item_type='story', url='https://github.com/pathtofile/Sealighter/', parent=None, text=None)
+Item(by='path_to_file', descendants=1, kids=[25235899], score=2, time=1606547280, title='Show HN: Sealighter – Easy ETW Tracing for Security Research', item_type='story', url='https://github.com/pathtofile/Sealighter/', parent=None, text=None)

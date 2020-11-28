@@ -1,0 +1,1 @@
+Item(by='jen20', descendants=None, kids=[25238208], score=None, time=1606576980, title=None, item_type='comment', url=None, parent=25237870, text='&gt; What appears to be their own hand rolled gossip protocol (that is clearly terrible compared to raft or paxos)<p>Raft and Paxos are not gossip protocols - they are consensus protocols.')

@@ -1,1 +1,1 @@
-Item(by='grawprog', descendants=0, kids=None, score=7, time=1606539606, title='New rule could allow poison gas, firing squads for US executions', item_type='story', url='https://nypost.com/2020/11/27/new-rule-could-allow-gas-firing-squads-for-us-executions/', parent=None, text=None)
+Item(by='grawprog', descendants=4, kids=[25237600], score=8, time=1606539606, title='New rule could allow poison gas, firing squads for US executions', item_type='story', url='https://nypost.com/2020/11/27/new-rule-could-allow-gas-firing-squads-for-us-executions/', parent=None, text=None)

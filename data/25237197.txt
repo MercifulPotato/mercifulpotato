@@ -1,1 +1,1 @@
-Item(by='carlsborg', descendants=None, kids=None, score=None, time=1606567244, title=None, item_type='comment', url=None, parent=25236738, text='Python competes with dot Net which is strategic to the Windows platform.')
+Item(by='carlsborg', descendants=None, kids=[25239603], score=None, time=1606567244, title=None, item_type='comment', url=None, parent=25236738, text='Python competes with dot Net which is strategic to the Windows platform.')

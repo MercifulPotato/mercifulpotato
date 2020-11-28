@@ -1,1 +1,1 @@
-Item(by='fabrice_d', descendants=None, kids=None, score=None, time=1606536252, title=None, item_type='comment', url=None, parent=25234608, text='No, it&#x27;s not just a Ubuntu fork. Many apps are elementary specific, written in Vala iirc.')
+Item(by='fabrice_d', descendants=None, kids=[25238521], score=None, time=1606536252, title=None, item_type='comment', url=None, parent=25234608, text='No, it&#x27;s not just a Ubuntu fork. Many apps are elementary specific, written in Vala iirc.')

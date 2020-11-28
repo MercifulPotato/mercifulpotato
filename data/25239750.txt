@@ -1,0 +1,1 @@
+Item(by='phoe-krk', descendants=None, kids=None, score=None, time=1606591205, title=None, item_type='comment', url=None, parent=25239425, text='Yes, none of this expects to be run outside of the standard koan run. Sorry about this; please open an issue and eventually I&#x27;ll patch this code to be runnable outside of the koans file.')

@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=2, kids=[25239699, 25239597, 25239208], score=4, time=1606586657, title='Does refcounting use less memory than tracing GC? Swift vs. OCaml', item_type='story', url='http://web.archive.org/web/20190404190446/https://flyingfrogblog.blogspot.com/2017/12/does-reference-counting-really-use-less.html', parent=None, text=None)

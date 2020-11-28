@@ -1,0 +1,1 @@
+Item(by='cyphar', descendants=None, kids=None, score=None, time=1606572807, title=None, item_type='comment', url=None, parent=25232848, text='As the other commentor pointed out, I was wrong -- I&#x27;d mixed up the correspondence between kqueue and epoll with io_uring. Yeah kqueue doesn&#x27;t allow asynchronous operations. Sadly I can&#x27;t delete or edit my comment.')

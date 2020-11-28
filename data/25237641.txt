@@ -1,0 +1,1 @@
+Item(by='qzx_pierri', descendants=None, kids=[25238904], score=None, time=1606573304, title=None, item_type='comment', url=None, parent=25227877, text='Hey when I submit a blank field at the “Enter Your Email to Login” screen, it submits - I assume this means you aren’t utilizing proper input validation. Just an fyi')

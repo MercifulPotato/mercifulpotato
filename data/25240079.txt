@@ -1,0 +1,1 @@
+Item(by='klodolph', descendants=None, kids=None, score=None, time=1606593912, title=None, item_type='comment', url=None, parent=25239811, text='Bazel is moving in that direction too—the C&#x2F;C++ rules are built-in, but they’re slowly being extracted into Starlark.')

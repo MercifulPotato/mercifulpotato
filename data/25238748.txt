@@ -1,0 +1,1 @@
+Item(by='karmakaze', descendants=None, kids=[25239920], score=None, time=1606583240, title=None, item_type='comment', url=None, parent=25236057, text='Seems to me that the root problem could also be fixed by not using presumably blocking application threads talking to each of the other servers. Any async or poll mechanism wouldn&#x27;t require N^2 threads across the pool.')

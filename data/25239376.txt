@@ -1,0 +1,1 @@
+Item(by='iab', descendants=None, kids=None, score=None, time=1606588032, title=None, item_type='comment', url=None, parent=25239307, text='For the first part of your question - it is not 1:1. There is some limited capacity for bazel integration, but massaging is needed (IME) for protos, nvcc rules &amp; so on')

@@ -1,0 +1,1 @@
+Item(by='hedora', descendants=None, kids=[25239206, 25239649], score=None, time=1606584677, title=None, item_type='comment', url=None, parent=25238678, text='How do you test failover from provider-wide outages?<p>I’ve never heard of an untested failover mechanism that worked.  Most places are afraid to invoke such a thing, even during a major outage.')

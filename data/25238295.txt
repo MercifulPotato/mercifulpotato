@@ -1,0 +1,1 @@
+Item(by='kaoD', descendants=None, kids=[25238642], score=None, time=1606579071, title=None, item_type='comment', url=None, parent=25237231, text='Boot is probably IO and not CPU bound, hence why NVMes take the boot times down to &lt;10s.')

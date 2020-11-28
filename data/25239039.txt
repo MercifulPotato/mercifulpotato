@@ -1,0 +1,1 @@
+Item(by='kazinator', descendants=None, kids=None, score=None, time=1606585618, title=None, item_type='comment', url=None, parent=25235736, text='It being well-defined to access an object as an array of bytes doesn&#x27;t add up to it being well-defined to access a whole object as an lvalue of any type. Type aliasing rules do not work this in this constructive way.')

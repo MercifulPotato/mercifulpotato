@@ -1,1 +1,1 @@
-Item(by='the_mitsuhiko', descendants=None, kids=None, score=None, time=1606569439, title=None, item_type='comment', url=None, parent=25237152, text='Because I ripgrep all the time and don’t want to configure it every time I query.')
+Item(by='the_mitsuhiko', descendants=None, kids=[25237689], score=None, time=1606569439, title=None, item_type='comment', url=None, parent=25237152, text='Because I ripgrep all the time and don’t want to configure it every time I query.')

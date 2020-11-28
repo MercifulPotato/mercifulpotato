@@ -1,1 +1,1 @@
-Item(by='Tinyyy', descendants=None, kids=None, score=None, time=1606544904, title=None, item_type='comment', url=None, parent=25233953, text='&gt; RipTable has been in development for 3 years and tested by dozens of quants at a large financial firm.<p>I guess it&#x27;s Susquehanna.')
+Item(by='Tinyyy', descendants=None, kids=[25238180], score=None, time=1606544904, title=None, item_type='comment', url=None, parent=25233953, text='&gt; RipTable has been in development for 3 years and tested by dozens of quants at a large financial firm.<p>I guess it&#x27;s Susquehanna.')

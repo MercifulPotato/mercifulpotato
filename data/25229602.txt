@@ -1,1 +1,1 @@
-Item(by='bojanvidanovic', descendants=0, kids=[25229745], score=4, time=1606492271, title='List of Books for Developers Discounted for Black Friday', item_type='story', url='https://devandgear.com/posts/black-friday-books-2020/', parent=None, text=None)
+Item(by='bojanvidanovic', descendants=1, kids=[25229745], score=4, time=1606492271, title='List of Books for Developers Discounted for Black Friday', item_type='story', url='https://devandgear.com/posts/black-friday-books-2020/', parent=None, text=None)

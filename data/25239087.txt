@@ -1,0 +1,1 @@
+Item(by='tmk1108', descendants=None, kids=[25239485], score=None, time=1606585993, title=None, item_type='comment', url=None, parent=25236057, text='How does the architecture of Kinesis compare to Kafka? If you scale up the number of Kafka brokers can you hit similar problem? Or does Kafka not rely on creating threads to connect to each other broker')

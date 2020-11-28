@@ -1,0 +1,1 @@
+Item(by='hawk_', descendants=None, kids=None, score=None, time=1606579947, title=None, item_type='comment', url=None, parent=25227167, text='I see so the extra kernel IO thread which can be spin waiting is one extra busy core and latency of getting data from one core to the other is the additional overhead.')

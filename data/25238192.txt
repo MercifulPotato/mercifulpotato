@@ -1,0 +1,1 @@
+Item(by='stunt', descendants=0, kids=None, score=4, time=1606578145, title='AWS announced a SQL-compatible query language for DynamoDB', item_type='story', url='https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-use-a-sql-compatible-query-language-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/', parent=None, text=None)

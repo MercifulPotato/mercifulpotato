@@ -1,1 +1,1 @@
-Item(by='tombot', descendants=None, kids=None, score=None, time=1606524463, title=None, item_type='comment', url=None, parent=25233131, text='don’t use a different app, scrape text you read from a full screen capture of your desktop')
+Item(by='tombot', descendants=None, kids=[25238149], score=None, time=1606524463, title=None, item_type='comment', url=None, parent=25233131, text='don’t use a different app, scrape text you read from a full screen capture of your desktop')
