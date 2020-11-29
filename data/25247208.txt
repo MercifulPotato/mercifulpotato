@@ -1,0 +1,1 @@
+Item(by='kelnos', descendants=None, kids=None, score=None, time=1606677173, title=None, item_type='comment', url=None, parent=25246971, text='As an obsessive rebaser, in practice I&#x27;ve found that rerere very rarely kicks in during a rebaser unless the conflict looks exactly the same across commit applications, which is rarely the case.')

@@ -1,0 +1,1 @@
+Item(by='pferde', descendants=None, kids=[25246833], score=None, time=1606673678, title=None, item_type='comment', url=None, parent=25246341, text='We have more than enough of places like that, there&#x27;s no need to create (n+1)th. They all have the same problem - lack of adoption, so the network effect is working against them.')

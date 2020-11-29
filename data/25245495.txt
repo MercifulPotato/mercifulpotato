@@ -1,0 +1,1 @@
+Item(by='tyingq', descendants=None, kids=[25245583, 25245693, 25246441], score=None, time=1606662422, title=None, item_type='comment', url=None, parent=25245171, text='Title A: Show HN: New grep tool written in Rust<p>Title B: Show HN: New grep tool written in PHP (7% better)<p>Hmm.<p>FWIW, Python fares worse than Rust, C++ beats PHP by 2%.')

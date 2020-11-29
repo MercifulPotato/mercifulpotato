@@ -1,0 +1,1 @@
+Item(by='danabo', descendants=None, kids=None, score=None, time=1606675157, title=None, item_type='comment', url=None, parent=25237357, text='It sounds like you are arguing that <i>i.i.d.</i> frequentism doesn&#x27;t work. I view AIT as generalizing frequentism to non-i.i.d. timeseries. This is formalized as Martin-Lof tests for randomness, and Solomonoff induction.')

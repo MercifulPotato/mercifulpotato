@@ -1,1 +1,1 @@
-Item(by='bboreham', descendants=None, kids=None, score=None, time=1606652540, title=None, item_type='comment', url=None, parent=25244084, text='He’s overestimating how much money is made by selling Kubernetes network addons.')
+Item(by='bboreham', descendants=None, kids=[25246082], score=None, time=1606652540, title=None, item_type='comment', url=None, parent=25244084, text='He’s overestimating how much money is made by selling Kubernetes network addons.')

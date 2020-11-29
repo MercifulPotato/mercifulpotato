@@ -1,0 +1,1 @@
+Item(by='dooglius', descendants=None, kids=[25246465], score=None, time=1606670178, title=None, item_type='comment', url=None, parent=25246377, text='Are you sure it&#x27;s dmidecode that&#x27;s wrong, and not the DMI itself? dmidecode just parses what&#x27;s given to it by the BIOS.')

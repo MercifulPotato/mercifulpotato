@@ -1,1 +1,1 @@
-Item(by='webwielder2', descendants=None, kids=None, score=None, time=1606613072, title=None, item_type='comment', url=None, parent=25242095, text='Around Mac OS 9, they changed some types of errors from modal dialogs to floating palettes in the corner of the screen.')
+Item(by='webwielder2', descendants=None, kids=[25245337], score=None, time=1606613072, title=None, item_type='comment', url=None, parent=25242095, text='Around Mac OS 9, they changed some types of errors from modal dialogs to floating palettes in the corner of the screen.')

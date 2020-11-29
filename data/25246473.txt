@@ -1,0 +1,1 @@
+Item(by='botto', descendants=None, kids=[25246529, 25246511], score=None, time=1606670536, title=None, item_type='comment', url=None, parent=25246050, text='It would amazing to see this work on OpenWRT, I think it would fit perfectly using less resources than squashfs.\nThe other location would be on a Raspberry pi for scenarios where power can be cut at any time.')

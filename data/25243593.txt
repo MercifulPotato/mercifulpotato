@@ -1,1 +1,1 @@
-Item(by='rio517', descendants=None, kids=None, score=None, time=1606635291, title=None, item_type='comment', url=None, parent=25243467, text='This is a unnecessarily harsh response. Those credentials are great for you, but I&#x27;m not sure they add too much to the conversation.')
+Item(by='rio517', descendants=None, kids=[25246620], score=None, time=1606635291, title=None, item_type='comment', url=None, parent=25243467, text='This is a unnecessarily harsh response. Those credentials are great for you, but I&#x27;m not sure they add too much to the conversation.')

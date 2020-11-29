@@ -1,1 +1,1 @@
-Item(by='nowherebeen', descendants=None, kids=None, score=None, time=1606534434, title=None, item_type='comment', url=None, parent=25233803, text='I am rooting for you')
+Item(by='nowherebeen', descendants=None, kids=[25246303], score=None, time=1606534434, title=None, item_type='comment', url=None, parent=25233803, text='I am rooting for you')

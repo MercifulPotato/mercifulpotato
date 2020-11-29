@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=1, time=1606470666, title='How much physical memory is installed?', item_type='story', url='https://toroid.org/linux-physical-memory', parent=None, text=None)
+Item(by='todsacerdoti', descendants=23, kids=[25245804, 25245616, 25247560, 25246900, 25246079, 25246377, 25245723], score=61, time=1606470666, title='Exactly how much physical memory is installed?', item_type='story', url='https://toroid.org/linux-physical-memory', parent=None, text=None)

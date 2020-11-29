@@ -1,1 +1,1 @@
-Item(by='agustif', descendants=None, kids=None, score=None, time=1606643128, title=None, item_type='comment', url=None, parent=25241918, text='Raycaster is the only thing is looking better than alfred for me right now')
+Item(by='agustif', descendants=None, kids=[25247092], score=None, time=1606643128, title=None, item_type='comment', url=None, parent=25241918, text='Raycaster is the only thing is looking better than alfred for me right now')

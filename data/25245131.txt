@@ -1,0 +1,1 @@
+Item(by='arbol', descendants=None, kids=None, score=None, time=1606658490, title=None, item_type='comment', url=None, parent=25242867, text='Pihole blocks server requests but ublock can do a whole lot more to the page by blocking specific html, css, and scripts. Ublock will prevent YouTube ads, for example, whereas pihole cannot as they come from the same server as the content.')

@@ -1,0 +1,1 @@
+Item(by='nicolashahn', descendants=0, kids=None, score=2, time=1606675243, title="Why doesn't Rust's BTreeMap have a with_capacity() method?", item_type='story', url='https://www.nicolas-hahn.com/2020/11/30/btreemap-with-capacity/', parent=None, text=None)

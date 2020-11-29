@@ -1,0 +1,1 @@
+Item(by='gnosek', descendants=None, kids=[25247474], score=None, time=1606677779, title=None, item_type='comment', url=None, parent=25246050, text='Is this viable as a backup&#x2F;archive format? Would it make sense to e.g. have an incremental backup as a DwarFS file, referring to the base backup in another DwarFS file?')

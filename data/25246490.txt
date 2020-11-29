@@ -1,0 +1,1 @@
+Item(by='syshum', descendants=None, kids=[25246644, 25246629], score=None, time=1606670668, title=None, item_type='comment', url=None, parent=25246143, text='What would be ideal for linux would be for KVM&#x2F;QEMU to come up with &quot;seamless&quot; mode where your running windows app in a VM but it appears as any other app on the system not as a VM')

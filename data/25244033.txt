@@ -1,1 +1,1 @@
-Item(by='tomcooks', descendants=None, kids=None, score=None, time=1606642414, title=None, item_type='comment', url=None, parent=25243631, text='Try bibliogram.art or other istances')
+Item(by='tomcooks', descendants=None, kids=[25245372], score=None, time=1606642414, title=None, item_type='comment', url=None, parent=25243631, text='Try bibliogram.art or other istances')

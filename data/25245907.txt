@@ -1,0 +1,1 @@
+Item(by='numpad0', descendants=None, kids=[25246940], score=None, time=1606665606, title=None, item_type='comment', url=None, parent=25245533, text='$ export DISPLAY=$WSL_HOST:0<p>$ export LIBGL_ALWAYS_INDIRECT=1<p>$ export PULSE_SERVER=tcp:$WSL_HOST<p>$ xlogo<p>Couldn’t get glxgears to rotate though')

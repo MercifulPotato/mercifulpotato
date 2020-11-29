@@ -1,0 +1,1 @@
+Item(by='chrismorgan', descendants=None, kids=None, score=None, time=1606662878, title=None, item_type='comment', url=None, parent=25242486, text='I think it depends on how you disable it. Anecdotally, I think it’s “if no scripts are executed on the page, render &lt;noscript&gt; content, but if any scripts at all are executed, don’t”.')

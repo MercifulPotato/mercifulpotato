@@ -1,1 +1,1 @@
-Item(by='airbreather', descendants=None, kids=None, score=None, time=1606642448, title=None, item_type='comment', url=None, parent=25243419, text='No truffles with those hazelnut trees?')
+Item(by='airbreather', descendants=None, kids=[25245767], score=None, time=1606642448, title=None, item_type='comment', url=None, parent=25243419, text='No truffles with those hazelnut trees?')

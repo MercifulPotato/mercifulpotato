@@ -1,1 +1,1 @@
-Item(by='lazyresearcher', descendants=None, kids=None, score=None, time=1606657608, title=None, item_type='comment', url=None, parent=25244936, text='Can&#x27;t you use node affinity to stop k8s from moving a pod to a different node whilst alive?')
+Item(by='lazyresearcher', descendants=None, kids=[25245446], score=None, time=1606657608, title=None, item_type='comment', url=None, parent=25244936, text='Can&#x27;t you use node affinity to stop k8s from moving a pod to a different node whilst alive?')

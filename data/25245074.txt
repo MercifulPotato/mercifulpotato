@@ -1,1 +1,1 @@
-Item(by='k33n', descendants=None, kids=None, score=None, time=1606657626, title=None, item_type='comment', url=None, parent=25242905, text='Nothing to be alarmed about. We are but passengers on this great planet. 10,000 years is nothing.')
+Item(by='k33n', descendants=None, kids=[25246493, 25245544], score=None, time=1606657626, title=None, item_type='comment', url=None, parent=25242905, text='Nothing to be alarmed about. We are but passengers on this great planet. 10,000 years is nothing.')

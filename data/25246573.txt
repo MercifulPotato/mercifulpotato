@@ -1,0 +1,1 @@
+Item(by='intricatedetail', descendants=None, kids=[25247313], score=None, time=1606671517, title=None, item_type='comment', url=None, parent=25246373, text='I would like something that would reconfigure Nginx reverse proxy to whatever private ip and port service is given, so that it would work like for big cloud providers without the need of BGP access level to a network.')
