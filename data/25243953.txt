@@ -1,0 +1,1 @@
+Item(by='noisy_boy', descendants=None, kids=[25244964, 25244876, 25244994], score=None, time=1606640996, title=None, item_type='comment', url=None, parent=25242444, text='Question: would creating a symlink via ln -s also work instead of doing mv? That would be less risky and more performant compared to moving across filesystems.')

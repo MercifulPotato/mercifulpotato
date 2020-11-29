@@ -1,1 +1,1 @@
-Item(by='mr-karan', descendants=0, kids=None, score=3, time=1606628108, title='A better Kubernetes from the ground up', item_type='story', url='https://blog.dave.tf/post/new-kubernetes/', parent=None, text=None)
+Item(by='mr-karan', descendants=30, kids=[25245145, 25244084, 25244936, 25244962, 25244521, 25244629, 25244788, 25244854, 25244967, 25245011, 25244842], score=101, time=1606628108, title='A better Kubernetes from the ground up', item_type='story', url='https://blog.dave.tf/post/new-kubernetes/', parent=None, text=None)

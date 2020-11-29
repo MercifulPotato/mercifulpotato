@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1606647732, title=None, item_type='comment', url=None, parent=25244311, text='CUDA, C++ and Fortran dominate, not Python<p>Any language can glue to those libraries, including R and Mathematica, and anything with a proper FFI.')

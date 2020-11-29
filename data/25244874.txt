@@ -1,0 +1,1 @@
+Item(by='tatskaari', descendants=None, kids=None, score=None, time=1606654468, title=None, item_type='comment', url=None, parent=25240806, text='Please takes sandboxing a bit further using kernel name-spacing to isolate builds and tests. It&#x27;s an opt-in feature but you can bind to port 8080 in your tests and run them in parallel if you do ;)')

@@ -1,0 +1,1 @@
+Item(by='rubiquity', descendants=None, kids=[25222308], score=None, time=1606411858, title=None, item_type='comment', url=None, parent=25217260, text='Yes but this is dependent upon the specific replication protocol. Primary-Backup has this problem but Majority Quorums and Chain Replication do not.')

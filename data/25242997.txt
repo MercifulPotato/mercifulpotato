@@ -1,1 +1,1 @@
-Item(by='kyle_martin1', descendants=None, kids=None, score=None, time=1606625594, title=None, item_type='comment', url=None, parent=25242059, text='Ha nice try, China.')
+Item(by='kyle_martin1', descendants=None, kids=[25243827], score=None, time=1606625594, title=None, item_type='comment', url=None, parent=25242059, text='Ha nice try, China.')

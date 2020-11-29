@@ -1,1 +1,1 @@
-Item(by='bamboleo', descendants=None, kids=None, score=None, time=1606621542, title=None, item_type='comment', url=None, parent=25238976, text='After 7 years of what? 7 years since someone opened a random issue on a random repo?')
+Item(by='bamboleo', descendants=None, kids=[25244185], score=None, time=1606621542, title=None, item_type='comment', url=None, parent=25238976, text='After 7 years of what? 7 years since someone opened a random issue on a random repo?')

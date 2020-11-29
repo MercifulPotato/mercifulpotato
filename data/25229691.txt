@@ -1,1 +1,1 @@
-Item(by='Reason077', descendants=None, kids=None, score=None, time=1606492758, title=None, item_type='comment', url=None, parent=25229326, text='4 NH3 + 5 O2 → 4 NO + 6 H2O<p>A subsequent reaction leads to NO2:<p>2 NO + O2 → 2 NO2')
+Item(by='Reason077', descendants=None, kids=[25237653], score=None, time=1606492758, title=None, item_type='comment', url=None, parent=25229326, text='4 NH3 + 5 O2 → 4 NO + 6 H2O<p>A subsequent reaction leads to NO2:<p>2 NO + O2 → 2 NO2')

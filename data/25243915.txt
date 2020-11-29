@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=None, score=None, time=1606640366, title=None, item_type='comment', url=None, parent=25243601, text='You might be right in the general case, but ZFS is extremely mature and reliable; frankly I trust it more than ext4 at this point.')

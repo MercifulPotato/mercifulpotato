@@ -1,0 +1,1 @@
+Item(by='rubiquity', descendants=None, kids=None, score=None, time=1606416469, title=None, item_type='comment', url=None, parent=25222308, text='My point is that Sequential Consistency isn’t a replication protocol, it’s a consistency model that you can have under various different replication protocols.')

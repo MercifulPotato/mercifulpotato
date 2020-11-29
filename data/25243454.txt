@@ -1,1 +1,1 @@
-Item(by='MartianSquirrel', descendants=None, kids=None, score=None, time=1606633162, title=None, item_type='comment', url=None, parent=25243137, text='Beware of the Decentralized Denial of Monoliths')
+Item(by='MartianSquirrel', descendants=None, kids=[25244149], score=None, time=1606633162, title=None, item_type='comment', url=None, parent=25243137, text='Beware of the Decentralized Denial of Monoliths')

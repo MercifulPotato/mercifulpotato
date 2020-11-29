@@ -1,0 +1,1 @@
+Item(by='knuthsat', descendants=None, kids=None, score=None, time=1606647656, title=None, item_type='comment', url=None, parent=25240100, text='The biggest improvement I measured was about 15x. I&#x27;d say you can get 3x most of the time (go down to 33% of previous runtime).')

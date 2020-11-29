@@ -1,1 +1,1 @@
-Item(by='wetpaws', descendants=None, kids=None, score=None, time=1606629382, title=None, item_type='comment', url=None, parent=25243113, text='This guy fires')
+Item(by='wetpaws', descendants=None, kids=[25244017], score=None, time=1606629382, title=None, item_type='comment', url=None, parent=25243113, text='This guy fires')

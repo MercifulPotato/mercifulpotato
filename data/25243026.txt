@@ -1,1 +1,1 @@
-Item(by='ChrisGrowl', descendants=None, kids=None, score=None, time=1606625993, title=None, item_type='comment', url=None, parent=25241650, text='Good lord I forgot about that interview. I was so young haha.<p>Growl started around 2003 really')
+Item(by='ChrisGrowl', descendants=None, kids=[25243949], score=None, time=1606625993, title=None, item_type='comment', url=None, parent=25241650, text='Good lord I forgot about that interview. I was so young haha.<p>Growl started around 2003 really')

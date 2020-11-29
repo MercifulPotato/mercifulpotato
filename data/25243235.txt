@@ -1,1 +1,1 @@
-Item(by='FlashBlaze', descendants=None, kids=None, score=None, time=1606629448, title=None, item_type='comment', url=None, parent=25242903, text='I wasn&#x27;t aware of this option in settings. Thanks.')
+Item(by='FlashBlaze', descendants=None, kids=[25244816], score=None, time=1606629448, title=None, item_type='comment', url=None, parent=25242903, text='I wasn&#x27;t aware of this option in settings. Thanks.')

@@ -1,1 +1,1 @@
-Item(by='rambojazz', descendants=None, kids=None, score=None, time=1606634335, title=None, item_type='comment', url=None, parent=25243525, text='Above that.')
+Item(by='rambojazz', descendants=None, kids=[25244634], score=None, time=1606634335, title=None, item_type='comment', url=None, parent=25243525, text='Above that.')

@@ -1,1 +1,1 @@
-Item(by='tonyedgecombe', descendants=0, kids=None, score=9, time=1606634068, title='Dave Prowse: Darth Vader actor dies aged 85', item_type='story', url='https://www.bbc.co.uk/news/entertainment-arts-55117704', parent=None, text=None)
+Item(by='tonyedgecombe', descendants=2, kids=[25244710, 25243805, 25244645], score=24, time=1606634068, title='Dave Prowse: Darth Vader actor dies aged 85', item_type='story', url='https://www.bbc.co.uk/news/entertainment-arts-55117704', parent=None, text=None)

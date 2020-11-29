@@ -1,1 +1,1 @@
-Item(by='oedmarap', descendants=0, kids=None, score=4, time=1606568607, title='Paving the Way for Electronic Organs-on-a-Chip', item_type='story', url='https://www.nist.gov/blogs/taking-measure/paving-way-electronic-organs-chip', parent=None, text=None)
+Item(by='oedmarap', descendants=5, kids=[25243717, 25244509], score=34, time=1606568607, title='Paving the Way for Electronic Organs-on-a-Chip', item_type='story', url='https://www.nist.gov/blogs/taking-measure/paving-way-electronic-organs-chip', parent=None, text=None)

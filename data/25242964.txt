@@ -1,1 +1,1 @@
-Item(by='skulk', descendants=None, kids=None, score=None, time=1606625011, title=None, item_type='comment', url=None, parent=25242926, text='If you squint really hard, it looks like Nim! (this is coming from someone who never learned Pascal)')
+Item(by='skulk', descendants=None, kids=[25244805], score=None, time=1606625011, title=None, item_type='comment', url=None, parent=25242926, text='If you squint really hard, it looks like Nim! (this is coming from someone who never learned Pascal)')

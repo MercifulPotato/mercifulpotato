@@ -1,0 +1,1 @@
+Item(by='angry_octet', descendants=None, kids=None, score=None, time=1606656315, title=None, item_type='comment', url=None, parent=25243953, text='The httpd should not follow the symlink across filesystems (or arguably, follow symlinks at all) and hence the file would be inaccessible.')

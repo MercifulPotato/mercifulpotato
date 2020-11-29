@@ -1,0 +1,1 @@
+Item(by='visarga', descendants=None, kids=None, score=None, time=1606657239, title=None, item_type='comment', url=None, parent=25242444, text='If we applied content based hashing on logical sectors and kept a list of hash -&gt; file, offset, recovery would have been so much easier.')

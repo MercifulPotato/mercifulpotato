@@ -1,0 +1,1 @@
+Item(by='saalg', descendants=None, kids=None, score=None, time=1606644010, title=None, item_type='comment', url=None, parent=25242444, text='You could have done this much faster with the sleuth kit. Since you already knew the inode number of the deleted file I think you could just run `icat -f ext4 &#x2F;dev&#x2F;md2 &lt;inode#&gt; &gt; recovered_file.flv`')

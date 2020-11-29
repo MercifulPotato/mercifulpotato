@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=None, score=None, time=1606656342, title=None, item_type='comment', url=None, parent=25243084, text='This looks pretty awesome and well-written! I&#x27;m surprised it should be slower than CPython. Are all objects reference types in this language like in Python? What kinds of bottlenecks are there currently?')
