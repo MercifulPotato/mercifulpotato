@@ -1,1 +1,1 @@
-Item(by='lxe', descendants=None, kids=None, score=None, time=1606595270, title=None, item_type='comment', url=None, parent=25238453, text='Wish there was a new generation high level build system like this or Bazel or something but with decent JavaScript&#x2F;node_modules support.')
+Item(by='lxe', descendants=None, kids=[25243577], score=None, time=1606595270, title=None, item_type='comment', url=None, parent=25238453, text='Wish there was a new generation high level build system like this or Bazel or something but with decent JavaScript&#x2F;node_modules support.')

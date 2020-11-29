@@ -1,0 +1,1 @@
+Item(by='AzN1337c0d3r', descendants=None, kids=None, score=None, time=1606632890, title=None, item_type='comment', url=None, parent=25242966, text='Anyone who runs a couple of VMs or a ton of docker containers is going to run into memory problems.<p>And that&#x27;s not an uncommon use-case amongst the developer crowd which has a lot of overlap with HN.')

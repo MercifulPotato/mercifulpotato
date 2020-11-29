@@ -1,1 +1,1 @@
-Item(by='cyral', descendants=None, kids=None, score=None, time=1606615449, title=None, item_type='comment', url=None, parent=25242281, text='Check out next.js. You can write vanilla React basically but fetch the props from an API prior to rendering on the server.')
+Item(by='cyral', descendants=None, kids=[25243229], score=None, time=1606615449, title=None, item_type='comment', url=None, parent=25242281, text='Check out next.js. You can write vanilla React basically but fetch the props from an API prior to rendering on the server.')

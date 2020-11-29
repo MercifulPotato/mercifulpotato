@@ -1,0 +1,1 @@
+Item(by='rantwasp', descendants=None, kids=None, score=None, time=1606631234, title=None, item_type='comment', url=None, parent=25238183, text='if this is dynamo, this is just a bunch of BS. you cannot get the latencies DDB has with a ton of abstractions on top of MySql.')

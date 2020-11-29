@@ -1,1 +1,1 @@
-Item(by='voisin', descendants=None, kids=None, score=None, time=1606593142, title=None, item_type='comment', url=None, parent=25239598, text='Is this true on a per capita basis?')
+Item(by='voisin', descendants=None, kids=[25242582], score=None, time=1606593142, title=None, item_type='comment', url=None, parent=25239598, text='Is this true on a per capita basis?')

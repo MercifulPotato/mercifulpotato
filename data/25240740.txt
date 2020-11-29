@@ -1,1 +1,1 @@
-Item(by='humanrebar', descendants=None, kids=None, score=None, time=1606599160, title=None, item_type='comment', url=None, parent=25239704, text='Not always for the other folks involved.')
+Item(by='humanrebar', descendants=None, kids=[25242876], score=None, time=1606599160, title=None, item_type='comment', url=None, parent=25239704, text='Not always for the other folks involved.')

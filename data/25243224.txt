@@ -1,0 +1,1 @@
+Item(by='slmjkdbtl', descendants=None, kids=[25243414], score=None, time=1606629146, title=None, item_type='comment', url=None, parent=25242281, text='How is server-side rendering messy? It&#x27;s just putting html strings together based on data, no frameworks or libraries needed.')

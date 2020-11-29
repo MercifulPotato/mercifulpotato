@@ -1,1 +1,1 @@
-Item(by='elsewhen', descendants=0, kids=None, score=7, time=1606584980, title="Building your own website is cool again, and it's changing the whole internet", item_type='story', url='https://www.protocol.com/blogging-is-back', parent=None, text=None)
+Item(by='elsewhen', descendants=1, kids=[25242636], score=8, time=1606584980, title="Building your own website is cool again, and it's changing the whole internet", item_type='story', url='https://www.protocol.com/blogging-is-back', parent=None, text=None)

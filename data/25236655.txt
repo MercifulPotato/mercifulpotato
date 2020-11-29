@@ -1,1 +1,1 @@
-Item(by='itstaken', descendants=0, kids=None, score=4, time=1606557939, title='Why India has become a different country', item_type='story', url='https://foreignpolicy.com/2020/11/27/why-india-has-become-a-different-country/', parent=None, text=None)
+Item(by='itstaken', descendants=1, kids=[25242742], score=5, time=1606557939, title='Why India has become a different country', item_type='story', url='https://foreignpolicy.com/2020/11/27/why-india-has-become-a-different-country/', parent=None, text=None)

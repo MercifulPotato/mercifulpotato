@@ -1,1 +1,1 @@
-Item(by='rane', descendants=0, kids=None, score=1, time=1606612794, title='Ruffle – A Flash Player emulator written in Rust', item_type='story', url='https://ruffle.rs/', parent=None, text=None)
+Item(by='rane', descendants=15, kids=[25243498, 25243090, 25242980, 25243099, 25243255, 25243176, 25242998, 25243262, 25243096, 25243140], score=97, time=1606612794, title='Ruffle – A Flash Player emulator written in Rust', item_type='story', url='https://ruffle.rs/', parent=None, text=None)

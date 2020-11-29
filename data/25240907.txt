@@ -1,1 +1,1 @@
-Item(by='JoeAltmaier', descendants=None, kids=None, score=None, time=1606600661, title=None, item_type='comment', url=None, parent=25240871, text='And there&#x27;s #3: black and white argument. Well done.')
+Item(by='JoeAltmaier', descendants=None, kids=[25242236], score=None, time=1606600661, title=None, item_type='comment', url=None, parent=25240871, text='And there&#x27;s #3: black and white argument. Well done.')

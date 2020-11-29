@@ -1,1 +1,1 @@
-Item(by='jcelerier', descendants=None, kids=None, score=None, time=1606603524, title=None, item_type='comment', url=None, parent=25241110, text='not 64, but I&#x27;m regularly hovering in the 40-45 gigs pool')
+Item(by='jcelerier', descendants=None, kids=[25242966], score=None, time=1606603524, title=None, item_type='comment', url=None, parent=25241110, text='not 64, but I&#x27;m regularly hovering in the 40-45 gigs pool')

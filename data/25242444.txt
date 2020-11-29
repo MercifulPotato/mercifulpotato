@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=1, time=1606616468, title='Undeleting a File Overwritten with Mv', item_type='story', url='https://behind.pretix.eu/2020/11/28/undelete-flv-file/', parent=None, text=None)
+Item(by='todsacerdoti', descendants=10, kids=[25243607, 25243549, 25243626, 25243472, 25243401, 25243320, 25243457], score=35, time=1606616468, title='Undeleting a file overwritten with mv', item_type='story', url='https://behind.pretix.eu/2020/11/28/undelete-flv-file/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='kens', descendants=None, kids=None, score=None, time=1606609800, title=None, item_type='comment', url=None, parent=25239028, text='Author here if anyone wants to discuss TI microcontrollers or RAM :-)')
+Item(by='kens', descendants=None, kids=[25242880, 25242750, 25242523, 25242625], score=None, time=1606609800, title=None, item_type='comment', url=None, parent=25239028, text='Author here if anyone wants to discuss TI microcontrollers or RAM :-)')

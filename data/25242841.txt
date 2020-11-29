@@ -1,0 +1,1 @@
+Item(by='mlindner', descendants=None, kids=[25242953, 25243303], score=None, time=1606622580, title=None, item_type='comment', url=None, parent=25241864, text='Gluing yourself at the hip to homebrew is a bad idea IMO. It&#x27;s trivial to install things yourself. It&#x27;s just a matter of `.&#x2F;configure &amp;&amp; make &amp;&amp; make install` and you&#x27;re done.')

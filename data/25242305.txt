@@ -1,1 +1,1 @@
-Item(by='armadsen', descendants=None, kids=None, score=None, time=1606614908, title=None, item_type='comment', url=None, parent=25241708, text='All great design innovations seem dead obvious in hindsight. But they&#x27;re not.')
+Item(by='armadsen', descendants=None, kids=[25242791], score=None, time=1606614908, title=None, item_type='comment', url=None, parent=25241708, text='All great design innovations seem dead obvious in hindsight. But they&#x27;re not.')

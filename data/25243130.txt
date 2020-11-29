@@ -1,0 +1,1 @@
+Item(by='mleonhard', descendants=None, kids=None, score=None, time=1606627674, title=None, item_type='comment', url=None, parent=25238453, text='Does Please allow one to easily specify a specific JDK version to use to build and run tests?<p>I wasted a lot of time getting Bazel to use a modern JDK.')

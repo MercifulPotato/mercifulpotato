@@ -1,1 +1,1 @@
-Item(by='carapace', descendants=None, kids=None, score=None, time=1606597832, title=None, item_type='comment', url=None, parent=25237357, text='This is awesome!  Good work!<p>Are you going to touch on Chaitin&#x27;s Omega?')
+Item(by='carapace', descendants=None, kids=[25242861], score=None, time=1606597832, title=None, item_type='comment', url=None, parent=25237357, text='This is awesome!  Good work!<p>Are you going to touch on Chaitin&#x27;s Omega?')

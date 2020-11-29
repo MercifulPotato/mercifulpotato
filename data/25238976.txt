@@ -1,1 +1,1 @@
-Item(by='whack', descendants=0, kids=None, score=7, time=1606585150, title='Dark Mode Coming to GitHub After 7 Years', item_type='story', url='https://github.com/isaacs/github/issues/66#issuecomment-733446758', parent=None, text=None)
+Item(by='whack', descendants=3, kids=[25242781, 25242694, 25243400], score=25, time=1606585150, title='Dark Mode Coming to GitHub After 7 Years', item_type='story', url='https://github.com/isaacs/github/issues/66#issuecomment-733446758', parent=None, text=None)

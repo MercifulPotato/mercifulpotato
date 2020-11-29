@@ -1,1 +1,1 @@
-Item(by='jtouzi', descendants=None, kids=None, score=None, time=1606586260, title=None, item_type='comment', url=None, parent=25238859, text='Could you provide a bit more information about your app (TCP&#x2F;UDP, region, etc.) and how (from where) users are accessing it?')
+Item(by='jtouzi', descendants=None, kids=[25243110], score=None, time=1606586260, title=None, item_type='comment', url=None, parent=25238859, text='Could you provide a bit more information about your app (TCP&#x2F;UDP, region, etc.) and how (from where) users are accessing it?')
