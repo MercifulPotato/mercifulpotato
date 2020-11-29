@@ -1,0 +1,1 @@
+Item(by='teddyh', descendants=None, kids=[25241964, 25241966], score=None, time=1606609795, title=None, item_type='comment', url=None, parent=25241030, text='&gt; <i>For developers we recommend transitioning away from Growl at this point.</i><p>Couldn’t someone write a Growl-compatible layer which is a shim to Apple’s Notification Center?')

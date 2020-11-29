@@ -1,1 +1,1 @@
-Item(by='nakabonne', descendants=0, kids=None, score=3, time=1606568112, title='Show HN: Pbgopy – Copy and paste between devices', item_type='story', url='https://github.com/nakabonne/pbgopy', parent=None, text=None)
+Item(by='nakabonne', descendants=2, kids=[25241336], score=6, time=1606568112, title='Show HN: Pbgopy – Copy and paste between devices', item_type='story', url='https://github.com/nakabonne/pbgopy', parent=None, text=None)

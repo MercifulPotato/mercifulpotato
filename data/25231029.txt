@@ -1,1 +1,1 @@
-Item(by='triceratops', descendants=None, kids=None, score=None, time=1606500072, title=None, item_type='comment', url=None, parent=25226010, text='Is that subreddit dedicated to psychedelics?')
+Item(by='triceratops', descendants=None, kids=[25242598], score=None, time=1606500072, title=None, item_type='comment', url=None, parent=25226010, text='Is that subreddit dedicated to psychedelics?')

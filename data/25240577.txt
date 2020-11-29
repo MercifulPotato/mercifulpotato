@@ -1,0 +1,1 @@
+Item(by='jiofih', descendants=None, kids=[25242297], score=None, time=1606597827, title=None, item_type='comment', url=None, parent=25240156, text='50mb for a build tool is still ludicrous. Very few product codebases will ever reach that size.<p>In my experience there is a strong correlation between executable size and how hard it is to unravel any issue that arises in it.')

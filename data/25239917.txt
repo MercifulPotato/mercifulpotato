@@ -1,1 +1,1 @@
-Item(by='mikhuang', descendants=0, kids=None, score=2, time=1606592597, title='How a Kickstarter for a simple plastic product fell apart', item_type='story', url='https://www.youtube.com/watch?v=89fqG9HveUY', parent=None, text=None)
+Item(by='mikhuang', descendants=0, kids=[25240134], score=3, time=1606592597, title='How a Kickstarter for a simple plastic product fell apart', item_type='story', url='https://www.youtube.com/watch?v=89fqG9HveUY', parent=None, text=None)

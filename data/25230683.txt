@@ -1,1 +1,1 @@
-Item(by='luu', descendants=1, kids=[25232394], score=31, time=1606498464, title='A new hot hand paradox', item_type='story', url='https://statmodeling.stat.columbia.edu/2020/11/25/a-new-hot-hand-paradox/', parent=None, text=None)
+Item(by='luu', descendants=2, kids=[25239570, 25232394], score=38, time=1606498464, title='A new hot hand paradox', item_type='story', url='https://statmodeling.stat.columbia.edu/2020/11/25/a-new-hot-hand-paradox/', parent=None, text=None)

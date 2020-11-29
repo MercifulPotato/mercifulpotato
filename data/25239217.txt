@@ -1,1 +1,1 @@
-Item(by='andreyk', descendants=0, kids=None, score=4, time=1606586901, title='Machine Learning for Art with Google’s Emil Wallner', item_type='story', url='https://www.letstalkai.show/e/mlart-interview/', parent=None, text=None)
+Item(by='andreyk', descendants=2, kids=[25240324, 25240852], score=19, time=1606586901, title='Machine Learning for Art with Google’s Emil Wallner', item_type='story', url='https://www.letstalkai.show/e/mlart-interview/', parent=None, text=None)

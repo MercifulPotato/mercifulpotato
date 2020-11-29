@@ -1,0 +1,1 @@
+Item(by='laurencerowe', descendants=None, kids=None, score=None, time=1606602942, title=None, item_type='comment', url=None, parent=25240048, text='You don’t need to reparation, just configure it to use a swap file. If you set swappiness to zero it will only use it when out of ram.')

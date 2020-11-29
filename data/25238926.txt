@@ -1,1 +1,1 @@
-Item(by='dennis-tra', descendants=0, kids=None, score=1, time=1606584841, title='Show HN: Multiformats CID Decoder – Alfred Workflow', item_type='story', url='https://github.com/dennis-tra/alfred-cid-decoder', parent=None, text=None)
+Item(by='dennis-tra', descendants=1, kids=[25241750], score=1, time=1606584841, title='Show HN: Multiformats CID Decoder – Alfred Workflow', item_type='story', url='https://github.com/dennis-tra/alfred-cid-decoder', parent=None, text=None)

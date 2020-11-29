@@ -1,1 +1,1 @@
-Item(by='shmerl', descendants=None, kids=[25223361, 25224132, 25223501, 25229249, 25223364], score=None, time=1606422071, title=None, item_type='comment', url=None, parent=25222243, text='Are I&#x2F;O libraries like Tokio for Rust using io_uring?')
+Item(by='shmerl', descendants=None, kids=[25223361, 25224132, 25223364, 25223501, 25229249], score=None, time=1606422071, title=None, item_type='comment', url=None, parent=25222243, text='Are I&#x2F;O libraries like Tokio for Rust using io_uring?')

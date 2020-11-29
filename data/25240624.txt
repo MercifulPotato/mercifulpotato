@@ -1,0 +1,1 @@
+Item(by='DanBC', descendants=None, kids=[25240736, 25242294], score=None, time=1606598183, title=None, item_type='comment', url=None, parent=25240536, text='How do you draw a line on the screen in Python?  Here&#x27;s BASIC. I&#x27;m not saying this is good. But it is easy.<p><pre><code>  SCREEN 13 \n  LINE (X1, Y1) - (X2, Y2), COLOUR</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='shawnz', descendants=None, kids=None, score=None, time=1606598543, title=None, item_type='comment', url=None, parent=25238994, text='What do you mean exactly? It is normal for swapping to happen even if you are using less than the physical memory, so as to trade rarely-used RAM for frequently-used disk cache which improves overall throughput')

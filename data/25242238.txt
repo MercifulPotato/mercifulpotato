@@ -1,0 +1,1 @@
+Item(by='nsm', descendants=None, kids=None, score=None, time=1606614195, title=None, item_type='comment', url=None, parent=25240244, text='Yes, but the bundled JRE is slimmed down, to the point where, last I checked, the bazel standalone binary is ~50Mb.')

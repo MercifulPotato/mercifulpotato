@@ -1,0 +1,1 @@
+Item(by='Sesse__', descendants=None, kids=None, score=None, time=1606598120, title=None, item_type='comment', url=None, parent=25239691, text='The point is that QUIC (and related efforts) is a library, not implemented in the kernel. This makes it way easier to deploy, but also way easier (in practice) to change in bad ways.')

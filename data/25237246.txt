@@ -1,1 +1,1 @@
-Item(by='Retric', descendants=None, kids=None, score=None, time=1606568274, title=None, item_type='comment', url=None, parent=25237177, text='The title is correct. They are also using another area as an efficient battery which is both environmentally and economically a net positive.')
+Item(by='Retric', descendants=None, kids=[25242082], score=None, time=1606568274, title=None, item_type='comment', url=None, parent=25237177, text='The title is correct. They are also using another area as an efficient battery which is both environmentally and economically a net positive.')

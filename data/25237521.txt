@@ -1,1 +1,1 @@
-Item(by='YeGoblynQueenne', descendants=0, kids=None, score=3, time=1606571789, title='Coding Guidelines for Prolog (2009)', item_type='story', url='https://arxiv.org/abs/0911.2899', parent=None, text=None)
+Item(by='YeGoblynQueenne', descendants=1, kids=[25240895], score=5, time=1606571789, title='Coding Guidelines for Prolog (2009)', item_type='story', url='https://arxiv.org/abs/0911.2899', parent=None, text=None)

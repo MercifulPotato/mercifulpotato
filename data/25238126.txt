@@ -1,1 +1,1 @@
-Item(by='homarp', descendants=9, kids=[25238610, 25239095, 25239221], score=54, time=1606577542, title='MIT 6.004 L14: Implementing RISC-V Processor in Hardware', item_type='story', url='https://twitter.com/diodesign/status/1332507524403056641', parent=None, text=None)
+Item(by='homarp', descendants=19, kids=[25238610, 25239095, 25241655, 25239221, 25241305], score=101, time=1606577542, title='MIT 6.004 L14: Implementing RISC-V Processor in Hardware', item_type='story', url='https://twitter.com/diodesign/status/1332507524403056641', parent=None, text=None)

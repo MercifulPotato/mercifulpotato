@@ -1,0 +1,1 @@
+Item(by='dralley', descendants=None, kids=None, score=None, time=1606615878, title=None, item_type='comment', url=None, parent=25239546, text='Rust does not yet have a stable ABI, and there is not any such thing as a &quot;binary crate&quot; at the moment. So it&#x27;s kind of hard to run into that problem as the entire exercise is impossible.')

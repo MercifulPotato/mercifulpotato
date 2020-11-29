@@ -1,0 +1,1 @@
+Item(by='robgibbons', descendants=None, kids=[25241755], score=None, time=1606608501, title=None, item_type='comment', url=None, parent=25241709, text='If you mean something like a sidebar that pops out, that&#x27;s definitely possible via some clever CSS. Make the menu button a hidden checkbox and add a CSS transition to move your sidebar based on its checked state.')

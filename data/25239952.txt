@@ -1,1 +1,1 @@
-Item(by='Narishma', descendants=None, kids=None, score=None, time=1606592905, title=None, item_type='comment', url=None, parent=25239424, text='(2016)')
+Item(by='Narishma', descendants=None, kids=[25240254], score=None, time=1606592905, title=None, item_type='comment', url=None, parent=25239424, text='(2016)')

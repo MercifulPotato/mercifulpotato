@@ -1,0 +1,1 @@
+Item(by='TobTobXX', descendants=None, kids=None, score=None, time=1606603582, title=None, item_type='comment', url=None, parent=25241011, text='Also you could use the (first citizen) C++ API, which has (obviously) types.\nOr use one of the community supported bindings for the gdnative API. I used Rust for a short experiment and it worked nicely.')

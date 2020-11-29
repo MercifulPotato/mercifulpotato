@@ -1,0 +1,1 @@
+Item(by='duskwuff', descendants=None, kids=None, score=None, time=1606608704, title=None, item_type='comment', url=None, parent=25241497, text='Oh man, that thing...<p><pre><code>    - (BOOL)verifyLicenseData:(NSData *)data\n    {\n        return YES;\n    }</code></pre>')

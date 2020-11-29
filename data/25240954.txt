@@ -1,0 +1,1 @@
+Item(by='pqdbr', descendants=None, kids=[25241026, 25241952], score=None, time=1606601231, title=None, item_type='comment', url=None, parent=25240703, text='If using Chrome, you can use Cmd+Shift+C to open DevTools, Cmd+Shift+P to open command palette, and then type &#x27;disable javascript&#x27; and hit enter.')

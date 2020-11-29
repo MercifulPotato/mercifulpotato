@@ -1,1 +1,1 @@
-Item(by='agumonkey', descendants=None, kids=None, score=None, time=1606563461, title=None, item_type='comment', url=None, parent=25233801, text='Very interesting slides.<p>Is there a connection with adjoint functors too ?')
+Item(by='agumonkey', descendants=None, kids=[25240770], score=None, time=1606563461, title=None, item_type='comment', url=None, parent=25233801, text='Very interesting slides.<p>Is there a connection with adjoint functors too ?')
