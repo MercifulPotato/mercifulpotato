@@ -1,0 +1,1 @@
+Item(by='gjvc', descendants=None, kids=[25253294], score=None, time=1606741167, title=None, item_type='comment', url=None, parent=25253238, text='Add this line to your ~&#x2F;.bashrc<p><pre><code>   shopt -s autocd\n\n</code></pre>\n(~&#x2F;.bashrc is for options and settings, ~&#x2F;.bash_profile is for environment variables.)')

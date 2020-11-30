@@ -1,0 +1,1 @@
+Item(by='Nullabillity', descendants=None, kids=None, score=None, time=1606732738, title=None, item_type='comment', url=None, parent=25251348, text='The usual Rust answer would be to build a structured wrapper error (which you&#x27;d usually have to do anyway, once you have more than one error source). Then you can just add whatever debug data you want to it.')

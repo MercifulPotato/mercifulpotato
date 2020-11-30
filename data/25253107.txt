@@ -1,0 +1,1 @@
+Item(by='Thiez', descendants=None, kids=None, score=None, time=1606739714, title=None, item_type='comment', url=None, parent=25253043, text='Doesn&#x27;t a cyclomatic complexity limit of 5 basically rule out the switch statement?')

@@ -1,1 +1,1 @@
-Item(by='feross', descendants=0, kids=None, score=3, time=1606713731, title='Seeing is believing: a client-centric specification of database isolation', item_type='story', url='https://blog.acolyer.org/2020/11/30/seeing-is-believing/', parent=None, text=None)
+Item(by='feross', descendants=0, kids=None, score=5, time=1606713731, title='Seeing is believing: a client-centric specification of database isolation', item_type='story', url='https://blog.acolyer.org/2020/11/30/seeing-is-believing/', parent=None, text=None)

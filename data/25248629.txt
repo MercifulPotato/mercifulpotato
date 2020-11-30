@@ -1,1 +1,1 @@
-Item(by='beamatronic', descendants=None, kids=None, score=None, time=1606688429, title=None, item_type='comment', url=None, parent=25248283, text='That’s not science fiction')
+Item(by='beamatronic', descendants=None, kids=[25252033], score=None, time=1606688429, title=None, item_type='comment', url=None, parent=25248283, text='That’s not science fiction')

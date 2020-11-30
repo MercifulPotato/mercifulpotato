@@ -1,0 +1,1 @@
+Item(by='peter_lawrey', descendants=None, kids=None, score=None, time=1606735776, title=None, item_type='comment', url=None, parent=25223390, text='If you have multiple processes each with 24 GB of Eden space and you can produce 1 GB&#x2F;hour of garbage in each service and still only GC once a day.')

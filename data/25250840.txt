@@ -1,1 +1,1 @@
-Item(by='a20eac1d', descendants=None, kids=None, score=None, time=1606711908, title=None, item_type='comment', url=None, parent=25250482, text='Do you know if Psilocybin causes the same or similar neurogenesis? And if it does, how?')
+Item(by='a20eac1d', descendants=None, kids=[25251866], score=None, time=1606711908, title=None, item_type='comment', url=None, parent=25250482, text='Do you know if Psilocybin causes the same or similar neurogenesis? And if it does, how?')

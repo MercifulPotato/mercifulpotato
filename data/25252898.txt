@@ -1,0 +1,1 @@
+Item(by='account42', descendants=None, kids=None, score=None, time=1606737533, title=None, item_type='comment', url=None, parent=25244914, text='Linux doesn&#x27;t require you to use dbus&#x2F;logind though so it seems weird to throw out the kernel (including the HW support you mentioned) just to move to a different userspace.')

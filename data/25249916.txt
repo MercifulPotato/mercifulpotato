@@ -1,1 +1,1 @@
-Item(by='astura', descendants=None, kids=None, score=None, time=1606700397, title=None, item_type='comment', url=None, parent=25246179, text='Very nice! Are all hands solvable?')
+Item(by='astura', descendants=None, kids=[25252894], score=None, time=1606700397, title=None, item_type='comment', url=None, parent=25246179, text='Very nice! Are all hands solvable?')

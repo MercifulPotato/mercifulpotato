@@ -1,0 +1,1 @@
+Item(by='vbernat', descendants=None, kids=None, score=None, time=1606720578, title=None, item_type='comment', url=None, parent=25227362, text='An alternative is to reuse pytest version:<p><pre><code>    exc_info = ExceptionInfo.from_current()\n    print(exc_info.getrepr(style=&quot;long&quot;, showlocals=True))</code></pre>')

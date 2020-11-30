@@ -1,0 +1,1 @@
+Item(by='Stubb', descendants=None, kids=[25253560], score=None, time=1606740856, title=None, item_type='comment', url=None, parent=25253000, text='A horror show mentally reconciling its one-based indexing with the zero-based indexing you&#x27;re used to in Python.<p>The use of a zero is admittedly a relatively new concept, and it may not catch on.')

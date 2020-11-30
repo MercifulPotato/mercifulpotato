@@ -1,1 +1,1 @@
-Item(by='benmller313', descendants=None, kids=None, score=None, time=1606519308, title=None, item_type='comment', url=None, parent=25229807, text='Are you exaggerating or is it really normal for a family of 4 to live in a 500 sqft apartment? This seems impossibly tiny to me.')
+Item(by='benmller313', descendants=None, kids=[25252479], score=None, time=1606519308, title=None, item_type='comment', url=None, parent=25229807, text='Are you exaggerating or is it really normal for a family of 4 to live in a 500 sqft apartment? This seems impossibly tiny to me.')

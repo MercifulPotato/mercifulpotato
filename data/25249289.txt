@@ -1,1 +1,1 @@
-Item(by='Rebelgecko', descendants=None, kids=None, score=None, time=1606694175, title=None, item_type='comment', url=None, parent=25244187, text='I&#x27;ve heard that the scripting capabilities are pretty solid in Roblox, are you not able to create your own currency?')
+Item(by='Rebelgecko', descendants=None, kids=[25252583], score=None, time=1606694175, title=None, item_type='comment', url=None, parent=25244187, text='I&#x27;ve heard that the scripting capabilities are pretty solid in Roblox, are you not able to create your own currency?')

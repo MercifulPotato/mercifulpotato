@@ -1,0 +1,1 @@
+Item(by='creata', descendants=None, kids=None, score=None, time=1606727432, title=None, item_type='comment', url=None, parent=25251982, text='Not with just a rotor (quaternion) and an offset, or with motors (dual quaternions). If you want nonuniform scaling, rotation and translation, then matrices are probably the nicest way to do that.')

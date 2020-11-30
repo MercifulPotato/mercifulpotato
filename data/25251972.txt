@@ -1,0 +1,1 @@
+Item(by='banachtarski', descendants=None, kids=[25252067], score=None, time=1606726747, title=None, item_type='comment', url=None, parent=25251809, text='It depends. For composing multiple transforms, composing versors aka quaternions&#x2F;dual quaternions is cheaper than a full 4x4 multiply. For a single application, a 4x4 will be cheaper.')

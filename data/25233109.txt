@@ -1,1 +1,1 @@
-Item(by='8organicbits', descendants=None, kids=None, score=None, time=1606515968, title=None, item_type='comment', url=None, parent=25232823, text='Use a block list, probably not worth the time to block domains you read about one by one.')
+Item(by='8organicbits', descendants=None, kids=[25252702], score=None, time=1606515968, title=None, item_type='comment', url=None, parent=25232823, text='Use a block list, probably not worth the time to block domains you read about one by one.')

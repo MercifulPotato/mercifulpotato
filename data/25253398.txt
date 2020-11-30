@@ -1,0 +1,1 @@
+Item(by='MoritzWall', descendants=None, kids=[25253430], score=None, time=1606742351, title=None, item_type='comment', url=None, parent=25253344, text='A beautiful piece of IOS app engineering! How did you make the UIPageViewController in SwiftUI at the beginning of the app? I also tried to use it but have not yet found a way to bridge the UIKit with SwiftUI.')

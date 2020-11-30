@@ -1,1 +1,1 @@
-Item(by='randomswede', descendants=None, kids=None, score=None, time=1606689909, title=None, item_type='comment', url=None, parent=25236836, text='Hm, rlonn as in &quot;Algonet&quot;?')
+Item(by='randomswede', descendants=None, kids=[25252229], score=None, time=1606689909, title=None, item_type='comment', url=None, parent=25236836, text='Hm, rlonn as in &quot;Algonet&quot;?')
