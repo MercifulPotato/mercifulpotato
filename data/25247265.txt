@@ -1,1 +1,1 @@
-Item(by='ofrzeta', descendants=None, kids=None, score=None, time=1606677521, title=None, item_type='comment', url=None, parent=25245218, text='You could always make use of the Kubernetes APIs from your application through fabric8, if that&#x27;s what you mean.')
+Item(by='ofrzeta', descendants=None, kids=[25248359], score=None, time=1606677521, title=None, item_type='comment', url=None, parent=25245218, text='You could always make use of the Kubernetes APIs from your application through fabric8, if that&#x27;s what you mean.')

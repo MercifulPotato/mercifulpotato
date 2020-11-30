@@ -1,1 +1,1 @@
-Item(by='hanniabu', descendants=None, kids=None, score=None, time=1606609040, title=None, item_type='comment', url=None, parent=25239679, text='I thought the black bar used to be hyperlinked to the post, am I imagining this?')
+Item(by='hanniabu', descendants=None, kids=[25249127], score=None, time=1606609040, title=None, item_type='comment', url=None, parent=25239679, text='I thought the black bar used to be hyperlinked to the post, am I imagining this?')

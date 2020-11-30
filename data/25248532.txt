@@ -1,0 +1,1 @@
+Item(by='LeoPanthera', descendants=None, kids=[25248705], score=None, time=1606687553, title=None, item_type='comment', url=None, parent=25247846, text='Only by cheating, you can save the contents of a tmpfs to disk on shutdown, and then restore it on boot. This can be done with a systemd unit or an init script.')

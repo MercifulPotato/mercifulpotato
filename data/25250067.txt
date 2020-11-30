@@ -1,0 +1,1 @@
+Item(by='heelix', descendants=None, kids=None, score=None, time=1606702158, title=None, item_type='comment', url=None, parent=25249929, text='It is simple enough to set up windows to use the normal boot rather than the RAID one.  I&#x27;ve got my XPS set up with one drive in Linux, one in Windows - and boot into the drive I want to be in.')

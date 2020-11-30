@@ -1,0 +1,1 @@
+Item(by='qz2', descendants=None, kids=[25248327], score=None, time=1606680859, title=None, item_type='comment', url=None, parent=25247036, text='It’s even worse. Systemd, dbus and journald are basically service manager, DCOM and Event Log from windows, but worse!<p>It’s not the wrong type of solution but systemd is somewhat stinky compared to what we could have had.')

@@ -1,1 +1,1 @@
-Item(by='jessym', descendants=None, kids=None, score=None, time=1606675879, title=None, item_type='comment', url=None, parent=25247006, text='That&#x27;s a good point - I guess that sound effect doesn&#x27;t go so well with the rest of the atmosphere.')
+Item(by='jessym', descendants=None, kids=[25249877], score=None, time=1606675879, title=None, item_type='comment', url=None, parent=25247006, text='That&#x27;s a good point - I guess that sound effect doesn&#x27;t go so well with the rest of the atmosphere.')

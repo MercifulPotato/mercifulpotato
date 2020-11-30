@@ -1,1 +1,1 @@
-Item(by='doener', descendants=0, kids=None, score=2, time=1606656333, title='The Z-machine is a virtual machine used by Infocom for its text adventure games', item_type='story', url='https://en.wikipedia.org/wiki/Z-machine', parent=None, text=None)
+Item(by='doener', descendants=0, kids=None, score=3, time=1606656333, title='The Z-machine is a virtual machine used by Infocom for its text adventure games', item_type='story', url='https://en.wikipedia.org/wiki/Z-machine', parent=None, text=None)

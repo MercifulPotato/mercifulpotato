@@ -1,1 +1,1 @@
-Item(by='harporoeder', descendants=0, kids=None, score=1, time=1606676807, title='The worst (A response to Dustin Curtis “The best”)', item_type='story', url='https://moxie.org/2012/11/27/the-worst.html', parent=None, text=None)
+Item(by='harporoeder', descendants=1, kids=[25247447], score=2, time=1606676807, title='The worst (A response to Dustin Curtis “The best”)', item_type='story', url='https://moxie.org/2012/11/27/the-worst.html', parent=None, text=None)

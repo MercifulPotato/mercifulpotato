@@ -1,0 +1,1 @@
+Item(by='didibus', descendants=None, kids=[25248611, 25248683, 25248641], score=None, time=1606687336, title=None, item_type='comment', url=None, parent=25247879, text='Isn&#x27;t GraalJS restricted in usage though? Like it can only be used as part of Oracle GraalVM, not any other JVM distribution?')

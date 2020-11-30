@@ -1,1 +1,1 @@
-Item(by='dooglius', descendants=None, kids=None, score=None, time=1606674590, title=None, item_type='comment', url=None, parent=25246896, text='Actual physical memory. I actually have a hack in order to reclaim and use some of this on my laptop.')
+Item(by='dooglius', descendants=None, kids=[25249005], score=None, time=1606674590, title=None, item_type='comment', url=None, parent=25246896, text='Actual physical memory. I actually have a hack in order to reclaim and use some of this on my laptop.')

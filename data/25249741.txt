@@ -1,0 +1,1 @@
+Item(by='k__', descendants=None, kids=None, score=None, time=1606698424, title=None, item_type='comment', url=None, parent=25249719, text='This.<p>The complexity in most SSGs comes from them being generic solutions.<p>If you have a fairly simple site and know what you need, you probably get it build with a few lines of JS and a GH action.')

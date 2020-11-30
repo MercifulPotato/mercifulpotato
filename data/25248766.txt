@@ -1,0 +1,1 @@
+Item(by='bobbylarrybobby', descendants=None, kids=None, score=None, time=1606689755, title=None, item_type='comment', url=None, parent=25248160, text='You could use (say) UUIDs as the filenames and maintain an encrypted table containing the mapping between human readable filenames and UUIDs.')

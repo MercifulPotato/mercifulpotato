@@ -1,0 +1,1 @@
+Item(by='TimTheTinker', descendants=None, kids=None, score=None, time=1606687503, title=None, item_type='comment', url=None, parent=25247285, text='Sure, but it sounds like block deduping is only one of several optimizations that DwarFS is able to take advantage of because it’s a read-only FS.')

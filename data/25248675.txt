@@ -1,0 +1,1 @@
+Item(by='JoshTriplett', descendants=None, kids=[25249157], score=None, time=1606688853, title=None, item_type='comment', url=None, parent=25248540, text='Ah, I see. So this specifically saves the decompression time for data you&#x27;ve already decompressed, if another file references the same data?')

@@ -1,1 +1,1 @@
-Item(by='IgorPartola', descendants=None, kids=None, score=None, time=1606668916, title=None, item_type='comment', url=None, parent=25245740, text='Could you make the login form’s email field have type=“email”? Helps on mobile.')
+Item(by='IgorPartola', descendants=None, kids=[25247550], score=None, time=1606668916, title=None, item_type='comment', url=None, parent=25245740, text='Could you make the login form’s email field have type=“email”? Helps on mobile.')

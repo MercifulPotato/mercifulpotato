@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1606686579, title=None, item_type='comment', url=None, parent=25247451, text='For those not following up with Windows development, all major new Windows APIS since XP are ActiveX aka COM aka WinRT aka UWP.<p>COM is pretty much alive and was modernised with .NET type system.')

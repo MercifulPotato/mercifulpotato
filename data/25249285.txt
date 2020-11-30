@@ -1,0 +1,1 @@
+Item(by='dilyevsky', descendants=None, kids=[25249347], score=None, time=1606694152, title=None, item_type='comment', url=None, parent=25249132, text='Heh, I actually agree that some of the called out use cases such as PinnedDeployment  are needed but imo extensibility of kubernetes api make it non issue since you can just build your own implementations')

@@ -1,0 +1,1 @@
+Item(by='Hello71', descendants=None, kids=None, score=None, time=1606681831, title=None, item_type='comment', url=None, parent=25246050, text='&gt; You can pick either clang or g++, but at least recent clang versions will produce substantially faster code<p>have you investigated why this might be the case?')

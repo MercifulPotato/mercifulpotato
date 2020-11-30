@@ -1,0 +1,1 @@
+Item(by='jmillikin', descendants=None, kids=None, score=None, time=1606692034, title=None, item_type='comment', url=None, parent=25246744, text='That&#x27;s likely a different bug. From what I understand the CFS bug being discussed was introduced in Linux v4.18 and fixed in v5.3, and we have not used a kernel within in that range in our Hadoop clusters.')

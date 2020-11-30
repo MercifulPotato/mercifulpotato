@@ -1,0 +1,1 @@
+Item(by='rabidrat', descendants=None, kids=[25249350], score=None, time=1606694538, title=None, item_type='comment', url=None, parent=25249094, text='Escaping drastically complicates parsing (though not as much as quoting, thank god).  But you seldom need to nest tables within tables.  Much more frequently, table values want to contain embedded newlines.')

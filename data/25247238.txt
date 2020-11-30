@@ -1,1 +1,1 @@
-Item(by='starpilot', descendants=None, kids=None, score=None, time=1606677302, title=None, item_type='comment', url=None, parent=25246419, text='I feel vindicated in insisting on 8-9 hours every night, and limiting any caffeine (few cups a month at most).')
+Item(by='starpilot', descendants=None, kids=[25247699], score=None, time=1606677302, title=None, item_type='comment', url=None, parent=25246419, text='I feel vindicated in insisting on 8-9 hours every night, and limiting any caffeine (few cups a month at most).')

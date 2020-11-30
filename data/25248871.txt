@@ -1,0 +1,1 @@
+Item(by='floatboth', descendants=None, kids=None, score=None, time=1606690673, title=None, item_type='comment', url=None, parent=25246802, text='Usually it&#x27;s not really about speed, you usually want tmpfs on &#x2F;tmp &#x2F;var&#x2F;tmp &#x2F;var&#x2F;run etc. to just specifically <i>avoid persistence</i>.')

@@ -1,0 +1,1 @@
+Item(by='fomine3', descendants=None, kids=None, score=None, time=1606699655, title=None, item_type='comment', url=None, parent=25249784, text='There&#x27;s no OSS driver for Apple Silicon (x86 platforms has OSS driver for Linux maintained by platform company) and boot process is proprietary (x86 UEFI is open spec).')

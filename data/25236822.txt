@@ -1,1 +1,1 @@
-Item(by='phoe-krk', descendants=33, kids=[25237546, 25237355, 25238395, 25238995, 25238549, 25238631, 25241866], score=151, time=1606560203, title='Lisp Koans', item_type='story', url='https://github.com/google/lisp-koans', parent=None, text=None)
+Item(by='phoe-krk', descendants=33, kids=[25237546, 25237355, 25238395, 25238995, 25238549, 25238631, 25241866], score=152, time=1606560203, title='Lisp Koans', item_type='story', url='https://github.com/google/lisp-koans', parent=None, text=None)

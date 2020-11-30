@@ -1,1 +1,1 @@
-Item(by='nobodyandproud', descendants=None, kids=None, score=None, time=1606623511, title=None, item_type='comment', url=None, parent=25235490, text='RIP, Tony Hsieh.<p>A person of color, he proved that a business doesn’t have to be souless in order to be successful.')
+Item(by='nobodyandproud', descendants=None, kids=[25247868], score=None, time=1606623511, title=None, item_type='comment', url=None, parent=25235490, text='RIP, Tony Hsieh.<p>A person of color, he proved that a business doesn’t have to be souless in order to be successful.')

@@ -1,0 +1,1 @@
+Item(by='StavrosK', descendants=None, kids=None, score=None, time=1606697757, title=None, item_type='comment', url=None, parent=25249598, text='I&#x27;ve found Lektor&#x27;s API decent. It&#x27;s easier when the generator is written in an interpreter language, as compiled languages generally have a harder time exposing their APIs.')

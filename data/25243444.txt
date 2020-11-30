@@ -1,1 +1,1 @@
-Item(by='throwanem', descendants=None, kids=None, score=None, time=1606633076, title=None, item_type='comment', url=None, parent=25242722, text='True. Totally unrelated, the example you cite is now fifty years in the past, and occurred in a time when local news still existed.')
+Item(by='throwanem', descendants=None, kids=[25248862], score=None, time=1606633076, title=None, item_type='comment', url=None, parent=25242722, text='True. Totally unrelated, the example you cite is now fifty years in the past, and occurred in a time when local news still existed.')

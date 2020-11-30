@@ -1,1 +1,1 @@
-Item(by='joana035', descendants=None, kids=None, score=None, time=1606670714, title=None, item_type='comment', url=None, parent=25246431, text='Networking just works.<p>Discovery via DNS is pretty standard too.<p>Mind to elaborate on what you would like to see in those areas?')
+Item(by='joana035', descendants=None, kids=[25250004], score=None, time=1606670714, title=None, item_type='comment', url=None, parent=25246431, text='Networking just works.<p>Discovery via DNS is pretty standard too.<p>Mind to elaborate on what you would like to see in those areas?')

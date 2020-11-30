@@ -1,1 +1,1 @@
-Item(by='coldtea', descendants=None, kids=None, score=None, time=1606429570, title=None, item_type='comment', url=None, parent=25222916, text='Is the OS secure abandoned without 2-3 years of updates to any new issues discovered?')
+Item(by='coldtea', descendants=None, kids=[25248436], score=None, time=1606429570, title=None, item_type='comment', url=None, parent=25222916, text='Is the OS secure abandoned without 2-3 years of updates to any new issues discovered?')

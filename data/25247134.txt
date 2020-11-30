@@ -1,1 +1,1 @@
-Item(by='latenightcoding', descendants=None, kids=None, score=None, time=1606676530, title=None, item_type='comment', url=None, parent=25246268, text='I was hoping it would finally be available this year. \nNow I think it&#x27;s never going to happen.')
+Item(by='latenightcoding', descendants=None, kids=[25248124], score=None, time=1606676530, title=None, item_type='comment', url=None, parent=25246268, text='I was hoping it would finally be available this year. \nNow I think it&#x27;s never going to happen.')

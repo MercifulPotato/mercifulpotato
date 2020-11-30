@@ -1,1 +1,1 @@
-Item(by='susam', descendants=0, kids=None, score=1, time=1606650511, title='Fixing Unix/Linux/Posix Filenames: Control Characters, Leading Dashes, etc.', item_type='story', url='https://dwheeler.com/essays/fixing-unix-linux-filenames.html', parent=None, text=None)
+Item(by='susam', descendants=0, kids=None, score=2, time=1606650511, title='Fixing Unix/Linux/Posix Filenames: Control Characters, Leading Dashes, etc.', item_type='story', url='https://dwheeler.com/essays/fixing-unix-linux-filenames.html', parent=None, text=None)

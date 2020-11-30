@@ -1,1 +1,1 @@
-Item(by='gbrown_', descendants=0, kids=None, score=1, time=1606676582, title='Castor – A graphical client for plain-text protocols written in Rust with GTK', item_type='story', url='https://git.sr.ht/~julienxx/castor', parent=None, text=None)
+Item(by='gbrown_', descendants=0, kids=None, score=2, time=1606676582, title='Castor – A graphical client for plain-text protocols written in Rust with GTK', item_type='story', url='https://git.sr.ht/~julienxx/castor', parent=None, text=None)

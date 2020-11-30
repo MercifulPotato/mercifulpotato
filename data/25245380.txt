@@ -1,1 +1,1 @@
-Item(by='adrian_mrd', descendants=0, kids=None, score=8, time=1606661412, title='Netflix to Start Declaring True UK Revenue Amid Controversy over Low Tax Bill', item_type='story', url='https://deadline.com/2020/11/netflix-declare-uk-revenue-tax-1234622834/', parent=None, text=None)
+Item(by='adrian_mrd', descendants=3, kids=[25247976], score=16, time=1606661412, title='Netflix to Start Declaring True UK Revenue Amid Controversy over Low Tax Bill', item_type='story', url='https://deadline.com/2020/11/netflix-declare-uk-revenue-tax-1234622834/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='Nbox9', descendants=None, kids=None, score=None, time=1606676150, title=None, item_type='comment', url=None, parent=25246972, text='I’m not sure I’d describe the multiplayer mahjong games as “relaxing”.  Riichi specifically gets into really intense situations.')
+Item(by='Nbox9', descendants=None, kids=[25249225], score=None, time=1606676150, title=None, item_type='comment', url=None, parent=25246972, text='I’m not sure I’d describe the multiplayer mahjong games as “relaxing”.  Riichi specifically gets into really intense situations.')

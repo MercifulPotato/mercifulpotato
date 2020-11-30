@@ -1,1 +1,1 @@
-Item(by='nitrogen', descendants=None, kids=None, score=None, time=1606672518, title=None, item_type='comment', url=None, parent=25246655, text='Very true, though a bit more difficult for a one-person team if they need to move around.')
+Item(by='nitrogen', descendants=None, kids=[25248186], score=None, time=1606672518, title=None, item_type='comment', url=None, parent=25246655, text='Very true, though a bit more difficult for a one-person team if they need to move around.')

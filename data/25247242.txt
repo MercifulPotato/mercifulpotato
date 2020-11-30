@@ -1,1 +1,1 @@
-Item(by='emptybits', descendants=0, kids=None, score=1, time=1606677317, title='Canadian and American leaders battle in video game for charity', item_type='story', url='https://www.cbc.ca/news/politics/among-us-singh-ocasio-cortez-200k-donations-1.5820831', parent=None, text=None)
+Item(by='emptybits', descendants=1, kids=[25248894], score=8, time=1606677317, title='Canadian and American leaders battle in video game for charity', item_type='story', url='https://www.cbc.ca/news/politics/among-us-singh-ocasio-cortez-200k-donations-1.5820831', parent=None, text=None)

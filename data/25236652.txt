@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=1, kids=[25246921], score=7, time=1606557910, title='Standalone Nashorn 15.0 is out', item_type='story', url='https://mail.openjdk.java.net/pipermail/nashorn-dev/2020-November/007597.html', parent=None, text=None)
+Item(by='pjmlp', descendants=27, kids=[25247879, 25246921, 25248748, 25247857], score=38, time=1606557910, title='Standalone Nashorn 15.0 is out', item_type='story', url='https://mail.openjdk.java.net/pipermail/nashorn-dev/2020-November/007597.html', parent=None, text=None)

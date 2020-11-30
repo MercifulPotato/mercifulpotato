@@ -1,0 +1,1 @@
+Item(by='neckardt', descendants=None, kids=[25248965], score=None, time=1606688159, title=None, item_type='comment', url=None, parent=25247666, text='I had problems with wayland the first time I tried it with an AMD gpu as well, the solution was to simply install a new kernel. I was running debian stable so the old kernel wasn&#x27;t exactly unexpected.')

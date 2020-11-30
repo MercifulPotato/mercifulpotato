@@ -1,0 +1,1 @@
+Item(by='iamcreasy', descendants=None, kids=[25249308], score=None, time=1606684739, title=None, item_type='comment', url=None, parent=25244386, text='That is insane speedup! Thanks for sharing. How do I find next and hasNext is the bottleneck? Should I run profiler to see if they are being called a large number of times?')
