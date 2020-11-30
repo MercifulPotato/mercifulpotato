@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1606741477, title=None, item_type='comment', url=None, parent=25252064, text='So I don&#x27;t get the question, ChromeOS seems to work.<p>If you mean Crostini, no idea, I don&#x27;t own a ChromeOS laptop.')
+Item(by='pjmlp', descendants=None, kids=[25257508], score=None, time=1606741477, title=None, item_type='comment', url=None, parent=25252064, text='So I don&#x27;t get the question, ChromeOS seems to work.<p>If you mean Crostini, no idea, I don&#x27;t own a ChromeOS laptop.')

@@ -1,1 +1,1 @@
-Item(by='iHegazy', descendants=1, kids=[25252402], score=2, time=1606731837, title='Buffer Overflows for Normies', item_type='story', url='https://yusufhegazy.com/posts/bof-for-normies/', parent=None, text=None)
+Item(by='iHegazy', descendants=6, kids=[25252402, 25256028], score=5, time=1606731837, title='Buffer Overflows for Normies', item_type='story', url='https://yusufhegazy.com/posts/bof-for-normies/', parent=None, text=None)

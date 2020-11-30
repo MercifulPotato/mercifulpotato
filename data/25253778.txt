@@ -1,1 +1,1 @@
-Item(by='jedisct1', descendants=None, kids=None, score=None, time=1606745132, title=None, item_type='comment', url=None, parent=25247440, text='And abandoned quite quickly, like most Rust projects.')
+Item(by='jedisct1', descendants=None, kids=[25254955], score=None, time=1606745132, title=None, item_type='comment', url=None, parent=25247440, text='And abandoned quite quickly, like most Rust projects.')

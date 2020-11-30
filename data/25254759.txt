@@ -1,0 +1,1 @@
+Item(by='dfrankow', descendants=None, kids=[25255177], score=None, time=1606750258, title=None, item_type='comment', url=None, parent=25253915, text='ggplot?<p>If your benchmark is plotting 2 million points, it may also be slow.  However, I find its ability to rapidly prototype tons of different visualizations useful.  I try to avoid needing to plot 2 million points anyway.')

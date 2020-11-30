@@ -1,0 +1,1 @@
+Item(by='stjohnswarts', descendants=None, kids=None, score=None, time=1606761959, title=None, item_type='comment', url=None, parent=25252861, text='When I was doing FPGA work Simulink was very handy for plugging together quick signal processing flows. I kind of miss it, but I&#x27;ve moved on to strictly c&#x2F;c++ embedded work')

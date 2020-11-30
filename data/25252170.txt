@@ -1,1 +1,1 @@
-Item(by='foota', descendants=None, kids=None, score=None, time=1606728899, title=None, item_type='comment', url=None, parent=25249977, text='What was that ban out of curiosity? Also, is there a name for this profession?')
+Item(by='foota', descendants=None, kids=[25256832], score=None, time=1606728899, title=None, item_type='comment', url=None, parent=25249977, text='What was that ban out of curiosity? Also, is there a name for this profession?')

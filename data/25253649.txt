@@ -1,1 +1,1 @@
-Item(by='Michael_Sieb', descendants=None, kids=None, score=None, time=1606744402, title=None, item_type='comment', url=None, parent=25236094, text='Big fan of chess! Who watches Hikaru&#x27;s YT videos? Full of awesome tactics.')
+Item(by='Michael_Sieb', descendants=None, kids=[25256707, 25254733], score=None, time=1606744402, title=None, item_type='comment', url=None, parent=25236094, text='Big fan of chess! Who watches Hikaru&#x27;s YT videos? Full of awesome tactics.')

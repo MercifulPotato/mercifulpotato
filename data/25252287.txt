@@ -1,1 +1,1 @@
-Item(by='zoidb', descendants=0, kids=None, score=9, time=1606730493, title='Show HN: Twelve Days of Shell', item_type='story', url='https://12days.cmdchallenge.com/', parent=None, text=None)
+Item(by='zoidb', descendants=18, kids=[25257318, 25255273, 25256207, 25257140, 25255786, 25255892, 25254621, 25255616, 25254357, 25255862, 25255275, 25254834, 25254168], score=67, time=1606730493, title='Show HN: Twelve Days of Shell', item_type='story', url='https://12days.cmdchallenge.com/', parent=None, text=None)

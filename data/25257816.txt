@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=None, score=None, time=1606764498, title=None, item_type='comment', url=None, parent=25254721, text='&gt; <i>and it broke the vendored versions of pip</i><p>Wait, <i>Debian</i> updated their pip, breaking it in the process without noticing?')

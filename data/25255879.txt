@@ -1,0 +1,1 @@
+Item(by='thijsvandien', descendants=None, kids=None, score=None, time=1606755356, title=None, item_type='comment', url=None, parent=25253236, text='Yay! I already got tired of typing <i>--use-feature=2020-resolver</i>.<p>With this, it&#x27;s a lot easier to upgrade everything without getting conflicts: <i>pip freeze | cut -d= -f1 | xargs pip install --upgrade</i>.')

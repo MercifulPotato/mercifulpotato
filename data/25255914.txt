@@ -1,0 +1,1 @@
+Item(by='disgruntledphd2', descendants=None, kids=[25256019], score=None, time=1606755513, title=None, item_type='comment', url=None, parent=25255846, text='Well when pip installs an incompatible version of Numpy relative to my current setup (without warning me) then I do indeed blame pip.<p>To be fair, this release makes that much better, which I am extremely grateful for.')

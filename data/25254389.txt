@@ -1,0 +1,1 @@
+Item(by='Macha', descendants=None, kids=[25254624, 25254533, 25254526], score=None, time=1606748427, title=None, item_type='comment', url=None, parent=25254351, text='You can&#x27;t independently store different values in the sub-registers. Storing in EAX clobbers what&#x27;s in RAX.')

@@ -1,0 +1,1 @@
+Item(by='akhilcacharya', descendants=None, kids=None, score=None, time=1606748929, title=None, item_type='comment', url=None, parent=25253070, text='To me, this looks <i>extremely</i> promising from a performance and developer ergonomics point of view and a fantastic use case for WASM and WASI - only limiting factor seems to be the rollout for WASI networking support.')

@@ -1,1 +1,1 @@
-Item(by='smegger001', descendants=None, kids=None, score=None, time=1606604059, title=None, item_type='comment', url=None, parent=25241106, text='My LG android phone periodically forces updates and accompanying restarts usually triggering at the least opportune time.')
+Item(by='smegger001', descendants=None, kids=[25254435], score=None, time=1606604059, title=None, item_type='comment', url=None, parent=25241106, text='My LG android phone periodically forces updates and accompanying restarts usually triggering at the least opportune time.')

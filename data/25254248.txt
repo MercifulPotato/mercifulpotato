@@ -1,0 +1,1 @@
+Item(by='TonyTrapp', descendants=None, kids=[25254529, 25254543, 25257153, 25254437], score=None, time=1606747690, title=None, item_type='comment', url=None, parent=25253797, text='Funny to think that once x86 was the platform that had too few general-purpose registers, so people sacrificed the frame pointer register in their highly-optimized assembly routines...')

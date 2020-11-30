@@ -1,0 +1,1 @@
+Item(by='ptx', descendants=None, kids=None, score=None, time=1606767056, title=None, item_type='comment', url=None, parent=25258136, text='Hm, you&#x27;re right. I misread it as saying that it would 1) install six, 2) fail to install virtualenv and 3) fail to report an error.<p>But the old resolver actually installs both packages, even though it should just abort.')

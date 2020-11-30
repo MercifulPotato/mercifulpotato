@@ -1,0 +1,1 @@
+Item(by='jnwatson', descendants=None, kids=None, score=None, time=1606756190, title=None, item_type='comment', url=None, parent=25253797, text='TIL I learned about an entire Intel microprocessor subsystem, MPX, that was added and then deemed useless before I learned about it.  It is both less secure and slower than software solutions.  What a failure in processor design.')

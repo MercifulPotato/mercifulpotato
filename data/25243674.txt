@@ -1,1 +1,1 @@
-Item(by='pmarin', descendants=0, kids=None, score=1, time=1606636473, title='Guybrush Fact vs. Fiction', item_type='story', url='https://grumpygamer.com/guybrush_fact_fiction', parent=None, text=None)
+Item(by='pmarin', descendants=39, kids=[25257525, 25254662, 25254852, 25255393, 25256638, 25258205, 25256158, 25256565], score=117, time=1606636473, title='Guybrush Fact vs. Fiction', item_type='story', url='https://grumpygamer.com/guybrush_fact_fiction', parent=None, text=None)

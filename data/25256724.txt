@@ -1,0 +1,1 @@
+Item(by='tambre', descendants=None, kids=None, score=None, time=1606759140, title=None, item_type='comment', url=None, parent=25255329, text='Project Denver lives on in NVIDIA&#x27;s Carmel cores shipping in Tegra 194 (Xavier) chips today. Though they seem to be giving up on it, as they&#x27;ll be using Cortex &quot;Hercules&quot; A78 cores in the successor named Orin.')

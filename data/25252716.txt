@@ -1,1 +1,1 @@
-Item(by='Raphael_Amiard', descendants=None, kids=None, score=None, time=1606735638, title=None, item_type='comment', url=None, parent=25252521, text='I have a completely opposite experience (on chess.com). Playing a lot of games lately at a low level, never stumbled upon a cheater.')
+Item(by='Raphael_Amiard', descendants=None, kids=[25254165], score=None, time=1606735638, title=None, item_type='comment', url=None, parent=25252521, text='I have a completely opposite experience (on chess.com). Playing a lot of games lately at a low level, never stumbled upon a cheater.')

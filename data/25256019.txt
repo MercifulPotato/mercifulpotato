@@ -1,0 +1,1 @@
+Item(by='acdha', descendants=None, kids=[25257721], score=None, time=1606755930, title=None, item_type='comment', url=None, parent=25255914, text='If a library doesn’t specify version compatibility and you don’t pin it but do choose to run an upgrade, why is that the installer’s problem? It’s like complaining about Toyota when you get a parking ticket.')

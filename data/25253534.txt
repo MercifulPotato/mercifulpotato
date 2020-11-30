@@ -1,1 +1,1 @@
-Item(by='nanna', descendants=0, kids=None, score=1, time=1606743468, title='Donate to Mozilla', item_type='story', url='https://donate.mozilla.org/en-GB/dec2020/', parent=None, text=None)
+Item(by='nanna', descendants=3, kids=[25253630], score=2, time=1606743468, title='Donate to Mozilla', item_type='story', url='https://donate.mozilla.org/en-GB/dec2020/', parent=None, text=None)

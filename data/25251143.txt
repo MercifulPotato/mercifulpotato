@@ -1,1 +1,1 @@
-Item(by='ncfausti', descendants=None, kids=None, score=None, time=1606716295, title=None, item_type='comment', url=None, parent=25249527, text='Can you elaborate on why you hate Mastodon as well? I signed up, never really got into it, but kind of always intended to.')
+Item(by='ncfausti', descendants=None, kids=[25256220], score=None, time=1606716295, title=None, item_type='comment', url=None, parent=25249527, text='Can you elaborate on why you hate Mastodon as well? I signed up, never really got into it, but kind of always intended to.')

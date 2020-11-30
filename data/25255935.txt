@@ -1,0 +1,1 @@
+Item(by='bkolobara', descendants=None, kids=None, score=None, time=1606755592, title=None, item_type='comment', url=None, parent=25254950, text='Yes! I only provide a higher-level library for Rust, but you can use the lower-level host functions from any WASM code if you run it on Lunatic.')

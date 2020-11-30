@@ -1,0 +1,1 @@
+Item(by='tauist', descendants=None, kids=None, score=None, time=1606756394, title=None, item_type='comment', url=None, parent=25247526, text='It&#x27;s accurate, Wayland is already used in ChromeOS to display Android apps, of course Microsoft is just doing the same.<p>Remember Wayland is a low-level protocol, it&#x27;s totally different from X11 stack.')

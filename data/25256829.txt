@@ -1,0 +1,1 @@
+Item(by='colejohnson66', descendants=None, kids=[25257279], score=None, time=1606759577, title=None, item_type='comment', url=None, parent=25254574, text='I thought the 80286 had 32-bit protected mode, but it was badly implemented (the only way to get back to real mode was a reboot), so they fixed it with the 80386. Unless, are you referring to “unreal mode”?')

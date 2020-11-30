@@ -1,0 +1,1 @@
+Item(by='akashakya', descendants=None, kids=[25254638], score=None, time=1606749152, title=None, item_type='comment', url=None, parent=25254251, text='I don&#x27;t know much about WASM, but how does this work with shared libraries? Is it even possible to call a shared library without any safety guarantees?')

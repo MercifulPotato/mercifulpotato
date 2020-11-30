@@ -1,1 +1,1 @@
-Item(by='bzbz', descendants=None, kids=None, score=None, time=1606743372, title=None, item_type='comment', url=None, parent=25253397, text='And screens are bigger than they used to be, so you conveniently have more tabs to make up for it. I think it evens out')
+Item(by='bzbz', descendants=None, kids=[25253638], score=None, time=1606743372, title=None, item_type='comment', url=None, parent=25253397, text='And screens are bigger than they used to be, so you conveniently have more tabs to make up for it. I think it evens out')

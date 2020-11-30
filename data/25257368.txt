@@ -1,0 +1,1 @@
+Item(by='Der_Einzige', descendants=None, kids=None, score=None, time=1606762130, title=None, item_type='comment', url=None, parent=25255397, text='Maybe I am weird, but I&#x27;ve had far more problems with anaconda and its package management than I ever have with pip. Conda routinely takes <i>hours</i> to resolve whatever unholy issues it&#x27;s running into sometimes')

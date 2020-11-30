@@ -1,1 +1,1 @@
-Item(by='dastx', descendants=None, kids=None, score=None, time=1606745178, title=None, item_type='comment', url=None, parent=25253497, text='This seems like it would be great to release as a library. That might increase adoption.')
+Item(by='dastx', descendants=None, kids=[25254514], score=None, time=1606745178, title=None, item_type='comment', url=None, parent=25253497, text='This seems like it would be great to release as a library. That might increase adoption.')

@@ -1,0 +1,1 @@
+Item(by='ibraheemdev', descendants=None, kids=None, score=None, time=1606768436, title=None, item_type='comment', url=None, parent=25255990, text='Async `Fn*` traits are possible on nightly with the `unboxed_closures` and `async_closure` features.')

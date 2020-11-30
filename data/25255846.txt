@@ -1,0 +1,1 @@
+Item(by='acdha', descendants=None, kids=[25255914], score=None, time=1606755213, title=None, item_type='comment', url=None, parent=25255713, text='I mean, I do use a lot of C code and the things which break are external C level dependencies. You can blame Python for those but it won’t help fix them.')

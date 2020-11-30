@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=3, kids=[25251558, 25251252, 25249364], score=16, time=1606694608, title='Mark Cuban on America’s Future', item_type='story', url='https://www.theverge.com/21557432/mark-cuban-interview-nilay-patel-decoder-podcast', parent=None, text=None)
+Item(by='tosh', descendants=3, kids=[25251558, 25249364, 25251252], score=17, time=1606694608, title='Mark Cuban on America’s Future', item_type='story', url='https://www.theverge.com/21557432/mark-cuban-interview-nilay-patel-decoder-podcast', parent=None, text=None)

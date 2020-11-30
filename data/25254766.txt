@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=None, score=None, time=1606750325, title=None, item_type='comment', url=None, parent=25254376, text='If the tooling you use lets you create tmpfs mounts for your container its very easy, yes. AFAIK those are RAM-backed by default. I think from inside a container it could be difficult to have the permissions necessary.')

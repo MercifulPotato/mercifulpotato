@@ -1,0 +1,1 @@
+Item(by='Hitton', descendants=None, kids=None, score=None, time=1606745926, title=None, item_type='comment', url=None, parent=25247093, text='I didn&#x27;t. Addon using WebExtension API shouldn&#x27;t normally require browser restart, if it does and doesn&#x27;t even notify user about that, I would consider that bug too.')

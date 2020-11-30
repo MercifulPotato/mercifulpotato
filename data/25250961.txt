@@ -1,1 +1,1 @@
-Item(by='hachari', descendants=None, kids=None, score=None, time=1606713802, title=None, item_type='comment', url=None, parent=25250701, text='“I know Apple A-series had some edge over Snapdragons, but was the gap between Android processors that big?”<p>Absolutely')
+Item(by='hachari', descendants=None, kids=[25255913], score=None, time=1606713802, title=None, item_type='comment', url=None, parent=25250701, text='“I know Apple A-series had some edge over Snapdragons, but was the gap between Android processors that big?”<p>Absolutely')

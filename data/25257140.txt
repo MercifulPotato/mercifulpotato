@@ -1,0 +1,1 @@
+Item(by='ktm5j', descendants=None, kids=None, score=None, time=1606760987, title=None, item_type='comment', url=None, parent=25252287, text='Fun! But I think I found a bug: If you hit enter without any input then it crashes and pegs a CPU core at 100% (in firefox on Linux).')

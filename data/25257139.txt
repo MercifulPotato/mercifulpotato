@@ -1,0 +1,1 @@
+Item(by='identity0', descendants=None, kids=[25258068], score=None, time=1606760981, title=None, item_type='comment', url=None, parent=25254330, text='Agreed. It&#x27;s not a &quot;foreign&quot; function if everything is in WASM. All the VM sees is WASM code; it doesn&#x27;t make a difference if it was originally written in C or Rust.')

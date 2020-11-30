@@ -1,0 +1,1 @@
+Item(by='kstrauser', descendants=None, kids=None, score=None, time=1606767278, title=None, item_type='comment', url=None, parent=25257861, text='No, it won&#x27;t be caught in CI. The old version of pip didn&#x27;t recognize that as an error condition.')

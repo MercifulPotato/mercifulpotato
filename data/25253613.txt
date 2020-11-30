@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=None, kids=None, score=None, time=1606744105, title=None, item_type='comment', url=None, parent=25253076, text='Three or four levels is most likely too deep.')
+Item(by='rbanffy', descendants=None, kids=[25253898], score=None, time=1606744105, title=None, item_type='comment', url=None, parent=25253076, text='Three or four levels is most likely too deep.')
