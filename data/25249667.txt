@@ -1,1 +1,1 @@
-Item(by='jhabdas', descendants=1, kids=[25249999], score=3, time=1606697600, title='K8s on macOS with K3s, K3d and Rancher', item_type='story', url='https://habd.as/post/kubernetes-macos-k3s-k3d-rancher/', parent=None, text=None)
+Item(by='jhabdas', descendants=2, kids=[25249999], score=3, time=1606697600, title='K8s on macOS with K3s, K3d and Rancher', item_type='story', url='https://habd.as/post/kubernetes-macos-k3s-k3d-rancher/', parent=None, text=None)

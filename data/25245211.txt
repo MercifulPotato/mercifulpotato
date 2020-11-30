@@ -1,1 +1,1 @@
-Item(by='tdevito', descendants=None, kids=None, score=None, time=1606659345, title=None, item_type='comment', url=None, parent=25244435, text='It does appear that YC is no longer relevant the way they were 10 years ago.')
+Item(by='tdevito', descendants=None, kids=[25250905], score=None, time=1606659345, title=None, item_type='comment', url=None, parent=25244435, text='It does appear that YC is no longer relevant the way they were 10 years ago.')

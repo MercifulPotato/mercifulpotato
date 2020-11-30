@@ -1,1 +1,1 @@
-Item(by='trianglem', descendants=None, kids=None, score=None, time=1606701590, title=None, item_type='comment', url=None, parent=25249860, text='Burroughs is larger than life precisely because of things of this nature. He’s partially an evil protagonist.')
+Item(by='trianglem', descendants=None, kids=[25250251], score=None, time=1606701590, title=None, item_type='comment', url=None, parent=25249860, text='Burroughs is larger than life precisely because of things of this nature. He’s partially an evil protagonist.')

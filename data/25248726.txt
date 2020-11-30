@@ -1,1 +1,1 @@
-Item(by='simonebrunozzi', descendants=None, kids=None, score=None, time=1606689326, title=None, item_type='comment', url=None, parent=25248025, text='Brakes! Probably a worse problem than tyres.')
+Item(by='simonebrunozzi', descendants=None, kids=[25250344], score=None, time=1606689326, title=None, item_type='comment', url=None, parent=25248025, text='Brakes! Probably a worse problem than tyres.')

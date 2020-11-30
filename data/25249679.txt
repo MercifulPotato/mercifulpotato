@@ -1,1 +1,1 @@
-Item(by='cwwc', descendants=0, kids=None, score=9, time=1606697763, title='Nike and Coca-Cola Lobby Against Xinjiang Forced Labor Bil', item_type='story', url='https://www.nytimes.com/2020/11/29/business/economy/nike-coca-cola-xinjiang-forced-labor-bill.html', parent=None, text=None)
+Item(by='cwwc', descendants=1, kids=[25250143], score=14, time=1606697763, title='Nike and Coca-Cola Lobby Against Xinjiang Forced Labor Bil', item_type='story', url='https://www.nytimes.com/2020/11/29/business/economy/nike-coca-cola-xinjiang-forced-labor-bill.html', parent=None, text=None)

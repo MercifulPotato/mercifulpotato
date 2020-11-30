@@ -1,0 +1,1 @@
+Item(by='dijit', descendants=None, kids=None, score=None, time=1606719086, title=None, item_type='comment', url=None, parent=25246071, text='Seems GKE uses calico, though not with ipv6 (as GCP doesn&#x27;t support it internally), so at least this networking solution has some buy-in. (broadly speaking)')

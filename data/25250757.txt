@@ -1,0 +1,1 @@
+Item(by='mauroc8', descendants=None, kids=None, score=None, time=1606710709, title=None, item_type='comment', url=None, parent=25250738, text='Also, what do you mean by &quot;chainable interface&quot;? I was expecting a `flatMap` method when I read that (luckily I was wrong, it would be a bad idea).')

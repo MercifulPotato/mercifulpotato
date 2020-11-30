@@ -1,1 +1,1 @@
-Item(by='oblio', descendants=None, kids=None, score=None, time=1606664681, title=None, item_type='comment', url=None, parent=25244238, text='Yeah, but his argument was directly coming from a C&#x2F;C++ perspective, which makes it at least a bit... strange.')
+Item(by='oblio', descendants=None, kids=[25251415], score=None, time=1606664681, title=None, item_type='comment', url=None, parent=25244238, text='Yeah, but his argument was directly coming from a C&#x2F;C++ perspective, which makes it at least a bit... strange.')

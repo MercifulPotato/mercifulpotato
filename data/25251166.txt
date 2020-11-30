@@ -1,0 +1,1 @@
+Item(by='liendolucas', descendants=None, kids=[25251590, 25251241], score=None, time=1606716726, title=None, item_type='comment', url=None, parent=25251140, text='Sure, but that depends on a browser (something that I really dislike). I was thinking more about building something completely from scratch (near zero dependencies) and low footprint (maybe a tiny 3D C engine).')

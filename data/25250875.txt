@@ -1,0 +1,1 @@
+Item(by='noisy_boy', descendants=None, kids=None, score=None, time=1606712347, title=None, item_type='comment', url=None, parent=25244964, text='To best of my knowledge, hardlinks do not work across filesystems; softlinks do not have any such issues. Orphan links can be detected and cleared separately.')

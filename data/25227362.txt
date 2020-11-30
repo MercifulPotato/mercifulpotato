@@ -1,1 +1,1 @@
-Item(by='untech', descendants=0, kids=None, score=1, time=1606472964, title='Add variables to Python traceback', item_type='story', url='https://github.com/andy-landy/traceback_with_variables', parent=None, text=None)
+Item(by='untech', descendants=2, kids=[25251236, 25251164], score=27, time=1606472964, title='Add variables to Python traceback', item_type='story', url='https://github.com/andy-landy/traceback_with_variables', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='rubicon33', descendants=None, kids=None, score=None, time=1606698878, title=None, item_type='comment', url=None, parent=25246828, text='I have a completely different problem - I almost never dream.  If I do, they&#x27;re very short, and very difficult to remember.')
+Item(by='rubicon33', descendants=None, kids=[25250643, 25251139], score=None, time=1606698878, title=None, item_type='comment', url=None, parent=25246828, text='I have a completely different problem - I almost never dream.  If I do, they&#x27;re very short, and very difficult to remember.')

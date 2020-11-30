@@ -1,1 +1,1 @@
-Item(by='shadowtime2000', descendants=0, kids=None, score=2, time=1606557965, title='Show HN: Luciex – A small simplistic state management library', item_type='story', url='https://github.com/lucialand/luciex', parent=None, text=None)
+Item(by='shadowtime2000', descendants=5, kids=[25250191, 25250199, 25250738], score=12, time=1606557965, title='Show HN: Luciex – A small simplistic state management library', item_type='story', url='https://github.com/lucialand/luciex', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='p1necone', descendants=None, kids=None, score=None, time=1606704559, title=None, item_type='comment', url=None, parent=25249421, text='RAM is not the same kind of resource as electricity. An application that uses twice as much RAM is not twice as expensive to run.')
+Item(by='p1necone', descendants=None, kids=[25250492], score=None, time=1606704559, title=None, item_type='comment', url=None, parent=25249421, text='RAM is not the same kind of resource as electricity. An application that uses twice as much RAM is not twice as expensive to run.')

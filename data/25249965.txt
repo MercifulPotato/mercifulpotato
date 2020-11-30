@@ -1,0 +1,1 @@
+Item(by='kayodelycaon', descendants=None, kids=[25250788], score=None, time=1606700857, title=None, item_type='comment', url=None, parent=25249802, text='The problem with Apache was people using the default config on small servers. Forking per request without proper limits on a small server? Zero to Swap at a hundred requests per minute. Less if it was using mod_php.')

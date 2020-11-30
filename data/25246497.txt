@@ -1,1 +1,1 @@
-Item(by='bamboleo', descendants=None, kids=None, score=None, time=1606670795, title=None, item_type='comment', url=None, parent=25244185, text='From the page you linked: Issue 789719, that’s why.')
+Item(by='bamboleo', descendants=None, kids=[25250312], score=None, time=1606670795, title=None, item_type='comment', url=None, parent=25244185, text='From the page you linked: Issue 789719, that’s why.')

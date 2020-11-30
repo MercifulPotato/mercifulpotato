@@ -1,1 +1,1 @@
-Item(by='fanf2', descendants=21, kids=[25248615, 25249103, 25249532, 25248616, 25248763, 25248631], score=83, time=1606477388, title='An Introduction to Geometric Algebra (2012)', item_type='story', url='https://arxiv.org/abs/1205.5935', parent=None, text=None)
+Item(by='fanf2', descendants=32, kids=[25250912, 25248615, 25249103, 25251517, 25250906, 25249532, 25248616, 25248763, 25248631], score=125, time=1606477388, title='Geometric Algebra (2012)', item_type='story', url='https://arxiv.org/abs/1205.5935', parent=None, text=None)

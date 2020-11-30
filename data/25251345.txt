@@ -1,0 +1,1 @@
+Item(by='bamboleo', descendants=None, kids=None, score=None, time=1606719564, title=None, item_type='comment', url=None, parent=25250332, text='I’ve done it too, but wget is pretty “dumb” and will try to save files as main.js?v=1.2.3. Also wget doesn’t support everything so you have to carry over some files manually.')

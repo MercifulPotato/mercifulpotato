@@ -1,1 +1,1 @@
-Item(by='escape_goat', descendants=None, kids=None, score=None, time=1606701022, title=None, item_type='comment', url=None, parent=25249067, text='I think we all remember which group of people green-lit Soylent.')
+Item(by='escape_goat', descendants=None, kids=[25251450, 25250666], score=None, time=1606701022, title=None, item_type='comment', url=None, parent=25249067, text='I think we all remember which group of people green-lit Soylent.')

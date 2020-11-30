@@ -1,0 +1,1 @@
+Item(by='anon776', descendants=None, kids=None, score=None, time=1606704454, title=None, item_type='comment', url=None, parent=25247211, text='Quick tip.<p>%gpg -c somefile.txt<p>Enter a passphrase.<p>Boom you have somefile.txt.gpg, no need to deal with keys, just do not forget your passphrase.')

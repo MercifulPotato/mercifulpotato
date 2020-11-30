@@ -1,1 +1,1 @@
-Item(by='dastx', descendants=None, kids=None, score=None, time=1606701192, title=None, item_type='comment', url=None, parent=25249667, text='This isn&#x27;t K8s on macOS though, this is just using Docker for Mac, which runs Docker in a VM.')
+Item(by='dastx', descendants=None, kids=[25250179], score=None, time=1606701192, title=None, item_type='comment', url=None, parent=25249667, text='This isn&#x27;t K8s on macOS though, this is just using Docker for Mac, which runs Docker in a VM.')

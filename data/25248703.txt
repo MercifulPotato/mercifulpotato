@@ -1,1 +1,1 @@
-Item(by='asdf333', descendants=None, kids=None, score=None, time=1606689094, title=None, item_type='comment', url=None, parent=25248553, text='you do not sound like you have kids. if you do, how do you possibly achieve this with kids.')
+Item(by='asdf333', descendants=None, kids=[25251204], score=None, time=1606689094, title=None, item_type='comment', url=None, parent=25248553, text='you do not sound like you have kids. if you do, how do you possibly achieve this with kids.')

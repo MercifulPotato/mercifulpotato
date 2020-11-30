@@ -1,1 +1,1 @@
-Item(by='chii', descendants=0, kids=None, score=1, time=1606701120, title='Stuxnet-Source', item_type='story', url='https://github.com/loneicewolf/Stuxnet-Source', parent=None, text=None)
+Item(by='chii', descendants=1, kids=[25250170], score=2, time=1606701120, title='Stuxnet-Source', item_type='story', url='https://github.com/loneicewolf/Stuxnet-Source', parent=None, text=None)

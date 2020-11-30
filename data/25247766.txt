@@ -1,1 +1,1 @@
-Item(by='0_____0', descendants=None, kids=None, score=None, time=1606681565, title=None, item_type='comment', url=None, parent=25246937, text='Is there a massive issue with fatigue-related fracture failure of Pb-free solder joints that we need to fix to ensure the future of humanity?')
+Item(by='0_____0', descendants=None, kids=[25250415], score=None, time=1606681565, title=None, item_type='comment', url=None, parent=25246937, text='Is there a massive issue with fatigue-related fracture failure of Pb-free solder joints that we need to fix to ensure the future of humanity?')

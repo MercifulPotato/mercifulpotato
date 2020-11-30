@@ -1,1 +1,1 @@
-Item(by='0max', descendants=None, kids=None, score=None, time=1606703201, title=None, item_type='comment', url=None, parent=25235772, text='I wonder how much human powered bicycles contribute to the microplastics generated?')
+Item(by='0max', descendants=None, kids=[25250631], score=None, time=1606703201, title=None, item_type='comment', url=None, parent=25235772, text='I wonder how much human powered bicycles contribute to the microplastics generated?')
