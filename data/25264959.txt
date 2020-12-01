@@ -1,1 +1,1 @@
-Item(by='tootie', descendants=None, kids=None, score=None, time=1606829794, title=None, item_type='comment', url=None, parent=25262673, text='They do this very intentionally. If they wanted to be available on AWS they&#x27;d allow OSX to run in a VM which they don&#x27;t.')
+Item(by='tootie', descendants=None, kids=[25266320], score=None, time=1606829794, title=None, item_type='comment', url=None, parent=25262673, text='They do this very intentionally. If they wanted to be available on AWS they&#x27;d allow OSX to run in a VM which they don&#x27;t.')

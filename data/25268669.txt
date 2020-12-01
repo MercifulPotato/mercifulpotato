@@ -1,0 +1,1 @@
+Item(by='stinos', descendants=None, kids=None, score=None, time=1606849988, title=None, item_type='comment', url=None, parent=25268359, text='In combination with the ChocolateyGet provider for Powershell this works pretty well actually. It&#x27;s not apt-get or similar, but it does get rid of the point-click installation for quite a lot of common software.')

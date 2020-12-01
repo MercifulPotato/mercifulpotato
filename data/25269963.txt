@@ -1,0 +1,1 @@
+Item(by='fiddlerwoaroof', descendants=None, kids=[25270237, 25270043], score=None, time=1606857215, title=None, item_type='comment', url=None, parent=25267662, text='It sounds to me that “JIT” here just means “not a batch compiler”? This seems to me to be more like the way Common Lisp compilers work than what I think of a JITs')

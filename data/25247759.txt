@@ -1,1 +1,1 @@
-Item(by='azhenley', descendants=0, kids=None, score=4, time=1606681496, title='Back That ‘S’ Up: Moving to RISC-V’s Supervisor Mode', item_type='story', url='https://blog.stephenmarz.com/2020/11/23/back-that-s-up/', parent=None, text=None)
+Item(by='azhenley', descendants=7, kids=[25267930], score=27, time=1606681496, title='Back That ‘S’ Up: Moving to RISC-V’s Supervisor Mode', item_type='story', url='https://blog.stephenmarz.com/2020/11/23/back-that-s-up/', parent=None, text=None)

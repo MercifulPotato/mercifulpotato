@@ -1,0 +1,1 @@
+Item(by='cft', descendants=None, kids=None, score=None, time=1606848446, title=None, item_type='comment', url=None, parent=25267651, text='I host a web app that has 200KB pages and reaches 3.5Gbps peak bandwidth in two racks in an expensive datacenter. The lease plus bandwidth is about 1&#x2F;5 to 1&#x2F;7 the cost of AWS.')

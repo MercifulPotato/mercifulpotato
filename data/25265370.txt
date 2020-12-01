@@ -1,0 +1,1 @@
+Item(by='da39a3ee', descendants=None, kids=None, score=None, time=1606832513, title=None, item_type='comment', url=None, parent=25264887, text='Don’t the linear algebra libraries used by numpy (blas and lapack) use fortran? That’s the case for R, I thought it was for numpy also.')

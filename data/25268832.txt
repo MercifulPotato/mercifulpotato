@@ -1,0 +1,1 @@
+Item(by='tybit', descendants=None, kids=None, score=None, time=1606850955, title=None, item_type='comment', url=None, parent=25267637, text='The numbers you link don’t support your ranking, unless you’re specifically ranking by cold start alone.\nEven then it doesn’t make sense to group Python and Node but not Go, as Node and Go are significantly closer than Node to Python.')

@@ -1,0 +1,1 @@
+Item(by='WrtCdEvrydy', descendants=None, kids=[25268850], score=None, time=1606849836, title=None, item_type='comment', url=None, parent=25268580, text='To be honest, if it&#x27;s a static site and you just need a little bit of compute... Cloudfront in front of S3 and lambda is probably the cheapest way to give someone a basic website (just a contact form and nothing else)')

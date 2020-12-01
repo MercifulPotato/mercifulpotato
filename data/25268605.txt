@@ -1,0 +1,1 @@
+Item(by='tnolet', descendants=None, kids=[25268743], score=None, time=1606849634, title=None, item_type='comment', url=None, parent=25267893, text='You don’t go for AWS for EC2.<p>You go for AWS because in half a day you can whip up a secure, managed and auto scaling app using their proprietary services like SQS, S3, Lambda, Kinesis, Dynamo etc.')

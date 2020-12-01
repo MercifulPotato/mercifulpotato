@@ -1,0 +1,1 @@
+Item(by='ChrisSD', descendants=None, kids=[25269021], score=None, time=1606839533, title=None, item_type='comment', url=None, parent=25264798, text='I tried your program with MSVC using the following command:<p><pre><code>    cl small2.c &#x2F;MD &#x2F;link &#x2F;entry:_start &#x2F;subsystem:CONSOLE kernel32.lib\n</code></pre>\nIt&#x27;s 5kb.')

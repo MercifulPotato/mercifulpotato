@@ -1,0 +1,1 @@
+Item(by='ChrisSD', descendants=None, kids=[25269838], score=None, time=1606845090, title=None, item_type='comment', url=None, parent=25266892, text='The Win32 loader will always load kernel32 no matter what. You don&#x27;t even need it in your import table. It&#x27;s just a matter of finding where it&#x27;s loaded and calling into the right functions.')

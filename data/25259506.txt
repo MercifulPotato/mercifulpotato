@@ -1,1 +1,1 @@
-Item(by='felixr', descendants=0, kids=None, score=3, time=1606773095, title='Buxton Collection: 35 years of input devices', item_type='story', url='https://www.microsoft.com/buxtoncollection/default.aspx', parent=None, text=None)
+Item(by='felixr', descendants=4, kids=[25265607, 25264888, 25266048], score=20, time=1606773095, title='Buxton Collection: 35 years of input devices', item_type='story', url='https://www.microsoft.com/buxtoncollection/default.aspx', parent=None, text=None)

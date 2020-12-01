@@ -1,0 +1,1 @@
+Item(by='yters', descendants=None, kids=None, score=None, time=1606847835, title=None, item_type='comment', url=None, parent=25253488, text='Is this immune to things like adversarial examples?  E.g. will we get a situation where we flip one nucleotide or amino acid, and suddenly AlphaFold is making completely incorrect predictions?')

@@ -1,0 +1,1 @@
+Item(by='tshanmu', descendants=None, kids=[25266824], score=None, time=1606840368, title=None, item_type='comment', url=None, parent=25266626, text='May be move to immutable configs using nix? That way provision a latest version and migrate your config and store data separately?')

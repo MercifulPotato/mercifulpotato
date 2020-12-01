@@ -1,0 +1,1 @@
+Item(by='enriquto', descendants=None, kids=None, score=None, time=1606829846, title=None, item_type='comment', url=None, parent=25264671, text='Aren&#x27;t both sentences synonymous?  The problem is that the checking a condition &quot;x&lt;0&quot; can take an arbitrarily long time to check, and maybe even be undecidable.')

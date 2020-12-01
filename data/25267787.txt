@@ -1,0 +1,1 @@
+Item(by='mjb', descendants=None, kids=[25267806], score=None, time=1606845645, title=None, item_type='comment', url=None, parent=25267748, text='You don&#x27;t need to build from a Lambda specific base image - you can use (nearly) any base image you choose. Your application just needs to implement the Lambda runtime API, which we provide clients for in multiple languages.')

@@ -1,0 +1,1 @@
+Item(by='jedberg', descendants=None, kids=[25269800, 25267690], score=None, time=1606844494, title=None, item_type='comment', url=None, parent=25267375, text='If you&#x27;re running it continuously for a year, then you should probably be using a reserved instance and not lambda.  Lambda is for short bursts, not 1 year of continuous use.')

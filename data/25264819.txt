@@ -1,1 +1,1 @@
-Item(by='Noxmiles', descendants=None, kids=None, score=None, time=1606828504, title=None, item_type='comment', url=None, parent=25264555, text='Q: Now, 007, do try to return this equipment in pristine condition.<p>007: I&#x27;ll do my best.<p>Q: That&#x27;s what I was afraid of.')
+Item(by='Noxmiles', descendants=None, kids=[25267059], score=None, time=1606828504, title=None, item_type='comment', url=None, parent=25264555, text='Q: Now, 007, do try to return this equipment in pristine condition.<p>007: I&#x27;ll do my best.<p>Q: That&#x27;s what I was afraid of.')

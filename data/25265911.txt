@@ -1,0 +1,1 @@
+Item(by='alexliu518', descendants=None, kids=None, score=None, time=1606836154, title=None, item_type='comment', url=None, parent=25263124, text='It can be regarded as an ordinary docker application, and k8s is recommended. Postgres can split table by listid, but the database is not recommended to be installed with docker<p>Concurrency has not been tested yet')

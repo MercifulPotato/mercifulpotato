@@ -1,0 +1,1 @@
+Item(by='qvrjuec', descendants=None, kids=[25268392], score=None, time=1606848001, title=None, item_type='comment', url=None, parent=25267918, text='Limitations on hardware one can run a lambda function on and constraints on execution time mean they are &quot;underpowered&quot; compared to other options, like ECS Fargate tasks.')

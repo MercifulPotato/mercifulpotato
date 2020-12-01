@@ -1,0 +1,1 @@
+Item(by='alejohausner', descendants=None, kids=None, score=None, time=1606847693, title=None, item_type='comment', url=None, parent=25266812, text='Very nice.  I like it that ray tracing comes first: all the problems of lighting, shadows are resolved in a more natural way.  Rasterization is a bit less intuitive, so it&#x27;s good to present it later.')

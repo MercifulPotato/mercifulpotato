@@ -1,0 +1,1 @@
+Item(by='throwaway894345', descendants=None, kids=None, score=None, time=1606848549, title=None, item_type='comment', url=None, parent=25268275, text='Does Fargate allow you to run on beefier hardware? I know you can bring your own hardware with vanilla ECS. I’m aware of the execution time constraints (15 minutes), but I thought we were talking about 60s?')

@@ -1,0 +1,1 @@
+Item(by='holstvoogd', descendants=None, kids=None, score=None, time=1606844425, title=None, item_type='comment', url=None, parent=25266923, text='I think so, looks like a kernel issue more than an ls issue. The kernel should be preventing ls from accessing that metadata')

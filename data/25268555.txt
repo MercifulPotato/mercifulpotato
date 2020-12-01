@@ -1,0 +1,1 @@
+Item(by='jeffcarter', descendants=None, kids=None, score=None, time=1606849336, title=None, item_type='comment', url=None, parent=25268245, text='For raw compute, Fargate is ~1&#x2F;2 the cost of Lambda. But you&#x27;d have to orchestrate the launch yourself. It could be worth it though depending on your workload')

@@ -1,1 +1,1 @@
-Item(by='rocgf', descendants=None, kids=None, score=None, time=1606831329, title=None, item_type='comment', url=None, parent=25264811, text='Are we starting with this even here? Is there really no corner of the Internet that&#x27;s immune to this bullcrap?')
+Item(by='rocgf', descendants=None, kids=[25269953], score=None, time=1606831329, title=None, item_type='comment', url=None, parent=25264811, text='Are we starting with this even here? Is there really no corner of the Internet that&#x27;s immune to this bullcrap?')

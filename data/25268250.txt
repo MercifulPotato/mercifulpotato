@@ -1,0 +1,1 @@
+Item(by='eb0la', descendants=None, kids=None, score=None, time=1606847886, title=None, item_type='comment', url=None, parent=25267211, text='So this confirms there is a lot of competition in the serverless space: aws lambda, Azure cloud functions, Google cloud functions, serverless containers. Like knative, Google cloud run...')

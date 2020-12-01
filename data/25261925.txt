@@ -1,1 +1,1 @@
-Item(by='everyone', descendants=None, kids=None, score=None, time=1606792783, title=None, item_type='comment', url=None, parent=25261800, text='Space X have never landed any rockets from orbit. Only their 1st stage has landed, which mainly goes up, its nowhere near orbital velocity.')
+Item(by='everyone', descendants=None, kids=[25267868], score=None, time=1606792783, title=None, item_type='comment', url=None, parent=25261800, text='Space X have never landed any rockets from orbit. Only their 1st stage has landed, which mainly goes up, its nowhere near orbital velocity.')

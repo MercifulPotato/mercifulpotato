@@ -1,0 +1,1 @@
+Item(by='touisteur', descendants=None, kids=None, score=None, time=1606859279, title=None, item_type='comment', url=None, parent=25268388, text='Can&#x27;t you do it with a foreign data wrapper or the equivalent in mysql?  Maybe keep your mysql-specific queries as views in mysql and call them from pg?<p>Just spitballing, sorry, I love FDWs.')

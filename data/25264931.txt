@@ -1,0 +1,1 @@
+Item(by='marktangotango', descendants=None, kids=None, score=None, time=1606829501, title=None, item_type='comment', url=None, parent=25263556, text='Concretely, it’s because an int is generally defined as 4 bytes and with a sign bit the remaining 31 can have values 2^31.')

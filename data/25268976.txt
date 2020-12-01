@@ -1,0 +1,1 @@
+Item(by='julianwood', descendants=None, kids=None, score=None, time=1606851757, title=None, item_type='comment', url=None, parent=25267800, text='Yes, with the new container image support, you can use the same docker or ECR images to build, and test your functions locally, and run them on Lambda. Consistent images is super useful.')

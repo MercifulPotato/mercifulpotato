@@ -1,0 +1,1 @@
+Item(by='andrejk', descendants=None, kids=[25269650], score=None, time=1606844098, title=None, item_type='comment', url=None, parent=25267101, text='You can run WSL on any version of Windows (including Home Edition). Docker can also use WSL2 as its backend, so I rarely need to run VMs on my Windows dev machines anymore.')

@@ -1,1 +1,1 @@
-Item(by='Thorrez', descendants=None, kids=None, score=None, time=1606806125, title=None, item_type='comment', url=None, parent=25261986, text='&gt; Hindenburg Research<p>Is their company dedicated to watching&#x2F;causing others to go up in flames?')
+Item(by='Thorrez', descendants=None, kids=[25268802], score=None, time=1606806125, title=None, item_type='comment', url=None, parent=25261986, text='&gt; Hindenburg Research<p>Is their company dedicated to watching&#x2F;causing others to go up in flames?')

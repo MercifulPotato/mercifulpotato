@@ -1,1 +1,1 @@
-Item(by='soco', descendants=None, kids=None, score=None, time=1606816317, title=None, item_type='comment', url=None, parent=25263614, text='Money may not buy happiness, but I&#x27;d rather cry in a Jaguar than on a bus. (Françoise Sagan)')
+Item(by='soco', descendants=None, kids=[25265999, 25267880], score=None, time=1606816317, title=None, item_type='comment', url=None, parent=25263614, text='Money may not buy happiness, but I&#x27;d rather cry in a Jaguar than on a bus. (Françoise Sagan)')

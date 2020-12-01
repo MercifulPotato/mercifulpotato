@@ -1,1 +1,1 @@
-Item(by='playpause', descendants=None, kids=None, score=None, time=1606825393, title=None, item_type='comment', url=None, parent=25264357, text='“The false premise that your argument relies on...” is best followed by pointing out a false premise, otherwise it’s a bit obnoxious.')
+Item(by='playpause', descendants=None, kids=[25266610], score=None, time=1606825393, title=None, item_type='comment', url=None, parent=25264357, text='“The false premise that your argument relies on...” is best followed by pointing out a false premise, otherwise it’s a bit obnoxious.')

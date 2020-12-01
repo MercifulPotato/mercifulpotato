@@ -1,0 +1,1 @@
+Item(by='gabipurcaru', descendants=None, kids=None, score=None, time=1606844415, title=None, item_type='comment', url=None, parent=25267402, text='same. I went through the trouble of implementing my function in Rust (Rocket), and it&#x27;s actually quite slow because (a) startup is slow and (b) async&#x2F;await is still pretty painful to use so I&#x27;m blocking on IO')

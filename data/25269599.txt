@@ -1,0 +1,1 @@
+Item(by='jcun4128', descendants=None, kids=None, score=None, time=1606855236, title=None, item_type='comment', url=None, parent=25266914, text='&gt; Camera: stills only<p>Are you saying it can&#x27;t record video? Curious what kind of stuff you&#x27;ve installed. I&#x27;m assuming I can do `$dpkg -i package.deb` and it will work?')

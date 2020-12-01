@@ -1,0 +1,1 @@
+Item(by='yeldarb', descendants=None, kids=[25267292, 25267547, 25268099, 25267727, 25267354, 25267639, 25267344, 25267309], score=None, time=1606843185, title=None, item_type='comment', url=None, parent=25267029, text='Anyone know why there&#x27;s a hard limit of 15 minutes for Lambda (and 9 minutes for Google Cloud Functions)? Still seems really weird to me.')

@@ -1,1 +1,1 @@
-Item(by='integricho', descendants=None, kids=None, score=None, time=1606821483, title=None, item_type='comment', url=None, parent=25263904, text='I also can&#x27;t help but wonder, since when is go considered a performance oriented language :)')
+Item(by='integricho', descendants=None, kids=[25267117], score=None, time=1606821483, title=None, item_type='comment', url=None, parent=25263904, text='I also can&#x27;t help but wonder, since when is go considered a performance oriented language :)')

@@ -1,1 +1,1 @@
-Item(by='pavlov', descendants=None, kids=[25250322, 25247455, 25247837, 25247865], score=None, time=1606678092, title=None, item_type='comment', url=None, parent=25247272, text='The Mueller investigation indicted 34 people.')
+Item(by='pavlov', descendants=None, kids=[25250322, 25247455, 25247865, 25247837], score=None, time=1606678092, title=None, item_type='comment', url=None, parent=25247272, text='The Mueller investigation indicted 34 people.')

@@ -1,0 +1,1 @@
+Item(by='riquito', descendants=None, kids=None, score=None, time=1606848775, title=None, item_type='comment', url=None, parent=25267758, text='&gt; looks like these lambdas have to derive from a specific set of Lambda base images<p>About that, you don&#x27;t need to use their base images, &quot;You can deploy your own arbitrary base images to Lambda&quot;')

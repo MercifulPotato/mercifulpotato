@@ -1,0 +1,1 @@
+Item(by='bpodgursky', descendants=None, kids=None, score=None, time=1606849827, title=None, item_type='comment', url=None, parent=25268580, text='ECS (potentially on Fargate) would be a reasonable stack for those tasks, given the 15 minute limit on Lambdas.')

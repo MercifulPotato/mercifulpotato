@@ -1,0 +1,1 @@
+Item(by='mcountryman', descendants=None, kids=None, score=None, time=1606833418, title=None, item_type='comment', url=None, parent=25265191, text='Just for fun, the compiled rust exe has 480 non-zero bytes, the zig exe had 512 bytes.')

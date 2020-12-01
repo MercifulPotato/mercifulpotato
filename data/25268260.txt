@@ -1,0 +1,1 @@
+Item(by='staticassertion', descendants=None, kids=None, score=None, time=1606847932, title=None, item_type='comment', url=None, parent=25268223, text='Yep, but I <i>prefer</i> to care about manually fetching data from SQS. It&#x27;s a weird system, but due to our data model there are many benefits to processing as many messages in a given lambda as possible.')

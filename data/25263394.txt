@@ -1,1 +1,1 @@
-Item(by='illyism', descendants=None, kids=None, score=None, time=1606810187, title=None, item_type='comment', url=None, parent=25252271, text='Who&#x27;s matching the donations?')
+Item(by='illyism', descendants=None, kids=[25268415], score=None, time=1606810187, title=None, item_type='comment', url=None, parent=25252271, text='Who&#x27;s matching the donations?')

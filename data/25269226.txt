@@ -1,0 +1,1 @@
+Item(by='sparrc', descendants=None, kids=None, score=None, time=1606853009, title=None, item_type='comment', url=None, parent=25266950, text='PSA: If you have a personal AWS account and you want some custom url path for your public images (like public.ecr.aws&#x2F;sparrc&#x2F;myimage) then login and create your public registry and custom alias ASAP.')

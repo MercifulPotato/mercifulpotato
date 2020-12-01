@@ -1,1 +1,1 @@
-Item(by='nisa', descendants=None, kids=None, score=None, time=1606816027, title=None, item_type='comment', url=None, parent=25263398, text='or just use openwrt.org - there is x86&#x2F;x64 and uefi support and it should only need 4-5mbyte with squashfs root :)')
+Item(by='nisa', descendants=None, kids=[25266642], score=None, time=1606816027, title=None, item_type='comment', url=None, parent=25263398, text='or just use openwrt.org - there is x86&#x2F;x64 and uefi support and it should only need 4-5mbyte with squashfs root :)')

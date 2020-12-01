@@ -1,0 +1,1 @@
+Item(by='yowlingcat', descendants=None, kids=None, score=None, time=1606845532, title=None, item_type='comment', url=None, parent=25267553, text='Yup! In general, I prefer Fargate over Lambda because of cold starts. It&#x27;s a little bit more management overhead over Lambda and it is a bit lower level. But I think it&#x27;s worth it.')

@@ -1,0 +1,1 @@
+Item(by='alexellisuk', descendants=0, kids=None, score=1, time=1606840125, title='Docker support in the kubelet is now deprecated and will be removed', item_type='story', url='https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md#deprecation', parent=None, text=None)

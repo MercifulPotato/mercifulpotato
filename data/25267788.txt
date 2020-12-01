@@ -1,0 +1,1 @@
+Item(by='roland35', descendants=None, kids=None, score=None, time=1606845647, title=None, item_type='comment', url=None, parent=25267405, text='Lambda has a 15 minute limit, I&#x27;m not sure exactly how it compares to ec2 but for a low duty cycle application it still makes sense!  It is also pretty easy to combine a lambda to SNS or SQS')

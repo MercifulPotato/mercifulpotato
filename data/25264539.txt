@@ -1,1 +1,1 @@
-Item(by='SSLy', descendants=None, kids=None, score=None, time=1606825237, title=None, item_type='comment', url=None, parent=25264107, text='Time for a European startup to shine!')
+Item(by='SSLy', descendants=None, kids=[25269107], score=None, time=1606825237, title=None, item_type='comment', url=None, parent=25264107, text='Time for a European startup to shine!')

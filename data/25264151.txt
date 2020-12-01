@@ -1,1 +1,1 @@
-Item(by='HPsquared', descendants=None, kids=None, score=None, time=1606819994, title=None, item_type='comment', url=None, parent=25262750, text='That&#x27;s an improvement on ITER, which weighs as much as a WW1 battleship.')
+Item(by='HPsquared', descendants=None, kids=[25265179], score=None, time=1606819994, title=None, item_type='comment', url=None, parent=25262750, text='That&#x27;s an improvement on ITER, which weighs as much as a WW1 battleship.')

@@ -1,1 +1,1 @@
-Item(by='p4bl0', descendants=None, kids=None, score=None, time=1606829982, title=None, item_type='comment', url=None, parent=25264515, text='Is is able to run Android apps? Like Signal for example? Or maybe the Signal desktop app works?')
+Item(by='p4bl0', descendants=None, kids=[25266082, 25268239], score=None, time=1606829982, title=None, item_type='comment', url=None, parent=25264515, text='Is is able to run Android apps? Like Signal for example? Or maybe the Signal desktop app works?')

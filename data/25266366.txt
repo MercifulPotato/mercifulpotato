@@ -1,0 +1,1 @@
+Item(by='m463', descendants=None, kids=[25267040], score=None, time=1606838819, title=None, item_type='comment', url=None, parent=25266098, text='&gt; Does anyone know whether it&#x27;s possible to truly statically link an entire Linux install<p>I think if you give busybox enough time, it might happen.<p>That&#x27;s if systemd doesn&#x27;t get there first, of course...')
