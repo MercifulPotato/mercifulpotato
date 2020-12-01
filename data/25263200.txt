@@ -1,1 +1,1 @@
-Item(by='mattmanser', descendants=None, kids=None, score=None, time=1606807866, title=None, item_type='comment', url=None, parent=25263105, text='<i>The fatality rate was high in vitamin D deficient (21% vs 3.1%).</i>')
+Item(by='mattmanser', descendants=None, kids=[25263862, 25263552], score=None, time=1606807866, title=None, item_type='comment', url=None, parent=25263105, text='<i>The fatality rate was high in vitamin D deficient (21% vs 3.1%).</i>')

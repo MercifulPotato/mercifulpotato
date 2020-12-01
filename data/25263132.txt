@@ -1,1 +1,1 @@
-Item(by='wonderfuly', descendants=None, kids=None, score=None, time=1606806891, title=None, item_type='comment', url=None, parent=25261004, text='What conflict resolving algorithm do you use? OT or CRDT? I didn&#x27;t see it mentioned anywhere')
+Item(by='wonderfuly', descendants=None, kids=[25265190], score=None, time=1606806891, title=None, item_type='comment', url=None, parent=25261004, text='What conflict resolving algorithm do you use? OT or CRDT? I didn&#x27;t see it mentioned anywhere')

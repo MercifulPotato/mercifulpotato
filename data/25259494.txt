@@ -1,1 +1,1 @@
-Item(by='ksk', descendants=None, kids=[25260910], score=None, time=1606773043, title=None, item_type='comment', url=None, parent=25259061, text='Components have flaws, or they break down over time, and soldering components hampers repair and reuse.')
+Item(by='ksk', descendants=None, kids=[25260910, 25263846], score=None, time=1606773043, title=None, item_type='comment', url=None, parent=25259061, text='Components have flaws, or they break down over time, and soldering components hampers repair and reuse.')

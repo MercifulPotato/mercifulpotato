@@ -1,1 +1,1 @@
-Item(by='andrenth', descendants=2, kids=[25262328, 25262864], score=10, time=1606792208, title='The Wuhan Files', item_type='story', url='https://edition.cnn.com/2020/11/30/asia/wuhan-china-covid-intl/index.html', parent=None, text=None)
+Item(by='andrenth', descendants=3, kids=[25262328, 25262864], score=10, time=1606792208, title='The Wuhan Files', item_type='story', url='https://edition.cnn.com/2020/11/30/asia/wuhan-china-covid-intl/index.html', parent=None, text=None)

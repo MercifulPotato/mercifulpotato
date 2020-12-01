@@ -1,1 +1,1 @@
-Item(by='nottorp', descendants=None, kids=None, score=None, time=1606728875, title=None, item_type='comment', url=None, parent=25249819, text='I&#x27;m not talking about 12 cm fans on the cpu radiator, I&#x27;m talking about large fans on the <i>case</i>.')
+Item(by='nottorp', descendants=None, kids=[25264333], score=None, time=1606728875, title=None, item_type='comment', url=None, parent=25249819, text='I&#x27;m not talking about 12 cm fans on the cpu radiator, I&#x27;m talking about large fans on the <i>case</i>.')

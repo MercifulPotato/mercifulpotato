@@ -1,0 +1,1 @@
+Item(by='cozzyd', descendants=None, kids=None, score=None, time=1606819181, title=None, item_type='comment', url=None, parent=25261629, text='python setup.py bdist_rpm is also useful (although it&#x27;s quite naive, doesn&#x27;t always do the right thing and you&#x27;d usually want to add dependencies).')

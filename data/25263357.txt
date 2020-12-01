@@ -1,0 +1,1 @@
+Item(by='patates', descendants=None, kids=None, score=None, time=1606809712, title=None, item_type='comment', url=None, parent=25259936, text='When doing recursion (Postgres recursive CTE) I keep a path on the latest edges and check to see new edges aren&#x27;t already visited, so same nodes can appear in multiple branches but not on the same branch. Works flawlessly.')

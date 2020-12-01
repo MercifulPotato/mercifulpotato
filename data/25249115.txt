@@ -1,1 +1,1 @@
-Item(by='tptacek', descendants=None, kids=None, score=None, time=1606692568, title=None, item_type='comment', url=None, parent=25248220, text='Things got worse after 2015, not better, for PGP.')
+Item(by='tptacek', descendants=None, kids=[25264174], score=None, time=1606692568, title=None, item_type='comment', url=None, parent=25248220, text='Things got worse after 2015, not better, for PGP.')

@@ -1,0 +1,1 @@
+Item(by='varjag', descendants=None, kids=None, score=None, time=1606819416, title=None, item_type='comment', url=None, parent=25263624, text='We&#x27;ve had 2.6 and 3.x series ARM32 images under 2Mb on our older products. 4.x is around 6Mb indeed, but these are also on hw with more peripherals.')

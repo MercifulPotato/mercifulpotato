@@ -1,1 +1,1 @@
-Item(by='anonytrary', descendants=None, kids=[25259968], score=None, time=1606775816, title=None, item_type='comment', url=None, parent=25259369, text='Graph doesn&#x27;t need to cycle to hit a node twice. Good code does not visit the same node twice.')
+Item(by='anonytrary', descendants=None, kids=[25263357, 25259968], score=None, time=1606775816, title=None, item_type='comment', url=None, parent=25259369, text='Graph doesn&#x27;t need to cycle to hit a node twice. Good code does not visit the same node twice.')

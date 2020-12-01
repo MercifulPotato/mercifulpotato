@@ -1,0 +1,1 @@
+Item(by='nix23', descendants=None, kids=[25264002], score=None, time=1606813302, title=None, item_type='comment', url=None, parent=25262628, text='&gt;reiserfs<p>That was exactly the FS that eat my data back in ~2005. Never had problems with XFS or ZFS. With Btrfs well i just use it regularly since 2 years so i cant say much, but i think Redhat chose XFS for a reason.')

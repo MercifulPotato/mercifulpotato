@@ -1,0 +1,1 @@
+Item(by='tim333', descendants=None, kids=None, score=None, time=1606820015, title=None, item_type='comment', url=None, parent=25263432, text='Dunno. HTTPS is kind of a pain but you can stick the HTML up on github and serve it on your own domain for free with HTTPS in a few minutes. Or a digital ocean or a bunch of other services with letsencrypt. It seems quite easy really.')

@@ -1,1 +1,1 @@
-Item(by='mixmastamyk', descendants=None, kids=None, score=None, time=1606776970, title=None, item_type='comment', url=None, parent=25258806, text='Selling of browsing history (shudder) did happen, didn&#x27;t it?  One of the reasons Firefox moved most users to DNS over HTTPS.')
+Item(by='mixmastamyk', descendants=None, kids=[25263616], score=None, time=1606776970, title=None, item_type='comment', url=None, parent=25258806, text='Selling of browsing history (shudder) did happen, didn&#x27;t it?  One of the reasons Firefox moved most users to DNS over HTTPS.')

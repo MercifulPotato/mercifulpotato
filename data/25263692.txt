@@ -1,0 +1,1 @@
+Item(by='OskarS', descendants=None, kids=None, score=None, time=1606813587, title=None, item_type='comment', url=None, parent=25257209, text='Fun fact, this works in Raku:<p><i>&gt; 0.1 + 0.2 == 0.3</i><p><i>True</i><p>Decimal numbers are rational number types by default in Raku.')

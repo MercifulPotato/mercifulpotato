@@ -1,0 +1,1 @@
+Item(by='rcthompson', descendants=None, kids=None, score=None, time=1606824839, title=None, item_type='comment', url=None, parent=25263407, text='My understanding is that for ZFS, things like this would require a mythical feature called &quot;block pointer rewrite&quot;, the same feature required to implement out-of-band deduplication.')

@@ -1,1 +1,1 @@
-Item(by='jedberg', descendants=None, kids=None, score=None, time=1606754335, title=None, item_type='comment', url=None, parent=25253618, text='My coworker would have been working in Germany in the late 80s and early 90s, so this makes sense.')
+Item(by='jedberg', descendants=None, kids=[25263623], score=None, time=1606754335, title=None, item_type='comment', url=None, parent=25253618, text='My coworker would have been working in Germany in the late 80s and early 90s, so this makes sense.')

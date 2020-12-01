@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1606812284, title=None, item_type='comment', url=None, parent=25263461, text='And on Arm cores, you aren&#x27;t obligated to provide a weak memory model. Some Arm vendors provide cores with stronger memory models, mainly TSO in Arm server land and sequential consistency for NVIDIA in-house CPUs.')

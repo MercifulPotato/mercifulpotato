@@ -1,1 +1,1 @@
-Item(by='filipeisho', descendants=None, kids=None, score=None, time=1606746810, title=None, item_type='comment', url=None, parent=25245028, text='Hello again! I just came back to let you know that the new release is up and all of these problems have been solved :)')
+Item(by='filipeisho', descendants=None, kids=[25263595], score=None, time=1606746810, title=None, item_type='comment', url=None, parent=25245028, text='Hello again! I just came back to let you know that the new release is up and all of these problems have been solved :)')

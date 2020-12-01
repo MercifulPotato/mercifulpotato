@@ -1,1 +1,1 @@
-Item(by='mcountryman', descendants=1, kids=[25258515], score=5, time=1606767689, title='Show HN: Tiny 1k rust binary on Windows', item_type='story', url='https://github.com/mcountryman/min-sized-rust-windows', parent=None, text=None)
+Item(by='mcountryman', descendants=22, kids=[25264521, 25264731, 25258515, 25264137, 25264857, 25264152], score=69, time=1606767689, title='Show HN: Tiny 1k Rust binary on Windows', item_type='story', url='https://github.com/mcountryman/min-sized-rust-windows', parent=None, text=None)

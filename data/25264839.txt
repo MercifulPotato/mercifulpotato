@@ -1,0 +1,1 @@
+Item(by='zozbot234', descendants=None, kids=[25264848], score=None, time=1606828678, title=None, item_type='comment', url=None, parent=25264191, text='It has a weak memory model by default, but you can opt in to TSO (like x86) as an optional extension.')

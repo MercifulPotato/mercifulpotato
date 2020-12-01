@@ -1,1 +1,1 @@
-Item(by='sam1r', descendants=1, kids=[25263067], score=1, time=1606805598, title="Who's Hiring?", item_type='story', url='https://hn.algolia.com/?q=hiring', parent=None, text=None)
+Item(by='sam1r', descendants=2, kids=[25263746, 25263067], score=1, time=1606805598, title="Who's Hiring?", item_type='story', url='https://hn.algolia.com/?q=hiring', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='Razengan', descendants=None, kids=None, score=None, time=1606812793, title=None, item_type='comment', url=None, parent=25263512, text='Processing seems to use a draw() event, unlike Basic where you can just issue graphic commands anywhere as you go.')
