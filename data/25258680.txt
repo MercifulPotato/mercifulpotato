@@ -1,0 +1,1 @@
+Item(by='paulfitz', descendants=None, kids=[25258876], score=None, time=1606768844, title=None, item_type='comment', url=None, parent=25258471, text='Yes, a new table in your spreadsheet is stored as a new sqlite table, plus some metadata about it in some other administrative tables. You get all of this as a standalone, round-trippable file when you download your spreadsheet.')

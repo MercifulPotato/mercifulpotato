@@ -1,0 +1,1 @@
+Item(by='muxator', descendants=None, kids=None, score=None, time=1606786673, title=None, item_type='comment', url=None, parent=25260044, text='Me too. I have been running full btrfs since at least 5 years (single and RAID1 disks), which no data loss whatsoever. Now that there is support for swapfiles, I do not even need to create a dedicated partition for them.')

@@ -1,0 +1,1 @@
+Item(by='remexre', descendants=None, kids=[25259810], score=None, time=1606774538, title=None, item_type='comment', url=None, parent=25259679, text='Why can&#x27;t they just give the IO bus a slower clock and devote the resources to the memory bus? Or, memory-map everything and make the IO area yet another reserved area the BIOS tells the OS about?')

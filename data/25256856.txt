@@ -1,1 +1,1 @@
-Item(by='sdfin', descendants=None, kids=None, score=None, time=1606759666, title=None, item_type='comment', url=None, parent=25256348, text='I&#x27;d find it interesting to know what those complaints are about.')
+Item(by='sdfin', descendants=None, kids=[25261561, 25260470], score=None, time=1606759666, title=None, item_type='comment', url=None, parent=25256348, text='I&#x27;d find it interesting to know what those complaints are about.')

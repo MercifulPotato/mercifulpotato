@@ -1,0 +1,1 @@
+Item(by='takeda', descendants=None, kids=None, score=None, time=1606782547, title=None, item_type='comment', url=None, parent=25260351, text='Actually no, NixOS is probably easier to use than other Linuxes. It gets more difficult when you need to package something new that it doesn&#x27;t have, then you have to know the Nix language and how nixpkgs work.')

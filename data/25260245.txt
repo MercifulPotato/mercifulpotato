@@ -1,0 +1,1 @@
+Item(by='sys_64738', descendants=None, kids=None, score=None, time=1606777893, title=None, item_type='comment', url=None, parent=25257932, text='What do we know about the memory model? I see refs to not copying memory which suggests there isn’t even any L1 cache on die. Is this true? Anybody got a detailed arch diagram of the M1’s memory hierarchy?')

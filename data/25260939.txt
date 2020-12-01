@@ -1,0 +1,1 @@
+Item(by='ed25519FUUU', descendants=None, kids=None, score=None, time=1606783590, title=None, item_type='comment', url=None, parent=25259859, text='btrfs was a really underutilized filesystem. It still has some superior features to zfs (such as offline deduplication), but the momentum now is clearly with zfs.')

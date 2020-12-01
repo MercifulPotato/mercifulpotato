@@ -1,1 +1,1 @@
-Item(by='mjn', descendants=None, kids=None, score=None, time=1606764537, title=None, item_type='comment', url=None, parent=25257632, text='&gt; When I was an academic, 50% of my time went to building infra to do my science<p>Having spent my morning wrangling Platform LSF job scripts on my university&#x27;s cluster, that sounds familiar...')
+Item(by=None, descendants=None, kids=None, score=None, time=1606764537, title=None, item_type='comment', url=None, parent=25257632, text=None)

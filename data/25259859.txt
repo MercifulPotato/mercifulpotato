@@ -1,0 +1,1 @@
+Item(by='ariabuckles', descendants=None, kids=[25260939], score=None, time=1606775290, title=None, item_type='comment', url=None, parent=25259761, text='Both openSUSE and [as of very recently] Fedora use btrfs by default, so btrfs support seems pretty stable these days.<p>(But as others have pointed out, there are options for using zfs on linux, too)')

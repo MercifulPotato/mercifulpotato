@@ -1,0 +1,1 @@
+Item(by='brandmeyer', descendants=None, kids=[25259614, 25259204], score=None, time=1606770861, title=None, item_type='comment', url=None, parent=25258463, text='&gt; Assuming a random (but TLB friendly) pattern the M1 manages a latency of around 30-33ns to main memory.<p>This, right here.  It also helps that the L1D is a whopping 128 kB and only 3 cycles of load-use latency.')

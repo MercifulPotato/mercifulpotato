@@ -1,0 +1,1 @@
+Item(by='MarkMc', descendants=1, kids=[25260130], score=1, time=1606775599, title='Ask HN: Best way to get Zoom cloud recordings onto S3?', item_type='story', url=None, parent=None, text='I have hundreds of gigabytes of videos on Zoom that I want to transfer to Amazon S3. Is there a third-party service that will do this?')

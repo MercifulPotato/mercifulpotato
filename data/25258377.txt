@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=None, kids=[25258574], score=None, time=1606767291, title=None, item_type='comment', url=None, parent=25257150, text='This is a bug.')
+Item(by='rbanffy', descendants=None, kids=[25258574, 25258847], score=None, time=1606767291, title=None, item_type='comment', url=None, parent=25257150, text='This is a bug.')

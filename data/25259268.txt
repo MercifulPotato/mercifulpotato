@@ -1,0 +1,1 @@
+Item(by='icedchai', descendants=None, kids=None, score=None, time=1606771894, title=None, item_type='comment', url=None, parent=25257354, text='I&#x27;d argue that &quot;translation&quot; is an implementation detail of emulation. Your translated app still thinks it is x86-64 (witnessed by running &quot;uname -a&quot; in a Rosetta terminal.)')

@@ -1,0 +1,1 @@
+Item(by='aabbcc1241', descendants=None, kids=None, score=None, time=1606781977, title=None, item_type='comment', url=None, parent=25256414, text='For languages that support async&#x2F;await (Typescript, C#, Python), you can write code that looks blocking but got executed as if it&#x27;s a non-blocking state machine.')

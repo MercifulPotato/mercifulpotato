@@ -1,0 +1,1 @@
+Item(by='Twirrim', descendants=None, kids=None, score=None, time=1606773662, title=None, item_type='comment', url=None, parent=25253819, text='A quick stab on my linux laptop has it hitting at most 25% CPU utilisation, and consuming almost zero memory.  Seems really odd that this would nuke a Mac somehow.')

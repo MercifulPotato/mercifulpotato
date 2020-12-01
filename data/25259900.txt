@@ -1,0 +1,1 @@
+Item(by='nix23', descendants=None, kids=[25260506], score=None, time=1606775512, title=None, item_type='comment', url=None, parent=25259690, text='No, they have ARC and ARCL2, if you want the traditional thing go to NILFS2 or BTRFS or in the future XFS (when they have full check-summing).')

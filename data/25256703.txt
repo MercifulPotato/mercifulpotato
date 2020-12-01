@@ -1,1 +1,1 @@
-Item(by='my123', descendants=7, kids=[25257052, 25257093, 25257519, 25257465], score=15, time=1606759034, title='Marcan is creating Linux for Apple Silicon Macs (Patreon fundraising campaign)', item_type='story', url='https://www.patreon.com/marcan', parent=None, text=None)
+Item(by='my123', descendants=8, kids=[25257093, 25257052, 25257519, 25257465], score=32, time=1606759034, title='Marcan is creating Linux for Apple Silicon Macs (Patreon fundraising campaign)', item_type='story', url='https://www.patreon.com/marcan', parent=None, text=None)

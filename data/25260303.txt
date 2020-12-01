@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1606778281, title=None, item_type='comment', url=None, parent=25258550, text='AMD until very recently (and Intel almost 25 years ago) used to mark instructions boundaries in the L1 I$ to speed up decode. They stopped recently for some reason though.')

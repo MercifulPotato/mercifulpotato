@@ -1,0 +1,1 @@
+Item(by='uberman', descendants=None, kids=None, score=None, time=1606774988, title=None, item_type='comment', url=None, parent=25259636, text='I finding spending more time writing pseudo code helps me write less code that requires debugging.<p>If you have assumptions about how this should work, <i>assert()</i> that they are correct.')

@@ -1,1 +1,1 @@
-Item(by='coin', descendants=None, kids=[25242434, 25242450, 25241950], score=None, time=1606603618, title=None, item_type='comment', url=None, parent=25240592, text='Every tech company that I’ve worked for in the last 10 years issues laptops to their SW engineers')
+Item(by='coin', descendants=None, kids=[25242434, 25241950, 25242450], score=None, time=1606603618, title=None, item_type='comment', url=None, parent=25240592, text='Every tech company that I’ve worked for in the last 10 years issues laptops to their SW engineers')

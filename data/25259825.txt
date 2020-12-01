@@ -1,0 +1,1 @@
+Item(by='arwineap', descendants=None, kids=None, score=None, time=1606775092, title=None, item_type='comment', url=None, parent=25259761, text='debian has zfs in the contrib repo since stretch; no manual hacking required just have to enable contrib<p>I switched my freebsd box over to debian about two years ago. No complaints so far :)')

@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=None, score=None, time=1606789226, title=None, item_type='comment', url=None, parent=25256856, text='Complaints I&#x27;ve heard: json broken, no good way to do orm, http library not great, no good framework for http webserver, etc.  Channels&#x2F;goroutines are deceptively hard, easy to cause resource leaks.')

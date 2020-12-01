@@ -1,1 +1,1 @@
-Item(by='gtsop', descendants=None, kids=None, score=None, time=1606728420, title=None, item_type='comment', url=None, parent=25250255, text='That is very interesting. Can you provide a couple resources?')
+Item(by='gtsop', descendants=None, kids=[25260149], score=None, time=1606728420, title=None, item_type='comment', url=None, parent=25250255, text='That is very interesting. Can you provide a couple resources?')

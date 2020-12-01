@@ -1,0 +1,1 @@
+Item(by='rewtraw', descendants=None, kids=None, score=None, time=1606781100, title=None, item_type='comment', url=None, parent=25260254, text='You can do that with ZFS too, at least for mirrored sets (i.e. RAID10). It&#x27;s possible to remove a vdev, and the pool will migrate the data to the remaining vdevs.')

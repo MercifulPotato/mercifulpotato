@@ -1,0 +1,1 @@
+Item(by='DylanDmitri', descendants=None, kids=None, score=None, time=1606771997, title=None, item_type='comment', url=None, parent=25256939, text='At least for C# ASP.NET it&#x27;s basically what you described. There&#x27;s a few optimizations, for example the threadpool has pretty smart autoscaling to maximize throughput.')

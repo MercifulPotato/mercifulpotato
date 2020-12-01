@@ -1,0 +1,1 @@
+Item(by='Ericson2314', descendants=None, kids=[25260351, 25260193], score=None, time=1606775604, title=None, item_type='comment', url=None, parent=25259761, text='ZFS is no extra work with NixOS! You just declare the filesystem type like any other in the config and it takes care of kernel modules and what-not.')

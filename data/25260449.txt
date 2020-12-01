@@ -1,0 +1,1 @@
+Item(by='jtdev', descendants=None, kids=None, score=None, time=1606779287, title=None, item_type='comment', url=None, parent=25258906, text='Nice! I’ll be adding this to my virtualenv + requirements.txt + pip process. Not sure why everyone wants to overcomplicate Python dependency management with pyenv&#x2F;poetry&#x2F;etc.')

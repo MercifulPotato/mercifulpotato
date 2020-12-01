@@ -1,0 +1,1 @@
+Item(by='jshen', descendants=None, kids=None, score=None, time=1606780048, title=None, item_type='comment', url=None, parent=25260482, text='First, how did you generate that requirements file?<p>Second, how do you separate dev dependencies from prod dependencies, and how do you update a dependency and ensure all of its transitive dependencies are resolved appropriately?')

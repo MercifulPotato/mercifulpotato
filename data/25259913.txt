@@ -1,0 +1,1 @@
+Item(by='davrosthedalek', descendants=None, kids=[25260237], score=None, time=1606775597, title=None, item_type='comment', url=None, parent=25258165, text='How does 8 wide decode on ARM RISC compare to 4 wide decode on x64 CISC? If, say, you&#x27;d need two RISC ops per CISC op on average, that should be the same, right?')

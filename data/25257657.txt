@@ -1,1 +1,1 @@
-Item(by='waskip', descendants=0, kids=None, score=2, time=1606763779, title='Adopt your elePHPant now, the only original PHP elephant', item_type='story', url='https://www.elephpant.com/elephpant', parent=None, text=None)
+Item(by='waskip', descendants=11, kids=[25258303, 25258960, 25258606, 25258332, 25258861, 25260140, 25259074], score=21, time=1606763779, title='Adopt your elePHPant now, the only original PHP elephant', item_type='story', url='https://www.elephpant.com/elephpant', parent=None, text=None)

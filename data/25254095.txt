@@ -1,1 +1,1 @@
-Item(by='nix23', descendants=None, kids=None, score=None, time=1606746936, title=None, item_type='comment', url=None, parent=25253389, text='&gt;new hug-a-Linux image<p>I have a little secret for you...Microsoft didn&#x27;t change one bit since Palmer.')
+Item(by='nix23', descendants=None, kids=[25258275], score=None, time=1606746936, title=None, item_type='comment', url=None, parent=25253389, text='&gt;new hug-a-Linux image<p>I have a little secret for you...Microsoft didn&#x27;t change one bit since Palmer.')

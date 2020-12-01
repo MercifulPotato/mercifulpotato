@@ -1,0 +1,1 @@
+Item(by='mlex', descendants=None, kids=[25260225, 25260935], score=None, time=1606776079, title=None, item_type='comment', url=None, parent=25259405, text='Just built a FreeNAS system over the past couple weeks and finished doing burn-in tests of my hard drives, wonder if I should wait and see how to install OpenZFS 2.0.0 before I create my storage config.')

@@ -1,0 +1,1 @@
+Item(by='anonytrary', descendants=None, kids=[25259369, 25260621], score=None, time=1606772303, title=None, item_type='comment', url=None, parent=25258617, text='Recursion isn&#x27;t the problem. Not keeping track of seen tweets is the problem. Recursion can be used to detect cycles and traverse a cyclic graph in a way that doesn&#x27;t blow up.')

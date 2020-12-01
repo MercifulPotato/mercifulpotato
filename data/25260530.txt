@@ -1,0 +1,1 @@
+Item(by='zeropoint46', descendants=None, kids=[25261229], score=None, time=1606779879, title=None, item_type='comment', url=None, parent=25260173, text='but thats not really btrfs, thats LVM. I use BTRFS directly on physical disks and dont use pvs, vgs or lvs.')

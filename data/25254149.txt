@@ -1,1 +1,1 @@
-Item(by='justforyou', descendants=None, kids=None, score=None, time=1606747207, title=None, item_type='comment', url=None, parent=25253197, text='The only thing worse than having no soul is whining on the internet about it.')
+Item(by='justforyou', descendants=None, kids=[25261092], score=None, time=1606747207, title=None, item_type='comment', url=None, parent=25253197, text='The only thing worse than having no soul is whining on the internet about it.')

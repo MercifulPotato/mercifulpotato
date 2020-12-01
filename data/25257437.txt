@@ -1,1 +1,1 @@
-Item(by='egypturnash', descendants=None, kids=None, score=None, time=1606762554, title=None, item_type='comment', url=None, parent=25256853, text='10 I=I+.3:J=J+.34:H=ABS(SIN(I)* 27):W=ABS(SIN(J)* 27)<p>20 PRINT TAB(H)&quot;HELLO&quot;:PRINT TAB(W)&quot;WORLD&quot;:GOTO10')
+Item(by='egypturnash', descendants=None, kids=[25260355], score=None, time=1606762554, title=None, item_type='comment', url=None, parent=25256853, text='10 I=I+.3:J=J+.34:H=ABS(SIN(I)* 27):W=ABS(SIN(J)* 27)<p>20 PRINT TAB(H)&quot;HELLO&quot;:PRINT TAB(W)&quot;WORLD&quot;:GOTO10')

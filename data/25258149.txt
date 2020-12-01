@@ -1,1 +1,1 @@
-Item(by='TulliusCicero', descendants=None, kids=None, score=None, time=1606766208, title=None, item_type='comment', url=None, parent=25256641, text='That&#x27;s the cost of running DeepMind as a whole, right? Which includes all the other stuff they&#x27;ve worked on, like games.')
+Item(by='TulliusCicero', descendants=None, kids=[25258901], score=None, time=1606766208, title=None, item_type='comment', url=None, parent=25256641, text='That&#x27;s the cost of running DeepMind as a whole, right? Which includes all the other stuff they&#x27;ve worked on, like games.')

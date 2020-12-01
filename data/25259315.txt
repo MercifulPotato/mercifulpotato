@@ -1,0 +1,1 @@
+Item(by='Tagbert', descendants=None, kids=None, score=None, time=1606772135, title=None, item_type='comment', url=None, parent=25257719, text='FYI - This was Windows 10 ARM, not Intel. It is an important step and shows promise, but it is a much bigger (or impossible?) task to run the Intel version of Windows on an ARM VM. That is still a deal breaker for some people.')

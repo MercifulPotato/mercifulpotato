@@ -1,0 +1,1 @@
+Item(by='compiler-guy', descendants=None, kids=[25260034], score=None, time=1606772235, title=None, item_type='comment', url=None, parent=25258637, text='x86 instruction-length is not encoded in a single field. You have to examine it byte by byte to determine the total length.<p>There may be internal fields in the decoder that store this data, I suppose.')

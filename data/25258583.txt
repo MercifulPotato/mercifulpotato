@@ -1,1 +1,1 @@
-Item(by='cultus', descendants=None, kids=None, score=None, time=1606768352, title=None, item_type='comment', url=None, parent=25258458, text='What are the benefits of abandoning net neutrality if you are not an ISP?')
+Item(by='cultus', descendants=None, kids=[25259230, 25258803, 25259236], score=None, time=1606768352, title=None, item_type='comment', url=None, parent=25258458, text='What are the benefits of abandoning net neutrality if you are not an ISP?')
