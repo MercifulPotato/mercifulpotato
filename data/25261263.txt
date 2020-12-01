@@ -1,1 +1,1 @@
-Item(by='bzb6', descendants=None, kids=None, score=None, time=1606786463, title=None, item_type='comment', url=None, parent=25260481, text='It worked even finer for those who paid someone else to do the test for them.')
+Item(by='bzb6', descendants=None, kids=[25262643], score=None, time=1606786463, title=None, item_type='comment', url=None, parent=25260481, text='It worked even finer for those who paid someone else to do the test for them.')

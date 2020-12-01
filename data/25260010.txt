@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1606776309, title=None, item_type='comment', url=None, parent=25259553, text='I wonder how HP and Microsoft managed to port HP-UX and Windows without a compiler.')
+Item(by='pjmlp', descendants=None, kids=[25261491], score=None, time=1606776309, title=None, item_type='comment', url=None, parent=25259553, text='I wonder how HP and Microsoft managed to port HP-UX and Windows without a compiler.')

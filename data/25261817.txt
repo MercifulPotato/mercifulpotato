@@ -1,0 +1,1 @@
+Item(by='daenz', descendants=None, kids=None, score=None, time=1606791821, title=None, item_type='comment', url=None, parent=25259737, text='Basically what Spivak said. I was interested in adapting an existing interface (a filesystem) to do the set intersections because it means more software could benefit from it without additional work.')

@@ -1,1 +1,1 @@
-Item(by='Aeolun', descendants=None, kids=None, score=None, time=1606784301, title=None, item_type='comment', url=None, parent=25254964, text='Honestly, it seems a tad reckless to make the first attempt at vaccination with this method one that targets the entire world population.')
+Item(by='Aeolun', descendants=None, kids=[25261675], score=None, time=1606784301, title=None, item_type='comment', url=None, parent=25254964, text='Honestly, it seems a tad reckless to make the first attempt at vaccination with this method one that targets the entire world population.')

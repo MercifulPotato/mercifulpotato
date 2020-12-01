@@ -1,1 +1,1 @@
-Item(by='mooreds', descendants=0, kids=None, score=2, time=1606767704, title='DevRelOMeter', item_type='story', url='https://leggetter.github.io/devrelometer/', parent=None, text=None)
+Item(by='mooreds', descendants=1, kids=[25263218], score=11, time=1606767704, title='DevRelOMeter', item_type='story', url='https://leggetter.github.io/devrelometer/', parent=None, text=None)

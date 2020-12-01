@@ -1,1 +1,1 @@
-Item(by='mulmen', descendants=None, kids=None, score=None, time=1606789636, title=None, item_type='comment', url=None, parent=25261542, text='Isn&#x27;t the energy converted to electricity by heating water and generating steam?')
+Item(by='mulmen', descendants=None, kids=[25262198, 25262208], score=None, time=1606789636, title=None, item_type='comment', url=None, parent=25261542, text='Isn&#x27;t the energy converted to electricity by heating water and generating steam then doing any number of well understood things like spinning turbines?')

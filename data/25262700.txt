@@ -1,0 +1,1 @@
+Item(by='3np', descendants=None, kids=None, score=None, time=1606801386, title=None, item_type='comment', url=None, parent=25260916, text='That’s Ubuntu-specific where they provide their own kernel bundled with ZFS. It was working fine before 20.04 as well in the same way it does for other distros. Has nothing to do with the comment you’re replying to.')

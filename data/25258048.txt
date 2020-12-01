@@ -1,1 +1,1 @@
-Item(by='kolinko', descendants=None, kids=None, score=None, time=1606765551, title=None, item_type='comment', url=None, parent=25256931, text='0.1nm - approximately a size of an atom - used in organic chemistry often.')
+Item(by='kolinko', descendants=None, kids=[25262318], score=None, time=1606765551, title=None, item_type='comment', url=None, parent=25256931, text='0.1nm - approximately a size of an atom - used in organic chemistry often.')

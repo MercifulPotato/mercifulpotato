@@ -1,0 +1,1 @@
+Item(by='gilrain', descendants=None, kids=[25262130, 25261917, 25262229], score=None, time=1606791846, title=None, item_type='comment', url=None, parent=25260916, text='It&#x27;s still a big pain if you like to keep your kernel relatively up to date. I switched to btrfs; it just working is worth the few extra warts over ZFS.')

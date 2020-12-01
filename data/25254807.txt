@@ -1,1 +1,1 @@
-Item(by='izacus', descendants=None, kids=None, score=None, time=1606750530, title=None, item_type='comment', url=None, parent=25253800, text='LineageOS has sadly been falling behind on device support these days, not sure what&#x27;s going on there. :&#x2F;')
+Item(by='izacus', descendants=None, kids=[25261902], score=None, time=1606750530, title=None, item_type='comment', url=None, parent=25253800, text='LineageOS has sadly been falling behind on device support these days, not sure what&#x27;s going on there. :&#x2F;')

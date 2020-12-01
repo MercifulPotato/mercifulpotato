@@ -1,0 +1,1 @@
+Item(by='sneak', descendants=None, kids=[25262635], score=None, time=1606798559, title=None, item_type='comment', url=None, parent=25262449, text='Yes, AIUI AWS Nitro is a PCI (in this case thunderbolt?) disk abstraction system that fronts EBS for the host.')

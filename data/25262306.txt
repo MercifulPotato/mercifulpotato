@@ -1,0 +1,1 @@
+Item(by='monocasa', descendants=None, kids=None, score=None, time=1606796938, title=None, item_type='comment', url=None, parent=25259794, text='You say no, but the PowerPC 615 is an example of a core which did that.  You just need two instruction decoders (and get to keep one of them off at a time, which is awesome for dark silicon reasons).')

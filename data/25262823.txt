@@ -1,0 +1,1 @@
+Item(by='waffletower', descendants=None, kids=None, score=None, time=1606802667, title=None, item_type='comment', url=None, parent=25257209, text='Via Clojure...<p><pre><code>  (= (+ 0.1M 0.2M) 0.3M)\n  true\n</code></pre>\nNot such a stupid language.')

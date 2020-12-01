@@ -1,1 +1,1 @@
-Item(by='adulau', descendants=0, kids=None, score=1, time=1606641187, title='Csidh Reference Implementation', item_type='story', url='https://github.com/ioerror/csidh-reference-implementation', parent=None, text=None)
+Item(by='adulau', descendants=2, kids=[25262920], score=4, time=1606641187, title='Csidh Reference Implementation', item_type='story', url='https://github.com/ioerror/csidh-reference-implementation', parent=None, text=None)

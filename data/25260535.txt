@@ -1,1 +1,1 @@
-Item(by='cortesoft', descendants=None, kids=None, score=None, time=1606779907, title=None, item_type='comment', url=None, parent=25260007, text='It still shows up as &quot;tweet unavailable&quot; for me, though, in this link')
+Item(by='cortesoft', descendants=None, kids=[25261565], score=None, time=1606779907, title=None, item_type='comment', url=None, parent=25260007, text='It still shows up as &quot;tweet unavailable&quot; for me, though, in this link')

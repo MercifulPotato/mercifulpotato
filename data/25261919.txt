@@ -1,0 +1,1 @@
+Item(by='Sohcahtoa82', descendants=None, kids=[25262346], score=None, time=1606792727, title=None, item_type='comment', url=None, parent=25261083, text='Look closer.<p>The only ones with line numbers are library code handling the panic.  None of the actual user code has line numbers or even the file name, just a function name.')
