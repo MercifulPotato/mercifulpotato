@@ -1,0 +1,1 @@
+Item(by='_rs', descendants=None, kids=None, score=None, time=1606887126, title=None, item_type='comment', url=None, parent=25271288, text='Forgive me if this is naive, but why not trigger a lambda for each message separately? I think they’ll automatically reuse lambdas instead of spinning down')

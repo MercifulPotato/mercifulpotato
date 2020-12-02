@@ -1,0 +1,1 @@
+Item(by='everfree', descendants=None, kids=None, score=None, time=1606880405, title=None, item_type='comment', url=None, parent=25264954, text='It definitely doesn&#x27;t go undetected, as the conflicting transactions would have to be in blocks both forking from a common block, both signed by the attacker, which is a slashing condition that would burn their staked ether.')

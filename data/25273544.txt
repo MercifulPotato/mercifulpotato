@@ -1,0 +1,1 @@
+Item(by='danenania', descendants=None, kids=[25273760], score=None, time=1606887095, title=None, item_type='comment', url=None, parent=25272905, text='The CAP theorem doesn&#x27;t preclude strong consistency. It just means that at a certain scale, you&#x27;ll pay for it with extra latency.')

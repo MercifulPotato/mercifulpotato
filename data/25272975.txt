@@ -1,0 +1,1 @@
+Item(by='tn1', descendants=None, kids=None, score=None, time=1606880118, title=None, item_type='comment', url=None, parent=25271790, text='I believe Apple sort of does this for iOS: developers submit LLVM IR to them and they compile it to send to end users')

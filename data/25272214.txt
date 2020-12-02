@@ -1,1 +1,1 @@
-Item(by='notagoodidea', descendants=1, kids=[25272285], score=4, time=1606871838, title='Day 2: Perl is dead. Long live Perl and Raku', item_type='story', url='https://raku-advent.blog/2020/12/02/day-1-perl-is-dead-long-live-perl-and-raku/', parent=None, text=None)
+Item(by='notagoodidea', descendants=3, kids=[25273490, 25272285, 25273017], score=5, time=1606871838, title='Day 2: Perl is dead. Long live Perl and Raku', item_type='story', url='https://raku-advent.blog/2020/12/02/day-1-perl-is-dead-long-live-perl-and-raku/', parent=None, text=None)

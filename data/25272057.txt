@@ -1,1 +1,1 @@
-Item(by='WrtCdEvrydy', descendants=None, kids=None, score=None, time=1606870283, title=None, item_type='comment', url=None, parent=25271895, text='Yeah, I got seconds but people were saying there were minutes of data... max I ever saw was 3 seconds on a 2gb file...')
+Item(by='WrtCdEvrydy', descendants=None, kids=[25272731], score=None, time=1606870283, title=None, item_type='comment', url=None, parent=25271895, text='Yeah, I got seconds but people were saying there were minutes of data... max I ever saw was 3 seconds on a 2gb file...')

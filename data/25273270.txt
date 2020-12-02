@@ -1,0 +1,1 @@
+Item(by='skavi', descendants=None, kids=[25273587], score=None, time=1606883358, title=None, item_type='comment', url=None, parent=25272863, text='I’ve considered making a vector sorta thing implemented as a linked list of arrays. Assuming you sized the arrays to fit well inside the CPU cache, are there really many tradeoffs?')

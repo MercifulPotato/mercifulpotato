@@ -1,1 +1,1 @@
-Item(by='microtherion', descendants=None, kids=None, score=None, time=1606861478, title=None, item_type='comment', url=None, parent=25270121, text='You might be surprised at how human ingenuity sometimes finds a way to make expensive hardware using just as much exploitation…')
+Item(by='microtherion', descendants=None, kids=[25273729], score=None, time=1606861478, title=None, item_type='comment', url=None, parent=25270121, text='You might be surprised at how human ingenuity sometimes finds a way to make expensive hardware using just as much exploitation…')

@@ -1,0 +1,1 @@
+Item(by='FridgeSeal', descendants=None, kids=[25273048], score=None, time=1606876993, title=None, item_type='comment', url=None, parent=25272388, text='That doesn&#x27;t mean it blindly &quot;mounts&quot; it as a disk and attempts to use it as a filesystem. They&#x27;re almost certainly using it in a manner that is aware of the specificities of how S3 works.')

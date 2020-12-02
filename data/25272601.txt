@@ -1,1 +1,1 @@
-Item(by='randerson', descendants=None, kids=None, score=None, time=1606875922, title=None, item_type='comment', url=None, parent=25272342, text='They probably got thousands of chargebacks from sketchy users who logged in from proxies and VPNs, but very few legitimate orders.')
+Item(by='randerson', descendants=None, kids=[25273496, 25273602], score=None, time=1606875922, title=None, item_type='comment', url=None, parent=25272342, text='They probably got thousands of chargebacks from sketchy users who logged in from proxies and VPNs, but very few legitimate orders.')

@@ -1,1 +1,1 @@
-Item(by='ashleyn', descendants=None, kids=[25271896], score=None, time=1606867143, title=None, item_type='comment', url=None, parent=25271644, text='I suspect linked lists are not used because they are notorious for wrecking cache performance.')
+Item(by='ashleyn', descendants=None, kids=[25271896, 25272575], score=None, time=1606867143, title=None, item_type='comment', url=None, parent=25271644, text='I suspect linked lists are not used because they are notorious for wrecking cache performance.')

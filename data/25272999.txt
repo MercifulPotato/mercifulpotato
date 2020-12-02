@@ -1,0 +1,1 @@
+Item(by='souprock', descendants=None, kids=[25273016], score=None, time=1606880384, title=None, item_type='comment', url=None, parent=25272722, text='Program counter:<p>1. something which counts programs, for example &quot;find . -executable | wc -l&quot;<p>2. misnomer for the instruction pointer, which is a CPU register that points at instructions')

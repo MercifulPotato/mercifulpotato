@@ -1,0 +1,1 @@
+Item(by='dragonwriter', descendants=None, kids=None, score=None, time=1606875450, title=None, item_type='comment', url=None, parent=25272378, text='If you are just binding variables with early (before the last one that returns data) selects like that, just turning them into subqueries or factoring them out to CTEs works, which should be reasonably straightforward mechanically.')

@@ -1,1 +1,1 @@
-Item(by='brian_cloutier', descendants=None, kids=None, score=None, time=1606869166, title=None, item_type='comment', url=None, parent=25271866, text='Why is POS a joke?')
+Item(by='brian_cloutier', descendants=None, kids=[25273924, 25272808], score=None, time=1606869166, title=None, item_type='comment', url=None, parent=25271866, text='Why is POS a joke?')

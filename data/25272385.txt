@@ -1,1 +1,1 @@
-Item(by='WalterBright', descendants=None, kids=None, score=None, time=1606873824, title=None, item_type='comment', url=None, parent=25272207, text='One nice thing about getting older is not worrying about whether the music you like is cool or not.')
+Item(by='WalterBright', descendants=None, kids=[25272758], score=None, time=1606873824, title=None, item_type='comment', url=None, parent=25272207, text='One nice thing about getting older is not worrying about whether the music you like is cool or not.')

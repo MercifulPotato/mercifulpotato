@@ -1,0 +1,1 @@
+Item(by='nl', descendants=None, kids=None, score=None, time=1606876528, title=None, item_type='comment', url=None, parent=25268978, text='Not from AWS, but the isolation model is completely different.<p>On Lambda you get a full environment inside an OS container. On CloudFlare you get a WASM process.<p>The Lambda model is more compatible which can be a real benefit.')

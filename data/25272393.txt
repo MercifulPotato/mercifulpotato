@@ -1,1 +1,1 @@
-Item(by='netheril96', descendants=None, kids=None, score=None, time=1606873921, title=None, item_type='comment', url=None, parent=25271896, text='The language doesn&#x27;t matter. In almost all languages linked list has worse performance due to cache.')
+Item(by='netheril96', descendants=None, kids=[25272567], score=None, time=1606873921, title=None, item_type='comment', url=None, parent=25271896, text='The language doesn&#x27;t matter. In almost all languages linked list has worse performance due to cache.')

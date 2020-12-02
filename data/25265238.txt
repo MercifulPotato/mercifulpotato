@@ -1,1 +1,1 @@
-Item(by='lelf', descendants=41, kids=[25268351, 25272484, 25271802, 25270564, 25266256, 25268278, 25266628, 25266158, 25267269, 25268755], score=173, time=1606831788, title='The Road to the JIT', item_type='story', url='http://blog.erlang.org/the-road-to-the-jit/', parent=None, text=None)
+Item(by='lelf', descendants=43, kids=[25268351, 25271802, 25272484, 25270564, 25266256, 25266158, 25266628, 25268278, 25267269, 25268755], score=202, time=1606831788, title='The Road to the JIT', item_type='story', url='http://blog.erlang.org/the-road-to-the-jit/', parent=None, text=None)

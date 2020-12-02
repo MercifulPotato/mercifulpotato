@@ -1,1 +1,1 @@
-Item(by='yabones', descendants=0, kids=None, score=16, time=1606853409, title='CISA: Advanced Persistent Threat Actors Targeting U.S. Think Tanks', item_type='story', url='https://us-cert.cisa.gov/ncas/alerts/aa20-336a', parent=None, text=None)
+Item(by='yabones', descendants=3, kids=[25273311, 25272732], score=29, time=1606853409, title='CISA: Advanced Persistent Threat Actors Targeting U.S. Think Tanks', item_type='story', url='https://us-cert.cisa.gov/ncas/alerts/aa20-336a', parent=None, text=None)

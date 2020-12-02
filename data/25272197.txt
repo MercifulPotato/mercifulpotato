@@ -1,1 +1,1 @@
-Item(by='sebmellen', descendants=None, kids=None, score=None, time=1606871672, title=None, item_type='comment', url=None, parent=25271464, text='Vaporwave artists are going to have a great time with this.')
+Item(by='sebmellen', descendants=None, kids=[25272996], score=None, time=1606871672, title=None, item_type='comment', url=None, parent=25271464, text='Vaporwave artists are going to have a great time with this.')
