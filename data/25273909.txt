@@ -1,1 +1,1 @@
-Item(by='rbrtl', descendants=None, kids=None, score=None, time=1606892582, title=None, item_type='comment', url=None, parent=25270315, text='whatever man. you had a good go at me the other day. you&#x27;re right I&#x27;m wrong, and HN is no longer the place for me')
+Item(by='rbrtl', descendants=None, kids=[25275155], score=None, time=1606892582, title=None, item_type='comment', url=None, parent=25270315, text='whatever man. you had a good go at me the other day. you&#x27;re right I&#x27;m wrong, and HN is no longer the place for me')

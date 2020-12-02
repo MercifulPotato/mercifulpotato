@@ -1,0 +1,1 @@
+Item(by='im3w1l', descendants=None, kids=[25275597, 25276128], score=None, time=1606909730, title=None, item_type='comment', url=None, parent=25275466, text='I think the current design comes from the fact that calling the kernel is expensive so it&#x27;s best not to do it too often.<p>Maybe with the new ways of interacting with the kernel, like io_uring it can be cheaper.')

@@ -1,0 +1,1 @@
+Item(by='arcticbull', descendants=None, kids=None, score=None, time=1606896592, title=None, item_type='comment', url=None, parent=25274208, text='That’s a great idea honestly. Even Rust would make a good compile target, the strong typing could help debug the compiler as you go. Although LLVM assembly is a good choice too!')

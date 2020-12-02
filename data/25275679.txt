@@ -1,0 +1,1 @@
+Item(by='giantDinosaur', descendants=None, kids=None, score=None, time=1606911478, title=None, item_type='comment', url=None, parent=25275659, text='Why wouldn&#x27;t you at least just reverse proxy the popular pages or hell, put them on S3 or something? The ones checked by the general public, at least, could be statically generated and stored in s3 with a simple schedule!')

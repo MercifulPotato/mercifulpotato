@@ -1,0 +1,1 @@
+Item(by='mattacular', descendants=None, kids=[25276435], score=None, time=1606917819, title=None, item_type='comment', url=None, parent=25276331, text='There are reasons why writing PHP using &lt;?php&gt; tags mixed in with HTML is not common practice anymore and most people tend to use a templating library to have something that feels and reads more like plain HTML.')

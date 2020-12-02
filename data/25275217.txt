@@ -1,0 +1,1 @@
+Item(by='heavenlyblue', descendants=None, kids=[25275289], score=None, time=1606905918, title=None, item_type='comment', url=None, parent=25275204, text='Is there a language that has optional checked exceptions?<p>Basically if I define a checked exception function then I am expected to check all exceptions that will be thrown?')

@@ -1,0 +1,1 @@
+Item(by='swyx', descendants=None, kids=[25275614], score=None, time=1606900017, title=None, item_type='comment', url=None, parent=25274567, text='if you&#x27;ve ever worked on distributed storage you&#x27;ll know that this isn&#x27;t fabricated. it just takes effort to fix it. and S3 is pretty much the oldest distributed store in existence, lots of tech debt to overcome.')

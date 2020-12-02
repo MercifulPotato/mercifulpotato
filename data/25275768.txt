@@ -1,0 +1,1 @@
+Item(by='freemint', descendants=None, kids=None, score=None, time=1606912388, title=None, item_type='comment', url=None, parent=25275663, text='This depends on your usecase i guess.\nFor long running numerical code (Julia) LLVM is fine but needs some work by highly skilled individuals to make it feel like a interpreted REPL when importing big code bases.')

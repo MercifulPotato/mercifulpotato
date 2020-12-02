@@ -1,1 +1,1 @@
-Item(by='brudgers', descendants=0, kids=None, score=3, time=1606766337, title='In plain sight: the ghosts of segregation', item_type='story', url='https://www.nytimes.com/2020/11/30/travel/ghosts-of-segregation.html', parent=None, text=None)
+Item(by='brudgers', descendants=17, kids=[25275066, 25274511, 25274619], score=14, time=1606766337, title='In plain sight: the ghosts of segregation', item_type='story', url='https://www.nytimes.com/2020/11/30/travel/ghosts-of-segregation.html', parent=None, text=None)

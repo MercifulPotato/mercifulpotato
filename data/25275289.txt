@@ -1,0 +1,1 @@
+Item(by='MrBuddyCasino', descendants=None, kids=None, score=None, time=1606906639, title=None, item_type='comment', url=None, parent=25275217, text='In Java there is Exception (checked) and RuntimeException (unchecked). Depending on which base class you use, the compiler will force you to handle them or not.')

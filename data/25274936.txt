@@ -1,0 +1,1 @@
+Item(by='worldsayshi', descendants=None, kids=None, score=None, time=1606902710, title=None, item_type='comment', url=None, parent=25274208, text='Are there any big downsides to compiling to C instead of LLVM? I would assume that it would be less performant but it feels like a shallow preconception.')

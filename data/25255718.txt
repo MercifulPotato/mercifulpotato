@@ -1,1 +1,1 @@
-Item(by='petercooper', descendants=0, kids=None, score=2, time=1606754624, title="Hunting Down the Ruby 'Inplace' Bug", item_type='story', url='https://blog.peterzhu.ca/ruby-inplace-bug/', parent=None, text=None)
+Item(by='petercooper', descendants=5, kids=[25276005, 25273980], score=32, time=1606754624, title="Hunting Down the Ruby 'Inplace' Bug", item_type='story', url='https://blog.peterzhu.ca/ruby-inplace-bug/', parent=None, text=None)

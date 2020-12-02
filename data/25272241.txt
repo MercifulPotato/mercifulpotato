@@ -1,1 +1,1 @@
-Item(by='ericpauley', descendants=None, kids=[25273198], score=None, time=1606872183, title=None, item_type='comment', url=None, parent=25271697, text='They&#x27;re doing their own routing. Will the colo tech fix their iptables if they mess them up and can&#x27;t ssh?')
+Item(by='ericpauley', descendants=None, kids=[25274749, 25273198], score=None, time=1606872183, title=None, item_type='comment', url=None, parent=25271697, text='They&#x27;re doing their own routing. Will the colo tech fix their iptables if they mess them up and can&#x27;t ssh?')

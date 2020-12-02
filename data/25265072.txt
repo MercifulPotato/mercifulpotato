@@ -1,1 +1,1 @@
-Item(by='al3xandre', descendants=None, kids=None, score=None, time=1606830621, title=None, item_type='comment', url=None, parent=25256046, text='This is basically to files, what gmail has done to emails. (If you can  remember emails before the gmail era)')
+Item(by='al3xandre', descendants=None, kids=[25275534], score=None, time=1606830621, title=None, item_type='comment', url=None, parent=25256046, text='This is basically to files, what gmail has done to emails. (If you can  remember emails before the gmail era)')

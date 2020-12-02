@@ -1,0 +1,1 @@
+Item(by='lubonay', descendants=None, kids=None, score=None, time=1606898637, title=None, item_type='comment', url=None, parent=25274276, text='Yeah, I believe the point was to inline source code so it&#x27;s easier to reason about as you read it, not to inline at compilation for some runtime advantage.')

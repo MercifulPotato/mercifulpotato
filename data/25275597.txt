@@ -1,0 +1,1 @@
+Item(by='pritambaral', descendants=None, kids=[25276137], score=None, time=1606910597, title=None, item_type='comment', url=None, parent=25275524, text='Well, io_uring is cheaper (significantly!) precisely because its for async operations, which can be pipelined. Application logic almost never uses malloc() in asynchronous, pipelineable fashion.')

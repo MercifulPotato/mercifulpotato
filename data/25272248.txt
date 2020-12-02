@@ -1,1 +1,1 @@
-Item(by='qwerty456127', descendants=None, kids=None, score=None, time=1606872282, title=None, item_type='comment', url=None, parent=25272165, text='Is a self-sufficient static build of Chromium or Firefox an impossible thing?')
+Item(by='qwerty456127', descendants=None, kids=[25275630], score=None, time=1606872282, title=None, item_type='comment', url=None, parent=25272165, text='Is a self-sufficient static build of Chromium or Firefox an impossible thing?')

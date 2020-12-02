@@ -1,1 +1,1 @@
-Item(by='zjonsson', descendants=1, kids=[25272091], score=2, time=1606862157, title='GPT-3: “The universe was created by a mistake.”', item_type='story', url='https://gist.github.com/ZJONSSON/a8e1de04a16ba0f84e451ec42f022fb6', parent=None, text=None)
+Item(by='zjonsson', descendants=3, kids=[25275691, 25275258, 25272091], score=3, time=1606862157, title='GPT-3: “The universe was created by a mistake.”', item_type='story', url='https://gist.github.com/ZJONSSON/a8e1de04a16ba0f84e451ec42f022fb6', parent=None, text=None)

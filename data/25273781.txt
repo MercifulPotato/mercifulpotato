@@ -1,1 +1,1 @@
-Item(by='guram11', descendants=None, kids=None, score=None, time=1606890663, title=None, item_type='comment', url=None, parent=25272846, text='so I can look at them like\nDNA (source compiled)\nRNA (IR AST)\nProtein (executable Program)')
+Item(by='guram11', descendants=None, kids=[25274377], score=None, time=1606890663, title=None, item_type='comment', url=None, parent=25272846, text='so I can look at them like\nDNA (source compiled)\nRNA (IR AST)\nProtein (executable Program)')

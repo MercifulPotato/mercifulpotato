@@ -1,0 +1,1 @@
+Item(by='js4ever', descendants=None, kids=[25275353, 25275425, 25275381], score=None, time=1606906587, title=None, item_type='comment', url=None, parent=25273757, text='How are you handling latency (up to 800ms on S3) or the fact that you have to write the whole file each time?')

@@ -1,1 +1,1 @@
-Item(by='peter_d_sherman', descendants=0, kids=None, score=9, time=1606892565, title='QBE vs. LLVM', item_type='story', url='https://c9x.me/compile/doc/llvm.html', parent=None, text=None)
+Item(by='peter_d_sherman', descendants=55, kids=[25274320, 25275790, 25274239, 25274031, 25275314, 25274094, 25274347, 25275227, 25275261, 25274952], score=177, time=1606892565, title='QBE vs. LLVM', item_type='story', url='https://c9x.me/compile/doc/llvm.html', parent=None, text=None)

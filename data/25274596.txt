@@ -1,0 +1,1 @@
+Item(by='rimliu', descendants=None, kids=[25274889], score=None, time=1606899408, title=None, item_type='comment', url=None, parent=25274158, text='Long functions usually do several different things. If you split them into functions by the function (ha), and name those functions accordingly, you will have short and readable functions.')

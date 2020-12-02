@@ -1,1 +1,1 @@
-Item(by='shaklee3', descendants=None, kids=None, score=None, time=1606888078, title=None, item_type='comment', url=None, parent=25270338, text='Duo isn&#x27;t a chat app; it&#x27;s a video app.')
+Item(by='shaklee3', descendants=None, kids=[25274637], score=None, time=1606888078, title=None, item_type='comment', url=None, parent=25270338, text='Duo isn&#x27;t a chat app; it&#x27;s a video app.')

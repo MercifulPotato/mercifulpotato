@@ -1,1 +1,1 @@
-Item(by='orobinson', descendants=0, kids=None, score=1, time=1606893098, title='UK approves Pfizer vaccine rollout', item_type='story', url='https://www.bbc.co.uk/news/health-55145696', parent=None, text=None)
+Item(by='orobinson', descendants=1, kids=[25274652], score=34, time=1606893098, title='UK approves Pfizer vaccine rollout', item_type='story', url='https://www.bbc.co.uk/news/health-55145696', parent=None, text=None)

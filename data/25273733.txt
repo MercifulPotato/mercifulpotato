@@ -1,1 +1,1 @@
-Item(by='mcqueenjordan', descendants=None, kids=None, score=None, time=1606889876, title=None, item_type='comment', url=None, parent=25272120, text='Out of curiosity, did you have retries on the GETs?')
+Item(by='mcqueenjordan', descendants=None, kids=[25274623], score=None, time=1606889876, title=None, item_type='comment', url=None, parent=25272120, text='Out of curiosity, did you have retries on the GETs?')

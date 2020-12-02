@@ -1,0 +1,1 @@
+Item(by='knorker', descendants=None, kids=[25275553], score=None, time=1606909094, title=None, item_type='comment', url=None, parent=25274747, text='Go has exceptions, though.<p>Unwind stack, calling cleanup functions in frames that need them, until caught higher up the stacks. Yah, that&#x27;s exceptions.')

@@ -1,0 +1,1 @@
+Item(by='Vogtinator', descendants=None, kids=None, score=None, time=1606903751, title=None, item_type='comment', url=None, parent=25273980, text='The script isn&#x27;t execve&#x27;d, but read by ruby, and the shebang parsed to get the parameters. So it&#x27;s not actually ruby&#x27;s argv, but just the argv from the parsed shebang.')

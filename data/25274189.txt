@@ -1,0 +1,1 @@
+Item(by='saurik', descendants=None, kids=None, score=None, time=1606896152, title=None, item_type='comment', url=None, parent=25269960, text='How would the runtime know for sure when the container was ready to accept the request? The lambda model--with the container pulling the events instead of them being pushed to it--seems like the correct way to model the concurrency.')

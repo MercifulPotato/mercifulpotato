@@ -1,1 +1,1 @@
-Item(by='dsohn0', descendants=None, kids=None, score=None, time=1606864757, title=None, item_type='comment', url=None, parent=25266287, text='Location: Los Angeles metro area<p>Remote: Okay<p>Willing to relocate: Yes<p>Technologies: JS, React, React Native<p>Email: sohn.dd@gmail.com<p>Notes: I have no work experience but am seeking my first job in the industry.')
+Item(by=None, descendants=None, kids=None, score=None, time=1606864757, title=None, item_type='comment', url=None, parent=25266287, text=None)

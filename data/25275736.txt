@@ -1,0 +1,1 @@
+Item(by='Rochus', descendants=None, kids=None, score=None, time=1606912046, title=None, item_type='comment', url=None, parent=25275673, text='The question was &quot;a beginner-friendly intermediate layer on top of LLVM&quot;. If you use TCC instead of Clang or GCC compilation speed is very fast.')

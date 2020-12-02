@@ -1,0 +1,1 @@
+Item(by='rectang', descendants=None, kids=[25274419], score=None, time=1606897379, title=None, item_type='comment', url=None, parent=25274158, text='I don&#x27;t like long functions because they&#x27;re harder to write unit tests for.  I make too many mistakes, and I need the unit tests to verify the code and bring down my error rate.')

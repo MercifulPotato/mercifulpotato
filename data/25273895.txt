@@ -1,1 +1,1 @@
-Item(by='lawrenceyan', descendants=0, kids=None, score=1, time=1606892388, title='Google partners with SkyWater to enable open source manufacturing of ASICs', item_type='story', url='https://www.skywatertechnology.com/', parent=None, text=None)
+Item(by='lawrenceyan', descendants=28, kids=[25274263, 25274264, 25274656, 25274116], score=111, time=1606892388, title='Google partners with SkyWater to enable open source manufacturing of ASICs', item_type='story', url='https://www.skywatertechnology.com/', parent=None, text=None)

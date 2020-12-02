@@ -1,0 +1,1 @@
+Item(by='rurban', descendants=None, kids=[25275736], score=None, time=1606911382, title=None, item_type='comment', url=None, parent=25275267, text='Sure, but the idea is to avoid C and compile to a simplier IR, like qbe. And then compile that to native code in 1&#x2F;10 of the time and memory LLVM or GCC do.')

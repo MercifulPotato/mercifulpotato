@@ -1,0 +1,1 @@
+Item(by='Rochus', descendants=None, kids=[25275673], score=None, time=1606906428, title=None, item_type='comment', url=None, parent=25274952, text='You could transpile to C and feed that to LLVM&#x2F;Clang or e.g. to TCC (<a href="https:&#x2F;&#x2F;github.com&#x2F;TinyCC&#x2F;tinycc" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;TinyCC&#x2F;tinycc</a>).')

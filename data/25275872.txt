@@ -1,0 +1,1 @@
+Item(by='steerablesafe', descendants=None, kids=None, score=None, time=1606913461, title=None, item_type='comment', url=None, parent=25275505, text='If the wifi module is soldered on the main board then I think the best thing one can do is to break the lines near the antenna pins of the wifi chip and terminate it with a suitable resistor.')

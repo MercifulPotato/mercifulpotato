@@ -1,1 +1,1 @@
-Item(by='pedro1976', descendants=None, kids=None, score=None, time=1606856500, title=None, item_type='comment', url=None, parent=25269299, text='Very interesting, do you already have a placeholder repo, that I can watch?')
+Item(by='pedro1976', descendants=None, kids=[25275057], score=None, time=1606856500, title=None, item_type='comment', url=None, parent=25269299, text='Very interesting, do you already have a placeholder repo, that I can watch?')
