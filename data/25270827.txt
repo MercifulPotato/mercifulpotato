@@ -1,0 +1,1 @@
+Item(by='BorisTheBrave', descendants=None, kids=None, score=None, time=1606861379, title=None, item_type='comment', url=None, parent=25258626, text='So the key difference is that columns are not compressed, and can be in smaller batches. Can those not just be options to the Parquet file rather than having a whole new format?')

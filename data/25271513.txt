@@ -1,0 +1,1 @@
+Item(by='tootie', descendants=None, kids=None, score=None, time=1606865762, title=None, item_type='comment', url=None, parent=25266495, text='In the past when we needs iOS jobs to run from Jenkins we literally plugged a Mac Mini into the wall and forwarded a port from the router so it was reachable as a build agent by our cloud instance of Jenkins.')

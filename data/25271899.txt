@@ -1,0 +1,1 @@
+Item(by='TheDong', descendants=None, kids=None, score=None, time=1606868901, title=None, item_type='comment', url=None, parent=25271843, text='Yes.<p>I&#x27;ve observed eventual consistency with S3 prior to this change where it took on the order of several hundred milliseconds to observe an update of an existing key.<p>I&#x27;ve observed this as recently as 2 years ago.')

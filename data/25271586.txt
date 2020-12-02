@@ -1,0 +1,1 @@
+Item(by='darepublic', descendants=None, kids=None, score=None, time=1606866297, title=None, item_type='comment', url=None, parent=25269589, text='Well there is no Dom state capturing whether something was clicked or not afaik.  Whereas something like focus you can query the Dom for')

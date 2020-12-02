@@ -1,1 +1,1 @@
-Item(by='craigkerstiens', descendants=0, kids=None, score=1, time=1606857885, title='Feature Casualties of Large Databases', item_type='story', url='https://brandur.org/large-database-casualties', parent=None, text=None)
+Item(by='craigkerstiens', descendants=21, kids=[25271614, 25272314, 25271737, 25271648, 25270877, 25271025], score=54, time=1606857885, title='Feature Casualties of Large Databases', item_type='story', url='https://brandur.org/large-database-casualties', parent=None, text=None)

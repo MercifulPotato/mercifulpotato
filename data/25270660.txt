@@ -1,0 +1,1 @@
+Item(by='haberman', descendants=None, kids=None, score=None, time=1606860502, title=None, item_type='comment', url=None, parent=25269815, text='I mentioned that I ran into two problems with this:<p>- it only runs on Windows (I was trying to install without having Windows already).<p>- it creates an installer that cannot install to a GPT partition.')

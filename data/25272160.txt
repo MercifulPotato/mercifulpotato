@@ -1,0 +1,1 @@
+Item(by='mikeparker2', descendants=None, kids=None, score=None, time=1606871315, title=None, item_type='comment', url=None, parent=25267770, text='If we push an image with an AWS base image do we need to constantly update and rebuild + redeploy it or do you handle the base image updates behind the scenes (e.g. security patches) like normal lambda?')

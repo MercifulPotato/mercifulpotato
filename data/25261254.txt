@@ -1,1 +1,1 @@
-Item(by='fagnerbrack', descendants=0, kids=None, score=2, time=1606786420, title='Handling Time Zone in JavaScript (2019)', item_type='story', url='https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d', parent=None, text=None)
+Item(by='fagnerbrack', descendants=1, kids=[25271867], score=6, time=1606786420, title='Handling Time Zone in JavaScript (2019)', item_type='story', url='https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d', parent=None, text=None)

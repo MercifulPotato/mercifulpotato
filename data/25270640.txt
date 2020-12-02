@@ -1,0 +1,1 @@
+Item(by='q3k', descendants=None, kids=None, score=None, time=1606860392, title=None, item_type='comment', url=None, parent=25270184, text='&gt; After a day or so of analysis and reversing I realize that yes, this is in fact another exploitable zero-day in AWDL. This is the third, also reachable in the default configuration of iOS.<p>Holy shit.')

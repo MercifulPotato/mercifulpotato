@@ -1,1 +1,1 @@
-Item(by='zeroxfe', descendants=None, kids=None, score=None, time=1606855507, title=None, item_type='comment', url=None, parent=25267010, text='That doesn&#x27;t follow. The very core of Ethereum is also PoW, and they&#x27;re migrating to PoS.')
+Item(by='zeroxfe', descendants=None, kids=[25271056], score=None, time=1606855507, title=None, item_type='comment', url=None, parent=25267010, text='That doesn&#x27;t follow. The very core of Ethereum is also PoW, and they&#x27;re migrating to PoS.')

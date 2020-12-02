@@ -1,0 +1,1 @@
+Item(by='OJFord', descendants=None, kids=None, score=None, time=1606862096, title=None, item_type='comment', url=None, parent=25270825, text='Presumably by not storing SQL Server&#x27;s MONEYs in pg MONEYs, but CASTing to a pg MONEY if pg asks for it.')

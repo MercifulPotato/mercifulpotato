@@ -1,1 +1,1 @@
-Item(by='kristintynski', descendants=None, kids=None, score=None, time=1606855381, title=None, item_type='comment', url=None, parent=25267847, text='I made this with the GPT3 api. It’s a gift recommendation app. HTTPS:&#x2F;&#x2F;GiftGenius.AI')
+Item(by='kristintynski', descendants=None, kids=[25272269], score=None, time=1606855381, title=None, item_type='comment', url=None, parent=25267847, text='I made this with the GPT3 api. It’s a gift recommendation app. HTTPS:&#x2F;&#x2F;GiftGenius.AI')

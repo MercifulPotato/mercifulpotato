@@ -1,0 +1,1 @@
+Item(by='dheera', descendants=None, kids=[25272060, 25272405, 25272102], score=None, time=1606869443, title=None, item_type='comment', url=None, parent=25271917, text='Side question -- why is s3fs so slow? I get only about 1 put per 10 seconds with s3fs. One would hope that you could use something like s3fs as a makeshift S3 API, but its performance is really horrible.')

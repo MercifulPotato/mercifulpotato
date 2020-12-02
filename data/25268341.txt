@@ -1,1 +1,1 @@
-Item(by='ehejsbbejsk', descendants=None, kids=None, score=None, time=1606848334, title=None, item_type='comment', url=None, parent=25267029, text='Does Lambda still lag from awake?')
+Item(by='ehejsbbejsk', descendants=None, kids=[25271068], score=None, time=1606848334, title=None, item_type='comment', url=None, parent=25267029, text='Does Lambda still lag from awake?')

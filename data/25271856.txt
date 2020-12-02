@@ -1,0 +1,1 @@
+Item(by='dilatedmind', descendants=None, kids=[25271890], score=None, time=1606868608, title=None, item_type='comment', url=None, parent=25271843, text='I think it was already strongly consistent within regions?<p>like if you had tried to read a non-existent key, then wrote to it, it might continue to appear to not exist for a minute?')

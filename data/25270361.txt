@@ -1,1 +1,1 @@
-Item(by='xrayarx', descendants=0, kids=None, score=1, time=1606859031, title='China’s New Stealth Bomber', item_type='story', url='https://www.businessinsider.com/chinas-h-20-stealth-bomber-gives-it-intercontinental-strike-ability-2020-11', parent=None, text=None)
+Item(by='xrayarx', descendants=1, kids=[25270472], score=3, time=1606859031, title='China’s New Stealth Bomber', item_type='story', url='https://www.businessinsider.com/chinas-h-20-stealth-bomber-gives-it-intercontinental-strike-ability-2020-11', parent=None, text=None)

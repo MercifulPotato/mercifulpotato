@@ -1,1 +1,1 @@
-Item(by='bigbubba', descendants=None, kids=None, score=None, time=1606854161, title=None, item_type='comment', url=None, parent=25269193, text='More socks are always nice.')
+Item(by='bigbubba', descendants=None, kids=[25270985], score=None, time=1606854161, title=None, item_type='comment', url=None, parent=25269193, text='More socks are always nice.')

@@ -1,1 +1,1 @@
-Item(by='tylermauthe', descendants=0, kids=None, score=2, time=1606857421, title='Monica: Personal CRM. Remember everything about your friends, family and etc.', item_type='story', url='https://github.com/monicahq/monica', parent=None, text=None)
+Item(by='tylermauthe', descendants=9, kids=[25272454, 25272422, 25272345, 25272413, 25272310], score=53, time=1606857421, title='Monica: Personal CRM. Remember everything about your friends, family and etc.', item_type='story', url='https://github.com/monicahq/monica', parent=None, text=None)

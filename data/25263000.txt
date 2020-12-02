@@ -1,1 +1,1 @@
-Item(by='gumby', descendants=None, kids=None, score=None, time=1606804922, title=None, item_type='comment', url=None, parent=25262924, text='This is not intended as a desktop part.<p>I am also dubious, but at least am willing to consider their metric of performance per watt.')
+Item(by='gumby', descendants=None, kids=[25271262], score=None, time=1606804922, title=None, item_type='comment', url=None, parent=25262924, text='This is not intended as a desktop part.<p>I am also dubious, but at least am willing to consider their metric of performance per watt.')

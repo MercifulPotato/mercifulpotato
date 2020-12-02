@@ -1,1 +1,1 @@
-Item(by='wincy', descendants=None, kids=None, score=None, time=1606860265, title=None, item_type='comment', url=None, parent=25270353, text='And replace all instances of “Discord” with “Harmony” and you have the perfect Enterprise chat tool!')
+Item(by='wincy', descendants=None, kids=[25271545], score=None, time=1606860265, title=None, item_type='comment', url=None, parent=25270353, text='And replace all instances of “Discord” with “Harmony” and you have the perfect Enterprise chat tool!')

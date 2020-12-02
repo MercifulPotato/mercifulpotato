@@ -1,1 +1,1 @@
-Item(by='aloknnikhil', descendants=None, kids=None, score=None, time=1606859017, title=None, item_type='comment', url=None, parent=25270250, text='On first glance that page looks like something Apple might have put together. I genuinely thought this was from Apple.')
+Item(by='aloknnikhil', descendants=None, kids=[25270970], score=None, time=1606859017, title=None, item_type='comment', url=None, parent=25270250, text='On first glance that page looks like something Apple might have put together. I genuinely thought this was from Apple.')

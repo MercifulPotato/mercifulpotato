@@ -1,0 +1,1 @@
+Item(by='snazz', descendants=None, kids=[25271396, 25271387], score=None, time=1606863371, title=None, item_type='comment', url=None, parent=25271140, text='C#, Go, and Java all go in the same category (roughly)—they wouldn&#x27;t work for kernel code. Rust will be a valid replacement for C++ kernel code in the near future, I&#x27;m sure.')

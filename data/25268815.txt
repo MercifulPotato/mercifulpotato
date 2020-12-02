@@ -1,1 +1,1 @@
-Item(by='simlevesque', descendants=None, kids=None, score=None, time=1606850869, title=None, item_type='comment', url=None, parent=25267784, text='A RPi 3 has an upfront cost of over 10 dollars. With lambda you can start with pennies.')
+Item(by='simlevesque', descendants=None, kids=[25271082], score=None, time=1606850869, title=None, item_type='comment', url=None, parent=25267784, text='A RPi 3 has an upfront cost of over 10 dollars. With lambda you can start with pennies.')

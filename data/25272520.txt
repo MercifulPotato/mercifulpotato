@@ -1,0 +1,1 @@
+Item(by='xet7', descendants=None, kids=None, score=None, time=1606875153, title=None, item_type='comment', url=None, parent=25267204, text='1) Is there MongoDB-to-Postgres Translation layer?<p>2) Is there converter that can convert schema and transfer all data from:<p>2.1) MongoDB to SQLite?<p>2.2) MongoDB to PostgreSQL?')

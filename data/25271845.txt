@@ -1,0 +1,1 @@
+Item(by='kords', descendants=None, kids=None, score=None, time=1606868526, title=None, item_type='comment', url=None, parent=25267029, text='I was considering migrating my NodeJs lambdas to .NET Core, but I guess cold start times will have a higher impact over billing.')
