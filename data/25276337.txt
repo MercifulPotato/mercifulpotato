@@ -1,0 +1,1 @@
+Item(by='random5634', descendants=None, kids=None, score=None, time=1606917431, title=None, item_type='comment', url=None, parent=25272120, text='Same issues updating a file - you’d update on s3, then trigger processing and even though it was 50ms later - you’d get OLD version. I didn’t know gcp didn’t have this issue - would have been a big selling point')

@@ -1,1 +1,1 @@
-Item(by='swiley', descendants=None, kids=None, score=None, time=1606915947, title=None, item_type='comment', url=None, parent=25276089, text='The nice thing about the web is that when a page does something stupid or malicious the user can inspect and modify the tree on their own.')
+Item(by='swiley', descendants=None, kids=[25277444], score=None, time=1606915947, title=None, item_type='comment', url=None, parent=25276089, text='The nice thing about the web is that when a page does something stupid or malicious the user can inspect and modify the tree on their own.')

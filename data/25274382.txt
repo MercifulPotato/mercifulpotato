@@ -1,1 +1,1 @@
-Item(by='SamBoogieNYC', descendants=None, kids=None, score=None, time=1606897904, title=None, item_type='comment', url=None, parent=25272137, text='Wow this sent me down a rabbit hole.<p>How are the transactions composed, with a smart contract&#x2F;s, in combination with Dex API’s?')
+Item(by='SamBoogieNYC', descendants=None, kids=[25278532], score=None, time=1606897904, title=None, item_type='comment', url=None, parent=25272137, text='Wow this sent me down a rabbit hole.<p>How are the transactions composed, with a smart contract&#x2F;s, in combination with Dex API’s?')

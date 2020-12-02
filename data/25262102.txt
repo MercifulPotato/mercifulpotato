@@ -1,1 +1,1 @@
-Item(by='epicureanideal', descendants=None, kids=None, score=None, time=1606794630, title=None, item_type='comment', url=None, parent=25261487, text='Interesting!  I wonder how it has influenced political parties etc. to the present?')
+Item(by='epicureanideal', descendants=None, kids=[25280681], score=None, time=1606794630, title=None, item_type='comment', url=None, parent=25261487, text='Interesting!  I wonder how it has influenced political parties etc. to the present?')

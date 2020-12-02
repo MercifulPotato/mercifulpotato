@@ -1,0 +1,1 @@
+Item(by='AnIdiotOnTheNet', descendants=None, kids=None, score=None, time=1606919055, title=None, item_type='comment', url=None, parent=25275922, text='Modern development is all about ignoring edge cases. If the analytics say that only 1% of users use something, they shave that functionality off. A natural consequence is that disabled users are ignored.')

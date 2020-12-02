@@ -1,1 +1,1 @@
-Item(by='bmitc', descendants=None, kids=None, score=None, time=1606862579, title=None, item_type='comment', url=None, parent=25268928, text='I don’t think it’s a UI problem. You are presuming the system knows the question it is answering.')
+Item(by='bmitc', descendants=None, kids=[25277804], score=None, time=1606862579, title=None, item_type='comment', url=None, parent=25268928, text='I don’t think it’s a UI problem. You are presuming the system knows the question it is answering.')

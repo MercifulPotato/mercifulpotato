@@ -1,1 +1,1 @@
-Item(by='fnord77', descendants=None, kids=None, score=None, time=1606879845, title=None, item_type='comment', url=None, parent=25264515, text='does this phone work on LTE networks?')
+Item(by='fnord77', descendants=None, kids=[25276615], score=None, time=1606879845, title=None, item_type='comment', url=None, parent=25264515, text='does this phone work on LTE networks?')

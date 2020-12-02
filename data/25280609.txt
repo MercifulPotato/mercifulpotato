@@ -1,0 +1,1 @@
+Item(by='jebbis', descendants=None, kids=None, score=None, time=1606938229, title=None, item_type='comment', url=None, parent=25276033, text='Did anybody else notice the password d3cem8er5 generates the correct cheapHash of 3880, but the salted hash fails. I get redirected to a non-existing page (ie. get a 404). Was that an intentional red herring or just a coincidence lol?')

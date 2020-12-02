@@ -1,1 +1,1 @@
-Item(by='jakecopp', descendants=None, kids=None, score=None, time=1606792512, title=None, item_type='comment', url=None, parent=25261867, text='This seems like a bold claim.<p>Could you provide some evidence? If it&#x27;s not hosted in China is there a risk? Keen to learn more.')
+Item(by='jakecopp', descendants=None, kids=[25277966, 25277881], score=None, time=1606792512, title=None, item_type='comment', url=None, parent=25261867, text='This seems like a bold claim.<p>Could you provide some evidence? If it&#x27;s not hosted in China is there a risk? Keen to learn more.')

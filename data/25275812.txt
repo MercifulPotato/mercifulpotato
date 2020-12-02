@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1606912915, title=None, item_type='comment', url=None, parent=25275627, text='What site? Just pick one of the over 150 trial sites at random? What are they going to see that they couldn’t have seen a month ago?')
+Item(by='tinus_hn', descendants=None, kids=[25276786], score=None, time=1606912915, title=None, item_type='comment', url=None, parent=25275627, text='What site? Just pick one of the over 150 trial sites at random? What are they going to see that they couldn’t have seen a month ago?')

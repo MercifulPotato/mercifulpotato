@@ -1,0 +1,1 @@
+Item(by='api', descendants=None, kids=None, score=None, time=1606923919, title=None, item_type='comment', url=None, parent=25277262, text='Clock speeds became similar by the 90s at least since things like instructions per clock and instruction level parallelism can make lower clock speed chips faster than “faster” chips on most code.')

@@ -1,0 +1,1 @@
+Item(by='phiresky', descendants=None, kids=None, score=None, time=1606936146, title=None, item_type='comment', url=None, parent=25278106, text='rga uses pdftotext (from poppler) internally for pdfs, except wraps it in parallelization and a very fast cache layer, since you usually want to do multiple queries per file :)')

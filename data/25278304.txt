@@ -1,0 +1,1 @@
+Item(by='hiq', descendants=None, kids=[25278769], score=None, time=1606928000, title=None, item_type='comment', url=None, parent=25277280, text='It would be nice to have a direct comparison with ugrep. In the case of rg the benchmarks are already enough to switch. Why should I use rga instead of ugrep?')

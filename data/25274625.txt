@@ -1,1 +1,1 @@
-Item(by='f6v', descendants=None, kids=None, score=None, time=1606899694, title=None, item_type='comment', url=None, parent=25273618, text='The audacity of asking for a bailout while planning the IPO.')
+Item(by='f6v', descendants=None, kids=[25276864], score=None, time=1606899694, title=None, item_type='comment', url=None, parent=25273618, text='The audacity of asking for a bailout while planning the IPO.')

@@ -1,0 +1,1 @@
+Item(by='throwaway894345', descendants=None, kids=None, score=None, time=1606920673, title=None, item_type='comment', url=None, parent=25273631, text='I wasn’t suggesting they were small potatoes, but if your whole infrastructure is just a single rails app and you don’t need S3 or SQS or Lambda or any of the other AWS offerings then you probably aren’t benefiting much from AWS.')

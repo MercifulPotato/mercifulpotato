@@ -1,1 +1,1 @@
-Item(by='MaxBarraclough', descendants=None, kids=None, score=None, time=1606902090, title=None, item_type='comment', url=None, parent=25274094, text='What was your first compiler?')
+Item(by='MaxBarraclough', descendants=None, kids=[25276952], score=None, time=1606902090, title=None, item_type='comment', url=None, parent=25274094, text='What was your first compiler?')

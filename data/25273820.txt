@@ -1,1 +1,1 @@
-Item(by='balls187', descendants=None, kids=None, score=None, time=1606891298, title=None, item_type='comment', url=None, parent=25272020, text='What about Apple&#x27;s privacy do you disagree with?')
+Item(by='balls187', descendants=None, kids=[25278247], score=None, time=1606891298, title=None, item_type='comment', url=None, parent=25272020, text='What about Apple&#x27;s privacy do you disagree with?')

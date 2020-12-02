@@ -1,1 +1,1 @@
-Item(by='MaartenGr', descendants=1, kids=[25272596], score=3, time=1606744197, title='Show HN: PolyFuzz – A framework for fuzzy string matching', item_type='story', url='https://github.com/MaartenGr/PolyFuzz', parent=None, text=None)
+Item(by='MaartenGr', descendants=3, kids=[25276451, 25272596], score=3, time=1606744197, title='Show HN: PolyFuzz – A framework for fuzzy string matching', item_type='story', url='https://github.com/MaartenGr/PolyFuzz', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='chris_st', descendants=None, kids=[25278720], score=None, time=1606929292, title=None, item_type='comment', url=None, parent=25277280, text='Curious why this isn&#x27;t a pull request to ripgrep?  Maybe it was, and rejected?  It&#x27;d be nice to just have one tool, and this doesn&#x27;t feel like it&#x27;s a stretch to add to ripgrep.')

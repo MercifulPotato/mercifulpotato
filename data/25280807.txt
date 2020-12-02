@@ -1,0 +1,1 @@
+Item(by='freedomben', descendants=None, kids=None, score=None, time=1606939145, title=None, item_type='comment', url=None, parent=25280183, text='Yep, NBD.  OpenShift removed Docker a while ago and replaced it with CRI-O.  99% of people never noticed, and the ones that did just like to know how things work on the inside.')

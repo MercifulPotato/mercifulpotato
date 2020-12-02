@@ -1,1 +1,1 @@
-Item(by='i_have_to_speak', descendants=0, kids=None, score=7, time=1606888859, title='SQLite 3.34.0 Released', item_type='story', url='https://sqlite.org/releaselog/3_34_0.html', parent=None, text=None)
+Item(by='i_have_to_speak', descendants=0, kids=None, score=9, time=1606888859, title='SQLite 3.34.0 Released', item_type='story', url='https://sqlite.org/releaselog/3_34_0.html', parent=None, text=None)

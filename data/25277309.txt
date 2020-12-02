@@ -1,0 +1,1 @@
+Item(by='eloeffler2', descendants=None, kids=None, score=None, time=1606923718, title=None, item_type='comment', url=None, parent=25277224, text='Good point. The controls need better alignment. I had some trouble with the svg zoom and pan stuff and I was trying to stay away from using too many frameworks so the solution is still a bit buggy.<p>Taking this to the list of to-dos')

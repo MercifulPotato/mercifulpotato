@@ -1,1 +1,1 @@
-Item(by='juergbi', descendants=None, kids=None, score=None, time=1606915007, title=None, item_type='comment', url=None, parent=25276022, text='You can&#x27;t rent them for less than 24 hours.')
+Item(by='juergbi', descendants=None, kids=[25276993], score=None, time=1606915007, title=None, item_type='comment', url=None, parent=25276022, text='You can&#x27;t rent them for less than 24 hours.')

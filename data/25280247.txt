@@ -1,0 +1,1 @@
+Item(by='bitdivision', descendants=None, kids=None, score=None, time=1606936639, title=None, item_type='comment', url=None, parent=25280167, text='It will still run docker containers, they&#x27;re just deprecating the Docker runtime, which is more of an implementation detail')

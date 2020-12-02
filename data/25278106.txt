@@ -1,0 +1,1 @@
+Item(by='antegamisou', descendants=None, kids=[25280135], score=None, time=1606927068, title=None, item_type='comment', url=None, parent=25277280, text='I always found useful something along the lines of<p><pre><code>  pdftotext -layout file.pdf | grep -E ...\n</code></pre>\nfor PDFs, good to see a Swiss Army knife utility for all sorts of file though!')

@@ -1,0 +1,1 @@
+Item(by='dgrin91', descendants=None, kids=[25280125, 25280362], score=None, time=1606936056, title=None, item_type='comment', url=None, parent=25279924, text='I&#x27;m kind of confused by this. It sounds like its removing just some parts of docker (like the UI stuff), but not others? Can I still run my docker-built images on K8?')

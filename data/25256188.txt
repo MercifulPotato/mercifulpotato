@@ -1,1 +1,1 @@
-Item(by='prostoalex', descendants=0, kids=None, score=2, time=1606756681, title='The spectacular startup failure of Oomba', item_type='story', url='https://www.theverge.com/21571690/oomba-startup-work-environment-sex-lies-video-games-gameworks-exworks', parent=None, text=None)
+Item(by='prostoalex', descendants=5, kids=[25279316], score=22, time=1606756681, title='The startup failure of Oomba', item_type='story', url='https://www.theverge.com/21571690/oomba-startup-work-environment-sex-lies-video-games-gameworks-exworks', parent=None, text=None)

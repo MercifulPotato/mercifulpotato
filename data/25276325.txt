@@ -1,1 +1,1 @@
-Item(by='amelius', descendants=None, kids=None, score=None, time=1606917331, title=None, item_type='comment', url=None, parent=25276041, text='The separation is still there, but you&#x27;ve got to train your brain to see it.')
+Item(by='amelius', descendants=None, kids=[25276841], score=None, time=1606917331, title=None, item_type='comment', url=None, parent=25276041, text='The separation is still there, but you&#x27;ve got to train your brain to see it.')

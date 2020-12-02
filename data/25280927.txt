@@ -1,0 +1,1 @@
+Item(by='npiit', descendants=None, kids=None, score=None, time=1606939833, title=None, item_type='comment', url=None, parent=25279924, text='Did anybody make a test to compare CRI-O vs Docker especially when it comes to overall node memory usage for let&#x27;s say 30-50 containers per node? I guess CRI-O would save a lot of memory but I don&#x27;t have numbers.')

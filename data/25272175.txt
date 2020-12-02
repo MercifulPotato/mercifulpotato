@@ -1,1 +1,1 @@
-Item(by='azhenley', descendants=4, kids=[25272322, 25273432], score=9, time=1606871479, title='Yes! High level languages should be used to write systems software (1975)', item_type='story', url='https://dl.acm.org/doi/10.1145/800181.810318', parent=None, text=None)
+Item(by='azhenley', descendants=10, kids=[25272322, 25276614, 25273432], score=10, time=1606871479, title='Yes! High level languages should be used to write systems software (1975)', item_type='story', url='https://dl.acm.org/doi/10.1145/800181.810318', parent=None, text=None)

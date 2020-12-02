@@ -1,0 +1,1 @@
+Item(by='makapuf', descendants=None, kids=[25280919], score=None, time=1606936984, title=None, item_type='comment', url=None, parent=25276307, text='&gt; If an HTTP handler throws an exception, is that fatal for the whole webserver?<p>Well, your handlers should not generally panic! It&#x27;s called panic in Go so panicking should be hopefully rare for the peace of mind.')
