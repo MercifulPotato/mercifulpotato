@@ -1,1 +1,1 @@
-Item(by='mojomark', descendants=None, kids=None, score=None, time=1606936642, title=None, item_type='comment', url=None, parent=25277592, text='TLDR: 42.<p>(Kidding, it&#x27;s apparently 1&#x2F;137, but wouldn&#x27;t it&#x27;ve been cool)')
+Item(by='mojomark', descendants=None, kids=[25281595, 25282094, 25281577], score=None, time=1606936642, title=None, item_type='comment', url=None, parent=25277592, text='TLDR: 42.<p>(Kidding, it&#x27;s apparently 1&#x2F;137, but wouldn&#x27;t it&#x27;ve been cool)')

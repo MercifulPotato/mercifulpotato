@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=2, time=1606934045, title='Org-Web', item_type='story', url='https://org-web.org/', parent=None, text=None)
+Item(by='todsacerdoti', descendants=1, kids=[25280887], score=2, time=1606934045, title='Org-Web', item_type='story', url='https://org-web.org/', parent=None, text=None)

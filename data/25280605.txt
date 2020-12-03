@@ -1,1 +1,1 @@
-Item(by='derefr', descendants=None, kids=None, score=None, time=1606938218, title=None, item_type='comment', url=None, parent=25279860, text='You&#x27;re right; I updated my comment.')
+Item(by='derefr', descendants=None, kids=[25281934], score=None, time=1606938218, title=None, item_type='comment', url=None, parent=25279860, text='You&#x27;re right; I updated my comment.')

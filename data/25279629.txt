@@ -1,1 +1,1 @@
-Item(by='makeworld', descendants=None, kids=None, score=None, time=1606933991, title=None, item_type='comment', url=None, parent=25275348, text='<a href="https:&#x2F;&#x2F;xkcd.com&#x2F;988&#x2F;" rel="nofollow">https:&#x2F;&#x2F;xkcd.com&#x2F;988&#x2F;</a>')
+Item(by='makeworld', descendants=None, kids=[25281364], score=None, time=1606933991, title=None, item_type='comment', url=None, parent=25275348, text='<a href="https:&#x2F;&#x2F;xkcd.com&#x2F;988&#x2F;" rel="nofollow">https:&#x2F;&#x2F;xkcd.com&#x2F;988&#x2F;</a>')

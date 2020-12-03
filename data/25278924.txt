@@ -1,1 +1,1 @@
-Item(by='flankstaek', descendants=0, kids=None, score=2, time=1606930808, title='Microsoft Acquires Smash.gg', item_type='story', url='https://smash.gg/', parent=None, text=None)
+Item(by='flankstaek', descendants=9, kids=[25282343, 25282391, 25283400], score=25, time=1606930808, title='Microsoft Acquires Smash.gg', item_type='story', url='https://smash.gg/', parent=None, text=None)

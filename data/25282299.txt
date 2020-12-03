@@ -1,0 +1,1 @@
+Item(by='sitharus', descendants=None, kids=None, score=None, time=1606946620, title=None, item_type='comment', url=None, parent=25281832, text='That&#x27;s not how probability works. Each draw is an independent event from every previous draw, doing a draw with a 1 in 20 million chance of a given sequence 20 million times will not draw every sequence once.')

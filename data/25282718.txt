@@ -1,0 +1,1 @@
+Item(by='tsm', descendants=None, kids=[25282753, 25282741, 25282772, 25282735, 25282730], score=None, time=1606948815, title=None, item_type='comment', url=None, parent=25282713, text='Edit: I was wrong. 0123 is octal, not decimal<p>[Incorrect original post: 0123 evaluates to the integer value 123]')

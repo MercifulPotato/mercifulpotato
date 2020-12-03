@@ -1,0 +1,1 @@
+Item(by='AndyKelley', descendants=None, kids=None, score=None, time=1606944401, title=None, item_type='comment', url=None, parent=25273907, text='One important thing to note is that QBE emits text-based assembly and relies on a system-installed assembler. Meanwhile LLVM produces object files.')

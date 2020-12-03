@@ -1,1 +1,1 @@
-Item(by='spunker540', descendants=None, kids=None, score=None, time=1606883316, title=None, item_type='comment', url=None, parent=25263540, text='I think making urls non-clickable absolutely reduces the effectiveness of spamming urls. How the hell wouldn’t it?')
+Item(by='spunker540', descendants=None, kids=[25282998], score=None, time=1606883316, title=None, item_type='comment', url=None, parent=25263540, text='I think making urls non-clickable absolutely reduces the effectiveness of spamming urls. How the hell wouldn’t it?')

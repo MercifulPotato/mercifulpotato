@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1606939949, title=None, item_type='comment', url=None, parent=25271598, text='Most likely the M1 optimizations related to ARC are also a step into that direction.<p>And they are also moving all kernel extensions to user space anyway.')

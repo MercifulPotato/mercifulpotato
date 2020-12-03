@@ -1,0 +1,1 @@
+Item(by='paulryanrogers', descendants=None, kids=None, score=None, time=1606956029, title=None, item_type='comment', url=None, parent=25283264, text='Is NodeJS on the server side faster or lower memory? Because the tooling feels heavier with node modules breaking out thousands of files.<p>I imagine async of Node may help somewhat.')

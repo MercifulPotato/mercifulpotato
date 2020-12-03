@@ -1,1 +1,1 @@
-Item(by='jonplackett', descendants=None, kids=None, score=None, time=1606924554, title=None, item_type='comment', url=None, parent=25277461, text='<i>any kind</i><p>So not even a mild case of the zombs?')
+Item(by='jonplackett', descendants=None, kids=[25281687], score=None, time=1606924554, title=None, item_type='comment', url=None, parent=25277461, text='<i>any kind</i><p>So not even a mild case of the zombs?')

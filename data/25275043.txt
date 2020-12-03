@@ -1,1 +1,1 @@
-Item(by='remify', descendants=None, kids=None, score=None, time=1606903730, title=None, item_type='comment', url=None, parent=25269287, text='For a 1 hour process why not just launch an instance ? You can also probably use a spot instance to be even cheaper.')
+Item(by='remify', descendants=None, kids=[25282007], score=None, time=1606903730, title=None, item_type='comment', url=None, parent=25269287, text='For a 1 hour process why not just launch an instance ? You can also probably use a spot instance to be even cheaper.')

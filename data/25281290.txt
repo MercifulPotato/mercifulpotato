@@ -1,0 +1,1 @@
+Item(by='roenxi', descendants=None, kids=None, score=None, time=1606941684, title=None, item_type='comment', url=None, parent=25275616, text='SQL was designed somewhat before PostgreSQL decided to support arrays. It is a terrible, terrible language for dealing with non-normal data.<p>If you are doing string parsing in SQL, mistakes were made.')

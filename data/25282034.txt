@@ -1,0 +1,1 @@
+Item(by='peter_d_sherman', descendants=None, kids=None, score=None, time=1606945317, title=None, item_type='comment', url=None, parent=25281977, text='&gt;&quot;FAQ<p>Q: What differentiates this library from other C regex implementations?<p>A: Well, the small size for one. 500 lines of C-code compiling to 2-3kb ROM, using very little RAM.&quot;')

@@ -1,1 +1,1 @@
-Item(by='mrtranscendence', descendants=None, kids=None, score=None, time=1606924760, title=None, item_type='comment', url=None, parent=25277378, text='The author is apparently from Germany, for what it&#x27;s worth. Don&#x27;t know if that makes his statement any palatable.')
+Item(by='mrtranscendence', descendants=None, kids=[25281703], score=None, time=1606924760, title=None, item_type='comment', url=None, parent=25277378, text='The author is apparently from Germany, for what it&#x27;s worth. Don&#x27;t know if that makes his statement any palatable.')

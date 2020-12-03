@@ -1,0 +1,1 @@
+Item(by='throwaway894345', descendants=None, kids=None, score=None, time=1606946791, title=None, item_type='comment', url=None, parent=25275808, text='He passed a reference, not a copy. He doesn&#x27;t need ownership to do so.<p>(a little Rust humor)')

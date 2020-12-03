@@ -1,0 +1,1 @@
+Item(by='meritt', descendants=None, kids=None, score=None, time=1606950364, title=None, item_type='comment', url=None, parent=25282563, text='Swoole (module) is extremely performant in anything networking, including as a websocket server. There are other php-only options (amphp&#x2F;websocket-server, ratchetphp&#x2F;Ratchet) but if performance is your need, stick with swoole.')

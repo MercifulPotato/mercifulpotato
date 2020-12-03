@@ -1,0 +1,1 @@
+Item(by='CamperBob2', descendants=None, kids=None, score=None, time=1606950064, title=None, item_type='comment', url=None, parent=25281095, text='Do you have a version that works with DOS pipes?  I have to resort to an older grep version if I need to do something like:<p><pre><code>    dir *.c* | rg somesubstringinfilename</code></pre>')

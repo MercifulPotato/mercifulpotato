@@ -1,0 +1,1 @@
+Item(by='monocasa', descendants=None, kids=None, score=None, time=1606943205, title=None, item_type='comment', url=None, parent=25281604, text='It sounds like you need to run VDM once to expose the page tables to user space, but then you can unload it and just continue only using PTM.')

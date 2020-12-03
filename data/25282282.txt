@@ -1,0 +1,1 @@
+Item(by='SAI_Peregrinus', descendants=None, kids=None, score=None, time=1606946553, title=None, item_type='comment', url=None, parent=25280614, text='It&#x27;s entirely appropriate that this link 404s, since the best practice for SMS OTP is &quot;don&#x27;t&quot;. Use TOTP or webauthn or FIDO2 instead.')

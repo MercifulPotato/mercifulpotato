@@ -1,0 +1,1 @@
+Item(by='tyingq', descendants=None, kids=None, score=None, time=1606959792, title=None, item_type='comment', url=None, parent=25283248, text='<i>&quot;PHP from a local script does math just fine&quot;</i><p>I suspect they meant the kind of heavy math that the PHP 8.x JIT is trying to improve performance for.')

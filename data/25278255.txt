@@ -1,1 +1,1 @@
-Item(by='in_cahoots', descendants=None, kids=None, score=None, time=1606927808, title=None, item_type='comment', url=None, parent=25278006, text='The wiki article uses historical data, not 2020 numbers.')
+Item(by='in_cahoots', descendants=None, kids=[25283443], score=None, time=1606927808, title=None, item_type='comment', url=None, parent=25278006, text='The wiki article uses historical data, not 2020 numbers.')
