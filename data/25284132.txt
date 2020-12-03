@@ -1,1 +1,1 @@
-Item(by='dvtrn', descendants=None, kids=None, score=None, time=1606958777, title=None, item_type='comment', url=None, parent=25282868, text='People who aren’t starting and ending their days reading HN, probably.')
+Item(by='dvtrn', descendants=None, kids=[25284526], score=None, time=1606958777, title=None, item_type='comment', url=None, parent=25282868, text='People who aren’t starting and ending their days reading HN, probably.')

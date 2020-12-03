@@ -1,1 +1,1 @@
-Item(by='gumby', descendants=None, kids=None, score=None, time=1606958438, title=None, item_type='comment', url=None, parent=25281854, text='The team who developed it chose that so their product couldn’t be killed.  Could you imagine the headlines?<p>True story.')
+Item(by='gumby', descendants=None, kids=[25284964], score=None, time=1606958438, title=None, item_type='comment', url=None, parent=25281854, text='The team who developed it chose that so their product couldn’t be killed.  Could you imagine the headlines?<p>True story.')

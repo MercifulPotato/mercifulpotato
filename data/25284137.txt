@@ -1,1 +1,1 @@
-Item(by='fomine3', descendants=None, kids=None, score=None, time=1606958847, title=None, item_type='comment', url=None, parent=25283829, text='Index funds')
+Item(by='fomine3', descendants=None, kids=[25284631, 25284629], score=None, time=1606958847, title=None, item_type='comment', url=None, parent=25283829, text='Index funds')

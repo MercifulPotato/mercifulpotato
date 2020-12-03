@@ -1,1 +1,1 @@
-Item(by='tsjq', descendants=None, kids=None, score=None, time=1606921170, title=None, item_type='comment', url=None, parent=25276366, text='Yes. The article mentions sections 3 to 6 aren&#x27;t strong enough, so a drydock will be used instead of the chainsaw cutting.')
+Item(by='tsjq', descendants=None, kids=[25286127], score=None, time=1606921170, title=None, item_type='comment', url=None, parent=25276366, text='Yes. The article mentions sections 3 to 6 aren&#x27;t strong enough, so a drydock will be used instead of the chainsaw cutting.')

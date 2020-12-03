@@ -1,0 +1,1 @@
+Item(by='TwoBit', descendants=None, kids=[25286315], score=None, time=1606978632, title=None, item_type='comment', url=None, parent=25286153, text='Isn&#x27;t part of the idea with HTTP2 that the server can see everything you&#x27;re asking for and more intelligently prioritize vs a bunch of separate independent connections?')

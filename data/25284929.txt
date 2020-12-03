@@ -1,0 +1,1 @@
+Item(by='hrez', descendants=None, kids=None, score=None, time=1606965523, title=None, item_type='comment', url=None, parent=25262856, text='&gt; I also recall someone working years ago on a way to push snapshots to S3<p>You can pipe zfs send to gof3r.')

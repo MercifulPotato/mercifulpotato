@@ -1,1 +1,1 @@
-Item(by='bendiksolheim', descendants=0, kids=None, score=12, time=1606809838, title='What Is Functional Programming?', item_type='story', url='https://functional.christmas/2020/1', parent=None, text=None)
+Item(by='bendiksolheim', descendants=1, kids=[25286014], score=12, time=1606809838, title='What Is Functional Programming?', item_type='story', url='https://functional.christmas/2020/1', parent=None, text=None)

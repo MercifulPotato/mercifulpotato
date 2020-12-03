@@ -1,1 +1,1 @@
-Item(by='fn1', descendants=None, kids=None, score=None, time=1606928685, title=None, item_type='comment', url=None, parent=25278029, text='&quot;The greatest shortcoming of the human race is our inability to understand the exponential function” - Albert Allen Bartlett')
+Item(by='fn1', descendants=None, kids=[25285214], score=None, time=1606928685, title=None, item_type='comment', url=None, parent=25278029, text='&quot;The greatest shortcoming of the human race is our inability to understand the exponential function” - Albert Allen Bartlett')

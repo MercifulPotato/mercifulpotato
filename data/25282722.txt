@@ -1,1 +1,1 @@
-Item(by='ludamad', descendants=None, kids=None, score=None, time=1606948831, title=None, item_type='comment', url=None, parent=25282689, text='The joke is just a little too subtle if so lol (though perhaps how it ought to be), seen some really weird arrangements during this year')
+Item(by='ludamad', descendants=None, kids=[25286475], score=None, time=1606948831, title=None, item_type='comment', url=None, parent=25282689, text='The joke is just a little too subtle if so lol (though perhaps how it ought to be), seen some really weird arrangements during this year')

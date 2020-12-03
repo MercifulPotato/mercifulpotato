@@ -1,0 +1,1 @@
+Item(by='sanxiyn', descendants=None, kids=[25285091, 25285514], score=None, time=1606965542, title=None, item_type='comment', url=None, parent=25284796, text='HTTP&#x2F;1.1 pipelining was never useful due to head-of-line blocking and no browsers enabled it by default.')

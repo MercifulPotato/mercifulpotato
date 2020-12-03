@@ -1,1 +1,1 @@
-Item(by='BurningFrog', descendants=None, kids=None, score=None, time=1606960196, title=None, item_type='comment', url=None, parent=25284025, text='As a prank and&#x2F;or to expose how unsafe the system is.')
+Item(by='BurningFrog', descendants=None, kids=[25285053], score=None, time=1606960196, title=None, item_type='comment', url=None, parent=25284025, text='As a prank and&#x2F;or to expose how unsafe the system is.')

@@ -1,1 +1,1 @@
-Item(by='sbelskie', descendants=None, kids=None, score=None, time=1606959579, title=None, item_type='comment', url=None, parent=25284171, text='There are, in case you didn’t know, other people in that country.')
+Item(by='sbelskie', descendants=None, kids=[25284534], score=None, time=1606959579, title=None, item_type='comment', url=None, parent=25284171, text='There are, in case you didn’t know, other people in that country.')

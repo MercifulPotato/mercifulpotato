@@ -1,0 +1,1 @@
+Item(by='stkdump', descendants=None, kids=None, score=None, time=1606977044, title=None, item_type='comment', url=None, parent=25263488, text='&gt; It would be kind of nice if C had a &quot;functional&quot; keyword to enforce no global references.<p>I guess with constexpr, at least in C++, this is a reality now.')
