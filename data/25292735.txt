@@ -1,0 +1,1 @@
+Item(by='taffer', descendants=None, kids=None, score=None, time=1607020953, title=None, item_type='comment', url=None, parent=25291464, text='For this reason you should always separate data and code and put them into separate schemas. In such a setup, deploying new code essentially means dropping and re-creating the code schema in a single transaction.')

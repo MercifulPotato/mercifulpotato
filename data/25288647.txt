@@ -1,1 +1,1 @@
-Item(by='muzani', descendants=None, kids=None, score=None, time=1607002533, title=None, item_type='comment', url=None, parent=25288122, text='Coffee is cheaper and has the same effect.')
+Item(by='muzani', descendants=None, kids=[25291409], score=None, time=1607002533, title=None, item_type='comment', url=None, parent=25288122, text='Coffee is cheaper and has the same effect.')

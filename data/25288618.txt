@@ -1,1 +1,1 @@
-Item(by='tartoran', descendants=1, kids=[25288653], score=1, time=1607002344, title='Things I Learned in 2020', item_type='story', url='https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2020-6a380692dbb8', parent=None, text=None)
+Item(by='tartoran', descendants=2, kids=[25289116, 25288653], score=11, time=1607002344, title='Things I Learned in 2020', item_type='story', url='https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2020-6a380692dbb8', parent=None, text=None)

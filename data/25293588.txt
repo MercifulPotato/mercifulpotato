@@ -1,0 +1,1 @@
+Item(by='lend000', descendants=None, kids=None, score=None, time=1607024415, title=None, item_type='comment', url=None, parent=25292911, text='My understanding is that if you aren&#x27;t gaming (i.e. most of the content on your screen is static) your GPU is smart enough not to redraw the entire frame so you can probably get very low latency refreshes.')

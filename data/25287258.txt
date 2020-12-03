@@ -1,1 +1,1 @@
-Item(by='arendtio', descendants=None, kids=None, score=None, time=1606988339, title=None, item_type='comment', url=None, parent=25284111, text='Where? Do you mean the 2nd or 3rd drawer?<p>In fact, I never managed to open the third drawer.')
+Item(by='arendtio', descendants=None, kids=[25290785], score=None, time=1606988339, title=None, item_type='comment', url=None, parent=25284111, text='Where? Do you mean the 2nd or 3rd drawer?<p>In fact, I never managed to open the third drawer.')

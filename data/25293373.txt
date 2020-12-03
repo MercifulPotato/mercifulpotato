@@ -1,0 +1,1 @@
+Item(by='taffer', descendants=None, kids=None, score=None, time=1607023609, title=None, item_type='comment', url=None, parent=25291851, text='&gt; why?<p><pre><code>  while true:\n    select count(*) from huge_table\n</code></pre>\nthats why.')

@@ -1,0 +1,1 @@
+Item(by='120bits', descendants=None, kids=None, score=None, time=1607014658, title=None, item_type='comment', url=None, parent=25288716, text='select * from trips where tip_amount &gt; 500 ORDER By tip_amount DESC<p>65 rows in 80.31s \nExecute:80.16s\nNetwork:144ms\nTotal:80.31s<p>Is this the fastest? Or having a &lt;5ms would have a huge impact?')

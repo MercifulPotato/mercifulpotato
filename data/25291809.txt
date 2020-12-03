@@ -1,0 +1,1 @@
+Item(by='westwing', descendants=None, kids=None, score=None, time=1607017323, title=None, item_type='comment', url=None, parent=25291305, text='On Windows 10, and I have tested various text input boxes. There&#x27;s no way latency is anywhere near 100ms, I would notice that.<p>Generally, from the tests I&#x27;ve seen, input latency is 30-40ms on a wired keyboard on Windows.')

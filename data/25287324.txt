@@ -1,1 +1,1 @@
-Item(by='rwmj', descendants=None, kids=None, score=None, time=1606988902, title=None, item_type='comment', url=None, parent=25283676, text='I&#x27;m much richer because I&#x27;ve never played the lottery.')
+Item(by='rwmj', descendants=None, kids=[25293660], score=None, time=1606988902, title=None, item_type='comment', url=None, parent=25283676, text='I&#x27;m much richer because I&#x27;ve never played the lottery.')

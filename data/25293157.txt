@@ -1,0 +1,1 @@
+Item(by='kaba0', descendants=None, kids=None, score=None, time=1607022736, title=None, item_type='comment', url=None, parent=25268685, text='Honestly, DLL hell is currently only a solved problem by nix and guix and at this point onwards, I don’t see much point in not porting everything over to the nix way of maintaining packages.')

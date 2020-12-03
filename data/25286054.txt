@@ -1,1 +1,1 @@
-Item(by='meowface', descendants=None, kids=None, score=None, time=1606976569, title=None, item_type='comment', url=None, parent=25284415, text='Fuckface, play Beethoven&#x27;s 5th.')
+Item(by='meowface', descendants=None, kids=[25292116], score=None, time=1606976569, title=None, item_type='comment', url=None, parent=25284415, text='Fuckface, play Beethoven&#x27;s 5th.')

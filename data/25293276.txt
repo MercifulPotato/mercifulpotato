@@ -1,0 +1,1 @@
+Item(by='geon', descendants=None, kids=None, score=None, time=1607023203, title=None, item_type='comment', url=None, parent=25268376, text='At work, we have our own “cloud”. It is a cluster running kubernetes, so if I need a bunch of vms I can just spin them up in house.')

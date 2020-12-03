@@ -1,1 +1,1 @@
-Item(by='tux', descendants=1, kids=[25288467], score=2, time=1607000901, title='The Future of Phalcon', item_type='story', url='https://blog.phalcon.io/post/the-future-of-phalcon', parent=None, text=None)
+Item(by='tux', descendants=1, kids=[25288467], score=3, time=1607000901, title='The Future of Phalcon', item_type='story', url='https://blog.phalcon.io/post/the-future-of-phalcon', parent=None, text=None)

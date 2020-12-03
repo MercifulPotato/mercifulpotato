@@ -1,1 +1,1 @@
-Item(by='marco_craveiro', descendants=None, kids=None, score=None, time=1607004460, title=None, item_type='comment', url=None, parent=25285983, text='I&#x27;m sure someone will create a PostgreSQL extension for this... :-)')
+Item(by='marco_craveiro', descendants=None, kids=[25290496], score=None, time=1607004460, title=None, item_type='comment', url=None, parent=25285983, text='I&#x27;m sure someone will create a PostgreSQL extension for this... :-)')

@@ -1,1 +1,1 @@
-Item(by='anonyxyz', descendants=None, kids=None, score=None, time=1607001588, title=None, item_type='comment', url=None, parent=25286574, text='Bitcoin is not the only cryptocurrency.')
+Item(by='anonyxyz', descendants=None, kids=[25291275], score=None, time=1607001588, title=None, item_type='comment', url=None, parent=25286574, text='Bitcoin is not the only cryptocurrency.')

@@ -1,1 +1,1 @@
-Item(by='vonadz', descendants=0, kids=[25288619], score=3, time=1606992630, title='Show HN: A Byte of Coding – A curated newsletter of programming articles', item_type='story', url='https://www.abyteofcoding.com/', parent=None, text=None)
+Item(by='vonadz', descendants=13, kids=[25288619, 25288738, 25289477, 25289063, 25288920, 25290398], score=33, time=1606992630, title='A Byte of Coding – A curated newsletter of programming articles', item_type='story', url='https://www.abyteofcoding.com/', parent=None, text=None)

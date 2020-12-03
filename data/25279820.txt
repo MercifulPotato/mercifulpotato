@@ -1,1 +1,1 @@
-Item(by='Topolomancer', descendants=6, kids=[25288923, 25282085, 25286086, 25282363], score=85, time=1606934790, title='Using Topology to Classify Labelled Graphs', item_type='story', url='https://bastian.rieck.me/blog/posts/2020/topology_graphs/', parent=None, text=None)
+Item(by='Topolomancer', descendants=7, kids=[25282085, 25288923, 25282363, 25286086], score=86, time=1606934790, title='Using Topology to Classify Labelled Graphs', item_type='story', url='https://bastian.rieck.me/blog/posts/2020/topology_graphs/', parent=None, text=None)

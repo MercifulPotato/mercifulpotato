@@ -1,0 +1,1 @@
+Item(by='InitialLastName', descendants=None, kids=[25293647], score=None, time=1607024035, title=None, item_type='comment', url=None, parent=25289730, text='Isn&#x27;t the ability to back out of the stack context basically half the point of stack operations?  Without the LIFO behavior, it&#x27;s not really a &quot;stack&quot; in any computational sense.')

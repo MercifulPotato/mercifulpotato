@@ -1,1 +1,1 @@
-Item(by='octoberfranklin', descendants=None, kids=None, score=None, time=1606968186, title=None, item_type='comment', url=None, parent=25278457, text='&gt; Pretty sure that there are some analog io pins in the caravel harness.<p>Check again, no analog inputs.  No RF pads either.')
+Item(by='octoberfranklin', descendants=None, kids=[25290363], score=None, time=1606968186, title=None, item_type='comment', url=None, parent=25278457, text='&gt; Pretty sure that there are some analog io pins in the caravel harness.<p>Check again, no analog inputs.  No RF pads either.')

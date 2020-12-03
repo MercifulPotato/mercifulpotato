@@ -1,0 +1,1 @@
+Item(by='kevinventullo', descendants=None, kids=None, score=None, time=1607024160, title=None, item_type='comment', url=None, parent=25292433, text='Out of curiosity, have you benchmarked this against some of the more standard NN libraries running on CPU?')

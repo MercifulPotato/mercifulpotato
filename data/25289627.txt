@@ -1,0 +1,1 @@
+Item(by='cdelsolar', descendants=None, kids=None, score=None, time=1607008767, title=None, item_type='comment', url=None, parent=25265943, text='I used the haversine formula quite recently, I believe in a previous job, for accurately drawing a map given GPS coordinates, or something like that.')

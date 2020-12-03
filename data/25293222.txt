@@ -1,0 +1,1 @@
+Item(by='nikisweeting', descendants=None, kids=None, score=None, time=1607023005, title=None, item_type='comment', url=None, parent=25289604, text='The critical argument for base32 over base58 in my mind is being able to write the ids as filenames&#x2F;folder names on macOS without conflicts (APFS is case-insensitive by default).')

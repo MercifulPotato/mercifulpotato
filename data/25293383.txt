@@ -1,0 +1,1 @@
+Item(by='ryanbooz', descendants=None, kids=[25293463], score=None, time=1607023668, title=None, item_type='comment', url=None, parent=25292602, text='Our experiments all ran on cloud instances (DO and Timescale Forge) that use storage that are replicated across multiple AZs&#x2F;racks for greater reliability and fault tolerance.')

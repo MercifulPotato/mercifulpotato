@@ -1,1 +1,1 @@
-Item(by='krona', descendants=24, kids=[25288985, 25288711, 25288426, 25288439, 25288424, 25288645], score=66, time=1606996994, title="What's new in Svelte (Dec 2020)", item_type='story', url='https://svelte.dev/blog/whats-new-in-svelte-december-2020', parent=None, text=None)
+Item(by='krona', descendants=57, kids=[25288711, 25289165, 25288426, 25288439, 25290965, 25288985, 25288424, 25288645], score=125, time=1606996994, title="What's new in Svelte (Dec 2020)", item_type='story', url='https://svelte.dev/blog/whats-new-in-svelte-december-2020', parent=None, text=None)

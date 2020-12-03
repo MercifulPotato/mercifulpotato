@@ -1,1 +1,1 @@
-Item(by='dubcanada', descendants=None, kids=None, score=None, time=1606998441, title=None, item_type='comment', url=None, parent=25286594, text='This is related to Android. They are doing it so they can use it on Android.')
+Item(by='dubcanada', descendants=None, kids=[25289033], score=None, time=1606998441, title=None, item_type='comment', url=None, parent=25286594, text='This is related to Android. They are doing it so they can use it on Android.')

@@ -1,0 +1,1 @@
+Item(by='jillesvangurp', descendants=None, kids=[25291461], score=None, time=1607015408, title=None, item_type='comment', url=None, parent=25289322, text='Apache commons codec has a base 64 encoder that has a url friendly mode where it substitutes those characters. I&#x27;ve used that a few times to work around issues like this.')
