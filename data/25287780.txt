@@ -1,0 +1,1 @@
+Item(by='brinox', descendants=None, kids=None, score=None, time=1606994108, title=None, item_type='comment', url=None, parent=25287144, text='I think this would be nice to wait for a socket to be available instead of doing `sleep n`.')

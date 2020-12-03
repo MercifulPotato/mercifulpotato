@@ -1,0 +1,1 @@
+Item(by='Symmetry', descendants=None, kids=None, score=None, time=1606996205, title=None, item_type='comment', url=None, parent=25287715, text='It&#x27;s pretty normal for lower complexity cores to be more power efficient than higher complexity cores.  Many structures in a processor scale as N^2 with width in terms of both transistors and power usage.')

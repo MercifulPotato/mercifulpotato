@@ -1,1 +1,1 @@
-Item(by='Ask11', descendants=0, kids=None, score=3, time=1606932120, title='Show HN: Search speed metrics for any site on the web', item_type='story', url='https://treo.sh/sitespeed', parent=None, text=None)
+Item(by='Ask11', descendants=1, kids=[25287514], score=10, time=1606932120, title='Show HN: Search speed metrics for any site on the web', item_type='story', url='https://treo.sh/sitespeed', parent=None, text=None)

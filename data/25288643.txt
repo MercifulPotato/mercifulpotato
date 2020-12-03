@@ -1,0 +1,1 @@
+Item(by='baq', descendants=None, kids=None, score=None, time=1607002510, title=None, item_type='comment', url=None, parent=25288501, text='the biggest pain i&#x27;ve got with my postgres instances is upgrading them, and that&#x27;s without pretty much any storage backend extensions. i imagine using any extension is only going to make it harder to do.')

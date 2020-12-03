@@ -1,0 +1,1 @@
+Item(by='M2Ys4U', descendants=None, kids=None, score=None, time=1606993842, title=None, item_type='comment', url=None, parent=25287089, text='But HTTP&#x2F;1.1 using multiple TCP streams means that, where there are a lot of small requests, there&#x27;s a lot of bandwidth left on the table because the TCP window never grows.')

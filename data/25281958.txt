@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=1, kids=[25285439], score=20, time=1606944907, title='Using GitHub Issues as a Hugo Front End with GitHub Actions and Netlify', item_type='story', url='https://shazow.net/posts/github-issues-as-a-hugo-frontend/', parent=None, text=None)
+Item(by='todsacerdoti', descendants=3, kids=[25289044, 25288208, 25285439], score=33, time=1606944907, title='Using GitHub Issues as a Hugo Front End with GitHub Actions and Netlify', item_type='story', url='https://shazow.net/posts/github-issues-as-a-hugo-frontend/', parent=None, text=None)

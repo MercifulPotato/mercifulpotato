@@ -1,0 +1,1 @@
+Item(by='apta', descendants=None, kids=None, score=None, time=1606983771, title=None, item_type='comment', url=None, parent=25274747, text='golang definitely did not get it right. golang errors are error prone, I&#x27;ve seen several cases in production code where  they were either accidentally ignored or overwritten. Makes it terrible for writing safe software.')

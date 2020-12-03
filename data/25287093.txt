@@ -1,0 +1,1 @@
+Item(by='xxs', descendants=None, kids=None, score=None, time=1606986919, title=None, item_type='comment', url=None, parent=25285352, text='What kind of optimization. From performance point of view 64bytes would be a cache line (on most architectures), so if the message fits there, it&#x27;s good enough.')

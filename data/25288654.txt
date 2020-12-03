@@ -1,0 +1,1 @@
+Item(by='bsenftner', descendants=None, kids=None, score=None, time=1607002579, title=None, item_type='comment', url=None, parent=25286952, text='I just had the pleasure of optimizing a video subsystem startup from 44 seconds to just under 2 seconds. I expect to get down to 200 ms by end of day. I love optimization.')

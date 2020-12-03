@@ -1,0 +1,1 @@
+Item(by='dodobirdlord', descendants=None, kids=None, score=None, time=1606982874, title=None, item_type='comment', url=None, parent=25280253, text='The recommended runtime to use is containerd, which Docker itself is using under the hood. This is just about removing Docker as a piece of middleware.')

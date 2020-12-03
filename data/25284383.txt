@@ -1,1 +1,1 @@
-Item(by='lawnchair_larry', descendants=None, kids=None, score=None, time=1606960868, title=None, item_type='comment', url=None, parent=25284088, text='I agree that we should continue doing more things like the example given, also without using a labor union.')
+Item(by='lawnchair_larry', descendants=None, kids=[25287719], score=None, time=1606960868, title=None, item_type='comment', url=None, parent=25284088, text='I agree that we should continue doing more things like the example given, also without using a labor union.')

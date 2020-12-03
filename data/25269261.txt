@@ -1,1 +1,1 @@
-Item(by='benbreen', descendants=0, kids=None, score=2, time=1606853255, title='Red Star (Novel)', item_type='story', url='https://en.wikipedia.org/wiki/Red_Star_(novel)', parent=None, text=None)
+Item(by='benbreen', descendants=6, kids=[25288016, 25287403, 25287738], score=19, time=1606853255, title='Red Star (Novel)', item_type='story', url='https://en.wikipedia.org/wiki/Red_Star_(novel)', parent=None, text=None)

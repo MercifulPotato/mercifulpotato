@@ -1,1 +1,1 @@
-Item(by='artvark11', descendants=None, kids=None, score=None, time=1606878771, title=None, item_type='comment', url=None, parent=25272299, text='You can just use Firefox&#x27;s reader mode to display a website as text. No plugin required.')
+Item(by='artvark11', descendants=None, kids=[25288545], score=None, time=1606878771, title=None, item_type='comment', url=None, parent=25272299, text='You can just use Firefox&#x27;s reader mode to display a website as text. No plugin required.')

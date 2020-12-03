@@ -1,0 +1,1 @@
+Item(by='k__', descendants=None, kids=None, score=None, time=1607000660, title=None, item_type='comment', url=None, parent=25285419, text='I did some research, and it also seems that there is a way for containerd to manage Firecracker microvms.')

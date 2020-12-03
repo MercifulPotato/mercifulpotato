@@ -1,1 +1,1 @@
-Item(by='khuey', descendants=None, kids=None, score=None, time=1606979128, title=None, item_type='comment', url=None, parent=25286266, text='The AstraZeneca vaccine is not an mRNA vaccine. It&#x27;s also another new technique but it&#x27;s not that one.')
+Item(by='khuey', descendants=None, kids=[25286834], score=None, time=1606979128, title=None, item_type='comment', url=None, parent=25286266, text='The AstraZeneca vaccine is not an mRNA vaccine. It&#x27;s also another new technique but it&#x27;s not that one.')

@@ -1,0 +1,1 @@
+Item(by='eska', descendants=None, kids=None, score=None, time=1606996959, title=None, item_type='comment', url=None, parent=25280543, text='A simple example would be mostly running Linux applications on Linux machines (= containers), but having a Windows application that needs to run in a Windows VM on a Linux machine (VM, or a container in a VM).')

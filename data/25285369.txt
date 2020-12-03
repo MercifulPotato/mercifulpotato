@@ -1,1 +1,1 @@
-Item(by='AshWolfy', descendants=None, kids=None, score=None, time=1606969640, title=None, item_type='comment', url=None, parent=25283756, text='Mobs are a fact of life, you can either live in denial, or you can try and make things better')
+Item(by='AshWolfy', descendants=None, kids=[25286882], score=None, time=1606969640, title=None, item_type='comment', url=None, parent=25283756, text='Mobs are a fact of life, you can either live in denial, or you can try and make things better')

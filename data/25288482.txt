@@ -1,0 +1,1 @@
+Item(by='rattray', descendants=None, kids=[25288816], score=None, time=1607001310, title=None, item_type='comment', url=None, parent=25287793, text='Full title includes a summary of benchmark results for the lazy:<p>Timescaledb achieved 6000x higher inserts, 5-175x faster queries, 150x-220x cheaper<p>Benchmarks open-source, methodology in post.')

@@ -1,1 +1,1 @@
-Item(by='arcticbull', descendants=None, kids=None, score=None, time=1606969722, title=None, item_type='comment', url=None, parent=25285320, text='Doesn&#x27;t seem to be working in this case though?')
+Item(by='arcticbull', descendants=None, kids=[25286794], score=None, time=1606969722, title=None, item_type='comment', url=None, parent=25285320, text='Doesn&#x27;t seem to be working in this case though?')

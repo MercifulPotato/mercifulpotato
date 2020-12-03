@@ -1,0 +1,1 @@
+Item(by='rockwotj', descendants=None, kids=[25288436], score=None, time=1606984435, title=None, item_type='comment', url=None, parent=25285264, text='My company uses bazel to build containers and the distroless images that Google provides, it&#x27;s a really nice setup IMO')

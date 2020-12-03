@@ -1,1 +1,1 @@
-Item(by='joel_ms', descendants=None, kids=None, score=None, time=1606980607, title=None, item_type='comment', url=None, parent=25285427, text='&gt;There&#x27;s ordinary mathematical reasons for the 4 billion limit - it makes the address space 32 bits<p>32 bit adress spaces are toys, not tools.')
+Item(by=None, descendants=None, kids=None, score=None, time=1606980607, title=None, item_type='comment', url=None, parent=25285427, text=None)
