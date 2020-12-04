@@ -1,1 +1,1 @@
-Item(by='JxLS-cpgbe0', descendants=None, kids=None, score=None, time=1607021805, title=None, item_type='comment', url=None, parent=25291960, text='<i>Some</i> wire transfers are instant and they are much more expensive than BTC or ETH')
+Item(by='JxLS-cpgbe0', descendants=None, kids=[25295720], score=None, time=1607021805, title=None, item_type='comment', url=None, parent=25291960, text='<i>Some</i> wire transfers are instant and they are much more expensive than BTC or ETH')

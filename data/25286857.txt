@@ -1,1 +1,1 @@
-Item(by='knorker', descendants=None, kids=None, score=None, time=1606984494, title=None, item_type='comment', url=None, parent=25284399, text='I know. I think what I said is a fair description.<p>I boggles the mind how someone could think this is ethical, and can defend this.')
+Item(by='knorker', descendants=None, kids=[25297581], score=None, time=1606984494, title=None, item_type='comment', url=None, parent=25284399, text='I know. I think what I said is a fair description.<p>I boggles the mind how someone could think this is ethical, and can defend this.')

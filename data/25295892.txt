@@ -1,0 +1,1 @@
+Item(by='overcast', descendants=None, kids=[25297763], score=None, time=1607033472, title=None, item_type='comment', url=None, parent=25292602, text='Would that really explain the difference between 5 minutes on Timescale and 2 weeks on Timestream? Timeseries databases need the ability to ingest data rapidly.')

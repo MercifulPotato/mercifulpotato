@@ -1,0 +1,1 @@
+Item(by='McP', descendants=None, kids=None, score=None, time=1607037316, title=None, item_type='comment', url=None, parent=25289447, text='You haven&#x27;t yet found the optimal solution. I had the same problem and it wasn&#x27;t until a later problem that I realised XOR could be implemented with fewer nands.')

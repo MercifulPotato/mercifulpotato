@@ -1,1 +1,1 @@
-Item(by='s_dev', descendants=None, kids=None, score=None, time=1607007921, title=None, item_type='comment', url=None, parent=25288637, text='Is Argon2 as tried and tested as bcrypt?')
+Item(by='s_dev', descendants=None, kids=[25297530], score=None, time=1607007921, title=None, item_type='comment', url=None, parent=25288637, text='Is Argon2 as tried and tested as bcrypt?')

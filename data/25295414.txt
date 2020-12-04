@@ -1,0 +1,1 @@
+Item(by='tenebrisalietum', descendants=None, kids=[25296569, 25295906], score=None, time=1607031318, title=None, item_type='comment', url=None, parent=25289730, text='The article doesn&#x27;t describe a stack.  The closest thing is progressive bitwise OR operations on a ring buffer, good until your whole ring buffer is filled with 1s.')

@@ -1,0 +1,1 @@
+Item(by='mrfusion', descendants=2, kids=[25294623], score=2, time=1607026217, title='Ask HN: How did the protein folding algo get past complexity?', item_type='story', url=None, parent=None, text='Isn’t solving protein folding np-complete?  How did this new algo get past that?  Did it solve p=np too?')

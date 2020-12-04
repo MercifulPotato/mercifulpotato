@@ -1,0 +1,1 @@
+Item(by='jancsika', descendants=None, kids=None, score=None, time=1607035937, title=None, item_type='comment', url=None, parent=25295429, text='At least for me, the terminal is the only place where latency is tolerable on underpowered, crappy machines. This is because my keyboard input stream will always trigger behavior deterministically in the terminal.')

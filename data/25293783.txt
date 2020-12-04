@@ -1,0 +1,1 @@
+Item(by='riyadparvez', descendants=None, kids=[25294198, 25294124, 25293822], score=None, time=1607025251, title=None, item_type='comment', url=None, parent=25281377, text='&gt; CoroBase is a research database engine that models transactions as C++20 stackless coroutine to hide CPU cache misses.<p>Can someone please explain that this means? I am really curious to know.')

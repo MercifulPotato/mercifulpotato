@@ -1,1 +1,1 @@
-Item(by='pgayed', descendants=None, kids=None, score=None, time=1607023682, title=None, item_type='comment', url=None, parent=25293136, text='A business doesn’t get to exist because of its employees. It gets to exist because of its customers.')
+Item(by='pgayed', descendants=None, kids=[25294873], score=None, time=1607023682, title=None, item_type='comment', url=None, parent=25293136, text='A business doesn’t get to exist because of its employees. It gets to exist because of its customers.')

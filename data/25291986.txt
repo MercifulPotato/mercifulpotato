@@ -1,1 +1,1 @@
-Item(by='silveraxe93', descendants=None, kids=None, score=None, time=1607017953, title=None, item_type='comment', url=None, parent=25289538, text='the Javascript tag is misspelled in this article too:<p>Karen on Python mocks: threading.Timer')
+Item(by='silveraxe93', descendants=None, kids=[25296547], score=None, time=1607017953, title=None, item_type='comment', url=None, parent=25289538, text='the Javascript tag is misspelled in this article too:<p>Karen on Python mocks: threading.Timer')

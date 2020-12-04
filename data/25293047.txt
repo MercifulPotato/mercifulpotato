@@ -1,1 +1,1 @@
-Item(by='sildur', descendants=None, kids=None, score=None, time=1607022387, title=None, item_type='comment', url=None, parent=25292868, text='Good luck migrating your credentials out of apple keychain. I had to do it one by one. Never again.')
+Item(by='sildur', descendants=None, kids=[25295790], score=None, time=1607022387, title=None, item_type='comment', url=None, parent=25292868, text='Good luck migrating your credentials out of apple keychain. I had to do it one by one. Never again.')

@@ -1,0 +1,1 @@
+Item(by='chrisweekly', descendants=None, kids=None, score=None, time=1607045311, title=None, item_type='comment', url=None, parent=25293483, text='Yeah, pnpm helps fix a related issue wherein flat node_modules (ie, npm or yarn) can lead to the existence of undeclared dependencies. Check it out if you care about proper dependency mgmt.')

@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=1, time=1606987570, title='Different compilers deal with provably unused entities', item_type='story', url='https://quuxplusone.github.io/blog/2020/12/02/unused-private-member/', parent=None, text=None)
+Item(by='ingve', descendants=1, kids=[25297622], score=18, time=1606987570, title='How different compilers deal with provably unused entities', item_type='story', url='https://quuxplusone.github.io/blog/2020/12/02/unused-private-member/', parent=None, text=None)

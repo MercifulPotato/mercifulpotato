@@ -1,1 +1,1 @@
-Item(by='pablovidal', descendants=0, kids=None, score=4, time=1607020413, title='Scaling security services with AWS organizations', item_type='story', url='https://segment.com/blog/segment-aws-organizations', parent=None, text=None)
+Item(by='pablovidal', descendants=1, kids=[25295579], score=5, time=1607020413, title='Scaling security services with AWS organizations', item_type='story', url='https://segment.com/blog/segment-aws-organizations', parent=None, text=None)

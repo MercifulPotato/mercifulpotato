@@ -1,1 +1,1 @@
-Item(by='wwwhizz', descendants=None, kids=None, score=None, time=1606982108, title=None, item_type='comment', url=None, parent=25286474, text='Simply run your app in a VM, that should degrade performance, customizable as well.')
+Item(by='wwwhizz', descendants=None, kids=[25296080], score=None, time=1606982108, title=None, item_type='comment', url=None, parent=25286474, text='Simply run your app in a VM, that should degrade performance, customizable as well.')

@@ -1,0 +1,1 @@
+Item(by='nallo', descendants=None, kids=None, score=None, time=1607036595, title=None, item_type='comment', url=None, parent=25294926, text='Always make sure you have strong single point of failure on the web. \nAlso weigh the cost of doing local backups against that point. \nAlso keep in mind that everything will be lost at some point..')

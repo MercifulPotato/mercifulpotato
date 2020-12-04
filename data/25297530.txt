@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=None, score=None, time=1607042196, title=None, item_type='comment', url=None, parent=25289483, text='It doesn&#x27;t matter. For password hashing, Argon2 is fine. bcrypt is fine. scrypt is fine. You should distrust people who make a big deal out of which one you use.')

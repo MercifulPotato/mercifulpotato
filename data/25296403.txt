@@ -1,0 +1,1 @@
+Item(by='qz2', descendants=None, kids=None, score=None, time=1607035664, title=None, item_type='comment', url=None, parent=25294410, text='It&#x27;ll still be faster than NuGet. I had to wait 12 minutes (!) to install a package the other day while it resolved dependencies on a single package.')

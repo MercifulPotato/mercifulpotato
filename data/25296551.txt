@@ -1,0 +1,1 @@
+Item(by='erik', descendants=None, kids=[25296945], score=None, time=1607036409, title=None, item_type='comment', url=None, parent=25296009, text='Rosetta 2 includes both ahead-of-time translation and run-time emulation.  It can run x64 jit software for example.')

@@ -1,1 +1,1 @@
-Item(by='abofh', descendants=None, kids=None, score=None, time=1606977658, title=None, item_type='comment', url=None, parent=25285041, text='And telephones are for phone conversations, not squealy modems!  Use an ISDN line like god intended!')
+Item(by='abofh', descendants=None, kids=[25298355], score=None, time=1606977658, title=None, item_type='comment', url=None, parent=25285041, text='And telephones are for phone conversations, not squealy modems!  Use an ISDN line like god intended!')

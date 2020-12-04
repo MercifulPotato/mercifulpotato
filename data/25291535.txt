@@ -1,1 +1,1 @@
-Item(by='pwm', descendants=None, kids=None, score=None, time=1607016286, title=None, item_type='comment', url=None, parent=25291135, text='The fundamental point of bitcoin is that you don’t need banks. Whether that’s good or bad will be debated for years to come.')
+Item(by='pwm', descendants=None, kids=[25295756], score=None, time=1607016286, title=None, item_type='comment', url=None, parent=25291135, text='The fundamental point of bitcoin is that you don’t need banks. Whether that’s good or bad will be debated for years to come.')

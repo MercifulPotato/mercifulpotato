@@ -1,1 +1,1 @@
-Item(by='jonfw', descendants=None, kids=None, score=None, time=1607023067, title=None, item_type='comment', url=None, parent=25292538, text='It&#x27;s great that she&#x27;s made that choice, and it&#x27;s also great that it&#x27;s her choice to make. That wasn&#x27;t the case before.')
+Item(by='jonfw', descendants=None, kids=[25294349], score=None, time=1607023067, title=None, item_type='comment', url=None, parent=25292538, text='It&#x27;s great that she&#x27;s made that choice, and it&#x27;s also great that it&#x27;s her choice to make. That wasn&#x27;t the case before.')

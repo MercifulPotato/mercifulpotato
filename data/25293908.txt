@@ -1,1 +1,1 @@
-Item(by='pc86', descendants=None, kids=None, score=None, time=1607025708, title=None, item_type='comment', url=None, parent=25293551, text='Do you think half the programmers in the country could make it through a FB interview?')
+Item(by='pc86', descendants=None, kids=[25297919], score=None, time=1607025708, title=None, item_type='comment', url=None, parent=25293551, text='Do you think half the programmers in the country could make it through a FB interview?')

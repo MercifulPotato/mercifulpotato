@@ -1,1 +1,1 @@
-Item(by='garritfra', descendants=0, kids=None, score=2, time=1607022548, title='Git-bisect – Use binary search to find the commit that introduced a bug', item_type='story', url='https://git-scm.com/docs/git-bisect', parent=None, text=None)
+Item(by='garritfra', descendants=0, kids=None, score=3, time=1607022548, title='Git-bisect – Use binary search to find the commit that introduced a bug', item_type='story', url='https://git-scm.com/docs/git-bisect', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='kzrdude', descendants=None, kids=None, score=None, time=1607006678, title=None, item_type='comment', url=None, parent=25288925, text='A testament to the brokenness of making  `[` a command')
+Item(by='kzrdude', descendants=None, kids=[25297107], score=None, time=1607006678, title=None, item_type='comment', url=None, parent=25288925, text='A testament to the brokenness of making  `[` a command')

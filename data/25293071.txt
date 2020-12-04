@@ -1,1 +1,1 @@
-Item(by='tomp', descendants=None, kids=None, score=None, time=1607022466, title=None, item_type='comment', url=None, parent=25292600, text='&gt; That&#x27;s how it is supposed to work.<p>Are you sure? Even primary school bullying is better, at least you can <i>see</i> the abuser.')
+Item(by='tomp', descendants=None, kids=[25294597], score=None, time=1607022466, title=None, item_type='comment', url=None, parent=25292600, text='&gt; That&#x27;s how it is supposed to work.<p>Are you sure? Even primary school bullying is better, at least you can <i>see</i> the abuser.')

@@ -1,1 +1,1 @@
-Item(by='saba-yas', descendants=0, kids=None, score=1, time=1607021659, title='Why Waterloo grads are everywhere in Silicon Valley', item_type='story', url='https://blog.arctype.com/uw/', parent=None, text=None)
+Item(by='saba-yas', descendants=1, kids=[25293765], score=6, time=1607021659, title='Why Waterloo grads are everywhere in Silicon Valley', item_type='story', url='https://blog.arctype.com/uw/', parent=None, text=None)

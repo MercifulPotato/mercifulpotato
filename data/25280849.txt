@@ -1,1 +1,1 @@
-Item(by='eric_cc', descendants=None, kids=None, score=None, time=1606939387, title=None, item_type='comment', url=None, parent=25272377, text='Why? It&#x27;s a really fantastic feature in my opinion that turns a noisy chat room into more of a focused forum.')
+Item(by='eric_cc', descendants=None, kids=[25298046], score=None, time=1606939387, title=None, item_type='comment', url=None, parent=25272377, text='Why? It&#x27;s a really fantastic feature in my opinion that turns a noisy chat room into more of a focused forum.')

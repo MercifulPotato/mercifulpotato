@@ -1,1 +1,1 @@
-Item(by='tanjtanjtanj', descendants=None, kids=None, score=None, time=1607007062, title=None, item_type='comment', url=None, parent=25286063, text='They are correct for Japanese, probably not so much for Chinese.')
+Item(by='tanjtanjtanj', descendants=None, kids=[25295139], score=None, time=1607007062, title=None, item_type='comment', url=None, parent=25286063, text='They are correct for Japanese, probably not so much for Chinese.')

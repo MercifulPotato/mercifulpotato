@@ -1,0 +1,1 @@
+Item(by='grizzles', descendants=None, kids=None, score=None, time=1607026933, title=None, item_type='comment', url=None, parent=25289574, text='Hope they do a wasm emscripten build like sqlite has too. Would be an incredible building block for the move to distributed computing.')

@@ -1,0 +1,1 @@
+Item(by='djk447', descendants=None, kids=[25295652], score=None, time=1607031771, title=None, item_type='comment', url=None, parent=25289989, text='Why not create an index on user_id, time? Why do you need a unique reference back to the row? We find that they&#x27;re often (though certainly not always) kind of meaningless and&#x2F;or unnecessary for timeseries workloads.')

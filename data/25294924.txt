@@ -1,0 +1,1 @@
+Item(by='mst', descendants=None, kids=None, score=None, time=1607029576, title=None, item_type='comment', url=None, parent=25294410, text='I built a resolver like this for perl&#x2F;CPAN at once point.<p>Then realised it would have this problem a few days before I&#x27;d planned to release, and didn&#x27;t ship it.<p>I am feeling very lucky right now.')

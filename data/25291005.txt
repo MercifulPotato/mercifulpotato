@@ -1,1 +1,1 @@
-Item(by='xyst', descendants=None, kids=None, score=None, time=1607014428, title=None, item_type='comment', url=None, parent=25290327, text='Those stories are also told in a video game called &quot;Red Dead Redemption.&quot; Stories might be fictional, but the agency is very real.')
+Item(by='xyst', descendants=None, kids=[25295214], score=None, time=1607014428, title=None, item_type='comment', url=None, parent=25290327, text='Those stories are also told in a video game called &quot;Red Dead Redemption.&quot; Stories might be fictional, but the agency is very real.')

@@ -1,0 +1,1 @@
+Item(by='mssundaram', descendants=None, kids=[25295081], score=None, time=1607029214, title=None, item_type='comment', url=None, parent=25289631, text='How do I use this for Typescript and TSX? I see a few mentions of Typescript in the code (e.g. a transform plugin) but no guidance on how to set it up')

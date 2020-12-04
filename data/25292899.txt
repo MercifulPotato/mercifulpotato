@@ -1,1 +1,1 @@
-Item(by='pashamur', descendants=None, kids=None, score=None, time=1607021706, title=None, item_type='comment', url=None, parent=25291829, text='Technically, everyone in the U.S. was an investor in gold up until 1971 since USD was supposedly backed 1-1 by gold :)')
+Item(by='pashamur', descendants=None, kids=[25295469], score=None, time=1607021706, title=None, item_type='comment', url=None, parent=25291829, text='Technically, everyone in the U.S. was an investor in gold up until 1971 since USD was supposedly backed 1-1 by gold :)')

@@ -1,1 +1,1 @@
-Item(by='jb1991', descendants=None, kids=None, score=None, time=1607023770, title=None, item_type='comment', url=None, parent=25290385, text='For the vast majority of users (who are not developers or doing production video work, etc), 16 GB is plenty. That&#x27;s why.')
+Item(by='jb1991', descendants=None, kids=[25295279], score=None, time=1607023770, title=None, item_type='comment', url=None, parent=25290385, text='For the vast majority of users (who are not developers or doing production video work, etc), 16 GB is plenty. That&#x27;s why.')
