@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=[25301962, 25302021], score=None, time=1607087844, title=None, item_type='comment', url=None, parent=25301817, text='Originally (about 20 years ago) java threads were M:N I think. How is this different? If I had to guess, they are not opaque to the VM which has more freedom to optimize them.')

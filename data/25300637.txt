@@ -1,0 +1,1 @@
+Item(by='mjevans', descendants=None, kids=None, score=None, time=1607075306, title=None, item_type='comment', url=None, parent=25300618, text='This is based on trying to prevent profiling based on which fonts or versions of things are precached by behaving as if they are not cached, when in reality serving a local file with a simulated delay.')

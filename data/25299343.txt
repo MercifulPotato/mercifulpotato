@@ -1,1 +1,1 @@
-Item(by='llukas', descendants=None, kids=None, score=None, time=1607059922, title=None, item_type='comment', url=None, parent=25299035, text='Why did you assume those jobs will stay in US?')
+Item(by='llukas', descendants=None, kids=[25301328], score=None, time=1607059922, title=None, item_type='comment', url=None, parent=25299035, text='Why did you assume those jobs will stay in US?')

@@ -1,0 +1,1 @@
+Item(by='SergeAx', descendants=None, kids=None, score=None, time=1607087718, title=None, item_type='comment', url=None, parent=25298697, text='Okay, great point, but who will pay for that? Serving content costs money: traffic, extra load on CPU and storages, and now on serverless functions too.<p>One spider may be equivalent of hundreds of real users. And it spoils caches too.')

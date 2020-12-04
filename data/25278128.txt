@@ -1,1 +1,1 @@
-Item(by='ignoramous', descendants=14, kids=[25295359, 25294720], score=140, time=1606927180, title='Using Bloom filters to efficiently synchronise hash graphs', item_type='story', url='https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html', parent=None, text=None)
+Item(by='ignoramous', descendants=16, kids=[25295359, 25294720], score=153, time=1606927180, title='Using Bloom filters to efficiently synchronise hash graphs', item_type='story', url='https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html', parent=None, text=None)

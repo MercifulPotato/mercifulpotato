@@ -1,1 +1,1 @@
-Item(by='meowster', descendants=None, kids=None, score=None, time=1607057026, title=None, item_type='comment', url=None, parent=25298434, text='I&#x27;m having trouble finding a size chart, has anyone else found one?')
+Item(by='meowster', descendants=None, kids=[25300261], score=None, time=1607057026, title=None, item_type='comment', url=None, parent=25298434, text='I&#x27;m having trouble finding a size chart, has anyone else found one?')

@@ -1,0 +1,1 @@
+Item(by='dtech', descendants=None, kids=None, score=None, time=1607091283, title=None, item_type='comment', url=None, parent=25301676, text='Won&#x27;t the resulting data look random too? In that case I see little benefit of your approach over an UUID as a PK or using a sequential integer as a PK and adding a UUID field with a btree index.')

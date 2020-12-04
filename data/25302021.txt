@@ -1,0 +1,1 @@
+Item(by='kasperni', descendants=None, kids=None, score=None, time=1607088676, title=None, item_type='comment', url=None, parent=25301902, text='Green threads was only available on Solaris. They did not support more than 1 cpu. They were not particular particular performant either. And on top of that had issues with calling native code.')

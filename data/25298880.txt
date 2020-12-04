@@ -1,1 +1,1 @@
-Item(by='bobbylarrybobby', descendants=None, kids=None, score=None, time=1607055528, title=None, item_type='comment', url=None, parent=25298315, text='Do you literally concatenate the two? I&#x27;ve been wondering how to get plaid to work with my accounts that have MFA.')
+Item(by='bobbylarrybobby', descendants=None, kids=[25301236], score=None, time=1607055528, title=None, item_type='comment', url=None, parent=25298315, text='Do you literally concatenate the two? I&#x27;ve been wondering how to get plaid to work with my accounts that have MFA.')

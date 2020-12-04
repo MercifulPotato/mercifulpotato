@@ -1,1 +1,1 @@
-Item(by='busterarm', descendants=None, kids=None, score=None, time=1607026720, title=None, item_type='comment', url=None, parent=25282914, text='We can hold ourselves to a high standard.  It&#x27;s a choice.')
+Item(by='busterarm', descendants=None, kids=[25301514], score=None, time=1607026720, title=None, item_type='comment', url=None, parent=25282914, text='We can hold ourselves to a high standard.  It&#x27;s a choice.')

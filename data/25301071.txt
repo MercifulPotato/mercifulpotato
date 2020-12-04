@@ -1,0 +1,1 @@
+Item(by='kasperni', descendants=None, kids=None, score=None, time=1607079991, title=None, item_type='comment', url=None, parent=25300233, text='For those that care about numbers: Loom targets ~ 200b memory overhead per virtual thread. And ~ 100ns per context switch between virtual threads.')

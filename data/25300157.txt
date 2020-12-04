@@ -1,0 +1,1 @@
+Item(by='efitz', descendants=None, kids=None, score=None, time=1607069460, title=None, item_type='comment', url=None, parent=25297490, text='If you just want to fix typos then it seems to me that Damerau-Levenshtein distance would be the best approach - a DL distance of 1 from a dictionary word is a high likelihood of a transposition or a missing or extra character.')

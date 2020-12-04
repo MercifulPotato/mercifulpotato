@@ -1,0 +1,1 @@
+Item(by='sdan', descendants=None, kids=None, score=None, time=1607075100, title=None, item_type='comment', url=None, parent=25300396, text='Makes sense now that cross-site resources can&#x27;t be shared (previously your Google Font loaded on another site, which is downloaded into your local cache could be used, but it seems like that isn&#x27;t possible anymore).')

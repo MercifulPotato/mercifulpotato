@@ -1,1 +1,1 @@
-Item(by='alisonkisk', descendants=None, kids=None, score=None, time=1607061352, title=None, item_type='comment', url=None, parent=25299247, text='That&#x27;s only 1k in double-pixel remdering. Much less smooth.')
+Item(by='alisonkisk', descendants=None, kids=[25301811], score=None, time=1607061352, title=None, item_type='comment', url=None, parent=25299247, text='That&#x27;s only 1k in double-pixel remdering. Much less smooth.')

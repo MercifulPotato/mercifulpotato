@@ -1,0 +1,1 @@
+Item(by='alltakendamned', descendants=None, kids=None, score=None, time=1607072426, title=None, item_type='comment', url=None, parent=25299683, text='just use prepared statements instead of string concantenation to build your SQL statements.')

@@ -1,1 +1,1 @@
-Item(by='undersuit', descendants=None, kids=None, score=None, time=1607022763, title=None, item_type='comment', url=None, parent=25292026, text='You enclose the product in the wax paper and seal it closed with the slightest amount of heat.')
+Item(by='undersuit', descendants=None, kids=[25301278], score=None, time=1607022763, title=None, item_type='comment', url=None, parent=25292026, text='You enclose the product in the wax paper and seal it closed with the slightest amount of heat.')

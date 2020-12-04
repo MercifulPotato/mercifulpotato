@@ -1,1 +1,1 @@
-Item(by='testfoobar', descendants=0, kids=None, score=1, time=1607058572, title='Scientists solve mystery of mass coho salmon deaths', item_type='story', url='https://www.latimes.com/california/story/2020-12-03/coho-salmon-tire-chemical', parent=None, text=None)
+Item(by='testfoobar', descendants=0, kids=None, score=2, time=1607058572, title='Scientists solve mystery of mass coho salmon deaths', item_type='story', url='https://www.latimes.com/california/story/2020-12-03/coho-salmon-tire-chemical', parent=None, text=None)
