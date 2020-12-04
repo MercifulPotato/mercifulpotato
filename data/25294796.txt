@@ -1,1 +1,1 @@
-Item(by='distances', descendants=None, kids=[25295075], score=None, time=1607029035, title=None, item_type='comment', url=None, parent=25290748, text='TB3 is 40Gbps, USB-C 3.2 10Gbps. 4K@60Hz is possible over USB-C but 4K@120+Hz only with TB3 AFAIK (or dedicated DP cable of course).')
+Item(by='distances', descendants=None, kids=[25295075, 25303488], score=None, time=1607029035, title=None, item_type='comment', url=None, parent=25290748, text='TB3 is 40Gbps, USB-C 3.2 10Gbps. 4K@60Hz is possible over USB-C but 4K@120+Hz only with TB3 AFAIK (or dedicated DP cable of course).')

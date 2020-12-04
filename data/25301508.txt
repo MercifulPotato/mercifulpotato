@@ -1,1 +1,1 @@
-Item(by='hoseja', descendants=None, kids=None, score=None, time=1607084727, title=None, item_type='comment', url=None, parent=25301114, text='Based on the features; Hungarian, Finnish, or Estonian.')
+Item(by='hoseja', descendants=None, kids=[25302537], score=None, time=1607084727, title=None, item_type='comment', url=None, parent=25301114, text='Based on the features; Hungarian, Finnish, or Estonian.')

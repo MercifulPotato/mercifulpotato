@@ -1,0 +1,1 @@
+Item(by='ta988', descendants=None, kids=[25305747], score=None, time=1607096909, title=None, item_type='comment', url=None, parent=25301545, text='I&#x27;m not familiar with concurrency in Erlang or Scala, could you explain how it differs from the approach in Kotlin (which I know)?')

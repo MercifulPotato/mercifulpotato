@@ -1,0 +1,1 @@
+Item(by='antman', descendants=None, kids=None, score=None, time=1607111508, title=None, item_type='comment', url=None, parent=25296318, text='Rpi has capability of being simultaneously an access point for your device and a bridge towards another wifi network but in my tests on RPi3 it was unstable. Better use wifi and cable')

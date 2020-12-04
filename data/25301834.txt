@@ -1,1 +1,1 @@
-Item(by='fuoqi', descendants=None, kids=None, score=None, time=1607087372, title=None, item_type='comment', url=None, parent=25301437, text='I wonder in how many billions of dollars future generations will apprise this mistake.')
+Item(by='fuoqi', descendants=None, kids=[25303238], score=None, time=1607087372, title=None, item_type='comment', url=None, parent=25301437, text='I wonder in how many billions of dollars future generations will apprise this mistake.')

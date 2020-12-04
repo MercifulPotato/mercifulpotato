@@ -1,1 +1,1 @@
-Item(by='MikeTheGreat', descendants=None, kids=None, score=None, time=1607057634, title=None, item_type='comment', url=None, parent=25294021, text='That video &quot;has been taken down by the uploader&quot;, according to YouTube.<p>Got another link?')
+Item(by='MikeTheGreat', descendants=None, kids=[25303756], score=None, time=1607057634, title=None, item_type='comment', url=None, parent=25294021, text='That video &quot;has been taken down by the uploader&quot;, according to YouTube.<p>Got another link?')

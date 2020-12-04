@@ -1,0 +1,1 @@
+Item(by='ultimateocelot', descendants=None, kids=None, score=None, time=1607100879, title=None, item_type='comment', url=None, parent=25300942, text='If you want to extract info from Wikipedia, you could use MediaWiki to parse the content and then scrape the (relatively) consistently formatted pages. Might be an easier angle of attack.')

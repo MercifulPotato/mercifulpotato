@@ -1,1 +1,1 @@
-Item(by='Pxtl', descendants=None, kids=None, score=None, time=1607088867, title=None, item_type='comment', url=None, parent=25301743, text='The &quot;profile picture = settings&quot; pattern takes that prize for me.')
+Item(by='Pxtl', descendants=None, kids=[25304273], score=None, time=1607088867, title=None, item_type='comment', url=None, parent=25301743, text='The &quot;profile picture = settings&quot; pattern takes that prize for me.')

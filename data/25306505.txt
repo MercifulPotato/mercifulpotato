@@ -1,0 +1,1 @@
+Item(by='sundbry', descendants=None, kids=[25307038], score=None, time=1607109725, title=None, item_type='comment', url=None, parent=25305502, text='If you do this in your application code, you can just store it as a 64 bit integer in postgres and optimize your index significantly, instead of using a varchar as the backing data type. These ids pack just right into 64 bits.')

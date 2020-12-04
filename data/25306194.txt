@@ -1,0 +1,1 @@
+Item(by='JaggerJo', descendants=None, kids=[25306235], score=None, time=1607108162, title=None, item_type='comment', url=None, parent=25306164, text='what exactly do you mean by ‘concurrency’ ?<p>F#’s async workflows are supported.<p>Not sure how this is implemented behind the covers - I guess it get’s compiled to JS promises.')

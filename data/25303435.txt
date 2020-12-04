@@ -1,0 +1,1 @@
+Item(by='37ef_ced3', descendants=None, kids=None, score=None, time=1607096310, title=None, item_type='comment', url=None, parent=25298019, text='The network parameters are passed in as a struct of float arrays. This struct can be simply read from a file, or from a socket, or from some other more complicated format. This is explained in every generated header file')

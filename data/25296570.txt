@@ -1,1 +1,1 @@
-Item(by='dekhn', descendants=None, kids=None, score=None, time=1607036485, title=None, item_type='comment', url=None, parent=25293629, text='I really think you missed an opportunity to come back as a paid consultant.')
+Item(by='dekhn', descendants=None, kids=[25303027], score=None, time=1607036485, title=None, item_type='comment', url=None, parent=25293629, text='I really think you missed an opportunity to come back as a paid consultant.')

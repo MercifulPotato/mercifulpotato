@@ -1,0 +1,1 @@
+Item(by='angio', descendants=None, kids=None, score=None, time=1607113420, title=None, item_type='comment', url=None, parent=25307261, text='You can write models in F# (with CLIMutables everywhere), but then you need to put models in a separate project, then add a C# project for migrations, and finally reference both projects from your ASP.NET app.')

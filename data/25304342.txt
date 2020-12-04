@@ -1,0 +1,1 @@
+Item(by='jrochkind1', descendants=None, kids=[25305620], score=None, time=1607099945, title=None, item_type='comment', url=None, parent=25288188, text='It would be good to put the width (total number of possible keys) in the README.<p>And what does it do for collisions, does it detect&#x2F;recover?')

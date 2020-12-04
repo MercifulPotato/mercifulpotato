@@ -1,1 +1,1 @@
-Item(by='paulryanrogers', descendants=None, kids=None, score=None, time=1607089055, title=None, item_type='comment', url=None, parent=25301870, text='Eich wasn&#x27;t fired for making JS. He was fired because of some political donations and opposing same sex marriage.')
+Item(by='paulryanrogers', descendants=None, kids=[25303513], score=None, time=1607089055, title=None, item_type='comment', url=None, parent=25301870, text='Eich wasn&#x27;t fired for making JS. He was fired because of some political donations and opposing same sex marriage.')

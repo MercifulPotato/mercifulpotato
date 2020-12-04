@@ -1,0 +1,1 @@
+Item(by='ForHackernews', descendants=None, kids=[25304714], score=None, time=1607100578, title=None, item_type='comment', url=None, parent=25302841, text='&gt; 2) a non integer primary key is slow<p>Is this actually true in Postgres? Unless things have changed Postgres doesn&#x27;t keep clustered indexes so index fragmentation is not an issue.')

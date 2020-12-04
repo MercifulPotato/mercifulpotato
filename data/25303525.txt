@@ -1,0 +1,1 @@
+Item(by='37ef_ced3', descendants=None, kids=None, score=None, time=1607096627, title=None, item_type='comment', url=None, parent=25302969, text='Train on a GPU with any tool, then write the weights, biases, and batchnorm parameters to a file (just a sequence of floats, no other formatting). NN-512 does inference only')

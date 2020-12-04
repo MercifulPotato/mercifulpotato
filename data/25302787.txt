@@ -1,0 +1,1 @@
+Item(by='pron', descendants=None, kids=[25303792], score=None, time=1607093393, title=None, item_type='comment', url=None, parent=25302648, text='<p><pre><code>    var myThreadFactory = Thread.builder().virtual(Executors.newSingleThreadExecutor()).factory();\n</code></pre>\nAll threads created by this thread factory will be scheduled to the same kernel thread.')

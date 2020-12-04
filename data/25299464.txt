@@ -1,1 +1,1 @@
-Item(by='p00f', descendants=None, kids=None, score=None, time=1607061386, title=None, item_type='comment', url=None, parent=25298701, text='Check out hunter instead of ranger, and sk instead of fzf')
+Item(by='p00f', descendants=None, kids=[25305166], score=None, time=1607061386, title=None, item_type='comment', url=None, parent=25298701, text='Check out hunter instead of ranger, and sk instead of fzf')

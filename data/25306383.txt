@@ -1,0 +1,1 @@
+Item(by='codetrotter', descendants=None, kids=None, score=None, time=1607109123, title=None, item_type='comment', url=None, parent=25305948, text='Looks like it wants you to type --help, not -h.<p>Still weird though, since -h is indeed a very very common shorthand used in many commands.')

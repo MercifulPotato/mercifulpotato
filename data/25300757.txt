@@ -1,1 +1,1 @@
-Item(by='TeMPOraL', descendants=None, kids=None, score=None, time=1607076488, title=None, item_type='comment', url=None, parent=25300727, text='Why would we be happy in our ancestral environment? Evolution doesn&#x27;t optimize for happiness, but for reproductive fitness.')
+Item(by='TeMPOraL', descendants=None, kids=[25304777], score=None, time=1607076488, title=None, item_type='comment', url=None, parent=25300727, text='Why would we be happy in our ancestral environment? Evolution doesn&#x27;t optimize for happiness, but for reproductive fitness.')

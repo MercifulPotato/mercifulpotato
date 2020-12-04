@@ -1,1 +1,1 @@
-Item(by='jnwatson', descendants=None, kids=None, score=None, time=1607088449, title=None, item_type='comment', url=None, parent=25301419, text='It is an unfortunate abuse of an existing facility for something quite different.')
+Item(by='jnwatson', descendants=None, kids=[25304750], score=None, time=1607088449, title=None, item_type='comment', url=None, parent=25301419, text='It is an unfortunate abuse of an existing facility for something quite different.')

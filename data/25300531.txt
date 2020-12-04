@@ -1,1 +1,1 @@
-Item(by='Retric', descendants=None, kids=None, score=None, time=1607074053, title=None, item_type='comment', url=None, parent=25299654, text='Lot’s of tradeoffs here, making stored procedures more like say Ruby isn’t free.')
+Item(by='Retric', descendants=None, kids=[25303351], score=None, time=1607074053, title=None, item_type='comment', url=None, parent=25299654, text='Lot’s of tradeoffs here, making stored procedures more like say Ruby isn’t free.')

@@ -1,1 +1,1 @@
-Item(by='afandian', descendants=None, kids=None, score=None, time=1607085993, title=None, item_type='comment', url=None, parent=25300759, text='That environment doesn&#x27;t sound well managed or conducive to low-defect work to be honest.')
+Item(by='afandian', descendants=None, kids=[25305080], score=None, time=1607085993, title=None, item_type='comment', url=None, parent=25300759, text='That environment doesn&#x27;t sound well managed or conducive to low-defect work to be honest.')

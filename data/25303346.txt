@@ -1,0 +1,1 @@
+Item(by='siliconmountain', descendants=None, kids=None, score=None, time=1607095906, title=None, item_type='comment', url=None, parent=25303324, text='In submitting this great story, I discovered HN wont let you submit stories with &lt;html&gt; tags (the title has &lt;blink&gt;). I wonder why it&#x27;s not treated the same as this text field')

@@ -1,1 +1,1 @@
-Item(by='timw4mail', descendants=None, kids=None, score=None, time=1607089743, title=None, item_type='comment', url=None, parent=25301719, text='Classic ASP had JScript, I once had the dubious pleasure of using JScript instead of VB on an ASP website.')
+Item(by='timw4mail', descendants=None, kids=[25304624], score=None, time=1607089743, title=None, item_type='comment', url=None, parent=25301719, text='Classic ASP had JScript, I once had the dubious pleasure of using JScript instead of VB on an ASP website.')

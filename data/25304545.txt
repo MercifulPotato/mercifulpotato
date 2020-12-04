@@ -1,0 +1,1 @@
+Item(by='andrepd', descendants=None, kids=[25306123], score=None, time=1607100665, title=None, item_type='comment', url=None, parent=25304063, text='It&#x27;s an incomplete quote, that mediocre programmers use as justification to be sloppy and lazy. The result is pulling in thousands of dependencies to make something that runs 100x slower and uses 100x more memory.')

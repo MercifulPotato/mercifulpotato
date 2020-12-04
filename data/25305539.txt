@@ -1,0 +1,1 @@
+Item(by='kls', descendants=None, kids=None, score=None, time=1607104681, title=None, item_type='comment', url=None, parent=25299812, text='I think it depends on the developers style of how they reason. I use recursion a lot when dealing with loose data, to clean it up. Recursion is one of my go to&#x27;s for deduplicating list.')

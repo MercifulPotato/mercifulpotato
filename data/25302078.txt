@@ -1,1 +1,1 @@
-Item(by='dan-robertson', descendants=None, kids=None, score=None, time=1607089101, title=None, item_type='comment', url=None, parent=25301626, text='I wish they’d just used scheme')
+Item(by='dan-robertson', descendants=None, kids=[25305240], score=None, time=1607089101, title=None, item_type='comment', url=None, parent=25301626, text='I wish they’d just used scheme')

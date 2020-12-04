@@ -1,1 +1,1 @@
-Item(by='mhalle', descendants=None, kids=None, score=None, time=1607048551, title=None, item_type='comment', url=None, parent=25297566, text='<a href="https:&#x2F;&#x2F;openneuro.org&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openneuro.org&#x2F;</a> might be a place to start.')
+Item(by='mhalle', descendants=None, kids=[25306310], score=None, time=1607048551, title=None, item_type='comment', url=None, parent=25297566, text='<a href="https:&#x2F;&#x2F;openneuro.org&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openneuro.org&#x2F;</a> might be a place to start.')

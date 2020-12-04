@@ -1,0 +1,1 @@
+Item(by='ptx', descendants=None, kids=None, score=None, time=1607106876, title=None, item_type='comment', url=None, parent=25304520, text='Did it preserve the scroll position when refreshing? If so, that might be OK for a chat room. But an email inbox is more interactive, so I think it would be jarring to have that refresh as you&#x27;re poking at it.')

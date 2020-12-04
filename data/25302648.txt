@@ -1,0 +1,1 @@
+Item(by='ryanworl', descendants=None, kids=[25302787], score=None, time=1607092719, title=None, item_type='comment', url=None, parent=25302545, text='Thanks! Is there an example &quot;Hello World&quot; executor that demonstrates the minimum functionality needed?<p>I would like an executor that runs all tasks on a single thread and schedules them deterministically for testing.')

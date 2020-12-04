@@ -1,1 +1,1 @@
-Item(by='mmbleh', descendants=16, kids=[25296949, 25296210, 25299592, 25298612, 25296692], score=55, time=1607030973, title='Architectures for Mitigating AWS Outages', item_type='story', url='https://www.forelse.io/posts/architectures-for-mitigating-aws-outages/', parent=None, text=None)
+Item(by='mmbleh', descendants=16, kids=[25296949, 25296210, 25299592, 25298612, 25296692], score=58, time=1607030973, title='Architectures for Mitigating AWS Outages', item_type='story', url='https://www.forelse.io/posts/architectures-for-mitigating-aws-outages/', parent=None, text=None)

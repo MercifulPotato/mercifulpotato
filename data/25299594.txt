@@ -1,1 +1,1 @@
-Item(by='bootstraptor', descendants=0, kids=None, score=4, time=1607062898, title='Show HN: Bootstrap 5 Generator Online', item_type='story', url='https://generator.ws', parent=None, text=None)
+Item(by='bootstraptor', descendants=1, kids=[25305053], score=4, time=1607062898, title='Show HN: Bootstrap 5 Generator Online', item_type='story', url='https://generator.ws', parent=None, text=None)

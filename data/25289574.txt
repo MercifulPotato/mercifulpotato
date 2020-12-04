@@ -1,1 +1,1 @@
-Item(by='domoritz', descendants=3, kids=[25291478, 25292010, 25294214], score=23, time=1607008518, title='DuckDB now has a Node.js API', item_type='story', url='https://github.com/cwida/duckdb/releases/tag/v0.2.3', parent=None, text=None)
+Item(by='domoritz', descendants=3, kids=[25291478, 25292010, 25294214], score=26, time=1607008518, title='DuckDB now has a Node.js API', item_type='story', url='https://github.com/cwida/duckdb/releases/tag/v0.2.3', parent=None, text=None)

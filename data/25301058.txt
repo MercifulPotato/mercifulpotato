@@ -1,1 +1,1 @@
-Item(by='timdaub', descendants=None, kids=None, score=None, time=1607079829, title=None, item_type='comment', url=None, parent=25300396, text='There&#x27;s another benefit in self-hosting, which is that Google will stop tracking your users on the web!')
+Item(by='timdaub', descendants=None, kids=[25303810], score=None, time=1607079829, title=None, item_type='comment', url=None, parent=25300396, text='There&#x27;s another benefit in self-hosting, which is that Google will stop tracking your users on the web!')

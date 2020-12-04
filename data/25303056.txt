@@ -1,0 +1,1 @@
+Item(by='konha', descendants=None, kids=None, score=None, time=1607094667, title=None, item_type='comment', url=None, parent=25302918, text='Well, you can easily verify this by looking at your browser‘s request header.\nIf the cookie is sent, you’ll see it in there for requests to the font cdn subdomain.\n(Hint: It‘s not.)')

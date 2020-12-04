@@ -1,1 +1,1 @@
-Item(by='mattalbie', descendants=None, kids=None, score=None, time=1607056672, title=None, item_type='comment', url=None, parent=25298986, text='And that&#x27;s pre-covid. I&#x27;ll be one of them shortly.')
+Item(by='mattalbie', descendants=None, kids=[25302252], score=None, time=1607056672, title=None, item_type='comment', url=None, parent=25298986, text='And that&#x27;s pre-covid. I&#x27;ll be one of them shortly.')

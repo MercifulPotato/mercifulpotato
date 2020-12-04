@@ -1,1 +1,1 @@
-Item(by='fogihujy', descendants=None, kids=None, score=None, time=1607080760, title=None, item_type='comment', url=None, parent=25300100, text='I think the main issue is with scrapers that don&#x27;t adhere to robots.txt&#x2F;X-robot headers.')
+Item(by='fogihujy', descendants=None, kids=[25304275], score=None, time=1607080760, title=None, item_type='comment', url=None, parent=25300100, text='I think the main issue is with scrapers that don&#x27;t adhere to robots.txt&#x2F;X-robot headers.')

@@ -1,1 +1,1 @@
-Item(by='gbrown', descendants=None, kids=None, score=None, time=1607086937, title=None, item_type='comment', url=None, parent=25301133, text='He also wrote that he despised allegory in all it’s forms though, so ::shrug::')
+Item(by='gbrown', descendants=None, kids=[25302610, 25306078, 25302759], score=None, time=1607086937, title=None, item_type='comment', url=None, parent=25301133, text='He also wrote that he despised allegory in all it’s forms though, so ::shrug::')

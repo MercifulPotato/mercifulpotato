@@ -1,1 +1,1 @@
-Item(by='danielheath', descendants=None, kids=None, score=None, time=1607081034, title=None, item_type='comment', url=None, parent=25300940, text='“No web fonts for elements containing multiple characters” would be a great ublock rule, now I think about it...')
+Item(by='danielheath', descendants=None, kids=[25302665], score=None, time=1607081034, title=None, item_type='comment', url=None, parent=25300940, text='“No web fonts for elements containing multiple characters” would be a great ublock rule, now I think about it...')
