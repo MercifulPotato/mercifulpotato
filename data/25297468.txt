@@ -1,1 +1,1 @@
-Item(by='notJim', descendants=None, kids=None, score=None, time=1607041713, title=None, item_type='comment', url=None, parent=25296479, text='Planning to watch it as soon as I finish the book.')
+Item(by='notJim', descendants=None, kids=[25298607], score=None, time=1607041713, title=None, item_type='comment', url=None, parent=25296479, text='Planning to watch it as soon as I finish the book.')

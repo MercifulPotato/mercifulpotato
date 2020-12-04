@@ -1,1 +1,1 @@
-Item(by='SwiftERM', descendants=0, kids=None, score=2, time=1606992941, title='Comprehensive Guide to Email Deliverability', item_type='story', url='https://www.swifterm.com/comprehensive-guide-to-email-deliverability/', parent=None, text=None)
+Item(by='SwiftERM', descendants=1, kids=[25299686], score=4, time=1606992941, title='Comprehensive Guide to Email Deliverability', item_type='story', url='https://www.swifterm.com/comprehensive-guide-to-email-deliverability/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='mattr47', descendants=None, kids=None, score=None, time=1607043477, title=None, item_type='comment', url=None, parent=25297327, text='Royal with cheese.')
+Item(by='mattr47', descendants=None, kids=[25298454], score=None, time=1607043477, title=None, item_type='comment', url=None, parent=25297327, text='Royal with cheese.')

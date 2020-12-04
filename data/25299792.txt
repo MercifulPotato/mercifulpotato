@@ -1,0 +1,1 @@
+Item(by='martin_renou', descendants=None, kids=[25300029], score=None, time=1607065645, title=None, item_type='comment', url=None, parent=25297777, text='You&#x27;re wrong, it does not.<p>You can install a pip package in a conda env. But this is actually not recommended.<p>When using `mamba install` or `conda install`, pip is not involved at all.')

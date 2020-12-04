@@ -1,0 +1,1 @@
+Item(by='kiwicopple', descendants=None, kids=None, score=None, time=1607059370, title=None, item_type='comment', url=None, parent=25297145, text='&gt; fallback to websockets<p>Just to make sure I understand your question, do you mean falling back from websockets to something like long polling (on https port)?')

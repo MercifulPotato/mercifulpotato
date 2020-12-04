@@ -1,1 +1,1 @@
-Item(by='philosopher1234', descendants=None, kids=None, score=None, time=1607042104, title=None, item_type='comment', url=None, parent=25296517, text='never upvoted somebody so many times in a single thread before. praise be to slg!')
+Item(by='philosopher1234', descendants=None, kids=[25298788], score=None, time=1607042104, title=None, item_type='comment', url=None, parent=25296517, text='never upvoted somebody so many times in a single thread before. praise be to slg!')

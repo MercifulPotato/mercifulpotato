@@ -1,1 +1,1 @@
-Item(by='doggydogs94', descendants=None, kids=None, score=None, time=1607027908, title=None, item_type='comment', url=None, parent=25289374, text='Not going to happen anytime soon.')
+Item(by='doggydogs94', descendants=None, kids=[25298732], score=None, time=1607027908, title=None, item_type='comment', url=None, parent=25289374, text='Not going to happen anytime soon.')

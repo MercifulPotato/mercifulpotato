@@ -1,1 +1,1 @@
-Item(by='wayeq', descendants=None, kids=None, score=None, time=1607041489, title=None, item_type='comment', url=None, parent=25297326, text='No, but you can pay your taxes with USD, and stay out of prison, which is kind of nice.')
+Item(by='wayeq', descendants=None, kids=[25298507], score=None, time=1607041489, title=None, item_type='comment', url=None, parent=25297326, text='No, but you can pay your taxes with USD, and stay out of prison, which is kind of nice.')

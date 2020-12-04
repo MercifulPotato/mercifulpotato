@@ -1,1 +1,1 @@
-Item(by='ben_w', descendants=None, kids=None, score=None, time=1606997617, title=None, item_type='comment', url=None, parent=25276513, text='My Chrome settings are to disable by default, and I only reenable it selectively. Unfortunately, yes, it is sometimes necessary.')
+Item(by='ben_w', descendants=None, kids=[25294017, 25291053], score=None, time=1606997617, title=None, item_type='comment', url=None, parent=25276513, text='My Chrome settings are to disable by default, and I only reenable it selectively. Unfortunately, yes, it is sometimes necessary.')

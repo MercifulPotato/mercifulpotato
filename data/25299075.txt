@@ -1,0 +1,1 @@
+Item(by='XorNot', descendants=None, kids=None, score=None, time=1607057179, title=None, item_type='comment', url=None, parent=25295197, text='They way I&#x27;ve seen this done is you version the namespace of the stored procedures (and include the git commit). So at any given time you&#x27;re definitely only calling the exact function you want.')

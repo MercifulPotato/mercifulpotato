@@ -1,1 +1,1 @@
-Item(by='johnx123-up', descendants=None, kids=None, score=None, time=1606988921, title=None, item_type='comment', url=None, parent=25287134, text='Is the mentioned E5 salary (304k) above average or?')
+Item(by='johnx123-up', descendants=None, kids=[25299424], score=None, time=1606988921, title=None, item_type='comment', url=None, parent=25287134, text='Is the mentioned E5 salary (304k) above average or?')

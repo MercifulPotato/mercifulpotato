@@ -1,1 +1,1 @@
-Item(by='thebiglebrewski', descendants=None, kids=None, score=None, time=1607031752, title=None, item_type='comment', url=None, parent=25295116, text='Haha ok, you seem pretty pessimistic about all of this. Have a nice day though!')
+Item(by='thebiglebrewski', descendants=None, kids=[25298610], score=None, time=1607031752, title=None, item_type='comment', url=None, parent=25295116, text='Haha ok, you seem pretty pessimistic about all of this. Have a nice day though!')

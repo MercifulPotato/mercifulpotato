@@ -1,0 +1,1 @@
+Item(by='heyitsguay', descendants=None, kids=None, score=None, time=1607065672, title=None, item_type='comment', url=None, parent=25299745, text='Nice find! Time to put together a pipeline... (1) take a few photos of a thing you want to model, (2) use a segmentation algorithm to mask out the background, (3) run a NeRF algorithm, (4) use marching cubes to generate a mesh.')

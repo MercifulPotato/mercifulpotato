@@ -1,1 +1,1 @@
-Item(by='will-wow', descendants=2, kids=[25291223, 25291621], score=3, time=1607014972, title='Show HN: I’m not a data scientist but made a Covid mask detector – Doctor Masky', item_type='story', url='https://doctormasky.com', parent=None, text=None)
+Item(by='will-wow', descendants=4, kids=[25291223, 25295396, 25291621], score=29, time=1607014972, title='Show HN: I’m not a data scientist but made a Covid mask detector – Doctor Masky', item_type='story', url='https://doctormasky.com', parent=None, text=None)

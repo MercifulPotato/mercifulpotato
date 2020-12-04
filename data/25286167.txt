@@ -1,1 +1,1 @@
-Item(by='kiyanwang', descendants=0, kids=None, score=1, time=1606977615, title='Ethr Is a Comprehensive Network Measurement Tool for TCP, UDP and ICMP', item_type='story', url='https://github.com/microsoft/ethr', parent=None, text=None)
+Item(by='kiyanwang', descendants=6, kids=[25299779, 25299811, 25298922, 25299773, 25299668], score=53, time=1606977615, title='Ethr Is a Comprehensive Network Measurement Tool for TCP, UDP and ICMP', item_type='story', url='https://github.com/microsoft/ethr', parent=None, text=None)

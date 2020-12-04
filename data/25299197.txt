@@ -1,0 +1,1 @@
+Item(by='strogonoff', descendants=None, kids=None, score=None, time=1607058542, title=None, item_type='comment', url=None, parent=25292871, text='Capabilities = stuff described on the landing page. If you provide that stuff yourself, you’d be breaking Stripe’s terms. If you use Stripe’s mechanisms, which under the hood delegate to entities Stripe trusts, you’d be fine. (IANAL.)')
