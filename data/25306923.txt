@@ -1,1 +1,1 @@
-Item(by='stickfigure', descendants=None, kids=None, score=None, time=1607111684, title=None, item_type='comment', url=None, parent=25305608, text='So... add dash and underscore to your character set? The contortions seem pointless.')
+Item(by='stickfigure', descendants=None, kids=[25309701], score=None, time=1607111684, title=None, item_type='comment', url=None, parent=25305608, text='So... add dash and underscore to your character set? The contortions seem pointless.')

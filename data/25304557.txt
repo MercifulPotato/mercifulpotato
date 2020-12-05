@@ -1,1 +1,1 @@
-Item(by='snazz', descendants=None, kids=None, score=None, time=1607100697, title=None, item_type='comment', url=None, parent=25303821, text='It&#x27;s popular and taught in schools, so I don&#x27;t think this is really surprising.')
+Item(by='snazz', descendants=None, kids=[25309791], score=None, time=1607100697, title=None, item_type='comment', url=None, parent=25303821, text='It&#x27;s popular and taught in schools, so I don&#x27;t think this is really surprising.')

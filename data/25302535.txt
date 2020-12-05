@@ -1,1 +1,1 @@
-Item(by='a_c', descendants=None, kids=None, score=None, time=1607092205, title=None, item_type='comment', url=None, parent=25286870, text='Just chill man. Read whatever the way interests you. You will enjoy the process, or even learn a thing or two as a bonus.')
+Item(by='a_c', descendants=None, kids=[25308884], score=None, time=1607092205, title=None, item_type='comment', url=None, parent=25286870, text='Just chill man. Read whatever the way interests you. You will enjoy the process, or even learn a thing or two as a bonus.')

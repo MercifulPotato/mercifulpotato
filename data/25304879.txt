@@ -1,1 +1,1 @@
-Item(by='mixmastamyk', descendants=None, kids=None, score=None, time=1607101844, title=None, item_type='comment', url=None, parent=25304619, text='Thunderbird debuted as Netscape mail and was combined in Netscape Communicator suite I believe.  Memory fuzzy.')
+Item(by='mixmastamyk', descendants=None, kids=[25308608], score=None, time=1607101844, title=None, item_type='comment', url=None, parent=25304619, text='Thunderbird debuted as Netscape mail and was combined in Netscape Communicator suite I believe.  Memory fuzzy.')

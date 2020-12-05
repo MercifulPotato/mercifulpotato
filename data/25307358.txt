@@ -1,0 +1,1 @@
+Item(by='morelisp', descendants=None, kids=[25307433], score=None, time=1607113590, title=None, item_type='comment', url=None, parent=25306976, text='Hrm, when I run `.&#x2F;setup.py test` I run well over 90%, usually 100%, of the lines of code in my `setup.py`. Is this not coverage?')

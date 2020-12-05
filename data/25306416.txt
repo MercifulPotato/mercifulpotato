@@ -1,1 +1,1 @@
-Item(by='teej', descendants=None, kids=None, score=None, time=1607109283, title=None, item_type='comment', url=None, parent=25302527, text='How many billionaires (paper or cash) has YC produced?')
+Item(by='teej', descendants=None, kids=[25307364], score=None, time=1607109283, title=None, item_type='comment', url=None, parent=25302527, text='How many billionaires (paper or cash) has YC produced?')

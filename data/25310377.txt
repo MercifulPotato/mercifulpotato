@@ -1,0 +1,1 @@
+Item(by='Roboprog', descendants=None, kids=None, score=None, time=1607128869, title=None, item_type='comment', url=None, parent=25301849, text='I spent the late 80s working in XBase, which also had a single numeric type, though you could enforce the desired precision by saving numbers in tables.')

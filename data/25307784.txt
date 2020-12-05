@@ -1,0 +1,1 @@
+Item(by='colejohnson66', descendants=None, kids=[25309103, 25308698], score=None, time=1607115227, title=None, item_type='comment', url=None, parent=25306530, text='PHP does the same. It’s compiled to a bytecode before execution. But I don’t think it’s cached anywhere like Python (but that may have changed in the decade since I’ve used it)')

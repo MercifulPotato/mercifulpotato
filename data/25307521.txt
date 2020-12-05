@@ -1,0 +1,1 @@
+Item(by='abnry', descendants=None, kids=None, score=None, time=1607114169, title=None, item_type='comment', url=None, parent=25288303, text='Interesting idea. I&#x27;ve never thought of separating the markup and the text into two different files. To me, it suggests a more machine friendly way of keeping track of markup. Directly writing sounds very painful.')

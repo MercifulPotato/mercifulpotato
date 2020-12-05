@@ -1,0 +1,1 @@
+Item(by='kccqzy', descendants=None, kids=[25309004], score=None, time=1607117157, title=None, item_type='comment', url=None, parent=25307386, text='You can&#x27;t just put `putStrLn &quot;Hello&quot;` in the top level of a Haskell program and expect it to work. You can do it in a REPL, but that&#x27;s besides the point.')

@@ -1,1 +1,1 @@
-Item(by='xvector', descendants=None, kids=None, score=None, time=1607098914, title=None, item_type='comment', url=None, parent=25303423, text='I wonder how many HN has')
+Item(by='xvector', descendants=None, kids=[25307751], score=None, time=1607098914, title=None, item_type='comment', url=None, parent=25303423, text='I wonder how many HN has')

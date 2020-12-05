@@ -1,1 +1,1 @@
-Item(by='Kototama', descendants=None, kids=None, score=None, time=1607087475, title=None, item_type='comment', url=None, parent=25301601, text='For a starter, having no integer types and non-symmetric comparison operators looks technically wrong to me.')
+Item(by='Kototama', descendants=None, kids=[25310377], score=None, time=1607087475, title=None, item_type='comment', url=None, parent=25301601, text='For a starter, having no integer types and non-symmetric comparison operators looks technically wrong to me.')

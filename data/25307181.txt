@@ -1,1 +1,1 @@
-Item(by='Scuds', descendants=None, kids=None, score=None, time=1607112922, title=None, item_type='comment', url=None, parent=25305650, text='I wonder how elm and clojurescript are doing?')
+Item(by='Scuds', descendants=None, kids=[25307523, 25309754, 25307942], score=None, time=1607112922, title=None, item_type='comment', url=None, parent=25305650, text='I wonder how elm and clojurescript are doing?')

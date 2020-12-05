@@ -1,0 +1,1 @@
+Item(by='jpcooper', descendants=None, kids=[25310515], score=None, time=1607114088, title=None, item_type='comment', url=None, parent=25304546, text='How would you implement and test something something like C++&#x27;s unordered_set, a set with constant insert and lookup, using type-level constraints instead of unit tests? How would you represent this with types?')

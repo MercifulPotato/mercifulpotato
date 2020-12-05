@@ -1,1 +1,1 @@
-Item(by='bayindirh', descendants=None, kids=None, score=None, time=1607073590, title=None, item_type='comment', url=None, parent=25300426, text='They&#x27;re not rivets. They&#x27;re solid state <i>structural integrity sensors</i>.')
+Item(by='bayindirh', descendants=None, kids=[25308378], score=None, time=1607073590, title=None, item_type='comment', url=None, parent=25300426, text='They&#x27;re not rivets. They&#x27;re solid state <i>structural integrity sensors</i>.')

@@ -1,1 +1,1 @@
-Item(by='pelasaco', descendants=None, kids=None, score=None, time=1607107440, title=None, item_type='comment', url=None, parent=25303485, text='A good controversial one:<p>Scrum turns great developers in average developers.')
+Item(by='pelasaco', descendants=None, kids=[25309267], score=None, time=1607107440, title=None, item_type='comment', url=None, parent=25303485, text='A good controversial one:<p>Scrum turns great developers in average developers.')

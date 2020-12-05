@@ -1,0 +1,1 @@
+Item(by='colejohnson66', descendants=None, kids=None, score=None, time=1607129396, title=None, item_type='comment', url=None, parent=25308766, text='Visual Studio (not Code) handles it quite nicely. If you hit tab and it replaces it with 4 spaces, then you backspace, it removes the 4 spaces as if they were a tab. So it saves with spaces, but treats them like tabs.')

@@ -1,1 +1,1 @@
-Item(by='pyronicide', descendants=0, kids=None, score=2, time=1607110509, title='Service Mesh – The New Single Point of Failure', item_type='story', url='https://www.youtube.com/watch?v=5rpc7skeslI', parent=None, text=None)
+Item(by='pyronicide', descendants=1, kids=[25307874], score=8, time=1607110509, title='Service Mesh – The New Single Point of Failure', item_type='story', url='https://www.youtube.com/watch?v=5rpc7skeslI', parent=None, text=None)

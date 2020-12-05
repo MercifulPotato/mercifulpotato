@@ -1,0 +1,1 @@
+Item(by='pjlegato', descendants=None, kids=None, score=None, time=1607117123, title=None, item_type='comment', url=None, parent=25304595, text='Clojure is a highly practical Lisp that retains most of the Lisp mystique.<p>Previous Lisps were impractical largely due to lack of libraries, but Clojure comes with first class Java interop out of the box. But you still get macros.')

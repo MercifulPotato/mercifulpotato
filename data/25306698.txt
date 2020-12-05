@@ -1,1 +1,1 @@
-Item(by='potiuper', descendants=0, kids=None, score=2, time=1607110706, title='All mersenne prime exponents below 100M tested at least once', item_type='story', url='https://www.mersenne.org/report_milestones/', parent=None, text=None)
+Item(by='potiuper', descendants=23, kids=[25307688, 25307710, 25307390, 25307022], score=75, time=1607110706, title='All Mersenne prime exponents below 100m tested at least once', item_type='story', url='https://www.mersenne.org/report_milestones/', parent=None, text=None)

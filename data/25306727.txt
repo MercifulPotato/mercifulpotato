@@ -1,1 +1,1 @@
-Item(by='nattab', descendants=0, kids=None, score=1, time=1607110812, title='PC game nostalgia – remembering Sanatorium', item_type='story', url='https://www.youtube.com/watch?v=e-YuKSKUVwk', parent=None, text=None)
+Item(by='nattab', descendants=1, kids=[25307039], score=3, time=1607110812, title='PC game nostalgia – remembering Sanatorium', item_type='story', url='https://www.youtube.com/watch?v=e-YuKSKUVwk', parent=None, text=None)

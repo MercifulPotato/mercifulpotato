@@ -1,0 +1,1 @@
+Item(by='jpomykala', descendants=None, kids=None, score=None, time=1607135996, title=None, item_type='comment', url=None, parent=25310856, text='Somebody probably forgot to use “container” class before putting a “row” class. It mostly happens on &lt;footer&gt; at least in my case.')

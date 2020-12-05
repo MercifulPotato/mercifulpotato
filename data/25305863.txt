@@ -1,1 +1,1 @@
-Item(by='bvcvbuiy', descendants=None, kids=None, score=None, time=1607106463, title=None, item_type='comment', url=None, parent=25304886, text='The obsession of American developers with retirement tells a lot about what they think about their jobs.')
+Item(by='bvcvbuiy', descendants=None, kids=[25308563], score=None, time=1607106463, title=None, item_type='comment', url=None, parent=25304886, text='The obsession of American developers with retirement tells a lot about what they think about their jobs.')
