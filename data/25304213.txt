@@ -1,1 +1,1 @@
-Item(by='metalliqaz', descendants=None, kids=None, score=None, time=1607099487, title=None, item_type='comment', url=None, parent=25303007, text='actually that&#x27;s slightly wider than 4:3<p>(1.5 vs 1.33)')
+Item(by='metalliqaz', descendants=None, kids=[25315899], score=None, time=1607099487, title=None, item_type='comment', url=None, parent=25303007, text='actually that&#x27;s slightly wider than 4:3<p>(1.5 vs 1.33)')

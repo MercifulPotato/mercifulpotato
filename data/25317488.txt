@@ -1,0 +1,1 @@
+Item(by='stewbrew', descendants=None, kids=[25318097, 25317617], score=None, time=1607196323, title=None, item_type='comment', url=None, parent=25316608, text='Well, afaik it isn&#x27;t really a pipe but syntactic sugar. A pipe streams data from one output stream to an input stream. This rewrites the code as if the input were passed as an argument.')

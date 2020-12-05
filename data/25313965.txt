@@ -1,1 +1,1 @@
-Item(by='danielheath', descendants=None, kids=None, score=None, time=1607170252, title=None, item_type='comment', url=None, parent=25313205, text='She offered “to work on an end date”. Whether that counts as a resignation or not is likely to be a matter for the NLRB.')
+Item(by='danielheath', descendants=None, kids=[25314906], score=None, time=1607170252, title=None, item_type='comment', url=None, parent=25313205, text='She offered “to work on an end date”. Whether that counts as a resignation or not is likely to be a matter for the NLRB.')

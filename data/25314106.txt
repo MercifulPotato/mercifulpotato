@@ -1,1 +1,1 @@
-Item(by='elorm', descendants=11, kids=[25314264, 25314282, 25314149, 25314158], score=42, time=1607172062, title='Exotic Programming Ideas', item_type='story', url='https://www.stephendiehl.com/posts/exotic04.html', parent=None, text=None)
+Item(by='elorm', descendants=51, kids=[25314264, 25314282, 25315897, 25315148, 25316684, 25316129, 25314149, 25315068, 25315590, 25316661, 25314158], score=113, time=1607172062, title='Exotic Programming Ideas', item_type='story', url='https://www.stephendiehl.com/posts/exotic04.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='0xB31B1B', descendants=None, kids=None, score=None, time=1607151693, title=None, item_type='comment', url=None, parent=25307070, text='Yes, commute is like ~10% of emissions in US IIRC')
+Item(by='0xB31B1B', descendants=None, kids=[25317541], score=None, time=1607151693, title=None, item_type='comment', url=None, parent=25307070, text='Yes, commute is like ~10% of emissions in US IIRC')

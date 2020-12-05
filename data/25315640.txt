@@ -1,0 +1,1 @@
+Item(by='fiddlerwoaroof', descendants=None, kids=[25315949, 25315684], score=None, time=1607185181, title=None, item_type='comment', url=None, parent=25315548, text='DoH absolutely can get network filtering: if I block port 53 outbound to control DNS queries within my network, DoH (and other tunneling technologies) is bypassing my network filtering of DNS.')

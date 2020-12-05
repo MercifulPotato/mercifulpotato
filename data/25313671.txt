@@ -1,1 +1,1 @@
-Item(by='oedmarap', descendants=0, kids=None, score=2, time=1607167260, title='WebThings Gateway 1.0', item_type='story', url='https://hacks.mozilla.org/2020/12/flying-the-nest-webthings-gateway-1-0/', parent=None, text=None)
+Item(by='oedmarap', descendants=7, kids=[25315130, 25315388], score=25, time=1607167260, title='WebThings Gateway 1.0', item_type='story', url='https://hacks.mozilla.org/2020/12/flying-the-nest-webthings-gateway-1-0/', parent=None, text=None)

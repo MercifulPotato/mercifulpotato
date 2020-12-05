@@ -1,0 +1,1 @@
+Item(by='tored', descendants=None, kids=None, score=None, time=1607191625, title=None, item_type='comment', url=None, parent=25316425, text='Static class is probably the best solution for having namespaced functions combined with having auto loading working correctly.<p>Structs would be great too, especially if PHP could support inner class definitions.')

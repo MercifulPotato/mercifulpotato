@@ -1,0 +1,1 @@
+Item(by='jms703', descendants=None, kids=None, score=None, time=1607194269, title=None, item_type='comment', url=None, parent=25313480, text='I&#x27;d be fine with hardcoded DNS if the devices would fail back to DHCP provided DNS. Then I can just block certain destination IP address. But a NAT redirect is working fine for now.')

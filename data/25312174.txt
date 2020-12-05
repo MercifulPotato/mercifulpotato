@@ -1,1 +1,1 @@
-Item(by='zepto', descendants=None, kids=None, score=None, time=1607147860, title=None, item_type='comment', url=None, parent=25311629, text='“The software adds a 30% performance penalty on top”<p>That seems like a straight up falsehood.')
+Item(by='zepto', descendants=None, kids=[25315923], score=None, time=1607147860, title=None, item_type='comment', url=None, parent=25311629, text='“The software adds a 30% performance penalty on top”<p>That seems like a straight up falsehood.')

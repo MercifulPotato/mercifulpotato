@@ -1,1 +1,1 @@
-Item(by='yakubin', descendants=None, kids=None, score=None, time=1607173997, title=None, item_type='comment', url=None, parent=25313817, text='That&#x27;s just because you view them in less. I usually view them in emacs, so links work just fine for me.')
+Item(by='yakubin', descendants=None, kids=[25314641], score=None, time=1607173997, title=None, item_type='comment', url=None, parent=25313817, text='That&#x27;s just because you view them in less. I usually view them in emacs, so links work just fine for me.')

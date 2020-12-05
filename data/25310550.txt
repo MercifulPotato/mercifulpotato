@@ -1,1 +1,1 @@
-Item(by='BurningFrog', descendants=None, kids=None, score=None, time=1607130207, title=None, item_type='comment', url=None, parent=25309689, text='Which is a <i>very</i> different claim.')
+Item(by='BurningFrog', descendants=None, kids=[25315793, 25315529], score=None, time=1607130207, title=None, item_type='comment', url=None, parent=25309689, text='Which is a <i>very</i> different claim.')

@@ -1,0 +1,1 @@
+Item(by='ksaj', descendants=None, kids=None, score=None, time=1607197294, title=None, item_type='comment', url=None, parent=25311867, text='There is also apropos which gives you a quick one-liner about a keyword by searching manpage descriptions for it.<p>Use the -e argument to narrow down the results. For example:<p><pre><code>    apropos -e ls</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='silon42', descendants=None, kids=None, score=None, time=1607195151, title=None, item_type='comment', url=None, parent=25314341, text='Should be done by your host&#x2F;gateway&#x2F;router, not each client app.. Same goes for SSL SNI filtering if that ever gets accepted... router should know where requests are going...')

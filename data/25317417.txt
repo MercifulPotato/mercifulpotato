@@ -1,0 +1,1 @@
+Item(by='kps', descendants=None, kids=None, score=None, time=1607195867, title=None, item_type='comment', url=None, parent=25311114, text='- Don&#x27;t emit colour unless asked.<p>- Don&#x27;t assume the user&#x27;s terminal&#x27;s background colour. Pragmatically, you can use red; the rest are too light or too dark.')

@@ -1,0 +1,1 @@
+Item(by='syntaxing', descendants=None, kids=[25317327, 25317426, 25317471], score=None, time=1607194207, title=None, item_type='comment', url=None, parent=25313480, text='Do DNS have a specific protocol? Is it possible to block any DNS query on my network that doesn’t ask my pihole?')

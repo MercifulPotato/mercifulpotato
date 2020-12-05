@@ -1,0 +1,1 @@
+Item(by='jeltz', descendants=None, kids=[25316631, 25317379], score=None, time=1607183253, title=None, item_type='comment', url=None, parent=25315207, text='The only languages I know of with good C interoperability are C++ and Zig. This is definitely an area where Rust could improve.')

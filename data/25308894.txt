@@ -1,1 +1,1 @@
-Item(by='lallysingh', descendants=None, kids=None, score=None, time=1607119908, title=None, item_type='comment', url=None, parent=25307348, text='How do those papers pass peer review if they&#x27;re &quot;forgetting&quot; existing research?')
+Item(by='lallysingh', descendants=None, kids=[25316018], score=None, time=1607119908, title=None, item_type='comment', url=None, parent=25307348, text='How do those papers pass peer review if they&#x27;re &quot;forgetting&quot; existing research?')

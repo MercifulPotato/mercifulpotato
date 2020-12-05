@@ -1,0 +1,1 @@
+Item(by='moron4hire', descendants=None, kids=[25317752], score=None, time=1607198007, title=None, item_type='comment', url=None, parent=25317281, text='Type checking has nothing to do with flexibility of UI. If anything, type checking improves your ability to iterate UI, because you can change things with more confidence that nothing is broken.')

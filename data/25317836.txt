@@ -1,0 +1,1 @@
+Item(by='improbable22', descendants=None, kids=None, score=None, time=1607198998, title=None, item_type='comment', url=None, parent=25317033, text='Julia&#x27;s lambdas look like `x -&gt; f(x,2)`, with no backslashes.<p>The pipe `x |&gt; f` is indeed the same.')

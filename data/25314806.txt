@@ -1,1 +1,1 @@
-Item(by='tzs', descendants=None, kids=None, score=None, time=1607178973, title=None, item_type='comment', url=None, parent=25313992, text='So if I want to run a chess forum, and I remove non-chess posts, I should lose S230 protection?')
+Item(by='tzs', descendants=None, kids=[25315492, 25314892, 25315371], score=None, time=1607178973, title=None, item_type='comment', url=None, parent=25313992, text='So if I want to run a chess forum, and I remove non-chess posts, I should lose S230 protection?')

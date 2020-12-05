@@ -1,0 +1,1 @@
+Item(by='nchi3', descendants=None, kids=None, score=None, time=1607183588, title=None, item_type='comment', url=None, parent=25315184, text='Look up sealed classes if you&#x27;re using Java 15. There&#x27;s no proper exhaustive pattern matching for them yet though, but that&#x27;s coming in a future version.')

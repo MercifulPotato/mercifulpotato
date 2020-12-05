@@ -1,1 +1,1 @@
-Item(by='calmworm', descendants=None, kids=None, score=None, time=1607133735, title=None, item_type='comment', url=None, parent=25310860, text='He’s doing something. It’s impossible to do nothing.<p>And I think “it’s not working” is more of an opinion, so...')
+Item(by='calmworm', descendants=None, kids=[25316254], score=None, time=1607133735, title=None, item_type='comment', url=None, parent=25310860, text='He’s doing something. It’s impossible to do nothing.<p>And I think “it’s not working” is more of an opinion, so...')

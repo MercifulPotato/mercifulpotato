@@ -1,1 +1,1 @@
-Item(by='furtively', descendants=0, kids=None, score=2, time=1607136491, title='The Rise (and Inevitable Fall) of Citizen Kane', item_type='story', url='https://www.vulture.com/2020/12/why-is-citizen-kane-the-great-movie-ever-made.html', parent=None, text=None)
+Item(by='furtively', descendants=16, kids=[25315594, 25315919, 25314845, 25317136, 25316028, 25315181], score=23, time=1607136491, title='The Rise (and Inevitable Fall) of Citizen Kane', item_type='story', url='https://www.vulture.com/2020/12/why-is-citizen-kane-the-great-movie-ever-made.html', parent=None, text=None)

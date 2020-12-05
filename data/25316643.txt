@@ -1,0 +1,1 @@
+Item(by='pmalynin', descendants=None, kids=None, score=None, time=1607191122, title=None, item_type='comment', url=None, parent=25313480, text='It is not. My network is configured to block DNS traffic from anything that isn’t the PiHole. Tbh, when I saw how much traffic the TV was spewing out I just blackholed it all together.')

@@ -1,1 +1,1 @@
-Item(by='eterps', descendants=0, kids=None, score=3, time=1607159481, title='Kaitai: Describe the structure of data, not how you read or write it', item_type='story', url='https://kaitai.io', parent=None, text=None)
+Item(by='eterps', descendants=4, kids=[25317380, 25317359, 25317328], score=41, time=1607159481, title='Kaitai: Describe the structure of data, not how you read or write it', item_type='story', url='https://kaitai.io', parent=None, text=None)

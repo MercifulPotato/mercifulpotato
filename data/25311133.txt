@@ -1,1 +1,1 @@
-Item(by='grishka', descendants=None, kids=None, score=None, time=1607135652, title=None, item_type='comment', url=None, parent=25302771, text='Hm. I think it was a bug in some browsers but not others? I remember encountering it but I don&#x27;t remember it as something persistent.')
+Item(by='grishka', descendants=None, kids=[25315396], score=None, time=1607135652, title=None, item_type='comment', url=None, parent=25302771, text='Hm. I think it was a bug in some browsers but not others? I remember encountering it but I don&#x27;t remember it as something persistent.')

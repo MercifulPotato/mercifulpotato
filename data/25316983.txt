@@ -1,0 +1,1 @@
+Item(by='mmglr', descendants=None, kids=[25317787], score=None, time=1607193340, title=None, item_type='comment', url=None, parent=25313480, text='If I understand correctly using &quot;Nat Rule 1&quot; a network can be configured to ignore my choice of dns server while my device is on their network? What is the mitigation of this? DNSSEC or DNS over HTTPS or DNS over TLS?')

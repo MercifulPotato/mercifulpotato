@@ -1,1 +1,1 @@
-Item(by='luord', descendants=0, kids=None, score=3, time=1607135434, title='PKCE: What and Why', item_type='story', url='https://dropbox.tech/developers/pkce--what-and-why-', parent=None, text=None)
+Item(by='luord', descendants=9, kids=[25315100, 25315206, 25316831, 25315654, 25316432], score=48, time=1607135434, title='PKCE: What and Why', item_type='story', url='https://dropbox.tech/developers/pkce--what-and-why-', parent=None, text=None)

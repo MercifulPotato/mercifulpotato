@@ -1,0 +1,1 @@
+Item(by='sp332', descendants=None, kids=None, score=None, time=1607194598, title=None, item_type='comment', url=None, parent=25315703, text='Chrome didn&#x27;t change the resolver, though. It just enables DoH if it&#x27;s on a whitelist of known DoH-capable resolvers. It doesn&#x27;t send your data to Google unless you already used Google&#x27;s DNS.')

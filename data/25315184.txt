@@ -1,0 +1,1 @@
+Item(by='the_gipsy', descendants=None, kids=[25315364, 25315403], score=None, time=1607181838, title=None, item_type='comment', url=None, parent=25314126, text='On a tangent, how do you do sum types in java? I recently wanted to use them and all I could figure out was some subclasses and `instanceof` as poor man&#x27;s pattern matching.')

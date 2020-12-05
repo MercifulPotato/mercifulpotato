@@ -1,0 +1,1 @@
+Item(by='htrap', descendants=None, kids=None, score=None, time=1607193983, title=None, item_type='comment', url=None, parent=25316888, text='Since data is stored permanently on Arweave, there&#x27;s no way to remove it from the blockchain. However, you could force push your repo which would remove your concerned commit from Gitopia repository view.')

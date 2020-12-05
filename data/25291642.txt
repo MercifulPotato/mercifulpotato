@@ -1,1 +1,1 @@
-Item(by='flerchin', descendants=None, kids=[25291869, 25291811, 25292390, 25291914], score=None, time=1607016715, title=None, item_type='comment', url=None, parent=25290339, text='Good luck debugging! Seriously. You can&#x27;t attach a debugger to your DB.')
+Item(by='flerchin', descendants=None, kids=[25291869, 25291811, 25291914, 25292390], score=None, time=1607016715, title=None, item_type='comment', url=None, parent=25290339, text='Good luck debugging! Seriously. You can&#x27;t attach a debugger to your DB.')

@@ -1,1 +1,1 @@
-Item(by='robbybaron', descendants=0, kids=None, score=5, time=1607028339, title='The History of the Autopsy', item_type='story', url='https://www.popularmechanics.com/science/health/a25633042/autopsy-history/', parent=None, text=None)
+Item(by='robbybaron', descendants=1, kids=[25314724], score=5, time=1607028339, title='The History of the Autopsy', item_type='story', url='https://www.popularmechanics.com/science/health/a25633042/autopsy-history/', parent=None, text=None)

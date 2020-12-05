@@ -1,1 +1,1 @@
-Item(by='wan23', descendants=None, kids=None, score=None, time=1607177585, title=None, item_type='comment', url=None, parent=25313033, text='We already have drones with cameras, drones with guns, and drones that are autonomous. How long until someone combines these?')
+Item(by='wan23', descendants=None, kids=[25315763, 25316266, 25316293], score=None, time=1607177585, title=None, item_type='comment', url=None, parent=25313033, text='We already have drones with cameras, drones with guns, and drones that are autonomous. How long until someone combines these?')
