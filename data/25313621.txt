@@ -1,0 +1,1 @@
+Item(by='rurban', descendants=None, kids=[25314360], score=None, time=1607166731, title=None, item_type='comment', url=None, parent=25311468, text='Not at all. Simply interpret time_t as unsigned, recompile and it works until 2106.\nThere&#x27;s no need for unix timestamps before 1970 anymore.\nThere are also other replacement tricks, as in perl5.')

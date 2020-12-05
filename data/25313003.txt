@@ -1,0 +1,1 @@
+Item(by='adrian_mrd', descendants=None, kids=[25314592, 25313674], score=None, time=1607159516, title=None, item_type='comment', url=None, parent=25312812, text='One potential implementation: at the top of each thread, after the metadata for the thread itself and before the comment box, are a list of ‘Related discussions’ with a bulletpoint list of related HN threads.')

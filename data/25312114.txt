@@ -1,1 +1,1 @@
-Item(by='flippinburgers', descendants=None, kids=None, score=None, time=1607147085, title=None, item_type='comment', url=None, parent=25310462, text='Saying that react is boring but also actively developed is a bit contradictory particularly in the land of javascript.')
+Item(by='flippinburgers', descendants=None, kids=[25313820, 25312768, 25313772], score=None, time=1607147085, title=None, item_type='comment', url=None, parent=25310462, text='Saying that react is boring but also actively developed is a bit contradictory particularly in the land of javascript.')

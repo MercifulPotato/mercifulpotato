@@ -1,1 +1,1 @@
-Item(by='woodruffw', descendants=0, kids=None, score=3, time=1607144003, title='Reading Manpages Like a Pro', item_type='story', url='https://blog.yossarian.net/2018/01/22/Reading-Manpages-Like-a-Pro', parent=None, text=None)
+Item(by='woodruffw', descendants=10, kids=[25313817, 25314422, 25313405, 25313554, 25314410, 25313939], score=25, time=1607144003, title='Reading Manpages Like a Pro (2018)', item_type='story', url='https://blog.yossarian.net/2018/01/22/Reading-Manpages-Like-a-Pro', parent=None, text=None)

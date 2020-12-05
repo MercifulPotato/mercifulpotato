@@ -1,1 +1,1 @@
-Item(by='jacksnipe', descendants=None, kids=None, score=None, time=1607119402, title=None, item_type='comment', url=None, parent=25308673, text='This rhetoric is almost universally applied to the lower class as well, at least in the US.')
+Item(by='jacksnipe', descendants=None, kids=[25313814], score=None, time=1607119402, title=None, item_type='comment', url=None, parent=25308673, text='This rhetoric is almost universally applied to the lower class as well, at least in the US.')

@@ -1,0 +1,1 @@
+Item(by='zepearl', descendants=None, kids=None, score=None, time=1607171372, title=None, item_type='comment', url=None, parent=25311201, text='On Linux instantaneous in Firefox (78.5.0), takes forever in Chrome (87.0.4280.66) while using 100% of one CPU core&#x2F;thread (I killed the tab after ~1 minute).')

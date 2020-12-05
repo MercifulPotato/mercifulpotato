@@ -1,0 +1,1 @@
+Item(by='x87678r', descendants=None, kids=[25314559], score=None, time=1607175738, title=None, item_type='comment', url=None, parent=25313776, text='I&#x27;m not sure if its worth posting, but I just installed pihole and its great. You dont actually need a pi, you can run it in docker. its nice that you can see all the dns queries that are happening.')

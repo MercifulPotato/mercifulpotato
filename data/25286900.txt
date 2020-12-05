@@ -1,1 +1,1 @@
-Item(by='pmarin', descendants=23, kids=[25298275, 25298564], score=48, time=1606984990, title='Big-endian mode supported for Raspberry Pi with bootable images available', item_type='story', url='https://mail-index.netbsd.org/port-arm/2020/12/03/msg007117.html', parent=None, text=None)
+Item(by='pmarin', descendants=24, kids=[25298275, 25298564], score=48, time=1606984990, title='Big-endian mode supported for Raspberry Pi with bootable images available', item_type='story', url='https://mail-index.netbsd.org/port-arm/2020/12/03/msg007117.html', parent=None, text=None)

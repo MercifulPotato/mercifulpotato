@@ -1,1 +1,1 @@
-Item(by='niij', descendants=None, kids=None, score=None, time=1607135208, title=None, item_type='comment', url=None, parent=25308548, text='Do you think that lack of privacy is a good thing? If so you should update your profile with more information-- it&#x27;s currently empty.')
+Item(by='niij', descendants=None, kids=[25313618], score=None, time=1607135208, title=None, item_type='comment', url=None, parent=25308548, text='Do you think that lack of privacy is a good thing? If so you should update your profile with more information-- it&#x27;s currently empty.')

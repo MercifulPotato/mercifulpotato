@@ -1,1 +1,1 @@
-Item(by='User23', descendants=None, kids=None, score=None, time=1607140373, title=None, item_type='comment', url=None, parent=25311384, text='How can I try it myself? Nobody is giving me access to the information I need to actually draw an informed conclusion.')
+Item(by='User23', descendants=None, kids=[25312828], score=None, time=1607140373, title=None, item_type='comment', url=None, parent=25311384, text='How can I try it myself? Nobody is giving me access to the information I need to actually draw an informed conclusion.')

@@ -1,1 +1,1 @@
-Item(by='andreareina', descendants=None, kids=None, score=None, time=1607153609, title=None, item_type='comment', url=None, parent=25312527, text='No <i>local</i> hidden variables. Unless there&#x27;s been a new development?')
+Item(by='andreareina', descendants=None, kids=[25312684], score=None, time=1607153609, title=None, item_type='comment', url=None, parent=25312527, text='No <i>local</i> hidden variables. Unless there&#x27;s been a new development?')

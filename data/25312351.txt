@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1607150164, title=None, item_type='comment', url=None, parent=25312346, text='I think that electric vehicles have more wear in general because they tend to be heavier.')
+Item(by='saagarjha', descendants=None, kids=[25313587], score=None, time=1607150164, title=None, item_type='comment', url=None, parent=25312346, text='I think that electric vehicles have more wear in general because they tend to be heavier.')

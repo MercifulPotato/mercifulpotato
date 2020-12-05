@@ -1,1 +1,1 @@
-Item(by='robertoandred', descendants=None, kids=None, score=None, time=1607098343, title=None, item_type='comment', url=None, parent=25302250, text='Nothing about SPAs hurts screen readers.')
+Item(by='robertoandred', descendants=None, kids=[25313799], score=None, time=1607098343, title=None, item_type='comment', url=None, parent=25302250, text='Nothing about SPAs hurts screen readers.')

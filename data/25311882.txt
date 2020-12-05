@@ -1,1 +1,1 @@
-Item(by='jradd', descendants=None, kids=None, score=None, time=1607144183, title=None, item_type='comment', url=None, parent=25311325, text='i just wanted to save this here. good point.')
+Item(by='jradd', descendants=None, kids=[25313414], score=None, time=1607144183, title=None, item_type='comment', url=None, parent=25311325, text='i just wanted to save this here. good point.')

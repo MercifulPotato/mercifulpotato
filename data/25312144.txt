@@ -1,1 +1,1 @@
-Item(by='quantified', descendants=None, kids=None, score=None, time=1607147490, title=None, item_type='comment', url=None, parent=25311545, text='Kind of nice. On the one hand it seems obvious, on the other if it was, why haven’t we seen it before?')
+Item(by='quantified', descendants=None, kids=[25313731], score=None, time=1607147490, title=None, item_type='comment', url=None, parent=25311545, text='Kind of nice. On the one hand it seems obvious, on the other if it was, why haven’t we seen it before?')

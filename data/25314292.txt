@@ -1,0 +1,1 @@
+Item(by='cloudhead', descendants=None, kids=None, score=None, time=1607174054, title=None, item_type='comment', url=None, parent=25314103, text='It isn’t, no. It’s based on a protocol we’ve developed called Radicle Link, which provides a gossip layer on top of git.')

@@ -1,1 +1,1 @@
-Item(by='secretsanta', descendants=0, kids=None, score=1, time=1607121848, title='Show HN: Secret Santa on the Blockchain', item_type='story', url='https://secret-santa.cloud/', parent=None, text=None)
+Item(by='secretsanta', descendants=2, kids=[25313109, 25313141], score=5, time=1607121848, title='Show HN: Secret Santa on the Blockchain', item_type='story', url='https://secret-santa.cloud/', parent=None, text=None)

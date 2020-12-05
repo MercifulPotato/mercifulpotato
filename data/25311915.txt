@@ -1,1 +1,1 @@
-Item(by='tesmar2', descendants=None, kids=None, score=None, time=1607144497, title=None, item_type='comment', url=None, parent=25305650, text='Is there any note on if F# will gain concepts&#x2F;type classes?')
+Item(by='tesmar2', descendants=None, kids=[25313253], score=None, time=1607144497, title=None, item_type='comment', url=None, parent=25305650, text='Is there any note on if F# will gain concepts&#x2F;type classes?')

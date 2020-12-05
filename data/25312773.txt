@@ -1,0 +1,1 @@
+Item(by='andrei_says_', descendants=None, kids=[25313447], score=None, time=1607155883, title=None, item_type='comment', url=None, parent=25309809, text='Doesn’t vuejs require you to keep your state in a store object (data: {}) and render html via js though?')
