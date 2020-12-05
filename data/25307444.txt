@@ -1,1 +1,1 @@
-Item(by='T-A', descendants=0, kids=None, score=2, time=1607113935, title='U^2-Net human portrait drawing', item_type='story', url='https://github.com/NathanUA/U-2-Net', parent=None, text=None)
+Item(by='T-A', descendants=1, kids=[25312154], score=2, time=1607113935, title='U^2-Net human portrait drawing', item_type='story', url='https://github.com/NathanUA/U-2-Net', parent=None, text=None)

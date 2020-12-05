@@ -1,0 +1,1 @@
+Item(by='tejasv', descendants=None, kids=None, score=None, time=1607153841, title=None, item_type='comment', url=None, parent=25312601, text='Interop is janky. It works, but there are some gotchas that need to be worked around. It works in 95% of the cases without much mucking around, but it&#x27;s not pretty, so you&#x27;re better off tucking that away in some dark corner.')

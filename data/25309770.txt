@@ -1,1 +1,1 @@
-Item(by='jcranmer', descendants=None, kids=None, score=None, time=1607124949, title=None, item_type='comment', url=None, parent=25309190, text='1e-3 is a pretty loose error bound if you&#x27;re dealing with double-precision. I usually use tolerances in the region of 1e-5 to 1e-10.')
+Item(by='jcranmer', descendants=None, kids=[25311605], score=None, time=1607124949, title=None, item_type='comment', url=None, parent=25309190, text='1e-3 is a pretty loose error bound if you&#x27;re dealing with double-precision. I usually use tolerances in the region of 1e-5 to 1e-10.')

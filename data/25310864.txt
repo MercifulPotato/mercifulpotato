@@ -1,1 +1,1 @@
-Item(by='davidjnelson', descendants=None, kids=None, score=None, time=1607133136, title=None, item_type='comment', url=None, parent=25309525, text='Rails is dope.  And it works really well with universal react rendering if you need that with react_on_rails.')
+Item(by='davidjnelson', descendants=None, kids=[25311398], score=None, time=1607133136, title=None, item_type='comment', url=None, parent=25309525, text='Rails is dope.  And it works really well with universal react rendering if you need that with react_on_rails.')

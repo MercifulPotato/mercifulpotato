@@ -1,0 +1,1 @@
+Item(by='anyfoo', descendants=None, kids=None, score=None, time=1607135408, title=None, item_type='comment', url=None, parent=25306339, text='I’d like to instead say “static typing without type inference” to be pedantic. I quite like writing scripty stuff in Haskell, and the type system helps in it actually running correctly sooner.')

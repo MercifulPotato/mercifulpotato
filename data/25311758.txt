@@ -1,0 +1,1 @@
+Item(by='toast0', descendants=None, kids=None, score=None, time=1607142599, title=None, item_type='comment', url=None, parent=25311580, text='I call this the &#x27;printf&#x27; school of debugging.<p>It works a lot of the time (but not always, not great for debugging locks on stdout, for example). If you only have time to learn one debugging technique, this is the one to learn.')

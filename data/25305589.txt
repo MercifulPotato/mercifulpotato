@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1607104943, title=None, item_type='comment', url=None, parent=25304257, text='Why are the font sizes so huge? The computed font size is 30px, compared to 12px for hn.')
+Item(by='gruez', descendants=None, kids=[25312163], score=None, time=1607104943, title=None, item_type='comment', url=None, parent=25304257, text='Why are the font sizes so huge? The computed font size is 30px, compared to 12px for hn.')

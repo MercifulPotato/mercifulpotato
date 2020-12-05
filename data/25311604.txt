@@ -1,0 +1,1 @@
+Item(by='0xcde4c3db', descendants=None, kids=[25311671], score=None, time=1607140778, title=None, item_type='comment', url=None, parent=25311468, text='There&#x27;s no fundamental reason that time_t needs to be 32-bit on 32-bit systems, it&#x27;s just that a ton of software casts&#x2F;coerces time_t to&#x2F;from int.')

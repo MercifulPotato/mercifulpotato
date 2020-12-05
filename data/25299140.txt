@@ -1,1 +1,1 @@
-Item(by='wmf', descendants=None, kids=None, score=None, time=1607057851, title=None, item_type='comment', url=None, parent=25299125, text='This laptop looks like it&#x27;s actually designed for Linux developers instead of designed for Windows gamers and advertised for Linux.')
+Item(by='wmf', descendants=None, kids=[25312321], score=None, time=1607057851, title=None, item_type='comment', url=None, parent=25299125, text='This laptop looks like it&#x27;s actually designed for Linux developers instead of designed for Windows gamers and advertised for Linux.')

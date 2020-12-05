@@ -1,0 +1,1 @@
+Item(by='identity0', descendants=None, kids=None, score=None, time=1607148473, title=None, item_type='comment', url=None, parent=25311062, text='I remember implementing the comment collapsing thing without JS, you have the &quot;[-]&quot; be a label for a checkbox button, and then you just use CSS to hide the sections for which the checkbox is checked.')

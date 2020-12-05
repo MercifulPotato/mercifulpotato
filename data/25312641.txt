@@ -1,0 +1,1 @@
+Item(by='sbr464', descendants=None, kids=None, score=None, time=1607153783, title=None, item_type='comment', url=None, parent=25304257, text='What is the current best practice for making machine readable documentation of methods and options available in a CLI program? Similar to how OpenAPI works for RESTful services.')

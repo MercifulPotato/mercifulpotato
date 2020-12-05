@@ -1,1 +1,1 @@
-Item(by='svachalek', descendants=None, kids=None, score=None, time=1607128690, title=None, item_type='comment', url=None, parent=25310231, text='Yep. And good luck figuring out how to impress girls that spent every summer of their childhood in Paris and Switzerland.')
+Item(by='svachalek', descendants=None, kids=[25312071], score=None, time=1607128690, title=None, item_type='comment', url=None, parent=25310231, text='Yep. And good luck figuring out how to impress girls that spent every summer of their childhood in Paris and Switzerland.')

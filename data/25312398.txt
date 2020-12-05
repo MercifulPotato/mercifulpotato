@@ -1,0 +1,1 @@
+Item(by='boxed', descendants=None, kids=None, score=None, time=1607150770, title=None, item_type='comment', url=None, parent=25306810, text='Mutation testing can prove that the tests check all the behavior of the code, but it can&#x27;t prove that the code shouldn&#x27;t have more behavior, or that this behavior is correct.')

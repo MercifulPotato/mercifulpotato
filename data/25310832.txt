@@ -1,1 +1,1 @@
-Item(by='darepublic', descendants=None, kids=None, score=None, time=1607132825, title=None, item_type='comment', url=None, parent=25307167, text='Remember that Google fired James Damore for a lot less and the left was really happy about it')
+Item(by='darepublic', descendants=None, kids=[25311764], score=None, time=1607132825, title=None, item_type='comment', url=None, parent=25307167, text='Remember that Google fired James Damore for a lot less and the left was really happy about it')

@@ -1,1 +1,1 @@
-Item(by='selestify', descendants=None, kids=None, score=None, time=1607059312, title=None, item_type='comment', url=None, parent=25298129, text='I suppose my lack of age here is obvious, but what made the CRTs better? Presumably they weren’t outputting any more pixels than LCDs were?')
+Item(by='selestify', descendants=None, kids=[25312026], score=None, time=1607059312, title=None, item_type='comment', url=None, parent=25298129, text='I suppose my lack of age here is obvious, but what made the CRTs better? Presumably they weren’t outputting any more pixels than LCDs were?')

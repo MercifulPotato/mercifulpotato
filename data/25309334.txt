@@ -1,1 +1,1 @@
-Item(by='ohiovr', descendants=None, kids=None, score=None, time=1607121980, title=None, item_type='comment', url=None, parent=25308524, text='I&#x27;d love to see the DEC alpha at 3nm just to spite x86. Too bad they are long extinct. Intel going down the same road.')
+Item(by='ohiovr', descendants=None, kids=[25311085], score=None, time=1607121980, title=None, item_type='comment', url=None, parent=25308524, text='I&#x27;d love to see the DEC alpha at 3nm just to spite x86. Too bad they are long extinct. Intel going down the same road.')

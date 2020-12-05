@@ -1,1 +1,1 @@
-Item(by='ctolsen', descendants=0, kids=None, score=6, time=1607116138, title='Building x86_64 Docker containers on Apple Silicon', item_type='story', url='https://ctolsen.medium.com/building-x86-64-docker-containers-on-apple-silicon-a6d868a18f37', parent=None, text=None)
+Item(by='ctolsen', descendants=1, kids=[25311244], score=8, time=1607116138, title='Building x86_64 Docker containers on Apple Silicon', item_type='story', url='https://ctolsen.medium.com/building-x86-64-docker-containers-on-apple-silicon-a6d868a18f37', parent=None, text=None)

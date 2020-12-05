@@ -1,1 +1,1 @@
-Item(by='kortilla', descendants=None, kids=None, score=None, time=1607126717, title=None, item_type='comment', url=None, parent=25309775, text='If you didn’t threaten to quit then it’s not an ultimatum at all.')
+Item(by='kortilla', descendants=None, kids=[25311438], score=None, time=1607126717, title=None, item_type='comment', url=None, parent=25309775, text='If you didn’t threaten to quit then it’s not an ultimatum at all.')

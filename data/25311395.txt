@@ -1,0 +1,1 @@
+Item(by='threeys', descendants=None, kids=None, score=None, time=1607138365, title=None, item_type='comment', url=None, parent=25308976, text='I’m curious how F# encourages the “design your model first, and well” more than typescript does.<p>Is it the functional paradigm, your framework, some of both?')

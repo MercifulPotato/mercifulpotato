@@ -1,1 +1,1 @@
-Item(by='galkk', descendants=None, kids=None, score=None, time=1607133996, title=None, item_type='comment', url=None, parent=25308266, text='unpopular opinion: the need of statistics and hard math for programmers is overrated :)')
+Item(by='galkk', descendants=None, kids=[25312331], score=None, time=1607133996, title=None, item_type='comment', url=None, parent=25308266, text='controversial opinion: the need of statistics and hard math for programmers is overrated :)')

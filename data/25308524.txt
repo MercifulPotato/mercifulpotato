@@ -1,1 +1,1 @@
-Item(by='dcassett', descendants=2, kids=[25309334, 25309397], score=13, time=1607118311, title="Intel to Outsource 'Atom and Xeon Based SoCs' to TSMC", item_type='story', url='https://www.tomshardware.com/news/intel-to-outsource-atom-and-xeon-based-socs-to-tsmc', parent=None, text=None)
+Item(by='dcassett', descendants=3, kids=[25309397, 25309334], score=15, time=1607118311, title="Intel to Outsource 'Atom and Xeon Based SoCs' to TSMC", item_type='story', url='https://www.tomshardware.com/news/intel-to-outsource-atom-and-xeon-based-socs-to-tsmc', parent=None, text=None)
