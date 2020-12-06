@@ -1,1 +1,1 @@
-Item(by='BobbyJo', descendants=None, kids=None, score=None, time=1607191732, title=None, item_type='comment', url=None, parent=25316439, text='An interesting counter point: the marginal cost of stupidity rises with the technological advancement of society.')
+Item(by='BobbyJo', descendants=None, kids=[25318602, 25318957], score=None, time=1607191732, title=None, item_type='comment', url=None, parent=25316439, text='An interesting counter point: the marginal cost of stupidity rises with the technological advancement of society.')

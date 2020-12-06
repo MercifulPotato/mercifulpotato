@@ -1,0 +1,1 @@
+Item(by='enw', descendants=0, kids=[25318485], score=1, time=1607199756, title='Ask HN: Preventing Spam Online?', item_type='story', url=None, parent=None, text='I&#x27;m writing an anonymous textboard. How do I prevent automated spam?<p>Rate limits are easy to automate around. CAPTCHA&#x27;s are apparently terrible UX.<p>How do I prevent automated spam and abuse?')

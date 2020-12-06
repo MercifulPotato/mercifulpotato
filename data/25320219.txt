@@ -1,0 +1,1 @@
+Item(by='dTal', descendants=None, kids=None, score=None, time=1607219230, title=None, item_type='comment', url=None, parent=25319590, text='With BSD man (default on Void Linux) you can do:<p>MANPAGER=&lt;some-pdf-viewer&gt; man -T pdf &lt;command&gt;')

@@ -1,1 +1,1 @@
-Item(by='copperx', descendants=None, kids=None, score=None, time=1607102179, title=None, item_type='comment', url=None, parent=25299390, text='How do you use xrandr in Wayland?')
+Item(by='copperx', descendants=None, kids=[25318645], score=None, time=1607102179, title=None, item_type='comment', url=None, parent=25299390, text='How do you use xrandr in Wayland?')

@@ -1,0 +1,1 @@
+Item(by='gameswithgo', descendants=None, kids=[25320027, 25320033, 25320081, 25319913, 25319647], score=None, time=1607211470, title=None, item_type='comment', url=None, parent=25319096, text='Author contemplating an eventual C++ rewrite, but this is a perfect use case for Rust. When you want performance and where memory mistakes can be a serious security problem.')

@@ -1,1 +1,1 @@
-Item(by='swiley', descendants=None, kids=[25291616, 25291889, 25294074], score=None, time=1607015898, title=None, item_type='comment', url=None, parent=25291309, text='I have yet to find a well behaved GPU accelerated VTE.')
+Item(by='swiley', descendants=None, kids=[25291616, 25294074, 25291889], score=None, time=1607015898, title=None, item_type='comment', url=None, parent=25291309, text='I have yet to find a well behaved GPU accelerated VTE.')

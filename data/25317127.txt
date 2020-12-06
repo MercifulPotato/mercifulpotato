@@ -1,1 +1,1 @@
-Item(by='dsego', descendants=0, kids=None, score=5, time=1607194128, title='DRY is a footgun, remember to YAGNI', item_type='story', url='https://swizec.com/blog/dry-is-a-footgun-remember-to-yagni', parent=None, text=None)
+Item(by='dsego', descendants=20, kids=[25319063, 25318810, 25318644, 25318855, 25319879, 25317708, 25317902], score=31, time=1607194128, title='DRY is a footgun, remember to YAGNI', item_type='story', url='https://swizec.com/blog/dry-is-a-footgun-remember-to-yagni', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='tartoran', descendants=0, kids=None, score=2, time=1607189155, title='I’m Autistic. I Didn’t Know Until I Was 27', item_type='story', url='https://www.nytimes.com/2020/12/05/opinion/autism-adult-diagnosis-women.html', parent=None, text=None)
+Item(by='tartoran', descendants=2, kids=[25317642, 25319748], score=2, time=1607189155, title='I’m Autistic. I Didn’t Know Until I Was 27', item_type='story', url='https://www.nytimes.com/2020/12/05/opinion/autism-adult-diagnosis-women.html', parent=None, text=None)

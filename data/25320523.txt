@@ -1,0 +1,1 @@
+Item(by='kevin_thibedeau', descendants=None, kids=[25320656], score=None, time=1607222096, title=None, item_type='comment', url=None, parent=25318558, text='VLAs are a bad idea and nobody doing modern C should be touching them. It&#x27;s alloca() magic and introduces all sorts of stack destroying risk.')

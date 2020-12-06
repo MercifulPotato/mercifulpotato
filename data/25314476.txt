@@ -1,1 +1,1 @@
-Item(by='fingerlocks', descendants=None, kids=None, score=None, time=1607175631, title=None, item_type='comment', url=None, parent=25314278, text='Which state is this?')
+Item(by='fingerlocks', descendants=None, kids=[25319504], score=None, time=1607175631, title=None, item_type='comment', url=None, parent=25314278, text='Which state is this?')

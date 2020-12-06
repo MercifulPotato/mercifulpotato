@@ -1,1 +1,1 @@
-Item(by='alkonaut', descendants=None, kids=None, score=None, time=1607171005, title=None, item_type='comment', url=None, parent=25311662, text='This article was way too dense and long so I couldn’t focus long enough to actually finish reading it.')
+Item(by='alkonaut', descendants=None, kids=[25320327], score=None, time=1607171005, title=None, item_type='comment', url=None, parent=25311662, text='This article was way too dense and long so I couldn’t focus long enough to actually finish reading it.')

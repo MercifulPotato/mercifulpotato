@@ -1,0 +1,1 @@
+Item(by='sbarre', descendants=None, kids=None, score=None, time=1607213471, title=None, item_type='comment', url=None, parent=25315104, text='Are you saying Teddit is still proxying requests to Reddit even when I&#x27;m running it locally?<p>Can you show me where that happens because I&#x27;ve looked at the source code and the API calls I can find all go directly to Reddit.')

@@ -1,1 +1,1 @@
-Item(by='shusson', descendants=0, kids=None, score=2, time=1607169025, title='V4 UUID generation Postgres benchmarks', item_type='story', url='https://shusson.info/post/benchmark-v4-uuid-generation-in-postgres', parent=None, text=None)
+Item(by='shusson', descendants=0, kids=None, score=5, time=1607169025, title='V4 UUID generation Postgres benchmarks', item_type='story', url='https://shusson.info/post/benchmark-v4-uuid-generation-in-postgres', parent=None, text=None)

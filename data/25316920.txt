@@ -1,1 +1,1 @@
-Item(by='kgran', descendants=1, kids=[25317331], score=17, time=1607192966, title='GNU World Order', item_type='story', url='https://gnuworldorder.info/', parent=None, text=None)
+Item(by='kgran', descendants=25, kids=[25318909, 25317331, 25317957, 25318085, 25317856, 25319407, 25318257, 25319545, 25317932], score=76, time=1607192966, title='GNU World Order', item_type='story', url='https://gnuworldorder.info/', parent=None, text=None)

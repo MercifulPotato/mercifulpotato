@@ -1,0 +1,1 @@
+Item(by='kzrdude', descendants=None, kids=None, score=None, time=1607213201, title=None, item_type='comment', url=None, parent=25316882, text='Netflix works fine on my Kodi on Rpi 4. It has a plugin for widevine DRM and gets the required parts (keys?) from a chrome os image it downloads.')

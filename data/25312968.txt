@@ -1,1 +1,1 @@
-Item(by='pmarin', descendants=None, kids=None, score=None, time=1607159051, title=None, item_type='comment', url=None, parent=25312870, text='It&#x27;s funny, I only have used the program on Linux via wine.\nIs the GNOME tool any better?')
+Item(by='pmarin', descendants=None, kids=[25320421], score=None, time=1607159051, title=None, item_type='comment', url=None, parent=25312870, text='It&#x27;s funny, I only have used the program on Linux via wine.\nIs the GNOME tool any better?')

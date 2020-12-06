@@ -1,0 +1,1 @@
+Item(by='amelius', descendants=None, kids=[25318794, 25319575], score=None, time=1607205208, title=None, item_type='comment', url=None, parent=25312833, text='Why are disk usage tools always so slow? Can&#x27;t the filesystem store diskusage hierarchically, so these tools can open instantly?')

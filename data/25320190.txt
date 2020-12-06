@@ -1,0 +1,1 @@
+Item(by='grishka', descendants=None, kids=None, score=None, time=1607218919, title=None, item_type='comment', url=None, parent=25317474, text='I still use a mac with an nvidia GPU, and the driver appears to be leaking memory a lot. Unless I reboot it about once a week, it becomes noticeably laggy.')

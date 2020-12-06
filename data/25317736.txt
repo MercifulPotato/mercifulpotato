@@ -1,1 +1,1 @@
-Item(by='canjobear', descendants=None, kids=None, score=None, time=1607198177, title=None, item_type='comment', url=None, parent=25317621, text='Tidyverse absolutely has a hipster craft beer feel to it. I think it&#x27;s great, but it&#x27;s true.')
+Item(by='canjobear', descendants=None, kids=[25319150], score=None, time=1607198177, title=None, item_type='comment', url=None, parent=25317621, text='Tidyverse absolutely has a hipster craft beer feel to it. I think it&#x27;s great, but it&#x27;s true.')

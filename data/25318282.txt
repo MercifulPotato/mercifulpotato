@@ -1,0 +1,1 @@
+Item(by='jcelerier', descendants=None, kids=None, score=None, time=1607201919, title=None, item_type='comment', url=None, parent=25318141, text='technically,<p><pre><code>    int x = x; \n</code></pre>\ncompiles, but is UB - you can turn it into a compile error with `-Werror=uninitialized` in decent compilers.')

@@ -1,0 +1,1 @@
+Item(by='judge2020', descendants=None, kids=None, score=None, time=1607214907, title=None, item_type='comment', url=None, parent=25318579, text='DNS over HTTPS has been a thing since before IETF standardized it, the technique was just in the form of a non-standardized API running on some benign domain.')

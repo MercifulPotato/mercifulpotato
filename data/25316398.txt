@@ -1,1 +1,1 @@
-Item(by='tguvot', descendants=None, kids=None, score=None, time=1607189760, title=None, item_type='comment', url=None, parent=25314413, text='You can go to settings &gt; installed application and lunch VLC or anything else directly from there')
+Item(by='tguvot', descendants=None, kids=[25320052], score=None, time=1607189760, title=None, item_type='comment', url=None, parent=25314413, text='You can go to settings &gt; installed application and lunch VLC or anything else directly from there')

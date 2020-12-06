@@ -1,1 +1,1 @@
-Item(by='bionsystem', descendants=None, kids=None, score=None, time=1607177111, title=None, item_type='comment', url=None, parent=25311545, text='I don&#x27;t get the rectangle, it&#x27;s only 4 cards. A poker hand is 5 cards.')
+Item(by='bionsystem', descendants=None, kids=[25317726], score=None, time=1607177111, title=None, item_type='comment', url=None, parent=25311545, text='I don&#x27;t get the rectangle, it&#x27;s only 4 cards. A poker hand is 5 cards.')

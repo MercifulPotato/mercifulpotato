@@ -1,0 +1,1 @@
+Item(by='gaius_baltar', descendants=None, kids=[25318572], score=None, time=1607199997, title=None, item_type='comment', url=None, parent=25317875, text='I really understand why Ubuntu migrated Chromium to snaps only. Splitting all the code it embedded back to the original libraries is certainly a nightmare.')

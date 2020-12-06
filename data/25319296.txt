@@ -1,0 +1,1 @@
+Item(by='identity0', descendants=None, kids=[25319320], score=None, time=1607209432, title=None, item_type='comment', url=None, parent=25316608, text='I wish more languages gave us a &quot;|&gt;&quot; operator. Too many languages settle with dot notation, which confuses encapsulation&#x2F;method calling with syntactical convenience.')

@@ -1,1 +1,1 @@
-Item(by='galfarragem', descendants=0, kids=None, score=4, time=1607163368, title='Between two Lisps', item_type='story', url='https://ane.github.io/2020/10/05/between-two-lisps.html', parent=None, text=None)
+Item(by='galfarragem', descendants=27, kids=[25320621, 25319819, 25319404, 25319054, 25319446, 25320588, 25320001, 25320112, 25319709, 25319981, 25320345], score=60, time=1607163368, title='Between two Lisps', item_type='story', url='https://ane.github.io/2020/10/05/between-two-lisps.html', parent=None, text=None)

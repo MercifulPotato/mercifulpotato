@@ -1,1 +1,1 @@
-Item(by='christophilus', descendants=None, kids=None, score=None, time=1607181070, title=None, item_type='comment', url=None, parent=25315006, text='HN strikes me as being pretty consistently anti-Google almost every time Google comes up, so I don’t think this is the reason.')
+Item(by='christophilus', descendants=None, kids=[25317887], score=None, time=1607181070, title=None, item_type='comment', url=None, parent=25315006, text='HN strikes me as being pretty consistently anti-Google almost every time Google comes up, so I don’t think this is the reason.')

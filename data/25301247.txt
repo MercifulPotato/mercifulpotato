@@ -1,1 +1,1 @@
-Item(by='dnetesn', descendants=0, kids=None, score=1, time=1607081971, title='Sea Turtles Find Their Way', item_type='story', url='http://oceans.nautil.us/feature/644/how-sea-turtles-find-their-way', parent=None, text=None)
+Item(by='dnetesn', descendants=5, kids=[25318319, 25318638, 25318776], score=14, time=1607081971, title='Sea Turtles Find Their Way', item_type='story', url='http://oceans.nautil.us/feature/644/how-sea-turtles-find-their-way', parent=None, text=None)

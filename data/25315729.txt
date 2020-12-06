@@ -1,1 +1,1 @@
-Item(by='hhs', descendants=0, kids=[25316906], score=1, time=1607185780, title='Angry billionaires make disturbing neighbours', item_type='story', url='https://www.ft.com/content/969231df-18a0-4aaa-8968-872f18ac2a49', parent=None, text=None)
+Item(by='hhs', descendants=1, kids=[25317807, 25316906], score=1, time=1607185780, title='Angry billionaires make disturbing neighbours', item_type='story', url='https://www.ft.com/content/969231df-18a0-4aaa-8968-872f18ac2a49', parent=None, text=None)

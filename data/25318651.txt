@@ -1,0 +1,1 @@
+Item(by='aappleby', descendants=None, kids=None, score=None, time=1607204316, title=None, item_type='comment', url=None, parent=25312999, text='Can Kaitai Struct store its metadata in a binary form that&#x27;s parseable with Kaitai Struct?<p>Seems like there&#x27;s an obvious bootstrapping task there that would then make the custom .ksy format irrelevant.')

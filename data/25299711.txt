@@ -1,1 +1,1 @@
-Item(by='khazhoux', descendants=None, kids=None, score=None, time=1607064469, title=None, item_type='comment', url=None, parent=25298931, text='They don&#x27;t call it a quarter pounder?')
+Item(by='khazhoux', descendants=None, kids=[25320423], score=None, time=1607064469, title=None, item_type='comment', url=None, parent=25298931, text='They don&#x27;t call it a quarter pounder?')

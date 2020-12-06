@@ -1,1 +1,1 @@
-Item(by='aqme28', descendants=None, kids=None, score=None, time=1607200063, title=None, item_type='comment', url=None, parent=25317948, text='&quot;this happens to be news because it&#x27;s ICE&quot;<p>Exactly. I don&#x27;t see why that justifies the dismissiveness.')
+Item(by='aqme28', descendants=None, kids=[25318167], score=None, time=1607200063, title=None, item_type='comment', url=None, parent=25317948, text='&quot;this happens to be news because it&#x27;s ICE&quot;<p>Exactly. I don&#x27;t see why that justifies the dismissiveness.')

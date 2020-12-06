@@ -1,1 +1,1 @@
-Item(by='ohazi', descendants=None, kids=None, score=None, time=1607186416, title=None, item_type='comment', url=None, parent=25314406, text='This was a toy project that was never mainlined')
+Item(by='ohazi', descendants=None, kids=[25320128], score=None, time=1607186416, title=None, item_type='comment', url=None, parent=25314406, text='This was a toy project that was never mainlined')

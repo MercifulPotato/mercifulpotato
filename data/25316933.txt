@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=1, kids=[25317229], score=2, time=1607193057, title='A Special Kind of Hell: intmax_t in C and C++', item_type='story', url='https://thephd.github.io/intmax_t-hell-c++-c', parent=None, text=None)
+Item(by='ingve', descendants=64, kids=[25318024, 25317920, 25318190, 25318204, 25318330, 25317840, 25317911, 25318141, 25318043, 25318415, 25317229], score=40, time=1607193057, title='A Special Kind of Hell: intmax_t in C and C++', item_type='story', url='https://thephd.github.io/intmax_t-hell-c++-c', parent=None, text=None)

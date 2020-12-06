@@ -1,1 +1,1 @@
-Item(by='ducktective', descendants=None, kids=None, score=None, time=1607195845, title=None, item_type='comment', url=None, parent=25316469, text='How long do you estimate it takes to design a reddit-like website for someone with beginner experience in webdev?')
+Item(by='ducktective', descendants=None, kids=[25320109], score=None, time=1607195845, title=None, item_type='comment', url=None, parent=25316469, text='How long do you estimate it takes to design a reddit-like website for someone with beginner experience in webdev?')

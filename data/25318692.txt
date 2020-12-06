@@ -1,0 +1,1 @@
+Item(by='loeg', descendants=None, kids=None, score=None, time=1607204619, title=None, item_type='comment', url=None, parent=25318250, text='It&#x27;s probably fine for addition on an AVR, but I&#x27;m having trouble imagining what you&#x27;d want to count that needs more than 32 bits on an AVR.')
