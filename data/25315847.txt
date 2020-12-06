@@ -1,1 +1,1 @@
-Item(by='plorkyeran', descendants=None, kids=None, score=None, time=1607186641, title=None, item_type='comment', url=None, parent=25314698, text='Using jekyll I&#x27;ve gotten 30+ minute build times for sites. SSGs aren&#x27;t only useful for sites with a single-digit number of pages.')
+Item(by='plorkyeran', descendants=None, kids=[25322954], score=None, time=1607186641, title=None, item_type='comment', url=None, parent=25314698, text='Using jekyll I&#x27;ve gotten 30+ minute build times for sites. SSGs aren&#x27;t only useful for sites with a single-digit number of pages.')

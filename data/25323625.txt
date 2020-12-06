@@ -1,0 +1,1 @@
+Item(by='nyanpasu64', descendants=None, kids=None, score=None, time=1607264612, title=None, item_type='comment', url=None, parent=25315153, text='static_assert(false) fails to compile even if it appears in an if-constexpr branch that isn&#x27;t taken. You need a dependent false value, templated by the type passed into the lambda.<p>And yes, C++ is an endless pit of horrors.')

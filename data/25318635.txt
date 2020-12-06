@@ -1,1 +1,1 @@
-Item(by='edavis', descendants=0, kids=None, score=17, time=1607204223, title='In Defense of Blub Studies', item_type='story', url='https://www.benkuhn.net/blub/', parent=None, text=None)
+Item(by='edavis', descendants=5, kids=[25322880, 25322941, 25323251], score=25, time=1607204223, title='In Defense of Blub Studies', item_type='story', url='https://www.benkuhn.net/blub/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='cloudhead', descendants=None, kids=None, score=None, time=1607173289, title=None, item_type='comment', url=None, parent=25314183, text='Because you want a way to move money around eventually. Eg. How do you do GitHub sponsors p2p?')
+Item(by='cloudhead', descendants=None, kids=[25323112], score=None, time=1607173289, title=None, item_type='comment', url=None, parent=25314183, text='Because you want a way to move money around eventually. Eg. How do you do GitHub sponsors p2p?')

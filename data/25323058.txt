@@ -1,0 +1,1 @@
+Item(by='kame3d', descendants=None, kids=None, score=None, time=1607257361, title=None, item_type='comment', url=None, parent=25322803, text='Isn&#x27;t that the same thing as using function pointers in C?<p>You need the * to access the function the variable points to.')

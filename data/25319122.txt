@@ -1,1 +1,1 @@
-Item(by='tylergetsay', descendants=None, kids=None, score=None, time=1607208082, title=None, item_type='comment', url=None, parent=25317362, text='And with CEC you can control the TV, I particularly like my scripts to turn off the TV&#x27;s when I leave.')
+Item(by='tylergetsay', descendants=None, kids=[25322277], score=None, time=1607208082, title=None, item_type='comment', url=None, parent=25317362, text='And with CEC you can control the TV, I particularly like my scripts to turn off the TV&#x27;s when I leave.')

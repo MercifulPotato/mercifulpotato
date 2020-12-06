@@ -1,1 +1,1 @@
-Item(by='solarmist', descendants=None, kids=None, score=None, time=1607126219, title=None, item_type='comment', url=None, parent=25309495, text='This does not surprise me in the slightest.<p>Facebook is at least as bad as Microsoft was under Ballmer.')
+Item(by='solarmist', descendants=None, kids=[25322847], score=None, time=1607126219, title=None, item_type='comment', url=None, parent=25309495, text='This does not surprise me in the slightest.<p>Facebook is at least as bad as Microsoft was under Ballmer.')

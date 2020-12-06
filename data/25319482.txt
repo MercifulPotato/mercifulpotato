@@ -1,1 +1,1 @@
-Item(by='hlandau', descendants=4, kids=[25321545, 25320209, 25320519], score=51, time=1607211431, title='Modifying and running a binary by recompiling a reverse engineered disassembly', item_type='story', url='https://www.devever.net/~hl/recompile', parent=None, text=None)
+Item(by='hlandau', descendants=4, kids=[25321545, 25320209, 25320519], score=67, time=1607211431, title='Modifying and running a binary by recompiling a reverse engineered disassembly', item_type='story', url='https://www.devever.net/~hl/recompile', parent=None, text=None)

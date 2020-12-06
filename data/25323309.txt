@@ -1,0 +1,1 @@
+Item(by='gameswithgo', descendants=None, kids=None, score=None, time=1607260673, title=None, item_type='comment', url=None, parent=25320081, text='indeed, C#&#x2F;Go&#x2F;Java etc would all be a big boon without the mental overhead of Rust.  Data races being caught at compile time is also nice though when doing a multithreaded server.')

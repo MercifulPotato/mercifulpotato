@@ -1,0 +1,1 @@
+Item(by='lottin', descendants=None, kids=None, score=None, time=1607247026, title=None, item_type='comment', url=None, parent=25318256, text='In R all functions are anonymous functions.  Functions are created anonymously and then (usually, but not always) assigned to a variable using the assignment operator.')

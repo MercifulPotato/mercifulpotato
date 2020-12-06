@@ -1,1 +1,1 @@
-Item(by='bigums', descendants=None, kids=None, score=None, time=1607221889, title=None, item_type='comment', url=None, parent=25320454, text='Didn’t the Firefox DevTools team get pretty hard with layoffs?')
+Item(by='bigums', descendants=None, kids=[25321781], score=None, time=1607221889, title=None, item_type='comment', url=None, parent=25320454, text='Didn’t the Firefox DevTools team get pretty hard with layoffs?')

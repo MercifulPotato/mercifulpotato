@@ -1,1 +1,1 @@
-Item(by='amluto', descendants=None, kids=None, score=None, time=1607221401, title=None, item_type='comment', url=None, parent=25318170, text='I looked at that, and it does not appear to result in brighter-than-white output on my iPhone 12 mini.')
+Item(by='amluto', descendants=None, kids=[25322642], score=None, time=1607221401, title=None, item_type='comment', url=None, parent=25318170, text='I looked at that, and it does not appear to result in brighter-than-white output on my iPhone 12 mini.')

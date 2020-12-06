@@ -1,1 +1,1 @@
-Item(by='gsich', descendants=None, kids=None, score=None, time=1607243853, title=None, item_type='comment', url=None, parent=25321287, text='More like 4% depending on what statistic you&#x27;ll believe.')
+Item(by='gsich', descendants=None, kids=[25323595], score=None, time=1607243853, title=None, item_type='comment', url=None, parent=25321287, text='More like 4% depending on what statistic you&#x27;ll believe.')

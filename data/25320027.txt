@@ -1,1 +1,1 @@
-Item(by='gnusty_gnurc', descendants=None, kids=None, score=None, time=1607217331, title=None, item_type='comment', url=None, parent=25319484, text='&gt; but this is a perfect use case for Rust<p>Idk it seems like for someone prototyping things alone, Python is the perfect langauge')
+Item(by='gnusty_gnurc', descendants=None, kids=[25322818], score=None, time=1607217331, title=None, item_type='comment', url=None, parent=25319484, text='&gt; but this is a perfect use case for Rust<p>Idk it seems like for someone prototyping things alone, Python is the perfect langauge')

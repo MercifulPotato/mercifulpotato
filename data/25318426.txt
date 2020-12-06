@@ -1,1 +1,1 @@
-Item(by='comex', descendants=None, kids=[25321868, 25320775, 25318673], score=None, time=1607202833, title=None, item_type='comment', url=None, parent=25318188, text='Kaitai is designed to describe arbitrary, preexisting binary formats.  You can’t do that with ASN.1.')
+Item(by='comex', descendants=None, kids=[25321868, 25318673, 25320775], score=None, time=1607202833, title=None, item_type='comment', url=None, parent=25318188, text='Kaitai is designed to describe arbitrary, preexisting binary formats.  You can’t do that with ASN.1.')

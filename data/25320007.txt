@@ -1,0 +1,1 @@
+Item(by='ma2rten', descendants=None, kids=None, score=None, time=1607217149, title=None, item_type='comment', url=None, parent=25317655, text='In general, BERT would be the most common one. RoBERTa is the same model but trained for longer, which turns out to work better. T5 is a larger model, which works better on many tasks but is more expensive.')
