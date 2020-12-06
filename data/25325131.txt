@@ -1,0 +1,1 @@
+Item(by='minimaxir', descendants=None, kids=None, score=None, time=1607276987, title=None, item_type='comment', url=None, parent=25324855, text='You can load the 1.5B GPT-2 into a 16GB VRAM GPU...with fp16 downcasting. Still not ideal for M1 though.')

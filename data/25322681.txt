@@ -1,1 +1,1 @@
-Item(by='transfire', descendants=None, kids=None, score=None, time=1607252113, title=None, item_type='comment', url=None, parent=25322288, text='Type and Creator Codes are the way. The given cons are implementation details, not immutable problems.')
+Item(by='transfire', descendants=None, kids=[25325304], score=None, time=1607252113, title=None, item_type='comment', url=None, parent=25322288, text='Type and Creator Codes are the way. The given cons are implementation details, not immutable problems.')

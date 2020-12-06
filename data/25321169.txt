@@ -1,1 +1,1 @@
-Item(by='tashi', descendants=None, kids=None, score=None, time=1607230710, title=None, item_type='comment', url=None, parent=25320533, text='No duplicated logic at all? Does that mean a high-quality program should never contain more than one &quot;for&quot; loop?')
+Item(by='tashi', descendants=None, kids=[25323600], score=None, time=1607230710, title=None, item_type='comment', url=None, parent=25320533, text='No duplicated logic at all? Does that mean a high-quality program should never contain more than one &quot;for&quot; loop?')

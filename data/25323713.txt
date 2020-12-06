@@ -1,0 +1,1 @@
+Item(by='adminu', descendants=None, kids=[25324063], score=None, time=1607265500, title=None, item_type='comment', url=None, parent=25323500, text='Yeah, the database is under too much load right now (should have chosen RDS t3.micro when posting on HN). Updating to a bigger instance right now, should be up in a few minutes again. Thanks for the feedback')

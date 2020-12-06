@@ -1,1 +1,1 @@
-Item(by='billfruit', descendants=None, kids=None, score=None, time=1607218547, title=None, item_type='comment', url=None, parent=25318778, text='Would &quot;Bonfire of the Vanities&quot; make a good introduction to 80s Wall Street as well?')
+Item(by='billfruit', descendants=None, kids=[25323764], score=None, time=1607218547, title=None, item_type='comment', url=None, parent=25318778, text='Would &quot;Bonfire of the Vanities&quot; make a good introduction to 80s Wall Street as well?')

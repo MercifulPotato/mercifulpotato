@@ -1,0 +1,1 @@
+Item(by='scatters', descendants=None, kids=[25324580], score=None, time=1607266013, title=None, item_type='comment', url=None, parent=25323394, text='Wow, ugly, but it works:<p><pre><code>    (void) R&quot;long-comment(\n    &#x2F;* C-style comment *&#x2F;\n    std::cout &lt;&lt; &quot;hello&quot; &lt;&lt; std::endl;\n    )long-comment&quot;;</code></pre>')

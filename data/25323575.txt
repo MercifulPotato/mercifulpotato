@@ -1,1 +1,1 @@
-Item(by='pwdisswordfish4', descendants=None, kids=None, score=None, time=1607264176, title=None, item_type='comment', url=None, parent=25320592, text='Someone commenting &quot;I stopped reading&#x2F;watching after ...&quot; earns an automatic downvote.  No one cares.')
+Item(by='pwdisswordfish4', descendants=None, kids=[25324701], score=None, time=1607264176, title=None, item_type='comment', url=None, parent=25320592, text='Someone commenting &quot;I stopped reading&#x2F;watching after ...&quot; earns an automatic downvote.  No one cares.')

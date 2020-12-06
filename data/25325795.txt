@@ -1,0 +1,1 @@
+Item(by='bawolff', descendants=None, kids=None, score=None, time=1607281887, title=None, item_type='comment', url=None, parent=25325722, text='GNU Taler seems to not let people receiving payments be anonymous, which to me seems like a rather random design choice that has nothing to do with the underlying technology and severely limits Taler.')

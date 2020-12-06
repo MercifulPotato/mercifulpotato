@@ -1,0 +1,1 @@
+Item(by='danieldk', descendants=None, kids=[25324690], score=None, time=1607270888, title=None, item_type='comment', url=None, parent=25324342, text='Interesting, because the README in the repository states that it will only use CPU cores in eager mode:<p><i>Please note that in eager mode, ML Compute will use the CPU.</i>')

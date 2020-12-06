@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1607276048, title=None, item_type='comment', url=None, parent=25324460, text='In Rust, the library format also includes a pre-compiled version of the generics needed, and so when the compiler includes the library, it can monomorphize from there.')

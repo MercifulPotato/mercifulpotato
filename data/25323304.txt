@@ -1,1 +1,1 @@
-Item(by='dagw', descendants=None, kids=None, score=None, time=1607260633, title=None, item_type='comment', url=None, parent=25321238, text='<i>it wants a goddamn SMS authentication</i><p>That&#x27;s a company policy setting and not something inherent to Teams.')
+Item(by='dagw', descendants=None, kids=[25325436], score=None, time=1607260633, title=None, item_type='comment', url=None, parent=25321238, text='<i>it wants a goddamn SMS authentication</i><p>That&#x27;s a company policy setting and not something inherent to Teams.')

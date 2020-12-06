@@ -1,0 +1,1 @@
+Item(by='EvgeniyZh', descendants=None, kids=[25326089], score=None, time=1607281341, title=None, item_type='comment', url=None, parent=25325396, text='Apple claims 11 trillion OPS, NVIDIA claims 285 TOPS, my educated guess is that real-life performance is off by same factor, leading to ~25x advantage of 3090 compared to M1')

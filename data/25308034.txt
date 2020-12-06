@@ -1,1 +1,1 @@
-Item(by='vmchale', descendants=None, kids=[25308291, 25308600, 25312583], score=None, time=1607116206, title=None, item_type='comment', url=None, parent=25307942, text='Elm is definitely not ready for production, hostile compiler maintainers.')
+Item(by='vmchale', descendants=None, kids=[25308291, 25312583, 25308600], score=None, time=1607116206, title=None, item_type='comment', url=None, parent=25307942, text='Elm is definitely not ready for production, hostile compiler maintainers.')

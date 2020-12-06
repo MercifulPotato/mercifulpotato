@@ -1,0 +1,1 @@
+Item(by='FartyMcFarter', descendants=None, kids=None, score=None, time=1607286927, title=None, item_type='comment', url=None, parent=25326293, text='&gt; Containers should be about security not cloning local development environment.<p>Why not? One way to use containers is as a light-weight virtual machine without a kernel, which can be pretty useful.')

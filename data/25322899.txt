@@ -1,1 +1,1 @@
-Item(by='Nextgrid', descendants=None, kids=None, score=None, time=1607255085, title=None, item_type='comment', url=None, parent=25322801, text='I believe other programs like OpenBroadcast (OBS) can use NVENC so there are less user-hostile (and buggy) alternatives.')
+Item(by='Nextgrid', descendants=None, kids=[25325274], score=None, time=1607255085, title=None, item_type='comment', url=None, parent=25322801, text='I believe other programs like OpenBroadcast (OBS) can use NVENC so there are less user-hostile (and buggy) alternatives.')

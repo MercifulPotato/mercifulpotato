@@ -1,0 +1,1 @@
+Item(by='bitwize', descendants=None, kids=[25325437], score=None, time=1607276360, title=None, item_type='comment', url=None, parent=25324953, text='In the 1970s, secretaries wrote their own extensions to Emacs in Lisp. They were only ever told they were &quot;customizing&quot; the editor, not programming it!<p>(This was Multics Emacs, a predecessor to GNU Emacs.)')

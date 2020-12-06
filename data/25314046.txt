@@ -1,1 +1,1 @@
-Item(by='nix23', descendants=None, kids=None, score=None, time=1607171248, title=None, item_type='comment', url=None, parent=25313409, text='You sound like a terrible character, and you should be ashamed about yourself.')
+Item(by='nix23', descendants=None, kids=[25325530], score=None, time=1607171248, title=None, item_type='comment', url=None, parent=25313409, text='You sound like a terrible character, and you should be ashamed about yourself.')

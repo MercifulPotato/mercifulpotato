@@ -1,1 +1,1 @@
-Item(by='KlimYadrintsev', descendants=None, kids=None, score=None, time=1607241034, title=None, item_type='comment', url=None, parent=25320364, text='What a great idea! Thanks!')
+Item(by='KlimYadrintsev', descendants=None, kids=[25325220], score=None, time=1607241034, title=None, item_type='comment', url=None, parent=25320364, text='What a great idea! Thanks!')

@@ -1,0 +1,1 @@
+Item(by='eugenhotaj', descendants=None, kids=[25324627, 25324631, 25324640], score=None, time=1607272741, title=None, item_type='comment', url=None, parent=25324084, text='Don’t kernel SVMs need a full pass through the data they were trained on to make predictions? How is that faster?')

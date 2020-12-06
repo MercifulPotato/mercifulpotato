@@ -1,0 +1,1 @@
+Item(by='Hello71', descendants=None, kids=None, score=None, time=1607275614, title=None, item_type='comment', url=None, parent=25321891, text='imagine node_modules with dozens of layers deep nesting. each write would have 10x or 20x amplification to update the parents.')

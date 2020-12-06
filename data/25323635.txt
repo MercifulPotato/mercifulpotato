@@ -1,1 +1,1 @@
-Item(by='tasubotadas', descendants=None, kids=None, score=None, time=1607264709, title=None, item_type='comment', url=None, parent=25323065, text='That&#x27;s pretty racist.')
+Item(by='tasubotadas', descendants=None, kids=[25324102], score=None, time=1607264709, title=None, item_type='comment', url=None, parent=25323065, text='That&#x27;s pretty racist.')

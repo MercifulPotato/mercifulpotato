@@ -1,1 +1,1 @@
-Item(by='factorialboy', descendants=None, kids=None, score=None, time=1607244777, title=None, item_type='comment', url=None, parent=25320403, text='Speed. Customizability.')
+Item(by='factorialboy', descendants=None, kids=[25325453], score=None, time=1607244777, title=None, item_type='comment', url=None, parent=25320403, text='Speed. Customizability.')

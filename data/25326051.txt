@@ -1,0 +1,1 @@
+Item(by='nautilus12', descendants=None, kids=[25326259], score=None, time=1607283764, title=None, item_type='comment', url=None, parent=25325056, text='I just want to make absolute sure that this is NOT the case.  Does this mean that docker images built with `docker build` and pushed up to dockerhub will no longer be useable in kubernetes or not?')

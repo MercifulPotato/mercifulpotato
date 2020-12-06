@@ -1,0 +1,1 @@
+Item(by='dilyevsky', descendants=None, kids=None, score=None, time=1607284507, title=None, item_type='comment', url=None, parent=25325205, text='CockroachDB uses pg protocol but doesn’t support all the features (close enough though).')

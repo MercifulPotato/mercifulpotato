@@ -1,0 +1,1 @@
+Item(by='attractivechaos', descendants=None, kids=[25325022], score=None, time=1607271795, title=None, item_type='comment', url=None, parent=25324125, text='How do modules work with generics and cross-module inline functions? Probably I can find the answer in D or Rust but I am not familiar with their mechanisms. Thanks.')

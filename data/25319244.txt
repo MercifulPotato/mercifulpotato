@@ -1,1 +1,1 @@
-Item(by='diodorus', descendants=0, kids=None, score=28, time=1607209025, title='Infamous Assassins of the Middle Ages', item_type='story', url='https://www.laphamsquarterly.org/roundtable/infamous-assassins-middle-ages', parent=None, text=None)
+Item(by='diodorus', descendants=2, kids=[25324032], score=42, time=1607209025, title='Infamous Assassins of the Middle Ages', item_type='story', url='https://www.laphamsquarterly.org/roundtable/infamous-assassins-middle-ages', parent=None, text=None)

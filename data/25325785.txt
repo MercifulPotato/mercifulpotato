@@ -1,0 +1,1 @@
+Item(by='goatinaboat', descendants=None, kids=[25325817, 25325828], score=None, time=1607281827, title=None, item_type='comment', url=None, parent=25325742, text='<i>But Kubernetes is super complicated.</i><p>It can be, but running minikube or k3s on your laptop is trivial, and what you do with them transfers very easily to real Kubernetes.')

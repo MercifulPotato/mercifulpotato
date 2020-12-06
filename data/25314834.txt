@@ -1,1 +1,1 @@
-Item(by='scottlocklin', descendants=None, kids=None, score=None, time=1607179245, title=None, item_type='comment', url=None, parent=25314830, text='Looking at you, deep learning.')
+Item(by='scottlocklin', descendants=None, kids=[25324119, 25324055], score=None, time=1607179245, title=None, item_type='comment', url=None, parent=25314830, text='Looking at you, deep learning.')

@@ -1,0 +1,1 @@
+Item(by='atombender', descendants=None, kids=[25325457], score=None, time=1607279353, title=None, item_type='comment', url=None, parent=25324536, text='The solution is to have different shard sizes. Your largest customer needs to fit on the largest shard size (extra large VMs or whatever).')

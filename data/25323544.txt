@@ -1,1 +1,1 @@
-Item(by='throwaway293823', descendants=None, kids=None, score=None, time=1607263723, title=None, item_type='comment', url=None, parent=25323494, text='Judging from the downvotes when suggesting to selectively disable js, that crowd is a small minority.')
+Item(by='throwaway293823', descendants=None, kids=[25326098], score=None, time=1607263723, title=None, item_type='comment', url=None, parent=25323494, text='Judging from the downvotes when suggesting to selectively disable js, that crowd is a small minority.')

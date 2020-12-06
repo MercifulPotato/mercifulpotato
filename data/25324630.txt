@@ -1,0 +1,1 @@
+Item(by='readittwice', descendants=None, kids=None, score=None, time=1607273346, title=None, item_type='comment', url=None, parent=25324492, text='There is the caveat that generated machine code can embed addresses of objects that get relocated by the GC. In this case the code needs to be patched even though the code itself doesn&#x27;t move.')

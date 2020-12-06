@@ -1,0 +1,1 @@
+Item(by='EvgeniyZh', descendants=None, kids=None, score=None, time=1607284595, title=None, item_type='comment', url=None, parent=25326089, text='30 TFLOPS are general-purpose ones, for tensor cores, depending on what exactly you count can be 71 TFLOPS (fp32 accumulator), 142 TFLOPS (fp16 accumulator), or 282 TFLOPS (sparse tensors)')

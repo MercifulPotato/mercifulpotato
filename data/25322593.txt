@@ -1,1 +1,1 @@
-Item(by='homarp', descendants=0, kids=None, score=1, time=1607250945, title='IceStick Tutorial: experience FPGA design and RISC-V using $40 FPGA device', item_type='story', url='https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/IceStick.md', parent=None, text=None)
+Item(by='homarp', descendants=0, kids=None, score=3, time=1607250945, title='IceStick Tutorial: experience FPGA design and RISC-V using $40 FPGA device', item_type='story', url='https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/IceStick.md', parent=None, text=None)

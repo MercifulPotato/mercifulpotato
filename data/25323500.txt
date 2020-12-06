@@ -1,0 +1,1 @@
+Item(by='iakh', descendants=None, kids=[25323713], score=None, time=1607263289, title=None, item_type='comment', url=None, parent=25322873, text='Tried &quot;file&quot; and &quot;doc&quot; and both appeared to be stuck loading for over 30 before I gave up<p>Edit: seems to load if I refresh a few times. Android Chrome. Also, debounce time is a bit short')

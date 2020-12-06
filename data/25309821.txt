@@ -1,1 +1,1 @@
-Item(by='kazamaloo', descendants=None, kids=None, score=None, time=1607125312, title=None, item_type='comment', url=None, parent=25303090, text='what you refer to as &quot;they&quot; are two different entities.')
+Item(by='kazamaloo', descendants=None, kids=[25323650], score=None, time=1607125312, title=None, item_type='comment', url=None, parent=25303090, text='what you refer to as &quot;they&quot; are two different entities.')

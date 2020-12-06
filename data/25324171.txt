@@ -1,0 +1,1 @@
+Item(by='MaulingMonkey', descendants=None, kids=[25325818], score=None, time=1607269150, title=None, item_type='comment', url=None, parent=25322074, text='It&#x27;s absolutely insanity.  A cruel question I came up with the other day, based on it - What is the result of:<p><pre><code>    std::is_signed&lt;decltype(1L * 2U)&gt;()\n\n?</code></pre>')

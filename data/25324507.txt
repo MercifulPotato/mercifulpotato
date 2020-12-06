@@ -1,0 +1,1 @@
+Item(by='bjoli', descendants=None, kids=[25324721], score=None, time=1607272301, title=None, item_type='comment', url=None, parent=25320241, text='They are faster, easier to reason about, less prone to leak memory and are always what you want. Everyone except maybe the chicken scheme people agree, but call&#x2F;cc is free for them due to their GC strategy.')

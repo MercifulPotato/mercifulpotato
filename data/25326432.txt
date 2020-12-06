@@ -1,0 +1,1 @@
+Item(by='heavyset_go', descendants=None, kids=None, score=None, time=1607287343, title=None, item_type='comment', url=None, parent=25325982, text='podman claims to be a drop-in replacement for Docker, yet when  I tried to treat it as one, I ran into bugs and a lack of feature parity.')

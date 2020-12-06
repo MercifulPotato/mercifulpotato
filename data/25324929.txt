@@ -1,0 +1,1 @@
+Item(by='PaulDavisThe1st', descendants=None, kids=None, score=None, time=1607275357, title=None, item_type='comment', url=None, parent=25324114, text='Since #define will still exist, I&#x27;d suggest<p><pre><code>   #define __WHERE__ std::source_location::current()\n</code></pre>\n:)')

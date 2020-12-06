@@ -1,0 +1,1 @@
+Item(by='jlokier', descendants=None, kids=None, score=None, time=1607287484, title=None, item_type='comment', url=None, parent=25322055, text='Some pre-forking web servers will shut down a child process after it has processed a configured number of requests.<p>E.g. Apache in mpm_prefork mode, MaxRequestsPerChild configuration.')

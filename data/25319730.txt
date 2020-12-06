@@ -1,1 +1,1 @@
-Item(by='wdb', descendants=None, kids=None, score=None, time=1607213927, title=None, item_type='comment', url=None, parent=25319466, text='The computer books market is different compared to your typical fiction books market. Looks like you are referring to the latter.')
+Item(by='wdb', descendants=None, kids=[25325529], score=None, time=1607213927, title=None, item_type='comment', url=None, parent=25319466, text='The computer books market is different compared to your typical fiction books market. Looks like you are referring to the latter.')

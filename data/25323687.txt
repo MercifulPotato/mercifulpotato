@@ -1,0 +1,1 @@
+Item(by='maxcan', descendants=None, kids=None, score=None, time=1607265289, title=None, item_type='comment', url=None, parent=25311492, text='I&#x27;d guess the idea would be to have more succinct URLs.<p>As to whether or not primary keys should even ever be exposed in URLs, different story.')
