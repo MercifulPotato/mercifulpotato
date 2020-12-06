@@ -1,0 +1,1 @@
+Item(by='amw-zero', descendants=None, kids=None, score=None, time=1607222494, title=None, item_type='comment', url=None, parent=25318810, text='I don’t understand this argument. It’s trivial to de-duplicate an abstraction by just inlining the code. How is that less efficient than duplicating code? At least in the meantime you get the benefit of shared code changes.')

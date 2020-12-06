@@ -1,1 +1,1 @@
-Item(by='pstuart', descendants=None, kids=None, score=None, time=1607211364, title=None, item_type='comment', url=None, parent=25314106, text='Does anybody here know of any open source projects that use datalog&#x2F;prolog&#x2F;etc and would be comprehensible to mere mortals?')
+Item(by='pstuart', descendants=None, kids=[25320657], score=None, time=1607211364, title=None, item_type='comment', url=None, parent=25314106, text='Does anybody here know of any open source projects that use datalog&#x2F;prolog&#x2F;etc and would be comprehensible to mere mortals?')

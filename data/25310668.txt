@@ -1,1 +1,1 @@
-Item(by='pabs3', descendants=None, kids=None, score=None, time=1607131204, title=None, item_type='comment', url=None, parent=25304154, text='First party analytics should also meet the standards of informed consent.')
+Item(by='pabs3', descendants=None, kids=[25320866], score=None, time=1607131204, title=None, item_type='comment', url=None, parent=25304154, text='First party analytics should also meet the standards of informed consent.')

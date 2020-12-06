@@ -1,0 +1,1 @@
+Item(by='cercatrova', descendants=None, kids=[25321977], score=None, time=1607233596, title=None, item_type='comment', url=None, parent=25312876, text='Why would the entire stack be JS? Even in server side React, it can still fetch from APIs, so presumably you have a backend to fetch from, in whatever language and database you want.')

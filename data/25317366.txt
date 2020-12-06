@@ -1,1 +1,1 @@
-Item(by='matt-attack', descendants=None, kids=None, score=None, time=1607195555, title=None, item_type='comment', url=None, parent=25311545, text='I don’t like “flower” because it depends on his arbitrary ordering of suits.')
+Item(by='matt-attack', descendants=None, kids=[25320282], score=None, time=1607195555, title=None, item_type='comment', url=None, parent=25311545, text='I don’t like “flower” because it depends on his arbitrary ordering of suits.')

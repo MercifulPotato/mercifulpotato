@@ -1,1 +1,1 @@
-Item(by='jbergstroem', descendants=39, kids=[25317875, 25317849, 25317732, 25318678], score=103, time=1607191950, title='Debian 10.7 Released', item_type='story', url='https://www.debian.org/News/2020/20201205', parent=None, text=None)
+Item(by='jbergstroem', descendants=40, kids=[25317875, 25317849, 25317732, 25318678], score=107, time=1607191950, title='Debian 10.7 Released', item_type='story', url='https://www.debian.org/News/2020/20201205', parent=None, text=None)

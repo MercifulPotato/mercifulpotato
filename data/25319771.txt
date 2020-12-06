@@ -1,1 +1,1 @@
-Item(by='jelliclesfarm', descendants=None, kids=None, score=None, time=1607214348, title=None, item_type='comment', url=None, parent=25319140, text='Parents pass down their genes. They benefit.')
+Item(by='jelliclesfarm', descendants=None, kids=[25320865], score=None, time=1607214348, title=None, item_type='comment', url=None, parent=25319140, text='Parents pass down their genes. They benefit.')

@@ -1,1 +1,1 @@
-Item(by='Shared404', descendants=None, kids=None, score=None, time=1607210170, title=None, item_type='comment', url=None, parent=25319326, text='&gt; Fortunately as of now, no such a system exists on the planet.<p>Tor, GNUnet, I2P?')
+Item(by='Shared404', descendants=None, kids=[25321826], score=None, time=1607210170, title=None, item_type='comment', url=None, parent=25319326, text='&gt; Fortunately as of now, no such a system exists on the planet.<p>Tor, GNUnet, I2P?')

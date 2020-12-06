@@ -1,0 +1,1 @@
+Item(by='SloopJon', descendants=None, kids=None, score=None, time=1607236576, title=None, item_type='comment', url=None, parent=25318570, text='Yeah, min() returns the most negative int, so it seems like it should do the same for float.  Then the float with the least magnitude could have been, say, smallest().')

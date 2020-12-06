@@ -1,1 +1,1 @@
-Item(by='tpoacher', descendants=None, kids=None, score=None, time=1607215005, title=None, item_type='comment', url=None, parent=25316608, text='nitpicking, but this is not a lambda. it&#x27;s an anonymous function.')
+Item(by='tpoacher', descendants=None, kids=[25321088], score=None, time=1607215005, title=None, item_type='comment', url=None, parent=25316608, text='nitpicking, but this is not a lambda. it&#x27;s an anonymous function.')

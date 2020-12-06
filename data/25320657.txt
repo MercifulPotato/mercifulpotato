@@ -1,0 +1,1 @@
+Item(by='bawolff', descendants=None, kids=[25321784], score=None, time=1607223910, title=None, item_type='comment', url=None, parent=25319474, text='Gerrit used prolog to determine when to merge patches if i recall. I had to learn prolog in university once upon a time, but gerrit is the only time i have ever encountered prolog in the wild, and it only uses it i  one small spot.')

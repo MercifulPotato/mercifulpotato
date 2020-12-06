@@ -1,1 +1,1 @@
-Item(by='samclemens', descendants=0, kids=None, score=3, time=1607062891, title='Satirist to the Galaxy', item_type='story', url='https://theamericanscholar.org/satirist-to-the-galaxy/', parent=None, text=None)
+Item(by='samclemens', descendants=1, kids=[25321681], score=6, time=1607062891, title='Satirist to the Galaxy', item_type='story', url='https://theamericanscholar.org/satirist-to-the-galaxy/', parent=None, text=None)

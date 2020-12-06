@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1607238635, title=None, item_type='comment', url=None, parent=25320656, text='Already done in C11, they were marked optional, so any compiler that jumped from C89 to C11 (we are on the edge of C2x now), isn&#x27;t required to even bother themselves with VLAs and will still achieve C11 certification (C17, C2X,...)')

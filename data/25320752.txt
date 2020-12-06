@@ -1,0 +1,1 @@
+Item(by='nikolay', descendants=None, kids=None, score=None, time=1607225173, title=None, item_type='comment', url=None, parent=25317127, text='The code samples are broken and the examples are oversimplifying the DRY principle. Neither extreme YAGNI, nor extreme DRY are good practices and we all know this for a fact!')

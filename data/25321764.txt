@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1607238739, title=None, item_type='comment', url=None, parent=25318780, text='Because C++ compilers aren&#x27;t required to be C compilers as well.<p>However they have backtracked on their position regarding supporting C on Windows, so latest MVSC does support C11 and C17.')
