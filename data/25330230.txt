@@ -1,1 +1,1 @@
-Item(by='tommilukkarinen', descendants=None, kids=None, score=None, time=1607328287, title=None, item_type='comment', url=None, parent=25327951, text='Apple is already $2 trillion? If we think it as a bad company, is it too late, is it already too big to stop?')
+Item(by='tommilukkarinen', descendants=None, kids=[25330408], score=None, time=1607328287, title=None, item_type='comment', url=None, parent=25327951, text='Apple is already $2 trillion? If we think it as a bad company, is it too late, is it already too big to stop?')

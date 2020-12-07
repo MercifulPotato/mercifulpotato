@@ -1,0 +1,1 @@
+Item(by='hda111', descendants=None, kids=None, score=None, time=1607348974, title=None, item_type='comment', url=None, parent=25327952, text='True but I would use pod yaml with podman. It’s not anywhere near being on par with Docker-compose but it’s the better tool because every pod can be used rootless.')

@@ -1,1 +1,1 @@
-Item(by='cxf12', descendants=None, kids=None, score=None, time=1607306251, title=None, item_type='comment', url=None, parent=25328248, text='Read the Trump administrations policy views at whitehouse.gov<p>It&#x27;s right there in the open.')
+Item(by='cxf12', descendants=None, kids=[25330973], score=None, time=1607306251, title=None, item_type='comment', url=None, parent=25328248, text='Read the Trump administrations policy views at whitehouse.gov<p>It&#x27;s right there in the open.')

@@ -1,0 +1,1 @@
+Item(by='dtech', descendants=None, kids=[25332324], score=None, time=1607333868, title=None, item_type='comment', url=None, parent=25329154, text='iirc that&#x27;s already possible, it&#x27;s how letsencrypt started out without its own root widely distributed by having its intermediate certificates cross-signed with IdenTrust root.')

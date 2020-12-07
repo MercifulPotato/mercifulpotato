@@ -1,1 +1,1 @@
-Item(by='peter_d_sherman', descendants=12, kids=[25326226, 25326531, 25326263, 25325866, 25327316], score=95, time=1607275322, title='YARA – The pattern matching swiss knife', item_type='story', url='https://github.com/VirusTotal/yara', parent=None, text=None)
+Item(by='peter_d_sherman', descendants=13, kids=[25326226, 25326531, 25326263, 25325866, 25327316], score=103, time=1607275322, title='YARA – The pattern matching swiss knife', item_type='story', url='https://github.com/VirusTotal/yara', parent=None, text=None)

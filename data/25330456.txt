@@ -1,0 +1,1 @@
+Item(by='adrianN', descendants=None, kids=[25331471, 25331465], score=None, time=1607331142, title=None, item_type='comment', url=None, parent=25330246, text='I&#x27;m arguing that we should use asserts or similar defensive coding mechanisms to ensure that preconditions are met instead of merrily continuing to run our program with cascading error effects.')

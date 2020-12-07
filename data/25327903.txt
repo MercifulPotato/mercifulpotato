@@ -1,1 +1,1 @@
-Item(by='GordonS', descendants=None, kids=None, score=None, time=1607299346, title=None, item_type='comment', url=None, parent=25327875, text='I guess they meant SHA-256?')
+Item(by='GordonS', descendants=None, kids=[25331816], score=None, time=1607299346, title=None, item_type='comment', url=None, parent=25327875, text='I guess they meant SHA-256?')

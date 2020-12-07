@@ -1,0 +1,1 @@
+Item(by='IceWreck', descendants=None, kids=None, score=None, time=1607331289, title=None, item_type='comment', url=None, parent=25329100, text='If you want systemd integration, use podman. It has a docker compatible CLI and runs OCI images just like docker but unlike docker it runs daemonless and has systemd integration')

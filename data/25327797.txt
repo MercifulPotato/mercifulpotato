@@ -1,1 +1,1 @@
-Item(by='kristianp', descendants=None, kids=None, score=None, time=1607298376, title=None, item_type='comment', url=None, parent=25327043, text='Are you using a mobile processor to keep the thermals down?  Or underclocking a desktop-class processor and using a giant heat sink?')
+Item(by='kristianp', descendants=None, kids=[25331040], score=None, time=1607298376, title=None, item_type='comment', url=None, parent=25327043, text='Are you using a mobile processor to keep the thermals down?  Or underclocking a desktop-class processor and using a giant heat sink?')

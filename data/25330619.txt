@@ -1,0 +1,1 @@
+Item(by='speps', descendants=None, kids=None, score=None, time=1607333389, title=None, item_type='comment', url=None, parent=25327267, text='Did anyone manage to download the SVN from SourceForge?<p>&gt; svn: E120106: ra_serf: The server sent a truncated HTTP response body.<p>That&#x27;s all I get, either using the website&#x27;s snapshot download or svn export.')

@@ -1,1 +1,1 @@
-Item(by='quelsolaar', descendants=None, kids=None, score=None, time=1607311684, title=None, item_type='comment', url=None, parent=25328600, text='In win32 you can set icon, application name and pretty much everything programmatically.')
+Item(by='quelsolaar', descendants=None, kids=[25330779], score=None, time=1607311684, title=None, item_type='comment', url=None, parent=25328600, text='In win32 you can set icon, application name and pretty much everything programmatically.')

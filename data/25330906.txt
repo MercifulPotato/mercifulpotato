@@ -1,0 +1,1 @@
+Item(by='casept', descendants=None, kids=None, score=None, time=1607337255, title=None, item_type='comment', url=None, parent=25329073, text='It&#x27;s possible to have a locked bootloader (so no unsigned OS), but still have vulnerabilities in the vendor OS image that allow rooting (on devices that are 4 years out of date this is pretty likely).')

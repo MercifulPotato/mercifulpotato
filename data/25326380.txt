@@ -1,1 +1,1 @@
-Item(by='ScottBurson', descendants=None, kids=None, score=None, time=1607286789, title=None, item_type='comment', url=None, parent=25325355, text='Dylan doesn&#x27;t have parameterized types.')
+Item(by='ScottBurson', descendants=None, kids=[25331583], score=None, time=1607286789, title=None, item_type='comment', url=None, parent=25325355, text='Dylan doesn&#x27;t have parameterized types.')

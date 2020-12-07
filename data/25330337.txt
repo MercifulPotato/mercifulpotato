@@ -1,0 +1,1 @@
+Item(by='stephenr', descendants=None, kids=None, score=None, time=1607329682, title=None, item_type='comment', url=None, parent=25327808, text='FYI your site becomes a blank page for me a second or so after it loads. Something adds the class `newsletter-modal` to `&lt;body&gt;`. Seems like something relying on&#x2F;expecting a third party script to load and then doing stuff.')

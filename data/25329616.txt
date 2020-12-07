@@ -1,1 +1,1 @@
-Item(by='davchana', descendants=None, kids=None, score=None, time=1607319436, title=None, item_type='comment', url=None, parent=25327750, text='Oh sorry, my bad, you mean fact, not face. Yes, I agree.')
+Item(by='davchana', descendants=None, kids=[25330382], score=None, time=1607319436, title=None, item_type='comment', url=None, parent=25327750, text='Oh sorry, my bad, you mean fact, not face. Yes, I agree.')

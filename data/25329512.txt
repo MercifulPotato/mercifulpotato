@@ -1,1 +1,1 @@
-Item(by='krab', descendants=None, kids=None, score=None, time=1607318090, title=None, item_type='comment', url=None, parent=25323030, text='Time flies. Python is almost 30 years old now.')
+Item(by='krab', descendants=None, kids=[25330801], score=None, time=1607318090, title=None, item_type='comment', url=None, parent=25323030, text='Time flies. Python is almost 30 years old now.')

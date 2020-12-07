@@ -1,1 +1,1 @@
-Item(by='chronal', descendants=None, kids=None, score=None, time=1607297255, title=None, item_type='comment', url=None, parent=25321822, text='What textbooks did you assign for prolog and smalltalk?')
+Item(by='chronal', descendants=None, kids=[25330629], score=None, time=1607297255, title=None, item_type='comment', url=None, parent=25321822, text='What textbooks did you assign for prolog and smalltalk?')

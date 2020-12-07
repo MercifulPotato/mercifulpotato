@@ -1,1 +1,1 @@
-Item(by='Bella-Xiang', descendants=1, kids=[25329853], score=20, time=1607311428, title='TeX: A Tale of Two Worlds', item_type='story', url='https://bitbashing.io/tex.html', parent=None, text=None)
+Item(by='Bella-Xiang', descendants=2, kids=[25331184, 25329853], score=25, time=1607311428, title='TeX: A Tale of Two Worlds', item_type='story', url='https://bitbashing.io/tex.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='Tomte', descendants=1, kids=[25331476], score=10, time=1607343199, title='Important, Spoofing (zero-interaction RCE in MS Teams)', item_type='story', url='https://github.com/oskarsve/ms-teams-rce', parent=None, text=None)
