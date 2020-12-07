@@ -1,1 +1,1 @@
-Item(by='rglullis', descendants=None, kids=None, score=None, time=1607279718, title=None, item_type='comment', url=None, parent=25323780, text='You just described Stellar.')
+Item(by='rglullis', descendants=None, kids=[25326402], score=None, time=1607279718, title=None, item_type='comment', url=None, parent=25323780, text='You just described Stellar.')

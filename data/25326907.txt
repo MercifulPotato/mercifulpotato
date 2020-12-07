@@ -1,0 +1,1 @@
+Item(by='vbezhenar', descendants=None, kids=None, score=None, time=1607290697, title=None, item_type='comment', url=None, parent=25324951, text='I live in Kazakhstan and I can confirm that I&#x27;m observing this behavior on Google websites (they don&#x27;t MitM all websites and I think they don&#x27;t MitM all connections, just some percentage). Simple IPsec VPN works fine.')

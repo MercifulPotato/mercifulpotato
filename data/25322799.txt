@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=1, kids=[25323238], score=2, time=1607254042, title='The Elderly vs. Essential Workers: Who Should Get the Vaccine First?', item_type='story', url='https://www.nytimes.com/2020/12/05/health/covid-vaccine-first.html', parent=None, text=None)
+Item(by='pseudolus', descendants=3, kids=[25326640, 25323238, 25327780], score=2, time=1607254042, title='The Elderly vs. Essential Workers: Who Should Get the Vaccine First?', item_type='story', url='https://www.nytimes.com/2020/12/05/health/covid-vaccine-first.html', parent=None, text=None)

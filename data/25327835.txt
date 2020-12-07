@@ -1,0 +1,1 @@
+Item(by='postalrat', descendants=None, kids=[25327882], score=None, time=1607298808, title=None, item_type='comment', url=None, parent=25307929, text='How easy is it test a function add(a, b) that just adds a and b and returns the result?<p>Or how bout testing:<p><pre><code>  function divide(a, b, fn) {\n    let [_a, _b] = fn(a, b);\n    return _a &#x2F; _b;\n  }</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='kelnos', descendants=None, kids=None, score=None, time=1607289296, title=None, item_type='comment', url=None, parent=25326662, text='It is, but the syntax is uglier.  Also imagine that you might want to do more than just RUN in a single layer.  Maybe COPY some file into the container and then RUN something that uses it.')

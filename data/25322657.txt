@@ -1,1 +1,1 @@
-Item(by='jrockway', descendants=None, kids=None, score=None, time=1607251735, title=None, item_type='comment', url=None, parent=25321522, text='That&#x27;s the zero risk approach, but you can have a risk tolerance above zero.')
+Item(by='jrockway', descendants=None, kids=[25328631], score=None, time=1607251735, title=None, item_type='comment', url=None, parent=25321522, text='That&#x27;s the zero risk approach, but you can have a risk tolerance above zero.')

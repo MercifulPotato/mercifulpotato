@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=[25328702], score=None, time=1607304153, title=None, item_type='comment', url=None, parent=25328436, text='&gt; <i>Maps are basically a big octree with something like marching-cubes applied</i><p>I could be totally off on this, but isn&#x27;t this a classic way of encoding levels?')

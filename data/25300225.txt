@@ -1,1 +1,1 @@
-Item(by='bshanks', descendants=10, kids=[25323118, 25324379, 25325085, 25322997, 25325283], score=41, time=1607070159, title='A light-weight JIT compiler based on MIR (Medium Internal Representation)', item_type='story', url='https://github.com/vnmakarov/mir', parent=None, text=None)
+Item(by='bshanks', descendants=12, kids=[25323118, 25322997, 25324379, 25325085, 25325283], score=57, time=1607070159, title='A light-weight JIT compiler based on MIR (Medium Internal Representation)', item_type='story', url='https://github.com/vnmakarov/mir', parent=None, text=None)

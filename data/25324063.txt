@@ -1,1 +1,1 @@
-Item(by='smt88', descendants=None, kids=None, score=None, time=1607268473, title=None, item_type='comment', url=None, parent=25323713, text='I imagine your entire database would fit easily in memory, so you should consider caching instead of hitting your database on every request.')
+Item(by='smt88', descendants=None, kids=[25326710], score=None, time=1607268473, title=None, item_type='comment', url=None, parent=25323713, text='I imagine your entire database would fit easily in memory, so you should consider caching instead of hitting your database on every request.')

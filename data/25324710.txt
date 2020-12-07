@@ -1,1 +1,1 @@
-Item(by='submeta', descendants=None, kids=None, score=None, time=1607273841, title=None, item_type='comment', url=None, parent=25324370, text='My (not well researched) understanding was that Racket is a popular Scheme variant. But thanks for pointing towards Chicken Scheme.')
+Item(by='submeta', descendants=None, kids=[25326784], score=None, time=1607273841, title=None, item_type='comment', url=None, parent=25324370, text='My (not well researched) understanding was that Racket is a popular Scheme variant. But thanks for pointing towards Chicken Scheme.')

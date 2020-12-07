@@ -1,1 +1,1 @@
-Item(by='srik901', descendants=3, kids=[25321900], score=25, time=1607235343, title='Semantic segmentation algorithms do not generalize to off-road datasets', item_type='story', url='https://unmannedlab.github.io/research/RELLIS-3D', parent=None, text=None)
+Item(by='srik901', descendants=4, kids=[25327775, 25321900], score=27, time=1607235343, title='Semantic segmentation algorithms do not generalize to off-road datasets', item_type='story', url='https://unmannedlab.github.io/research/RELLIS-3D', parent=None, text=None)

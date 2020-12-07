@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=None, score=None, time=1607307411, title=None, item_type='comment', url=None, parent=25328107, text='Wow that is cruel! Somehow I just assumed int would get promoted to long regardless of their size difference. That this isn&#x27;t the case almost seems like a language defect!')

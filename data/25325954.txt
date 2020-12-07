@@ -1,1 +1,1 @@
-Item(by='dabbledash', descendants=None, kids=None, score=None, time=1607282891, title=None, item_type='comment', url=None, parent=25324943, text='It’s a real shame “Yolo” and “shut down everything” are the only options!')
+Item(by='dabbledash', descendants=None, kids=[25326137], score=None, time=1607282891, title=None, item_type='comment', url=None, parent=25324943, text='It’s a real shame “Yolo” and “shut down everything” are the only options!')

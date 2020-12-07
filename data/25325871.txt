@@ -1,1 +1,1 @@
-Item(by='ceejayoz', descendants=None, kids=None, score=None, time=1607282396, title=None, item_type='comment', url=None, parent=25325765, text='They are not the same thing, no.<p>Pretending they aren’t <i>related</i> is insanity.')
+Item(by='ceejayoz', descendants=None, kids=[25326375], score=None, time=1607282396, title=None, item_type='comment', url=None, parent=25325765, text='They are not the same thing, no.<p>Pretending they aren’t <i>related</i> is insanity.')

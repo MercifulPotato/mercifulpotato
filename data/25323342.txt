@@ -1,1 +1,1 @@
-Item(by='talonx', descendants=19, kids=[25326446, 25324649, 25324536, 25325205], score=60, time=1607261142, title='Scaling Datastores at Slack with Vitess', item_type='story', url='https://slack.engineering/scaling-datastores-at-slack-with-vitess/', parent=None, text=None)
+Item(by='talonx', descendants=28, kids=[25324649, 25324536, 25326446, 25325205], score=82, time=1607261142, title='Scaling Datastores at Slack with Vitess', item_type='story', url='https://slack.engineering/scaling-datastores-at-slack-with-vitess/', parent=None, text=None)

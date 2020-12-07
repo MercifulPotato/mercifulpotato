@@ -1,1 +1,1 @@
-Item(by='pydry', descendants=None, kids=None, score=None, time=1607285243, title=None, item_type='comment', url=None, parent=25326182, text='podman in podman doesn&#x27;t seem to work. that&#x27;s a showstopper for a lot of work.')
+Item(by='pydry', descendants=None, kids=[25326462], score=None, time=1607285243, title=None, item_type='comment', url=None, parent=25326182, text='podman in podman doesn&#x27;t seem to work. that&#x27;s a showstopper for a lot of work.')

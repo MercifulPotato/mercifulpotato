@@ -1,0 +1,1 @@
+Item(by='Netcob', descendants=None, kids=None, score=None, time=1607292440, title=None, item_type='comment', url=None, parent=25326681, text='I used a small Noctua fan on my Pi project (actually a relatively large box) that I&#x27;m controlling via PWM. Didn&#x27;t need any logic level conversion.')

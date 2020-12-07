@@ -1,0 +1,1 @@
+Item(by='arka2147483647', descendants=None, kids=None, score=None, time=1607297483, title=None, item_type='comment', url=None, parent=25327528, text='The caller could want to move the element from one list to another, in which case the optimum impl would not free or copy the element.')

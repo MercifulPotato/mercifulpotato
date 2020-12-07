@@ -1,0 +1,1 @@
+Item(by='austincheney', descendants=None, kids=None, score=None, time=1607304195, title=None, item_type='comment', url=None, parent=25327255, text='I would say Mozilla is doing well with speed. Firefox’s DOM traversal is thousands of times faster than chromes.')

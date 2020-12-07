@@ -1,0 +1,1 @@
+Item(by='topspin', descendants=None, kids=None, score=None, time=1607305094, title=None, item_type='comment', url=None, parent=25326662, text='Spend some time on docker hub and you&#x27;ll find thousands of Dockerfiles with RUN &lt;150 lines of &amp;&amp; concatentated scripts&gt;.  It&#x27;s dysfunctional.')

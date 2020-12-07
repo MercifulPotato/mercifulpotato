@@ -1,0 +1,1 @@
+Item(by='andris9', descendants=None, kids=None, score=None, time=1607300898, title=None, item_type='comment', url=None, parent=25326121, text='WildDuck has dedicated plugins for Haraka and ZoneMta. So when Haraka receives a new email the recipient is validated by WildDuck plugin and the final message is stored directly to WildDuck’s database.')

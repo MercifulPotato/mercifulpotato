@@ -1,0 +1,1 @@
+Item(by='ryan29', descendants=None, kids=None, score=None, time=1607302893, title=None, item_type='comment', url=None, parent=25327191, text='I was thinking about doing the same recently.  The big thing I wanted to test was the way they hide Worker spin up in the latency of the TLS negotiation.')
