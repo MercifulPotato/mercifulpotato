@@ -1,1 +1,1 @@
-Item(by='Tepix', descendants=None, kids=None, score=None, time=1607343309, title=None, item_type='comment', url=None, parent=25329488, text='Tell that to the dead crew member of TS5 Hallucine catamaran that went overboard during the collision with a UFO at night.')
+Item(by='Tepix', descendants=None, kids=[25332423], score=None, time=1607343309, title=None, item_type='comment', url=None, parent=25329488, text='Tell that to the dead crew member of TS5 Hallucine catamaran that went overboard during the collision with a UFO at night.')

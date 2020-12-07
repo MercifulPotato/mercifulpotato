@@ -1,0 +1,1 @@
+Item(by='29athrowaway', descendants=None, kids=None, score=None, time=1607366875, title=None, item_type='comment', url=None, parent=25333350, text='It is a nice tour of JS features.<p>Some things missing: Typed arrays, template literals, Internationalization API (Intl).<p>Date will be replaced  with TC39 Temporal soon.')

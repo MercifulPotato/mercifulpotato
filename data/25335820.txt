@@ -1,0 +1,1 @@
+Item(by='JD557', descendants=None, kids=[25336003], score=None, time=1607368019, title=None, item_type='comment', url=None, parent=25334246, text='Hi there.<p>I&#x27;m completely new to Matrix, so sorry if this is a stupid question, but is there something like a gitter homeserver where I can login with my gitter credentials?<p>If so, what homeserver URL should I use in element?')

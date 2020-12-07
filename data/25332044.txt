@@ -1,1 +1,1 @@
-Item(by='waihtis', descendants=None, kids=None, score=None, time=1607348789, title=None, item_type='comment', url=None, parent=25331295, text='Think the supposed problem here is mixing wine with sleeping pills.')
+Item(by='waihtis', descendants=None, kids=[25332643], score=None, time=1607348789, title=None, item_type='comment', url=None, parent=25331295, text='Think the supposed problem here is mixing wine with sleeping pills.')

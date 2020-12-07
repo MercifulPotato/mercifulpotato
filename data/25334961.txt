@@ -1,0 +1,1 @@
+Item(by='sbergot', descendants=None, kids=None, score=None, time=1607364445, title=None, item_type='comment', url=None, parent=25333663, text='I would say it is the opposite. Beyond a certain project size, semantic html + css becomes unmaintainable because you are not able to predict what while change if you remove one line of css.')

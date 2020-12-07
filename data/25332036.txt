@@ -1,1 +1,1 @@
-Item(by='jbirer', descendants=None, kids=None, score=None, time=1607348712, title=None, item_type='comment', url=None, parent=25331756, text='This is Apple&#x27;s opportunity to become a hardware giant. I hope they don&#x27;t mess this up.')
+Item(by='jbirer', descendants=None, kids=[25332395, 25332142, 25332256], score=None, time=1607348712, title=None, item_type='comment', url=None, parent=25331756, text='This is Apple&#x27;s opportunity to become a hardware giant. I hope they don&#x27;t mess this up.')

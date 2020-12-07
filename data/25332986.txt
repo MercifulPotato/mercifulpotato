@@ -1,0 +1,1 @@
+Item(by='sudosysgen', descendants=None, kids=None, score=None, time=1607354710, title=None, item_type='comment', url=None, parent=25332355, text='Whether or not the uefi allows you to boot custom code has no impact on whether or not permanently compromising the uefi is possible.')

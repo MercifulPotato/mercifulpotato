@@ -1,1 +1,1 @@
-Item(by='adrianN', descendants=None, kids=None, score=None, time=1607348206, title=None, item_type='comment', url=None, parent=25331822, text='You&#x27;re right, but checking for null is not terribly expensive compared to iterating over a linked list.')
+Item(by='adrianN', descendants=None, kids=[25332364], score=None, time=1607348206, title=None, item_type='comment', url=None, parent=25331822, text='You&#x27;re right, but checking for null is not terribly expensive compared to iterating over a linked list.')

@@ -1,0 +1,1 @@
+Item(by='gfxgirl', descendants=None, kids=[25335847], score=None, time=1607367977, title=None, item_type='comment', url=None, parent=25335354, text='What is functional react? It certainly isn&#x27;t using `useState` etc as arguably all those `useXXX` functions are not remotely pure. They do different things the first time they are called vs the second.')

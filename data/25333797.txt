@@ -1,0 +1,1 @@
+Item(by='leerob', descendants=None, kids=None, score=None, time=1607359317, title=None, item_type='comment', url=None, parent=25333758, text='FYI: PostCSS 8 + Tailwind 2.0 is compatible with Next.js.<p>You can run `npx create-next-app --example with-tailwind` to get started.')

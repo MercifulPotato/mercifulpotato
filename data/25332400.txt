@@ -1,0 +1,1 @@
+Item(by='andrepd', descendants=None, kids=[25334945], score=None, time=1607351373, title=None, item_type='comment', url=None, parent=25330456, text='Asserts have run-time cost. What you need is to ensure ensure those preconditions are met in the first place, statically, by formal methods for example.')

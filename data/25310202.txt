@@ -1,1 +1,1 @@
-Item(by='megablast', descendants=None, kids=None, score=None, time=1607127587, title=None, item_type='comment', url=None, parent=25302898, text='Why do people use weird acronyms that no one uses.')
+Item(by='megablast', descendants=None, kids=[25335649], score=None, time=1607127587, title=None, item_type='comment', url=None, parent=25302898, text='Why do people use weird acronyms that no one uses.')

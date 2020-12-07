@@ -1,1 +1,1 @@
-Item(by='dnetesn', descendants=0, kids=None, score=3, time=1607340060, title="The first DNA 'tricorder' in your pocket", item_type='story', url='https://phys.org/news/2020-12-world-dna-tricorder-pocket.html', parent=None, text=None)
+Item(by='dnetesn', descendants=1, kids=[25333725], score=10, time=1607340060, title="The first DNA 'tricorder' in your pocket", item_type='story', url='https://phys.org/news/2020-12-world-dna-tricorder-pocket.html', parent=None, text=None)

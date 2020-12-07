@@ -1,1 +1,1 @@
-Item(by='Joker_vD', descendants=None, kids=None, score=None, time=1607351427, title=None, item_type='comment', url=None, parent=25332224, text='...what is the least trivially surprising natural number? That is, would such a number still be trivially surprising?')
+Item(by='Joker_vD', descendants=None, kids=[25332723, 25332576, 25332603], score=None, time=1607351427, title=None, item_type='comment', url=None, parent=25332224, text='...what is the least trivially surprising natural number? That is, would such a number still be trivially surprising?')

@@ -1,1 +1,1 @@
-Item(by='bergstromm466', descendants=None, kids=None, score=None, time=1607343788, title=None, item_type='comment', url=None, parent=25326766, text='Have you checked out <a href="https:&#x2F;&#x2F;developer.holochain.org" rel="nofollow">https:&#x2F;&#x2F;developer.holochain.org</a>?')
+Item(by='bergstromm466', descendants=None, kids=[25335770], score=None, time=1607343788, title=None, item_type='comment', url=None, parent=25326766, text='Have you checked out <a href="https:&#x2F;&#x2F;developer.holochain.org" rel="nofollow">https:&#x2F;&#x2F;developer.holochain.org</a>?')

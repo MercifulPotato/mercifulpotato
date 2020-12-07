@@ -1,0 +1,1 @@
+Item(by='halfmatthalfcat', descendants=None, kids=None, score=None, time=1607371300, title=None, item_type='comment', url=None, parent=25336461, text='Have you seen the size of frontend codebases? Even modest SPAs reach into the tens of thousands of lines. Or the size of large Express.js driven backends? A huge portion of the web is driven by JS&#x2F;TS.')

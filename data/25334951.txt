@@ -1,0 +1,1 @@
+Item(by='vsareto', descendants=None, kids=None, score=None, time=1607364420, title=None, item_type='comment', url=None, parent=25334584, text='I kind of agree with their reasoning, the exception being when you can have a lot of complicated looping&#x2F;control flow breaks or transient variables close to their usage. Seeing &#x27;array[i][j][k]&#x27; is never fun.')

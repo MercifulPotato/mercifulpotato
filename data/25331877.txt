@@ -1,1 +1,1 @@
-Item(by='sirodoht', descendants=0, kids=None, score=4, time=1607347319, title='The Architecture of IMGZ', item_type='story', url='https://imgz.org/blog/2020/11/19/look-ma-no-seo/', parent=None, text=None)
+Item(by='sirodoht', descendants=56, kids=[25336155, 25333728, 25334025, 25335506, 25333815, 25335110, 25334982, 25336054, 25333901, 25334121, 25335249, 25335414, 25335192, 25335511, 25333982, 25333892, 25334060], score=105, time=1607347319, title='The Architecture of IMGZ', item_type='story', url='https://imgz.org/blog/2020/11/19/look-ma-no-seo/', parent=None, text=None)

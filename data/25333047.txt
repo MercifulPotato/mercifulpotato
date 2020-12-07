@@ -1,0 +1,1 @@
+Item(by='jozzy-james', descendants=None, kids=None, score=None, time=1607355009, title=None, item_type='comment', url=None, parent=25332846, text='purgecss and customizing the config will reduce any file size concerns you have (plus gzip, etc) - from an execution perspective, since you&#x27;re only using a fixed set of class names, the parsing is quite fast.')

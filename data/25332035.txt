@@ -1,1 +1,1 @@
-Item(by='nmaggioni', descendants=0, kids=None, score=1, time=1607348708, title="What's triggering my GitHub API rate limit?", item_type='story', url='https://nmaggioni.xyz/2020/12/06/What-s-triggering-my-GitHub-API-rate-limit/', parent=None, text=None)
+Item(by='nmaggioni', descendants=2, kids=[25332098], score=1, time=1607348708, title="What's triggering my GitHub API rate limit?", item_type='story', url='https://nmaggioni.xyz/2020/12/06/What-s-triggering-my-GitHub-API-rate-limit/', parent=None, text=None)

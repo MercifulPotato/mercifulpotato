@@ -1,0 +1,1 @@
+Item(by='alexanderrofail', descendants=0, kids=None, score=1, time=1607361973, title='Ask HN: Monte Carlo Simulation', item_type='story', url=None, parent=None, text='Anyone have good references on using MCS for options trading? Preferably implemented in Python or R, and not using the Black-Scholes equation for pricing.')

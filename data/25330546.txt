@@ -1,1 +1,1 @@
-Item(by='karimford', descendants=0, kids=None, score=1, time=1607332337, title='Jean-Michel Basquiat on How to Be an Artist', item_type='story', url='https://www.artsy.net/article/artsy-editorial-artist-jean-michel-basquiat', parent=None, text=None)
+Item(by='karimford', descendants=13, kids=[25335253, 25335010, 25334591], score=31, time=1607332337, title='Jean-Michel Basquiat on How to Be an Artist', item_type='story', url='https://www.artsy.net/article/artsy-editorial-artist-jean-michel-basquiat', parent=None, text=None)

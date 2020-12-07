@@ -1,1 +1,1 @@
-Item(by='peterkelly', descendants=0, kids=None, score=1, time=1607348685, title='Hit the Front Page of Hacker News', item_type='story', url='https://gumroad.com/l/htfphn/hacker', parent=None, text=None)
+Item(by='peterkelly', descendants=0, kids=[25332107], score=2, time=1607348685, title='Hit the Front Page of Hacker News', item_type='story', url='https://gumroad.com/l/htfphn/hacker', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='mikro2nd', descendants=None, kids=None, score=None, time=1607350743, title=None, item_type='comment', url=None, parent=25331554, text='Personally I&#x27;m aware of three that I&#x27;d count as good use-cases. Only one of those is a cryptocurrency.')
+Item(by='mikro2nd', descendants=None, kids=[25336247], score=None, time=1607350743, title=None, item_type='comment', url=None, parent=25331554, text='Personally I&#x27;m aware of three that I&#x27;d count as good use-cases. Only one of those is a cryptocurrency.')

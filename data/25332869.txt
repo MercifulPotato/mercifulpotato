@@ -1,0 +1,1 @@
+Item(by='contravariant', descendants=None, kids=[25334917], score=None, time=1607354108, title=None, item_type='comment', url=None, parent=25326569, text='Can you do LAMBDA(...)(x)? That would make it an anonymous function.<p>Of course the real fun starts when you can do:<p><pre><code>    =LAMBDA(f, LAMBDA(x, f(x(x)))(LAMBDA(x, f(x(x)))))</code></pre>')

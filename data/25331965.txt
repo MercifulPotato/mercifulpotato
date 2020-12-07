@@ -1,1 +1,1 @@
-Item(by='CapitalistCartr', descendants=0, kids=None, score=3, time=1607348013, title='A man who wants to help you out of debt – at any cost', item_type='story', url='https://www.theguardian.com/money/2020/oct/29/dave-ramsey-debt-financial-guru', parent=None, text=None)
+Item(by='CapitalistCartr', descendants=1, kids=[25332136], score=3, time=1607348013, title='A man who wants to help you out of debt – at any cost', item_type='story', url='https://www.theguardian.com/money/2020/oct/29/dave-ramsey-debt-financial-guru', parent=None, text=None)

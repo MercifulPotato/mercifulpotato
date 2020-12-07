@@ -1,1 +1,1 @@
-Item(by='raphael0202', descendants=0, kids=None, score=1, time=1607347667, title='How many layers of my BERT model should I freeze?', item_type='story', url='https://raphaelb.org/posts/freezing-bert/', parent=None, text=None)
+Item(by='raphael0202', descendants=0, kids=None, score=3, time=1607347667, title='How many layers of my BERT model should I freeze?', item_type='story', url='https://raphaelb.org/posts/freezing-bert/', parent=None, text=None)

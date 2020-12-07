@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=[25334998], score=None, time=1607360864, title=None, item_type='comment', url=None, parent=25333777, text='There are also cold starts every time the number of concurrent requests increases. Also: lambdas are only really useful for the low-to-no traffic situation. If you have constant traffic you&#x27;re better off using a small VM.')

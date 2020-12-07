@@ -1,0 +1,1 @@
+Item(by='golergka', descendants=None, kids=[25336281], score=None, time=1607366435, title=None, item_type='comment', url=None, parent=25335101, text='const [result1, result3] = await Promise.all([task1(), task2.then(res =&gt; task3(res))])')
