@@ -1,1 +1,1 @@
-Item(by='toomuchtodo', descendants=None, kids=[25328822], score=None, time=1607306533, title=None, item_type='comment', url=None, parent=25328348, text='Meta: You can click &quot;favorite&quot; on comments (and posts) and they&#x27;ll be bookmarked in your HN account.')
+Item(by='toomuchtodo', descendants=None, kids=[25329684, 25328822], score=None, time=1607306533, title=None, item_type='comment', url=None, parent=25328348, text='Meta: You can click &quot;favorite&quot; on comments (and posts) and they&#x27;ll be bookmarked in your HN account.')

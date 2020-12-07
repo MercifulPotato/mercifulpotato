@@ -1,0 +1,1 @@
+Item(by='xpe', descendants=None, kids=None, score=None, time=1607322195, title=None, item_type='comment', url=None, parent=25328724, text='&gt; Finally, the use of two structs is unnecessary. IntList is just a wrapper around a pointer to IntListNode. Why not just use a naked pointer to IntListNode like the gods intended?<p>So Say We All.')

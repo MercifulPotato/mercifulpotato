@@ -1,0 +1,1 @@
+Item(by='zests', descendants=None, kids=None, score=None, time=1607312347, title=None, item_type='comment', url=None, parent=25327536, text='f = O(n) makes no sense either. It should be f ∈ O(n). However, notation serves us and we don&#x27;t serve the notation. People say &quot;Big O&quot; when they mean &quot;Big Theta&quot;.')

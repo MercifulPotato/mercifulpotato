@@ -1,1 +1,1 @@
-Item(by='bromquinn', descendants=0, kids=None, score=3, time=1607277254, title='Show HN: A daily newspaper about your favorite topics – curated with AI', item_type='story', url='https://getontopic.com/daily/', parent=None, text=None)
+Item(by='bromquinn', descendants=1, kids=[25328959], score=3, time=1607277254, title='Show HN: A daily newspaper about your favorite topics – curated with AI', item_type='story', url='https://getontopic.com/daily/', parent=None, text=None)

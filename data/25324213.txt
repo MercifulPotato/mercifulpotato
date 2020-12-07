@@ -1,1 +1,1 @@
-Item(by='firethief', descendants=None, kids=None, score=None, time=1607269588, title=None, item_type='comment', url=None, parent=25324143, text='Sugar.')
+Item(by='firethief', descendants=None, kids=[25330161], score=None, time=1607269588, title=None, item_type='comment', url=None, parent=25324143, text='Sugar.')

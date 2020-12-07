@@ -1,1 +1,1 @@
-Item(by='marksmillibend', descendants=1, kids=[25322597], score=3, time=1607250986, title='Sugar – a typed lispy language targeting webasm/wat', item_type='story', url='https://ph1lter.bitbucket.io/blog/2020-12-06-sugar-compiler.html', parent=None, text=None)
+Item(by='marksmillibend', descendants=2, kids=[25329531, 25322597], score=14, time=1607250986, title='Sugar – a typed lispy language targeting webasm/wat', item_type='story', url='https://ph1lter.bitbucket.io/blog/2020-12-06-sugar-compiler.html', parent=None, text=None)

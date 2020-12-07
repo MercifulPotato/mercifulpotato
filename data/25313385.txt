@@ -1,1 +1,1 @@
-Item(by='taffer', descendants=20, kids=[25320508, 25322382, 25321824, 25321738], score=44, time=1607164067, title='A Relational Model of Data for Large Shared Data Banks (1970) [pdf]', item_type='story', url='https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf', parent=None, text=None)
+Item(by='taffer', descendants=20, kids=[25320508, 25321824, 25322382, 25321738], score=44, time=1607164067, title='A Relational Model of Data for Large Shared Data Banks (1970) [pdf]', item_type='story', url='https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf', parent=None, text=None)

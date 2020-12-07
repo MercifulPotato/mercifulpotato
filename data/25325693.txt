@@ -1,1 +1,1 @@
-Item(by='colordrops', descendants=None, kids=None, score=None, time=1607281317, title=None, item_type='comment', url=None, parent=25324801, text='You changed the subject completely.  What does your comment have to do with it being regulated or not?')
+Item(by='colordrops', descendants=None, kids=[25329890], score=None, time=1607281317, title=None, item_type='comment', url=None, parent=25324801, text='You changed the subject completely.  What does your comment have to do with it being regulated or not?')

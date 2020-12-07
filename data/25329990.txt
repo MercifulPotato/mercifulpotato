@@ -1,0 +1,1 @@
+Item(by='nirui', descendants=None, kids=None, score=None, time=1607324711, title=None, item_type='comment', url=None, parent=25326552, text='So, as I gathered from this, Torvalds&#x27;s solution takes advantage of the fact that the element scan is always started from the head, while the cs101 solution treats the head as a special case?<p>Both are smart IMO.')

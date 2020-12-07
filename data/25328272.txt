@@ -1,1 +1,1 @@
-Item(by='Hackbraten', descendants=None, kids=None, score=None, time=1607302560, title=None, item_type='comment', url=None, parent=25327267, text='I’ve always wanted to know why they named the game Sauerbraten.')
+Item(by='Hackbraten', descendants=None, kids=[25330153], score=None, time=1607302560, title=None, item_type='comment', url=None, parent=25327267, text='I’ve always wanted to know why they named the game Sauerbraten.')

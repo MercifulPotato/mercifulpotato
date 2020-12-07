@@ -1,1 +1,1 @@
-Item(by='denial', descendants=None, kids=None, score=None, time=1607213062, title=None, item_type='comment', url=None, parent=25319365, text='Just a correction to point away from want to write. It&#x27;s 書きたい (kakitai) for want to write (and it&#x27;s probably not want to buy 買いたい).')
+Item(by='denial', descendants=None, kids=[25329719], score=None, time=1607213062, title=None, item_type='comment', url=None, parent=25319365, text='Just a correction to point away from want to write. It&#x27;s 書きたい (kakitai) for want to write (and it&#x27;s probably not want to buy 買いたい).')

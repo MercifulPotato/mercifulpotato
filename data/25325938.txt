@@ -1,1 +1,1 @@
-Item(by='epicureanideal', descendants=None, kids=None, score=None, time=1607282819, title=None, item_type='comment', url=None, parent=25323767, text='After the fall of the Roman Empire, technology that could survive in decentralized state survived.  That’s why this occurs to me.')
+Item(by='epicureanideal', descendants=None, kids=[25330037], score=None, time=1607282819, title=None, item_type='comment', url=None, parent=25323767, text='After the fall of the Roman Empire, technology that could survive in decentralized state survived.  That’s why this occurs to me.')

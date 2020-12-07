@@ -1,1 +1,1 @@
-Item(by='Thevet', descendants=1, kids=[25323209], score=25, time=1607227794, title='A technique from human archaeology could help restore sea otter populations', item_type='story', url='https://www.nytimes.com/2020/12/03/science/otters-oregon-alaska.html', parent=None, text=None)
+Item(by='Thevet', descendants=2, kids=[25329406, 25323209], score=29, time=1607227794, title='A technique from human archaeology could help restore sea otter populations', item_type='story', url='https://www.nytimes.com/2020/12/03/science/otters-oregon-alaska.html', parent=None, text=None)

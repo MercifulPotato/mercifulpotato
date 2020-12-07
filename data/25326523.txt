@@ -1,1 +1,1 @@
-Item(by='alkonaut', descendants=None, kids=None, score=None, time=1607288016, title=None, item_type='comment', url=None, parent=25326284, text='&gt; So if I make a man page for my CLI tool you would assault me physically?<p>What, and ... what?')
+Item(by='alkonaut', descendants=None, kids=[25328932], score=None, time=1607288016, title=None, item_type='comment', url=None, parent=25326284, text='&gt; So if I make a man page for my CLI tool you would assault me physically?<p>What, and ... what?')

@@ -1,0 +1,1 @@
+Item(by='shp0ngle', descendants=None, kids=None, score=None, time=1607312206, title=None, item_type='comment', url=None, parent=25328970, text='Excel query language is now turing complete, so I think WASM runtime can now be emulated in Excel.<p>I think Excel can now run QEMU, come to think of it.<p>(without macros. With macros, Excel can run anything.)')

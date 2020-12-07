@@ -1,1 +1,1 @@
-Item(by='fossuser', descendants=0, kids=None, score=3, time=1607297535, title='Huck Finn and the Gaslighting of America', item_type='story', url='https://www.scottaaronson.com/blog/?p=5106', parent=None, text=None)
+Item(by='fossuser', descendants=0, kids=[25329696], score=5, time=1607297535, title='Huck Finn and the Gaslighting of America', item_type='story', url='https://www.scottaaronson.com/blog/?p=5106', parent=None, text=None)

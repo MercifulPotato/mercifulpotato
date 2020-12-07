@@ -1,1 +1,1 @@
-Item(by='noxer', descendants=None, kids=None, score=None, time=1607297448, title=None, item_type='comment', url=None, parent=25327645, text='Also quantum something just in case')
+Item(by='noxer', descendants=None, kids=[25329231], score=None, time=1607297448, title=None, item_type='comment', url=None, parent=25327645, text='Also quantum something just in case')

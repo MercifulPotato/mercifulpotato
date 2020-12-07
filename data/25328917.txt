@@ -1,1 +1,1 @@
-Item(by='ekianjo', descendants=None, kids=None, score=None, time=1607309672, title=None, item_type='comment', url=None, parent=25328508, text='I&#x27;m not talking about updating that wiki page. Rather updating the target websites linked there, obviously.')
+Item(by='ekianjo', descendants=None, kids=[25330203], score=None, time=1607309672, title=None, item_type='comment', url=None, parent=25328508, text='I&#x27;m not talking about updating that wiki page. Rather updating the target websites linked there, obviously.')

@@ -1,1 +1,1 @@
-Item(by='p1necone', descendants=None, kids=None, score=None, time=1607299098, title=None, item_type='comment', url=None, parent=25327555, text='But if it&#x27;s already good enough to cool the pi at max load why go and make it ugly too?')
+Item(by='p1necone', descendants=None, kids=[25330016], score=None, time=1607299098, title=None, item_type='comment', url=None, parent=25327555, text='But if it&#x27;s already good enough to cool the pi at max load why go and make it ugly too?')
