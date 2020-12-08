@@ -1,0 +1,1 @@
+Item(by='bit-hack', descendants=None, kids=None, score=None, time=1607451235, title=None, item_type='comment', url=None, parent=25322593, text='Its still blows my mind that he fit this in ~1k LUTs.  I&#x27;m new to FPGA but the closest I got was about 4.5K LUTs for a comparable core.<p>I wish there were more easy to access material about timing and size optimization for FPGA.')

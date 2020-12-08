@@ -1,0 +1,1 @@
+Item(by='notabee', descendants=None, kids=None, score=None, time=1607455884, title=None, item_type='comment', url=None, parent=25349967, text='We had some folks try installing Amazon Linux images in our network. They spammed the network looking for a nonexistent link local metadata service, which is how we found out about them.')

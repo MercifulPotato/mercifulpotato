@@ -1,1 +1,1 @@
-Item(by='abdusco', descendants=None, kids=None, score=None, time=1607421813, title=None, item_type='comment', url=None, parent=25343114, text='Isn&#x27;t dynamic programming (specifically memoization) a specialized type of caching? Am I missing something?')
+Item(by='abdusco', descendants=None, kids=[25347731], score=None, time=1607421813, title=None, item_type='comment', url=None, parent=25343114, text='Isn&#x27;t dynamic programming (specifically memoization) a specialized type of caching? Am I missing something?')

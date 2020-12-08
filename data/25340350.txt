@@ -1,1 +1,1 @@
-Item(by='letitbeirie', descendants=None, kids=None, score=None, time=1607390473, title=None, item_type='comment', url=None, parent=25336537, text='&gt; for JS programmers, worrying about types is habitual<p>Couldn&#x27;t the same be said for COBOL programmes and GOTOs?')
+Item(by='letitbeirie', descendants=None, kids=[25350174], score=None, time=1607390473, title=None, item_type='comment', url=None, parent=25336537, text='&gt; for JS programmers, worrying about types is habitual<p>Couldn&#x27;t the same be said for COBOL programmes and GOTOs?')

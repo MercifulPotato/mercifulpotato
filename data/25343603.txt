@@ -1,1 +1,1 @@
-Item(by='mikewarot', descendants=None, kids=None, score=None, time=1607422073, title=None, item_type='comment', url=None, parent=25342499, text='The impedance mismatch is too hard, given the nature of this medium... thanks for trying to help.  Maybe next time?')
+Item(by='mikewarot', descendants=None, kids=[25345761, 25349364], score=None, time=1607422073, title=None, item_type='comment', url=None, parent=25342499, text='The impedance mismatch is too hard, given the nature of this medium... thanks for trying to help.  Maybe next time?')

@@ -1,1 +1,1 @@
-Item(by='taneq', descendants=None, kids=None, score=None, time=1607432773, title=None, item_type='comment', url=None, parent=25338950, text='Depends on the terrain, really. I can&#x27;t imagine riding a bike with no tyres 10 minutes along a rocky path, let alone 10 miles...')
+Item(by='taneq', descendants=None, kids=[25347938], score=None, time=1607432773, title=None, item_type='comment', url=None, parent=25338950, text='Depends on the terrain, really. I can&#x27;t imagine riding a bike with no tyres 10 minutes along a rocky path, let alone 10 miles...')

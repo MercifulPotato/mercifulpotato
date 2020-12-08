@@ -1,1 +1,1 @@
-Item(by='kwindla', descendants=0, kids=None, score=19, time=1607405706, title='Evolution of my role as a founder CTO', item_type='story', url='https://miguelcarranza.es/cto', parent=None, text=None)
+Item(by='kwindla', descendants=13, kids=[25346228, 25347498, 25348256], score=83, time=1607405706, title='Evolution of my role as a founder CTO', item_type='story', url='https://miguelcarranza.es/cto', parent=None, text=None)

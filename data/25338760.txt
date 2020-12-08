@@ -1,1 +1,1 @@
-Item(by='freediver', descendants=None, kids=None, score=None, time=1607381177, title=None, item_type='comment', url=None, parent=25338358, text='Not sure about the AI side of the project, but the graphics are seriously impressive!')
+Item(by='freediver', descendants=None, kids=[25345095], score=None, time=1607381177, title=None, item_type='comment', url=None, parent=25338358, text='Not sure about the AI side of the project, but the graphics are seriously impressive!')

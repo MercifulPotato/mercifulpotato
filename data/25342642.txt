@@ -1,1 +1,1 @@
-Item(by='stevencorona', descendants=None, kids=None, score=None, time=1607410500, title=None, item_type='comment', url=None, parent=25342286, text='Huge bummer but the next generation of ATT routers with onboard ONT don’t work this bypass :(')
+Item(by='stevencorona', descendants=None, kids=[25346217], score=None, time=1607410500, title=None, item_type='comment', url=None, parent=25342286, text='Huge bummer but the next generation of ATT routers with onboard ONT don’t work this bypass :(')

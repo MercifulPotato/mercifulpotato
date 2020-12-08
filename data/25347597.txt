@@ -1,0 +1,1 @@
+Item(by='WalterGR', descendants=None, kids=None, score=None, time=1607445482, title=None, item_type='comment', url=None, parent=25342652, text='<i>This can result in larger than necessary diffs when refactoring, leading to unnecessary conflicts during integration.</i><p>Semantic versions of those could be interesting.')

@@ -1,1 +1,1 @@
-Item(by='tsjq', descendants=None, kids=None, score=None, time=1607325126, title=None, item_type='comment', url=None, parent=25320086, text='oops. this is not even a SIM card. can this be disabled? will the devices override user preference and still continue to communicate .')
+Item(by='tsjq', descendants=None, kids=[25350612], score=None, time=1607325126, title=None, item_type='comment', url=None, parent=25320086, text='oops. this is not even a SIM card. can this be disabled? will the devices override user preference and still continue to communicate .')

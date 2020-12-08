@@ -1,1 +1,1 @@
-Item(by='st1x7', descendants=None, kids=None, score=None, time=1607434280, title=None, item_type='comment', url=None, parent=25340809, text='<p><pre><code>    OP: What evidence...?\n\n    You: I don&#x27;t need evidence, I&#x27;m already convinced.\n</code></pre>\nThat&#x27;s not how science works.')
+Item(by=None, descendants=None, kids=None, score=None, time=1607434280, title=None, item_type='comment', url=None, parent=25340809, text=None)

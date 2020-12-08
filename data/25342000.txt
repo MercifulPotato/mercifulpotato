@@ -1,1 +1,1 @@
-Item(by='sudosysgen', descendants=None, kids=[25344999, 25343321], score=None, time=1607403218, title=None, item_type='comment', url=None, parent=25339417, text='It&#x27;s not actually translating GTK themes to QT, its special themes with both QT and GTK versions.')
+Item(by='sudosysgen', descendants=None, kids=[25343321, 25344999], score=None, time=1607403218, title=None, item_type='comment', url=None, parent=25339417, text='It&#x27;s not actually translating GTK themes to QT, its special themes with both QT and GTK versions.')

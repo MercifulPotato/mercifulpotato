@@ -1,1 +1,1 @@
-Item(by='blisterpeanuts', descendants=None, kids=None, score=None, time=1607438620, title=None, item_type='comment', url=None, parent=25345386, text='Realistically, a premium product like this one is not targeted at minimum wage earners.')
+Item(by='blisterpeanuts', descendants=None, kids=[25346307], score=None, time=1607438620, title=None, item_type='comment', url=None, parent=25345386, text='Realistically, a premium product like this one is not targeted at minimum wage earners.')

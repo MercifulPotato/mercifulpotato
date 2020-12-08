@@ -1,0 +1,1 @@
+Item(by='halbritt', descendants=None, kids=None, score=None, time=1607450789, title=None, item_type='comment', url=None, parent=25349017, text='The author presumes that every use case requires a transactional database.  ACID is nice, especially if it&#x27;s needed, but generally not needed, especially in many streaming data applications for which Kafka is most suitable.')

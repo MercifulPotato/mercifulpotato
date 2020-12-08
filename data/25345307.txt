@@ -1,1 +1,1 @@
-Item(by='nxmnxm99', descendants=None, kids=None, score=None, time=1607436752, title=None, item_type='comment', url=None, parent=25345283, text='You are the human embodiment of hacker news')
+Item(by='nxmnxm99', descendants=None, kids=[25349726], score=None, time=1607436752, title=None, item_type='comment', url=None, parent=25345283, text='You are the human embodiment of hacker news')

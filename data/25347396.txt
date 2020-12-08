@@ -1,0 +1,1 @@
+Item(by='twic', descendants=None, kids=[25347980], score=None, time=1607444800, title=None, item_type='comment', url=None, parent=25345871, text='No, not at all. People routinely develop on OS X and deploy on Linux without issue.<p>Here, though, i just meant that i can develop on Ubuntu 18.04, build on CentOS 6, and deploy on RHEL 7 without issue.')

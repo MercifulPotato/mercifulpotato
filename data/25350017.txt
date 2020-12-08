@@ -1,0 +1,1 @@
+Item(by='mormegil', descendants=None, kids=[25350152], score=None, time=1607455086, title=None, item_type='comment', url=None, parent=25349970, text='The point is they either need to filter the served content, or serve it from a different domain (e.g. githubusercontent.com), otherwise you have XSS-like problems.')

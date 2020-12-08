@@ -1,0 +1,1 @@
+Item(by='fuckadtech', descendants=None, kids=None, score=None, time=1607455821, title=None, item_type='comment', url=None, parent=25349711, text='Hard is an understatement. Particularly so if you are using Kafka Streams to attempt to run a highly available, fault tolerant, zero downtime, etc., service. The race condition and compaction bugs in that library are not fun to debug.')

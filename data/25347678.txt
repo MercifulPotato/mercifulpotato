@@ -1,0 +1,1 @@
+Item(by='loopz', descendants=None, kids=[25347737], score=None, time=1607445810, title=None, item_type='comment', url=None, parent=25347462, text='Sure, but that defeats the quest for horizontal scalability. You <i>can</i> build highly performant systems based on serial execution, but not sure this is an area where Kafka excels particularly.')

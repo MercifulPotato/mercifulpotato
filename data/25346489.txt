@@ -1,0 +1,1 @@
+Item(by='inetknght', descendants=None, kids=None, score=None, time=1607441513, title=None, item_type='comment', url=None, parent=25346355, text='Because OpenSSL is everywhere and everything requires it and all instructions say `do apt-get install libopenssl-dev` or something. Or the setup script does exactly that.<p>And changing that introduces a lot of risk.')

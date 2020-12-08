@@ -1,1 +1,1 @@
-Item(by='sokoloff', descendants=None, kids=None, score=None, time=1607430022, title=None, item_type='comment', url=None, parent=25343195, text='SF has had 30% of the deaths per 100K as the US average? That is shockingly good and worthy of deeper study if true.')
+Item(by='sokoloff', descendants=None, kids=[25347530], score=None, time=1607430022, title=None, item_type='comment', url=None, parent=25343195, text='SF has had 30% of the deaths per 100K as the US average? That is shockingly good and worthy of deeper study if true.')

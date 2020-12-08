@@ -1,0 +1,1 @@
+Item(by='jmnicolas', descendants=None, kids=None, score=None, time=1607456216, title=None, item_type='comment', url=None, parent=25350012, text='I was speaking about _local_ notifications, not push: some clock &#x2F; reminder apps never fire notifications or way too late. I think it&#x27;s because the OS aggressively shutdown apps running in background.')

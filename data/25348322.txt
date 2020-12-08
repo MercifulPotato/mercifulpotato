@@ -1,0 +1,1 @@
+Item(by='cirego', descendants=None, kids=None, score=None, time=1607448117, title=None, item_type='comment', url=None, parent=25347836, text='My understanding is that ksqlDB is a read-only interface on top of streams and only helps people write better consumers. The problems mentioned in the blog post relate to producers.')

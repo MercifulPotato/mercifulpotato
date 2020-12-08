@@ -1,0 +1,1 @@
+Item(by='yabones', descendants=43, kids=[25350821, 25347118, 25346564, 25346734, 25350491, 25349347, 25346355, 25347501], score=75, time=1607440173, title='OpenSSL Security Advisory – EDIPARTYNAME null pointer de-reference', item_type='story', url='https://www.openssl.org/news/secadv/20201208.txt', parent=None, text=None)

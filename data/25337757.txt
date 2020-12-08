@@ -1,1 +1,1 @@
-Item(by='scott_s', descendants=None, kids=None, score=None, time=1607376238, title=None, item_type='comment', url=None, parent=25335925, text='I think you misread what they wrote:<p>&gt; Hard agree.')
+Item(by='scott_s', descendants=None, kids=[25349599], score=None, time=1607376238, title=None, item_type='comment', url=None, parent=25335925, text='I think you misread what they wrote:<p>&gt; Hard agree.')

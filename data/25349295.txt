@@ -1,0 +1,1 @@
+Item(by='SquareWheel', descendants=None, kids=None, score=None, time=1607451714, title=None, item_type='comment', url=None, parent=25348961, text='System Default likely just infers dark mode preference via prefers-color-scheme.  It doesn&#x27;t seem to be a unique theme.')

@@ -1,0 +1,1 @@
+Item(by='open-paren', descendants=None, kids=None, score=None, time=1607456318, title=None, item_type='comment', url=None, parent=25350247, text='I thought this was a neat overview of how this specific JIT recompiler works. It also starts with why an emulator would want to opt for JIT&#x27;ing instructions instead of direct interpretation, which I was unaware of.')

@@ -1,0 +1,1 @@
+Item(by='morelisp', descendants=None, kids=None, score=None, time=1607452584, title=None, item_type='comment', url=None, parent=25348745, text='On the other hand Kafka partitions are relatively cheap on both broker and client side; 100 partitions does not require 100 parallel consumers so over-provisioning is not so risky.')

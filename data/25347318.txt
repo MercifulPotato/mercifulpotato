@@ -1,0 +1,1 @@
+Item(by='karmakaze', descendants=None, kids=None, score=None, time=1607444562, title=None, item_type='comment', url=None, parent=25327678, text='So what&#x27;s the thought process for choosing between that and cached dynamic pages? First visitor doesn&#x27;t have to pay latency--serving a stale page while caching new one also works.')

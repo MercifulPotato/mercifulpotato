@@ -1,1 +1,1 @@
-Item(by='azangru', descendants=None, kids=None, score=None, time=1607428492, title=None, item_type='comment', url=None, parent=25342259, text='&gt; and look at where CoffeScript is now<p>Largely absorbed by modern javascript? ;-)')
+Item(by='azangru', descendants=None, kids=[25350525], score=None, time=1607428492, title=None, item_type='comment', url=None, parent=25342259, text='&gt; and look at where CoffeScript is now<p>Largely absorbed by modern javascript? ;-)')

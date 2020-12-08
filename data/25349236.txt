@@ -1,0 +1,1 @@
+Item(by='structural', descendants=None, kids=None, score=None, time=1607451444, title=None, item_type='comment', url=None, parent=25349173, text='Read the BSD license. There&#x27;s nothing preventing the code being redistributed in another product (in this case, Mapbox JS v2) under any license terms whatsoever, as long as the copyright holders are appropriately credited.')

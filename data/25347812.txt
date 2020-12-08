@@ -1,0 +1,1 @@
+Item(by='friday99', descendants=None, kids=None, score=None, time=1607446301, title=None, item_type='comment', url=None, parent=25347375, text='Yeah, this is crazy that Apple is only using AAC for their codec and not anything like aptX that can get down to 50ms range.  I would expect Apple to do better here and even have different low latency codec specifically for voice calls.')
