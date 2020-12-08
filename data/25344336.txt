@@ -1,0 +1,1 @@
+Item(by='herodoturtle', descendants=None, kids=[25344788], score=None, time=1607430702, title=None, item_type='comment', url=None, parent=25344135, text='This too is excellent advice.<p>Start off with a monolith if it makes most sense (in terms of simplicity &#x2F; MVP) but from the start keep future scalability in mind and plan for it.<p>I like this.')

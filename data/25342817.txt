@@ -1,1 +1,1 @@
-Item(by='ggm', descendants=None, kids=None, score=None, time=1607412568, title=None, item_type='comment', url=None, parent=25341754, text='Difficult to raise interest... before covid.')
+Item(by='ggm', descendants=None, kids=[25344654], score=None, time=1607412568, title=None, item_type='comment', url=None, parent=25341754, text='Difficult to raise interest... before covid.')

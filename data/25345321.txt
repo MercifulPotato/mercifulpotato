@@ -1,0 +1,1 @@
+Item(by='d3nj4l', descendants=None, kids=[25345360], score=None, time=1607436798, title=None, item_type='comment', url=None, parent=25345151, text='I can&#x27;t find any source on intra working to prevent SNI sniffing. The page itself only mentions DNS, and Googling doesn&#x27;t reveal any other source for that.<p>E: NVM, found it. It does like it uses split hellos.')

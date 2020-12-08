@@ -1,1 +1,1 @@
-Item(by='schwartzworld', descendants=None, kids=None, score=None, time=1607377520, title=None, item_type='comment', url=None, parent=25325776, text='But can&#x27;t that backfire? Python 2 just meets your criteria, but you shouldn&#x27;t use it, vs Python 3 which is only 12 years old.')
+Item(by='schwartzworld', descendants=None, kids=[25343499], score=None, time=1607377520, title=None, item_type='comment', url=None, parent=25325776, text='But can&#x27;t that backfire? Python 2 just meets your criteria, but you shouldn&#x27;t use it, vs Python 3 which is only 12 years old.')

@@ -1,1 +1,1 @@
-Item(by='thecompilr', descendants=None, kids=[25331815], score=None, time=1607342790, title=None, item_type='comment', url=None, parent=25331338, text='Clang is definitely not better for ARMv8 yet, in fact clang doesn’t even have an optimization profile for the M1 yet.')
+Item(by='thecompilr', descendants=None, kids=[25331815, 25343755], score=None, time=1607342790, title=None, item_type='comment', url=None, parent=25331338, text='Clang is definitely not better for ARMv8 yet, in fact clang doesn’t even have an optimization profile for the M1 yet.')

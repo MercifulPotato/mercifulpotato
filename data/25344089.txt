@@ -1,0 +1,1 @@
+Item(by='golergka', descendants=None, kids=None, score=None, time=1607427981, title=None, item_type='comment', url=None, parent=25343826, text='That&#x27;s great advice, as long as different systems in this monolith are loosely coupled both in terms of code and data, and you keep in mind that you will need to move them to separate services later on.')

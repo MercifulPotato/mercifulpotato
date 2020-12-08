@@ -1,0 +1,1 @@
+Item(by='floatboth', descendants=None, kids=None, score=None, time=1607418369, title=None, item_type='comment', url=None, parent=25340037, text='What is the state of the art in doing something about this? Has anyone tried using CPU perf counters to see if the workload looks like hashing?')

@@ -1,1 +1,1 @@
-Item(by='nikanj', descendants=None, kids=None, score=None, time=1607412214, title=None, item_type='comment', url=None, parent=25340249, text='Many companies have done the math, and realized they make more money if they just let the 5% customers leave.')
+Item(by='nikanj', descendants=None, kids=[25344291], score=None, time=1607412214, title=None, item_type='comment', url=None, parent=25340249, text='Many companies have done the math, and realized they make more money if they just let the 5% customers leave.')

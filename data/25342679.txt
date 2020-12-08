@@ -1,1 +1,1 @@
-Item(by='throw_m239339', descendants=None, kids=None, score=None, time=1607410902, title=None, item_type='comment', url=None, parent=25342039, text='No because some async Web API are just a bit more complex than just &#x27;promisify&#x27; this or that.')
+Item(by='throw_m239339', descendants=None, kids=[25343930], score=None, time=1607410902, title=None, item_type='comment', url=None, parent=25342039, text='No because some async Web API are just a bit more complex than just &#x27;promisify&#x27; this or that.')

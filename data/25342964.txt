@@ -1,1 +1,1 @@
-Item(by='known', descendants=0, kids=None, score=1, time=1607413895, title='Simple and flexible tool for managing secrets', item_type='story', url='https://github.com/mozilla/sops', parent=None, text=None)
+Item(by='known', descendants=18, kids=[25343527, 25345749, 25345561, 25345363, 25343762, 25345142, 25344619, 25344942, 25344043, 25343974, 25344967, 25343457], score=84, time=1607413895, title='Simple and flexible tool for managing secrets', item_type='story', url='https://github.com/mozilla/sops', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='oblio', descendants=None, kids=None, score=None, time=1607374611, title=None, item_type='comment', url=None, parent=25334203, text='&gt; brief<p>1985 - 1997')
+Item(by='oblio', descendants=None, kids=[25344606], score=None, time=1607374611, title=None, item_type='comment', url=None, parent=25334203, text='&gt; brief<p>1985 - 1997')

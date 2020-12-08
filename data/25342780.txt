@@ -1,1 +1,1 @@
-Item(by='overscore', descendants=None, kids=None, score=None, time=1607412230, title=None, item_type='comment', url=None, parent=25342577, text='That&#x27;s misguided pedantry, I think. Most seas are a subset of the ocean, and the Baltic is an arm of the Atlantic.')
+Item(by='overscore', descendants=None, kids=[25343783], score=None, time=1607412230, title=None, item_type='comment', url=None, parent=25342577, text='That&#x27;s misguided pedantry, I think. Most seas are a subset of the ocean, and the Baltic is an arm of the Atlantic.')

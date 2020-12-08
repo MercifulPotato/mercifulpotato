@@ -1,1 +1,1 @@
-Item(by='Wistar', descendants=None, kids=None, score=None, time=1607410092, title=None, item_type='comment', url=None, parent=25342411, text='There is a reason it is called &quot;Scarepoint,&quot; even internally.')
+Item(by='Wistar', descendants=None, kids=[25343852], score=None, time=1607410092, title=None, item_type='comment', url=None, parent=25342411, text='There is a reason it is called &quot;Scarepoint,&quot; even internally.')

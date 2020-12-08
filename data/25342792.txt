@@ -1,1 +1,1 @@
-Item(by='Urgo', descendants=0, kids=None, score=1, time=1607412355, title='First person receives Pfizer Covid-19 vaccine in UK', item_type='story', url='https://www.bbc.com/news/uk-55227325', parent=None, text=None)
+Item(by='Urgo', descendants=191, kids=[25344209, 25345597, 25343850, 25345252, 25344188, 25343846, 25344335, 25343904, 25343945, 25344086, 25344382], score=130, time=1607412355, title='First person receives Pfizer Covid-19 vaccine in UK', item_type='story', url='https://www.bbc.com/news/uk-55227325', parent=None, text=None)

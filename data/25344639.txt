@@ -1,0 +1,1 @@
+Item(by='JoBrad', descendants=None, kids=None, score=None, time=1607433440, title=None, item_type='comment', url=None, parent=25339238, text='Exactly. I almost always use TS instead of JS, for example, which flags gotcha scenarios (which I usually rewrite to avoid) and inserts semicolons for me in the final code. It’s just noise in my source.')

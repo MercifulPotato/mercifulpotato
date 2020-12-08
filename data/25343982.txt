@@ -1,0 +1,1 @@
+Item(by='nailer', descendants=None, kids=None, score=None, time=1607426960, title=None, item_type='comment', url=None, parent=25335448, text='I&#x27;d just:<p><pre><code>    async function getResult3(){\n      const res = await task2()\n      return task3(res))\n    }\n\n    const [result1, result3] = await Promise.all([task1(), \n    getResult3()])</code></pre>')

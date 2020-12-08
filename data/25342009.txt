@@ -1,1 +1,1 @@
-Item(by='zymhan', descendants=None, kids=None, score=None, time=1607403290, title=None, item_type='comment', url=None, parent=25341748, text='We have rocket stages that fly back to the launch pad to be reused.')
+Item(by='zymhan', descendants=None, kids=[25343090], score=None, time=1607403290, title=None, item_type='comment', url=None, parent=25341748, text='We have rocket stages that fly back to the launch pad to be reused.')

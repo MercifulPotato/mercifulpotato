@@ -1,1 +1,1 @@
-Item(by='worldmerge', descendants=None, kids=None, score=None, time=1607404706, title=None, item_type='comment', url=None, parent=25340599, text='This is really cool! I would have loved to implement such a low latency video feed for one my past projects. How did you do the video feed?')
+Item(by='worldmerge', descendants=None, kids=[25344743], score=None, time=1607404706, title=None, item_type='comment', url=None, parent=25340599, text='This is really cool! I would have loved to implement such a low latency video feed for one my past projects. How did you do the video feed?')

@@ -1,1 +1,1 @@
-Item(by='legerdemain', descendants=None, kids=None, score=None, time=1607392736, title=None, item_type='comment', url=None, parent=25340250, text='Case in point.')
+Item(by='legerdemain', descendants=None, kids=[25343697], score=None, time=1607392736, title=None, item_type='comment', url=None, parent=25340250, text='Case in point.')

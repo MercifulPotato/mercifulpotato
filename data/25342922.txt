@@ -1,1 +1,1 @@
-Item(by='bra-ket', descendants=0, kids=None, score=1, time=1607413409, title='BDD, the only fundamentally new data structure developed in the last 35 years', item_type='story', url='https://crypto.stanford.edu/pbc/notes/zdd/', parent=None, text=None)
+Item(by='bra-ket', descendants=1, kids=[25342972], score=3, time=1607413409, title='BDD, the only fundamentally new data structure developed in the last 35 years', item_type='story', url='https://crypto.stanford.edu/pbc/notes/zdd/', parent=None, text=None)

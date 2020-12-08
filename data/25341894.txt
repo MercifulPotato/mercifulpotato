@@ -1,1 +1,1 @@
-Item(by='medium_burrito', descendants=None, kids=None, score=None, time=1607402393, title=None, item_type='comment', url=None, parent=25340905, text='Athens, GA is named due to having seven hills like of the famous cities in antiquity.')
+Item(by='medium_burrito', descendants=None, kids=[25343295], score=None, time=1607402393, title=None, item_type='comment', url=None, parent=25340905, text='Athens, GA is named due to having seven hills like of the famous cities in antiquity.')
