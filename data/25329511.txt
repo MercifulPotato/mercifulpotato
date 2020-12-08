@@ -1,1 +1,1 @@
-Item(by='Thevet', descendants=0, kids=None, score=2, time=1607318049, title="Mysterious black spot in polar explorer's diary offers gruesome clue to his fate", item_type='story', url='https://www.livescience.com/greenland-explorer-diary-black-spot.html', parent=None, text=None)
+Item(by='Thevet', descendants=8, kids=[25341591, 25341986], score=37, time=1607318049, title="Mysterious black spot in polar explorer's diary offers gruesome clue to his fate", item_type='story', url='https://www.livescience.com/greenland-explorer-diary-black-spot.html', parent=None, text=None)

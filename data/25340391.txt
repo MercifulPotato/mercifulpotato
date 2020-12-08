@@ -1,1 +1,1 @@
-Item(by='bkohlmann', descendants=0, kids=None, score=2, time=1607390696, title='The Rapture Happened but I Wasn’t Called', item_type='story', url='https://steveblank.com/2020/12/07/the-rapture-happened-but-i-wasnt-called/', parent=None, text=None)
+Item(by='bkohlmann', descendants=14, kids=[25341100, 25340900, 25341078, 25340858, 25340920, 25340890], score=38, time=1607390696, title='The Rapture Happened but I Wasn’t Called', item_type='story', url='https://steveblank.com/2020/12/07/the-rapture-happened-but-i-wasnt-called/', parent=None, text=None)

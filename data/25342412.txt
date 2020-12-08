@@ -1,0 +1,1 @@
+Item(by='mikewarot', descendants=None, kids=[25342499], score=None, time=1607407729, title=None, item_type='comment', url=None, parent=25342067, text='If I understand this right...<p>S takes 2 values, and returns 1<p>K takes 3 values, and returns the 1st, 3rd, and (2nd applied to 3rd)<p>I returns the value it is given (like a no-op)')

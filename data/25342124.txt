@@ -1,0 +1,1 @@
+Item(by='stefanfisk', descendants=None, kids=None, score=None, time=1607404350, title=None, item_type='comment', url=None, parent=25337855, text='I think you’ll find that there’s a common subset of classes that are used by most components, and that you quickly reach a point where adding new components hardly alters the built css file at all.')

@@ -1,0 +1,1 @@
+Item(by='moondev', descendants=None, kids=[25341392], score=None, time=1607395469, title=None, item_type='comment', url=None, parent=25339693, text='Do you run two gpus? Or can you handoff to the VM when it boots and back when you shut down? Mind sharing your libvirt xml or qemu script? I&#x27;ve been meaning to give this a try!')

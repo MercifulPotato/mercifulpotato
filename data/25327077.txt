@@ -1,1 +1,1 @@
-Item(by='dedalus', descendants=0, kids=None, score=8, time=1607292475, title='Distributed Systems Reading List', item_type='story', url='https://dancres.github.io/Pages/', parent=None, text=None)
+Item(by='dedalus', descendants=5, kids=[25342796, 25343208, 25342985], score=96, time=1607292475, title='Distributed Systems Reading List', item_type='story', url='https://dancres.github.io/Pages/', parent=None, text=None)

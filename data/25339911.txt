@@ -1,1 +1,1 @@
-Item(by='jrochkind1', descendants=None, kids=None, score=None, time=1607387957, title=None, item_type='comment', url=None, parent=25339782, text='I thought maybe there were sometimes exceptions to the rule.')
+Item(by='jrochkind1', descendants=None, kids=[25341632], score=None, time=1607387957, title=None, item_type='comment', url=None, parent=25339782, text='I thought maybe there were sometimes exceptions to the rule.')

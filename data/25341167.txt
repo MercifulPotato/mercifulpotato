@@ -1,0 +1,1 @@
+Item(by='cpuguy83', descendants=None, kids=None, score=None, time=1607396426, title=None, item_type='comment', url=None, parent=25326540, text='RUN --mount=source=my_script.sh,target=&#x2F;tmp&#x2F;script.sh &#x2F;tmp&#x2F;script.sh<p>This will adds the script without adding a layer for it.')

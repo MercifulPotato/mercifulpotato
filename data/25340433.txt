@@ -1,1 +1,1 @@
-Item(by='esalazar', descendants=0, kids=None, score=1, time=1607390916, title="The Man Who Found Forrest Fenn's Treasure", item_type='story', url='https://www.outsideonline.com/2419429/forrest-fenn-treasure-jack-stuef', parent=None, text=None)
+Item(by='esalazar', descendants=16, kids=[25341026, 25342477, 25341308, 25341281], score=72, time=1607390916, title="The Man Who Found Forrest Fenn's Treasure", item_type='story', url='https://www.outsideonline.com/2419429/forrest-fenn-treasure-jack-stuef', parent=None, text=None)

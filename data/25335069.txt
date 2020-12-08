@@ -1,1 +1,1 @@
-Item(by='plusCubed', descendants=0, kids=None, score=9, time=1607364854, title='Improving urban GPS accuracy on Android', item_type='story', url='https://android-developers.googleblog.com/2020/12/improving-urban-gps-accuracy-for-your.html', parent=None, text=None)
+Item(by='plusCubed', descendants=1, kids=[25342508], score=21, time=1607364854, title='Improving urban GPS accuracy on Android', item_type='story', url='https://android-developers.googleblog.com/2020/12/improving-urban-gps-accuracy-for-your.html', parent=None, text=None)

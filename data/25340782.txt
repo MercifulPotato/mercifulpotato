@@ -1,0 +1,1 @@
+Item(by='devsquid', descendants=None, kids=None, score=None, time=1607393389, title=None, item_type='comment', url=None, parent=25340425, text='This is cool. I recently wrote an A* pathfinding system for a hex based game. Choosing a good coordinate system 100% makes this easier.')

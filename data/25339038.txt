@@ -1,1 +1,1 @@
-Item(by='zepto', descendants=None, kids=None, score=None, time=1607382712, title=None, item_type='comment', url=None, parent=25338717, text='Sure, but as I said, that’s not what this thread was about.')
+Item(by='zepto', descendants=None, kids=[25343054], score=None, time=1607382712, title=None, item_type='comment', url=None, parent=25338717, text='Sure, but as I said, that’s not what this thread was about.')

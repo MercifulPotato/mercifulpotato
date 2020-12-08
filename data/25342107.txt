@@ -1,0 +1,1 @@
+Item(by='amluto', descendants=None, kids=None, score=None, time=1607404179, title=None, item_type='comment', url=None, parent=25341991, text='Apparently you can extract the 802.1x key from the router and then use your own router, and someone even has a script to MITM the connection between the router and ONT.')

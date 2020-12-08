@@ -1,1 +1,1 @@
-Item(by='jozzy-james', descendants=None, kids=None, score=None, time=1607360293, title=None, item_type='comment', url=None, parent=25333311, text='sure, if you have &quot;a&quot; heading component - but what about when you have 30 heading components?')
+Item(by='jozzy-james', descendants=None, kids=[25342348], score=None, time=1607360293, title=None, item_type='comment', url=None, parent=25333311, text='sure, if you have &quot;a&quot; heading component - but what about when you have 30 heading components?')

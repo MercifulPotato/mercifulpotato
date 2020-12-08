@@ -1,1 +1,1 @@
-Item(by='Razengan', descendants=None, kids=None, score=None, time=1607388564, title=None, item_type='comment', url=None, parent=25339317, text='&gt; <i>When you combine that with Apple&#x27;s margin and taxes, it&#x27;s a really tight margin</i><p>How’s the margin on Android?')
+Item(by='Razengan', descendants=None, kids=[25341794], score=None, time=1607388564, title=None, item_type='comment', url=None, parent=25339317, text='&gt; <i>When you combine that with Apple&#x27;s margin and taxes, it&#x27;s a really tight margin</i><p>How’s the margin on Android?')

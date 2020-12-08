@@ -1,1 +1,1 @@
-Item(by='rascul', descendants=None, kids=None, score=None, time=1607393382, title=None, item_type='comment', url=None, parent=25340720, text='In my opinion, police should be held to the highest standard. It seems like they&#x27;re held to the lowest.')
+Item(by='rascul', descendants=None, kids=[25341652, 25341461, 25341497], score=None, time=1607393382, title=None, item_type='comment', url=None, parent=25340720, text='In my opinion, police should be held to the highest standard. It seems like they&#x27;re held to the lowest.')

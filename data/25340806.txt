@@ -1,1 +1,1 @@
-Item(by='valuearb', descendants=None, kids=None, score=None, time=1607393650, title=None, item_type='comment', url=None, parent=25340264, text='Its not free, it&#x27;s expensive to maintain and deploy.')
+Item(by='valuearb', descendants=None, kids=[25340829], score=None, time=1607393650, title=None, item_type='comment', url=None, parent=25340264, text='Its not free, it&#x27;s expensive to maintain and deploy.')

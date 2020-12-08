@@ -1,1 +1,1 @@
-Item(by='lmm', descendants=None, kids=None, score=None, time=1607390788, title=None, item_type='comment', url=None, parent=25339638, text='Motorists are IIRC the third-biggest killer of young people.')
+Item(by='lmm', descendants=None, kids=[25342745], score=None, time=1607390788, title=None, item_type='comment', url=None, parent=25339638, text='Motorists are IIRC the third-biggest killer of young people.')

@@ -1,1 +1,1 @@
-Item(by='the_arun', descendants=None, kids=[25340555, 25339362, 25339036, 25338789], score=None, time=1607380621, title=None, item_type='comment', url=None, parent=25326645, text='Why RAFT is better? In other words, why do we need a concept of a leader?')
+Item(by='the_arun', descendants=None, kids=[25340555, 25339036, 25339362, 25338789], score=None, time=1607380621, title=None, item_type='comment', url=None, parent=25326645, text='Why RAFT is better? In other words, why do we need a concept of a leader?')

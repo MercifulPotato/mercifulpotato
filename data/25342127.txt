@@ -1,0 +1,1 @@
+Item(by='SV_BubbleTime', descendants=None, kids=[25342826], score=None, time=1607404383, title=None, item_type='comment', url=None, parent=25341514, text='Help me understand, are you saying only HTTP bits are being flipped? Because yea, if a HTTPS bit was flipped the whole packet dies. So is this issue blowing up all sorts of traffic everywhere?')

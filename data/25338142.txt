@@ -1,1 +1,1 @@
-Item(by='Scoundreller', descendants=None, kids=None, score=None, time=1607378082, title=None, item_type='comment', url=None, parent=25337327, text='That’s right up there with anything plant based (e.g. broccoli, chickpeas or kale)')
+Item(by='Scoundreller', descendants=None, kids=[25342888], score=None, time=1607378082, title=None, item_type='comment', url=None, parent=25337327, text='That’s right up there with anything plant based (e.g. broccoli, chickpeas or kale)')
