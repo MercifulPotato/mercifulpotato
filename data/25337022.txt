@@ -1,0 +1,1 @@
+Item(by='ericd', descendants=None, kids=None, score=None, time=1607373063, title=None, item_type='comment', url=None, parent=25335237, text='Is it possible to swap GPU assignments from the host OS to a guest OS and back, or does it require some motherboard-level&#x2F;boot-time settings that make that difficult?')

@@ -1,0 +1,1 @@
+Item(by='kristianpaul', descendants=0, kids=None, score=1, time=1607386266, title='CLI tool that uses the Amazon EBS direct APIs to upload and download snapshots', item_type='story', url='https://github.com/awslabs/coldsnap', parent=None, text=None)

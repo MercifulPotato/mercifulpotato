@@ -1,0 +1,1 @@
+Item(by='dano', descendants=None, kids=None, score=None, time=1607383842, title=None, item_type='comment', url=None, parent=25331877, text='&gt; Instead, we stored the images in a small Postgres database (yes, the actual image data itself), with a small Django app handling the business logic. Sexy.<p>Funny stuff. Pragmatic, okay... sexy.')

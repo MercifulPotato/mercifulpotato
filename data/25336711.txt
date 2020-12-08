@@ -1,1 +1,1 @@
-Item(by='z3t4', descendants=None, kids=None, score=None, time=1607371882, title=None, item_type='comment', url=None, parent=25336268, text='What text editor did you use before? I think the biggest advantage is an IDE, not the language itself.')
+Item(by='z3t4', descendants=None, kids=[25337340], score=None, time=1607371882, title=None, item_type='comment', url=None, parent=25336268, text='What text editor did you use before? I think the biggest advantage is an IDE, not the language itself.')

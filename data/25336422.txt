@@ -1,1 +1,1 @@
-Item(by='StavrosK', descendants=None, kids=None, score=None, time=1607370796, title=None, item_type='comment', url=None, parent=25336074, text='Yep, exactly, I cache the images but not the pages. I thought that was  a good compromise, and the counter is ballpark anyway.')
+Item(by='StavrosK', descendants=None, kids=[25338943], score=None, time=1607370796, title=None, item_type='comment', url=None, parent=25336074, text='Yep, exactly, I cache the images but not the pages. I thought that was  a good compromise, and the counter is ballpark anyway.')

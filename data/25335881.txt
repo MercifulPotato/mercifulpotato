@@ -1,1 +1,1 @@
-Item(by='maxwell', descendants=None, kids=None, score=None, time=1607368365, title=None, item_type='comment', url=None, parent=25335560, text='But why there? Why not somewhere else?<p>Only seemingly non-random factor you gave is the Emerald Triangle, which could be the answer.')
+Item(by='maxwell', descendants=None, kids=[25337382], score=None, time=1607368365, title=None, item_type='comment', url=None, parent=25335560, text='But why there? Why not somewhere else?<p>Only seemingly non-random factor you gave is the Emerald Triangle, which could be the answer.')

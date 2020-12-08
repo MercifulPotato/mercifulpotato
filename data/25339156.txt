@@ -1,0 +1,1 @@
+Item(by='mmarcelline', descendants=None, kids=None, score=None, time=1607383388, title=None, item_type='comment', url=None, parent=25339153, text='Cotter now generates access tokens and refresh tokens on authentication. We&#x27;ll first go over the concepts of OAuth 2.0 and the tokens before we jump in on how to use it.')

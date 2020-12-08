@@ -1,1 +1,1 @@
-Item(by='justinzollars', descendants=None, kids=None, score=None, time=1607369979, title=None, item_type='comment', url=None, parent=25334711, text='Yes, chefs I know use this. But I prefer gas because I cook on cast iron.')
+Item(by='justinzollars', descendants=None, kids=[25337662], score=None, time=1607369979, title=None, item_type='comment', url=None, parent=25334711, text='Yes, chefs I know use this. But I prefer gas because I cook on cast iron.')

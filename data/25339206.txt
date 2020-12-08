@@ -1,0 +1,1 @@
+Item(by='jmpman', descendants=None, kids=[25339773, 25339281], score=None, time=1607383676, title=None, item_type='comment', url=None, parent=25326645, text='How does Raft handle the scenario where there’s a network split, Client One updates a value on the majority, and then Client Two attempts to read the value from the minority side?')

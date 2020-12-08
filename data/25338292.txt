@@ -1,0 +1,1 @@
+Item(by='earthboundkid', descendants=None, kids=None, score=None, time=1607378783, title=None, item_type='comment', url=None, parent=25337016, text='`bytes` is the name of a stdlib package. `string` is the name of a built in type. `template` is technically available, but only because it’s the name of this package, so it can’t refer to itself.')

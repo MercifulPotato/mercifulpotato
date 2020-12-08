@@ -1,0 +1,1 @@
+Item(by='cpach', descendants=None, kids=None, score=None, time=1607393117, title=None, item_type='comment', url=None, parent=25340559, text='AFAIU the same issue also affects HTTPS packets, just with different symptoms. E.g. the TLS handshake will fail and stuff like that.')

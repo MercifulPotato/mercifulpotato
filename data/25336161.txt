@@ -1,1 +1,1 @@
-Item(by='tschwimmer', descendants=None, kids=None, score=None, time=1607369730, title=None, item_type='comment', url=None, parent=25335256, text='I agree, this describes most metro areas over 100k people in the US I feel.')
+Item(by='tschwimmer', descendants=None, kids=[25338094, 25337032], score=None, time=1607369730, title=None, item_type='comment', url=None, parent=25335256, text='I agree, this describes most metro areas over 100k people in the US I feel.')

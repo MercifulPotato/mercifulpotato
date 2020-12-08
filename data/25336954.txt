@@ -1,1 +1,1 @@
-Item(by='anderber', descendants=None, kids=None, score=None, time=1607372757, title=None, item_type='comment', url=None, parent=25336659, text='I would think that Cyberpunk 2077 would have good Proton compatibility on day one. It runs on Stadia, which uses Vulkan.')
+Item(by='anderber', descendants=None, kids=[25337504, 25339731], score=None, time=1607372757, title=None, item_type='comment', url=None, parent=25336659, text='I would think that Cyberpunk 2077 would have good Proton compatibility on day one. It runs on Stadia, which uses Vulkan.')

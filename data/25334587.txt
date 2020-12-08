@@ -1,1 +1,1 @@
-Item(by='testfoobar', descendants=None, kids=None, score=None, time=1607362901, title=None, item_type='comment', url=None, parent=25334461, text='What happens at night when solar and wind are not available?')
+Item(by='testfoobar', descendants=None, kids=[25336709], score=None, time=1607362901, title=None, item_type='comment', url=None, parent=25334461, text='What happens at night when solar and wind are not available?')

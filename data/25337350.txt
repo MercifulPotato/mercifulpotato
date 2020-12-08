@@ -1,0 +1,1 @@
+Item(by='ornithorhynchus', descendants=None, kids=None, score=None, time=1607374404, title=None, item_type='comment', url=None, parent=25336852, text='One more thing I wonder about is how well does DeepChain scale? If I had a large experiment, for example hundreds (thousands) of mutations to scan. Or multiple enzymes to redesign... Will their infrastructure manage?')

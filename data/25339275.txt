@@ -1,0 +1,1 @@
+Item(by='atonalfreerider', descendants=None, kids=None, score=None, time=1607384085, title=None, item_type='comment', url=None, parent=25333219, text='I just installed Ubuntu 20.10 on a new machine. Is anyone else actually able to run Steam in this environment (or 20.04)? I can&#x27;t get it to work - even after running<p>sudo apt-get install libnvidia-gl-390:i386')

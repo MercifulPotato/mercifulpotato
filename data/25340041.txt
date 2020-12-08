@@ -1,0 +1,1 @@
+Item(by='grayfaced', descendants=None, kids=[25340103], score=None, time=1607388671, title=None, item_type='comment', url=None, parent=25339752, text='If you ping the hops with a large icmp payload, you might be able to observe the flipped bit in the echo reply.  That could help isolate which hop it is.')

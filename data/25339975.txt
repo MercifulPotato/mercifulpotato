@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=None, score=None, time=1607388374, title=None, item_type='comment', url=None, parent=25339163, text='There&#x27;s some issue with the build of nodejs they&#x27;re using on macs, but otherwise it should be quite good. No issues across multiple machines I&#x27;ve played on. May be something specific to yours?')

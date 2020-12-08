@@ -1,1 +1,1 @@
-Item(by='doctor_eval', descendants=10, kids=[25323315, 25325905, 25325580, 25325879], score=40, time=1607249848, title='Bohmian Mechanics (2017)', item_type='story', url='https://plato.stanford.edu/entries/qm-bohm/', parent=None, text=None)
+Item(by='doctor_eval', descendants=10, kids=[25325905, 25323315, 25325580, 25325879], score=41, time=1607249848, title='Bohmian Mechanics (2017)', item_type='story', url='https://plato.stanford.edu/entries/qm-bohm/', parent=None, text=None)

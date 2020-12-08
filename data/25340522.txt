@@ -1,0 +1,1 @@
+Item(by='stephenr', descendants=None, kids=None, score=None, time=1607391560, title=None, item_type='comment', url=None, parent=25338701, text='No, your first reference is not about `text-align: justify`, which has had good support even since ie6 days. It’s about the `text-justify` property which gives more control <i>when</i> `text-align: justify` is applied.')

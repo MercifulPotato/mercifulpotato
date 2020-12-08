@@ -1,1 +1,1 @@
-Item(by='pro_zac', descendants=0, kids=None, score=1, time=1607370514, title='Tailwind garagedoor server update to improve reliability has not gone as planned', item_type='story', url='https://gotailwind.zendesk.com/hc/en-us/community/posts/360075208772', parent=None, text=None)
+Item(by='pro_zac', descendants=2, kids=[25336485, 25338684], score=2, time=1607370514, title='Tailwind garagedoor server update to improve reliability has not gone as planned', item_type='story', url='https://gotailwind.zendesk.com/hc/en-us/community/posts/360075208772', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='stuff4ben', descendants=None, kids=[25333675], score=None, time=1607356668, title=None, item_type='comment', url=None, parent=25333319, text='Safety is a feature and that null check prevents bugs. I&#x27;d rather have slow but safe code rather than fast but buggy code.')
+Item(by='stuff4ben', descendants=None, kids=[25333675, 25338299], score=None, time=1607356668, title=None, item_type='comment', url=None, parent=25333319, text='Safety is a feature and that null check prevents bugs. I&#x27;d rather have slow but safe code rather than fast but buggy code.')

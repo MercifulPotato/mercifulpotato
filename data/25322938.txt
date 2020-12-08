@@ -1,1 +1,1 @@
-Item(by='jgrodziski', descendants=0, kids=None, score=11, time=1607255546, title='Software Design for Flexibility', item_type='story', url='https://mitpress.mit.edu/books/software-design-flexibility', parent=None, text=None)
+Item(by='jgrodziski', descendants=6, kids=[25340382, 25340224, 25340133, 25340042], score=27, time=1607255546, title='Software Design for Flexibility', item_type='story', url='https://mitpress.mit.edu/books/software-design-flexibility', parent=None, text=None)

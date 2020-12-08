@@ -1,1 +1,1 @@
-Item(by='weaksauce', descendants=None, kids=None, score=None, time=1607370468, title=None, item_type='comment', url=None, parent=25336168, text='It was tongue in cheek though... the summary tells you as much.')
+Item(by='weaksauce', descendants=None, kids=[25337006], score=None, time=1607370468, title=None, item_type='comment', url=None, parent=25336168, text='It was tongue in cheek though... the summary tells you as much.')

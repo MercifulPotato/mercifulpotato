@@ -1,0 +1,1 @@
+Item(by='Inityx', descendants=None, kids=[25338538], score=None, time=1607374383, title=None, item_type='comment', url=None, parent=25336598, text='The conceit here is that rendering happens server-side, so visible game-state latency is replaced by input latency.')

@@ -1,1 +1,1 @@
-Item(by='samclemens', descendants=1, kids=[25335211], score=9, time=1607296815, title='What the Church Meant for James Baldwin', item_type='story', url='https://www.nytimes.com/2020/12/04/t-magazine/james-baldwin-pentecostal-church.html', parent=None, text=None)
+Item(by='samclemens', descendants=8, kids=[25338104, 25335211, 25339141, 25339545, 25338282], score=45, time=1607296815, title='What the Church Meant for James Baldwin', item_type='story', url='https://www.nytimes.com/2020/12/04/t-magazine/james-baldwin-pentecostal-church.html', parent=None, text=None)
