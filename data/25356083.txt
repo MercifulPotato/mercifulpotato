@@ -1,0 +1,1 @@
+Item(by='ashton314', descendants=None, kids=[25356176], score=None, time=1607497409, title=None, item_type='comment', url=None, parent=25356041, text='I bet if you write your TeX in Markdown and then run the whole thing through pandoc, you’ll get well-set math in your PDF. I’ve done this with org-mode.')

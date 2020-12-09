@@ -1,0 +1,1 @@
+Item(by='X-Istence', descendants=None, kids=None, score=None, time=1607489993, title=None, item_type='comment', url=None, parent=25353834, text='Create a loopback interface and assign it the IP address you want redirected, then have your DNS resolver bind to those IP&#x27;s.')

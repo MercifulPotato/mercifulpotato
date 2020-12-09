@@ -1,1 +1,1 @@
-Item(by='tomc1985', descendants=None, kids=None, score=None, time=1607457161, title=None, item_type='comment', url=None, parent=25347417, text='Personally I switched to the GIMP. I&#x27;m kind of proud I haven&#x27;t felt the need to reinstall PS yet')
+Item(by='tomc1985', descendants=None, kids=[25354815], score=None, time=1607457161, title=None, item_type='comment', url=None, parent=25347417, text='Personally I switched to the GIMP. I&#x27;m kind of proud I haven&#x27;t felt the need to reinstall PS yet')

@@ -1,1 +1,1 @@
-Item(by='nikisweeting', descendants=None, kids=None, score=None, time=1607465700, title=None, item_type='comment', url=None, parent=25350991, text='Zig is the next thing on my list, haven&#x27;t learned it yet though.')
+Item(by='nikisweeting', descendants=None, kids=[25355135], score=None, time=1607465700, title=None, item_type='comment', url=None, parent=25350991, text='Zig is the next thing on my list, haven&#x27;t learned it yet though.')

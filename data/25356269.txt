@@ -1,0 +1,1 @@
+Item(by='j7ake', descendants=None, kids=None, score=None, time=1607499549, title=None, item_type='comment', url=None, parent=25341601, text='Just to add another reason to think of correlation as linear models: spearman correlation is analogous to fitting a linear model on the ranks of the inputs rather than using the values themselves.')

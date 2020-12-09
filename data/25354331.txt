@@ -1,1 +1,1 @@
-Item(by='mark_and_sweep', descendants=None, kids=[25354743], score=None, time=1607478098, title=None, item_type='comment', url=None, parent=25353814, text='XSLT is the only way to do HTML templating on the client without using JS. I think that is valuable.')
+Item(by='mark_and_sweep', descendants=None, kids=[25354743, 25355582, 25355367, 25355193], score=None, time=1607478098, title=None, item_type='comment', url=None, parent=25353814, text='XSLT is the only way to do HTML templating on the client without using JS. I think that is valuable.')

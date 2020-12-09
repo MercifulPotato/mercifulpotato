@@ -1,1 +1,1 @@
-Item(by='AnimalMuppet', descendants=None, kids=None, score=None, time=1607474560, title=None, item_type='comment', url=None, parent=25352672, text='How do you get updates to your airgapped hardware?  That&#x27;s your attack vector.')
+Item(by='AnimalMuppet', descendants=None, kids=[25355970], score=None, time=1607474560, title=None, item_type='comment', url=None, parent=25352672, text='How do you get updates to your airgapped hardware?  That&#x27;s your attack vector.')

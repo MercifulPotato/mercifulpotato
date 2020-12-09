@@ -1,1 +1,1 @@
-Item(by='chrisaycock', descendants=0, kids=None, score=1, time=1607480940, title='Apps Are Helping to Gut the Restaurant Industry', item_type='story', url='https://www.nytimes.com/2020/12/08/opinion/delivery-apps-restaurants-fees.html', parent=None, text=None)
+Item(by='chrisaycock', descendants=3, kids=[25354868, 25355168], score=16, time=1607480940, title='Apps Are Helping to Gut the Restaurant Industry', item_type='story', url='https://www.nytimes.com/2020/12/08/opinion/delivery-apps-restaurants-fees.html', parent=None, text=None)

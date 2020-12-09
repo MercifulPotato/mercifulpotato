@@ -1,1 +1,1 @@
-Item(by='Thaxll', descendants=None, kids=None, score=None, time=1607471416, title=None, item_type='comment', url=None, parent=25348473, text='I trust Canonical more than Debian for security fixes. Canonical has a dedicated security team.')
+Item(by='Thaxll', descendants=None, kids=[25356272], score=None, time=1607471416, title=None, item_type='comment', url=None, parent=25348473, text='I trust Canonical more than Debian for security fixes. Canonical has a dedicated security team.')

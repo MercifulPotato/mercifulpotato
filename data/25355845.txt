@@ -1,0 +1,1 @@
+Item(by='jammaloo', descendants=None, kids=None, score=None, time=1607494350, title=None, item_type='comment', url=None, parent=25355700, text='The script could be tied into the global onload event, so that it will only attempt to parse the JSON after the page has been fully loaded. Likely the HTML block is just placed at the bottom of the JSON for aesthetic reasons.')

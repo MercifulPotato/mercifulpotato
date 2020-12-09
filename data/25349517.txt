@@ -1,1 +1,1 @@
-Item(by='jeremiahlee', descendants=2, kids=[25351355, 25349615], score=12, time=1607452621, title='General Availability of HashiCorp Nomad 1.0', item_type='story', url='https://www.hashicorp.com/blog/announcing-general-availability-of-hashicorp-nomad-1-0', parent=None, text=None)
+Item(by='jeremiahlee', descendants=2, kids=[25351355, 25349615], score=15, time=1607452621, title='General Availability of HashiCorp Nomad 1.0', item_type='story', url='https://www.hashicorp.com/blog/announcing-general-availability-of-hashicorp-nomad-1-0', parent=None, text=None)

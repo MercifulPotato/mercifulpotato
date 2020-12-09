@@ -1,1 +1,1 @@
-Item(by='banjomet', descendants=0, kids=None, score=1, time=1607477926, title='NVIDIA Research Achieves AI Training Breakthrough Using Limited Datasets', item_type='story', url='https://blogs.nvidia.com/blog/2020/12/07/neurips-research-limited-data-gan/', parent=None, text=None)
+Item(by='banjomet', descendants=2, kids=[25354828, 25354827], score=2, time=1607477926, title='NVIDIA Research Achieves AI Training Breakthrough Using Limited Datasets', item_type='story', url='https://blogs.nvidia.com/blog/2020/12/07/neurips-research-limited-data-gan/', parent=None, text=None)

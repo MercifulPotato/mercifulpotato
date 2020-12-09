@@ -1,1 +1,1 @@
-Item(by='eyelidlessness', descendants=None, kids=None, score=None, time=1607480704, title=None, item_type='comment', url=None, parent=25354375, text='This isn’t worth my time except to say so.')
+Item(by='eyelidlessness', descendants=None, kids=[25355306], score=None, time=1607480704, title=None, item_type='comment', url=None, parent=25354375, text='This isn’t worth my time except to say so.')

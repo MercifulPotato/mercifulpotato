@@ -1,1 +1,1 @@
-Item(by='yarapavan', descendants=1, kids=[25335023], score=13, time=1607358188, title='Brian Kernighan Interviews Ken Thompson', item_type='story', url='https://www.youtube.com/watch?v=EY6q5dv_B-o', parent=None, text=None)
+Item(by='yarapavan', descendants=2, kids=[25335023, 25351494], score=13, time=1607358188, title='Brian Kernighan Interviews Ken Thompson', item_type='story', url='https://www.youtube.com/watch?v=EY6q5dv_B-o', parent=None, text=None)

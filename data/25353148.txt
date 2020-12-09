@@ -1,1 +1,1 @@
-Item(by='robric', descendants=6, kids=[25354308, 25354164, 25354236], score=39, time=1607470728, title='Building a scalable e-commerce data model', item_type='story', url='https://resources.fabric.inc/blog/ecommerce-data-model', parent=None, text=None)
+Item(by='robric', descendants=9, kids=[25356348, 25354164, 25355865, 25354308, 25355148, 25354236], score=82, time=1607470728, title='Building a scalable e-commerce data model', item_type='story', url='https://resources.fabric.inc/blog/ecommerce-data-model', parent=None, text=None)

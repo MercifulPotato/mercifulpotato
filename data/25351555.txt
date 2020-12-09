@@ -1,1 +1,1 @@
-Item(by='LukeEF', descendants=None, kids=None, score=None, time=1607462707, title=None, item_type='comment', url=None, parent=25350829, text='I think the general feeling in the GNU&#x2F;FSF is that if you are not using GPL, use Apache 2.0.')
+Item(by='LukeEF', descendants=None, kids=[25355840], score=None, time=1607462707, title=None, item_type='comment', url=None, parent=25350829, text='I think the general feeling in the GNU&#x2F;FSF is that if you are not using GPL, use Apache 2.0.')

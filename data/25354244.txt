@@ -1,1 +1,1 @@
-Item(by='benrapscallion', descendants=None, kids=None, score=None, time=1607477540, title=None, item_type='comment', url=None, parent=25352355, text='We used to joke in grad school that PNAS stands for Paper Not Accepted in Science.')
+Item(by='benrapscallion', descendants=None, kids=[25355754], score=None, time=1607477540, title=None, item_type='comment', url=None, parent=25352355, text='We used to joke in grad school that PNAS stands for Paper Not Accepted in Science.')

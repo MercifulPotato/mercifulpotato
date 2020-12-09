@@ -1,0 +1,1 @@
+Item(by='hxtk', descendants=None, kids=[25355084], score=None, time=1607484169, title=None, item_type='comment', url=None, parent=25353136, text='It&#x27;s a bundle of jinja2 templates for YAML files defining Kubernetes API resources. There&#x27;s an accompanying application, Helm, which applies values to the templates and handles the interaction with the Kubernetes API.')

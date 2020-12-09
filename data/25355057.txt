@@ -1,0 +1,1 @@
+Item(by='harporoeder', descendants=None, kids=[25355083], score=None, time=1607485277, title=None, item_type='comment', url=None, parent=25347915, text='While your exact GPS location may be E2E encrypted I imagine that the map tiles you happen to download when viewing the map are going to highly correlate with your location. This does not seem an easily solvable problem though.')

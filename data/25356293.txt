@@ -1,0 +1,1 @@
+Item(by='necovek', descendants=None, kids=None, score=None, time=1607499819, title=None, item_type='comment', url=None, parent=25355767, text='The reason browsers&#x27; charset autodetection works differently locally is likely because HTTP standard specifies Latin1 (ISO-8859-1) as the default encoding (at least in 1.1).')

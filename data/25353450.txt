@@ -1,1 +1,1 @@
-Item(by='Something1234', descendants=3, kids=[25353461, 25353873, 25353824], score=3, time=1607472287, title='Does anyone still use multi-seat Linux installations?', item_type='story', url='https://www.freedesktop.org/wiki/Software/systemd/multiseat/', parent=None, text=None)
+Item(by='Something1234', descendants=5, kids=[25353461, 25353873, 25353824], score=4, time=1607472287, title='Does anyone still use multi-seat Linux installations?', item_type='story', url='https://www.freedesktop.org/wiki/Software/systemd/multiseat/', parent=None, text=None)
