@@ -1,0 +1,1 @@
+Item(by='nicbou', descendants=None, kids=None, score=None, time=1607536805, title=None, item_type='comment', url=None, parent=25357862, text='I get similar timings for my website on a DigitalOcean VPS. It&#x27;s not <i>that</i> difficult, as long as you can cache your content.<p>A few other things: GZIP and HTTP2 help a lot')

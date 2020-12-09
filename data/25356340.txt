@@ -1,1 +1,1 @@
-Item(by='bayindirh', descendants=None, kids=None, score=None, time=1607500343, title=None, item_type='comment', url=None, parent=25356105, text='So, can we say that we hit the scalability limits of indirect democracy?')
+Item(by='bayindirh', descendants=None, kids=[25359305], score=None, time=1607500343, title=None, item_type='comment', url=None, parent=25356105, text='So, can we say that we hit the scalability limits of indirect democracy?')

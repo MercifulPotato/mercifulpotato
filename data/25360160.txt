@@ -1,0 +1,1 @@
+Item(by='core-questions', descendants=None, kids=None, score=None, time=1607530465, title=None, item_type='comment', url=None, parent=25358727, text='Yeah, and this is when working with first-party upstream Dockerized apps that have good entrypoints already designed to function as adapters between env var config and internal config files....')

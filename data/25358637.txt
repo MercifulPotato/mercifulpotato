@@ -1,1 +1,1 @@
-Item(by='k__', descendants=None, kids=None, score=None, time=1607523278, title=None, item_type='comment', url=None, parent=25358166, text='Interesting.<p>In Germany everything was either closed or the employees simply desinfected stuff after use.')
+Item(by='k__', descendants=None, kids=[25358836], score=None, time=1607523278, title=None, item_type='comment', url=None, parent=25358166, text='Interesting.<p>In Germany everything was either closed or the employees simply desinfected stuff after use.')

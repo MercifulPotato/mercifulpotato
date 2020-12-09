@@ -1,0 +1,1 @@
+Item(by='UK-Al05', descendants=None, kids=None, score=None, time=1607539418, title=None, item_type='comment', url=None, parent=25350201, text='There&#x27;s logical and physical partitions.<p>Logical partitions are always handled by the same physical partition. But physical partitions can handle multiple logical partitions.')

@@ -1,0 +1,1 @@
+Item(by='secondcoming', descendants=None, kids=None, score=None, time=1607544132, title=None, item_type='comment', url=None, parent=25357409, text='GCP&#x27;s UI controls for adding&#x2F;removing instances from instance groups is appalling. It&#x27;s unbelievably slow and can even lie to you (i.e. telling you an instance has been removed when it actually hasn&#x27;t).')

@@ -1,1 +1,1 @@
-Item(by='m463', descendants=None, kids=None, score=None, time=1607507181, title=None, item_type='comment', url=None, parent=25346735, text='Ubuntu phones home a lot.<p>Don&#x27;t know if that applies to rhel')
+Item(by='m463', descendants=None, kids=[25359422], score=None, time=1607507181, title=None, item_type='comment', url=None, parent=25346735, text='Ubuntu phones home a lot.<p>Don&#x27;t know if that applies to rhel')

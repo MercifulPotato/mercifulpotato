@@ -1,1 +1,1 @@
-Item(by='nicbou', descendants=None, kids=None, score=None, time=1607512457, title=None, item_type='comment', url=None, parent=25357168, text='I Don&#x27;t Care About Cookies is really good. On Firefox Mobile you can add a uBlock Origin blocklist that removes many of them.')
+Item(by='nicbou', descendants=None, kids=[25359181], score=None, time=1607512457, title=None, item_type='comment', url=None, parent=25357168, text='I Don&#x27;t Care About Cookies is really good. On Firefox Mobile you can add a uBlock Origin blocklist that removes many of them.')

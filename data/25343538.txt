@@ -1,1 +1,1 @@
-Item(by='ketamine__', descendants=0, kids=None, score=1, time=1607421076, title='Why Are Pandas Covering Themselves with Horse Manure?', item_type='story', url='https://www.nytimes.com/2020/12/07/science/pandas-horse-poop.html', parent=None, text=None)
+Item(by='ketamine__', descendants=3, kids=[25361753, 25361547], score=12, time=1607421076, title='Horse manure may help pandas tolerate cold temperatures: study', item_type='story', url='https://www.nytimes.com/2020/12/07/science/pandas-horse-poop.html', parent=None, text=None)

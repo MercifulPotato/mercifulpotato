@@ -1,0 +1,1 @@
+Item(by='nix23', descendants=None, kids=None, score=None, time=1607525782, title=None, item_type='comment', url=None, parent=25359011, text='Yeah true, in my Home-server i have one mirror (2 disks for OS&#x2F;Swap etc) and one RaidZ1 (5 Disks for data), for me it&#x27;s just important that i have no bit-rot etc. Daily backups (restic) are made so no problem whatsoever.')

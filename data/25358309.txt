@@ -1,1 +1,1 @@
-Item(by='pc86', descendants=None, kids=None, score=None, time=1607521265, title=None, item_type='comment', url=None, parent=25357122, text='Easily 50% of the articles on HN are advertisements. If you remove news articles and personal blogs that jumps to about 98%.')
+Item(by='pc86', descendants=None, kids=[25360039], score=None, time=1607521265, title=None, item_type='comment', url=None, parent=25357122, text='Easily 50% of the articles on HN are advertisements. If you remove news articles and personal blogs that jumps to about 98%.')

@@ -1,0 +1,1 @@
+Item(by='base698', descendants=None, kids=[25358612, 25358785], score=None, time=1607522974, title=None, item_type='comment', url=None, parent=25358486, text='I worked on a server rendered project in the 00s.  There was a screen that took 7 minutes to render for about 100 list items.<p>You can make anything slow if you really try.')

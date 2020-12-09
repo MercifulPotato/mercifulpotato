@@ -1,1 +1,1 @@
-Item(by='hombre_fatal', descendants=None, kids=None, score=None, time=1607470472, title=None, item_type='comment', url=None, parent=25352591, text='I do. Nobody is in there, it&#x27;s an even better destination now.')
+Item(by='hombre_fatal', descendants=None, kids=[25363415], score=None, time=1607470472, title=None, item_type='comment', url=None, parent=25352591, text='I do. Nobody is in there, it&#x27;s an even better destination now.')

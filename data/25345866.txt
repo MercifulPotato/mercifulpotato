@@ -1,1 +1,1 @@
-Item(by='kragniz', descendants=11, kids=[25346132, 25346143, 25346531, 25348165], score=20, time=1607439066, title='CentOS Project shifts focus to CentOS Stream', item_type='story', url='https://blog.centos.org/2020/12/future-is-centos-stream/', parent=None, text=None)
+Item(by='kragniz', descendants=1, kids=[25346132], score=20, time=1607439066, title='CentOS Project shifts focus to CentOS Stream', item_type='story', url='https://blog.centos.org/2020/12/future-is-centos-stream/', parent=None, text=None)

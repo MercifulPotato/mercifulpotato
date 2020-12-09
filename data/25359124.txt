@@ -1,0 +1,1 @@
+Item(by='blueflame7', descendants=None, kids=None, score=None, time=1607525991, title=None, item_type='comment', url=None, parent=25358268, text='Mirror pools are dangerous if you have a failing power-supply. All it takes is to lose the wrong two drives together (which are often in the same rack) and you lose a portion of your dataset. You should use mirrored raidz2 sets')

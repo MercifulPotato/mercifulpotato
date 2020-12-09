@@ -1,1 +1,1 @@
-Item(by='tremon', descendants=None, kids=None, score=None, time=1607509584, title=None, item_type='comment', url=None, parent=25356919, text='Sure, but your &quot;here&quot; isn&#x27;t in the US.')
+Item(by='tremon', descendants=None, kids=[25360621], score=None, time=1607509584, title=None, item_type='comment', url=None, parent=25356919, text='Sure, but your &quot;here&quot; isn&#x27;t in the US.')

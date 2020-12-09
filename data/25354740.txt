@@ -1,1 +1,1 @@
-Item(by='kgarten', descendants=1, kids=[25357989], score=9, time=1607482219, title='A Mac / Linux Decompiler', item_type='story', url='https://www.hopperapp.com/', parent=None, text=None)
+Item(by='kgarten', descendants=2, kids=[25357989, 25359037], score=19, time=1607482219, title='A Mac / Linux Decompiler', item_type='story', url='https://www.hopperapp.com/', parent=None, text=None)

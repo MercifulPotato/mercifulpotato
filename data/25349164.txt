@@ -1,1 +1,1 @@
-Item(by='chrisseaton', descendants=None, kids=None, score=None, time=1607451127, title=None, item_type='comment', url=None, parent=25347983, text='What do you think the traditional education is for a software engineer?')
+Item(by='chrisseaton', descendants=None, kids=[25362417], score=None, time=1607451127, title=None, item_type='comment', url=None, parent=25347983, text='What do you think the traditional education is for a software engineer?')

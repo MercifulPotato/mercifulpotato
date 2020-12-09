@@ -1,0 +1,1 @@
+Item(by='myself248', descendants=None, kids=None, score=None, time=1607538059, title=None, item_type='comment', url=None, parent=25359195, text='Seems to me that you could do both. Inline the minimal set that makes the front page renderable, and then background-load the full css to warm the cache for when the user clicks on a link.')

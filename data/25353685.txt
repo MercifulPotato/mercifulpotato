@@ -1,1 +1,1 @@
-Item(by='schwartzworld', descendants=None, kids=None, score=None, time=1607473897, title=None, item_type='comment', url=None, parent=25347738, text='$200 less than $600 is $400 not $200.')
+Item(by='schwartzworld', descendants=None, kids=[25360343], score=None, time=1607473897, title=None, item_type='comment', url=None, parent=25347738, text='$200 less than $600 is $400 not $200.')

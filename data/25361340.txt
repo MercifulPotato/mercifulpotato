@@ -1,0 +1,1 @@
+Item(by='riejo', descendants=None, kids=None, score=None, time=1607536088, title=None, item_type='comment', url=None, parent=25360555, text='VSC dev here. Correct, perf is a priority for us and it&#x27;s no black magic. A simple one is to keep your bundles small. VSC&#x27;s  main bundle is less than 9MB, Cloud UI seems to be 15.')

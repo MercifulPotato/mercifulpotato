@@ -1,0 +1,1 @@
+Item(by='porphyra', descendants=None, kids=None, score=None, time=1607537098, title=None, item_type='comment', url=None, parent=25358082, text='One could conceivably make a binary format based on Messagepack or Flatbuffers for vector data, which would be much more efficient and eliminate rounding problems of converting between floats and decimal numbers in text representations.')

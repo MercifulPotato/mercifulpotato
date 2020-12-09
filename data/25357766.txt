@@ -1,1 +1,1 @@
-Item(by='adriancr', descendants=None, kids=None, score=None, time=1607516053, title=None, item_type='comment', url=None, parent=25357619, text='I would never pipe something to bash.<p>Always download, inspect, run. (maybe even backup if something strange happens)')
+Item(by='adriancr', descendants=None, kids=[25359051], score=None, time=1607516053, title=None, item_type='comment', url=None, parent=25357619, text='I would never pipe something to bash.<p>Always download, inspect, run. (maybe even backup if something strange happens)')

@@ -1,0 +1,1 @@
+Item(by='calibas', descendants=None, kids=None, score=None, time=1607544420, title=None, item_type='comment', url=None, parent=25363473, text='Also, the rate limiting is probably meant to be based upon the client&#x27;s IP, not the proxy IP. Usually, the proxy adds the client IPs to the request headers and you can use those in Nginx rules.')

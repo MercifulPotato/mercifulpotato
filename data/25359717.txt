@@ -1,0 +1,1 @@
+Item(by='ngrilly', descendants=None, kids=None, score=None, time=1607528635, title=None, item_type='comment', url=None, parent=25358449, text='The big problem for me with Docker Compose is the lack of zero downtime &#x2F; seamless deployments. First it stops the containers running the old version, then it starts new containers running new versions, instead of doing the reverse.')

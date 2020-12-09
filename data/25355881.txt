@@ -1,1 +1,1 @@
-Item(by='specialist', descendants=None, kids=None, score=None, time=1607494790, title=None, item_type='comment', url=None, parent=25347402, text='All of the responsibility without any of the authority.')
+Item(by='specialist', descendants=None, kids=[25360157], score=None, time=1607494790, title=None, item_type='comment', url=None, parent=25347402, text='All of the responsibility without any of the authority.')

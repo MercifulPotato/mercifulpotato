@@ -1,1 +1,1 @@
-Item(by='rhencke', descendants=None, kids=None, score=None, time=1607519514, title=None, item_type='comment', url=None, parent=25357895, text='Can you elaborate on what you mean by &quot;doesn&#x27;t count&quot;?')
+Item(by='rhencke', descendants=None, kids=[25358710], score=None, time=1607519514, title=None, item_type='comment', url=None, parent=25357895, text='Can you elaborate on what you mean by &quot;doesn&#x27;t count&quot;?')

@@ -1,0 +1,1 @@
+Item(by='big-malloc', descendants=None, kids=[25359690], score=None, time=1607526246, title=None, item_type='comment', url=None, parent=25351446, text='Granted this is anecdotal, but I found Nomad to have much more reasonable resource usage compared to K3s on my pi cluster')

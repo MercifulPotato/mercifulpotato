@@ -1,0 +1,1 @@
+Item(by='mrlonglong', descendants=None, kids=[25361585], score=None, time=1607535207, title=None, item_type='comment', url=None, parent=25358268, text='I recently built a ZFS raidz2 array with 4 disks. Is the article saying it&#x27;s better to mirror over four vdevs (or 4 disks?)')

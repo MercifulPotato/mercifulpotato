@@ -1,0 +1,1 @@
+Item(by='glator', descendants=None, kids=[25363151, 25361460], score=None, time=1607533855, title=None, item_type='comment', url=None, parent=25360175, text='Shouldn&#x27;t a strong symmetric encryption with a long key prove to be safe enough as to not be crackable in a reasonable amount of time (~10 years), even if the hardware is directly accessible ?')

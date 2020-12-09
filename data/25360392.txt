@@ -1,0 +1,1 @@
+Item(by='z3t4', descendants=None, kids=None, score=None, time=1607531487, title=None, item_type='comment', url=None, parent=25360181, text='You can for example have many SQL databases on the same db server, or many web sites on a www server. So you solve it with configuration. If you need different kernels you have to use virtual servers anyway.')

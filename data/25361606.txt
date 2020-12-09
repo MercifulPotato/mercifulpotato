@@ -1,0 +1,1 @@
+Item(by='psykotic', descendants=None, kids=None, score=None, time=1607537412, title=None, item_type='comment', url=None, parent=25360617, text='It&#x27;s an important theoretical result, but the optimized library almost everyone uses (libdivsufsort) is based on an O(n log n) time algorithm; I haven&#x27;t seen any competitive implementations of the linear-time algorithms.')

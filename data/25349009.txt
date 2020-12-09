@@ -1,1 +1,1 @@
-Item(by='jrnkntl', descendants=21, kids=[25358533, 25349739, 25349876, 25350088, 25351706], score=65, time=1607450526, title='Nomad v1.0 release – workload orchestration', item_type='story', url='https://github.com/hashicorp/nomad/releases/tag/v1.0.0', parent=None, text=None)
+Item(by='jrnkntl', descendants=25, kids=[25349739, 25349876, 25358533, 25350088, 25351706], score=69, time=1607450526, title='Nomad v1.0 release – workload orchestration', item_type='story', url='https://github.com/hashicorp/nomad/releases/tag/v1.0.0', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='rv-de', descendants=None, kids=None, score=None, time=1607521140, title=None, item_type='comment', url=None, parent=25357059, text='That&#x27;s the problem with most books. Stretched out like a Netflix production.')
+Item(by='rv-de', descendants=None, kids=[25361079], score=None, time=1607521140, title=None, item_type='comment', url=None, parent=25357059, text='That&#x27;s the problem with most books. Stretched out like a Netflix production.')

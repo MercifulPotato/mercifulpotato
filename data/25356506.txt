@@ -1,1 +1,1 @@
-Item(by='giuliomagnifico', descendants=0, kids=None, score=3, time=1607502308, title='Delivering sound to people where they want it for VR, AR', item_type='story', url='https://techxplore.com/news/2020-12-people-vr-ar.html', parent=None, text=None)
+Item(by='giuliomagnifico', descendants=1, kids=[25363178], score=3, time=1607502308, title='Delivering sound to people where they want it for VR, AR', item_type='story', url='https://techxplore.com/news/2020-12-people-vr-ar.html', parent=None, text=None)

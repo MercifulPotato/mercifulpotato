@@ -1,1 +1,1 @@
-Item(by='jgrahamc', descendants=1, kids=[25357878], score=12, time=1607515519, title='Deprecating the __cfduid cookie', item_type='story', url='https://blog.cloudflare.com/deprecating-cfduid-cookie/', parent=None, text=None)
+Item(by='jgrahamc', descendants=7, kids=[25363201, 25360732, 25357878, 25359156], score=53, time=1607515519, title='Deprecating the __cfduid cookie', item_type='story', url='https://blog.cloudflare.com/deprecating-cfduid-cookie/', parent=None, text=None)

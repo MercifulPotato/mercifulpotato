@@ -1,0 +1,1 @@
+Item(by='CodexArcanum', descendants=None, kids=[25363266], score=None, time=1607528941, title=None, item_type='comment', url=None, parent=25342922, text='Since (B|Z)DDs are basically just fancy DAGs, I wonder what the relationship between them and other automata is like? Like can some of these techniques be applied with regexps to make something truly monstrous?')

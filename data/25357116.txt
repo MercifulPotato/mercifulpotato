@@ -1,1 +1,1 @@
-Item(by='edent', descendants=None, kids=[25357158], score=None, time=1607508996, title=None, item_type='comment', url=None, parent=25357084, text='No, generally not. Some QR scanners will scan &quot;inverted&quot; codes, but it is outside of the spec.')
+Item(by='edent', descendants=None, kids=[25357158, 25359074], score=None, time=1607508996, title=None, item_type='comment', url=None, parent=25357084, text='No, generally not. Some QR scanners will scan &quot;inverted&quot; codes, but it is outside of the spec.')

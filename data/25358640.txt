@@ -1,1 +1,1 @@
-Item(by='tommit', descendants=None, kids=None, score=None, time=1607523282, title=None, item_type='comment', url=None, parent=25354240, text='I&#x27;m sorry, but $59 for a plastic syringe with a crooked tip?')
+Item(by='tommit', descendants=None, kids=[25359703], score=None, time=1607523282, title=None, item_type='comment', url=None, parent=25354240, text='I&#x27;m sorry, but $59 for a plastic syringe with a crooked tip?')
