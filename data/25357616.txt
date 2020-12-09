@@ -1,0 +1,1 @@
+Item(by='felixfbecker', descendants=None, kids=None, score=None, time=1607514278, title=None, item_type='comment', url=None, parent=25352826, text='That will run scripts inside the SVG though. &lt;iframe&gt; can be set to disallow that using `sandbox` and&#x2F;or `csp`.')

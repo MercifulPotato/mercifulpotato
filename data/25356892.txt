@@ -1,0 +1,1 @@
+Item(by='adriancr', descendants=None, kids=[25357469, 25357371, 25356972, 25356971], score=None, time=1607507012, title=None, item_type='comment', url=None, parent=25356757, text='That&#x27;s probably why you should:<p>- download the bash script<p>- inspect the script &#x2F; add a &#x27;set -x&#x27; for tracing<p>- then run (the downloaded script) with log output somewhere.')

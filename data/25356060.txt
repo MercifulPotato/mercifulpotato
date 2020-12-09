@@ -1,1 +1,1 @@
-Item(by='webmaven', descendants=None, kids=None, score=None, time=1607497074, title=None, item_type='comment', url=None, parent=25355873, text='It looks more like a radar corner to me, rather than a cube.')
+Item(by='webmaven', descendants=None, kids=[25356328], score=None, time=1607497074, title=None, item_type='comment', url=None, parent=25355873, text='It looks more like a radar corner to me, rather than a cube.')

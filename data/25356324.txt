@@ -1,0 +1,1 @@
+Item(by='SquareWheel', descendants=None, kids=None, score=None, time=1607500119, title=None, item_type='comment', url=None, parent=25356259, text='TTFB includes DNS lookup, server generation of the page, and actual sending of the data.  I&#x27;d guess it&#x27;s one of the first two at fault.')

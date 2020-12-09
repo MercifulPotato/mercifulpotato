@@ -1,1 +1,1 @@
-Item(by='musicale', descendants=None, kids=None, score=None, time=1607478509, title=None, item_type='comment', url=None, parent=25354128, text='So the Indiana legislator who wanted a simpler value for pi was on to something...')
+Item(by='musicale', descendants=None, kids=[25357165], score=None, time=1607478509, title=None, item_type='comment', url=None, parent=25354128, text='So the Indiana legislator who wanted a simpler value for pi was on to something...')

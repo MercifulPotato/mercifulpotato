@@ -1,1 +1,1 @@
-Item(by='mratsim', descendants=26, kids=[25349724, 25347698, 25348975, 25351347], score=224, time=1607438704, title="ORC – Nim's new memory managment", item_type='story', url='https://nim-lang.org/blog/2020/12/08/introducing-orc.html', parent=None, text=None)
+Item(by='mratsim', descendants=32, kids=[25349724, 25347698, 25348975, 25351347], score=233, time=1607438704, title="ORC – Nim's new memory managment", item_type='story', url='https://nim-lang.org/blog/2020/12/08/introducing-orc.html', parent=None, text=None)

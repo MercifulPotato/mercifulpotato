@@ -1,1 +1,1 @@
-Item(by='lrossi', descendants=None, kids=None, score=None, time=1607468459, title=None, item_type='comment', url=None, parent=25346318, text='Why is the ios app so large? It’s listed as 72.5 MB on the app store.')
+Item(by='lrossi', descendants=None, kids=[25357684], score=None, time=1607468459, title=None, item_type='comment', url=None, parent=25346318, text='Why is the ios app so large? It’s listed as 72.5 MB on the app store.')

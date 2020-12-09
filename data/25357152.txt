@@ -1,0 +1,1 @@
+Item(by='jorangreef', descendants=None, kids=[25357797], score=None, time=1607509312, title=None, item_type='comment', url=None, parent=25357097, text='The malicious actor would simply edit the install script to comment out the checksum verification step, since they already own the script.')

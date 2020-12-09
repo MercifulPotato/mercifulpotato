@@ -1,0 +1,1 @@
+Item(by='filmor', descendants=None, kids=None, score=None, time=1607513154, title=None, item_type='comment', url=None, parent=25357347, text='Rewriting history has absolutely nothing to do with this. In a VCS that doesn&#x27;t allow this, I could just hand out repo1 and repo1+malicious-patch. In both cases (as with git as well), I can detect this by comparing hashes.')

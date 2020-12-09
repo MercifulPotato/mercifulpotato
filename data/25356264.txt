@@ -1,1 +1,1 @@
-Item(by='balola', descendants=None, kids=None, score=None, time=1607499525, title=None, item_type='comment', url=None, parent=25355961, text='Americans just love to spend, I heard drone makers in China say Americans have money and leisure, they buy anything.')
+Item(by='balola', descendants=None, kids=[25356510], score=None, time=1607499525, title=None, item_type='comment', url=None, parent=25355961, text='Americans just love to spend, I heard drone makers in China say Americans have money and leisure, they buy anything.')

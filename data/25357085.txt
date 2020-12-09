@@ -1,0 +1,1 @@
+Item(by='lqet', descendants=None, kids=[25357121, 25357132], score=None, time=1607508704, title=None, item_type='comment', url=None, parent=25356935, text='&gt; This allows constructing pipelines that read from and write to the same file.<p>TIL, how did I not know about sponge before?')

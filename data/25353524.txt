@@ -1,1 +1,1 @@
-Item(by='contingencies', descendants=3, kids=[25353914, 25354478], score=13, time=1607472775, title='MPG: A Multi-Ingredient Pizza Image Generator with Conditional StyleGANs [pdf]', item_type='story', url='https://export.arxiv.org/pdf/2012.02821.pdf', parent=None, text=None)
+Item(by='contingencies', descendants=4, kids=[25353914, 25354478], score=13, time=1607472775, title='MPG: A Multi-Ingredient Pizza Image Generator with Conditional StyleGANs [pdf]', item_type='story', url='https://export.arxiv.org/pdf/2012.02821.pdf', parent=None, text=None)

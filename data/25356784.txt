@@ -1,0 +1,1 @@
+Item(by='chippytea', descendants=None, kids=None, score=None, time=1607505620, title=None, item_type='comment', url=None, parent=25356620, text='Microsoft was auto installing Teams with auto startup on Windows Server 2019 for a while. And you could only access settings to turn off auto startup if you logged in or changed some registry settings.')

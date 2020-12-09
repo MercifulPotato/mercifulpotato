@@ -1,0 +1,1 @@
+Item(by='speeder', descendants=None, kids=None, score=None, time=1607521047, title=None, item_type='comment', url=None, parent=25358246, text='Theoretically, CentOS was the RHEL source release.<p>Now that this changed, I wonder, do RHEL sources are still available 100% identical to their binary? Or the announcement yesterday just broke GPL2 compliance?')

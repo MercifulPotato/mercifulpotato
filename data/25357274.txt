@@ -1,0 +1,1 @@
+Item(by='Gucio', descendants=None, kids=None, score=None, time=1607510567, title=None, item_type='comment', url=None, parent=25354763, text='It seems to be using ImGui. In source&#x2F;window.cpp, line 269 you should be able to change ImGui::StyleColorsDark(); to ImGui::SyleColorsLight();')

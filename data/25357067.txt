@@ -1,0 +1,1 @@
+Item(by='RMPR', descendants=None, kids=None, score=None, time=1607508556, title=None, item_type='comment', url=None, parent=25356113, text='&gt; When I was writing mine I used markdown with pandoc to compile to either LaTex or pdf.<p>I wrote my master thesis with this combo, but wrestling with images positions made me turn back to pure Latex.')

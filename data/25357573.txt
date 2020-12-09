@@ -1,0 +1,1 @@
+Item(by='gus_massa', descendants=None, kids=[25357690], score=None, time=1607513710, title=None, item_type='comment', url=None, parent=25356952, text='I agree. I initially use<p><pre><code>  \\hfuzz=5pt\n</code></pre>\nso only the horrible overflows produce an error and later I reduce it to 1pt and then to .5pt because nobody will notice an error of .5pt.')

@@ -1,0 +1,1 @@
+Item(by='RMPR', descendants=None, kids=[25357220], score=None, time=1607508032, title=None, item_type='comment', url=None, parent=25356863, text='&gt; Can&#x27;t stop. SIGTSTP (Ctrl-Z) is trapped. Pomodoros are uninterruptible.<p>Can still send SIGSTOP with `kill`')

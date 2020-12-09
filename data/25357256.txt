@@ -1,0 +1,1 @@
+Item(by='janekm', descendants=None, kids=None, score=None, time=1607510391, title=None, item_type='comment', url=None, parent=25352077, text='Does that not assume equal probability of finding bugs? Seems to me that both teams would find the same easily identified bugs (say  &#x27;=&#x27; instead of &#x27;==&#x27; or revealed by compiler warnings).')

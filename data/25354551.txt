@@ -1,1 +1,1 @@
-Item(by='pama', descendants=2, kids=[25354620, 25355657], score=3, time=1607480230, title='Emacs Survey 2020 Results', item_type='story', url='https://emacssurvey.org/2020/', parent=None, text=None)
+Item(by='pama', descendants=6, kids=[25356530, 25354620, 25355657], score=5, time=1607480230, title='Emacs Survey 2020 Results', item_type='story', url='https://emacssurvey.org/2020/', parent=None, text=None)

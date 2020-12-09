@@ -1,1 +1,1 @@
-Item(by='silt', descendants=0, kids=None, score=2, time=1607460004, title='What We Know of Sappho', item_type='story', url='https://www.theparisreview.org/blog/2020/12/08/what-we-know-of-sappho/', parent=None, text=None)
+Item(by='silt', descendants=5, kids=[25357620, 25357897, 25357572], score=36, time=1607460004, title='What We Know of Sappho', item_type='story', url='https://www.theparisreview.org/blog/2020/12/08/what-we-know-of-sappho/', parent=None, text=None)

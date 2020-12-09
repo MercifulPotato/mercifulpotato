@@ -1,0 +1,1 @@
+Item(by='moretta', descendants=None, kids=None, score=None, time=1607509358, title=None, item_type='comment', url=None, parent=25348871, text='I think the mix of font colours is also a problem on the diffs alongside the dark green, which makes it really hard to see what&#x27;s going on. I&#x27;ve switched back to light mode for reviewing PRs')

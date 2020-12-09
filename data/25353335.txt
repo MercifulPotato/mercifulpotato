@@ -1,1 +1,1 @@
-Item(by='cohix', descendants=1, kids=[25355156], score=9, time=1607471574, title='Building a Better Monolith (With WebAssembly)', item_type='story', url='https://blog.suborbital.dev/building-a-better-monolith', parent=None, text=None)
+Item(by='cohix', descendants=2, kids=[25356996, 25355156], score=10, time=1607471574, title='Building a Better Monolith (With WebAssembly)', item_type='story', url='https://blog.suborbital.dev/building-a-better-monolith', parent=None, text=None)

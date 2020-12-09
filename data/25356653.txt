@@ -1,0 +1,1 @@
+Item(by='bobthepanda', descendants=None, kids=None, score=None, time=1607503984, title=None, item_type='comment', url=None, parent=25342159, text='You can track latency and whatnot through KPIS, there’s no need to shoot yourself in the foot over it.<p>If it really sucks you’ll know; there’s that famous experiment where 100ms in latency at 2006 Amazon was $100M in sales.')

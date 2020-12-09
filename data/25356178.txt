@@ -1,1 +1,1 @@
-Item(by='Xorlev', descendants=None, kids=None, score=None, time=1607498476, title=None, item_type='comment', url=None, parent=25356030, text='$0.90 in 1999 is $1.41 today. Near me, gas is ~$2 (give or take). So, more expensive (~40-50%), but not double.')
+Item(by='Xorlev', descendants=None, kids=[25356836, 25356919], score=None, time=1607498476, title=None, item_type='comment', url=None, parent=25356030, text='$0.90 in 1999 is $1.41 today. Near me, gas is ~$2 (give or take). So, more expensive (~40-50%), but not double.')

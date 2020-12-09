@@ -1,0 +1,1 @@
+Item(by='aesyondu', descendants=None, kids=[25357345, 25357556, 25357284], score=None, time=1607508653, title=None, item_type='comment', url=None, parent=25356983, text='Pardon my ignorance, but couldn&#x27;t we just cryptographically sign bash scripts as well?<p>Perhaps modify the installation script, something like `curl | some-verification-tool | bash`')

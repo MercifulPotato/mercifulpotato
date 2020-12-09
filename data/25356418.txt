@@ -1,0 +1,1 @@
+Item(by='kseistrup', descendants=None, kids=None, score=None, time=1607501222, title=None, item_type='comment', url=None, parent=25347140, text='Is it possible to start passerine scripts with<p><pre><code>    #!&#x2F;usr&#x2F;bin&#x2F;env passerine\n</code></pre>\nand use it as any other scripting language?')

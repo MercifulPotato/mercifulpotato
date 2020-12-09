@@ -1,1 +1,1 @@
-Item(by='uponcoffee', descendants=None, kids=None, score=None, time=1607459597, title=None, item_type='comment', url=None, parent=25350172, text='The termtosvg repo linked by another commentor seems to have a pausable example in their examples gallery, so it appears to be doable.')
+Item(by='uponcoffee', descendants=None, kids=[25356589], score=None, time=1607459597, title=None, item_type='comment', url=None, parent=25350172, text='The termtosvg repo linked by another commentor seems to have a pausable example in their examples gallery, so it appears to be doable.')

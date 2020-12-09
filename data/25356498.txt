@@ -1,0 +1,1 @@
+Item(by='dijit', descendants=None, kids=None, score=None, time=1607502252, title=None, item_type='comment', url=None, parent=25356444, text='Docker &quot;works&quot; but has huge performance costs (disk IO) on CentOS7.')

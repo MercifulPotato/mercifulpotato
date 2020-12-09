@@ -1,1 +1,1 @@
-Item(by='SamWhited', descendants=0, kids=None, score=2, time=1607482086, title='Centos RIP', item_type='story', url='https://centos.rip/', parent=None, text=None)
+Item(by='SamWhited', descendants=1, kids=[25357580], score=4, time=1607482086, title='Centos RIP', item_type='story', url='https://centos.rip/', parent=None, text=None)

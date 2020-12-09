@@ -1,0 +1,1 @@
+Item(by='tzs', descendants=None, kids=None, score=None, time=1607520672, title=None, item_type='comment', url=None, parent=25356917, text='The biggest issue is not bash script vs. binary. It is that “curl | bash” does not save the script locally.<p>If something goes wrong, you can’t examine the script afterwards to help figure out what happened and how to recover.')

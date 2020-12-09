@@ -1,0 +1,1 @@
+Item(by='oever', descendants=None, kids=None, score=None, time=1607501359, title=None, item_type='comment', url=None, parent=25354408, text='&gt; There is a pure functional programming language waiting to be resurrected from the ashes of XSLT<p>That&#x27;s XQuery. Version 3.1 handles JSON elegantly.<p>At NLnet, we use it as a static site generator.')

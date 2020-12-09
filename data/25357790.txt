@@ -1,0 +1,1 @@
+Item(by='myfonj', descendants=None, kids=None, score=None, time=1607516329, title=None, item_type='comment', url=None, parent=25356293, text='Or server sends explicit charset in HTTP header (`Content-Type: text&#x2F;html; charset=UTF-8`), so meta element  override is not needed at all. Naturally, there is no such header present in file:&#x2F;&#x2F;&#x2F;.')

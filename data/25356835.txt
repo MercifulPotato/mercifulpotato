@@ -1,0 +1,1 @@
+Item(by='cassianoleal', descendants=None, kids=None, score=None, time=1607506262, title=None, item_type='comment', url=None, parent=25348589, text='That only does the part where the PiHole uses DoH. It doesn&#x27;t stop individual devices from using it, and it doesn&#x27;t force them to go via the PiHole.')

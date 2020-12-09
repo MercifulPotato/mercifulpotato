@@ -1,0 +1,1 @@
+Item(by='simonmales', descendants=None, kids=None, score=None, time=1607506418, title=None, item_type='comment', url=None, parent=25356824, text='It seems to be missing a manifest.json.<p>When I add it to my home screen I don&#x27;t get a nice icon.<p>Also HTTPS needs to be supported to take advantage of the PWA functionality.')

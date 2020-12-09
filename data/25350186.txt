@@ -1,1 +1,1 @@
-Item(by='qz2', descendants=None, kids=None, score=None, time=1607455958, title=None, item_type='comment', url=None, parent=25345310, text='I feel for you. At least it’s good to know that IE11 is likely to die before we do at the moment :)')
+Item(by='qz2', descendants=None, kids=[25357681], score=None, time=1607455958, title=None, item_type='comment', url=None, parent=25345310, text='I feel for you. At least it’s good to know that IE11 is likely to die before we do at the moment :)')

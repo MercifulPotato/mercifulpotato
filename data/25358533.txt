@@ -1,0 +1,1 @@
+Item(by='tpetry', descendants=None, kids=None, score=None, time=1607522694, title=None, item_type='comment', url=None, parent=25349009, text='Moving namespaces from enterprise to open source is a big step forward, kudos!\nIn the past many discussions ended with just choosing kubernetes because isolating containers was not possible within nomad.')

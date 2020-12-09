@@ -1,0 +1,1 @@
+Item(by='alexellisuk', descendants=0, kids=None, score=1, time=1607516499, title='Kubernetes CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs', item_type='story', url='https://github.com/kubernetes/kubernetes/issues/97076', parent=None, text=None)
