@@ -1,0 +1,1 @@
+Item(by='formerly_proven', descendants=None, kids=[25352221], score=None, time=1607460431, title=None, item_type='comment', url=None, parent=25348026, text='Sciter could be considered a competitor to Qt Quick, but probably not even to Widgets or any of the other (many) modules that are part of the core (not to mention add-ons), considering that Sciter is just an UI library.')

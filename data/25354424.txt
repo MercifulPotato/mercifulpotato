@@ -1,0 +1,1 @@
+Item(by='karmakaze', descendants=None, kids=None, score=None, time=1607478862, title=None, item_type='comment', url=None, parent=25347808, text='Thanks for the clarification. So client encrypts for the resolver and sends an opaque payload to the proxy.')

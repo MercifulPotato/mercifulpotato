@@ -1,1 +1,1 @@
-Item(by='dahart', descendants=1, kids=[25341740], score=38, time=1607393042, title='A Logarithm Too Clever by Half (2004)', item_type='story', url='https://people.eecs.berkeley.edu/~wkahan/LOG10HAF.TXT', parent=None, text=None)
+Item(by='dahart', descendants=2, kids=[25354712, 25341740], score=58, time=1607393042, title='A Logarithm Too Clever by Half (2004)', item_type='story', url='https://people.eecs.berkeley.edu/~wkahan/LOG10HAF.TXT', parent=None, text=None)

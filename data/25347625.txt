@@ -1,1 +1,1 @@
-Item(by='spease', descendants=None, kids=None, score=None, time=1607445583, title=None, item_type='comment', url=None, parent=25346576, text='I tried to use wxWidgets awhile back and gave up. It was a mess. Macros everywhere.')
+Item(by='spease', descendants=None, kids=[25352629, 25352023], score=None, time=1607445583, title=None, item_type='comment', url=None, parent=25346576, text='I tried to use wxWidgets awhile back and gave up. It was a mess. Macros everywhere.')

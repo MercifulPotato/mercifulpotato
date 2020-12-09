@@ -1,0 +1,1 @@
+Item(by='IshKebab', descendants=None, kids=[25353453], score=None, time=1607468099, title=None, item_type='comment', url=None, parent=25345610, text='I would recommend waiting for Qt 6.1 before considering using QtQuick&#x2F;QML. They are apparently fixing a load of the issues with QML in that release. As it stands QML is kind of a mess.')

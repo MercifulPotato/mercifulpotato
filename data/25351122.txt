@@ -1,0 +1,1 @@
+Item(by='wronglebowski', descendants=None, kids=[25353798, 25353136], score=None, time=1607460361, title=None, item_type='comment', url=None, parent=25349989, text='Out of curiosity why did you decide to deploy your application as a VM image? Is there a reason you didn&#x27;t go with a Helm chart or other container native deployment?')

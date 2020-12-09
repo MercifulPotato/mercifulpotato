@@ -1,0 +1,1 @@
+Item(by='shay_ker', descendants=None, kids=[25353132, 25353306], score=None, time=1607469365, title=None, item_type='comment', url=None, parent=25350474, text='That&#x27;s very helpful, thanks! I think I still have to wrap my head around _why_ being stateful allows TD to respond faster, but maybe I just gotta dig deeper and see for myself.')

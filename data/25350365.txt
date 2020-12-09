@@ -1,1 +1,1 @@
-Item(by='binaryblitz', descendants=None, kids=None, score=None, time=1607456802, title=None, item_type='comment', url=None, parent=25350190, text='Honest question:<p>Can I be listening to music on my MBP and answer a call with them on my iPhone seamlessly?')
+Item(by='binaryblitz', descendants=None, kids=[25350651, 25351544, 25352761], score=None, time=1607456802, title=None, item_type='comment', url=None, parent=25350190, text='Honest question:<p>Can I be listening to music on my MBP and answer a call with them on my iPhone seamlessly?')

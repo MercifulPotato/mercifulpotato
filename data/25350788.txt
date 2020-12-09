@@ -1,1 +1,1 @@
-Item(by='e12e', descendants=None, kids=None, score=None, time=1607458784, title=None, item_type='comment', url=None, parent=25349795, text='What&#x27;s underwhelming about?:<p><pre><code>  sudo apt install unattended-upgrades</code></pre>')
+Item(by='e12e', descendants=None, kids=[25352181], score=None, time=1607458784, title=None, item_type='comment', url=None, parent=25349795, text='What&#x27;s underwhelming about?:<p><pre><code>  sudo apt install unattended-upgrades</code></pre>')

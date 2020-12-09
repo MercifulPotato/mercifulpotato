@@ -1,1 +1,1 @@
-Item(by='klyrs', descendants=None, kids=None, score=None, time=1607308370, title=None, item_type='comment', url=None, parent=25327866, text='Does this apply to Google&#x27;s supremacy announcement and IBM&#x27;s classical challenge to that?')
+Item(by='klyrs', descendants=None, kids=[25353715], score=None, time=1607308370, title=None, item_type='comment', url=None, parent=25327866, text='Does this apply to Google&#x27;s supremacy announcement and IBM&#x27;s classical challenge to that?')

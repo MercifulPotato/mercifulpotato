@@ -1,0 +1,1 @@
+Item(by='eyelidlessness', descendants=None, kids=None, score=None, time=1607471206, title=None, item_type='comment', url=None, parent=25351839, text='Where they can execute JS, they can do so in the same security context as the containing document. So, yeah, they can be used in situ for any privacy or security intrusion that a script tag can.')

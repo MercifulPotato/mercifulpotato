@@ -1,1 +1,1 @@
-Item(by='shostack', descendants=None, kids=None, score=None, time=1607404117, title=None, item_type='comment', url=None, parent=25341731, text='Why do you not agree with him?')
+Item(by='shostack', descendants=None, kids=[25351924], score=None, time=1607404117, title=None, item_type='comment', url=None, parent=25341731, text='Why do you not agree with him?')

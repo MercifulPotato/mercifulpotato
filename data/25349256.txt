@@ -1,1 +1,1 @@
-Item(by='stockerta', descendants=None, kids=None, score=None, time=1607451524, title=None, item_type='comment', url=None, parent=25348822, text='In what world? In many parts of the world, the only machine people can afford have 4-8Gb RAM, And those machines cost a month pay.')
+Item(by='stockerta', descendants=None, kids=[25351574], score=None, time=1607451524, title=None, item_type='comment', url=None, parent=25348822, text='In what world? In many parts of the world, the only machine people can afford have 4-8Gb RAM, And those machines cost a month pay.')

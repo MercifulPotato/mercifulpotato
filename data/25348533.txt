@@ -1,1 +1,1 @@
-Item(by='hndude', descendants=None, kids=None, score=None, time=1607448799, title=None, item_type='comment', url=None, parent=25348051, text='Why not ship-pocalypse?')
+Item(by='hndude', descendants=None, kids=[25352260], score=None, time=1607448799, title=None, item_type='comment', url=None, parent=25348051, text='Why not ship-pocalypse?')

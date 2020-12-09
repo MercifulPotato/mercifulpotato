@@ -1,1 +1,1 @@
-Item(by='0xbadcafebee', descendants=None, kids=None, score=None, time=1607450455, title=None, item_type='comment', url=None, parent=25346118, text='This is less of an SRE school and more of a Systems Admin school. The Systems Design section is neat but quite bare.')
+Item(by='0xbadcafebee', descendants=None, kids=[25352648], score=None, time=1607450455, title=None, item_type='comment', url=None, parent=25346118, text='This is less of an SRE school and more of a Systems Admin school. The Systems Design section is neat but quite bare.')

@@ -1,0 +1,1 @@
+Item(by='arderary', descendants=None, kids=None, score=None, time=1607471385, title=None, item_type='comment', url=None, parent=25352914, text='In a lot of cases it&#x27;s worth considering whether orchestration is necessary at all — pure docker can take you quite far, with just a couple shell scripts called from the last stage of your CI (or manually)')

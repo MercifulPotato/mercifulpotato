@@ -1,1 +1,1 @@
-Item(by='tim_sw', descendants=3, kids=[25349733, 25349175, 25347947, 25337577], score=29, time=1607375040, title='Teach Debugging (2014)', item_type='story', url='https://danluu.com/teach-debugging/', parent=None, text=None)
+Item(by='tim_sw', descendants=31, kids=[25354683, 25351379, 25349175, 25349733, 25347947, 25337577, 25351465, 25351200, 25350080, 25349766, 25349823, 25350236], score=57, time=1607375040, title='Teach Debugging (2014)', item_type='story', url='https://danluu.com/teach-debugging/', parent=None, text=None)

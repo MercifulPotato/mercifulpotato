@@ -1,1 +1,1 @@
-Item(by='int_10h', descendants=6, kids=[25348100, 25340573, 25331961], score=18, time=1607347233, title="'Machine-gun with AI' used to kill Iran scientist", item_type='story', url='https://www.bbc.com/news/world-middle-east-55214359', parent=None, text=None)
+Item(by='int_10h', descendants=7, kids=[25340573, 25348100, 25331961], score=22, time=1607347233, title="'Machine-gun with AI' used to kill Iran scientist", item_type='story', url='https://www.bbc.com/news/world-middle-east-55214359', parent=None, text=None)

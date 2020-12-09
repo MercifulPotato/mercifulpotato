@@ -1,0 +1,1 @@
+Item(by='int_19h', descendants=None, kids=None, score=None, time=1607469689, title=None, item_type='comment', url=None, parent=25341403, text='Most of those meanings don&#x27;t make sense for the type itself to define, because it&#x27;s the context where the type is <i>used</i> that determines whether something can be missing, or there can be an error etc. ADTs solve that.')

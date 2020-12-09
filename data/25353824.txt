@@ -1,0 +1,1 @@
+Item(by='_red', descendants=None, kids=None, score=None, time=1607475012, title=None, item_type='comment', url=None, parent=25353450, text='The entire OS depends on having different users. Services like apache, chrony, avahi, dbus, etc don&#x27;t run as root because of the security implications.')

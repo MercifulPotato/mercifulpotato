@@ -1,0 +1,1 @@
+Item(by='p_l', descendants=None, kids=None, score=None, time=1607482060, title=None, item_type='comment', url=None, parent=25350052, text='Yes, it would have value in a game engine once you hit the point of having bigger memory management needs. Has a bunch of customised allocators for different kind of data that you can use to enable good performance patterns in your code.')

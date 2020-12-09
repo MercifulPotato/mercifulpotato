@@ -1,0 +1,1 @@
+Item(by='teilo', descendants=None, kids=None, score=None, time=1607465353, title=None, item_type='comment', url=None, parent=25351277, text='These are not frozen releases. They are parallel streams that each get their own CVE updates from the corresponding RHEL release.')

@@ -1,0 +1,1 @@
+Item(by='gpnt', descendants=None, kids=[25354653], score=None, time=1607470017, title=None, item_type='comment', url=None, parent=25352940, text='yes, the initiator is a valid HTML with a `&lt;script&gt;` pointing to the script that receives the JSON and render the page. The interesting part is you can `fetch` the page directly and it will respond a valid JSON.')

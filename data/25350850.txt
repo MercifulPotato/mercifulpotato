@@ -1,0 +1,1 @@
+Item(by='hedwall', descendants=None, kids=None, score=None, time=1607459123, title=None, item_type='comment', url=None, parent=25350560, text='There&#x27;s no requirement on Consul for deploying Nomad, and storage support is in Beta right now.')

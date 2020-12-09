@@ -1,0 +1,1 @@
+Item(by='bluehex', descendants=None, kids=None, score=None, time=1607481354, title=None, item_type='comment', url=None, parent=25353013, text='Once that script is kicked off it can get the current body of the page (the JSON) and replace it with html with:<p><pre><code>    JSON.parse(document.body.innerText);\n    document.body.innerText=&quot;&quot;\n    etc...</code></pre>')

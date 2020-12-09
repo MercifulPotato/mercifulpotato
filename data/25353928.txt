@@ -1,0 +1,1 @@
+Item(by='alan', descendants=None, kids=None, score=None, time=1607475523, title=None, item_type='comment', url=None, parent=25353070, text='I think the server would be able to encrypt with the user&#x27;s public key, that way they wouldn&#x27;t be able to read it.  They&#x27;d have to send the encrypted data to the client to be decrypted with the private key there')

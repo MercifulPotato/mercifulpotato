@@ -1,1 +1,1 @@
-Item(by='Megabeets', descendants=3, kids=[25348944, 25349493, 25349075], score=14, time=1607447758, title='Rizin – open-source Reverse Engineering framework forked from radare2', item_type='story', url='https://rizin.re/', parent=None, text=None)
+Item(by='Megabeets', descendants=8, kids=[25348944, 25350542, 25351761, 25349075, 25349493], score=28, time=1607447758, title='Rizin – open-source Reverse Engineering framework forked from radare2', item_type='story', url='https://rizin.re/', parent=None, text=None)

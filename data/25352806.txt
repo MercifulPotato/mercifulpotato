@@ -1,0 +1,1 @@
+Item(by='hkt', descendants=None, kids=None, score=None, time=1607468883, title=None, item_type='comment', url=None, parent=25347052, text='Well, adblock lists exist, DNS block lists exist, this is just something along similar lines that can be tested and aggregated and distributed. Not a perfect solution, but pi-hole as a router or similar could do it.')

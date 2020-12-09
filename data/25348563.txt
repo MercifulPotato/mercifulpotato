@@ -1,1 +1,1 @@
-Item(by='kayfox', descendants=None, kids=None, score=None, time=1607448914, title=None, item_type='comment', url=None, parent=25347902, text='The 737 MAX 8 has always been _legally_ the 737-8.   Most of the airlines calling it the 737-8 did so before the grounding.')
+Item(by='kayfox', descendants=None, kids=[25353191], score=None, time=1607448914, title=None, item_type='comment', url=None, parent=25347902, text='The 737 MAX 8 has always been _legally_ the 737-8.   Most of the airlines calling it the 737-8 did so before the grounding.')

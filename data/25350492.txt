@@ -1,1 +1,1 @@
-Item(by='oliwarner', descendants=None, kids=None, score=None, time=1607457392, title=None, item_type='comment', url=None, parent=25348324, text='Can&#x27;t you just use the old version? Only the new code is under this new license.')
+Item(by='oliwarner', descendants=None, kids=[25351453], score=None, time=1607457392, title=None, item_type='comment', url=None, parent=25348324, text='Can&#x27;t you just use the old version? Only the new code is under this new license.')

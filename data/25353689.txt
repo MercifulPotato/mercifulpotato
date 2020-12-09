@@ -1,0 +1,1 @@
+Item(by='ptx', descendants=None, kids=None, score=None, time=1607473943, title=None, item_type='comment', url=None, parent=25346189, text='A lot of those commits are related to features some people might not care about. For example, I imagine a lot of work has been done on the JavaScript compiler for QML - but if only use QWidgets, that&#x27;s irrelevant to me.')

@@ -1,1 +1,1 @@
-Item(by='sundid', descendants=0, kids=None, score=1, time=1607455926, title='Ask HN: Books You Read in 2020?', item_type='story', url=None, parent=None, text=None)
+Item(by='sundid', descendants=2, kids=[25352952, 25350439], score=1, time=1607455926, title='Ask HN: Books You Read in 2020?', item_type='story', url=None, parent=None, text=None)

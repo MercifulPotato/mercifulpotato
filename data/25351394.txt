@@ -1,0 +1,1 @@
+Item(by='ngrilly', descendants=None, kids=None, score=None, time=1607461836, title=None, item_type='comment', url=None, parent=25350359, text='I’d be happy to know more about the single node use case. I considered Nomad in the past for this, but it seemed optimized for a cluster, and I ended up using Docker Swarm instead.')

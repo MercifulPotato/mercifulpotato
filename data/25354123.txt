@@ -1,0 +1,1 @@
+Item(by='gwbas1c', descendants=None, kids=[25354178], score=None, time=1607476795, title=None, item_type='comment', url=None, parent=25352385, text='I&#x27;m curious about caching potential with this approach.<p>Meaning: If the javascript (and other content) loaded via #render is highly cacheable, can this lead to pages that display as soon as the JSON is loaded?')

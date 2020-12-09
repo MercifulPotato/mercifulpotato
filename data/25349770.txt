@@ -1,1 +1,1 @@
-Item(by='ssambros', descendants=None, kids=None, score=None, time=1607453718, title=None, item_type='comment', url=None, parent=25349704, text='I had an issue with R constantly not connecting. Ended up replacing under the warranty and now have zero issues.')
+Item(by='ssambros', descendants=None, kids=[25351186], score=None, time=1607453718, title=None, item_type='comment', url=None, parent=25349704, text='I had an issue with R constantly not connecting. Ended up replacing under the warranty and now have zero issues.')

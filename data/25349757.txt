@@ -1,1 +1,1 @@
-Item(by='noncoml', descendants=None, kids=None, score=None, time=1607453680, title=None, item_type='comment', url=None, parent=25342671, text='I think you are confusing the IP header with TCP header.<p>Routers don’t touch the TCP header at all')
+Item(by='noncoml', descendants=None, kids=[25354674], score=None, time=1607453680, title=None, item_type='comment', url=None, parent=25342671, text='I think you are confusing the IP header with TCP header.<p>Routers don’t touch the TCP header at all')

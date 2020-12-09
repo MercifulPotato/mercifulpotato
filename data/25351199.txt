@@ -1,0 +1,1 @@
+Item(by='skybrian', descendants=None, kids=None, score=None, time=1607460777, title=None, item_type='comment', url=None, parent=25350068, text='It seems like Kafka could be used to record requests and responses (upstream of the database) and approved changes (downstream of the database), but isn&#x27;t good for the approval process itself?')

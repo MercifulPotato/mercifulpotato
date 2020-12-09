@@ -1,1 +1,1 @@
-Item(by='z3t4', descendants=None, kids=None, score=None, time=1607420954, title=None, item_type='comment', url=None, parent=25343076, text='Adding optional type annotations to JS would be interesting. It might help with VM optimization.')
+Item(by='z3t4', descendants=None, kids=[25350587], score=None, time=1607420954, title=None, item_type='comment', url=None, parent=25343076, text='Adding optional type annotations to JS would be interesting. It might help with VM optimization.')

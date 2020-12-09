@@ -1,0 +1,1 @@
+Item(by='rualca', descendants=None, kids=None, score=None, time=1607472487, title=None, item_type='comment', url=None, parent=25352957, text='&gt; Even with CMake?<p>Why would Cmake eliminate the need for Qt&#x27;s moc? Cmake is a build system&#x2F;makefile generator. You don&#x27;t generate c++ from form files or Qt-annotated C++ files out of magic.')

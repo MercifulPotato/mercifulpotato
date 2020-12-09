@@ -1,0 +1,1 @@
+Item(by='contravariant', descendants=None, kids=[25353939], score=None, time=1607460194, title=None, item_type='comment', url=None, parent=25350572, text='Ironically the main advantage of Monads is that Option&lt;Option&lt;int&gt;&gt; has a natural transformation to Option&lt;int&gt;.')

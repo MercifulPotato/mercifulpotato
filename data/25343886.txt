@@ -1,1 +1,1 @@
-Item(by='mariusor', descendants=None, kids=None, score=None, time=1607425885, title=None, item_type='comment', url=None, parent=25340229, text='Sailfish OS, MeeGo and Maemo have been proving it since 2009. I&#x27;ve been running linux on my phone since 2012.')
+Item(by='mariusor', descendants=None, kids=[25353636], score=None, time=1607425885, title=None, item_type='comment', url=None, parent=25340229, text='Sailfish OS, MeeGo and Maemo have been proving it since 2009. I&#x27;ve been running linux on my phone since 2012.')

@@ -1,1 +1,1 @@
-Item(by='manderley', descendants=None, kids=None, score=None, time=1607437552, title=None, item_type='comment', url=None, parent=25344862, text='No other product before has had a twistable button!')
+Item(by='manderley', descendants=None, kids=[25352230], score=None, time=1607437552, title=None, item_type='comment', url=None, parent=25344862, text='No other product before has had a twistable button!')

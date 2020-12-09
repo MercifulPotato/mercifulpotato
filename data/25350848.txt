@@ -1,0 +1,1 @@
+Item(by='j-james', descendants=None, kids=[25351151], score=None, time=1607459109, title=None, item_type='comment', url=None, parent=25350449, text='I would suppose the above user is referring, rather snidely, to GitHub not loading commit information without JavaScript. GitHub&#x27;s JavaScript use is really quite minimal, and certainly nothing like GitLab.')
