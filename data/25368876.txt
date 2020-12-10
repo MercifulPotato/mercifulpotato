@@ -1,1 +1,1 @@
-Item(by='Rebelgecko', descendants=None, kids=None, score=None, time=1607567376, title=None, item_type='comment', url=None, parent=25368519, text='Presumably Stadia is using a native Linux build')
+Item(by='Rebelgecko', descendants=None, kids=[25369194], score=None, time=1607567376, title=None, item_type='comment', url=None, parent=25368519, text='Presumably Stadia is using a native Linux build')

@@ -1,0 +1,1 @@
+Item(by='olliej', descendants=None, kids=None, score=None, time=1607572163, title=None, item_type='comment', url=None, parent=25358265, text='Someone has to run the DNS servers the browsers talk to - DNS data is big and can change rapidly, especially in the cloudflare and AWS type of cases')

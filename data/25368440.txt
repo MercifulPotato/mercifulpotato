@@ -1,1 +1,1 @@
-Item(by='nikisweeting', descendants=None, kids=None, score=None, time=1607564311, title=None, item_type='comment', url=None, parent=25368350, text='Vendoring is a last resort, that sounds like going back to the stone ages of package management. Why would I want that?')
+Item(by='nikisweeting', descendants=None, kids=[25370056], score=None, time=1607564311, title=None, item_type='comment', url=None, parent=25368350, text='Vendoring is a last resort, that sounds like going back to the stone ages of package management. Why would I want that?')

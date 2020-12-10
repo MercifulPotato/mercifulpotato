@@ -1,1 +1,1 @@
-Item(by='Forbo', descendants=None, kids=None, score=None, time=1607553979, title=None, item_type='comment', url=None, parent=25364645, text='Android has a 16 character limit for your password. Or at least it did as of Android 10, not sure if that&#x27;s changed.')
+Item(by='Forbo', descendants=None, kids=[25369661], score=None, time=1607553979, title=None, item_type='comment', url=None, parent=25364645, text='Android has a 16 character limit for your password. Or at least it did as of Android 10, not sure if that&#x27;s changed.')

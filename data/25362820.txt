@@ -1,1 +1,1 @@
-Item(by='ubercow13', descendants=None, kids=None, score=None, time=1607540698, title=None, item_type='comment', url=None, parent=25360958, text='They are extremely expensive.')
+Item(by='ubercow13', descendants=None, kids=[25369904], score=None, time=1607540698, title=None, item_type='comment', url=None, parent=25360958, text='They are extremely expensive.')

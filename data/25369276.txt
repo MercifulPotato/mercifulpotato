@@ -1,0 +1,1 @@
+Item(by='olliej', descendants=None, kids=None, score=None, time=1607570763, title=None, item_type='comment', url=None, parent=25367393, text='This seems to be really short training - I though modern NN took hours to train (for prod scale), even with hardware acceleration?')

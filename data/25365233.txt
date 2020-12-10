@@ -1,1 +1,1 @@
-Item(by='iso947', descendants=None, kids=None, score=None, time=1607548875, title=None, item_type='comment', url=None, parent=25354887, text='IRC easilly slotted and controlled.')
+Item(by='iso947', descendants=None, kids=[25369121], score=None, time=1607548875, title=None, item_type='comment', url=None, parent=25354887, text='IRC easilly slotted and controlled.')

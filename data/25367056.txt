@@ -1,1 +1,1 @@
-Item(by='taneq', descendants=None, kids=None, score=None, time=1607556765, title=None, item_type='comment', url=None, parent=25365616, text='Next challenge: Write a regexp to check whether the post was written by an African-American or not, so you know whether to censor the n-word.')
+Item(by='taneq', descendants=None, kids=[25369554], score=None, time=1607556765, title=None, item_type='comment', url=None, parent=25365616, text='Next challenge: Write a regexp to check whether the post was written by an African-American or not, so you know whether to censor the n-word.')

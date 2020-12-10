@@ -1,1 +1,1 @@
-Item(by='adamcstephens', descendants=None, kids=None, score=None, time=1607555650, title=None, item_type='comment', url=None, parent=25366101, text='They realized they were wrong and there’s a growing antitrust movement in the US.')
+Item(by='adamcstephens', descendants=None, kids=[25369631], score=None, time=1607555650, title=None, item_type='comment', url=None, parent=25366101, text='They realized they were wrong and there’s a growing antitrust movement in the US.')

@@ -1,1 +1,1 @@
-Item(by='toxik', descendants=None, kids=None, score=None, time=1607540987, title=None, item_type='comment', url=None, parent=25352305, text='I&#x27;ve seen people take apart them on YouTube for silly mods before, should surely be possible? Maybe with a heatgun?')
+Item(by='toxik', descendants=None, kids=[25369132], score=None, time=1607540987, title=None, item_type='comment', url=None, parent=25352305, text='I&#x27;ve seen people take apart them on YouTube for silly mods before, should surely be possible? Maybe with a heatgun?')

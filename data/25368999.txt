@@ -1,1 +1,1 @@
-Item(by='loosescrews', descendants=None, kids=None, score=None, time=1607568211, title=None, item_type='comment', url=None, parent=25367185, text='Using C and C++ without libc excludes the use of nearly all common libraries.')
+Item(by='loosescrews', descendants=None, kids=[25370881, 25370721], score=None, time=1607568211, title=None, item_type='comment', url=None, parent=25367185, text='Using C and C++ without libc excludes the use of nearly all common libraries.')

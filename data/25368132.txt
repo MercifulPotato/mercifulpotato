@@ -1,1 +1,1 @@
-Item(by='wyldfire', descendants=None, kids=None, score=None, time=1607562430, title=None, item_type='comment', url=None, parent=25367957, text='My, how the times have changed.')
+Item(by='wyldfire', descendants=None, kids=[25370215], score=None, time=1607562430, title=None, item_type='comment', url=None, parent=25367957, text='My, how the times have changed.')

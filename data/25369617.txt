@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=None, score=None, time=1607573618, title=None, item_type='comment', url=None, parent=25369240, text='It&#x27;s web security 101 for handling user uploads. (although in the case of SVG most sites solve it by just not accepting &quot;weird&quot; formats like SVG)')

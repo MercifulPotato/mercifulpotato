@@ -1,1 +1,1 @@
-Item(by='allarm', descendants=None, kids=None, score=None, time=1607561671, title=None, item_type='comment', url=None, parent=25367956, text='Oh, didn’t know that, thanks. But still, it’s turned off by default.<p>Is there a way to improve readability for the downvoted comments?')
+Item(by='allarm', descendants=None, kids=[25368910], score=None, time=1607561671, title=None, item_type='comment', url=None, parent=25367956, text='Oh, didn’t know that, thanks. But still, it’s turned off by default.<p>Is there a way to improve readability for the downvoted comments?')

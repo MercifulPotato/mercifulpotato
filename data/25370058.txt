@@ -1,0 +1,1 @@
+Item(by='netheril96', descendants=None, kids=[25370365], score=None, time=1607577561, title=None, item_type='comment', url=None, parent=25369658, text='I guess you can run your local DNS server and point the browser to that. The local DNS server can do all the filtering you want, and forward the filtered out requests to the outside DNS server.')

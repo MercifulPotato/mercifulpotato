@@ -1,1 +1,1 @@
-Item(by='majani', descendants=None, kids=None, score=None, time=1607550434, title=None, item_type='comment', url=None, parent=25365151, text='To be fair, that Whatsapp deal still looks insane. Still no meaningful revenue coming from that end 8 years later')
+Item(by='majani', descendants=None, kids=[25369349], score=None, time=1607550434, title=None, item_type='comment', url=None, parent=25365151, text='To be fair, that Whatsapp deal still looks insane. Still no meaningful revenue coming from that end 8 years later')

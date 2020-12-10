@@ -1,0 +1,1 @@
+Item(by='amluto', descendants=None, kids=None, score=None, time=1607575161, title=None, item_type='comment', url=None, parent=25365402, text='You have a UI bug: dismissing the modal recipe popup isn’t entirely reliable, and the site can get stuck in a state that doesn’t allow user interaction. This even survives the back button.')

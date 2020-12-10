@@ -1,0 +1,1 @@
+Item(by='PaulBGD_', descendants=None, kids=[25370948], score=None, time=1607576309, title=None, item_type='comment', url=None, parent=25369888, text='This would be more comparable to packaging a Java program into an executable, which would have to also contain the JIT. I don&#x27;t think it&#x27;s fair to compare a JIT&#x27;d language to a AOT&#x27;d language.')

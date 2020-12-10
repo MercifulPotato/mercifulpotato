@@ -1,1 +1,1 @@
-Item(by='hhs', descendants=0, kids=None, score=1, time=1607565360, title='Reexamining the history of our founder', item_type='story', url='https://president.jhu.edu/meet-president-daniels/speeches-articles-and-media/reexamining-the-history-of-our-founder/', parent=None, text=None)
+Item(by='hhs', descendants=1, kids=[25370090], score=1, time=1607565360, title='Reexamining the history of our founder', item_type='story', url='https://president.jhu.edu/meet-president-daniels/speeches-articles-and-media/reexamining-the-history-of-our-founder/', parent=None, text=None)

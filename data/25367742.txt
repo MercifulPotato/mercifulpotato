@@ -1,1 +1,1 @@
-Item(by='foldingmoney', descendants=None, kids=None, score=None, time=1607560141, title=None, item_type='comment', url=None, parent=25364338, text='Having more money can also increase the set of (good) choices available to you.')
+Item(by='foldingmoney', descendants=None, kids=[25369659], score=None, time=1607560141, title=None, item_type='comment', url=None, parent=25364338, text='Having more money can also increase the set of (good) choices available to you.')

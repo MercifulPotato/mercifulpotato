@@ -1,0 +1,1 @@
+Item(by='fareesh', descendants=None, kids=None, score=None, time=1607585831, title=None, item_type='comment', url=None, parent=25370213, text='Guessing here - is there any value from a team &#x2F; engineering point of view to having shared code for custom classes &#x2F; data structures between client and server? Here I assume client to be mean browser')
