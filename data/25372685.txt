@@ -1,0 +1,1 @@
+Item(by='riggsdk', descendants=None, kids=None, score=None, time=1607601191, title=None, item_type='comment', url=None, parent=25370383, text='It is my understanding that the M1 chip has unified CPU&#x2F;GPU memory which means that Metal as the underlying framework might be clever enough to not copy the data at all.\nNot sure it applies to his use-case though.')

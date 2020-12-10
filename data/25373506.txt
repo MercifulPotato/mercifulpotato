@@ -1,0 +1,1 @@
+Item(by='anthk', descendants=None, kids=None, score=None, time=1607607300, title=None, item_type='comment', url=None, parent=25372104, text='HoMM3 has an open source port, and NWN not because of LibSDL, which still works, but maybe with GL functions, something solveable with an env var. If it&#x27;s OSS related, wrappers exist.')

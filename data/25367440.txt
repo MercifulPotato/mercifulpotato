@@ -1,1 +1,1 @@
-Item(by='KptMarchewa', descendants=None, kids=None, score=None, time=1607558651, title=None, item_type='comment', url=None, parent=25360109, text='Managed kube costs $0.10 per cluster per hour for GKE, and the first one is free. 72$ monthly is nothing.')
+Item(by='KptMarchewa', descendants=None, kids=[25371801], score=None, time=1607558651, title=None, item_type='comment', url=None, parent=25360109, text='Managed kube costs $0.10 per cluster per hour for GKE, and the first one is free. 72$ monthly is nothing.')

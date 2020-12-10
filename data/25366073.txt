@@ -1,1 +1,1 @@
-Item(by='mmhsieh', descendants=0, kids=None, score=3, time=1607552393, title='Pantone picks two Colors of the Year', item_type='story', url='https://www.nytimes.com/2020/12/09/style/pantone-color-2021-ultimate-gray-illuminating.html', parent=None, text=None)
+Item(by='mmhsieh', descendants=1, kids=[25373540], score=4, time=1607552393, title='Pantone picks two Colors of the Year', item_type='story', url='https://www.nytimes.com/2020/12/09/style/pantone-color-2021-ultimate-gray-illuminating.html', parent=None, text=None)

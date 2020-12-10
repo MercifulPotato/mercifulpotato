@@ -1,1 +1,1 @@
-Item(by='babesh', descendants=None, kids=None, score=None, time=1607584944, title=None, item_type='comment', url=None, parent=25370733, text='It’s no different from people standing in the middle of the sidewalk or people who stand right behind you in line.')
+Item(by='babesh', descendants=None, kids=[25371472, 25371794], score=None, time=1607584944, title=None, item_type='comment', url=None, parent=25370733, text='It’s no different from people standing in the middle of the sidewalk or people who stand right behind you in line.')

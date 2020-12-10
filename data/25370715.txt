@@ -1,1 +1,1 @@
-Item(by='anovikov', descendants=None, kids=None, score=None, time=1607583798, title=None, item_type='comment', url=None, parent=25367098, text='Except he didn&#x27;t restart the race itself: there are no opponents.')
+Item(by='anovikov', descendants=None, kids=[25371232], score=None, time=1607583798, title=None, item_type='comment', url=None, parent=25367098, text='Except he didn&#x27;t restart the race itself: there are no opponents.')

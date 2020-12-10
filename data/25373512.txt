@@ -1,0 +1,1 @@
+Item(by='walrus01', descendants=None, kids=None, score=None, time=1607607325, title=None, item_type='comment', url=None, parent=25372987, text='people interested in this should also take a look at rainloop and roundcube, two fully open source self-hostable webmail applications. Not exactly for the same purpose, but they both also implement access to IMAP-over-TLS stored mail.')

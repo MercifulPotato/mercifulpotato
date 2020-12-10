@@ -1,0 +1,1 @@
+Item(by='camsjams', descendants=None, kids=[25371226], score=None, time=1607587908, title=None, item_type='comment', url=None, parent=25371125, text='I was tired of building bespoke static HTML sites and having to decide if I wanted to use GatsbyJS or just hand code all of the HTML. I decided to build a tool to solve my problem!')

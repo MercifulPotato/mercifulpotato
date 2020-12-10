@@ -1,1 +1,1 @@
-Item(by='pjc50', descendants=None, kids=None, score=None, time=1607501880, title=None, item_type='comment', url=None, parent=25355127, text='Very little; the term to look for is &quot;curtailment&quot;, and it happens a few days a year.')
+Item(by='pjc50', descendants=None, kids=[25371845], score=None, time=1607501880, title=None, item_type='comment', url=None, parent=25355127, text='Very little; the term to look for is &quot;curtailment&quot;, and it happens a few days a year.')

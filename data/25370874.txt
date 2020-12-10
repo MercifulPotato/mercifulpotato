@@ -1,1 +1,1 @@
-Item(by='osdotsystem', descendants=None, kids=None, score=None, time=1607585310, title=None, item_type='comment', url=None, parent=25370429, text='Awesome read, really cool feature for win')
+Item(by='osdotsystem', descendants=None, kids=[25371102], score=None, time=1607585310, title=None, item_type='comment', url=None, parent=25370429, text='Awesome read, really cool feature for win')

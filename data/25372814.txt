@@ -1,0 +1,1 @@
+Item(by='wrkronmiller', descendants=None, kids=None, score=None, time=1607602231, title=None, item_type='comment', url=None, parent=25372794, text='That implies you are going to be running prod in the cloud. Unless you&#x27;re developing against purely synthetic data, the data transfer costs are potentially astronomical.')

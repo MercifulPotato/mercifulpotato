@@ -1,1 +1,1 @@
-Item(by='mr_toad', descendants=None, kids=None, score=None, time=1607570642, title=None, item_type='comment', url=None, parent=25368168, text='&quot;Never argue with an idiot. They will drag you down to their level and beat you with experience.&quot; ― Mark Twain')
+Item(by='mr_toad', descendants=None, kids=[25371066], score=None, time=1607570642, title=None, item_type='comment', url=None, parent=25368168, text='&quot;Never argue with an idiot. They will drag you down to their level and beat you with experience.&quot; ― Mark Twain')

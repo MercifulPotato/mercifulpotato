@@ -1,0 +1,1 @@
+Item(by='tarruda', descendants=None, kids=[25372495], score=None, time=1607596271, title=None, item_type='comment', url=None, parent=25372005, text='What this deno feature does is not AOT, but simply packaging the JS as an embedded resource in the executable. JS is still parsed and compiled at runtime.')

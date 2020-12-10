@@ -1,1 +1,1 @@
-Item(by='edent', descendants=1, kids=[25358113], score=2, time=1607517617, title='A (terrible?) way to do footnotes in HTML', item_type='story', url='https://shkspr.mobi/blog/2020/12/a-terrible-way-to-do-footnotes-in-html/', parent=None, text=None)
+Item(by='edent', descendants=2, kids=[25373186, 25358113], score=9, time=1607517617, title='A (terrible?) way to do footnotes in HTML', item_type='story', url='https://shkspr.mobi/blog/2020/12/a-terrible-way-to-do-footnotes-in-html/', parent=None, text=None)

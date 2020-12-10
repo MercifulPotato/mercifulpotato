@@ -1,0 +1,1 @@
+Item(by='rich_sasha', descendants=None, kids=[25372054], score=None, time=1607595177, title=None, item_type='comment', url=None, parent=25369929, text='50 users saying the lightbulb at their house is working, so it must be a configuration error. Suggest looking at the output of lgtconfig -v to debug.')

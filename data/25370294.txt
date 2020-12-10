@@ -1,1 +1,1 @@
-Item(by='missedthecue', descendants=None, kids=None, score=None, time=1607579703, title=None, item_type='comment', url=None, parent=25367457, text='Why does this &quot;terrify&quot; you')
+Item(by='missedthecue', descendants=None, kids=[25372758], score=None, time=1607579703, title=None, item_type='comment', url=None, parent=25367457, text='Why does this &quot;terrify&quot; you')

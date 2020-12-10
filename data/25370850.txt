@@ -1,1 +1,1 @@
-Item(by='Glawen', descendants=None, kids=None, score=None, time=1607585068, title=None, item_type='comment', url=None, parent=25366179, text='And I never understood why a company would do that')
+Item(by='Glawen', descendants=None, kids=[25371381], score=None, time=1607585068, title=None, item_type='comment', url=None, parent=25366179, text='And I never understood why a company would do that')

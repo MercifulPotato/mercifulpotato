@@ -1,1 +1,1 @@
-Item(by='bzb6', descendants=None, kids=None, score=None, time=1607547366, title=None, item_type='comment', url=None, parent=25364737, text='No thanks, I don’t want to spend all day receiving spam via WhatsApp like in the days of irc.')
+Item(by='bzb6', descendants=None, kids=[25373606], score=None, time=1607547366, title=None, item_type='comment', url=None, parent=25364737, text='No thanks, I don’t want to spend all day receiving spam via WhatsApp like in the days of irc.')

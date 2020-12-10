@@ -1,0 +1,1 @@
+Item(by='nine_k', descendants=None, kids=None, score=None, time=1607594631, title=None, item_type='comment', url=None, parent=25371875, text='Void runs equally well with glibc (e.g. on my desktop).<p>I wonder if switching between musl and glibc makes it change the uname output between Linux and GNU&#x2F;Linux :)')

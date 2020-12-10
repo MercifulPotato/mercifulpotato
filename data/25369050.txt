@@ -1,1 +1,1 @@
-Item(by='freen', descendants=None, kids=None, score=None, time=1607568697, title=None, item_type='comment', url=None, parent=25367581, text='It’s advertising Facebook isn’t getting paid for.<p>I’m surprised they don’t go after it as a violation of their terms of service.')
+Item(by='freen', descendants=None, kids=[25371943], score=None, time=1607568697, title=None, item_type='comment', url=None, parent=25367581, text='It’s advertising Facebook isn’t getting paid for.<p>I’m surprised they don’t go after it as a violation of their terms of service.')

@@ -1,1 +1,1 @@
-Item(by='ntsplnkv2', descendants=None, kids=None, score=None, time=1607554803, title=None, item_type='comment', url=None, parent=25359664, text='I don&#x27;t worry about it, nor do most of my peers.')
+Item(by='ntsplnkv2', descendants=None, kids=[25371718], score=None, time=1607554803, title=None, item_type='comment', url=None, parent=25359664, text='I don&#x27;t worry about it, nor do most of my peers.')
