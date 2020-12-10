@@ -1,1 +1,1 @@
-Item(by='nowherebeen', descendants=None, kids=None, score=None, time=1607544335, title=None, item_type='comment', url=None, parent=25363807, text='When people are sufficiently separated and it doesn’t affect them, people can make very poor decisions on the fate of others.')
+Item(by='nowherebeen', descendants=None, kids=[25368525], score=None, time=1607544335, title=None, item_type='comment', url=None, parent=25363807, text='When people are sufficiently separated and it doesn’t affect them, people can make very poor decisions on the fate of others.')

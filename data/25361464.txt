@@ -1,1 +1,1 @@
-Item(by='jeffbee', descendants=None, kids=None, score=None, time=1607536758, title=None, item_type='comment', url=None, parent=25360050, text='I just measured an uncached page load of facebook.com and it takes 3.5s which isn&#x27;t stellar.')
+Item(by='jeffbee', descendants=None, kids=[25364846], score=None, time=1607536758, title=None, item_type='comment', url=None, parent=25360050, text='I just measured an uncached page load of facebook.com and it takes 3.5s which isn&#x27;t stellar.')

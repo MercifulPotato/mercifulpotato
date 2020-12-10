@@ -1,1 +1,1 @@
-Item(by='abfan1127', descendants=None, kids=None, score=None, time=1607543299, title=None, item_type='comment', url=None, parent=25363394, text='Texas has a really high property tax.')
+Item(by='abfan1127', descendants=None, kids=[25365128], score=None, time=1607543299, title=None, item_type='comment', url=None, parent=25363394, text='Texas has a really high property tax.')

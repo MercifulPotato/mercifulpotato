@@ -1,0 +1,1 @@
+Item(by='pavelevst', descendants=None, kids=None, score=None, time=1607546083, title=None, item_type='comment', url=None, parent=25357409, text='Because more js and less html is always better. Also rendering html on server is very expensive for backend apps<p>Also if your company has many js and backend libraries, you need to use them, at least on one place')

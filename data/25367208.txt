@@ -1,0 +1,1 @@
+Item(by='lucacasonato', descendants=None, kids=None, score=None, time=1607557473, title=None, item_type='comment', url=None, parent=25367031, text='Currently binary size is a bit larger than the `deno` cli.<p>We are currently working on reducing size for these `deno compile` binaries though. From preliminary testing we think we can reduce size by around 60% - maybe even more.')

@@ -1,0 +1,1 @@
+Item(by='flowerlad', descendants=None, kids=[25367704], score=None, time=1607559087, title=None, item_type='comment', url=None, parent=25367214, text='OK, so what is Deno? How is it different from Node? Why did you make Deno given that Node exists?<p>Looks like Deno can run .ts files without first compiling to .js. What are the other benefits?')

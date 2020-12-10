@@ -1,0 +1,1 @@
+Item(by='nine_k', descendants=None, kids=None, score=None, time=1607560849, title=None, item_type='comment', url=None, parent=25363461, text='I suppose disabling the M3 manifest support in about:config (by default) would be enough, if they are forced to implement its support for any reason.<p>What do they have to lose if they don&#x27;t support M3, or support it partially?')

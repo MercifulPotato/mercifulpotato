@@ -1,0 +1,1 @@
+Item(by='stevetodd', descendants=None, kids=None, score=None, time=1607567470, title=None, item_type='comment', url=None, parent=25366914, text='&gt; It&#x27;s also easier than shipping a runtime like a JVM.<p>jlink has shipped since JDK 9 and can package all dependencies and the JRE into a single file. Hello world clocks in at about 22 MB.')

@@ -1,1 +1,1 @@
-Item(by='airza', descendants=3, kids=[25363653, 25363643, 25363669], score=19, time=1607543108, title='FTC Sues Facebook, Alleging Anticompetitive Behavior [pdf]', item_type='story', url='https://www.ftc.gov/system/files/documents/cases/1910134fbcomplaint.pdf', parent=None, text=None)
+Item(by='airza', descendants=1, kids=[25363746], score=25, time=1607543108, title='FTC Sues Facebook, Alleging Anticompetitive Behavior [pdf]', item_type='story', url='https://www.ftc.gov/system/files/documents/cases/1910134fbcomplaint.pdf', parent=None, text=None)

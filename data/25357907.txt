@@ -1,1 +1,1 @@
-Item(by='silon42', descendants=None, kids=None, score=None, time=1607517780, title=None, item_type='comment', url=None, parent=25357199, text='Not apis, protocols preferably.')
+Item(by='silon42', descendants=None, kids=[25366158], score=None, time=1607517780, title=None, item_type='comment', url=None, parent=25357199, text='Not apis, protocols preferably.')

@@ -1,1 +1,1 @@
-Item(by='PanosJee', descendants=None, kids=None, score=None, time=1607535837, title=None, item_type='comment', url=None, parent=25358584, text='I only get values in buckets of 100. Really inaccurate. Is it thr case with others?')
+Item(by='PanosJee', descendants=None, kids=[25365593], score=None, time=1607535837, title=None, item_type='comment', url=None, parent=25358584, text='I only get values in buckets of 100. Really inaccurate. Is it thr case with others?')

@@ -1,0 +1,1 @@
+Item(by='mrkurt', descendants=None, kids=None, score=None, time=1607556919, title=None, item_type='comment', url=None, parent=25367031, text='Seems like it&#x27;s big, our Go CLI clocks in about 30MB on Linux. Deno with hello world is like 32MB.<p>But I honestly don&#x27;t mind up until about 100MB.')

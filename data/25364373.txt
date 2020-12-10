@@ -1,1 +1,1 @@
-Item(by='CabSauce', descendants=None, kids=None, score=None, time=1607545848, title=None, item_type='comment', url=None, parent=25363849, text='Wrong?  No, just early.  Yahoo and AOL were really big and growing... until they weren&#x27;t.')
+Item(by='CabSauce', descendants=None, kids=[25366112], score=None, time=1607545848, title=None, item_type='comment', url=None, parent=25363849, text='Wrong?  No, just early.  Yahoo and AOL were really big and growing... until they weren&#x27;t.')

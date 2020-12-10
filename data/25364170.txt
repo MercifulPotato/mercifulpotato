@@ -1,1 +1,1 @@
-Item(by='txmachinery', descendants=None, kids=None, score=None, time=1607545209, title=None, item_type='comment', url=None, parent=25362693, text='Or the commentary is largely coming from those normally absent from HN.')
+Item(by='txmachinery', descendants=None, kids=[25366426], score=None, time=1607545209, title=None, item_type='comment', url=None, parent=25362693, text='Or the commentary is largely coming from those normally absent from HN.')

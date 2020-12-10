@@ -1,0 +1,1 @@
+Item(by='moksha256', descendants=None, kids=None, score=None, time=1607549714, title=None, item_type='comment', url=None, parent=25364048, text='Yeah I was scrambling for a few minutes there but finally uncovered some not-so-well-documented rate limits set by default in the Lemmy config. I suspect requests will die down pretty quickly after this submission peaks.')

@@ -1,0 +1,1 @@
+Item(by='raldi', descendants=None, kids=[25365756], score=None, time=1607547375, title=None, item_type='comment', url=None, parent=25360943, text='Set lookup is O(1), and with this data structure is synonymous with get and exists. Insert is O(1). Remove is irrelevant.')

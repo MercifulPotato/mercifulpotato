@@ -1,1 +1,1 @@
-Item(by='dejv', descendants=None, kids=None, score=None, time=1607544814, title=None, item_type='comment', url=None, parent=25361322, text='Antivirus software is quite strong in EU: Avast and AVG (acquired by Avast) come to mind.')
+Item(by='dejv', descendants=None, kids=[25367444], score=None, time=1607544814, title=None, item_type='comment', url=None, parent=25361322, text='Antivirus software is quite strong in EU: Avast and AVG (acquired by Avast) come to mind.')

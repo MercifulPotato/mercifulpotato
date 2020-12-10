@@ -1,0 +1,1 @@
+Item(by='mrkurt', descendants=None, kids=None, score=None, time=1607557067, title=None, item_type='comment', url=None, parent=25367042, text='Rust and Deno qualify as a &quot;single executable&quot; for what I need, but you&#x27;re basically correct. It&#x27;s not quite as dependency free as a Go binary.')

@@ -1,0 +1,1 @@
+Item(by='StavrosK', descendants=None, kids=None, score=None, time=1607562631, title=None, item_type='comment', url=None, parent=25366883, text='I wonder why, since AFAIK git can use pluggable remotes. You can&#x27;t easily get the sharing aspect, sure, but how hard is it to find&#x2F;build a git backend that encrypts everything with a GPG key on push?')

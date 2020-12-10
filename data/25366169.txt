@@ -1,0 +1,1 @@
+Item(by='The_rationalist', descendants=None, kids=None, score=None, time=1607552845, title=None, item_type='comment', url=None, parent=25359137, text='The reactivity detection mechanism of angular is not tree scoped like in Vue, it is global and therefore much more inefficient')

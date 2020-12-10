@@ -1,1 +1,1 @@
-Item(by='Rafuino', descendants=None, kids=None, score=None, time=1607539095, title=None, item_type='comment', url=None, parent=25359523, text='Battery backed flash sounds like a huge PitA to deal with though. Where do you even get that?')
+Item(by='Rafuino', descendants=None, kids=[25367501], score=None, time=1607539095, title=None, item_type='comment', url=None, parent=25359523, text='Battery backed flash sounds like a huge PitA to deal with though. Where do you even get that?')

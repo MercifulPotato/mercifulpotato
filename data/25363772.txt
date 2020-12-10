@@ -1,1 +1,1 @@
-Item(by='jelliclesfarm', descendants=None, kids=None, score=None, time=1607543854, title=None, item_type='comment', url=None, parent=25362531, text='Three more states have joined Texas.')
+Item(by='jelliclesfarm', descendants=None, kids=[25367650], score=None, time=1607543854, title=None, item_type='comment', url=None, parent=25362531, text='Three more states have joined Texas.')

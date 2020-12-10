@@ -1,0 +1,1 @@
+Item(by='blorenz', descendants=None, kids=None, score=None, time=1607564126, title=None, item_type='comment', url=None, parent=25365397, text='This is great! I thought that I could filter on ingredients with an intersection of those ingredients and instead got the union.  I would love if this could toggle between those and possibly the exclusion as well.')

@@ -1,0 +1,1 @@
+Item(by='rozenmd', descendants=None, kids=None, score=None, time=1607549787, title=None, item_type='comment', url=None, parent=25358584, text='Is it possible to &quot;self-host&quot; the script?<p>Particularly looking to add a CNAME record in my DNS to point to the script&#x27;s domain and have it effectively served from a subdomain of my site.')

@@ -1,0 +1,1 @@
+Item(by='m463', descendants=None, kids=None, score=None, time=1607548398, title=None, item_type='comment', url=None, parent=25359422, text='Is that ubuntu 20.04?  I&#x27;ve used 18.04 extensively and it&#x27;s just:<p><pre><code>    apt-get install docker.io</code></pre>')
