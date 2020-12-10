@@ -1,0 +1,1 @@
+Item(by='Sandhose', descendants=None, kids=[25376106, 25376690], score=None, time=1607615240, title=None, item_type='comment', url=None, parent=25371992, text='They are probably using &quot;systemd-lightd&quot;, so the right command would be &quot;lightctl status&quot;.')

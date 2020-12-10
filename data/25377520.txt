@@ -1,0 +1,1 @@
+Item(by='area51org', descendants=None, kids=[25377592, 25377617], score=None, time=1607628755, title=None, item_type='comment', url=None, parent=25377471, text='Does that actually happen with GKE? If so: do not use GKE. Other vendors surely have better-supported k8s services.')

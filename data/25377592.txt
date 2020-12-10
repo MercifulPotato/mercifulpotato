@@ -1,0 +1,1 @@
+Item(by='dilyevsky', descendants=None, kids=None, score=None, time=1607629204, title=None, item_type='comment', url=None, parent=25377520, text='Yes at previous gig someone took down gke control plane by  creating many crd objects (kubeflow) and it took multiple escalations to fix.')

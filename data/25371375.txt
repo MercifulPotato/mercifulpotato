@@ -1,1 +1,1 @@
-Item(by='lawn', descendants=None, kids=None, score=None, time=1607590215, title=None, item_type='comment', url=None, parent=25370442, text='Meh. It&#x27;s all just text, why not show everything?')
+Item(by='lawn', descendants=None, kids=[25375323], score=None, time=1607590215, title=None, item_type='comment', url=None, parent=25370442, text='Meh. It&#x27;s all just text, why not show everything?')

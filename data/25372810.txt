@@ -1,1 +1,1 @@
-Item(by='bzb6', descendants=None, kids=None, score=None, time=1607602224, title=None, item_type='comment', url=None, parent=25372641, text='Then they should’ve been fined for not respecting dnt')
+Item(by='bzb6', descendants=None, kids=[25375503], score=None, time=1607602224, title=None, item_type='comment', url=None, parent=25372641, text='Then they should’ve been fined for not respecting dnt')

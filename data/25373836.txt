@@ -1,1 +1,1 @@
-Item(by='bzb6', descendants=None, kids=None, score=None, time=1607609423, title=None, item_type='comment', url=None, parent=25371147, text='Why is this kind of data on servers connected to the internet?')
+Item(by='bzb6', descendants=None, kids=[25374139], score=None, time=1607609423, title=None, item_type='comment', url=None, parent=25371147, text='Why is this kind of data on servers connected to the internet?')

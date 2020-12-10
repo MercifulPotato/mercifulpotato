@@ -1,0 +1,1 @@
+Item(by='renewiltord', descendants=None, kids=None, score=None, time=1607628753, title=None, item_type='comment', url=None, parent=25377217, text='Get the zonal cluster on GKE. Free control plane stuff. Then you can put as many or as few nodes as you want on it.<p>Make sure to use metal LB or all your ingresses will be served with Google LBs that are hecka expensive.')

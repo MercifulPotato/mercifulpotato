@@ -1,1 +1,1 @@
-Item(by='darkwater', descendants=None, kids=None, score=None, time=1607610268, title=None, item_type='comment', url=None, parent=25373628, text='1301, to be more precise.')
+Item(by='darkwater', descendants=None, kids=[25374088], score=None, time=1607610268, title=None, item_type='comment', url=None, parent=25373628, text='1301, to be more precise.')

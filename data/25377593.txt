@@ -1,0 +1,1 @@
+Item(by='geerlingguy', descendants=None, kids=None, score=None, time=1607629205, title=None, item_type='comment', url=None, parent=25377324, text='Same with Linode, the management machines are not massive scale HA control planes like you get with the expensive hosts (It seems like Linode may run a single 2GB droplet), but for most of my clusters I don&#x27;t need it.')

@@ -1,1 +1,1 @@
-Item(by='mycall', descendants=None, kids=None, score=None, time=1607574986, title=None, item_type='comment', url=None, parent=25369584, text='Their future two year roadmap includes a multiplayer version.  I suspect it will take them that long to fix all their bugs.')
+Item(by='mycall', descendants=None, kids=[25374072], score=None, time=1607574986, title=None, item_type='comment', url=None, parent=25369584, text='Their future two year roadmap includes a multiplayer version.  I suspect it will take them that long to fix all their bugs.')

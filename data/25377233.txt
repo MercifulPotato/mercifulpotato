@@ -1,0 +1,1 @@
+Item(by='puredanger', descendants=None, kids=None, score=None, time=1607627614, title=None, item_type='comment', url=None, parent=25376836, text='If anything, I&#x27;d say that Clojure <i>discourages</i> the creation of DSLs through macros compared to most other Lisps, and encourages the use of plain data and functions first.')

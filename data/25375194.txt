@@ -1,0 +1,1 @@
+Item(by='cyberpunk', descendants=None, kids=None, score=None, time=1607616665, title=None, item_type='comment', url=None, parent=25374967, text='For infra stuff (storage, firewalls, <i>maybe</i> loadbalancers) maybe -- but unless it can run k8s it&#x27;s not going to displace linux anytime soon..')

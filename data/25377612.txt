@@ -1,0 +1,1 @@
+Item(by='coldcode', descendants=None, kids=None, score=None, time=1607629263, title=None, item_type='comment', url=None, parent=25375705, text='We started with Swift 2.X as well but it became Swift 3 before we shipped anything; Swift 5.X now is much more mature and we have no issues. Trying to do too much with a new language plus all the other things was asking for trouble.')

@@ -1,1 +1,1 @@
-Item(by='patothon', descendants=None, kids=None, score=None, time=1607579547, title=None, item_type='comment', url=None, parent=25365856, text='These numbers can&#x27;t be correct as there is no mention of iMessage who&#x27;s the biggest chat app in the usa.')
+Item(by='patothon', descendants=None, kids=[25374578], score=None, time=1607579547, title=None, item_type='comment', url=None, parent=25365856, text='These numbers can&#x27;t be correct as there is no mention of iMessage who&#x27;s the biggest chat app in the usa.')

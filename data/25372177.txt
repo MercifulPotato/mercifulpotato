@@ -1,1 +1,1 @@
-Item(by='scoutt', descendants=None, kids=None, score=None, time=1607596592, title=None, item_type='comment', url=None, parent=25369770, text='OTOH, asking question is at the base of the Socratic Method.')
+Item(by='scoutt', descendants=None, kids=[25376152], score=None, time=1607596592, title=None, item_type='comment', url=None, parent=25369770, text='OTOH, asking question is at the base of the Socratic Method.')

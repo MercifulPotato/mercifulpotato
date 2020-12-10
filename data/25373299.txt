@@ -1,1 +1,1 @@
-Item(by='jhasse', descendants=None, kids=None, score=None, time=1607605944, title=None, item_type='comment', url=None, parent=25369383, text='PUBG - a game where you need at least 50 players for a match - would be quiet empty when you&#x27;re only playing with Linux players.')
+Item(by='jhasse', descendants=None, kids=[25374160], score=None, time=1607605944, title=None, item_type='comment', url=None, parent=25369383, text='PUBG - a game where you need at least 50 players for a match - would be quiet empty when you&#x27;re only playing with Linux players.')

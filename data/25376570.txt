@@ -1,0 +1,1 @@
+Item(by='swiley', descendants=None, kids=[25376839], score=None, time=1607624121, title=None, item_type='comment', url=None, parent=25375711, text='It&#x27;s not about the money, it&#x27;s about not being able to leave an IMAP connection open on IDLE or change the push server for your IRC app or run guile&#x2F;gcc&#x2F;vim&#x2F;git locally at a <i>usable</i> speed.')

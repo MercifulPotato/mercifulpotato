@@ -1,1 +1,1 @@
-Item(by='vpj', descendants=0, kids=None, score=1, time=1607607366, title='Explanation with implementation of Rectified Adam optimizer', item_type='story', url='https://lab-ml.com/labml_nn/optimizers/radam.html', parent=None, text=None)
+Item(by='vpj', descendants=0, kids=[25373795], score=1, time=1607607366, title='Explanation with implementation of Rectified Adam optimizer', item_type='story', url='https://lab-ml.com/labml_nn/optimizers/radam.html', parent=None, text=None)

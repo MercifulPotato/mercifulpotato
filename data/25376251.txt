@@ -1,0 +1,1 @@
+Item(by='jonny_eh', descendants=None, kids=None, score=None, time=1607622289, title=None, item_type='comment', url=None, parent=25375998, text='Seems like a reasonable architectural choice early on when your app is live in 2 cities. Instead of changing the language of the app, they should have focused on its API architecture.')

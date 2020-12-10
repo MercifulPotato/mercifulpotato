@@ -1,1 +1,1 @@
-Item(by='chrisweekly', descendants=None, kids=None, score=None, time=1607607278, title=None, item_type='comment', url=None, parent=25372603, text='I&#x27;m so fuzzy on the details but isn&#x27;t this what client certs are for?')
+Item(by='chrisweekly', descendants=None, kids=[25375492, 25374793], score=None, time=1607607278, title=None, item_type='comment', url=None, parent=25372603, text='I&#x27;m so fuzzy on the details but isn&#x27;t this what client certs are for?')

@@ -1,0 +1,1 @@
+Item(by='area51org', descendants=None, kids=[25377931], score=None, time=1607628697, title=None, item_type='comment', url=None, parent=25377229, text='Setup = a k8s service? You should have support from the vendor, period.<p>Setup = rep groups, internal services, etc? You need k8s-savvy ops people, or really good devs who like ops stuff.')

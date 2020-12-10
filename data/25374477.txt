@@ -1,0 +1,1 @@
+Item(by='seized', descendants=None, kids=None, score=None, time=1607613160, title=None, item_type='comment', url=None, parent=25360754, text='RAIDZ gives roughly the IOPS of one drive per VDEV. Mirrors is one drive of write IOPS per VDEV and some say two drives of IOPS for read.<p>You went from 3 drives to 18, IOPS wise.')

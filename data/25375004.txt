@@ -1,0 +1,1 @@
+Item(by='andris9', descendants=None, kids=None, score=None, time=1607615690, title=None, item_type='comment', url=None, parent=25374047, text='For now, no. POP3 is such a simple protocol you usually can just use it directly. If would be super difficult or in some parts impossible to emulate all the current features on top of a POP3 backend.')

@@ -1,0 +1,1 @@
+Item(by='collsni', descendants=None, kids=[25376161], score=None, time=1607620765, title=None, item_type='comment', url=None, parent=25374745, text='What I do is dns over tls through a proxy that way my proxy service can&#x27;t sniff my queries either. And the dns resolver doesn&#x27;t know the true source.')

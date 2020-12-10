@@ -1,1 +1,1 @@
-Item(by='birdsbirdsbirds', descendants=None, kids=None, score=None, time=1607538074, title=None, item_type='comment', url=None, parent=25361580, text='If you look at Apple&#x27;s apple, you will notice that it is already bitten. It was not the snake, but Eve.')
+Item(by='birdsbirdsbirds', descendants=None, kids=[25375244], score=None, time=1607538074, title=None, item_type='comment', url=None, parent=25361580, text='If you look at Apple&#x27;s apple, you will notice that it is already bitten. It was not the snake, but Eve.')

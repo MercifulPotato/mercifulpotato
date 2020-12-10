@@ -1,1 +1,1 @@
-Item(by='Hamuko', descendants=None, kids=None, score=None, time=1607605262, title=None, item_type='comment', url=None, parent=25372659, text='Good idea. We can also see which happens first: Facebook fixing its outage, or Facebook buying up that competitor.')
+Item(by='Hamuko', descendants=None, kids=[25377398], score=None, time=1607605262, title=None, item_type='comment', url=None, parent=25372659, text='Good idea. We can also see which happens first: Facebook fixing its outage, or Facebook buying up that competitor.')
