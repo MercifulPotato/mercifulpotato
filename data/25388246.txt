@@ -1,0 +1,1 @@
+Item(by='pukkaone', descendants=None, kids=None, score=None, time=1607707773, title=None, item_type='comment', url=None, parent=25387833, text='Are you going to change the mapping? You cannot change the mapping of an existing field. You must create a new index with the new mapping and reindex.')

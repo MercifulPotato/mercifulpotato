@@ -1,1 +1,1 @@
-Item(by='iooi', descendants=None, kids=None, score=None, time=1607554762, title=None, item_type='comment', url=None, parent=25366418, text='If dogfooding is the main reason behind using Angular, it&#x27;s a bit ironic that &lt;10%? of teams at Google use Google Cloud over Borg.')
+Item(by='iooi', descendants=None, kids=[25388719], score=None, time=1607554762, title=None, item_type='comment', url=None, parent=25366418, text='If dogfooding is the main reason behind using Angular, it&#x27;s a bit ironic that &lt;10%? of teams at Google use Google Cloud over Borg.')

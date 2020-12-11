@@ -1,1 +1,1 @@
-Item(by='gtirloni', descendants=66, kids=[25352914, 25352916, 25352732, 25360247], score=119, time=1607463715, title='Kubernetes 1.20', item_type='story', url='https://kubernetes.io/blog/2020/12/08/kubernetes-1-20-release-announcement/', parent=None, text=None)
+Item(by='gtirloni', descendants=67, kids=[25352914, 25352916, 25352732, 25360247], score=119, time=1607463715, title='Kubernetes 1.20', item_type='story', url='https://kubernetes.io/blog/2020/12/08/kubernetes-1-20-release-announcement/', parent=None, text=None)

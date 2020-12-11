@@ -1,1 +1,1 @@
-Item(by='rhabarba', descendants=None, kids=None, score=None, time=1607694641, title=None, item_type='comment', url=None, parent=25385566, text='Revolutionizing the world with COBOL? Game’s on!')
+Item(by='rhabarba', descendants=None, kids=[25386469], score=None, time=1607694641, title=None, item_type='comment', url=None, parent=25385566, text='Revolutionizing the world with COBOL? Game’s on!')

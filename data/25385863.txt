@@ -1,1 +1,1 @@
-Item(by='jcora', descendants=None, kids=None, score=None, time=1607695534, title=None, item_type='comment', url=None, parent=25384133, text='Just learn haskell')
+Item(by='jcora', descendants=None, kids=[25386694], score=None, time=1607695534, title=None, item_type='comment', url=None, parent=25384133, text='Just learn haskell')

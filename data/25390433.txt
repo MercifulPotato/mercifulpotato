@@ -1,0 +1,1 @@
+Item(by='glouwbug', descendants=None, kids=None, score=None, time=1607718002, title=None, item_type='comment', url=None, parent=25388375, text='It looks like its more about generating IR. The professor wrote his own LLVM like tool called Brill, and use of the tool seems to be the focus of the course.')

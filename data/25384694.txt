@@ -1,1 +1,1 @@
-Item(by='tremon', descendants=None, kids=None, score=None, time=1607687388, title=None, item_type='comment', url=None, parent=25383659, text='My guess is they have to meet some minimum diversity quota among attendees.')
+Item(by='tremon', descendants=None, kids=[25386721], score=None, time=1607687388, title=None, item_type='comment', url=None, parent=25383659, text='My guess is they have to meet some minimum diversity quota among attendees.')

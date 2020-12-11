@@ -1,0 +1,1 @@
+Item(by='lxgr', descendants=None, kids=None, score=None, time=1607712230, title=None, item_type='comment', url=None, parent=25383600, text='In my opinion, Apple&#x27;s over-excitable field detection (which considers every NFC field a potential for an Apple Pay transaction, not just payment and transit terminals) is mostly a nuisance, at least for Face ID phones.')

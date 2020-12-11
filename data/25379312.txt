@@ -1,1 +1,1 @@
-Item(by='colechristensen', descendants=None, kids=None, score=None, time=1607637525, title=None, item_type='comment', url=None, parent=25377867, text='That sounds really interesting, do you have any references to share about macOS gui dtrace?')
+Item(by='colechristensen', descendants=None, kids=[25386749], score=None, time=1607637525, title=None, item_type='comment', url=None, parent=25377867, text='That sounds really interesting, do you have any references to share about macOS gui dtrace?')

@@ -1,1 +1,1 @@
-Item(by='alex_anglin', descendants=None, kids=None, score=None, time=1607696300, title=None, item_type='comment', url=None, parent=25385351, text='To each their own, but over the ear headphones with noise cancellation make public transit much more enjoyable for me.')
+Item(by='alex_anglin', descendants=None, kids=[25386761], score=None, time=1607696300, title=None, item_type='comment', url=None, parent=25385351, text='To each their own, but over the ear headphones with noise cancellation make public transit much more enjoyable for me.')

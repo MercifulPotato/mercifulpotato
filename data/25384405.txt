@@ -1,1 +1,1 @@
-Item(by='aembleton', descendants=None, kids=None, score=None, time=1607684785, title=None, item_type='comment', url=None, parent=25384033, text='Because it is very hard to build an index with the size of the web.')
+Item(by='aembleton', descendants=None, kids=[25389678], score=None, time=1607684785, title=None, item_type='comment', url=None, parent=25384033, text='Because it is very hard to build an index with the size of the web.')

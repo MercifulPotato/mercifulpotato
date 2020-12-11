@@ -1,0 +1,1 @@
+Item(by='whateveracct', descendants=None, kids=None, score=None, time=1607713587, title=None, item_type='comment', url=None, parent=25387091, text='Another reason GC is nice: FP tends to rely on immutable linked data structures with pervasive sharing. That makes ownership complicated.')

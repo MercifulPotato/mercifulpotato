@@ -1,1 +1,1 @@
-Item(by='m463', descendants=None, kids=None, score=None, time=1607547139, title=None, item_type='comment', url=None, parent=25362118, text='What about the iphone POWER+VOLDOWN thing that flushes the biometric keys and requires the pin?')
+Item(by='m463', descendants=None, kids=[25389381], score=None, time=1607547139, title=None, item_type='comment', url=None, parent=25362118, text='What about the iphone POWER+VOLDOWN thing that flushes the biometric keys and requires the pin?')

@@ -1,1 +1,1 @@
-Item(by='ce4', descendants=None, kids=None, score=None, time=1607691789, title=None, item_type='comment', url=None, parent=25384344, text='the website is not encrypted, could&#x27;ve been some other party too that did the injection. Are you at a public wifi hotspot?')
+Item(by='ce4', descendants=None, kids=[25386706], score=None, time=1607691789, title=None, item_type='comment', url=None, parent=25384344, text='the website is not encrypted, could&#x27;ve been some other party too that did the injection. Are you at a public wifi hotspot?')

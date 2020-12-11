@@ -1,1 +1,1 @@
-Item(by='justinclift', descendants=None, kids=None, score=None, time=1607688810, title=None, item_type='comment', url=None, parent=25384481, text='Oh, definitely &quot;Jedi&quot;. ;)')
+Item(by='justinclift', descendants=None, kids=[25388914], score=None, time=1607688810, title=None, item_type='comment', url=None, parent=25384481, text='Oh, definitely &quot;Jedi&quot;. ;)')

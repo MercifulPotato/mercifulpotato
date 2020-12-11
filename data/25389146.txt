@@ -1,0 +1,1 @@
+Item(by='mrkeen', descendants=None, kids=None, score=None, time=1607712407, title=None, item_type='comment', url=None, parent=25386831, text='The exact same argument exists for not hiding IntList and StringList behind fancy generics like List[I], which obscure the how.')

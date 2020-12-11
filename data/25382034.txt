@@ -1,1 +1,1 @@
-Item(by='igotsideas', descendants=None, kids=None, score=None, time=1607658299, title=None, item_type='comment', url=None, parent=25381810, text='I just started using playwright 2 weeks ago. It’s great so far.')
+Item(by='igotsideas', descendants=None, kids=[25386868], score=None, time=1607658299, title=None, item_type='comment', url=None, parent=25381810, text='I just started using playwright 2 weeks ago. It’s great so far.')

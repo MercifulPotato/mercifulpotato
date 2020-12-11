@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1607716769, title=None, item_type='comment', url=None, parent=25389880, text='No problem. I mean, in some sense, it&#x27;s also about abstracting things, it&#x27;s just that Rust cares about a lot more details than other languages, and those get reflected in type signatures.')

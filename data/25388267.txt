@@ -1,0 +1,1 @@
+Item(by='sethhovestol', descendants=None, kids=None, score=None, time=1607707901, title=None, item_type='comment', url=None, parent=25387633, text='A (not)compiler can be made to look for issues in your codebase that already exists. It would need all the tools of a compiler, just that the target is the same as the source language.')

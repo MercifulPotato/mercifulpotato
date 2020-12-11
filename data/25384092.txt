@@ -1,1 +1,1 @@
-Item(by='Hamuko', descendants=None, kids=None, score=None, time=1607681111, title=None, item_type='comment', url=None, parent=25383743, text='I&#x27;d prefer them to change two other things: the design and the layout.')
+Item(by='Hamuko', descendants=None, kids=[25387144], score=None, time=1607681111, title=None, item_type='comment', url=None, parent=25383743, text='I&#x27;d prefer them to change two other things: the design and the layout.')

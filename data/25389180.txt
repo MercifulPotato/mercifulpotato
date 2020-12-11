@@ -1,0 +1,1 @@
+Item(by='wvenable', descendants=None, kids=None, score=None, time=1607712546, title=None, item_type='comment', url=None, parent=25388221, text='Yes, but DNS over HTTPS by passes internal DNS resolvers and because it&#x27;s HTTPS the corporate firewall would have no idea this is happening.')

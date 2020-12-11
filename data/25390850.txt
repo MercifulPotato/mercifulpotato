@@ -1,0 +1,1 @@
+Item(by='yatsyk', descendants=None, kids=None, score=None, time=1607720027, title=None, item_type='comment', url=None, parent=25387157, text='I&#x27;ve not found in docs anything related to static site configuration files (like netlify.toml or vercel.yml in hosted services). How to configure particular site?')

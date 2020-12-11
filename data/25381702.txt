@@ -1,1 +1,1 @@
-Item(by='graderjs', descendants=None, kids=None, score=None, time=1607655057, title=None, item_type='comment', url=None, parent=25380011, text='I was in Hong Kong. I think some sort of cellphone malfunction, but that was about it. I guess it would affect satellite phones too')
+Item(by='graderjs', descendants=None, kids=[25387429], score=None, time=1607655057, title=None, item_type='comment', url=None, parent=25380011, text='I was in Hong Kong. I think some sort of cellphone malfunction, but that was about it. I guess it would affect satellite phones too')

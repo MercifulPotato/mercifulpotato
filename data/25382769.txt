@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1607665984, title=None, item_type='comment', url=None, parent=25381681, text='Guess who makes it hard to submit many templated apps in an automated fashion? You guessed it, it&#x27;s Apple.')
+Item(by='saagarjha', descendants=None, kids=[25386473], score=None, time=1607665984, title=None, item_type='comment', url=None, parent=25381681, text='Guess who makes it hard to submit many templated apps in an automated fashion? You guessed it, it&#x27;s Apple.')

@@ -1,1 +1,1 @@
-Item(by='testplzignore', descendants=None, kids=None, score=None, time=1607694516, title=None, item_type='comment', url=None, parent=25384190, text='The parking lot is not zoned for residential use and the NIMBYs would never allow it.')
+Item(by='testplzignore', descendants=None, kids=[25386782], score=None, time=1607694516, title=None, item_type='comment', url=None, parent=25384190, text='The parking lot is not zoned for residential use and the NIMBYs would never allow it.')

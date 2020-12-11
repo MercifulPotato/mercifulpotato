@@ -1,0 +1,1 @@
+Item(by='rhencke', descendants=None, kids=None, score=None, time=1607701713, title=None, item_type='comment', url=None, parent=25386610, text='Please consider allowing scanning tarball&#x2F;zip distributions of source directly as well.  It is a SCM-agnostic method that is also well-supported by GitHub, Gitiles, hgweb, and many old but still-in-use projects that pre-date Git.')

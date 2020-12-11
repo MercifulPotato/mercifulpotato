@@ -1,1 +1,1 @@
-Item(by='mcone', descendants=0, kids=None, score=1, time=1607694149, title='A State Scientist Questioned Florida’s Virus Data. Now Her Home’s Been Raided', item_type='story', url='https://www.nytimes.com/2020/12/11/us/florida-coronavirus-data-rebekah-jones.html', parent=None, text=None)
+Item(by='mcone', descendants=1, kids=[25387120], score=4, time=1607694149, title='A State Scientist Questioned Florida’s Virus Data. Now Her Home’s Been Raided', item_type='story', url='https://www.nytimes.com/2020/12/11/us/florida-coronavirus-data-rebekah-jones.html', parent=None, text=None)
