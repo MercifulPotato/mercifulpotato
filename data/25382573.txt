@@ -1,0 +1,1 @@
+Item(by='ferongr', descendants=None, kids=None, score=None, time=1607663839, title=None, item_type='comment', url=None, parent=25382407, text='Not really. The actual load on the engine when redlining it while stationary is very small. You can monitor the fuel injector duty cycle, air flow mass or the useful &quot;Load&quot; PID using an OBD scanner like Torque.')

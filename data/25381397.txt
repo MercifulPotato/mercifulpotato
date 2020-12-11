@@ -1,1 +1,1 @@
-Item(by='QuantumWasp', descendants=0, kids=None, score=1, time=1607652334, title='Google creates criticality score for OSS', item_type='story', url='https://opensource.googleblog.com/', parent=None, text=None)
+Item(by='QuantumWasp', descendants=29, kids=[25382682, 25382712, 25382548, 25383451, 25382518, 25382981, 25382728, 25382983, 25383411, 25382530, 25382546, 25382280], score=51, time=1607652334, title='Finding Critical Open Source Projects', item_type='story', url='https://opensource.googleblog.com/', parent=None, text=None)

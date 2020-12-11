@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=0, kids=None, score=2, time=1607644940, title='JetBrains on Apple M1', item_type='story', url='https://youtrack.jetbrains.com/issue/JBR-2526', parent=None, text=None)
+Item(by='rbanffy', descendants=1, kids=[25382457], score=3, time=1607644940, title='JetBrains on Apple M1', item_type='story', url='https://youtrack.jetbrains.com/issue/JBR-2526', parent=None, text=None)

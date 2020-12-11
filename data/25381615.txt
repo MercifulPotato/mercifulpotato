@@ -1,0 +1,1 @@
+Item(by='f00zz', descendants=None, kids=None, score=None, time=1607654289, title=None, item_type='comment', url=None, parent=25381191, text='I have a cron job on my laptop that loads iptables rules that drop all outgoing packets except to work-related sites (chat, e-mail, issue tracker, code review, plus a handful of reference sites) during my work hours.')

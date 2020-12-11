@@ -1,1 +1,1 @@
-Item(by='gumby', descendants=None, kids=None, score=None, time=1607638448, title=None, item_type='comment', url=None, parent=25378275, text='However the Internet is like the Earth — there is but one.')
+Item(by='gumby', descendants=None, kids=[25382132], score=None, time=1607638448, title=None, item_type='comment', url=None, parent=25378275, text='However the Internet is like the Earth — there is but one.')

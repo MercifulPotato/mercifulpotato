@@ -1,1 +1,1 @@
-Item(by='raspasov', descendants=None, kids=None, score=None, time=1607617097, title=None, item_type='comment', url=None, parent=25375105, text='Did you ever consider using Clojure spec or one of the alternatives before it? Runtime data shape&#x2F;type inference is quite capable.')
+Item(by='raspasov', descendants=None, kids=[25383085], score=None, time=1607617097, title=None, item_type='comment', url=None, parent=25375105, text='Did you ever consider using Clojure spec or one of the alternatives before it? Runtime data shape&#x2F;type inference is quite capable.')

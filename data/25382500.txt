@@ -1,0 +1,1 @@
+Item(by='Mavvie', descendants=None, kids=[25382706], score=None, time=1607663066, title=None, item_type='comment', url=None, parent=25382099, text='What made it hard to reuse code? You can just import&#x2F;export stuff like normal, unless you mean it was hard to find any logic that could be usefully extracted into a helper?')

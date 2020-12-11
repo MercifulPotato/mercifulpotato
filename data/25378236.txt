@@ -1,1 +1,1 @@
-Item(by='mikece', descendants=3, kids=[25378300], score=2, time=1607632454, title='Installing and Using Docker and Kubernetes on FreeBSD', item_type='story', url='https://yom.iaelu.net/2020/05/freebsd-using-docker-and-kubernetes.html', parent=None, text=None)
+Item(by='mikece', descendants=3, kids=[25378300], score=3, time=1607632454, title='Installing and Using Docker and Kubernetes on FreeBSD', item_type='story', url='https://yom.iaelu.net/2020/05/freebsd-using-docker-and-kubernetes.html', parent=None, text=None)

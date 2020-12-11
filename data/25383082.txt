@@ -1,0 +1,1 @@
+Item(by='dang', descendants=None, kids=None, score=None, time=1607669157, title=None, item_type='comment', url=None, parent=25370692, text='The pagination is only because of performance issues on the server to begin with. Rather than adding extra complexity at the top of the thread, the solution is to improve performance and render the whole page like we used to.')

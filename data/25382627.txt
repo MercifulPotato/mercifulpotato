@@ -1,0 +1,1 @@
+Item(by='SulfurHexaFluri', descendants=None, kids=None, score=None, time=1607664405, title=None, item_type='comment', url=None, parent=25382595, text='Its sort of like selenium testing. It tests the frontend which ends up sending real requests to the backend so if the backend fails the frontend will too.')

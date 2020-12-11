@@ -1,0 +1,1 @@
+Item(by='ed_elliott_asc', descendants=None, kids=[25383297], score=None, time=1607668351, title=None, item_type='comment', url=None, parent=25375639, text='Hi,<p>Why do you need the kernel support if you modify the binaries, why not insert a function to write your logs and then insert a call to that function rather than relying on kernel support via an int 3?<p>Curious really.')

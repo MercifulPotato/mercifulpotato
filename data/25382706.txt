@@ -1,0 +1,1 @@
+Item(by='BurningFrog', descendants=None, kids=[25382882, 25382798], score=None, time=1607665245, title=None, item_type='comment', url=None, parent=25382500, text='We have a lot of data in UI tables, so I wanted to write code that extracted the cell values to a ROWSxCOLUMNS matrix, that I could reuse in each test.<p>And... I just couldn&#x27;t figure out a way!')

@@ -1,1 +1,1 @@
-Item(by='wtallis', descendants=None, kids=None, score=None, time=1607637809, title=None, item_type='comment', url=None, parent=25379179, text='Could you be a bit more specific and demonstrate how to get a 10-day forecast out of that URL?')
+Item(by='wtallis', descendants=None, kids=[25382201], score=None, time=1607637809, title=None, item_type='comment', url=None, parent=25379179, text='Could you be a bit more specific and demonstrate how to get a 10-day forecast out of that URL?')

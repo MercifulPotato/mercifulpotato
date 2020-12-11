@@ -1,1 +1,1 @@
-Item(by='simonebrunozzi', descendants=None, kids=None, score=None, time=1607634061, title=None, item_type='comment', url=None, parent=25375833, text='Ah, I didn&#x27;t know!<p>Would that be his best book, in your view?')
+Item(by='simonebrunozzi', descendants=None, kids=[25383323], score=None, time=1607634061, title=None, item_type='comment', url=None, parent=25375833, text='Ah, I didn&#x27;t know!<p>Would that be his best book, in your view?')

@@ -1,1 +1,1 @@
-Item(by='dadt', descendants=0, kids=None, score=6, time=1607633941, title='The Making of “The Godfather” – Sort of a home movie (1971)', item_type='story', url='http://www.thestacksreader.com/the-making-of-the-godfather-sort-of-a-home-movie/', parent=None, text=None)
+Item(by='dadt', descendants=2, kids=[25383039, 25383291], score=47, time=1607633941, title='The Making of “The Godfather” – Sort of a home movie (1971)', item_type='story', url='http://www.thestacksreader.com/the-making-of-the-godfather-sort-of-a-home-movie/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='wpg_steve', descendants=None, kids=[25381766], score=None, time=1607654840, title=None, item_type='comment', url=None, parent=25381537, text='I read that the out of order execution of the RISC was simpler to handle with the fixed 32 bit instructions. They said Apple managed to dispatch 8 instructions in parallel whereas the hi end CISC (x86) tops out at 4.')

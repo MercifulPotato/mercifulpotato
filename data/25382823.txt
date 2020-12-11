@@ -1,0 +1,1 @@
+Item(by='eitland', descendants=None, kids=[25382993], score=None, time=1607666641, title=None, item_type='comment', url=None, parent=25382303, text='related: testing-framework has been adapted for cypress. It encourages this kind of thinking and testing.<p>I&#x27;ve used cypress at work but have suspended it since we used it end-to-end and it clogged up backend databases.')

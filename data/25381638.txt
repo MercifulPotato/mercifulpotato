@@ -1,1 +1,1 @@
-Item(by='copperx', descendants=None, kids=None, score=None, time=1607654551, title=None, item_type='comment', url=None, parent=25381455, text='How did you measure all these parameters?')
+Item(by='copperx', descendants=None, kids=[25381792], score=None, time=1607654551, title=None, item_type='comment', url=None, parent=25381455, text='How did you measure all these parameters?')

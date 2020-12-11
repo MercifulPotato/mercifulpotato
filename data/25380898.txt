@@ -1,1 +1,1 @@
-Item(by='freedomben', descendants=0, kids=None, score=1, time=1607647492, title='How a Kubernetes Pod Gets an IP Address', item_type='story', url='https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/', parent=None, text=None)
+Item(by='freedomben', descendants=0, kids=None, score=3, time=1607647492, title='How a Kubernetes Pod Gets an IP Address', item_type='story', url='https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/', parent=None, text=None)
