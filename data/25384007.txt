@@ -1,0 +1,1 @@
+Item(by='johncolanduoni', descendants=None, kids=None, score=None, time=1607680303, title=None, item_type='comment', url=None, parent=25383692, text='Yeah, Hypervisor.framework is an analogue of KVM (i.e. just manual VM contexts, the caller needs to handle exits to provide virtual hardware). Virtualization.framework is closer to something like QEMU in library form.')

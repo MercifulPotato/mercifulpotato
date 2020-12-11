@@ -1,1 +1,1 @@
-Item(by='rualca', descendants=None, kids=None, score=None, time=1607672588, title=None, item_type='comment', url=None, parent=25378646, text='Kind of a big deal, as I only clicked on the article because I was interested.in checking some insight on how to test CLIs instead of TUIs.')
+Item(by='rualca', descendants=None, kids=[25385368], score=None, time=1607672588, title=None, item_type='comment', url=None, parent=25378646, text='Kind of a big deal, as I only clicked on the article because I was interested.in checking some insight on how to test CLIs instead of TUIs.')

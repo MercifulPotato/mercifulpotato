@@ -1,0 +1,1 @@
+Item(by='contravariant', descendants=None, kids=None, score=None, time=1607679326, title=None, item_type='comment', url=None, parent=25381404, text='Though in that case you definitely want to disable macros for this config (as they allow for exponential time&#x2F;space) and be very careful with any additional functions you expose.')

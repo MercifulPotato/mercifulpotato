@@ -1,1 +1,1 @@
-Item(by='keiferski', descendants=None, kids=None, score=None, time=1607513393, title=None, item_type='comment', url=None, parent=25357536, text='The focus of economic and cultural forces pushing for meat alternatives, whether that be vegans, environmentalists, or anyone else.')
+Item(by='keiferski', descendants=None, kids=[25384103], score=None, time=1607513393, title=None, item_type='comment', url=None, parent=25357536, text='The focus of economic and cultural forces pushing for meat alternatives, whether that be vegans, environmentalists, or anyone else.')

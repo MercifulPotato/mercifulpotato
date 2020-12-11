@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1607685841, title=None, item_type='comment', url=None, parent=25384062, text='I believe windows elides TSO guarantees when it thinks they aren&#x27;t necessary. This should usually work out all right–only a small amount of code usually cares very much about memory ordering.')

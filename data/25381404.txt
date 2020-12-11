@@ -1,1 +1,1 @@
-Item(by='remexre', descendants=None, kids=[25381470], score=None, time=1607652362, title=None, item_type='comment', url=None, parent=25381241, text='Your config language being turing complete doesn&#x27;t work if you need to accept&#x2F;validate config files from untrusted parties')
+Item(by='remexre', descendants=None, kids=[25381470, 25383906], score=None, time=1607652362, title=None, item_type='comment', url=None, parent=25381241, text='Your config language being turing complete doesn&#x27;t work if you need to accept&#x2F;validate config files from untrusted parties')

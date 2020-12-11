@@ -1,0 +1,1 @@
+Item(by='Someone', descendants=None, kids=None, score=None, time=1607692513, title=None, item_type='comment', url=None, parent=25382114, text='Typical Objective-C code is mostly C (and sometimes C++). It doesn’t use message-passing in the hot loops.')

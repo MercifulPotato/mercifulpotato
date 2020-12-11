@@ -1,0 +1,1 @@
+Item(by='tuxone', descendants=None, kids=None, score=None, time=1607675983, title=None, item_type='comment', url=None, parent=25383600, text='Maybe the QR code scanner and the NFC POS have been installed in a poor way that make the two options collide. Since QR code could be provided from general purpose apps (browser, photo gallery) there is no software solution to this.')

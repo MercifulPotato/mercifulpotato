@@ -1,0 +1,1 @@
+Item(by='boloust', descendants=None, kids=None, score=None, time=1607689661, title=None, item_type='comment', url=None, parent=25384952, text='For an n-sized program, run it for BB(n) steps. If it hasn&#x27;t halted then by definition it will never halt.')

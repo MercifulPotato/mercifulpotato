@@ -1,0 +1,1 @@
+Item(by='Nullabillity', descendants=None, kids=[25385224], score=None, time=1607690642, title=None, item_type='comment', url=None, parent=25384597, text='Adding that restriction would make it impossible to implement Functor for lazy collections (for example, `&lt;I as Iterator&gt;::map()` returns a `Map&lt;I, F&gt;` where F is usually some unmentionable closure type).')

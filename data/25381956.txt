@@ -1,1 +1,1 @@
-Item(by='nwsm', descendants=None, kids=None, score=None, time=1607657586, title=None, item_type='comment', url=None, parent=25381277, text='culs-de-sac <i>')
+Item(by='nwsm', descendants=None, kids=[25384829], score=None, time=1607657586, title=None, item_type='comment', url=None, parent=25381277, text='culs-de-sac <i>')

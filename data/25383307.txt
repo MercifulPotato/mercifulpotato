@@ -1,1 +1,1 @@
-Item(by='Bud', descendants=None, kids=None, score=None, time=1607671810, title=None, item_type='comment', url=None, parent=25382870, text='Pretty easy to talk down at &quot;entertainment&quot; if you&#x27;ve never actually been an artist or tried to make money at it.')
+Item(by='Bud', descendants=None, kids=[25383693], score=None, time=1607671810, title=None, item_type='comment', url=None, parent=25382870, text='Pretty easy to talk down at &quot;entertainment&quot; if you&#x27;ve never actually been an artist or tried to make money at it.')

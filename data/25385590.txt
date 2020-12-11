@@ -1,0 +1,1 @@
+Item(by='monkeynotes', descendants=None, kids=None, score=None, time=1607694154, title=None, item_type='comment', url=None, parent=25382099, text='Reusable code is somewhat achievable if you use helpers (commands). Example:<p>```\nCypress.Commands.add(&#x27;yourHelperName&#x27;), () =&gt; { &#x2F;&#x2F;your code }\n```')

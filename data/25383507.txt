@@ -1,1 +1,1 @@
-Item(by='mackrevinack', descendants=None, kids=None, score=None, time=1607674091, title=None, item_type='comment', url=None, parent=25382068, text='I got better results once i set the location to the country I live in')
+Item(by='mackrevinack', descendants=None, kids=[25383732], score=None, time=1607674091, title=None, item_type='comment', url=None, parent=25382068, text='I got better results once i set the location to the country I live in')

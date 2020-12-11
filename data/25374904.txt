@@ -1,1 +1,1 @@
-Item(by='Jiocus', descendants=None, kids=None, score=None, time=1607615167, title=None, item_type='comment', url=None, parent=25374430, text='Telegram is not affiliated with VK, neither is Telegram based in Russia 🇷🇺')
+Item(by='Jiocus', descendants=None, kids=[25384200], score=None, time=1607615167, title=None, item_type='comment', url=None, parent=25374430, text='Telegram is not affiliated with VK, neither is Telegram based in Russia 🇷🇺')

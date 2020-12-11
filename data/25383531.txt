@@ -1,1 +1,1 @@
-Item(by='mook', descendants=None, kids=None, score=None, time=1607674372, title=None, item_type='comment', url=None, parent=25383436, text='But Windows already gave up on that (WSL2 is VM-based, with a Microsoft-built Linux kernel); why would Apple go down that road?')
+Item(by='mook', descendants=None, kids=[25383704], score=None, time=1607674372, title=None, item_type='comment', url=None, parent=25383436, text='But Windows already gave up on that (WSL2 is VM-based, with a Microsoft-built Linux kernel); why would Apple go down that road?')

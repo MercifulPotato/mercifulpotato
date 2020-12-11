@@ -1,1 +1,1 @@
-Item(by='Triv888', descendants=None, kids=None, score=None, time=1607674372, title=None, item_type='comment', url=None, parent=25382529, text='wow, I am surprised Apple allows this')
+Item(by='Triv888', descendants=None, kids=[25384944, 25383619], score=None, time=1607674372, title=None, item_type='comment', url=None, parent=25382529, text='wow, I am surprised Apple allows this')

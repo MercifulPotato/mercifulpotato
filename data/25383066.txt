@@ -1,1 +1,1 @@
-Item(by='asimpletune', descendants=0, kids=None, score=1, time=1607668960, title='Monads and GATs in Nightly Rust', item_type='story', url='https://www.fpcomplete.com/blog/monads-gats-nightly-rust/', parent=None, text=None)
+Item(by='asimpletune', descendants=55, kids=[25383829, 25384528, 25384243, 25384133, 25384450, 25383646, 25385594, 25384533], score=104, time=1607668960, title='Monads and GATs in Nightly Rust', item_type='story', url='https://www.fpcomplete.com/blog/monads-gats-nightly-rust/', parent=None, text=None)

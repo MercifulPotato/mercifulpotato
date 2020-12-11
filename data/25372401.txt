@@ -1,1 +1,1 @@
-Item(by='jhoechtl', descendants=2, kids=[25372963], score=7, time=1607598500, title='A truly independet web spider', item_type='story', url='https://www.mojeek.com', parent=None, text=None)
+Item(by='jhoechtl', descendants=42, kids=[25385641, 25385505, 25385664, 25384747, 25385229, 25384690, 25372963, 25386055, 25385100, 25385220, 25385393, 25384835, 25384937], score=51, time=1607598500, title='A truly independet web spider', item_type='story', url='https://www.mojeek.com', parent=None, text=None)

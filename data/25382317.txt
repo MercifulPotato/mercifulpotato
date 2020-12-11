@@ -1,1 +1,1 @@
-Item(by='jkuria', descendants=0, kids=None, score=3, time=1607661069, title='We Are Sikhs', item_type='story', url='http://www.wearesikhs.org/', parent=None, text=None)
+Item(by='jkuria', descendants=1, kids=[25383352], score=4, time=1607661069, title='We Are Sikhs', item_type='story', url='http://www.wearesikhs.org/', parent=None, text=None)

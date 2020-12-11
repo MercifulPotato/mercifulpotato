@@ -1,0 +1,1 @@
+Item(by='bartvk', descendants=None, kids=None, score=None, time=1607675596, title=None, item_type='comment', url=None, parent=25383517, text='I think Virtualization.framework lays on top of Hypervisor.framework, which Apple has included since Yosemite (released in 2014). So while I can&#x27;t refute your suspicions, they would have had the time to implement it from scratch.')

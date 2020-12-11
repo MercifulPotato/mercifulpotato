@@ -1,1 +1,1 @@
-Item(by='ch4s3', descendants=None, kids=None, score=None, time=1607657794, title=None, item_type='comment', url=None, parent=25381242, text='Cypress is really nice and ergonomic locally, but I&#x27;ve found it to be miserable and slow to run in CI.')
+Item(by='ch4s3', descendants=None, kids=[25385406], score=None, time=1607657794, title=None, item_type='comment', url=None, parent=25381242, text='Cypress is really nice and ergonomic locally, but I&#x27;ve found it to be miserable and slow to run in CI.')

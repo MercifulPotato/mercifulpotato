@@ -1,1 +1,1 @@
-Item(by='coldpie', descendants=None, kids=None, score=None, time=1607609122, title=None, item_type='comment', url=None, parent=25373131, text='I ship binary software on Linux. I assure you, it is not wrong.')
+Item(by='coldpie', descendants=None, kids=[25385605], score=None, time=1607609122, title=None, item_type='comment', url=None, parent=25373131, text='I ship binary software on Linux. I assure you, it is not wrong.')

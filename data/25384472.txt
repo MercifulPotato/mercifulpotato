@@ -1,0 +1,1 @@
+Item(by='Nextgrid', descendants=None, kids=None, score=None, time=1607685360, title=None, item_type='comment', url=None, parent=25383348, text='How is the E2E key exchange done? As far as I know the key exchange is mediated by Apple, which means they could decrypt the data if they wanted to.')

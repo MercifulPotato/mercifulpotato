@@ -1,1 +1,1 @@
-Item(by='dgb23', descendants=None, kids=None, score=None, time=1607625221, title=None, item_type='comment', url=None, parent=25375796, text='Can you substantiate that claim?')
+Item(by='dgb23', descendants=None, kids=[25384429], score=None, time=1607625221, title=None, item_type='comment', url=None, parent=25375796, text='Can you substantiate that claim?')
