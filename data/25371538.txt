@@ -1,1 +1,1 @@
-Item(by='jansan', descendants=None, kids=None, score=None, time=1607591519, title=None, item_type='comment', url=None, parent=25371475, text='Michael Burry is one of the people I like listening to, just like Peter Thiel. He always has interesting ideas.')
+Item(by='jansan', descendants=None, kids=[25379084], score=None, time=1607591519, title=None, item_type='comment', url=None, parent=25371475, text='Michael Burry is one of the people I like listening to, just like Peter Thiel. He always has interesting ideas.')

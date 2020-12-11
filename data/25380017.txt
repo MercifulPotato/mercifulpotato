@@ -1,0 +1,1 @@
+Item(by='cyphar', descendants=None, kids=[25380661], score=None, time=1607641606, title=None, item_type='comment', url=None, parent=25377599, text='Strictly speaking, <i>one</i> of the uses of eBPF is a DTrace-like tracing tool but it&#x27;s also used in quite a few other places (for instance it&#x27;s also used for devices cgroup policy in cgroupv2).')

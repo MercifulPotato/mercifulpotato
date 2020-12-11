@@ -1,0 +1,1 @@
+Item(by='WSSP', descendants=None, kids=[25379505], score=None, time=1607636452, title=None, item_type='comment', url=None, parent=25376920, text='post-ARC, Objective-C and Swift aren&#x27;t very different in terms of memory management. retain and release are handled for you, and you only need to worry about retain cycles. structs in Swift change things a bit, but not that much')

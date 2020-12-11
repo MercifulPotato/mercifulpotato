@@ -1,1 +1,1 @@
-Item(by='emllnd', descendants=0, kids=None, score=2, time=1607604410, title='AR with SceneKit and Metal', item_type='story', url='https://emillindfors.com/blog/2020-12/ar-with-scenekit-and-metal/', parent=None, text=None)
+Item(by='emllnd', descendants=24, kids=[25380279, 25379805, 25380122, 25379700, 25379709, 25380339], score=98, time=1607604410, title='AR with SceneKit and Metal', item_type='story', url='https://emillindfors.com/blog/2020-12/ar-with-scenekit-and-metal/', parent=None, text=None)

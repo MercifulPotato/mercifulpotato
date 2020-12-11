@@ -1,1 +1,1 @@
-Item(by='siliconmountain', descendants=0, kids=None, score=2, time=1607629309, title='Google: Common Expression Language Spec', item_type='story', url='https://github.com/google/cel-spec', parent=None, text=None)
+Item(by='siliconmountain', descendants=52, kids=[25381649, 25379075, 25381241, 25378810, 25381111, 25378926, 25379304, 25380348, 25381407, 25379998, 25379373, 25379627], score=120, time=1607629309, title='Common Expression Language', item_type='story', url='https://github.com/google/cel-spec', parent=None, text=None)

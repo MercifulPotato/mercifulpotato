@@ -1,1 +1,1 @@
-Item(by='1_player', descendants=None, kids=None, score=None, time=1607608629, title=None, item_type='comment', url=None, parent=25373590, text='Still? You mean I should spend that time building my next billion dollar business instead?')
+Item(by='1_player', descendants=None, kids=[25379871], score=None, time=1607608629, title=None, item_type='comment', url=None, parent=25373590, text='Still? You mean I should spend that time building my next billion dollar business instead?')

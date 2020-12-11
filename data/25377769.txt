@@ -1,0 +1,1 @@
+Item(by='mNovak', descendants=None, kids=[25377947], score=None, time=1607630111, title=None, item_type='comment', url=None, parent=25363056, text='In their simple example of a website hit-counter, can someone explain how you would aggregate batches of 50 requests to amortize compute costs? I thought the whole point of the DB is to store information between disparate requests?')

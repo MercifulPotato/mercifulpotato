@@ -1,1 +1,1 @@
-Item(by='nine_k', descendants=None, kids=None, score=None, time=1607577289, title=None, item_type='comment', url=None, parent=25369272, text='Thanks, TIL!')
+Item(by='nine_k', descendants=None, kids=[25379187], score=None, time=1607577289, title=None, item_type='comment', url=None, parent=25369272, text='Thanks, TIL!')

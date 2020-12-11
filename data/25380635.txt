@@ -1,0 +1,1 @@
+Item(by='jcims', descendants=None, kids=[25380815], score=None, time=1607645586, title=None, item_type='comment', url=None, parent=25379692, text='I think the pricing of DynamoDB is the killer for personal projects.  I ran it as a bit of a persistent cache one night and ran up $60 in charges.')

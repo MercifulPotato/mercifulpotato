@@ -1,1 +1,1 @@
-Item(by='jacobobryant', descendants=0, kids=None, score=2, time=1607625629, title='A New Take on RSS', item_type='story', url='https://findka.com/blog/new-take-on-rss/', parent=None, text=None)
+Item(by='jacobobryant', descendants=16, kids=[25378681, 25378742, 25379977, 25379899, 25380764], score=87, time=1607625629, title='A New Take on RSS', item_type='story', url='https://findka.com/blog/new-take-on-rss/', parent=None, text=None)

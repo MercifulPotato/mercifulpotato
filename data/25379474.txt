@@ -1,0 +1,1 @@
+Item(by='throwaway894345', descendants=None, kids=[25381631], score=None, time=1607638295, title=None, item_type='comment', url=None, parent=25379425, text='I haven&#x27;t used Lua, but I&#x27;ve used Starlark extensively and I will say that static typing is a boon, especially in the infra-as-code space where the feedback loop can be very long.')

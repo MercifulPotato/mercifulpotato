@@ -1,0 +1,1 @@
+Item(by='oftenwrong', descendants=None, kids=None, score=None, time=1607644398, title=None, item_type='comment', url=None, parent=25380056, text='I consider a static type system to be a must-have. If Clojure was more like Typed Racket on the JVM, I would already be using it.')

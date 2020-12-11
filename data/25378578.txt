@@ -1,0 +1,1 @@
+Item(by='bestham', descendants=None, kids=None, score=None, time=1607633950, title=None, item_type='comment', url=None, parent=25378308, text='Yes, for the original hardware, with known latency it worked wonders. But software implementations on different hardware stacks, often with i2s dacs that don’t report their latency back to the OS makes for a headache inducing sync.')

@@ -1,0 +1,1 @@
+Item(by='wtallis', descendants=None, kids=[25380055], score=None, time=1607641339, title=None, item_type='comment', url=None, parent=25379972, text='&gt; The &quot;gigabit&quot; cable internet available in my area is 960&#x2F;30, and as a big self-hoster, that&#x27;s not close to enough upload.<p>More importantly, 30Mbps is barely enough to ACK a 1Gbps stream of packets.')

@@ -1,0 +1,1 @@
+Item(by='kaba0', descendants=None, kids=None, score=None, time=1607642838, title=None, item_type='comment', url=None, parent=25373593, text='But there is now an actual solution to dependency hell: nix and guix deterministic build tools.<p>Though I agree with you that binary compatibility itself is&#x2F;was not that stable on linux as it was on windows.')

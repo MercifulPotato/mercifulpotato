@@ -1,1 +1,1 @@
-Item(by='GoblinSlayer', descendants=None, kids=None, score=None, time=1607626011, title=None, item_type='comment', url=None, parent=25375558, text='Turn off javascript, that&#x27;s your gold standard anti-fingerprinting.')
+Item(by='GoblinSlayer', descendants=None, kids=[25381065, 25380447], score=None, time=1607626011, title=None, item_type='comment', url=None, parent=25375558, text='Turn off javascript, that&#x27;s your gold standard anti-fingerprinting.')

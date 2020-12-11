@@ -1,0 +1,1 @@
+Item(by='shawnz', descendants=None, kids=None, score=None, time=1607645910, title=None, item_type='comment', url=None, parent=25379642, text='Starlark is also designed specifically to not be Turing complete (it is only a subset of Python).')

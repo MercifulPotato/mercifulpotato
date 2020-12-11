@@ -1,0 +1,1 @@
+Item(by='latchkey', descendants=None, kids=None, score=None, time=1607646077, title=None, item_type='comment', url=None, parent=25379371, text=' From point 1, this is my favorite wat example in ansible...<p><pre><code>  - file:\n      path: &#x2F;etc&#x2F;foo.conf\n      owner: foo\n      group: foo\n      mode: 0644</code></pre>')

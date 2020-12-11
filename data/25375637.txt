@@ -1,1 +1,1 @@
-Item(by='markmossberg', descendants=0, kids=None, score=7, time=1607619239, title='Double fetches, scheduling algorithms, and onion rings', item_type='story', url='https://offlinemark.com/2020/11/12/double-fetches-scheduling-algorithms-onion-rings/', parent=None, text=None)
+Item(by='markmossberg', descendants=3, kids=[25379589, 25379768], score=40, time=1607619239, title='Double fetches, scheduling algorithms, and onion rings', item_type='story', url='https://offlinemark.com/2020/11/12/double-fetches-scheduling-algorithms-onion-rings/', parent=None, text=None)

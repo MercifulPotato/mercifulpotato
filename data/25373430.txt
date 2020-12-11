@@ -1,1 +1,1 @@
-Item(by='croissants', descendants=0, kids=None, score=17, time=1607606801, title='China launches ‘gray-zone’ warfare to subdue Taiwan', item_type='story', url='https://www.reuters.com/investigates/special-report/hongkong-taiwan-military/', parent=None, text=None)
+Item(by='croissants', descendants=1, kids=[25381179, 25377790], score=35, time=1607606801, title='China launches ‘gray-zone’ warfare to subdue Taiwan', item_type='story', url='https://www.reuters.com/investigates/special-report/hongkong-taiwan-military/', parent=None, text=None)

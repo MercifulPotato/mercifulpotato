@@ -1,0 +1,1 @@
+Item(by='WrtCdEvrydy', descendants=None, kids=None, score=None, time=1607633779, title=None, item_type='comment', url=None, parent=25374457, text='$5 droplet, 2GB swap (set it internally) and run Caprover.<p>Deploy your Postgres (for DB), minio (for s3 storage) and your webapp from Caprover. Add nodes as you need to scale out.')

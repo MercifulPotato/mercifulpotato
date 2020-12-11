@@ -1,1 +1,1 @@
-Item(by='garmaine', descendants=None, kids=None, score=None, time=1607626938, title=None, item_type='comment', url=None, parent=25376399, text='CentOS had patches. It just wasn’t a rolling release.')
+Item(by='garmaine', descendants=None, kids=[25380086], score=None, time=1607626938, title=None, item_type='comment', url=None, parent=25376399, text='CentOS had patches. It just wasn’t a rolling release.')

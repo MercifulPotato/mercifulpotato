@@ -1,0 +1,1 @@
+Item(by='gwittel', descendants=None, kids=None, score=None, time=1607634457, title=None, item_type='comment', url=None, parent=25374752, text='IIRC It has to be enabled by your Office365 admin.  Office365&#x27;s IMAP also doesn&#x27;t support 2FA so if your org uses that, then IMAP is out.')

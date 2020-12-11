@@ -1,0 +1,1 @@
+Item(by='remexre', descendants=None, kids=None, score=None, time=1607652474, title=None, item_type='comment', url=None, parent=25380848, text='&quot;Arbitrary recursion&quot; is the correct claim; e.g. Coq allows recursion, but has restrictions so all programs terminate.')

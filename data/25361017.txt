@@ -1,1 +1,1 @@
-Item(by='nyanpasu64', descendants=None, kids=None, score=None, time=1607534578, title=None, item_type='comment', url=None, parent=25354607, text='How do I set a font? The only thing revealed by Ctrl+F is FontScale, which produces blurry results for any value greater than 1.')
+Item(by='nyanpasu64', descendants=None, kids=[25379736], score=None, time=1607534578, title=None, item_type='comment', url=None, parent=25354607, text='How do I set a font? The only thing revealed by Ctrl+F is FontScale, which produces blurry results for any value greater than 1.')

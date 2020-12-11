@@ -1,1 +1,1 @@
-Item(by='foo_barrio', descendants=None, kids=None, score=None, time=1607627573, title=None, item_type='comment', url=None, parent=25376533, text='Yea, this type of image recording has huge compromises but I personally find it really cool.')
+Item(by='foo_barrio', descendants=None, kids=[25379431], score=None, time=1607627573, title=None, item_type='comment', url=None, parent=25376533, text='Yea, this type of image recording has huge compromises but I personally find it really cool.')

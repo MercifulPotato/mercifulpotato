@@ -1,1 +1,1 @@
-Item(by='maximemanseau', descendants=0, kids=None, score=2, time=1607629583, title='Ask HN: I just became a father, what is the only book I should read?', item_type='story', url=None, parent=None, text=None)
+Item(by='maximemanseau', descendants=9, kids=[25381157, 25380482, 25378369, 25377822, 25380192, 25377816, 25377781, 25378035, 25377722, 25377833], score=7, time=1607629583, title='Ask HN: I just became a father, what is the only book I should read?', item_type='story', url=None, parent=None, text=None)

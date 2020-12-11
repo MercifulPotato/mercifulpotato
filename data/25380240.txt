@@ -1,0 +1,1 @@
+Item(by='merb', descendants=None, kids=None, score=None, time=1607643125, title=None, item_type='comment', url=None, parent=25375092, text='you can&#x27;t compare tumbleweed with fedora since fedora has &quot;major releases&quot; and a support window.\ntumbleweed is basically on the edge (with transactional-update support) i.e. there is no &quot;system upgrade&quot;')

@@ -1,0 +1,1 @@
+Item(by='st3fan', descendants=None, kids=[25380171, 25379329], score=None, time=1607636934, title=None, item_type='comment', url=None, parent=25378095, text='Clojure has no null safety. You may encounter it less because of the foundational building blocks you use in the language, but NPEs are most certainly there.')
