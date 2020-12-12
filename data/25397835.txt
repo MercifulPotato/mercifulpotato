@@ -1,1 +1,1 @@
-Item(by='minot', descendants=None, kids=None, score=None, time=1607776225, title=None, item_type='comment', url=None, parent=25396616, text='The follow up question I hope someone can answer is how does google sort them?')
+Item(by='minot', descendants=None, kids=[25399216], score=None, time=1607776225, title=None, item_type='comment', url=None, parent=25396616, text='The follow up question I hope someone can answer is how does google sort them?')

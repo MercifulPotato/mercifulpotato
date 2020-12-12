@@ -1,1 +1,1 @@
-Item(by='scns', descendants=None, kids=None, score=None, time=1607783670, title=None, item_type='comment', url=None, parent=25397934, text='I have .. as an alias for cd ..')
+Item(by='scns', descendants=None, kids=[25398957, 25399667], score=None, time=1607783670, title=None, item_type='comment', url=None, parent=25397934, text='I have .. as an alias for cd ..')

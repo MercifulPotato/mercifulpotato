@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1607790495, title=None, item_type='comment', url=None, parent=25398452, text='It took C++ 10 years to get concepts and modules into the standard, and experience shows 5 more until all bugs are sorted out.<p>Probably 10 more for static reflection, executors and networking.<p>Good engineering takes time.')

@@ -1,1 +1,1 @@
-Item(by='dash2', descendants=None, kids=None, score=None, time=1607769355, title=None, item_type='comment', url=None, parent=25394162, text='Do they agree, though? And will you want your kids that far away when you are old?')
+Item(by='dash2', descendants=None, kids=[25400186], score=None, time=1607769355, title=None, item_type='comment', url=None, parent=25394162, text='Do they agree, though? And will you want your kids that far away when you are old?')

@@ -1,0 +1,1 @@
+Item(by='minxomat', descendants=None, kids=None, score=None, time=1607785876, title=None, item_type='comment', url=None, parent=25398652, text='DNS is in the works, but at the moment no, you need an external DNS with apex CNAME support (e.g. cloudflare)')

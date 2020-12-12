@@ -1,1 +1,1 @@
-Item(by='seattletech', descendants=None, kids=None, score=None, time=1607726181, title=None, item_type='comment', url=None, parent=25389774, text='I am fairly certain that corporate charters were originally time-limited.')
+Item(by='seattletech', descendants=None, kids=[25398861], score=None, time=1607726181, title=None, item_type='comment', url=None, parent=25389774, text='I am fairly certain that corporate charters were originally time-limited.')

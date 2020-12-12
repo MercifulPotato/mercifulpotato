@@ -1,1 +1,1 @@
-Item(by='nemo44x', descendants=None, kids=None, score=None, time=1607775608, title=None, item_type='comment', url=None, parent=25397314, text='I feel like “wooden” sounds more natural before “hand-painted”.')
+Item(by='nemo44x', descendants=None, kids=[25399087], score=None, time=1607775608, title=None, item_type='comment', url=None, parent=25397314, text='I feel like “wooden” sounds more natural before “hand-painted”.')

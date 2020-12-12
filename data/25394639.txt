@@ -1,1 +1,1 @@
-Item(by='fizx', descendants=None, kids=None, score=None, time=1607739037, title=None, item_type='comment', url=None, parent=25389629, text='I assume you mean expensive mistakes!  Making cheap mistakes is a great way to learn!')
+Item(by='fizx', descendants=None, kids=[25400646], score=None, time=1607739037, title=None, item_type='comment', url=None, parent=25389629, text='I assume you mean expensive mistakes!  Making cheap mistakes is a great way to learn!')

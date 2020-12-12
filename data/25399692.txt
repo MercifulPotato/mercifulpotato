@@ -1,0 +1,1 @@
+Item(by='Rusky', descendants=0, kids=None, score=2, time=1607792881, title="Finding Bugs Compiler Knows but Doesn't Tell You: Undefined Behavior in LLVM", item_type='story', url='https://www.blackhat.com/eu-20/briefings/schedule/#finding-bugs-compiler-knows-but-doesnt-tell-you-dissecting-undefined-behavior-optimizations-in-llvm-21128', parent=None, text=None)

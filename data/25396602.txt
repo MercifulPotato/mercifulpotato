@@ -1,1 +1,1 @@
-Item(by='arvindamirtaa', descendants=1, kids=[25396605], score=6, time=1607760116, title='Nvidia bans Hardware Unboxed over their focus on Rasterisation over Ray-tracing', item_type='story', url='https://twitter.com/HardwareUnboxed/status/1337246983682060289', parent=None, text=None)
+Item(by='arvindamirtaa', descendants=2, kids=[25398462, 25396605], score=12, time=1607760116, title='Nvidia bans Hardware Unboxed over their focus on Rasterisation over Ray-tracing', item_type='story', url='https://twitter.com/HardwareUnboxed/status/1337246983682060289', parent=None, text=None)

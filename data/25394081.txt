@@ -1,1 +1,1 @@
-Item(by='wyldfire', descendants=0, kids=None, score=9, time=1607735189, title='Taking Action Against Hackers in Bangladesh and Vietnam', item_type='story', url='https://about.fb.com/news/2020/12/taking-action-against-hackers-in-bangladesh-and-vietnam/', parent=None, text=None)
+Item(by='wyldfire', descendants=2, kids=[25400411, 25398204], score=13, time=1607735189, title='Taking Action Against Hackers in Bangladesh and Vietnam', item_type='story', url='https://about.fb.com/news/2020/12/taking-action-against-hackers-in-bangladesh-and-vietnam/', parent=None, text=None)

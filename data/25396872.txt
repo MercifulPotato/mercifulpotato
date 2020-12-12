@@ -1,1 +1,1 @@
-Item(by='maven29', descendants=None, kids=None, score=None, time=1607763560, title=None, item_type='comment', url=None, parent=25396615, text='In the wake of the wannacry debacle, quite a few ISPs have moved IPv6 as well behind CGNAT.')
+Item(by='maven29', descendants=None, kids=[25399051], score=None, time=1607763560, title=None, item_type='comment', url=None, parent=25396615, text='In the wake of the wannacry debacle, quite a few ISPs have moved IPv6 as well behind CGNAT.')

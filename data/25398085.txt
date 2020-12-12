@@ -1,1 +1,1 @@
-Item(by='whereistimbo', descendants=0, kids=None, score=3, time=1607779391, title='Running Windows XP Under 32MB RAM', item_type='story', url='https://www.youtube.com/watch?v=QZE2mD4g9R4', parent=None, text=None)
+Item(by='whereistimbo', descendants=2, kids=[25398381], score=3, time=1607779391, title='Running Windows XP Under 32MB RAM', item_type='story', url='https://www.youtube.com/watch?v=QZE2mD4g9R4', parent=None, text=None)

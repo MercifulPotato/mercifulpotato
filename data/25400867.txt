@@ -1,0 +1,1 @@
+Item(by='carlsborg', descendants=None, kids=None, score=None, time=1607801774, title=None, item_type='comment', url=None, parent=25400598, text='Single sign on. Users accessing online services, for example AWS console, from within the corporate environment, may not use passwords. Identity is federated from whatever corporarate directory service the org uses.')

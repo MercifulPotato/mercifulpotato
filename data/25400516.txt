@@ -1,0 +1,1 @@
+Item(by='anchpop', descendants=None, kids=None, score=None, time=1607799384, title=None, item_type='comment', url=None, parent=25371539, text='I wish for a version of TS where I could have === automatically rewritten to use _.isEqual, that way [1,2,3] === [1,2,3] would return true.')

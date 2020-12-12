@@ -1,0 +1,1 @@
+Item(by='gumby', descendants=None, kids=None, score=None, time=1607804390, title=None, item_type='comment', url=None, parent=25400924, text='Most of the GUI apps I use on macos update themselves using a framework like sparkle.  Just uses an occasional (typically weekly) connection to check if an update is available and doesn’t need its own daemon.')

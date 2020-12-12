@@ -1,1 +1,1 @@
-Item(by='bawolff', descendants=None, kids=None, score=None, time=1607771969, title=None, item_type='comment', url=None, parent=25397216, text='That&#x27;s silly. This attack would be much easier to pull off with cryptocurrency.')
+Item(by='bawolff', descendants=None, kids=[25401317], score=None, time=1607771969, title=None, item_type='comment', url=None, parent=25397216, text='That&#x27;s silly. This attack would be much easier to pull off with cryptocurrency.')

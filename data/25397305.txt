@@ -1,1 +1,1 @@
-Item(by='DJBunnies', descendants=None, kids=None, score=None, time=1607769118, title=None, item_type='comment', url=None, parent=25396740, text='All into memory no less.')
+Item(by='DJBunnies', descendants=None, kids=[25398486], score=None, time=1607769118, title=None, item_type='comment', url=None, parent=25396740, text='All into memory no less.')

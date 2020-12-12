@@ -1,1 +1,1 @@
-Item(by='Luc', descendants=0, kids=None, score=2, time=1607775505, title="Zodiac Killer: Code-breakers solve San Francisco killer's cipher", item_type='story', url='https://www.bbc.com/news/world-us-canada-55285805', parent=None, text=None)
+Item(by='Luc', descendants=25, kids=[25401013, 25401461, 25399925, 25399963, 25400525, 25400938, 25400475, 25399828, 25400262, 25400160], score=53, time=1607775505, title="Zodiac Killer: Code-breakers solve San Francisco killer's cipher", item_type='story', url='https://www.bbc.com/news/world-us-canada-55285805', parent=None, text=None)

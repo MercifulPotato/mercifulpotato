@@ -1,1 +1,1 @@
-Item(by='detaro', descendants=None, kids=None, score=None, time=1607781925, title=None, item_type='comment', url=None, parent=25398262, text='Of course nothing stops an ISP putting you behind CGNAT IPv4 without IPv6.')
+Item(by='detaro', descendants=None, kids=[25398376], score=None, time=1607781925, title=None, item_type='comment', url=None, parent=25398262, text='Of course nothing stops an ISP putting you behind CGNAT IPv4 without IPv6.')

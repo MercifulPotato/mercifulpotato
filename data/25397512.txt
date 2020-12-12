@@ -1,1 +1,1 @@
-Item(by='toyg', descendants=None, kids=None, score=None, time=1607771436, title=None, item_type='comment', url=None, parent=25396924, text='This is going to be a boon for bitcoin exchanges and their likes. These will become “prepaid btc &#x2F; monero cards” or something like that.')
+Item(by='toyg', descendants=None, kids=[25400668], score=None, time=1607771436, title=None, item_type='comment', url=None, parent=25396924, text='This is going to be a boon for bitcoin exchanges and their likes. These will become “prepaid btc &#x2F; monero cards” or something like that.')

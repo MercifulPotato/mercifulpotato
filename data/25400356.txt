@@ -1,0 +1,1 @@
+Item(by='lock-free', descendants=None, kids=None, score=None, time=1607798106, title=None, item_type='comment', url=None, parent=25400213, text='I don&#x27;t see a functional difference in denying spaces in paths from denying new lines in paths.<p>My dream OS would forbid path names that don&#x27;t match \\w in grep.')

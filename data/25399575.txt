@@ -1,0 +1,1 @@
+Item(by='crispyporkbites', descendants=None, kids=[25399766], score=None, time=1607792153, title=None, item_type='comment', url=None, parent=25398711, text='You can’t run an email server on ipv6, as most email service providers still use IP blocklists to score spam. Blocklists on IPv6 are not feasible.')

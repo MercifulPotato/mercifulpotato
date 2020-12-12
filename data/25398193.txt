@@ -1,1 +1,1 @@
-Item(by='arendtio', descendants=None, kids=None, score=None, time=1607780892, title=None, item_type='comment', url=None, parent=25398109, text='Another option is &#x27;the way in which vim spreads&#x27;')
+Item(by='arendtio', descendants=None, kids=[25398481], score=None, time=1607780892, title=None, item_type='comment', url=None, parent=25398109, text='Another option is &#x27;the way in which vim spreads&#x27;')
