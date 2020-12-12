@@ -1,1 +1,1 @@
-Item(by='skinnymuch', descendants=None, kids=None, score=None, time=1607753351, title=None, item_type='comment', url=None, parent=25394562, text='The poster meant bigoted. This is pedantic.')
+Item(by='skinnymuch', descendants=None, kids=[25397369], score=None, time=1607753351, title=None, item_type='comment', url=None, parent=25394562, text='The poster meant bigoted. This is pedantic.')

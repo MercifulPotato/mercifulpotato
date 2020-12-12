@@ -1,1 +1,1 @@
-Item(by='avador', descendants=0, kids=None, score=2, time=1607737755, title='The Lady, or the Tiger? (1882)', item_type='story', url='https://en.m.wikisource.org/wiki/The_lady,_or_the_tiger%3F_and_other_stories/The_Lady,_or_the_Tiger%3F', parent=None, text=None)
+Item(by='avador', descendants=4, kids=[25397915, 25397865, 25397660], score=22, time=1607737755, title='The Lady, or the Tiger? (1882)', item_type='story', url='https://en.m.wikisource.org/wiki/The_lady,_or_the_tiger%3F_and_other_stories/The_Lady,_or_the_Tiger%3F', parent=None, text=None)

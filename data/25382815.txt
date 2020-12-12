@@ -1,1 +1,1 @@
-Item(by='BlueTemplar', descendants=None, kids=None, score=None, time=1607666604, title=None, item_type='comment', url=None, parent=25379313, text='What do the new PlayStation and Xbox use?')
+Item(by='BlueTemplar', descendants=None, kids=[25397167], score=None, time=1607666604, title=None, item_type='comment', url=None, parent=25379313, text='What do the new PlayStation and Xbox use?')

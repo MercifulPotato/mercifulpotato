@@ -1,0 +1,1 @@
+Item(by='bstasse', descendants=None, kids=None, score=None, time=1607771720, title=None, item_type='comment', url=None, parent=25397199, text='As mentioned in other comments, CSS does not run scripts. In this case, it is just used to store the content of a script as a string in a custom property, which is then retrieved by another script, and run.')

@@ -1,1 +1,1 @@
-Item(by='swiley', descendants=None, kids=None, score=None, time=1607758105, title=None, item_type='comment', url=None, parent=25394740, text='There was a period of time where the web was actually <i>less</i> readable in lynx&#x2F;elinks, it&#x27;s weird how that changed.')
+Item(by='swiley', descendants=None, kids=[25398030], score=None, time=1607758105, title=None, item_type='comment', url=None, parent=25394740, text='There was a period of time where the web was actually <i>less</i> readable in lynx&#x2F;elinks, it&#x27;s weird how that changed.')

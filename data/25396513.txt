@@ -1,1 +1,1 @@
-Item(by='zimpenfish', descendants=None, kids=None, score=None, time=1607759129, title=None, item_type='comment', url=None, parent=25396452, text='Taofledermaus talk about their &quot;mass accelerator&quot; and &quot;launch director&quot; for the same reasons.')
+Item(by='zimpenfish', descendants=None, kids=[25396662], score=None, time=1607759129, title=None, item_type='comment', url=None, parent=25396452, text='Taofledermaus talk about their &quot;mass accelerator&quot; and &quot;launch director&quot; for the same reasons.')

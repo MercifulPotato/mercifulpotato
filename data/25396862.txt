@@ -1,0 +1,1 @@
+Item(by='rualca', descendants=None, kids=[25397239], score=None, time=1607763398, title=None, item_type='comment', url=None, parent=25396652, text='&gt; When you “geolocate” an IP, you’re really just looking up the registered info for that IP’s ASN in the ARIN&#x2F;RIPE database.<p>That&#x27;s pretty much the whole business model of VPNs.<p>That, and secure encrypted traffic.')

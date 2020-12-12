@@ -1,1 +1,1 @@
-Item(by='TheCoelacanth', descendants=None, kids=None, score=None, time=1607728684, title=None, item_type='comment', url=None, parent=25389440, text='Your shareholders, the owners of the company who you are working for, care about what the trading price is.')
+Item(by='TheCoelacanth', descendants=None, kids=[25398104], score=None, time=1607728684, title=None, item_type='comment', url=None, parent=25389440, text='Your shareholders, the owners of the company who you are working for, care about what the trading price is.')

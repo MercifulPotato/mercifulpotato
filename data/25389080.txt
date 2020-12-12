@@ -1,1 +1,1 @@
-Item(by='chainzbear', descendants=None, kids=None, score=None, time=1607712085, title=None, item_type='comment', url=None, parent=25383391, text='What do you host your projects on?')
+Item(by='chainzbear', descendants=None, kids=[25397770], score=None, time=1607712085, title=None, item_type='comment', url=None, parent=25383391, text='What do you host your projects on?')

@@ -1,0 +1,1 @@
+Item(by='gameswithgo', descendants=None, kids=[25398154], score=None, time=1607774527, title=None, item_type='comment', url=None, parent=25396658, text='lack of value types is also a sticking point, which the early code worked around but evolved to do less and less so.  imagine arrays of references to 3d vectors each of which is an object on the heap, instead of inline, etc')

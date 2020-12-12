@@ -1,0 +1,1 @@
+Item(by='chrisacky', descendants=None, kids=[25397703, 25397067, 25397526, 25397527], score=None, time=1607766011, title=None, item_type='comment', url=None, parent=25370886, text='Why on earth can CSS load JS. Is this an oversight or does --javascript actually exist for this exact purpose. I cannot find any details on this in any spec or rfc etc.')

@@ -1,0 +1,1 @@
+Item(by='wut42', descendants=None, kids=None, score=None, time=1607772132, title=None, item_type='comment', url=None, parent=25397528, text='It doesn&#x27;t look for `--script`. The hackers just retrieve the value of the `--script` value in JS and pass it to `new Function()`.')

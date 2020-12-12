@@ -1,1 +1,1 @@
-Item(by='crossentropy', descendants=0, kids=None, score=2, time=1607739147, title='The simplest way to write Dockerfile', item_type='story', url='https://gist.github.com/kevwan/1fe6443a03ce196f57fd69bafe2bf0d8', parent=None, text=None)
+Item(by='crossentropy', descendants=0, kids=None, score=4, time=1607739147, title='The simplest way to write Dockerfile', item_type='story', url='https://gist.github.com/kevwan/1fe6443a03ce196f57fd69bafe2bf0d8', parent=None, text=None)

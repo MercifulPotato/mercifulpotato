@@ -1,0 +1,1 @@
+Item(by='sillysaurusx', descendants=None, kids=None, score=None, time=1607764997, title=None, item_type='comment', url=None, parent=25396715, text='I agree. Python&#x27;s descriptor pattern was an endless source of confusion for me. But, it&#x27;s much easier to do mixins in Python than in JS, even if the mro algorithm is a bit complicated...')

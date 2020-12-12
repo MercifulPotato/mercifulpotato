@@ -1,1 +1,1 @@
-Item(by='gnicholas', descendants=1, kids=[25395328], score=3, time=1607744551, title='When the Stock Market Is Too Much Fun', item_type='story', url='https://www.wsj.com/articles/when-the-stock-market-is-too-much-fun-11607705516', parent=None, text=None)
+Item(by='gnicholas', descendants=3, kids=[25397645, 25395328], score=4, time=1607744551, title='When the Stock Market Is Too Much Fun', item_type='story', url='https://www.wsj.com/articles/when-the-stock-market-is-too-much-fun-11607705516', parent=None, text=None)

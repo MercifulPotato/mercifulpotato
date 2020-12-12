@@ -1,1 +1,1 @@
-Item(by='karlshea', descendants=None, kids=None, score=None, time=1607754261, title=None, item_type='comment', url=None, parent=25395289, text='The link in your comment doesn&#x27;t have anything to do with what you&#x27;ve said.')
+Item(by='karlshea', descendants=None, kids=[25398191], score=None, time=1607754261, title=None, item_type='comment', url=None, parent=25395289, text='The link in your comment doesn&#x27;t have anything to do with what you&#x27;ve said.')
