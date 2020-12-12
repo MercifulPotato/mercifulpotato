@@ -1,1 +1,1 @@
-Item(by='admsg', descendants=2, kids=[25389181, 25388970], score=2, time=1607711504, title='No VPN? No problem! Using SSH tunnels for remote access to closed networks', item_type='story', url='https://adamsgaard.dk/ssh-tunnels.html', parent=None, text=None)
+Item(by='admsg', descendants=2, kids=[25389181, 25388970], score=3, time=1607711504, title='No VPN? No problem! Using SSH tunnels for remote access to closed networks', item_type='story', url='https://adamsgaard.dk/ssh-tunnels.html', parent=None, text=None)

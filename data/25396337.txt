@@ -1,0 +1,1 @@
+Item(by='verroq', descendants=None, kids=None, score=None, time=1607756874, title=None, item_type='comment', url=None, parent=25394312, text='A key property of cryptography is that a good entropy source XOR&#x27;d with a poor (biased) entropy source does not degrade the quality of the final result.')

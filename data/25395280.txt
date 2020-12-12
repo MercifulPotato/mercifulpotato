@@ -1,0 +1,1 @@
+Item(by='ec109685', descendants=None, kids=[25395828], score=None, time=1607744477, title=None, item_type='comment', url=None, parent=25393625, text='Cloud run can execute multiple requests against the same container at the same time.<p>With the FaatCGI paradigm, you have to spin up separate process per simultaneous request.')

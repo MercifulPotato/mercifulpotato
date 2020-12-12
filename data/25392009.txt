@@ -1,1 +1,1 @@
-Item(by='_chris_', descendants=None, kids=None, score=None, time=1607724655, title=None, item_type='comment', url=None, parent=25391861, text='There&#x27;s a reason we wear shoes indoors in Texas...')
+Item(by='_chris_', descendants=None, kids=[25395133], score=None, time=1607724655, title=None, item_type='comment', url=None, parent=25391861, text='There&#x27;s a reason we wear shoes indoors in Texas...')

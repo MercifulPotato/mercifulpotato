@@ -1,1 +1,1 @@
-Item(by='sokoloff', descendants=None, kids=None, score=None, time=1607700482, title=None, item_type='comment', url=None, parent=25385968, text='You can measure progress of a military campaign by counting and reporting on “bullets fired” yet that’s not how military strategists operate.')
+Item(by='sokoloff', descendants=None, kids=[25395635], score=None, time=1607700482, title=None, item_type='comment', url=None, parent=25385968, text='You can measure progress of a military campaign by counting and reporting on “bullets fired” yet that’s not how military strategists operate.')

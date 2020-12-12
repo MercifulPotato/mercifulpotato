@@ -1,1 +1,1 @@
-Item(by='secondary', descendants=0, kids=None, score=2, time=1607740153, title='Molly', item_type='story', url='https://thevolta.org/im-bbutler.html', parent=None, text=None)
+Item(by='secondary', descendants=2, kids=[25394928, 25396154], score=7, time=1607740153, title='Molly', item_type='story', url='https://thevolta.org/im-bbutler.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='vijaybritto', descendants=None, kids=None, score=None, time=1607755045, title=None, item_type='comment', url=None, parent=25396025, text='There are a few stuff that are missing from core preact that can be added via preact&#x2F;compat package namely:\nmemo, forwardRef, PureComponent, Event listener modifications similar to react, etc.,')

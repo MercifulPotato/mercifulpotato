@@ -1,1 +1,1 @@
-Item(by='adamsea', descendants=5, kids=[25393291], score=7, time=1607730369, title='Supreme Court Rejects Texas Suit Seeking to Overturn Election', item_type='story', url='https://www.nytimes.com/2020/12/11/us/politics/supreme-court-election-texas.html', parent=None, text=None)
+Item(by='adamsea', descendants=11, kids=[25393291], score=9, time=1607730369, title='Supreme Court Rejects Texas Suit Seeking to Overturn Election', item_type='story', url='https://www.nytimes.com/2020/12/11/us/politics/supreme-court-election-texas.html', parent=None, text=None)

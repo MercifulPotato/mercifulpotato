@@ -1,1 +1,1 @@
-Item(by='sim_card_map', descendants=None, kids=None, score=None, time=1607739874, title=None, item_type='comment', url=None, parent=25384434, text='what&#x27;s the point in DDG then?')
+Item(by='sim_card_map', descendants=None, kids=[25395285], score=None, time=1607739874, title=None, item_type='comment', url=None, parent=25384434, text='what&#x27;s the point in DDG then?')

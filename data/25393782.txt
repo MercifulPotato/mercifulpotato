@@ -1,1 +1,1 @@
-Item(by='muzz', descendants=None, kids=None, score=None, time=1607733327, title=None, item_type='comment', url=None, parent=25391792, text='Tesla didn&#x27;t move.  Elon Musk moved, the company didn&#x27;t.')
+Item(by='muzz', descendants=None, kids=[25396172], score=None, time=1607733327, title=None, item_type='comment', url=None, parent=25391792, text='Tesla didn&#x27;t move.  Elon Musk moved, the company didn&#x27;t.')

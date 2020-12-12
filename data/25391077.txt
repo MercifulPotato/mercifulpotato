@@ -1,1 +1,1 @@
-Item(by='tambourine_man', descendants=0, kids=None, score=5, time=1607721265, title='Preact: Fast 3kb React Alternative with the Same API, Components and Virtual DOM', item_type='story', url='https://preactjs.com/', parent=None, text=None)
+Item(by='tambourine_man', descendants=12, kids=[25396025], score=41, time=1607721265, title='Preact: Fast 3kb React Alternative with the Same API, Components and Virtual DOM', item_type='story', url='https://preactjs.com/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='rhabarba', descendants=None, kids=None, score=None, time=1607724157, title=None, item_type='comment', url=None, parent=25388594, text='COBOL even exists on Windows these days. Combined with a mainframe editor simulation like SPF, it all comes to fruition in some way.')
+Item(by='rhabarba', descendants=None, kids=[25395143], score=None, time=1607724157, title=None, item_type='comment', url=None, parent=25388594, text='COBOL even exists on Windows these days. Combined with a mainframe editor simulation like SPF, it all comes to fruition in some way.')

@@ -1,0 +1,1 @@
+Item(by='nojvek', descendants=None, kids=[25395920], score=None, time=1607751508, title=None, item_type='comment', url=None, parent=25394520, text='No cloud run is only for http requests only. Not even push. You want to use this for short lived requests. Web sockets need more persistent connections.<p>Although may be there is a way I don’t know.')

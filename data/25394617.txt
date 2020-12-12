@@ -1,1 +1,1 @@
-Item(by='loxias', descendants=None, kids=None, score=None, time=1607738841, title=None, item_type='comment', url=None, parent=25391159, text='Immediately.  And recently begun idly wondering if people are going to be jumping the queue. (and how they might do so...)')
+Item(by='loxias', descendants=None, kids=[25395520], score=None, time=1607738841, title=None, item_type='comment', url=None, parent=25391159, text='Immediately.  And recently begun idly wondering if people are going to be jumping the queue. (and how they might do so...)')

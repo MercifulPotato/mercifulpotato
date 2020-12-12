@@ -1,1 +1,1 @@
-Item(by='lordmax', descendants=0, kids=None, score=1, time=1607739768, title='The Hunter Biden Business', item_type='story', url='https://www.wsj.com/articles/the-hunter-biden-business-11607644236', parent=None, text=None)
+Item(by='lordmax', descendants=1, kids=[25395558], score=6, time=1607739768, title='The Hunter Biden Business', item_type='story', url='https://www.wsj.com/articles/the-hunter-biden-business-11607644236', parent=None, text=None)

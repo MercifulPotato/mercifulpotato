@@ -1,0 +1,1 @@
+Item(by='mifreewil', descendants=None, kids=None, score=None, time=1607756229, title=None, item_type='comment', url=None, parent=25396237, text='Most of those devices only have a private IP address and use NAT to be able to communicate via the Internet.<p>Only servers that need to be publicly accessed directly like a web server actually need a public IP.')

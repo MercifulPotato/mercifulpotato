@@ -1,1 +1,1 @@
-Item(by='st3fan', descendants=None, kids=None, score=None, time=1607742720, title=None, item_type='comment', url=None, parent=25394999, text='I would not use a work in progress port of Go to compare. This would be better in C to rule out Go runtime issues.')
+Item(by='st3fan', descendants=None, kids=[25395275], score=None, time=1607742720, title=None, item_type='comment', url=None, parent=25394999, text='I would not use a work in progress port of Go to compare. This would be better in C to rule out Go runtime issues.')

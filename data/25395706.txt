@@ -1,0 +1,1 @@
+Item(by='numpad0', descendants=None, kids=None, score=None, time=1607749141, title=None, item_type='comment', url=None, parent=25393021, text='I think there’s a github repo that may or may not compile to make ESP32 talk ROS2 message protocols, and that would be the entirety of ROS2 that fits in an ESP32 anyway, so the answer is a yeah')

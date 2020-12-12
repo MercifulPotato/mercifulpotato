@@ -1,0 +1,1 @@
+Item(by='PurpleFoxy', descendants=None, kids=None, score=None, time=1607759844, title=None, item_type='comment', url=None, parent=25396487, text='From what I understand, the problem is in routing them. If you could buy a single IP address then all the routers need to keep a record of where that IP address goes to rather than a simple rule of this whole block goes out port 5')

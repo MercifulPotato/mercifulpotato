@@ -1,1 +1,1 @@
-Item(by='charonn0', descendants=None, kids=None, score=None, time=1607734344, title=None, item_type='comment', url=None, parent=25392156, text='Net neutrality isn&#x27;t about censoring ISPs, though.')
+Item(by='charonn0', descendants=None, kids=[25395138], score=None, time=1607734344, title=None, item_type='comment', url=None, parent=25392156, text='Net neutrality isn&#x27;t about censoring ISPs, though.')
