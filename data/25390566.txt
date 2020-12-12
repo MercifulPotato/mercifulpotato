@@ -1,1 +1,1 @@
-Item(by='hajile', descendants=None, kids=None, score=None, time=1607718665, title=None, item_type='comment', url=None, parent=25390480, text='Diamond will burn like super-expensive coal. Probably not ideal for those temperatures.')
+Item(by='hajile', descendants=None, kids=[25393456], score=None, time=1607718665, title=None, item_type='comment', url=None, parent=25390480, text='Diamond will burn like super-expensive coal. Probably not ideal for those temperatures.')

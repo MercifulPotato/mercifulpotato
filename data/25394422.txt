@@ -1,0 +1,1 @@
+Item(by='contingencies', descendants=None, kids=None, score=None, time=1607737525, title=None, item_type='comment', url=None, parent=25390565, text='Robotics founder here. Never used ROS. I would avoid it unless there is a clear need. Once you are on expensive third party hardware plus ROS, you are guaranteed to have no USP.')

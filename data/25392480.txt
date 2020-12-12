@@ -1,0 +1,1 @@
+Item(by='Pxtl', descendants=None, kids=[25392699], score=None, time=1607726439, title=None, item_type='comment', url=None, parent=25392229, text='I thought that if you were at global scope it loaded the whole global scope dictionary as the current-scope-array?  Or maybe that&#x27;s something I did by accident when messing with the embedded interpreter.')

@@ -1,0 +1,1 @@
+Item(by='joshspankit', descendants=None, kids=None, score=None, time=1607722959, title=None, item_type='comment', url=None, parent=25365061, text='Genuinely curious: Have you looked at moving to a graph database?<p>I can’t conceptualize a dataset that could survive(&#x2F;be performant) in a document store, but not a graph.')

@@ -1,1 +1,1 @@
-Item(by='xyzzyz', descendants=None, kids=None, score=None, time=1607647000, title=None, item_type='comment', url=None, parent=25380789, text='If incomes were going down, you’d expect decrease, not increase in savings rate.')
+Item(by='xyzzyz', descendants=None, kids=[25392120], score=None, time=1607647000, title=None, item_type='comment', url=None, parent=25380789, text='If incomes were going down, you’d expect decrease, not increase in savings rate.')

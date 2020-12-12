@@ -1,1 +1,1 @@
-Item(by='iKlsR', descendants=None, kids=None, score=None, time=1607716777, title=None, item_type='comment', url=None, parent=25389690, text='Discord seems faster and more likely to attract a small group nowadays.')
+Item(by='iKlsR', descendants=None, kids=[25390474], score=None, time=1607716777, title=None, item_type='comment', url=None, parent=25389690, text='Discord seems faster and more likely to attract a small group nowadays.')

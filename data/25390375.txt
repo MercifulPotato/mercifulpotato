@@ -1,1 +1,1 @@
-Item(by='young_unixer', descendants=None, kids=None, score=None, time=1607717730, title=None, item_type='comment', url=None, parent=25389734, text='There must exist a sweet spot of engineers&#x2F;MBAs ratio. The question is: is company X higher or lower than that sweet spot?')
+Item(by='young_unixer', descendants=None, kids=[25391112], score=None, time=1607717730, title=None, item_type='comment', url=None, parent=25389734, text='There must exist a sweet spot of engineers&#x2F;MBAs ratio. The question is: is company X higher or lower than that sweet spot?')

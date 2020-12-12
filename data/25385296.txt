@@ -1,1 +1,1 @@
-Item(by='robin_reala', descendants=1, kids=[25389347], score=6, time=1607692195, title='Datasette: An open source multi-tool for exploring and publishing data', item_type='story', url='https://datasette.io/', parent=None, text=None)
+Item(by='robin_reala', descendants=10, kids=[25394945, 25395076, 25394863, 25394023, 25389347, 25393888, 25393789], score=92, time=1607692195, title='Datasette: An open source multi-tool for exploring and publishing data', item_type='story', url='https://datasette.io/', parent=None, text=None)

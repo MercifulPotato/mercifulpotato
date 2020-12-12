@@ -1,1 +1,1 @@
-Item(by='kreetx', descendants=None, kids=None, score=None, time=1607697382, title=None, item_type='comment', url=None, parent=25386161, text='E.g on my 2015 macbook pro I need to remove and re-add the wifi driver module to make it connect.')
+Item(by='kreetx', descendants=None, kids=[25390761], score=None, time=1607697382, title=None, item_type='comment', url=None, parent=25386161, text='E.g on my 2015 macbook pro I need to remove and re-add the wifi driver module to make it connect.')

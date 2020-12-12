@@ -1,1 +1,1 @@
-Item(by='jtlienwis', descendants=None, kids=None, score=None, time=1607708894, title=None, item_type='comment', url=None, parent=25386756, text='They should renumber it CS 6502.')
+Item(by='jtlienwis', descendants=None, kids=[25390536], score=None, time=1607708894, title=None, item_type='comment', url=None, parent=25386756, text='They should renumber it CS 6502.')

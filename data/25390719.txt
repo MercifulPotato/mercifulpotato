@@ -1,1 +1,1 @@
-Item(by='bdibs', descendants=None, kids=None, score=None, time=1607719437, title=None, item_type='comment', url=None, parent=25390071, text='Are you worried at all about sites abusing the transparency to rank higher, given they would know what to focus on to do so?')
+Item(by='bdibs', descendants=None, kids=[25390994], score=None, time=1607719437, title=None, item_type='comment', url=None, parent=25390071, text='Are you worried at all about sites abusing the transparency to rank higher, given they would know what to focus on to do so?')

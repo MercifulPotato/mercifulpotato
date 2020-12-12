@@ -1,1 +1,1 @@
-Item(by='timbit42', descendants=None, kids=None, score=None, time=1607657035, title=None, item_type='comment', url=None, parent=25379895, text='Why do you wait for backups? Do you not have a multi-tasking OS?')
+Item(by='timbit42', descendants=None, kids=[25392922], score=None, time=1607657035, title=None, item_type='comment', url=None, parent=25379895, text='Why do you wait for backups? Do you not have a multi-tasking OS?')

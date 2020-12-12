@@ -1,1 +1,1 @@
-Item(by='mywittyname', descendants=None, kids=None, score=None, time=1607718096, title=None, item_type='comment', url=None, parent=25389927, text='Treatment has apparently improved dramatically in the few months since the pandemic began.')
+Item(by='mywittyname', descendants=None, kids=[25393236], score=None, time=1607718096, title=None, item_type='comment', url=None, parent=25389927, text='Treatment has apparently improved dramatically in the few months since the pandemic began.')

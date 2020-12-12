@@ -1,0 +1,1 @@
+Item(by='shepherdjerred', descendants=None, kids=None, score=None, time=1607742577, title=None, item_type='comment', url=None, parent=25394985, text='You can install ARM and x86 Homebrew side-by-side. It works really well.<p>When I set up my M1 mac I compiled as much as I could from source using the ARM Homebrew, and for everything else I installed it via the x86 Homebrew.')

@@ -1,0 +1,1 @@
+Item(by='Klasiaster', descendants=None, kids=None, score=None, time=1607723975, title=None, item_type='comment', url=None, parent=25372401, text='A way to submit an URL for (re)crawling would be good instead of having to wait until the spider somehow finds or revisits it.<p>You could add a maximum of once per day per domain if you are worried about abuse.')

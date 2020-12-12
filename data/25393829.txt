@@ -1,0 +1,1 @@
+Item(by='pdonis', descendants=None, kids=None, score=None, time=1607733555, title=None, item_type='comment', url=None, parent=25393440, text='For cases where you don&#x27;t need to access any non-slot attributes (packet capture would generally be one of those cases), yes, __slots__ can speed things up as well.')

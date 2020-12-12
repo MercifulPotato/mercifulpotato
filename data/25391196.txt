@@ -1,0 +1,1 @@
+Item(by='throwaway_pdp09', descendants=None, kids=[25391539, 25391249], score=None, time=1607721787, title=None, item_type='comment', url=None, parent=25391164, text='Text -&gt; parser -&gt; AST -&gt; job done. If it&#x27;s any different in an IDE vs anything else I&#x27;d like to know how.')

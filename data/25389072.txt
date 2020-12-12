@@ -1,1 +1,1 @@
-Item(by='giglamesh', descendants=None, kids=None, score=None, time=1607712052, title=None, item_type='comment', url=None, parent=25388941, text='Trading on the assumption does not require the assumption to be actually true.')
+Item(by='giglamesh', descendants=None, kids=[25391038], score=None, time=1607712052, title=None, item_type='comment', url=None, parent=25388941, text='Trading on the assumption does not require the assumption to be actually true.')

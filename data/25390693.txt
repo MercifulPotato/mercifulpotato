@@ -1,1 +1,1 @@
-Item(by='the8472', descendants=None, kids=None, score=None, time=1607719297, title=None, item_type='comment', url=None, parent=25390290, text='GPT, please expand your context window. The partial quote you using to generate your response goes on to say<p>&gt; If there&#x27;s no wind in summer and <i>no insolation during winter</i><p>These are two separate cases.')
+Item(by=None, descendants=None, kids=None, score=None, time=1607719297, title=None, item_type='comment', url=None, parent=25390290, text=None)

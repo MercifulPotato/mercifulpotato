@@ -1,1 +1,1 @@
-Item(by='ag56', descendants=None, kids=None, score=None, time=1607711777, title=None, item_type='comment', url=None, parent=25388892, text='After laughing and upvoting this brilliant satire, coming to the comments was like a second meta-joke.')
+Item(by='ag56', descendants=None, kids=[25391646, 25391149], score=None, time=1607711777, title=None, item_type='comment', url=None, parent=25388892, text='After laughing and upvoting this brilliant satire, coming to the comments was like a second meta-joke.')

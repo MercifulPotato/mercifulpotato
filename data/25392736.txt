@@ -1,0 +1,1 @@
+Item(by='howlgarnish', descendants=None, kids=[25393337], score=None, time=1607727542, title=None, item_type='comment', url=None, parent=25392471, text='Cloud Run is for containers, not functions, and it&#x27;s the next evolution of App Engine.<p>The GCP equivalent to Lambda is Cloud Functions.')

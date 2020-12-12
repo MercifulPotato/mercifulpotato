@@ -1,1 +1,1 @@
-Item(by='lsferreira42', descendants=None, kids=None, score=None, time=1607716366, title=None, item_type='comment', url=None, parent=25384435, text='Can i translate this series in Portuguese?\nI think that would help a lot of coders that i know, but they can&#x27;t read english.')
+Item(by='lsferreira42', descendants=None, kids=[25391294], score=None, time=1607716366, title=None, item_type='comment', url=None, parent=25384435, text='Can i translate this series in Portuguese?\nI think that would help a lot of coders that i know, but they can&#x27;t read english.')

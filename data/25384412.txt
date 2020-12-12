@@ -1,1 +1,1 @@
-Item(by='srom', descendants=0, kids=None, score=1, time=1607684921, title='Decoding the Language of Genomes', item_type='story', url='https://caltechletters.org/science/decoding-the-language-of-genomes', parent=None, text=None)
+Item(by='srom', descendants=5, kids=[25394304, 25392860, 25393106], score=15, time=1607684921, title='Decoding the Language of Genomes', item_type='story', url='https://caltechletters.org/science/decoding-the-language-of-genomes', parent=None, text=None)
