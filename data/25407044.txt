@@ -1,0 +1,1 @@
+Item(by='smichel17', descendants=None, kids=None, score=None, time=1607872144, title=None, item_type='comment', url=None, parent=25406941, text='That&#x27;s a good idea. I&#x27;ve been only enabling 2fa when I can use two forms of it (totp + u2f token), but that&#x27;s still vulnerable since I often carry both of those on my person at the same time.')

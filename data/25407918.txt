@@ -1,0 +1,1 @@
+Item(by='MetaDark', descendants=None, kids=None, score=None, time=1607878489, title=None, item_type='comment', url=None, parent=25407005, text='I prefer using dap-mode. It has a much nicer interface that&#x27;s consistent across multiple debuggers. I use it for C, C++, Rust (Native Debug + gdb) and Python (debugpy).')

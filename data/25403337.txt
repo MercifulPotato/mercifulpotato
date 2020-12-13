@@ -1,1 +1,1 @@
-Item(by='ss2003', descendants=None, kids=None, score=None, time=1607821369, title=None, item_type='comment', url=None, parent=25403185, text='Wayland is such a big pain. Breaks all kinds of things.')
+Item(by='ss2003', descendants=None, kids=[25407797], score=None, time=1607821369, title=None, item_type='comment', url=None, parent=25403185, text='Wayland is such a big pain. Breaks all kinds of things.')

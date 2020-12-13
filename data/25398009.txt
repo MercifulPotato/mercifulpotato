@@ -1,1 +1,1 @@
-Item(by='oedmarap', descendants=0, kids=None, score=8, time=1607778335, title='How to Reliably Scale Your Data Platform for High Volumes', item_type='story', url='https://shopify.engineering/reliably-scale-data-platform', parent=None, text=None)
+Item(by='oedmarap', descendants=4, kids=[25408915, 25408090, 25408057, 25406617], score=37, time=1607778335, title='How to Reliably Scale Your Data Platform for High Volumes', item_type='story', url='https://shopify.engineering/reliably-scale-data-platform', parent=None, text=None)

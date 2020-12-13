@@ -1,0 +1,1 @@
+Item(by='tromey', descendants=None, kids=None, score=None, time=1607889828, title=None, item_type='comment', url=None, parent=25408454, text='Yes, just nobody has implemented it.  It&#x27;s kind of a pain.  Also it brings up the question of whether GDB ought to implement a terminal so you can debug curses applications inside the TUI, which is even more of a pain.')

@@ -1,0 +1,1 @@
+Item(by='snarfy', descendants=None, kids=[25408438], score=None, time=1607880576, title=None, item_type='comment', url=None, parent=25407575, text='If you are doing any native Windows development and also need to interact with a lot of COM objects and apis it&#x27;s really hard to beat Delphi.  It&#x27;s so much nicer than dealing with C++ and WTL.')

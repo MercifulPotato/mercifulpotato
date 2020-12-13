@@ -1,0 +1,1 @@
+Item(by='pengaru', descendants=None, kids=None, score=None, time=1607889172, title=None, item_type='comment', url=None, parent=25409267, text='Sure, but even when GPU accelerated you often need to apply transformations in the CPU domain for things like collision&#x2F;physics.')

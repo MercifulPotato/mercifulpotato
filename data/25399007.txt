@@ -1,1 +1,1 @@
-Item(by='benibela', descendants=None, kids=None, score=None, time=1607788731, title=None, item_type='comment', url=None, parent=25390963, text='Europe has lower rent, health care insurance, and more vacations')
+Item(by='benibela', descendants=None, kids=[25409238], score=None, time=1607788731, title=None, item_type='comment', url=None, parent=25390963, text='Europe has lower rent, health care insurance, and more vacations')

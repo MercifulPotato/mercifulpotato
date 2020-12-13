@@ -1,0 +1,1 @@
+Item(by='ac42', descendants=None, kids=None, score=None, time=1607872545, title=None, item_type='comment', url=None, parent=25406880, text='I&#x27;m pretty sure sets supported up to 256 elements (32 bytes) in Turbo Pascal on 16 bit systems, because you could manage ASCII characters with them. Yes, didn&#x27;t scale. Yes, tons of use cases nonetheless.')

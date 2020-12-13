@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=None, score=None, time=1607881546, title=None, item_type='comment', url=None, parent=25403747, text='this is why composable allocators are fantastic.  You can request a dynamic memory slate for a given context, then allocate as you wish, no-op delete, when you&#x27;re done with the context, you delete all of them in one go.')

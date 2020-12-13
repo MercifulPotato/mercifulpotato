@@ -1,0 +1,1 @@
+Item(by='Fiahil', descendants=None, kids=None, score=None, time=1607891686, title=None, item_type='comment', url=None, parent=25407193, text='Looks interesting!\nQuick question: it&#x27;s a distributed log, how do you establish consensus to keep its entries ordered?<p>If it&#x27;s not ordered, then it&#x27;s a set, not a log. Still cool, but not as impressive.')

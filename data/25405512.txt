@@ -1,1 +1,1 @@
-Item(by='j7ake', descendants=None, kids=None, score=None, time=1607854261, title=None, item_type='comment', url=None, parent=25404918, text='At a minimum they should have all authors in the paper in one picture together.')
+Item(by='j7ake', descendants=None, kids=[25407832], score=None, time=1607854261, title=None, item_type='comment', url=None, parent=25404918, text='At a minimum they should have all authors in the paper in one picture together.')

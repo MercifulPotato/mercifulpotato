@@ -1,1 +1,1 @@
-Item(by='Biganon', descendants=None, kids=None, score=None, time=1607824778, title=None, item_type='comment', url=None, parent=25401767, text='Have you seen &quot;Burn after reading&quot;?')
+Item(by='Biganon', descendants=None, kids=[25408584], score=None, time=1607824778, title=None, item_type='comment', url=None, parent=25401767, text='Have you seen &quot;Burn after reading&quot;?')

@@ -1,1 +1,1 @@
-Item(by='tempsy', descendants=None, kids=None, score=None, time=1607819581, title=None, item_type='comment', url=None, parent=25402531, text='This feels like a long “water is wet” article.')
+Item(by='tempsy', descendants=None, kids=[25409260], score=None, time=1607819581, title=None, item_type='comment', url=None, parent=25402531, text='This feels like a long “water is wet” article.')

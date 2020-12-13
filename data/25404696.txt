@@ -1,1 +1,1 @@
-Item(by='ent101', descendants=1, kids=[25405488], score=3, time=1607840169, title='Show HN: Nano Editor – Prototype, build, and publish simple web apps', item_type='story', url='https://www.outpan.com/app/543e836b6a/nano-editor', parent=None, text=None)
+Item(by='ent101', descendants=2, kids=[25405488, 25406558], score=3, time=1607840169, title='Show HN: Nano Editor – Prototype, build, and publish simple web apps', item_type='story', url='https://www.outpan.com/app/543e836b6a/nano-editor', parent=None, text=None)

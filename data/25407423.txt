@@ -1,0 +1,1 @@
+Item(by='tel', descendants=None, kids=[25408387, 25407634], score=None, time=1607875274, title=None, item_type='comment', url=None, parent=25407232, text='How is your set union example not another intersection (your quantification could go in one of two places though, they = (set of readers) cap (set of writers) versus they = { p in people such that (p writes) cap (p reads) }.')

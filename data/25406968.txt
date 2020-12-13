@@ -1,0 +1,1 @@
+Item(by='CJefferson', descendants=None, kids=None, score=None, time=1607871479, title=None, item_type='comment', url=None, parent=25406540, text='Interestingly, in logic programming languages if&#x2F;else sometimes turns into arithmetic, so (slightly simplifying)<p>&#x27;if x then y else z&#x27; becomes &#x27;x<i>y + (1-x)</i>z&#x27;, or &#x27;x*(y-z)+z&#x27;')

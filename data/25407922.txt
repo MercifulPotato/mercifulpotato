@@ -1,0 +1,1 @@
+Item(by='anotheryou', descendants=None, kids=None, score=None, time=1607878503, title=None, item_type='comment', url=None, parent=25400598, text='I get the answers, but why not cache the password in the browser for the duration of the redirect?<p>edit: ah I see, sometimes cross domain, that would make the handover potentially dangerous. I thought of just keeping it in js.')

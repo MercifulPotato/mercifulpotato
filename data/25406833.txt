@@ -1,0 +1,1 @@
+Item(by='CuriouslyC', descendants=None, kids=None, score=None, time=1607870371, title=None, item_type='comment', url=None, parent=25406593, text='Historically the XOR function has been the simple example that many ML algorithms can&#x27;t handle.  Just imagine a higher dimensional XOR with outliers, and you have a pretty good use case for DL with limited predictors.')

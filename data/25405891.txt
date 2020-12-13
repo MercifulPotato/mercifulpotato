@@ -1,1 +1,1 @@
-Item(by='xchip', descendants=None, kids=None, score=None, time=1607859966, title=None, item_type='comment', url=None, parent=25403163, text='TL;DR: The Cellular Radiotelephone Service was allocated 824-849MHz and later\n869-894MHz. That&#x27;s it.')
+Item(by='xchip', descendants=None, kids=[25406782], score=None, time=1607859966, title=None, item_type='comment', url=None, parent=25403163, text='TL;DR: The Cellular Radiotelephone Service was allocated 824-849MHz and later\n869-894MHz. That&#x27;s it.')

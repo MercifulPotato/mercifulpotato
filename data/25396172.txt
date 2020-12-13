@@ -1,1 +1,1 @@
-Item(by='babesh', descendants=None, kids=None, score=None, time=1607755011, title=None, item_type='comment', url=None, parent=25393782, text='True. The concern is that new development will no longer be in California.')
+Item(by='babesh', descendants=None, kids=[25409518], score=None, time=1607755011, title=None, item_type='comment', url=None, parent=25393782, text='True. The concern is that new development will no longer be in California.')

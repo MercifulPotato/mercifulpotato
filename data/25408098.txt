@@ -1,0 +1,1 @@
+Item(by='karmakaze', descendants=None, kids=None, score=None, time=1607879717, title=None, item_type='comment', url=None, parent=25407945, text='I wish all the args always just came as one structured object with some convenient syntax for accessing destructured parts. That object can have named parts as well as unions, optional, collections, and combinations of them.')

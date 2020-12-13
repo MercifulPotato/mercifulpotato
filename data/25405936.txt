@@ -1,1 +1,1 @@
-Item(by='eps', descendants=None, kids=None, score=None, time=1607860467, title=None, item_type='comment', url=None, parent=25405738, text='It came out on Dec 10.<p>Damn pity it&#x27;s on a Facebook-infested Oculus only. At least for now.')
+Item(by='eps', descendants=None, kids=[25406853], score=None, time=1607860467, title=None, item_type='comment', url=None, parent=25405738, text='It came out on Dec 10.<p>Damn pity it&#x27;s on a Facebook-infested Oculus only. At least for now.')

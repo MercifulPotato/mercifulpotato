@@ -1,1 +1,1 @@
-Item(by='Tomte', descendants=0, kids=None, score=2, time=1607765252, title="Germany's State Distance-Learning University", item_type='story', url='https://www.fernuni-hagen.de/english/', parent=None, text=None)
+Item(by='Tomte', descendants=65, kids=[25407998, 25407171, 25407815, 25408895, 25409070, 25407635, 25407288, 25408001, 25408580, 25407190, 25408153], score=95, time=1607765252, title="Germany's State Distance-Learning University", item_type='story', url='https://www.fernuni-hagen.de/english/', parent=None, text=None)

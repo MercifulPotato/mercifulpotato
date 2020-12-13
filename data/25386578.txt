@@ -1,1 +1,1 @@
-Item(by='the_only_law', descendants=None, kids=None, score=None, time=1607699380, title=None, item_type='comment', url=None, parent=25384757, text='I just switched from Android to iOS and this one thing has been bugging me')
+Item(by='the_only_law', descendants=None, kids=[25406677], score=None, time=1607699380, title=None, item_type='comment', url=None, parent=25384757, text='I just switched from Android to iOS and this one thing has been bugging me')

@@ -1,0 +1,1 @@
+Item(by='Sharlin', descendants=None, kids=None, score=None, time=1607869418, title=None, item_type='comment', url=None, parent=25406657, text='x86 has CMOV, for Conditional MOVe, since the Pentium Pro, and of course there are tricks employed by compilers and low-level programmers to avoid the overhead of branches, like the `a = cond·b + !cond·c` idiom.')

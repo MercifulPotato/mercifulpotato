@@ -1,0 +1,1 @@
+Item(by='tutfbhuf', descendants=None, kids=[25409133, 25408217], score=None, time=1607878720, title=None, item_type='comment', url=None, parent=25407320, text='I wonder if that would be possible without types. Maybe some kind of IO decorator, that enforces the separation, to allow for enforced pure functions in an untyped language.')

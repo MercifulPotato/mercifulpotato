@@ -1,1 +1,1 @@
-Item(by='Daho0n', descendants=None, kids=None, score=None, time=1607868078, title=None, item_type='comment', url=None, parent=25406356, text='This is a speed trap working as intended though. Lower speed is the goal, not fines.')
+Item(by='Daho0n', descendants=None, kids=[25406852], score=None, time=1607868078, title=None, item_type='comment', url=None, parent=25406356, text='This is a speed trap working as intended though. Lower speed is the goal, not fines.')

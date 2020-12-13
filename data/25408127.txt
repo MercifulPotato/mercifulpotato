@@ -1,0 +1,1 @@
+Item(by='tener', descendants=None, kids=[25408203], score=None, time=1607879923, title=None, item_type='comment', url=None, parent=25407985, text='Nah, you should be using another value if you care about that. For example in C# a nullable bool would be a fine choice (three values: true, false, null), or alternatively Option types.')

@@ -1,0 +1,1 @@
+Item(by='haxiomic', descendants=None, kids=None, score=None, time=1607885505, title=None, item_type='comment', url=None, parent=25408953, text='SIMDs are big in computer graphics – you&#x27;d expect them to be used heavily in physics simulation and CPU-based rendering engines. Would be interesting to see how blender&#x27;s Cycles or say Arnold Renderer performs on M1')

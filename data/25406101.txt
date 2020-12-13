@@ -1,1 +1,1 @@
-Item(by='gtirloni', descendants=None, kids=None, score=None, time=1607862190, title=None, item_type='comment', url=None, parent=25401756, text='Microsoft SSO is a shit show. You login and it says wait logging you off. Then you have to try again.')
+Item(by='gtirloni', descendants=None, kids=[25407488], score=None, time=1607862190, title=None, item_type='comment', url=None, parent=25401756, text='Microsoft SSO is a shit show. You login and it says wait logging you off. Then you have to try again.')

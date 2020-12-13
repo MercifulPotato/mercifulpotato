@@ -1,1 +1,1 @@
-Item(by='hamandcheese', descendants=None, kids=[25403518], score=None, time=1607822696, title=None, item_type='comment', url=None, parent=25402748, text='The article did compare loading with index vs index after load.<p>What good do partitions do? Loading in parallel?')
+Item(by='hamandcheese', descendants=None, kids=[25403518, 25408193], score=None, time=1607822696, title=None, item_type='comment', url=None, parent=25402748, text='The article did compare loading with index vs index after load.<p>What good do partitions do? Loading in parallel?')

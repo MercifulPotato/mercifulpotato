@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=None, score=None, time=1607891568, title=None, item_type='comment', url=None, parent=25406582, text='Although C does map 0 to <i>false</i>, so it really is a shell-ism, despite the return code pattern being used in C and other places.')

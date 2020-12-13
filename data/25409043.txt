@@ -1,0 +1,1 @@
+Item(by='vtantia', descendants=None, kids=[25409114, 25409146, 25409180], score=None, time=1607885745, title=None, item_type='comment', url=None, parent=25408853, text='I&#x27;m not quite sure that SIMD is a relevant benchmark for comparing the processors. Wouldn&#x27;t the GPU and&#x2F;or neural engine take care of SIMD on the ARM Macbook?')
