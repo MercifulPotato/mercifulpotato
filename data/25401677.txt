@@ -1,0 +1,1 @@
+Item(by='mirekrusin', descendants=None, kids=[25401709], score=None, time=1607806926, title=None, item_type='comment', url=None, parent=25400350, text='What is the point of talking performance-by-thread-per-core if raft sits in front of it, ie. only one will do the work at any time anyway?')

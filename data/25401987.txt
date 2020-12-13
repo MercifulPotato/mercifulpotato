@@ -1,0 +1,1 @@
+Item(by='ridiculous_fish', descendants=None, kids=[25402378], score=None, time=1607809238, title=None, item_type='comment', url=None, parent=25401716, text='re2 implements captures as &quot;tagged DFAs&quot; (Laurikari algorithm) while zero-width assertions are implemented as running the algorithm &quot;one byte ahead&quot;. Neither of these techniques is very well known.')

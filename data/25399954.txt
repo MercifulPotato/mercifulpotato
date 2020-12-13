@@ -1,1 +1,1 @@
-Item(by='zepto', descendants=None, kids=None, score=None, time=1607794605, title=None, item_type='comment', url=None, parent=25399895, text='If some particular research they thought was bogus was about the concept of whiteness, why wouldn’t they?')
+Item(by='zepto', descendants=None, kids=[25401707], score=None, time=1607794605, title=None, item_type='comment', url=None, parent=25399895, text='If some particular research they thought was bogus was about the concept of whiteness, why wouldn’t they?')

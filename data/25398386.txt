@@ -1,1 +1,1 @@
-Item(by='ip26', descendants=None, kids=None, score=None, time=1607783168, title=None, item_type='comment', url=None, parent=25396228, text='I absolutely echo your complaints. But the old way had significant problems too. Hopefully we can find something better than either.')
+Item(by='ip26', descendants=None, kids=[25401163], score=None, time=1607783168, title=None, item_type='comment', url=None, parent=25396228, text='I absolutely echo your complaints. But the old way had significant problems too. Hopefully we can find something better than either.')

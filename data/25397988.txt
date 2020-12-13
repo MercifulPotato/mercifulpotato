@@ -1,1 +1,1 @@
-Item(by='awaisraad', descendants=1, kids=[25397989], score=1, time=1607778120, title='Fibonacci numbers as sum of binomial coefficients', item_type='story', url='https://proofwiki.org/wiki/Fibonacci_Number_as_Sum_of_Binomial_Coefficients', parent=None, text=None)
+Item(by='awaisraad', descendants=2, kids=[25403321, 25397989], score=1, time=1607778120, title='Fibonacci numbers as sum of binomial coefficients', item_type='story', url='https://proofwiki.org/wiki/Fibonacci_Number_as_Sum_of_Binomial_Coefficients', parent=None, text=None)

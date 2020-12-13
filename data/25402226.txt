@@ -1,0 +1,1 @@
+Item(by='agallego', descendants=None, kids=None, score=None, time=1607810953, title=None, item_type='comment', url=None, parent=25401828, text='on seastar, you yield a lot. so loops go from<p><pre><code>    for( ... : collection) {}\n</code></pre>\nto<p><pre><code>   return seastar::do_for_each(collection, callback);</code></pre>')

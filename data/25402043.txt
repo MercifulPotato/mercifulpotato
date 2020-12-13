@@ -1,0 +1,1 @@
+Item(by='lkcl', descendants=None, kids=None, score=None, time=1607809714, title=None, item_type='comment', url=None, parent=25386180, text='analysing a source-only-based distro (one where the compiler is required as a dependency) should make the importance of the compiler(s) clearer.<p>source-only distros include macports, gentoo, and so on.')

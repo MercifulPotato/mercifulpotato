@@ -1,0 +1,1 @@
+Item(by='gruez', descendants=None, kids=[25403471], score=None, time=1607818227, title=None, item_type='comment', url=None, parent=25399295, text='What&#x27;s the point of the firefox version when you can just set dom.event.clipboardevents.enabled to false?')

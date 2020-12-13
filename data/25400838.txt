@@ -1,1 +1,1 @@
-Item(by='mraza007', descendants=None, kids=None, score=None, time=1607801574, title=None, item_type='comment', url=None, parent=25400117, text='Very cool and exciting product.\nDefinitely a fun way to learn python')
+Item(by='mraza007', descendants=None, kids=[25401190], score=None, time=1607801574, title=None, item_type='comment', url=None, parent=25400117, text='Very cool and exciting product.\nDefinitely a fun way to learn python')

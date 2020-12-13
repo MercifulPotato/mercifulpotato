@@ -1,0 +1,1 @@
+Item(by='souprock', descendants=None, kids=None, score=None, time=1607807937, title=None, item_type='comment', url=None, parent=25397243, text='It deals with two lines of input. Probably the &quot;;&quot; should have been &quot;&amp;&amp;&quot; instead, so that either failure will end the loop.')

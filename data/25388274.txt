@@ -1,1 +1,1 @@
-Item(by='rhizome', descendants=None, kids=None, score=None, time=1607707934, title=None, item_type='comment', url=None, parent=25379173, text='Then again as the saying goes, you can&#x27;t use technology to fix a people problem.')
+Item(by='rhizome', descendants=None, kids=[25403782], score=None, time=1607707934, title=None, item_type='comment', url=None, parent=25379173, text='Then again as the saying goes, you can&#x27;t use technology to fix a people problem.')

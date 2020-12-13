@@ -1,0 +1,1 @@
+Item(by='uluyol', descendants=None, kids=None, score=None, time=1607819562, title=None, item_type='comment', url=None, parent=25403127, text='And other things which you&#x27;d expect to be commands are both commands AND builtins! And they behave differently depending on which you call! Some examples are time and pwd.')

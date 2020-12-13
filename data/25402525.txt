@@ -1,0 +1,1 @@
+Item(by='tommd', descendants=None, kids=None, score=None, time=1607813269, title=None, item_type='comment', url=None, parent=25400735, text='I love shellcheck.  There&#x27;s no great reason not to have any new shellcheck errors commented on each pull request.  It&#x27;s almost always right and how much you as the developer cares is the big question.')

@@ -1,0 +1,1 @@
+Item(by='dotnwat', descendants=None, kids=None, score=None, time=1607806157, title=None, item_type='comment', url=None, parent=25401475, text='Having not tried, I would expect ksql to not work until transaction support lands. That said, perhaps there are some ways to configure it to avoid dependencies on those underlying APIs.')

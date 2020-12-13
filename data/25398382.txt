@@ -1,1 +1,1 @@
-Item(by='tim333', descendants=None, kids=None, score=None, time=1607783135, title=None, item_type='comment', url=None, parent=25389756, text='So how to get some moderation back is the question. I guess state funded media like the BBC can help?')
+Item(by='tim333', descendants=None, kids=[25403833], score=None, time=1607783135, title=None, item_type='comment', url=None, parent=25389756, text='So how to get some moderation back is the question. I guess state funded media like the BBC can help?')

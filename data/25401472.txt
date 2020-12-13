@@ -1,0 +1,1 @@
+Item(by='throw0101a', descendants=None, kids=None, score=None, time=1607805394, title=None, item_type='comment', url=None, parent=25399334, text='I default to wget because as a sysadmin I usually want to download a file, and that is the default behaviour. Perhaps devs default to curl because they want to pipe things.')

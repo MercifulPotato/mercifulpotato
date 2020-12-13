@@ -1,1 +1,1 @@
-Item(by='93po', descendants=None, kids=None, score=None, time=1607696519, title=None, item_type='comment', url=None, parent=25384895, text='Every state I&#x27;ve lived in in the US is the same way, except virtually no one still bothers')
+Item(by='93po', descendants=None, kids=[25402100], score=None, time=1607696519, title=None, item_type='comment', url=None, parent=25384895, text='Every state I&#x27;ve lived in in the US is the same way, except virtually no one still bothers')

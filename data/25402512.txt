@@ -1,0 +1,1 @@
+Item(by='tommd', descendants=None, kids=None, score=None, time=1607813131, title=None, item_type='comment', url=None, parent=25399058, text='And for goodness sakes, use ShellCheck!  It can be easy (i.e. there are CI services that will run shellcheck automatically on your PRs and comment bugs).')

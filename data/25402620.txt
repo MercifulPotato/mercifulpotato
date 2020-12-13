@@ -1,0 +1,1 @@
+Item(by='cesarb', descendants=None, kids=None, score=None, time=1607814027, title=None, item_type='comment', url=None, parent=25401001, text='Just nitpicking, but the package manager for the Debian family is dpkg, not apt; apt is a layer above dpkg. The same way, the package manager for the RedHat family is rpm; yum and it successor dnf is a layer above rpm.')

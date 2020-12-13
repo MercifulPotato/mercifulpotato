@@ -1,1 +1,1 @@
-Item(by='voxic11', descendants=None, kids=None, score=None, time=1607800082, title=None, item_type='comment', url=None, parent=25398340, text='Probably not, the student placed their camera in 2012 and solarcan began their kickstarter in 2017.')
+Item(by='voxic11', descendants=None, kids=[25402855], score=None, time=1607800082, title=None, item_type='comment', url=None, parent=25398340, text='Probably not, the student placed their camera in 2012 and solarcan began their kickstarter in 2017.')

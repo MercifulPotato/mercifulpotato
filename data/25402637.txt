@@ -1,0 +1,1 @@
+Item(by='loa_in_', descendants=None, kids=[25403416], score=None, time=1607814237, title=None, item_type='comment', url=None, parent=25402346, text='A good example of how security by obscurity can fail. Just because there&#x27;s no url to an endpoint exposed doesn&#x27;t mean it shouldn&#x27;t be hardened')

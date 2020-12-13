@@ -1,0 +1,1 @@
+Item(by='agallego', descendants=None, kids=None, score=None, time=1607815607, title=None, item_type='comment', url=None, parent=25402305, text='agreed w&#x2F; andrew. rocksdb is pretty heavy. for streaming logs, something much much simpler yields significant performance improvements specially when tied to the IO+CPU priority scheduling.')

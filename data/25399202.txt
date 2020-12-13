@@ -1,1 +1,1 @@
-Item(by='ashtonkem', descendants=None, kids=None, score=None, time=1607789892, title=None, item_type='comment', url=None, parent=25398395, text='A particularly lethal form of media hysteria, apparently.')
+Item(by='ashtonkem', descendants=None, kids=[25402064], score=None, time=1607789892, title=None, item_type='comment', url=None, parent=25398395, text='A particularly lethal form of media hysteria, apparently.')

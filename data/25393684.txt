@@ -1,1 +1,1 @@
-Item(by='dyno-might', descendants=None, kids=None, score=None, time=1607732771, title=None, item_type='comment', url=None, parent=25391602, text='It looks OK to me. Do you mean the $2.40 in the text or in the table?')
+Item(by='dyno-might', descendants=None, kids=[25402481], score=None, time=1607732771, title=None, item_type='comment', url=None, parent=25391602, text='It looks OK to me. Do you mean the $2.40 in the text or in the table?')

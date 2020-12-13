@@ -1,1 +1,1 @@
-Item(by='boogies', descendants=None, kids=[25400452], score=None, time=1607798527, title=None, item_type='comment', url=None, parent=25400282, text='(nit)<p>&gt; `grep --extended-regexp` but `sed --regexp-extended`<p>Why not use `grep -E` and `sed -E`?')
+Item(by='boogies', descendants=None, kids=[25400452, 25402888], score=None, time=1607798527, title=None, item_type='comment', url=None, parent=25400282, text='(nit)<p>&gt; `grep --extended-regexp` but `sed --regexp-extended`<p>Why not use `grep -E` and `sed -E`?')

@@ -1,1 +1,1 @@
-Item(by='dotnwat', descendants=None, kids=None, score=None, time=1607801696, title=None, item_type='comment', url=None, parent=25400350, text='Noah here, developer at Vectorized. Happy to answer any questions.')
+Item(by='dotnwat', descendants=None, kids=[25401262, 25401828], score=None, time=1607801696, title=None, item_type='comment', url=None, parent=25400350, text='Noah here, developer at Vectorized. Happy to answer any questions.')

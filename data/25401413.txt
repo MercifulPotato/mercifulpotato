@@ -1,1 +1,1 @@
-Item(by='nullsense', descendants=None, kids=None, score=None, time=1607804985, title=None, item_type='comment', url=None, parent=25400687, text='Then what about the snap drama?')
+Item(by='nullsense', descendants=None, kids=[25402155, 25402518, 25402423], score=None, time=1607804985, title=None, item_type='comment', url=None, parent=25400687, text='Then what about the snap drama?')

@@ -1,1 +1,1 @@
-Item(by='combatentropy', descendants=None, kids=None, score=None, time=1607804529, title=None, item_type='comment', url=None, parent=25400705, text='Fair points. After all, I know the keyboard shortcut to jump to the bottom (Ctrl-G).')
+Item(by='combatentropy', descendants=None, kids=[25403132], score=None, time=1607804529, title=None, item_type='comment', url=None, parent=25400705, text='Fair points. After all, I know the keyboard shortcut to jump to the bottom (Ctrl-G).')

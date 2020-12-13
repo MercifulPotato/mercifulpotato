@@ -1,1 +1,1 @@
-Item(by='bigbubba', descendants=None, kids=None, score=None, time=1607730623, title=None, item_type='comment', url=None, parent=25392143, text='They&#x27;re free to make fools of themselves, it&#x27;s not going to accomplish anything.')
+Item(by='bigbubba', descendants=None, kids=[25402388], score=None, time=1607730623, title=None, item_type='comment', url=None, parent=25392143, text='They&#x27;re free to make fools of themselves, it&#x27;s not going to accomplish anything.')

@@ -1,1 +1,1 @@
-Item(by='threeseed', descendants=None, kids=None, score=None, time=1607714546, title=None, item_type='comment', url=None, parent=25388444, text='Third party cases will be available in about a second from when they launch.<p>It&#x27;s a non-issue.')
+Item(by='threeseed', descendants=None, kids=[25402428], score=None, time=1607714546, title=None, item_type='comment', url=None, parent=25388444, text='Third party cases will be available in about a second from when they launch.<p>It&#x27;s a non-issue.')

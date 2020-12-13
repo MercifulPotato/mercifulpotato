@@ -1,0 +1,1 @@
+Item(by='jokethrowaway', descendants=None, kids=None, score=None, time=1607817658, title=None, item_type='comment', url=None, parent=25401392, text='Memories of developers not logging stuff on datadog not to go over limit.<p>We ended up running our own ELK stack and it was much better.')

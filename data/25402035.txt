@@ -1,0 +1,1 @@
+Item(by='rrauenza', descendants=None, kids=[25402338], score=None, time=1607809660, title=None, item_type='comment', url=None, parent=25400249, text='Since Centos Stream is upstream of RHEL, is it possible for an organization downstream to just manage a set of repositories (or whitelists) so that it only releases the Centos Stream versions that reached RHEL?')

@@ -1,1 +1,1 @@
-Item(by='whereistimbo', descendants=None, kids=None, score=None, time=1607787825, title=None, item_type='comment', url=None, parent=25398381, text='Seems like an engineering feat that Windows XP could still run with 32MB RAM, even Nokia Asha feature phone comes with 256MB RAM')
+Item(by='whereistimbo', descendants=None, kids=[25402224], score=None, time=1607787825, title=None, item_type='comment', url=None, parent=25398381, text='Seems like an engineering feat that Windows XP could still run with 32MB RAM, even Nokia Asha feature phone comes with 256MB RAM')

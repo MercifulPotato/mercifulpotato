@@ -1,1 +1,1 @@
-Item(by='asutekku', descendants=None, kids=None, score=None, time=1607727740, title=None, item_type='comment', url=None, parent=25392075, text='I&#x27;m not setting strawmen, this is my actual experience. Tech is not immune to this kind of conspiracies.')
+Item(by='asutekku', descendants=None, kids=[25401631], score=None, time=1607727740, title=None, item_type='comment', url=None, parent=25392075, text='I&#x27;m not setting strawmen, this is my actual experience. Tech is not immune to this kind of conspiracies.')
