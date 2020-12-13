@@ -1,1 +1,1 @@
-Item(by='BuzzwordBingo', descendants=None, kids=[25404135, 25403605, 25403559], score=None, time=1607818107, title=None, item_type='comment', url=None, parent=25401100, text='Looks like a for loop iterating over each pixel one row at a time.<p>What makes this fast?')
+Item(by='BuzzwordBingo', descendants=None, kids=[25403605, 25404135, 25403559], score=None, time=1607818107, title=None, item_type='comment', url=None, parent=25401100, text='Looks like a for loop iterating over each pixel one row at a time.<p>What makes this fast?')

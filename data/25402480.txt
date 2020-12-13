@@ -1,1 +1,1 @@
-Item(by='zw123456', descendants=None, kids=None, score=None, time=1607812864, title=None, item_type='comment', url=None, parent=25400614, text='they have the option of dropping to the low tier if the costs are too high')
+Item(by='zw123456', descendants=None, kids=[25405425], score=None, time=1607812864, title=None, item_type='comment', url=None, parent=25400614, text='they have the option of dropping to the low tier if the costs are too high')

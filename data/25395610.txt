@@ -1,1 +1,1 @@
-Item(by='Thevet', descendants=0, kids=None, score=2, time=1607747881, title='Prehistoric Horses: Exploring the meaning of Lascaux’s galloping herds', item_type='story', url='https://www.historytoday.com/archive/natural-histories/prehistoric-horses', parent=None, text=None)
+Item(by='Thevet', descendants=5, kids=[25405270, 25405210], score=13, time=1607747881, title='Prehistoric Horses: Exploring the meaning of Lascaux’s galloping herds', item_type='story', url='https://www.historytoday.com/archive/natural-histories/prehistoric-horses', parent=None, text=None)

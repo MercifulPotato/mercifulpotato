@@ -1,0 +1,1 @@
+Item(by='jpcooper', descendants=None, kids=None, score=None, time=1607853401, title=None, item_type='comment', url=None, parent=25405447, text='I came across an interactive debugger for Haskell in a talk about someone&#x27;s PhD research a few years ago where it was possible to traverse the graph and interactively eliminate possibilities. Could anyone tell me what the name is?')

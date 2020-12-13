@@ -1,1 +1,1 @@
-Item(by='shadeed9', descendants=26, kids=[25396820, 25399922, 25399712, 25401411, 25399821, 25403227, 25399590], score=123, time=1607762817, title='Show HN: I wrote a book about Debugging CSS', item_type='story', url='http://debuggingcss.com/', parent=None, text=None)
+Item(by='shadeed9', descendants=27, kids=[25396820, 25399922, 25401411, 25399712, 25399821, 25399590, 25403227], score=127, time=1607762817, title='Show HN: I wrote a book about Debugging CSS', item_type='story', url='http://debuggingcss.com/', parent=None, text=None)

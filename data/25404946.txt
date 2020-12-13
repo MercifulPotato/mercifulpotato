@@ -1,1 +1,1 @@
-Item(by='ipsum2', descendants=None, kids=None, score=None, time=1607844390, title=None, item_type='comment', url=None, parent=25404885, text='afaik ARPA was before ALOHA.')
+Item(by='ipsum2', descendants=None, kids=[25405391], score=None, time=1607844390, title=None, item_type='comment', url=None, parent=25404885, text='afaik ARPA was before ALOHA.')

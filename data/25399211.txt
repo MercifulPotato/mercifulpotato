@@ -1,1 +1,1 @@
-Item(by='falcolas', descendants=None, kids=None, score=None, time=1607789921, title=None, item_type='comment', url=None, parent=25397845, text='You are. Full stop. There are entire industry talks and patents dedicated to manipulating you into purchasing microtransactions.')
+Item(by='falcolas', descendants=None, kids=[25406466], score=None, time=1607789921, title=None, item_type='comment', url=None, parent=25397845, text='You are. Full stop. There are entire industry talks and patents dedicated to manipulating you into purchasing microtransactions.')

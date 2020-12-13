@@ -1,0 +1,1 @@
+Item(by='jlokier', descendants=None, kids=[25406494], score=None, time=1607862620, title=None, item_type='comment', url=None, parent=25405605, text='Sounds crazy, but Unix does it and we don&#x27;t bat an eyelid.<p><pre><code>  [true.c]\n  int main() { return 0; }\n\n  [false.c]\n  int main() { return 1; }</code></pre>')

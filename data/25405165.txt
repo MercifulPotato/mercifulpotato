@@ -1,0 +1,1 @@
+Item(by='eps', descendants=None, kids=None, score=None, time=1607848465, title=None, item_type='comment', url=None, parent=25403156, text='Compressed, but not as a single continuous block. The bottleneck will probably be in doing things serially, both with decompression and the disk IO.')

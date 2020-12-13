@@ -1,1 +1,1 @@
-Item(by='cjbprime', descendants=None, kids=None, score=None, time=1607827362, title=None, item_type='comment', url=None, parent=25403385, text='Looks like brew install gettext works.')
+Item(by='cjbprime', descendants=None, kids=[25406255], score=None, time=1607827362, title=None, item_type='comment', url=None, parent=25403385, text='Looks like brew install gettext works.')

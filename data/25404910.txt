@@ -1,1 +1,1 @@
-Item(by='tptacek', descendants=None, kids=None, score=None, time=1607843730, title=None, item_type='comment', url=None, parent=25403810, text='Vulnerability researchers aren&#x27;t generally academic researchers. &quot;Vulnerability research&quot; is a term of art.')
+Item(by='tptacek', descendants=None, kids=[25406267], score=None, time=1607843730, title=None, item_type='comment', url=None, parent=25403810, text='Vulnerability researchers aren&#x27;t generally academic researchers. &quot;Vulnerability research&quot; is a term of art.')

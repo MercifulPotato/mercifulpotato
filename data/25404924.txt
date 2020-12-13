@@ -1,1 +1,1 @@
-Item(by='MattGaiser', descendants=None, kids=None, score=None, time=1607843966, title=None, item_type='comment', url=None, parent=25403921, text='Working poor is an upgrade from starving peasant.')
+Item(by='MattGaiser', descendants=None, kids=[25405457], score=None, time=1607843966, title=None, item_type='comment', url=None, parent=25403921, text='Working poor is an upgrade from starving peasant.')

@@ -1,1 +1,1 @@
-Item(by='ur-whale', descendants=None, kids=None, score=None, time=1607847428, title=None, item_type='comment', url=None, parent=25404620, text='&gt;The stock market is at an all time high...<p>More like the USD is at an all time low')
+Item(by='ur-whale', descendants=None, kids=[25405603], score=None, time=1607847428, title=None, item_type='comment', url=None, parent=25404620, text='&gt;The stock market is at an all time high...<p>More like the USD is at an all time low')

@@ -1,0 +1,1 @@
+Item(by='Keeo', descendants=None, kids=None, score=None, time=1607861646, title=None, item_type='comment', url=None, parent=25403067, text='I am using simple shell script and imagemagick to convert folder full of images and then randomly rotate the pictures. I tried playing with contrast but after dithering and that did not produce good results.')

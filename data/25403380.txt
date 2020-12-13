@@ -1,1 +1,1 @@
-Item(by='wagslane', descendants=1, kids=[25404388], score=2, time=1607821970, title='TIL: Ham Radio', item_type='story', url='https://en.wikipedia.org/wiki/Amateur_radio', parent=None, text=None)
+Item(by='wagslane', descendants=2, kids=[25404388], score=3, time=1607821970, title='TIL: Ham Radio', item_type='story', url='https://en.wikipedia.org/wiki/Amateur_radio', parent=None, text=None)

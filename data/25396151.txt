@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=3, time=1607754851, title='Bit Manipulation with C++20', item_type='story', url='http://www.modernescpp.com/index.php/bit-manipulation-with-c-20', parent=None, text=None)
+Item(by='todsacerdoti', descendants=1, kids=[25405509], score=13, time=1607754851, title='Bit Manipulation with C++20', item_type='story', url='http://www.modernescpp.com/index.php/bit-manipulation-with-c-20', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='thatcherc', descendants=0, kids=None, score=4, time=1607815959, title='The Antikythera Mechanism Episode 10 – Evidence of a Lunar Calendar', item_type='story', url='https://www.youtube.com/watch?v=MkKgdq57uOo', parent=None, text=None)
+Item(by='thatcherc', descendants=1, kids=[25405992], score=4, time=1607815959, title='The Antikythera Mechanism Episode 10 – Evidence of a Lunar Calendar', item_type='story', url='https://www.youtube.com/watch?v=MkKgdq57uOo', parent=None, text=None)

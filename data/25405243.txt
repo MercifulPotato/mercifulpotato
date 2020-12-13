@@ -1,0 +1,1 @@
+Item(by='xapata', descendants=None, kids=None, score=None, time=1607850087, title=None, item_type='comment', url=None, parent=25405142, text='Yes, a finite state machine can be encoded as a matrix.  Ultimately it&#x27;s just a string of bits, represented by whatever physical mechanism it happens to reside in.  It&#x27;s still a state machine, and that&#x27;s a big difference.')
