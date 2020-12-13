@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1607807658, title=None, item_type='comment', url=None, parent=25401486, text='How else do you expect to figure out what a program is doing? Should it make a pop up with a stack trace from time to time?')
+Item(by='saagarjha', descendants=None, kids=[25403859], score=None, time=1607807658, title=None, item_type='comment', url=None, parent=25401486, text='How else do you expect to figure out what a program is doing? Should it make a pop up with a stack trace from time to time?')

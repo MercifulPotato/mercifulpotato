@@ -1,0 +1,1 @@
+Item(by='astrange', descendants=None, kids=[25404991], score=None, time=1607843922, title=None, item_type='comment', url=None, parent=25404816, text='Thread-based allocators are a bit overrated. In apps it’s quite common for objects to migrate across threads, especially from workers to the main thread.')

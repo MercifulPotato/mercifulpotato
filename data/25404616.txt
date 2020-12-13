@@ -1,0 +1,1 @@
+Item(by='ganstyles', descendants=None, kids=[25404647], score=None, time=1607838920, title=None, item_type='comment', url=None, parent=25404523, text='This is a go question but I thought go funcs took less than a thread. This assigns one go func per cpu. Can it be faster with more go funcs per cpu?')

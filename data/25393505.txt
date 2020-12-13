@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=0, kids=None, score=2, time=1607731504, title='Reverse Engineering the TP-Link HS110', item_type='story', url='https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/', parent=None, text=None)
+Item(by='zdw', descendants=5, kids=[25405022, 25405085, 25404971, 25404840], score=44, time=1607731504, title='Reverse Engineering the TP-Link HS110', item_type='story', url='https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/', parent=None, text=None)

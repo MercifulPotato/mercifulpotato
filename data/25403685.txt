@@ -1,1 +1,1 @@
-Item(by='mrfusion', descendants=0, kids=None, score=1, time=1607825276, title='The Restaurant Lockdown Massacre', item_type='story', url='https://www.wsj.com/articles/the-restaurant-lockdown-massacre-11607730189', parent=None, text=None)
+Item(by='mrfusion', descendants=3, kids=[25403773, 25404660, 25404512], score=6, time=1607825276, title='The Restaurant Lockdown Massacre', item_type='story', url='https://www.wsj.com/articles/the-restaurant-lockdown-massacre-11607730189', parent=None, text=None)

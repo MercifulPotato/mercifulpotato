@@ -1,1 +1,1 @@
-Item(by='oa335', descendants=None, kids=None, score=None, time=1607818802, title=None, item_type='comment', url=None, parent=25401937, text='I clicked around the site and skimmed a few articles but I can’t figure out what exactly “Risk-first” development entails.')
+Item(by='oa335', descendants=None, kids=[25404363], score=None, time=1607818802, title=None, item_type='comment', url=None, parent=25401937, text='I clicked around the site and skimmed a few articles but I can’t figure out what exactly “Risk-first” development entails.')

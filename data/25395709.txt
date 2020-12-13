@@ -1,1 +1,1 @@
-Item(by='nitely', descendants=9, kids=[25401089, 25398094], score=41, time=1607749199, title='Regex literals optimization (or how to cheat on benchmarks)', item_type='story', url='https://nitely.github.io/2020/11/30/regex-literals-optimization.html', parent=None, text=None)
+Item(by='nitely', descendants=10, kids=[25401089, 25398094], score=41, time=1607749199, title='Regex literals optimization (or how to cheat on benchmarks)', item_type='story', url='https://nitely.github.io/2020/11/30/regex-literals-optimization.html', parent=None, text=None)

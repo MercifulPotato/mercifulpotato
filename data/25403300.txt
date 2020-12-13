@@ -1,1 +1,1 @@
-Item(by='kulesh', descendants=0, kids=None, score=3, time=1607820919, title='Heat Death Paradox', item_type='story', url='https://en.wikipedia.org/wiki/Heat_death_paradox', parent=None, text=None)
+Item(by='kulesh', descendants=2, kids=[25403960], score=4, time=1607820919, title='Heat Death Paradox', item_type='story', url='https://en.wikipedia.org/wiki/Heat_death_paradox', parent=None, text=None)

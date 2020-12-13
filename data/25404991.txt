@@ -1,0 +1,1 @@
+Item(by='praptak', descendants=None, kids=[25405001], score=None, time=1607845280, title=None, item_type='comment', url=None, parent=25404921, text='That&#x27;s not the point at all. Having a per-thread pool means synchronization-free alloc.<p>What happens with the object afterwards is not relevant.')

@@ -1,1 +1,1 @@
-Item(by='jldugger', descendants=None, kids=None, score=None, time=1607806716, title=None, item_type='comment', url=None, parent=25399896, text='It&#x27;s only 240k a year, which is pretty standard SV wages.')
+Item(by='jldugger', descendants=None, kids=[25404215], score=None, time=1607806716, title=None, item_type='comment', url=None, parent=25399896, text='It&#x27;s only 240k a year, which is pretty standard SV wages.')

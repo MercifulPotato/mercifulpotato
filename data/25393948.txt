@@ -1,1 +1,1 @@
-Item(by='danielheath', descendants=None, kids=None, score=None, time=1607734377, title=None, item_type='comment', url=None, parent=25393051, text='Predator drones?')
+Item(by='danielheath', descendants=None, kids=[25404317], score=None, time=1607734377, title=None, item_type='comment', url=None, parent=25393051, text='Predator drones?')

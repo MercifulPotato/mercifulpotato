@@ -1,1 +1,1 @@
-Item(by='detaro', descendants=None, kids=None, score=None, time=1607815711, title=None, item_type='comment', url=None, parent=25402749, text='Does using the GPU pay off for one-off diffing? It&#x27;s &quot;obvious&quot; that it makes sense for Gimp, but does it for this?')
+Item(by='detaro', descendants=None, kids=[25404665], score=None, time=1607815711, title=None, item_type='comment', url=None, parent=25402749, text='Does using the GPU pay off for one-off diffing? It&#x27;s &quot;obvious&quot; that it makes sense for Gimp, but does it for this?')

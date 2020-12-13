@@ -1,1 +1,1 @@
-Item(by='briefcomment', descendants=None, kids=[25391793, 25392882, 25391173], score=None, time=1607717340, title=None, item_type='comment', url=None, parent=25389335, text='What about just limiting inheritance to, say, 500k per child?')
+Item(by='briefcomment', descendants=None, kids=[25391793, 25391173, 25392882], score=None, time=1607717340, title=None, item_type='comment', url=None, parent=25389335, text='What about just limiting inheritance to, say, 500k per child?')

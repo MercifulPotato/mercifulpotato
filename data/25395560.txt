@@ -1,1 +1,1 @@
-Item(by='brudgers', descendants=0, kids=None, score=3, time=1607747396, title='Africa in the Photobook', item_type='story', url='https://africainthephotobook.com/', parent=None, text=None)
+Item(by='brudgers', descendants=1, kids=[25404673], score=4, time=1607747396, title='Africa in the Photobook', item_type='story', url='https://africainthephotobook.com/', parent=None, text=None)
