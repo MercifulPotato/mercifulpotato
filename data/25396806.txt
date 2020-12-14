@@ -1,1 +1,1 @@
-Item(by='chr15m', descendants=0, kids=None, score=12, time=1607762654, title='Show HN: Generate static sites in Node with plain JavaScript and HTML', item_type='story', url='https://github.com/chr15m/motionless', parent=None, text=None)
+Item(by='chr15m', descendants=1, kids=[25414063], score=13, time=1607762654, title='Show HN: Generate static sites in Node with plain JavaScript and HTML', item_type='story', url='https://github.com/chr15m/motionless', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='craigtaub', descendants=2, kids=[25408696, 25409513], score=32, time=1607876097, title='“Under-the-hood of GraphQL”-look at the execute req part of the query lifecycle', item_type='story', url='https://craigtaub.dev/under-the-hood-of-graphql', parent=None, text=None)
+Item(by='craigtaub', descendants=2, kids=[25409513, 25408696], score=36, time=1607876097, title='“Under-the-hood of GraphQL”-look at the execute req part of the query lifecycle', item_type='story', url='https://craigtaub.dev/under-the-hood-of-graphql', parent=None, text=None)

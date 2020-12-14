@@ -1,0 +1,1 @@
+Item(by='iptrans', descendants=None, kids=None, score=None, time=1607927083, title=None, item_type='comment', url=None, parent=25413962, text='&gt; how does the mesh connect back to the internet?<p>The same way any other network connects to the Internet, through an ISP.<p>Nominally you can be an ISP yourself, but you still need to buy capacity from other network providers.')

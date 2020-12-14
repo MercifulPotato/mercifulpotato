@@ -1,1 +1,1 @@
-Item(by='nahuel0x', descendants=0, kids=None, score=1, time=1607897175, title='Focus Cap: no distractions cap', item_type='story', url='https://en.focuscap.net/', parent=None, text=None)
+Item(by='nahuel0x', descendants=1, kids=[25412840], score=1, time=1607897175, title='Focus Cap: no distractions cap', item_type='story', url='https://en.focuscap.net/', parent=None, text=None)

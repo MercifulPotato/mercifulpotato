@@ -1,1 +1,1 @@
-Item(by='runawaybottle', descendants=None, kids=[25396202, 25396269], score=None, time=1607755196, title=None, item_type='comment', url=None, parent=25396144, text='How do you measure? I’d love to see large renders and complex top level state updates that hit hundreds of components.')
+Item(by='runawaybottle', descendants=None, kids=[25396269, 25396202], score=None, time=1607755196, title=None, item_type='comment', url=None, parent=25396144, text='How do you measure? I’d love to see large renders and complex top level state updates that hit hundreds of components.')

@@ -1,1 +1,1 @@
-Item(by='nine_k', descendants=None, kids=None, score=None, time=1607912987, title=None, item_type='comment', url=None, parent=25411983, text='Education allows women to hold prestigious and well-paid jobs, leaving less time on child-rearing.')
+Item(by='nine_k', descendants=None, kids=[25413085], score=None, time=1607912987, title=None, item_type='comment', url=None, parent=25411983, text='Education allows women to hold prestigious and well-paid jobs, leaving less time on child-rearing.')

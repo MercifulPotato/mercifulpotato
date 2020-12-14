@@ -1,0 +1,1 @@
+Item(by='yjftsjthsd-h', descendants=None, kids=None, score=None, time=1607930861, title=None, item_type='comment', url=None, parent=25413093, text='I&#x27;m pretty sure HiDPI is solved from the kernel&#x27;s perspective; pixels get to the display, it&#x27;s just that the (userspace) toolkits have lingering issues deciding what pixels to draw.')

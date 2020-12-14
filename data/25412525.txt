@@ -1,1 +1,1 @@
-Item(by='xingyzt', descendants=0, kids=None, score=3, time=1607910016, title='Blabrecs', item_type='story', url='https://mkremins.github.io/blabrecs/', parent=None, text=None)
+Item(by='xingyzt', descendants=12, kids=[25414585, 25413554, 25412847, 25412909, 25414329, 25413241, 25413712], score=49, time=1607910016, title='Blabrecs', item_type='story', url='https://mkremins.github.io/blabrecs/', parent=None, text=None)

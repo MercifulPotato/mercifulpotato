@@ -1,1 +1,1 @@
-Item(by='deburo', descendants=None, kids=None, score=None, time=1607902556, title=None, item_type='comment', url=None, parent=25409356, text='His eyes&#x27; movement is bothering me. Is he reading a script on his screen?')
+Item(by='deburo', descendants=None, kids=[25413154], score=None, time=1607902556, title=None, item_type='comment', url=None, parent=25409356, text='His eyes&#x27; movement is bothering me. Is he reading a script on his screen?')

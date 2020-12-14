@@ -1,1 +1,1 @@
-Item(by='the_only_law', descendants=None, kids=None, score=None, time=1607904872, title=None, item_type='comment', url=None, parent=25411490, text='Honestly, browsing eBay.')
+Item(by='the_only_law', descendants=None, kids=[25413597], score=None, time=1607904872, title=None, item_type='comment', url=None, parent=25411490, text='Honestly, browsing eBay.')

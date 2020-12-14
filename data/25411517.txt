@@ -1,1 +1,1 @@
-Item(by='eznzt', descendants=None, kids=None, score=None, time=1607901841, title=None, item_type='comment', url=None, parent=25409325, text='Is the narcolepsy caused by Pandemrix permanent or just temporary?')
+Item(by='eznzt', descendants=None, kids=[25413305], score=None, time=1607901841, title=None, item_type='comment', url=None, parent=25409325, text='Is the narcolepsy caused by Pandemrix permanent or just temporary?')

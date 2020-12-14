@@ -1,1 +1,1 @@
-Item(by='sohkamyung', descendants=0, kids=None, score=1, time=1607910378, title='Antikythera Mechanism: Evidence of a Lunar Calendar', item_type='story', url='https://bhi.co.uk/antikytheramechanism/', parent=None, text=None)
+Item(by='sohkamyung', descendants=1, kids=[25413117], score=2, time=1607910378, title='Antikythera Mechanism: Evidence of a Lunar Calendar', item_type='story', url='https://bhi.co.uk/antikytheramechanism/', parent=None, text=None)

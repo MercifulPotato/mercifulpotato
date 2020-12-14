@@ -1,0 +1,1 @@
+Item(by='slavik81', descendants=None, kids=None, score=None, time=1607915715, title=None, item_type='comment', url=None, parent=25411208, text='Does this actually confuse anyone? There are plenty of problems with iostreams, but I have never been encountered an issue caused by the use of &lt;&lt; for streams.')

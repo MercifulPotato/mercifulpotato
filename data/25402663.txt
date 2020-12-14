@@ -1,1 +1,1 @@
-Item(by='nichch', descendants=None, kids=None, score=None, time=1607814455, title=None, item_type='comment', url=None, parent=25402131, text='What&#x27;s your daily driver now, if I may ask? I was seriously considering the T14, but the M1 Air is tempting me.')
+Item(by='nichch', descendants=None, kids=[25414492], score=None, time=1607814455, title=None, item_type='comment', url=None, parent=25402131, text='What&#x27;s your daily driver now, if I may ask? I was seriously considering the T14, but the M1 Air is tempting me.')

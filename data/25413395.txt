@@ -1,0 +1,1 @@
+Item(by='gpm', descendants=None, kids=[25413641], score=None, time=1607918349, title=None, item_type='comment', url=None, parent=25412306, text='&gt; Its impossible to use the nvidia proprietary drivers on a prerelease kernel<p>I managed to on 5.10-rc6? Had to upgrade to the &quot;shortlived&quot; version of the driver, but that went smoothly.')

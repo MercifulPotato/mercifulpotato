@@ -1,0 +1,1 @@
+Item(by='raxxorrax', descendants=None, kids=None, score=None, time=1607932326, title=None, item_type='comment', url=None, parent=25412653, text='As far as I know you can reliably change a few bits and get a collision, not create arbitrary data with padded info whose hash collides with the original data.')

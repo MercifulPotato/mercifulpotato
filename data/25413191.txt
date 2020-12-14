@@ -1,0 +1,1 @@
+Item(by='Caitin_Chen', descendants=0, kids=None, score=2, time=1607916335, title='Why a major telecom provider switched from Amazon Aurora to CockroachDB', item_type='story', url='https://www.cockroachlabs.com/blog/the-multi-region-cockroachdb-deployment-powering-a-telecom-providers-24-7-support-platform/', parent=None, text=None)

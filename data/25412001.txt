@@ -1,1 +1,1 @@
-Item(by='angry_octet', descendants=None, kids=None, score=None, time=1607905887, title=None, item_type='comment', url=None, parent=25411711, text='But if the images are unique you now have N instances to manage... when the dependencies are strongly coupled!')
+Item(by='angry_octet', descendants=None, kids=[25414194], score=None, time=1607905887, title=None, item_type='comment', url=None, parent=25411711, text='But if the images are unique you now have N instances to manage... when the dependencies are strongly coupled!')
