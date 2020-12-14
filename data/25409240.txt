@@ -1,0 +1,1 @@
+Item(by='stephenr', descendants=None, kids=None, score=None, time=1607887110, title=None, item_type='comment', url=None, parent=25398072, text='How does this compare with zxcvbn, which is available in a bunch of languages (meaning you should get consistent “score” values for eg client side and server side)')

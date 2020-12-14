@@ -1,0 +1,1 @@
+Item(by='Isognoviastoma', descendants=None, kids=None, score=None, time=1607897566, title=None, item_type='comment', url=None, parent=25410813, text='Yes, that&#x27;s so relaxing for little finger. In fact my minimal vi config is<p><pre><code>  :nnoremap : ;\n  :nnoremap ; :\n  :nnoremap Y y$\n  :vnoremap : ;\n  :vnoremap ; :\n  :vnoremap Y y$</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='samtuke', descendants=None, kids=None, score=None, time=1607901021, title=None, item_type='comment', url=None, parent=25381242, text='We migrated from Cypress to Gauge&#x2F;Taiko for fuzzier (more human readable and guessable) selectors.')

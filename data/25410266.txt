@@ -1,0 +1,1 @@
+Item(by='DmitrySoshnikov', descendants=None, kids=None, score=None, time=1607893495, title=None, item_type='comment', url=None, parent=25405219, text='sbrk is emulated via mmap today on MacOS and others, this is an abstraction (for bump allocation), not just a function<p>you may implement custom sbrk via mmap easily')

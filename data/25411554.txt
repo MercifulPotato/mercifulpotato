@@ -1,0 +1,1 @@
+Item(by='fpoling', descendants=None, kids=None, score=None, time=1607902165, title=None, item_type='comment', url=None, parent=25411129, text='I have a shell script that either symlinks dot files from my git repo or writes them. Then I use git normally.')

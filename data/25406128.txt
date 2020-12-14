@@ -1,1 +1,1 @@
-Item(by='commotionfever', descendants=None, kids=None, score=None, time=1607862426, title=None, item_type='comment', url=None, parent=25402526, text='<a href="https:&#x2F;&#x2F;gotify.net&#x2F;" rel="nofollow">https:&#x2F;&#x2F;gotify.net&#x2F;</a>')
+Item(by='commotionfever', descendants=None, kids=[25409596], score=None, time=1607862426, title=None, item_type='comment', url=None, parent=25402526, text='<a href="https:&#x2F;&#x2F;gotify.net&#x2F;" rel="nofollow">https:&#x2F;&#x2F;gotify.net&#x2F;</a>')

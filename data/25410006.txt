@@ -1,0 +1,1 @@
+Item(by='tempodox', descendants=None, kids=[25410042], score=None, time=1607891930, title=None, item_type='comment', url=None, parent=25407123, text='Your formula `(A --&gt; B) ^ (¬A --&gt; C)` expands to `¬(A &amp; B) &amp; (A | ¬C)`. I would propose that `(A &amp; B) ^ (¬A &amp; C)`, which expands to `(¬A | B) &amp; (A | C)`, comes closer to actual `if` semantics.')

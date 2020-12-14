@@ -1,0 +1,1 @@
+Item(by='Jap2-0', descendants=None, kids=None, score=None, time=1607906904, title=None, item_type='comment', url=None, parent=25409044, text='It looks like simdjson doesn&#x27;t support AVX-512, so there couldn&#x27;t be a direct comparison with this article.  I recently got a Tiger Lake laptop, though, so if anyone has a good means for comparison I&#x27;d be interested.')

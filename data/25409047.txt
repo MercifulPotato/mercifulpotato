@@ -1,1 +1,1 @@
-Item(by='geospeck', descendants=0, kids=None, score=1, time=1607885779, title='Kestrels, Quirky Birds, and Hopeless Egocentricity', item_type='story', url='https://leanpub.com/combinators/read', parent=None, text=None)
+Item(by='geospeck', descendants=1, kids=[25409554], score=2, time=1607885779, title='Kestrels, Quirky Birds, and Hopeless Egocentricity', item_type='story', url='https://leanpub.com/combinators/read', parent=None, text=None)

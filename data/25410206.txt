@@ -1,0 +1,1 @@
+Item(by='gruez', descendants=None, kids=None, score=None, time=1607893168, title=None, item_type='comment', url=None, parent=25410058, text='It seems to reset itself any time there&#x27;s an unclean shutdown, so it resetting itself after an update doesn&#x27;t seem surprising.')

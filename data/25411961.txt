@@ -1,0 +1,1 @@
+Item(by='api', descendants=None, kids=None, score=None, time=1607905547, title=None, item_type='comment', url=None, parent=25411777, text='But those don’t conflict with the spec. They can be ignored and it’s just an ARM64. An ahead of release implementation of new vector instructions could result in actual incompatibility with official ARM64.')

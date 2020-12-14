@@ -1,1 +1,1 @@
-Item(by='coldtea', descendants=None, kids=None, score=None, time=1607886282, title=None, item_type='comment', url=None, parent=25408796, text='In HN, where every third post is &quot;Why I&#x27;m leaving Apple&quot; or such? Yes.')
+Item(by='coldtea', descendants=None, kids=[25410616], score=None, time=1607886282, title=None, item_type='comment', url=None, parent=25408796, text='In HN, where every third post is &quot;Why I&#x27;m leaving Apple&quot; or such? Yes.')

@@ -1,1 +1,1 @@
-Item(by='luu', descendants=0, kids=None, score=5, time=1607796467, title='Stressed Banks? Evidence from the Largest-Ever Supervisory Review [pdf]', item_type='story', url='https://www.fdic.gov/analysis/cfr/working-papers/2020/cfr-wp2020-06.pdf', parent=None, text=None)
+Item(by='luu', descendants=18, kids=[25410240, 25410950], score=50, time=1607796467, title='Stressed banks: evidence from the largest-ever supervisory review [pdf]', item_type='story', url='https://www.fdic.gov/analysis/cfr/working-papers/2020/cfr-wp2020-06.pdf', parent=None, text=None)

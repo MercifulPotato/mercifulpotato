@@ -1,1 +1,1 @@
-Item(by='hedora', descendants=None, kids=None, score=None, time=1607870044, title=None, item_type='comment', url=None, parent=25406621, text='Tesla aggressively tracks your car’s movements and your driving style.<p>The have publicly discussed their plans to monetize that data.')
+Item(by='hedora', descendants=None, kids=[25410565], score=None, time=1607870044, title=None, item_type='comment', url=None, parent=25406621, text='Tesla aggressively tracks your car’s movements and your driving style.<p>The have publicly discussed their plans to monetize that data.')

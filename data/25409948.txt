@@ -1,0 +1,1 @@
+Item(by='the_mitsuhiko', descendants=None, kids=[25410579, 25410056, 25411784], score=None, time=1607891532, title=None, item_type='comment', url=None, parent=25406541, text='The biggest issue with debugging on Linux is still the awful state of debug symbols. Linux famously lacks the equivalent of Microsoft’s symbol server and that changes almost everything to the worse.')

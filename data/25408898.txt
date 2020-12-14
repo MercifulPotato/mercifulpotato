@@ -1,1 +1,1 @@
-Item(by='FiddlerClamp', descendants=None, kids=None, score=None, time=1607884772, title=None, item_type='comment', url=None, parent=25406072, text='Another Ponzi-like scheme: &quot;Lifetime.&quot;')
+Item(by='FiddlerClamp', descendants=None, kids=[25410373], score=None, time=1607884772, title=None, item_type='comment', url=None, parent=25406072, text='Another Ponzi-like scheme: &quot;Lifetime.&quot;')

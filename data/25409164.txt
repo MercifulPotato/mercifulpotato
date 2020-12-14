@@ -1,1 +1,1 @@
-Item(by='closeparen', descendants=None, kids=None, score=None, time=1607886610, title=None, item_type='comment', url=None, parent=25405626, text='I find life a lot more peaceful when I reserve my indignation for things I understand.')
+Item(by=None, descendants=None, kids=None, score=None, time=1607886610, title=None, item_type='comment', url=None, parent=25405626, text=None)

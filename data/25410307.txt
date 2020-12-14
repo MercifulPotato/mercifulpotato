@@ -1,0 +1,1 @@
+Item(by='karmakaze', descendants=None, kids=None, score=None, time=1607893850, title=None, item_type='comment', url=None, parent=25408541, text='I learned on 6502 and used jsr&#x2F;rts (jump-to&#x2F;return-from subroutine). Recursive functions later in my learning was a mind-blowing moment, then seeing stack frames and call conventions made it less magical.')

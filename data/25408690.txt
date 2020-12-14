@@ -1,1 +1,1 @@
-Item(by='timdaub', descendants=3, kids=[25408701], score=3, time=1607883437, title='Show HN: I Built a Synthesizer with WASM', item_type='story', url='https://timdaub.github.io/wasm-synth/', parent=None, text=None)
+Item(by='timdaub', descendants=6, kids=[25411134, 25408701], score=11, time=1607883437, title='Show HN: I Built a Synthesizer with WASM', item_type='story', url='https://timdaub.github.io/wasm-synth/', parent=None, text=None)

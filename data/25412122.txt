@@ -1,0 +1,1 @@
+Item(by='jamii', descendants=None, kids=None, score=None, time=1607907295, title=None, item_type='comment', url=None, parent=25412092, text='Similar to C but less footguns, less error-prone error handling, better meta-programming, really good C interop. If you&#x27;re writing C (or maybe even C++) on a platform that llvm supports, it&#x27;s worth checking out.')

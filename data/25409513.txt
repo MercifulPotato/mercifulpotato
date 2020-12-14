@@ -1,0 +1,1 @@
+Item(by='mattbaker', descendants=None, kids=None, score=None, time=1607888969, title=None, item_type='comment', url=None, parent=25407553, text='Extremely cool post, but I think the title is a little misleading. The execution of a query is dependent on the framework, this article is specifically about the GraphQL reference implementation in JS.')

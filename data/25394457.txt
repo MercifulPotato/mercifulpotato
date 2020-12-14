@@ -1,1 +1,1 @@
-Item(by='plerpin', descendants=5, kids=[25395755, 25395427, 25395352, 25398384, 25395246], score=29, time=1607737740, title='I Paid $250 to Drive for Lyft Last Year', item_type='story', url='https://jalopnik.com/i-paid-250-to-drive-for-lyft-last-year-1845712155', parent=None, text=None)
+Item(by='plerpin', descendants=6, kids=[25395755, 25395427, 25398384, 25395352, 25395246], score=29, time=1607737740, title='I Paid $250 to Drive for Lyft Last Year', item_type='story', url='https://jalopnik.com/i-paid-250-to-drive-for-lyft-last-year-1845712155', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='derision', descendants=None, kids=None, score=None, time=1607876333, title=None, item_type='comment', url=None, parent=25405045, text='I would argue they&#x27;re the same thing. Me &quot;liking&quot; something by clicking a button is speech')
+Item(by='derision', descendants=None, kids=[25410801], score=None, time=1607876333, title=None, item_type='comment', url=None, parent=25405045, text='I would argue they&#x27;re the same thing. Me &quot;liking&quot; something by clicking a button is speech')

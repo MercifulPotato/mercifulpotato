@@ -1,1 +1,1 @@
-Item(by='URfejk', descendants=None, kids=None, score=None, time=1607885367, title=None, item_type='comment', url=None, parent=25408587, text='Use f.lux, redshift or some other alternative.<p>You can thank me latter.')
+Item(by='URfejk', descendants=None, kids=[25409821, 25410184], score=None, time=1607885367, title=None, item_type='comment', url=None, parent=25408587, text='Use f.lux, redshift or some other alternative.<p>You can thank me latter.')

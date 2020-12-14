@@ -1,1 +1,1 @@
-Item(by='DaiPlusPlus', descendants=None, kids=None, score=None, time=1607885236, title=None, item_type='comment', url=None, parent=25408381, text='VB.NET also uses “OrElse” and “AndAlso” for short-circuiting. VB6 didn’t support short-circuiting at all.')
+Item(by='DaiPlusPlus', descendants=None, kids=[25411249], score=None, time=1607885236, title=None, item_type='comment', url=None, parent=25408381, text='VB.NET also uses “OrElse” and “AndAlso” for short-circuiting. VB6 didn’t support short-circuiting at all.')

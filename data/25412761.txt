@@ -1,0 +1,1 @@
+Item(by='o_nate', descendants=None, kids=None, score=None, time=1607912038, title=None, item_type='comment', url=None, parent=25412044, text='This doesn&#x27;t work like &quot;else&quot; if doSomething() can change the value of x.')

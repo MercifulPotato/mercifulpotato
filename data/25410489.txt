@@ -1,0 +1,1 @@
+Item(by='karmakaze', descendants=None, kids=[25410891, 25410859], score=None, time=1607895078, title=None, item_type='comment', url=None, parent=25409231, text='TSP is NP-hard, like 2^N. The trick is that it&#x27;s approximate not exact. This could be of interest compared to known heuristic algorithms.')
