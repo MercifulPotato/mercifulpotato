@@ -1,0 +1,1 @@
+Item(by='jabo', descendants=None, kids=None, score=None, time=1607948330, title=None, item_type='comment', url=None, parent=25416355, text='Looks like I’m filtering out stop words a little too aggressively which is affecting the results in this case, I’ll take a closer look it in a few hours.')

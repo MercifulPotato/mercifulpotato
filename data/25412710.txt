@@ -1,1 +1,1 @@
-Item(by='buzzerbetrayed', descendants=None, kids=None, score=None, time=1607911461, title=None, item_type='comment', url=None, parent=25411897, text='Happened to me on edge, then I reloaded and waited a few seconds before clicking anything and it worked.')
+Item(by='buzzerbetrayed', descendants=None, kids=[25414962], score=None, time=1607911461, title=None, item_type='comment', url=None, parent=25411897, text='Happened to me on edge, then I reloaded and waited a few seconds before clicking anything and it worked.')

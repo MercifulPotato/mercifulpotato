@@ -1,0 +1,1 @@
+Item(by='room271', descendants=None, kids=None, score=None, time=1607948423, title=None, item_type='comment', url=None, parent=25414677, text='The problems stem from the lack of top-level functions; everything has to live within a class. In reality, classes (or &#x27;modules&#x27; if you prefer) should be low-granularity things in most programs.')

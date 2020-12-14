@@ -1,1 +1,1 @@
-Item(by='jamiek88', descendants=None, kids=None, score=None, time=1607887670, title=None, item_type='comment', url=None, parent=25407431, text='Yes but that’s not typical. What’s typical is grandmas shitty jpegs')
+Item(by='jamiek88', descendants=None, kids=[25416564], score=None, time=1607887670, title=None, item_type='comment', url=None, parent=25407431, text='Yes but that’s not typical. What’s typical is grandmas shitty jpegs')

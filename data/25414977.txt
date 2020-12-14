@@ -1,0 +1,1 @@
+Item(by='BeeOnRope', descendants=None, kids=None, score=None, time=1607937525, title=None, item_type='comment', url=None, parent=25409263, text='Does GNU grep actually make explicit use of SIMD via intrinsics or assembly, or just through autovectorization and&#x2F;or calling libc methods like memchr that are vectorized under the covers?')

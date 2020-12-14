@@ -1,0 +1,1 @@
+Item(by='BenElgar', descendants=None, kids=None, score=None, time=1607941843, title=None, item_type='comment', url=None, parent=25414389, text='Cool! Small bit of feedback: typing each character adds an entry to the browser&#x27;s history which seems a bit excessive. Might consider using replaceState over pushState.')

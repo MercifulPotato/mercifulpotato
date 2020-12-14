@@ -1,0 +1,1 @@
+Item(by='shawabawa3', descendants=None, kids=None, score=None, time=1607951917, title=None, item_type='comment', url=None, parent=25416297, text='Google search was slow for me during the outage (5-10s per request)<p>I imagine google search only has optional dependencies on login and correctly falls-back if these fail')

@@ -1,0 +1,1 @@
+Item(by='watwut', descendants=None, kids=None, score=None, time=1607947587, title=None, item_type='comment', url=None, parent=25415250, text='In Eclipse, if you highlight the method call, you can press &quot;ctrl-t&quot; or &quot;ctrl-t ctrl-t&quot; to get list of implementations.<p>I am 100% sure Idea have some solution too.')

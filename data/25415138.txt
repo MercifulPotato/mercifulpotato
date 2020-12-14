@@ -1,0 +1,1 @@
+Item(by='Jestar342', descendants=None, kids=None, score=None, time=1607939107, title=None, item_type='comment', url=None, parent=25415063, text='&gt; Might need to set keywordprg=:help.<p><pre><code>    echo &#x27;set keywordprg=:help&#x27; &gt;&gt; ~&#x2F;.vimrc\n</code></pre>\n:)')

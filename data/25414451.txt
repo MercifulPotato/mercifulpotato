@@ -1,1 +1,1 @@
-Item(by='tomcooks', descendants=None, kids=None, score=None, time=1607931329, title=None, item_type='comment', url=None, parent=25411860, text='Could the very low age of 16 be a reason? Not based in the US so I&#x27;m probably wrong')
+Item(by='tomcooks', descendants=None, kids=[25415196], score=None, time=1607931329, title=None, item_type='comment', url=None, parent=25411860, text='Could the very low age of 16 be a reason? Not based in the US so I&#x27;m probably wrong')

@@ -1,0 +1,1 @@
+Item(by='ratww', descendants=None, kids=None, score=None, time=1607951011, title=None, item_type='comment', url=None, parent=25416514, text='Any source for that? Last information I have is that it&#x27;s written in Arc Lisp and uses files rather than a database for storage.<p>There is a public API on Firebase, but AFAIR it&#x27;s just a mirror rather than the main storage.')

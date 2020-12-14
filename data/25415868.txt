@@ -1,0 +1,1 @@
+Item(by='Nursie', descendants=None, kids=[25415886], score=None, time=1607945679, title=None, item_type='comment', url=None, parent=25415480, text='Testing against external dependencies is only one form of testing.<p>Unit testing with mocks is another form. One does not replace the other.')

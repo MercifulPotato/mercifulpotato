@@ -1,1 +1,1 @@
-Item(by='moosterv', descendants=None, kids=None, score=None, time=1607895036, title=None, item_type='comment', url=None, parent=25410348, text='I think you mean tether')
+Item(by='moosterv', descendants=None, kids=[25415294], score=None, time=1607895036, title=None, item_type='comment', url=None, parent=25410348, text='I think you mean tether')

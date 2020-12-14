@@ -1,1 +1,1 @@
-Item(by='mav3rick', descendants=None, kids=None, score=None, time=1607810819, title=None, item_type='comment', url=None, parent=25401098, text='He mentioned Se7en.')
+Item(by='mav3rick', descendants=None, kids=[25414733], score=None, time=1607810819, title=None, item_type='comment', url=None, parent=25401098, text='He mentioned Se7en.')

@@ -1,1 +1,1 @@
-Item(by='david38', descendants=None, kids=None, score=None, time=1607928923, title=None, item_type='comment', url=None, parent=25412816, text='Yes, sometimes, like moving jobs to India.<p>Other times, no, because it would mean that group is just as good as me, and I can’t have that.')
+Item(by='david38', descendants=None, kids=[25417062], score=None, time=1607928923, title=None, item_type='comment', url=None, parent=25412816, text='Yes, sometimes, like moving jobs to India.<p>Other times, no, because it would mean that group is just as good as me, and I can’t have that.')

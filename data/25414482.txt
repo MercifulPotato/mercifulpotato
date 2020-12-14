@@ -1,1 +1,1 @@
-Item(by='octoberfranklin', descendants=None, kids=None, score=None, time=1607931630, title=None, item_type='comment', url=None, parent=25414422, text='Less often than the Intel Manglement Engine.')
+Item(by='octoberfranklin', descendants=None, kids=[25414706], score=None, time=1607931630, title=None, item_type='comment', url=None, parent=25414422, text='Less often than the Intel Manglement Engine.')

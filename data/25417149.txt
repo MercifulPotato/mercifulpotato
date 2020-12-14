@@ -1,0 +1,1 @@
+Item(by='q3k', descendants=None, kids=None, score=None, time=1607952028, title=None, item_type='comment', url=None, parent=25416812, text='I would guess autoscaling kicked in (RPC error rate caused higher CPU usage?) and now things will scale back down again.')

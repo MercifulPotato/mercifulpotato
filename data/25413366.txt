@@ -1,1 +1,1 @@
-Item(by='xcatliu', descendants=0, kids=None, score=1, time=1607918138, title='Pagic 1.0 Released', item_type='story', url='https://github.com/xcatliu/pagic', parent=None, text=None)
+Item(by='xcatliu', descendants=1, kids=[25415929], score=1, time=1607918138, title='Pagic 1.0 Released', item_type='story', url='https://github.com/xcatliu/pagic', parent=None, text=None)

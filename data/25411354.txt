@@ -1,1 +1,1 @@
-Item(by='sheeshkebab', descendants=None, kids=None, score=None, time=1607900650, title=None, item_type='comment', url=None, parent=25406764, text='Michael Saylor (MSTR’s CEO) is nuts.<p>Also, sorry for employees working there.')
+Item(by='sheeshkebab', descendants=None, kids=[25414716], score=None, time=1607900650, title=None, item_type='comment', url=None, parent=25406764, text='Michael Saylor (MSTR’s CEO) is nuts.<p>Also, sorry for employees working there.')

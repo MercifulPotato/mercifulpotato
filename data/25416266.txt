@@ -1,0 +1,1 @@
+Item(by='AgentK20', descendants=None, kids=[25416422, 25416842, 25416489, 25416432], score=None, time=1607947358, title=None, item_type='comment', url=None, parent=25415989, text='And somehow Pokemon Go is down, too. They use GCP for hosting, but I&#x27;m not seeing other outages on GCP. Maybe they have deeper integration with Google&#x27;s Cloud than publicly disclosed?')

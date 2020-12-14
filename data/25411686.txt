@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1607903224, title=None, item_type='comment', url=None, parent=25411629, text='C is a great language for pub quizzes, because so many think mastering K&amp;R C book is all it takes.')
+Item(by='pjmlp', descendants=None, kids=[25416706], score=None, time=1607903224, title=None, item_type='comment', url=None, parent=25411629, text='C is a great language for pub quizzes, because so many think mastering K&amp;R C book is all it takes.')

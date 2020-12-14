@@ -1,1 +1,1 @@
-Item(by='rawoke083600', descendants=None, kids=None, score=None, time=1607923057, title=None, item_type='comment', url=None, parent=25412130, text='Maybe it&#x27;s a stupid question and I should read the docs... but is there any &quot;multi-core or concurrency paradigms&quot; in Zig ?')
+Item(by='rawoke083600', descendants=None, kids=[25415503], score=None, time=1607923057, title=None, item_type='comment', url=None, parent=25412130, text='Maybe it&#x27;s a stupid question and I should read the docs... but is there any &quot;multi-core or concurrency paradigms&quot; in Zig ?')

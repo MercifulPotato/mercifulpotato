@@ -1,1 +1,1 @@
-Item(by='antman', descendants=None, kids=None, score=None, time=1607931395, title=None, item_type='comment', url=None, parent=25414320, text='It seems that there is a a autobiography book, and another one called pigeon stories. Which is the one you are referring to?')
+Item(by='antman', descendants=None, kids=[25416554], score=None, time=1607931395, title=None, item_type='comment', url=None, parent=25414320, text='It seems that there is a a autobiography book, and another one called pigeon stories. Which is the one you are referring to?')
