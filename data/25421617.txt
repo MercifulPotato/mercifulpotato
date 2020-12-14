@@ -1,0 +1,1 @@
+Item(by='CyberRabbi', descendants=None, kids=None, score=None, time=1607972351, title=None, item_type='comment', url=None, parent=25418385, text='“Somewhat widely adopted” is not “widely adopted” :)<p>I see people tend to write C89+designated initializers but this is a code smell IMO. Initial data should always be 0, especially data that lives in BSS&#x2F;data section.')

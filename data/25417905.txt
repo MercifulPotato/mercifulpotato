@@ -1,0 +1,1 @@
+Item(by='coldtea', descendants=None, kids=[25418320], score=None, time=1607956134, title=None, item_type='comment', url=None, parent=25417707, text='RAII is an idiom, not a language feature. Destructors might be the language feature, but they have their own issues and caveats.<p>So I don&#x27;t see the comparison...')

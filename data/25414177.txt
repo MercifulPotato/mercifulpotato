@@ -1,1 +1,1 @@
-Item(by='kergonath', descendants=None, kids=None, score=None, time=1607927424, title=None, item_type='comment', url=None, parent=25410798, text='Well, yeah. They are supposed to be in control of their vehicle. If they can’t stop in time, then they are driving too fast.')
+Item(by='kergonath', descendants=None, kids=[25419495], score=None, time=1607927424, title=None, item_type='comment', url=None, parent=25410798, text='Well, yeah. They are supposed to be in control of their vehicle. If they can’t stop in time, then they are driving too fast.')

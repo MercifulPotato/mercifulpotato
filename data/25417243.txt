@@ -1,1 +1,1 @@
-Item(by='ithkuil', descendants=None, kids=None, score=None, time=1607952608, title=None, item_type='comment', url=None, parent=25416845, text='Isn&#x27;t this a good indication that the performance problem if gmail may not be related to the &quot;bloat&quot; of the frontend itself?')
+Item(by='ithkuil', descendants=None, kids=[25418854], score=None, time=1607952608, title=None, item_type='comment', url=None, parent=25416845, text='Isn&#x27;t this a good indication that the performance problem if gmail may not be related to the &quot;bloat&quot; of the frontend itself?')

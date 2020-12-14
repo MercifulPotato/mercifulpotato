@@ -1,1 +1,1 @@
-Item(by='jrumbut', descendants=None, kids=None, score=None, time=1607953072, title=None, item_type='comment', url=None, parent=25415710, text='He wrote a lot about this in (imo his best novel) <i>A Perfect Spy</i> and his memoir <i>The Pidgeon Tunnel</i>')
+Item(by='jrumbut', descendants=None, kids=[25418162], score=None, time=1607953072, title=None, item_type='comment', url=None, parent=25415710, text='He wrote a lot about this in (imo his best novel) <i>A Perfect Spy</i> and his memoir <i>The Pidgeon Tunnel</i>')

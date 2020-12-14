@@ -1,0 +1,1 @@
+Item(by='austincheney', descendants=None, kids=None, score=None, time=1607956185, title=None, item_type='comment', url=None, parent=25417471, text='Out of curiosity how much interest is there in a JS injection utility (written in JS) that walks the DOM, executes events, reports pass&#x2F;fail&#x2F;error, has no dependencies, and does nothing else?')

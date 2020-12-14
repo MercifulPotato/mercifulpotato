@@ -1,0 +1,1 @@
+Item(by='qorrect', descendants=None, kids=None, score=None, time=1607969147, title=None, item_type='comment', url=None, parent=25420216, text='That&#x27;s what I was thinking, SQLLite probably did a lot of optimization for x86.  Once they tune it for M1 I bet we&#x27;ll see some phenomenal performance.')

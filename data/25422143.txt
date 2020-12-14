@@ -1,0 +1,1 @@
+Item(by='Thaxll', descendants=None, kids=[25422160], score=None, time=1607974673, title=None, item_type='comment', url=None, parent=25421791, text='Because the standard lib was not designed to handle that use case and so they can&#x27;t change it right now to not break compatibility, which is why they&#x27;re going to add new API in Go 1.16 that will release in February.')

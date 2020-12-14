@@ -1,1 +1,1 @@
-Item(by='oalpay', descendants=2, kids=[25417121, 25408903], score=4, time=1607884794, title='Show HN: Micro framework for ESP32 applications connected to GCP with MQTT', item_type='story', url='https://github.com/oalpay/petit_gcp', parent=None, text=None)
+Item(by='oalpay', descendants=2, kids=[25417121, 25408903], score=6, time=1607884794, title='Show HN: Micro framework for ESP32 applications connected to GCP with MQTT', item_type='story', url='https://github.com/oalpay/petit_gcp', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='marban', descendants=1, kids=[25417178], score=2, time=1607950669, title='Google Dominates Thanks to an Unrivaled View of the Web', item_type='story', url='https://www.nytimes.com/2020/12/14/technology/how-google-dominates.html', parent=None, text=None)
+Item(by='marban', descendants=5, kids=[25417178, 25418622], score=3, time=1607950669, title='Google Dominates Thanks to an Unrivaled View of the Web', item_type='story', url='https://www.nytimes.com/2020/12/14/technology/how-google-dominates.html', parent=None, text=None)

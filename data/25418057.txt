@@ -1,0 +1,1 @@
+Item(by='mislavstreicher', descendants=None, kids=None, score=None, time=1607956872, title=None, item_type='comment', url=None, parent=25418056, text='In this tutorial, we&#x27;ll be creating a Gatsby source plugin, which will fetch all contributors to a given Github repo. We&#x27;ll also learn how to use that plugin in a Gatsby site to render a list of contributors.')

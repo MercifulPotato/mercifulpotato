@@ -1,1 +1,1 @@
-Item(by='babesh', descendants=None, kids=None, score=None, time=1607754212, title=None, item_type='comment', url=None, parent=25393310, text='The campus was beautiful but the inside it was a cubicle farm.')
+Item(by='babesh', descendants=None, kids=[25421335], score=None, time=1607754212, title=None, item_type='comment', url=None, parent=25393310, text='The campus was beautiful but the inside it was a cubicle farm.')

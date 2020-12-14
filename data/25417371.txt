@@ -1,1 +1,1 @@
-Item(by='brunovcosta', descendants=0, kids=None, score=1, time=1607953374, title='Product Hacking Low-Code', item_type='story', url='https://abstra.app/', parent=None, text=None)
+Item(by='brunovcosta', descendants=1, kids=[25417413], score=2, time=1607953374, title='Hackable no-code tool for MVPs', item_type='story', url='https://abstra.app/', parent=None, text=None)

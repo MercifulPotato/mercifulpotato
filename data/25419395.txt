@@ -1,0 +1,1 @@
+Item(by='runeks', descendants=None, kids=None, score=None, time=1607963275, title=None, item_type='comment', url=None, parent=25407320, text='&gt; Pure functions are easy to reason about, easy to test, have predictable performance and are well suited for concurrent applications.<p>Predictable performance is a property of a compiler, not a pure function (a language construct).')

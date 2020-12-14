@@ -1,1 +1,1 @@
-Item(by='orzig', descendants=None, kids=None, score=None, time=1607952285, title=None, item_type='comment', url=None, parent=25416812, text='Everything is snappier for a while if you turn it off and then on again')
+Item(by='orzig', descendants=None, kids=[25417690, 25418917], score=None, time=1607952285, title=None, item_type='comment', url=None, parent=25416812, text='Everything is snappier for a while if you turn it off and then on again')

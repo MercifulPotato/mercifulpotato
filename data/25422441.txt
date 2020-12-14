@@ -1,0 +1,1 @@
+Item(by='zokier', descendants=None, kids=None, score=None, time=1607976087, title=None, item_type='comment', url=None, parent=25419740, text='Intuitively I feel that the first optimization is incorrect as it introduces out of bound write. I&#x27;ll admit that this is very much subjective thing')

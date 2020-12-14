@@ -1,0 +1,1 @@
+Item(by='Autowired', descendants=None, kids=None, score=None, time=1607959022, title=None, item_type='comment', url=None, parent=25418403, text='Sure, I was perhaps too hyperbolic. In my case, the advantage was specifically fault isolation for a multi-tenant, low traffic, demanding workload that was traditionally deployed as a physical service.')

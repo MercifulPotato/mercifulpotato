@@ -1,0 +1,1 @@
+Item(by='astrange', descendants=None, kids=None, score=None, time=1607975838, title=None, item_type='comment', url=None, parent=25420672, text='Multi-threaded tasks rarely exist in the wild. Compiling a project runs multiple processes at once, which is strictly better because it doesn’t need synchronization.')

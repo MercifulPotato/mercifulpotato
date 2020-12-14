@@ -1,0 +1,1 @@
+Item(by='zabzonk', descendants=None, kids=[25418828], score=None, time=1607960210, title=None, item_type='comment', url=None, parent=25418500, text='If you write a destructor then you know exactly under what circumstances in C++ code it will be used (this is one of the major features of the language). This specific mechanism is extremely important.')

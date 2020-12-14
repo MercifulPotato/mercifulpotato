@@ -1,0 +1,1 @@
+Item(by='colejohnson66', descendants=None, kids=None, score=None, time=1607972511, title=None, item_type='comment', url=None, parent=25419316, text='Is the actual payload encrypted, but just sent over HTTP? In that case, it’s bad, but not as bad as unencrypted over HTTP.')

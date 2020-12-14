@@ -1,1 +1,1 @@
-Item(by='honkdaddy', descendants=None, kids=None, score=None, time=1607875645, title=None, item_type='comment', url=None, parent=25407438, text='I&#x27;m curious - which road is that? In Brampton maybe?')
+Item(by='honkdaddy', descendants=None, kids=[25418914], score=None, time=1607875645, title=None, item_type='comment', url=None, parent=25407438, text='I&#x27;m curious - which road is that? In Brampton maybe?')

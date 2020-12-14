@@ -1,0 +1,1 @@
+Item(by='beaconstudios', descendants=None, kids=None, score=None, time=1607963934, title=None, item_type='comment', url=None, parent=25419441, text='Don&#x27;t include any credentials in your code, pull them in through AWS secrets, environment variables, or other runtime configuration.')

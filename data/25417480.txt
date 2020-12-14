@@ -1,1 +1,1 @@
-Item(by='Angostura', descendants=None, kids=None, score=None, time=1607954001, title=None, item_type='comment', url=None, parent=25417074, text='I thought Tom Hollander was similarly excellent, playing against type to be scary.')
+Item(by='Angostura', descendants=None, kids=[25422430], score=None, time=1607954001, title=None, item_type='comment', url=None, parent=25417074, text='I thought Tom Hollander was similarly excellent, playing against type to be scary.')

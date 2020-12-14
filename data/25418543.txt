@@ -1,0 +1,1 @@
+Item(by='crawdog', descendants=None, kids=None, score=None, time=1607959391, title=None, item_type='comment', url=None, parent=25418344, text='Looks like they are using a blanket stop word list - &quot;I, the, and&quot; etc. Also looks like diacritical folding has been done for accent characters.')

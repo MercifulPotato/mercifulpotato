@@ -1,0 +1,1 @@
+Item(by='GoblinSlayer', descendants=None, kids=None, score=None, time=1607955850, title=None, item_type='comment', url=None, parent=25403541, text='docker save | xz is about the longest pipeline I used, and since compression doesn&#x27;t provide any meaningful advantage there (except for maybe checksum), I reduced it to just docker save.')

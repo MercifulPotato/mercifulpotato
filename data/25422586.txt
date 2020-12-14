@@ -1,0 +1,1 @@
+Item(by='tempodox', descendants=None, kids=None, score=None, time=1607976706, title=None, item_type='comment', url=None, parent=25418586, text='&gt; What order the defer blocks are stored in is implementation-defined.<p>But the order they&#x27;re executed in would have to be defined, lest we build ourselves another major bug generator.')

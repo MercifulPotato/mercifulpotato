@@ -1,1 +1,1 @@
-Item(by='OJFord', descendants=None, kids=None, score=None, time=1607914111, title=None, item_type='comment', url=None, parent=25409332, text='How fast is the &#x27;worlds fastest&#x27;, can you actually use these for typing (with your eyes open)?')
+Item(by='OJFord', descendants=None, kids=[25418526], score=None, time=1607914111, title=None, item_type='comment', url=None, parent=25409332, text='How fast is the &#x27;worlds fastest&#x27;, can you actually use these for typing (with your eyes open)?')

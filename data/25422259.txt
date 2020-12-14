@@ -1,0 +1,1 @@
+Item(by='ibraheemdev', descendants=None, kids=None, score=None, time=1607975237, title=None, item_type='comment', url=None, parent=25418277, text='The SQLite and Redis benchmark don&#x27;t really make much sense here. They are more of a SSD&#x2F;RAM benchmark than a measure of processor performance.')

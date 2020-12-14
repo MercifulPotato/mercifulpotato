@@ -1,1 +1,1 @@
-Item(by='oars', descendants=None, kids=None, score=None, time=1607927379, title=None, item_type='comment', url=None, parent=25414106, text='If we replaced SolarWinds with Splunk would you be reacting the same way?')
+Item(by='oars', descendants=None, kids=[25417778], score=None, time=1607927379, title=None, item_type='comment', url=None, parent=25414106, text='If we replaced SolarWinds with Splunk would you be reacting the same way?')

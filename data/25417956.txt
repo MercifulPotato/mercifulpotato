@@ -1,0 +1,1 @@
+Item(by='anonunivgrad', descendants=None, kids=None, score=None, time=1607956370, title=None, item_type='comment', url=None, parent=25417861, text='You would just follow the C variable scope rules I think. But I see now how this creates an issue if you want to put the defer, but not the acquisition of the resource it releases, within a control statement.')

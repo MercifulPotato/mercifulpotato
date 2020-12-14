@@ -1,0 +1,1 @@
+Item(by='rseacord', descendants=None, kids=None, score=None, time=1607966294, title=None, item_type='comment', url=None, parent=25418925, text='Yes, you are correct and there wasn&#x27;t much support for capturing values so we would probably only support capture by reference and wait to see if C solves this problem in general by introducing lambdas.')

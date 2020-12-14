@@ -1,0 +1,1 @@
+Item(by='rsynnott', descendants=None, kids=[25422374, 25421912], score=None, time=1607972490, title=None, item_type='comment', url=None, parent=25420893, text='Rosetta does quite badly with JITed stuff (notably, it does very, very badly with x86 JVMs). I assume it&#x27;ll be fine once native Unity is available.')

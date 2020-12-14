@@ -1,0 +1,1 @@
+Item(by='cesarb', descendants=None, kids=[25420543, 25419653], score=None, time=1607961788, title=None, item_type='comment', url=None, parent=25418730, text='IIRC, the problem with C++ is that you <i>can</i> declare anonymous object instances... With surprising results (the object is destroyed at the semicolon, instead of being destroyed at the end of the block).')

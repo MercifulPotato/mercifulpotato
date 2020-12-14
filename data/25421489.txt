@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1607971814, title=None, item_type='comment', url=None, parent=25419841, text='Right! And to be clear you cannot implement RAII in term of defer as RAII is lifetime based while defer is only scope based.')

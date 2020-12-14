@@ -1,1 +1,1 @@
-Item(by='cnity', descendants=None, kids=None, score=None, time=1607940502, title=None, item_type='comment', url=None, parent=25415267, text='That&#x27;s cool. Do you have a write-up of this somewhere?')
+Item(by='cnity', descendants=None, kids=[25420257], score=None, time=1607940502, title=None, item_type='comment', url=None, parent=25415267, text='That&#x27;s cool. Do you have a write-up of this somewhere?')

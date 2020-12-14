@@ -1,0 +1,1 @@
+Item(by='Reason077', descendants=None, kids=None, score=None, time=1607973674, title=None, item_type='comment', url=None, parent=25421650, text='The linked article with the benchmarks doesn&#x27;t make it clear what JVM is being used. Since the Java benchmarks seem to perform well, I assume they&#x27;re using a native JVM?')

@@ -1,0 +1,1 @@
+Item(by='codetrotter', descendants=None, kids=[25422435], score=None, time=1607965842, title=None, item_type='comment', url=None, parent=25418091, text='&gt; transform syscalls to function calls<p>I thought that was kind of the point of a unikernel. Or am I mistaken? Does the other one from the other day not do that?')

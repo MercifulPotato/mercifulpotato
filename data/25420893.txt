@@ -1,0 +1,1 @@
+Item(by='SirIntruder', descendants=None, kids=[25421650, 25421012], score=None, time=1607969163, title=None, item_type='comment', url=None, parent=25420798, text='It definitely uses x86 emulation, if that&#x27;s what you mean. But based on the these M1 threads I would expect M1 x86 emulation to work like magic, not be 5 times slower than some dual core 2016 model.')

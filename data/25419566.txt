@@ -1,0 +1,1 @@
+Item(by='gostsamo', descendants=None, kids=None, score=None, time=1607964032, title=None, item_type='comment', url=None, parent=25419441, text='Code reviews. If it is in the diff, you have an issue, so make someone check your work.<p>Otherwise, secrets as environment variables, do not write them down in files, and change them regularly.')

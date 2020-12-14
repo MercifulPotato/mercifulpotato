@@ -1,0 +1,1 @@
+Item(by='secondcoming', descendants=None, kids=[25420860], score=None, time=1607966432, title=None, item_type='comment', url=None, parent=25418277, text='Those Redis results are very interesting. So interesting that it looks like something is wrong with the test.<p>Maybe the OS is a factor? I assume they&#x27;re connecting to redis over domain sockets?')
