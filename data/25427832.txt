@@ -1,0 +1,1 @@
+Item(by='xfer', descendants=None, kids=[25427922], score=None, time=1608016624, title=None, item_type='comment', url=None, parent=25427128, text='Ocaml is a moving target, new features are added. Bucklescript was 4.02 for a long time before moving to 4.06. It is unclear what the current status of Rescript is.')

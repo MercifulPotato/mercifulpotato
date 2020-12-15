@@ -1,1 +1,1 @@
-Item(by='tptacek', descendants=None, kids=None, score=None, time=1607973488, title=None, item_type='comment', url=None, parent=25415290, text='GE really did own NBC.')
+Item(by='tptacek', descendants=None, kids=[25427634], score=None, time=1607973488, title=None, item_type='comment', url=None, parent=25415290, text='GE really did own NBC.')

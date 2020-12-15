@@ -1,1 +1,1 @@
-Item(by='an_opabinia', descendants=None, kids=None, score=None, time=1607997180, title=None, item_type='comment', url=None, parent=25426058, text='If there&#x27;s anything you can credit the Google team for, it&#x27;s using IntelliJ as the basis of the Android IDE.')
+Item(by='an_opabinia', descendants=None, kids=[25427676], score=None, time=1607997180, title=None, item_type='comment', url=None, parent=25426058, text='If there&#x27;s anything you can credit the Google team for, it&#x27;s using IntelliJ as the basis of the Android IDE.')

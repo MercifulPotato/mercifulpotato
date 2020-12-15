@@ -1,0 +1,1 @@
+Item(by='lambdatronics', descendants=None, kids=None, score=None, time=1608019724, title=None, item_type='comment', url=None, parent=25426291, text='&gt; different ways of handling UB can lead to different ways UB behaves.<p>Ha! If something depends on how &#x27;undefined behavior&#x27; behaves, then it&#x27;s not really undefined, is it? :D')

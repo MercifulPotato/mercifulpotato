@@ -1,0 +1,1 @@
+Item(by='di', descendants=None, kids=None, score=None, time=1608002923, title=None, item_type='comment', url=None, parent=25426195, text='Wait, a 40ms bug that isn&#x27;t due to Nagle’s algorithm? Is that even possible?')

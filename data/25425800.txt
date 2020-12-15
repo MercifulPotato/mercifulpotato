@@ -1,1 +1,1 @@
-Item(by='pochamago', descendants=None, kids=None, score=None, time=1607994754, title=None, item_type='comment', url=None, parent=25425672, text='Perhaps Nature is as capable as any of us of creating ideas worth downvoting')
+Item(by='pochamago', descendants=None, kids=[25426447], score=None, time=1607994754, title=None, item_type='comment', url=None, parent=25425672, text='Perhaps Nature is as capable as any of us of creating ideas worth downvoting')

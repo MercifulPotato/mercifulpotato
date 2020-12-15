@@ -1,1 +1,1 @@
-Item(by='confidantlake', descendants=None, kids=None, score=None, time=1607964090, title=None, item_type='comment', url=None, parent=25414684, text='Awesome, I agree completely! Have read the first book and about to read the second.')
+Item(by='confidantlake', descendants=None, kids=[25426983], score=None, time=1607964090, title=None, item_type='comment', url=None, parent=25414684, text='Awesome, I agree completely! Have read the first book and about to read the second.')

@@ -1,1 +1,1 @@
-Item(by='jnxx', descendants=None, kids=None, score=None, time=1607984600, title=None, item_type='comment', url=None, parent=25421361, text='Why do you need that? Are you alone when you travel in a plane?')
+Item(by='jnxx', descendants=None, kids=[25427661], score=None, time=1607984600, title=None, item_type='comment', url=None, parent=25421361, text='Why do you need that? Are you alone when you travel in a plane?')

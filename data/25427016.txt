@@ -1,0 +1,1 @@
+Item(by='usefulcat', descendants=None, kids=None, score=None, time=1608006568, title=None, item_type='comment', url=None, parent=25419000, text='Neither std::unique_ptr nor std::shared_ptr existed prior to c++11. Perhaps you&#x27;re thinking of boost::shared_ptr or boost::scoped_ptr, both of which have existed in one form or another for somewhere around 20 years.')

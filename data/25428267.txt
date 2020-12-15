@@ -1,0 +1,1 @@
+Item(by='CodesInChaos', descendants=None, kids=None, score=None, time=1608021494, title=None, item_type='comment', url=None, parent=25401986, text='Isn&#x27;t outbound cloudfront traffic just as outrageously expensive as outbound EC2 traffic? My impression is that AWS is simply unaffordable when you have large amounts of traffic.')

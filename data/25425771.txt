@@ -1,1 +1,1 @@
-Item(by='brundolf', descendants=None, kids=None, score=None, time=1607994546, title=None, item_type='comment', url=None, parent=25425289, text='Sharing your blocklist is one thing - I block plenty of people I wouldn&#x27;t consider &quot;enemies&quot;, simply because I don&#x27;t want them appearing in my Twitter feed - but this:<p>&gt; In that case, use this as a #cancel list<p>is going to be a huge &quot;yikes&quot; from me')
+Item(by=None, descendants=None, kids=None, score=None, time=1607994546, title=None, item_type='comment', url=None, parent=25425289, text=None)

@@ -1,0 +1,1 @@
+Item(by='jamil7', descendants=None, kids=None, score=None, time=1608017157, title=None, item_type='comment', url=None, parent=25426725, text='FWIW you can invoke SourceKit LSP with a vim&#x2F;nvim plugin now and have a really nice Swift editor inside nvim. It doesn’t work with third-party packages yet though so I mostly use it for one off scripts.')

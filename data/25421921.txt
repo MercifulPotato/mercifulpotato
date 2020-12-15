@@ -1,1 +1,1 @@
-Item(by='bnr', descendants=2, kids=[25424913], score=8, time=1607973722, title='Why Domain Specific Languages? A Collection of Anecdotes', item_type='story', url='https://www.infoq.com/articles/why-dsl-collection-anecdotes/', parent=None, text=None)
+Item(by='bnr', descendants=4, kids=[25426982, 25424913], score=15, time=1607973722, title='Why Domain Specific Languages? A Collection of Anecdotes', item_type='story', url='https://www.infoq.com/articles/why-dsl-collection-anecdotes/', parent=None, text=None)

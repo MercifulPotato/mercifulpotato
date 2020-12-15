@@ -1,0 +1,1 @@
+Item(by='rendall', descendants=None, kids=None, score=None, time=1608016963, title=None, item_type='comment', url=None, parent=25426880, text='My impression is that the bug workaround was for the integrator to make sure the application was in the foreground before calling the Ninja handler')

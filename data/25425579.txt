@@ -1,1 +1,1 @@
-Item(by='kaustavha', descendants=0, kids=None, score=4, time=1607993155, title='Manager at AMZN ignoring community issues – worst documentation ever', item_type='story', url='https://github.com/amzn/selling-partner-api-docs/issues/210', parent=None, text=None)
+Item(by='kaustavha', descendants=2, kids=[25426533, 25426717], score=7, time=1607993155, title='Manager at AMZN ignoring community issues – worst documentation ever', item_type='story', url='https://github.com/amzn/selling-partner-api-docs/issues/210', parent=None, text=None)

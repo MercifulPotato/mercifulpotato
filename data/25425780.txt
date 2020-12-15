@@ -1,1 +1,1 @@
-Item(by='john_moscow', descendants=0, kids=None, score=3, time=1607994576, title='Proposed US regulation to prevent financial blacklisting for political reasons', item_type='story', url='https://reclaimthenet.org/stop-financial-services-blacklisting-speech/', parent=None, text=None)
+Item(by='john_moscow', descendants=1, kids=[25426564], score=4, time=1607994576, title='Proposed US regulation to prevent financial blacklisting for political reasons', item_type='story', url='https://reclaimthenet.org/stop-financial-services-blacklisting-speech/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='backing', descendants=None, kids=None, score=None, time=1608010305, title=None, item_type='comment', url=None, parent=25420698, text='I was about to use JSON schemas but didn&#x27;t know how to implement it in a generic way.<p>Thanks for Quart, I&#x27;ll use it soon.<p>Is there a way to export the schemas for external use ?')

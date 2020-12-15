@@ -1,1 +1,1 @@
-Item(by='claytn', descendants=1, kids=[25426114], score=2, time=1607995404, title='Show HN: A Year in Review for Reddit', item_type='story', url='https://reddityearinreview.com/', parent=None, text=None)
+Item(by='claytn', descendants=3, kids=[25426114, 25426414], score=3, time=1607995404, title='Show HN: A Year in Review for Reddit', item_type='story', url='https://reddityearinreview.com/', parent=None, text=None)

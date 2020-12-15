@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=[25427408], score=None, time=1608004641, title=None, item_type='comment', url=None, parent=25426673, text='Does anyone have more reading on this? Sounds interesting. I know Windows 7+ x64 has a user-mode scheduler but I hadn&#x27;t heard of a Linux-based OS supporting this. How does it handle blocking calls and such?')

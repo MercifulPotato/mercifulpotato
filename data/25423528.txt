@@ -1,1 +1,1 @@
-Item(by='edward', descendants=0, kids=None, score=11, time=1607981006, title='Pinterest Settles Gender Discrimination Suit for $22.5M', item_type='story', url='https://www.nytimes.com/2020/12/14/technology/pinterest-gender-discrimination-lawsuit.html', parent=None, text=None)
+Item(by='edward', descendants=0, kids=[25426360], score=11, time=1607981006, title='Pinterest Settles Gender Discrimination Suit for $22.5M', item_type='story', url='https://www.nytimes.com/2020/12/14/technology/pinterest-gender-discrimination-lawsuit.html', parent=None, text=None)

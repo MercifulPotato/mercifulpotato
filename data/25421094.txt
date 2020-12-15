@@ -1,1 +1,1 @@
-Item(by='singhrac', descendants=None, kids=None, score=None, time=1607970047, title=None, item_type='comment', url=None, parent=25420769, text='Is this true? I didn&#x27;t see this detail anywhere I looked. If you have a source that would be interesting.')
+Item(by='singhrac', descendants=None, kids=[25427389], score=None, time=1607970047, title=None, item_type='comment', url=None, parent=25420769, text='Is this true? I didn&#x27;t see this detail anywhere I looked. If you have a source that would be interesting.')
