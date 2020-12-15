@@ -1,0 +1,1 @@
+Item(by='viach', descendants=None, kids=None, score=None, time=1608048528, title=None, item_type='comment', url=None, parent=25430325, text='I found that if you open it in 2 separate browser windows, you can edit both representations as independent documents, then after refresh the last edit wins. Is this intended behavior?')

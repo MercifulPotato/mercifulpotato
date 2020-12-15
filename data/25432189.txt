@@ -1,0 +1,1 @@
+Item(by='nerdponx', descendants=None, kids=None, score=None, time=1608051875, title=None, item_type='comment', url=None, parent=25431365, text='Deprecation without an obvious replacement is pretty toothless, because people will keep using the deprecated thing for lack of an obvious replacement. This is how we ended up with disasters like the Python 2&#x2F;3 transition.')

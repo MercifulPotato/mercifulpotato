@@ -1,0 +1,1 @@
+Item(by='jdblair', descendants=None, kids=None, score=None, time=1608032193, title=None, item_type='comment', url=None, parent=25429022, text='Yes, that&#x27;s all correct. The reason for the small block size has to do design decisions made in the rest of the streaming stack, which is shared between all TV devices.')

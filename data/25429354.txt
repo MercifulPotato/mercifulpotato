@@ -1,0 +1,1 @@
+Item(by='rmujica', descendants=None, kids=None, score=None, time=1608032638, title=None, item_type='comment', url=None, parent=25423142, text='I&#x27;ve used both approaches, GiST in PG and S2 in Mongo, and I feel that S2 has given me more tools to do queries like &quot;which polygons contain this single point?&quot; efficiently in my use case.')

@@ -1,0 +1,1 @@
+Item(by='CodesInChaos', descendants=None, kids=[25433345], score=None, time=1608050805, title=None, item_type='comment', url=None, parent=25430768, text='From what I remember, the old clipboard API didn&#x27;t distinguish between an app inspecting the clipboard content (dangerous) and merely checking if the clipboard contains data and what its type is (harmless).')

@@ -1,1 +1,1 @@
-Item(by='jesperlang', descendants=44, kids=[25428028, 25427609, 25427126, 25425904, 25427565], score=57, time=1607983586, title='ReScript 8.4', item_type='story', url='https://rescript-lang.org/blog/bucklescript-release-8-4', parent=None, text=None)
+Item(by='jesperlang', descendants=60, kids=[25427609, 25429031, 25427126, 25428294, 25425904, 25428028, 25427565], score=68, time=1607983586, title='ReScript 8.4', item_type='story', url='https://rescript-lang.org/blog/bucklescript-release-8-4', parent=None, text=None)

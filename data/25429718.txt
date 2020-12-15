@@ -1,0 +1,1 @@
+Item(by='ralfj', descendants=None, kids=None, score=None, time=1608035999, title=None, item_type='comment', url=None, parent=25425833, text='Note that all of the optimizations I used in the main part (not the warm-up) of my post are still performed even with &quot;-fwrapv -fno-strict-aliasing&quot;. So this does not avoid the issues I am talking about.')

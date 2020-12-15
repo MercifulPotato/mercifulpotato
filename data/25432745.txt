@@ -1,0 +1,1 @@
+Item(by='gabereiser', descendants=None, kids=[25432953, 25432875, 25432845], score=None, time=1608054511, title=None, item_type='comment', url=None, parent=25432655, text='Can you give some concrete examples on the N+1 problem? I’ve heard this before but never experienced it.')

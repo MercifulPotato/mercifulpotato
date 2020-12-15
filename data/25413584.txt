@@ -1,1 +1,1 @@
-Item(by='2muchcoffeeman', descendants=None, kids=None, score=None, time=1607920379, title=None, item_type='comment', url=None, parent=25413239, text='What’s your game?<p>No one wants micro transaction games.')
+Item(by='2muchcoffeeman', descendants=None, kids=[25428833], score=None, time=1607920379, title=None, item_type='comment', url=None, parent=25413239, text='What’s your game?<p>No one wants micro transaction games.')

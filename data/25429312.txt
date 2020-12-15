@@ -1,0 +1,1 @@
+Item(by='aduitsis', descendants=None, kids=None, score=None, time=1608032159, title=None, item_type='comment', url=None, parent=25429263, text='If the script must iterate over the lines of its input, I&#x27;ve found perl -nlE to be a godsend. Basically it is equivalent to<p><pre><code>  while(&lt;&gt;){\n      chomp;\n      &lt;insert your -E code here&gt;\n  }</code></pre>')

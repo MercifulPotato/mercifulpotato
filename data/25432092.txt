@@ -1,0 +1,1 @@
+Item(by='flurly', descendants=None, kids=None, score=None, time=1608051379, title=None, item_type='comment', url=None, parent=25430916, text='I&#x27;ve used both AWS and GCP and I personally found GCP easier to use. Also FWIW GCP ended up being cheaper, at least for running GPU instances.')

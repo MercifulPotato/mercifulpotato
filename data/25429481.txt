@@ -1,0 +1,1 @@
+Item(by='usr1106', descendants=None, kids=[25430356], score=None, time=1608033784, title=None, item_type='comment', url=None, parent=25429398, text='I use just<p><pre><code>   trap EXIT\n</code></pre>\nWith<p><pre><code>   set -eu\n</code></pre>\nerrors in subshells should lead to an exit anyway, so my exit handler is called. Or am I missing some case?')

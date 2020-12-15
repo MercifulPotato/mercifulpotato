@@ -1,0 +1,1 @@
+Item(by='cesarb', descendants=None, kids=[25434263, 25432735], score=None, time=1608054284, title=None, item_type='comment', url=None, parent=25432519, text='&gt; Firefox won&#x27;t even ask the DNS stack for the IP, assuming loopback instead.<p>Which loopback, 127.0.0.1, ::1, or both?')

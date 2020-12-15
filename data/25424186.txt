@@ -1,1 +1,1 @@
-Item(by='toast0', descendants=None, kids=[25425171], score=None, time=1607984565, title=None, item_type='comment', url=None, parent=25423108, text='If your tests make you write worse code, what have you gained?')
+Item(by='toast0', descendants=None, kids=[25429017, 25425171], score=None, time=1607984565, title=None, item_type='comment', url=None, parent=25423108, text='If your tests make you write worse code, what have you gained?')

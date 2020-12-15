@@ -1,0 +1,1 @@
+Item(by='noncoml', descendants=None, kids=None, score=None, time=1608062314, title=None, item_type='comment', url=None, parent=25430885, text='&gt; Firefox now uses more modern techniques for allocating shared memory on Linux, improving performance and increasing compatibility with Docker.<p>Anyone know any more details about this one?')

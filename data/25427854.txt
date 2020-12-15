@@ -1,1 +1,1 @@
-Item(by='eps', descendants=None, kids=None, score=None, time=1608016946, title=None, item_type='comment', url=None, parent=25423516, text='It&#x27;s a good story and you are nitpicking.')
+Item(by='eps', descendants=None, kids=[25428853], score=None, time=1608016946, title=None, item_type='comment', url=None, parent=25423516, text='It&#x27;s a good story and you are nitpicking.')

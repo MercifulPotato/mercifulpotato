@@ -1,0 +1,1 @@
+Item(by='bweitzman', descendants=None, kids=[25433083], score=None, time=1608055080, title=None, item_type='comment', url=None, parent=25428589, text='`select.project(sum(orderTable.amount) &#x2F; sum(orderTable.quantity) * 100)`<p>How does this work? I thought Java didn&#x27;t have operator overloading. Are expressions represented as numbers somehow??')

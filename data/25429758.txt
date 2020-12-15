@@ -1,0 +1,1 @@
+Item(by='ulzeraj', descendants=None, kids=None, score=None, time=1608036393, title=None, item_type='comment', url=None, parent=25411565, text='Thanks! Using Ansible sounds like a great idea, specially when it allows me to also match installed packages!<p>Would be great if I could combine with a local secrets engine. Like Hashicorp Vault but local.')

@@ -1,0 +1,1 @@
+Item(by='jbboehr', descendants=None, kids=None, score=None, time=1608020161, title=None, item_type='comment', url=None, parent=25427111, text='Try enabling hardware acceleration (layers.acceleration.force-enabled=true in about:config I think). I was having issues until I learned it was disabled by default on Linux.')

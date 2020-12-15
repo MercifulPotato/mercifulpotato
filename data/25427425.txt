@@ -1,1 +1,1 @@
-Item(by='seedless-sensat', descendants=None, kids=None, score=None, time=1608011455, title=None, item_type='comment', url=None, parent=25427386, text='Maybe I shouldn&#x27;t be surprised, but Prime Video&#x27;s Chromecast integration is just terrible.')
+Item(by='seedless-sensat', descendants=None, kids=[25428930], score=None, time=1608011455, title=None, item_type='comment', url=None, parent=25427386, text='Maybe I shouldn&#x27;t be surprised, but Prime Video&#x27;s Chromecast integration is just terrible.')

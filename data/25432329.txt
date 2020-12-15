@@ -1,0 +1,1 @@
+Item(by='closeparen', descendants=None, kids=[25433884], score=None, time=1608052521, title=None, item_type='comment', url=None, parent=25429493, text='We use Bazel’s visibility settings this way. More often for controlled beta rollouts than for deprecation, but same principle. You can make it a compile time error to import a package that isn’t for you.')

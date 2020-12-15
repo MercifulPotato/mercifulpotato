@@ -1,0 +1,1 @@
+Item(by='franga2000', descendants=None, kids=[25429782, 25429768, 25429682], score=None, time=1608035355, title=None, item_type='comment', url=None, parent=25429519, text='In an embedded system (== very limited resources), wouldn&#x27;t you want to avoid any interpreted language, even shell? We have some very nice languages that compile to machine code these days')

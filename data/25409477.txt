@@ -1,1 +1,1 @@
-Item(by='q-big', descendants=None, kids=[25409702, 25409746], score=None, time=1607888760, title=None, item_type='comment', url=None, parent=25409044, text='&gt; I expect that AMD and especially Intel processors with AVX-512<p>AMD processors do not support AVX-512 (yet?).')
+Item(by='q-big', descendants=None, kids=[25409746, 25409702], score=None, time=1607888760, title=None, item_type='comment', url=None, parent=25409044, text='&gt; I expect that AMD and especially Intel processors with AVX-512<p>AMD processors do not support AVX-512 (yet?).')

@@ -1,1 +1,1 @@
-Item(by='wbl', descendants=None, kids=[25418516, 25418633], score=None, time=1607958462, title=None, item_type='comment', url=None, parent=25417479, text='Defer has the benefit of being dynamic vs the scope tied cleanup.')
+Item(by='wbl', descendants=None, kids=[25418633, 25418516], score=None, time=1607958462, title=None, item_type='comment', url=None, parent=25417479, text='Defer has the benefit of being dynamic vs the scope tied cleanup.')

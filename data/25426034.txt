@@ -1,1 +1,1 @@
-Item(by='luu', descendants=4, kids=[25427272], score=52, time=1607996564, title='Dash: Scalable Hashing on Persistent Memory [pdf]', item_type='story', url='http://www.vldb.org/pvldb/vol13/p1147-lu.pdf', parent=None, text=None)
+Item(by='luu', descendants=4, kids=[25427272], score=75, time=1607996564, title='Dash: Scalable Hashing on Persistent Memory [pdf]', item_type='story', url='http://www.vldb.org/pvldb/vol13/p1147-lu.pdf', parent=None, text=None)

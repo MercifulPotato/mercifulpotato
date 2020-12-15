@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=[25427727], score=None, time=1607999310, title=None, item_type='comment', url=None, parent=25425629, text='There has to be some reason for it.  If not thermals, then what else about the hardware could explain the difference?')
+Item(by='kube-system', descendants=None, kids=[25431250, 25427727], score=None, time=1607999310, title=None, item_type='comment', url=None, parent=25425629, text='There has to be some reason for it.  If not thermals, then what else about the hardware could explain the difference?')

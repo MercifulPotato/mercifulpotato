@@ -1,0 +1,1 @@
+Item(by='dastx', descendants=None, kids=[25434545], score=None, time=1608058846, title=None, item_type='comment', url=None, parent=25433592, text='Running a script as sh script.sh returns only script.sh, thus, you&#x27;ve already got SELF, but you wouldn&#x27;t get DIR.')

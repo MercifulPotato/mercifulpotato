@@ -1,0 +1,1 @@
+Item(by='bzbarsky', descendants=None, kids=None, score=None, time=1608062250, title=None, item_type='comment', url=None, parent=25432922, text='Based on code inspection, I believe so, yes.  It will map &quot;dev.localhost&quot; to 127.0.0.1.')

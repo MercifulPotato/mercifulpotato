@@ -1,0 +1,1 @@
+Item(by='wdb', descendants=None, kids=None, score=None, time=1608039757, title=None, item_type='comment', url=None, parent=25428511, text='That&#x27;s not correct, you wouldn&#x27;t be able to connect these services after restart. E.g. you wouldn&#x27;t be able to auth to Cloud SQL or Datastore. Stopping development')

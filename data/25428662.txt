@@ -1,0 +1,1 @@
+Item(by='carlmr', descendants=None, kids=None, score=None, time=1608026035, title=None, item_type='comment', url=None, parent=25428321, text='That is indeed interesting. The pipeline should be filling up if the OS scheduler delays the buffering for 40ms, giving enough data on the next call. Except if the buffering isn&#x27;t greedy enough or aborted by the OS in some way.')

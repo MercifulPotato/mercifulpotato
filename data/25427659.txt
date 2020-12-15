@@ -1,1 +1,1 @@
-Item(by='mehrdadn', descendants=None, kids=None, score=None, time=1608014343, title=None, item_type='comment', url=None, parent=25427289, text='Might be a VoIP thing?')
+Item(by='mehrdadn', descendants=None, kids=[25428639], score=None, time=1608014343, title=None, item_type='comment', url=None, parent=25427289, text='Might be a VoIP thing?')

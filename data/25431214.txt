@@ -1,0 +1,1 @@
+Item(by='michaelmior', descendants=None, kids=None, score=None, time=1608046696, title=None, item_type='comment', url=None, parent=25429899, text='I much prefer this approach (finding the script directory and explicitly using it) over changing into the directory of the script. It makes it much easier to use paths relative to the working directory when you want to.')

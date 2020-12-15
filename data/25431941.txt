@@ -1,0 +1,1 @@
+Item(by='est31', descendants=None, kids=[25433107], score=None, time=1608050629, title=None, item_type='comment', url=None, parent=25431500, text='The <i>extension</i> API changed (web extensions). The plugin API is still NPAPI. There was a project to replace the API with the one that chrome uses, which has better sandboxing, but eventually they abandoned that project.')

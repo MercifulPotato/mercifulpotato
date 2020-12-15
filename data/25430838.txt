@@ -1,0 +1,1 @@
+Item(by='nerdponx', descendants=None, kids=[25431067], score=None, time=1608044181, title=None, item_type='comment', url=None, parent=25429899, text='Every time I see this I can&#x27;t help but smile, knowing that in Zsh the equivalent code is:<p><pre><code>    #!&#x2F;usr&#x2F;bin&#x2F;env zsh\n\n    setopt err_exit no_unset\n    DIR=${0:h}</code></pre>')

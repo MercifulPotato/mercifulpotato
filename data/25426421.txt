@@ -1,1 +1,1 @@
-Item(by='bostonsre', descendants=2, kids=[25426918, 25426422], score=7, time=1608000568, title='Pip search pretty much broken globally', item_type='story', url='https://www.reddit.com/r/learnpython/comments/kd9qm3/is_pip_going_away_i_got_an_error_saying_pip_is/', parent=None, text=None)
+Item(by='bostonsre', descendants=4, kids=[25426918, 25426422], score=8, time=1608000568, title='Pip search pretty much broken globally', item_type='story', url='https://www.reddit.com/r/learnpython/comments/kd9qm3/is_pip_going_away_i_got_an_error_saying_pip_is/', parent=None, text=None)

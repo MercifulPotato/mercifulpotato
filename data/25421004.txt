@@ -1,1 +1,1 @@
-Item(by='cferr', descendants=None, kids=None, score=None, time=1607969634, title=None, item_type='comment', url=None, parent=25420050, text='How do we know yet if it&#x27;s long-lasting?')
+Item(by='cferr', descendants=None, kids=[25431193], score=None, time=1607969634, title=None, item_type='comment', url=None, parent=25420050, text='How do we know yet if it&#x27;s long-lasting?')

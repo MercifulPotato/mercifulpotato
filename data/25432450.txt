@@ -1,0 +1,1 @@
+Item(by='joseph', descendants=None, kids=None, score=None, time=1608053095, title=None, item_type='comment', url=None, parent=25432302, text='It gives you sudo access so you can install anything. Although you don&#x27;t need root to &quot;install&quot; Terraform, you can just download the binary and run it from ${HOME} or wherever.')

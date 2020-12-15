@@ -1,1 +1,1 @@
-Item(by='yevpats', descendants=0, kids=None, score=4, time=1607930862, title='Cloudquery: Easily ask questions about your cloud infrastructure', item_type='story', url='https://github.com/cloudquery/cloudquery', parent=None, text=None)
+Item(by='yevpats', descendants=3, kids=[25433813, 25434076, 25433761], score=19, time=1607930862, title='Cloudquery: Easily ask questions about your cloud infrastructure', item_type='story', url='https://github.com/cloudquery/cloudquery', parent=None, text=None)

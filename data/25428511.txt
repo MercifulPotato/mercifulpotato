@@ -1,0 +1,1 @@
+Item(by='bobviolier', descendants=None, kids=[25430184], score=None, time=1608024298, title=None, item_type='comment', url=None, parent=25427806, text='The Google Cloud was almost unaffected, during the outage you could not log into the cloud console or use tools like gcloud - but the services itself (vms, gke, pubsub, etc) kept working throughout the outage.')

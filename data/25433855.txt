@@ -1,0 +1,1 @@
+Item(by='BrownSol', descendants=None, kids=None, score=None, time=1608059719, title=None, item_type='comment', url=None, parent=25433703, text='Author here! With the new container support for Lambda, I wanted to build a quick example using Puppeteer since a lot of people have issues running Puppeteer at scale. Enjoy!')

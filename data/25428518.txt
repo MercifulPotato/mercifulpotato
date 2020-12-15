@@ -1,0 +1,1 @@
+Item(by='coldtea', descendants=None, kids=[25430229], score=None, time=1608024345, title=None, item_type='comment', url=None, parent=25422243, text='&gt;<i>You can&#x27;t goto out of a function</i><p>You can with a goto expression and a label address available - though the behavior is undefined in C, so bets are off.<p>And you can with longjump&#x2F;setjump more explicitly.')

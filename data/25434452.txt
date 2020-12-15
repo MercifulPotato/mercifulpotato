@@ -1,0 +1,1 @@
+Item(by='jbboehr', descendants=None, kids=None, score=None, time=1608062685, title=None, item_type='comment', url=None, parent=25421093, text='If you&#x27;re already using setjmp&#x2F;longjmp I would suspect you are also already using an arena or avoiding heap allocations, so I don&#x27;t know if it would specifically be a problem for memory leaks with defer.')

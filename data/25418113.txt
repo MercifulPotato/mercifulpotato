@@ -1,1 +1,1 @@
-Item(by='andruby', descendants=None, kids=None, score=None, time=1607957175, title=None, item_type='comment', url=None, parent=25416618, text='0.1% of a year is 8h45m. Or did you mean 99.99% SLA?')
+Item(by='andruby', descendants=None, kids=[25429852], score=None, time=1607957175, title=None, item_type='comment', url=None, parent=25416618, text='0.1% of a year is 8h45m. Or did you mean 99.99% SLA?')

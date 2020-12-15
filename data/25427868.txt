@@ -1,1 +1,1 @@
-Item(by='octoberfranklin', descendants=None, kids=None, score=None, time=1608017049, title=None, item_type='comment', url=None, parent=25426960, text='yeah because you know silicon is so very toxic')
+Item(by='octoberfranklin', descendants=None, kids=[25431195], score=None, time=1608017049, title=None, item_type='comment', url=None, parent=25426960, text='yeah because you know silicon is so very toxic')

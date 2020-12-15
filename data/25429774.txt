@@ -1,0 +1,1 @@
+Item(by='GoblinSlayer', descendants=None, kids=[25432977], score=None, time=1608036548, title=None, item_type='comment', url=None, parent=25428633, text='signify works with text, you only decode the signature from base64 string and check the rest in raw.')

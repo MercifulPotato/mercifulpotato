@@ -1,0 +1,1 @@
+Item(by='msh', descendants=None, kids=[25428478], score=None, time=1608023578, title=None, item_type='comment', url=None, parent=25427800, text='I have GPON fiber, to which the ISP supplies a fiber converter that puts out ethernet. I am supposed to attach my ISP router to that but there is no issue in replacing that with my own router configured to the right VLAN.')

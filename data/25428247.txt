@@ -1,1 +1,1 @@
-Item(by='dastx', descendants=None, kids=None, score=None, time=1608021271, title=None, item_type='comment', url=None, parent=25428116, text='&gt; apps are close to malware installers<p>I&#x27;m probably out of the loop, do you mind expanding on this?')
+Item(by='dastx', descendants=None, kids=[25428863, 25428479, 25428555], score=None, time=1608021271, title=None, item_type='comment', url=None, parent=25428116, text='&gt; apps are close to malware installers<p>I&#x27;m probably out of the loop, do you mind expanding on this?')

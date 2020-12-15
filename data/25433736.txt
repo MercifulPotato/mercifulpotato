@@ -1,0 +1,1 @@
+Item(by='CodesInChaos', descendants=None, kids=[25434123], score=None, time=1608059164, title=None, item_type='comment', url=None, parent=25433345, text='The way I understood it, many only apps triggered it because either the old API didn&#x27;t offer a separate meta data access function, or they didn&#x27;t know that they should use it.')

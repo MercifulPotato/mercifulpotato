@@ -1,0 +1,1 @@
+Item(by='muizelaar', descendants=None, kids=[25434612], score=None, time=1608062590, title=None, item_type='comment', url=None, parent=25432063, text='Yep. We&#x27;ve seen bugs with different window managers so WebRender is only enabled in Gnome in 84 to minimize the risk of breakage. This restriction will be removed in subsequent releases.')

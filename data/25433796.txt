@@ -1,0 +1,1 @@
+Item(by='markcartertm', descendants=None, kids=[25433876], score=None, time=1608059451, title=None, item_type='comment', url=None, parent=25433704, text='setting up one Prometheus server is easy. scaling, HA, Metrics retention for more than 3 days not so much.')

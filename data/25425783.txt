@@ -1,1 +1,1 @@
-Item(by='QuinnWilton', descendants=1, kids=[25427967], score=23, time=1607994602, title='The Science of Brute Force (2017)', item_type='story', url='https://cacm.acm.org/magazines/2017/8/219606-the-science-of-brute-force/fulltext', parent=None, text=None)
+Item(by='QuinnWilton', descendants=2, kids=[25427967, 25430860], score=39, time=1607994602, title='The Science of Brute Force (2017)', item_type='story', url='https://cacm.acm.org/magazines/2017/8/219606-the-science-of-brute-force/fulltext', parent=None, text=None)

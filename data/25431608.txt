@@ -1,0 +1,1 @@
+Item(by='ooedemis', descendants=0, kids=None, score=2, time=1608048914, title='IaC', item_type='story', url=None, parent=None, text='Hello,<p>Is there any tool where we can visually design our cloud infrastructure and the system produces Cloudformation or another Cloud Provider IaC Code ?')

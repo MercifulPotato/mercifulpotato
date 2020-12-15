@@ -1,0 +1,1 @@
+Item(by='Chris2048', descendants=None, kids=[25431274], score=None, time=1608046651, title=None, item_type='comment', url=None, parent=25430933, text='Does go-lang not have &quot;official&quot; repos, including clones of popular repos, to avoid deps on personal repos?<p>Or is this an &quot;unofficial but popular&quot; library?')

@@ -1,1 +1,1 @@
-Item(by='ColinWright', descendants=0, kids=None, score=2, time=1607941806, title='Source of the famous “Now you have two problems” quote (2006)', item_type='story', url='http://regex.info/blog/2006-09-15/247', parent=None, text=None)
+Item(by='ColinWright', descendants=19, kids=[25432435, 25433376, 25433484, 25432704, 25433511, 25433146, 25432223, 25433418, 25432280, 25433099], score=37, time=1607941806, title='Source of the famous “Now you have two problems” quote (2006)', item_type='story', url='http://regex.info/blog/2006-09-15/247', parent=None, text=None)

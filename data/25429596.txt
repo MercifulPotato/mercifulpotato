@@ -1,0 +1,1 @@
+Item(by='CJefferson', descendants=None, kids=[25429680, 25430904, 25429655], score=None, time=1608034866, title=None, item_type='comment', url=None, parent=25429421, text='My main problem with POSIX shell is it is hard to test, as people might use bash, ash, zsh or dash as sh. Bash is at least not a moving target.')

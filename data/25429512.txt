@@ -1,0 +1,1 @@
+Item(by='DaniloDias', descendants=None, kids=None, score=None, time=1608034100, title=None, item_type='comment', url=None, parent=25429439, text='If you have to parse output from one binary as input to another, I find it is way less error prone to use bash.  There are subtleties to flushing output from processes in python that can lead to surprises.')

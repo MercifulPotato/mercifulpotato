@@ -1,0 +1,1 @@
+Item(by='rsynnott', descendants=None, kids=None, score=None, time=1608040571, title=None, item_type='comment', url=None, parent=25420331, text='Caveat; if you need Java 15, Azul doesn&#x27;t have that as yet.<p>That said, most people probably do not; 11 is still the most recent LTS version, which is what most people would be interested in.')

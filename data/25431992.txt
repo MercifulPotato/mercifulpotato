@@ -1,0 +1,1 @@
+Item(by='rsmets', descendants=None, kids=[25432576, 25432076], score=None, time=1608050870, title=None, item_type='comment', url=None, parent=25431786, text='Hmm, I suppose this is useful for super large orgs? I feel managing the IAM policies around this is pretty much the same level of complexity as managing access to a bastion host to open a ssh tunnel through.')

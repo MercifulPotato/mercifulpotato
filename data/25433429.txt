@@ -1,0 +1,1 @@
+Item(by='dahfizz', descendants=None, kids=[25433485], score=None, time=1608057708, title=None, item_type='comment', url=None, parent=25432785, text='Does GCP not let you set up a VPN? All instances can have an interface on the VPN so that you log into the VPN and can hit your instance without it being external.')
