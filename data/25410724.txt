@@ -1,1 +1,1 @@
-Item(by='tempodox', descendants=None, kids=None, score=None, time=1607896472, title=None, item_type='comment', url=None, parent=25410042, text='I see. I interpreted `^` as XOR. The implication (`--&gt;`) was clear enough to not be misunderstood.')
+Item(by='tempodox', descendants=None, kids=[25423103], score=None, time=1607896472, title=None, item_type='comment', url=None, parent=25410042, text='I see. I interpreted `^` as XOR. The implication (`--&gt;`) was clear enough to not be misunderstood.')

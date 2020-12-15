@@ -1,1 +1,1 @@
-Item(by='Bambo', descendants=3, kids=[25409303, 25407663, 25412652], score=6, time=1607859771, title='Show HN: Design by Contract (tm) – C++', item_type='story', url='https://github.com/Bambofy/dbc_cpp', parent=None, text=None)
+Item(by='Bambo', descendants=6, kids=[25409303, 25407663, 25412652], score=6, time=1607859771, title='Show HN: Design by Contract (tm) – C++', item_type='story', url='https://github.com/Bambofy/dbc_cpp', parent=None, text=None)

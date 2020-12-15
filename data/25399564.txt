@@ -1,1 +1,1 @@
-Item(by='josephcsible', descendants=None, kids=None, score=None, time=1607792110, title=None, item_type='comment', url=None, parent=25399534, text='No, we shouldn&#x27;t. Copyright is important; it just happens to be broken right now. We should fix it instead of destroying it.')
+Item(by='josephcsible', descendants=None, kids=[25424842], score=None, time=1607792110, title=None, item_type='comment', url=None, parent=25399534, text='No, we shouldn&#x27;t. Copyright is important; it just happens to be broken right now. We should fix it instead of destroying it.')

@@ -1,0 +1,1 @@
+Item(by='senorsmile', descendants=2, kids=[25425488], score=2, time=1607992559, title='AWS EC2 issues in us-west-2', item_type='story', url=None, parent=None, text='4:27 PM PST We are investigating increased error rates and latencies for the EC2 APIs in the US-WEST-2 Region.')

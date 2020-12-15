@@ -1,0 +1,1 @@
+Item(by='marmaduke', descendants=None, kids=None, score=None, time=1607978397, title=None, item_type='comment', url=None, parent=25422465, text='the second theory seems better in my experience.  I pulled a few js benchmarks and ran on native Safari on m1 vs rosetta2 node and the rosetta2+node is significantly faster, suggested the instruction set is not the key.')

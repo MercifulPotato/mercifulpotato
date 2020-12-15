@@ -1,1 +1,1 @@
-Item(by='johnkpaul', descendants=None, kids=None, score=None, time=1607977535, title=None, item_type='comment', url=None, parent=25421869, text=':-) wow this is awesome. I&#x27;m assuming this is a pastebin because the actual list is secret information?')
+Item(by='johnkpaul', descendants=None, kids=[25424157], score=None, time=1607977535, title=None, item_type='comment', url=None, parent=25421869, text=':-) wow this is awesome. I&#x27;m assuming this is a pastebin because the actual list is secret information?')

@@ -1,1 +1,1 @@
-Item(by='cbozeman', descendants=None, kids=None, score=None, time=1607970255, title=None, item_type='comment', url=None, parent=25413559, text='The only thing more severe than a life sentence is execution... so... execute bad drivers?')
+Item(by='cbozeman', descendants=None, kids=[25425823], score=None, time=1607970255, title=None, item_type='comment', url=None, parent=25413559, text='The only thing more severe than a life sentence is execution... so... execute bad drivers?')

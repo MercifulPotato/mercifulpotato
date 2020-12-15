@@ -1,1 +1,1 @@
-Item(by='astrange', descendants=None, kids=None, score=None, time=1607976505, title=None, item_type='comment', url=None, parent=25420568, text='Your computer always uses as much memory as possible. That’s not evidence it wouldn’t work with less.')
+Item(by='astrange', descendants=None, kids=[25425571], score=None, time=1607976505, title=None, item_type='comment', url=None, parent=25420568, text='Your computer always uses as much memory as possible. That’s not evidence it wouldn’t work with less.')

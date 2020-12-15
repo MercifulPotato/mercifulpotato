@@ -1,0 +1,1 @@
+Item(by='aquark', descendants=None, kids=None, score=None, time=1607989950, title=None, item_type='comment', url=None, parent=25424672, text='We are seeing all email to Gmail sent through sendgrid bounce with this error currently<p>Email routed through SES is getting through though.<p>This is going to be a mess to clean up due to automated blocking of bounced addresses')

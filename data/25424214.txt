@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=None, score=None, time=1607984737, title=None, item_type='comment', url=None, parent=25414699, text='&gt; Do not write functions that do nothing but multiply 2 numbers.<p>Maybe I&#x27;m missing something, but doesn&#x27;t Java already have a function that multiplies 2 numbers, as well as a fancy infix notation for calling said function?')

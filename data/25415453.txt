@@ -1,1 +1,1 @@
-Item(by='alquemist', descendants=None, kids=None, score=None, time=1607941903, title=None, item_type='comment', url=None, parent=25415418, text='Fake external storage &#x2F; rpc dependencies.')
+Item(by='alquemist', descendants=None, kids=[25424734], score=None, time=1607941903, title=None, item_type='comment', url=None, parent=25415418, text='Fake external storage &#x2F; rpc dependencies.')

@@ -1,0 +1,1 @@
+Item(by='corbin', descendants=None, kids=None, score=None, time=1607980632, title=None, item_type='comment', url=None, parent=25423292, text='Agree with what you have said about the MWS API, but this repo is actually the updated REST based API - which appears to be mostly the same functions as the older API but with less documentation.')

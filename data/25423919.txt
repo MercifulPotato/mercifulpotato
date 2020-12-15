@@ -1,0 +1,1 @@
+Item(by='tempodox', descendants=None, kids=None, score=None, time=1607982967, title=None, item_type='comment', url=None, parent=25423103, text='I know, but due to the use of “¬” for the negation I would have expected “∧” (‘LOGICAL AND’, U+2227), or at least something less ambiguous, like “&amp;”. C conditioned me into thinking of ASCII caret as XOR.')

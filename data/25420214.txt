@@ -1,1 +1,1 @@
-Item(by='tingol', descendants=None, kids=None, score=None, time=1607966592, title=None, item_type='comment', url=None, parent=25417006, text='If you had any you wouldn&#x27;t be here to post about it.')
+Item(by='tingol', descendants=None, kids=[25423503], score=None, time=1607966592, title=None, item_type='comment', url=None, parent=25417006, text='If you had any you wouldn&#x27;t be here to post about it.')

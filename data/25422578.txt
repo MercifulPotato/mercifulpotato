@@ -1,1 +1,1 @@
-Item(by='egsmi', descendants=None, kids=None, score=None, time=1607976656, title=None, item_type='comment', url=None, parent=25422486, text='Why can&#x27;t one stick with the old UI with a web application?  That&#x27;s an implementation choice Google makes.')
+Item(by='egsmi', descendants=None, kids=[25424298], score=None, time=1607976656, title=None, item_type='comment', url=None, parent=25422486, text='Why can&#x27;t one stick with the old UI with a web application?  That&#x27;s an implementation choice Google makes.')

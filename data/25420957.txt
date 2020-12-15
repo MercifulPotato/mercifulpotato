@@ -1,1 +1,1 @@
-Item(by='xenonite', descendants=0, kids=None, score=2, time=1607969461, title='Apple Fitness+', item_type='story', url='https://www.apple.com/newsroom/2020/12/apple-fitness-plus-the-next-era-of-fitness-is-here-and-everyones-invited/', parent=None, text=None)
+Item(by='xenonite', descendants=2, kids=[25426254, 25423206], score=21, time=1607969461, title='Apple Fitness+', item_type='story', url='https://www.apple.com/newsroom/2020/12/apple-fitness-plus-the-next-era-of-fitness-is-here-and-everyones-invited/', parent=None, text=None)

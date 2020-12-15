@@ -1,0 +1,1 @@
+Item(by='asveikau', descendants=None, kids=[25424584], score=None, time=1607981073, title=None, item_type='comment', url=None, parent=25420845, text='It sounds an awful lot like such a context mechanism needs dynamic allocations. Something like the GNU cleanup attribute or a proposal like defer, or C++ RAII, can do that as a stack unwind, without the need for heap.')

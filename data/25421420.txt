@@ -1,1 +1,1 @@
-Item(by='priyanshuraj', descendants=0, kids=None, score=3, time=1607971587, title='Ask HN: What IRC channels do you visit regularly?', item_type='story', url=None, parent=None, text='Share your favorite IRC channels. Do tell us why you like them.')
+Item(by='priyanshuraj', descendants=3, kids=[25423805, 25425044], score=13, time=1607971587, title='Ask HN: What IRC channels do you visit regularly?', item_type='story', url=None, parent=None, text='Share your favorite IRC channels. Do tell us why you like them.')

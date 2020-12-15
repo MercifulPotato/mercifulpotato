@@ -1,1 +1,1 @@
-Item(by='iwitaly', descendants=0, kids=None, score=2, time=1607967051, title='Webflow and Ghost blog with Caddy server', item_type='story', url='https://adapty.io/blog/webflow-ghost-blog-with-caddy/', parent=None, text=None)
+Item(by='iwitaly', descendants=0, kids=[25423556], score=2, time=1607967051, title='Webflow and Ghost blog with Caddy server', item_type='story', url='https://adapty.io/blog/webflow-ghost-blog-with-caddy/', parent=None, text=None)

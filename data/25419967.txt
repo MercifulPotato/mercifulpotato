@@ -1,1 +1,1 @@
-Item(by='TechBro8615', descendants=None, kids=None, score=None, time=1607965771, title=None, item_type='comment', url=None, parent=25419268, text='Spotify also started with a library of pirated content.')
+Item(by='TechBro8615', descendants=None, kids=[25424811], score=None, time=1607965771, title=None, item_type='comment', url=None, parent=25419268, text='Spotify also started with a library of pirated content.')

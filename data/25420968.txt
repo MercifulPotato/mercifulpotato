@@ -1,1 +1,1 @@
-Item(by='bluedino', descendants=None, kids=None, score=None, time=1607969503, title=None, item_type='comment', url=None, parent=25420467, text='You wear long underwear, the &#x27;hot&#x27; person can wear a t-shirt')
+Item(by='bluedino', descendants=None, kids=[25422994], score=None, time=1607969503, title=None, item_type='comment', url=None, parent=25420467, text='You wear long underwear, the &#x27;hot&#x27; person can wear a t-shirt')

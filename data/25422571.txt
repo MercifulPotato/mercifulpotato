@@ -1,1 +1,1 @@
-Item(by='0x53', descendants=None, kids=None, score=None, time=1607976635, title=None, item_type='comment', url=None, parent=25422448, text='I think the point of the screenshot was to highlight that there are a lot of buttons, but no labels or any way to know what they do.')
+Item(by='0x53', descendants=None, kids=[25422980], score=None, time=1607976635, title=None, item_type='comment', url=None, parent=25422448, text='I think the point of the screenshot was to highlight that there are a lot of buttons, but no labels or any way to know what they do.')

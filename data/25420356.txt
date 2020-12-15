@@ -1,1 +1,1 @@
-Item(by='vaylian', descendants=None, kids=None, score=None, time=1607967181, title=None, item_type='comment', url=None, parent=25420237, text='Makes me wonder how much better the situation was in rural areas.')
+Item(by='vaylian', descendants=None, kids=[25424163], score=None, time=1607967181, title=None, item_type='comment', url=None, parent=25420237, text='Makes me wonder how much better the situation was in rural areas.')

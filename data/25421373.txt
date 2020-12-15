@@ -1,1 +1,1 @@
-Item(by='widforss', descendants=None, kids=None, score=None, time=1607971362, title=None, item_type='comment', url=None, parent=25420629, text='Thing is, it&#x27;s almost always close to 100 % humidity when it&#x27;s cold, since the air can hold so little vapor.')
+Item(by='widforss', descendants=None, kids=[25422874], score=None, time=1607971362, title=None, item_type='comment', url=None, parent=25420629, text='Thing is, it&#x27;s almost always close to 100 % humidity when it&#x27;s cold, since the air can hold so little vapor.')

@@ -1,0 +1,1 @@
+Item(by='moonchild', descendants=None, kids=None, score=None, time=1607981378, title=None, item_type='comment', url=None, parent=25417920, text='I would prefer an explicit capture at the beginning of the &#x27;defer&#x27;, as in:<p><pre><code>  defer[p] free(p);\n</code></pre>\nInstead of specifying it separately for each variable use.')

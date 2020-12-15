@@ -1,0 +1,1 @@
+Item(by='cnst', descendants=2, kids=[25425871], score=3, time=1607994807, title='OpenSSL NULL pointer de-reference (CVE-2020-1971)', item_type='story', url='https://lists.freebsd.org/pipermail/freebsd-security/2020-December/010300.html', parent=None, text=None)

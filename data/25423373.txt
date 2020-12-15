@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=None, kids=None, score=None, time=1607980294, title=None, item_type='comment', url=None, parent=25423263, text='No, p+1 is OK because you are allowed to make a pointer one past the end in C (so that common pointer loops work as expected) but you cannot dereference them.')

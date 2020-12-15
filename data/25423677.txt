@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1607981774, title=None, item_type='comment', url=None, parent=25423370, text='Compilers don&#x27;t detect UB (at least as optimizations are concerned), they assume no UB.<p>If you want to detect UB, at least dynamically, compile with sanitizers.')

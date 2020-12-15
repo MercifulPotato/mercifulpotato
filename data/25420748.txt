@@ -1,1 +1,1 @@
-Item(by='bzbz', descendants=None, kids=None, score=None, time=1607968626, title=None, item_type='comment', url=None, parent=25412462, text='How do you calculate this? Is it based on your previous prescription somehow, or does it require another optometrist appointment?')
+Item(by='bzbz', descendants=None, kids=[25426614], score=None, time=1607968626, title=None, item_type='comment', url=None, parent=25412462, text='How do you calculate this? Is it based on your previous prescription somehow, or does it require another optometrist appointment?')

@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1607994559, title=None, item_type='comment', url=None, parent=25420209, text='Closures capturing iteration variables by reference is a common footgun in many languages unfortunately.')

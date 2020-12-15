@@ -1,0 +1,1 @@
+Item(by='orangechairs', descendants=20, kids=[25424442, 25423845, 25424565, 25423872], score=98, time=1607979247, title='How we built scalable spatial indexing in CockroachDB', item_type='story', url='https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/', parent=None, text=None)
