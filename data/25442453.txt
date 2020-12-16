@@ -1,0 +1,1 @@
+Item(by='CyberRabbi', descendants=None, kids=[25443082], score=None, time=1608126816, title=None, item_type='comment', url=None, parent=25440966, text='Would love a more technical explanation as to why shell.efi is able to modify efivars yet the kernel unable to.')

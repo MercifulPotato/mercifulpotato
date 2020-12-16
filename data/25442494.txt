@@ -1,0 +1,1 @@
+Item(by='veddox', descendants=None, kids=None, score=None, time=1608127133, title=None, item_type='comment', url=None, parent=25441374, text='Zoom on Linux is terrible anyway. On my system (quad-core Thinkpad with Ubuntu 20.04), Zoom consistently starts using 4*100% CPU during long calls.')

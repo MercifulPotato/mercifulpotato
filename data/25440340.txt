@@ -1,0 +1,1 @@
+Item(by='Edument', descendants=None, kids=None, score=None, time=1608108205, title=None, item_type='comment', url=None, parent=25440339, text='In this blog post we will explore how we can use the new source generator feature in .NET 5 to automatically generate an API for a system using the MediatR library and the CQRS pattern.')

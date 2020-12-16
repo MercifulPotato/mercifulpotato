@@ -1,1 +1,1 @@
-Item(by='tonyedgecombe', descendants=None, kids=None, score=None, time=1608101484, title=None, item_type='comment', url=None, parent=25438161, text='This is the new denial. We have gone from “climate change doesn’t exist” to “there is nothing we can do”.<p>It’s pathetic.')
+Item(by='tonyedgecombe', descendants=None, kids=[25441892], score=None, time=1608101484, title=None, item_type='comment', url=None, parent=25438161, text='This is the new denial. We have gone from “climate change doesn’t exist” to “there is nothing we can do”.<p>It’s pathetic.')

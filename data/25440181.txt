@@ -1,0 +1,1 @@
+Item(by='weitzj', descendants=None, kids=None, score=None, time=1608106156, title=None, item_type='comment', url=None, parent=25434349, text='I am wondering why they don’t use the google&#x2F;tink project on GitHub where you already have a fair amount of languages (Java, C++, Go, Python) doing AEAD, etc.\nJust add another language, and reuse the protobuf definitions.')

@@ -1,1 +1,1 @@
-Item(by='redvenom', descendants=None, kids=None, score=None, time=1608091661, title=None, item_type='comment', url=None, parent=25434283, text='This highlights the difference between someone who cares about image quality and someone who just cares about reactions and likes.')
+Item(by='redvenom', descendants=None, kids=[25441563], score=None, time=1608091661, title=None, item_type='comment', url=None, parent=25434283, text='This highlights the difference between someone who cares about image quality and someone who just cares about reactions and likes.')

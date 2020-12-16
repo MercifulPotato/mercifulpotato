@@ -1,1 +1,1 @@
-Item(by='Squark1', descendants=0, kids=None, score=2, time=1608100345, title='A new blockchain platform with features and it almost done, checkout it', item_type='story', url='https://github.com/yosa12978/AlienWeb', parent=None, text=None)
+Item(by='Squark1', descendants=1, kids=[25441754], score=2, time=1608100345, title='A new blockchain platform with features and it almost done, checkout it', item_type='story', url='https://github.com/yosa12978/AlienWeb', parent=None, text=None)

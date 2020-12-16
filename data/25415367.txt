@@ -1,1 +1,1 @@
-Item(by='reitzensteinm', descendants=None, kids=None, score=None, time=1607941196, title=None, item_type='comment', url=None, parent=25414623, text='Tesla still has a 10% tariff there, which is fairly significant.')
+Item(by='reitzensteinm', descendants=None, kids=[25441018], score=None, time=1607941196, title=None, item_type='comment', url=None, parent=25414623, text='Tesla still has a 10% tariff there, which is fairly significant.')

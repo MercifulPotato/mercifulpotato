@@ -1,1 +1,1 @@
-Item(by='CerealFounder', descendants=None, kids=None, score=None, time=1608099661, title=None, item_type='comment', url=None, parent=25439628, text='How do you downvote comments?  Sweeping statements like this are political in nature and should be banned.')
+Item(by='CerealFounder', descendants=None, kids=[25440227], score=None, time=1608099661, title=None, item_type='comment', url=None, parent=25439628, text='How do you downvote comments?  Sweeping statements like this are political in nature and should be banned.')

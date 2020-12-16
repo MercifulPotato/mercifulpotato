@@ -1,0 +1,1 @@
+Item(by='joshuamorton', descendants=None, kids=None, score=None, time=1608115515, title=None, item_type='comment', url=None, parent=25437639, text='You can build rollbacks out of rollforwards, although it certainly isn&#x27;t particularly fun. You patch an update to version N version code so that it&#x27;s higher than N+1 and roll out the N+2 labelled N.')

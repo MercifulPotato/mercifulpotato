@@ -1,0 +1,1 @@
+Item(by='yxhuvud', descendants=None, kids=[25440647], score=None, time=1608106628, title=None, item_type='comment', url=None, parent=25433368, text='FWIW, the types possible to express in gql is quite a lot weaker than the ones in openapi, where you can for example say not only is a field a string, but also that it matches a certain format.')

@@ -1,1 +1,1 @@
-Item(by='chambo622', descendants=None, kids=None, score=None, time=1608100652, title=None, item_type='comment', url=None, parent=25438586, text='It was acquired before launch')
+Item(by='chambo622', descendants=None, kids=[25440240], score=None, time=1608100652, title=None, item_type='comment', url=None, parent=25438586, text='It was acquired before launch')

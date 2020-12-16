@@ -1,0 +1,1 @@
+Item(by='ricardo81', descendants=None, kids=None, score=None, time=1608124652, title=None, item_type='comment', url=None, parent=25439834, text='(Deliberately?) poor implementation surely.<p>Any requests to the Google Analytics URL could be cancelled before any network activity, rather than grabbing the file and doing nothing with it.')

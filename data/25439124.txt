@@ -1,1 +1,1 @@
-Item(by='marcan_42', descendants=None, kids=None, score=None, time=1608093477, title=None, item_type='comment', url=None, parent=25437026, text='All the access to the services is remote, but I&#x27;d say having the entire team in the same room does help coordinate incident response.')
+Item(by='marcan_42', descendants=None, kids=[25440402], score=None, time=1608093477, title=None, item_type='comment', url=None, parent=25437026, text='All the access to the services is remote, but I&#x27;d say having the entire team in the same room does help coordinate incident response.')

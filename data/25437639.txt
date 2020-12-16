@@ -1,1 +1,1 @@
-Item(by='vitus', descendants=None, kids=None, score=None, time=1608080070, title=None, item_type='comment', url=None, parent=25437442, text='Chrome web store has no rollback strategy, there is only roll forward :(')
+Item(by='vitus', descendants=None, kids=[25441095], score=None, time=1608080070, title=None, item_type='comment', url=None, parent=25437442, text='Chrome web store has no rollback strategy, there is only roll forward :(')

@@ -1,0 +1,1 @@
+Item(by='lionkor', descendants=None, kids=None, score=None, time=1608126526, title=None, item_type='comment', url=None, parent=25431827, text='vim has a setting to copy &quot;yanked&quot; stuff into the clipboard.<p>Selecting a block of text is arguably faster in vim than with the mouse, and then just hit &quot;y&quot; to copy. It think its comparable to Kate+Mouse')

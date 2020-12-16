@@ -1,1 +1,1 @@
-Item(by='klyrs', descendants=None, kids=None, score=None, time=1608082384, title=None, item_type='comment', url=None, parent=25436930, text='&gt; ... and retained in its last sentence.<p>That&#x27;s called a punchline.')
+Item(by='klyrs', descendants=None, kids=[25440803], score=None, time=1608082384, title=None, item_type='comment', url=None, parent=25436930, text='&gt; ... and retained in its last sentence.<p>That&#x27;s called a punchline.')

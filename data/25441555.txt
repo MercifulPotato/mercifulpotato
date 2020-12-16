@@ -1,0 +1,1 @@
+Item(by='gsnedders', descendants=None, kids=[25441568], score=None, time=1608119844, title=None, item_type='comment', url=None, parent=25441464, text='The MS requirements for Windows require secure-boot enabled by default and only with the MS key. It is optional whether OEMs allow secure-boot to be disabled and&#x2F;or set to a mode where other signing keys can be added.')

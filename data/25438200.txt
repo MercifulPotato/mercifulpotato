@@ -1,1 +1,1 @@
-Item(by='ssivark', descendants=None, kids=None, score=None, time=1608084826, title=None, item_type='comment', url=None, parent=25437865, text='GPUs are typically useful for <i>training</i> (due to massive parallelism), but not for <i>inference</i>.')
+Item(by='ssivark', descendants=None, kids=[25441327], score=None, time=1608084826, title=None, item_type='comment', url=None, parent=25437865, text='GPUs are typically useful for <i>training</i> (due to massive parallelism), but not for <i>inference</i>.')

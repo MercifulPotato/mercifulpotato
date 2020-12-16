@@ -1,1 +1,1 @@
-Item(by='daveslash', descendants=None, kids=None, score=None, time=1608065866, title=None, item_type='comment', url=None, parent=25434395, text='Now with online media you carry <i>it into the bathroom</i>.<p>(Low quality comment, I know. I&#x27;ll see myself out.)')
+Item(by='daveslash', descendants=None, kids=[25440103], score=None, time=1608065866, title=None, item_type='comment', url=None, parent=25434395, text='Now with online media you carry <i>it into the bathroom</i>.<p>(Low quality comment, I know. I&#x27;ll see myself out.)')

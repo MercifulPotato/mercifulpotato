@@ -1,0 +1,1 @@
+Item(by='leephillips', descendants=None, kids=None, score=None, time=1608125490, title=None, item_type='comment', url=None, parent=25441710, text='I guess that’s improving a bit. The new release improves Unicode support, mainly in regexes. But still not Julia-level Unicode integration.')

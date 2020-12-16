@@ -1,1 +1,1 @@
-Item(by='simiones', descendants=None, kids=None, score=None, time=1608028298, title=None, item_type='comment', url=None, parent=25427959, text='I assume you meant &quot;it can&#x27;t be partition-tolerant&quot;?')
+Item(by='simiones', descendants=None, kids=[25440243], score=None, time=1608028298, title=None, item_type='comment', url=None, parent=25427959, text='I assume you meant &quot;it can&#x27;t be partition-tolerant&quot;?')

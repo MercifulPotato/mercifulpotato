@@ -1,0 +1,1 @@
+Item(by='sam_lowry_', descendants=None, kids=None, score=None, time=1608115516, title=None, item_type='comment', url=None, parent=25440956, text='Depends on the distro. Grokking the Arch Linux workflow around PKGBUILD and using `makepkg -si` is pretty easy. Debian makes it a bit tricker, but still manageable.')

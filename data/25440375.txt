@@ -1,0 +1,1 @@
+Item(by='loup-vaillant', descendants=None, kids=None, score=None, time=1608108736, title=None, item_type='comment', url=None, parent=25438787, text='Monocypher has been audited last summer (no bug were found), and it has third party Rust bindings. I guess that could be another alternative?')

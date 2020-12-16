@@ -1,0 +1,1 @@
+Item(by='pmlnr', descendants=None, kids=None, score=None, time=1608109272, title=None, item_type='comment', url=None, parent=25438681, text='Failure of response from the server is nearly always treated as temp failure, because it could be down to network connectivity, name resolution, etc.<p>That is a better scenario, than 5xx.')

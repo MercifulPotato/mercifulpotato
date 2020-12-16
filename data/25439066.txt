@@ -1,1 +1,1 @@
-Item(by='jcun4128', descendants=None, kids=None, score=None, time=1608093038, title=None, item_type='comment', url=None, parent=25433134, text='That mechanical keyboard is so cool haha')
+Item(by='jcun4128', descendants=None, kids=[25440713], score=None, time=1608093038, title=None, item_type='comment', url=None, parent=25433134, text='That mechanical keyboard is so cool haha')

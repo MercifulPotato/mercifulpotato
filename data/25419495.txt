@@ -1,1 +1,1 @@
-Item(by='fastball', descendants=None, kids=None, score=None, time=1607963716, title=None, item_type='comment', url=None, parent=25414177, text='So if I&#x27;m going 80 on the highway and someone jumps over the median and into my lane, it&#x27;s my fault if I hit them?')
+Item(by='fastball', descendants=None, kids=[25441849], score=None, time=1607963716, title=None, item_type='comment', url=None, parent=25414177, text='So if I&#x27;m going 80 on the highway and someone jumps over the median and into my lane, it&#x27;s my fault if I hit them?')

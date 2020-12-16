@@ -1,0 +1,1 @@
+Item(by='simcop2387', descendants=None, kids=[25442373], score=None, time=1608125011, title=None, item_type='comment', url=None, parent=25442134, text='ublock origin can do url based filtering, which can&#x27;t be done via something like pihole where it&#x27;s only at the dns level.')

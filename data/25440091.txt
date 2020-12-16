@@ -1,0 +1,1 @@
+Item(by='esc_colon_q', descendants=None, kids=[25440132], score=None, time=1608105070, title=None, item_type='comment', url=None, parent=25439652, text='Until a rollback due to a failure itself fails on a complex stack and prod is hosed for hours while you try to figure out how to unfuck.<p>Maybe CF has gotten better, but I&#x27;m not sure since I totally jumped ship for GCP.')

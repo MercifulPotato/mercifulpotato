@@ -1,0 +1,1 @@
+Item(by='ironmagma', descendants=None, kids=None, score=None, time=1608128344, title=None, item_type='comment', url=None, parent=25441785, text='Computationally, this (ab)uses the scheduler to do your sorting for you. So really the performance becomes whatever your scheduler’s performance is, probably heapsort time (O(n log n)).')

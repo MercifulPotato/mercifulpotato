@@ -1,1 +1,1 @@
-Item(by='bovermyer', descendants=None, kids=[25433012, 25433624, 25437601, 25434132], score=None, time=1608055157, title=None, item_type='comment', url=None, parent=25430325, text='This is nice, but what I really want is a native kanban app. Not Electron, and not web - native.')
+Item(by='bovermyer', descendants=None, kids=[25433012, 25442261, 25433624, 25437601, 25434132], score=None, time=1608055157, title=None, item_type='comment', url=None, parent=25430325, text='This is nice, but what I really want is a native kanban app. Not Electron, and not web - native.')

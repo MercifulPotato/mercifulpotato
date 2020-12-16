@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=[25439356], score=None, time=1608090611, title=None, item_type='comment', url=None, parent=25438646, text='You can always run a new one.  I bought new wire at Home Depot, tied it to the old cable, and pulled it down to the basement.')
+Item(by='kube-system', descendants=None, kids=[25442093, 25439356], score=None, time=1608090611, title=None, item_type='comment', url=None, parent=25438646, text='You can always run a new one.  I bought new wire at Home Depot, tied it to the old cable, and pulled it down to the basement.')
