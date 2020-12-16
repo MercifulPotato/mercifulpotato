@@ -1,1 +1,1 @@
-Item(by='teddyh', descendants=None, kids=None, score=None, time=1608049892, title=None, item_type='comment', url=None, parent=25429803, text='ROM was usually very slow, so all ROM content was usually copied to RAM before execution.  RAM size was therefore still an issue.')
+Item(by='teddyh', descendants=None, kids=[25437530], score=None, time=1608049892, title=None, item_type='comment', url=None, parent=25429803, text='ROM was usually very slow, so all ROM content was usually copied to RAM before execution.  RAM size was therefore still an issue.')

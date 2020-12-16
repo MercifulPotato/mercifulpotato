@@ -1,1 +1,1 @@
-Item(by='Joeboy', descendants=None, kids=None, score=None, time=1608056413, title=None, item_type='comment', url=None, parent=25433093, text='Have you tried parsing an email address (in an RFC compliant way) <i>without</i> a regex?')
+Item(by='Joeboy', descendants=None, kids=[25437762, 25434825], score=None, time=1608056413, title=None, item_type='comment', url=None, parent=25433093, text='Have you tried parsing an email address (in an RFC compliant way) <i>without</i> a regex?')

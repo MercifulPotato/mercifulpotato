@@ -1,1 +1,1 @@
-Item(by='verdverm', descendants=None, kids=None, score=None, time=1608053956, title=None, item_type='comment', url=None, parent=25432566, text='These things have overhead and access control is more difficult to reason about and implement with resolvers and nested query resolving.')
+Item(by='verdverm', descendants=None, kids=[25435552], score=None, time=1608053956, title=None, item_type='comment', url=None, parent=25432566, text='These things have overhead and access control is more difficult to reason about and implement with resolvers and nested query resolving.')

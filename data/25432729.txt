@@ -1,1 +1,1 @@
-Item(by='pdelgallego', descendants=12, kids=[25433704, 25434211, 25433356], score=65, time=1608054432, title='Amazon Managed Service for Prometheus', item_type='story', url='https://aws.amazon.com/prometheus/', parent=None, text=None)
+Item(by='pdelgallego', descendants=59, kids=[25435765, 25433356, 25433704, 25434211, 25437528, 25434933, 25435237, 25437912, 25435171, 25438013, 25435054, 25436714, 25437650], score=160, time=1608054432, title='Amazon Managed Service for Prometheus', item_type='story', url='https://aws.amazon.com/prometheus/', parent=None, text=None)

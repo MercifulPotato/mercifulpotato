@@ -1,0 +1,1 @@
+Item(by='cellularmitosis', descendants=None, kids=[25437361], score=None, time=1608077342, title=None, item_type='comment', url=None, parent=25432775, text='&gt; I can&#x27;t stand pipefail<p>Can you elaborate on this?  I&#x27;m finding it difficult to think up a case where I would want a script to continue executing if a command in the middle of a pipeline failed.')

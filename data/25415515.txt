@@ -1,1 +1,1 @@
-Item(by='Tomte', descendants=0, kids=None, score=3, time=1607942485, title='Code Points', item_type='story', url='https://github.com/Codepoints/awesome-codepoints', parent=None, text=None)
+Item(by='Tomte', descendants=27, kids=[25435548, 25434827, 25435091, 25435739, 25438182, 25437603, 25439583, 25437046, 25434938, 25434754], score=121, time=1607942485, title='Code Points', item_type='story', url='https://github.com/Codepoints/awesome-codepoints', parent=None, text=None)

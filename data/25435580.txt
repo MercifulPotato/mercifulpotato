@@ -1,0 +1,1 @@
+Item(by='JHonaker', descendants=None, kids=[25440116], score=None, time=1608068428, title=None, item_type='comment', url=None, parent=25435319, text='In the section title, JAX:<p>&gt; But JAX even lets you just-in-time compile your own Python functions into XLA-optimized kernels...')

@@ -1,0 +1,1 @@
+Item(by='jcranmer', descendants=None, kids=None, score=None, time=1608059564, title=None, item_type='comment', url=None, parent=25433093, text='There&#x27;s a certain amount of irony there where there&#x27;s about a dozen different regexes that all match different languages. And none of them are right, for that matter (non-ASCII email addresses are a thing).')

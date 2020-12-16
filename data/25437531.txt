@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=[25437856], score=None, time=1608079373, title=None, item_type='comment', url=None, parent=25432233, text='Serious question: given how difficult correctly parsing SELECT commands (and avoiding SQLi and other horrible issues like db parser impl bugs) is, why hasn&#x27;t someone implemented a db whose query language <i>is</i> graphQL?')

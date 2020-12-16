@@ -1,1 +1,1 @@
-Item(by='doener', descendants=0, kids=None, score=4, time=1608061054, title="Germany is slowly losing it's “best of the class” image", item_type='story', url='https://twitter.com/alxrdk/status/1334779287027781632', parent=None, text=None)
+Item(by='doener', descendants=1, kids=[25436630, 25436005], score=6, time=1608061054, title="Germany is slowly losing it's “best of the class” image", item_type='story', url='https://twitter.com/alxrdk/status/1334779287027781632', parent=None, text=None)

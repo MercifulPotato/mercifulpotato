@@ -1,1 +1,1 @@
-Item(by='deberon', descendants=None, kids=None, score=None, time=1608065963, title=None, item_type='comment', url=None, parent=25434937, text='Perhaps their mission statement extends slightly beyond &quot;an increase in quarterly return&quot;.')
+Item(by='deberon', descendants=None, kids=[25437383], score=None, time=1608065963, title=None, item_type='comment', url=None, parent=25434937, text='Perhaps their mission statement extends slightly beyond &quot;an increase in quarterly return&quot;.')

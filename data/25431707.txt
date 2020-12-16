@@ -1,1 +1,1 @@
-Item(by='happy_pancake', descendants=None, kids=None, score=None, time=1608049397, title=None, item_type='comment', url=None, parent=25429518, text='Loads fast and looks great. Works for me!')
+Item(by='happy_pancake', descendants=None, kids=[25436385], score=None, time=1608049397, title=None, item_type='comment', url=None, parent=25429518, text='Loads fast and looks great. Works for me!')

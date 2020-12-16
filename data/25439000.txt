@@ -1,0 +1,1 @@
+Item(by='fiddlerwoaroof', descendants=None, kids=[25439477], score=None, time=1608092271, title=None, item_type='comment', url=None, parent=25438719, text='There are specs like jsonapi that solve this problem. I’ve never been entirely convinced that GraphQL is better than actual REST, even if it’s better than most of the APIs people call RESTful')

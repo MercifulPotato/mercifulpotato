@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=None, score=None, time=1608078139, title=None, item_type='comment', url=None, parent=25437240, text='<p><pre><code>    foo | head -n20\n</code></pre>\nfoo may or may not return an error due to the pipe closing, and it&#x27;s not necessarily consistent each time, particularly if the output of foo is very close to what head will consume.')

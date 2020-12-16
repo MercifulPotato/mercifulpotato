@@ -1,0 +1,1 @@
+Item(by='danielEM', descendants=None, kids=[25437048], score=None, time=1608075636, title=None, item_type='comment', url=None, parent=25431944, text='Just did some tests on Firefox 83 and DOM reflow time grows exponentially with the depth of DOM tree. With grid elements of depth 10 single reflow takes seconds on my Ryzen laptop while on chromium is not noticable at all.')

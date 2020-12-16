@@ -1,1 +1,1 @@
-Item(by='prepend', descendants=None, kids=None, score=None, time=1608054807, title=None, item_type='comment', url=None, parent=25432298, text='Article is unclear to me if they are switching from Google to AWS, or other non-cloud stuff to AWS.')
+Item(by='prepend', descendants=None, kids=[25435223], score=None, time=1608054807, title=None, item_type='comment', url=None, parent=25432298, text='Article is unclear to me if they are switching from Google to AWS, or other non-cloud stuff to AWS.')

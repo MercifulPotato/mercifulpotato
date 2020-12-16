@@ -1,0 +1,1 @@
+Item(by='hollerith', descendants=None, kids=None, score=None, time=1608079462, title=None, item_type='comment', url=None, parent=25430145, text='If you select text with the mouse, then press delete, does the selected extent of text get deleted from the  buffer (i.e., the in-memory copy of the file)?')

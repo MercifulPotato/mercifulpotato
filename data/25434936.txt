@@ -1,1 +1,1 @@
-Item(by='apricot', descendants=None, kids=None, score=None, time=1608064722, title=None, item_type='comment', url=None, parent=25434301, text='I love everything about my Pinebook Pro except the trackpad, which suffers from lag. Not much, just enough to be really annoying.')
+Item(by='apricot', descendants=None, kids=[25438287], score=None, time=1608064722, title=None, item_type='comment', url=None, parent=25434301, text='I love everything about my Pinebook Pro except the trackpad, which suffers from lag. Not much, just enough to be really annoying.')

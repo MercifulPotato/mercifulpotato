@@ -1,1 +1,1 @@
-Item(by='appleflaxen', descendants=None, kids=None, score=None, time=1608031087, title=None, item_type='comment', url=None, parent=25426566, text='The password is<p><pre><code>  VExy!64a3ng</code></pre>')
+Item(by='appleflaxen', descendants=None, kids=[25438543], score=None, time=1608031087, title=None, item_type='comment', url=None, parent=25426566, text='The password is<p><pre><code>  VExy!64a3ng</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='baby', descendants=None, kids=[25437915], score=None, time=1608073648, title=None, item_type='comment', url=None, parent=25428621, text='Is there a modern alternative for bash that one can use to write bash script without having to write python? Something that looks decent if you are writing an if else, or for loop, etc.')

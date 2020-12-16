@@ -1,1 +1,1 @@
-Item(by='gnusty_gnurc', descendants=None, kids=None, score=None, time=1608055697, title=None, item_type='comment', url=None, parent=25432998, text='True, I don’t care though.')
+Item(by='gnusty_gnurc', descendants=None, kids=[25436895], score=None, time=1608055697, title=None, item_type='comment', url=None, parent=25432998, text='True, I don’t care though.')

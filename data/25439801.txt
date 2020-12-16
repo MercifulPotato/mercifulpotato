@@ -1,0 +1,1 @@
+Item(by='dpeck', descendants=None, kids=None, score=None, time=1608101239, title=None, item_type='comment', url=None, parent=25432870, text='That’s largely the point of it. Graphql allows for a smaller, more focused team to work on the generic backend and lean into the pain of it while at the same time supporting larger and more divergent frontend&#x2F;user facing teams.')

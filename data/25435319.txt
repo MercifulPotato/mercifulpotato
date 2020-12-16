@@ -1,0 +1,1 @@
+Item(by='cygaril', descendants=None, kids=[25435580, 25435404], score=None, time=1608066745, title=None, item_type='comment', url=None, parent=25435028, text='Seems to have missed the existence of jax.jit, which basically constructs an XLA program (call it a graph if you like) from your Python function which can then be optimized.')

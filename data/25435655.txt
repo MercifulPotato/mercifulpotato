@@ -1,0 +1,1 @@
+Item(by='Thaxll', descendants=None, kids=None, score=None, time=1608068987, title=None, item_type='comment', url=None, parent=25435280, text='It&#x27;s a completely different problem because by default Prometheus does not shard anything so you&#x27;re bound to a single instance, where ES and Kafka are cluster based.')

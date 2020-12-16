@@ -1,0 +1,1 @@
+Item(by='karmakaze', descendants=None, kids=None, score=None, time=1608064997, title=None, item_type='comment', url=None, parent=25428589, text='It seems to use Hibernate which is the worst part of Spring&#x2F;Boot&#x2F;JPA. Unless it supports other persistence interfaces I wouldn&#x27;t use it.')

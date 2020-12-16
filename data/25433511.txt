@@ -1,1 +1,1 @@
-Item(by='Digit-Al', descendants=None, kids=None, score=None, time=1608058103, title=None, item_type='comment', url=None, parent=25415441, text='I get a 404.')
+Item(by='Digit-Al', descendants=None, kids=[25433921, 25433889], score=None, time=1608058103, title=None, item_type='comment', url=None, parent=25415441, text='I get a 404.')

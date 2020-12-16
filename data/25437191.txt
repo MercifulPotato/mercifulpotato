@@ -1,0 +1,1 @@
+Item(by='dx87', descendants=None, kids=[25437660], score=None, time=1608077079, title=None, item_type='comment', url=None, parent=25436532, text='Pure rust wouldn&#x27;t be good for a cryptography library because it doesn&#x27;t have features like constant-time functions that mitigate side channel attacks.')

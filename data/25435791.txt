@@ -1,0 +1,1 @@
+Item(by='komuher', descendants=None, kids=[25436091], score=None, time=1608069701, title=None, item_type='comment', url=None, parent=25435404, text='Not even cloese, jax.jit allow you to compute almost anything using lax.for_loops, lax.cond and other lax and jax contsturts pytorch jit does not allow that its just extra optimization for static pytorch functions.')

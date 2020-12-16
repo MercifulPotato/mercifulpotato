@@ -1,0 +1,1 @@
+Item(by='enobrev', descendants=None, kids=None, score=None, time=1608073960, title=None, item_type='comment', url=None, parent=25434470, text='Backend.  It&#x27;s essentially an API gateway, although on my API it&#x27;s just another endpoint.  Behind the scenes it calls the other endpoints.')

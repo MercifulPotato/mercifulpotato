@@ -1,0 +1,1 @@
+Item(by='Tostino', descendants=None, kids=[25439877], score=None, time=1608075194, title=None, item_type='comment', url=None, parent=25435950, text='You will eventually run into issues when client interfaces start to drop support for old versions of the wire format to simplify their codebase.')

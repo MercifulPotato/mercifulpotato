@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[25435133, 25434901, 25435005, 25437573, 25438130, 25435823, 25434920], score=None, time=1608064274, title=None, item_type='comment', url=None, parent=25434349, text='Hilarious build-time dependencies. You need Perl <i>and</i> Go <i>and</i> a C++ toolchain to build a Rust library!')

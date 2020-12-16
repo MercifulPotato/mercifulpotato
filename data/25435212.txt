@@ -1,0 +1,1 @@
+Item(by='brundolf', descendants=None, kids=[25435857], score=None, time=1608066124, title=None, item_type='comment', url=None, parent=25435047, text='Documentation for Rust crates goes in a standard location (which does get linked to from the crates.io page), though of course it&#x27;d be better if you didn&#x27;t have to know that in order to find it from GitHub')

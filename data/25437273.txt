@@ -1,0 +1,1 @@
+Item(by='layer8', descendants=None, kids=None, score=None, time=1608077590, title=None, item_type='comment', url=None, parent=25434825, text='Some systems (used to) map the local part to local unix usernames, which are case-sensitive. Hence the sender would get a 550 No such user (or similar) if he got the case of the local part wrong.')

@@ -1,1 +1,1 @@
-Item(by='valeness', descendants=None, kids=None, score=None, time=1608061400, title=None, item_type='comment', url=None, parent=25433157, text='Wouldn&#x27;t it be more resource efficient to traverse the graph ahead of time and prefetch all related resources with a single query?')
+Item(by='valeness', descendants=None, kids=[25434707], score=None, time=1608061400, title=None, item_type='comment', url=None, parent=25433157, text='Wouldn&#x27;t it be more resource efficient to traverse the graph ahead of time and prefetch all related resources with a single query?')

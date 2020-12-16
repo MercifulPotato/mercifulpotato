@@ -1,1 +1,1 @@
-Item(by='newsgourmet', descendants=None, kids=None, score=None, time=1608022031, title=None, item_type='comment', url=None, parent=25426954, text='Presumably by installing Linux?')
+Item(by='newsgourmet', descendants=None, kids=[25439080], score=None, time=1608022031, title=None, item_type='comment', url=None, parent=25426954, text='Presumably by installing Linux?')

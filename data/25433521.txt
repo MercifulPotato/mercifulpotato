@@ -1,1 +1,1 @@
-Item(by='satisfaction', descendants=None, kids=None, score=None, time=1608058122, title=None, item_type='comment', url=None, parent=25432574, text='They call it forced labor, why not use the word: slavery')
+Item(by='satisfaction', descendants=None, kids=[25435104], score=None, time=1608058122, title=None, item_type='comment', url=None, parent=25432574, text='They call it forced labor, why not use the word: slavery')

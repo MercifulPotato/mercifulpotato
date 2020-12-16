@@ -1,1 +1,1 @@
-Item(by='contingencies', descendants=None, kids=None, score=None, time=1607986723, title=None, item_type='comment', url=None, parent=25424484, text='I agree in principle. Unfortunately, the audience&#x27;s brain does not work with logic, it works with emotion.')
+Item(by='contingencies', descendants=None, kids=[25428342], score=None, time=1607986723, title=None, item_type='comment', url=None, parent=25424484, text='I agree in principle. Unfortunately, the audience&#x27;s brain does not work with logic, it works with emotion.')

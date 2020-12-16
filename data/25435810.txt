@@ -1,0 +1,1 @@
+Item(by='atorodius', descendants=None, kids=[25436056], score=None, time=1608069822, title=None, item_type='comment', url=None, parent=25435632, text='Wouldnt this be fixed by CUDA_LAUNCH_BLOCKING=1? Or putting a bunch of torch.cuda.synchronizes in the suspected lines.')

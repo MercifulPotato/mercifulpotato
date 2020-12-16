@@ -1,1 +1,1 @@
-Item(by='wdb', descendants=None, kids=None, score=None, time=1608056517, title=None, item_type='comment', url=None, parent=25433133, text='I wish GCP would offer more similar product lineup compared to AWS, like Lambda@Edge, Greengrass IoT etc')
+Item(by='wdb', descendants=None, kids=[25435215], score=None, time=1608056517, title=None, item_type='comment', url=None, parent=25433133, text='I wish GCP would offer more similar product lineup compared to AWS, like Lambda@Edge, Greengrass IoT etc')

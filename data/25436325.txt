@@ -1,0 +1,1 @@
+Item(by='z3t4', descendants=None, kids=None, score=None, time=1608072317, title=None, item_type='comment', url=None, parent=25435852, text='You can also SSH -X and start a GUI app on the remote machine. (you can install Xserver on both Mac and Windows) Although you need low latency&#x2F;ping or it will lag.')

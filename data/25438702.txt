@@ -1,0 +1,1 @@
+Item(by='cheeze', descendants=None, kids=[25439652, 25438849], score=None, time=1608089220, title=None, item_type='comment', url=None, parent=25438314, text='CloudFormation is... fine until you realize it&#x27;s missing that resource that you need. CF is notorious for lagging behind products in terms of support. It&#x27;s incredibly painful.')

@@ -1,0 +1,1 @@
+Item(by='ako', descendants=None, kids=None, score=None, time=1608103102, title=None, item_type='comment', url=None, parent=25436778, text='True, and this also something OData has as part of the standard. Using a standard way to do this has big benefits, as this knowledge can be implemented in tools (BI, ETL, low-code dev), which can then support many REST endpoints.')
