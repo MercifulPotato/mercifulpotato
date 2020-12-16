@@ -1,0 +1,1 @@
+Item(by='globular-toast', descendants=None, kids=None, score=None, time=1608138436, title=None, item_type='comment', url=None, parent=25444842, text='It&#x27;s a git specific terminology. The plumbing is low level stuff like creating objects etc (ie. DAG operations). The porcelain is high level stuff like &quot;rebase&quot; which is (supposedly) designed for human use.')

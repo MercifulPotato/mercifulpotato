@@ -1,0 +1,1 @@
+Item(by='lexicality', descendants=None, kids=None, score=None, time=1608136900, title=None, item_type='comment', url=None, parent=25437786, text='They didn&#x27;t keep the SQL server, they got rid of it and migrated to having everything stored in static files in Git.')

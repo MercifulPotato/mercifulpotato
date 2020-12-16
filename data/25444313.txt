@@ -1,0 +1,1 @@
+Item(by='dognotdog', descendants=None, kids=None, score=None, time=1608135403, title=None, item_type='comment', url=None, parent=25442587, text='I did kind of make the assumption that you&#x27;d have a code editor that has some form of paren highlighting, at least, though I&#x27;ve never actually found this to be a bigger problem in Lisp than other languages.')

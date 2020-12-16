@@ -1,0 +1,1 @@
+Item(by='SamBam', descendants=None, kids=None, score=None, time=1608131615, title=None, item_type='comment', url=None, parent=25443231, text='GitHub already warns you if you accidentally check in an API key.<p>It&#x27;s like a rite of passage for new devs at my company setting up a new project. Then we have to walk them through changing the keys.')

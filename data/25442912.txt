@@ -1,1 +1,1 @@
-Item(by='whimsicalism', descendants=None, kids=None, score=None, time=1608129165, title=None, item_type='comment', url=None, parent=25442839, text='They seem to have fallen out of favor with the general public.')
+Item(by='whimsicalism', descendants=None, kids=[25444291], score=None, time=1608129165, title=None, item_type='comment', url=None, parent=25442839, text='They seem to have fallen out of favor with the general public.')

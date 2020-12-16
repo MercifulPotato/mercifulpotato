@@ -1,1 +1,1 @@
-Item(by='hakre', descendants=None, kids=None, score=None, time=1608025276, title=None, item_type='comment', url=None, parent=25428314, text='I think libxml does not have that problem, IIRC golang supports c-bindings.')
+Item(by='hakre', descendants=None, kids=[25443039], score=None, time=1608025276, title=None, item_type='comment', url=None, parent=25428314, text='I think libxml does not have that problem, IIRC golang supports c-bindings.')

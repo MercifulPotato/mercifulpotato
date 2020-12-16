@@ -1,0 +1,1 @@
+Item(by='098799', descendants=None, kids=None, score=None, time=1608131684, title=None, item_type='comment', url=None, parent=25442534, text='Changing the xkb mapping is not a happy path? It&#x27;s perfectly portable to any system running X11, you can define your own shortcuts to quickly switch maps with setxkbmap... It&#x27;s a backbone of my workflow with a 60% keyboard.')

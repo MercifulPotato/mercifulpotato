@@ -1,0 +1,1 @@
+Item(by='huhtenberg', descendants=None, kids=[25443158], score=None, time=1608128719, title=None, item_type='comment', url=None, parent=25442693, text='Why would they fail?<p>It opens an SMTP connection and runs through the handshake. If this fails then, it will fail with a real delivery just the same.<p>It&#x27;s still a bad test to do, but for other reasons.')

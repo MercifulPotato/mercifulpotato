@@ -1,0 +1,1 @@
+Item(by='psanford', descendants=None, kids=None, score=None, time=1608141982, title=None, item_type='comment', url=None, parent=25445644, text='Could you not use a deploy key? They are scoped to at the repo level and you can optionally give them push access.')

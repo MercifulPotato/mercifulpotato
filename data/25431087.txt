@@ -1,1 +1,1 @@
-Item(by='confiq', descendants=None, kids=None, score=None, time=1608045761, title=None, item_type='comment', url=None, parent=25430528, text='ok, that is one way to look at this... \nI&#x27;ve just disabled IDFA on my phone now!<p>Thanks for having nice conversation! :)')
+Item(by='confiq', descendants=None, kids=[25443527], score=None, time=1608045761, title=None, item_type='comment', url=None, parent=25430528, text='ok, that is one way to look at this... \nI&#x27;ve just disabled IDFA on my phone now!<p>Thanks for having nice conversation! :)')

@@ -1,0 +1,1 @@
+Item(by='paxys', descendants=None, kids=[25447616], score=None, time=1608148060, title=None, item_type='comment', url=None, parent=25447490, text='Docker has never needed a VirtualBox VM to launch containers on your Mac. It does its own virtualization internally, and will continue to do so.')

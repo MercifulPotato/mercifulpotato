@@ -1,0 +1,1 @@
+Item(by='latchkey', descendants=None, kids=None, score=None, time=1608144149, title=None, item_type='comment', url=None, parent=25444683, text='Even if you have a trezor (or other hardware wallet), you back up your private keys (all those words) somewhere else. That is the real security hole in all of this, not the risk of losing your device.')

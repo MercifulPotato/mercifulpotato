@@ -1,1 +1,1 @@
-Item(by='Kaveren', descendants=None, kids=None, score=None, time=1608127803, title=None, item_type='comment', url=None, parent=25442250, text='The better alternative is just to learn thoroughly and apply knowledge as much as you can. You can explore without guesswork.')
+Item(by='Kaveren', descendants=None, kids=[25443987], score=None, time=1608127803, title=None, item_type='comment', url=None, parent=25442250, text='The better alternative is just to learn thoroughly and apply knowledge as much as you can. You can explore without guesswork.')

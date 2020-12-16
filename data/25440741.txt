@@ -1,1 +1,1 @@
-Item(by='dragonsh', descendants=3, kids=[25442194, 25442223], score=22, time=1608112411, title='Oso – open-source policy engine for authorization in Rust', item_type='story', url='https://github.com/osohq/oso', parent=None, text=None)
+Item(by='dragonsh', descendants=34, kids=[25443385, 25445901, 25445773, 25444893, 25443773, 25442194, 25442223], score=83, time=1608112411, title='Oso – open-source policy engine for authorization in Rust', item_type='story', url='https://github.com/osohq/oso', parent=None, text=None)

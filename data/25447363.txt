@@ -1,0 +1,1 @@
+Item(by='mikevm', descendants=None, kids=None, score=None, time=1608147222, title=None, item_type='comment', url=None, parent=25442620, text='What I find annoying about the distro upgrade cycle is that it always automatically disables my 3rd party PPAs and then I have to go and manually re-enable and update them for the new distro version. This is a really poor experience.')

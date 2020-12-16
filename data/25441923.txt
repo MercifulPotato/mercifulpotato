@@ -1,1 +1,1 @@
-Item(by='that_guy_iain', descendants=None, kids=None, score=None, time=1608123217, title=None, item_type='comment', url=None, parent=25440220, text='I bet this would fail on my catch all email since it checks if the mailbox exists, right?')
+Item(by='that_guy_iain', descendants=None, kids=[25446415], score=None, time=1608123217, title=None, item_type='comment', url=None, parent=25440220, text='I bet this would fail on my catch all email since it checks if the mailbox exists, right?')

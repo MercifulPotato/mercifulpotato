@@ -1,1 +1,1 @@
-Item(by='238475235243', descendants=None, kids=None, score=None, time=1608128037, title=None, item_type='comment', url=None, parent=25441799, text='It rains a lot there, not in other places.')
+Item(by='238475235243', descendants=None, kids=[25443203], score=None, time=1608128037, title=None, item_type='comment', url=None, parent=25441799, text='It rains a lot there, not in other places.')

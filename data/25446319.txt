@@ -1,0 +1,1 @@
+Item(by='bigdict', descendants=None, kids=None, score=None, time=1608143444, title=None, item_type='comment', url=None, parent=25446170, text='GTK 3 worked pretty well for a side project on Linux and macOS. I like C, so I went with GTK as opposed to C++ with Qt.<p>I suspect that Qt is a slightly better (both look and dev ergonomics) and more portable solution, but not sure.')

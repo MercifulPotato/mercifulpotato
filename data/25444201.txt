@@ -1,0 +1,1 @@
+Item(by='jannes', descendants=None, kids=[25446043], score=None, time=1608134860, title=None, item_type='comment', url=None, parent=25441879, text='That wouldn&#x27;t work, because it needs to execute <i>before</i> the analytics script. The runAt:&quot;document_start&quot; doesn&#x27;t really do anything unless you invent time travel.')

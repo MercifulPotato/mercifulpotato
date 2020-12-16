@@ -1,1 +1,1 @@
-Item(by='nerbert', descendants=None, kids=None, score=None, time=1608125474, title=None, item_type='comment', url=None, parent=25442180, text='Yeah it’s nice of Facebook to tell us how serious these changes are.')
+Item(by='nerbert', descendants=None, kids=[25444267], score=None, time=1608125474, title=None, item_type='comment', url=None, parent=25442180, text='Yeah it’s nice of Facebook to tell us how serious these changes are.')

@@ -1,0 +1,1 @@
+Item(by='d0mine', descendants=None, kids=[25444664], score=None, time=1608134291, title=None, item_type='comment', url=None, parent=25432954, text='Why would you reimplement piping? Just use the shell:<p><pre><code>  output = check_output(“dmesg | grep hda”, shell=True)\n</code></pre>\nOr regular Python string methods could be used  instead of piping to grep.')

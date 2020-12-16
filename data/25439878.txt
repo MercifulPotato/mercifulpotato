@@ -1,1 +1,1 @@
-Item(by='gesaint', descendants=0, kids=None, score=2, time=1608102339, title='Why CockroachDB and PostgreSQL Are Compatible', item_type='story', url='https://www.cockroachlabs.com/blog/why-postgres/', parent=None, text=None)
+Item(by='gesaint', descendants=0, kids=None, score=4, time=1608102339, title='Why CockroachDB and PostgreSQL Are Compatible', item_type='story', url='https://www.cockroachlabs.com/blog/why-postgres/', parent=None, text=None)

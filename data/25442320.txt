@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=1, time=1608125891, title='${var?} and and&: Two simple tips for shell commands in tech docs', item_type='story', url='https://www.vidarholen.net/contents/blog/?p=958', parent=None, text=None)
+Item(by='ingve', descendants=2, kids=[25443122], score=2, time=1608125891, title='${var?} and and&: Two simple tips for shell commands in tech docs', item_type='story', url='https://www.vidarholen.net/contents/blog/?p=958', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='auganov', descendants=None, kids=None, score=None, time=1608150311, title=None, item_type='comment', url=None, parent=25447097, text='&gt; Cursive is just a Clojure plugin for IntelliJ<p>Well, I&#x27;m ignorant about the IntelliJ ecosystem. Can I take some of what Cursive is providing and use it with Racket or Common Lisp?')

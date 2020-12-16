@@ -1,1 +1,1 @@
-Item(by='lloydatkinson', descendants=None, kids=None, score=None, time=1608109425, title=None, item_type='comment', url=None, parent=25434753, text='It’s not responsive and everything is too small to read on mobile.')
+Item(by='lloydatkinson', descendants=None, kids=[25447449], score=None, time=1608109425, title=None, item_type='comment', url=None, parent=25434753, text='It’s not responsive and everything is too small to read on mobile.')

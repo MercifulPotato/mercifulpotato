@@ -1,1 +1,1 @@
-Item(by='collyw', descendants=None, kids=None, score=None, time=1608117884, title=None, item_type='comment', url=None, parent=25433353, text='&gt; Unless you are writing custom REST endpoints for every aspect of your UI<p>Wouldn&#x27;t that be the normal way to implement a REST API?')
+Item(by='collyw', descendants=None, kids=[25445969], score=None, time=1608117884, title=None, item_type='comment', url=None, parent=25433353, text='&gt; Unless you are writing custom REST endpoints for every aspect of your UI<p>Wouldn&#x27;t that be the normal way to implement a REST API?')

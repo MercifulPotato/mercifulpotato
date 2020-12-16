@@ -1,1 +1,1 @@
-Item(by='my123', descendants=24, kids=[25441576, 25441464, 25442453], score=50, time=1608114429, title='Debian CD Image for AArch64 Windows Laptops', item_type='story', url='https://github.com/aarch64-laptops/debian-cdimage', parent=None, text=None)
+Item(by='my123', descendants=35, kids=[25441576, 25441464, 25445620, 25442453], score=86, time=1608114429, title='Debian CD Image for AArch64 Windows Laptops', item_type='story', url='https://github.com/aarch64-laptops/debian-cdimage', parent=None, text=None)

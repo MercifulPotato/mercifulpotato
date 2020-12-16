@@ -1,0 +1,1 @@
+Item(by='brandmeyer', descendants=None, kids=[25447723], score=None, time=1608146336, title=None, item_type='comment', url=None, parent=25441585, text='FYI: Google Earth doesn&#x27;t use WGS84 coordinates.  It uses EGM96 coordinates.  The difference is in altitude.')

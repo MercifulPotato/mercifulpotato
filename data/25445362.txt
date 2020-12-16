@@ -1,0 +1,1 @@
+Item(by='dvdkon', descendants=None, kids=[25445503, 25445594], score=None, time=1608139707, title=None, item_type='comment', url=None, parent=25445182, text='It might be because it&#x27;s searching using the IMAP server, for some reason those can&#x27;t often deal with non-ASCII characters. Searching with diacritics seems to work for me in locally-downloaded folders.')

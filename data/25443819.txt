@@ -1,0 +1,1 @@
+Item(by='simon1573', descendants=None, kids=None, score=None, time=1608133125, title=None, item_type='comment', url=None, parent=25441213, text='I stuck with bspwm due to the way config is handled. You just but bash commands in bspwmrc, which runs the bspc commands that does the actual configuration on start. bspwm+sxhkd+polybar is my prefered setup.')
