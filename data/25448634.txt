@@ -1,0 +1,1 @@
+Item(by='Kalium', descendants=None, kids=None, score=None, time=1608152673, title=None, item_type='comment', url=None, parent=25448052, text='I have definitely worked on systems that tried to do parallelism without any real understanding of underlying primitives or theory. They were not ideal.')

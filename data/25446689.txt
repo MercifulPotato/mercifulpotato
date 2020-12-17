@@ -1,1 +1,1 @@
-Item(by='samizdis', descendants=0, kids=None, score=1, time=1608144726, title='January 1, 2021 is Public Domain Day: Works from 1925 are open to all', item_type='story', url='https://web.law.duke.edu/cspd/publicdomainday/2021/', parent=None, text=None)
+Item(by='samizdis', descendants=20, kids=[25451050, 25451275, 25450512, 25449560, 25449449, 25448740], score=39, time=1608144726, title='January 1, 2021 is Public Domain Day: Works from 1925 are open to all', item_type='story', url='https://web.law.duke.edu/cspd/publicdomainday/2021/', parent=None, text=None)

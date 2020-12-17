@@ -1,1 +1,1 @@
-Item(by='insert_coin', descendants=None, kids=None, score=None, time=1608128646, title=None, item_type='comment', url=None, parent=25442735, text='If $1000 is 1% of your portfolio it is only a 1% loss, which is less than nominal inflation.')
+Item(by='insert_coin', descendants=None, kids=[25448716], score=None, time=1608128646, title=None, item_type='comment', url=None, parent=25442735, text='If $1000 is 1% of your portfolio it is only a 1% loss, which is less than nominal inflation.')

@@ -1,1 +1,1 @@
-Item(by='Ar-Curunir', descendants=None, kids=None, score=None, time=1608131982, title=None, item_type='comment', url=None, parent=25443239, text='Lol this is sarcasm, right?')
+Item(by='Ar-Curunir', descendants=None, kids=[25449887], score=None, time=1608131982, title=None, item_type='comment', url=None, parent=25443239, text='Lol this is sarcasm, right?')

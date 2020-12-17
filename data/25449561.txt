@@ -1,0 +1,1 @@
+Item(by='wmf', descendants=None, kids=[25449601, 25449901, 25449904], score=None, time=1608157126, title=None, item_type='comment', url=None, parent=25449489, text='QEMU can (slowly) emulate any architecture on any other architecture. In this case, they&#x27;re using QEMU to emulate x86-64 on ARM64. No nesting or Rosetta is needed.')

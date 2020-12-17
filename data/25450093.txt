@@ -1,0 +1,1 @@
+Item(by='vocram', descendants=None, kids=[25450165], score=None, time=1608160516, title=None, item_type='comment', url=None, parent=25448038, text='Are users able to check if they are running a native arm64 container image, as opposed to an amd64 emulated one?<p>Or that’s something you have to infer from the execution speed?')

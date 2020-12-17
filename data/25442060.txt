@@ -1,1 +1,1 @@
-Item(by='dnetesn', descendants=0, kids=None, score=7, time=1608124256, title='Larry David and the Game Theory of Anonymous Donations', item_type='story', url='http://nautil.us/blog/-larry-david-and-the-game-theory-of-anonymous-donations', parent=None, text=None)
+Item(by='dnetesn', descendants=1, kids=[25449741], score=11, time=1608124256, title='Larry David and the Game Theory of Anonymous Donations', item_type='story', url='http://nautil.us/blog/-larry-david-and-the-game-theory-of-anonymous-donations', parent=None, text=None)

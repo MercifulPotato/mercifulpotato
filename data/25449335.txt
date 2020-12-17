@@ -1,0 +1,1 @@
+Item(by='ChrisLTD', descendants=None, kids=None, score=None, time=1608155785, title=None, item_type='comment', url=None, parent=25448658, text='AWS Cloud9 has a setting to shut down inactive instances after X number of hours. Then you aren&#x27;t charged for the compute time, only storage.')

@@ -1,0 +1,1 @@
+Item(by='OJFord', descendants=None, kids=None, score=None, time=1608168641, title=None, item_type='comment', url=None, parent=25448747, text='Do you want the &#x27;introduction server&#x27; not to be a regular peer itself?<p>If it can be, you can just have the NATed peers connect to it, with persistent keep alive set so they maintain it.')

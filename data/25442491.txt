@@ -1,1 +1,1 @@
-Item(by='marcofiset', descendants=None, kids=None, score=None, time=1608127117, title=None, item_type='comment', url=None, parent=25442358, text='Exactly. Functional programming is pretty much all about being very mindful of when to use state vs pure functions.')
+Item(by='marcofiset', descendants=None, kids=[25449945], score=None, time=1608127117, title=None, item_type='comment', url=None, parent=25442358, text='Exactly. Functional programming is pretty much all about being very mindful of when to use state vs pure functions.')

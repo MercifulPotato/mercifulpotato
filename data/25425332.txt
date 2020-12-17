@@ -1,1 +1,1 @@
-Item(by='echelon', descendants=None, kids=None, score=None, time=1607991707, title=None, item_type='comment', url=None, parent=25425228, text='This appears to be a VC backed venture. They&#x27;re not giving their code away.')
+Item(by='echelon', descendants=None, kids=[25451244], score=None, time=1607991707, title=None, item_type='comment', url=None, parent=25425228, text='This appears to be a VC backed venture. They&#x27;re not giving their code away.')

@@ -1,0 +1,1 @@
+Item(by='paxys', descendants=None, kids=None, score=None, time=1608148625, title=None, item_type='comment', url=None, parent=25447600, text='Docker can&#x27;t run natively since it uses linux kernel features not available on a mac. Apple would need to do a lot of work first to make it happen.')

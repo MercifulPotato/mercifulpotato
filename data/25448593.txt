@@ -1,0 +1,1 @@
+Item(by='pitterpatter', descendants=None, kids=None, score=None, time=1608152481, title=None, item_type='comment', url=None, parent=25448006, text='I mean, they do provide the hooks via Hypervisor.framework. I&#x27;m not 100% familiar, but if it&#x27;s anything like KVM then running a linux VM like that shouldn&#x27;t have that much overhead.')

@@ -1,1 +1,1 @@
-Item(by='fortran77', descendants=2, kids=[25447390, 25447169], score=4, time=1608145869, title='Yes, Young People Are Dying of Covid', item_type='story', url='https://www.nytimes.com/2020/12/16/opinion/covid-deaths-young-adults.html', parent=None, text=None)
+Item(by='fortran77', descendants=3, kids=[25447390, 25447169], score=6, time=1608145869, title='Yes, Young People Are Dying of Covid', item_type='story', url='https://www.nytimes.com/2020/12/16/opinion/covid-deaths-young-adults.html', parent=None, text=None)

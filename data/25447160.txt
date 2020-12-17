@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=None, score=None, time=1608146413, title=None, item_type='comment', url=None, parent=25446775, text='As they should.  That weight sensor is not intended to make it safe to put a car seat in the front of a car.')
+Item(by='kube-system', descendants=None, kids=[25447850], score=None, time=1608146413, title=None, item_type='comment', url=None, parent=25446775, text='As they should.  That weight sensor is not intended to make it safe to put a car seat in the front of a car.')

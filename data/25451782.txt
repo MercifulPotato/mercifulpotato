@@ -1,0 +1,1 @@
+Item(by='pirocks', descendants=None, kids=[25451892], score=None, time=1608173192, title=None, item_type='comment', url=None, parent=25451215, text='In my experience Rust&#x2F;C interop just works except for variadic args. Variadic args require nightly unless it was stabilized since I last checked.')

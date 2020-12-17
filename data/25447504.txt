@@ -1,1 +1,1 @@
-Item(by='sp332', descendants=None, kids=None, score=None, time=1608147852, title=None, item_type='comment', url=None, parent=25447331, text='Good. That means it&#x27;s less likely to sell out to some suit farm and get cancelled like CentOS did.')
+Item(by='sp332', descendants=None, kids=[25449871], score=None, time=1608147852, title=None, item_type='comment', url=None, parent=25447331, text='Good. That means it&#x27;s less likely to sell out to some suit farm and get cancelled like CentOS did.')

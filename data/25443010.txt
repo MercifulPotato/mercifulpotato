@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=None, score=None, time=1608129582, title=None, item_type='comment', url=None, parent=25442093, text='High voltage wiring has to be secured, by code, but low voltage thermostat wires don’t, so it’s more likely that you can pull them.')
+Item(by='kube-system', descendants=None, kids=[25450956], score=None, time=1608129582, title=None, item_type='comment', url=None, parent=25442093, text='High voltage wiring has to be secured, by code, but low voltage thermostat wires don’t, so it’s more likely that you can pull them.')

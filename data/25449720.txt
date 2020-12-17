@@ -1,0 +1,1 @@
+Item(by='wmf', descendants=None, kids=[25449948, 25449925], score=None, time=1608158115, title=None, item_type='comment', url=None, parent=25449601, text='Rosetta is limited to running Darwin&#x2F;x86-64 user processes on Darwin&#x2F;ARM64 but Docker needs to run Linux&#x2F;x86-64 containers&#x2F;processes on a Linux&#x2F;x86-64 kernel on a Darwin&#x2F;ARM64 host.')

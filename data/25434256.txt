@@ -1,1 +1,1 @@
-Item(by='bawolff', descendants=None, kids=None, score=None, time=1608061847, title=None, item_type='comment', url=None, parent=25431118, text='What license is MDN under and who owns the copyright? Is this a license violation?')
+Item(by='bawolff', descendants=None, kids=[25449504], score=None, time=1608061847, title=None, item_type='comment', url=None, parent=25431118, text='What license is MDN under and who owns the copyright? Is this a license violation?')

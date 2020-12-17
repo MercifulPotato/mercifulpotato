@@ -1,1 +1,1 @@
-Item(by='gowld', descendants=None, kids=None, score=None, time=1608143848, title=None, item_type='comment', url=None, parent=25446360, text='What&#x27;s wrong with Japan?')
+Item(by='gowld', descendants=None, kids=[25449809], score=None, time=1608143848, title=None, item_type='comment', url=None, parent=25446360, text='What&#x27;s wrong with Japan?')

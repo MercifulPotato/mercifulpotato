@@ -1,0 +1,1 @@
+Item(by='luhn', descendants=None, kids=[25448274], score=None, time=1608150944, title=None, item_type='comment', url=None, parent=25448149, text='The main resource issue is because Docker runs in a VM, it can&#x27;t share memory with the OS.  So it&#x27;s using the configured amount of memory (2GB by default) whether you&#x27;re running busybox or an entire Kubernetes cluster.')

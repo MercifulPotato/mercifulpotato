@@ -1,1 +1,1 @@
-Item(by='cbarrick', descendants=None, kids=[25444127, 25443862], score=None, time=1608132409, title=None, item_type='comment', url=None, parent=25442259, text='The input format is json? How do I generate that from a git log?')
+Item(by='cbarrick', descendants=None, kids=[25443862, 25444127], score=None, time=1608132409, title=None, item_type='comment', url=None, parent=25442259, text='The input format is json? How do I generate that from a git log?')

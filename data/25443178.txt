@@ -1,1 +1,1 @@
-Item(by='caust1c', descendants=None, kids=None, score=None, time=1608130385, title=None, item_type='comment', url=None, parent=25443079, text='Who cares about being in the S&amp;P 500?  It&#x27;s a dumb status symbol and nothing else.')
+Item(by='caust1c', descendants=None, kids=[25443338], score=None, time=1608130385, title=None, item_type='comment', url=None, parent=25443079, text='Who cares about being in the S&amp;P 500?  It&#x27;s a dumb status symbol and nothing else.')

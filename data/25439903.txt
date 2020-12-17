@@ -1,1 +1,1 @@
-Item(by='craftinator', descendants=None, kids=None, score=None, time=1608102734, title=None, item_type='comment', url=None, parent=25438161, text='Your comment is bad and you should feel bad.')
+Item(by='craftinator', descendants=None, kids=[25449361], score=None, time=1608102734, title=None, item_type='comment', url=None, parent=25438161, text='Your comment is bad and you should feel bad.')

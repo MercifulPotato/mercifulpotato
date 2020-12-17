@@ -1,1 +1,1 @@
-Item(by='timidger', descendants=None, kids=[25447358], score=None, time=1608146259, title=None, item_type='comment', url=None, parent=25447043, text='Out of curiosity what&#x27;s wrong with git add -i? That&#x27;s what I use to stage parts of a file.')
+Item(by='timidger', descendants=None, kids=[25449234, 25447358], score=None, time=1608146259, title=None, item_type='comment', url=None, parent=25447043, text='Out of curiosity what&#x27;s wrong with git add -i? That&#x27;s what I use to stage parts of a file.')

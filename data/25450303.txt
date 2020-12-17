@@ -1,0 +1,1 @@
+Item(by='stock_toaster', descendants=None, kids=[25450345], score=None, time=1608162056, title=None, item_type='comment', url=None, parent=25447805, text='A self hosted &quot;TURN like&quot; server seems like it would be simpler and more secure -- yet achieve similar goals, and yet still more robust vs funky NAT layers than a dynamic dns solution alone would provide.')

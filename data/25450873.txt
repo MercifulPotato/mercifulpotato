@@ -1,0 +1,1 @@
+Item(by='Wowfunhappy', descendants=None, kids=[25450963], score=None, time=1608165933, title=None, item_type='comment', url=None, parent=25449634, text='Note, Docker will run x86 containers via qemu, so you can still use them. They&#x27;ll just be slower.')

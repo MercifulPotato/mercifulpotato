@@ -1,0 +1,1 @@
+Item(by='interpol_p', descendants=1, kids=[25451453], score=2, time=1608169165, title='Chrome/Keystone causing abnormally high WindowServer CPU usage', item_type='story', url='https://bugs.chromium.org/p/chromium/issues/detail?id=1158402#c18', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='giantg2', descendants=None, kids=None, score=None, time=1608144639, title=None, item_type='comment', url=None, parent=25446123, text='Why is this downvoted?')
+Item(by='giantg2', descendants=None, kids=[25450337, 25450516], score=None, time=1608144639, title=None, item_type='comment', url=None, parent=25446123, text='Why is this downvoted?')

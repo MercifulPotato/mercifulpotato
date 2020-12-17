@@ -1,1 +1,1 @@
-Item(by='kowainik', descendants=9, kids=[25440065, 25440314, 25440444, 25442074], score=57, time=1607942637, title='Foo to Bar: Naming Conventions in Haskell', item_type='story', url='https://kowainik.github.io/posts/naming-conventions', parent=None, text=None)
+Item(by='kowainik', descendants=9, kids=[25440065, 25440314, 25440444, 25442074], score=62, time=1607942637, title='Foo to Bar: Naming Conventions in Haskell', item_type='story', url='https://kowainik.github.io/posts/naming-conventions', parent=None, text=None)
