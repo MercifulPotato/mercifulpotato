@@ -1,1 +1,1 @@
-Item(by='adewinter', descendants=None, kids=[25446787, 25432982, 25432339], score=None, time=1608048942, title=None, item_type='comment', url=None, parent=25431585, text='Right. So what&#x27;s the point of having @deprecated tags and a deprecated fail mode if you can&#x27;t ever use it?')
+Item(by='adewinter', descendants=None, kids=[25432982, 25446787, 25432339], score=None, time=1608048942, title=None, item_type='comment', url=None, parent=25431585, text='Right. So what&#x27;s the point of having @deprecated tags and a deprecated fail mode if you can&#x27;t ever use it?')

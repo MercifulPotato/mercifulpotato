@@ -1,0 +1,1 @@
+Item(by='maxdo', descendants=None, kids=None, score=None, time=1608218454, title=None, item_type='comment', url=None, parent=25454207, text='ok, so if an image of certain tag 0.9 had vulnerability, vendor fix it in 1.0 , but dockerhub still store 0.9, is that 0.9 included in the report?')

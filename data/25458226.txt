@@ -1,0 +1,1 @@
+Item(by='nathancahill', descendants=None, kids=[25458881], score=None, time=1608228123, title=None, item_type='comment', url=None, parent=25455659, text='This is awesome, love the grid that moves around with the cursor.<p>Bug or user error, hitting delete to remove a point tries to navigate back in the browser. Maybe a preventDefault() missing there?')

@@ -1,0 +1,1 @@
+Item(by='sprt', descendants=None, kids=None, score=None, time=1608221826, title=None, item_type='comment', url=None, parent=25455877, text='Nice. I like the (shortest) output of this one better. And as opposed to trivy, it was able to detect the packages (and 1 vuln) in ghcr.io&#x2F;linuxserver&#x2F;swag.')

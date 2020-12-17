@@ -1,0 +1,1 @@
+Item(by='finnh', descendants=None, kids=[25455996], score=None, time=1608215672, title=None, item_type='comment', url=None, parent=25455314, text='For latency-sensitive operations - in particular, decompression - lz4 maintains an extreme lead in performance (at a cost of lower compression ratios).  This has borne out in practice for me as well.')

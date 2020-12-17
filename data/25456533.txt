@@ -1,0 +1,1 @@
+Item(by='wongarsu', descendants=None, kids=[25456643], score=None, time=1608219690, title=None, item_type='comment', url=None, parent=25456364, text='The zstd tool defaults to one thread for IO and one for compression. You can change the number of compression threads with the parameter -T (e.g. -T0 to use all physical cores).')

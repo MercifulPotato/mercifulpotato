@@ -1,0 +1,1 @@
+Item(by='elcritch', descendants=None, kids=None, score=None, time=1608231463, title=None, item_type='comment', url=None, parent=25458606, text='In that sense, all SQL databases are just KV stores. They compile SQL into actions on various internal KV stores. CRBD&#x27;s approach just makes the separation more explicit than most since it&#x27;s designed to run as a cluster.')

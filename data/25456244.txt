@@ -1,0 +1,1 @@
+Item(by='QuadrupleA', descendants=None, kids=[25459435], score=None, time=1608217968, title=None, item_type='comment', url=None, parent=25455314, text='ZStandard is great - I used it as a replacement for PNG \nfor texture loading in the game engine for Weapon Hacker. Also for all game entity data - reduced asset loading time by about 4x, so things pretty much start instantly.')

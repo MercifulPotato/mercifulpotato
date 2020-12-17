@@ -1,0 +1,1 @@
+Item(by='Someone', descendants=None, kids=[25459503], score=None, time=1608233196, title=None, item_type='comment', url=None, parent=25459157, text='ASLR doesn’t do anything to prevent buffer overflows; it makes it harder to exploit them.<p>That doesn’t mean it makes it impossible, and even if it did, the buffer overflow itself still is a bug.')

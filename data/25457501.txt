@@ -1,0 +1,1 @@
+Item(by='folkrav', descendants=None, kids=None, score=None, time=1608224857, title=None, item_type='comment', url=None, parent=25456768, text='WSL2 is backed by an actual virtual machine, so it comes with the limitations of its hypervisor (Hyper-V). Hyper-V doesn&#x27;t support full USB passthrough. AFAIK it does support passing down USB volumes though.')

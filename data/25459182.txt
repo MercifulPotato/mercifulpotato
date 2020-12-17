@@ -1,0 +1,1 @@
+Item(by='foreigner', descendants=None, kids=[25459296], score=None, time=1608232676, title=None, item_type='comment', url=None, parent=25458033, text='I&#x27;m just in the process of setting up our Auth system now with cognito. It sure is painful! Looks like you guys have everything I need except social login.')

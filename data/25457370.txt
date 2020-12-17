@@ -1,0 +1,1 @@
+Item(by='evancordell', descendants=None, kids=[25457460], score=None, time=1608224154, title=None, item_type='comment', url=None, parent=25457085, text='This looks great!<p>How is revocation handled? Will a proxy using sharewith as an oidc provider hit the authz graph on every request?')

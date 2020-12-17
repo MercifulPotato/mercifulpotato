@@ -1,0 +1,1 @@
+Item(by='013a', descendants=None, kids=[25458627], score=None, time=1608229430, title=None, item_type='comment', url=None, parent=25458082, text='I feel that browsers should implement a permissions grant pop-up for when a site attempts to set a cookie with SameSite=none, and the cookie api can be extended to enable explanations to be given by the developer.')

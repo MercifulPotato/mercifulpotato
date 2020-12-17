@@ -1,0 +1,1 @@
+Item(by='tryauuum', descendants=None, kids=[25457060], score=None, time=1608218717, title=None, item_type='comment', url=None, parent=25456289, text='I heard one can make k8s run containers in separate QEMU&#x2F;KVM vms or even on bare metal (I have no experience in setting up k8s so it may be wrong)')

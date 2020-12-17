@@ -1,1 +1,1 @@
-Item(by='justinph', descendants=None, kids=None, score=None, time=1608172004, title=None, item_type='comment', url=None, parent=25450490, text='With the upcoming Core Web Vitals, you&#x27;ll get penalized for this. It measures the aggregate speed of chrome users.')
+Item(by='justinph', descendants=None, kids=[25455788], score=None, time=1608172004, title=None, item_type='comment', url=None, parent=25450490, text='With the upcoming Core Web Vitals, you&#x27;ll get penalized for this. It measures the aggregate speed of chrome users.')

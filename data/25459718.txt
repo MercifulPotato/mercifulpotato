@@ -1,0 +1,1 @@
+Item(by='dimberman', descendants=None, kids=None, score=None, time=1608235645, title=None, item_type='comment', url=None, parent=25459640, text='I would say at this point Airflow is leaning pretty heavily on being a data tool. I wouldn&#x27;t recommend it for something like CI&#x2F;CD for example. Do you have a use-case in mind?')

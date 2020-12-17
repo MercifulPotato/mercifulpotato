@@ -1,0 +1,1 @@
+Item(by='ozychhi', descendants=None, kids=None, score=None, time=1608224030, title=None, item_type='comment', url=None, parent=25455996, text='We were using modified lz4 (very much molded over our data) that was actually faster than memcpy of data that we were compressing.')

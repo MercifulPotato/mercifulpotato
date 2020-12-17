@@ -1,0 +1,1 @@
+Item(by='kennywinker', descendants=None, kids=None, score=None, time=1608231905, title=None, item_type='comment', url=None, parent=25458649, text='I’m not a lawyer, but I’d be shocked if you could get around gdpr by using a different api. If gdpr was actually limited to `document.cookie` and `Set-Cookie` it’d be a laughable attempt to protect users.')

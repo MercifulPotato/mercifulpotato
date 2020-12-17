@@ -1,1 +1,1 @@
-Item(by='tonyedgecombe', descendants=None, kids=None, score=None, time=1608205383, title=None, item_type='comment', url=None, parent=25454624, text='They aren&#x27;t neutral though, they clearly amplify it.')
+Item(by='tonyedgecombe', descendants=None, kids=[25458434, 25457658], score=None, time=1608205383, title=None, item_type='comment', url=None, parent=25454624, text='They aren&#x27;t neutral though, they clearly amplify it.')

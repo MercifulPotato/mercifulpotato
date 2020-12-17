@@ -1,0 +1,1 @@
+Item(by='jonftaro', descendants=None, kids=None, score=None, time=1608217453, title=None, item_type='comment', url=None, parent=25456051, text='Compiler monoculture has always caused problems historically. LLVM monoculture is no better. It is great to see more compiler diversity in the Rust ecosystem with a GCC frontend and the move to  cranelift by rustc')

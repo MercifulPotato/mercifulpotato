@@ -1,1 +1,1 @@
-Item(by='moonbug', descendants=None, kids=None, score=None, time=1608155641, title=None, item_type='comment', url=None, parent=25448191, text='Ten years of uptime seems neither an unreasonable nor unattainable requirement. There&#x27;s more to computers than mayfly web startups.')
+Item(by='moonbug', descendants=None, kids=[25457125], score=None, time=1608155641, title=None, item_type='comment', url=None, parent=25448191, text='Ten years of uptime seems neither an unreasonable nor unattainable requirement. There&#x27;s more to computers than mayfly web startups.')

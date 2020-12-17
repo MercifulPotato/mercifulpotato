@@ -1,1 +1,1 @@
-Item(by='yumraj', descendants=None, kids=[25432588, 25433244], score=None, time=1608053529, title=None, item_type='comment', url=None, parent=25432233, text='Are there any performance benchmarks comparing REST and GraphQL?')
+Item(by='yumraj', descendants=None, kids=[25433244, 25432588], score=None, time=1608053529, title=None, item_type='comment', url=None, parent=25432233, text='Are there any performance benchmarks comparing REST and GraphQL?')

@@ -1,0 +1,1 @@
+Item(by='oblio', descendants=None, kids=None, score=None, time=1608218336, title=None, item_type='comment', url=None, parent=25456034, text='Yeah, I know, but you&#x27;d use the same mechanism for both.<p>For jars&#x2F;dlls you look up dependency scanners and hook them up to your CI&#x2F;CD.<p>For Docker images you look up image scanners and hook them up to your CI&#x2F;CD.')

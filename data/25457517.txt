@@ -1,0 +1,1 @@
+Item(by='loeg', descendants=None, kids=None, score=None, time=1608224940, title=None, item_type='comment', url=None, parent=25457443, text='If the compression ratio is about the same, I&#x27;d choose zstd.  The decompression performance is much better than xz.')

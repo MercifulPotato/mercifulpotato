@@ -1,1 +1,1 @@
-Item(by='panabee', descendants=0, kids=None, score=4, time=1608190597, title='Show HN: Deep learning tool that repairs damaged/faded photos', item_type='story', url='https://hotpot.ai/restore-picture?s=hn', parent=None, text=None)
+Item(by='panabee', descendants=2, kids=[25456238], score=10, time=1608190597, title='Show HN: Deep learning tool that repairs damaged/faded photos', item_type='story', url='https://hotpot.ai/restore-picture?s=hn', parent=None, text=None)

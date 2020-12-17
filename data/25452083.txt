@@ -1,1 +1,1 @@
-Item(by='jo032', descendants=None, kids=None, score=None, time=1608175566, title=None, item_type='comment', url=None, parent=25449063, text='Thomas and Alito went out of their way to say that they thought Texas had standing but would still not grant further relief')
+Item(by='jo032', descendants=None, kids=[25456490], score=None, time=1608175566, title=None, item_type='comment', url=None, parent=25449063, text='Thomas and Alito went out of their way to say that they thought Texas had standing but would still not grant further relief')

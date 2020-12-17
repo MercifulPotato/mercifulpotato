@@ -1,0 +1,1 @@
+Item(by='unsigner', descendants=None, kids=[25456195], score=None, time=1608217366, title=None, item_type='comment', url=None, parent=25455996, text='LZ4 makes sense when you need fast (i.e. runtime) compression; for anything compressed ahead of time and distributed to be decompressed, Zstd is probably better.')

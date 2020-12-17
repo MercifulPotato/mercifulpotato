@@ -1,0 +1,1 @@
+Item(by='Ayesh', descendants=None, kids=None, score=None, time=1608227629, title=None, item_type='comment', url=None, parent=25454705, text='I sometimes get wsl2 to be not responsive too, but you can force shutdown ask (WSL --shutdown) that solves most problems except networking.')

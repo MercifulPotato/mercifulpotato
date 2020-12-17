@@ -1,1 +1,1 @@
-Item(by='redprince', descendants=None, kids=None, score=None, time=1608202022, title=None, item_type='comment', url=None, parent=25454250, text='Maybe there aren&#x27;t any good alternatives to &quot;read this go to book as the first book on the topic&quot;. Prove me wrong. (Please)')
+Item(by='redprince', descendants=None, kids=[25455999], score=None, time=1608202022, title=None, item_type='comment', url=None, parent=25454250, text='Maybe there aren&#x27;t any good alternatives to &quot;read this go to book as the first book on the topic&quot;. Prove me wrong. (Please)')

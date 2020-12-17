@@ -1,1 +1,1 @@
-Item(by='Axsuul', descendants=None, kids=[25454355, 25449876, 25454663], score=None, time=1608158268, title=None, item_type='comment', url=None, parent=25448038, text='How close are we to be able to deploy arm64 images to production&#x2F;AWS&#x2F;GCP?')
+Item(by='Axsuul', descendants=None, kids=[25449876, 25454355, 25454663], score=None, time=1608158268, title=None, item_type='comment', url=None, parent=25448038, text='How close are we to be able to deploy arm64 images to production&#x2F;AWS&#x2F;GCP?')

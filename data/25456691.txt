@@ -1,0 +1,1 @@
+Item(by='billfruit', descendants=None, kids=[25458583], score=None, time=1608220587, title=None, item_type='comment', url=None, parent=25453663, text='Since the main thread about Kernel Release is old now I&#x27;m asking here: Is the PREMPT_RT patch fully merged into the mainline yet, I heard it was supposed to happen sometime in  2020, may be 5.10 has it merged already?')

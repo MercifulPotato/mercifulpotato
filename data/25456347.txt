@@ -1,0 +1,1 @@
+Item(by='Algent', descendants=None, kids=[25456848], score=None, time=1608218619, title=None, item_type='comment', url=None, parent=25456170, text='If your need of encryption is related to backups, look into &quot;Borg backup&quot;. It can handle both encryption and zstd, also do dedupe natively since it&#x27;s storing data as blocks.')

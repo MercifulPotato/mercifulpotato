@@ -1,1 +1,1 @@
-Item(by='Cieplak', descendants=0, kids=None, score=3, time=1608205076, title='Computers Without Clocks – Ivan Sutherland (2002) [pdf]', item_type='story', url='http://www.cs.virginia.edu/~robins/Computing_Without_Clocks.pdf', parent=None, text=None)
+Item(by='Cieplak', descendants=27, kids=[25457789, 25457617, 25458330, 25455845, 25458702, 25457941], score=49, time=1608205076, title='Computers Without Clocks – Ivan Sutherland (2002) [pdf]', item_type='story', url='http://www.cs.virginia.edu/~robins/Computing_Without_Clocks.pdf', parent=None, text=None)

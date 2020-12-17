@@ -1,1 +1,1 @@
-Item(by='Banana699', descendants=None, kids=None, score=None, time=1608209145, title=None, item_type='comment', url=None, parent=25446907, text='A bit out of the loop here, apparently: what&#x27;s wrong with the browser market agreeing on an open source core ?')
+Item(by='Banana699', descendants=None, kids=[25457873], score=None, time=1608209145, title=None, item_type='comment', url=None, parent=25446907, text='A bit out of the loop here, apparently: what&#x27;s wrong with the browser market agreeing on an open source core ?')

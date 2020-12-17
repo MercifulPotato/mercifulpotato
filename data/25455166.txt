@@ -1,1 +1,1 @@
-Item(by='ColinWright', descendants=0, kids=None, score=5, time=1608210157, title='Glitterbomb 3.0 vs. Porch Pirates', item_type='story', url='https://www.youtube.com/watch?v=h4T_LlK1VE4', parent=None, text=None)
+Item(by='ColinWright', descendants=21, kids=[25456180, 25456459], score=30, time=1608210157, title='Glitterbomb 3.0 vs. Porch Pirates', item_type='story', url='https://www.youtube.com/watch?v=h4T_LlK1VE4', parent=None, text=None)

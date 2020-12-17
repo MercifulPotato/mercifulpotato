@@ -1,0 +1,1 @@
+Item(by='pighive', descendants=None, kids=[25459718], score=None, time=1608235148, title=None, item_type='comment', url=None, parent=25457876, text='Congratulations! I came across Airflow being used mostly for ETL space. But are there any other use cases that it is suitable for? Is it comparable to (or build) a BPMN style workflows? Thank you.')

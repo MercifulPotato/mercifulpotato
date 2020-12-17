@@ -1,1 +1,1 @@
-Item(by='eitland', descendants=None, kids=None, score=None, time=1608191840, title=None, item_type='comment', url=None, parent=25453206, text='AFAIK it does so by default, and it doesn&#x27;t even help if I disable it as my chats will be uploaded by everyone else anyway.')
+Item(by='eitland', descendants=None, kids=[25456356], score=None, time=1608191840, title=None, item_type='comment', url=None, parent=25453206, text='AFAIK it does so by default, and it doesn&#x27;t even help if I disable it as my chats will be uploaded by everyone else anyway.')

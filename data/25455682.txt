@@ -1,1 +1,1 @@
-Item(by='account42', descendants=None, kids=None, score=None, time=1608214244, title=None, item_type='comment', url=None, parent=25452105, text='A ship is build to withstand heavy weather yet you&#x27;d still try to navigate around a storm.')
+Item(by='account42', descendants=None, kids=[25456882], score=None, time=1608214244, title=None, item_type='comment', url=None, parent=25452105, text='A ship is build to withstand heavy weather yet you&#x27;d still try to navigate around a storm.')
