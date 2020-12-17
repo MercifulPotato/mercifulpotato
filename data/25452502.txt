@@ -1,0 +1,1 @@
+Item(by='fomine3', descendants=None, kids=None, score=None, time=1608179750, title=None, item_type='comment', url=None, parent=25452413, text='Qemu provides both device emulation, and x86 emulation by binary translation. Use qemu-kvm to accelerate x86 emulation by hardware assist.')

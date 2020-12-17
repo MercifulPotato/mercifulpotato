@@ -1,1 +1,1 @@
-Item(by='donsupreme', descendants=0, kids=None, score=1, time=1608171842, title='Stocks That Turned $100k Into $1M in 2020', item_type='story', url='https://www.fool.com/investing/2020/12/16/3-stocks-that-turned-100000-into-1-million-in-2020/', parent=None, text=None)
+Item(by='donsupreme', descendants=1, kids=[25452307], score=2, time=1608171842, title='Stocks That Turned $100k Into $1M in 2020', item_type='story', url='https://www.fool.com/investing/2020/12/16/3-stocks-that-turned-100000-into-1-million-in-2020/', parent=None, text=None)

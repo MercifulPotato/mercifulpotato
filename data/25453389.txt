@@ -1,0 +1,1 @@
+Item(by='zokier', descendants=None, kids=None, score=None, time=1608189147, title=None, item_type='comment', url=None, parent=25449279, text='You probably want to have two (or more) interfaces (eni in aws lingo) on the wg server so that you dedicate one for this tunneled traffic.<p>Also you probably want to setup some sort of NAT instead of just routing packets directly.')

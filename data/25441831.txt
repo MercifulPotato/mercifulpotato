@@ -1,1 +1,1 @@
-Item(by='brodo', descendants=5, kids=[25448594, 25449885], score=19, time=1608122303, title='Top Down Operator Precedence (2007)', item_type='story', url='https://crockford.com/javascript/tdop/tdop.html', parent=None, text=None)
+Item(by='brodo', descendants=5, kids=[25448594, 25449885], score=20, time=1608122303, title='Top Down Operator Precedence (2007)', item_type='story', url='https://crockford.com/javascript/tdop/tdop.html', parent=None, text=None)

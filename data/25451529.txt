@@ -1,1 +1,1 @@
-Item(by='TheOperator', descendants=None, kids=None, score=None, time=1608170927, title=None, item_type='comment', url=None, parent=25450691, text='It&#x27;s sexist and spitting in the face of gender equality.  It&#x27;s feminism not egalitarianism.')
+Item(by='TheOperator', descendants=None, kids=[25452652], score=None, time=1608170927, title=None, item_type='comment', url=None, parent=25450691, text='It&#x27;s sexist and spitting in the face of gender equality.  It&#x27;s feminism not egalitarianism.')

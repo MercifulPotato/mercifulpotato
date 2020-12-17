@@ -1,1 +1,1 @@
-Item(by='codeduck', descendants=None, kids=None, score=None, time=1608104300, title=None, item_type='comment', url=None, parent=25437597, text='I feel like a broken record, but we are having great success with Victoria metrics as a drop in replacement.')
+Item(by='codeduck', descendants=None, kids=[25452331], score=None, time=1608104300, title=None, item_type='comment', url=None, parent=25437597, text='I feel like a broken record, but we are having great success with Victoria metrics as a drop in replacement.')

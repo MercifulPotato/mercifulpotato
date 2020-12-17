@@ -1,1 +1,1 @@
-Item(by='swyx', descendants=0, kids=None, score=1, time=1608099047, title='Research in Programming Languages', item_type='story', url='http://tagide.com/blog/academia/research-in-programming-languages/', parent=None, text=None)
+Item(by='swyx', descendants=18, kids=[25453624, 25451621, 25452098, 25451974, 25451668, 25452342], score=46, time=1608099047, title='Research in Programming Languages (2012)', item_type='story', url='http://tagide.com/blog/academia/research-in-programming-languages/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='Pet_Ant', descendants=3, kids=[25435515, 25434740, 25435187], score=4, time=1608063581, title='Facebook accuses French military of running troll accounts', item_type='story', url='https://www.cnn.com/2020/12/15/tech/facebook-france-africa-troll/index.html', parent=None, text=None)
+Item(by='Pet_Ant', descendants=3, kids=[25435515, 25434740, 25435187], score=5, time=1608063581, title='Facebook accuses French military of running troll accounts', item_type='story', url='https://www.cnn.com/2020/12/15/tech/facebook-france-africa-troll/index.html', parent=None, text=None)

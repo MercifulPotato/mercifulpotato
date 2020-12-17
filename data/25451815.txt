@@ -1,1 +1,1 @@
-Item(by='Retric', descendants=None, kids=None, score=None, time=1608173421, title=None, item_type='comment', url=None, parent=25451768, text='Why would it be unfair? A lot of UI delays come from uncertainty, it’s often a significant technical issue.')
+Item(by='Retric', descendants=None, kids=[25453066], score=None, time=1608173421, title=None, item_type='comment', url=None, parent=25451768, text='Why would it be unfair? A lot of UI delays come from uncertainty, it’s often a significant technical issue.')

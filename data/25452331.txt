@@ -1,0 +1,1 @@
+Item(by='heliodor', descendants=None, kids=None, score=None, time=1608178001, title=None, item_type='comment', url=None, parent=25440043, text='Promscale looks interesting. Keep the architecture of Prometheus while storing the data in TimescaleDB and using SQL as the query language (together with the TimescaleDB-specific extensions to it). Does anyone actually like PromQL?')

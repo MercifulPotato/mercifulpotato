@@ -1,1 +1,1 @@
-Item(by='gilrain', descendants=None, kids=None, score=None, time=1608157230, title=None, item_type='comment', url=None, parent=25448666, text='They laid off their Rust and Servo developers.')
+Item(by='gilrain', descendants=None, kids=[25452323], score=None, time=1608157230, title=None, item_type='comment', url=None, parent=25448666, text='They laid off their Rust and Servo developers.')

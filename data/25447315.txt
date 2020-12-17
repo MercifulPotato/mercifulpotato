@@ -1,1 +1,1 @@
-Item(by='ipnon', descendants=None, kids=None, score=None, time=1608146957, title=None, item_type='comment', url=None, parent=25446931, text='Big N for all N in Facebook, Amazon, Apple, Netflix, Google ...')
+Item(by='ipnon', descendants=None, kids=[25452641], score=None, time=1608146957, title=None, item_type='comment', url=None, parent=25446931, text='Big N for all N in Facebook, Amazon, Apple, Netflix, Google ...')

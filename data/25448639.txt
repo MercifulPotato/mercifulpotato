@@ -1,1 +1,1 @@
-Item(by='fastball', descendants=None, kids=None, score=None, time=1608152720, title=None, item_type='comment', url=None, parent=25447139, text='Wasn&#x27;t the biggest concern of this whole pandemic asymptomatic spread?')
+Item(by='fastball', descendants=None, kids=[25452245], score=None, time=1608152720, title=None, item_type='comment', url=None, parent=25447139, text='Wasn&#x27;t the biggest concern of this whole pandemic asymptomatic spread?')

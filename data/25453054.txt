@@ -1,0 +1,1 @@
+Item(by='aeternum', descendants=None, kids=[25453532], score=None, time=1608185122, title=None, item_type='comment', url=None, parent=25452526, text='MS was basically the CA.  It was SolarWind&#x27;s signing key that was compromised via an on-prem attack.  This article is somewhat over the top, it looks like what Microsoft actually did was just revoke the cert.')

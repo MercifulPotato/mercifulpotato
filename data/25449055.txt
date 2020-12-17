@@ -1,1 +1,1 @@
-Item(by='open-source-ux', descendants=0, kids=None, score=1, time=1608154508, title='Covid-19 Vaccine: When are African countries getting it? [video]', item_type='story', url='https://www.bbc.co.uk/news/av/world-africa-55337122', parent=None, text=None)
+Item(by='open-source-ux', descendants=1, kids=[25451856], score=2, time=1608154508, title='Covid-19 Vaccine: When are African countries getting it? [video]', item_type='story', url='https://www.bbc.co.uk/news/av/world-africa-55337122', parent=None, text=None)

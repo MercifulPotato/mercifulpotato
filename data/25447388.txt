@@ -1,1 +1,1 @@
-Item(by='Alupis', descendants=2, kids=[25450348], score=12, time=1608147319, title='How to Choose a Microcontroller', item_type='story', url='https://learn.adafruit.com/how-to-choose-a-microcontroller/overrview', parent=None, text=None)
+Item(by='Alupis', descendants=7, kids=[25453008, 25450348, 25452827], score=18, time=1608147319, title='How to Choose a Microcontroller', item_type='story', url='https://learn.adafruit.com/how-to-choose-a-microcontroller/overrview', parent=None, text=None)
