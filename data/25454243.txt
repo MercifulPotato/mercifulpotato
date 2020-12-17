@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=None, score=None, time=1608200292, title=None, item_type='comment', url=None, parent=25447344, text='There&#x27;s javascript runtimes for MCUs with &lt;16MB of RAM (no, they are not the same as V8 in Chrome&#x2F;Node&#x2F;Electron, but that&#x27;s the point: large range with many possible solution sizes)')

@@ -1,0 +1,1 @@
+Item(by='joana035', descendants=None, kids=[25454436], score=None, time=1608201000, title=None, item_type='comment', url=None, parent=25451830, text='Not really, I have seen CentOS based infrastructure having more problems (xfs breaking docker, frankenkernel 3.10 in 2020?) whereas with Debian things just works and are not heavily patched to the point of breaking ABI.')

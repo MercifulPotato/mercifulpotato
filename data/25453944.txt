@@ -1,0 +1,1 @@
+Item(by='codetrotter', descendants=None, kids=None, score=None, time=1608196623, title=None, item_type='comment', url=None, parent=25453743, text='Probably HN title filtering that did it. They try to prevent titles like “10 facts about cats” etc, automatically removing leading numbers. But sometimes, like here, it doesn’t have quite the intended effect.')

@@ -1,0 +1,1 @@
+Item(by='konjin', descendants=None, kids=[25455360], score=None, time=1608206872, title=None, item_type='comment', url=None, parent=25454769, text='I did one better and put Guix 1.0 in production.<p>It was gone within two weeks of me leaving because no one could understand what the point of it was since you could just use docker.')

@@ -1,1 +1,1 @@
-Item(by='noodlesUK', descendants=None, kids=None, score=None, time=1608187416, title=None, item_type='comment', url=None, parent=25452828, text='Ok, assuming I agreed with facebook’s premise (which I don’t), how does this begin to affect websites rather than apps?')
+Item(by='noodlesUK', descendants=None, kids=[25455430], score=None, time=1608187416, title=None, item_type='comment', url=None, parent=25452828, text='Ok, assuming I agreed with facebook’s premise (which I don’t), how does this begin to affect websites rather than apps?')

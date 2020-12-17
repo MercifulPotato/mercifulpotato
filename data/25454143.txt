@@ -1,0 +1,1 @@
+Item(by='watwut', descendants=None, kids=None, score=None, time=1608198968, title=None, item_type='comment', url=None, parent=25452715, text='No, they use different rating algorithms. Lichess is using Glicko-2. Chess com is using Glicko.')

@@ -1,1 +1,1 @@
-Item(by='chillfox', descendants=None, kids=None, score=None, time=1608165888, title=None, item_type='comment', url=None, parent=25450543, text='I think one of the reasons people don&#x27;t really value &quot;enterprise stability&quot; is because it is mostly a myth.')
+Item(by='chillfox', descendants=None, kids=[25453652], score=None, time=1608165888, title=None, item_type='comment', url=None, parent=25450543, text='I think one of the reasons people don&#x27;t really value &quot;enterprise stability&quot; is because it is mostly a myth.')

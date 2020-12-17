@@ -1,0 +1,1 @@
+Item(by='lights0123', descendants=None, kids=[25455559], score=None, time=1608212144, title=None, item_type='comment', url=None, parent=25455228, text='You can setuid root in a volume mounted in host. If that&#x27;s executed at all by any user, bam you have root on the host.<p>If it&#x27;s never executed, I don&#x27;t know what vulnerabilities they were talking about.')

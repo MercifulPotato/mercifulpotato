@@ -1,1 +1,1 @@
-Item(by='pelasaco', descendants=None, kids=None, score=None, time=1608146764, title=None, item_type='comment', url=None, parent=25445531, text='Well look to the table. The numbers look the same regardless of the president in place.')
+Item(by='pelasaco', descendants=None, kids=[25454102], score=None, time=1608146764, title=None, item_type='comment', url=None, parent=25445531, text='Well look to the table. The numbers look the same regardless of the president in place.')

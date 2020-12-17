@@ -1,1 +1,1 @@
-Item(by='kirse', descendants=None, kids=None, score=None, time=1608178588, title=None, item_type='comment', url=None, parent=25452094, text='Exhibit A-1 would be Siri on every Apple phone, originally a DARPA AI project.')
+Item(by='kirse', descendants=None, kids=[25454389], score=None, time=1608178588, title=None, item_type='comment', url=None, parent=25452094, text='Exhibit A-1 would be Siri on every Apple phone, originally a DARPA AI project.')

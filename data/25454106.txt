@@ -1,0 +1,1 @@
+Item(by='the_why_of_y', descendants=None, kids=None, score=None, time=1608198617, title=None, item_type='comment', url=None, parent=25450020, text='Yes, experimentally since GTK+ 3.2 and Wayland 1.0 protocol since GTK+ 3.8. The backend can be selected with GDK_BACKEND=wayland or GDK_BACKEND=x11 - except in some applications which still force a X11 connection.')

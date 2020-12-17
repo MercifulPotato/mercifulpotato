@@ -1,1 +1,1 @@
-Item(by='pfraze', descendants=None, kids=None, score=None, time=1608149299, title=None, item_type='comment', url=None, parent=25447186, text='Well you know what&#x27;s really tragic: FFOS is a pretty big success. It was forked and became KaiOS, which has decent market-share in India.')
+Item(by='pfraze', descendants=None, kids=[25454602], score=None, time=1608149299, title=None, item_type='comment', url=None, parent=25447186, text='Well you know what&#x27;s really tragic: FFOS is a pretty big success. It was forked and became KaiOS, which has decent market-share in India.')

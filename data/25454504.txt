@@ -1,0 +1,1 @@
+Item(by='presentation', descendants=None, kids=None, score=None, time=1608203514, title=None, item_type='comment', url=None, parent=25454409, text='I agree, the main issue that I’ve had is just that its easy for (usually junior) devs to accidentally make infinite loops with interdependent state + effect hooks. But besides that I would never go back to class components.')

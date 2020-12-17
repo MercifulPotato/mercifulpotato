@@ -1,0 +1,1 @@
+Item(by='latch', descendants=None, kids=None, score=None, time=1608212257, title=None, item_type='comment', url=None, parent=25455154, text='Whatever the issue, it&#x27;s compatibility related, as Elixir&#x27;s PostgreSQL driver (Postgrex) works with PostgreSQL enums but not CockroachDB&#x27;s enums, and it has to do how the driver encodes the values.')

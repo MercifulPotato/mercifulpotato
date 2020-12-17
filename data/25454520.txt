@@ -1,0 +1,1 @@
+Item(by='presentation', descendants=None, kids=None, score=None, time=1608203728, title=None, item_type='comment', url=None, parent=25453770, text='If you use a linter though you can just auto enforce all the rules and back to it being just fine. An extra setup step but tools like create react app bundle ESLint for you already so I don’t mind it.')

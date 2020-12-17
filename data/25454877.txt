@@ -1,0 +1,1 @@
+Item(by='bitwize', descendants=None, kids=[25455212], score=None, time=1608207256, title=None, item_type='comment', url=None, parent=25454728, text='Yes, but if you use &quot;magic constants&quot; in your code, you will flunk code review in any halfway competent shop.<p>Always use the constant symbols.')

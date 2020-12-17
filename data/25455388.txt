@@ -1,0 +1,1 @@
+Item(by='latexr', descendants=None, kids=None, score=None, time=1608212070, title=None, item_type='comment', url=None, parent=25439305, text='That may cause errors or undesirable behaviour. As way of example, dealing with arrays: `read -a` in bash is `read -A` in zsh, and the former’s arrays are zero-based while the latter’s are one-based.')

@@ -1,1 +1,1 @@
-Item(by='hernantz', descendants=128, kids=[25446888, 25446170, 25447194, 25446862, 25446896, 25446113, 25446816, 25450020, 25448187, 25447986], score=241, time=1608141959, title='GTK 4.0 Released', item_type='story', url='https://blog.gtk.org/2020/12/16/gtk-4-0/', parent=None, text=None)
+Item(by='hernantz', descendants=138, kids=[25446888, 25446170, 25447194, 25446862, 25446896, 25446113, 25446816, 25450020, 25448187, 25447986], score=255, time=1608141959, title='GTK 4.0 Released', item_type='story', url='https://blog.gtk.org/2020/12/16/gtk-4-0/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='b0rsuk', descendants=None, kids=None, score=None, time=1608155126, title=None, item_type='comment', url=None, parent=25447906, text='It can also be associated with a &#x27;rocky ride&#x27;. The name doesn&#x27;t bother me in the slightest.')
+Item(by='b0rsuk', descendants=None, kids=[25454714], score=None, time=1608155126, title=None, item_type='comment', url=None, parent=25447906, text='It can also be associated with a &#x27;rocky ride&#x27;. The name doesn&#x27;t bother me in the slightest.')

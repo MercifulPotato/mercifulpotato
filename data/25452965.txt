@@ -1,1 +1,1 @@
-Item(by='siraben', descendants=None, kids=None, score=None, time=1608184258, title=None, item_type='comment', url=None, parent=25452856, text='Wow! The signal is quite clear. How did they produce the AM signals in the PDP-8?')
+Item(by='siraben', descendants=None, kids=[25454880], score=None, time=1608184258, title=None, item_type='comment', url=None, parent=25452856, text='Wow! The signal is quite clear. How did they produce the AM signals in the PDP-8?')

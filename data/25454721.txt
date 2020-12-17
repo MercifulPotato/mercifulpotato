@@ -1,0 +1,1 @@
+Item(by='lenkite', descendants=None, kids=None, score=None, time=1608205763, title=None, item_type='comment', url=None, parent=25428621, text='Prefer environment variables instead of command line options for bash scripts. More readable and maintainable and testable.')

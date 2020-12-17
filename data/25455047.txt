@@ -1,0 +1,1 @@
+Item(by='bonzini', descendants=None, kids=None, score=None, time=1608209070, title=None, item_type='comment', url=None, parent=25454407, text='RHEL maintains a stable ABI for drivers.<p>Plus, there are changes (especially around memory management or scheduling) that are fiendishly hard to do regression testing on, so they are backported more selectively.')

@@ -1,0 +1,1 @@
+Item(by='robviren', descendants=None, kids=None, score=None, time=1608211427, title=None, item_type='comment', url=None, parent=25454387, text='Just ran into this yesterday. What a great solution! I now have WSL2 running graphical linux apps and got a nested VM running with Mojave so I can run osx with macOS-Simple-KVM. I can finally cross compile in a way no one should.')

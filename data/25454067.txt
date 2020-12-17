@@ -1,0 +1,1 @@
+Item(by='ncmncm', descendants=None, kids=None, score=None, time=1608198154, title=None, item_type='comment', url=None, parent=25453300, text='I tried it... SEGFAULT in the client: Null pointer to a port-number arg. I supplied all of the optional arguments...')

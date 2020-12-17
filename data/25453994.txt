@@ -1,0 +1,1 @@
+Item(by='antegamisou', descendants=None, kids=[25454195], score=None, time=1608197335, title=None, item_type='comment', url=None, parent=25453678, text='&gt; glue software engineers<p>Where do you put the line between them and “purist” SWEs?<p>Even Things like<p><pre><code>  #include &lt;stdio.h&gt;\n</code></pre>\nalready make you a gluer.')

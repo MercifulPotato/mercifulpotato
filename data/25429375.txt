@@ -1,1 +1,1 @@
-Item(by='dcu', descendants=1, kids=[25453286], score=4, time=1608032851, title='Ebiten in 2020', item_type='story', url='https://ebiten.org/blog/2020.html', parent=None, text=None)
+Item(by='dcu', descendants=7, kids=[25453869, 25454148, 25453742, 25453471, 25453823, 25453286], score=51, time=1608032851, title='Ebiten in 2020', item_type='story', url='https://ebiten.org/blog/2020.html', parent=None, text=None)

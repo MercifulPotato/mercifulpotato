@@ -1,1 +1,1 @@
-Item(by='phobosanomaly', descendants=None, kids=None, score=None, time=1608186803, title=None, item_type='comment', url=None, parent=25446899, text='Is it possible that less people were actually infected than was expected?')
+Item(by='phobosanomaly', descendants=None, kids=[25455105], score=None, time=1608186803, title=None, item_type='comment', url=None, parent=25446899, text='Is it possible that less people were actually infected than was expected?')

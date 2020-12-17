@@ -1,1 +1,1 @@
-Item(by='nailer', descendants=None, kids=None, score=None, time=1608160073, title=None, item_type='comment', url=None, parent=25445925, text='So does GTK have direct bindings for Wayland, without going through X11 compatibility?')
+Item(by='nailer', descendants=None, kids=[25454106], score=None, time=1608160073, title=None, item_type='comment', url=None, parent=25445925, text='So does GTK have direct bindings for Wayland, without going through X11 compatibility?')

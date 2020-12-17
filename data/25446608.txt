@@ -1,1 +1,1 @@
-Item(by='steveklabnik', descendants=23, kids=[25450774, 25453479, 25451215, 25451583], score=155, time=1608144431, title='State of Rust Survey 2020 results', item_type='story', url='https://blog.rust-lang.org/2020/12/16/rust-survey-2020.html', parent=None, text=None)
+Item(by='steveklabnik', descendants=36, kids=[25450774, 25453479, 25451215, 25451583, 25453769], score=183, time=1608144431, title='State of Rust Survey 2020 results', item_type='story', url='https://blog.rust-lang.org/2020/12/16/rust-survey-2020.html', parent=None, text=None)
