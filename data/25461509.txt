@@ -1,1 +1,1 @@
-Item(by='mrwnmonm', descendants=None, kids=None, score=None, time=1608245058, title=None, item_type='comment', url=None, parent=25461441, text='Man, it literally says &quot;It&#x27;s CSS, with just a little more.&quot; That is not what I mean. I know about less and sass already.')
+Item(by='mrwnmonm', descendants=None, kids=[25464401], score=None, time=1608245058, title=None, item_type='comment', url=None, parent=25461441, text='Man, it literally says &quot;It&#x27;s CSS, with just a little more.&quot; That is not what I mean. I know about less and sass already.')

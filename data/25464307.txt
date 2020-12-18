@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1608270965, title=None, item_type='comment', url=None, parent=25464218, text='This code is identical to<p><pre><code>  let file = file.expect(&quot;file was null&quot;);\n</code></pre>\nThat is, the &quot;expect&quot; method does exactly this.')

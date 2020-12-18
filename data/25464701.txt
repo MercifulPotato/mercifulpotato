@@ -1,0 +1,1 @@
+Item(by='ignoranceprior', descendants=None, kids=None, score=None, time=1608276599, title=None, item_type='comment', url=None, parent=25464687, text='Any HTTP request you can make with a browser can in principle be made with curl. The issue is that seeing content now requires you to jump through lots of hoops, whereas it was previously openly accessible by default.')

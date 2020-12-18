@@ -1,0 +1,1 @@
+Item(by='rsync', descendants=None, kids=None, score=None, time=1608271779, title=None, item_type='comment', url=None, parent=25463120, text='Bonus points:  chflag schg the exe and config files such that they cannot be altered ... or better yet, make it a zfs filesystem and mount it read-only ...')

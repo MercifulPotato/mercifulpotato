@@ -1,1 +1,1 @@
-Item(by='IdiocyInAction', descendants=None, kids=None, score=None, time=1608250811, title=None, item_type='comment', url=None, parent=25460701, text='Cyberpunk looks way better than anything I&#x27;ve ever played. Now way UE3 games could match that with baked lighting.')
+Item(by='IdiocyInAction', descendants=None, kids=[25464398, 25463306], score=None, time=1608250811, title=None, item_type='comment', url=None, parent=25460701, text='Cyberpunk looks way better than anything I&#x27;ve ever played. Now way UE3 games could match that with baked lighting.')

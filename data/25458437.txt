@@ -1,1 +1,1 @@
-Item(by='justincormack', descendants=None, kids=None, score=None, time=1608229122, title=None, item_type='comment', url=None, parent=25455890, text='Docker Hub is not &quot;hardcoded as the only registry you can use&quot; its just the default, you can add stuff from any registry.')
+Item(by='justincormack', descendants=None, kids=[25464186], score=None, time=1608229122, title=None, item_type='comment', url=None, parent=25455890, text='Docker Hub is not &quot;hardcoded as the only registry you can use&quot; its just the default, you can add stuff from any registry.')

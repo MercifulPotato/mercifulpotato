@@ -1,1 +1,1 @@
-Item(by='gk1', descendants=0, kids=None, score=3, time=1608254417, title='WeWork: How the $3.5B Flex Space Giant Is Engineering a Comeback', item_type='story', url='https://sacra.com/research/wework-engineering-a-comeback/', parent=None, text=None)
+Item(by='gk1', descendants=3, kids=[25464244], score=15, time=1608254417, title='WeWork: How the $3.5B Flex Space Giant Is Engineering a Comeback', item_type='story', url='https://sacra.com/research/wework-engineering-a-comeback/', parent=None, text=None)

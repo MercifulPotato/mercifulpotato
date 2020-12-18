@@ -1,1 +1,1 @@
-Item(by='6510', descendants=None, kids=None, score=None, time=1608247068, title=None, item_type='comment', url=None, parent=25461354, text='I have no android device.')
+Item(by='6510', descendants=None, kids=[25464423], score=None, time=1608247068, title=None, item_type='comment', url=None, parent=25461354, text='I have no android device.')

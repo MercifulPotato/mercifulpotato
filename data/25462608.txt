@@ -1,1 +1,1 @@
-Item(by='leashless', descendants=None, kids=None, score=None, time=1608253729, title=None, item_type='comment', url=None, parent=25462605, text='I am, yes. And I love chord keyboards, I used to have a Microwriter AgendA, and I still miss that user interface.')
+Item(by='leashless', descendants=None, kids=[25463147], score=None, time=1608253729, title=None, item_type='comment', url=None, parent=25462605, text='I am, yes. And I love chord keyboards, I used to have a Microwriter AgendA, and I still miss that user interface.')

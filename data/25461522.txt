@@ -1,1 +1,1 @@
-Item(by='moxylush', descendants=None, kids=None, score=None, time=1608245117, title=None, item_type='comment', url=None, parent=25455659, text='How does one star the repo?')
+Item(by='moxylush', descendants=None, kids=[25463283], score=None, time=1608245117, title=None, item_type='comment', url=None, parent=25455659, text='How does one star the repo?')

@@ -1,1 +1,1 @@
-Item(by='pueblito', descendants=None, kids=None, score=None, time=1608224285, title=None, item_type='comment', url=None, parent=25457228, text='Not from advertisements, that’s for sure.')
+Item(by='pueblito', descendants=None, kids=[25464637], score=None, time=1608224285, title=None, item_type='comment', url=None, parent=25457228, text='Not from advertisements, that’s for sure.')

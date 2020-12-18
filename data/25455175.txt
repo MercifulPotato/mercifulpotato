@@ -1,1 +1,1 @@
-Item(by='edward', descendants=1, kids=[25456653], score=11, time=1608210223, title='The Debian web updates its homepage and prepares for a major renewal', item_type='story', url='https://bits.debian.org/2020/12/debian-web-new-homepage.html', parent=None, text=None)
+Item(by='edward', descendants=1, kids=[25456653], score=12, time=1608210223, title='The Debian web updates its homepage and prepares for a major renewal', item_type='story', url='https://bits.debian.org/2020/12/debian-web-new-homepage.html', parent=None, text=None)

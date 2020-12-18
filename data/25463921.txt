@@ -1,0 +1,1 @@
+Item(by='brodie', descendants=None, kids=None, score=None, time=1608266200, title=None, item_type='comment', url=None, parent=25461095, text='Short of breaking backwards compatibility at this point, there’s nothing preventing Git from being as simple as Mercurial CLI-wise. The two projects are nearly identical on a high level.')

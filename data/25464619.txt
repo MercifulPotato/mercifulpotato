@@ -1,0 +1,1 @@
+Item(by='eps', descendants=None, kids=None, score=None, time=1608275698, title=None, item_type='comment', url=None, parent=25462673, text='Beware of setups that verify (i.e. visit) all links in an email upon receiving one. This completely breaks one-time use login links.')

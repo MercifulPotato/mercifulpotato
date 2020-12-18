@@ -1,0 +1,1 @@
+Item(by='ReactiveJelly', descendants=None, kids=None, score=None, time=1608270434, title=None, item_type='comment', url=None, parent=25463494, text='I hope some day auto-save and VCS converge to result in some kind of continuous undo system.<p>Right now the only reason I leave a file unsaved is to act as an extra layer of ad-hoc version control, and it&#x27;s not that good.')

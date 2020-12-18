@@ -1,0 +1,1 @@
+Item(by='moonchild', descendants=None, kids=[25464265], score=None, time=1608268466, title=None, item_type='comment', url=None, parent=25459846, text='<p><pre><code>  function ok_or&lt;T&gt;(x: T | null, msg: string): T {\n          if (x === null) throw new Error(msg);\n          return x;\n  }</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='implr', descendants=None, kids=None, score=None, time=1608277155, title=None, item_type='comment', url=None, parent=25462469, text='On AMD the GPU driver stack is unlikely to be materially different from Stadia, I doubt Google is using anything else than (possibly customized&#x2F;patched) amdgpu+mesa.')

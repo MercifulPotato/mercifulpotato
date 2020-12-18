@@ -1,1 +1,1 @@
-Item(by='faitswulff', descendants=None, kids=None, score=None, time=1608254371, title=None, item_type='comment', url=None, parent=25462557, text='The interesting ones are only supported by chromium browsers.')
+Item(by='faitswulff', descendants=None, kids=[25462826], score=None, time=1608254371, title=None, item_type='comment', url=None, parent=25462557, text='The interesting ones are only supported by chromium browsers.')
