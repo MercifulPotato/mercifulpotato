@@ -1,1 +1,1 @@
-Item(by='seppel', descendants=None, kids=None, score=None, time=1608235937, title=None, item_type='comment', url=None, parent=25456560, text='You can use sqlite with zstd compression (which can be extremely efficient with a shared compression dictionary).')
+Item(by='seppel', descendants=None, kids=[25461931], score=None, time=1608235937, title=None, item_type='comment', url=None, parent=25456560, text='You can use sqlite with zstd compression (which can be extremely efficient with a shared compression dictionary).')

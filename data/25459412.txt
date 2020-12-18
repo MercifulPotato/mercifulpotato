@@ -1,1 +1,1 @@
-Item(by='noja', descendants=None, kids=None, score=None, time=1608233799, title=None, item_type='comment', url=None, parent=25459166, text='I think Hue bulbs can do that out of the box.')
+Item(by='noja', descendants=None, kids=[25461315, 25460580], score=None, time=1608233799, title=None, item_type='comment', url=None, parent=25459166, text='I think Hue bulbs can do that out of the box.')

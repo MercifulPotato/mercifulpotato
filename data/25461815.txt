@@ -1,0 +1,1 @@
+Item(by='ogogmad', descendants=None, kids=[25462774, 25461909], score=None, time=1608247222, title=None, item_type='comment', url=None, parent=25460414, text='Why couldn&#x27;t they use PyPy? The GC for that has higher throughput.')

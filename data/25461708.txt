@@ -1,0 +1,1 @@
+Item(by='matthewbauer', descendants=None, kids=None, score=None, time=1608246451, title=None, item_type='comment', url=None, parent=25459769, text='When I looked at it, it looked like sensors were all polling based. Things like wait until another task completes or this file appears. Is there a way to make them push&#x2F;event based?')

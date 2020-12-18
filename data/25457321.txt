@@ -1,1 +1,1 @@
-Item(by='icedchai', descendants=None, kids=None, score=None, time=1608223870, title=None, item_type='comment', url=None, parent=25455999, text='If you start with the second edition (C89 &#x2F; &quot;ANSI C&quot;), you&#x27;ll discover that C has barely changed.')
+Item(by='icedchai', descendants=None, kids=[25463060], score=None, time=1608223870, title=None, item_type='comment', url=None, parent=25455999, text='If you start with the second edition (C89 &#x2F; &quot;ANSI C&quot;), you&#x27;ll discover that C has barely changed.')

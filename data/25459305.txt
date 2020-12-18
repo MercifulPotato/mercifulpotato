@@ -1,1 +1,1 @@
-Item(by='ryanlol', descendants=None, kids=None, score=None, time=1608233206, title=None, item_type='comment', url=None, parent=25446924, text='Is venmo a “hobby currency” then?')
+Item(by='ryanlol', descendants=None, kids=[25461957], score=None, time=1608233206, title=None, item_type='comment', url=None, parent=25446924, text='Is venmo a “hobby currency” then?')

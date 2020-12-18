@@ -1,1 +1,1 @@
-Item(by='edaemon', descendants=None, kids=None, score=None, time=1608231686, title=None, item_type='comment', url=None, parent=25458284, text='Vercel&#x27;s functions do run at the edge, but Netlify&#x27;s are just AWS Lambda functions.')
+Item(by='edaemon', descendants=None, kids=[25461504], score=None, time=1608231686, title=None, item_type='comment', url=None, parent=25458284, text='Vercel&#x27;s functions do run at the edge, but Netlify&#x27;s are just AWS Lambda functions.')

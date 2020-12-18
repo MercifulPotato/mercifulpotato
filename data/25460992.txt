@@ -1,0 +1,1 @@
+Item(by='richardwhiuk', descendants=None, kids=[25461050], score=None, time=1608241943, title=None, item_type='comment', url=None, parent=25460948, text='The former code is more equivalent to:<p><pre><code>  let file = match file {\n    Some(file) =&gt; file,\n    None =&gt; panic!(&quot;file was null&quot;);\n  };</code></pre>')

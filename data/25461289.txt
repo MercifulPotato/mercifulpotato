@@ -1,0 +1,1 @@
+Item(by='jgalt212', descendants=None, kids=None, score=None, time=1608243709, title=None, item_type='comment', url=None, parent=25459165, text='If you get a bad merge, why not just layer on a series of diffs?  In short, a pijul&#x2F;diff based front end merge tool to git, hg, etc to assist with any challenging merges.')

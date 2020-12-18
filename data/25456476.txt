@@ -1,1 +1,1 @@
-Item(by='oblio', descendants=None, kids=None, score=None, time=1608219373, title=None, item_type='comment', url=None, parent=25455651, text='I think in Romanian, due to import of US equipment (PCs, keyboards, etc.), we&#x27;ve just given up. We just use &quot; &quot; everywhere.')
+Item(by='oblio', descendants=None, kids=[25462462], score=None, time=1608219373, title=None, item_type='comment', url=None, parent=25455651, text='I think in Romanian, due to import of US equipment (PCs, keyboards, etc.), we&#x27;ve just given up. We just use &quot; &quot; everywhere.')

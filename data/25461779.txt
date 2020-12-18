@@ -1,0 +1,1 @@
+Item(by='dimberman', descendants=None, kids=None, score=None, time=1608246914, title=None, item_type='comment', url=None, parent=25461643, text='On the OSS side we have a helm chart that is heavily based on the one we use at Astronomer. That should hopefully get you started (or you can reach out to astro and someone will help out with a demo if you want help on that)')

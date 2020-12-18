@@ -1,0 +1,1 @@
+Item(by='jolmg', descendants=None, kids=None, score=None, time=1608245033, title=None, item_type='comment', url=None, parent=25461350, text='rot13 executables not available in all distros apparently. In Archlinux, bsd-games has caesar to which you can pass 13 as an argument, though.')

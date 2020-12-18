@@ -1,1 +1,1 @@
-Item(by='doanerock', descendants=None, kids=None, score=None, time=1608233443, title=None, item_type='comment', url=None, parent=25459179, text='The s-1 should have all that information.')
+Item(by='doanerock', descendants=None, kids=[25460151], score=None, time=1608233443, title=None, item_type='comment', url=None, parent=25459179, text='The s-1 should have all that information.')

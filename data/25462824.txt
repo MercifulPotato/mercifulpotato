@@ -1,0 +1,1 @@
+Item(by='heavyset_go', descendants=None, kids=None, score=None, time=1608255561, title=None, item_type='comment', url=None, parent=25462409, text='&gt; <i>I can’t even get linux to install. It won’t seem to boot to a usb.</i><p>Install rEFInd and look for Linux images that will boot on machines with 32-bit EFI. Debian has one.')

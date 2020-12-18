@@ -1,0 +1,1 @@
+Item(by='dpedu', descendants=None, kids=[25462976], score=None, time=1608256023, title=None, item_type='comment', url=None, parent=25462758, text='Just curious - what format are the user IDs? I thought they may have been IP addresses simply converted to an int, but if that&#x27;s the case it&#x27;s been done in a way I can&#x27;t reverse.')

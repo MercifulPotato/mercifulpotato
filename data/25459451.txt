@@ -1,1 +1,1 @@
-Item(by='uptown', descendants=0, kids=None, score=1, time=1608234018, title='Changes at Twit for 2021', item_type='story', url='https://twit.tv/posts/inside-twit/changes-twit-2021', parent=None, text=None)
+Item(by='uptown', descendants=1, kids=[25459995], score=2, time=1608234018, title='Changes at Twit for 2021', item_type='story', url='https://twit.tv/posts/inside-twit/changes-twit-2021', parent=None, text=None)

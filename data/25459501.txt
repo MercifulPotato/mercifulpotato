@@ -1,1 +1,1 @@
-Item(by='sz3', descendants=1, kids=[25459529], score=1, time=1608234272, title='Show HN: Cimbar – File transfer via color barcodes and the (Android) camera', item_type='story', url='https://github.com/sz3/libcimbar', parent=None, text=None)
+Item(by='sz3', descendants=5, kids=[25459529, 25461173], score=22, time=1608234272, title='Show HN: Cimbar – File transfer via color barcodes and the Android camera', item_type='story', url='https://github.com/sz3/libcimbar', parent=None, text=None)

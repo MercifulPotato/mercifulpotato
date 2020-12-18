@@ -1,0 +1,1 @@
+Item(by='etaioinshrdlu', descendants=None, kids=None, score=None, time=1608247124, title=None, item_type='comment', url=None, parent=25461401, text='They could just store certain variables explicitly like they do for these ones: logged_in=no; tz=America%2FLos_Angeles<p>It could get rather big of course.\nThey could not store sessions on the backend for anonymous users.')

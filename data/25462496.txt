@@ -1,0 +1,1 @@
+Item(by='ALittleLight', descendants=None, kids=None, score=None, time=1608252737, title=None, item_type='comment', url=None, parent=25462366, text='Can you try now?  I modified the client side regex to make it much more permissive.  I was able to successfully submit a few with .network, .land, and .live.')

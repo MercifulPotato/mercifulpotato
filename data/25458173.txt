@@ -1,1 +1,1 @@
-Item(by='alexrustic', descendants=0, kids=None, score=2, time=1608227925, title="Google AI team demands changes after Dr. Timnit Gebru's departure", item_type='story', url='https://www.engadget.com/google-ethical-ai-team-letter-174518115.html', parent=None, text=None)
+Item(by='alexrustic', descendants=1, kids=[25460340], score=2, time=1608227925, title="Google AI team demands changes after Dr. Timnit Gebru's departure", item_type='story', url='https://www.engadget.com/google-ethical-ai-team-letter-174518115.html', parent=None, text=None)

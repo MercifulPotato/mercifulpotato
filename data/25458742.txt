@@ -1,1 +1,1 @@
-Item(by='craigkerstiens', descendants=0, kids=None, score=2, time=1608230561, title='Using Pl/PgSQL to Calculate New Postgres Columns', item_type='story', url='https://info.crunchydata.com/blog/using-pl/pgsql-to-calculate-new-postgres-columns', parent=None, text=None)
+Item(by='craigkerstiens', descendants=0, kids=None, score=3, time=1608230561, title='Using Pl/PgSQL to Calculate New Postgres Columns', item_type='story', url='https://info.crunchydata.com/blog/using-pl/pgsql-to-calculate-new-postgres-columns', parent=None, text=None)

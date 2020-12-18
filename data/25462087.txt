@@ -1,0 +1,1 @@
+Item(by='mickotron', descendants=None, kids=None, score=None, time=1608249112, title=None, item_type='comment', url=None, parent=25454387, text='WSL is nice but still lacking. I prefer Windows VM on Linux host.<p>One thing I do like is the 9p &quot;interface&quot; between Windows host and WSL, and the improvements they made to file sharing between the two.')

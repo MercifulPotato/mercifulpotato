@@ -1,1 +1,1 @@
-Item(by='geerlingguy', descendants=1, kids=[25459542], score=1, time=1608234392, title='The Raspberry Pi Compute Module 4 Is Hard to Get', item_type='story', url='https://www.youtube.com/watch?v=ZZ2ub2RZ0o8', parent=None, text=None)
+Item(by='geerlingguy', descendants=2, kids=[25459542, 25459703], score=1, time=1608234392, title='The Raspberry Pi Compute Module 4 Is Hard to Get', item_type='story', url='https://www.youtube.com/watch?v=ZZ2ub2RZ0o8', parent=None, text=None)

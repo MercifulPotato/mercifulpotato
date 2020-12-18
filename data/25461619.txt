@@ -1,0 +1,1 @@
+Item(by='srcreigh', descendants=None, kids=[25462494], score=None, time=1608245710, title=None, item_type='comment', url=None, parent=25460339, text='The tsdef library has a Nilable&lt;T&gt; type that means T | undefined | null. It&#x27;s not so bad to type with a snippet like ?&lt;tab&gt; =&gt; Nilable&lt;|&gt;.')

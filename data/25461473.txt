@@ -1,0 +1,1 @@
+Item(by='cperciva', descendants=None, kids=None, score=None, time=1608244867, title=None, item_type='comment', url=None, parent=25460837, text='When FreeBSD switched from CVS to SVN, git wasn&#x27;t able to handle repositories the size of the FreeBSD tree.<p>Significant improvements have been made over the past decade.')

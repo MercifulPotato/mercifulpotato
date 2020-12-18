@@ -1,0 +1,1 @@
+Item(by='terrelln', descendants=None, kids=None, score=None, time=1608241462, title=None, item_type='comment', url=None, parent=25460282, text='You&#x27;re right that a totally fair comparison would use zstd. I didn&#x27;t personally run these benchmarks, but I believe that the dominate time was computing the binary subtraction mappings, so I would expect similar results.')

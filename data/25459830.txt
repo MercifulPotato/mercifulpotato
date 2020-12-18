@@ -1,1 +1,1 @@
-Item(by='simonbarker87', descendants=None, kids=None, score=None, time=1608236215, title=None, item_type='comment', url=None, parent=25459793, text='Which SDK&#x2F;package did you use for Firebase and React? There seem to be half a dozen and ReactFire the most dated?')
+Item(by='simonbarker87', descendants=None, kids=[25462230, 25459998], score=None, time=1608236215, title=None, item_type='comment', url=None, parent=25459793, text='Which SDK&#x2F;package did you use for Firebase and React? There seem to be half a dozen and ReactFire the most dated?')

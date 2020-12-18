@@ -1,0 +1,1 @@
+Item(by='uxamanda', descendants=None, kids=[25462337], score=None, time=1608251050, title=None, item_type='comment', url=None, parent=25461367, text='The Stumble button was hidden at my screensize which was a little confusing :-). Looks like removing `.wholePageContainer{height: 100vh;}` fixes the issue and keeps the buttons from stacking on top of each other.')

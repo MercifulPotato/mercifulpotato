@@ -1,1 +1,1 @@
-Item(by='James_Henry', descendants=None, kids=None, score=None, time=1608230826, title=None, item_type='comment', url=None, parent=25458264, text='Does the book give sources for this? And do those sources actually support this claim? It doesn&#x27;t sound completely correct.')
+Item(by='James_Henry', descendants=None, kids=[25460541], score=None, time=1608230826, title=None, item_type='comment', url=None, parent=25458264, text='Does the book give sources for this? And do those sources actually support this claim? It doesn&#x27;t sound completely correct.')

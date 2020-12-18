@@ -1,0 +1,1 @@
+Item(by='ehutch79', descendants=None, kids=None, score=None, time=1608249682, title=None, item_type='comment', url=None, parent=25462157, text='on the front end i just hit that check_token endpoint every five minutes or so.<p>I&#x27;m really not sure that a refresh token on the front end actually provides that much security.<p>Also, this is all just one way of doing it.')

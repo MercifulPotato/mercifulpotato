@@ -1,1 +1,1 @@
-Item(by='BigGreenTurtle', descendants=None, kids=None, score=None, time=1608223565, title=None, item_type='comment', url=None, parent=25452624, text='Because this is a political act rather than one based on principal.')
+Item(by='BigGreenTurtle', descendants=None, kids=[25460676], score=None, time=1608223565, title=None, item_type='comment', url=None, parent=25452624, text='Because this is a political act rather than one based on principal.')
