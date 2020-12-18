@@ -1,0 +1,1 @@
+Item(by='simonh', descendants=None, kids=None, score=None, time=1608294226, title=None, item_type='comment', url=None, parent=25465677, text='They actually did this in the M1 for retain&#x2F;release for Objective-C and Swift objects. It&#x27;s an extremely common operation on the platform and is 4x faster on M1 natively, and still 2x faster than native Intel under Rosetta.')

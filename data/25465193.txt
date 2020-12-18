@@ -1,0 +1,1 @@
+Item(by='dizzydiz', descendants=0, kids=None, score=1, time=1608281944, title='Ask HN: How to build the fastest possible scrape API?', item_type='story', url=None, parent=None, text='Is there any tricks I can use to beat a time of 5-7s for an API that takes parameters and gathers elements from a set of webpages in parallel?')

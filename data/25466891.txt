@@ -1,0 +1,1 @@
+Item(by='bluGill', descendants=None, kids=None, score=None, time=1608298589, title=None, item_type='comment', url=None, parent=25465784, text='The problem is those branches CAN be taken, otherwise the compiler would optimize them out. So now SQLite needs to figure out how to cause them to be taken to verify that the right thing happens.')

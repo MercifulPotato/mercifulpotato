@@ -1,1 +1,1 @@
-Item(by='lmm', descendants=None, kids=None, score=None, time=1608257350, title=None, item_type='comment', url=None, parent=25454363, text='Instead of a triangular piston in an oval chamber it&#x27;s an oval piston in a triangular chamber. Seems pretty inside out to me.')
+Item(by='lmm', descendants=None, kids=[25466318], score=None, time=1608257350, title=None, item_type='comment', url=None, parent=25454363, text='Instead of a triangular piston in an oval chamber it&#x27;s an oval piston in a triangular chamber. Seems pretty inside out to me.')

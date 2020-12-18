@@ -1,0 +1,1 @@
+Item(by='fpoling', descendants=None, kids=[25467070], score=None, time=1608281608, title=None, item_type='comment', url=None, parent=25464353, text='I do not agree about JSON. As a format it is so trivial one can cover it with few test cases. SQL dialect that SQLite uses is vastly more complex.')

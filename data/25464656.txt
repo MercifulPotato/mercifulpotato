@@ -1,1 +1,1 @@
-Item(by='ineedasername', descendants=None, kids=None, score=None, time=1608276080, title=None, item_type='comment', url=None, parent=25463962, text='Making it harder for users to review &amp; inspect update installation packages <i>does</i> affect user freedom.')
+Item(by='ineedasername', descendants=None, kids=[25465735, 25465120], score=None, time=1608276080, title=None, item_type='comment', url=None, parent=25463962, text='Making it harder for users to review &amp; inspect update installation packages <i>does</i> affect user freedom.')

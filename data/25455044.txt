@@ -1,1 +1,1 @@
-Item(by='giuliomagnifico', descendants=0, kids=None, score=2, time=1608209032, title="Teardown: Identifying Apple M1's distinct circuit blocks", item_type='story', url='https://www.eetasia.com/teardown-identifying-apple-m1s-distinct-circuit-blocks/', parent=None, text=None)
+Item(by='giuliomagnifico', descendants=19, kids=[25467221, 25464986, 25465820], score=43, time=1608209032, title="Teardown: Identifying Apple M1's distinct circuit blocks", item_type='story', url='https://www.eetasia.com/teardown-identifying-apple-m1s-distinct-circuit-blocks/', parent=None, text=None)

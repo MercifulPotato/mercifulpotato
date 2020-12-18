@@ -1,0 +1,1 @@
+Item(by='Doxin', descendants=None, kids=None, score=None, time=1608286192, title=None, item_type='comment', url=None, parent=25462774, text='Pypy <i>does</i> support C extensions, but it has to somewhat emulate the cpython API so it&#x27;s rather slow and doesn&#x27;t work for 100% of modules.<p>If your C library uses FFI or Ctypes it&#x27;ll work perfectly fine under pypy.')

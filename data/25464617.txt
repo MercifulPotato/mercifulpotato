@@ -1,1 +1,1 @@
-Item(by='touisteur', descendants=0, kids=None, score=1, time=1608275685, title='Advanced Fuzz Testing with AFL++ 3.0', item_type='story', url='https://blog.adacore.com/advanced-fuzz-testing-with-aflplusplus-3-00', parent=None, text=None)
+Item(by='touisteur', descendants=1, kids=[25465968], score=3, time=1608275685, title='Advanced Fuzz Testing with AFL++ 3.0', item_type='story', url='https://blog.adacore.com/advanced-fuzz-testing-with-aflplusplus-3-00', parent=None, text=None)

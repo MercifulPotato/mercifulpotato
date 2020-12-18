@@ -1,1 +1,1 @@
-Item(by='mrharrison', descendants=None, kids=None, score=None, time=1608235885, title=None, item_type='comment', url=None, parent=25459745, text='Over time, institutions will create their own integrations.  They don&#x27;t need a middle man, when there is something like Uniswap.')
+Item(by='mrharrison', descendants=None, kids=[25465137], score=None, time=1608235885, title=None, item_type='comment', url=None, parent=25459745, text='Over time, institutions will create their own integrations.  They don&#x27;t need a middle man, when there is something like Uniswap.')

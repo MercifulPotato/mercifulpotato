@@ -1,0 +1,1 @@
+Item(by='mbreese', descendants=None, kids=None, score=None, time=1608288141, title=None, item_type='comment', url=None, parent=25463846, text='It can be common to use thread-local variables to store state for a single WGSI request. I can&#x27;t say I&#x27;d recommend that either, but that&#x27;s the most common use-case I&#x27;ve seen for something like that.')

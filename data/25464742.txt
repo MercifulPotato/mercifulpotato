@@ -1,1 +1,1 @@
-Item(by='birdyrooster', descendants=None, kids=None, score=None, time=1608277009, title=None, item_type='comment', url=None, parent=25457440, text='This caused me to order delivery from a cookie shop. It&#x27;s like no, I actually would like a cookie right now.')
+Item(by=None, descendants=None, kids=None, score=None, time=1608277009, title=None, item_type='comment', url=None, parent=25457440, text=None)

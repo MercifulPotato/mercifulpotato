@@ -1,0 +1,1 @@
+Item(by='teleforce', descendants=None, kids=None, score=None, time=1608280941, title=None, item_type='comment', url=None, parent=25462814, text='Why not go to the extreme and just use TileDB for all the documents? By using it you can utilize universal storage engine supporting Arrow format that should work with SQL, NoSQL, dataframe and even streaming systems.')

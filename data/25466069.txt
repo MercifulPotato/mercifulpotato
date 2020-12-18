@@ -1,0 +1,1 @@
+Item(by='galgalesh', descendants=None, kids=[25466176, 25466174], score=None, time=1608290962, title=None, item_type='comment', url=None, parent=25465924, text='SQLite tries to detect when the database is on a network share and changes it&#x27;s behavior accordingly.')
