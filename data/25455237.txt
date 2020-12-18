@@ -1,1 +1,1 @@
-Item(by='samizdis', descendants=0, kids=None, score=9, time=1608210733, title='Toxicological analysis of George’s marvellous medicine: literature review', item_type='story', url='https://www.bmj.com/content/371/bmj.m4467', parent=None, text=None)
+Item(by='samizdis', descendants=1, kids=[25470499], score=22, time=1608210733, title='Toxicological analysis of George’s marvellous medicine: literature review', item_type='story', url='https://www.bmj.com/content/371/bmj.m4467', parent=None, text=None)

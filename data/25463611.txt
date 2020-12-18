@@ -1,1 +1,1 @@
-Item(by='offtop5', descendants=None, kids=None, score=None, time=1608263491, title=None, item_type='comment', url=None, parent=25460276, text='Is CRDB that much better to justify all of this.<p>Getting your boss to buy into a new tech is hard enough')
+Item(by='offtop5', descendants=None, kids=[25471089], score=None, time=1608263491, title=None, item_type='comment', url=None, parent=25460276, text='Is CRDB that much better to justify all of this.<p>Getting your boss to buy into a new tech is hard enough')

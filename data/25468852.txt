@@ -1,0 +1,1 @@
+Item(by='bufferoverflow', descendants=None, kids=None, score=None, time=1608309862, title=None, item_type='comment', url=None, parent=25464399, text='Your development shouldn&#x27;t depend on one PC. Code in git, DB in backups. You should be able to restore your dev state very quickly from scratch. You could even use Docker.')

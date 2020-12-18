@@ -1,1 +1,1 @@
-Item(by='rasz', descendants=None, kids=None, score=None, time=1608265081, title=None, item_type='comment', url=None, parent=25458636, text='Like Intel ones? hint: they are defective and all die. Its like buying used tires for your daily driver.')
+Item(by='rasz', descendants=None, kids=[25470648], score=None, time=1608265081, title=None, item_type='comment', url=None, parent=25458636, text='Like Intel ones? hint: they are defective and all die. Its like buying used tires for your daily driver.')

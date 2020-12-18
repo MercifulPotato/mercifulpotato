@@ -1,1 +1,1 @@
-Item(by='tdeck', descendants=None, kids=None, score=None, time=1608277480, title=None, item_type='comment', url=None, parent=25462437, text='Your wife should file a chargeback. It&#x27;s not a difficult process and it somewhat favors the cardholder.')
+Item(by='tdeck', descendants=None, kids=[25471030], score=None, time=1608277480, title=None, item_type='comment', url=None, parent=25462437, text='Your wife should file a chargeback. It&#x27;s not a difficult process and it somewhat favors the cardholder.')

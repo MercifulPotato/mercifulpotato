@@ -1,0 +1,1 @@
+Item(by='potench', descendants=None, kids=[25468257, 25468420], score=None, time=1608305402, title=None, item_type='comment', url=None, parent=25467272, text='You can use Prebid Server to provide ad competition on AMP.  So I would imagine that it’s less about competition and more about removing the very negative web performance impact of JS header bidding.')

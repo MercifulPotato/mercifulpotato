@@ -1,1 +1,1 @@
-Item(by='chrismcb', descendants=None, kids=None, score=None, time=1608263648, title=None, item_type='comment', url=None, parent=25460222, text='And yet half the reviews seem to be about shipping or something')
+Item(by='chrismcb', descendants=None, kids=[25468464], score=None, time=1608263648, title=None, item_type='comment', url=None, parent=25460222, text='And yet half the reviews seem to be about shipping or something')

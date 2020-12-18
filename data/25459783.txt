@@ -1,1 +1,1 @@
-Item(by='mighty-fine', descendants=0, kids=None, score=3, time=1608235947, title='Leaving the Grace of This World', item_type='story', url='https://www.outsideonline.com/2419515/leaving-grace-world', parent=None, text=None)
+Item(by='mighty-fine', descendants=5, kids=[25470160, 25469665, 25469583], score=23, time=1608235947, title='Leaving the Grace of This World', item_type='story', url='https://www.outsideonline.com/2419515/leaving-grace-world', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='natfriedman', descendants=None, kids=None, score=None, time=1608276910, title=None, item_type='comment', url=None, parent=25457691, text='Those locations come entirely from public profile bios, as provided by the user.')
+Item(by='natfriedman', descendants=None, kids=[25469331], score=None, time=1608276910, title=None, item_type='comment', url=None, parent=25457691, text='Those locations come entirely from public profile bios, as provided by the user.')

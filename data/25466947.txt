@@ -1,1 +1,1 @@
-Item(by='panpanna', descendants=None, kids=None, score=None, time=1608298996, title=None, item_type='comment', url=None, parent=25466536, text='Most (&gt; 98%?) supercomputers run Linux. Has been so for many years.')
+Item(by='panpanna', descendants=None, kids=[25467473, 25470045], score=None, time=1608298996, title=None, item_type='comment', url=None, parent=25466536, text='Most (&gt; 98%?) supercomputers run Linux. Has been so for many years.')

@@ -1,0 +1,1 @@
+Item(by='thrower123', descendants=None, kids=None, score=None, time=1608309598, title=None, item_type='comment', url=None, parent=25466552, text='I&#x27;m always impressed by how strong the WebStorm intellisense is on pure javascript projects.  Somehow it mostly gets jump-to-definition right, even in AngularJS tarpits that are full of ngInject magic.')

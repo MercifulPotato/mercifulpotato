@@ -1,1 +1,1 @@
-Item(by='airstrike', descendants=None, kids=[25446933, 25445719], score=None, time=1608140527, title=None, item_type='comment', url=None, parent=25444377, text='Honest question from a layman: what happens with the AWS-flavored CentOS now that the upstream distro was dropped?')
+Item(by='airstrike', descendants=None, kids=[25445719, 25446933], score=None, time=1608140527, title=None, item_type='comment', url=None, parent=25444377, text='Honest question from a layman: what happens with the AWS-flavored CentOS now that the upstream distro was dropped?')

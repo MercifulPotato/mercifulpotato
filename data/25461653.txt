@@ -1,1 +1,1 @@
-Item(by='pseudalopex', descendants=None, kids=None, score=None, time=1608246018, title=None, item_type='comment', url=None, parent=25456133, text='She didn&#x27;t offer to resign immediately.')
+Item(by='pseudalopex', descendants=None, kids=[25470510], score=None, time=1608246018, title=None, item_type='comment', url=None, parent=25456133, text='She didn&#x27;t offer to resign immediately.')

@@ -1,0 +1,1 @@
+Item(by='ottobahn', descendants=None, kids=None, score=None, time=1608301405, title=None, item_type='comment', url=None, parent=25467327, text='Hi! I am working on a cross platform skeleton loader and would love to hear your feedback. It does not rely on SVGs like other skeletons so the API is consistent across mobile and web. Would love to know your thoughts. Thanks!')

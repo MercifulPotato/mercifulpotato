@@ -1,1 +1,1 @@
-Item(by='oneeyedpigeon', descendants=None, kids=None, score=None, time=1608300263, title=None, item_type='comment', url=None, parent=25467082, text='Not in Poland.')
+Item(by='oneeyedpigeon', descendants=None, kids=[25468149], score=None, time=1608300263, title=None, item_type='comment', url=None, parent=25467082, text='Not in Poland.')

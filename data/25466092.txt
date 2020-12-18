@@ -1,1 +1,1 @@
-Item(by='headmelted', descendants=None, kids=None, score=None, time=1608291230, title=None, item_type='comment', url=None, parent=25465370, text='Not sure if this was in jest, but a single not-targeted-against-my-personal-data link in a footer is not what I had in mind.')
+Item(by='headmelted', descendants=None, kids=[25470807], score=None, time=1608291230, title=None, item_type='comment', url=None, parent=25465370, text='Not sure if this was in jest, but a single not-targeted-against-my-personal-data link in a footer is not what I had in mind.')

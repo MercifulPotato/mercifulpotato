@@ -1,1 +1,1 @@
-Item(by='PZ81JUXJE7uJ', descendants=None, kids=None, score=None, time=1608294848, title=None, item_type='comment', url=None, parent=25466356, text='YouTrack is pretty slow.')
+Item(by='PZ81JUXJE7uJ', descendants=None, kids=[25468336], score=None, time=1608294848, title=None, item_type='comment', url=None, parent=25466356, text='YouTrack is pretty slow.')

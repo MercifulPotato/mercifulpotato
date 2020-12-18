@@ -1,0 +1,1 @@
+Item(by='velomash', descendants=None, kids=None, score=None, time=1608314113, title=None, item_type='comment', url=None, parent=25466995, text='These days it&#x27;s a security concern to allow any random site to iFrame your property due to clickjacking. This is why you see X-Frame-Options headers blocking &#x2F; whitelisting who can iFrame sites.')
