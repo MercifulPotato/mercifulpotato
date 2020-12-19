@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=8, time=1608322450, title='New Features in CMake 3.19', item_type='story', url='https://www.qt.io/blog/new-features-in-cmake-3.19', parent=None, text=None)
+Item(by='todsacerdoti', descendants=1, kids=[25477235], score=14, time=1608322450, title='New Features in CMake 3.19', item_type='story', url='https://www.qt.io/blog/new-features-in-cmake-3.19', parent=None, text=None)

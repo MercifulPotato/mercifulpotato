@@ -1,1 +1,1 @@
-Item(by='bawolff', descendants=None, kids=None, score=None, time=1608359585, title=None, item_type='comment', url=None, parent=25475256, text='What doesn&#x27;t work about it?<p>Being ethical and getting results are not the same thing.')
+Item(by='bawolff', descendants=None, kids=[25475989], score=None, time=1608359585, title=None, item_type='comment', url=None, parent=25475256, text='What doesn&#x27;t work about it?<p>Being ethical and getting results are not the same thing.')

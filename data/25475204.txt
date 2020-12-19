@@ -1,1 +1,1 @@
-Item(by='rolph', descendants=1, kids=[25475482], score=2, time=1608354167, title='Internet-in-a-Box', item_type='story', url='https://github.com/iiab', parent=None, text=None)
+Item(by='rolph', descendants=2, kids=[25475482], score=3, time=1608354167, title='Internet-in-a-Box', item_type='story', url='https://github.com/iiab', parent=None, text=None)

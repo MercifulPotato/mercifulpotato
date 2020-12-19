@@ -1,1 +1,1 @@
-Item(by='tpmx', descendants=None, kids=None, score=None, time=1608336801, title=None, item_type='comment', url=None, parent=25473151, text='I kinda thought the sentence within the parentheses explained it all.')
+Item(by='tpmx', descendants=None, kids=[25477214], score=None, time=1608336801, title=None, item_type='comment', url=None, parent=25473151, text='I kinda thought the sentence within the parentheses explained it all.')

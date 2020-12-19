@@ -1,0 +1,1 @@
+Item(by='CyberRabbi', descendants=None, kids=[25477123, 25477206], score=None, time=1608381495, title=None, item_type='comment', url=None, parent=25477053, text='Running untrusted code in a wasm vm doesn’t add any extra defense over just using seccomp. It just adds unnecessary overhead and increases attack surface.')

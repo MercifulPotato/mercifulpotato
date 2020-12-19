@@ -1,1 +1,1 @@
-Item(by='morelisp', descendants=None, kids=None, score=None, time=1608365017, title=None, item_type='comment', url=None, parent=25475521, text='I don&#x27;t know, I think it&#x27;s probably more helpful to cape for historical knowledge than for a multi-millionaire author.')
+Item(by='morelisp', descendants=None, kids=[25476111], score=None, time=1608365017, title=None, item_type='comment', url=None, parent=25475521, text='I don&#x27;t know, I think it&#x27;s probably more helpful to cape for historical knowledge than for a multi-millionaire author.')

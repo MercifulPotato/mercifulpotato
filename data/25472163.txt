@@ -1,1 +1,1 @@
-Item(by='XMPPwocky', descendants=None, kids=None, score=None, time=1608326260, title=None, item_type='comment', url=None, parent=25465909, text='None of those questions seem to be relevant to whether or not there was some sort of smart device involved.')
+Item(by='XMPPwocky', descendants=None, kids=[25476379], score=None, time=1608326260, title=None, item_type='comment', url=None, parent=25465909, text='None of those questions seem to be relevant to whether or not there was some sort of smart device involved.')

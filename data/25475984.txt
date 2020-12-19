@@ -1,0 +1,1 @@
+Item(by='ptr', descendants=None, kids=[25476042], score=None, time=1608365513, title=None, item_type='comment', url=None, parent=25475856, text='While I do like me some good meta-reasoning, at least I have an argument for shorter function names:\nShort names are read in O(1) while longer are O(n) (unless the name can be simplified as “the function with the long name”)')

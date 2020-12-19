@@ -1,0 +1,1 @@
+Item(by='aleph1', descendants=None, kids=[25476876], score=None, time=1608365328, title=None, item_type='comment', url=None, parent=25473941, text='This <i>could</i> be caused by Google not recognizing and blocking Thunderbird&#x27;s default user agent; try toggling general.useragent.compatMode.firefox to true (which basically has TB emulate Firefox&#x27;s user agent)')

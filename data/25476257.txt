@@ -1,0 +1,1 @@
+Item(by='malux85', descendants=None, kids=None, score=None, time=1608369287, title=None, item_type='comment', url=None, parent=25469708, text='It’s a trade off - DRY vs abstract Dependency, are they superficially familiar (then don’t create a unnecessary dependency) or are they functionally familiar? Then DRY')

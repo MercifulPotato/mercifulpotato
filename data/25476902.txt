@@ -1,0 +1,1 @@
+Item(by='feanaro', descendants=None, kids=[25476950], score=None, time=1608379346, title=None, item_type='comment', url=None, parent=25476855, text='Shopify is already a known seccomp user (for running Ruby in the mruby VM), so I think there&#x27;s no reason to assume the WebAssembly runtime is not in a seccomp jail too.')

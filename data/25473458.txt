@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=7, kids=[25475737, 25475801, 25475417, 25475308, 25474763], score=44, time=1608334568, title='A modern port of Turbo Vision 2.0', item_type='story', url='https://github.com/magiblot/tvision', parent=None, text=None)
+Item(by='pjmlp', descendants=13, kids=[25476345, 25475737, 25476697, 25475417, 25475308, 25476662, 25476331, 25475801, 25474763], score=81, time=1608334568, title='A modern port of Turbo Vision 2.0', item_type='story', url='https://github.com/magiblot/tvision', parent=None, text=None)

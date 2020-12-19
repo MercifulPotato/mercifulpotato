@@ -1,1 +1,1 @@
-Item(by='parsecs', descendants=1, kids=[25475496], score=22, time=1608316508, title='VMware Flaw a Vector in SolarWinds Breach?', item_type='story', url='https://krebsonsecurity.com/2020/12/vmware-flaw-a-vector-in-solarwinds-breach/', parent=None, text=None)
+Item(by='parsecs', descendants=3, kids=[25475496], score=30, time=1608316508, title='VMware Flaw a Vector in SolarWinds Breach?', item_type='story', url='https://krebsonsecurity.com/2020/12/vmware-flaw-a-vector-in-solarwinds-breach/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='holler', descendants=None, kids=None, score=None, time=1608323113, title=None, item_type='comment', url=None, parent=25471445, text='It is a challenge to get something optimal for _most_ people! But I&#x27;d like to hear feedback and adjust if necessary. Thank you!')
+Item(by='holler', descendants=None, kids=[25476094], score=None, time=1608323113, title=None, item_type='comment', url=None, parent=25471445, text='It is a challenge to get something optimal for _most_ people! But I&#x27;d like to hear feedback and adjust if necessary. Thank you!')

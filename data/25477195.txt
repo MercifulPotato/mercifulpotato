@@ -1,0 +1,1 @@
+Item(by='feanaro', descendants=None, kids=[25477254], score=None, time=1608383539, title=None, item_type='comment', url=None, parent=25477163, text='&gt; Using wasm in addition to seccomp strictly increases your attack surface. If you want to maximize security you would only use seccomp.<p>Huh? How so?')

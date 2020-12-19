@@ -1,0 +1,1 @@
+Item(by='CyberRabbi', descendants=None, kids=None, score=None, time=1608383722, title=None, item_type='comment', url=None, parent=25477123, text='Running code in a wasm vm doesn’t magically prevent user code from exploiting uarch bugs. Lucet specifically does not mitigate spectre variant 2.')

@@ -1,1 +1,1 @@
-Item(by='anigbrowl', descendants=0, kids=None, score=2, time=1608358855, title="Why Johnny can't tell if he is compromised (2014)", item_type='story', url='https://docs.google.com/presentation/d/1dRk1czhS0FSNcWEFdRea2_QN7AVuGFLjxL-7gEXBe7w/edit#slide=id.p', parent=None, text=None)
+Item(by='anigbrowl', descendants=1, kids=[25475928], score=5, time=1608358855, title="Why Johnny can't tell if he is compromised (2014)", item_type='story', url='https://docs.google.com/presentation/d/1dRk1czhS0FSNcWEFdRea2_QN7AVuGFLjxL-7gEXBe7w/edit#slide=id.p', parent=None, text=None)

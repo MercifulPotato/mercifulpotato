@@ -1,1 +1,1 @@
-Item(by='throwaway189262', descendants=None, kids=None, score=None, time=1608360725, title=None, item_type='comment', url=None, parent=25475590, text='Does curiosity really move that fast? Roomba is maybe 2 mph. I thought curiosity was closer to 0.1 mph')
+Item(by='throwaway189262', descendants=None, kids=[25476760], score=None, time=1608360725, title=None, item_type='comment', url=None, parent=25475590, text='Does curiosity really move that fast? Roomba is maybe 2 mph. I thought curiosity was closer to 0.1 mph')
