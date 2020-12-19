@@ -1,0 +1,1 @@
+Item(by='bokchoi', descendants=None, kids=None, score=None, time=1608339703, title=None, item_type='comment', url=None, parent=25470362, text='My biggest gripe is that ExtJS doesn&#x27;t html encode the replacements in the component templates.  This is something that react got right from the start.')

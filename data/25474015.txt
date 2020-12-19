@@ -1,0 +1,1 @@
+Item(by='zepto', descendants=None, kids=None, score=None, time=1608340153, title=None, item_type='comment', url=None, parent=25472920, text='Swift really isn’t doing anything “in the background”.<p>There is no virtual machine, and nothing is happening other than your code and the libraries you use.<p>It’s only high level from the point of view of the type system.')

@@ -1,1 +1,1 @@
-Item(by='ghaff', descendants=None, kids=None, score=None, time=1608319578, title=None, item_type='comment', url=None, parent=25470676, text='That was pretty much my experience at least for lecture-type courses.')
+Item(by='ghaff', descendants=None, kids=[25472856], score=None, time=1608319578, title=None, item_type='comment', url=None, parent=25470676, text='That was pretty much my experience at least for lecture-type courses.')

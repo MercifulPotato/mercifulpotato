@@ -1,1 +1,1 @@
-Item(by='teleclimber', descendants=None, kids=None, score=None, time=1608246770, title=None, item_type='comment', url=None, parent=25459849, text='&gt; ...and AGPL will rightfully worry them.<p>Not deeply familiar with AGPL. Why is it bad for contributors?')
+Item(by='teleclimber', descendants=None, kids=[25471392], score=None, time=1608246770, title=None, item_type='comment', url=None, parent=25459849, text='&gt; ...and AGPL will rightfully worry them.<p>Not deeply familiar with AGPL. Why is it bad for contributors?')

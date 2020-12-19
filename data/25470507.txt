@@ -1,1 +1,1 @@
-Item(by='leni536', descendants=None, kids=None, score=None, time=1608317644, title=None, item_type='comment', url=None, parent=25470482, text='I should have wrote a &quot;good name&quot;.')
+Item(by='leni536', descendants=None, kids=[25472740], score=None, time=1608317644, title=None, item_type='comment', url=None, parent=25470482, text='I should have wrote a &quot;good name&quot;.')

@@ -1,1 +1,1 @@
-Item(by='matt-attack', descendants=None, kids=None, score=None, time=1608309247, title=None, item_type='comment', url=None, parent=25466952, text='Great article. Not sure they ever come back to the early suggestion that orbits would be wrong if gravity was delayed.')
+Item(by='matt-attack', descendants=None, kids=[25472844, 25472576], score=None, time=1608309247, title=None, item_type='comment', url=None, parent=25466952, text='Great article. Not sure they ever come back to the early suggestion that orbits would be wrong if gravity was delayed.')

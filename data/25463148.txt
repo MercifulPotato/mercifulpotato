@@ -1,1 +1,1 @@
-Item(by='the_unknown', descendants=0, kids=None, score=29, time=1608258880, title='Sony Pulls Cyberpunk 2077 from Playstation Store', item_type='story', url='https://kotaku.com/sony-pulls-cyberpunk-2077-from-playstation-store-says-1845908592', parent=None, text=None)
+Item(by='the_unknown', descendants=1, kids=[25471047], score=29, time=1608258880, title='Sony Pulls Cyberpunk 2077 from Playstation Store', item_type='story', url='https://kotaku.com/sony-pulls-cyberpunk-2077-from-playstation-store-says-1845908592', parent=None, text=None)

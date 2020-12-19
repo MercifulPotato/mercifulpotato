@@ -1,1 +1,1 @@
-Item(by='redisman', descendants=None, kids=None, score=None, time=1608309609, title=None, item_type='comment', url=None, parent=25467695, text='Unfortunately the most optimal thing to get your career started is not deep study of fundamentals but &quot;grinding leetcode&quot;.')
+Item(by='redisman', descendants=None, kids=[25473104, 25473087], score=None, time=1608309609, title=None, item_type='comment', url=None, parent=25467695, text='Unfortunately the most optimal thing to get your career started is not deep study of fundamentals but &quot;grinding leetcode&quot;.')

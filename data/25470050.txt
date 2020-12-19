@@ -1,1 +1,1 @@
-Item(by='tambourine_man', descendants=0, kids=None, score=1, time=1608315251, title='ForkLift 3 – most advanced file manager and FTP client for macOS', item_type='story', url='https://binarynights.com/', parent=None, text=None)
+Item(by='tambourine_man', descendants=1, kids=[25473424], score=1, time=1608315251, title='ForkLift 3 – most advanced file manager and FTP client for macOS', item_type='story', url='https://binarynights.com/', parent=None, text=None)

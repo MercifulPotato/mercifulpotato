@@ -1,0 +1,1 @@
+Item(by='uryga', descendants=None, kids=[25472013], score=None, time=1608325160, title=None, item_type='comment', url=None, parent=25470820, text='sorry, can&#x27;t really find anything about graphs in there. how would use TN to represent a graph like this?<p><pre><code>  A --&gt; B --&gt; C\n  ^           |\n  |           |\n  +-----------+</code></pre>')

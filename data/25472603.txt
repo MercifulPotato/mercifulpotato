@@ -1,0 +1,1 @@
+Item(by='EvanAnderson', descendants=None, kids=None, score=None, time=1608328848, title=None, item_type='comment', url=None, parent=25472436, text='I would love to see a postmortem for how they were handling their code signing cert. Right now I get a &quot;PFX file on a network share and everybody knows the password&quot; kind of feeling.')

@@ -1,0 +1,1 @@
+Item(by='no_wizard', descendants=None, kids=None, score=None, time=1608334117, title=None, item_type='comment', url=None, parent=25471249, text='You may just need to tweak your cache &amp; RAM settings. I had similar issues here, and I just juiced the RAM to 4096 (that&#x27;s 4 GB, a number I chose arbitrarily). Haven&#x27;t had an issue since.')

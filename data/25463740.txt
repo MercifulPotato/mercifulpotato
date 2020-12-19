@@ -1,1 +1,1 @@
-Item(by='octoberfranklin', descendants=None, kids=None, score=None, time=1608264514, title=None, item_type='comment', url=None, parent=25462986, text='Bonus points to SEATAC for conditioning the jetway air.  Few airports do this.')
+Item(by='octoberfranklin', descendants=None, kids=[25474018], score=None, time=1608264514, title=None, item_type='comment', url=None, parent=25462986, text='Bonus points to SEATAC for conditioning the jetway air.  Few airports do this.')

@@ -1,0 +1,1 @@
+Item(by='jtdev', descendants=None, kids=None, score=None, time=1608341051, title=None, item_type='comment', url=None, parent=25470003, text='Yes, yes, yes! I wish devs could relax just little about duplication. It’s far less harmful than bad abstractions built with the only purpose of checking the DRY box.')

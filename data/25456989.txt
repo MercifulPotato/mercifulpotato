@@ -1,1 +1,1 @@
-Item(by='feross', descendants=0, kids=None, score=2, time=1608222240, title='Improving Cross-Browser Testing, Part 1: Web Application Testing Today', item_type='story', url='https://hacks.mozilla.org/2020/12/cross-browser-testing-part-1-web-app-testing-today/', parent=None, text=None)
+Item(by='feross', descendants=2, kids=[25473503], score=26, time=1608222240, title='Improving Cross-Browser Testing, Part 1: Web Application Testing Today', item_type='story', url='https://hacks.mozilla.org/2020/12/cross-browser-testing-part-1-web-app-testing-today/', parent=None, text=None)

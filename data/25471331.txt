@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1608322307, title=None, item_type='comment', url=None, parent=25470461, text='Yes, example Ada&#x2F;SPARK, Eiffel, Delphi, OCaml, Haskell, D.<p>It is a matter of tooling, and where to spend development resources.')
+Item(by='pjmlp', descendants=None, kids=[25472715], score=None, time=1608322307, title=None, item_type='comment', url=None, parent=25470461, text='Yes, example Ada&#x2F;SPARK, Eiffel, Delphi, OCaml, Haskell, D.<p>It is a matter of tooling, and where to spend development resources.')

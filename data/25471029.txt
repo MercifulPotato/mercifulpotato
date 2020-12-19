@@ -1,1 +1,1 @@
-Item(by='miguelrochefort', descendants=None, kids=None, score=None, time=1608320507, title=None, item_type='comment', url=None, parent=25470987, text='How&#x27;s GATech&#x27;s OMSCS? I&#x27;m thinking about applying.')
+Item(by='miguelrochefort', descendants=None, kids=[25471555], score=None, time=1608320507, title=None, item_type='comment', url=None, parent=25470987, text='How&#x27;s GATech&#x27;s OMSCS? I&#x27;m thinking about applying.')

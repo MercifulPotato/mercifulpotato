@@ -1,1 +1,1 @@
-Item(by='pvarangot', descendants=None, kids=None, score=None, time=1608314149, title=None, item_type='comment', url=None, parent=25469343, text='Or sleeping.')
+Item(by='pvarangot', descendants=None, kids=[25471543], score=None, time=1608314149, title=None, item_type='comment', url=None, parent=25469343, text='Or sleeping.')

@@ -1,1 +1,1 @@
-Item(by='neom', descendants=0, kids=None, score=5, time=1608318270, title='580 Covid-19 patients in Seoul waiting for hospital beds', item_type='story', url='http://www.arirang.com/News/News_View.asp?sys_lang=Eng&nseq=269542', parent=None, text=None)
+Item(by='neom', descendants=20, kids=[25471440, 25473516, 25471956, 25472053, 25471859], score=23, time=1608318270, title='580 Covid-19 patients in Seoul waiting for hospital beds', item_type='story', url='http://www.arirang.com/News/News_View.asp?sys_lang=Eng&nseq=269542', parent=None, text=None)

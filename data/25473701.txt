@@ -1,0 +1,1 @@
+Item(by='edward', descendants=0, kids=None, score=2, time=1608336999, title='Libstdc++: Support Libc with stdio-only I/O in libstdc++', item_type='story', url='https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=75aee072696a711f3e5b3bd1ab1f2b10fef4c7dd', parent=None, text=None)

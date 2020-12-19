@@ -1,1 +1,1 @@
-Item(by='tantalor', descendants=None, kids=None, score=None, time=1608299760, title=None, item_type='comment', url=None, parent=25466535, text='It&#x27;s not aliens. It&#x27;s never aliens.')
+Item(by='tantalor', descendants=None, kids=[25471406], score=None, time=1608299760, title=None, item_type='comment', url=None, parent=25466535, text='It&#x27;s not aliens. It&#x27;s never aliens.')

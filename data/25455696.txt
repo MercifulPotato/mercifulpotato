@@ -1,1 +1,1 @@
-Item(by='brudgers', descendants=0, kids=None, score=3, time=1608214378, title='Do It Yourself Bookbinding', item_type='story', url='http://www.diybookbinding.com/', parent=None, text=None)
+Item(by='brudgers', descendants=21, kids=[25473418, 25473557, 25473978, 25473025, 25473566, 25473808], score=97, time=1608214378, title='Do It Yourself Bookbinding', item_type='story', url='http://www.diybookbinding.com/', parent=None, text=None)

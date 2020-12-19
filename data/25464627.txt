@@ -1,1 +1,1 @@
-Item(by='5jt', descendants=0, kids=None, score=2, time=1608275755, title='Mark Sykes of Kx on the Iverson Centenary', item_type='story', url='https://kx.com/blog/the-notation/', parent=None, text=None)
+Item(by='5jt', descendants=4, kids=[25473823, 25473568, 25473775], score=24, time=1608275755, title='The Notation: Ken Iverson Centenary', item_type='story', url='https://kx.com/blog/the-notation/', parent=None, text=None)

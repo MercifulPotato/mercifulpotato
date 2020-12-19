@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=[25472660], score=None, time=1608325417, title=None, item_type='comment', url=None, parent=25471950, text='... but since Fuchsia is totally-not-a-microkernel, a lot of stuff that would be in the kernel in, say, Linux, is not in the kernel in Fuchsia.')

@@ -1,1 +1,1 @@
-Item(by='max_', descendants=None, kids=None, score=None, time=1608298768, title=None, item_type='comment', url=None, parent=25459501, text='I heard ordinary QR codes can hold up to 3KB  of data.<p>How much data can this one hold?')
+Item(by='max_', descendants=None, kids=[25473920], score=None, time=1608298768, title=None, item_type='comment', url=None, parent=25459501, text='I heard ordinary QR codes can hold up to 3KB  of data.<p>How much data can this one hold?')

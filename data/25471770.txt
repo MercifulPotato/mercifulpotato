@@ -1,0 +1,1 @@
+Item(by='hucker', descendants=None, kids=None, score=None, time=1608324528, title=None, item_type='comment', url=None, parent=25471455, text='You typically wouldn&#x27;t use an array with a million objects in Java if you cared about performance though (for exactly that reason), you&#x27;d architect it some other way. Using SoA style when appropriate, for example.')

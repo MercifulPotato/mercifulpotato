@@ -1,0 +1,1 @@
+Item(by='hadrien01', descendants=None, kids=None, score=None, time=1608331883, title=None, item_type='comment', url=None, parent=25471608, text='I&#x27;ve used it on a 250-projects solution, and performance is much better than VS+R# or VS alone. Still not recommended, obviously. On smaller projects, I find also it snappier. It uses as much CPU as VS, and eats up more RAM.')

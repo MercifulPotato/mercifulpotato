@@ -1,0 +1,1 @@
+Item(by='didip', descendants=None, kids=[25473208], score=None, time=1608331502, title=None, item_type='comment', url=None, parent=25467545, text='I am curious about the backend server of Matrix. Can it be scaled beyond 1 server? For example, by using Kafka or Nats?')

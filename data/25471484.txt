@@ -1,0 +1,1 @@
+Item(by='wmertens', descendants=None, kids=[25471623], score=None, time=1608323166, title=None, item_type='comment', url=None, parent=25465924, text='Isn&#x27;t that the same problem with zip files? So if we&#x27;re assuming that the compressed SQLite format will take up the same or less space as the zip file, wouldn&#x27;t that mean that exactly the same mitigations work?')

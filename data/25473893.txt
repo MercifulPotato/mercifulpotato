@@ -1,0 +1,1 @@
+Item(by='pas', descendants=None, kids=None, score=None, time=1608338803, title=None, item_type='comment', url=None, parent=25465778, text='Quite small in LOCs less than 10K. (A horribly non-idiomatic custom ETL lib, and a big ball of MVC stuff using pyramid and sqlalchemy&#x2F;zope.transaction.)')

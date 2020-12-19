@@ -1,0 +1,1 @@
+Item(by='rurban', descendants=None, kids=None, score=None, time=1608331296, title=None, item_type='comment', url=None, parent=25464481, text='No, we are talking about security here. FreeBSD is even worse than Linux, and OpenBSD is not much better, just slower.<p>Microkernels with capabilities are the only way to go. L4, Fiasco, Genode, ...')
