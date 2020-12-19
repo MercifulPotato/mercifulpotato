@@ -1,1 +1,1 @@
-Item(by='whimsicalism', descendants=None, kids=None, score=None, time=1608344208, title=None, item_type='comment', url=None, parent=25473939, text='FWIW from what I have read of GoF, I think this criticism about runtime polymorphism is spot on.')
+Item(by='whimsicalism', descendants=None, kids=[25479538], score=None, time=1608344208, title=None, item_type='comment', url=None, parent=25473939, text='FWIW from what I have read of GoF, I think this criticism about runtime polymorphism is spot on.')

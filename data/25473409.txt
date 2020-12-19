@@ -1,1 +1,1 @@
-Item(by='wormold', descendants=0, kids=None, score=11, time=1608334200, title='Means of Descent (2016)', item_type='story', url='https://medium.com/matter/means-of-descent-ada5e2af6a4d', parent=None, text=None)
+Item(by='wormold', descendants=1, kids=[25477476], score=13, time=1608334200, title='Means of Descent (2016)', item_type='story', url='https://medium.com/matter/means-of-descent-ada5e2af6a4d', parent=None, text=None)

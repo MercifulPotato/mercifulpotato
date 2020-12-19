@@ -1,1 +1,1 @@
-Item(by='louis-paul', descendants=None, kids=None, score=None, time=1608385563, title=None, item_type='comment', url=None, parent=25477147, text='Do Shopify&#x27;s competitors produce similarly high-quality engineering content? (if you know some, please link!)')
+Item(by='louis-paul', descendants=None, kids=[25480128], score=None, time=1608385563, title=None, item_type='comment', url=None, parent=25477147, text='Do Shopify&#x27;s competitors produce similarly high-quality engineering content? (if you know some, please link!)')

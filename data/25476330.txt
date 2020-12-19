@@ -1,1 +1,1 @@
-Item(by='strogonoff', descendants=None, kids=None, score=None, time=1608370532, title=None, item_type='comment', url=None, parent=25476261, text='What do you mean by “paid blender alternative”? How does spending less money on it increase my AWS bill?')
+Item(by='strogonoff', descendants=None, kids=[25479761], score=None, time=1608370532, title=None, item_type='comment', url=None, parent=25476261, text='What do you mean by “paid blender alternative”? How does spending less money on it increase my AWS bill?')

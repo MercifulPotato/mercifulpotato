@@ -1,1 +1,1 @@
-Item(by='elisk', descendants=0, kids=None, score=1, time=1608385029, title='JavaScript in Djitsu – importing, exporting, and everything in between', item_type='story', url='https://djit.su/@elis/javascript-in-djitsu', parent=None, text=None)
+Item(by='elisk', descendants=1, kids=[25477322], score=1, time=1608385029, title='JavaScript in Djitsu – importing, exporting, and everything in between', item_type='story', url='https://djit.su/@elis/javascript-in-djitsu', parent=None, text=None)

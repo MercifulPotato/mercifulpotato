@@ -1,0 +1,1 @@
+Item(by='mad_vill', descendants=None, kids=[25478816], score=None, time=1608394303, title=None, item_type='comment', url=None, parent=25472821, text='&gt; To have some minimal form of obfuscation from prying eyes, the strings in the backdoor are compressed and encoded in Base64, or their hashes are used instead.<p>ah so base64 is valid encryption after all.')

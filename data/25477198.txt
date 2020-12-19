@@ -1,1 +1,1 @@
-Item(by='joubert', descendants=1, kids=[25477303], score=5, time=1608383549, title='Extremist Programming', item_type='story', url='http://blog.ezyang.com/2012/11/extremist-programming/', parent=None, text=None)
+Item(by='joubert', descendants=30, kids=[25477383, 25478558, 25480197, 25477303, 25478126, 25478397, 25477528, 25477576, 25477711, 25477653, 25477380, 25479454], score=59, time=1608383549, title='Extremist Programming (2012)', item_type='story', url='http://blog.ezyang.com/2012/11/extremist-programming/', parent=None, text=None)

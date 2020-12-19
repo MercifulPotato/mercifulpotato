@@ -1,1 +1,1 @@
-Item(by='dimberman', descendants=None, kids=None, score=None, time=1608248027, title=None, item_type='comment', url=None, parent=25461409, text='We&#x27;re hiring multiple UI experts to rebuild the Airflow UI from scratch in react, so this is just the beginning :).')
+Item(by='dimberman', descendants=None, kids=[25479867], score=None, time=1608248027, title=None, item_type='comment', url=None, parent=25461409, text='We&#x27;re hiring multiple UI experts to rebuild the Airflow UI from scratch in react, so this is just the beginning :).')

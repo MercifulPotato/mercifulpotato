@@ -1,1 +1,1 @@
-Item(by='keiferski', descendants=1, kids=[25465265], score=11, time=1608282646, title='IBM Dictionary of Computing Technology [pdf]', item_type='story', url='https://www.ibm.com/ibm/history/documents/pdf/glossary.pdf', parent=None, text=None)
+Item(by='keiferski', descendants=2, kids=[25480169, 25465265], score=13, time=1608282646, title='IBM Dictionary of Computing Technology [pdf]', item_type='story', url='https://www.ibm.com/ibm/history/documents/pdf/glossary.pdf', parent=None, text=None)

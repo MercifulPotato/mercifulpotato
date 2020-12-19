@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=5, kids=[25476955, 25477494, 25477321], score=79, time=1608374090, title='The Algorithmic Beauty of Plants', item_type='story', url='http://algorithmicbotany.org/papers/#abop', parent=None, text=None)
+Item(by='ingve', descendants=15, kids=[25476955, 25480230, 25477861, 25477494, 25477757, 25477321, 25478912], score=149, time=1608374090, title='The Algorithmic Beauty of Plants', item_type='story', url='http://algorithmicbotany.org/papers/#abop', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='swebs', descendants=None, kids=None, score=None, time=1608387598, title=None, item_type='comment', url=None, parent=25477362, text='Don&#x27;t bring annoying reddit bullshit here.')
+Item(by=None, descendants=None, kids=None, score=None, time=1608387598, title=None, item_type='comment', url=None, parent=25477362, text=None)

@@ -1,1 +1,1 @@
-Item(by='gbrown_', descendants=3, kids=[25462459, 25459007, 25458849], score=19, time=1608226007, title='An introduction to property-based testing with QuickCheck', item_type='story', url='https://jesper.sikanda.be/posts/quickcheck-intro.html', parent=None, text=None)
+Item(by='gbrown_', descendants=3, kids=[25462459, 25458849, 25459007], score=19, time=1608226007, title='An introduction to property-based testing with QuickCheck', item_type='story', url='https://jesper.sikanda.be/posts/quickcheck-intro.html', parent=None, text=None)

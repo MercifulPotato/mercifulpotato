@@ -1,1 +1,1 @@
-Item(by='Parseus', descendants=0, kids=None, score=3, time=1608379806, title='PC Engine / TurboGrafx-16 Architecture – A Practical Analysis', item_type='story', url='https://www.copetti.org/projects/consoles/pc-engine/', parent=None, text=None)
+Item(by='Parseus', descendants=1, kids=[25480357], score=15, time=1608379806, title='PC Engine / TurboGrafx-16 Architecture – A Practical Analysis', item_type='story', url='https://www.copetti.org/projects/consoles/pc-engine/', parent=None, text=None)
