@@ -1,1 +1,1 @@
-Item(by='xwdv', descendants=None, kids=None, score=None, time=1608307226, title=None, item_type='comment', url=None, parent=25467900, text='Could I do the same with a masters?')
+Item(by='xwdv', descendants=None, kids=[25475754], score=None, time=1608307226, title=None, item_type='comment', url=None, parent=25467900, text='Could I do the same with a masters?')

@@ -1,1 +1,1 @@
-Item(by='anigbrowl', descendants=0, kids=None, score=2, time=1608340947, title='US blacklists top Chinese chipmaker, alleging military ties', item_type='story', url='https://www.courthousenews.com/us-blacklists-top-chinese-chipmaker-alleging-military-ties/', parent=None, text=None)
+Item(by='anigbrowl', descendants=1, kids=[25474952], score=4, time=1608340947, title='US blacklists top Chinese chipmaker, alleging military ties', item_type='story', url='https://www.courthousenews.com/us-blacklists-top-chinese-chipmaker-alleging-military-ties/', parent=None, text=None)

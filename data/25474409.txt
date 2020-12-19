@@ -1,1 +1,1 @@
-Item(by='thomas', descendants=0, kids=None, score=1, time=1608344528, title='M41A Pulse Rifle', item_type='story', url='https://nsndb.com/nsn/m41a-pulse-rifle/', parent=None, text=None)
+Item(by='thomas', descendants=1, kids=[25474450], score=2, time=1608344528, title='M41A Pulse Rifle', item_type='story', url='https://nsndb.com/nsn/m41a-pulse-rifle/', parent=None, text=None)

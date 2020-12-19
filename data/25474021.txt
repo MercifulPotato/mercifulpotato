@@ -1,1 +1,1 @@
-Item(by='sudosysgen', descendants=None, kids=None, score=None, time=1608340224, title=None, item_type='comment', url=None, parent=25473152, text='The relative penalty for using Java over C is so much smaller than Electron over Java or Electron over C')
+Item(by='sudosysgen', descendants=None, kids=[25474844], score=None, time=1608340224, title=None, item_type='comment', url=None, parent=25473152, text='The relative penalty for using Java over C is so much smaller than Electron over Java or Electron over C')

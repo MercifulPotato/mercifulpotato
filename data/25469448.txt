@@ -1,1 +1,1 @@
-Item(by='daralthus', descendants=None, kids=None, score=None, time=1608312277, title=None, item_type='comment', url=None, parent=25467900, text='Is this accreditation accepted to apply to Georgia Tech&#x27;s OMS CS?')
+Item(by='daralthus', descendants=None, kids=[25475333], score=None, time=1608312277, title=None, item_type='comment', url=None, parent=25467900, text='Is this accreditation accepted to apply to Georgia Tech&#x27;s OMS CS?')

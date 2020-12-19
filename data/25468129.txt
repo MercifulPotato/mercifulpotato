@@ -1,1 +1,1 @@
-Item(by='jakub_g', descendants=None, kids=None, score=None, time=1608306252, title=None, item_type='comment', url=None, parent=25466708, text='Are you based in EU or outside? Perhaps it&#x27;s an EU-only bug&#x2F;feature after latest changes to be compliant with EU privacy rules.')
+Item(by='jakub_g', descendants=None, kids=[25475510], score=None, time=1608306252, title=None, item_type='comment', url=None, parent=25466708, text='Are you based in EU or outside? Perhaps it&#x27;s an EU-only bug&#x2F;feature after latest changes to be compliant with EU privacy rules.')

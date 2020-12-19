@@ -1,1 +1,1 @@
-Item(by='elcapitan', descendants=None, kids=None, score=None, time=1608301943, title=None, item_type='comment', url=None, parent=25467380, text='That&#x27;s interesting, which field is that? I guess in finance there&#x27;s a lot of &quot;crypto coding&quot; (no pun intended) going on.')
+Item(by='elcapitan', descendants=None, kids=[25475163], score=None, time=1608301943, title=None, item_type='comment', url=None, parent=25467380, text='That&#x27;s interesting, which field is that? I guess in finance there&#x27;s a lot of &quot;crypto coding&quot; (no pun intended) going on.')

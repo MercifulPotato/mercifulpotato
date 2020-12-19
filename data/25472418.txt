@@ -1,1 +1,1 @@
-Item(by='helge9210', descendants=None, kids=None, score=None, time=1608327768, title=None, item_type='comment', url=None, parent=25472177, text='Igor Sysoev (not owner, that would be F5 Networks, but CTO of NGINX, Inc.) was detained, accepted the deal and was released.')
+Item(by='helge9210', descendants=None, kids=[25474873], score=None, time=1608327768, title=None, item_type='comment', url=None, parent=25472177, text='Igor Sysoev (not owner, that would be F5 Networks, but CTO of NGINX, Inc.) was detained, accepted the deal and was released.')

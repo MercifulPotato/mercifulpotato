@@ -1,1 +1,1 @@
-Item(by='praveenperera', descendants=59, kids=[25470721, 25469874, 25469928, 25470026, 25470144, 25470461, 25470797, 25470035], score=158, time=1608312667, title='Rust 2021 Roadmap', item_type='story', url='https://github.com/rust-lang/rfcs/pull/3037', parent=None, text=None)
+Item(by='praveenperera', descendants=61, kids=[25470721, 25469874, 25469928, 25470026, 25470144, 25470461, 25470797, 25470035], score=165, time=1608312667, title='Rust 2021 Roadmap', item_type='story', url='https://github.com/rust-lang/rfcs/pull/3037', parent=None, text=None)

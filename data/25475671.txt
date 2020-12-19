@@ -1,0 +1,1 @@
+Item(by='jcelerier', descendants=None, kids=None, score=None, time=1608360945, title=None, item_type='comment', url=None, parent=25473690, text='Very often with compilation &amp; LTO of large software in C++, having 2&#x2F;3 VMs open (not just docker, the whole GUI stack as it&#x27;s for debugging a GUI software)')
