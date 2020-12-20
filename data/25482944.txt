@@ -1,0 +1,1 @@
+Item(by='tankenmate', descendants=None, kids=None, score=None, time=1608426545, title=None, item_type='comment', url=None, parent=25482633, text='TinyGo builds WASM fine from my experience. There are a few minor gotchas (especially running in the browser with callbacks, but that can affect a number of languages compiled to WASM) but it does work.')

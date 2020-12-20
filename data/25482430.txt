@@ -1,0 +1,1 @@
+Item(by='CyberRabbi', descendants=None, kids=None, score=None, time=1608421678, title=None, item_type='comment', url=None, parent=25477639, text='In seccomp the only syscalls available are read, write, exit, and sigreturn. There is nothing to miss')

@@ -1,0 +1,1 @@
+Item(by='Fireflite', descendants=None, kids=[25480823, 25480783], score=None, time=1608408117, title=None, item_type='comment', url=None, parent=25480432, text='The way that you can turn normal Rust functions into systems, grabbing the relevant components through their type signature is <i>wonderful</i> sugar, and feels magic to use.')

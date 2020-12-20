@@ -1,1 +1,1 @@
-Item(by='gnufx', descendants=4, kids=[25476676, 25477037, 25477412], score=13, time=1608375382, title='Xkcd: Statistics Tip', item_type='story', url='https://xkcd.com/2400/', parent=None, text=None)
+Item(by='gnufx', descendants=6, kids=[25476676, 25477037, 25477412], score=13, time=1608375382, title='Xkcd: Statistics Tip', item_type='story', url='https://xkcd.com/2400/', parent=None, text=None)

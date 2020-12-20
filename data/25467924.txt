@@ -1,1 +1,1 @@
-Item(by='sgtnasty', descendants=None, kids=None, score=None, time=1608305002, title=None, item_type='comment', url=None, parent=25467439, text='Intel(R) Core(TM) i9-7960X CPU @ 2.80GHz\n32.0 GB RAM\nWindows 10 Pro, 64-bit 20H2\nGeForce GTX 1080 Ti, ver 460.89')
+Item(by='sgtnasty', descendants=None, kids=[25482525], score=None, time=1608305002, title=None, item_type='comment', url=None, parent=25467439, text='Intel(R) Core(TM) i9-7960X CPU @ 2.80GHz\n32.0 GB RAM\nWindows 10 Pro, 64-bit 20H2\nGeForce GTX 1080 Ti, ver 460.89')

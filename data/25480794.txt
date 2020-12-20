@@ -1,0 +1,1 @@
+Item(by='jolux', descendants=None, kids=None, score=None, time=1608409056, title=None, item_type='comment', url=None, parent=25479068, text='I’m not a huge fan of libraries that use attributes as a hook for code generation in C# either, though thankfully there’s less need for something like Lombok.')

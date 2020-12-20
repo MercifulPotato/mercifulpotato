@@ -1,0 +1,1 @@
+Item(by='jamra', descendants=None, kids=None, score=None, time=1608421938, title=None, item_type='comment', url=None, parent=25482399, text='It sounds like it to me as well. We had the same bug with content editable fields and changing then index of the selection, which is where the cursor appears.')

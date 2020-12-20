@@ -1,1 +1,1 @@
-Item(by='archagon', descendants=0, kids=None, score=4, time=1608320916, title='Causality Is Graphically Simple', item_type='story', url='https://arxiv.org/abs/2012.09086', parent=None, text=None)
+Item(by='archagon', descendants=1, kids=[25482480], score=39, time=1608320916, title='Causality Is Graphically Simple', item_type='story', url='https://arxiv.org/abs/2012.09086', parent=None, text=None)

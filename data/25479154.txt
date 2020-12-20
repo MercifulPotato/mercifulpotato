@@ -1,1 +1,1 @@
-Item(by='layer8', descendants=None, kids=None, score=None, time=1608399108, title=None, item_type='comment', url=None, parent=25477852, text='I’m using a search shortcut that just adds “-pinterest” to all searches (and also activates Google verbatim search mode).')
+Item(by='layer8', descendants=None, kids=[25483237], score=None, time=1608399108, title=None, item_type='comment', url=None, parent=25477852, text='I’m using a search shortcut that just adds “-pinterest” to all searches (and also activates Google verbatim search mode).')

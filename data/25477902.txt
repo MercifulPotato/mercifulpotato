@@ -1,1 +1,1 @@
-Item(by='Siira', descendants=None, kids=None, score=None, time=1608391225, title=None, item_type='comment', url=None, parent=25476509, text='No one is forcing you to take the vaccine. What’s wrong with you?')
+Item(by='Siira', descendants=None, kids=[25481835], score=None, time=1608391225, title=None, item_type='comment', url=None, parent=25476509, text='No one is forcing you to take the vaccine. What’s wrong with you?')

@@ -1,1 +1,1 @@
-Item(by='FlyMoreRockets', descendants=0, kids=None, score=1, time=1608391958, title='Readspike – Simple News Aggregator', item_type='story', url='http://readspike.com/', parent=None, text=None)
+Item(by='FlyMoreRockets', descendants=1, kids=[25481592], score=2, time=1608391958, title='Readspike – Simple News Aggregator', item_type='story', url='http://readspike.com/', parent=None, text=None)

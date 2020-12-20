@@ -1,1 +1,1 @@
-Item(by='bert2002', descendants=None, kids=None, score=None, time=1608280571, title=None, item_type='comment', url=None, parent=25463833, text='Always tried to make the ESP32 fetch an image, but never succeeded (with Arduino though)')
+Item(by='bert2002', descendants=None, kids=[25480415], score=None, time=1608280571, title=None, item_type='comment', url=None, parent=25463833, text='Always tried to make the ESP32 fetch an image, but never succeeded (with Arduino though)')

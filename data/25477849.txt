@@ -1,1 +1,1 @@
-Item(by='paulpauper', descendants=None, kids=None, score=None, time=1608390798, title=None, item_type='comment', url=None, parent=25477797, text='but living expenses are also very high, as is student loan debt and other recurring expenses')
+Item(by='paulpauper', descendants=None, kids=[25481956], score=None, time=1608390798, title=None, item_type='comment', url=None, parent=25477797, text='but living expenses are also very high, as is student loan debt and other recurring expenses')

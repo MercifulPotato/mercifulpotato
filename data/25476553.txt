@@ -1,1 +1,1 @@
-Item(by='oh_sigh', descendants=None, kids=None, score=None, time=1608374274, title=None, item_type='comment', url=None, parent=25475389, text='Did you drive 6 hours to a different city and wear a costume to buy the burner?')
+Item(by='oh_sigh', descendants=None, kids=[25481803], score=None, time=1608374274, title=None, item_type='comment', url=None, parent=25475389, text='Did you drive 6 hours to a different city and wear a costume to buy the burner?')

@@ -1,0 +1,1 @@
+Item(by='allyant', descendants=None, kids=[25481518], score=None, time=1608413186, title=None, item_type='comment', url=None, parent=25481144, text='Any decent static code analysers should be able to detect things like this (catch all’s statements, base64 encoding etc), I am surprised none seem to be used for production code.')

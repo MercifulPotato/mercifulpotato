@@ -1,1 +1,1 @@
-Item(by='oblio', descendants=None, kids=None, score=None, time=1608404920, title=None, item_type='comment', url=None, parent=25479301, text='&gt; arrested for spitting on the sidewalk<p>Getting arrested is a bit much, but what&#x27;s the redeeming quality of spitting on the sidewalk?')
+Item(by='oblio', descendants=None, kids=[25480810], score=None, time=1608404920, title=None, item_type='comment', url=None, parent=25479301, text='&gt; arrested for spitting on the sidewalk<p>Getting arrested is a bit much, but what&#x27;s the redeeming quality of spitting on the sidewalk?')

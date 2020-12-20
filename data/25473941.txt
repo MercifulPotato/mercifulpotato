@@ -1,1 +1,1 @@
-Item(by='herf', descendants=None, kids=[25476788, 25475968], score=None, time=1608339274, title=None, item_type='comment', url=None, parent=25472455, text='In Thunderbird, OAuth2 login is still broken. The login page prompts for email again and again, never makes it to the password.')
+Item(by='herf', descendants=None, kids=[25475968, 25476788], score=None, time=1608339274, title=None, item_type='comment', url=None, parent=25472455, text='In Thunderbird, OAuth2 login is still broken. The login page prompts for email again and again, never makes it to the password.')

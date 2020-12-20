@@ -1,0 +1,1 @@
+Item(by='netsharc', descendants=None, kids=None, score=None, time=1608427151, title=None, item_type='comment', url=None, parent=25478646, text='As many are saying here, why commit the malware, just modify Jenkins to detect that it&#x27;s compiling this DLL and add those lines into the source about to be compiled..')

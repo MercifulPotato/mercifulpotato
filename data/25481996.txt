@@ -1,0 +1,1 @@
+Item(by='williamdclt', descendants=None, kids=None, score=None, time=1608418008, title=None, item_type='comment', url=None, parent=25481667, text='It helps to think of a monad as just a monoid in the category of endofunctors, with product × replaced by composition of endofunctors and unit set by the identity endofunctor')
