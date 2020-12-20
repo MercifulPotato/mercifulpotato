@@ -1,1 +1,1 @@
-Item(by='dlgeek', descendants=None, kids=None, score=None, time=1608429932, title=None, item_type='comment', url=None, parent=25483166, text='rxvt-unicode is what you want.')
+Item(by='dlgeek', descendants=None, kids=[25483971], score=None, time=1608429932, title=None, item_type='comment', url=None, parent=25483166, text='rxvt-unicode is what you want.')

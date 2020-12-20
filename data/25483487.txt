@@ -1,0 +1,1 @@
+Item(by='zodiakzz', descendants=None, kids=[25484433], score=None, time=1608433608, title=None, item_type='comment', url=None, parent=25482286, text='Why can&#x27;t this be fixed by fake slowing down&#x2F;randomizing cache reads? Are they wasting actual bandwidth making HTTP requests for already cached content?')

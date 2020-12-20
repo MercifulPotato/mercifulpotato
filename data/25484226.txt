@@ -1,0 +1,1 @@
+Item(by='magoon', descendants=None, kids=[25484415, 25484504], score=None, time=1608444083, title=None, item_type='comment', url=None, parent=25482883, text='Looking beyond the obvious problem here, just curious why the admin ran chkdsk &#x2F;f for no reason, then did it on 6 more systems after observing it caused ntfs failure.')

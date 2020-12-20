@@ -1,0 +1,1 @@
+Item(by='jcranmer', descendants=None, kids=None, score=None, time=1608440931, title=None, item_type='comment', url=None, parent=25483823, text='<i>Every</i> superscalar processor in the past several decades is vulnerable to some Spectre variant. The Apple A1s were also susceptible to one of the Meltdown variants, not sure if that one is fixed in the M1.')

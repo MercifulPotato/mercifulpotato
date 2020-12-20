@@ -1,0 +1,1 @@
+Item(by='herpderperator', descendants=None, kids=[25483702], score=None, time=1608435781, title=None, item_type='comment', url=None, parent=25483623, text='Properly scaling a site is more than just clicking a button. Your architecture needs to have been built from the ground up in a way that actually can scale horizontally, for starters.')

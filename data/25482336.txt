@@ -1,1 +1,1 @@
-Item(by='cinquemb', descendants=0, kids=None, score=2, time=1608420846, title='The Rescues Ruining Capitalism', item_type='story', url='https://www.wsj.com/articles/the-rescues-ruining-capitalism-11595603720', parent=None, text=None)
+Item(by='cinquemb', descendants=1, kids=[25483814], score=2, time=1608420846, title='The Rescues Ruining Capitalism', item_type='story', url='https://www.wsj.com/articles/the-rescues-ruining-capitalism-11595603720', parent=None, text=None)

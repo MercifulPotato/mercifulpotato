@@ -1,1 +1,1 @@
-Item(by='asveikau', descendants=None, kids=None, score=None, time=1608426964, title=None, item_type='comment', url=None, parent=25482878, text='&gt; It&#x27;s a nice WM.<p>This sounds like a good slogan.<p>It&#x27;s <i>a n</i>ice WM.<p>It&#x27;s <i>an i</i>ce WM.')
+Item(by='asveikau', descendants=None, kids=[25484440], score=None, time=1608426964, title=None, item_type='comment', url=None, parent=25482878, text='&gt; It&#x27;s a nice WM.<p>This sounds like a good slogan.<p>It&#x27;s <i>a n</i>ice WM.<p>It&#x27;s <i>an i</i>ce WM.')

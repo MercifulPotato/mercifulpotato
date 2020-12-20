@@ -1,1 +1,1 @@
-Item(by='wruza', descendants=None, kids=None, score=None, time=1608431971, title=None, item_type='comment', url=None, parent=25483181, text='Except the room wasn’t cold. The only extreme condition is that it is empty and there is nothing but yourself to inspect and feel.')
+Item(by='wruza', descendants=None, kids=[25483474], score=None, time=1608431971, title=None, item_type='comment', url=None, parent=25483181, text='Except the room wasn’t cold. The only extreme condition is that it is empty and there is nothing but yourself to inspect and feel.')

@@ -1,0 +1,1 @@
+Item(by='skavi', descendants=None, kids=[25484414], score=None, time=1608445511, title=None, item_type='comment', url=None, parent=25484251, text='Does optimizing for a single system really improve performance significantly in general purpose computing benchmarks like SPEC? IIRC, the M1 also does fairly well with virtualized Linux.')

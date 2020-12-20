@@ -1,0 +1,1 @@
+Item(by='bboreham', descendants=None, kids=None, score=None, time=1608448087, title=None, item_type='comment', url=None, parent=25484246, text='It’s fairly straightforward to configure QEMU to do the emulation. \nAnd the Docker preview released a few days ago does that without even asking.')

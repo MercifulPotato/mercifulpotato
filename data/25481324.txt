@@ -1,1 +1,1 @@
-Item(by='geedy', descendants=None, kids=None, score=None, time=1608412874, title=None, item_type='comment', url=None, parent=25480713, text='I love this.<p>Any tips for doing this during a pandemic? Beyond just the usual of treating people well?')
+Item(by='geedy', descendants=None, kids=[25484029], score=None, time=1608412874, title=None, item_type='comment', url=None, parent=25480713, text='I love this.<p>Any tips for doing this during a pandemic? Beyond just the usual of treating people well?')
