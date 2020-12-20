@@ -1,1 +1,1 @@
-Item(by='phkahler', descendants=None, kids=None, score=None, time=1608465126, title=None, item_type='comment', url=None, parent=25484801, text='AVX512 is a waste of transistors for most workloads.')
+Item(by='phkahler', descendants=None, kids=[25487649], score=None, time=1608465126, title=None, item_type='comment', url=None, parent=25484801, text='AVX512 is a waste of transistors for most workloads.')

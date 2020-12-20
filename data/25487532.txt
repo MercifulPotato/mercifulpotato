@@ -1,0 +1,1 @@
+Item(by='bitL', descendants=None, kids=None, score=None, time=1608482856, title=None, item_type='comment', url=None, parent=25482883, text='This must be an older bug because after an upgrade ~2 months ago an automatic chkdsk run when fastboot was enabled took down all partitions on a SSD where I had Windows 7 installed. Intel system.')

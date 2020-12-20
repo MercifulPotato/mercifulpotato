@@ -1,1 +1,1 @@
-Item(by='gabea', descendants=0, kids=None, score=2, time=1608466157, title='Faulty planes reportedly poison passengers on hundreds of flights', item_type='story', url='https://futurism.com/the-byte/faulty-planes-reportedly-poisoned-passengers', parent=None, text=None)
+Item(by='gabea', descendants=3, kids=[25486716, 25486457], score=10, time=1608466157, title='Faulty planes reportedly poison passengers on hundreds of flights', item_type='story', url='https://futurism.com/the-byte/faulty-planes-reportedly-poisoned-passengers', parent=None, text=None)

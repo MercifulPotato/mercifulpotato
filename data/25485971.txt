@@ -1,1 +1,1 @@
-Item(by='tremon', descendants=None, kids=None, score=None, time=1608469638, title=None, item_type='comment', url=None, parent=25485874, text='No, not really. The word &quot;user&quot; starts with a consonant sound, for example, even though &quot;u&quot; is a written vowel.')
+Item(by='tremon', descendants=None, kids=[25488072], score=None, time=1608469638, title=None, item_type='comment', url=None, parent=25485874, text='No, not really. The word &quot;user&quot; starts with a consonant sound, for example, even though &quot;u&quot; is a written vowel.')

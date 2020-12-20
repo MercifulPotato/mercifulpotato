@@ -1,1 +1,1 @@
-Item(by='kingosticks', descendants=None, kids=None, score=None, time=1608474074, title=None, item_type='comment', url=None, parent=25485877, text='Can you expand on why?')
+Item(by='kingosticks', descendants=None, kids=[25488126, 25486858], score=None, time=1608474074, title=None, item_type='comment', url=None, parent=25485877, text='Can you expand on why?')

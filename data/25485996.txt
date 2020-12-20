@@ -1,1 +1,1 @@
-Item(by='egor2820', descendants=None, kids=None, score=None, time=1608469984, title=None, item_type='comment', url=None, parent=25483428, text='I actually fall asleep before that moment comes')
+Item(by='egor2820', descendants=None, kids=[25487223], score=None, time=1608469984, title=None, item_type='comment', url=None, parent=25483428, text='I actually fall asleep before that moment comes')

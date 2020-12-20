@@ -1,1 +1,1 @@
-Item(by='rasz', descendants=None, kids=None, score=None, time=1608471185, title=None, item_type='comment', url=None, parent=25479407, text='Belgium population 11.5m, buys 33m units.<p>UK pop 66.5m, buys 357m units.<p>WTF? Are they all planning to resell vaccines?')
+Item(by='rasz', descendants=None, kids=[25486656], score=None, time=1608471185, title=None, item_type='comment', url=None, parent=25479407, text='Belgium population 11.5m, buys 33m units.<p>UK pop 66.5m, buys 357m units.<p>WTF? Are they all planning to resell vaccines?')

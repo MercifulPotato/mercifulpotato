@@ -1,1 +1,1 @@
-Item(by='enriquto', descendants=None, kids=None, score=None, time=1608403215, title=None, item_type='comment', url=None, parent=25478659, text='It&#x27;s not bizarre.  Certainly most &quot;science-minded&quot; people at the time of Galileo would be the most eager to burn him.')
+Item(by='enriquto', descendants=None, kids=[25487665], score=None, time=1608403215, title=None, item_type='comment', url=None, parent=25478659, text='It&#x27;s not bizarre.  Certainly most &quot;science-minded&quot; people at the time of Galileo would be the most eager to burn him.')

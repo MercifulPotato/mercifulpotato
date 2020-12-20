@@ -1,0 +1,1 @@
+Item(by='africanboy', descendants=None, kids=[25486722], score=None, time=1608476400, title=None, item_type='comment', url=None, parent=25486410, text='The project HydrOS aimed to build an Erlang operating system that way: one core for the OS, one scheduler per core other than the OS one.<p>Unfortunately it looks the project is now abandoned')

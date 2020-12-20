@@ -1,1 +1,1 @@
-Item(by='kbar13', descendants=None, kids=None, score=None, time=1608455498, title=None, item_type='comment', url=None, parent=25475956, text='i felt the same way 25 hours in... don&#x27;t worry you&#x27;ll start hitting really bad bugs. especially in the last few mainline missions')
+Item(by='kbar13', descendants=None, kids=[25488394], score=None, time=1608455498, title=None, item_type='comment', url=None, parent=25475956, text='i felt the same way 25 hours in... don&#x27;t worry you&#x27;ll start hitting really bad bugs. especially in the last few mainline missions')

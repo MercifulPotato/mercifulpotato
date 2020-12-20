@@ -1,1 +1,1 @@
-Item(by='tomohawk', descendants=None, kids=None, score=None, time=1608472016, title=None, item_type='comment', url=None, parent=25485975, text='The dangers of relying on &quot;consensus&quot; instead of actual science.')
+Item(by='tomohawk', descendants=None, kids=[25486528], score=None, time=1608472016, title=None, item_type='comment', url=None, parent=25485975, text='The dangers of relying on &quot;consensus&quot; instead of actual science.')

@@ -1,1 +1,1 @@
-Item(by='bob_doggo', descendants=None, kids=None, score=None, time=1608412121, title=None, item_type='comment', url=None, parent=25474519, text='I would guess that spying is illegal in every country on the planet...<p>And the sentences are usually very harsh...')
+Item(by='bob_doggo', descendants=None, kids=[25487140], score=None, time=1608412121, title=None, item_type='comment', url=None, parent=25474519, text='I would guess that spying is illegal in every country on the planet...<p>And the sentences are usually very harsh...')

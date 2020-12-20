@@ -1,0 +1,1 @@
+Item(by='halfdan', descendants=None, kids=None, score=None, time=1608485658, title=None, item_type='comment', url=None, parent=25487840, text='That&#x27;s the GPU which I would expect to be fairly idle on a cluster of any sort unless you&#x27;re doing GPU computing (and then why are you using a Pi?)')

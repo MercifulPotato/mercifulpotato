@@ -1,1 +1,1 @@
-Item(by='_cart', descendants=23, kids=[25481094, 25480432, 25480961, 25480941, 25481054, 25481009], score=110, time=1608405893, title='Bevy 0.4: data oriented game engine built in Rust', item_type='story', url='https://bevyengine.org/news/bevy-0-4/', parent=None, text=None)
+Item(by='_cart', descendants=23, kids=[25481094, 25480432, 25480961, 25480941, 25481054, 25481009], score=112, time=1608405893, title='Bevy 0.4: data oriented game engine built in Rust', item_type='story', url='https://bevyengine.org/news/bevy-0-4/', parent=None, text=None)

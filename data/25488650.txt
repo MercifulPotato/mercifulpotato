@@ -1,0 +1,1 @@
+Item(by='Retric', descendants=None, kids=None, score=None, time=1608490894, title=None, item_type='comment', url=None, parent=25488145, text='As we are talking about comparing different CPU architectures it’s the external latency that’s important.  Even then I have been looking at sub 25ns on AMD CPU memory benchmarks and I assume similar Intel numbers.')

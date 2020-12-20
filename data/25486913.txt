@@ -1,0 +1,1 @@
+Item(by='user5994461', descendants=None, kids=None, score=None, time=1608478379, title=None, item_type='comment', url=None, parent=25486011, text='They should set both the minimum size and maximum size to 4 GB (assuming it&#x27;s enough).<p>Heap resizing has a much bigger impact on performance than garbage collection.')

@@ -1,0 +1,1 @@
+Item(by='dawnerd', descendants=None, kids=[25488861, 25488229], score=None, time=1608486724, title=None, item_type='comment', url=None, parent=25485493, text='I’ve been meaning to give something like this a shot to assist in lazy loading large images. Generate a low complexity svg that is hopefully pretty small and just fade in the full image once loaded.')
