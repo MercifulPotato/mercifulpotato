@@ -1,0 +1,1 @@
+Item(by='hokkos', descendants=None, kids=None, score=None, time=1608460601, title=None, item_type='comment', url=None, parent=25483758, text='For rust it is just that llvm has les work to do on arm than x86, less passes, less complex register optimisation.')

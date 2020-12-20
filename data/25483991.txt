@@ -1,1 +1,1 @@
-Item(by='amelius', descendants=None, kids=None, score=None, time=1608440422, title=None, item_type='comment', url=None, parent=25483572, text='But perhaps it would help to hire some software <i>architects</i> as well?')
+Item(by='amelius', descendants=None, kids=[25485804], score=None, time=1608440422, title=None, item_type='comment', url=None, parent=25483572, text='But perhaps it would help to hire some software <i>architects</i> as well?')

@@ -1,0 +1,1 @@
+Item(by='francis-io', descendants=None, kids=None, score=None, time=1608469767, title=None, item_type='comment', url=None, parent=25481465, text='I set up a public facing nextcloud server on my own domain. The login got hammered within days. I took it down and plan to only bring it up behind a wireguard connection. Lesson learnt.')

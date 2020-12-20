@@ -1,0 +1,1 @@
+Item(by='grey-area', descendants=None, kids=None, score=None, time=1608461172, title=None, item_type='comment', url=None, parent=25484596, text='Serverless comes with its own problems though - a less seamless dev experience and cold starts plus you have to host your data on their choice of data store etc.')

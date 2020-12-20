@@ -1,1 +1,1 @@
-Item(by='tomcam', descendants=None, kids=None, score=None, time=1608449583, title=None, item_type='comment', url=None, parent=25482938, text='The graphics appear to be surprisingly intense. Was it a long exposure or filtered?')
+Item(by='tomcam', descendants=None, kids=[25485013], score=None, time=1608449583, title=None, item_type='comment', url=None, parent=25482938, text='The graphics appear to be surprisingly intense. Was it a long exposure or filtered?')

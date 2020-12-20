@@ -1,0 +1,1 @@
+Item(by='SomeoneFromCA', descendants=None, kids=None, score=None, time=1608457832, title=None, item_type='comment', url=None, parent=25484996, text='Linux (and possibly BSDs, did not test) has broken OOM killer, which works the right way only if your swap is disabled. To prevent these situations from happening you need to install EarlyOOM.')

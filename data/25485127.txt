@@ -1,0 +1,1 @@
+Item(by='Bancakes', descendants=None, kids=None, score=None, time=1608458304, title=None, item_type='comment', url=None, parent=25484078, text='It&#x27;s semantically the same and the compiler should know that. But I do agree [][] makes more sense. The jth index of the ith array.')

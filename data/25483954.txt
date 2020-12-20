@@ -1,1 +1,1 @@
-Item(by='ChicagoDave', descendants=None, kids=None, score=None, time=1608439856, title=None, item_type='comment', url=None, parent=25482883, text='I paused updates until next year. Hopefully this gets resolved.')
+Item(by='ChicagoDave', descendants=None, kids=[25485277], score=None, time=1608439856, title=None, item_type='comment', url=None, parent=25482883, text='I paused updates until next year. Hopefully this gets resolved.')

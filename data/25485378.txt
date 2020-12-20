@@ -1,0 +1,1 @@
+Item(by='Dylan16807', descendants=None, kids=None, score=None, time=1608461734, title=None, item_type='comment', url=None, parent=25484673, text='&gt; The RISC-V has a terrible Instruction-per-Clock<p>How so?  For one it&#x27;s an instruction set, not a core design, but more importantly how is RISC-V harder to parallelize than Arm?')

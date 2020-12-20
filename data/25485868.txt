@@ -1,0 +1,1 @@
+Item(by='Athas', descendants=None, kids=None, score=None, time=1608468216, title=None, item_type='comment', url=None, parent=25484078, text='It&#x27;s not the same when you support slicing.  foo[x:y][z] is not the same as foo[x:y,z].  I&#x27;m not sure anyone is proposing slicing to be supported with the indexing operator in C++, though, so it might not matter.')

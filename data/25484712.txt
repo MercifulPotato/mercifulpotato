@@ -1,1 +1,1 @@
-Item(by='tobyhinloopen', descendants=None, kids=None, score=None, time=1608451236, title=None, item_type='comment', url=None, parent=25481143, text='I’m just sitting here wondering why a mobile chip from a 1100$ fan-less notebook is even a challenging contender in this race')
+Item(by='tobyhinloopen', descendants=None, kids=[25485955], score=None, time=1608451236, title=None, item_type='comment', url=None, parent=25481143, text='I’m just sitting here wondering why a mobile chip from a 1100$ fan-less notebook is even a challenging contender in this race')

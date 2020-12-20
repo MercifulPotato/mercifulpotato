@@ -1,1 +1,1 @@
-Item(by='627467', descendants=None, kids=None, score=None, time=1608428709, title=None, item_type='comment', url=None, parent=25482850, text='Is this hosted on dynamic IP? How do you handle that so mobile clients can auto-upload to the server?')
+Item(by='627467', descendants=None, kids=[25484916], score=None, time=1608428709, title=None, item_type='comment', url=None, parent=25482850, text='Is this hosted on dynamic IP? How do you handle that so mobile clients can auto-upload to the server?')

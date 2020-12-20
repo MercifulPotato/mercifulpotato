@@ -1,1 +1,1 @@
-Item(by='rakwoelq', descendants=None, kids=None, score=None, time=1608438645, title=None, item_type='comment', url=None, parent=25478094, text='Are there any future plans to bring this wonderful application to Flatpak too?')
+Item(by='rakwoelq', descendants=None, kids=[25486061], score=None, time=1608438645, title=None, item_type='comment', url=None, parent=25478094, text='Are there any future plans to bring this wonderful application to Flatpak too?')

@@ -1,1 +1,1 @@
-Item(by='AnimalMuppet', descendants=None, kids=None, score=None, time=1608434307, title=None, item_type='comment', url=None, parent=25482109, text='Someone who confuses a workplace with a police state is someone who almost certainly has never lived in a police state.')
+Item(by='AnimalMuppet', descendants=None, kids=[25485872], score=None, time=1608434307, title=None, item_type='comment', url=None, parent=25482109, text='Someone who confuses a workplace with a police state is someone who almost certainly has never lived in a police state.')

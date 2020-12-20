@@ -1,1 +1,1 @@
-Item(by='fyolnish', descendants=None, kids=None, score=None, time=1608423258, title=None, item_type='comment', url=None, parent=25479029, text='Yeah, that&#x27;s just as bad as the Max.')
+Item(by='fyolnish', descendants=None, kids=[25485169], score=None, time=1608423258, title=None, item_type='comment', url=None, parent=25479029, text='Yeah, that&#x27;s just as bad as the Max.')

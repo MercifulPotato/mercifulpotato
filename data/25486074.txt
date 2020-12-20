@@ -1,0 +1,1 @@
+Item(by='Raz2', descendants=None, kids=None, score=None, time=1608470877, title=None, item_type='comment', url=None, parent=25484436, text='Don’t use django models in domain logic. I found it useful to map models to dataclasses inside DB layer and keep domain logic framework agnostic.')

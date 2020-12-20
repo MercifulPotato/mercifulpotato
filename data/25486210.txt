@@ -1,0 +1,1 @@
+Item(by='socialdemocrat', descendants=None, kids=None, score=None, time=1608472501, title=None, item_type='comment', url=None, parent=25485617, text='Yes but that is all included in an ISA. A CPU ISA specifies opcodes as well as semantics. Together that affects what optimizations you can do. Or rather how much silicon and brain power you need to accomplish it.')
