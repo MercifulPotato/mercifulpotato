@@ -1,0 +1,1 @@
+Item(by='reactor', descendants=None, kids=None, score=None, time=1608551403, title=None, item_type='comment', url=None, parent=25465582, text='Frontend : Svelte<p>Backend : Java (Quarkus)<p>DB : PostgreSQL<p>Deployed on a VM via docker.<p>Not that fancy, but they just work.')

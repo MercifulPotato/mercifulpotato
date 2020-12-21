@@ -1,0 +1,1 @@
+Item(by='loremipsium', descendants=None, kids=None, score=None, time=1608539413, title=None, item_type='comment', url=None, parent=25492406, text='There is an interesting paper on bouyancy optimization in 3d printing. You could define a waterline and orientation on any 3d shape and print it so that it stays afloat.')

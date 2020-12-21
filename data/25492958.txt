@@ -1,1 +1,1 @@
-Item(by='oblio', descendants=None, kids=None, score=None, time=1608537259, title=None, item_type='comment', url=None, parent=25489580, text='Or you know, the general decline of desktops from &quot;the only computing&quot; to &quot;secondary computing after mobile&quot;.')
+Item(by='oblio', descendants=None, kids=[25493409], score=None, time=1608537259, title=None, item_type='comment', url=None, parent=25489580, text='Or you know, the general decline of desktops from &quot;the only computing&quot; to &quot;secondary computing after mobile&quot;.')

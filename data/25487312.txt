@@ -1,1 +1,1 @@
-Item(by='saddlerustle', descendants=None, kids=None, score=None, time=1608481425, title=None, item_type='comment', url=None, parent=25487220, text='That sounds low. Booking.com can do ~€150k TC for senior engineers, and several finance places including optiver will do &gt;€200k')
+Item(by='saddlerustle', descendants=None, kids=[25494146], score=None, time=1608481425, title=None, item_type='comment', url=None, parent=25487220, text='That sounds low. Booking.com can do ~€150k TC for senior engineers, and several finance places including optiver will do &gt;€200k')

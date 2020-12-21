@@ -1,1 +1,1 @@
-Item(by='sgerenser', descendants=None, kids=None, score=None, time=1608518971, title=None, item_type='comment', url=None, parent=25485488, text='M1 will not throttle in the Mac mini, only in the fanless MacBook Air.')
+Item(by='sgerenser', descendants=None, kids=[25493523], score=None, time=1608518971, title=None, item_type='comment', url=None, parent=25485488, text='M1 will not throttle in the Mac mini, only in the fanless MacBook Air.')

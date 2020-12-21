@@ -1,0 +1,1 @@
+Item(by='bamboleo', descendants=None, kids=[25493272, 25493163], score=None, time=1608539546, title=None, item_type='comment', url=None, parent=25492945, text='JS is ok, it’s the DOM APIs that are verbose. I mean this is just to <i>handle</i> the enter key:<p><pre><code>    f.addEventListener(&#x27;keypress&#x27;,e=&gt;{if(e.keyCode==000) etc()})</code></pre>')

@@ -1,1 +1,1 @@
-Item(by='ithkuil', descendants=None, kids=None, score=None, time=1608532974, title=None, item_type='comment', url=None, parent=25485327, text='Do we have any indication apple has a similar management cpu buried somewhere?')
+Item(by='ithkuil', descendants=None, kids=[25493128], score=None, time=1608532974, title=None, item_type='comment', url=None, parent=25485327, text='Do we have any indication apple has a similar management cpu buried somewhere?')

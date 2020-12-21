@@ -1,1 +1,1 @@
-Item(by='npad', descendants=0, kids=None, score=5, time=1608529443, title='Herald – Bluetooth contact tracing protocol', item_type='story', url='https://vmware.github.io/herald/', parent=None, text=None)
+Item(by='npad', descendants=17, kids=[25493756, 25493080, 25493199, 25494492], score=36, time=1608529443, title='Herald – Bluetooth contact tracing protocol', item_type='story', url='https://vmware.github.io/herald/', parent=None, text=None)

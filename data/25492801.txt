@@ -1,1 +1,1 @@
-Item(by='gesaint', descendants=0, kids=None, score=1, time=1608535161, title='Why does Vitess recommend 250GB per MySQL server?', item_type='story', url='https://vitess.io/blog/2019-09-03-why-250gb-shards/', parent=None, text=None)
+Item(by='gesaint', descendants=0, kids=None, score=2, time=1608535161, title='Why does Vitess recommend 250GB per MySQL server?', item_type='story', url='https://vitess.io/blog/2019-09-03-why-250gb-shards/', parent=None, text=None)

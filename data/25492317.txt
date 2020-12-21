@@ -1,1 +1,1 @@
-Item(by='barlog', descendants=None, kids=None, score=None, time=1608527708, title=None, item_type='comment', url=None, parent=25491998, text='Yep, it is 44 meters long.')
+Item(by='barlog', descendants=None, kids=[25493748], score=None, time=1608527708, title=None, item_type='comment', url=None, parent=25491998, text='Yep, it is 44 meters long.')

@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=2, time=1608509237, title='An oral history of the Bed Bath and Beyond coupon', item_type='story', url='https://www.nytimes.com/2020/12/19/business/bed-bath-and-beyond-coupon.html', parent=None, text=None)
+Item(by='pseudolus', descendants=6, kids=[25494885, 25494709, 25494567], score=13, time=1608509237, title='An oral history of the Bed Bath and Beyond coupon', item_type='story', url='https://www.nytimes.com/2020/12/19/business/bed-bath-and-beyond-coupon.html', parent=None, text=None)

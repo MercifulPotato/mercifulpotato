@@ -1,0 +1,1 @@
+Item(by='buckminster', descendants=None, kids=None, score=None, time=1608561169, title=None, item_type='comment', url=None, parent=25494330, text='Oh God yes!  You get an obscure syntax error and it really isn&#x27;t obvious what the problem is.  It would be useful if syntax highlighting marked smart quotes (outside of strings) with a bright red background or something.')

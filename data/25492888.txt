@@ -1,1 +1,1 @@
-Item(by='rukshn', descendants=None, kids=None, score=None, time=1608536328, title=None, item_type='comment', url=None, parent=25492885, text='Op here: you can’t do it with plain js')
+Item(by='rukshn', descendants=None, kids=[25493341, 25492945, 25493139], score=None, time=1608536328, title=None, item_type='comment', url=None, parent=25492885, text='Op here: you can’t do it with plain js\nPlus it’s ok to use frameworks according to the tweet')

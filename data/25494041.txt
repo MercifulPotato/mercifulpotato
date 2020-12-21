@@ -1,0 +1,1 @@
+Item(by='lou1306', descendants=None, kids=None, score=None, time=1608551357, title=None, item_type='comment', url=None, parent=25493810, text='Still, Apalache is essentially a bounded model checker (with support for inductive invariants), so it would be nice if someone managed to use Z3 to verify more complex properties.')

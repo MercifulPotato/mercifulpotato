@@ -1,1 +1,1 @@
-Item(by='fulafel', descendants=None, kids=None, score=None, time=1608453638, title=None, item_type='comment', url=None, parent=25483750, text='Nitpick: It&#x27;s 4266 MT&#x2F;s (at 2133 MHz). DDR is 2 transfers per clock.')
+Item(by='fulafel', descendants=None, kids=[25493714], score=None, time=1608453638, title=None, item_type='comment', url=None, parent=25483750, text='Nitpick: It&#x27;s 4266 MT&#x2F;s (at 2133 MHz). DDR is 2 transfers per clock.')

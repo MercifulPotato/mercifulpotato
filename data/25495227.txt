@@ -1,0 +1,1 @@
+Item(by='cb321', descendants=None, kids=None, score=None, time=1608561063, title=None, item_type='comment', url=None, parent=25494945, text='I belive zimbatm refers to the bash-specific ${var@Q} to expand to a form suitable as re-input into the shell.  There are a few other bash-specific syntaxes like that (under &quot;parameter transformation&quot; in the manual page).')

@@ -1,1 +1,1 @@
-Item(by='gmays', descendants=2, kids=[25492268, 25492365], score=4, time=1608524737, title='Command Line Interface Guidelines', item_type='story', url='https://clig.dev/?', parent=None, text=None)
+Item(by='gmays', descendants=5, kids=[25493325, 25493297, 25492365, 25492268, 25493512], score=17, time=1608524737, title='Command Line Interface Guidelines', item_type='story', url='https://clig.dev/?', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='baybal2', descendants=None, kids=None, score=None, time=1608552036, title=None, item_type='comment', url=None, parent=25493353, text='&gt; The natural JS leakiness gets amplified if a leaked part references any JS object.<p>* The natural JS leakiness gets amplified if a leaked part references any Java object.')

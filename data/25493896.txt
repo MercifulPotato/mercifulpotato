@@ -1,0 +1,1 @@
+Item(by='hbbio', descendants=None, kids=[25494054, 25494017], score=None, time=1608549664, title=None, item_type='comment', url=None, parent=25493606, text='&quot;Error establishing a database connection&quot;<p>In 2020, you would expect websites not to require a database connection for main views - or at least support a degraded mode (tracking off...).')

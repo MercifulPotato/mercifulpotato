@@ -1,0 +1,1 @@
+Item(by='mrsareen', descendants=None, kids=None, score=None, time=1608548685, title=None, item_type='comment', url=None, parent=25491687, text='There is a automatic restart option in systemctl that solves this exact issue -<p>[Service]\nRestart=on-failure\nRestartSec=5s')

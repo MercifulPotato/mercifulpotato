@@ -1,1 +1,1 @@
-Item(by='filipn', descendants=24, kids=[25491103, 25493035, 25491012, 25491505, 25491205], score=168, time=1608503095, title='eBPF Is Awesome', item_type='story', url='https://filipnikolovski.com/posts/ebpf/', parent=None, text=None)
+Item(by='filipn', descendants=34, kids=[25491103, 25493277, 25491012, 25493501, 25493035, 25491505, 25491205], score=237, time=1608503095, title='eBPF Is Awesome', item_type='story', url='https://filipnikolovski.com/posts/ebpf/', parent=None, text=None)

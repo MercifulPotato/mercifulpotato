@@ -1,1 +1,1 @@
-Item(by='_huayra_', descendants=None, kids=None, score=None, time=1608530796, title=None, item_type='comment', url=None, parent=25490753, text='Wow this is wild! I never thought things would get so latency-sensitive that one would have to overlap request and response!')
+Item(by='_huayra_', descendants=None, kids=[25494339], score=None, time=1608530796, title=None, item_type='comment', url=None, parent=25490753, text='Wow this is wild! I never thought things would get so latency-sensitive that one would have to overlap request and response!')
