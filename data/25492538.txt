@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=None, score=None, time=1608531180, title=None, item_type='comment', url=None, parent=25491788, text='I mean, C++ has lots of compile-time abstractions, but unlike with other languages, it can collapse a lot of them during compilation via its inlining and other optimizations. You don&#x27;t get that with a language like Python...')

@@ -1,1 +1,1 @@
-Item(by='josiasaurel', descendants=0, kids=None, score=2, time=1608468829, title='Python Print() and Beyond', item_type='story', url='https://josiasdev.best/python-print-and-beyond', parent=None, text=None)
+Item(by='josiasaurel', descendants=16, kids=[25491937, 25491837, 25492200, 25491906, 25492474, 25491863], score=42, time=1608468829, title='Python Print() and Beyond', item_type='story', url='https://josiasdev.best/python-print-and-beyond', parent=None, text=None)

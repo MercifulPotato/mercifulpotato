@@ -1,0 +1,1 @@
+Item(by='akhilcacharya', descendants=None, kids=[25492394, 25492583], score=None, time=1608527717, title=None, item_type='comment', url=None, parent=25491568, text='I’m interested in this “comptime” aspect. Zig has it too, but are there any other languages that use this? I’m under the impression that there’s a distinction between comptime evaluation and typical lisp macros.')

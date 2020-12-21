@@ -1,0 +1,1 @@
+Item(by='nneonneo', descendants=None, kids=None, score=None, time=1608529646, title=None, item_type='comment', url=None, parent=25492039, text='Hey, I did that exact thing (removing libc) on a QNX box years ago. I ended up restoring libc using a series of &quot;echo -ne&quot; commands (generated with a script, and then pasted into the SSH session I thankfully still had open).')

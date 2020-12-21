@@ -1,1 +1,1 @@
-Item(by='DoofusOfDeath', descendants=None, kids=None, score=None, time=1608515750, title=None, item_type='comment', url=None, parent=25491303, text='Not sure what more to say. Was there something specific?')
+Item(by='DoofusOfDeath', descendants=None, kids=[25492504], score=None, time=1608515750, title=None, item_type='comment', url=None, parent=25491303, text='Not sure what more to say. Was there something specific?')

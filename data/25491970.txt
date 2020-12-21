@@ -1,0 +1,1 @@
+Item(by='canofbars', descendants=None, kids=[25492397], score=None, time=1608522536, title=None, item_type='comment', url=None, parent=25491834, text='Gnome with wayland supports it but every time you start an xwayland app you notice issues. Native wayland&#x2F;gtk3 apps have been flawless for me. Things just snap to the new scale when you drag them across.')

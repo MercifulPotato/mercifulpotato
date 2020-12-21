@@ -1,1 +1,1 @@
-Item(by='nakabonne', descendants=0, kids=None, score=11, time=1608470250, title='Understanding how AES encryption works', item_type='story', url='https://nakabonne.dev/posts/understanding-how-aes-encryption-works/', parent=None, text=None)
+Item(by='nakabonne', descendants=13, kids=[25492032, 25492548, 25492453, 25492304, 25492856], score=57, time=1608470250, title='Understanding how AES encryption works', item_type='story', url='https://nakabonne.dev/posts/understanding-how-aes-encryption-works/', parent=None, text=None)

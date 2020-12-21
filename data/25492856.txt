@@ -1,0 +1,1 @@
+Item(by='bccdee', descendants=None, kids=[25492870], score=None, time=1608535863, title=None, item_type='comment', url=None, parent=25486017, text='Wait, this is the official Go implementation of AES for when AES-specific hardware instructions aren&#x27;t available? It&#x27;s not bitsliced. Doesn&#x27;t that make it vulnerable to timing attacks?')

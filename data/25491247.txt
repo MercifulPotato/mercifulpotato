@@ -1,1 +1,1 @@
-Item(by='dehrmann', descendants=None, kids=None, score=None, time=1608514309, title=None, item_type='comment', url=None, parent=25487059, text='I wonder if any of the GTA games are large enough to do the same.')
+Item(by='dehrmann', descendants=None, kids=[25492125], score=None, time=1608514309, title=None, item_type='comment', url=None, parent=25487059, text='I wonder if any of the GTA games are large enough to do the same.')

@@ -1,1 +1,1 @@
-Item(by='dustingetz', descendants=0, kids=None, score=1, time=1608505597, title='Self-Adjusting Computation', item_type='story', url='https://github.com/janestreet/incremental/blob/04d50f09c102bffd38c387ca26a2267fb657f700/src/incremental_intf.ml', parent=None, text=None)
+Item(by='dustingetz', descendants=0, kids=None, score=2, time=1608505597, title='Self-Adjusting Computation', item_type='story', url='https://github.com/janestreet/incremental/blob/04d50f09c102bffd38c387ca26a2267fb657f700/src/incremental_intf.ml', parent=None, text=None)

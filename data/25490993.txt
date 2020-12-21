@@ -1,1 +1,1 @@
-Item(by='sfgweilr4f', descendants=None, kids=None, score=None, time=1608511379, title=None, item_type='comment', url=None, parent=25489885, text='What was old is new again. -- someone else<p>(rephrased Aurelius? Probably)')
+Item(by='sfgweilr4f', descendants=None, kids=[25491839], score=None, time=1608511379, title=None, item_type='comment', url=None, parent=25489885, text='What was old is new again. -- someone else<p>(rephrased Aurelius? Probably)')

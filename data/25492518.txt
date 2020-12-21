@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=[25492694, 25492649], score=None, time=1608530946, title=None, item_type='comment', url=None, parent=25492090, text='Yeah. That actually sucks; often iterators doesn&#x27;t fit the iteration model of some sequences, but ranges would fit right in if they didn&#x27;t require separability into two iterators.')

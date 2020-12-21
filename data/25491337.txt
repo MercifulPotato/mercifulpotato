@@ -1,1 +1,1 @@
-Item(by='foxhop', descendants=None, kids=None, score=None, time=1608515220, title=None, item_type='comment', url=None, parent=25486310, text='I&#x27;d take 6 old ThinkPad over 6 new Pi any day. :)<p>I host a lot out of my house on a T430S with a cracked screen.')
+Item(by='foxhop', descendants=None, kids=[25492890], score=None, time=1608515220, title=None, item_type='comment', url=None, parent=25486310, text='I&#x27;d take 6 old ThinkPad over 6 new Pi any day. :)<p>I host a lot out of my house on a T430S with a cracked screen.')

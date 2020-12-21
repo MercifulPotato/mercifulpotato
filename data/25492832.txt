@@ -1,0 +1,1 @@
+Item(by='tracker1', descendants=None, kids=None, score=None, time=1608535611, title=None, item_type='comment', url=None, parent=25483479, text='Try disabling the Chrome background update mechanism in MacOS, it seems to be a common issue there... Not sure if Edge does the same, but that may be an alternative option.')

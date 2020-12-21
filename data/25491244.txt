@@ -1,1 +1,1 @@
-Item(by='mixmastamyk', descendants=None, kids=None, score=None, time=1608514276, title=None, item_type='comment', url=None, parent=25490604, text='Giant tracebacks that no one could help with.  I&#x27;ll try again soon with 2.0.')
+Item(by='mixmastamyk', descendants=None, kids=[25492754], score=None, time=1608514276, title=None, item_type='comment', url=None, parent=25490604, text='Giant tracebacks that no one could help with.  I&#x27;ll try again soon with 2.0.')
