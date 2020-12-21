@@ -1,1 +1,1 @@
-Item(by='bosswipe', descendants=None, kids=None, score=None, time=1608460224, title=None, item_type='comment', url=None, parent=25481581, text='&quot;An air&quot;? The obsessive hate doesn&#x27;t sound that rational.')
+Item(by='bosswipe', descendants=None, kids=[25490378], score=None, time=1608460224, title=None, item_type='comment', url=None, parent=25481581, text='&quot;An air&quot;? The obsessive hate doesn&#x27;t sound that rational.')

@@ -1,1 +1,1 @@
-Item(by='FlyMoreRockets', descendants=0, kids=None, score=1, time=1608492904, title='Jan 1 is Public Domain Day for 1925', item_type='story', url='https://pluralistic.net/2020/12/16/fraught-superpowers/#public-domain-day', parent=None, text=None)
+Item(by='FlyMoreRockets', descendants=2, kids=[25489320, 25489416], score=4, time=1608492904, title='Jan 1 is Public Domain Day for 1925', item_type='story', url='https://pluralistic.net/2020/12/16/fraught-superpowers/#public-domain-day', parent=None, text=None)

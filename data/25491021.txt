@@ -1,0 +1,1 @@
+Item(by='colanderman', descendants=None, kids=None, score=None, time=1608511668, title=None, item_type='comment', url=None, parent=25490850, text='&quot;Malice&quot; doesn&#x27;t need to come into play.  A thread could simply be waiting in line behind a non-preemptible thread which does not relinquish the CPU due to a bug.')

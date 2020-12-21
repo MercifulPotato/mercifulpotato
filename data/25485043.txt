@@ -1,1 +1,1 @@
-Item(by='pedro2', descendants=None, kids=None, score=None, time=1608456770, title=None, item_type='comment', url=None, parent=25472034, text='I certainly hope not. Why bother with the double QA if the encryption backdoor is perfectly safe?')
+Item(by='pedro2', descendants=None, kids=[25490452], score=None, time=1608456770, title=None, item_type='comment', url=None, parent=25472034, text='I certainly hope not. Why bother with the double QA if the encryption backdoor is perfectly safe?')

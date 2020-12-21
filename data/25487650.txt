@@ -1,1 +1,1 @@
-Item(by='SyzygistSix', descendants=None, kids=None, score=None, time=1608483778, title=None, item_type='comment', url=None, parent=25484134, text='I would suggest paying attention to the ones that speak to you.')
+Item(by='SyzygistSix', descendants=None, kids=[25490449], score=None, time=1608483778, title=None, item_type='comment', url=None, parent=25484134, text='I would suggest paying attention to the ones that speak to you.')

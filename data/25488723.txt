@@ -1,1 +1,1 @@
-Item(by='faitswulff', descendants=None, kids=None, score=None, time=1608491495, title=None, item_type='comment', url=None, parent=25488374, text='Didn’t he recently publish an article about a drastically different way to approach machine learning called capsule networks?')
+Item(by='faitswulff', descendants=None, kids=[25491264], score=None, time=1608491495, title=None, item_type='comment', url=None, parent=25488374, text='Didn’t he recently publish an article about a drastically different way to approach machine learning called capsule networks?')

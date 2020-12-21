@@ -1,1 +1,1 @@
-Item(by='UncleSlacky', descendants=None, kids=None, score=None, time=1608490531, title=None, item_type='comment', url=None, parent=25488223, text='Ah, you mean the copy of the Tandy Color Computer...')
+Item(by='UncleSlacky', descendants=None, kids=[25489207], score=None, time=1608490531, title=None, item_type='comment', url=None, parent=25488223, text='Ah, you mean the copy of the Tandy Color Computer...')

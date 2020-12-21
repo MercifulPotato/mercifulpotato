@@ -1,1 +1,1 @@
-Item(by='kibwen', descendants=None, kids=None, score=None, time=1608493992, title=None, item_type='comment', url=None, parent=25488652, text='Hollow Knight is a masterpiece (perhaps the best Metroid-like ever made), but it scratches a very different itch than Lode Runner.')
+Item(by='kibwen', descendants=None, kids=[25489394], score=None, time=1608493992, title=None, item_type='comment', url=None, parent=25488652, text='Hollow Knight is a masterpiece (perhaps the best Metroid-like ever made), but it scratches a very different itch than Lode Runner.')

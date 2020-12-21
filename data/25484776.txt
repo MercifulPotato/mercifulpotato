@@ -1,1 +1,1 @@
-Item(by='aiNohY6g', descendants=0, kids=None, score=2, time=1608452405, title='Zhoreeq/ipfd: An imageboard, but images are stored in a peer-to-peer network', item_type='story', url='https://github.com/zhoreeq/ipfd', parent=None, text=None)
+Item(by='aiNohY6g', descendants=4, kids=[25491176, 25491212], score=17, time=1608452405, title='Zhoreeq/ipfd: An imageboard, but images are stored in a peer-to-peer network', item_type='story', url='https://github.com/zhoreeq/ipfd', parent=None, text=None)

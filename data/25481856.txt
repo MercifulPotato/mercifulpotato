@@ -1,1 +1,1 @@
-Item(by='rolph', descendants=None, kids=None, score=None, time=1608416830, title=None, item_type='comment', url=None, parent=25481758, text='machine learning is not a concept original to human tech, it is [perhaps] unintentional biomimicry')
+Item(by='rolph', descendants=None, kids=[25490650, 25491312], score=None, time=1608416830, title=None, item_type='comment', url=None, parent=25481758, text='machine learning is not a concept original to human tech, it is [perhaps] unintentional biomimicry')

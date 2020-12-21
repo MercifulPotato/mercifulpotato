@@ -1,0 +1,1 @@
+Item(by='canofbars', descendants=None, kids=[25490333], score=None, time=1608499208, title=None, item_type='comment', url=None, parent=25489508, text='I think the project wlroots exists to make it easy to just import wayland support so each DE&#x2F;WM doesn&#x27;t have to implement it.')

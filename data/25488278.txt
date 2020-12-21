@@ -1,1 +1,1 @@
-Item(by='emptyparadise', descendants=None, kids=None, score=None, time=1608488245, title=None, item_type='comment', url=None, parent=25488195, text='Looks a lot like Elementary. I like that GNOME didn&#x27;t go all in with flat design.')
+Item(by='emptyparadise', descendants=None, kids=[25489131], score=None, time=1608488245, title=None, item_type='comment', url=None, parent=25488195, text='Looks a lot like Elementary. I like that GNOME didn&#x27;t go all in with flat design.')

@@ -1,1 +1,1 @@
-Item(by='patatino', descendants=None, kids=None, score=None, time=1608490809, title=None, item_type='comment', url=None, parent=25487375, text='You don‘t have any contact information in your profile')
+Item(by='patatino', descendants=None, kids=[25490198], score=None, time=1608490809, title=None, item_type='comment', url=None, parent=25487375, text='You don‘t have any contact information in your profile')

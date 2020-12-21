@@ -1,1 +1,1 @@
-Item(by='layer8', descendants=None, kids=None, score=None, time=1608486595, title=None, item_type='comment', url=None, parent=25486583, text='It’s a mystery to me why is:open is the default. In most situations you also want any existing “closed” matches to be listed in the results.')
+Item(by='layer8', descendants=None, kids=[25489637], score=None, time=1608486595, title=None, item_type='comment', url=None, parent=25486583, text='It’s a mystery to me why is:open is the default. In most situations you also want any existing “closed” matches to be listed in the results.')

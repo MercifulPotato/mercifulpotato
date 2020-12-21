@@ -1,1 +1,1 @@
-Item(by='DonHopkins', descendants=None, kids=None, score=None, time=1608479590, title=None, item_type='comment', url=None, parent=25484738, text='Don&#x27;t forget Apple&#x27;s first transition from 6502 to 68k. That was pretty bumpy though.')
+Item(by='DonHopkins', descendants=None, kids=[25489325], score=None, time=1608479590, title=None, item_type='comment', url=None, parent=25484738, text='Don&#x27;t forget Apple&#x27;s first transition from 6502 to 68k. That was pretty bumpy though.')

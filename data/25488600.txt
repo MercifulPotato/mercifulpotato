@@ -1,1 +1,1 @@
-Item(by='morelisp', descendants=None, kids=None, score=None, time=1608490489, title=None, item_type='comment', url=None, parent=25488439, text='Perhaps not a great idea to complain about missing context when using software specifically designed to decontextualize something.')
+Item(by='morelisp', descendants=None, kids=[25490561], score=None, time=1608490489, title=None, item_type='comment', url=None, parent=25488439, text='Perhaps not a great idea to complain about missing context when using software specifically designed to decontextualize something.')

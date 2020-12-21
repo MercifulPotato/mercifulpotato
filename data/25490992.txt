@@ -1,0 +1,1 @@
+Item(by='SV_BubbleTime', descendants=None, kids=[25491255, 25491155], score=None, time=1608511359, title=None, item_type='comment', url=None, parent=25490544, text='Can you explain a bit? Are you saying they send messages as Swift objects&#x2F;structures directly? Instead of a serialization like JSON&#x2F;CBOR&#x2F;Proto&#x2F;Proprietary&#x2F;etc?')

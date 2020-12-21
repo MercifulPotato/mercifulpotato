@@ -1,0 +1,1 @@
+Item(by='ncmncm', descendants=None, kids=[25491737], score=None, time=1608516993, title=None, item_type='comment', url=None, parent=25490138, text='It seems worth mentioning that the code actually executing in the kernel, when it is running your eBPF, is native machine code, ahead-of-time compiled from the bytecode program you gave to the kernel.')

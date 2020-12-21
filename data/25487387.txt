@@ -1,1 +1,1 @@
-Item(by='thibaut_barrere', descendants=1, kids=[25488092], score=5, time=1608481908, title='Ruby 3.0.0 RC1 Released', item_type='story', url='https://www.ruby-lang.org/en/news/2020/12/20/ruby-3-0-0-rc1-released/', parent=None, text=None)
+Item(by='thibaut_barrere', descendants=1, kids=[25488092], score=9, time=1608481908, title='Ruby 3.0.0 RC1 Released', item_type='story', url='https://www.ruby-lang.org/en/news/2020/12/20/ruby-3-0-0-rc1-released/', parent=None, text=None)

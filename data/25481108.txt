@@ -1,1 +1,1 @@
-Item(by='daniel-cussen', descendants=None, kids=None, score=None, time=1608411386, title=None, item_type='comment', url=None, parent=25471178, text='That&#x27;s literally the biblical interpretation on this.')
+Item(by='daniel-cussen', descendants=None, kids=[25489816], score=None, time=1608411386, title=None, item_type='comment', url=None, parent=25471178, text='That&#x27;s literally the biblical interpretation on this.')

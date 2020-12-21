@@ -1,1 +1,1 @@
-Item(by='Torwald', descendants=None, kids=None, score=None, time=1608491534, title=None, item_type='comment', url=None, parent=25486446, text='These machines featured RiscOS as the operating system. It is the OS on which the Dock (as in macOS Dock, Taskbar) was invented.')
+Item(by='Torwald', descendants=None, kids=[25491287, 25490337], score=None, time=1608491534, title=None, item_type='comment', url=None, parent=25486446, text='These machines featured RiscOS as the operating system. It is the OS on which the Dock (as in macOS Dock, Taskbar) was invented.')

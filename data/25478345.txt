@@ -1,1 +1,1 @@
-Item(by='sergiomattei', descendants=None, kids=None, score=None, time=1608394698, title=None, item_type='comment', url=None, parent=25476069, text='Wait, the thing is flying towards us?!')
+Item(by='sergiomattei', descendants=None, kids=[25489690], score=None, time=1608394698, title=None, item_type='comment', url=None, parent=25476069, text='Wait, the thing is flying towards us?!')

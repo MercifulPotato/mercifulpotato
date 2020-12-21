@@ -1,0 +1,1 @@
+Item(by='insulanus', descendants=None, kids=None, score=None, time=1608511953, title=None, item_type='comment', url=None, parent=25490850, text='&quot;your worst enemy&quot; can be a stand-in for &quot;a faulty algorithm running on another thread&quot;.<p>Or, another way to look at it - a lock-free algorithm that allows starvation or livelock&#x2F;deadlock.')

@@ -1,1 +1,1 @@
-Item(by='dsego', descendants=1, kids=[25488278], score=5, time=1608487616, title='Major Design Changes Coming in Gnome 40, Out Next Year', item_type='story', url='https://www.omgubuntu.co.uk/2020/12/gnome-40-major-design-revamp', parent=None, text=None)
+Item(by='dsego', descendants=3, kids=[25490701, 25488278], score=12, time=1608487616, title='Major Design Changes Coming in Gnome 40, Out Next Year', item_type='story', url='https://www.omgubuntu.co.uk/2020/12/gnome-40-major-design-revamp', parent=None, text=None)

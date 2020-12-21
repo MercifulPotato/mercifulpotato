@@ -1,1 +1,1 @@
-Item(by='borjah', descendants=0, kids=None, score=3, time=1608478477, title='FIR Filter Design and Software Implementation in STM32', item_type='story', url='https://www.youtube.com/watch?v=7ca646DftxI', parent=None, text=None)
+Item(by='borjah', descendants=1, kids=[25489245], score=3, time=1608478477, title='FIR Filter Design and Software Implementation in STM32', item_type='story', url='https://www.youtube.com/watch?v=7ca646DftxI', parent=None, text=None)

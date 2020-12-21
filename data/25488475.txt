@@ -1,1 +1,1 @@
-Item(by='shyn3', descendants=None, kids=None, score=None, time=1608489701, title=None, item_type='comment', url=None, parent=25488445, text='My investment thesis was made prior to my purchase, not after. I make a decision and I stick to it. This is a 5-year investment for me.')
+Item(by='shyn3', descendants=None, kids=[25489435], score=None, time=1608489701, title=None, item_type='comment', url=None, parent=25488445, text='My investment thesis was made prior to my purchase, not after. I make a decision and I stick to it. This is a 5-year investment for me.')
