@@ -1,0 +1,1 @@
+Item(by='kaszanka', descendants=None, kids=[25497209], score=None, time=1608564976, title=None, item_type='comment', url=None, parent=25494543, text='Does escaping work? \\<i>\\</i>\nIt doesn&#x27;t, that&#x27;s interesting.<p><pre><code>  *a*b*c*d*\n</code></pre>\nLooks like a code block is the only option.')

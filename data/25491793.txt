@@ -1,1 +1,1 @@
-Item(by='gesaint', descendants=7, kids=[25492467, 25492071, 25492535, 25492876], score=39, time=1608520321, title='Life of a Vitess Cluster', item_type='story', url='https://vitess.io/blog/2020-04-27-life-of-a-cluster/', parent=None, text=None)
+Item(by='gesaint', descendants=8, kids=[25492467, 25492071, 25492535, 25492876], score=44, time=1608520321, title='Life of a Vitess Cluster', item_type='story', url='https://vitess.io/blog/2020-04-27-life-of-a-cluster/', parent=None, text=None)

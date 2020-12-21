@@ -1,0 +1,1 @@
+Item(by='perlgeek', descendants=None, kids=[25495744], score=None, time=1608562335, title=None, item_type='comment', url=None, parent=25494244, text='Do device drivers typically need to be Turing complete? I would have expect drivers for simple USB devices for example to be pretty simple state machines.')

@@ -1,1 +1,1 @@
-Item(by='dash2', descendants=None, kids=None, score=None, time=1608538776, title=None, item_type='comment', url=None, parent=25492752, text='How did it do compared to the iPhone?')
+Item(by='dash2', descendants=None, kids=[25499159], score=None, time=1608538776, title=None, item_type='comment', url=None, parent=25492752, text='How did it do compared to the iPhone?')

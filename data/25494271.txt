@@ -1,1 +1,1 @@
-Item(by='ceejayoz', descendants=None, kids=None, score=None, time=1608553574, title=None, item_type='comment', url=None, parent=25493993, text='Costco, to be fair, is a reseller. Totally different business model. They are, after all, <i>selling Apple devices</i>.')
+Item(by='ceejayoz', descendants=None, kids=[25495723], score=None, time=1608553574, title=None, item_type='comment', url=None, parent=25493993, text='Costco, to be fair, is a reseller. Totally different business model. They are, after all, <i>selling Apple devices</i>.')

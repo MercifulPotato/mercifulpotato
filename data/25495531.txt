@@ -1,0 +1,1 @@
+Item(by='Lio', descendants=None, kids=None, score=None, time=1608563155, title=None, item_type='comment', url=None, parent=25495346, text='You can still use the inline type hinting from Sorbet.\nSorbet is compatible with RBS and you&#x27;ll probably want to check types via Sorbet anyway.')

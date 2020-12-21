@@ -1,0 +1,1 @@
+Item(by='intricatedetail', descendants=None, kids=[25498356], score=None, time=1608578370, title=None, item_type='comment', url=None, parent=25497921, text='I had a quick look and that seems very convoluted. How do you decide which jsx goes to server and which to the client? Do you need to maintain jsx in both files? How to avoid duplication of code?')

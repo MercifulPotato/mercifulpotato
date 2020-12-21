@@ -1,1 +1,1 @@
-Item(by='wazoox', descendants=None, kids=None, score=None, time=1608552314, title=None, item_type='comment', url=None, parent=25493598, text='Also the co-founder of Docker (lots of French people at Docker too, from what I know).')
+Item(by='wazoox', descendants=None, kids=[25496885], score=None, time=1608552314, title=None, item_type='comment', url=None, parent=25493598, text='Also the co-founder of Docker (lots of French people at Docker too, from what I know).')

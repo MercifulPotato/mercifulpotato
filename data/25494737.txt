@@ -1,1 +1,1 @@
-Item(by='pro_metheu5', descendants=1, kids=[25494738], score=1, time=1608557602, title='Entire Linux Source Code Development History Visualized', item_type='story', url='https://www.visualsource.net/repo/github.com/torvalds/linux.git', parent=None, text=None)
+Item(by='pro_metheu5', descendants=2, kids=[25494738, 25497222], score=3, time=1608557602, title='Entire Linux Source Code Development History Visualized', item_type='story', url='https://www.visualsource.net/repo/github.com/torvalds/linux.git', parent=None, text=None)

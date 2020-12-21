@@ -1,1 +1,1 @@
-Item(by='api', descendants=None, kids=None, score=None, time=1608558244, title=None, item_type='comment', url=None, parent=25494800, text='It used to be better years ago IMHO. Then they reduced your opinion possibilities to up&#x2F;down and the recommendations seemed to get worse.')
+Item(by='api', descendants=None, kids=[25495584], score=None, time=1608558244, title=None, item_type='comment', url=None, parent=25494800, text='It used to be better years ago IMHO. Then they reduced your opinion possibilities to up&#x2F;down and the recommendations seemed to get worse.')

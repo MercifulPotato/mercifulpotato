@@ -1,0 +1,1 @@
+Item(by='buckminster', descendants=None, kids=None, score=None, time=1608562204, title=None, item_type='comment', url=None, parent=25490138, text='&gt; running a user space program inside the kernel<p>Isn&#x27;t it actually running a user program in kernel space?')

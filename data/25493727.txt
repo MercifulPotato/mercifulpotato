@@ -1,1 +1,1 @@
-Item(by='grumple', descendants=None, kids=None, score=None, time=1608547580, title=None, item_type='comment', url=None, parent=25492381, text='US law does not matter to law firms in Delhi...')
+Item(by='grumple', descendants=None, kids=[25497329], score=None, time=1608547580, title=None, item_type='comment', url=None, parent=25492381, text='US law does not matter to law firms in Delhi...')

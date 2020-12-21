@@ -1,1 +1,1 @@
-Item(by='passthejoe', descendants=None, kids=None, score=None, time=1608557560, title=None, item_type='comment', url=None, parent=25494728, text='The Chromium web browser in Debian Buster hasn&#x27;t been updated in more than six months. That is a problem.')
+Item(by='passthejoe', descendants=None, kids=[25498635], score=None, time=1608557560, title=None, item_type='comment', url=None, parent=25494728, text='The Chromium web browser in Debian Buster hasn&#x27;t been updated in more than six months. That is a problem.')

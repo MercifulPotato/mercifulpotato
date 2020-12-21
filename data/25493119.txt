@@ -1,1 +1,1 @@
-Item(by='koliber', descendants=None, kids=None, score=None, time=1608539370, title=None, item_type='comment', url=None, parent=25492507, text='In Poland, I wish I could buy really soft toilet paper, that’s readily available in the United States.')
+Item(by='koliber', descendants=None, kids=[25495130], score=None, time=1608539370, title=None, item_type='comment', url=None, parent=25492507, text='In Poland, I wish I could buy really soft toilet paper, that’s readily available in the United States.')

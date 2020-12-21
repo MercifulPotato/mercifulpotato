@@ -1,1 +1,1 @@
-Item(by='ktpsns', descendants=None, kids=None, score=None, time=1608555929, title=None, item_type='comment', url=None, parent=25494489, text='An asterisk character (star). Hackernews Wickes up this character.')
+Item(by='ktpsns', descendants=None, kids=[25495836], score=None, time=1608555929, title=None, item_type='comment', url=None, parent=25494489, text='An asterisk character (star). Hackernews Wickes up this character.')

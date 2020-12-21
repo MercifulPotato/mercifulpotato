@@ -1,1 +1,1 @@
-Item(by='sundarurfriend', descendants=8, kids=[25494443, 25494615, 25495154, 25495219, 25494717, 25494097], score=92, time=1608547187, title='GameLisp: Scripting language for Rust game development', item_type='story', url='https://gamelisp.rs/', parent=None, text=None)
+Item(by='sundarurfriend', descendants=26, kids=[25494443, 25494615, 25495429, 25495154, 25495353, 25494097, 25495590, 25494717, 25495219], score=194, time=1608547187, title='GameLisp: Scripting language for Rust game development', item_type='story', url='https://gamelisp.rs/', parent=None, text=None)

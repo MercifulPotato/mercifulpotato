@@ -1,1 +1,1 @@
-Item(by='garmaine', descendants=None, kids=None, score=None, time=1608500308, title=None, item_type='comment', url=None, parent=25488388, text='Public domain means no IP applies. Patents are only one kind of IP. There’s also copyrights, trademarks, etc.')
+Item(by='garmaine', descendants=None, kids=[25496432], score=None, time=1608500308, title=None, item_type='comment', url=None, parent=25488388, text='Public domain means no IP applies. Patents are only one kind of IP. There’s also copyrights, trademarks, etc.')

@@ -1,1 +1,1 @@
-Item(by='bzb6', descendants=None, kids=None, score=None, time=1608549216, title=None, item_type='comment', url=None, parent=25491499, text='They should’ve sent the phones to Apple to investigate.')
+Item(by='bzb6', descendants=None, kids=[25497854, 25497796], score=None, time=1608549216, title=None, item_type='comment', url=None, parent=25491499, text='They should’ve sent the phones to Apple to investigate.')

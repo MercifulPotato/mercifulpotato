@@ -1,1 +1,1 @@
-Item(by='afrcnc', descendants=0, kids=None, score=3, time=1608547344, title='Racism Is Rampant on Omegle', item_type='story', url='https://news.yahoo.com/racism-rampant-omegle-teens-working-100100526.html', parent=None, text=None)
+Item(by='afrcnc', descendants=1, kids=[25496301], score=4, time=1608547344, title='Racism Is Rampant on Omegle', item_type='story', url='https://news.yahoo.com/racism-rampant-omegle-teens-working-100100526.html', parent=None, text=None)

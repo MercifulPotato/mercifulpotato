@@ -1,0 +1,1 @@
+Item(by='speedgoose', descendants=None, kids=[25495680, 25495331], score=None, time=1608561422, title=None, item_type='comment', url=None, parent=25495225, text='It&#x27;s becoming quite common in JavaScript, but usually with a const&#x2F;let keyword in front so it&#x27;s easier for the brain to understand that you are reading a destructuring assignment.')

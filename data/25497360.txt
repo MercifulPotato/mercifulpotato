@@ -1,0 +1,1 @@
+Item(by='Thorrez', descendants=None, kids=None, score=None, time=1608573165, title=None, item_type='comment', url=None, parent=25484444, text='&gt;difference_type<p>A forward iterator doesn&#x27;t have a difference_type. A random access iterator does.')

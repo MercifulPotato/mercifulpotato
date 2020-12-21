@@ -1,1 +1,1 @@
-Item(by='gitowiec', descendants=None, kids=None, score=None, time=1608552483, title=None, item_type='comment', url=None, parent=25492406, text='What about all this microplastic which gets from this &quot;boat&quot; into water? This should be banned, I think.')
+Item(by='gitowiec', descendants=None, kids=[25495605, 25495750, 25495555], score=None, time=1608552483, title=None, item_type='comment', url=None, parent=25492406, text='What about all this microplastic which gets from this &quot;boat&quot; into water? This should be banned, I think.')

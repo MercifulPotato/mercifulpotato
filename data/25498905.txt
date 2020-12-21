@@ -1,0 +1,1 @@
+Item(by='IshKebab', descendants=None, kids=[25499023], score=None, time=1608581096, title=None, item_type='comment', url=None, parent=25495940, text='Git doesn&#x27;t have <i>bad</i> support for large files. It just doesn&#x27;t make special exceptions for not recording their history like Git LFS does.<p>I don&#x27;t see anywhere where Pijul would be different to be honest.')

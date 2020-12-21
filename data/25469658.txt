@@ -1,1 +1,1 @@
-Item(by='smolyeet', descendants=None, kids=None, score=None, time=1608313198, title=None, item_type='comment', url=None, parent=25468792, text='this idea doesn&#x27;t really work if you actually like macOS&#x2F;Apple products.')
+Item(by='smolyeet', descendants=None, kids=[25495851], score=None, time=1608313198, title=None, item_type='comment', url=None, parent=25468792, text='this idea doesn&#x27;t really work if you actually like macOS&#x2F;Apple products.')

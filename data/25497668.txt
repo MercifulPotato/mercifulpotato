@@ -1,0 +1,1 @@
+Item(by='cutler', descendants=None, kids=None, score=None, time=1608574717, title=None, item_type='comment', url=None, parent=25495547, text='I don&#x27;t think that&#x27;s been true for quite a while. Even a  function like len(&#x27;abc&#x27;) is implemented as &#x27;abc&#x27;.__len()__ under the hood so no different from Ruby really.')
