@@ -1,1 +1,1 @@
-Item(by='zaroth', descendants=None, kids=None, score=None, time=1608603057, title=None, item_type='comment', url=None, parent=25501679, text='You would hope that logging out and back in would refresh these settings.')
+Item(by='zaroth', descendants=None, kids=[25503894], score=None, time=1608603057, title=None, item_type='comment', url=None, parent=25501679, text='You would hope that logging out and back in would refresh these settings.')

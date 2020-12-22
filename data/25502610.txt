@@ -1,0 +1,1 @@
+Item(by='trylist', descendants=None, kids=None, score=None, time=1608608647, title=None, item_type='comment', url=None, parent=25502188, text='Hierarchies are possible with an RDBMS, but I&#x27;d suggest it&#x27;s the wrong tool to model them with, unless they&#x27;re static of course. Really any graph that can&#x27;t be encoded in the table relationships themselves.')

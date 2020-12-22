@@ -1,1 +1,1 @@
-Item(by='JKCalhoun', descendants=None, kids=None, score=None, time=1608570222, title=None, item_type='comment', url=None, parent=25496236, text='Yes.<p>&quot;Connect to WiFi?&quot;<p>[Skip]')
+Item(by='JKCalhoun', descendants=None, kids=[25503498], score=None, time=1608570222, title=None, item_type='comment', url=None, parent=25496236, text='Yes.<p>&quot;Connect to WiFi?&quot;<p>[Skip]')

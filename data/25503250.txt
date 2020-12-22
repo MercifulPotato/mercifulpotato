@@ -1,0 +1,1 @@
+Item(by='dvlsg', descendants=None, kids=None, score=None, time=1608615315, title=None, item_type='comment', url=None, parent=25501842, text='Yeah that&#x27;s correct. The built-in implementation of Promise violates some of the interfaces monads need to follow, including that auto flatten. But it&#x27;s definitely possible to have a monadic promise (or future or whatever).')

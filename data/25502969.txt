@@ -1,0 +1,1 @@
+Item(by='nigeltao', descendants=None, kids=[25503058], score=None, time=1608612592, title=None, item_type='comment', url=None, parent=25502670, text='simdjson is indeed good stuff, but its focus is CPU efficiency, not memory efficiency.<p>For example, it requires the entire input to be in memory. It does not support streaming input.')

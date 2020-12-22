@@ -1,0 +1,1 @@
+Item(by='kennywinker', descendants=None, kids=None, score=None, time=1608618745, title=None, item_type='comment', url=None, parent=25503437, text='If a site is using bcrypt and it allows users to set passwords longer than 72 chars, the operator of the site is the problem not the use of a password manager + in-my-head-secret')

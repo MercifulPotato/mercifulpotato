@@ -1,1 +1,1 @@
-Item(by='Merman_Mike', descendants=None, kids=None, score=None, time=1608601756, title=None, item_type='comment', url=None, parent=25499180, text='Can you or GP comment on how Teddy was able to help?')
+Item(by='Merman_Mike', descendants=None, kids=[25502867], score=None, time=1608601756, title=None, item_type='comment', url=None, parent=25499180, text='Can you or GP comment on how Teddy was able to help?')

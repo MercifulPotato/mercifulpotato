@@ -1,0 +1,1 @@
+Item(by='Razengan', descendants=None, kids=None, score=None, time=1608623586, title=None, item_type='comment', url=None, parent=25503816, text='So, is it like, the number of pixels on the screen stay the same, but it takes more “ticks” for a variable representing coordinates to go from 1 to 2: x += 0.09 instead of x += 0.1')

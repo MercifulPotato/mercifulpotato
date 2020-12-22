@@ -1,0 +1,1 @@
+Item(by='mjfisher', descendants=None, kids=None, score=None, time=1608621852, title=None, item_type='comment', url=None, parent=25502079, text='The primary motivating reason to have abstractions in the first place is to <i>prevent</i> context switching - i.e. you shouldn&#x27;t have to think about networking code while you&#x27;re writing business logic.')

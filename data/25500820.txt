@@ -1,1 +1,1 @@
-Item(by='abiogenesis', descendants=None, kids=None, score=None, time=1608592148, title=None, item_type='comment', url=None, parent=25500375, text='Playing Disney music in the background of a &quot;risky&quot; video sounds... weird...')
+Item(by='abiogenesis', descendants=None, kids=[25502743], score=None, time=1608592148, title=None, item_type='comment', url=None, parent=25500375, text='Playing Disney music in the background of a &quot;risky&quot; video sounds... weird...')

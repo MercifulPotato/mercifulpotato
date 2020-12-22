@@ -1,1 +1,1 @@
-Item(by='Bud', descendants=None, kids=None, score=None, time=1608592596, title=None, item_type='comment', url=None, parent=25500681, text='Nobody was making hundreds of billions off of cell phones, either. Until Apple suddenly did.')
+Item(by='Bud', descendants=None, kids=[25502371], score=None, time=1608592596, title=None, item_type='comment', url=None, parent=25500681, text='Nobody was making hundreds of billions off of cell phones, either. Until Apple suddenly did.')

@@ -1,1 +1,1 @@
-Item(by='Ygg2', descendants=None, kids=None, score=None, time=1608555197, title=None, item_type='comment', url=None, parent=25494336, text='See gaming industry.')
+Item(by='Ygg2', descendants=None, kids=[25502698], score=None, time=1608555197, title=None, item_type='comment', url=None, parent=25494336, text='See gaming industry.')

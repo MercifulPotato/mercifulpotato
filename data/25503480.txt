@@ -1,0 +1,1 @@
+Item(by='sun_bear', descendants=None, kids=None, score=None, time=1608617625, title=None, item_type='comment', url=None, parent=25499355, text='Blue&#x2F;green deployment is often used. There are always two instances of the app running, with one of them handling requests.<p>You deploy to the other one, do a health check, warm it up and start routing to it.<p>No downtime.')

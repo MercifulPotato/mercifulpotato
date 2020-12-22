@@ -1,1 +1,1 @@
-Item(by='fortran77', descendants=0, kids=None, score=5, time=1608594753, title="The 'Three Martini Lunch' Tax Deduction", item_type='story', url='https://www.washingtonpost.com/us-policy/2020/12/20/meal-tax-deduction/', parent=None, text=None)
+Item(by='fortran77', descendants=1, kids=[25503229], score=7, time=1608594753, title="The 'Three Martini Lunch' Tax Deduction", item_type='story', url='https://www.washingtonpost.com/us-policy/2020/12/20/meal-tax-deduction/', parent=None, text=None)

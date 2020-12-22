@@ -1,1 +1,1 @@
-Item(by='homarp', descendants=24, kids=[25497420, 25498332, 25498604], score=108, time=1608571114, title='Project Oberon 2013 on RISC-V', item_type='story', url='https://github.com/solbjorg/oberon-riscv', parent=None, text=None)
+Item(by='homarp', descendants=33, kids=[25497420, 25498332, 25498604], score=126, time=1608571114, title='Project Oberon 2013 on RISC-V', item_type='story', url='https://github.com/solbjorg/oberon-riscv', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='lvh', descendants=None, kids=[25499353, 25498567], score=None, time=1608579270, title=None, item_type='comment', url=None, parent=25498467, text='To be clear, we&#x27;re talking about battery-backed RAM (specifically MOS RAM) there, right?')
+Item(by='lvh', descendants=None, kids=[25499353, 25498567, 25502424], score=None, time=1608579270, title=None, item_type='comment', url=None, parent=25498467, text='To be clear, we&#x27;re talking about battery-backed RAM (specifically MOS RAM) there, right?')

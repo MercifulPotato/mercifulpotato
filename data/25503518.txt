@@ -1,0 +1,1 @@
+Item(by='neolefty', descendants=None, kids=None, score=None, time=1608618081, title=None, item_type='comment', url=None, parent=25502904, text='Correct, `useState` (and `useEffect` and `useContext`) are not pure. They are ways of managing impurities while writing <i>mostly</i> pure functions.')

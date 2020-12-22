@@ -1,1 +1,1 @@
-Item(by='dragontamer', descendants=None, kids=None, score=None, time=1608601966, title=None, item_type='comment', url=None, parent=25500615, text='We all agree with random DUI checks, right? They&#x27;re pretty effective at scaring off DUI-attempts.')
+Item(by='dragontamer', descendants=None, kids=[25502383], score=None, time=1608601966, title=None, item_type='comment', url=None, parent=25500615, text='We all agree with random DUI checks, right? They&#x27;re pretty effective at scaring off DUI-attempts.')

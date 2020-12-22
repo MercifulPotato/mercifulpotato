@@ -1,1 +1,1 @@
-Item(by='watersb', descendants=None, kids=None, score=None, time=1608603497, title=None, item_type='comment', url=None, parent=25501686, text='Thermal design, fluid dynamics. Apple said as much in advertising at the time, IIRC')
+Item(by='watersb', descendants=None, kids=[25503126], score=None, time=1608603497, title=None, item_type='comment', url=None, parent=25501686, text='Thermal design, fluid dynamics. Apple said as much in advertising at the time, IIRC')
