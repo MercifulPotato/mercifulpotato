@@ -1,1 +1,1 @@
-Item(by='the_arun', descendants=None, kids=None, score=None, time=1608619647, title=None, item_type='comment', url=None, parent=25503378, text='They may not need maps for this. They could use geolocation or “findMyDevice” service which may be collecting this data already. Right?')
+Item(by='the_arun', descendants=None, kids=[25505028], score=None, time=1608619647, title=None, item_type='comment', url=None, parent=25503378, text='They may not need maps for this. They could use geolocation or “findMyDevice” service which may be collecting this data already. Right?')

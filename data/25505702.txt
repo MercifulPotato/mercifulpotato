@@ -1,0 +1,1 @@
+Item(by='PeterisP', descendants=None, kids=None, score=None, time=1608641092, title=None, item_type='comment', url=None, parent=25498682, text='You push the data from all the microservices to a single data warehouse and do the reporting from there - so all the aspects that modify the data are microservices, but the reporting is based on a data storage monolith.')

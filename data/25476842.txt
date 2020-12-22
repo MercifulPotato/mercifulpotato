@@ -1,1 +1,1 @@
-Item(by='Austin_Conlon', descendants=3, kids=[25503684, 25503526, 25503395], score=14, time=1608378606, title='The Laws of Core Data', item_type='story', url='https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/', parent=None, text=None)
+Item(by='Austin_Conlon', descendants=15, kids=[25504443, 25504538, 25504241, 25504524, 25504084, 25503526, 25503395, 25503684], score=45, time=1608378606, title='The Laws of Core Data', item_type='story', url='https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/', parent=None, text=None)

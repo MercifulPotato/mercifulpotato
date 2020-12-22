@@ -1,1 +1,1 @@
-Item(by='thunderbong', descendants=0, kids=None, score=1, time=1608622181, title="Why California's Musical Road Sounds Terrible", item_type='story', url='https://www.youtube.com/watch?v=Ef93WmlEho0', parent=None, text=None)
+Item(by='thunderbong', descendants=1, kids=[25504106], score=2, time=1608622181, title="Why California's Musical Road Sounds Terrible", item_type='story', url='https://www.youtube.com/watch?v=Ef93WmlEho0', parent=None, text=None)

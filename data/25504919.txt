@@ -1,0 +1,1 @@
+Item(by='02020202', descendants=None, kids=None, score=None, time=1608633691, title=None, item_type='comment', url=None, parent=25498079, text='an application that takes messages from a queue and sends them as emails is a microservice. anything more complicated thant that is just SoA and SoA is evil. stay mono my friends.')

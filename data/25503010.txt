@@ -1,1 +1,1 @@
-Item(by='patagonia', descendants=1, kids=[25503090], score=1, time=1608612916, title='Take a Look Inside Austin', item_type='story', url='https://www.businessinsider.com/moving-to-austin-texas-real-estate-prices-affordability-elon-musk-2020-12', parent=None, text=None)
+Item(by='patagonia', descendants=3, kids=[25504289, 25503090], score=1, time=1608612916, title='Take a Look Inside Austin', item_type='story', url='https://www.businessinsider.com/moving-to-austin-texas-real-estate-prices-affordability-elon-musk-2020-12', parent=None, text=None)

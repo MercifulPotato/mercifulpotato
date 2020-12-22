@@ -1,0 +1,1 @@
+Item(by='jillesvangurp', descendants=None, kids=None, score=None, time=1608625476, title=None, item_type='comment', url=None, parent=25500997, text='Actually some parsers support bigint&#x2F;bigdecimal. I&#x27;ve used jackson to parse json numbers into those data types in jackson. It&#x27;s just not all json parsers are created equally.')

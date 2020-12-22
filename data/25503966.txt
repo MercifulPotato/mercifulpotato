@@ -1,1 +1,1 @@
-Item(by='bpfrh', descendants=None, kids=None, score=None, time=1608623289, title=None, item_type='comment', url=None, parent=25503901, text='Take a look at CFS, if it is longer than 6 months.<p>Look for a doctor who specialize in this disease')
+Item(by='bpfrh', descendants=None, kids=[25504391], score=None, time=1608623289, title=None, item_type='comment', url=None, parent=25503901, text='Take a look at CFS, if it is longer than 6 months.<p>Look for a doctor who specialize in this disease')

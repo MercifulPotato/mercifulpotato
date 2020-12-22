@@ -1,1 +1,1 @@
-Item(by='cdnsteve', descendants=None, kids=None, score=None, time=1608618754, title=None, item_type='comment', url=None, parent=25502388, text='The trick is to always keep learning and get good at that and try to specialize.')
+Item(by='cdnsteve', descendants=None, kids=[25504712], score=None, time=1608618754, title=None, item_type='comment', url=None, parent=25502388, text='The trick is to always keep learning and get good at that and try to specialize.')

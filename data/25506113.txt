@@ -1,0 +1,1 @@
+Item(by='cassianoleal', descendants=None, kids=[25506160], score=None, time=1608644406, title=None, item_type='comment', url=None, parent=25506072, text='Kubernetes relies on containers, which are made out of cgroups and namespaces. Those are Linux features, so there&#x27;s no way around that.<p>This is as bare-metal as it gets since it&#x27;s not running on a VM.')

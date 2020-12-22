@@ -1,1 +1,1 @@
-Item(by='mathattack', descendants=None, kids=None, score=None, time=1608613379, title=None, item_type='comment', url=None, parent=25502975, text='Alissa Milano was big there as a singer.')
+Item(by='mathattack', descendants=None, kids=[25504913], score=None, time=1608613379, title=None, item_type='comment', url=None, parent=25502975, text='Alissa Milano was big there as a singer.')

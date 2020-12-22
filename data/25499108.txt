@@ -1,1 +1,1 @@
-Item(by='Wistar', descendants=None, kids=None, score=None, time=1608582051, title=None, item_type='comment', url=None, parent=25494570, text='I have a 70-300mm DO and it is not a lens I like much. The 400 DO is probably light-years better. It is definitely light-years more expensive.')
+Item(by='Wistar', descendants=None, kids=[25504754], score=None, time=1608582051, title=None, item_type='comment', url=None, parent=25494570, text='I have a 70-300mm DO and it is not a lens I like much. The 400 DO is probably light-years better. It is definitely light-years more expensive.')

@@ -1,0 +1,1 @@
+Item(by='Dylan16807', descendants=None, kids=[25505115], score=None, time=1608635456, title=None, item_type='comment', url=None, parent=25505059, text='What&#x27;s an &quot;encrypted random number&quot;?<p>If they have 5 random numbers and XOR them together, then they won&#x27;t get the key as output.')

@@ -1,0 +1,1 @@
+Item(by='qalmakka', descendants=None, kids=[25504136], score=None, time=1608624041, title=None, item_type='comment', url=None, parent=25494559, text='It looks nice, but I don&#x27;t get how &quot;link&quot; is supposed to work, it seems like some kind of strange tuple type. Does anyone have any example of how it can be used, except the few bits they linked from the readme?')

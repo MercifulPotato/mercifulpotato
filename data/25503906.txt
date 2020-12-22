@@ -1,1 +1,1 @@
-Item(by='dsteenman', descendants=0, kids=None, score=2, time=1608622537, title='How to Automatically Setup Your MacBook for Development', item_type='story', url='https://dannys.cloud/automatically-setup-macbook-development', parent=None, text=None)
+Item(by='dsteenman', descendants=1, kids=[25504245], score=2, time=1608622537, title='How to Automatically Setup Your MacBook for Development', item_type='story', url='https://dannys.cloud/automatically-setup-macbook-development', parent=None, text=None)

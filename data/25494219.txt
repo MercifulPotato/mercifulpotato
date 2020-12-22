@@ -1,1 +1,1 @@
-Item(by='asamant', descendants=0, kids=None, score=2, time=1608553174, title='Clockwise/Spiral Rule', item_type='story', url='http://c-faq.com/decl/spiral.anderson.html', parent=None, text=None)
+Item(by='asamant', descendants=10, kids=[25504752, 25504999, 25505328, 25504724, 25504969], score=18, time=1608553174, title='Clockwise/Spiral Rule', item_type='story', url='http://c-faq.com/decl/spiral.anderson.html', parent=None, text=None)

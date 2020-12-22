@@ -1,1 +1,1 @@
-Item(by='raducu', descendants=None, kids=None, score=None, time=1608620203, title=None, item_type='comment', url=None, parent=25502858, text='Occam&#x27;s razor aside, why can&#x27;t both theories be correct?<p>That dark matter exists as well as a modified gravity thing.')
+Item(by='raducu', descendants=None, kids=[25504562], score=None, time=1608620203, title=None, item_type='comment', url=None, parent=25502858, text='Occam&#x27;s razor aside, why can&#x27;t both theories be correct?<p>That dark matter exists as well as a modified gravity thing.')

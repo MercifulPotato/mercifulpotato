@@ -1,0 +1,1 @@
+Item(by='ohmaigad', descendants=None, kids=[25506257], score=None, time=1608644855, title=None, item_type='comment', url=None, parent=25506051, text='Your description about the issue is sketchy, there is nothing wrong with disabled input fields but it it sounds like you are making that an issue while the actual issue would be parsing those fields in the backend.')

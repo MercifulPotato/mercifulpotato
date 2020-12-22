@@ -1,1 +1,1 @@
-Item(by='ethbr0', descendants=None, kids=None, score=None, time=1608593394, title=None, item_type='comment', url=None, parent=25500789, text='&gt; <i>single block of aluminum</i><p>iCar<p>Space gray, chamfered edges, 115 hp, 4 wheels<p>$100,000')
+Item(by='ethbr0', descendants=None, kids=[25505167], score=None, time=1608593394, title=None, item_type='comment', url=None, parent=25500789, text='&gt; <i>single block of aluminum</i><p>iCar<p>Space gray, chamfered edges, 115 hp, 4 wheels<p>$100,000')

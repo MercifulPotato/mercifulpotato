@@ -1,1 +1,1 @@
-Item(by='x3c', descendants=None, kids=None, score=None, time=1608620139, title=None, item_type='comment', url=None, parent=25503527, text='iPad &#x2F; Safari (and by extension, all apple mobile browsers)  doesn’t support camera access from browser.')
+Item(by='x3c', descendants=None, kids=[25504905], score=None, time=1608620139, title=None, item_type='comment', url=None, parent=25503527, text='iPad &#x2F; Safari (and by extension, all apple mobile browsers)  doesn’t support camera access from browser.')

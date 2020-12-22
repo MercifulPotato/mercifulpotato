@@ -1,0 +1,1 @@
+Item(by='blueblisters', descendants=None, kids=None, score=None, time=1608628156, title=None, item_type='comment', url=None, parent=25504215, text='With a dictionary of 10k words, you can get 1e16 combinations, which seems adequate when used with a deliberately slow hash function like bcrypt.')
