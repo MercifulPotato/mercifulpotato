@@ -1,0 +1,1 @@
+Item(by='the_cat_kittles', descendants=None, kids=None, score=None, time=1608602911, title=None, item_type='comment', url=None, parent=25501175, text='ive developed a defacto rule of thumb &#x2F; intuition that a function size should basically be as big as it can be without being inconvenient to test. which means that its pretty small most of the time')

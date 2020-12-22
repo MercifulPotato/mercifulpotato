@@ -1,0 +1,1 @@
+Item(by='modeless', descendants=None, kids=None, score=None, time=1608595185, title=None, item_type='comment', url=None, parent=25501230, text='The &quot;right&quot; way to split, as advocated in the article I linked, is not based on naming but based on state. Have all your split out functions be pure. Retain all the state mutation in one place where you can keep an eye on it.')

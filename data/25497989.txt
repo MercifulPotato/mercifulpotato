@@ -1,1 +1,1 @@
-Item(by='pgrote', descendants=None, kids=None, score=None, time=1608576359, title=None, item_type='comment', url=None, parent=25497938, text='Thank you for the explanation. Unsure how I wasn&#x27;t putting 2+2 together. Facebook presumably does have rules against brigading.')
+Item(by='pgrote', descendants=None, kids=[25501516], score=None, time=1608576359, title=None, item_type='comment', url=None, parent=25497938, text='Thank you for the explanation. Unsure how I wasn&#x27;t putting 2+2 together. Facebook presumably does have rules against brigading.')

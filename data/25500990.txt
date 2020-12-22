@@ -1,0 +1,1 @@
+Item(by='pc86', descendants=None, kids=None, score=None, time=1608593209, title=None, item_type='comment', url=None, parent=25494988, text='&gt; <i>3. Clean geojson to remove dark pathways.</i><p>I sort of expected this to be the &quot;draw the rest of the owl&quot; step, but apparently &quot;Lit&quot; is actually a property of the geojson data! Very interesting.')

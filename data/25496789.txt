@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=2, kids=[25498236], score=8, time=1608570088, title='Balancing the needs around the CentOS platform', item_type='story', url='https://blog.centos.org/2020/12/balancing-the-needs-around-the-centos-platform/', parent=None, text=None)
+Item(by='zdw', descendants=22, kids=[25498780, 25501256, 25499453, 25498881, 25498819, 25498236], score=21, time=1608570088, title='Balancing the needs around the CentOS platform', item_type='story', url='https://blog.centos.org/2020/12/balancing-the-needs-around-the-centos-platform/', parent=None, text=None)

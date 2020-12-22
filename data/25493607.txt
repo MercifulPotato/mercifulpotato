@@ -1,1 +1,1 @@
-Item(by='psibi', descendants=None, kids=None, score=None, time=1608546182, title=None, item_type='comment', url=None, parent=25491207, text='Somehow I found the course very dry (as compared to other coursera course like Dan Grossman&#x27;s PL course).')
+Item(by='psibi', descendants=None, kids=[25499105], score=None, time=1608546182, title=None, item_type='comment', url=None, parent=25491207, text='Somehow I found the course very dry (as compared to other coursera course like Dan Grossman&#x27;s PL course).')

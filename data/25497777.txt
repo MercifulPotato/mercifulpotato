@@ -1,1 +1,1 @@
-Item(by='trm42', descendants=None, kids=None, score=None, time=1608575311, title=None, item_type='comment', url=None, parent=25496742, text='Sounds like the m43 20mm f1.7, which is known for its good IQ, pancake design but annoyingly slow AF :)')
+Item(by='trm42', descendants=None, kids=[25500629, 25500166], score=None, time=1608575311, title=None, item_type='comment', url=None, parent=25496742, text='Sounds like the m43 20mm f1.7, which is known for its good IQ, pancake design but annoyingly slow AF :)')

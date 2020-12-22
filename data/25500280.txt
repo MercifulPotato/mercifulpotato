@@ -1,0 +1,1 @@
+Item(by='mejutoco', descendants=None, kids=[25500677], score=None, time=1608589024, title=None, item_type='comment', url=None, parent=25500052, text='It is possible, and easy, to have two virtual environments with a different python version in the same project. I am doing this right now with a long-lived project, where a deploy script uses python 2 and everything else python 3.')

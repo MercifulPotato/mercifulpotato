@@ -1,0 +1,1 @@
+Item(by='jayd16', descendants=None, kids=None, score=None, time=1608580696, title=None, item_type='comment', url=None, parent=25498500, text='One strategy is to use the strangle pattern where your new monolith just proxies the old service as you slowly or lazily migrate the data or re-implement the service.')

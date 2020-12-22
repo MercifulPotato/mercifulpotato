@@ -1,1 +1,1 @@
-Item(by='lazyasciiart', descendants=None, kids=None, score=None, time=1608536396, title=None, item_type='comment', url=None, parent=25484724, text='I&#x27;m not sure how that&#x27;s relevant.')
+Item(by='lazyasciiart', descendants=None, kids=[25501445], score=None, time=1608536396, title=None, item_type='comment', url=None, parent=25484724, text='I&#x27;m not sure how that&#x27;s relevant.')

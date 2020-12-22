@@ -1,0 +1,1 @@
+Item(by='virtue3', descendants=None, kids=None, score=None, time=1608595063, title=None, item_type='comment', url=None, parent=25489434, text='I personally saw a lot of value when we (top 20 site) moved to docker over VMs.  Using hammer &#x2F; provisioning VMs kinda sucks.  Being able to dynamically scale your app with containers is really really trivial.')

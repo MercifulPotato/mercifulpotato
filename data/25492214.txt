@@ -1,1 +1,1 @@
-Item(by='daniellarusso', descendants=None, kids=None, score=None, time=1608526124, title=None, item_type='comment', url=None, parent=25487572, text='That is a good idea. Those 9g mini servos are only $2 each, so that is much more affordable than the ‘retail’ solenoids.')
+Item(by='daniellarusso', descendants=None, kids=[25499377], score=None, time=1608526124, title=None, item_type='comment', url=None, parent=25487572, text='That is a good idea. Those 9g mini servos are only $2 each, so that is much more affordable than the ‘retail’ solenoids.')

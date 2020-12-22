@@ -1,0 +1,1 @@
+Item(by='nerdponx', descendants=None, kids=None, score=None, time=1608590219, title=None, item_type='comment', url=None, parent=25495399, text='So the Ruby runtime has some kind of internal list of operations that are blocking, and can optionally be executed asynchronously when called from inside a fiber?')

@@ -1,1 +1,1 @@
-Item(by='worik', descendants=None, kids=None, score=None, time=1608577126, title=None, item_type='comment', url=None, parent=25494015, text='Very useful to tell feminists what they are doing.<p>We are useful by default.<p>They have to prove themselves')
+Item(by='worik', descendants=None, kids=[25499522, 25500144], score=None, time=1608577126, title=None, item_type='comment', url=None, parent=25494015, text='Very useful to tell feminists what they are doing.<p>We are useful by default.<p>They have to prove themselves')

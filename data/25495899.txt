@@ -1,1 +1,1 @@
-Item(by='mattl', descendants=None, kids=None, score=None, time=1608565453, title=None, item_type='comment', url=None, parent=25495132, text='It wouldn&#x27;t be a good look for a very popular GNU package to not adopt the hot new license they&#x27;d been working on for years.')
+Item(by='mattl', descendants=None, kids=[25500653], score=None, time=1608565453, title=None, item_type='comment', url=None, parent=25495132, text='It wouldn&#x27;t be a good look for a very popular GNU package to not adopt the hot new license they&#x27;d been working on for years.')

@@ -1,0 +1,1 @@
+Item(by='Blikkentrekker', descendants=None, kids=[25501081], score=None, time=1608589899, title=None, item_type='comment', url=None, parent=25500254, text='`list[0]` and `list[1:]`?<p>Almost any language has convenient ways to get the first element of a sequence, and all but the first, even C, this is not unusual at all to lisps.')

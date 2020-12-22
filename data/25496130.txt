@@ -1,1 +1,1 @@
-Item(by='cbzbc', descendants=0, kids=None, score=14, time=1608566783, title='Palantir lands £23m NHS data deal', item_type='story', url='https://www.opendemocracy.net/en/ournhs/controversial-tech-firm-palantir-23m-nhs-data-deal/', parent=None, text=None)
+Item(by='cbzbc', descendants=1, kids=[25502186], score=16, time=1608566783, title='Palantir lands £23m NHS data deal', item_type='story', url='https://www.opendemocracy.net/en/ournhs/controversial-tech-firm-palantir-23m-nhs-data-deal/', parent=None, text=None)

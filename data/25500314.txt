@@ -1,0 +1,1 @@
+Item(by='brucehoult', descendants=None, kids=None, score=None, time=1608589177, title=None, item_type='comment', url=None, parent=25488979, text='Anything that claims to implement IEEE 748-2008 must have the floating point multiply-accumulate instructions.<p>RISC-V Rocket has had those for half a dozen years already, as has any other RISC-V core with the F&#x2F;D extensions.')

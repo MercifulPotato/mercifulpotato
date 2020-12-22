@@ -1,0 +1,1 @@
+Item(by='vijaybritto', descendants=None, kids=[25500544], score=None, time=1608586492, title=None, item_type='comment', url=None, parent=25499171, text='What will be the changes in bundling? Will it just be a simple webpack plugin or will more discipline be required?<p>Can this be run in any other back end other than Node since it only transmits a stream of serialized vdom?')

@@ -1,1 +1,1 @@
-Item(by='randomifcpfan', descendants=None, kids=None, score=None, time=1608575101, title=None, item_type='comment', url=None, parent=25497395, text='There was a third party frame buffer. Apple had one and used it to prototype advanced UX on their Cray.')
+Item(by='randomifcpfan', descendants=None, kids=[25501686], score=None, time=1608575101, title=None, item_type='comment', url=None, parent=25497395, text='There was a third party frame buffer. Apple had one and used it to prototype advanced UX on their Cray.')

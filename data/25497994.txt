@@ -1,1 +1,1 @@
-Item(by='throwaway314158', descendants=None, kids=None, score=None, time=1608576402, title=None, item_type='comment', url=None, parent=25497617, text='...which in turn is about ads.')
+Item(by='throwaway314158', descendants=None, kids=[25499537, 25499544], score=None, time=1608576402, title=None, item_type='comment', url=None, parent=25497617, text='...which in turn is about ads.')

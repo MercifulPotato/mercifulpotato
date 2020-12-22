@@ -1,1 +1,1 @@
-Item(by='hiena03', descendants=None, kids=None, score=None, time=1608551904, title=None, item_type='comment', url=None, parent=25490213, text='As someone in the spectrum, how could I improve my empathy?')
+Item(by='hiena03', descendants=None, kids=[25501780], score=None, time=1608551904, title=None, item_type='comment', url=None, parent=25490213, text='As someone in the spectrum, how could I improve my empathy?')

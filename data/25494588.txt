@@ -1,1 +1,1 @@
-Item(by='morceauxdebois', descendants=None, kids=None, score=None, time=1608556370, title=None, item_type='comment', url=None, parent=25492149, text='The tolerance paradox')
+Item(by='morceauxdebois', descendants=None, kids=[25501834], score=None, time=1608556370, title=None, item_type='comment', url=None, parent=25492149, text='The tolerance paradox')

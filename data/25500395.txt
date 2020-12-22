@@ -1,0 +1,1 @@
+Item(by='cpard', descendants=None, kids=None, score=None, time=1608589645, title=None, item_type='comment', url=None, parent=25496474, text='Not relevant to optimization but after reading the post, I&#x27;m wondering why Netflix decided to build Iceberg instead of using something like Parquet.')

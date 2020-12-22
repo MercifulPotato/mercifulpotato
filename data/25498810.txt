@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1608580614, title=None, item_type='comment', url=None, parent=25496683, text='Smalltalk collections have map reduce, and it is as OOP as it gets.')
+Item(by='pjmlp', descendants=None, kids=[25499136], score=None, time=1608580614, title=None, item_type='comment', url=None, parent=25496683, text='Smalltalk collections have map reduce, and it is as OOP as it gets.')

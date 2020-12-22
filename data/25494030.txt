@@ -1,1 +1,1 @@
-Item(by='miguelrochefort', descendants=None, kids=None, score=None, time=1608551289, title=None, item_type='comment', url=None, parent=25492507, text='Canada, Wyze products')
+Item(by='miguelrochefort', descendants=None, kids=[25498742], score=None, time=1608551289, title=None, item_type='comment', url=None, parent=25492507, text='Canada, Wyze products')

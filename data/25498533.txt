@@ -1,1 +1,1 @@
-Item(by='hartator', descendants=None, kids=None, score=None, time=1608579392, title=None, item_type='comment', url=None, parent=25497737, text='Does that mean that screen.so is dead?')
+Item(by='hartator', descendants=None, kids=[25498943], score=None, time=1608579392, title=None, item_type='comment', url=None, parent=25497737, text='Does that mean that screen.so is dead?')
