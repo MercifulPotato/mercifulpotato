@@ -1,1 +1,1 @@
-Item(by='hackerfromthefu', descendants=None, kids=None, score=None, time=1608645290, title=None, item_type='comment', url=None, parent=25505391, text='Username checks out ..<p>Have you ever heard of search bubbles?')
+Item(by='hackerfromthefu', descendants=None, kids=[25509924], score=None, time=1608645290, title=None, item_type='comment', url=None, parent=25505391, text='Username checks out ..<p>Have you ever heard of search bubbles?')

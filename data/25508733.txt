@@ -1,0 +1,1 @@
+Item(by='jayd16', descendants=None, kids=[25508771, 25508826], score=None, time=1608657946, title=None, item_type='comment', url=None, parent=25508700, text='I don&#x27;t <i>think</i> this is correct?  Can&#x27;t you install any prod build regardless of source as long as you sign it with the prod credentials (and do not opt-in to google managed creds)?')

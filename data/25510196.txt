@@ -1,0 +1,1 @@
+Item(by='rubyfan', descendants=None, kids=[25510452], score=None, time=1608665824, title=None, item_type='comment', url=None, parent=25507942, text='This is sort of ironic because many years ago what caused me to move functionality to client side was the fact that Ruby on Rails was slower on server side and required horizontal scale and things like memcached to meet my demands.')

@@ -1,0 +1,1 @@
+Item(by='antoineMoPa', descendants=None, kids=[25509337, 25509320, 25509307], score=None, time=1608660062, title=None, item_type='comment', url=None, parent=25507942, text='The downside of this is very high coupling between the frontend and the backend. However, many companies have been successful with strong coupling to Rails so maybe it&#x27;s not a problem.')

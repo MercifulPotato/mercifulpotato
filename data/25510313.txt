@@ -1,0 +1,1 @@
+Item(by='flixic', descendants=None, kids=None, score=None, time=1608666438, title=None, item_type='comment', url=None, parent=25510116, text='For one, LiveView doesn&#x27;t send HTML over the WebSocket channel. It sends a highly optimized diff structure that is applied to HTML.')

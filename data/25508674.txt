@@ -1,0 +1,1 @@
+Item(by='mmastrac', descendants=None, kids=None, score=None, time=1608657695, title=None, item_type='comment', url=None, parent=25508262, text='Oh yeah. I remember that ViewState could reach 100s of KBs on a page if you weren&#x27;t careful. It was a huge juggling act between keeping state in your input fields vs ViewState.')

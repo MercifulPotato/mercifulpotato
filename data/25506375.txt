@@ -1,0 +1,1 @@
+Item(by='chasd00', descendants=None, kids=None, score=None, time=1608646108, title=None, item_type='comment', url=None, parent=25506104, text='to me, running on &quot;bare metal&quot; means part of your program is setting up the clock for various buses and CPU and you have another little program who&#x27;s job is to jump to the first address of your real program.')

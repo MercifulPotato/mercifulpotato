@@ -1,0 +1,1 @@
+Item(by='nitrogen', descendants=None, kids=[25510880], score=None, time=1608666372, title=None, item_type='comment', url=None, parent=25510177, text='That only works if you use a hub instead of a switch, or if the traffic is broadcast, or if you somehow convince the switch to give your port all traffic.  It&#x27;s easiest to just use two NICs bridged in one PC as a MITM.')

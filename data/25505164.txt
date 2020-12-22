@@ -1,1 +1,1 @@
-Item(by='spacemanmatt', descendants=None, kids=None, score=None, time=1608636055, title=None, item_type='comment', url=None, parent=25499368, text='Like it&#x27;s hard to strip audio from video')
+Item(by='spacemanmatt', descendants=None, kids=[25506963], score=None, time=1608636055, title=None, item_type='comment', url=None, parent=25499368, text='Like it&#x27;s hard to strip audio from video')

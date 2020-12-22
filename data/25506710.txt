@@ -1,1 +1,1 @@
-Item(by='okprod', descendants=None, kids=None, score=None, time=1608648474, title=None, item_type='comment', url=None, parent=25505805, text='Every time there&#x27;s a microplastics article on HN, there&#x27;s someone who has to posit that ingesting pounds of plastic may not be bad.')
+Item(by='okprod', descendants=None, kids=[25508918], score=None, time=1608648474, title=None, item_type='comment', url=None, parent=25505805, text='Every time there&#x27;s a microplastics article on HN, there&#x27;s someone who has to posit that ingesting pounds of plastic may not be bad.')

@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=1, time=1608642856, title='Why broot is switching from TOML to Hjson for its configuration files', item_type='story', url='https://dystroy.org/blog/hjson-in-broot/', parent=None, text=None)
+Item(by='todsacerdoti', descendants=0, kids=None, score=2, time=1608642856, title='Why broot is switching from TOML to Hjson for its configuration files', item_type='story', url='https://dystroy.org/blog/hjson-in-broot/', parent=None, text=None)

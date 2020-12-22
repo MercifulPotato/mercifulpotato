@@ -1,0 +1,1 @@
+Item(by='chasil', descendants=None, kids=None, score=None, time=1608663469, title=None, item_type='comment', url=None, parent=25508555, text='I am running Tor browser from F-Droid.<p>In settings, I see &quot;version 10.0.7 (84.1.0-Release).&quot;<p>It might be necessary to enable the Guardian project in your repository settings, then refresh in order to install this software.')

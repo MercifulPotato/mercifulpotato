@@ -1,1 +1,1 @@
-Item(by='garbene', descendants=None, kids=None, score=None, time=1608619962, title=None, item_type='comment', url=None, parent=25503327, text='Wife and I picked up a laser projector three months into quarantine. It’s keeping us sane.')
+Item(by='garbene', descendants=None, kids=[25508652], score=None, time=1608619962, title=None, item_type='comment', url=None, parent=25503327, text='Wife and I picked up a laser projector three months into quarantine. It’s keeping us sane.')

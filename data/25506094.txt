@@ -1,1 +1,1 @@
-Item(by='aparsons', descendants=None, kids=None, score=None, time=1608644345, title=None, item_type='comment', url=None, parent=25506044, text='Why mention the Russian hackers? Aren’t they just hackers?')
+Item(by='aparsons', descendants=None, kids=[25506365], score=None, time=1608644345, title=None, item_type='comment', url=None, parent=25506044, text='Why mention the Russian hackers? Aren’t they just hackers?')

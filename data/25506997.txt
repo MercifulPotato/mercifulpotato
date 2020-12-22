@@ -1,0 +1,1 @@
+Item(by='Joseph-Stalin', descendants=None, kids=None, score=None, time=1608650249, title=None, item_type='comment', url=None, parent=25503457, text='are you running the literal reddit codebase or a clone codebase, and if so, is it open source?<p>Lemmy is written in rust, so that is surprising, but it also a react SPA so feels heavy to me when I tried it.')

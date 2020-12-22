@@ -1,1 +1,1 @@
-Item(by='RpFLCL', descendants=None, kids=None, score=None, time=1608643978, title=None, item_type='comment', url=None, parent=25505596, text='There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.')
+Item(by='RpFLCL', descendants=None, kids=[25508406], score=None, time=1608643978, title=None, item_type='comment', url=None, parent=25505596, text='There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.')

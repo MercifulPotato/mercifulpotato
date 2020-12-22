@@ -1,1 +1,1 @@
-Item(by='teloli', descendants=None, kids=None, score=None, time=1608618334, title=None, item_type='comment', url=None, parent=25502715, text='I’m only familiar with San Francisco, but every time I’m there I see that most people use Uber and Lyft instead of the bus.')
+Item(by='teloli', descendants=None, kids=[25507138], score=None, time=1608618334, title=None, item_type='comment', url=None, parent=25502715, text='I’m only familiar with San Francisco, but every time I’m there I see that most people use Uber and Lyft instead of the bus.')

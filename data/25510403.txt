@@ -1,0 +1,1 @@
+Item(by='GloriousKoji', descendants=None, kids=None, score=None, time=1608666854, title=None, item_type='comment', url=None, parent=25510190, text='I imagine around 2.5Gbps as that seems to be the speeds the compute module is getting using a SATA RAID. If we want to be optimistic then it would be 5Gbps as that&#x27;s the limit of PCIe on the Pi.')

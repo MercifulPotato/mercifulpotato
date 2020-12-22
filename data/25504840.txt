@@ -1,1 +1,1 @@
-Item(by='tempmakesalot', descendants=None, kids=None, score=None, time=1608632893, title=None, item_type='comment', url=None, parent=25504763, text='luck.')
+Item(by='tempmakesalot', descendants=None, kids=[25506633], score=None, time=1608632893, title=None, item_type='comment', url=None, parent=25504763, text='luck.')

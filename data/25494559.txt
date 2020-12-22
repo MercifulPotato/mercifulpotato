@@ -1,1 +1,1 @@
-Item(by='k__', descendants=10, kids=[25505748, 25504020, 25504543, 25504046, 25503988], score=76, time=1608556083, title='Dyon – A Rusty dynamically typed scripting language', item_type='story', url='https://github.com/PistonDevelopers/dyon', parent=None, text=None)
+Item(by='k__', descendants=12, kids=[25505748, 25504020, 25510053, 25504543, 25504046, 25503988], score=88, time=1608556083, title='Dyon – A Rusty dynamically typed scripting language', item_type='story', url='https://github.com/PistonDevelopers/dyon', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='paranoidrobot', descendants=None, kids=None, score=None, time=1608636814, title=None, item_type='comment', url=None, parent=25503557, text='Like the sibling commenter, I use old.reddit.com on mobile - but the key being that I switch the browser into Desktop mode.')
+Item(by='paranoidrobot', descendants=None, kids=[25508619], score=None, time=1608636814, title=None, item_type='comment', url=None, parent=25503557, text='Like the sibling commenter, I use old.reddit.com on mobile - but the key being that I switch the browser into Desktop mode.')

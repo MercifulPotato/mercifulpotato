@@ -1,0 +1,1 @@
+Item(by='mwcampbell', descendants=None, kids=None, score=None, time=1608649349, title=None, item_type='comment', url=None, parent=25505735, text='Would it be feasible to adapt this configuration to use just 3 machines total, with the control plane and workers running on the same machines?')

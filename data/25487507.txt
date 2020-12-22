@@ -1,1 +1,1 @@
-Item(by='cbarrick', descendants=None, kids=None, score=None, time=1608482624, title=None, item_type='comment', url=None, parent=25484340, text='Isn&#x27;t `sizeof(bool) == 1` on most C99 compilers?<p>Having bool be 4 or 8 bytes is ridiculous.')
+Item(by='cbarrick', descendants=None, kids=[25509677, 25506524], score=None, time=1608482624, title=None, item_type='comment', url=None, parent=25484340, text='Isn&#x27;t `sizeof(bool) == 1` on most C99 compilers?<p>Having bool be 4 or 8 bytes is ridiculous.')

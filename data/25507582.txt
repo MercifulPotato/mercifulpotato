@@ -1,0 +1,1 @@
+Item(by='bob1029', descendants=None, kids=None, score=None, time=1608652849, title=None, item_type='comment', url=None, parent=25502350, text='I would not use SQL to implement the actual algorithm, but I would certainly consider using it to hold all of the data around such an operation as required. For instance, tables like Samples, Spectrograms, etc.')

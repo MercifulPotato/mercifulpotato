@@ -1,0 +1,1 @@
+Item(by='cyral', descendants=None, kids=None, score=None, time=1608646877, title=None, item_type='comment', url=None, parent=25505827, text='The server should only accept the header from trusted proxies (like nginx, your load balancer, etc). If #1 is possible, you have a bigger problem of letting the client send any arbitrary IP.')

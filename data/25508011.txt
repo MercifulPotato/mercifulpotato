@@ -1,0 +1,1 @@
+Item(by='mikesabbagh', descendants=None, kids=[25508531], score=None, time=1608654892, title=None, item_type='comment', url=None, parent=25506072, text='Running Kubernetes on Ubuntu is a bad idea especially if it is multitenant. You can have a lot of security issues there as users can run anything on those nodes.\nThis exercise is far from production')

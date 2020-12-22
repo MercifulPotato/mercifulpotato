@@ -1,0 +1,1 @@
+Item(by='aetimmes', descendants=None, kids=None, score=None, time=1608645648, title=None, item_type='comment', url=None, parent=25505987, text='I recently set up a homelab of ~10 k3os+k3s nodes on NUCs. Setting up MetalLB on top of the base k3s installation made exposing services on their own IP addresses pretty dead simple.')

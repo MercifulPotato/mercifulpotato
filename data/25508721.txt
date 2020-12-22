@@ -1,0 +1,1 @@
+Item(by='CyanLite2', descendants=None, kids=[25509730, 25509061], score=None, time=1608657889, title=None, item_type='comment', url=None, parent=25505141, text='Visual Studio needs to be on ARM. Otherwise you have to cross-compile, and the developer cost and effort to try to debug your code across multiple devices just isn&#x27;t worth it these days.')

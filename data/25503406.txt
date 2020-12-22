@@ -1,1 +1,1 @@
-Item(by='kristianp', descendants=None, kids=None, score=None, time=1608616917, title=None, item_type='comment', url=None, parent=25502681, text='Nintendo Switch, I&#x27;m impressed by the quality of the hardware.')
+Item(by='kristianp', descendants=None, kids=[25509673], score=None, time=1608616917, title=None, item_type='comment', url=None, parent=25502681, text='Nintendo Switch, I&#x27;m impressed by the quality of the hardware.')

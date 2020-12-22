@@ -1,1 +1,1 @@
-Item(by='hammock', descendants=None, kids=None, score=None, time=1608644385, title=None, item_type='comment', url=None, parent=25503162, text='Not only this, they restricted travel from Wuhan region to other parts of China, while at the same time not restricting travel abroad.')
+Item(by='hammock', descendants=None, kids=[25508750], score=None, time=1608644385, title=None, item_type='comment', url=None, parent=25503162, text='Not only this, they restricted travel from Wuhan region to other parts of China, while at the same time not restricting travel abroad.')

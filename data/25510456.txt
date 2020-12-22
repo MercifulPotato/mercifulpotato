@@ -1,0 +1,1 @@
+Item(by='bcheung', descendants=None, kids=None, score=None, time=1608667118, title=None, item_type='comment', url=None, parent=25507942, text='What are the pros and cons of this technique?  Seems like this pushes a lot of the rendering compute power from the client to the server.  I guess that is good for low power devices but now you need more powerful servers?')

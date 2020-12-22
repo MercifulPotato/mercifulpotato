@@ -1,0 +1,1 @@
+Item(by='teolemon', descendants=None, kids=[25509470], score=None, time=1608659685, title=None, item_type='comment', url=None, parent=25506298, text='We need a modern opensource barcode reader. The best thing (zxing) is in maintenance mode, and the newer barcode scanners with niceties like neural scan, 90% scan, bortched barcode scan are all closed source.')

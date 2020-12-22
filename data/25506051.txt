@@ -1,1 +1,1 @@
-Item(by='introvertmac', descendants=None, kids=[25506181], score=None, time=1608644037, title=None, item_type='comment', url=None, parent=25506039, text='That is basically injecting JS to trigger XSS (running user&#x27;s code on the application)')
+Item(by='introvertmac', descendants=None, kids=[25506363, 25506181], score=None, time=1608644037, title=None, item_type='comment', url=None, parent=25506039, text='That is basically injecting JS to trigger XSS (running user&#x27;s code on the application)')
