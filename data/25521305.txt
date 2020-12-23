@@ -1,0 +1,1 @@
+Item(by='_benj', descendants=None, kids=None, score=None, time=1608752479, title=None, item_type='comment', url=None, parent=25521225, text='I guess this could limit you on using a DB... but if the data you have is relatively static, or your site doesn&#x27;t need to modify that data static generators are an awesome simple way to make complex sites')

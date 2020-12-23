@@ -1,1 +1,1 @@
-Item(by='Isamu', descendants=None, kids=None, score=None, time=1608675435, title=None, item_type='comment', url=None, parent=25511895, text='Pretty sure the last sentence was a joke. I know with cryptocurrency it is pretty hard to tell.')
+Item(by='Isamu', descendants=None, kids=[25520340], score=None, time=1608675435, title=None, item_type='comment', url=None, parent=25511895, text='Pretty sure the last sentence was a joke. I know with cryptocurrency it is pretty hard to tell.')

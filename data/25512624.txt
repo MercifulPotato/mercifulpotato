@@ -1,1 +1,1 @@
-Item(by='pas', descendants=None, kids=None, score=None, time=1608679260, title=None, item_type='comment', url=None, parent=25512353, text='The GrandParent comment.')
+Item(by='pas', descendants=None, kids=[25517848], score=None, time=1608679260, title=None, item_type='comment', url=None, parent=25512353, text='The GrandParent comment.')

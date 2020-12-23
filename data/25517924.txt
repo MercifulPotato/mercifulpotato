@@ -1,1 +1,1 @@
-Item(by='nightski', descendants=None, kids=None, score=None, time=1608733842, title=None, item_type='comment', url=None, parent=25517374, text='That would be very interesting if Stan did this!  However, PyMC4 (and the subsequent move to TFP) was abandoned.  They will continue to build on PyMC3 and use Theano with a new Jax backend.')
+Item(by=None, descendants=None, kids=None, score=None, time=1608733842, title=None, item_type='comment', url=None, parent=25517374, text=None)

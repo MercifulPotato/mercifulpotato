@@ -1,1 +1,1 @@
-Item(by='p4bl0', descendants=None, kids=None, score=None, time=1608720562, title=None, item_type='comment', url=None, parent=25515923, text='KDE is lighter than XFCE on RAM.')
+Item(by='p4bl0', descendants=None, kids=[25518788], score=None, time=1608720562, title=None, item_type='comment', url=None, parent=25515923, text='KDE is lighter than XFCE on RAM.')

@@ -1,0 +1,1 @@
+Item(by='kahole', descendants=None, kids=[25521346], score=None, time=1608752228, title=None, item_type='comment', url=None, parent=25521201, text='For now Github is the only supported forge. The repo has to have a github remote defined, and it will try to load issues and pull requests.\nThe forge functionality is very new.')

@@ -1,1 +1,1 @@
-Item(by='qwerty456127', descendants=None, kids=None, score=None, time=1608729504, title=None, item_type='comment', url=None, parent=25516875, text='What happens if you start actively pressing to dislike on every video you didn&#x27;t want to get recommended to you?')
+Item(by='qwerty456127', descendants=None, kids=[25518025], score=None, time=1608729504, title=None, item_type='comment', url=None, parent=25516875, text='What happens if you start actively pressing to dislike on every video you didn&#x27;t want to get recommended to you?')

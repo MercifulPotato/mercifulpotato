@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=[25521715], score=None, time=1608747415, title=None, item_type='comment', url=None, parent=25516605, text='Raid5 on btrfs is not and has not been production ready. It&#x27;s available in the code, but with appropriate warnings. You&#x27;re not supposed to be using it, rather than it being &quot;unacceptably risky&quot;.')

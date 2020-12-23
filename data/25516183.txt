@@ -1,1 +1,1 @@
-Item(by='dolmen', descendants=None, kids=None, score=None, time=1608718416, title=None, item_type='comment', url=None, parent=25516129, text='While I love paper maps (especially for hiking), digital maps are more convenient in cities. Also, I&#x27;m running out of pockets.')
+Item(by='dolmen', descendants=None, kids=[25518172], score=None, time=1608718416, title=None, item_type='comment', url=None, parent=25516129, text='While I love paper maps (especially for hiking), digital maps are more convenient in cities. Also, I&#x27;m running out of pockets.')

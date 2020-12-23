@@ -1,0 +1,1 @@
+Item(by='macintux', descendants=None, kids=None, score=None, time=1608749575, title=None, item_type='comment', url=None, parent=25520076, text='Agreed. Among the other fantastic things about Erlang, the fact that = is effectively an assertion means that unlike other languages where you turn off assertions in production, Erlang retains them in every environment.')

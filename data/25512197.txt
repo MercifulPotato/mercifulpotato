@@ -1,1 +1,1 @@
-Item(by='acfou', descendants=None, kids=None, score=None, time=1608676560, title=None, item_type='comment', url=None, parent=25506946, text='hi indymike, what extension in chrome was causing the ad fraud?')
+Item(by='acfou', descendants=None, kids=[25518415], score=None, time=1608676560, title=None, item_type='comment', url=None, parent=25506946, text='hi indymike, what extension in chrome was causing the ad fraud?')

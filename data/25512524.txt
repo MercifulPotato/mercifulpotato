@@ -1,1 +1,1 @@
-Item(by='hezag', descendants=0, kids=None, score=22, time=1608678530, title='Automated tool to study and reverse-engineer algorithmic recommendation systems', item_type='story', url='https://github.com/jsoma/persine', parent=None, text=None)
+Item(by='hezag', descendants=1, kids=[25517676], score=25, time=1608678530, title='Automated tool to study and reverse-engineer algorithmic recommendation systems', item_type='story', url='https://github.com/jsoma/persine', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='op03', descendants=None, kids=None, score=None, time=1608727673, title=None, item_type='comment', url=None, parent=25516712, text='Poor Google managers. Nothing they do, say and think is private anymore. How sad :)')
+Item(by='op03', descendants=None, kids=[25520320], score=None, time=1608727673, title=None, item_type='comment', url=None, parent=25516712, text='Poor Google managers. Nothing they do, say and think is private anymore. How sad :)')

@@ -1,0 +1,1 @@
+Item(by='ingvul', descendants=None, kids=None, score=None, time=1608751122, title=None, item_type='comment', url=None, parent=25517737, text='What about setting secrets in env vars? E.g., gitlab ci env variables.')

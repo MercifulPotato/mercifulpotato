@@ -1,0 +1,1 @@
+Item(by='vetinari', descendants=None, kids=None, score=None, time=1608741919, title=None, item_type='comment', url=None, parent=25517668, text='Recently, I&#x27;ve switched P420i to HBA mode -- that&#x27;s all ZFS running on that Proliant wanted.<p>Too bad it&#x27;s not possible to boot from it in HBA mode too.')

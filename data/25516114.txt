@@ -1,1 +1,1 @@
-Item(by='11235813213455', descendants=None, kids=None, score=None, time=1608717541, title=None, item_type='comment', url=None, parent=25515985, text='repeating the mistakes of other countries :(')
+Item(by='11235813213455', descendants=None, kids=[25519820], score=None, time=1608717541, title=None, item_type='comment', url=None, parent=25515985, text='repeating the mistakes of other countries :(')

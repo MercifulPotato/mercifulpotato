@@ -1,0 +1,1 @@
+Item(by='enz', descendants=None, kids=None, score=None, time=1608753748, title=None, item_type='comment', url=None, parent=25520660, text='I am testing OpenZFS with Ubuntu 20.04 LTS right now. OpenZFS seems pretty solid so far (I tried various scenarios of failure&#x2F;corruption) and Ubuntu seems to actually care about ZFS support and its integration in Linux.')

@@ -1,1 +1,1 @@
-Item(by='lazyjones', descendants=None, kids=None, score=None, time=1608729722, title=None, item_type='comment', url=None, parent=25516849, text='That&#x27;s a strange metric you chose there. What&#x27;s Airbnb&#x27;s cash flow? Their market cap is $160b.')
+Item(by='lazyjones', descendants=None, kids=[25519575], score=None, time=1608729722, title=None, item_type='comment', url=None, parent=25516849, text='That&#x27;s a strange metric you chose there. What&#x27;s Airbnb&#x27;s cash flow? Their market cap is $160b.')

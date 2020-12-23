@@ -1,1 +1,1 @@
-Item(by='vetinari', descendants=None, kids=None, score=None, time=1608719959, title=None, item_type='comment', url=None, parent=25516121, text='Today, you would generate vector tiles (thus taking much less disk space) and you can style or re-style them after they are generated.')
+Item(by='vetinari', descendants=None, kids=[25519153], score=None, time=1608719959, title=None, item_type='comment', url=None, parent=25516121, text='Today, you would generate vector tiles (thus taking much less disk space) and you can style or re-style them after they are generated.')

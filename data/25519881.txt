@@ -1,0 +1,1 @@
+Item(by='cesarb', descendants=None, kids=None, score=None, time=1608744519, title=None, item_type='comment', url=None, parent=25519816, text='A good reason for using btrfs over zfs is that btrfs is available by default on the Linux kernel, while zfs is only available as a third-party out-of-tree module, with all the usual problems out-of-tree modules have.')

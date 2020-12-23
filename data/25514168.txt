@@ -1,1 +1,1 @@
-Item(by='p1necone', descendants=None, kids=None, score=None, time=1608695332, title=None, item_type='comment', url=None, parent=25514037, text='This combined with them intentionally breaking the mobile web experience has almost entirely stopped me from using Reddit.')
+Item(by='p1necone', descendants=None, kids=[25519573], score=None, time=1608695332, title=None, item_type='comment', url=None, parent=25514037, text='This combined with them intentionally breaking the mobile web experience has almost entirely stopped me from using Reddit.')

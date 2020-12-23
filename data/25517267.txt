@@ -1,1 +1,1 @@
-Item(by='Laarlf', descendants=None, kids=None, score=None, time=1608729224, title=None, item_type='comment', url=None, parent=25516957, text='Oh yeah. Those are surely independent and don’t have aims at all.')
+Item(by='Laarlf', descendants=None, kids=[25520103], score=None, time=1608729224, title=None, item_type='comment', url=None, parent=25516957, text='Oh yeah. Those are surely independent and don’t have aims at all.')

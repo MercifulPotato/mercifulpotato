@@ -1,0 +1,1 @@
+Item(by='uses', descendants=None, kids=None, score=None, time=1608742902, title=None, item_type='comment', url=None, parent=25515152, text='To me, restore is one of the most frightening commands in git. It has an innocuous name but it can delete arbitrary amounts of uncommited work without any further interaction, warnings, or confirmation.')

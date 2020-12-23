@@ -1,1 +1,1 @@
-Item(by='ksec', descendants=None, kids=None, score=None, time=1608702296, title=None, item_type='comment', url=None, parent=25509891, text='&gt;UI&#x2F;UX researchers<p>Is that with respect to Web Page &#x2F; Tech?<p>Because people expect different things for Apps and WebPages.')
+Item(by='ksec', descendants=None, kids=[25519693], score=None, time=1608702296, title=None, item_type='comment', url=None, parent=25509891, text='&gt;UI&#x2F;UX researchers<p>Is that with respect to Web Page &#x2F; Tech?<p>Because people expect different things for Apps and WebPages.')

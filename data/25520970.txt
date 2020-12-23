@@ -1,0 +1,1 @@
+Item(by='arcturus17', descendants=None, kids=None, score=None, time=1608750819, title=None, item_type='comment', url=None, parent=25519030, text='I’m doing this and so far it’s great. I’m not using Gatsby or hosting the React app separately though... serving from the Django server is good enough for my use case.')

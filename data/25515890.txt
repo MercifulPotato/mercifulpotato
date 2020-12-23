@@ -1,1 +1,1 @@
-Item(by='lucideer', descendants=None, kids=[25516286], score=None, time=1608715023, title=None, item_type='comment', url=None, parent=25515795, text='Self-hosting has improved but is still non-trivial.<p>MapTiler and Mapbox are expensive.')
+Item(by='lucideer', descendants=None, kids=[25516286, 25518092], score=None, time=1608715023, title=None, item_type='comment', url=None, parent=25515795, text='Self-hosting has improved but is still non-trivial.<p>MapTiler and Mapbox are expensive.')

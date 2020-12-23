@@ -1,0 +1,1 @@
+Item(by='joppy', descendants=None, kids=None, score=None, time=1608734943, title=None, item_type='comment', url=None, parent=25517004, text='“Tail call” has a specific meaning in computer science, and it is possible to execute such a call without adding to the stack. Tail calls may not be directly recursive, they may be mutually recursive, or not even recursive at all.')

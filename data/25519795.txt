@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=[25521955], score=None, time=1608744042, title=None, item_type='comment', url=None, parent=25519589, text='It is the name of a Rust web framework, but this is referring to a Wordpress plugin.<p>(Also, the Rust Rocket is not primarily focused on perf, but developer ergonomics.)')

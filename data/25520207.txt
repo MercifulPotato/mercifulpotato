@@ -1,0 +1,1 @@
+Item(by='benglish11', descendants=None, kids=[25520726], score=None, time=1608746351, title=None, item_type='comment', url=None, parent=25520108, text='PiHole is a network wide ad blocker that works at the DNS level. Basically you route all of your network&#x27;s DNS requests through PiHole and it blocks any domains that are known ad&#x2F;malware domains.')

@@ -1,1 +1,1 @@
-Item(by='Moru', descendants=None, kids=None, score=None, time=1608727786, title=None, item_type='comment', url=None, parent=25516607, text='So what you are telling me, all those movies, it&#x27;s not just Hollywood magic, it&#x27;s reality? Ugh.')
+Item(by='Moru', descendants=None, kids=[25519092, 25518720, 25519034], score=None, time=1608727786, title=None, item_type='comment', url=None, parent=25516607, text='So what you are telling me, all those movies, it&#x27;s not just Hollywood magic, it&#x27;s reality? Ugh.')

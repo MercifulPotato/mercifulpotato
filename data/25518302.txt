@@ -1,0 +1,1 @@
+Item(by='NavinF', descendants=None, kids=[25519362], score=None, time=1608736154, title=None, item_type='comment', url=None, parent=25518074, text='Hmm I wonder if there&#x27;s a way to debug that. On a fast 1G internet connection and fast NVMe disk, the only status message I see on slow web pages is &quot;waiting for cache&quot;. Maybe this is a chrome bug')

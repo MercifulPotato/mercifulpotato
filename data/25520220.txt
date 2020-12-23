@@ -1,0 +1,1 @@
+Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1608746418, title=None, item_type='comment', url=None, parent=25520108, text='No, it’s a DNS server with blacklisting features. It can’t block traffic, it can only prevent some software from looking up addresses.')

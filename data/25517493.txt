@@ -1,1 +1,1 @@
-Item(by='cblconfederate', descendants=None, kids=None, score=None, time=1608730656, title=None, item_type='comment', url=None, parent=25516113, text='They should integrate direct payments&#x2F;donations.')
+Item(by='cblconfederate', descendants=None, kids=[25518106, 25519543], score=None, time=1608730656, title=None, item_type='comment', url=None, parent=25516113, text='They should integrate direct payments&#x2F;donations.')

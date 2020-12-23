@@ -1,1 +1,1 @@
-Item(by='bite_tongue', descendants=None, kids=None, score=None, time=1608733736, title=None, item_type='comment', url=None, parent=25516712, text='Seems reasonable for a company to not fund research that directly goes against their bottom line.')
+Item(by='bite_tongue', descendants=None, kids=[25518293, 25518926], score=None, time=1608733736, title=None, item_type='comment', url=None, parent=25516712, text='Seems reasonable for a company to not fund research that directly goes against their bottom line.')

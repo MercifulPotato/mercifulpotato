@@ -1,0 +1,1 @@
+Item(by='ufo', descendants=None, kids=[25520147, 25518891], score=None, time=1608737878, title=None, item_type='comment', url=None, parent=25518252, text='The other question I always had is why do we need to have a fixed limit for the stack. Why can&#x27;t it grow automatically as needed, just like the heap?')

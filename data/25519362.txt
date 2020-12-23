@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=None, score=None, time=1608741452, title=None, item_type='comment', url=None, parent=25518302, text='That is a Chrome UI quirk. It&#x27;s actually waiting on some subsequent action that doesn&#x27;t bother clearing the status message.')

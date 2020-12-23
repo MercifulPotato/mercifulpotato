@@ -1,0 +1,1 @@
+Item(by='dbrgn', descendants=None, kids=[25517973, 25517985], score=None, time=1608733977, title=None, item_type='comment', url=None, parent=25517868, text='I&#x27;m a bit wary of logging in. Does Spotify provide OAuth with fine-grained control, i.e. will the page only get access to the music history or could it in theory change playlists and billing information?')

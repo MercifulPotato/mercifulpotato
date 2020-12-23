@@ -1,1 +1,1 @@
-Item(by='RankingMember', descendants=None, kids=[25496745, 25496657, 25496441, 25496713], score=None, time=1608565644, title=None, item_type='comment', url=None, parent=25495084, text='&quot;I wrote a BB&amp;B coupon scraper in Rust&quot;')
+Item(by='RankingMember', descendants=None, kids=[25496745, 25496441, 25496657, 25496713], score=None, time=1608565644, title=None, item_type='comment', url=None, parent=25495084, text='&quot;I wrote a BB&amp;B coupon scraper in Rust&quot;')

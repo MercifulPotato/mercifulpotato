@@ -1,0 +1,1 @@
+Item(by='throwawaw', descendants=None, kids=None, score=None, time=1608746457, title=None, item_type='comment', url=None, parent=25515731, text='a &quot;dirty&quot; rebase sets $? to 1, so I think the auto-abort feature is just `git rebase foo || git rebase --abort`.')
