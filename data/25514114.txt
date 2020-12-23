@@ -1,1 +1,1 @@
-Item(by='mech422', descendants=None, kids=None, score=None, time=1608694665, title=None, item_type='comment', url=None, parent=25513214, text='Just generate &#x2F;etc&#x2F;hosts from a cron job...\nPretty easy to concat, sort, and filter however you like in a short script.')
+Item(by='mech422', descendants=None, kids=[25517119], score=None, time=1608694665, title=None, item_type='comment', url=None, parent=25513214, text='Just generate &#x2F;etc&#x2F;hosts from a cron job...\nPretty easy to concat, sort, and filter however you like in a short script.')

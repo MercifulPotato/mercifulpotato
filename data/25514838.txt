@@ -1,1 +1,1 @@
-Item(by='Ma8ee', descendants=None, kids=None, score=None, time=1608703065, title=None, item_type='comment', url=None, parent=25514606, text='It’s not only dogs. I remember some stupid shit I did as a teenager.')
+Item(by='Ma8ee', descendants=None, kids=[25515726, 25516150, 25515618], score=None, time=1608703065, title=None, item_type='comment', url=None, parent=25514606, text='It’s not only dogs. I remember some stupid shit I did as a teenager.')

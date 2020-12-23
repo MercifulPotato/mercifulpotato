@@ -1,0 +1,1 @@
+Item(by='tutfbhuf', descendants=None, kids=[25517644], score=None, time=1608715282, title=None, item_type='comment', url=None, parent=25512131, text='&gt; Where it really sucks is VPN and cryptography since there is no hardware acceleration.<p>I know that OpenVPN is super slow on the Pi, but have you tried WireGuard?')

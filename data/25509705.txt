@@ -1,1 +1,1 @@
-Item(by='vasachi', descendants=None, kids=[25509884, 25510005, 25511907, 25509887], score=None, time=1608662937, title=None, item_type='comment', url=None, parent=25509396, text='Huh? How does SPA help here? JSON payloads don&#x27;t go faster over the wire than html.')
+Item(by='vasachi', descendants=None, kids=[25509884, 25510005, 25509887, 25511907], score=None, time=1608662937, title=None, item_type='comment', url=None, parent=25509396, text='Huh? How does SPA help here? JSON payloads don&#x27;t go faster over the wire than html.')

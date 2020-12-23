@@ -1,1 +1,1 @@
-Item(by='underseacables', descendants=None, kids=None, score=None, time=1608648763, title=None, item_type='comment', url=None, parent=25505420, text='You think that’s bad, just wait till Apple starts selling cars.')
+Item(by='underseacables', descendants=None, kids=[25516237], score=None, time=1608648763, title=None, item_type='comment', url=None, parent=25505420, text='You think that’s bad, just wait till Apple starts selling cars.')

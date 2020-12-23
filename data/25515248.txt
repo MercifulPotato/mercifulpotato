@@ -1,1 +1,1 @@
-Item(by='georgeek', descendants=None, kids=None, score=None, time=1608707462, title=None, item_type='comment', url=None, parent=25513051, text='Banks do compete but it&#x27;s not really an iterated game - a company only goes public once.')
+Item(by='georgeek', descendants=None, kids=[25515695, 25515535], score=None, time=1608707462, title=None, item_type='comment', url=None, parent=25513051, text='Banks do compete but it&#x27;s not really an iterated game - a company only goes public once.')

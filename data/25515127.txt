@@ -1,1 +1,1 @@
-Item(by='royguo1988', descendants=None, kids=None, score=None, time=1608706217, title=None, item_type='comment', url=None, parent=25514836, text='We are working on our `all-in-one docs` right now, please watch our repo, thanks! I replied some of the reasons in previous comment.')
+Item(by='royguo1988', descendants=None, kids=[25515686], score=None, time=1608706217, title=None, item_type='comment', url=None, parent=25514836, text='We are working on our `all-in-one docs` right now, please watch our repo, thanks! I replied some of the reasons in previous comment.')

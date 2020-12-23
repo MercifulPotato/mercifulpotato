@@ -1,1 +1,1 @@
-Item(by='rishav_sharan', descendants=None, kids=None, score=None, time=1608708034, title=None, item_type='comment', url=None, parent=25515257, text='How so? Unless they are stopping normal users from committing code as well?')
+Item(by='rishav_sharan', descendants=None, kids=[25515732], score=None, time=1608708034, title=None, item_type='comment', url=None, parent=25515257, text='How so? Unless they are stopping normal users from committing code as well?')

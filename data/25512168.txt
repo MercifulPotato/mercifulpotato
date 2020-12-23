@@ -1,1 +1,1 @@
-Item(by='kroggen', descendants=None, kids=None, score=None, time=1608676381, title=None, item_type='comment', url=None, parent=25512133, text='Do you know if we can send e-mails from an Ethereum smart contract with Parsiq?')
+Item(by='kroggen', descendants=None, kids=[25516584], score=None, time=1608676381, title=None, item_type='comment', url=None, parent=25512133, text='Do you know if we can send e-mails from an Ethereum smart contract with Parsiq?')

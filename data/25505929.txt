@@ -1,1 +1,1 @@
-Item(by='samizdis', descendants=0, kids=None, score=3, time=1608643077, title="China's new Long March-8 rocket makes first flight", item_type='story', url='https://phys.org/news/2020-12-china-march-rocket-flight.html', parent=None, text=None)
+Item(by='samizdis', descendants=19, kids=[25516617, 25516291, 25516659, 25516357, 25517005, 25516499, 25516332, 25517679], score=38, time=1608643077, title="China's new Long March-8 rocket makes first flight", item_type='story', url='https://phys.org/news/2020-12-china-march-rocket-flight.html', parent=None, text=None)

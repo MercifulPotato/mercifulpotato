@@ -1,1 +1,1 @@
-Item(by='masa331', descendants=None, kids=None, score=None, time=1608669824, title=None, item_type='comment', url=None, parent=25510749, text='Me too. However, this also doesn&#x27;t work properly on a lot of SPAs xD')
+Item(by='masa331', descendants=None, kids=[25516455], score=None, time=1608669824, title=None, item_type='comment', url=None, parent=25510749, text='Me too. However, this also doesn&#x27;t work properly on a lot of SPAs xD')

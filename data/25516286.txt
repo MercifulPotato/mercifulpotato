@@ -1,0 +1,1 @@
+Item(by='vetinari', descendants=None, kids=[25516580], score=None, time=1608719885, title=None, item_type='comment', url=None, parent=25515890, text='You can use openmaptiles to create the vector tiles (it is made by the Maptiler guys) and serve the tiles with tileserver-gl (or tileserver-gl-light, if you don&#x27;t need raster tiles).')

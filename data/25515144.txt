@@ -1,1 +1,1 @@
-Item(by='hashjoiner', descendants=0, kids=None, score=2, time=1608706398, title='Making joins faster in DataFusion based on table statistics', item_type='story', url='https://godatadriven.com/blog/making-joins-faster-in-datafusion-based-on-table-statistics/', parent=None, text=None)
+Item(by='hashjoiner', descendants=0, kids=None, score=4, time=1608706398, title='Making joins faster in DataFusion based on table statistics', item_type='story', url='https://godatadriven.com/blog/making-joins-faster-in-datafusion-based-on-table-statistics/', parent=None, text=None)

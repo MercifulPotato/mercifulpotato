@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=4, kids=[25512158, 25512523], score=18, time=1608672142, title='Elon Musk: During the darkest days […] I reached out to Tim Cook', item_type='story', url='https://twitter.com/elonmusk/status/1341485211209637889', parent=None, text=None)
+Item(by='tosh', descendants=5, kids=[25516351, 25512158, 25512523], score=20, time=1608672142, title='Elon Musk: During the darkest days […] I reached out to Tim Cook', item_type='story', url='https://twitter.com/elonmusk/status/1341485211209637889', parent=None, text=None)

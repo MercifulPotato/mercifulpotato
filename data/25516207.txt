@@ -1,0 +1,1 @@
+Item(by='tutfbhuf', descendants=None, kids=None, score=None, time=1608718713, title=None, item_type='comment', url=None, parent=25511073, text='They claim:<p>&gt; Pure functions by default<p>but all this means by their definition is: no global mutable variables, sort of, because you can enable them per compiler flag.')

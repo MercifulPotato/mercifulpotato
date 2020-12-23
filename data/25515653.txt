@@ -1,0 +1,1 @@
+Item(by='lenkite', descendants=None, kids=None, score=None, time=1608712294, title=None, item_type='comment', url=None, parent=25507942, text='Intercepting clicks on all anchors and then <i>replacing</i> the body is something the <i>browser</i> should do and not the javascript library.')

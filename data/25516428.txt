@@ -1,0 +1,1 @@
+Item(by='NickNameNick', descendants=None, kids=[25516656], score=None, time=1608721435, title=None, item_type='comment', url=None, parent=25516406, text='My home server is hardly production, but it has been running a ZFS raidz+1 for more than 5 years, and survived a disk failure.<p>(Nb, avoid SMR hard drives - the rebuild took more than a week!)')

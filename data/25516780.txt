@@ -1,0 +1,1 @@
+Item(by='sfusato', descendants=None, kids=[25517660], score=None, time=1608725925, title=None, item_type='comment', url=None, parent=25516683, text='Your idea of &quot;long polling&quot; sounds more like periodic polling (repeated requests within a frequency), though that&#x27;s not what long polling is or how it works.')

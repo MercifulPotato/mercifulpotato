@@ -1,0 +1,1 @@
+Item(by='tutfbhuf', descendants=None, kids=None, score=None, time=1608719135, title=None, item_type='comment', url=None, parent=25509213, text='If I already have an production cluster up and running for a while, how can I get it git tracked now?<p>Another question: how about things like autoscaler which automatically edits numbers in deployments, how to git track that?')

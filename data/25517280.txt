@@ -1,0 +1,1 @@
+Item(by='zo1', descendants=None, kids=[25517777], score=None, time=1608729291, title=None, item_type='comment', url=None, parent=25517095, text='<p><pre><code>    def approve_home_loan(applicant):\n        if applicant.residence.average_medium_value &lt; PRICE_CUT_OFF:\n            return False ## Apparently racist.\n        # other code</code></pre>')

@@ -1,1 +1,1 @@
-Item(by='yyyymmddh', descendants=None, kids=None, score=None, time=1608700655, title=None, item_type='comment', url=None, parent=25514130, text='It’s not arbitrary. It’s defined by one’s relation to the means of production. This is <i>capitalism</i> in a nutshell.')
+Item(by='yyyymmddh', descendants=None, kids=[25515822], score=None, time=1608700655, title=None, item_type='comment', url=None, parent=25514130, text='It’s not arbitrary. It’s defined by one’s relation to the means of production. This is <i>capitalism</i> in a nutshell.')

@@ -1,0 +1,1 @@
+Item(by='coldpie', descendants=None, kids=None, score=None, time=1608728351, title=None, item_type='comment', url=None, parent=25514114, text='You can also set up a systemd service to monitor files in a directory and refresh the &#x2F;etc&#x2F;hosts when they are changed.')
