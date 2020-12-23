@@ -1,1 +1,1 @@
-Item(by='adrian_mrd', descendants=0, kids=None, score=2, time=1608636511, title='Hell Yes! CSS!', item_type='story', url='https://wizardzines.com/zines/css/', parent=None, text=None)
+Item(by='adrian_mrd', descendants=38, kids=[25515586, 25515386, 25515561, 25515264, 25515551, 25514965, 25514284, 25515557, 25514623, 25515255, 25514712, 25514809, 25515114], score=88, time=1608636511, title='Hell Yes CSS', item_type='story', url='https://wizardzines.com/zines/css/', parent=None, text=None)

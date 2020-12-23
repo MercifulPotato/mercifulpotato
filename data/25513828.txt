@@ -1,1 +1,1 @@
-Item(by='wglb', descendants=0, kids=None, score=1, time=1608691170, title='IPv6 WireGuard Peering', item_type='story', url='https://fly.io/blog/ipv6-wireguard-peering/', parent=None, text=None)
+Item(by='wglb', descendants=24, kids=[25515522, 25515469, 25514089, 25514431, 25514622, 25514924, 25514177, 25515085, 25514115, 25514890], score=71, time=1608691170, title='IPv6 WireGuard Peering', item_type='story', url='https://fly.io/blog/ipv6-wireguard-peering/', parent=None, text=None)

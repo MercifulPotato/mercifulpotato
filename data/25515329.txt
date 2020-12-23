@@ -1,0 +1,1 @@
+Item(by='rmdashrfstar', descendants=None, kids=None, score=None, time=1608708200, title=None, item_type='comment', url=None, parent=25512909, text='Just use Kubespray, not much sense in wasting time writing your own unless your intention is specifically learning how to manage cluster setup with stateless Ansible')

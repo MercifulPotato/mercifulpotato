@@ -1,1 +1,1 @@
-Item(by='boh', descendants=None, kids=None, score=None, time=1608692690, title=None, item_type='comment', url=None, parent=25512454, text='The price of stocks decrease if everyone sells them.<p>Your examples are incompatible.')
+Item(by='boh', descendants=None, kids=[25514375], score=None, time=1608692690, title=None, item_type='comment', url=None, parent=25512454, text='The price of stocks decrease if everyone sells them.<p>Your examples are incompatible.')

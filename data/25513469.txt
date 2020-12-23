@@ -1,1 +1,1 @@
-Item(by='dependsontheq', descendants=None, kids=None, score=None, time=1608687360, title=None, item_type='comment', url=None, parent=25513421, text='If you substitute “bread” for “matzah” (unleavened bread) the whole comment could be a weird jiddish joke.')
+Item(by='dependsontheq', descendants=None, kids=[25514316], score=None, time=1608687360, title=None, item_type='comment', url=None, parent=25513421, text='If you substitute “bread” for “matzah” (unleavened bread) the whole comment could be a weird jiddish joke.')

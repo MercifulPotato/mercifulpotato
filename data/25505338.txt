@@ -1,1 +1,1 @@
-Item(by='peteretep', descendants=None, kids=None, score=None, time=1608637463, title=None, item_type='comment', url=None, parent=25504880, text='Federal spending per person is $14,652. If you’ve ever earned less than ~$70k you’ve accepted a dime forcibly extracted from a stranger.')
+Item(by='peteretep', descendants=None, kids=[25507033], score=None, time=1608637463, title=None, item_type='comment', url=None, parent=25504880, text='Federal spending per person is $14,652. If you’ve ever earned less than ~$70k you’ve accepted a dime forcibly extracted from a stranger.')

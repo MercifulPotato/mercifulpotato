@@ -1,1 +1,1 @@
-Item(by='phendrenad2', descendants=None, kids=None, score=None, time=1608689144, title=None, item_type='comment', url=None, parent=25513109, text='I wish congress used pull request best practices. These bills need to be split up into smaller, manageable chunks.')
+Item(by='phendrenad2', descendants=None, kids=[25515104], score=None, time=1608689144, title=None, item_type='comment', url=None, parent=25513109, text='I wish congress used pull request best practices. These bills need to be split up into smaller, manageable chunks.')

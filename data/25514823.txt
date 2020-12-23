@@ -1,0 +1,1 @@
+Item(by='ofrzeta', descendants=None, kids=None, score=None, time=1608702856, title=None, item_type='comment', url=None, parent=25512547, text='Sure is nitpicky. When I see some open source software I certainly never see libc mentioned as a dependency. It&#x27;s just assumed that it is there as part of the OS which it basically is.')

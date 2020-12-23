@@ -1,0 +1,1 @@
+Item(by='zaarn', descendants=None, kids=None, score=None, time=1608701459, title=None, item_type='comment', url=None, parent=25512271, text='Correct, on Windows there is no stable syscall interface, same for BSD. Hence you&#x27;re supposed to link things. But Linux syscall interface is stable and libc is definitely not stable.')

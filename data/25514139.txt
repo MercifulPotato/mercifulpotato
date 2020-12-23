@@ -1,0 +1,1 @@
+Item(by='chrismccord', descendants=None, kids=None, score=None, time=1608694921, title=None, item_type='comment', url=None, parent=25513768, text='Since LiveView is built on phoenix channels, it&#x27;s the same story. Simply pass the `transport: LongPoll` option to the LiveSocket constructor and you&#x27;re now using long polling with LV :)')

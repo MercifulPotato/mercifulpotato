@@ -1,1 +1,1 @@
-Item(by='Reedx', descendants=0, kids=None, score=4, time=1608671433, title='Nearly half of Seattle’s helmet citations go to homeless people', item_type='story', url='https://crosscut.com/news/2020/12/nearly-half-seattles-helmet-citations-go-homeless-people', parent=None, text=None)
+Item(by='Reedx', descendants=1, kids=[25515183], score=4, time=1608671433, title='Nearly half of Seattle’s helmet citations go to homeless people', item_type='story', url='https://crosscut.com/news/2020/12/nearly-half-seattles-helmet-citations-go-homeless-people', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='laurex', descendants=41, kids=[25512997, 25511218, 25511742], score=89, time=1608668387, title='Murders of Journalists Doubled in 2020', item_type='story', url='https://www.nytimes.com/2020/12/22/world/americas/mexico-journalists-killings-double.html', parent=None, text=None)
+Item(by='laurex', descendants=42, kids=[25512997, 25511218, 25511742, 25514505], score=93, time=1608668387, title='Murders of Journalists Doubled in 2020', item_type='story', url='https://www.nytimes.com/2020/12/22/world/americas/mexico-journalists-killings-double.html', parent=None, text=None)

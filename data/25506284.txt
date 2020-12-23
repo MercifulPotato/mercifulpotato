@@ -1,1 +1,1 @@
-Item(by='aembleton', descendants=None, kids=None, score=None, time=1608645436, title=None, item_type='comment', url=None, parent=25505965, text='My whole office only has a single 5W LED lamp!  I thought that was enough.')
+Item(by='aembleton', descendants=None, kids=[25515225], score=None, time=1608645436, title=None, item_type='comment', url=None, parent=25505965, text='My whole office only has a single 5W LED lamp!  I thought that was enough.')

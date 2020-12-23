@@ -1,1 +1,1 @@
-Item(by='venkyk', descendants=None, kids=None, score=None, time=1608653838, title=None, item_type='comment', url=None, parent=25506530, text='Wow! Impressive... what are the advantages over EKS? Just cost benefits or others as well?')
+Item(by='venkyk', descendants=None, kids=[25514782], score=None, time=1608653838, title=None, item_type='comment', url=None, parent=25506530, text='Wow! Impressive... what are the advantages over EKS? Just cost benefits or others as well?')

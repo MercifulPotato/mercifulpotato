@@ -1,1 +1,1 @@
-Item(by='luu', descendants=10, kids=[25512367, 25512010, 25511761, 25502626, 25512514, 25512379], score=16, time=1608607207, title='Crystal Ball', item_type='story', url='https://www.newyorker.com/magazine/2014/11/17/crystal-ball-3', parent=None, text=None)
+Item(by='luu', descendants=11, kids=[25512010, 25512367, 25511761, 25502626, 25512514, 25512379], score=17, time=1608607207, title='Crystal Ball', item_type='story', url='https://www.newyorker.com/magazine/2014/11/17/crystal-ball-3', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='pama', descendants=0, kids=None, score=2, time=1608679552, title='Bill Gates Year in Review 2020', item_type='story', url='https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2020', parent=None, text=None)
+Item(by='pama', descendants=8, kids=[25514499, 25514768, 25515478], score=49, time=1608679552, title='Bill Gates Year in Review 2020', item_type='story', url='https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2020', parent=None, text=None)
