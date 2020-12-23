@@ -1,0 +1,1 @@
+Item(by='fzzzy', descendants=None, kids=[25513289], score=None, time=1608679003, title=None, item_type='comment', url=None, parent=25510922, text='Long Polling is how we used to do it. The web page opens a request to the server but the server does not reply. Once the event happens on the server, the server replies to the old request and the client opens a new request.')

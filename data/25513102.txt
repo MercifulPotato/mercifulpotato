@@ -1,0 +1,1 @@
+Item(by='exyi', descendants=None, kids=None, score=None, time=1608683504, title=None, item_type='comment', url=None, parent=25511435, text='C&#x2F;C++ and Rust actually run very fine client side nowadays. However, it&#x27;s just more cumbersome to make UI in those languages, so it&#x27;s mostly used to port existing libs or for performance.')

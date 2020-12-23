@@ -1,1 +1,1 @@
-Item(by='phaedryx', descendants=None, kids=None, score=None, time=1608664574, title=None, item_type='comment', url=None, parent=25508524, text='Yes!<p>1. What if something goes wrong?<p>2. How do I test for handling success&#x2F;error?<p>They never address this stuff.')
+Item(by='phaedryx', descendants=None, kids=[25511630, 25511065], score=None, time=1608664574, title=None, item_type='comment', url=None, parent=25508524, text='Yes!<p>1. What if something goes wrong?<p>2. How do I test for handling success&#x2F;error?<p>They never address this stuff.')

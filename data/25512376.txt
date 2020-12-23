@@ -1,0 +1,1 @@
+Item(by='webmaven', descendants=None, kids=None, score=None, time=1608677630, title=None, item_type='comment', url=None, parent=25509363, text='<i>&gt; cgi-bin didn’t give you the ability to update a chat page across several different windows in near real-time.</i><p>Servers could maintain an open connection and stream new data to the browser.')

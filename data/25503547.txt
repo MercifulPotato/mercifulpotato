@@ -1,1 +1,1 @@
-Item(by='drdee', descendants=0, kids=None, score=3, time=1608618382, title='Plato in Sicily', item_type='story', url='https://aeon.co/essays/when-philosopher-met-king-on-platos-italian-voyages', parent=None, text=None)
+Item(by='drdee', descendants=3, kids=[25513524, 25512637, 25512629], score=38, time=1608618382, title='Plato in Sicily', item_type='story', url='https://aeon.co/essays/when-philosopher-met-king-on-platos-italian-voyages', parent=None, text=None)

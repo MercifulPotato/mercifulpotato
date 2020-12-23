@@ -1,0 +1,1 @@
+Item(by='pjc50', descendants=None, kids=[25511114], score=None, time=1608670154, title=None, item_type='comment', url=None, parent=25505141, text='Is there a &quot;real&quot; Windows on ARM yet, or is it still Windows RT? Can I build a proper native MFC app targeting ARM? Does it produce PE executables?')

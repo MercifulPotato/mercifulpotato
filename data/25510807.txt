@@ -1,0 +1,1 @@
+Item(by='tarsinge', descendants=None, kids=None, score=None, time=1608668736, title=None, item_type='comment', url=None, parent=25509920, text='I agree with the need of standardization. But it’s just that I find the above mentioned libraries “hyper declarative” approach more in line with an HTML centric philosophy than the logic in a JS controller approach of Stimulus.')

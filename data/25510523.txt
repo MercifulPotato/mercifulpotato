@@ -1,1 +1,1 @@
-Item(by='ericd', descendants=None, kids=None, score=None, time=1608667398, title=None, item_type='comment', url=None, parent=25506960, text='Vesting schedule means he has 0% right now, 10% in a month, and then 1&#x2F;48th of 40% every month thereafter.')
+Item(by='ericd', descendants=None, kids=[25513234], score=None, time=1608667398, title=None, item_type='comment', url=None, parent=25506960, text='Vesting schedule means he has 0% right now, 10% in a month, and then 1&#x2F;48th of 40% every month thereafter.')

@@ -1,0 +1,1 @@
+Item(by='labawi', descendants=None, kids=None, score=None, time=1608667514, title=None, item_type='comment', url=None, parent=25510390, text='You can split it to two 1x PCIe 2.0, or perhaps even 2x, 4x, probably even 3.0, 4.0, with the right chip, but in any case you need a PCIe switch, and they will share the uplink bandwidth.')

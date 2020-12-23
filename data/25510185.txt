@@ -1,1 +1,1 @@
-Item(by='juokaz', descendants=0, kids=None, score=4, time=1608665738, title='How Amazon Wins: By Steamrolling Rivals and Partners', item_type='story', url='https://www.wsj.com/articles/amazon-competition-shopify-wayfair-allbirds-antitrust-11608235127', parent=None, text=None)
+Item(by='juokaz', descendants=3, kids=[25511875, 25513531, 25512368], score=37, time=1608665738, title='How Amazon Wins: By Steamrolling Rivals and Partners', item_type='story', url='https://www.wsj.com/articles/amazon-competition-shopify-wayfair-allbirds-antitrust-11608235127', parent=None, text=None)

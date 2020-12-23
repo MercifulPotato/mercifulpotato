@@ -1,0 +1,1 @@
+Item(by='vlovich123', descendants=None, kids=None, score=None, time=1608677039, title=None, item_type='comment', url=None, parent=25512228, text='That’s true for Linux and why Go thought they could do this everywhere. It turns out that libc is the only stable interface for a lot of platforms (notably MacOS and many other BSDs if not all).')

@@ -1,1 +1,1 @@
-Item(by='josefresco', descendants=None, kids=None, score=None, time=1608588936, title=None, item_type='comment', url=None, parent=25499633, text='Also Apple gets a 30% cut of everything you buy while using the car. &#x2F;s')
+Item(by='josefresco', descendants=None, kids=[25513690], score=None, time=1608588936, title=None, item_type='comment', url=None, parent=25499633, text='Also Apple gets a 30% cut of everything you buy while using the car. &#x2F;s')

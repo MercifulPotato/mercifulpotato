@@ -1,0 +1,1 @@
+Item(by='SomeoneFromCA', descendants=None, kids=[25513423], score=None, time=1608671861, title=None, item_type='comment', url=None, parent=25510623, text='You should never run microcontroller from an unregulated supply - it will brown out. USB is not unregulated, it just has bad precision, but regulation I am sure is pretty fine.')

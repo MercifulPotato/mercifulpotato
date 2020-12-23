@@ -1,1 +1,1 @@
-Item(by='fingerlocks', descendants=None, kids=None, score=None, time=1608664451, title=None, item_type='comment', url=None, parent=25508828, text='Could you suggest a small home router? I&#x27;ve been trying to find an 5Ghz &#x2F; 802.11ax Wifi router with such features.')
+Item(by='fingerlocks', descendants=None, kids=[25512145], score=None, time=1608664451, title=None, item_type='comment', url=None, parent=25508828, text='Could you suggest a small home router? I&#x27;ve been trying to find an 5Ghz &#x2F; 802.11ax Wifi router with such features.')

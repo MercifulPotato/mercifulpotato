@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[25511180], score=None, time=1608668789, title=None, item_type='comment', url=None, parent=25510709, text='Not that I imagine it causes problems in practice, but as a point of order I think 10G copper PHYs cannot negotiate below 100BASE-TX.')

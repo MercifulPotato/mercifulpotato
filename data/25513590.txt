@@ -1,0 +1,1 @@
+Item(by='tomnipotent', descendants=None, kids=None, score=None, time=1608688710, title=None, item_type='comment', url=None, parent=25509960, text='It&#x27;s min&#x2F;max per row group, so (potentially) huge chunks of the Parquet file don&#x27;t need to be read from disk if only a subset qualify.')

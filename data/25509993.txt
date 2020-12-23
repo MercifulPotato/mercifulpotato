@@ -1,1 +1,1 @@
-Item(by='boudin', descendants=None, kids=None, score=None, time=1608664649, title=None, item_type='comment', url=None, parent=25509088, text='No, only users fully owning their devices have this benefit which neither apple and google provide.')
+Item(by='boudin', descendants=None, kids=[25511121], score=None, time=1608664649, title=None, item_type='comment', url=None, parent=25509088, text='No, only users fully owning their devices have this benefit which neither apple and google provide.')

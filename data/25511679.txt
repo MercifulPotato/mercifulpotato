@@ -1,0 +1,1 @@
+Item(by='magicalhippo', descendants=None, kids=[25512688], score=None, time=1608673742, title=None, item_type='comment', url=None, parent=25511014, text='&gt; The lack of 5V operation is a little annoying<p>It should be noted many STM32&#x27;s (if not all, huge family) have 5V tolerant I&#x2F;O pins, so it&#x27;s not nearly as annoying as it could be.')

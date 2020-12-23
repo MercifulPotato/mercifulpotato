@@ -1,1 +1,1 @@
-Item(by='reedf1', descendants=None, kids=None, score=None, time=1608644386, title=None, item_type='comment', url=None, parent=25505707, text='I&#x27;ve heard the leader of this research broke off and created a competing technology - eXtensible Message Routing, or XMR.')
+Item(by='reedf1', descendants=None, kids=[25511453], score=None, time=1608644386, title=None, item_type='comment', url=None, parent=25505707, text='I&#x27;ve heard the leader of this research broke off and created a competing technology - eXtensible Message Routing, or XMR.')

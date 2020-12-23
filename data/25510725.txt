@@ -1,0 +1,1 @@
+Item(by='kube-system', descendants=None, kids=[25511474], score=None, time=1608668353, title=None, item_type='comment', url=None, parent=25509467, text='I think the average QR code has what, 15-30% redundancy?<p>a 100 pixel high 1d barcode is 10,000% redundant in one axis :)')

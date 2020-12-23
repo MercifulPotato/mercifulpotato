@@ -1,1 +1,1 @@
-Item(by='jsin', descendants=None, kids=None, score=None, time=1608667044, title=None, item_type='comment', url=None, parent=25509619, text='Looks awesome! As a programmer, I’ve always wanted to get my hands dirty and make something physical. I have always loved Mark Rober’s videos too, so I can’t wait to try this out')
+Item(by=None, descendants=None, kids=[25510567], score=None, time=1608667044, title=None, item_type='comment', url=None, parent=25509619, text=None)

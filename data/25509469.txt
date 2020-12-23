@@ -1,1 +1,1 @@
-Item(by='gassius', descendants=None, kids=None, score=None, time=1608661736, title=None, item_type='comment', url=None, parent=25508573, text='Wait, we still need to add a cgi-bin to this')
+Item(by='gassius', descendants=None, kids=[25512264], score=None, time=1608661736, title=None, item_type='comment', url=None, parent=25508573, text='Wait, we still need to add a cgi-bin to this')

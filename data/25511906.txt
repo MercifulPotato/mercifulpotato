@@ -1,0 +1,1 @@
+Item(by='arvindamirtaa', descendants=None, kids=None, score=None, time=1608675024, title=None, item_type='comment', url=None, parent=25511334, text='It&#x27;s not rails. It&#x27;s very specifically backend agnostic.<p>Source: I&#x27;ve been using turbolinks and stimulus with Django for a good year and a half.')

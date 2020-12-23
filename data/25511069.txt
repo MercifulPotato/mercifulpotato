@@ -1,1 +1,1 @@
-Item(by='thomasahle', descendants=None, kids=None, score=None, time=1608670215, title=None, item_type='comment', url=None, parent=25510834, text='If the company has already taken investor money, say x dollars, for 10%, doesn&#x27;t thst mean the company is worth 10x dollars?')
+Item(by='thomasahle', descendants=None, kids=[25511542, 25511245], score=None, time=1608670215, title=None, item_type='comment', url=None, parent=25510834, text='If the company has already taken investor money, say x dollars, for 10%, doesn&#x27;t thst mean the company is worth 10x dollars?')

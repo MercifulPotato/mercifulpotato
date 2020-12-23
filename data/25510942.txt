@@ -1,0 +1,1 @@
+Item(by='avmich', descendants=None, kids=[25511010], score=None, time=1608669447, title=None, item_type='comment', url=None, parent=25510618, text='&gt; 1-bit computer<p>I&#x27;ve really enjoyed RISC V serial (SERV) presentation - 1-bit computer essentially. Wonder how low one can get in terms of transistor count, without going the path of LGP-30.')

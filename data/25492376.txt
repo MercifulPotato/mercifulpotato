@@ -1,1 +1,1 @@
-Item(by='jhoechtl', descendants=None, kids=None, score=None, time=1608528849, title=None, item_type='comment', url=None, parent=25491618, text='You made me smile on a foggy cold and way to early morning before coffee. Take that upvote!')
+Item(by='jhoechtl', descendants=None, kids=[25513952], score=None, time=1608528849, title=None, item_type='comment', url=None, parent=25491618, text='You made me smile on a foggy cold and way to early morning before coffee. Take that upvote!')
