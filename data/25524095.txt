@@ -1,1 +1,1 @@
-Item(by='backing', descendants=0, kids=None, score=1, time=1608771306, title='Opera blocking ads ads model', item_type='story', url='https://www.opera.com/ads', parent=None, text=None)
+Item(by='backing', descendants=1, kids=[25524966], score=1, time=1608771306, title='Opera blocking ads ads model', item_type='story', url='https://www.opera.com/ads', parent=None, text=None)

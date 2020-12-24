@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=None, score=None, time=1608785428, title=None, item_type='comment', url=None, parent=25522665, text='Sounds like a horribly complex special case. I&#x27;d far rather just have higher-kinded types and be able to write sometimes-async code using normal polymorphism (like I do in Scala all the time).')

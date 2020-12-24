@@ -1,1 +1,1 @@
-Item(by='divs1210', descendants=None, kids=[25515808, 25514608, 25516715], score=None, time=1608698572, title=None, item_type='comment', url=None, parent=25513397, text='How does it achieve full tail call elimination and csp while compiling to java bytecode?')
+Item(by='divs1210', descendants=None, kids=[25514608, 25515808, 25516715], score=None, time=1608698572, title=None, item_type='comment', url=None, parent=25513397, text='How does it achieve full tail call elimination and csp while compiling to java bytecode?')

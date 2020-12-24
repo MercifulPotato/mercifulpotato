@@ -1,0 +1,1 @@
+Item(by='thomasahle', descendants=None, kids=None, score=None, time=1608796943, title=None, item_type='comment', url=None, parent=25523715, text='I suppose you are right. But MuZero won&#x27;t be able to do this, since it&#x27;s training forces it to consider legal moves in its planning.')

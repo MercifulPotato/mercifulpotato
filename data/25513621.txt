@@ -1,1 +1,1 @@
-Item(by='toast0', descendants=None, kids=None, score=None, time=1608689081, title=None, item_type='comment', url=None, parent=25513513, text='Did they ever use UEFI? I thought it was just EFI.')
+Item(by='toast0', descendants=None, kids=[25525171], score=None, time=1608689081, title=None, item_type='comment', url=None, parent=25513513, text='Did they ever use UEFI? I thought it was just EFI.')

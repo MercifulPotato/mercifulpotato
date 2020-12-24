@@ -1,1 +1,1 @@
-Item(by='dmix', descendants=None, kids=None, score=None, time=1608756114, title=None, item_type='comment', url=None, parent=25520859, text='This is interesting do you have more details you could share or point to a link?')
+Item(by='dmix', descendants=None, kids=[25525220], score=None, time=1608756114, title=None, item_type='comment', url=None, parent=25520859, text='This is interesting do you have more details you could share or point to a link?')

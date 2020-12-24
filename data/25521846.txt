@@ -1,1 +1,1 @@
-Item(by='cmrdsprklpny', descendants=1, kids=[25523623], score=10, time=1608755523, title='I Hate Cilantro', item_type='story', url='http://www.ihatecilantro.com', parent=None, text=None)
+Item(by='cmrdsprklpny', descendants=2, kids=[25525353, 25523623], score=10, time=1608755523, title='I Hate Cilantro', item_type='story', url='http://www.ihatecilantro.com', parent=None, text=None)

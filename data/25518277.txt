@@ -1,1 +1,1 @@
-Item(by='pimlottc', descendants=None, kids=None, score=None, time=1608735971, title=None, item_type='comment', url=None, parent=25518190, text='It’s part of the joke; it insults your tastes no matter what they are.')
+Item(by='pimlottc', descendants=None, kids=[25525449], score=None, time=1608735971, title=None, item_type='comment', url=None, parent=25518190, text='It’s part of the joke; it insults your tastes no matter what they are.')

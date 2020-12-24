@@ -1,1 +1,1 @@
-Item(by='wbl', descendants=None, kids=None, score=None, time=1608767921, title=None, item_type='comment', url=None, parent=25523512, text='Didn&#x27;t they start with green threads way back when?')
+Item(by='wbl', descendants=None, kids=[25525750], score=None, time=1608767921, title=None, item_type='comment', url=None, parent=25523512, text='Didn&#x27;t they start with green threads way back when?')

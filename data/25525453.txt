@@ -1,0 +1,1 @@
+Item(by='toastal', descendants=None, kids=None, score=None, time=1608791102, title=None, item_type='comment', url=None, parent=25520655, text='If you also find these code blocks with ligatures hard to read or understand, you can use a user style with `code, kbd, pre, samp { font-feature-settings: normal !important }` (might be a good places to set a default `tab-width` too).')

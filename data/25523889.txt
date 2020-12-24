@@ -1,1 +1,1 @@
-Item(by='aidenn0', descendants=None, kids=None, score=None, time=1608769404, title=None, item_type='comment', url=None, parent=25523119, text='Young engineers often undercut their value by a lot.  That&#x27;s part of why they are popular')
+Item(by='aidenn0', descendants=None, kids=[25525630], score=None, time=1608769404, title=None, item_type='comment', url=None, parent=25523119, text='Young engineers often undercut their value by a lot.  That&#x27;s part of why they are popular')

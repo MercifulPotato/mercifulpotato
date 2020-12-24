@@ -1,1 +1,1 @@
-Item(by='djsumdog', descendants=0, kids=None, score=1, time=1608777667, title='The Case Act Is Just the Beginning of the Next Copyright Battle', item_type='story', url='https://www.eff.org/deeplinks/2020/12/case-act-just-beginning-next-copyright-battle', parent=None, text=None)
+Item(by='djsumdog', descendants=1, kids=[25525251], score=3, time=1608777667, title='The Case Act Is Just the Beginning of the Next Copyright Battle', item_type='story', url='https://www.eff.org/deeplinks/2020/12/case-act-just-beginning-next-copyright-battle', parent=None, text=None)

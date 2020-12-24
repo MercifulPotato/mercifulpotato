@@ -1,0 +1,1 @@
+Item(by='ChrisSD', descendants=None, kids=None, score=None, time=1608786811, title=None, item_type='comment', url=None, parent=25522435, text='This vulnerability is about `splwow64.exe`. It&#x27;s started by the malware but explorer has it on a whitelist that automatically elevates it to medium integrity. It&#x27;s not running as admin or system.')

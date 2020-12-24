@@ -1,0 +1,1 @@
+Item(by='boulos', descendants=None, kids=None, score=None, time=1608788673, title=None, item_type='comment', url=None, parent=25525089, text='Right, but depending on the tokio version (maybe) using block_on results in a hang or panic. I’ll see if futures_lite is any different, but I think it’s mostly on tokio’s side.')

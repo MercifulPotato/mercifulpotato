@@ -1,0 +1,1 @@
+Item(by='cozzyd', descendants=None, kids=[25525255], score=None, time=1608784301, title=None, item_type='comment', url=None, parent=25524728, text='Right I guess what is needed is some way for cell dependencies to be known, so that all cells that depend on a changed cell will automatically update.')

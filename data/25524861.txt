@@ -1,0 +1,1 @@
+Item(by='scrollaway', descendants=None, kids=[25525565], score=None, time=1608781502, title=None, item_type='comment', url=None, parent=25524525, text='FYI youtube-dl can download playlists. I heavily suspect you can even use --continue to download missing updated bits in a playlist you previously downloaded')
