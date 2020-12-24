@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=1, time=1608795289, title='A perceptual color space for image processing', item_type='story', url='https://bottosson.github.io/posts/oklab/', parent=None, text=None)
+Item(by='ingve', descendants=34, kids=[25527283, 25526841, 25526778, 25526642, 25526689, 25526350, 25526651, 25526193], score=122, time=1608795289, title='A perceptual color space for image processing', item_type='story', url='https://bottosson.github.io/posts/oklab/', parent=None, text=None)

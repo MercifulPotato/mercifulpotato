@@ -1,0 +1,1 @@
+Item(by='Veedrac', descendants=None, kids=[25527237], score=None, time=1608803301, title=None, item_type='comment', url=None, parent=25525820, text='Tell that to Stockfish NNUE :P. A simpler neural network running at Stockfish speeds, all on CPU, crushes Lc0 (Lc0 is probably stronger than AlphaZero IMO).')

@@ -1,0 +1,1 @@
+Item(by='tikej', descendants=None, kids=[25527959], score=None, time=1608806469, title=None, item_type='comment', url=None, parent=25525076, text='Its done in Pluto.jl - Julia notebooks that have cell dependencies implemented (and rerun them upon change of variable’s value).')

@@ -1,0 +1,1 @@
+Item(by='ProtoAES256', descendants=None, kids=None, score=None, time=1608803114, title=None, item_type='comment', url=None, parent=25526086, text='I sent a 5GiB file from my android phone to my laptop, my phone hungs for nearly a minute before it starts the sending process. My hypothesis is that it needs some &#x27;processing&#x27; from and to the browser and the phone storage.')

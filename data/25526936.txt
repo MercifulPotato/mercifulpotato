@@ -1,0 +1,1 @@
+Item(by='tecleandor', descendants=None, kids=None, score=None, time=1608812853, title=None, item_type='comment', url=None, parent=25524193, text='Instead of PyInstaller, I had success using Nuitka. Doesn&#x27;t work with every Python package, but I think it&#x27;s easier to use.')

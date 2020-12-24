@@ -1,1 +1,1 @@
-Item(by='SpaceRaccoon', descendants=None, kids=None, score=None, time=1608788719, title=None, item_type='comment', url=None, parent=25525222, text='Telegram has similar &quot;Saved Messages&quot; feature.')
+Item(by='SpaceRaccoon', descendants=None, kids=[25526033], score=None, time=1608788719, title=None, item_type='comment', url=None, parent=25525222, text='Telegram has similar &quot;Saved Messages&quot; feature.')

@@ -1,0 +1,1 @@
+Item(by='_kbh_', descendants=None, kids=[25527331, 25526553], score=None, time=1608807574, title=None, item_type='comment', url=None, parent=25526472, text='Interestingly enough they only mention it being unreasonable for x86, it would be interesting to see SEL4 supported for ARM (of which SEL4 already has a verified kernel for).')

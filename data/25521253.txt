@@ -1,1 +1,1 @@
-Item(by='jameslk', descendants=None, kids=None, score=None, time=1608752248, title=None, item_type='comment', url=None, parent=25520441, text='I&#x27;m comparing website vs website when I&#x27;m talking about web performance. You&#x27;re comparing Electron apps vs... native apps?')
+Item(by='jameslk', descendants=None, kids=[25526393], score=None, time=1608752248, title=None, item_type='comment', url=None, parent=25520441, text='I&#x27;m comparing website vs website when I&#x27;m talking about web performance. You&#x27;re comparing Electron apps vs... native apps?')

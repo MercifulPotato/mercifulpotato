@@ -1,0 +1,1 @@
+Item(by='vkoskiv', descendants=None, kids=[25527138, 25526879], score=None, time=1608810686, title=None, item_type='comment', url=None, parent=25526549, text='False. AirDrop does discovery via bluetooth, but then sets up an ad-hoc WiFi connection directly between devices to transmit data. No network required.')

@@ -1,0 +1,1 @@
+Item(by='mratsim', descendants=None, kids=None, score=None, time=1608808773, title=None, item_type='comment', url=None, parent=25517722, text='For a lexer&#x2F;parser you should use a coroutine &#x2F; suspendable function abstraction. Or a parser generator.')

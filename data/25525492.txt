@@ -1,1 +1,1 @@
-Item(by='reshie', descendants=None, kids=None, score=None, time=1608791834, title=None, item_type='comment', url=None, parent=25524900, text='ok coreboot. libreboot was a means to simplify it. its &quot;core&quot; is still very alive.')
+Item(by='reshie', descendants=None, kids=[25526044], score=None, time=1608791834, title=None, item_type='comment', url=None, parent=25524900, text='ok coreboot. libreboot was a means to simplify it. its &quot;core&quot; is still very alive.')

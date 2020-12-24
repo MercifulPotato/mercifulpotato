@@ -1,0 +1,1 @@
+Item(by='tarsinge', descendants=None, kids=None, score=None, time=1608799110, title=None, item_type='comment', url=None, parent=25524283, text='I got the same thing with Postgres. It was on a toy project learning Docker Compose, naively used PORTS instead of EXPOSE on the DB container. Also the CPU of the Postgres process was at 100% so maybe I got some crypto miner too.')

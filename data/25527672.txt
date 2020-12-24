@@ -1,0 +1,1 @@
+Item(by='dsteinman', descendants=None, kids=None, score=None, time=1608819816, title=None, item_type='comment', url=None, parent=25525665, text='I wrote a chess game using StockFish, and had it play against another computer player that only made random choices.  And what surprised me is how long it would take StockFish to beat the random player.')

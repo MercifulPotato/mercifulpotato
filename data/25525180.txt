@@ -1,1 +1,1 @@
-Item(by='oorza', descendants=None, kids=None, score=None, time=1608786025, title=None, item_type='comment', url=None, parent=25524162, text='I don&#x27;t have anything to add but to say I&#x27;m glad someone else has discovered the beauty of coding to Glass&#x27;s works.')
+Item(by='oorza', descendants=None, kids=[25526528], score=None, time=1608786025, title=None, item_type='comment', url=None, parent=25524162, text='I don&#x27;t have anything to add but to say I&#x27;m glad someone else has discovered the beauty of coding to Glass&#x27;s works.')

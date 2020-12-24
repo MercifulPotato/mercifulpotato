@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=[25527394], score=None, time=1608817309, title=None, item_type='comment', url=None, parent=25527058, text='That is an implementation detail, nothing prevents a future release of Nim compiler to directly generate machine code.')

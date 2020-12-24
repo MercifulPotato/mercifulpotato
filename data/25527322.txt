@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1608817125, title=None, item_type='comment', url=None, parent=25526624, text='It is very possible to write firmware in Rust, as long as the device is using a chip that’s supported.')

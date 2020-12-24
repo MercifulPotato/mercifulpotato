@@ -1,0 +1,1 @@
+Item(by='JosefAssad', descendants=None, kids=[25527002], score=None, time=1608803955, title=None, item_type='comment', url=None, parent=25526034, text='Well, not explicitly. But you can respond with a set-cookie header for the same session id, with an expiry in the past. Browsers will purge expired cookies.')

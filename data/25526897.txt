@@ -1,0 +1,1 @@
+Item(by='sagichmal', descendants=None, kids=None, score=None, time=1608812485, title=None, item_type='comment', url=None, parent=25526604, text='Go makes concurrency about as tricky as a reasonably complex data structure. can you still write a bug? Of course. Is it so tricky that bugs are inevitable, or even common? Absolutely not.')

@@ -1,0 +1,1 @@
+Item(by='btrask', descendants=None, kids=None, score=None, time=1608801407, title=None, item_type='comment', url=None, parent=25521590, text='If you are transferring ownership, you would do<p><pre><code>    p2 = p1; p1 = NULL;\n</code></pre>\nHowever if you are intentionally doing multiple ownership, then yes you can still have problems.')

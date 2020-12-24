@@ -1,1 +1,1 @@
-Item(by='jsl123', descendants=None, kids=None, score=None, time=1608662059, title=None, item_type='comment', url=None, parent=25508439, text='The build process needs to be run on more than one cpu in parallel...<p>On a 4 cpu system the build run through.')
+Item(by='jsl123', descendants=None, kids=[25527718], score=None, time=1608662059, title=None, item_type='comment', url=None, parent=25508439, text='The build process needs to be run on more than one cpu in parallel...<p>On a 4 cpu system the build run through.')

@@ -1,1 +1,1 @@
-Item(by='Tomte', descendants=0, kids=None, score=2, time=1608795385, title='The CDC says the top global health story of 2020 was mosquitoes', item_type='story', url='https://www.theverge.com/22197008/cdc-mosquitoes-top-story-global-health', parent=None, text=None)
+Item(by='Tomte', descendants=1, kids=[25525951], score=2, time=1608795385, title='The CDC says the top global health story of 2020 was mosquitoes', item_type='story', url='https://www.theverge.com/22197008/cdc-mosquitoes-top-story-global-health', parent=None, text=None)

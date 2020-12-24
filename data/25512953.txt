@@ -1,1 +1,1 @@
-Item(by='kinakomochidayo', descendants=None, kids=None, score=None, time=1608682019, title=None, item_type='comment', url=None, parent=25512847, text='Whoops, you’re right.<p>It’s still odd that Blockstream had  significant number of developers working on the core protocol.')
+Item(by='kinakomochidayo', descendants=None, kids=[25526157], score=None, time=1608682019, title=None, item_type='comment', url=None, parent=25512847, text='Whoops, you’re right.<p>It’s still odd that Blockstream had  significant number of developers working on the core protocol.')

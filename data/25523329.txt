@@ -1,1 +1,1 @@
-Item(by='droctothorpe', descendants=0, kids=None, score=9, time=1608764748, title='Unconscious Algorithms', item_type='story', url='https://droctothorpe.github.io/posts/2020/12/unconscious-algorithms/', parent=None, text=None)
+Item(by='droctothorpe', descendants=1, kids=[25526541], score=11, time=1608764748, title='Unconscious Algorithms', item_type='story', url='https://droctothorpe.github.io/posts/2020/12/unconscious-algorithms/', parent=None, text=None)

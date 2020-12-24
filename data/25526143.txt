@@ -1,0 +1,1 @@
+Item(by='bonzini', descendants=None, kids=[25526965, 25526403], score=None, time=1608801958, title=None, item_type='comment', url=None, parent=25525567, text='Don&#x27;t knights need at least a 12x12 board? You can overlap the 0th column with the 10th column of the previous line and go down to 10x12, but 10x10 would cause out of bounds accesses.')
