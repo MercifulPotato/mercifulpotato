@@ -1,0 +1,1 @@
+Item(by='legerdemain', descendants=None, kids=[25530857, 25530848], score=None, time=1608838881, title=None, item_type='comment', url=None, parent=25530633, text='Python2:<p><pre><code>  &gt;&gt;&gt; type(type)\n  &lt;type &#x27;type&#x27;&gt;\n</code></pre>\nPython3:<p><pre><code>  &gt;&gt;&gt; type(type)\n  &lt;class &#x27;type&#x27;&gt;</code></pre>')

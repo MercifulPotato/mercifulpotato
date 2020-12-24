@@ -1,1 +1,1 @@
-Item(by='xwdv', descendants=None, kids=None, score=None, time=1608818489, title=None, item_type='comment', url=None, parent=25527235, text='I’d love to do a long distance cycling tour but the fear of being hit and killed is what will prevent me from truly enjoying it.')
+Item(by='xwdv', descendants=None, kids=[25530427, 25530959, 25529032, 25529458], score=None, time=1608818489, title=None, item_type='comment', url=None, parent=25527235, text='I’d love to do a long distance cycling tour but the fear of being hit and killed is what will prevent me from truly enjoying it.')

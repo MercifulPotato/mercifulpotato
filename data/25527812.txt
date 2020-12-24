@@ -1,1 +1,1 @@
-Item(by='markus_zhang', descendants=None, kids=None, score=None, time=1608820809, title=None, item_type='comment', url=None, parent=25527391, text='So basically everything is Chinese&#x27; fault, oh how important we are...')
+Item(by='markus_zhang', descendants=None, kids=[25528658], score=None, time=1608820809, title=None, item_type='comment', url=None, parent=25527391, text='So basically everything is Chinese&#x27; fault, oh how important we are...')

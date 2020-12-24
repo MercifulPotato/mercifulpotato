@@ -1,1 +1,1 @@
-Item(by='timClicks', descendants=None, kids=None, score=None, time=1608765499, title=None, item_type='comment', url=None, parent=25523372, text='It&#x27;s still fearless, as in you don&#x27;t need to worry that you might create data races, but can be clunky to write in some cases.')
+Item(by='timClicks', descendants=None, kids=[25528615], score=None, time=1608765499, title=None, item_type='comment', url=None, parent=25523372, text='It&#x27;s still fearless, as in you don&#x27;t need to worry that you might create data races, but can be clunky to write in some cases.')

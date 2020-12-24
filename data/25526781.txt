@@ -1,1 +1,1 @@
-Item(by='junon', descendants=None, kids=None, score=None, time=1608811134, title=None, item_type='comment', url=None, parent=25519658, text='I moved to Germany from the US two years ago for work. I love it here. AMA.')
+Item(by='junon', descendants=None, kids=[25528436], score=None, time=1608811134, title=None, item_type='comment', url=None, parent=25519658, text='I moved to Germany from the US two years ago for work. I love it here. AMA.')

@@ -1,1 +1,1 @@
-Item(by='ljm', descendants=None, kids=None, score=None, time=1608775903, title=None, item_type='comment', url=None, parent=25523428, text='This and the parent comment need to be written with Comic Sans to highlight how absurdly pretentious they are.')
+Item(by='ljm', descendants=None, kids=[25529949, 25529451], score=None, time=1608775903, title=None, item_type='comment', url=None, parent=25523428, text='This and the parent comment need to be written with Comic Sans to highlight how absurdly pretentious they are.')

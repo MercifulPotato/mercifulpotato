@@ -1,1 +1,1 @@
-Item(by='addicted', descendants=None, kids=None, score=None, time=1608776659, title=None, item_type='comment', url=None, parent=25523048, text='For the customers who want it, wouldn’t simply using Apple Pay resolve this?')
+Item(by='addicted', descendants=None, kids=[25530411], score=None, time=1608776659, title=None, item_type='comment', url=None, parent=25523048, text='For the customers who want it, wouldn’t simply using Apple Pay resolve this?')

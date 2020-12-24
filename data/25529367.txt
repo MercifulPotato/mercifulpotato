@@ -1,0 +1,1 @@
+Item(by='skrooge', descendants=None, kids=None, score=None, time=1608830384, title=None, item_type='comment', url=None, parent=25527241, text='OpenBSD doesn&#x27;t do GUI isolation. xinput grabs all. But file system is limited (unveil) and what apps can do (pledge)')

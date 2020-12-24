@@ -1,1 +1,1 @@
-Item(by='brnt', descendants=None, kids=None, score=None, time=1608801437, title=None, item_type='comment', url=None, parent=25519244, text='Thanks, but thats maps.me, not mapy.cz, right?')
+Item(by='brnt', descendants=None, kids=[25528008], score=None, time=1608801437, title=None, item_type='comment', url=None, parent=25519244, text='Thanks, but thats maps.me, not mapy.cz, right?')

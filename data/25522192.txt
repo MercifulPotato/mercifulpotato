@@ -1,1 +1,1 @@
-Item(by='smitty1e', descendants=None, kids=None, score=None, time=1608757305, title=None, item_type='comment', url=None, parent=25520039, text='It&#x27;s a guideline, for external use. It can apply as well to a second round.')
+Item(by='smitty1e', descendants=None, kids=[25529711], score=None, time=1608757305, title=None, item_type='comment', url=None, parent=25520039, text='It&#x27;s a guideline, for external use. It can apply as well to a second round.')

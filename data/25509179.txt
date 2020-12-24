@@ -1,1 +1,1 @@
-Item(by='ric2b', descendants=None, kids=None, score=None, time=1608660227, title=None, item_type='comment', url=None, parent=25505449, text='The lightning network is a decentralized protocol for transferring BTC, it&#x27;s not even remotely comparable.')
+Item(by='ric2b', descendants=None, kids=[25528616], score=None, time=1608660227, title=None, item_type='comment', url=None, parent=25505449, text='The lightning network is a decentralized protocol for transferring BTC, it&#x27;s not even remotely comparable.')

@@ -1,1 +1,1 @@
-Item(by='moritzwolf', descendants=None, kids=None, score=None, time=1608771802, title=None, item_type='comment', url=None, parent=25518773, text='You can install uBlock in Safari from the AppStore. Works great for me.')
+Item(by='moritzwolf', descendants=None, kids=[25529661], score=None, time=1608771802, title=None, item_type='comment', url=None, parent=25518773, text='You can install uBlock in Safari from the AppStore. Works great for me.')

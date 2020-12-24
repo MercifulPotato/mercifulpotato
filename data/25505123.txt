@@ -1,1 +1,1 @@
-Item(by='mwenge', descendants=6, kids=[25526060, 25505124, 25526200, 25524863], score=53, time=1608635641, title="Show HN: Disassembling a C64 Game from Scratch: Jeff Minter's Gridrunner", item_type='story', url='https://github.com/mwenge/gridrunner', parent=None, text=None)
+Item(by='mwenge', descendants=8, kids=[25526060, 25505124, 25528030, 25527530, 25526200, 25524863], score=63, time=1608635641, title="Show HN: Disassembling a C64 Game from Scratch: Jeff Minter's Gridrunner", item_type='story', url='https://github.com/mwenge/gridrunner', parent=None, text=None)

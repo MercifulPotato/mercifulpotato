@@ -1,0 +1,1 @@
+Item(by='ww520', descendants=None, kids=None, score=None, time=1608832877, title=None, item_type='comment', url=None, parent=25528738, text='Yeah, shouldn’t be too difficult. I would imagine running a signed distance function between the light positions and the 3d cube model could do the job.')

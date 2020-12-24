@@ -1,0 +1,1 @@
+Item(by='rbirkby', descendants=None, kids=None, score=None, time=1608844703, title=None, item_type='comment', url=None, parent=25529584, text='These corporate phishing test emails come from phishd and similar services. Very easy to fingerprint them with smtp headers and set up mail rules to bounce them to your corporate phishing sink...')

@@ -1,0 +1,1 @@
+Item(by='mst', descendants=None, kids=None, score=None, time=1608836494, title=None, item_type='comment', url=None, parent=25523794, text='&gt; logic surrounding I&#x2F;O which can be executed concurrently.<p>That&#x27;s the bit you&#x27;d use an async runtime for, in a (mostly) dedicated thread.<p>The heavy computations would be in other threads that aren&#x27;t doing so.')

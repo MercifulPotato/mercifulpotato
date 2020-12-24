@@ -1,0 +1,1 @@
+Item(by='SEJeff', descendants=None, kids=[25528590], score=None, time=1608821157, title=None, item_type='comment', url=None, parent=25527306, text='Indeed. Subversion stores history on a per-file basis and not a per-project basis. This is one of the precious few areas where Subversion does best git.')

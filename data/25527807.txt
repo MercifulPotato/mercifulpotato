@@ -1,1 +1,1 @@
-Item(by='markus_zhang', descendants=None, kids=None, score=None, time=1608820750, title=None, item_type='comment', url=None, parent=25527244, text='Please send me the address of that interview and I&#x27;ll post it on Weibo and see how the Chinese react to it...')
+Item(by='markus_zhang', descendants=None, kids=[25529253], score=None, time=1608820750, title=None, item_type='comment', url=None, parent=25527244, text='Please send me the address of that interview and I&#x27;ll post it on Weibo and see how the Chinese react to it...')

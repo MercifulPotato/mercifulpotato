@@ -1,1 +1,1 @@
-Item(by='dietr1ch', descendants=None, kids=None, score=None, time=1608819167, title=None, item_type='comment', url=None, parent=25526983, text='Have you tried Syncthing?')
+Item(by='dietr1ch', descendants=None, kids=[25529312], score=None, time=1608819167, title=None, item_type='comment', url=None, parent=25526983, text='Have you tried Syncthing?')

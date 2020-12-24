@@ -1,0 +1,1 @@
+Item(by='ffhhj', descendants=None, kids=None, score=None, time=1608822330, title=None, item_type='comment', url=None, parent=25524472, text='Works fine for small files, but got stuck with a 15GB archive. Does it load the whole file into memory?<p>EDIT: After a few minutes with a black screen it started transferring.<p>EDIT 2: The transfer was suddendly canceled.')

@@ -1,0 +1,1 @@
+Item(by='ncrmro', descendants=None, kids=None, score=None, time=1608837772, title=None, item_type='comment', url=None, parent=25509648, text='When you create or a edit a vm you can add a file system passthrough.<p>You mount this in your guest vms fstab and specify 9p in the options')

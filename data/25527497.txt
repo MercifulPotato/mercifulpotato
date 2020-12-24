@@ -1,1 +1,1 @@
-Item(by='jlouis', descendants=None, kids=None, score=None, time=1608818546, title=None, item_type='comment', url=None, parent=25527327, text='The biggest hassle with svn is adminstrative overhead. You need to give developers access. Git completely works around this hurdle.')
+Item(by='jlouis', descendants=None, kids=[25529593], score=None, time=1608818546, title=None, item_type='comment', url=None, parent=25527327, text='The biggest hassle with svn is adminstrative overhead. You need to give developers access. Git completely works around this hurdle.')

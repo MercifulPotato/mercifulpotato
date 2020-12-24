@@ -1,0 +1,1 @@
+Item(by='malshe', descendants=1, kids=[25528491], score=2, time=1608824817, title='Calling brew cask install is disabled Use brew install [–cask] instead', item_type='story', url='https://github.com/ansible-collections/community.general/issues/1524', parent=None, text=None)

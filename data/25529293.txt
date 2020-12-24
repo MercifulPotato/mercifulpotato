@@ -1,0 +1,1 @@
+Item(by='kelsolaar', descendants=None, kids=None, score=None, time=1608829993, title=None, item_type='comment', url=None, parent=25526651, text='Y’CbCr is simply not perceptually uniform, it is a simple rotation of RGB to separate better Luma and Chroma and thus be able to compress the latter more to leverage our lesser sensitivity to colour variation.')

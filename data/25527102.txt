@@ -1,1 +1,1 @@
-Item(by='_ttg', descendants=0, kids=None, score=1, time=1608815163, title='Building an antilibrary: the power of unread books', item_type='story', url='http://nesslabs.com/antilibrary', parent=None, text=None)
+Item(by='_ttg', descendants=1, kids=[25528065], score=3, time=1608815163, title='Building an antilibrary: the power of unread books', item_type='story', url='http://nesslabs.com/antilibrary', parent=None, text=None)

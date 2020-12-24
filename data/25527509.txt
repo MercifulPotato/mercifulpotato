@@ -1,1 +1,1 @@
-Item(by='pryelluw', descendants=None, kids=None, score=None, time=1608818664, title=None, item_type='comment', url=None, parent=25526708, text='Are you open to other arrangements?')
+Item(by='pryelluw', descendants=None, kids=[25527844], score=None, time=1608818664, title=None, item_type='comment', url=None, parent=25526708, text='Are you open to other arrangements?')

@@ -1,0 +1,1 @@
+Item(by='legerdemain', descendants=None, kids=[25530633], score=None, time=1608837896, title=None, item_type='comment', url=None, parent=25530473, text='Sure! In Python 2.x, &quot;class&quot; was an instance of &quot;type.&quot; In Python 3.x, &quot;type&quot; is an instance of &quot;class.&quot; (This is, of course, an over-simplification of a much more complicated reality.)')

@@ -1,1 +1,1 @@
-Item(by='robin_reala', descendants=0, kids=None, score=2, time=1608812692, title='Not a Car – Microlino', item_type='story', url='https://microlino-car.com/en/microlino', parent=None, text=None)
+Item(by='robin_reala', descendants=1, kids=[25528038], score=2, time=1608812692, title='Not a Car – Microlino', item_type='story', url='https://microlino-car.com/en/microlino', parent=None, text=None)
