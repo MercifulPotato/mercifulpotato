@@ -1,0 +1,1 @@
+Item(by='respondo2134', descendants=None, kids=None, score=None, time=1608768349, title=None, item_type='comment', url=None, parent=25523663, text='What about having your front end app authenticate with an auth provider to get a limited life token which in turn is sent with you api request? this is typically how I&#x27;d adopt a JWT scenario')

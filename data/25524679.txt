@@ -1,0 +1,1 @@
+Item(by='im3w1l', descendants=None, kids=None, score=None, time=1608778756, title=None, item_type='comment', url=None, parent=25524394, text='It would be nice to use a hybrid: (only) Trust CA on first use. But I guess in practice some random company is much more likely to misplace their keys than you are to be mitmed by CA&#x27;s.')

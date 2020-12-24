@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=[25524359], score=None, time=1608772427, title=None, item_type='comment', url=None, parent=25524005, text='For Rocket you want to use the master branch which has async support. Then your request handler is an async function and you can just .await the future returned by reqwest.')

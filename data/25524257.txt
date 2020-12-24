@@ -1,0 +1,1 @@
+Item(by='sigjuice', descendants=None, kids=None, score=None, time=1608772985, title=None, item_type='comment', url=None, parent=25524125, text='How big is this MPU region?  Pointers to large structs can easily allow access past the protected region.')

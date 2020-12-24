@@ -1,0 +1,1 @@
+Item(by='lights0123', descendants=None, kids=None, score=None, time=1608766889, title=None, item_type='comment', url=None, parent=25522471, text='A very useful thing is that async stuff is easily cancelled in Rust, not so much threads—just making it go out of scope causes it to be cancelled in Rust, while you&#x27;d need to add cancellation logic to threads.')

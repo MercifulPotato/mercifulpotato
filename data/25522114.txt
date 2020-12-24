@@ -1,0 +1,1 @@
+Item(by='101008', descendants=1, kids=[25522864], score=2, time=1608756899, title='Ask HN: Share your Christmas horror story', item_type='story', url=None, parent=None, text='I will start with mine: I have to leave (virtual&#x2F;home) office in two hours (until after New Year), but I just noticed that a few tables in production database (postgres) seem to be corrupted. :-(')

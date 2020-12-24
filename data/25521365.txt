@@ -1,1 +1,1 @@
-Item(by='laybak', descendants=0, kids=None, score=4, time=1608752789, title='SEC Sues Ripple over XRP Cryptocurrency', item_type='story', url='https://www.wsj.com/articles/ripple-to-face-sec-suit-over-xrp-cryptocurrency-11608598800', parent=None, text=None)
+Item(by='laybak', descendants=0, kids=[25524004], score=9, time=1608752789, title='SEC Sues Ripple over XRP Cryptocurrency', item_type='story', url='https://www.wsj.com/articles/ripple-to-face-sec-suit-over-xrp-cryptocurrency-11608598800', parent=None, text=None)

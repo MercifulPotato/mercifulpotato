@@ -1,1 +1,1 @@
-Item(by='memecatcher', descendants=0, kids=None, score=4, time=1608752072, title='Show HN: Slack app to schedule messages so you don’t harass people this week', item_type='story', url='https://messagethemlater.com/', parent=None, text=None)
+Item(by='memecatcher', descendants=5, kids=[25522317, 25521977, 25522286], score=16, time=1608752072, title='Show HN: Slack app to schedule messages so you don’t harass people this week', item_type='story', url='https://messagethemlater.com/', parent=None, text=None)

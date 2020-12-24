@@ -1,0 +1,1 @@
+Item(by='micahjm', descendants=None, kids=[25521938], score=None, time=1608755922, title=None, item_type='comment', url=None, parent=25520655, text='Careful with sizes=“any” on the SVG favicon. I found a few months ago that it caused Chrome to select a known size PNG favicon over the smaller SVG (with dark mode support).')

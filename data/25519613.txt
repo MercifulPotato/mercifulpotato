@@ -1,1 +1,1 @@
-Item(by='esoterica', descendants=None, kids=None, score=None, time=1608743044, title=None, item_type='comment', url=None, parent=25517337, text='&gt; The more important question is why is no one going to jail?<p>Because it&#x27;s a civil offense, not a criminal one.')
+Item(by='esoterica', descendants=None, kids=[25523059], score=None, time=1608743044, title=None, item_type='comment', url=None, parent=25517337, text='&gt; The more important question is why is no one going to jail?<p>Because it&#x27;s a civil offense, not a criminal one.')

@@ -1,1 +1,1 @@
-Item(by='jerzyt', descendants=None, kids=None, score=None, time=1608753457, title=None, item_type='comment', url=None, parent=25521366, text='Exactly.  I&#x27;d be hesitant to buy a stock of a company that is not self-serving.')
+Item(by='jerzyt', descendants=None, kids=[25521656], score=None, time=1608753457, title=None, item_type='comment', url=None, parent=25521366, text='Exactly.  I&#x27;d be hesitant to buy a stock of a company that is not self-serving.')

@@ -1,1 +1,1 @@
-Item(by='breck', descendants=None, kids=None, score=None, time=1608752667, title=None, item_type='comment', url=None, parent=25521179, text='Yeah, it could go poorly. But there&#x27;s also Google Maps and YouTube. (Although both seem to be getting worse nowadays :( )')
+Item(by='breck', descendants=None, kids=[25522408], score=None, time=1608752667, title=None, item_type='comment', url=None, parent=25521179, text='Yeah, it could go poorly. But there&#x27;s also Google Maps and YouTube. (Although both seem to be getting worse nowadays :( )')

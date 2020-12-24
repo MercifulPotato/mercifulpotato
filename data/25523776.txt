@@ -1,0 +1,1 @@
+Item(by='pvorb', descendants=None, kids=None, score=None, time=1608768405, title=None, item_type='comment', url=None, parent=25523596, text='You probably shouldn&#x27;t introduce K8s just to solve that problem. I&#x27;m just saying if you&#x27;re already on k8s, scaling horizontally becomes easy.')

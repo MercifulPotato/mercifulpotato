@@ -1,0 +1,1 @@
+Item(by='pvorb', descendants=None, kids=[25523596], score=None, time=1608765282, title=None, item_type='comment', url=None, parent=25523170, text='And once you get to a limit, the alternative to rewriting everything in non-blocking code might be to put multiple instances of your blocking app on multiple VMs&#x2F;k8s&#x2F;whatever behind a load balancer.')

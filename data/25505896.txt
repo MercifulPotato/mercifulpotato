@@ -1,1 +1,1 @@
-Item(by='introvertmac', descendants=None, kids=None, score=None, time=1608642865, title=None, item_type='comment', url=None, parent=25505804, text='Yes, it is :P Saying sorry on behalf of whole 2020 :)')
+Item(by='introvertmac', descendants=None, kids=[25522856], score=None, time=1608642865, title=None, item_type='comment', url=None, parent=25505804, text='Yes, it is :P Saying sorry on behalf of whole 2020 :)')

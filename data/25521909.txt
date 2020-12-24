@@ -1,0 +1,1 @@
+Item(by='zimbatm', descendants=None, kids=[25522181], score=None, time=1608755847, title=None, item_type='comment', url=None, parent=25519710, text='It wasn&#x27;t clear to me how using user namespaces helped prevent the CVEs. Docker is already using them and it didn&#x27;t protect them. Did I miss something in the design that&#x27;s different than Docker?')

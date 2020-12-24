@@ -1,0 +1,1 @@
+Item(by='josephg', descendants=None, kids=None, score=None, time=1608766378, title=None, item_type='comment', url=None, parent=25523153, text='In rust you can block your thread on the completion of an async future. Let other people use async code if they want to, and you can write your code in a syncronous blocking kind of way.')

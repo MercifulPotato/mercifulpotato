@@ -1,0 +1,1 @@
+Item(by='astrophysician', descendants=None, kids=None, score=None, time=1608776601, title=None, item_type='comment', url=None, parent=25519303, text='Just to clarify: prophet implements a <i>particular</i> model with Stan as a backend, not Stan models generally.')

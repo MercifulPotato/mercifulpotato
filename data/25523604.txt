@@ -1,0 +1,1 @@
+Item(by='riyakhanna1983', descendants=None, kids=None, score=None, time=1608766983, title=None, item_type='comment', url=None, parent=25520853, text='&gt; &quot;There&#x27;s also benefits of being able o run a special kernel per workload.&quot;<p>I wonder if we will see kernel namespaces that would let you run specialized kernel for each container just like a VM.')

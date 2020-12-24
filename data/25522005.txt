@@ -1,0 +1,1 @@
+Item(by='LinuxBender', descendants=None, kids=[25522200], score=None, time=1608756335, title=None, item_type='comment', url=None, parent=25520044, text='Are your hosts SELinux enforced?  It was not clear to me what methods were used to implement MAC.  The focus of the article seemed to be around capabilities.')

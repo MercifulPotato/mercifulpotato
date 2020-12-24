@@ -1,1 +1,1 @@
-Item(by='faitswulff', descendants=1, kids=[25520112], score=2, time=1608744813, title='We rendered a million web pages to find out what makes the web slow', item_type='story', url='https://catchjs.com/Blog/PerformanceInTheWild', parent=None, text=None)
+Item(by='faitswulff', descendants=2, kids=[25520112, 25523355], score=8, time=1608744813, title='We rendered a million web pages to find out what makes the web slow', item_type='story', url='https://catchjs.com/Blog/PerformanceInTheWild', parent=None, text=None)

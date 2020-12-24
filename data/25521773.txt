@@ -1,0 +1,1 @@
+Item(by='groundthrower', descendants=None, kids=[25521992, 25521785], score=None, time=1608755130, title=None, item_type='comment', url=None, parent=25520549, text='Used jwt for our web app before - changed to session cookies. To make jwt secure for web apps it feels like you are reinventing session authentication.')

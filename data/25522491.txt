@@ -1,0 +1,1 @@
+Item(by='jayd16', descendants=None, kids=[25522577], score=None, time=1608759297, title=None, item_type='comment', url=None, parent=25521439, text='If core rust provides an interface for async&#x2F;await why does usage of it tie you to a specific runtime?  Whats the point of that?')

@@ -1,0 +1,1 @@
+Item(by='zaarn', descendants=None, kids=None, score=None, time=1608763281, title=None, item_type='comment', url=None, parent=25523104, text='ZFS cannot have different sizes in a single vdev and I&#x27;m tired of having to explain this to people everytime I mention this issue.')

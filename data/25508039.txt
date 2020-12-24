@@ -1,1 +1,1 @@
-Item(by='rolph', descendants=None, kids=None, score=None, time=1608655011, title=None, item_type='comment', url=None, parent=25504447, text='this needs work as well , those titles are very often misleading, and dont reflect content or purpose.')
+Item(by='rolph', descendants=None, kids=[25523318], score=None, time=1608655011, title=None, item_type='comment', url=None, parent=25504447, text='this needs work as well , those titles are very often misleading, and dont reflect content or purpose.')

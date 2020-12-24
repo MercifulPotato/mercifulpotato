@@ -1,0 +1,1 @@
+Item(by='sanxiyn', descendants=None, kids=None, score=None, time=1608759801, title=None, item_type='comment', url=None, parent=25522515, text='Comparison is to threads, not to event callbacks. Threads are (at least in Rust) even easier to read than async.')

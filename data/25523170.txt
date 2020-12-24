@@ -1,0 +1,1 @@
+Item(by='pvorb', descendants=None, kids=[25524323, 25523472, 25523386], score=None, time=1608763573, title=None, item_type='comment', url=None, parent=25522926, text='If you know that there will be 10k concurrent users in your application, go ahead and use async right from the start.<p>But for the rest of us, simple, blocking code will do just fine and save us a few headaches.')

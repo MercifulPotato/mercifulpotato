@@ -1,1 +1,1 @@
-Item(by='thepace', descendants=1, kids=[25519173], score=27, time=1608710437, title='The TLA+ Video Course', item_type='story', url='http://lamport.azurewebsites.net/video/videos.html', parent=None, text=None)
+Item(by='thepace', descendants=2, kids=[25522352, 25519173], score=37, time=1608710437, title='The TLA+ Video Course', item_type='story', url='http://lamport.azurewebsites.net/video/videos.html', parent=None, text=None)

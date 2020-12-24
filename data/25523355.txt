@@ -1,0 +1,1 @@
+Item(by='olliej', descendants=None, kids=None, score=None, time=1608765015, title=None, item_type='comment', url=None, parent=25519928, text='Biggest slowdown source was iframes in onlod handlers. Would be interesting to see what those iframes were for, or at least what proportion are ads and trackers.')

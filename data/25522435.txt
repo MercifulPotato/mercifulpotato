@@ -1,0 +1,1 @@
+Item(by='tonyedgecombe', descendants=None, kids=None, score=None, time=1608758995, title=None, item_type='comment', url=None, parent=25520712, text='The print spooler runs under the local system account so you effectively get admin rights over the local machine. If it&#x27;s a terminal server then you control the server.<p>Not sure about Chrome though.')

@@ -1,0 +1,1 @@
+Item(by='sanxiyn', descendants=None, kids=[25523761, 25523811], score=None, time=1608764565, title=None, item_type='comment', url=None, parent=25523238, text='I think the point is that you can omit atomics in async case, if you are always using async in single thread mode.')

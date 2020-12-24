@@ -1,1 +1,1 @@
-Item(by='verroq', descendants=None, kids=None, score=None, time=1608747662, title=None, item_type='comment', url=None, parent=25520366, text='They all begin as a zero day.')
+Item(by='verroq', descendants=None, kids=[25522972], score=None, time=1608747662, title=None, item_type='comment', url=None, parent=25520366, text='They all begin as a zero day.')

@@ -1,0 +1,1 @@
+Item(by='z3t4', descendants=None, kids=None, score=None, time=1608757413, title=None, item_type='comment', url=None, parent=25519710, text='Chroot and mounts should be seen as conveniences and not security features. You need to restrict capabilities with for example apparmor or selinux...')

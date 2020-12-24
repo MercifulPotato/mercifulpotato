@@ -1,0 +1,1 @@
+Item(by='10000truths', descendants=None, kids=[25523257, 25522728], score=None, time=1608760450, title=None, item_type='comment', url=None, parent=25522578, text='OS threads are preemptive and their scheduling is beyond your control, which introduces potential data races. Green threads allow for cooperative scheduling, which is <i>much</i> harder to mess up.')

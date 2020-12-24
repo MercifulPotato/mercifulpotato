@@ -1,0 +1,1 @@
+Item(by='gog', descendants=None, kids=[25524763, 25523466], score=None, time=1608764477, title=None, item_type='comment', url=None, parent=25522672, text='I omit the favicon part from the HTML completely, the browsers still request the favicon.ico even when it&#x27;s not specified.')

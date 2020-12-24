@@ -1,0 +1,1 @@
+Item(by='pier25', descendants=None, kids=None, score=None, time=1608767876, title=None, item_type='comment', url=None, parent=25520549, text='&gt; <i>Vulnerable to CSRF attacks</i><p>Is this really still an issue with cookies?<p>We now have cookie options like same-site and secure which AFAIK prevent the vast majority of attacks.')

@@ -1,1 +1,1 @@
-Item(by='deepbow', descendants=3, kids=[25511240, 25515452, 25515371], score=12, time=1608668744, title='George Steiner, The Art of Criticism No. 2 (1995)', item_type='story', url='https://theparisreview.org/interviews/1506/the-art-of-criticism-no-2-george-steiner', parent=None, text=None)
+Item(by='deepbow', descendants=3, kids=[25511240, 25515371, 25515452], score=12, time=1608668744, title='George Steiner, The Art of Criticism No. 2 (1995)', item_type='story', url='https://theparisreview.org/interviews/1506/the-art-of-criticism-no-2-george-steiner', parent=None, text=None)

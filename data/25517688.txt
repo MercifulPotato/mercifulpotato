@@ -1,1 +1,1 @@
-Item(by='kieckerjan', descendants=None, kids=None, score=None, time=1608732158, title=None, item_type='comment', url=None, parent=25515959, text='Wow, I just learned from your casual remark that you can actually search in the xfce console. Awesome!')
+Item(by='kieckerjan', descendants=None, kids=[25521962], score=None, time=1608732158, title=None, item_type='comment', url=None, parent=25515959, text='Wow, I just learned from your casual remark that you can actually search in the xfce console. Awesome!')

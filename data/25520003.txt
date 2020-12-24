@@ -1,1 +1,1 @@
-Item(by='osdotsystem', descendants=None, kids=None, score=None, time=1608745264, title=None, item_type='comment', url=None, parent=25519753, text='You should add &#x27;Ask HN:&#x27; before your title. Thanks for asking!')
+Item(by='osdotsystem', descendants=None, kids=[25521748], score=None, time=1608745264, title=None, item_type='comment', url=None, parent=25519753, text='You should add &#x27;Ask HN:&#x27; before your title. Thanks for asking!')

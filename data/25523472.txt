@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=[25523788, 25523857], score=None, time=1608765940, title=None, item_type='comment', url=None, parent=25523170, text='Alternatively use async everywhere from the start and your headaches go away too. It&#x27;s mixing blocking code with async code that causes issues.')

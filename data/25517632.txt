@@ -1,1 +1,1 @@
-Item(by='Can_Not', descendants=None, kids=None, score=None, time=1608731679, title=None, item_type='comment', url=None, parent=25517178, text='Cool idea, but no alternative site I&#x27;ve seen has told me which competitor to X has dark mode and markdown.')
+Item(by='Can_Not', descendants=None, kids=[25522909], score=None, time=1608731679, title=None, item_type='comment', url=None, parent=25517178, text='Cool idea, but no alternative site I&#x27;ve seen has told me which competitor to X has dark mode and markdown.')

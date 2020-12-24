@@ -1,0 +1,1 @@
+Item(by='nelgaard', descendants=None, kids=None, score=None, time=1608759345, title=None, item_type='comment', url=None, parent=25522367, text='My use case is mainly that I get tired of seeing that request for a non-existing ico file in debuggers and logs when I develop. So if it is supported by my browser, it is a good start.')

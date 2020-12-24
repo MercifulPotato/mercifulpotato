@@ -1,1 +1,1 @@
-Item(by='rsas', descendants=1, kids=[25520594], score=38, time=1608745413, title='Finding Software Bugs Using Symbolic Execution', item_type='story', url='https://sasnauskas.eu/finding-software-bugs-using-symbolic-execution/', parent=None, text=None)
+Item(by='rsas', descendants=7, kids=[25520594, 25523880, 25522906, 25523907, 25521986], score=88, time=1608745413, title='Finding Software Bugs Using Symbolic Execution', item_type='story', url='https://sasnauskas.eu/finding-software-bugs-using-symbolic-execution/', parent=None, text=None)

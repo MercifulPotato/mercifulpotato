@@ -1,0 +1,1 @@
+Item(by='dr-ando', descendants=None, kids=[25523210], score=None, time=1608758284, title=None, item_type='comment', url=None, parent=25520639, text='Why not use Let’s Encrypt, e.g. with DNS validation so they do not need to hit your HTTP server?')

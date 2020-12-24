@@ -1,0 +1,1 @@
+Item(by='tazard', descendants=None, kids=[25523881], score=None, time=1608769019, title=None, item_type='comment', url=None, parent=25523210, text='With DNS validation it&#x27;s fairly straight forward to get a wildcard cert for all your internal domains (*.my.domain)')

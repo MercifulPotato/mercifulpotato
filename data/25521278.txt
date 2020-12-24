@@ -1,1 +1,1 @@
-Item(by='steveklabnik', descendants=None, kids=[25521372], score=None, time=1608752365, title=None, item_type='comment', url=None, parent=25521197, text='Fun party fact: long ago, Rust had libuv built in too.')
+Item(by='steveklabnik', descendants=None, kids=[25521372, 25522129], score=None, time=1608752365, title=None, item_type='comment', url=None, parent=25521197, text='Fun party fact: long ago, Rust had libuv built in too.')

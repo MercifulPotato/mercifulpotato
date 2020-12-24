@@ -1,0 +1,1 @@
+Item(by='varajelle', descendants=None, kids=[25522877, 25523195], score=None, time=1608760978, title=None, item_type='comment', url=None, parent=25522600, text='&gt; Considering a normal-sized Linux server can handle a million threads without much trouble, it really seems like misplaced effort<p>Seems like that would use a lot of memory for all the stacks')

@@ -1,1 +1,1 @@
-Item(by='baron816', descendants=None, kids=None, score=None, time=1608752423, title=None, item_type='comment', url=None, parent=25515040, text='“Good laws can’t be passed, so we need bad laws (which we also can’t passed)”')
+Item(by='baron816', descendants=None, kids=[25523040], score=None, time=1608752423, title=None, item_type='comment', url=None, parent=25515040, text='“Good laws can’t be passed, so we need bad laws (which we also can’t passed)”')

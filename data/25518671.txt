@@ -1,1 +1,1 @@
-Item(by='sdawodu', descendants=None, kids=None, score=None, time=1608737943, title=None, item_type='comment', url=None, parent=25518408, text='Allow me to introduce Andrew Wakefield. The father of the antivax movement.')
+Item(by='sdawodu', descendants=None, kids=[25523063], score=None, time=1608737943, title=None, item_type='comment', url=None, parent=25518408, text='Allow me to introduce Andrew Wakefield. The father of the antivax movement.')

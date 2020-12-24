@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=None, score=None, time=1608772079, title=None, item_type='comment', url=None, parent=25523161, text='Async is not pre-emptive though (if using a single theaded executor). And thats where most of the unintutive behaviour of threads comes from.')

@@ -1,1 +1,1 @@
-Item(by='IshKebab', descendants=None, kids=None, score=None, time=1608736089, title=None, item_type='comment', url=None, parent=25515761, text='TL;DR: It&#x27;s like Discord&#x27;s voice channels, instead of WhatsApp&#x27;s group voice calls. You can join and leave at any point.')
+Item(by='IshKebab', descendants=None, kids=[25522810], score=None, time=1608736089, title=None, item_type='comment', url=None, parent=25515761, text='TL;DR: It&#x27;s like Discord&#x27;s voice channels, instead of WhatsApp&#x27;s group voice calls. You can join and leave at any point.')

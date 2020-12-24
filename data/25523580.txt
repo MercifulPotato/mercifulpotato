@@ -1,0 +1,1 @@
+Item(by='xg15', descendants=None, kids=[25524585], score=None, time=1608766784, title=None, item_type='comment', url=None, parent=25521417, text='I may be wrong, but I think you still have to manually install your CA cert as a custom root CA on any device that you want to use inside your network. You can&#x27;t use this tutorial to make a new CA that is automatically trusted.')

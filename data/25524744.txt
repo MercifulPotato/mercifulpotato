@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=None, score=None, time=1608779651, title=None, item_type='comment', url=None, parent=25524125, text='If you were writing assembly that would be reliable, but in C it isn&#x27;t. The compiler knows that NULL dereferences are undefined behaviour and so won&#x27;t necessarily compile them into memory accesses.')

@@ -1,0 +1,1 @@
+Item(by='mkoubaa', descendants=None, kids=None, score=None, time=1608764538, title=None, item_type='comment', url=None, parent=25521247, text='One thing I try to do in c++ is pass things by reference in lower level libraries so that client code has to be defensive but library code assumes non null.')
