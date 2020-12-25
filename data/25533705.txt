@@ -1,1 +1,1 @@
-Item(by='SomaticPirate', descendants=None, kids=None, score=None, time=1608863917, title=None, item_type='comment', url=None, parent=25533263, text='Isn’t this what Tailscale claims to fix? Zero config VPN on top of Wireguard?\nWould love for one of the creators to weigh in.')
+Item(by='SomaticPirate', descendants=None, kids=[25534226], score=None, time=1608863917, title=None, item_type='comment', url=None, parent=25533263, text='Isn’t this what Tailscale claims to fix? Zero config VPN on top of Wireguard?\nWould love for one of the creators to weigh in.')

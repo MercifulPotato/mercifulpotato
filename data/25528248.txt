@@ -1,1 +1,1 @@
-Item(by='ebcase', descendants=None, kids=None, score=None, time=1608823612, title=None, item_type='comment', url=None, parent=25522731, text='Can confirm, Reeder is an outstanding app (for RSS feed reading), and as soon as I saw the new version notice, I promptly updated.')
+Item(by='ebcase', descendants=None, kids=[25534327], score=None, time=1608823612, title=None, item_type='comment', url=None, parent=25522731, text='Can confirm, Reeder is an outstanding app (for RSS feed reading), and as soon as I saw the new version notice, I promptly updated.')

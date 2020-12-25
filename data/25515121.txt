@@ -1,1 +1,1 @@
-Item(by='petre', descendants=None, kids=None, score=None, time=1608706150, title=None, item_type='comment', url=None, parent=25514588, text='Mikrotik consumer routers are quite decent. A hAP² handles my apartment just fine.')
+Item(by='petre', descendants=None, kids=[25534172], score=None, time=1608706150, title=None, item_type='comment', url=None, parent=25514588, text='Mikrotik consumer routers are quite decent. A hAP² handles my apartment just fine.')

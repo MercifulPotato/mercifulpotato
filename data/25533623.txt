@@ -1,1 +1,1 @@
-Item(by='enos_feedler', descendants=None, kids=None, score=None, time=1608862931, title=None, item_type='comment', url=None, parent=25532617, text='Does PS5 support remote play? Hope I can get verizon 5G home soon to support the upstream requirements')
+Item(by='enos_feedler', descendants=None, kids=[25534001], score=None, time=1608862931, title=None, item_type='comment', url=None, parent=25532617, text='Does PS5 support remote play? Hope I can get verizon 5G home soon to support the upstream requirements')

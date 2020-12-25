@@ -1,1 +1,1 @@
-Item(by='mfcl', descendants=None, kids=None, score=None, time=1608863171, title=None, item_type='comment', url=None, parent=25533617, text='By practicing. Run it anyway and get good at it.')
+Item(by='mfcl', descendants=None, kids=[25534101], score=None, time=1608863171, title=None, item_type='comment', url=None, parent=25533617, text='By practicing. Run it anyway and get good at it.')

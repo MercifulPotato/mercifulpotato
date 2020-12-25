@@ -1,1 +1,1 @@
-Item(by='pjmorris', descendants=None, kids=None, score=None, time=1608762199, title=None, item_type='comment', url=None, parent=25520420, text='Well, if you consider drunken sprees a mood... :)')
+Item(by='pjmorris', descendants=None, kids=[25533924], score=None, time=1608762199, title=None, item_type='comment', url=None, parent=25520420, text='Well, if you consider drunken sprees a mood... :)')

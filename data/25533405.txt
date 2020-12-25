@@ -1,1 +1,1 @@
-Item(by='anarbadalov', descendants=0, kids=None, score=3, time=1608860099, title="Stanisław Lem's Reflections on the Objects of His Childhood Home", item_type='story', url='https://thereader.mitpress.mit.edu/stanislaw-lems-reflections-childhood/', parent=None, text=None)
+Item(by='anarbadalov', descendants=5, kids=[25535106, 25534272, 25533942, 25534300], score=65, time=1608860099, title="Stanisław Lem's Reflections on the Objects of His Childhood Home", item_type='story', url='https://thereader.mitpress.mit.edu/stanislaw-lems-reflections-childhood/', parent=None, text=None)

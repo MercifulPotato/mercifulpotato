@@ -1,1 +1,1 @@
-Item(by='Nightshaxx', descendants=None, kids=None, score=None, time=1608825513, title=None, item_type='comment', url=None, parent=25528105, text='Python has a few cool things like that. List comprehension blows my mind at how elegant it is.')
+Item(by='Nightshaxx', descendants=None, kids=[25534824], score=None, time=1608825513, title=None, item_type='comment', url=None, parent=25528105, text='Python has a few cool things like that. List comprehension blows my mind at how elegant it is.')

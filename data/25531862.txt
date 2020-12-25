@@ -1,1 +1,1 @@
-Item(by='velvetz', descendants=None, kids=None, score=None, time=1608847341, title=None, item_type='comment', url=None, parent=25531496, text='It has sign-in with apple, you could use that.')
+Item(by='velvetz', descendants=None, kids=[25533938], score=None, time=1608847341, title=None, item_type='comment', url=None, parent=25531496, text='It has sign-in with apple, you could use that.')

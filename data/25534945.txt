@@ -1,0 +1,1 @@
+Item(by='koheripbal', descendants=None, kids=None, score=None, time=1608881823, title=None, item_type='comment', url=None, parent=25533659, text='I suspect it is mentioned specifically because payment data falls under PCI regulations and thus adds response requirements.<p>So stating that such data was not leaked is meant to prevent that additional PCI response step.')

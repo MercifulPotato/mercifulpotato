@@ -1,1 +1,1 @@
-Item(by='ianlevesque', descendants=None, kids=None, score=None, time=1608861186, title=None, item_type='comment', url=None, parent=25533385, text='8.x was the atrocious tablet UI mashup. They are doing everyone a favor.')
+Item(by='ianlevesque', descendants=None, kids=[25534131], score=None, time=1608861186, title=None, item_type='comment', url=None, parent=25533385, text='8.x was the atrocious tablet UI mashup. They are doing everyone a favor.')

@@ -1,1 +1,1 @@
-Item(by='rvieira', descendants=None, kids=None, score=None, time=1608758796, title=None, item_type='comment', url=None, parent=25521596, text='How is it different than, say, Obsidian? Just curious since I&#x27;m an Obsidian fan&#x2F;user.')
+Item(by='rvieira', descendants=None, kids=[25533920], score=None, time=1608758796, title=None, item_type='comment', url=None, parent=25521596, text='How is it different than, say, Obsidian? Just curious since I&#x27;m an Obsidian fan&#x2F;user.')

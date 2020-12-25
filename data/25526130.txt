@@ -1,1 +1,1 @@
-Item(by='oblio', descendants=None, kids=None, score=None, time=1608801640, title=None, item_type='comment', url=None, parent=25525803, text='Can you use that on Android?')
+Item(by='oblio', descendants=None, kids=[25534992], score=None, time=1608801640, title=None, item_type='comment', url=None, parent=25525803, text='Can you use that on Android?')

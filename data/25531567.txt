@@ -1,1 +1,1 @@
-Item(by='oblio', descendants=None, kids=None, score=None, time=1608845070, title=None, item_type='comment', url=None, parent=25524687, text='They don&#x27;t need to know your current salary.')
+Item(by='oblio', descendants=None, kids=[25534011], score=None, time=1608845070, title=None, item_type='comment', url=None, parent=25524687, text='They don&#x27;t need to know your current salary.')
