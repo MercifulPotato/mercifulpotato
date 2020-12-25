@@ -1,1 +1,1 @@
-Item(by='svrma', descendants=0, kids=None, score=3, time=1608876736, title='Eyes hint at hidden mental-health conditions', item_type='story', url='https://www.nature.com/articles/d41586-019-01114-9', parent=None, text=None)
+Item(by='svrma', descendants=15, kids=[25536306, 25536386, 25535961, 25536167, 25536450, 25536143, 25536564], score=52, time=1608876736, title='Eyes hint at hidden mental-health conditions (2019)', item_type='story', url='https://www.nature.com/articles/d41586-019-01114-9', parent=None, text=None)

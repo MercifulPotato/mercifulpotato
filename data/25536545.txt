@@ -1,0 +1,1 @@
+Item(by='t0astbread', descendants=None, kids=[25536554], score=None, time=1608905122, title=None, item_type='comment', url=None, parent=25536437, text='I assume expiration protects against the case where a valid certificate is forgotten and a bad actor gets their hands on it and abuses it without the domain owner noticing. Similar to how some sites enforce session expiration.')

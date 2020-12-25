@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=5, time=1608842542, title='UK students lose Erasmus membership in Brexit deal', item_type='story', url='https://www.theguardian.com/education/2020/dec/24/uk-students-lose-erasmus-membership-in-brexit-deal', parent=None, text=None)
+Item(by='pseudolus', descendants=1, kids=[25535727], score=7, time=1608842542, title='UK students lose Erasmus membership in Brexit deal', item_type='story', url='https://www.theguardian.com/education/2020/dec/24/uk-students-lose-erasmus-membership-in-brexit-deal', parent=None, text=None)

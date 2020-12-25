@@ -1,0 +1,1 @@
+Item(by='rwmj', descendants=None, kids=None, score=None, time=1608904065, title=None, item_type='comment', url=None, parent=25535844, text='I&#x27;d like to see a git-like tool that works on the Abstract Syntax Tree rather than being basically a text tool.  Of course such a tool might end up being very specific to a particular programming language, which would be not good.')

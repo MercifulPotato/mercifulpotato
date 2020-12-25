@@ -1,1 +1,1 @@
-Item(by='MrXOR', descendants=1, kids=[25534938, 25531008], score=6, time=1608835805, title='Pung: A fully untrusted private communication system', item_type='story', url='https://github.com/pung-project/pung', parent=None, text=None)
+Item(by='MrXOR', descendants=2, kids=[25531008, 25534938], score=8, time=1608835805, title='Pung: A fully untrusted private communication system', item_type='story', url='https://github.com/pung-project/pung', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='giuliomagnifico', descendants=5, kids=[25533865, 25529906, 25526113], score=15, time=1608795984, title='ImageNet trained CNNs are biased towards recognising textures rather than shapes', item_type='story', url='https://openreview.net/pdf?id=Bygh9j09KX', parent=None, text=None)
+Item(by='giuliomagnifico', descendants=5, kids=[25533865, 25529906, 25526113], score=18, time=1608795984, title='ImageNet trained CNNs are biased towards recognising textures rather than shapes', item_type='story', url='https://openreview.net/pdf?id=Bygh9j09KX', parent=None, text=None)

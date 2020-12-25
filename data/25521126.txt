@@ -1,1 +1,1 @@
-Item(by='mattmanser', descendants=None, kids=None, score=None, time=1608751628, title=None, item_type='comment', url=None, parent=25518676, text='Something that was not done when Obama handed to Trump.<p>Did you even read the article? The WSJ one agrees with the BBC one!')
+Item(by='mattmanser', descendants=None, kids=[25536034], score=None, time=1608751628, title=None, item_type='comment', url=None, parent=25518676, text='Something that was not done when Obama handed to Trump.<p>Did you even read the article? The WSJ one agrees with the BBC one!')

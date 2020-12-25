@@ -1,0 +1,1 @@
+Item(by='camhart', descendants=None, kids=[25535191, 25535196], score=None, time=1608884963, title=None, item_type='comment', url=None, parent=25534863, text='Is all the software necessary to pull this off already compiled for arm64?<p>I&#x27;ve read claims that rosetta 2 is fast.  I haven&#x27;t seen results about m1 running x86_64 through rosetta vs intel though.')

@@ -1,1 +1,1 @@
-Item(by='mparramon', descendants=0, kids=None, score=2, time=1608859795, title='The Famicube Project', item_type='story', url='http://androidarts.com/palette/Famicube.htm#top', parent=None, text=None)
+Item(by='mparramon', descendants=3, kids=[25535985, 25536144], score=15, time=1608859795, title='The Famicube Project', item_type='story', url='http://androidarts.com/palette/Famicube.htm#top', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='vidarh', descendants=None, kids=None, score=None, time=1608894573, title=None, item_type='comment', url=None, parent=25535307, text='&gt; eg functions aren&#x27;t first-class values.<p>Ruby doesn&#x27;t have functions, but you can obtain a first class value for any method by calling the method `method` on any object.')

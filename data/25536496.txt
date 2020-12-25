@@ -1,0 +1,1 @@
+Item(by='cpuguy83', descendants=None, kids=None, score=None, time=1608904663, title=None, item_type='comment', url=None, parent=25535510, text='Except there is jitted Ruby. Rubinius and jruby to start. Even (C)Ruby 3.0 literally touts JIT as one of the pillars that make it 3x faster than 2.0, granted it is only optimized for a certain kind of code (not Rails) in 3.0.')

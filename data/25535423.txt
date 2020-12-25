@@ -1,0 +1,1 @@
+Item(by='gautamcgoel', descendants=None, kids=[25536069], score=None, time=1608889366, title=None, item_type='comment', url=None, parent=25534588, text='Both Python and Ruby have grafted on new features to support type checking and concurrency. I would much rather just use Go, which was designed with these features baked in right from the start. Simpler, cleaner, and faster.')

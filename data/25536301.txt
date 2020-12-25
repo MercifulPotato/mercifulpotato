@@ -1,0 +1,1 @@
+Item(by='chipsa', descendants=None, kids=None, score=None, time=1608902485, title=None, item_type='comment', url=None, parent=25536248, text='Memory managers are intrinsically unsafe. Rust generally passes around already allocated memory, but allocating the memory requires that you start with an undifferentiated bucket of bits, so the memory manager passes around raw pointers.')

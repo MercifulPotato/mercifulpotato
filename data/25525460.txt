@@ -1,1 +1,1 @@
-Item(by='est', descendants=None, kids=[25526557, 25525882], score=None, time=1608791229, title=None, item_type='comment', url=None, parent=25524472, text='Is there a static, single html version of this? So I can host it on my cheap OpenWRT router with minimal effort.')
+Item(by='est', descendants=None, kids=[25526557, 25535067, 25525882], score=None, time=1608791229, title=None, item_type='comment', url=None, parent=25524472, text='Is there a static, single html version of this? So I can host it on my cheap OpenWRT router with minimal effort.')

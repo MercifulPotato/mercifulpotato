@@ -1,0 +1,1 @@
+Item(by='majkinetor', descendants=None, kids=[25536141, 25536112], score=None, time=1608899220, title=None, item_type='comment', url=None, parent=25535933, text='AHK is not comparable to powershell. They overlap in some segments but generally, what AHK can do, you would have to reimplement in Posh and it would be slow as hell.')
