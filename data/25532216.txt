@@ -1,1 +1,1 @@
-Item(by='alrs', descendants=None, kids=None, score=None, time=1608849919, title=None, item_type='comment', url=None, parent=25529699, text='I&#x27;m usually in #tildetel and #tilderadio. <a href="https:&#x2F;&#x2F;tilde.chat&#x2F;" rel="nofollow">https:&#x2F;&#x2F;tilde.chat&#x2F;</a>')
+Item(by='alrs', descendants=None, kids=[25537300], score=None, time=1608849919, title=None, item_type='comment', url=None, parent=25529699, text='I&#x27;m usually in #tildetel and #tilderadio. <a href="https:&#x2F;&#x2F;tilde.chat&#x2F;" rel="nofollow">https:&#x2F;&#x2F;tilde.chat&#x2F;</a>')

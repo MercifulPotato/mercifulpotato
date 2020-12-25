@@ -1,0 +1,1 @@
+Item(by='kitsunesoba', descendants=None, kids=None, score=None, time=1608922889, title=None, item_type='comment', url=None, parent=25537275, text='And if I&#x27;m not mistaken, until clang is installed commands like &quot;clang&quot; and &quot;gcc&quot; redirect to xcode-select, so if the user tries to compile something the system will offer to install the toolchain for you.')

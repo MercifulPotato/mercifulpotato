@@ -1,0 +1,1 @@
+Item(by='MarkSweep', descendants=None, kids=None, score=None, time=1608921562, title=None, item_type='comment', url=None, parent=25537492, text='While  I quite enjoyed the tale of how several small memory safety bugs came together to create interesting outcomes, I was a little disappointed there was very little Rust content in a closing keynote of a Rust conference.')

@@ -1,1 +1,1 @@
-Item(by='rock_artist', descendants=None, kids=None, score=None, time=1608903918, title=None, item_type='comment', url=None, parent=25535813, text='&gt; Doesn&#x27;t Logic Pro already support this?<p>It does. Apple provides all AU hosts ability to run Rosetta2 AUs in native DAWs')
+Item(by='rock_artist', descendants=None, kids=[25537271], score=None, time=1608903918, title=None, item_type='comment', url=None, parent=25535813, text='&gt; Doesn&#x27;t Logic Pro already support this?<p>It does. Apple provides all AU hosts ability to run Rosetta2 AUs in native DAWs')

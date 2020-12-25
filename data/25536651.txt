@@ -1,0 +1,1 @@
+Item(by='amboo7', descendants=None, kids=[25537593], score=None, time=1608906518, title=None, item_type='comment', url=None, parent=25535844, text='Sooner or later, we should stop using textual diff and switch over to higher level one&#x2F;multiple, such as the AST-level diff (see what GrammaTech does, for example). This and integration of dependency management, is a must IMO.')

@@ -1,1 +1,1 @@
-Item(by='EugeneOZ', descendants=None, kids=None, score=None, time=1608892994, title=None, item_type='comment', url=None, parent=25535143, text='There&#x27;s a lot of analogs. At least in Europe - €60 for 1200 LEDs (with the same mobile app).')
+Item(by='EugeneOZ', descendants=None, kids=[25536844], score=None, time=1608892994, title=None, item_type='comment', url=None, parent=25535143, text='There&#x27;s a lot of analogs. At least in Europe - €60 for 1200 LEDs (with the same mobile app).')

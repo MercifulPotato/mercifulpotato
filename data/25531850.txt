@@ -1,1 +1,1 @@
-Item(by='mhh__', descendants=None, kids=None, score=None, time=1608847277, title=None, item_type='comment', url=None, parent=25531753, text='It said we&#x27;re going to get a £350E6 a week on the side of a bus, what more could we need!')
+Item(by='mhh__', descendants=None, kids=[25537858], score=None, time=1608847277, title=None, item_type='comment', url=None, parent=25531753, text='It said we&#x27;re going to get a £350E6 a week on the side of a bus, what more could we need!')

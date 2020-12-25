@@ -1,0 +1,1 @@
+Item(by='fay59', descendants=None, kids=None, score=None, time=1608922676, title=None, item_type='comment', url=None, parent=25536394, text='You can produce two signed binaries, one for &lt;10.11 that is signed with a SHA-1 and one for newer systems that is signed with SHA-256. Your update framework would have to know which one to pull, but that seems surmountable.')

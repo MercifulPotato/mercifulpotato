@@ -1,0 +1,1 @@
+Item(by='emcq', descendants=None, kids=[25538412], score=None, time=1608919902, title=None, item_type='comment', url=None, parent=25536394, text='Check out sse2neon as a way to substitute your x86 SIMD instrinsics for ARM neon. Perf was good enough to ship in one of the past projects I worked with.')

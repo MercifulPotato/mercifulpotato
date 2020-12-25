@@ -1,0 +1,1 @@
+Item(by='pdimitar', descendants=None, kids=None, score=None, time=1608915310, title=None, item_type='comment', url=None, parent=25537068, text='How is it with immutable-only message-passing concurrency and parallelism? How transparent is it?<p>If we&#x27;re talking naked OS threads, that&#x27;s not efficient or impressive though.')

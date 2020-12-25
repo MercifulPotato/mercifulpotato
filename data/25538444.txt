@@ -1,0 +1,1 @@
+Item(by='jtl999', descendants=None, kids=None, score=None, time=1608924431, title=None, item_type='comment', url=None, parent=25535362, text='IBM POWER9 supports some memory ordering instructions that (as I understand) would in theory be useful for x86 emulation, but a) I&#x27;m unsure if anyone actually uses them and b) They are removed from POWER10')

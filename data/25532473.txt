@@ -1,1 +1,1 @@
-Item(by='imranye', descendants=0, kids=None, score=3, time=1608851869, title='Show HN: Automation-as-a-Service by No Code Necessary', item_type='story', url='https://nocodenecessary.co/', parent=None, text=None)
+Item(by='imranye', descendants=1, kids=[25537458], score=4, time=1608851869, title='Show HN: Automation-as-a-Service by No Code Necessary', item_type='story', url='https://nocodenecessary.co/', parent=None, text=None)

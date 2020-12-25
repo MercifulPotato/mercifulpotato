@@ -1,1 +1,1 @@
-Item(by='est', descendants=None, kids=None, score=None, time=1608861914, title=None, item_type='comment', url=None, parent=25526557, text='Hmm, I thought WebWTC was p2p?<p>If a server is needed anyway, could it be implemented in easier, OpenWRT-compatible way?')
+Item(by='est', descendants=None, kids=[25536752], score=None, time=1608861914, title=None, item_type='comment', url=None, parent=25526557, text='Hmm, I thought WebWTC was p2p?<p>If a server is needed anyway, could it be implemented in easier, OpenWRT-compatible way?')

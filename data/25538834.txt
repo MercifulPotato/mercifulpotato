@@ -1,0 +1,1 @@
+Item(by='adamnew123456', descendants=None, kids=None, score=None, time=1608928417, title=None, item_type='comment', url=None, parent=25537749, text='More or less, though LXC (and LXD using the LXC backend) are focused on system containers rather than single services. Basically lightweight VMs with a full init and the usual set of set of system daemons.')

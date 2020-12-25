@@ -1,1 +1,1 @@
-Item(by='ChrisMarshallNY', descendants=None, kids=None, score=None, time=1608898868, title=None, item_type='comment', url=None, parent=25536007, text='Damn straight. Good stuff. I have some reading to do...')
+Item(by='ChrisMarshallNY', descendants=None, kids=[25536750], score=None, time=1608898868, title=None, item_type='comment', url=None, parent=25536007, text='Damn straight. Good stuff. I have some reading to do...')

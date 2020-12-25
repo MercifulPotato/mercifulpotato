@@ -1,0 +1,1 @@
+Item(by='easton', descendants=None, kids=None, score=None, time=1608911537, title=None, item_type='comment', url=None, parent=25536591, text='How compute intensive is a CA, anyway? I’d think that a few Raspberry Pi-ish devices would be enough to do it for an entire enterprise (or maybe even one, but fault tolerance).')

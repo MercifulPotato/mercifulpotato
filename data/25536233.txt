@@ -1,1 +1,1 @@
-Item(by='xdavidliu', descendants=None, kids=None, score=None, time=1608901548, title=None, item_type='comment', url=None, parent=25536146, text='that reminds me of the well-known saying by Michael Jordan: &quot;Republicans buy Macbook Pros too.&quot;')
+Item(by='xdavidliu', descendants=None, kids=[25537247], score=None, time=1608901548, title=None, item_type='comment', url=None, parent=25536146, text='that reminds me of the well-known saying by Michael Jordan: &quot;Republicans buy Macbook Pros too.&quot;')

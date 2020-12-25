@@ -1,0 +1,1 @@
+Item(by='PaulKeeble', descendants=None, kids=None, score=None, time=1608924869, title=None, item_type='comment', url=None, parent=25537802, text='It did at one point, I recall Sun had that exact bug at some point back around 1.4, I remember it being fixed. Of course the long conversions alleviate the problem but at a performance cost and its an avoidable cast.')

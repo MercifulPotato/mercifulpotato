@@ -1,0 +1,1 @@
+Item(by='mrpippy', descendants=None, kids=[25538313], score=None, time=1608916649, title=None, item_type='comment', url=None, parent=25536394, text='I believe Xcode 12 can only target back to 10.9. (Xcode throws an error when you try to go older, I think the command-line tools can still go back farther though)')

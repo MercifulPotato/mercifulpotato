@@ -1,0 +1,1 @@
+Item(by='dastx', descendants=None, kids=None, score=None, time=1608928706, title=None, item_type='comment', url=None, parent=25537763, text='Windows based containers do exist. Docker for Windows can run both Linux (a VM) and Windows applications. If I&#x27;m not mistaken, both are implemented via HyperV.')

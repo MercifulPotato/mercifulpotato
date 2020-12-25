@@ -1,1 +1,1 @@
-Item(by='aikinai', descendants=None, kids=None, score=None, time=1608898915, title=None, item_type='comment', url=None, parent=25536045, text='But Apple doesn’t have beanbag couches or free catered meals.')
+Item(by='aikinai', descendants=None, kids=[25537072], score=None, time=1608898915, title=None, item_type='comment', url=None, parent=25536045, text='But Apple doesn’t have beanbag couches or free catered meals.')

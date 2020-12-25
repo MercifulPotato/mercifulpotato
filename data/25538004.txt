@@ -1,0 +1,1 @@
+Item(by='nomy99', descendants=None, kids=[25538126], score=None, time=1608919898, title=None, item_type='comment', url=None, parent=25537841, text='what if max is already overflown due to size of array (without even doing the lo + high calculation?) Then \nmin + (max- min)&#x2F;2 would be min + (smaller negative value) which would violate the min + (max-min)&#x2F;2 &lt;= max')

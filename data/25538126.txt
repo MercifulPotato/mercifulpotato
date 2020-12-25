@@ -1,0 +1,1 @@
+Item(by='pk86', descendants=None, kids=None, score=None, time=1608921313, title=None, item_type='comment', url=None, parent=25538004, text='Assuming the value of max passed in is &quot;sane&quot; (non-negative and within array bounds), it is strictly decreasing and should never overflow.')

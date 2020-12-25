@@ -1,0 +1,1 @@
+Item(by='cavalcanti', descendants=None, kids=None, score=None, time=1608906904, title=None, item_type='comment', url=None, parent=25535323, text='I agree with you in the past Elixir deployment was a bit complicated, you needed to install packages and such, but today IMO it&#x27;s well supported by the language and simple to do, `mix release` and voilà.')

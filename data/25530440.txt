@@ -1,1 +1,1 @@
-Item(by='pcdoodle', descendants=None, kids=None, score=None, time=1608837153, title=None, item_type='comment', url=None, parent=25528220, text='Warcraft 3 has aged very well.')
+Item(by='pcdoodle', descendants=None, kids=[25537305], score=None, time=1608837153, title=None, item_type='comment', url=None, parent=25528220, text='Warcraft 3 has aged very well.')

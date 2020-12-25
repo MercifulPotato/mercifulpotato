@@ -1,0 +1,1 @@
+Item(by='scrollaway', descendants=None, kids=None, score=None, time=1608918120, title=None, item_type='comment', url=None, parent=25529156, text='Yup I&#x27;ve used FastAPI and love it. I&#x27;m not entirely sold on it when it comes to dealing with the ORM though, and the lack of a Django-quality admin is kind of a bummer.')

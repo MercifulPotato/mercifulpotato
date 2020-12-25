@@ -1,0 +1,1 @@
+Item(by='rock_artist', descendants=None, kids=None, score=None, time=1608923059, title=None, item_type='comment', url=None, parent=25537648, text='1. Also 10.9 needs SHA1.<p>2. We&#x27;ve been able to input down to 10.7 and didn&#x27;t see any issues. The issue is productsign&#x2F;codesign linking Security.framework which I assume changed.')

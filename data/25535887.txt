@@ -1,1 +1,1 @@
-Item(by='petercrona', descendants=0, kids=None, score=2, time=1608896297, title="Ignorance Isn't a Bliss", item_type='story', url='https://www.babyfriendlyair.com/en/guides/ignorance-is-not-a-bliss/', parent=None, text=None)
+Item(by='petercrona', descendants=1, kids=[25536523], score=2, time=1608896297, title="Ignorance Isn't a Bliss", item_type='story', url='https://www.babyfriendlyair.com/en/guides/ignorance-is-not-a-bliss/', parent=None, text=None)

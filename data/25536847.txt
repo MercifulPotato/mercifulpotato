@@ -1,0 +1,1 @@
+Item(by='zozbot234', descendants=None, kids=[25537211], score=None, time=1608908785, title=None, item_type='comment', url=None, parent=25533561, text='Passing pointers to shared memory is highly unsafe in Go. While the Rust borrow checker will prevent all data races, there&#x27;s nothing like that wrt. Go.')

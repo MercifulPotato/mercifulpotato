@@ -1,1 +1,1 @@
-Item(by='jpxw', descendants=None, kids=None, score=None, time=1608900495, title=None, item_type='comment', url=None, parent=25535403, text='Interestingly (for UK readers), Dominic Cummings is obsessed with Bret Victor (the author of this article).')
+Item(by='jpxw', descendants=None, kids=[25537302], score=None, time=1608900495, title=None, item_type='comment', url=None, parent=25535403, text='Interestingly (for UK readers), Dominic Cummings is obsessed with Bret Victor (the author of this article).')
