@@ -1,1 +1,1 @@
-Item(by='wool_gather', descendants=None, kids=None, score=None, time=1608828883, title=None, item_type='comment', url=None, parent=25522120, text='How does it know that any given decryption is valid? A heuristic like &quot;this is mostly ASCII&quot;?')
+Item(by='wool_gather', descendants=None, kids=[25531781], score=None, time=1608828883, title=None, item_type='comment', url=None, parent=25522120, text='How does it know that any given decryption is valid? A heuristic like &quot;this is mostly ASCII&quot;?')

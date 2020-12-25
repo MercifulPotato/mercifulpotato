@@ -1,1 +1,1 @@
-Item(by='guiriduro', descendants=None, kids=None, score=None, time=1608798131, title=None, item_type='comment', url=None, parent=25525816, text='&lt;cough&gt; George Floyd &lt;cough&gt;')
+Item(by='guiriduro', descendants=None, kids=[25531682], score=None, time=1608798131, title=None, item_type='comment', url=None, parent=25525816, text='&lt;cough&gt; George Floyd &lt;cough&gt;')

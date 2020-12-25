@@ -1,0 +1,1 @@
+Item(by='cfallin', descendants=None, kids=[25533483], score=None, time=1608860900, title=None, item_type='comment', url=None, parent=25533311, text='... and now there&#x27;s a true 512-byte version as well (removing the text and shifting some of the variables to other memory did it) -- `make floppy_1sector.img`. Anyway, thanks for the prompt&#x2F;challenge!')

@@ -1,1 +1,1 @@
-Item(by='d21d3q', descendants=None, kids=None, score=None, time=1608821627, title=None, item_type='comment', url=None, parent=25527741, text='<a href="https:&#x2F;&#x2F;xkcd.com&#x2F;1597&#x2F;" rel="nofollow">https:&#x2F;&#x2F;xkcd.com&#x2F;1597&#x2F;</a>')
+Item(by='d21d3q', descendants=None, kids=[25533879], score=None, time=1608821627, title=None, item_type='comment', url=None, parent=25527741, text='<a href="https:&#x2F;&#x2F;xkcd.com&#x2F;1597&#x2F;" rel="nofollow">https:&#x2F;&#x2F;xkcd.com&#x2F;1597&#x2F;</a>')

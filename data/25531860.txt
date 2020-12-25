@@ -1,0 +1,1 @@
+Item(by='josephg', descendants=None, kids=None, score=None, time=1608847322, title=None, item_type='comment', url=None, parent=25525432, text='Those methods were added super early (node 0.2 or something) and can’t be removed because of backwards compatibility. Many of the core node team think they should never have been added - for that exact reason.')

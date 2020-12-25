@@ -1,1 +1,1 @@
-Item(by='neolog', descendants=None, kids=None, score=None, time=1608843293, title=None, item_type='comment', url=None, parent=25530721, text='Doesn&#x27;t it depend on the person&#x27;s network setup?')
+Item(by='neolog', descendants=None, kids=[25532182], score=None, time=1608843293, title=None, item_type='comment', url=None, parent=25530721, text='Doesn&#x27;t it depend on the person&#x27;s network setup?')

@@ -1,1 +1,1 @@
-Item(by='funkychicken', descendants=0, kids=None, score=1, time=1608840185, title='Ask HN: Is Tesla worth its current evaluation?', item_type='story', url=None, parent=None, text=None)
+Item(by='funkychicken', descendants=4, kids=[25531351, 25531500, 25531950, 25531493], score=3, time=1608840185, title='Ask HN: Is Tesla worth its current evaluation?', item_type='story', url=None, parent=None, text=None)

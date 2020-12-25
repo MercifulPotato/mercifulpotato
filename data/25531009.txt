@@ -1,1 +1,1 @@
-Item(by='gmays', descendants=0, kids=None, score=1, time=1608840844, title='How to Start a Startup', item_type='story', url='https://startupclass.samaltman.com/', parent=None, text=None)
+Item(by='gmays', descendants=54, kids=[25531788, 25533375, 25533499, 25533449, 25532843, 25531578, 25531579, 25531585], score=105, time=1608840844, title='How to Start a Startup (2014)', item_type='story', url='https://startupclass.samaltman.com/', parent=None, text=None)

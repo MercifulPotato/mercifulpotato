@@ -1,1 +1,1 @@
-Item(by='stemcc', descendants=None, kids=None, score=None, time=1608837081, title=None, item_type='comment', url=None, parent=25507204, text='It appears that all the front end JavaScript I’m the repo is compiled and minified already. Any plans for sharing the pre-compiled JavaScript?')
+Item(by='stemcc', descendants=None, kids=[25531933], score=None, time=1608837081, title=None, item_type='comment', url=None, parent=25507204, text='It appears that all the front end JavaScript I’m the repo is compiled and minified already. Any plans for sharing the pre-compiled JavaScript?')

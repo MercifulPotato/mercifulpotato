@@ -1,1 +1,1 @@
-Item(by='lmm', descendants=None, kids=None, score=None, time=1608815893, title=None, item_type='comment', url=None, parent=25526434, text='Go&#x27;s whole approach to concurrency is about avoiding sharing memory; channels suspend in much the same way as async&#x2F;await yield points.')
+Item(by='lmm', descendants=None, kids=[25532230], score=None, time=1608815893, title=None, item_type='comment', url=None, parent=25526434, text='Go&#x27;s whole approach to concurrency is about avoiding sharing memory; channels suspend in much the same way as async&#x2F;await yield points.')

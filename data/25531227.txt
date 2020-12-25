@@ -1,1 +1,1 @@
-Item(by='IshKebab', descendants=None, kids=None, score=None, time=1608842523, title=None, item_type='comment', url=None, parent=25529793, text='Maybe technology-wise, but the games are all super expensive and there aren&#x27;t enough of them to justify a subscription.')
+Item(by='IshKebab', descendants=None, kids=[25531486], score=None, time=1608842523, title=None, item_type='comment', url=None, parent=25529793, text='Maybe technology-wise, but the games are all super expensive and there aren&#x27;t enough of them to justify a subscription.')

@@ -1,1 +1,1 @@
-Item(by='learc83', descendants=None, kids=None, score=None, time=1608728933, title=None, item_type='comment', url=None, parent=25511442, text='Blazor has 2 variants. The server side version works like liveview.')
+Item(by='learc83', descendants=None, kids=[25531255], score=None, time=1608728933, title=None, item_type='comment', url=None, parent=25511442, text='Blazor has 2 variants. The server side version works like liveview.')

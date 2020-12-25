@@ -1,1 +1,1 @@
-Item(by='Domenic_S', descendants=None, kids=None, score=None, time=1608843337, title=None, item_type='comment', url=None, parent=25530334, text='Turn on game mode and problem solved unless you can perceive low double-digit ms latency')
+Item(by='Domenic_S', descendants=None, kids=[25533208], score=None, time=1608843337, title=None, item_type='comment', url=None, parent=25530334, text='Turn on game mode and problem solved unless you can perceive low double-digit ms latency')

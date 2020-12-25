@@ -1,1 +1,1 @@
-Item(by='doener', descendants=0, kids=None, score=2, time=1608836474, title='Fictional Videogame Stills', item_type='story', url='https://www.suzannetreister.net/Ampages/Amenu.html', parent=None, text=None)
+Item(by='doener', descendants=20, kids=[25533203, 25531606, 25533143, 25532661, 25531587, 25532040, 25532017, 25533779, 25531922], score=103, time=1608836474, title='Fictional Videogame Stills', item_type='story', url='https://www.suzannetreister.net/Ampages/Amenu.html', parent=None, text=None)

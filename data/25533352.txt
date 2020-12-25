@@ -1,0 +1,1 @@
+Item(by='klibertp', descendants=None, kids=[25533485], score=None, time=1608859486, title=None, item_type='comment', url=None, parent=25533097, text='&gt; `reduce()` was removed from the standard library<p>Not true: it was moved from builtins to `functools` module, but it&#x27;s still there.')
