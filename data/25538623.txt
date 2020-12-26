@@ -1,1 +1,1 @@
-Item(by='bird_monster', descendants=None, kids=None, score=None, time=1608926433, title=None, item_type='comment', url=None, parent=25537651, text='Given how much COBOL is still in production, I suppose it depends entirely on your definition of &quot;dominant&quot; ?')
+Item(by='bird_monster', descendants=None, kids=[25539507], score=None, time=1608926433, title=None, item_type='comment', url=None, parent=25537651, text='Given how much COBOL is still in production, I suppose it depends entirely on your definition of &quot;dominant&quot; ?')

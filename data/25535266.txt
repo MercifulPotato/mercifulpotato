@@ -1,1 +1,1 @@
-Item(by='andy_ppp', descendants=None, kids=None, score=None, time=1608887057, title=None, item_type='comment', url=None, parent=25534863, text='What high end sample libraries do they use? Also to be fair the Korg D1 sounds perfect for this and only around $600 each...')
+Item(by='andy_ppp', descendants=None, kids=[25539247], score=None, time=1608887057, title=None, item_type='comment', url=None, parent=25534863, text='What high end sample libraries do they use? Also to be fair the Korg D1 sounds perfect for this and only around $600 each...')

@@ -1,1 +1,1 @@
-Item(by='mhb', descendants=0, kids=None, score=3, time=1608909980, title='The PlayPump: What Went Wrong?', item_type='story', url='https://blogs.ei.columbia.edu/2010/07/01/the-playpump-what-went-wrong/', parent=None, text=None)
+Item(by='mhb', descendants=1, kids=[25539249], score=4, time=1608909980, title='The PlayPump: What Went Wrong?', item_type='story', url='https://blogs.ei.columbia.edu/2010/07/01/the-playpump-what-went-wrong/', parent=None, text=None)

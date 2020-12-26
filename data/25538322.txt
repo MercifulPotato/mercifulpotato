@@ -1,1 +1,1 @@
-Item(by='kaunta', descendants=0, kids=None, score=1, time=1608923262, title="John's Python Blog has ended", item_type='story', url='https://johnlekberg.com/blog/2020-12-25-the-end.html', parent=None, text=None)
+Item(by='kaunta', descendants=0, kids=None, score=2, time=1608923262, title="John's Python Blog has ended", item_type='story', url='https://johnlekberg.com/blog/2020-12-25-the-end.html', parent=None, text=None)

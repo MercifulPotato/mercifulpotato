@@ -1,0 +1,1 @@
+Item(by='seba_dos1', descendants=None, kids=[25540079], score=None, time=1608932784, title=None, item_type='comment', url=None, parent=25538800, text='Well, if I want to look at my colleagues&#x27; work without disturbing my uncommitted changes or merging my commits right at that very moment, I use `git fetch`.')

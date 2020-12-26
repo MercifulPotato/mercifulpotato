@@ -1,0 +1,1 @@
+Item(by='ufo', descendants=None, kids=[25539672], score=None, time=1608935776, title=None, item_type='comment', url=None, parent=25538046, text='A dumb question: if I make a commit changing just a single line in a large file, does this create a completely new object&#x2F;blob with the entire contents of the file? Or does it store it in a more space-efficient manner?')

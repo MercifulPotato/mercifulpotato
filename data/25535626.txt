@@ -1,1 +1,1 @@
-Item(by='masswerk', descendants=0, kids=None, score=11, time=1608892398, title='Outer Orbit – old school Spacewar-for-one game', item_type='story', url='https://www.masswerk.at/outerorbit/', parent=None, text=None)
+Item(by='masswerk', descendants=12, kids=[25538662, 25539114], score=45, time=1608892398, title='Outer Orbit – old school Spacewar-for-one game', item_type='story', url='https://www.masswerk.at/outerorbit/', parent=None, text=None)

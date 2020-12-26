@@ -1,1 +1,1 @@
-Item(by='hegzploit', descendants=None, kids=[25537541, 25537156], score=None, time=1608904219, title=None, item_type='comment', url=None, parent=25535971, text='Some commands have different arguments.\nex: I can&#x27;t do rm -rfd as i do usually in gnu&#x2F;linux')
+Item(by='hegzploit', descendants=None, kids=[25537156, 25537541], score=None, time=1608904219, title=None, item_type='comment', url=None, parent=25535971, text='Some commands have different arguments.\nex: I can&#x27;t do rm -rfd as i do usually in gnu&#x2F;linux')

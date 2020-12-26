@@ -1,1 +1,1 @@
-Item(by='dedalus', descendants=0, kids=None, score=2, time=1608828885, title='Anticipatory Procastrination [pdf]', item_type='story', url='http://pages.cs.wisc.edu/~elder/stuff/ant-proc.pdf', parent=None, text=None)
+Item(by='dedalus', descendants=16, kids=[25540363, 25540638, 25540210, 25541038, 25540354, 25540191, 25540471, 25540318], score=68, time=1608828885, title='Anticipatory Procastrination [pdf]', item_type='story', url='http://pages.cs.wisc.edu/~elder/stuff/ant-proc.pdf', parent=None, text=None)

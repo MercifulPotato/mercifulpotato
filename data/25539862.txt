@@ -1,0 +1,1 @@
+Item(by='drivingmenuts', descendants=None, kids=[25540407], score=None, time=1608938042, title=None, item_type='comment', url=None, parent=25539266, text='Just seems like a bad idea - violating the idea of a getter and increasing complexity. Why have a getter in the first place?<p>The proper place for this mess is the setter.')

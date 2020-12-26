@@ -1,1 +1,1 @@
-Item(by='beaner', descendants=None, kids=None, score=None, time=1608919621, title=None, item_type='comment', url=None, parent=25534767, text='It seems directly related to control over immigration.')
+Item(by='beaner', descendants=None, kids=[25539606], score=None, time=1608919621, title=None, item_type='comment', url=None, parent=25534767, text='It seems directly related to control over immigration.')

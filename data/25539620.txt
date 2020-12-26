@@ -1,0 +1,1 @@
+Item(by='djeiasbsbo', descendants=None, kids=None, score=None, time=1608936068, title=None, item_type='comment', url=None, parent=25537512, text='I run into this daily with programs packaged as flatpaks. Almost all of them can access the entire home directory. This can be changed with the flatpak-override command or the graphical software Flatseal.')

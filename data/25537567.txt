@@ -1,1 +1,1 @@
-Item(by='krapp', descendants=None, kids=None, score=None, time=1608915837, title=None, item_type='comment', url=None, parent=25537542, text='The question is, assuming we live long enough, will we turn into the Vorlons or the Shadows?')
+Item(by='krapp', descendants=None, kids=[25540252], score=None, time=1608915837, title=None, item_type='comment', url=None, parent=25537542, text='The question is, assuming we live long enough, will we turn into the Vorlons or the Shadows?')

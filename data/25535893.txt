@@ -1,1 +1,1 @@
-Item(by='cassepipe', descendants=6, kids=[25536024, 25536408], score=88, time=1608896385, title='Redox OS 0.6, the micro-kernel based Rust-written operating system', item_type='story', url='https://www.phoronix.com/scan.php?page=news_item&px=Redox-OS-0.6-Released', parent=None, text=None)
+Item(by='cassepipe', descendants=8, kids=[25536024, 25536408], score=95, time=1608896385, title='Redox OS 0.6, the micro-kernel based Rust-written operating system', item_type='story', url='https://www.phoronix.com/scan.php?page=news_item&px=Redox-OS-0.6-Released', parent=None, text=None)

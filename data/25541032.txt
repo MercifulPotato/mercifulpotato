@@ -1,0 +1,1 @@
+Item(by='tylersmith', descendants=None, kids=[25541073], score=None, time=1608951948, title=None, item_type='comment', url=None, parent=25540878, text='What do you mean by C++ adapter? All the c++ in this post is building the LL files in memory, which can them be persisted to disk or wherever.')

@@ -1,1 +1,1 @@
-Item(by='KMag', descendants=None, kids=None, score=None, time=1608811080, title=None, item_type='comment', url=None, parent=25525527, text='&gt; squid, along with covids<p>Spellcheck has eaten the R in corvids.  Another reason to hate 2020.')
+Item(by='KMag', descendants=None, kids=[25539013], score=None, time=1608811080, title=None, item_type='comment', url=None, parent=25525527, text='&gt; squid, along with covids<p>Spellcheck has eaten the R in corvids.  Another reason to hate 2020.')

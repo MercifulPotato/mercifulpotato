@@ -1,1 +1,1 @@
-Item(by='weinzierl', descendants=1, kids=[25536708], score=2, time=1608906165, title='Using One Cron Parser Everywhere with Rust and Saffron', item_type='story', url='https://blog.cloudflare.com/using-one-cron-parser-everywhere-with-rust-and-saffron/', parent=None, text=None)
+Item(by='weinzierl', descendants=1, kids=[25536708], score=4, time=1608906165, title='Using One Cron Parser Everywhere with Rust and Saffron', item_type='story', url='https://blog.cloudflare.com/using-one-cron-parser-everywhere-with-rust-and-saffron/', parent=None, text=None)

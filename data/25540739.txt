@@ -1,0 +1,1 @@
+Item(by='backing', descendants=None, kids=None, score=None, time=1608947952, title=None, item_type='comment', url=None, parent=25539150, text='It depends on the hardware and usage.<p>For older computers, virtual machines are too demanding.<p>As for escalation hacks: they happen also on virtual machines. Check virtualbox and vmware cve&#x27;s.')

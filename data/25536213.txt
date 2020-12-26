@@ -1,1 +1,1 @@
-Item(by='Bud', descendants=None, kids=None, score=None, time=1608901269, title=None, item_type='comment', url=None, parent=25535997, text='I&#x27;m sad for you; you clearly haven&#x27;t ever been a part of anything you really cared about.')
+Item(by='Bud', descendants=None, kids=[25539984], score=None, time=1608901269, title=None, item_type='comment', url=None, parent=25535997, text='I&#x27;m sad for you; you clearly haven&#x27;t ever been a part of anything you really cared about.')

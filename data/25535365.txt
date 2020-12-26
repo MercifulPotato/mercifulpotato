@@ -1,1 +1,1 @@
-Item(by='keiferski', descendants=1, kids=[25537272], score=2, time=1608888598, title='The Max Headroom Christmas Special', item_type='story', url='https://m.youtube.com/watch?v=xBkaWrpizDc', parent=None, text=None)
+Item(by='keiferski', descendants=2, kids=[25539314, 25537272], score=2, time=1608888598, title='The Max Headroom Christmas Special', item_type='story', url='https://m.youtube.com/watch?v=xBkaWrpizDc', parent=None, text=None)

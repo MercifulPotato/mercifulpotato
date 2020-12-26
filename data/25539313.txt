@@ -1,0 +1,1 @@
+Item(by='Jarred', descendants=None, kids=None, score=None, time=1608933135, title=None, item_type='comment', url=None, parent=25517532, text='Changing the prototype of objects after they&#x27;ve been initialized causes deopts for JIT compiled code. Its convenient, but you probably can&#x27;t use this pattern in performance-sensitive code.')

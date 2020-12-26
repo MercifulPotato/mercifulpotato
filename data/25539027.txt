@@ -1,0 +1,1 @@
+Item(by='spockz', descendants=None, kids=[25539445], score=None, time=1608930258, title=None, item_type='comment', url=None, parent=25536941, text='I see a lot of discussion about server certificates. But does there exist ocsp stapling for clients at all?')

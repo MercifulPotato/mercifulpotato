@@ -1,0 +1,1 @@
+Item(by='tobyjsullivan', descendants=None, kids=None, score=None, time=1608938660, title=None, item_type='comment', url=None, parent=25539709, text='You can hide sites with a flag in the query. No idea if it works on image search but I assume it does.<p><pre><code>    -site:pinterest.com</code></pre>')

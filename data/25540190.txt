@@ -1,0 +1,1 @@
+Item(by='bawolff', descendants=None, kids=[25541043], score=None, time=1608941252, title=None, item_type='comment', url=None, parent=25538918, text='OCSP stapling always felt a little hacky to me. It feels like just having super short lived certificates but with extra steps. Why not just have super short lived certificates instesd?')

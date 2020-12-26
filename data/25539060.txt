@@ -1,0 +1,1 @@
+Item(by='IshKebab', descendants=None, kids=None, score=None, time=1608930629, title=None, item_type='comment', url=None, parent=25537455, text='There&#x27;s a project that does diffs on Javascript at the AST level rather than the line level. I haven&#x27;t tried it though and it is only for resolving conflicts.')

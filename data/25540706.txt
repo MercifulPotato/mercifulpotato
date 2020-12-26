@@ -1,0 +1,1 @@
+Item(by='backing', descendants=None, kids=None, score=None, time=1608947498, title=None, item_type='comment', url=None, parent=25537512, text='You&#x27;re welcome. I found this on stackoverflow and gosh it&#x27;s from 2015!<p>I was about to just use a plain docker for firefox and slack with mounted X11 file. This project tought me about a more secure method for X11 forward.')

@@ -1,0 +1,1 @@
+Item(by='ffpip', descendants=None, kids=[25539689, 25539104, 25539781], score=None, time=1608928323, title=None, item_type='comment', url=None, parent=25538721, text='Can you try this?<p><pre><code>  google.*##.g:has(a[href*=&quot;.pinterest.&quot;])\n\n  google.*##a[href*=&quot;.pinterest.&quot;]:nth-ancestor(1)</code></pre>')

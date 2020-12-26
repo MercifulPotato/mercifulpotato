@@ -1,1 +1,1 @@
-Item(by='bedhead', descendants=None, kids=None, score=None, time=1608921799, title=None, item_type='comment', url=None, parent=25537057, text='There are disparagement clauses often.')
+Item(by='bedhead', descendants=None, kids=[25540228], score=None, time=1608921799, title=None, item_type='comment', url=None, parent=25537057, text='There are disparagement clauses often.')

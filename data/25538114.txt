@@ -1,1 +1,1 @@
-Item(by='com2kid', descendants=None, kids=None, score=None, time=1608921173, title=None, item_type='comment', url=None, parent=25534258, text='Switcher, let&#x27;s you change to a window by typing its name.<p>By far the best utility for navigating open apps.')
+Item(by='com2kid', descendants=None, kids=[25538998], score=None, time=1608921173, title=None, item_type='comment', url=None, parent=25534258, text='Switcher, let&#x27;s you change to a window by typing its name.<p>By far the best utility for navigating open apps.')

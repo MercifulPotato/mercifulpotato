@@ -1,1 +1,1 @@
-Item(by='lightlyused', descendants=0, kids=None, score=2, time=1608921016, title='A Brief History of Jamaican Jerk – Arts and Culture – Smithsonian Magazine', item_type='story', url='https://www.smithsonianmag.com/arts-culture/brief-history-jamaican-jerk-180976597/', parent=None, text=None)
+Item(by='lightlyused', descendants=2, kids=[25539635, 25539336], score=14, time=1608921016, title='A Brief History of Jamaican Jerk', item_type='story', url='https://www.smithsonianmag.com/arts-culture/brief-history-jamaican-jerk-180976597/', parent=None, text=None)

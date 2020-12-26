@@ -1,1 +1,1 @@
-Item(by='cercatrova', descendants=None, kids=None, score=None, time=1608868026, title=None, item_type='comment', url=None, parent=25532094, text='Yeah not sure what the parent is saying, Amazon (software) employees at least have substantial equity packages.')
+Item(by='cercatrova', descendants=None, kids=[25539900], score=None, time=1608868026, title=None, item_type='comment', url=None, parent=25532094, text='Yeah not sure what the parent is saying, Amazon (software) employees at least have substantial equity packages.')
