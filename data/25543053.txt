@@ -1,0 +1,1 @@
+Item(by='perlgeek', descendants=None, kids=None, score=None, time=1608985804, title=None, item_type='comment', url=None, parent=25542982, text='my ISP&#x27;s DNS resolver just returns NXDOMAIN for that.<p><pre><code>     $ dig @8.8.8.8 sci-hub.se. +short\n     186.2.163.219</code></pre>')

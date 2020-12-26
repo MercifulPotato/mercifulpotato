@@ -1,0 +1,1 @@
+Item(by='simonh', descendants=None, kids=None, score=None, time=1608979225, title=None, item_type='comment', url=None, parent=25541387, text='I suppose in theory malware that targets dev tools and source  to infect compiled code could end up getting ported along with it’s target. More hitching a ride than porting itself though.')

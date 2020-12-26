@@ -1,0 +1,1 @@
+Item(by='nevi-me', descendants=None, kids=None, score=None, time=1608976723, title=None, item_type='comment', url=None, parent=25539797, text='I&#x27;m playing around trying to create a JIT execution engine for Rust code. I was struggling a bit with the codegen part, so the description of the function structure helped make more sense of what I&#x27;m trying to do.<p>Thanks')

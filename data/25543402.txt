@@ -1,0 +1,1 @@
+Item(by='progval', descendants=None, kids=None, score=None, time=1608990194, title=None, item_type='comment', url=None, parent=25543282, text='I meant using AJAX to transfer XML that gets inserted directly into the DOM. Of course that was never the only use of AJAX, but it used to be much more popular than it is now, and it&#x27;s what Hotwire is trying to make popular again.')

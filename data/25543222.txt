@@ -1,0 +1,1 @@
+Item(by='anthk', descendants=None, kids=None, score=None, time=1608988178, title=None, item_type='comment', url=None, parent=25539970, text='You could run X with 4MB, but it would crawl. With 8mb it was ok-ish with swap, and it was snappy with 16.\nNo KDE, no Gnome, no XFCE, but FVWM flied.')

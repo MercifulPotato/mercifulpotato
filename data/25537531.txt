@@ -1,1 +1,1 @@
-Item(by='cercatrova', descendants=None, kids=None, score=None, time=1608915467, title=None, item_type='comment', url=None, parent=25537459, text='We can do both, I never said one should be prioritized over the other.')
+Item(by='cercatrova', descendants=None, kids=[25542973], score=None, time=1608915467, title=None, item_type='comment', url=None, parent=25537459, text='We can do both, I never said one should be prioritized over the other.')

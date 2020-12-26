@@ -1,0 +1,1 @@
+Item(by='marcan_42', descendants=None, kids=[25543137], score=None, time=1608976239, title=None, item_type='comment', url=None, parent=25542346, text='OS design methodology doesn&#x27;t really have anything to do with its suitability for constrained environments. There are plenty of small monolithic and microkernel designs around.')

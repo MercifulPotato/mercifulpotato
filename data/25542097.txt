@@ -1,1 +1,1 @@
-Item(by='tyler109', descendants=None, kids=None, score=None, time=1608970057, title=None, item_type='comment', url=None, parent=25539888, text='I&#x27;m just a regular forum member there trying to answer the quwestions. But I will inform the admins.')
+Item(by='tyler109', descendants=None, kids=[25542737], score=None, time=1608970057, title=None, item_type='comment', url=None, parent=25539888, text='I&#x27;m just a regular forum member there trying to answer the questions. But I will inform the admins.')

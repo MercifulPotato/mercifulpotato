@@ -1,1 +1,1 @@
-Item(by='peteretep', descendants=None, kids=None, score=None, time=1608962893, title=None, item_type='comment', url=None, parent=25541749, text='I feel like an article on the NCBI site needs a little more work to dismiss than simply declaring it a “100% made up meme”?')
+Item(by='peteretep', descendants=None, kids=[25542395], score=None, time=1608962893, title=None, item_type='comment', url=None, parent=25541749, text='I feel like an article on the NCBI site needs a little more work to dismiss than simply declaring it a “100% made up meme”?')

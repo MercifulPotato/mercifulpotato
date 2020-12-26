@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=21, kids=[25539618, 25541303, 25539588, 25539770, 25541744, 25539221], score=139, time=1608920389, title='Some Git internals', item_type='story', url='https://yurichev.com/news/20201220_git/', parent=None, text=None)
+Item(by='ingve', descendants=27, kids=[25542557, 25539618, 25541303, 25539588, 25539770, 25541744, 25539221], score=167, time=1608920389, title='Some Git internals', item_type='story', url='https://yurichev.com/news/20201220_git/', parent=None, text=None)

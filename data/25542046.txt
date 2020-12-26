@@ -1,1 +1,1 @@
-Item(by='Too', descendants=None, kids=None, score=None, time=1608968898, title=None, item_type='comment', url=None, parent=25541379, text='Refresh rate on a LCD does not cause flicker the same way a 60hz CRT did. The 60hz here says nothing.')
+Item(by='Too', descendants=None, kids=[25542690], score=None, time=1608968898, title=None, item_type='comment', url=None, parent=25541379, text='Refresh rate on a LCD does not cause flicker the same way a 60hz CRT did. The 60hz here says nothing.')

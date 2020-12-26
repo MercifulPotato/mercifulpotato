@@ -1,1 +1,1 @@
-Item(by='zhte415', descendants=None, kids=None, score=None, time=1608972029, title=None, item_type='comment', url=None, parent=25537667, text='Perhaps add a styling widget for colours, backgrounds, output to custom css. Take the B&amp;W if you like and play around with styles making it &#x27;yours&#x27;. Not sure of a subscription pricing model, would this not be a one-off purchase?')
+Item(by=None, descendants=None, kids=None, score=None, time=1608972029, title=None, item_type='comment', url=None, parent=25537667, text=None)

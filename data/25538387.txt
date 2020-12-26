@@ -1,1 +1,1 @@
-Item(by='js2', descendants=3, kids=[25541966, 25540601], score=12, time=1608923892, title="It's a Wonderful Life", item_type='story', url='https://www.rogerebert.com/reviews/great-movie-its-a-wonderful-life-1946', parent=None, text=None)
+Item(by='js2', descendants=3, kids=[25541966, 25540601], score=18, time=1608923892, title="It's a Wonderful Life", item_type='story', url='https://www.rogerebert.com/reviews/great-movie-its-a-wonderful-life-1946', parent=None, text=None)

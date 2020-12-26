@@ -1,0 +1,1 @@
+Item(by='hozaktas', descendants=None, kids=None, score=None, time=1608987233, title=None, item_type='comment', url=None, parent=25543151, text='This tool allows you to do a small analysis of the amount of keys and memory you use in Redis. It allows you to see overlooked keys and notice overuse.')
