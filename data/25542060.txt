@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=[25542125], score=None, time=1608969133, title=None, item_type='comment', url=None, parent=25541547, text='&gt; Is this because Ruby is extremely difficult to parse, to the point that nobody wanted to mess with the parser?<p>Unlikely. They&#x27;re are many Ruby implementations and on top of that rubocop has an independent parser.')

@@ -1,0 +1,1 @@
+Item(by='hakfoo', descendants=None, kids=None, score=None, time=1608966118, title=None, item_type='comment', url=None, parent=25539408, text='What I understood of e-ink technology is that it&#x27;s about the total amount of changes that are involved.  It might be feasible to track a 32x32 cursor at 60fps even though a full refresh might take a whole second or two.')

@@ -1,1 +1,1 @@
-Item(by='imtringued', descendants=None, kids=None, score=None, time=1608944481, title=None, item_type='comment', url=None, parent=25517512, text='How do you capture CO2 from a jet? Do you store it onboard? Direct air capture seems incredibly inefficient.')
+Item(by='imtringued', descendants=None, kids=[25540822], score=None, time=1608944481, title=None, item_type='comment', url=None, parent=25517512, text='How do you capture CO2 from a jet? Do you store it onboard? Direct air capture seems incredibly inefficient.')

@@ -1,1 +1,1 @@
-Item(by='epmaybe', descendants=None, kids=None, score=None, time=1608941475, title=None, item_type='comment', url=None, parent=25539586, text='Is the FirstNet network only run by AT&amp;T or by other providers as well?')
+Item(by='epmaybe', descendants=None, kids=[25541153], score=None, time=1608941475, title=None, item_type='comment', url=None, parent=25539586, text='Is the FirstNet network only run by AT&amp;T or by other providers as well?')

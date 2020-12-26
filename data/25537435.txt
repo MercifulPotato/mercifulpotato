@@ -1,1 +1,1 @@
-Item(by='cdolan', descendants=None, kids=None, score=None, time=1608914689, title=None, item_type='comment', url=None, parent=25537376, text='Safari “reader view” is the only way to see these articles. We are in a terrible state of the internet that’s for sure')
+Item(by='cdolan', descendants=None, kids=[25541358], score=None, time=1608914689, title=None, item_type='comment', url=None, parent=25537376, text='Safari “reader view” is the only way to see these articles. We are in a terrible state of the internet that’s for sure')

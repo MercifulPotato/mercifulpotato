@@ -1,0 +1,1 @@
+Item(by='jolux', descendants=None, kids=[25542181], score=None, time=1608961661, title=None, item_type='comment', url=None, parent=25541641, text='That&#x27;s a pretty appalling set of justifications. I don&#x27;t know of any type systems with perfect type inference that are still useful for fully exploiting types.')

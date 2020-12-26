@@ -1,1 +1,1 @@
-Item(by='eyelidlessness', descendants=None, kids=None, score=None, time=1608943876, title=None, item_type='comment', url=None, parent=25539862, text='Why have either? Why even set a value more than once except as an optimization?')
+Item(by='eyelidlessness', descendants=None, kids=[25541402], score=None, time=1608943876, title=None, item_type='comment', url=None, parent=25539862, text='Why have either? Why even set a value more than once except as an optimization?')

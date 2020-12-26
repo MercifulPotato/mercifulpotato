@@ -1,1 +1,1 @@
-Item(by='rwmj', descendants=0, kids=None, score=2, time=1608930404, title='Jonesforth Port to RISC-V', item_type='story', url='https://github.com/jjyr/jonesforth_riscv', parent=None, text=None)
+Item(by='rwmj', descendants=1, kids=[25541922], score=27, time=1608930404, title='Jonesforth Port to RISC-V', item_type='story', url='https://github.com/jjyr/jonesforth_riscv', parent=None, text=None)

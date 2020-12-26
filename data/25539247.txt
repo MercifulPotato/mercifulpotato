@@ -1,1 +1,1 @@
-Item(by='sonotmyname', descendants=None, kids=None, score=None, time=1608932379, title=None, item_type='comment', url=None, parent=25535266, text='A Kong D1 is just a keyboard- it can’t run Mainstage, store gigs of samples, or run a DAW...')
+Item(by='sonotmyname', descendants=None, kids=[25541880], score=None, time=1608932379, title=None, item_type='comment', url=None, parent=25535266, text='A Kong D1 is just a keyboard- it can’t run Mainstage, store gigs of samples, or run a DAW...')

@@ -1,0 +1,1 @@
+Item(by='0x426577617265', descendants=None, kids=None, score=None, time=1608969211, title=None, item_type='comment', url=None, parent=25541523, text='&gt; It seemed the vulnerability had been introduced in the latest firmware version. Even though older versions do not have this vulnerability, they do have others (such as this buffer overflow) so you should still update.')

@@ -1,1 +1,1 @@
-Item(by='numpad0', descendants=None, kids=None, score=None, time=1608952959, title=None, item_type='comment', url=None, parent=25541060, text='That&#x27;s almost straight out of Ghost in the Shell...')
+Item(by='numpad0', descendants=None, kids=[25541291], score=None, time=1608952959, title=None, item_type='comment', url=None, parent=25541060, text='That&#x27;s almost straight out of Ghost in the Shell...')

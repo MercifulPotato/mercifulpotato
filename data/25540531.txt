@@ -1,1 +1,1 @@
-Item(by='leereeves', descendants=None, kids=None, score=None, time=1608945433, title=None, item_type='comment', url=None, parent=25540451, text='-pinterest removes pages that contain the term pinterest, so pages from a pinterest.* domain, plus articles about pinterest, etc.')
+Item(by='leereeves', descendants=None, kids=[25541565], score=None, time=1608945433, title=None, item_type='comment', url=None, parent=25540451, text='-pinterest removes pages that contain the term pinterest, so pages from a pinterest.* domain, plus articles about pinterest, etc.')
