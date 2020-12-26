@@ -1,1 +1,1 @@
-Item(by='ahelwer', descendants=None, kids=None, score=None, time=1608989739, title=None, item_type='comment', url=None, parent=25543325, text='Pfft. Market movements don&#x27;t follow a Gaussian distribution. Reversion to the mean does not exist in domains governed by power law.')
+Item(by='ahelwer', descendants=None, kids=[25544141], score=None, time=1608989739, title=None, item_type='comment', url=None, parent=25543325, text='Pfft. Market movements don&#x27;t follow a Gaussian distribution. Reversion to the mean does not exist in domains governed by power law.')

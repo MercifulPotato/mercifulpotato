@@ -1,1 +1,1 @@
-Item(by='867-5309', descendants=None, kids=None, score=None, time=1608945973, title=None, item_type='comment', url=None, parent=25537059, text='getting rid of the adware, spyware and bloatware which come with Windows')
+Item(by='867-5309', descendants=None, kids=[25544549], score=None, time=1608945973, title=None, item_type='comment', url=None, parent=25537059, text='getting rid of the adware, spyware and bloatware which come with Windows')

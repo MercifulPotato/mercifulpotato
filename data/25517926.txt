@@ -1,1 +1,1 @@
-Item(by='tartoran', descendants=None, kids=None, score=None, time=1608733851, title=None, item_type='comment', url=None, parent=25517398, text='Great tip, thanks. This is also available for IOS and am planning to use it soon.')
+Item(by='tartoran', descendants=None, kids=[25543545], score=None, time=1608733851, title=None, item_type='comment', url=None, parent=25517398, text='Great tip, thanks. This is also available for IOS and am planning to use it soon.')

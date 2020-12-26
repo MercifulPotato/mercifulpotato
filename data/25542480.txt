@@ -1,1 +1,1 @@
-Item(by='petra', descendants=None, kids=None, score=None, time=1608977426, title=None, item_type='comment', url=None, parent=25541029, text='How is Genode better&#x2F;easier for the common user than Qubes-Os ?')
+Item(by='petra', descendants=None, kids=[25543777], score=None, time=1608977426, title=None, item_type='comment', url=None, parent=25541029, text='How is Genode better&#x2F;easier for the common user than Qubes-Os ?')

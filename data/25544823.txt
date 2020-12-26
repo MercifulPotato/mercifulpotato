@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=[25545162, 25545262, 25544912, 25544978], score=None, time=1609003536, title=None, item_type='comment', url=None, parent=25544068, text='FIPS is never going to include bcrypt. Not including things like bcrypt is literally part of the point of FIPS.')

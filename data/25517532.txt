@@ -1,1 +1,1 @@
-Item(by='feross', descendants=19, kids=[25539266, 25539313, 25539576, 25539384, 25539337, 25539162, 25540295], score=10, time=1608730939, title='Writable Getters', item_type='story', url='https://lea.verou.me/2020/12/writable-getters/', parent=None, text=None)
+Item(by='feross', descendants=21, kids=[25539266, 25544603, 25539313, 25539576, 25539384, 25539337, 25539162, 25540295], score=11, time=1608730939, title='Writable Getters', item_type='story', url='https://lea.verou.me/2020/12/writable-getters/', parent=None, text=None)

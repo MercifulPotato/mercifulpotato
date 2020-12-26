@@ -1,1 +1,1 @@
-Item(by='bluntfang', descendants=None, kids=None, score=None, time=1608990893, title=None, item_type='comment', url=None, parent=25533422, text='I&#x27;m sorry, did you read the post? It is full of profanity and name calling.')
+Item(by='bluntfang', descendants=None, kids=[25543781], score=None, time=1608990893, title=None, item_type='comment', url=None, parent=25533422, text='I&#x27;m sorry, did you read the post? It is full of profanity and name calling.')

@@ -1,1 +1,1 @@
-Item(by='aphyr', descendants=31, kids=[25523851, 25524444, 25521800, 25523383, 25523261, 25522916], score=168, time=1608751683, title='Jepsen: Scylla 4.2-rc3', item_type='story', url='https://jepsen.io/analyses/scylla-4.2-rc3', parent=None, text=None)
+Item(by='aphyr', descendants=31, kids=[25523851, 25524444, 25521800, 25523383, 25523261, 25522916], score=169, time=1608751683, title='Jepsen: Scylla 4.2-rc3', item_type='story', url='https://jepsen.io/analyses/scylla-4.2-rc3', parent=None, text=None)

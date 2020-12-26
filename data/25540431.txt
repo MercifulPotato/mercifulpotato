@@ -1,1 +1,1 @@
-Item(by='iso8859-1', descendants=None, kids=None, score=None, time=1608944195, title=None, item_type='comment', url=None, parent=25538492, text='This is great! Good resource to link people that worry too much about Resident Set (RSS) memory usage...')
+Item(by='iso8859-1', descendants=None, kids=[25544521], score=None, time=1608944195, title=None, item_type='comment', url=None, parent=25538492, text='This is great! Good resource to link people that worry too much about Resident Set (RSS) memory usage...')

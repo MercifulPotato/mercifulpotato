@@ -1,1 +1,1 @@
-Item(by='paulpauper', descendants=2, kids=[25542854], score=2, time=1608982735, title='Is it possible to host static websites on Amazon glacier', item_type='story', url=None, parent=None, text='I know it can be done on s3 , ec2, and cloudfront<p>any others besides those three?')
+Item(by='paulpauper', descendants=3, kids=[25542854, 25543892], score=2, time=1608982735, title='Is it possible to host static websites on Amazon glacier', item_type='story', url=None, parent=None, text='I know it can be done on s3 , ec2, and cloudfront<p>any others besides those three?')

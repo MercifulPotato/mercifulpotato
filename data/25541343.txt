@@ -1,1 +1,1 @@
-Item(by='tra3', descendants=None, kids=None, score=None, time=1608956426, title=None, item_type='comment', url=None, parent=25540243, text='I’m curious about this too.<p>I suspect the answer is a cheap x86 box. I haven’t seen anything with comparable support..')
+Item(by='tra3', descendants=None, kids=[25545935], score=None, time=1608956426, title=None, item_type='comment', url=None, parent=25540243, text='I’m curious about this too.<p>I suspect the answer is a cheap x86 box. I haven’t seen anything with comparable support..')

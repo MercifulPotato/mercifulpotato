@@ -1,0 +1,1 @@
+Item(by='ZiiS', descendants=None, kids=None, score=None, time=1608996779, title=None, item_type='comment', url=None, parent=25543818, text='Isn&#x27;t the issue here that the FIPS equivalent of bcrypt is PBKDF2 which uses SHA512 like bcrypt uses Blowfish? (FIPS do not directly certify PBKDF2 only the underlying SHA512, but that is good enough for NIST).')

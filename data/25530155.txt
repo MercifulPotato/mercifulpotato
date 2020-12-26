@@ -1,1 +1,1 @@
-Item(by='lemonspat', descendants=6, kids=[25542230, 25543153, 25542708], score=27, time=1608835522, title='Curry Triangle', item_type='story', url='https://mathworld.wolfram.com/CurryTriangle.html', parent=None, text=None)
+Item(by='lemonspat', descendants=7, kids=[25542230, 25542708, 25543153], score=29, time=1608835522, title='Curry Triangle', item_type='story', url='https://mathworld.wolfram.com/CurryTriangle.html', parent=None, text=None)

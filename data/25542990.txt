@@ -1,1 +1,1 @@
-Item(by='tillulen', descendants=0, kids=None, score=2, time=1608984911, title='China vs. Democracy: A Handbook for Democracies', item_type='story', url='https://halifaxtheforum.org/china-handbook/en/', parent=None, text=None)
+Item(by='tillulen', descendants=1, kids=[25544110], score=10, time=1608984911, title='China vs. Democracy: A Handbook for Democracies', item_type='story', url='https://halifaxtheforum.org/china-handbook/en/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='jacquesm', descendants=None, kids=[25545062, 25544984], score=None, time=1609002219, title=None, item_type='comment', url=None, parent=25544594, text='Definitely a bug. If tires are within spec the traction control should not trigger, it should trigger when a wheel slips, not when it is in fact having good traction.')

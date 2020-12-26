@@ -1,1 +1,1 @@
-Item(by='drdeca', descendants=None, kids=None, score=None, time=1608956728, title=None, item_type='comment', url=None, parent=25540249, text='&quot;You&quot; meaning the person who submitted the link? Huh?')
+Item(by='drdeca', descendants=None, kids=[25546033], score=None, time=1608956728, title=None, item_type='comment', url=None, parent=25540249, text='&quot;You&quot; meaning the person who submitted the link? Huh?')

@@ -1,1 +1,1 @@
-Item(by='lemonspat', descendants=0, kids=None, score=3, time=1608826905, title='Life Dashboard: Heads-up display for everyday life', item_type='story', url='https://github.com/davidhampgonsalves/life-dashboard', parent=None, text=None)
+Item(by='lemonspat', descendants=17, kids=[25544684, 25544656, 25546061, 25545307, 25545188, 25545009], score=90, time=1608826905, title='Life Dashboard: Heads-up display for everyday life', item_type='story', url='https://github.com/davidhampgonsalves/life-dashboard', parent=None, text=None)

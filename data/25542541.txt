@@ -1,1 +1,1 @@
-Item(by='dgb23', descendants=None, kids=None, score=None, time=1608978381, title=None, item_type='comment', url=None, parent=25541332, text='I misunderstand what you&#x27;re saying or miss an obvious joke. I would have thought a garbage collected language is typically safer.')
+Item(by='dgb23', descendants=None, kids=[25543867], score=None, time=1608978381, title=None, item_type='comment', url=None, parent=25541332, text='I misunderstand what you&#x27;re saying or miss an obvious joke. I would have thought a garbage collected language is typically safer.')

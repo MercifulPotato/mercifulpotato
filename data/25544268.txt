@@ -1,0 +1,1 @@
+Item(by='jagged-chisel', descendants=None, kids=[25544946], score=None, time=1608999191, title=None, item_type='comment', url=None, parent=25544200, text='“...despite listening...”<p>Yes, there’s a protocol behind that port. Just like there’s one behind port 22, 80, 443... you can’t just dump http to 443 and get a useable document in return.')

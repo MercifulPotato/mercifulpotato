@@ -1,0 +1,1 @@
+Item(by='franky47', descendants=None, kids=None, score=None, time=1609000680, title=None, item_type='comment', url=None, parent=25544286, text='Personally, my build logs are either handled by GitHub actions or other PaaS (Vercel, Clever Cloud), I&#x27;m not sure how I would connect them to another service via an NPM package.')

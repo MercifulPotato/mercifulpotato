@@ -1,1 +1,1 @@
-Item(by='kpozin', descendants=None, kids=None, score=None, time=1608865267, title=None, item_type='comment', url=None, parent=25531210, text='I recently re-read The Fellowship and appreciated how prudent the filmmakers were to remove the Bombadil side plot entirely.')
+Item(by='kpozin', descendants=None, kids=[25544575], score=None, time=1608865267, title=None, item_type='comment', url=None, parent=25531210, text='I recently re-read The Fellowship and appreciated how prudent the filmmakers were to remove the Bombadil side plot entirely.')
