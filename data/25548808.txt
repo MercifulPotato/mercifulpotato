@@ -1,0 +1,1 @@
+Item(by='wfleming', descendants=None, kids=[25549182], score=None, time=1609043078, title=None, item_type='comment', url=None, parent=25547371, text='You could use something like `sh -c &#x27;time ...&#x27;` to work around that. (You might need bash instead of sh, it might depend on what sh is on your system.)')

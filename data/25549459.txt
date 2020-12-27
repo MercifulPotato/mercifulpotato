@@ -1,0 +1,1 @@
+Item(by='blackrock', descendants=None, kids=None, score=None, time=1609053502, title=None, item_type='comment', url=None, parent=25547716, text='When you got your JSON data in nested form, with arrays. How do you flatten it, for storage in the database?<p>Do you create sub tables to handle the arrays?')

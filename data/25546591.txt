@@ -1,1 +1,1 @@
-Item(by='bane', descendants=None, kids=None, score=None, time=1609018194, title=None, item_type='comment', url=None, parent=25544496, text='You should probably consider giving Shadow a try. You get a full Windows desktop and can run whatever you want in it.')
+Item(by='bane', descendants=None, kids=[25548702], score=None, time=1609018194, title=None, item_type='comment', url=None, parent=25544496, text='You should probably consider giving Shadow a try. You get a full Windows desktop and can run whatever you want in it.')

@@ -1,1 +1,1 @@
-Item(by='daniellarusso', descendants=None, kids=None, score=None, time=1609032264, title=None, item_type='comment', url=None, parent=25546860, text='How would you know if another entity is using ESNI?')
+Item(by='daniellarusso', descendants=None, kids=[25548649], score=None, time=1609032264, title=None, item_type='comment', url=None, parent=25546860, text='How would you know if another entity is using ESNI?')

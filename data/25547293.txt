@@ -1,1 +1,1 @@
-Item(by='dzhiurgis', descendants=None, kids=None, score=None, time=1609025093, title=None, item_type='comment', url=None, parent=25545110, text='Sounds like fail-safe design. It decelerates instead of spinning out of control. You’re overreacting a bit.')
+Item(by='dzhiurgis', descendants=None, kids=[25549360], score=None, time=1609025093, title=None, item_type='comment', url=None, parent=25545110, text='Sounds like fail-safe design. It decelerates instead of spinning out of control. You’re overreacting a bit.')

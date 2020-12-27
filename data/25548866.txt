@@ -1,0 +1,1 @@
+Item(by='dmitryminkovsky', descendants=None, kids=None, score=None, time=1609043702, title=None, item_type='comment', url=None, parent=25548154, text='Elasticsearch’s search_after is a pleasure to use. So easy especially with nullable fields, where the equivalent SQL can get really, really messy with just a few columns.')

@@ -1,1 +1,1 @@
-Item(by='jkuria', descendants=0, kids=[25548170], score=4, time=1609029686, title='For NASA, It Should Be Mars or Bust', item_type='story', url='https://www.wsj.com/articles/for-nasa-it-should-be-mars-or-bust-11608306732', parent=None, text=None)
+Item(by='jkuria', descendants=1, kids=[25548395, 25548170], score=5, time=1609029686, title='For NASA, It Should Be Mars or Bust', item_type='story', url='https://www.wsj.com/articles/for-nasa-it-should-be-mars-or-bust-11608306732', parent=None, text=None)

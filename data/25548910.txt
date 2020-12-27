@@ -1,0 +1,1 @@
+Item(by='namanyayg', descendants=None, kids=[25549532], score=None, time=1609044212, title=None, item_type='comment', url=None, parent=25546897, text='Funny bug :) I often prefix integers with a char, e.g. maybe &quot;u12345&quot; here, in places where I&#x27;m using integers as id to force a string conversion and avoid any code accidentally doing math on it.')

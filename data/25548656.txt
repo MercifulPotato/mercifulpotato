@@ -1,0 +1,1 @@
+Item(by='claytongulick', descendants=None, kids=None, score=None, time=1609040929, title=None, item_type='comment', url=None, parent=25545363, text='I just read through the docs of this, what an amazing project.<p>I&#x27;m considering doing a js template string implementation for node.. cql`...` type thing with an internal compilation cache.')

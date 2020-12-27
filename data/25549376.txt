@@ -1,0 +1,1 @@
+Item(by='thefunnyman', descendants=None, kids=None, score=None, time=1609052021, title=None, item_type='comment', url=None, parent=25549097, text='Isn’t that precisely a use case for sand boxing? If I know zoom doesn’t need file system, I can deny it access and guarantee it doesn’t use the file system without me knowing about it.')

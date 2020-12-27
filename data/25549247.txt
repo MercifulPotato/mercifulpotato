@@ -1,0 +1,1 @@
+Item(by='alexeldeib', descendants=None, kids=None, score=None, time=1609049551, title=None, item_type='comment', url=None, parent=25549210, text='AFAIK chunked transfer works specifically with HTTP 1.1, think Kubernetes for example uses this with JSON in a few prominent places for things like WATCH. But that setup is hardly ideal for the use case.')

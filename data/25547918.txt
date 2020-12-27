@@ -1,1 +1,1 @@
-Item(by='Dirlewanger', descendants=None, kids=None, score=None, time=1609031592, title=None, item_type='comment', url=None, parent=25546396, text='BBC documentaries (especially the nature ones) do a lot of obnoxious foley work.')
+Item(by='Dirlewanger', descendants=None, kids=[25549122], score=None, time=1609031592, title=None, item_type='comment', url=None, parent=25546396, text='BBC documentaries (especially the nature ones) do a lot of obnoxious foley work.')

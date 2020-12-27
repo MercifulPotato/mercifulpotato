@@ -1,1 +1,1 @@
-Item(by='mardiyah', descendants=0, kids=None, score=1, time=1609036798, title='Google quantum computer leaves old-school supercomputer in dust', item_type='story', url='https://www.cnet.com/news/google-quantum-computer-leaves-old-school-supercomputer-in-dust/', parent=None, text=None)
+Item(by='mardiyah', descendants=1, kids=[25548551], score=1, time=1609036798, title='Google quantum computer leaves old-school supercomputer in dust', item_type='story', url='https://www.cnet.com/news/google-quantum-computer-leaves-old-school-supercomputer-in-dust/', parent=None, text=None)

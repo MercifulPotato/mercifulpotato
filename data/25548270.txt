@@ -1,1 +1,1 @@
-Item(by='samjett', descendants=1, kids=[25548271], score=1, time=1609035698, title="Google's Project Sunroof", item_type='story', url='https://www.google.com/get/sunroof', parent=None, text=None)
+Item(by='samjett', descendants=2, kids=[25548700, 25548271], score=1, time=1609035698, title="Google's Project Sunroof", item_type='story', url='https://www.google.com/get/sunroof', parent=None, text=None)

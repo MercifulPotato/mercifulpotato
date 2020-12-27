@@ -1,1 +1,1 @@
-Item(by='p2pai', descendants=0, kids=None, score=1, time=1609033886, title='Ask HN: Million Dollar Homepage- What other similar ideas have worked?', item_type='story', url=None, parent=None, text=None)
+Item(by='p2pai', descendants=3, kids=[25548435, 25548614, 25548914], score=4, time=1609033886, title='Ask HN: Million Dollar Homepage- What other similar ideas have worked?', item_type='story', url=None, parent=None, text=None)

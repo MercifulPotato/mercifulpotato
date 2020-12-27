@@ -1,0 +1,1 @@
+Item(by='hinkley', descendants=None, kids=None, score=None, time=1609049076, title=None, item_type='comment', url=None, parent=25547385, text='Except yet again we have someone who doesn’t understand how exit codes work in bash shell scripts.<p>Npm errors out if the sub commands generate a nonzero exit code. I’ve fixed so many bash scripts that ignore errors and just keep going.')

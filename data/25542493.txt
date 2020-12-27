@@ -1,1 +1,1 @@
-Item(by='TroyHarder', descendants=None, kids=None, score=None, time=1608977568, title=None, item_type='comment', url=None, parent=25540901, text='Hey, what is indiehackers, and how can it help?')
+Item(by='TroyHarder', descendants=None, kids=[25549457], score=None, time=1608977568, title=None, item_type='comment', url=None, parent=25540901, text='Hey, what is indiehackers, and how can it help?')

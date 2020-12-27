@@ -1,1 +1,1 @@
-Item(by='52-6F-62', descendants=None, kids=None, score=None, time=1609008630, title=None, item_type='comment', url=None, parent=25544469, text='That’s a different story and set of circumstances than the title article.')
+Item(by='52-6F-62', descendants=None, kids=[25549005], score=None, time=1609008630, title=None, item_type='comment', url=None, parent=25544469, text='That’s a different story and set of circumstances than the title article.')

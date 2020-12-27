@@ -1,1 +1,1 @@
-Item(by='amelius', descendants=None, kids=None, score=None, time=1609031882, title=None, item_type='comment', url=None, parent=25547775, text='I think if Apple wants to be a tech leader they should open up more. The secrecy is totally unnecessary.')
+Item(by='amelius', descendants=None, kids=[25549012], score=None, time=1609031882, title=None, item_type='comment', url=None, parent=25547775, text='I think if Apple wants to be a tech leader they should open up more. The secrecy is totally unnecessary.')

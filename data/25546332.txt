@@ -1,1 +1,1 @@
-Item(by='ogre_codes', descendants=None, kids=None, score=None, time=1609015541, title=None, item_type='comment', url=None, parent=25543747, text='You are talking about the app, they are talking about the hockypuck sized Apple TV device. These are not the same thing.')
+Item(by='ogre_codes', descendants=None, kids=[25549194], score=None, time=1609015541, title=None, item_type='comment', url=None, parent=25543747, text='You are talking about the app, they are talking about the hockypuck sized Apple TV device. These are not the same thing.')

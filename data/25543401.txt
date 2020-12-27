@@ -1,1 +1,1 @@
-Item(by='dnetesn', descendants=0, kids=None, score=2, time=1608990188, title='Could Covid-19 have wiped out the Neandertals?', item_type='story', url='https://phys.org/news/2020-12-covid-neandertals.html', parent=None, text=None)
+Item(by='dnetesn', descendants=0, kids=[25548619, 25548618], score=2, time=1608990188, title='Could Covid-19 have wiped out the Neandertals?', item_type='story', url='https://phys.org/news/2020-12-covid-neandertals.html', parent=None, text=None)

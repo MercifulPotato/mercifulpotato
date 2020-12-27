@@ -1,1 +1,1 @@
-Item(by='fagnerbrack', descendants=0, kids=None, score=2, time=1609029624, title='Start Contributing to Open Source Software', item_type='story', url='https://markushatvan.com/blog/why-you-should-start-contributing-to-open-source-software-right-now', parent=None, text=None)
+Item(by='fagnerbrack', descendants=1, kids=[25549037], score=5, time=1609029624, title='Start Contributing to Open Source Software', item_type='story', url='https://markushatvan.com/blog/why-you-should-start-contributing-to-open-source-software-right-now', parent=None, text=None)

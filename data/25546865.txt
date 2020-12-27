@@ -1,1 +1,1 @@
-Item(by='pstuart', descendants=None, kids=None, score=None, time=1609020983, title=None, item_type='comment', url=None, parent=25545558, text='And if you are going to have a cat, get 2 so they have companionship.')
+Item(by='pstuart', descendants=None, kids=[25548839], score=None, time=1609020983, title=None, item_type='comment', url=None, parent=25545558, text='And if you are going to have a cat, get 2 so they have companionship.')

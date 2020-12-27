@@ -1,1 +1,1 @@
-Item(by='BuyMyBitcoins', descendants=None, kids=None, score=None, time=1609039416, title=None, item_type='comment', url=None, parent=25548461, text='Additionally, Texas also has very few natural lakes and reservoirs.')
+Item(by='BuyMyBitcoins', descendants=None, kids=[25548825], score=None, time=1609039416, title=None, item_type='comment', url=None, parent=25548461, text='Additionally, Texas also has very few natural lakes and reservoirs.')

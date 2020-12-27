@@ -1,1 +1,1 @@
-Item(by='doener', descendants=1, kids=[25545845], score=3, time=1609010812, title='GTA 5 is better than Cyberpunk 2077', item_type='story', url='https://www.youtube.com/watch?v=PsBrkLq31eM&feature=emb_title', parent=None, text=None)
+Item(by='doener', descendants=2, kids=[25545845], score=3, time=1609010812, title='GTA 5 is better than Cyberpunk 2077', item_type='story', url='https://www.youtube.com/watch?v=PsBrkLq31eM&feature=emb_title', parent=None, text=None)

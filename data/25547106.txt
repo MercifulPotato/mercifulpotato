@@ -1,1 +1,1 @@
-Item(by='soniman', descendants=None, kids=None, score=None, time=1609023299, title=None, item_type='comment', url=None, parent=25545313, text='You think they&#x27;re going to pay off $168,000,000,000 of debt at the current rates? Maybe. If not, watch out.')
+Item(by='soniman', descendants=None, kids=[25548485], score=None, time=1609023299, title=None, item_type='comment', url=None, parent=25545313, text='You think they&#x27;re going to pay off $168,000,000,000 of debt at the current rates? Maybe. If not, watch out.')
