@@ -1,0 +1,1 @@
+Item(by='efortis', descendants=None, kids=None, score=None, time=1609028900, title=None, item_type='comment', url=None, parent=25547315, text='This is a valid approach. In rules.js, besides `.split(&#x27;&amp;&amp;&#x27;)`,  I&#x27;d try other separators like &#x27;;&#x27; and &#x27;||&#x27;  and encodings like &#x27;\\046&#x27;')

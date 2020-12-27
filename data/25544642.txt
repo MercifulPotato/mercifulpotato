@@ -1,1 +1,1 @@
-Item(by='nicbou', descendants=None, kids=None, score=None, time=1609002103, title=None, item_type='comment', url=None, parent=25543116, text='Tired because I am stuck maintaining a bunch of dumb things I decided to build, if we&#x27;re being honest.')
+Item(by='nicbou', descendants=None, kids=[25546539], score=None, time=1609002103, title=None, item_type='comment', url=None, parent=25543116, text='Tired because I am stuck maintaining a bunch of dumb things I decided to build, if we&#x27;re being honest.')

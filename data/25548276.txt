@@ -1,0 +1,1 @@
+Item(by='vbezhenar', descendants=None, kids=None, score=None, time=1609035741, title=None, item_type='comment', url=None, parent=25548207, text='You sort by your fields and then by id. You also include those field values along with id into your “cursor”. This is complicated for general case but possible to implement.')

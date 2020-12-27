@@ -1,0 +1,1 @@
+Item(by='mhh__', descendants=None, kids=None, score=None, time=1609036594, title=None, item_type='comment', url=None, parent=25548127, text='The value of SIMD on a CPU these days is really a middle-ground where you value latency above throughput, so you probably would have the same trade off as getting the data to and from a GPU')

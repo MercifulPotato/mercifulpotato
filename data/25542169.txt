@@ -1,1 +1,1 @@
-Item(by='andi999', descendants=None, kids=None, score=None, time=1608971628, title=None, item_type='comment', url=None, parent=25541792, text='I see some potential for rapid application development. Shouldnt give you this a C repl?')
+Item(by='andi999', descendants=None, kids=[25548500], score=None, time=1608971628, title=None, item_type='comment', url=None, parent=25541792, text='I see some potential for rapid application development. Shouldnt give you this a C repl?')

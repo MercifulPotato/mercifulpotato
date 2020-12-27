@@ -1,1 +1,1 @@
-Item(by='kinda_dijkstra', descendants=None, kids=[25544394, 25544644, 25544930], score=None, time=1608998433, title=None, item_type='comment', url=None, parent=25543839, text='Computer Science has about as much to do with software engineering as astronomy does with telescopes.')
+Item(by='kinda_dijkstra', descendants=None, kids=[25544394, 25544930, 25544644], score=None, time=1608998433, title=None, item_type='comment', url=None, parent=25543839, text='Computer Science has about as much to do with software engineering as astronomy does with telescopes.')

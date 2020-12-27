@@ -1,0 +1,1 @@
+Item(by='abotsis', descendants=None, kids=[25547560], score=None, time=1609021726, title=None, item_type='comment', url=None, parent=25545967, text='Wow, this. \nOne thing I didn’t see mentioned was “0”. You mentioned it, but it didn’t grok to something I know to work in some implementations: “ping 0” behaves like “ping 127.0.0.1”.')

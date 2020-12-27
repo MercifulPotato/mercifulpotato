@@ -1,1 +1,1 @@
-Item(by='nine_zeros', descendants=None, kids=None, score=None, time=1608921420, title=None, item_type='comment', url=None, parent=25538105, text='This. If I am handling all the work, what exactly does a manager do?')
+Item(by='nine_zeros', descendants=None, kids=[25546941], score=None, time=1608921420, title=None, item_type='comment', url=None, parent=25538105, text='This. If I am handling all the work, what exactly does a manager do?')

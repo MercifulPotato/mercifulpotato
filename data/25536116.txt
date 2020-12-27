@@ -1,1 +1,1 @@
-Item(by='ducktective', descendants=0, kids=None, score=2, time=1608899803, title='Überzug: A CLI utility for drawing images on terminals', item_type='story', url='https://github.com/seebye/ueberzug', parent=None, text=None)
+Item(by='ducktective', descendants=17, kids=[25546653, 25547632, 25546499, 25546666, 25546640, 25547206, 25546811, 25547191], score=36, time=1608899803, title='Überzug: A CLI utility for drawing images on terminals', item_type='story', url='https://github.com/seebye/ueberzug', parent=None, text=None)

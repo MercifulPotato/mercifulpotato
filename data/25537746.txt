@@ -1,1 +1,1 @@
-Item(by='andruby', descendants=None, kids=None, score=None, time=1608917500, title=None, item_type='comment', url=None, parent=25531288, text='Magnets or electrically induced magnetic fields?')
+Item(by='andruby', descendants=None, kids=[25546689], score=None, time=1608917500, title=None, item_type='comment', url=None, parent=25531288, text='Magnets or electrically induced magnetic fields?')

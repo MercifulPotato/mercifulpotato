@@ -1,0 +1,1 @@
+Item(by='newen', descendants=None, kids=None, score=None, time=1609034138, title=None, item_type='comment', url=None, parent=25547755, text='For loops, while loops, and recursion are all induction. Functional programming is just a style of programming, as in, algorithms which are designed and proven using induction can be implemented in imperative or functional styles.')

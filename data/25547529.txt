@@ -1,0 +1,1 @@
+Item(by='mandeepj', descendants=None, kids=None, score=None, time=1609027403, title=None, item_type='comment', url=None, parent=25546474, text='I believe other apps like Microsoft office 365 word, Airtable, Quip, Smartsheet etc. - are very similar in frontend architecture to Google Sheets. So, I was looking if there&#x27;s a common engine or approach to handle UI')

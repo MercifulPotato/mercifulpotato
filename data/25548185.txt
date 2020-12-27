@@ -1,0 +1,1 @@
+Item(by='hendry', descendants=None, kids=[25548218], score=None, time=1609034511, title=None, item_type='comment', url=None, parent=25547684, text='Golang makes it pretty painless to build static binaries. go:embed expected in 1.16 even more so.')

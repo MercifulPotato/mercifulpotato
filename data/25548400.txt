@@ -1,0 +1,1 @@
+Item(by='hansvm', descendants=None, kids=None, score=None, time=1609037439, title=None, item_type='comment', url=None, parent=25547575, text='That just seems insane to be running black on any old system python. Why don&#x27;t you just wrap it in a proper dockerfile?')

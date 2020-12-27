@@ -1,1 +1,1 @@
-Item(by='Silhouette', descendants=None, kids=None, score=None, time=1608710872, title=None, item_type='comment', url=None, parent=25515466, text='They probably have to pay a fee even if they <i>win</i> a chargeback.')
+Item(by='Silhouette', descendants=None, kids=[25547065], score=None, time=1608710872, title=None, item_type='comment', url=None, parent=25515466, text='They probably have to pay a fee even if they <i>win</i> a chargeback.')

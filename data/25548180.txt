@@ -1,0 +1,1 @@
+Item(by='fantod', descendants=None, kids=None, score=None, time=1609034460, title=None, item_type='comment', url=None, parent=25547997, text='Agreed, there are many things to get right about using Docker. But if you&#x27;re just deploying an app to a somewhere, does it really matter if the image is a bit bloated (within reason)?')

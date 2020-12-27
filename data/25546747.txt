@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=None, score=None, time=1609019798, title=None, item_type='comment', url=None, parent=25546628, text='Part of the point of running WireGuard is never having to expose IPSEC code to your adversaries, so I don&#x27;t really see the appeal of something that sets up both WireGuard <i>and</i> a bunch of IKE stuff.')

@@ -1,1 +1,1 @@
-Item(by='g-erson', descendants=None, kids=None, score=None, time=1608741980, title=None, item_type='comment', url=None, parent=25519203, text='I&#x27;ve also noticed songs disappearing from my library, &amp; crappy recommendations in Spotify. What service did you end up going with?')
+Item(by='g-erson', descendants=None, kids=[25546765], score=None, time=1608741980, title=None, item_type='comment', url=None, parent=25519203, text='I&#x27;ve also noticed songs disappearing from my library, &amp; crappy recommendations in Spotify. What service did you end up going with?')

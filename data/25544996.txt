@@ -1,1 +1,1 @@
-Item(by='weejewel', descendants=None, kids=None, score=None, time=1609004847, title=None, item_type='comment', url=None, parent=25544889, text='Nvidia did this before stadia launched it. As always, Google just copies ;)')
+Item(by='weejewel', descendants=None, kids=[25548320], score=None, time=1609004847, title=None, item_type='comment', url=None, parent=25544889, text='Nvidia did this before stadia launched it. As always, Google just copies ;)')

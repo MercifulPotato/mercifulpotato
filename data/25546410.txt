@@ -1,0 +1,1 @@
+Item(by='amingilani', descendants=None, kids=None, score=None, time=1609016224, title=None, item_type='comment', url=None, parent=25543818, text='I&#x27;m curious: If the regulators required SHA-2 hashes, and the author desired blowfish, why couldn&#x27;t they implement blowfish+SHA-2? I.e. sha2(cost(blowfish(password, salt), cost_factor))')

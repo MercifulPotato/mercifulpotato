@@ -1,0 +1,1 @@
+Item(by='als0', descendants=None, kids=[25548355, 25548034, 25548133, 25548086, 25548112], score=None, time=1609032423, title=None, item_type='comment', url=None, parent=25547930, text='&gt; I would not have expected Rosetta 2 to be missing AVX instructions<p>AVX can’t be emulated by Rosetta due to Intel patents.')

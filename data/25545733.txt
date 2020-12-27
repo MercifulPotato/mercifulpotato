@@ -1,1 +1,1 @@
-Item(by='savrajsingh', descendants=None, kids=None, score=None, time=1609010768, title=None, item_type='comment', url=None, parent=25545595, text='A lot of those have to be builds in test pipelines, would be interesting to know what percentage, I’d guess &gt; 90%')
+Item(by='savrajsingh', descendants=None, kids=[25546007], score=None, time=1609010768, title=None, item_type='comment', url=None, parent=25545595, text='A lot of those have to be builds in test pipelines, would be interesting to know what percentage, I’d guess &gt; 90%')

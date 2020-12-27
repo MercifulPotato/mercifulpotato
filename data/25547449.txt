@@ -1,0 +1,1 @@
+Item(by='sdepablos', descendants=None, kids=[25547533, 25547479, 25547467], score=None, time=1609026555, title=None, item_type='comment', url=None, parent=25547205, text='I&#x27;m in the same situation: until I figure (if ever) how to use NixOS and control version my OS, I tend to use Docker for any application with lots of dependencies, specially Python related ones')

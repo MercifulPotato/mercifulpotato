@@ -1,0 +1,1 @@
+Item(by='burnthrow', descendants=None, kids=None, score=None, time=1609019828, title=None, item_type='comment', url=None, parent=25546692, text='Git will fallback to `git-$command` for any unknown command. That tool works by installing an executable at `git-open`. It works &quot;magically&quot; with npx because npx is installing it for you.')

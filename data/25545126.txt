@@ -1,1 +1,1 @@
-Item(by='coldtea', descendants=None, kids=None, score=None, time=1609005828, title=None, item_type='comment', url=None, parent=25544934, text='&quot;Beatings and CEO replacements will continue until morale improves&quot;')
+Item(by='coldtea', descendants=None, kids=[25546757], score=None, time=1609005828, title=None, item_type='comment', url=None, parent=25544934, text='&quot;Beatings and CEO replacements will continue until morale improves&quot;')

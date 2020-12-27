@@ -1,0 +1,1 @@
+Item(by='jitl', descendants=None, kids=None, score=None, time=1609019301, title=None, item_type='comment', url=None, parent=25546520, text='It’s more like “I firewalled everything using iptables, job done” but, there are no firewall rules in ip6tables. IPv6, what’s that?<p>(My solution at home is to blanket block IPv6 entirely)')

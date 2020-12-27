@@ -1,0 +1,1 @@
+Item(by='londons_explore', descendants=None, kids=None, score=None, time=1609023853, title=None, item_type='comment', url=None, parent=25544766, text='Server to server connections.<p>Eg. Gmail.com sending email to cnn.com.  That would be TLS encrypted, but the server certificate wouldn&#x27;t be checked.')

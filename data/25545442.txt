@@ -1,1 +1,1 @@
-Item(by='giacaglia', descendants=2, kids=[25545953, 25545723], score=2, time=1609008543, title='Bitcoin passes Visa becoming the largest financial service in the world', item_type='story', url='https://twitter.com/truenomic/status/1342861721409564672', parent=None, text=None)
+Item(by='giacaglia', descendants=4, kids=[25548098, 25547434, 25545723, 25545953], score=3, time=1609008543, title='Bitcoin passes Visa becoming the largest financial service in the world', item_type='story', url='https://twitter.com/truenomic/status/1342861721409564672', parent=None, text=None)

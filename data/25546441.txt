@@ -1,0 +1,1 @@
+Item(by='legulere', descendants=None, kids=None, score=None, time=1609016572, title=None, item_type='comment', url=None, parent=25546094, text='Lots of C&#x2F;C++ programs do stuff that won’t work on ARM. Be it highly optimized assembly or intrinsics or reliance on memory access being atomic and having total store order.')

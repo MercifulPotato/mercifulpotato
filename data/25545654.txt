@@ -1,1 +1,1 @@
-Item(by='asdfasgasdgasdg', descendants=None, kids=None, score=None, time=1609010309, title=None, item_type='comment', url=None, parent=25545610, text='This has been a feature of Google Docs from jump. And it has never been a secret that you can browse doc version history.')
+Item(by='asdfasgasdgasdg', descendants=None, kids=[25547223], score=None, time=1609010309, title=None, item_type='comment', url=None, parent=25545610, text='This has been a feature of Google Docs from jump. And it has never been a secret that you can browse doc version history.')
