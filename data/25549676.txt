@@ -1,1 +1,1 @@
-Item(by='walkingolof', descendants=None, kids=None, score=None, time=1609057445, title=None, item_type='comment', url=None, parent=25547782, text='400 feets = 121.9 meters,\n30 feets = 9.1 meters')
+Item(by='walkingolof', descendants=None, kids=[25549740, 25549939], score=None, time=1609057445, title=None, item_type='comment', url=None, parent=25547782, text='400 feet = 121.9 meters,\n30 feet = 9.1 meters')

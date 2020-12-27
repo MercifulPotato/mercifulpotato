@@ -1,1 +1,1 @@
-Item(by='DangitBobby', descendants=None, kids=None, score=None, time=1609024339, title=None, item_type='comment', url=None, parent=25542663, text='Why do they have so much debt? Aren&#x27;t they profitable?')
+Item(by='DangitBobby', descendants=None, kids=[25549855], score=None, time=1609024339, title=None, item_type='comment', url=None, parent=25542663, text='Why do they have so much debt? Aren&#x27;t they profitable?')

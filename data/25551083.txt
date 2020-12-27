@@ -1,0 +1,1 @@
+Item(by='mewpmewp2', descendants=None, kids=[25551154], score=None, time=1609077755, title=None, item_type='comment', url=None, parent=25551051, text='Interesting, but right now it seems they return HTML and use some sort of Turbolinks like logic to make it seem single page app? Or is GraphQL not yet implemented there &#x2F; used on some other layer in backend for example?')

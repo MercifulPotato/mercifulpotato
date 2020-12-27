@@ -1,1 +1,1 @@
-Item(by='snickmy', descendants=0, kids=None, score=2, time=1608894090, title='Intelino the Smart Train', item_type='story', url='https://intelino.com/', parent=None, text=None)
+Item(by='snickmy', descendants=3, kids=[25550586, 25550402, 25550283], score=13, time=1608894090, title='Intelino the Smart Train', item_type='story', url='https://intelino.com/', parent=None, text=None)

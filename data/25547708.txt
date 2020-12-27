@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=26, time=1609029451, title='Types of Dark Patterns', item_type='story', url='https://darkpatterns.org/types-of-dark-pattern.html', parent=None, text=None)
+Item(by='tosh', descendants=21, kids=[25551019, 25549642, 25550158, 25550410, 25549629, 25550614], score=96, time=1609029451, title='Types of Dark Patterns', item_type='story', url='https://darkpatterns.org/types-of-dark-pattern.html', parent=None, text=None)

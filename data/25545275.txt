@@ -1,1 +1,1 @@
-Item(by='pnutjam', descendants=None, kids=None, score=None, time=1609006978, title=None, item_type='comment', url=None, parent=25544336, text='Keybase supports file transfers also. I highly recommend it.')
+Item(by='pnutjam', descendants=None, kids=[25550113], score=None, time=1609006978, title=None, item_type='comment', url=None, parent=25544336, text='Keybase supports file transfers also. I highly recommend it.')

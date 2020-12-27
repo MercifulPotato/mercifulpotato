@@ -1,1 +1,1 @@
-Item(by='pmiller2', descendants=None, kids=None, score=None, time=1609023944, title=None, item_type='comment', url=None, parent=25547135, text='What do you mean &quot;changed?&quot;  What was your opinion before and then after reading these Twitter posts?')
+Item(by='pmiller2', descendants=None, kids=[25551090], score=None, time=1609023944, title=None, item_type='comment', url=None, parent=25547135, text='What do you mean &quot;changed?&quot;  What was your opinion before and then after reading these Twitter posts?')

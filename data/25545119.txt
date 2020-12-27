@@ -1,1 +1,1 @@
-Item(by='ngneer', descendants=None, kids=None, score=None, time=1609005774, title=None, item_type='comment', url=None, parent=25544615, text='&quot;UTF-8 is not in the list of approved algorithms. You failed to meet your compliance requirement.&quot;')
+Item(by='ngneer', descendants=None, kids=[25550918, 25550916], score=None, time=1609005774, title=None, item_type='comment', url=None, parent=25544615, text='&quot;UTF-8 is not in the list of approved algorithms. You failed to meet your compliance requirement.&quot;')

@@ -1,1 +1,1 @@
-Item(by='wrboyce', descendants=None, kids=None, score=None, time=1608975965, title=None, item_type='comment', url=None, parent=25530820, text='I don’t know where you got your information about fitness+ playback via airplay but it is incorrect. I just tried it and it works fine.')
+Item(by='wrboyce', descendants=None, kids=[25550493], score=None, time=1608975965, title=None, item_type='comment', url=None, parent=25530820, text='I don’t know where you got your information about fitness+ playback via airplay but it is incorrect. I just tried it and it works fine.')

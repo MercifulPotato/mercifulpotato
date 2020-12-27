@@ -1,1 +1,1 @@
-Item(by='mariuz', descendants=0, kids=None, score=27, time=1609010260, title='2020: The year in databases at Google Cloud', item_type='story', url='https://cloud.google.com/blog/products/databases/managed-cloud-database-services-what-was-new-in-2020', parent=None, text=None)
+Item(by='mariuz', descendants=1, kids=[25550561], score=41, time=1609010260, title='2020: The year in databases at Google Cloud', item_type='story', url='https://cloud.google.com/blog/products/databases/managed-cloud-database-services-what-was-new-in-2020', parent=None, text=None)

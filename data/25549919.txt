@@ -1,0 +1,1 @@
+Item(by='grenoire', descendants=None, kids=None, score=None, time=1609061365, title=None, item_type='comment', url=None, parent=25549884, text='I do agree to some extent, but depth-first search is not the correct allegory for the algorithm. You do follow a node to the <i>end</i> with depth-first. I think you meant breadth-first.')

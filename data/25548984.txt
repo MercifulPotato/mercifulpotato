@@ -1,1 +1,1 @@
-Item(by='MichaelZuo', descendants=None, kids=None, score=None, time=1609045282, title=None, item_type='comment', url=None, parent=25548722, text='That’s cool! How would the major companies reverse engineer these chips?')
+Item(by='MichaelZuo', descendants=None, kids=[25550675, 25550511], score=None, time=1609045282, title=None, item_type='comment', url=None, parent=25548722, text='That’s cool! How would the major companies reverse engineer these chips?')

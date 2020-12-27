@@ -1,1 +1,1 @@
-Item(by='pkaye', descendants=None, kids=None, score=None, time=1609040534, title=None, item_type='comment', url=None, parent=25548550, text='I think the US trial is testing both the half and full dose approaches to confirm these results.')
+Item(by='pkaye', descendants=None, kids=[25550293], score=None, time=1609040534, title=None, item_type='comment', url=None, parent=25548550, text='I think the US trial is testing both the half and full dose approaches to confirm these results.')

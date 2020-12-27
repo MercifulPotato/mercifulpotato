@@ -1,1 +1,1 @@
-Item(by='Closi', descendants=None, kids=None, score=None, time=1609050466, title=None, item_type='comment', url=None, parent=25549287, text='The FOMO is huge, but I guess I’m just trying to cling to my core belief that there are no fundamentals here for an investment.')
+Item(by='Closi', descendants=None, kids=[25549766], score=None, time=1609050466, title=None, item_type='comment', url=None, parent=25549287, text='The FOMO is huge, but I guess I’m just trying to cling to my core belief that there are no fundamentals here for an investment.')

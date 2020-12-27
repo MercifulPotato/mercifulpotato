@@ -1,1 +1,1 @@
-Item(by='setheron', descendants=None, kids=[25547696], score=None, time=1609027412, title=None, item_type='comment', url=None, parent=25547449, text='Reach out to me if you want to learn Nix\nI&#x27;m always happy to help people climb the steep learning curve')
+Item(by='setheron', descendants=None, kids=[25547696, 25549881], score=None, time=1609027412, title=None, item_type='comment', url=None, parent=25547449, text='Reach out to me if you want to learn Nix\nI&#x27;m always happy to help people climb the steep learning curve')

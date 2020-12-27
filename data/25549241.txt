@@ -1,1 +1,1 @@
-Item(by='333c', descendants=None, kids=None, score=None, time=1609049350, title=None, item_type='comment', url=None, parent=25548850, text='Yes, I believe these were all removed from early editions of the first sets released, largely for being weak or boring.')
+Item(by='333c', descendants=None, kids=[25550830], score=None, time=1609049350, title=None, item_type='comment', url=None, parent=25548850, text='Yes, I believe these were all removed from early editions of the first sets released, largely for being weak or boring.')

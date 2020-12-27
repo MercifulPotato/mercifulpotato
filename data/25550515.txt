@@ -1,0 +1,1 @@
+Item(by='ev1', descendants=None, kids=None, score=None, time=1609071246, title=None, item_type='comment', url=None, parent=25549867, text='$ is mapped to querySelector and $$ to querySelectorAll in just about every browser, isn&#x27;t it?<p>$(&quot;#something&quot;).innerHTML = &quot;Hi&quot;; is vanilla JS.')

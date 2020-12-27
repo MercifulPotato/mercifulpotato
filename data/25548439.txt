@@ -1,1 +1,1 @@
-Item(by='chrisseaton', descendants=None, kids=[25549405, 25548675], score=None, time=1609038112, title=None, item_type='comment', url=None, parent=25547198, text='Why aren&#x27;t they checking if the CPU supports AVX before using it?!')
+Item(by='chrisseaton', descendants=None, kids=[25548675, 25549405], score=None, time=1609038112, title=None, item_type='comment', url=None, parent=25547198, text='Why aren&#x27;t they checking if the CPU supports AVX before using it?!')

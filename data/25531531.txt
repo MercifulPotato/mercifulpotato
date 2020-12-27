@@ -1,1 +1,1 @@
-Item(by='Kalium', descendants=None, kids=None, score=None, time=1608844837, title=None, item_type='comment', url=None, parent=25530922, text='With any app, your driver is going to be local enough to be picking you up.')
+Item(by='Kalium', descendants=None, kids=[25549938], score=None, time=1608844837, title=None, item_type='comment', url=None, parent=25530922, text='With any app, your driver is going to be local enough to be picking you up.')

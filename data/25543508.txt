@@ -1,1 +1,1 @@
-Item(by='vendiddy', descendants=None, kids=None, score=None, time=1608991506, title=None, item_type='comment', url=None, parent=25543319, text='I think deleting the word lazy, deleting the 2nd paragraph, and deleting the 2nd part of the last paragraph would get the same point across.')
+Item(by='vendiddy', descendants=None, kids=[25549990], score=None, time=1608991506, title=None, item_type='comment', url=None, parent=25543319, text='I think deleting the word lazy, deleting the 2nd paragraph, and deleting the 2nd part of the last paragraph would get the same point across.')

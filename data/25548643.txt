@@ -1,1 +1,1 @@
-Item(by='keyle', descendants=None, kids=None, score=None, time=1609040731, title=None, item_type='comment', url=None, parent=25546430, text='For the sake of SEO, Pinterest needs to go.')
+Item(by='keyle', descendants=None, kids=[25549833], score=None, time=1609040731, title=None, item_type='comment', url=None, parent=25546430, text='For the sake of SEO, Pinterest needs to go.')
