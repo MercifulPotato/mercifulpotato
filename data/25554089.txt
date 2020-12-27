@@ -1,0 +1,1 @@
+Item(by='Someone', descendants=None, kids=None, score=None, time=1609101866, title=None, item_type='comment', url=None, parent=25549597, text='I also read somewhere that they made sure the data formats used by the various modules are identical. Without that, you have to copy data to do format conversions. I don’t know how much of a problem that is in general, though.')

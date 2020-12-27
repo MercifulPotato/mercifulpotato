@@ -1,0 +1,1 @@
+Item(by='azisk1', descendants=None, kids=None, score=None, time=1609085614, title=None, item_type='comment', url=None, parent=25551911, text='Not for everybody probably but I find it more readable, especially when the queries get big. Some people rely on code highlighting but this usually gets messed up when writing SQL code inside Python strings')

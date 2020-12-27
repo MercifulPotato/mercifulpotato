@@ -1,0 +1,1 @@
+Item(by='emmelaich', descendants=None, kids=None, score=None, time=1609097163, title=None, item_type='comment', url=None, parent=25553349, text='Interesting bits for me ... I knew neither!<p>&gt; <i>seL4 is also a hypervisor.  seL4 supports virtual machines that can run a fully fledged guest OS such as\nLinux</i><p>&gt; <i>seL4 is the world’s fastest microkernel</i>')

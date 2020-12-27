@@ -1,0 +1,1 @@
+Item(by='jayd16', descendants=None, kids=[25553721], score=None, time=1609094205, title=None, item_type='comment', url=None, parent=25553130, text='Like the parent said, Postgres supports unstructured data with json fields.  The syntax is &quot;clean enough&quot; and you can easily migrate to a full column with a single query.')

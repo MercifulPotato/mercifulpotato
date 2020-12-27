@@ -1,1 +1,1 @@
-Item(by='ystad', descendants=0, kids=None, score=2, time=1609075435, title='The U.S. Internet Is Being Starved of Its Potential', item_type='story', url='https://www.eff.org/deeplinks/2020/12/us-internet-being-starved-its-potential', parent=None, text=None)
+Item(by='ystad', descendants=1, kids=[25552624], score=6, time=1609075435, title='The U.S. Internet Is Being Starved of Its Potential', item_type='story', url='https://www.eff.org/deeplinks/2020/12/us-internet-being-starved-its-potential', parent=None, text=None)

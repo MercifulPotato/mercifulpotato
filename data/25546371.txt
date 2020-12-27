@@ -1,1 +1,1 @@
-Item(by='dehrmann', descendants=None, kids=None, score=None, time=1609015910, title=None, item_type='comment', url=None, parent=25546302, text='If Linux went GPLv3, device makers would probably begrudgingly use VxWorks before dealing with the GPL.')
+Item(by='dehrmann', descendants=None, kids=[25551856], score=None, time=1609015910, title=None, item_type='comment', url=None, parent=25546302, text='If Linux went GPLv3, device makers would probably begrudgingly use VxWorks before dealing with the GPL.')

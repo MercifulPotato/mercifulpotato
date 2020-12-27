@@ -1,1 +1,1 @@
-Item(by='EugeneOZ', descendants=None, kids=None, score=None, time=1609076575, title=None, item_type='comment', url=None, parent=25547716, text='I’ve spent more time reading this article, than this approach could save in practice if we accumulate all the saved milliseconds.')
+Item(by='EugeneOZ', descendants=None, kids=[25552317], score=None, time=1609076575, title=None, item_type='comment', url=None, parent=25547716, text='I’ve spent more time reading this article, than this approach could save in practice if we accumulate all the saved milliseconds.')

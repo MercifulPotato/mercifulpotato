@@ -1,1 +1,1 @@
-Item(by='bufferoverflow', descendants=None, kids=None, score=None, time=1609072439, title=None, item_type='comment', url=None, parent=25549347, text='Yet AOC voted yay for that bill. She is as corrupt as everyone else who voted for it, obviously without reading it.')
+Item(by='bufferoverflow', descendants=None, kids=[25553293], score=None, time=1609072439, title=None, item_type='comment', url=None, parent=25549347, text='Yet AOC voted yay for that bill. She is as corrupt as everyone else who voted for it, obviously without reading it.')

@@ -1,0 +1,1 @@
+Item(by='lhoff', descendants=None, kids=None, score=None, time=1609079323, title=None, item_type='comment', url=None, parent=25551077, text='Inital commit of snebu was from january 6th in 2013 while restic&#x27;s alpha release was in 2015. So snebu is older. That probably also explains why sha1 was chosen in the first place.')

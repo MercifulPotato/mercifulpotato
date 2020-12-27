@@ -1,0 +1,1 @@
+Item(by='cuu508', descendants=None, kids=[25552347], score=None, time=1609088233, title=None, item_type='comment', url=None, parent=25552258, text='When logging in with GitHub, it asks for the following permissions:<p>* Verify your GitHub identity<p>* Know which resources you can access<p>* Act on your behalf<p>What does the last one mean, and why is it needed?')

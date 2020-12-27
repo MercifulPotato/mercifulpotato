@@ -1,0 +1,1 @@
+Item(by='ayende', descendants=None, kids=None, score=None, time=1609081021, title=None, item_type='comment', url=None, parent=25550685, text='This is a short but really good discussion on real world failures and how to build robust systems.<p>I refer to it often when thinking about the design of my systems.')

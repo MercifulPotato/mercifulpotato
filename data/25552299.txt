@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=[25553431], score=None, time=1609088107, title=None, item_type='comment', url=None, parent=25551934, text='Fix the dependencies story in what concerns Ruby and Python.<p>Native binaries can easily do with static linking (fix glibc or replace it with proper libc like musl).<p>Other platforms are doing quite fine without containers.')

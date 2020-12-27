@@ -1,0 +1,1 @@
+Item(by='jandeboevrie', descendants=None, kids=None, score=None, time=1609097593, title=None, item_type='comment', url=None, parent=25553520, text='Those you might expect on a modern Linux system when bash is there (coreutils will be there 99% of the time as well). Not all distros ship curl by default')

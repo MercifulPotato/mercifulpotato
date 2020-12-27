@@ -1,0 +1,1 @@
+Item(by='cle', descendants=None, kids=[25553583, 25553547], score=None, time=1609097118, title=None, item_type='comment', url=None, parent=25550732, text='&gt; only dependencies are curl and bash<p>This isn’t really true, from an strace it also execs cat, wc, date, echo, mkdir, mktemp, and rmdir.')

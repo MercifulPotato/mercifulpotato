@@ -1,1 +1,1 @@
-Item(by='tutfbhuf', descendants=None, kids=None, score=None, time=1609066636, title=None, item_type='comment', url=None, parent=25549891, text='&gt; Nintendo actual devices use microkernel based designs<p>That&#x27;s very interesting, can you provide a source?')
+Item(by='tutfbhuf', descendants=None, kids=[25552254], score=None, time=1609066636, title=None, item_type='comment', url=None, parent=25549891, text='&gt; Nintendo actual devices use microkernel based designs<p>That&#x27;s very interesting, can you provide a source?')

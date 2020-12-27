@@ -1,1 +1,1 @@
-Item(by='privong', descendants=0, kids=None, score=1, time=1609077705, title='Free-space optical links for space communication networks', item_type='story', url='https://arxiv.org/abs/2012.13166', parent=None, text=None)
+Item(by='privong', descendants=15, kids=[25553606, 25552908, 25551933, 25552132], score=35, time=1609077705, title='Free-space optical links for space communication networks', item_type='story', url='https://arxiv.org/abs/2012.13166', parent=None, text=None)

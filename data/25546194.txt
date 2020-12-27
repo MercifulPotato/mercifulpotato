@@ -1,1 +1,1 @@
-Item(by='TechnoTimeStop', descendants=None, kids=None, score=None, time=1609014269, title=None, item_type='comment', url=None, parent=25544743, text='what everyone wants hacker news to turn into : Chinese political spam.')
+Item(by='TechnoTimeStop', descendants=None, kids=[25553071], score=None, time=1609014269, title=None, item_type='comment', url=None, parent=25544743, text='what everyone wants hacker news to turn into : Chinese political spam.')

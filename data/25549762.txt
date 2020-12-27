@@ -1,1 +1,1 @@
-Item(by='doener', descendants=5, kids=[25550631, 25550724, 25550996], score=62, time=1609058573, title='RC3 Streams', item_type='story', url='https://streaming.media.ccc.de/rc3/', parent=None, text=None)
+Item(by='doener', descendants=22, kids=[25551572, 25550631, 25553101, 25551342, 25550724, 25551328, 25550996, 25551161], score=173, time=1609058573, title='Remote Chaos Communication Congress – Streams', item_type='story', url='https://streaming.media.ccc.de/rc3/', parent=None, text=None)

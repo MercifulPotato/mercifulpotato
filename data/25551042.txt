@@ -1,1 +1,1 @@
-Item(by='nuodag', descendants=None, kids=None, score=None, time=1609077295, title=None, item_type='comment', url=None, parent=25550971, text='There is, just no scrollbar for some reason, but left &#x2F; right keys work (at least in firefox)')
+Item(by='nuodag', descendants=None, kids=[25551427], score=None, time=1609077295, title=None, item_type='comment', url=None, parent=25550971, text='There is, just no scrollbar for some reason, but left &#x2F; right keys work (at least in firefox)')

@@ -1,0 +1,1 @@
+Item(by='ssijak', descendants=None, kids=[25552221, 25553216], score=None, time=1609085124, title=None, item_type='comment', url=None, parent=25551606, text='Why even use a server and mongodb behind it for that when you can straight up save the document to Firestore from the game. No servers, no mongodb maintenence.')

@@ -1,1 +1,1 @@
-Item(by='mxschumacher', descendants=0, kids=None, score=4, time=1609073651, title='Complex Systems Fail', item_type='story', url='https://how.complexsystems.fail', parent=None, text=None)
+Item(by='mxschumacher', descendants=42, kids=[25551419, 25552857, 25551659, 25553850, 25552562, 25552047, 25551435, 25551507, 25553289, 25552211, 25551980, 25552912, 25552527, 25552291, 25553404, 25551429, 25552156, 25552792, 25552431, 25552534], score=200, time=1609073651, title='Complex Systems Fail', item_type='story', url='https://how.complexsystems.fail', parent=None, text=None)

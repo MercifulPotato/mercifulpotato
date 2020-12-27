@@ -1,1 +1,1 @@
-Item(by='supermatt', descendants=None, kids=None, score=None, time=1608742650, title=None, item_type='comment', url=None, parent=25519426, text='Are you in clamshell mode, or do you use the macbook as an additional display? My problems seemed to be specific to clamshell.')
+Item(by='supermatt', descendants=None, kids=[25551335], score=None, time=1608742650, title=None, item_type='comment', url=None, parent=25519426, text='Are you in clamshell mode, or do you use the macbook as an additional display? My problems seemed to be specific to clamshell.')

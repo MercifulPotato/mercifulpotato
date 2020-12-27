@@ -1,0 +1,1 @@
+Item(by='azisk1', descendants=None, kids=[25551911], score=None, time=1609085016, title=None, item_type='comment', url=None, parent=25551773, text='For now it only upper-cases but I would like it to &quot;prettify&quot; the code as well. So it is an upcoming feature. Hopefully it will even suggest SQL code improvements in the future. Contributions are welcome')

@@ -1,1 +1,1 @@
-Item(by='emteycz', descendants=None, kids=None, score=None, time=1609075050, title=None, item_type='comment', url=None, parent=25550266, text='Do you use adblockers? Nothing wrong with that, but don&#x27;t be surprised targeting doesn&#x27;t work if you do...')
+Item(by='emteycz', descendants=None, kids=[25551396], score=None, time=1609075050, title=None, item_type='comment', url=None, parent=25550266, text='Do you use adblockers? Nothing wrong with that, but don&#x27;t be surprised targeting doesn&#x27;t work if you do...')

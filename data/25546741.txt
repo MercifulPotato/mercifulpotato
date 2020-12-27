@@ -1,1 +1,1 @@
-Item(by='nalekberov', descendants=None, kids=None, score=None, time=1609019722, title=None, item_type='comment', url=None, parent=25546704, text='Then the right action would be to fight for including bcrypt in the approved algorithms list.')
+Item(by='nalekberov', descendants=None, kids=[25552309], score=None, time=1609019722, title=None, item_type='comment', url=None, parent=25546704, text='Then the right action would be to fight for including bcrypt in the approved algorithms list.')
