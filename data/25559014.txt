@@ -1,0 +1,1 @@
+Item(by='Asooka', descendants=None, kids=None, score=None, time=1609161984, title=None, item_type='comment', url=None, parent=25557945, text='It should be possible to compile wxWidgets with Cosmopolitan, one variant per platform (win32, POSIX&#x2F;X11, MacOS) and initialise the correct one at runtime depending on where you&#x27;re launched, no?')

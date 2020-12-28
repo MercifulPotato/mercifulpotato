@@ -1,1 +1,1 @@
-Item(by='dartharva', descendants=None, kids=None, score=None, time=1609139830, title=None, item_type='comment', url=None, parent=25556502, text='The more I read about Apple products the more they seem to be apt as luxury goods rather than functional computing devices.')
+Item(by='dartharva', descendants=None, kids=[25559196, 25558532, 25558627], score=None, time=1609139830, title=None, item_type='comment', url=None, parent=25556502, text='The more I read about Apple products the more they seem to be apt as luxury goods rather than functional computing devices.')

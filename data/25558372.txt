@@ -1,0 +1,1 @@
+Item(by='collyw', descendants=None, kids=None, score=None, time=1609154755, title=None, item_type='comment', url=None, parent=25551691, text='I have experienced the worst of both worlds. Storing JSON documents in a text field in MySQL (the version used didn&#x27;t yet support JSON), and at my current place we are using Mongo for relational data.<p>:(')

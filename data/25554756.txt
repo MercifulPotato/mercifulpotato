@@ -1,1 +1,1 @@
-Item(by='oumua_don17', descendants=13, kids=[25556870, 25555102, 25555172, 25557274, 25557072, 25557060, 25555538, 25556101, 25556795], score=78, time=1609107494, title='A Tiny Lispy Transpiler', item_type='story', url='https://github.com/LingDong-/wax', parent=None, text=None)
+Item(by='oumua_don17', descendants=20, kids=[25556870, 25555102, 25555172, 25557072, 25557274, 25557060, 25555538, 25556795, 25556101, 25558540], score=101, time=1609107494, title='A Tiny Lispy Transpiler', item_type='story', url='https://github.com/LingDong-/wax', parent=None, text=None)

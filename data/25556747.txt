@@ -1,1 +1,1 @@
-Item(by='lnyan', descendants=0, kids=None, score=5, time=1609130696, title='Romanesco broccoli has a form naturally approximating a fractal', item_type='story', url='https://en.wikipedia.org/wiki/Romanesco_broccoli', parent=None, text=None)
+Item(by='lnyan', descendants=1, kids=[25557734], score=8, time=1609130696, title='Romanesco broccoli has a form naturally approximating a fractal', item_type='story', url='https://en.wikipedia.org/wiki/Romanesco_broccoli', parent=None, text=None)

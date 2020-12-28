@@ -1,0 +1,1 @@
+Item(by='cmyr', descendants=None, kids=None, score=None, time=1609165987, title=None, item_type='comment', url=None, parent=25557714, text='The solver is still a little rough, and there are some robustness issues in certain circumstances, generally when points are very close together. This will get ironed out eventually.')

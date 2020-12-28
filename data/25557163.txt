@@ -1,1 +1,1 @@
-Item(by='divbzero', descendants=None, kids=None, score=None, time=1609136219, title=None, item_type='comment', url=None, parent=25556569, text='What is the most commonly used computer system today that will be described as “ancient” 30 years hence?')
+Item(by='divbzero', descendants=None, kids=[25557756], score=None, time=1609136219, title=None, item_type='comment', url=None, parent=25556569, text='What is the most commonly used computer system today that will be described as “ancient” 30 years hence?')

@@ -1,0 +1,1 @@
+Item(by='anthk', descendants=None, kids=None, score=None, time=1609159259, title=None, item_type='comment', url=None, parent=25540208, text='And? People ran FVWM and rxvt on 4MB of RAM for i386. Slow, but with 8MB it was usable, and with 16MB FVWM ran much faster than CDE itself, not to mention rxvt vs dtterm or even xterm.')

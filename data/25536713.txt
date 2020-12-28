@@ -1,1 +1,1 @@
-Item(by='neilalexander', descendants=None, kids=None, score=None, time=1608907251, title=None, item_type='comment', url=None, parent=25536336, text='It’s not clear from your comment if everyone has abandoned macOS or if everyone has abandoned XMPP.')
+Item(by='neilalexander', descendants=None, kids=[25559187], score=None, time=1608907251, title=None, item_type='comment', url=None, parent=25536336, text='It’s not clear from your comment if everyone has abandoned macOS or if everyone has abandoned XMPP.')

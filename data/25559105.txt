@@ -1,0 +1,1 @@
+Item(by='Unklejoe', descendants=None, kids=None, score=None, time=1609163023, title=None, item_type='comment', url=None, parent=25558228, text='In many cases, these all can use the same pins anyway. Like on some NXP SoCs I&#x27;ve worked with, you just had a bunch of SerDes lanes that could be assigned to any number of functionalities (SATA, SGMII, PCIe, etc.).')

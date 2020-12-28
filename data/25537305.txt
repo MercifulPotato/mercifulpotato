@@ -1,1 +1,1 @@
-Item(by='boringg', descendants=None, kids=None, score=None, time=1608913587, title=None, item_type='comment', url=None, parent=25530440, text='Can’t tell if that’s sarcasm or sincerity!')
+Item(by='boringg', descendants=None, kids=[25559082], score=None, time=1608913587, title=None, item_type='comment', url=None, parent=25530440, text='Can’t tell if that’s sarcasm or sincerity!')

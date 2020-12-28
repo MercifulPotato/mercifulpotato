@@ -1,0 +1,1 @@
+Item(by='capableweb', descendants=None, kids=None, score=None, time=1609162916, title=None, item_type='comment', url=None, parent=25558736, text='Not hard to make the connection between SCMs (like Git) and CMSs, one could even say SCM is a form of CMS, just a focus on code instead of general &quot;content&quot;. Add a way to render content and serve it, and you have a CMS.')

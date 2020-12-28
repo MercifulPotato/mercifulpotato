@@ -1,1 +1,1 @@
-Item(by='garmaine', descendants=None, kids=None, score=None, time=1609111300, title=None, item_type='comment', url=None, parent=25555039, text='Sure, but that’s a single configuration option away from being changed if the hardware is altered.')
+Item(by='garmaine', descendants=None, kids=[25558462], score=None, time=1609111300, title=None, item_type='comment', url=None, parent=25555039, text='Sure, but that’s a single configuration option away from being changed if the hardware is altered.')

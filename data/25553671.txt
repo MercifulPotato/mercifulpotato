@@ -1,1 +1,1 @@
-Item(by='vernon99', descendants=None, kids=None, score=None, time=1609098208, title=None, item_type='comment', url=None, parent=25551714, text='I’m pretty sure a lot of folks from HN will help you fund such research and prototyping if needed, me included :)')
+Item(by='vernon99', descendants=None, kids=[25558629], score=None, time=1609098208, title=None, item_type='comment', url=None, parent=25551714, text='I’m pretty sure a lot of folks from HN will help you fund such research and prototyping if needed, me included :)')

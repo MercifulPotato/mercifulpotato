@@ -1,0 +1,1 @@
+Item(by='ben_bai', descendants=None, kids=None, score=None, time=1609159162, title=None, item_type='comment', url=None, parent=25556938, text='strlcpy always NUL terminates the string (that is it&#x27;s big selling point). So it copies up to n-1 bytes from src to destination. If src  was bigger then destination it is truncated and n-th byte is set to NUL.')

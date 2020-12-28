@@ -1,1 +1,1 @@
-Item(by='apenwarr', descendants=None, kids=None, score=None, time=1609106466, title=None, item_type='comment', url=None, parent=25554589, text='Kubernetes is the biggest and worst second system effect I’ve seen in years.')
+Item(by='apenwarr', descendants=None, kids=[25558510], score=None, time=1609106466, title=None, item_type='comment', url=None, parent=25554589, text='Kubernetes is the biggest and worst second system effect I’ve seen in years.')

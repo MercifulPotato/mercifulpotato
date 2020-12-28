@@ -1,1 +1,1 @@
-Item(by='hutattedonmyarm', descendants=None, kids=None, score=None, time=1609140401, title=None, item_type='comment', url=None, parent=25557379, text='Dark mode can be done purely in CSS with media queries. I wouldn’t call it complex')
+Item(by='hutattedonmyarm', descendants=None, kids=[25557609], score=None, time=1609140401, title=None, item_type='comment', url=None, parent=25557379, text='Dark mode can be done purely in CSS with media queries. I wouldn’t call it complex')

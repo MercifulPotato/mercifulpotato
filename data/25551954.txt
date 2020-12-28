@@ -1,1 +1,1 @@
-Item(by='MeteorMarc', descendants=None, kids=None, score=None, time=1609085526, title=None, item_type='comment', url=None, parent=25551892, text='How is this easier than sharing a requirements.txt and a requirements-dev.txt on git and having a venv per python project?')
+Item(by='MeteorMarc', descendants=None, kids=[25558148], score=None, time=1609085526, title=None, item_type='comment', url=None, parent=25551892, text='How is this easier than sharing a requirements.txt and a requirements-dev.txt on git and having a venv per python project?')

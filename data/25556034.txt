@@ -1,1 +1,1 @@
-Item(by='na85', descendants=None, kids=None, score=None, time=1609120875, title=None, item_type='comment', url=None, parent=25555719, text='Don&#x27;t forget that skin friction against the air also resists the rotation force, and does so to the tune of the square of velocity.')
+Item(by='na85', descendants=None, kids=[25558490], score=None, time=1609120875, title=None, item_type='comment', url=None, parent=25555719, text='Don&#x27;t forget that skin friction against the air also resists the rotation force, and does so to the tune of the square of velocity.')
