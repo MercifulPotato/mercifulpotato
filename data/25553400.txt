@@ -1,1 +1,1 @@
-Item(by='gandalfian', descendants=None, kids=None, score=None, time=1609096044, title=None, item_type='comment', url=None, parent=25542343, text='Always thought it a shame it missed out on having an included ethernet socket. Would have made it so much more future proof.')
+Item(by='gandalfian', descendants=None, kids=[25553459, 25553421, 25554909], score=None, time=1609096044, title=None, item_type='comment', url=None, parent=25542343, text='Always thought it a shame it missed out on having an included ethernet socket. Would have made it so much more future proof.')

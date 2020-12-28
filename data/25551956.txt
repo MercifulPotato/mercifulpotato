@@ -1,1 +1,1 @@
-Item(by='1cvmask', descendants=0, kids=None, score=8, time=1609085532, title='Search engine startups try to take on Google', item_type='story', url='https://www.ft.com/content/24efc152-a65d-4c48-9032-ee349a2c885b', parent=None, text=None)
+Item(by='1cvmask', descendants=2, kids=[25554302, 25554555], score=13, time=1609085532, title='Search engine startups try to take on Google', item_type='story', url='https://www.ft.com/content/24efc152-a65d-4c48-9032-ee349a2c885b', parent=None, text=None)

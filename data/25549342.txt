@@ -1,1 +1,1 @@
-Item(by='adder46', descendants=1, kids=[25549343], score=2, time=1609051236, title='Show HN: History suggest box for your shell', item_type='story', url='https://github.com/adder46/hstr-rs', parent=None, text=None)
+Item(by='adder46', descendants=10, kids=[25555593, 25555561, 25549343, 25555731, 25555127], score=31, time=1609051236, title='Show HN: History suggest box for your shell', item_type='story', url='https://github.com/adder46/hstr-rs', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='zozbot234', descendants=None, kids=[25554965], score=None, time=1609108726, title=None, item_type='comment', url=None, parent=25554825, text='A simple &#x27;lea&#x27; equivalent does not need multiple &quot;read and write locations&quot;. ISTM that this ought to be an ideal case for macro-op fusion.')

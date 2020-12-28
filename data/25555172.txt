@@ -1,0 +1,1 @@
+Item(by='jdmoreira', descendants=None, kids=None, score=None, time=1609112172, title=None, item_type='comment', url=None, parent=25554756, text='This is very interesting as the base level AST for a multi-step transpiler. Just pile transformations on top and grow your own language that transpiles to &quot;everything&quot;.')

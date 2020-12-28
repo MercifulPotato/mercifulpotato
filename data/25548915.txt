@@ -1,1 +1,1 @@
-Item(by='aaronblohowiak', descendants=None, kids=None, score=None, time=1609044257, title=None, item_type='comment', url=None, parent=25548742, text='Do you think sls development is less than what spacex is spending on starship?')
+Item(by='aaronblohowiak', descendants=None, kids=[25555357], score=None, time=1609044257, title=None, item_type='comment', url=None, parent=25548742, text='Do you think sls development is less than what spacex is spending on starship?')

@@ -1,1 +1,1 @@
-Item(by='jajjarax', descendants=3, kids=[25552256, 25551994, 25551954], score=3, time=1609085071, title='Docker and Python', item_type='story', url='https://matteoguadrini.github.io/posts/containerized-python-development/', parent=None, text=None)
+Item(by='jajjarax', descendants=3, kids=[25552256, 25551994, 25551954], score=5, time=1609085071, title='Docker and Python', item_type='story', url='https://matteoguadrini.github.io/posts/containerized-python-development/', parent=None, text=None)

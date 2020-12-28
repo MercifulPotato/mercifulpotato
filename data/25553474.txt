@@ -1,1 +1,1 @@
-Item(by='j16sdiz', descendants=None, kids=None, score=None, time=1609096706, title=None, item_type='comment', url=None, parent=25553457, text='I think standard Oracle license prohibite benchmarking.')
+Item(by='j16sdiz', descendants=None, kids=[25555682], score=None, time=1609096706, title=None, item_type='comment', url=None, parent=25553457, text='I think standard Oracle license prohibite benchmarking.')

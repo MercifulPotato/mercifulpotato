@@ -1,1 +1,1 @@
-Item(by='valuearb', descendants=None, kids=None, score=None, time=1609085762, title=None, item_type='comment', url=None, parent=25550842, text='A Starship&#x2F;SuperHeavy combo weighs 11M pounds, that’s going to have to be one super large balloon you are living on.')
+Item(by='valuearb', descendants=None, kids=[25555659], score=None, time=1609085762, title=None, item_type='comment', url=None, parent=25550842, text='A Starship&#x2F;SuperHeavy combo weighs 11M pounds, that’s going to have to be one super large balloon you are living on.')

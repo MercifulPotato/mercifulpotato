@@ -1,1 +1,1 @@
-Item(by='dzhiurgis', descendants=None, kids=None, score=None, time=1609095911, title=None, item_type='comment', url=None, parent=25550901, text='So how well does these sails point into wind and how do control lift angle?')
+Item(by='dzhiurgis', descendants=None, kids=[25554223], score=None, time=1609095911, title=None, item_type='comment', url=None, parent=25550901, text='So how well does these sails point into wind and how do control lift angle?')

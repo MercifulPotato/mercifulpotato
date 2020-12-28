@@ -1,1 +1,1 @@
-Item(by='cucxabong', descendants=1, kids=[25551533], score=2, time=1609081850, title='Show HN: Getting AWS STS Credentials from GSuite Credentials', item_type='story', url='https://github.com/cucxabong/aws-google-login', parent=None, text=None)
+Item(by='cucxabong', descendants=2, kids=[25554733, 25551533], score=6, time=1609081850, title='Show HN: Getting AWS STS Credentials from GSuite Credentials', item_type='story', url='https://github.com/cucxabong/aws-google-login', parent=None, text=None)

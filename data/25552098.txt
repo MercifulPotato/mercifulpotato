@@ -1,1 +1,1 @@
-Item(by='wallflower', descendants=1, kids=[25553762], score=17, time=1609086685, title='A brief history of Elasticsearch (2014)', item_type='story', url='https://jaxenter.com/elasticsearch-founder-interview-112677.html', parent=None, text=None)
+Item(by='wallflower', descendants=11, kids=[25554738, 25553762], score=43, time=1609086685, title='A brief history of Elasticsearch (2014)', item_type='story', url='https://jaxenter.com/elasticsearch-founder-interview-112677.html', parent=None, text=None)

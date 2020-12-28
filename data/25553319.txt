@@ -1,1 +1,1 @@
-Item(by='millibar', descendants=0, kids=None, score=2, time=1609095423, title='You can learn computer science at Harvard University for free', item_type='story', url='https://online-learning.harvard.edu/course/cs50-introduction-computer-science', parent=None, text=None)
+Item(by='millibar', descendants=0, kids=None, score=4, time=1609095423, title='You can learn computer science at Harvard University for free', item_type='story', url='https://online-learning.harvard.edu/course/cs50-introduction-computer-science', parent=None, text=None)

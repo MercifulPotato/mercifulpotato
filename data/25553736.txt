@@ -1,1 +1,1 @@
-Item(by='paulryanrogers', descendants=None, kids=None, score=None, time=1609098837, title=None, item_type='comment', url=None, parent=25552969, text='At least where I am in the Midwestern US food prices of staples and produce are almost 200% where they were in late 2019')
+Item(by='paulryanrogers', descendants=None, kids=[25554214], score=None, time=1609098837, title=None, item_type='comment', url=None, parent=25552969, text='At least where I am in the Midwestern US food prices of staples and produce are almost 200% where they were in late 2019')

@@ -1,1 +1,1 @@
-Item(by='vuciv1', descendants=None, kids=None, score=None, time=1609099372, title=None, item_type='comment', url=None, parent=25553613, text='Right now it&#x27;s bouldering. It&#x27;s been very fun, and I get full workouts without even realizing that I&#x27;m exercising')
+Item(by='vuciv1', descendants=None, kids=[25553906], score=None, time=1609099372, title=None, item_type='comment', url=None, parent=25553613, text='Right now it&#x27;s bouldering. It&#x27;s been very fun, and I get full workouts without even realizing that I&#x27;m exercising')

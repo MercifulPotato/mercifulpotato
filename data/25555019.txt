@@ -1,0 +1,1 @@
+Item(by='jedberg', descendants=None, kids=[25555408], score=None, time=1609110214, title=None, item_type='comment', url=None, parent=25554947, text='This isn’t really “testing”. It’s just signing up for their own service. They aren’t making stripe transactions and then reversing them.<p>If stripe bans you from buying your own service, they may want to rethink that policy.')

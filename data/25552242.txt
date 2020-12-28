@@ -1,1 +1,1 @@
-Item(by='derangedHorse', descendants=None, kids=None, score=None, time=1609087742, title=None, item_type='comment', url=None, parent=25550210, text='Not always, be too scattered and you’ll fail at everything where you might’ve succeeded trying persistently with one')
+Item(by='derangedHorse', descendants=None, kids=[25555662], score=None, time=1609087742, title=None, item_type='comment', url=None, parent=25550210, text='Not always, be too scattered and you’ll fail at everything where you might’ve succeeded trying persistently with one')

@@ -1,1 +1,1 @@
-Item(by='notfromhere', descendants=None, kids=None, score=None, time=1609091423, title=None, item_type='comment', url=None, parent=25542808, text='How is this not something that just rolls up into a COO function')
+Item(by='notfromhere', descendants=None, kids=[25554181], score=None, time=1609091423, title=None, item_type='comment', url=None, parent=25542808, text='How is this not something that just rolls up into a COO function')

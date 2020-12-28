@@ -1,1 +1,1 @@
-Item(by='childintime', descendants=None, kids=None, score=None, time=1609010440, title=None, item_type='comment', url=None, parent=25542963, text='I&#x27;ve seen quite a few presentations, but never have I seen such a direct approach to showcasing the merit of RISCV. Well done.')
+Item(by='childintime', descendants=None, kids=[25554431], score=None, time=1609010440, title=None, item_type='comment', url=None, parent=25542963, text='I&#x27;ve seen quite a few presentations, but never have I seen such a direct approach to showcasing the merit of RISCV. Well done.')

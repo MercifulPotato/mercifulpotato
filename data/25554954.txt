@@ -1,0 +1,1 @@
+Item(by='torginus', descendants=None, kids=[25555735], score=None, time=1609109385, title=None, item_type='comment', url=None, parent=25554872, text='Since ARM has plenty of space in a 32 bit instruction, both the shift and the add are baked into the ldr instruction.')

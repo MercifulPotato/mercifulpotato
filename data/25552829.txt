@@ -1,1 +1,1 @@
-Item(by='excerionsforte', descendants=0, kids=None, score=2, time=1609091910, title='Java Gotchas: SortedSet ignores the equals method', item_type='story', url='https://yesday.github.io/blog/2018/java-gotchas-sorted-set-ignores-the-equals-method.html', parent=None, text=None)
+Item(by='excerionsforte', descendants=0, kids=None, score=3, time=1609091910, title='Java Gotchas: SortedSet ignores the equals method', item_type='story', url='https://yesday.github.io/blog/2018/java-gotchas-sorted-set-ignores-the-equals-method.html', parent=None, text=None)

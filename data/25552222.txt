@@ -1,1 +1,1 @@
-Item(by='snvzz', descendants=4, kids=[25553349, 25553494, 25553564, 25553230], score=31, time=1609087607, title='SeL4 Whitepaper [pdf]', item_type='story', url='https://sel4.systems/About/seL4-whitepaper.pdf', parent=None, text=None)
+Item(by='snvzz', descendants=15, kids=[25555824, 25554975, 25554107, 25553349, 25553494, 25553564, 25553230], score=74, time=1609087607, title='SeL4 Whitepaper [pdf]', item_type='story', url='https://sel4.systems/About/seL4-whitepaper.pdf', parent=None, text=None)

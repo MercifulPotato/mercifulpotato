@@ -1,0 +1,1 @@
+Item(by='gumby', descendants=None, kids=[25555590], score=None, time=1609113988, title=None, item_type='comment', url=None, parent=25555005, text='All of that is so that most user code <i>doesn’t</i> have to worry about corner cases.  Libraries (of all languages) are full of weird stuff so that users can blithely use them without thinking about it.')

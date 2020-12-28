@@ -1,1 +1,1 @@
-Item(by='RedShift1', descendants=None, kids=None, score=None, time=1609099919, title=None, item_type='comment', url=None, parent=25553096, text='You may have plenty of resources but there are many that have to &quot;make due&quot; with 8 GB, 4 GB or even less RAM.')
+Item(by='RedShift1', descendants=None, kids=[25556139], score=None, time=1609099919, title=None, item_type='comment', url=None, parent=25553096, text='You may have plenty of resources but there are many that have to &quot;make due&quot; with 8 GB, 4 GB or even less RAM.')

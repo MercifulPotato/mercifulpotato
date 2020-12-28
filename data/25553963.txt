@@ -1,0 +1,1 @@
+Item(by='Karliss', descendants=None, kids=[25554213, 25553982, 25554325], score=None, time=1609100730, title=None, item_type='comment', url=None, parent=25553445, text='Abusing version control and CI service as database sounds like a way for ruining it for open source projects that actually need it. The recent Travis thing didn&#x27;t happen without reason.')

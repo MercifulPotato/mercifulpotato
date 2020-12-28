@@ -1,0 +1,1 @@
+Item(by='brittpart_', descendants=None, kids=None, score=None, time=1609113486, title=None, item_type='comment', url=None, parent=25554858, text='So essentially the UI is called SSO and the authentication happens with Oauth2&#x2F;OIDC - that&#x27;s the combo Apple uses.<p>Do you know what the barrier to entry is for a company to integrate another company&#x27;s SSO?')
