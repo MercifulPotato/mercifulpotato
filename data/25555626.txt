@@ -1,1 +1,1 @@
-Item(by='rightbyte', descendants=None, kids=None, score=None, time=1609116399, title=None, item_type='comment', url=None, parent=25554732, text='2 to 3 minutes? Really? I never seen a Blueray disc in use but no wonder they didn&#x27;t catch on.')
+Item(by='rightbyte', descendants=None, kids=[25556705], score=None, time=1609116399, title=None, item_type='comment', url=None, parent=25554732, text='2 to 3 minutes? Really? I never seen a Blueray disc in use but no wonder they didn&#x27;t catch on.')

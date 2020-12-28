@@ -1,0 +1,1 @@
+Item(by='iforgotpassword', descendants=None, kids=None, score=None, time=1609141653, title=None, item_type='comment', url=None, parent=25557130, text='Why vista only? Is it 64 bit only? Otherwise for TUI-only this should go back to at least NT4. Or is it using anything clever that makes older versions barf?<p>Edit: Ah, maybe it&#x27;s bypassing ntdll and syscalls changed?')

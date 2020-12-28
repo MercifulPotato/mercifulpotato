@@ -1,0 +1,1 @@
+Item(by='usmannk', descendants=None, kids=None, score=None, time=1609138990, title=None, item_type='comment', url=None, parent=25557298, text='I don’t recommend this strategy in practice though. It’s brittle and not all application state can even be represented as UI (what about your login cookie?).')

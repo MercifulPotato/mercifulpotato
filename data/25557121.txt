@@ -1,0 +1,1 @@
+Item(by='mkl', descendants=None, kids=None, score=None, time=1609135657, title=None, item_type='comment', url=None, parent=25555933, text='That&#x27;s right, but replicating changes from multiple devices onto one that then runs a proper backup tool with versioning and remote storage seems simpler than trying to do backups properly on each separate device.')

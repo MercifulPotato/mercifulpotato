@@ -1,0 +1,1 @@
+Item(by='Too', descendants=None, kids=None, score=None, time=1609142343, title=None, item_type='comment', url=None, parent=25553721, text='Mongo has schema enforcement, and if adding index it will keep and serve data straight from RAM.')

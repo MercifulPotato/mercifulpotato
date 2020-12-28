@@ -1,1 +1,1 @@
-Item(by='szundi', descendants=None, kids=None, score=None, time=1609102013, title=None, item_type='comment', url=None, parent=25551696, text='Some Mongo pro please answer something to this, as without enough experience this is the biggest issue for me in my head.')
+Item(by='szundi', descendants=None, kids=[25556715], score=None, time=1609102013, title=None, item_type='comment', url=None, parent=25551696, text='Some Mongo pro please answer something to this, as without enough experience this is the biggest issue for me in my head.')

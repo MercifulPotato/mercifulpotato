@@ -1,1 +1,1 @@
-Item(by='adrian_mrd', descendants=2, kids=[25555262], score=8, time=1609103128, title='The weird space that lies outside our Solar System', item_type='story', url='https://www.bbc.com/future/article/20200908-the-weird-space-that-lies-outside-our-solar-system', parent=None, text=None)
+Item(by='adrian_mrd', descendants=5, kids=[25556332, 25555262], score=16, time=1609103128, title='The weird space that lies outside our Solar System', item_type='story', url='https://www.bbc.com/future/article/20200908-the-weird-space-that-lies-outside-our-solar-system', parent=None, text=None)

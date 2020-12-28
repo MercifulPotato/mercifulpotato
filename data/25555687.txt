@@ -1,1 +1,1 @@
-Item(by='brian_herman', descendants=None, kids=None, score=None, time=1609116831, title=None, item_type='comment', url=None, parent=25554003, text='Yeah, it starts and 29 and goes up from there 1500 is their maximum price...')
+Item(by='brian_herman', descendants=None, kids=[25556521], score=None, time=1609116831, title=None, item_type='comment', url=None, parent=25554003, text='Yeah, it starts and 29 and goes up from there 1500 is their maximum price...')

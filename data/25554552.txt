@@ -1,1 +1,1 @@
-Item(by='PerilousD', descendants=None, kids=None, score=None, time=1609105729, title=None, item_type='comment', url=None, parent=25553039, text='Pretty common in London as well')
+Item(by='PerilousD', descendants=None, kids=[25556209], score=None, time=1609105729, title=None, item_type='comment', url=None, parent=25553039, text='Pretty common in London as well')

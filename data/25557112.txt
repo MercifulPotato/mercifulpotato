@@ -1,0 +1,1 @@
+Item(by='danmur', descendants=None, kids=None, score=None, time=1609135572, title=None, item_type='comment', url=None, parent=25556842, text='Yep. All my deployments I set up so they can be run from anywhere (with the right deps and auth), even though I rarely need to use it. Makes it easier to test deployment processes too.')
