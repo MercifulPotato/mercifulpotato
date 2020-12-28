@@ -1,0 +1,1 @@
+Item(by='ensiferum', descendants=None, kids=[25562343, 25560835], score=None, time=1609164836, title=None, item_type='comment', url=None, parent=25559037, text='At least UE4 is not well tested at all. Most of the code doesn&#x27;t have any decent tests. It&#x27;s all &quot;developer writes the code and runs once on his machine and then pushes to prod&quot; type of code.')

@@ -1,0 +1,1 @@
+Item(by='rangibaby', descendants=None, kids=None, score=None, time=1609168394, title=None, item_type='comment', url=None, parent=25559693, text='I’ve found that in themes that use WPBakery or ACF for layout is that there is definitely a happy path that involves swapping your text into one of their provided templates and calling it a day.')

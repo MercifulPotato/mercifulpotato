@@ -1,0 +1,1 @@
+Item(by='ihaveajob', descendants=None, kids=None, score=None, time=1609170339, title=None, item_type='comment', url=None, parent=25559765, text='Same reason why I set up my blog with Hugo + CloudFront. That, and to learn something new. It&#x27;s neat to run your build-and-push command, and see everything deployed in a moment. Blazing fast, and you only pay for the DNS.')

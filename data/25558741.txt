@@ -1,1 +1,1 @@
-Item(by='sanqui', descendants=2, kids=[25558781], score=5, time=1609159183, title='UK-EU trade deal recommends SHA-1 and calls Netscape modern', item_type='story', url=None, parent=None, text=None)
+Item(by='sanqui', descendants=3, kids=[25561981, 25558781], score=7, time=1609159183, title='UK-EU trade deal recommends SHA-1 and calls Netscape modern', item_type='story', url=None, parent=None, text=None)

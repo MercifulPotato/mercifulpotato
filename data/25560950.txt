@@ -1,0 +1,1 @@
+Item(by='noncoml', descendants=None, kids=[25561091, 25561984, 25562098, 25561068, 25561146], score=None, time=1609175794, title=None, item_type='comment', url=None, parent=25549811, text='I rage quit Haskell when I saw all the promises for application correctness fall like a house of cards by realizing I can write to a file after it has been closed when using lazyIO.')

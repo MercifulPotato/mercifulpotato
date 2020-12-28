@@ -1,0 +1,1 @@
+Item(by='tmzt', descendants=None, kids=None, score=None, time=1609171580, title=None, item_type='comment', url=None, parent=25557625, text='Would a chip (such as a CPLD&#x2F;FPGA) implementing mmc&#x2F;sd be an option? It could host a chainloader with PCIe support and serve as a kind of rom.<p>Also, is there any work on kernel level x86 emulation on arm for expansion roms?')

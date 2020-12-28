@@ -1,1 +1,1 @@
-Item(by='Eduard', descendants=None, kids=None, score=None, time=1609154108, title=None, item_type='comment', url=None, parent=25556286, text='Run anywhere? On Dreamcast? On some exotic Toshiba microcontroller?')
+Item(by='Eduard', descendants=None, kids=[25560421], score=None, time=1609154108, title=None, item_type='comment', url=None, parent=25556286, text='Run anywhere? On Dreamcast? On some exotic Toshiba microcontroller?')

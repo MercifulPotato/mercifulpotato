@@ -1,0 +1,1 @@
+Item(by='mikepurvis', descendants=None, kids=None, score=None, time=1609180711, title=None, item_type='comment', url=None, parent=25561494, text='CI services like Travis and Circle do Mac&#x2F;iOS builds and give each job a minute or two at a time — I guess this is different because it’s a service rather than “leasing” the machine?')

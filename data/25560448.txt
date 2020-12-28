@@ -1,0 +1,1 @@
+Item(by='Cyclenerd', descendants=None, kids=None, score=None, time=1609172753, title=None, item_type='comment', url=None, parent=25559516, text='no, it runs sequentially. But it is checked if status.sh is already running. So there are no repeaters.')

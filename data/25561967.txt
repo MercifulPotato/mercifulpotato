@@ -1,0 +1,1 @@
+Item(by='lukeramsden', descendants=None, kids=[25562110], score=None, time=1609181574, title=None, item_type='comment', url=None, parent=25561744, text='Automated testing should be done at CI stage, and you can submit a binary to Apple without having to send it live on the AppStore (TestFlight is for that), or you could send it to other beta distribution channels')

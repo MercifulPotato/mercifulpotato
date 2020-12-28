@@ -1,1 +1,1 @@
-Item(by='reikonomusha', descendants=27, kids=[25542635, 25541310, 25541838, 25541735, 25541688], score=95, time=1608847387, title='Vacietis, a C compiler targeting Common Lisp', item_type='story', url='https://github.com/vsedach/Vacietis', parent=None, text=None)
+Item(by='reikonomusha', descendants=27, kids=[25542635, 25541310, 25541735, 25541838, 25541688], score=95, time=1608847387, title='Vacietis, a C compiler targeting Common Lisp', item_type='story', url='https://github.com/vsedach/Vacietis', parent=None, text=None)

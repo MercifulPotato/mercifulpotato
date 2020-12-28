@@ -1,1 +1,1 @@
-Item(by='vanburen', descendants=0, kids=None, score=2, time=1609160761, title='Scientists turn CO2 into jet fuel', item_type='story', url='https://www.engadget.com/co2-converted-into-jet-fuel-224318943.html', parent=None, text=None)
+Item(by='vanburen', descendants=29, kids=[25561024, 25559418, 25561000, 25560679, 25559378, 25559590, 25560003, 25560657, 25561593, 25560475, 25559576], score=50, time=1609160761, title='Scientists turn CO2 into jet fuel', item_type='story', url='https://www.engadget.com/co2-converted-into-jet-fuel-224318943.html', parent=None, text=None)

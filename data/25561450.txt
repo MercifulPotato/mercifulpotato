@@ -1,0 +1,1 @@
+Item(by='dafelst', descendants=None, kids=None, score=None, time=1609178931, title=None, item_type='comment', url=None, parent=25560835, text='I&#x27;ve been working professionally on a UE4 game with a license to the full UE4 engine codebase, I can confirm that the engine has some unit and functional tests, but the overall coverage is abysmally low.')

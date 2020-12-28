@@ -1,0 +1,1 @@
+Item(by='ensiferum', descendants=None, kids=None, score=None, time=1609181799, title=None, item_type='comment', url=None, parent=25561325, text='There&#x27;s some built-in testing functionality for the <i>games</i> but there aren&#x27;t much tests for the engine itself in the source package.<p>Oh and I spent about 3 years working with UE4. The engine is a bug fest.')

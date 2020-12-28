@@ -1,0 +1,1 @@
+Item(by='magnio', descendants=None, kids=None, score=None, time=1609165031, title=None, item_type='comment', url=None, parent=25558643, text='Works fine for me on Ubuntu 20.04 (also WSL2) and binutils 2.34. Have you tried updating binutils to newer version? (&gt;=2.32)')

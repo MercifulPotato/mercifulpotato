@@ -1,0 +1,1 @@
+Item(by='socialdemocrat', descendants=None, kids=None, score=None, time=1609182785, title=None, item_type='comment', url=None, parent=25559175, text='Yeah but each CPU can choose exactly how much fusion they want to do. That is not part of the ISA or promise they make to developers. Doing macro-op fusion like x86 should be a big win anyway combined with compressed instructions.')

@@ -1,1 +1,1 @@
-Item(by='alephu5', descendants=None, kids=None, score=None, time=1609139960, title=None, item_type='comment', url=None, parent=25553665, text='They&#x27;re running their own servers so these databases probably cost fractions of a cent per month.')
+Item(by='alephu5', descendants=None, kids=[25560348], score=None, time=1609139960, title=None, item_type='comment', url=None, parent=25553665, text='They&#x27;re running their own servers so these databases probably cost fractions of a cent per month.')

@@ -1,1 +1,1 @@
-Item(by='paulmendoza', descendants=None, kids=None, score=None, time=1609163726, title=None, item_type='comment', url=None, parent=25559063, text='Google should have awarded a much larger value to this. Like $100k. This is a serious flaw.')
+Item(by='paulmendoza', descendants=None, kids=[25559655, 25559245, 25559238, 25559197, 25559304], score=None, time=1609163726, title=None, item_type='comment', url=None, parent=25559063, text='Google should have awarded a much larger value to this. Like $100k. This is a serious flaw.')

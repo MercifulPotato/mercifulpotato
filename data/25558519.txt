@@ -1,1 +1,1 @@
-Item(by='kreeben', descendants=0, kids=None, score=3, time=1609156386, title='Show HN: Hardware-accelerated vector-based search engine for image and text', item_type='story', url='https://github.com/kreeben/resin', parent=None, text=None)
+Item(by='kreeben', descendants=1, kids=[25559424], score=5, time=1609156386, title='Show HN: Hardware-accelerated vector-based search engine for image and text', item_type='story', url='https://github.com/kreeben/resin', parent=None, text=None)

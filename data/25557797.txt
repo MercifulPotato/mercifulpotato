@@ -1,1 +1,1 @@
-Item(by='cellover', descendants=None, kids=None, score=None, time=1609146362, title=None, item_type='comment', url=None, parent=25554941, text='Stop hacking my vertical scroll-farming! This inertia thing when scrolling is unbrearable.')
+Item(by='cellover', descendants=None, kids=[25560557], score=None, time=1609146362, title=None, item_type='comment', url=None, parent=25554941, text='Stop hacking my vertical scroll-farming! This inertia thing when scrolling is unbrearable.')

@@ -1,0 +1,1 @@
+Item(by='rwmj', descendants=None, kids=None, score=None, time=1609168470, title=None, item_type='comment', url=None, parent=25559252, text='The whole toolchain just makes this assumption, and we want to build it the same way Fedora is built for other arches.  Plus we&#x27;re expecting server-class RISC-V hardware soon enough, at least comparable to ARM servers.')

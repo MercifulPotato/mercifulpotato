@@ -1,1 +1,1 @@
-Item(by='dmw_ng', descendants=None, kids=None, score=None, time=1609164276, title=None, item_type='comment', url=None, parent=25556286, text='(Insert obscene gushing here)<p>Absolutely loving that memcpy() trickery! This concept looks like it would make an awesome basis for some kind of learning environment.. the ability to run the same binary raw on hardware and regular userspace is awesome')
+Item(by=None, descendants=None, kids=None, score=None, time=1609164276, title=None, item_type='comment', url=None, parent=25556286, text=None)

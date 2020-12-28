@@ -1,1 +1,1 @@
-Item(by='me4502', descendants=4, kids=[25558317], score=2, time=1609153594, title='The Performance Overhead of JavaScript Promises and Async Await', item_type='story', url='https://matthewmiller.dev/blog/javascript-promise-overhead/', parent=None, text=None)
+Item(by='me4502', descendants=4, kids=[25558317], score=3, time=1609153594, title='The Performance Overhead of JavaScript Promises and Async Await', item_type='story', url='https://matthewmiller.dev/blog/javascript-promise-overhead/', parent=None, text=None)

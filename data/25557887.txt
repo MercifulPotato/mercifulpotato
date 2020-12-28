@@ -1,1 +1,1 @@
-Item(by='slbee', descendants=0, kids=[25558773], score=1, time=1609147806, title='Show HN: How Do GUI Applications Work Internally', item_type='story', url='https://medium.com/@shalithasuranga/how-gui-applications-work-internally-4a7d1d5de793', parent=None, text=None)
+Item(by='slbee', descendants=1, kids=[25558773], score=2, time=1609147806, title='Show HN: How Do GUI Applications Work Internally', item_type='story', url='https://medium.com/@shalithasuranga/how-gui-applications-work-internally-4a7d1d5de793', parent=None, text=None)

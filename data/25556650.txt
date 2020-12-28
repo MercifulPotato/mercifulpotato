@@ -1,1 +1,1 @@
-Item(by='geerlingguy', descendants=29, kids=[25559289, 25557016, 25559047, 25558228, 25556955, 25557054, 25557987, 25557116, 25558045], score=120, time=1609129431, title='Raspberry Pi PCIe Devices', item_type='story', url='https://pipci.jeffgeerling.com', parent=None, text=None)
+Item(by='geerlingguy', descendants=56, kids=[25557016, 25559289, 25560762, 25560405, 25557054, 25556955, 25559047, 25557116, 25557987, 25558228, 25558045], score=174, time=1609129431, title='Raspberry Pi PCIe Devices', item_type='story', url='https://pipci.jeffgeerling.com', parent=None, text=None)

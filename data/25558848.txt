@@ -1,1 +1,1 @@
-Item(by='jka', descendants=None, kids=None, score=None, time=1609160216, title=None, item_type='comment', url=None, parent=25552538, text='Yep, certainly is - did you have any particular area(s) of technology in mind?  Some of the ideas from FOSS could probably apply elsewhere too.')
+Item(by='jka', descendants=None, kids=[25560969], score=None, time=1609160216, title=None, item_type='comment', url=None, parent=25552538, text='Yep, certainly is - did you have any particular area(s) of technology in mind?  Some of the ideas from FOSS could probably apply elsewhere too.')
