@@ -1,0 +1,1 @@
+Item(by='silicaroach', descendants=None, kids=[25570325], score=None, time=1609253166, title=None, item_type='comment', url=None, parent=25569734, text='Honestly, ask yourself _why_ you think you need strongly typed JS.  Are type errors the most common source of errors in JS?  Not even close.  So why add another level of complexity for negligible gain.')

@@ -1,1 +1,1 @@
-Item(by='joubert', descendants=0, kids=[25563627], score=2, time=1609180189, title='Code Browser', item_type='story', url='https://tibleiz.net/code-browser/', parent=None, text=None)
+Item(by='joubert', descendants=8, kids=[25573168, 25572296, 25571952, 25571404, 25563627, 25571748, 25570964, 25571583], score=38, time=1609180189, title='Code Browser', item_type='story', url='https://tibleiz.net/code-browser/', parent=None, text=None)

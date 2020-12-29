@@ -1,1 +1,1 @@
-Item(by='mikequinlan', descendants=1, kids=[25558156], score=10, time=1609151639, title='The Lasting Lessons of John Conway’s Game of Life', item_type='story', url='https://www.nytimes.com/2020/12/28/science/math-conway-game-of-life.html', parent=None, text=None)
+Item(by='mikequinlan', descendants=2, kids=[25570451, 25558156], score=11, time=1609151639, title='The Lasting Lessons of John Conway’s Game of Life', item_type='story', url='https://www.nytimes.com/2020/12/28/science/math-conway-game-of-life.html', parent=None, text=None)

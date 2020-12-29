@@ -1,1 +1,1 @@
-Item(by='sieste', descendants=2, kids=[25550562], score=2, time=1609069142, title='Lambda.r Functional Programming in R', item_type='story', url='https://github.com/zatonovo/lambda.r', parent=None, text=None)
+Item(by='sieste', descendants=6, kids=[25550562, 25573431, 25572872], score=14, time=1609069142, title='Lambda.r Functional Programming in R', item_type='story', url='https://github.com/zatonovo/lambda.r', parent=None, text=None)

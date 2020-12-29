@@ -1,1 +1,1 @@
-Item(by='seizethecheese', descendants=None, kids=None, score=None, time=1609178809, title=None, item_type='comment', url=None, parent=25561410, text='I hope you’re satisfied with your morality when you’re old and on the wrong side of the line.')
+Item(by='seizethecheese', descendants=None, kids=[25572049], score=None, time=1609178809, title=None, item_type='comment', url=None, parent=25561410, text='I hope you’re satisfied with your morality when you’re old and on the wrong side of the line.')

@@ -1,1 +1,1 @@
-Item(by='wongarsu', descendants=None, kids=None, score=None, time=1609246911, title=None, item_type='comment', url=None, parent=25567880, text='In mobile games the motto seems to be &quot;why make it fun when you can make it addicting instead&quot;.')
+Item(by='wongarsu', descendants=None, kids=[25570091], score=None, time=1609246911, title=None, item_type='comment', url=None, parent=25567880, text='In mobile games the motto seems to be &quot;why make it fun when you can make it addicting instead&quot;.')

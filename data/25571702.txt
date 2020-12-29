@@ -1,0 +1,1 @@
+Item(by='metalrain', descendants=None, kids=[25571827], score=None, time=1609260558, title=None, item_type='comment', url=None, parent=25571421, text='I guess lambda is too verbose<p>a[lambda i: i &gt; 5] = 0<p>Probably would expect something like this<p>np.set(a, lambda i: i &gt; 5, 0)<p>But that might be too cumbersome when combining values from multiple arrays.')

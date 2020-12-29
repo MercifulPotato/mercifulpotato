@@ -1,0 +1,1 @@
+Item(by='jashmatthews', descendants=None, kids=None, score=None, time=1609272685, title=None, item_type='comment', url=None, parent=25573952, text='&gt; ActiveRecord database requests have been non-blocking for many years.<p>That&#x27;s blocking IO with multi-threading. The executing thread stops and waits.')

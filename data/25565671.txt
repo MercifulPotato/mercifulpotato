@@ -1,1 +1,1 @@
-Item(by='10000truths', descendants=None, kids=None, score=None, time=1609205961, title=None, item_type='comment', url=None, parent=25564330, text='Perhaps that&#x27;s a good thing, because I&#x27;m almost certain that would be abused as a user fingerprint.')
+Item(by='10000truths', descendants=None, kids=[25572408], score=None, time=1609205961, title=None, item_type='comment', url=None, parent=25564330, text='Perhaps that&#x27;s a good thing, because I&#x27;m almost certain that would be abused as a user fingerprint.')

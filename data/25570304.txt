@@ -1,0 +1,1 @@
+Item(by='austincheney', descendants=None, kids=[25570344, 25570396], score=None, time=1609254086, title=None, item_type='comment', url=None, parent=25570055, text='I had to downvote you for conflating NAT with security. IPv6 has the same capability, by the way, due to a reserved address space called link local (fe80).<p>NAT is just as horrible, and secure, as spanning tree.')

@@ -1,1 +1,1 @@
-Item(by='czue', descendants=0, kids=None, score=3, time=1609248614, title='Show HN: Four years of profitable side-projects', item_type='story', url='https://www.coryzue.com/open/', parent=None, text=None)
+Item(by='czue', descendants=5, kids=[25569877, 25573016, 25572233], score=39, time=1609248614, title='Show HN: Four years of profitable side-projects', item_type='story', url='https://www.coryzue.com/open/', parent=None, text=None)

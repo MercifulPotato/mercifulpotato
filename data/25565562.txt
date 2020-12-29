@@ -1,1 +1,1 @@
-Item(by='bonestamp2', descendants=None, kids=None, score=None, time=1609205164, title=None, item_type='comment', url=None, parent=25563301, text='It&#x27;s not a review though, it&#x27;s a &quot;did they ghost you&quot; boolean.')
+Item(by='bonestamp2', descendants=None, kids=[25572344], score=None, time=1609205164, title=None, item_type='comment', url=None, parent=25563301, text='It&#x27;s not a review though, it&#x27;s a &quot;did they ghost you&quot; boolean.')

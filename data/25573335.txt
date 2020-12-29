@@ -1,0 +1,1 @@
+Item(by='titzer', descendants=None, kids=None, score=None, time=1609268016, title=None, item_type='comment', url=None, parent=25572421, text='The JVM used an operand stack for local data flow, while the CLR uses registers.')

@@ -1,0 +1,1 @@
+Item(by='stkdump', descendants=None, kids=[25574596], score=None, time=1609272675, title=None, item_type='comment', url=None, parent=25570344, text='You don&#x27;t just need configuration on the fw, you are also limited to having at most one service of each kind per NATted network, because you use up their default ports.')

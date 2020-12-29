@@ -1,1 +1,1 @@
-Item(by='Hnrobert42', descendants=None, kids=None, score=None, time=1609249862, title=None, item_type='comment', url=None, parent=25569669, text='I wonder if that is Comcast’s fault or the geolocation service’s.')
+Item(by='Hnrobert42', descendants=None, kids=[25570183], score=None, time=1609249862, title=None, item_type='comment', url=None, parent=25569669, text='I wonder if that is Comcast’s fault or the geolocation service’s.')

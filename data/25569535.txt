@@ -1,1 +1,1 @@
-Item(by='clouddrover', descendants=0, kids=None, score=8, time=1609248392, title='A Tesla Model S erupted ‘like a flamethrower’; renews old safety concerns', item_type='story', url='https://www.washingtonpost.com/technology/2020/12/28/tesla-battery-fire/', parent=None, text=None)
+Item(by='clouddrover', descendants=8, kids=[25569829, 25570341, 25570126, 25569846], score=21, time=1609248392, title='Tesla Model S erupted ‘like a flamethrower’', item_type='story', url='https://www.washingtonpost.com/technology/2020/12/28/tesla-battery-fire/', parent=None, text=None)

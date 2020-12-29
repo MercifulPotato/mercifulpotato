@@ -1,0 +1,1 @@
+Item(by='CyberDildonics', descendants=None, kids=None, score=None, time=1609257623, title=None, item_type='comment', url=None, parent=25566487, text='It could be done with interrupts.  With something like a raspberry pi it could be done with thread sleeps that yield non trivial amounts of process time so that the CPU usage is low.')

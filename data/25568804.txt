@@ -1,1 +1,1 @@
-Item(by='textread', descendants=0, kids=None, score=14, time=1609241421, title='Ask HN: Is anyone using Linux on the 2020 Thinkpad X1 Fold?', item_type='story', url=None, parent=None, text='How good is the pen input, display management when in different folding angles..etc')
+Item(by='textread', descendants=5, kids=[25574270, 25572783, 25569841], score=23, time=1609241421, title='Ask HN: Is anyone using Linux on the 2020 Thinkpad X1 Fold?', item_type='story', url=None, parent=None, text='How good is the pen input, display management when in different folding angles..etc')

@@ -1,1 +1,1 @@
-Item(by='froh', descendants=None, kids=None, score=None, time=1609242404, title=None, item_type='comment', url=None, parent=25568507, text='Hemp is marijuana.  It&#x27;s the same plant.  Low thc varieties have been created after marijuana prohibition.')
+Item(by='froh', descendants=None, kids=[25570612, 25570392], score=None, time=1609242404, title=None, item_type='comment', url=None, parent=25568507, text='Hemp is marijuana.  It&#x27;s the same plant.  Low thc varieties have been created after marijuana prohibition.')

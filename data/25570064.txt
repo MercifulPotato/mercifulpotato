@@ -1,1 +1,1 @@
-Item(by='saati', descendants=None, kids=None, score=None, time=1609252397, title=None, item_type='comment', url=None, parent=25564364, text='&gt; CPU: MCST (Moscow Center of SPARC Technologies) Elbrus-8CB 8-core @ 1.5 GHz VLIW (fully compatible with any LGA3647 heatsink)')
+Item(by='saati', descendants=None, kids=[25573928], score=None, time=1609252397, title=None, item_type='comment', url=None, parent=25564364, text='&gt; CPU: MCST (Moscow Center of SPARC Technologies) Elbrus-8CB 8-core @ 1.5 GHz VLIW (fully compatible with any LGA3647 heatsink)')

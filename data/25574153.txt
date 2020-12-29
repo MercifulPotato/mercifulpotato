@@ -1,0 +1,1 @@
+Item(by='jolmg', descendants=None, kids=None, score=None, time=1609272274, title=None, item_type='comment', url=None, parent=25544268, text='&gt; you can’t just dump http to 443 and get a useable document in return.<p>Not on 443, but on 80 you basically would. You&#x27;d just have to skip the response headers.')

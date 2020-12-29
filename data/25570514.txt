@@ -1,0 +1,1 @@
+Item(by='fallingfrog', descendants=None, kids=None, score=None, time=1609255155, title=None, item_type='comment', url=None, parent=25562273, text='You could make an analog version of this fairly easily too, with a handful of resistors and capacitors to form a high pass network and a signal booster to get the 60db of gain you need.')

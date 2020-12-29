@@ -1,1 +1,1 @@
-Item(by='rundmc', descendants=None, kids=None, score=None, time=1609247789, title=None, item_type='comment', url=None, parent=25567079, text='So there is 3,600 piles of precious metals floating around up there. How long before someone builds a space drone to snare that bounty?')
+Item(by='rundmc', descendants=None, kids=[25570630], score=None, time=1609247789, title=None, item_type='comment', url=None, parent=25567079, text='So there is 3,600 piles of precious metals floating around up there. How long before someone builds a space drone to snare that bounty?')

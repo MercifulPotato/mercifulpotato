@@ -1,1 +1,1 @@
-Item(by='app4soft', descendants=15, kids=[25570019, 25567871, 25568995, 25569504], score=65, time=1609068034, title='Volbx – Qt-based spreadsheet app for data manipulation', item_type='story', url='https://github.com/przemek83/volbx', parent=None, text=None)
+Item(by='app4soft', descendants=27, kids=[25573565, 25573047, 25567871, 25568995, 25570019, 25570889, 25569504], score=86, time=1609068034, title='Volbx – Qt-based spreadsheet app for data manipulation', item_type='story', url='https://github.com/przemek83/volbx', parent=None, text=None)
