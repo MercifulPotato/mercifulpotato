@@ -1,1 +1,1 @@
-Item(by='Geminidog', descendants=None, kids=None, score=None, time=1609141911, title=None, item_type='comment', url=None, parent=25557413, text='This is obviously a troll. We&#x27;re done here.')
+Item(by='Geminidog', descendants=None, kids=[25566747], score=None, time=1609141911, title=None, item_type='comment', url=None, parent=25557413, text='This is obviously a troll. We&#x27;re done here.')

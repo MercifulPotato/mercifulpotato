@@ -1,1 +1,1 @@
-Item(by='adrian_mrd', descendants=1, kids=[25565777], score=39, time=1609043750, title="Has Thomas Becket's treasured 'little book' been found?", item_type='story', url='https://www.bbc.com/news/stories-55370722', parent=None, text=None)
+Item(by='adrian_mrd', descendants=2, kids=[25566612, 25565777], score=39, time=1609043750, title="Has Thomas Becket's treasured 'little book' been found?", item_type='story', url='https://www.bbc.com/news/stories-55370722', parent=None, text=None)

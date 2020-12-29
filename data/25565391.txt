@@ -1,1 +1,1 @@
-Item(by='gfxgirl', descendants=None, kids=None, score=None, time=1609203912, title=None, item_type='comment', url=None, parent=25565245, text='Do you have to amputate? My mom has had hip replacement surgery twice.')
+Item(by='gfxgirl', descendants=None, kids=[25566789], score=None, time=1609203912, title=None, item_type='comment', url=None, parent=25565245, text='Do you have to amputate? My mom has had hip replacement surgery twice.')

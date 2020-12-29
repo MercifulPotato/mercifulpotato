@@ -1,1 +1,1 @@
-Item(by='webmobdev', descendants=None, kids=None, score=None, time=1609200860, title=None, item_type='comment', url=None, parent=25564140, text='You miss the point - consumer tape drives won&#x27;t cost 5k, just like consumer HDD&#x27;s are cheaper than enterprise HDD&#x27;s.')
+Item(by='webmobdev', descendants=None, kids=[25567688], score=None, time=1609200860, title=None, item_type='comment', url=None, parent=25564140, text='You miss the point - consumer tape drives won&#x27;t cost 5k, just like consumer HDD&#x27;s are cheaper than enterprise HDD&#x27;s.')

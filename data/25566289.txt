@@ -1,1 +1,1 @@
-Item(by='jeofken', descendants=None, kids=None, score=None, time=1609211051, title=None, item_type='comment', url=None, parent=25566068, text='Legal != ethical')
+Item(by='jeofken', descendants=None, kids=[25567399], score=None, time=1609211051, title=None, item_type='comment', url=None, parent=25566068, text='Legal != ethical')

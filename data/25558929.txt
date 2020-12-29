@@ -1,1 +1,1 @@
-Item(by='ishikawa', descendants=12, kids=[25560545, 25559168, 25559415, 25565066, 25560268, 25561397], score=44, time=1609161081, title='Atlantropa', item_type='story', url='https://en.wikipedia.org/wiki/Atlantropa', parent=None, text=None)
+Item(by='ishikawa', descendants=12, kids=[25560545, 25559168, 25559415, 25560268, 25561397, 25565066], score=45, time=1609161081, title='Atlantropa', item_type='story', url='https://en.wikipedia.org/wiki/Atlantropa', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='agf', descendants=None, kids=None, score=None, time=1609210565, title=None, item_type='comment', url=None, parent=25565789, text='Any thoughts on the automated vertical farms that are starting to see good results?')
+Item(by='agf', descendants=None, kids=[25566639, 25567288], score=None, time=1609210565, title=None, item_type='comment', url=None, parent=25565789, text='Any thoughts on the automated vertical farms that are starting to see good results?')

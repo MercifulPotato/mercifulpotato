@@ -1,1 +1,1 @@
-Item(by='viktorcode', descendants=None, kids=None, score=None, time=1609176361, title=None, item_type='comment', url=None, parent=25556502, text='I wonder why the cost of MacBook Pro battery service is that high in India? It is $129 in the US; far cry from the mentioned $550.')
+Item(by='viktorcode', descendants=None, kids=[25566418], score=None, time=1609176361, title=None, item_type='comment', url=None, parent=25556502, text='I wonder why the cost of MacBook Pro battery service is that high in India? It is $129 in the US; far cry from the mentioned $550.')

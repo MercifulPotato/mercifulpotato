@@ -1,1 +1,1 @@
-Item(by='thelastbender12', descendants=None, kids=None, score=None, time=1609177962, title=None, item_type='comment', url=None, parent=25558546, text='Would this not make the implementation inefficient?')
+Item(by='thelastbender12', descendants=None, kids=[25566529], score=None, time=1609177962, title=None, item_type='comment', url=None, parent=25558546, text='Would this not make the implementation inefficient?')

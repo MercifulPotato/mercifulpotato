@@ -1,1 +1,1 @@
-Item(by='mattalbie', descendants=None, kids=None, score=None, time=1609195182, title=None, item_type='comment', url=None, parent=25563946, text='I do this but include the symlink command in the document. That way all the links become one copy and paste.')
+Item(by='mattalbie', descendants=None, kids=[25567605], score=None, time=1609195182, title=None, item_type='comment', url=None, parent=25563946, text='I do this but include the symlink command in the document. That way all the links become one copy and paste.')

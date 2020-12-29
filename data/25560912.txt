@@ -1,1 +1,1 @@
-Item(by='vbatts', descendants=0, kids=None, score=1, time=1609175564, title='Egress Filtering Benchmark Part 2: Calico and Cilium', item_type='story', url='https://kinvolk.io/blog/2020/12/egress-filtering-benchmark-part-2-calico-and-cilium/', parent=None, text=None)
+Item(by='vbatts', descendants=0, kids=None, score=3, time=1609175564, title='Egress Filtering Benchmark Part 2: Calico and Cilium', item_type='story', url='https://kinvolk.io/blog/2020/12/egress-filtering-benchmark-part-2-calico-and-cilium/', parent=None, text=None)

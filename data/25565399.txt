@@ -1,1 +1,1 @@
-Item(by='ekianjo', descendants=None, kids=None, score=None, time=1609203950, title=None, item_type='comment', url=None, parent=25564967, text='If your drive uses ZFS you apparently need to power it on more regularly than that to avoid bit rot.')
+Item(by='ekianjo', descendants=None, kids=[25567322], score=None, time=1609203950, title=None, item_type='comment', url=None, parent=25564967, text='If your drive uses ZFS you apparently need to power it on more regularly than that to avoid bit rot.')

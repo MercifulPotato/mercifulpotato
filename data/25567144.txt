@@ -1,0 +1,1 @@
+Item(by='bbkane', descendants=None, kids=None, score=None, time=1609221161, title=None, item_type='comment', url=None, parent=25564427, text='I make a script purely with `export secret=...` lines and keep it in a local folder and  KeePassXC. When I need secrets I manually source it. Not super automatic, but I dont add a lot of secrets a lot of the time')

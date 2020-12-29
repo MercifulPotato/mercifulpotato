@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=1, time=1609208272, title='Alexa, Hypnotize Me', item_type='story', url='https://www.wsj.com/articles/alexa-hypnotize-me-11609176156', parent=None, text=None)
+Item(by='pseudolus', descendants=1, kids=[25566388], score=3, time=1609208272, title='Alexa, Hypnotize Me', item_type='story', url='https://www.wsj.com/articles/alexa-hypnotize-me-11609176156', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='vitiral', descendants=None, kids=[25566599], score=None, time=1609213856, title=None, item_type='comment', url=None, parent=25561313, text='IsWindows is likely a macro and therefore you have if(0) or if(1) which the compiler can easily optimize away.')

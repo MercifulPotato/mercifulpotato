@@ -1,1 +1,1 @@
-Item(by='meowster', descendants=None, kids=None, score=None, time=1609196105, title=None, item_type='comment', url=None, parent=25560469, text='I use Ubuntu and my Brother laser printer is plug-and-play... not with USB but with WiFi!!!<p>Now scanning on the other hand...')
+Item(by='meowster', descendants=None, kids=[25566755], score=None, time=1609196105, title=None, item_type='comment', url=None, parent=25560469, text='I use Ubuntu and my Brother laser printer is plug-and-play... not with USB but with WiFi!!!<p>Now scanning on the other hand...')

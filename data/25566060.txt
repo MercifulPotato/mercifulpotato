@@ -1,1 +1,1 @@
-Item(by='tolbish', descendants=None, kids=None, score=None, time=1609209078, title=None, item_type='comment', url=None, parent=25565110, text='It had a backlit screen too, which was also a game changer at the time.')
+Item(by='tolbish', descendants=None, kids=[25567776], score=None, time=1609209078, title=None, item_type='comment', url=None, parent=25565110, text='It had a backlit screen too, which was also a game changer at the time.')

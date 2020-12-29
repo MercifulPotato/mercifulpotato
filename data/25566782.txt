@@ -1,0 +1,1 @@
+Item(by='goatlover', descendants=None, kids=[25567211], score=None, time=1609216704, title=None, item_type='comment', url=None, parent=25566593, text='That’s because arrays are also objects in JS, and objects can have new properties added, which are implemented as hash strings. Everything in JS is a kind of object, including functions.')

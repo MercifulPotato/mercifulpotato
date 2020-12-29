@@ -1,0 +1,1 @@
+Item(by='pansa2', descendants=None, kids=None, score=None, time=1609227833, title=None, item_type='comment', url=None, parent=25567486, text='`3 &lt;= a &lt;= 5` expands to `3 &lt;= a and a &lt;= 5`. However, based on the examples NumPy seems to require `&amp;` instead of `and` - I’m not sure why.')

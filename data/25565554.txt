@@ -1,1 +1,1 @@
-Item(by='gary_bernhardt', descendants=None, kids=None, score=None, time=1609205115, title=None, item_type='comment', url=None, parent=25565531, text='Yep. Originally I had a SQL example in there too, but it took a lot more setup to explain and would limit the post&#x27;s audience.')
+Item(by='gary_bernhardt', descendants=None, kids=[25566517], score=None, time=1609205115, title=None, item_type='comment', url=None, parent=25565531, text='Yep. Originally I had a SQL example in there too, but it took a lot more setup to explain and would limit the post&#x27;s audience.')

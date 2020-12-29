@@ -1,1 +1,1 @@
-Item(by='ashish01', descendants=1, kids=[25565794], score=3, time=1609204784, title='Daily Hacker News data dump', item_type='story', url='https://github.com/ashish01/hn-data-dumps', parent=None, text=None)
+Item(by='ashish01', descendants=3, kids=[25566728, 25565794], score=6, time=1609204784, title='Daily Hacker News data dump', item_type='story', url='https://github.com/ashish01/hn-data-dumps', parent=None, text=None)

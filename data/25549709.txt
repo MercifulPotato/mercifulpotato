@@ -1,1 +1,1 @@
-Item(by='rochak', descendants=None, kids=None, score=None, time=1609057902, title=None, item_type='comment', url=None, parent=25549648, text='I am glad you are attending to your calling, but do take time to analyse everything - pros and cons - before making any rash decisions.')
+Item(by='rochak', descendants=None, kids=[25567478], score=None, time=1609057902, title=None, item_type='comment', url=None, parent=25549648, text='I am glad you are attending to your calling, but do take time to analyse everything - pros and cons - before making any rash decisions.')
