@@ -1,1 +1,1 @@
-Item(by='iridium_core', descendants=None, kids=None, score=None, time=1609186240, title=None, item_type='comment', url=None, parent=25559188, text='Wouldn&#x27;t it be simpler to charge 1pence per gram of sugar and let the free market take control?')
+Item(by='iridium_core', descendants=None, kids=[25563084], score=None, time=1609186240, title=None, item_type='comment', url=None, parent=25559188, text='Wouldn&#x27;t it be simpler to charge 1pence per gram of sugar and let the free market take control?')

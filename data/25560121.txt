@@ -1,1 +1,1 @@
-Item(by='patentatt', descendants=None, kids=None, score=None, time=1609170847, title=None, item_type='comment', url=None, parent=25559635, text='And it has built-in GPS, what could go wrong?')
+Item(by='patentatt', descendants=None, kids=[25564711], score=None, time=1609170847, title=None, item_type='comment', url=None, parent=25559635, text='And it has built-in GPS, what could go wrong?')

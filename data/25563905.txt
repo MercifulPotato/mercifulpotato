@@ -1,0 +1,1 @@
+Item(by='jewel', descendants=None, kids=None, score=None, time=1609193866, title=None, item_type='comment', url=None, parent=25563708, text='From what I can see, the iPhone timer app is rounding to the nearest second.  For positive numbers that can be accomplished with either Math.round(t) or Math.floor(t+0.5).')

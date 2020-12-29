@@ -1,1 +1,1 @@
-Item(by='raadore', descendants=None, kids=None, score=None, time=1609128793, title=None, item_type='comment', url=None, parent=25540583, text='May I ask, I’m curious: why is ethereum contracts&#x2F;blockchain not mentioned in any reply?')
+Item(by='raadore', descendants=None, kids=[25564391], score=None, time=1609128793, title=None, item_type='comment', url=None, parent=25540583, text='May I ask, I’m curious: why is ethereum contracts&#x2F;blockchain not mentioned in any reply?')

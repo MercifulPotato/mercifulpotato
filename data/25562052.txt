@@ -1,1 +1,1 @@
-Item(by='xiphias2', descendants=None, kids=None, score=None, time=1609182014, title=None, item_type='comment', url=None, parent=25560896, text='I do what I can. I&#x27;ll finally buy a Tesla in 2021. I was delaying my car purchase for years to have enough money for one.')
+Item(by='xiphias2', descendants=None, kids=[25563644], score=None, time=1609182014, title=None, item_type='comment', url=None, parent=25560896, text='I do what I can. I&#x27;ll finally buy a Tesla in 2021. I was delaying my car purchase for years to have enough money for one.')

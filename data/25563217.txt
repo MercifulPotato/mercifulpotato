@@ -1,0 +1,1 @@
+Item(by='timClicks', descendants=None, kids=None, score=None, time=1609189600, title=None, item_type='comment', url=None, parent=25557355, text='These binaries wouldn&#x27;t provide the isolation that wasm provides... Although it&#x27;s looks like they&#x27;re essentially unikernels, which means that they could potentially be run per-invocation by a hypervisor.')

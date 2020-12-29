@@ -1,0 +1,1 @@
+Item(by='cipherboy', descendants=None, kids=[25565083], score=None, time=1609201450, title=None, item_type='comment', url=None, parent=25564882, text='&gt; and delete it another way in another place (git rm).<p>I use `rm` all the time in git repos... Just `git add` when it is time to stage changes.')

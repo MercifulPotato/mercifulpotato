@@ -1,1 +1,1 @@
-Item(by='gandalfian', descendants=None, kids=None, score=None, time=1609175154, title=None, item_type='comment', url=None, parent=25559188, text='Quite right. Take the extra minute to walk over to the confectionary aisle and buy a multipack of candy for a fraction of the price.')
+Item(by='gandalfian', descendants=None, kids=[25562769], score=None, time=1609175154, title=None, item_type='comment', url=None, parent=25559188, text='Quite right. Take the extra minute to walk over to the confectionary aisle and buy a multipack of candy for a fraction of the price.')

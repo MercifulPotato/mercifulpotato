@@ -1,0 +1,1 @@
+Item(by='Franciscouzo', descendants=None, kids=[25565759], score=None, time=1609205238, title=None, item_type='comment', url=None, parent=25565344, text='You can actually do it (I&#x27;m not saying it&#x27;s a good idea), there&#x27;s a way to differentiate between -0 and 0:<p><pre><code>    &gt; Object.is(0, -0)\n    false</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='guenthert', descendants=None, kids=None, score=None, time=1609206416, title=None, item_type='comment', url=None, parent=25559240, text='VLWI, doesn&#x27;t that imply no branch prediction (like Itanium, which afaiu expects the compiler to order instructions optimally ahead of time)?  If so, shouldn&#x27;t it be immune to SPECTRE?')

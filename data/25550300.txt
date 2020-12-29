@@ -1,1 +1,1 @@
-Item(by='graderjs', descendants=None, kids=None, score=None, time=1609068080, title=None, item_type='comment', url=None, parent=25543711, text='I definitely want to reply you, I&#x27;m just a little occurred right now.')
+Item(by='graderjs', descendants=None, kids=[25556648], score=None, time=1609068080, title=None, item_type='comment', url=None, parent=25543711, text='I definitely want to reply you, I&#x27;m just a little occurred right now.')

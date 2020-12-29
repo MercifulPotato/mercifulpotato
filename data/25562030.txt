@@ -1,1 +1,1 @@
-Item(by='mkr-hn', descendants=None, kids=None, score=None, time=1609181882, title=None, item_type='comment', url=None, parent=25560638, text='You can find people who claim all kinds of things on the internet. That doesn&#x27;t mean they&#x27;re credible.')
+Item(by='mkr-hn', descendants=None, kids=[25563803], score=None, time=1609181882, title=None, item_type='comment', url=None, parent=25560638, text='You can find people who claim all kinds of things on the internet. That doesn&#x27;t mean they&#x27;re credible.')

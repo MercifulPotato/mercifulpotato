@@ -1,0 +1,1 @@
+Item(by='aduitsis', descendants=None, kids=None, score=None, time=1609206926, title=None, item_type='comment', url=None, parent=25565738, text='I&#x27;m not sure this can work in general. You need some entity to forward and use the proper envelope headers for the mail to go through in the backend.')

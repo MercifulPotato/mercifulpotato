@@ -1,1 +1,1 @@
-Item(by='jfengel', descendants=None, kids=None, score=None, time=1609179610, title=None, item_type='comment', url=None, parent=25561192, text='Real estate was the last bubble.')
+Item(by='jfengel', descendants=None, kids=[25563160], score=None, time=1609179610, title=None, item_type='comment', url=None, parent=25561192, text='Real estate was the last bubble.')

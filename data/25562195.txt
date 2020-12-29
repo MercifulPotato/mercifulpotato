@@ -1,1 +1,1 @@
-Item(by='beloch', descendants=None, kids=None, score=None, time=1609182869, title=None, item_type='comment', url=None, parent=25559417, text='The way your website handles font-size and zoom is really weird.')
+Item(by='beloch', descendants=None, kids=[25562385], score=None, time=1609182869, title=None, item_type='comment', url=None, parent=25559417, text='The way your website handles font-size and zoom is really weird.')

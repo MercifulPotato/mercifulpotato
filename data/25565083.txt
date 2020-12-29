@@ -1,0 +1,1 @@
+Item(by='ironmagma', descendants=None, kids=[25565134], score=None, time=1609201599, title=None, item_type='comment', url=None, parent=25565064, text='Right, but when you unlink it from your home directory, the file still exists in the git repo. So there is a manual synchronization that must happen between the two directories.')

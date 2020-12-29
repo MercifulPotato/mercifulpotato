@@ -1,1 +1,1 @@
-Item(by='tadfisher', descendants=None, kids=None, score=None, time=1609181811, title=None, item_type='comment', url=None, parent=25560947, text='Doom used fixed-point arithmetic; you may be thinking of Quake, which essentially required the Pentium FPU to be playable.')
+Item(by='tadfisher', descendants=None, kids=[25563318], score=None, time=1609181811, title=None, item_type='comment', url=None, parent=25560947, text='Doom used fixed-point arithmetic; you may be thinking of Quake, which essentially required the Pentium FPU to be playable.')

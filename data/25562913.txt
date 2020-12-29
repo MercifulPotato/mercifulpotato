@@ -1,1 +1,1 @@
-Item(by='ivanbakel', descendants=None, kids=None, score=None, time=1609187678, title=None, item_type='comment', url=None, parent=25562104, text='And for the position of board member, which is the more accessible of the two?')
+Item(by='ivanbakel', descendants=None, kids=[25563620], score=None, time=1609187678, title=None, item_type='comment', url=None, parent=25562104, text='And for the position of board member, which is the more accessible of the two?')

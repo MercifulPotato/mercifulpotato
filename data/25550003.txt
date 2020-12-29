@@ -1,1 +1,1 @@
-Item(by='flhoc', descendants=6, kids=[25552758, 25550022], score=14, time=1609062687, title='Show HN: Vas-quod – A minimal Linux container runtime written in Rust', item_type='story', url='https://github.com/flouthoc/vas-quod', parent=None, text=None)
+Item(by='flhoc', descendants=10, kids=[25564978, 25552758, 25550022, 25564382, 25565704], score=57, time=1609062687, title='Show HN: Vas-quod – A minimal Linux container runtime written in Rust', item_type='story', url='https://github.com/flouthoc/vas-quod', parent=None, text=None)

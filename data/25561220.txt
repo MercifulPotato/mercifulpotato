@@ -1,1 +1,1 @@
-Item(by='matt_d', descendants=0, kids=None, score=26, time=1609177423, title='PaSh: Light-Touch Data-Parallel Shell Processing', item_type='story', url='https://arxiv.org/abs/2007.09436', parent=None, text=None)
+Item(by='matt_d', descendants=4, kids=[25564450, 25562985, 25563220], score=43, time=1609177423, title='PaSh: Light-Touch Data-Parallel Shell Processing', item_type='story', url='https://arxiv.org/abs/2007.09436', parent=None, text=None)

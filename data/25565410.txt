@@ -1,0 +1,1 @@
+Item(by='kenrose', descendants=None, kids=None, score=None, time=1609204061, title=None, item_type='comment', url=None, parent=25564740, text='Call me old fashioned, but I remember using stow in 2003&#x2F;2004, about a year before git existed.<p>Yes though, use a repo for sync, but stow takes care of at linking your dot files in the right place.')

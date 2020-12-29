@@ -1,1 +1,1 @@
-Item(by='faeyanpiraat', descendants=None, kids=None, score=None, time=1609179582, title=None, item_type='comment', url=None, parent=25559655, text='&quot;so the URL would be obviously wrong&quot;: The average user have no idea that an URL could be &quot;wrong&quot;.')
+Item(by='faeyanpiraat', descendants=None, kids=[25565640], score=None, time=1609179582, title=None, item_type='comment', url=None, parent=25559655, text='&quot;so the URL would be obviously wrong&quot;: The average user have no idea that an URL could be &quot;wrong&quot;.')

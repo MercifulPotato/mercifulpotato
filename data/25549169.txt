@@ -1,1 +1,1 @@
-Item(by='Thevet', descendants=0, kids=None, score=1, time=1609048347, title='The Great Migration Mystery', item_type='story', url='https://www.historytoday.com/archive/natural-histories/great-migration-mystery', parent=None, text=None)
+Item(by='Thevet', descendants=1, kids=[25563308], score=12, time=1609048347, title='The Great Migration Mystery', item_type='story', url='https://www.historytoday.com/archive/natural-histories/great-migration-mystery', parent=None, text=None)

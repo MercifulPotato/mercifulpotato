@@ -1,0 +1,1 @@
+Item(by='Thorrez', descendants=None, kids=None, score=None, time=1609207436, title=None, item_type='comment', url=None, parent=25561471, text='This seems a bit different than clickjacking to me. In CJ, the  victim performs sensitive actions because the UI is obscured. Here the UI is unobscured, and the user performs actions that should be fairly unsensitive.')

@@ -1,0 +1,1 @@
+Item(by='zapita', descendants=None, kids=[25563659], score=None, time=1609188539, title=None, item_type='comment', url=None, parent=25550437, text='But does Docker for Mac give unlimited access to the host’s usb bus like GP claims? I don’t see any evidence that it’s true, and the mistaken claim that d4m uses virtualbox increases my skepticism.')

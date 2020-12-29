@@ -1,1 +1,1 @@
-Item(by='myself248', descendants=None, kids=None, score=None, time=1609166134, title=None, item_type='comment', url=None, parent=25556911, text='Where does it say T1? Everything I can find on the page says E1 only.')
+Item(by='myself248', descendants=None, kids=[25563052, 25562672], score=None, time=1609166134, title=None, item_type='comment', url=None, parent=25556911, text='Where does it say T1? Everything I can find on the page says E1 only.')
