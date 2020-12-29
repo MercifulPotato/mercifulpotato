@@ -1,0 +1,1 @@
+Item(by='ulucs', descendants=None, kids=[25569080], score=None, time=1609231615, title=None, item_type='comment', url=None, parent=25567211, text='Just using parenthesis is enough for wrapping:<p><pre><code>    &gt; 0.toString()\n    Thrown:\n    0.toString()\n    ^^\n    \n    SyntaxError: Invalid or unexpected token\n    &gt; (0).toString()\n    &#x27;0&#x27;</code></pre>')

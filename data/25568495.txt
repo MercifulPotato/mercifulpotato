@@ -1,0 +1,1 @@
+Item(by='aarroyoc', descendants=None, kids=None, score=None, time=1609237511, title=None, item_type='comment', url=None, parent=25564572, text='Some of the things you say can already be achieved with Prolog DCGs, which are more or less like pattern matching over lists (usually lists of chars, but not needed).')

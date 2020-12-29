@@ -1,1 +1,1 @@
-Item(by='e40', descendants=None, kids=None, score=None, time=1609230073, title=None, item_type='comment', url=None, parent=25567287, text='I&#x27;ve had my dotfiles in git for 7+ years.  Work on Windows, Linux and macOS.  Conditionalization in BASH is dead simple.')
+Item(by='e40', descendants=None, kids=[25569740], score=None, time=1609230073, title=None, item_type='comment', url=None, parent=25567287, text='I&#x27;ve had my dotfiles in git for 7+ years.  Work on Windows, Linux and macOS.  Conditionalization in BASH is dead simple.<p>EDIT: 12+ years at work.')

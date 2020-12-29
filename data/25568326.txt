@@ -1,0 +1,1 @@
+Item(by='jcelerier', descendants=None, kids=[25568380, 25568666], score=None, time=1609235807, title=None, item_type='comment', url=None, parent=25567531, text='&gt;  But in computer science there is another common definition which involves side effects not being repeated (that is, `f(); f();` is the same as `f();`).<p>where have you ever seen that definition ?!')

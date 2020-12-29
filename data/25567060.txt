@@ -1,1 +1,1 @@
-Item(by='mch82', descendants=None, kids=None, score=None, time=1609220159, title=None, item_type='comment', url=None, parent=25565342, text='There’s probably something to be learned from how Mexico processes &amp; reuses glass soda bottles (assuming they still do).')
+Item(by='mch82', descendants=None, kids=[25568406], score=None, time=1609220159, title=None, item_type='comment', url=None, parent=25565342, text='There’s probably something to be learned from how Mexico processes &amp; reuses glass soda bottles (assuming they still do).')

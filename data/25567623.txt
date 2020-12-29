@@ -1,1 +1,1 @@
-Item(by='vmception', descendants=None, kids=None, score=None, time=1609227238, title=None, item_type='comment', url=None, parent=25567169, text='<i>weeps in dense high cost of living area</i>')
+Item(by='vmception', descendants=None, kids=[25569421], score=None, time=1609227238, title=None, item_type='comment', url=None, parent=25567169, text='<i>weeps in dense high cost of living area</i>')

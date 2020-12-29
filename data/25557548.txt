@@ -1,1 +1,1 @@
-Item(by='lmm', descendants=None, kids=None, score=None, time=1609142272, title=None, item_type='comment', url=None, parent=25553578, text='I&#x27;d pay for Trello, though I&#x27;m sure they&#x27;ll ruin it soon.<p>I&#x27;d take a pay cut to never have to use JIRA again.')
+Item(by='lmm', descendants=None, kids=[25569086], score=None, time=1609142272, title=None, item_type='comment', url=None, parent=25553578, text='I&#x27;d pay for Trello, though I&#x27;m sure they&#x27;ll ruin it soon.<p>I&#x27;d take a pay cut to never have to use JIRA again.')

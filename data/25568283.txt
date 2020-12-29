@@ -1,0 +1,1 @@
+Item(by='Schiphol', descendants=None, kids=[25568317], score=None, time=1609235428, title=None, item_type='comment', url=None, parent=25568228, text='The usual matrix notation is a_ij for the element in the ith row and the jth column. If you order axes in this way you get the numpy convention.')

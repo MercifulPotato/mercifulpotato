@@ -1,1 +1,1 @@
-Item(by='noisy_boy', descendants=None, kids=None, score=None, time=1609219531, title=None, item_type='comment', url=None, parent=25566652, text='Does this mean Bucatini shortage is a good indicator of wide-spread issues? Seems like its time for Bucatini index.')
+Item(by='noisy_boy', descendants=None, kids=[25569552], score=None, time=1609219531, title=None, item_type='comment', url=None, parent=25566652, text='Does this mean Bucatini shortage is a good indicator of wide-spread issues? Seems like its time for Bucatini index.')

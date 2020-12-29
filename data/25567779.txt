@@ -1,1 +1,1 @@
-Item(by='Mauricebranagh', descendants=None, kids=None, score=None, time=1609229590, title=None, item_type='comment', url=None, parent=25567507, text='Now it turns out that kids at school are spreaders (especially of the new variant)  - one of my friends who is a teacher has it.')
+Item(by='Mauricebranagh', descendants=None, kids=[25567920], score=None, time=1609229590, title=None, item_type='comment', url=None, parent=25567507, text='Now it turns out that kids at school are spreaders (especially of the new variant)  - one of my friends who is a teacher has it.')

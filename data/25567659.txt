@@ -1,1 +1,1 @@
-Item(by='pdkl95', descendants=0, kids=None, score=1, time=1609227845, title='CIA vs. WikiLeaks: Intimiditation surveillance and tactics observed/experienced', item_type='story', url='https://media.ccc.de/v/rc3-11512-cia_vs_wikileaks', parent=None, text=None)
+Item(by='pdkl95', descendants=44, kids=[25568831, 25569362, 25569339, 25568926, 25569066, 25569358, 25569855, 25569288, 25569296], score=144, time=1609227845, title='CIA vs. Wikileaks [video]', item_type='story', url='https://media.ccc.de/v/rc3-11512-cia_vs_wikileaks', parent=None, text=None)

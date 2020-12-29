@@ -1,0 +1,1 @@
+Item(by='CUViper', descendants=None, kids=None, score=None, time=1609230708, title=None, item_type='comment', url=None, parent=25566786, text='I do it with a renamed `.git` and a bash alias `githome` that points `git` to the right place. This way it doesn&#x27;t look like my home is a repo in normal use.')

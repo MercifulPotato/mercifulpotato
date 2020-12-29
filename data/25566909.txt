@@ -1,1 +1,1 @@
-Item(by='msaltz', descendants=0, kids=None, score=3, time=1609218090, title='Negative Capability', item_type='story', url='https://en.wikipedia.org/wiki/Negative_capability', parent=None, text=None)
+Item(by='msaltz', descendants=1, kids=[25567743], score=4, time=1609218090, title='Negative Capability', item_type='story', url='https://en.wikipedia.org/wiki/Negative_capability', parent=None, text=None)

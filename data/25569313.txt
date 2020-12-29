@@ -1,0 +1,1 @@
+Item(by='z3t4', descendants=None, kids=None, score=None, time=1609246692, title=None, item_type='comment', url=None, parent=25564666, text='Under what circumstance do you end up with a negative array index? Eg. Why do you omit bound checks?\nAnd should accessing any gap in an array result in error, and why are there gaps in the array?')

@@ -1,0 +1,1 @@
+Item(by='geokon', descendants=None, kids=[25569888], score=None, time=1609250680, title=None, item_type='comment', url=None, parent=25568181, text='In case you see this `bbatsov` - do you ever consider writing your own editor? I feel an Emacs-like modular editor written in Clojure (maybe without the funky 80s shortcuts) is the next step :)')

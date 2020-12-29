@@ -1,1 +1,1 @@
-Item(by='ogre_codes', descendants=None, kids=None, score=None, time=1609203745, title=None, item_type='comment', url=None, parent=25565168, text='Pointing out a colossal failing of ML based facial recognition is the point of the article. Without that failure, there is no story here.')
+Item(by='ogre_codes', descendants=None, kids=[25567868], score=None, time=1609203745, title=None, item_type='comment', url=None, parent=25565168, text='Pointing out a colossal failing of ML based facial recognition is the point of the article. Without that failure, there is no story here.')

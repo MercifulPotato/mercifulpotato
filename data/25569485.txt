@@ -1,0 +1,1 @@
+Item(by='Pinus', descendants=None, kids=None, score=None, time=1609248061, title=None, item_type='comment', url=None, parent=25567658, text='A type can&#x27;t implement its own &#x27;and&#x27; and &#x27;or&#x27; operators. (Probably because it is non-obvious how to handle their short-circuiting behaviour.)')

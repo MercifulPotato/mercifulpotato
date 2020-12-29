@@ -1,1 +1,1 @@
-Item(by='nathanyz', descendants=0, kids=None, score=2, time=1609222920, title='Wasabi outage due to GoDaddy revoking their domain', item_type='story', url='https://status.wasabi.com/', parent=None, text=None)
+Item(by='nathanyz', descendants=4, kids=[25568842, 25568012], score=5, time=1609222920, title='Wasabi outage due to GoDaddy revoking their domain', item_type='story', url='https://status.wasabi.com/', parent=None, text=None)

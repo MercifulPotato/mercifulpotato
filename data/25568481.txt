@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=[25569796], score=None, time=1609237417, title=None, item_type='comment', url=None, parent=25562263, text='Note that on ARM it is more annoying to get CPU capabilities as there is no straight cpuid equivalent.')

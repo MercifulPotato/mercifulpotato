@@ -1,0 +1,1 @@
+Item(by='ameliaquining', descendants=None, kids=None, score=None, time=1609252187, title=None, item_type='comment', url=None, parent=25568358, text='Nitpick: IE11&#x27;s implementation of Map isn&#x27;t iterable, which makes it largely useless for practical purposes. Real-world codebases that use Map and care about running on IE11 polyfill it.')

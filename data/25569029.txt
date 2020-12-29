@@ -1,0 +1,1 @@
+Item(by='imadr', descendants=None, kids=None, score=None, time=1609244189, title=None, item_type='comment', url=None, parent=25568843, text='I would add that using an existing engine rendering pipeline with shaders is way easier that rolling your own.\nMaking a small software renderer from scratch is a very good way to get a good grasp on how game engines work internally.')

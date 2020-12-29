@@ -1,1 +1,1 @@
-Item(by='azhenley', descendants=0, kids=None, score=3, time=1609207116, title='Type Theory for All: Bringing Programming Languages Research Outside Academia', item_type='story', url='https://typetheoryforall.com/', parent=None, text=None)
+Item(by='azhenley', descendants=1, kids=[25569788], score=4, time=1609207116, title='Type Theory for All: Bringing Programming Languages Research Outside Academia', item_type='story', url='https://typetheoryforall.com/', parent=None, text=None)

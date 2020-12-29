@@ -1,1 +1,1 @@
-Item(by='yarcob', descendants=None, kids=None, score=None, time=1609224784, title=None, item_type='comment', url=None, parent=25567279, text='I think the graphite iMac DV special edition was the most beautiful computer ever made.')
+Item(by='yarcob', descendants=None, kids=[25568177], score=None, time=1609224784, title=None, item_type='comment', url=None, parent=25567279, text='I think the graphite iMac DV special edition was the most beautiful computer ever made.')

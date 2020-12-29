@@ -1,1 +1,1 @@
-Item(by='niels_bom', descendants=14, kids=[25565559, 25565576, 25566473, 25567121], score=91, time=1609194020, title='Niex: Jupyter Notebooks but Using Elixir', item_type='story', url='https://github.com/jonklein/niex', parent=None, text=None)
+Item(by='niels_bom', descendants=21, kids=[25565559, 25565576, 25568286, 25566473, 25567121, 25569512], score=122, time=1609194020, title='Niex: Jupyter Notebooks but Using Elixir', item_type='story', url='https://github.com/jonklein/niex', parent=None, text=None)

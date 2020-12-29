@@ -1,1 +1,1 @@
-Item(by='lnguyen', descendants=0, kids=None, score=5, time=1609213627, title='Japan developing wooden satellites to cut space junk', item_type='story', url='https://www.bbc.co.uk/news/business-55463366', parent=None, text=None)
+Item(by='lnguyen', descendants=5, kids=[25568705, 25568582, 25569042, 25567787], score=13, time=1609213627, title='Japan developing wooden satellites to cut space junk', item_type='story', url='https://www.bbc.co.uk/news/business-55463366', parent=None, text=None)
