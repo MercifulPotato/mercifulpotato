@@ -1,1 +1,1 @@
-Item(by='moonbug', descendants=None, kids=None, score=None, time=1609290073, title=None, item_type='comment', url=None, parent=25576709, text='As a trademark holder, you have to make reasonable attempts to protect it, or you risk losing it.')
+Item(by='moonbug', descendants=None, kids=[25578019], score=None, time=1609290073, title=None, item_type='comment', url=None, parent=25576709, text='As a trademark holder, you have to make reasonable attempts to protect it, or you risk losing it.')

@@ -1,1 +1,1 @@
-Item(by='grecy', descendants=None, kids=None, score=None, time=1609283462, title=None, item_type='comment', url=None, parent=25575276, text='The only crashes were stationary vehicles get hit are because the vehicle that hits them can&#x27;t stop.')
+Item(by='grecy', descendants=None, kids=[25578729], score=None, time=1609283462, title=None, item_type='comment', url=None, parent=25575276, text='The only crashes were stationary vehicles get hit are because the vehicle that hits them can&#x27;t stop.')

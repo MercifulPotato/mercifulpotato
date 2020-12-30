@@ -1,1 +1,1 @@
-Item(by='xyst', descendants=None, kids=None, score=None, time=1609290311, title=None, item_type='comment', url=None, parent=25576893, text='by using physical cash')
+Item(by='xyst', descendants=None, kids=[25579051], score=None, time=1609290311, title=None, item_type='comment', url=None, parent=25576893, text='by using physical cash')

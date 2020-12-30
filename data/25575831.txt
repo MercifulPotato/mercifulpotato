@@ -1,1 +1,1 @@
-Item(by='mooreds', descendants=2, kids=[25576229, 25576194, 25576565], score=35, time=1609280855, title='Ruby 3.0 Changes', item_type='story', url='https://rubyreferences.github.io/rubychanges/3.0.html', parent=None, text=None)
+Item(by='mooreds', descendants=4, kids=[25576229, 25576194, 25576565], score=35, time=1609280855, title='Ruby 3.0 Changes', item_type='story', url='https://rubyreferences.github.io/rubychanges/3.0.html', parent=None, text=None)

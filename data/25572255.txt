@@ -1,1 +1,1 @@
-Item(by='raghav_nautiyal', descendants=0, kids=None, score=1, time=1609263199, title='Show HN: A new way to share and collaborate on links', item_type='story', url='https://seelink.app', parent=None, text=None)
+Item(by='raghav_nautiyal', descendants=1, kids=[25579376], score=1, time=1609263199, title='Show HN: A new way to share and collaborate on links', item_type='story', url='https://seelink.app', parent=None, text=None)

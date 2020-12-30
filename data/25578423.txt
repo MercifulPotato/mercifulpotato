@@ -1,0 +1,1 @@
+Item(by='Dagger2', descendants=None, kids=None, score=None, time=1609301536, title=None, item_type='comment', url=None, parent=25570025, text='It was. Kubernetes should have been native v6-only from the start, with inbound v4 connections being handled by reverse proxies. Would&#x27;ve simplified the whole thing a bunch.')

@@ -1,1 +1,1 @@
-Item(by='AnimalMuppet', descendants=None, kids=None, score=None, time=1609277149, title=None, item_type='comment', url=None, parent=25575038, text='The domain name doesn&#x27;t give me a clue that it&#x27;s about physics, instead of, say, sociology or something.')
+Item(by='AnimalMuppet', descendants=None, kids=[25578210], score=None, time=1609277149, title=None, item_type='comment', url=None, parent=25575038, text='The domain name doesn&#x27;t give me a clue that it&#x27;s about physics, instead of, say, sociology or something.')

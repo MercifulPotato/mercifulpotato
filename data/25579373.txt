@@ -1,0 +1,1 @@
+Item(by='lisper', descendants=None, kids=[25579614], score=None, time=1609312245, title=None, item_type='comment', url=None, parent=25579140, text='I actually think it would be possible to use Linux as a core and build a reasonable userland on top of it, just like MacOS did with Darwin.  But it would be a boatload of work.')

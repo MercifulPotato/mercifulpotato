@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=None, kids=None, score=None, time=1609307902, title=None, item_type='comment', url=None, parent=25570377, text='A fully peer-to-peer network is arguably how the IPv4 internet still works, as hosts behind NAT are not really part of it. But of course it hurts the network effect when fewer users are on the network proper.')

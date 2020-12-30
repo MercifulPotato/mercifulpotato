@@ -1,1 +1,1 @@
-Item(by='2fast4you', descendants=None, kids=None, score=None, time=1609296182, title=None, item_type='comment', url=None, parent=25577647, text='Can you maybe expand on that? Why aren’t those words true?')
+Item(by='2fast4you', descendants=None, kids=[25579269], score=None, time=1609296182, title=None, item_type='comment', url=None, parent=25577647, text='Can you maybe expand on that? Why aren’t those words true?')

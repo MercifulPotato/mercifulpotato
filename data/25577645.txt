@@ -1,1 +1,1 @@
-Item(by='vmmenon', descendants=None, kids=None, score=None, time=1609294975, title=None, item_type='comment', url=None, parent=25577511, text='if you had to recommend one book, which would it be for someone starting off with graphics for the first time.')
+Item(by='vmmenon', descendants=None, kids=[25578725, 25578415], score=None, time=1609294975, title=None, item_type='comment', url=None, parent=25577511, text='if you had to recommend one book, which would it be for someone starting off with graphics for the first time.')

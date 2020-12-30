@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=None, score=None, time=1609315407, title=None, item_type='comment', url=None, parent=25579322, text='They could change the NS to point to the attacker&#x27;s server. That one would respond to the MX queries with the new hostname and forward everything else to the original DNS server, ensuring no other differences are noticed.')

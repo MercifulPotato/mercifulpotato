@@ -1,1 +1,1 @@
-Item(by='mandreyel', descendants=2, kids=[25575056, 25573227], score=11, time=1609262084, title='Writing a BitTorrent engine in Rust', item_type='story', url='https://mandreyel.github.io/posts/rust-bittorrent-engine/', parent=None, text=None)
+Item(by='mandreyel', descendants=2, kids=[25575056, 25573227], score=22, time=1609262084, title='Writing a BitTorrent engine in Rust', item_type='story', url='https://mandreyel.github.io/posts/rust-bittorrent-engine/', parent=None, text=None)

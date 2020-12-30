@@ -1,1 +1,1 @@
-Item(by='rvba', descendants=None, kids=None, score=None, time=1609243388, title=None, item_type='comment', url=None, parent=25567163, text='How is Boeing Max safe for Americans but it crashes elsewhere?')
+Item(by='rvba', descendants=None, kids=[25578330, 25578521], score=None, time=1609243388, title=None, item_type='comment', url=None, parent=25567163, text='How is Boeing Max safe for Americans but it crashes elsewhere?')

@@ -1,1 +1,1 @@
-Item(by='olliej', descendants=None, kids=None, score=None, time=1609298280, title=None, item_type='comment', url=None, parent=25576113, text='This is the most dodgy looking “enter your CC info” site to ever exist.<p>I can’t imagine why &#x2F;s')
+Item(by='olliej', descendants=None, kids=[25579102], score=None, time=1609298280, title=None, item_type='comment', url=None, parent=25576113, text='This is the most dodgy looking “enter your CC info” site to ever exist.<p>I can’t imagine why &#x2F;s')
