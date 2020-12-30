@@ -1,1 +1,1 @@
-Item(by='user-the-name', descendants=None, kids=None, score=None, time=1609200627, title=None, item_type='comment', url=None, parent=25563139, text='If they make money from the App Store, why would they want to hobble the software in the App Store?')
+Item(by='user-the-name', descendants=None, kids=[25585557], score=None, time=1609200627, title=None, item_type='comment', url=None, parent=25563139, text='If they make money from the App Store, why would they want to hobble the software in the App Store?')

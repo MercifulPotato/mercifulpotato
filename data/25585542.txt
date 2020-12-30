@@ -1,0 +1,1 @@
+Item(by='rbanffy', descendants=None, kids=None, score=None, time=1609359251, title=None, item_type='comment', url=None, parent=25585118, text='I recommend HTTPS because it&#x27;s easy to simulate and well understood. Also I like human-readable payloads.<p>Unless you need ridiculously low latencies and ridiculously high volume, you shouldn&#x27;t worry at all.')

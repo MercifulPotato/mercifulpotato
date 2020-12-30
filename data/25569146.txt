@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=3, time=1609245393, title='Getting Started in BBC Basic', item_type='story', url='https://www.bbcmicrobot.com/learn/index.html', parent=None, text=None)
+Item(by='ingve', descendants=24, kids=[25581256, 25582418, 25582312, 25581020, 25585661, 25581240], score=67, time=1609245393, title='Getting Started in BBC Basic', item_type='story', url='https://www.bbcmicrobot.com/learn/index.html', parent=None, text=None)

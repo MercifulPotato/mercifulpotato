@@ -1,0 +1,1 @@
+Item(by='stephenr', descendants=None, kids=[25584573], score=None, time=1609353380, title=None, item_type='comment', url=None, parent=25580724, text='TIL relying on a bunch of boilerplate “typeof o.prop” checks is “clean, elegant, expressive code”, while knowing implicitly that o.prop is always an integer is not?')

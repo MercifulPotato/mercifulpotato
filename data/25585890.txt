@@ -1,0 +1,1 @@
+Item(by='kitotik', descendants=None, kids=None, score=None, time=1609361158, title=None, item_type='comment', url=None, parent=25584975, text='In my experience using the userspace daemon on both BSD and macOS there was increased cpu overhead and slightly higher network latency compared to Linux with a module or built in.')

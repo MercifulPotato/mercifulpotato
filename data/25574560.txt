@@ -1,1 +1,1 @@
-Item(by='KamiCrit', descendants=None, kids=None, score=None, time=1609274014, title=None, item_type='comment', url=None, parent=25573365, text='I wonder if battlefields of the future will feature kamikaze bug drones.')
+Item(by='KamiCrit', descendants=None, kids=[25581078], score=None, time=1609274014, title=None, item_type='comment', url=None, parent=25573365, text='I wonder if battlefields of the future will feature kamikaze bug drones.')

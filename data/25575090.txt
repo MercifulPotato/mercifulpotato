@@ -1,1 +1,1 @@
-Item(by='seangrogg', descendants=None, kids=None, score=None, time=1609276368, title=None, item_type='comment', url=None, parent=25574274, text='There&#x27;s evidence of academic stress leading to suicide. Does that infer a causal link between academia and violence?')
+Item(by='seangrogg', descendants=None, kids=[25580055], score=None, time=1609276368, title=None, item_type='comment', url=None, parent=25574274, text='There&#x27;s evidence of academic stress leading to suicide. Does that infer a causal link between academia and violence?')

@@ -1,0 +1,1 @@
+Item(by='tom_mellior', descendants=None, kids=None, score=None, time=1609328231, title=None, item_type='comment', url=None, parent=25580626, text='The STL&#x27;s complexity requirements pretty much dictate a balanced binary search tree as the underlying representation for map and set. The choice then is essentially between red-black trees and AVL trees.')

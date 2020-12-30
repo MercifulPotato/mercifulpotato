@@ -1,1 +1,1 @@
-Item(by='extropy', descendants=None, kids=[25574419, 25574611, 25574922], score=None, time=1609272614, title=None, item_type='comment', url=None, parent=25573969, text='Gecko is old and, while still in use, is being actively replaced by Servo for last 3 years.')
+Item(by='extropy', descendants=None, kids=[25574419, 25574922, 25574611], score=None, time=1609272614, title=None, item_type='comment', url=None, parent=25573969, text='Gecko is old and, while still in use, is being actively replaced by Servo for last 3 years.')

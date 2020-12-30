@@ -1,0 +1,1 @@
+Item(by='triska', descendants=None, kids=None, score=None, time=1609354811, title=None, item_type='comment', url=None, parent=25584709, text='The answers show how to use Prolog to construct a Scheme quine.<p>Iterative deepening and built-in Prolog mechanisms for parsing are used to elegantly solve this search problem in a few lines of code.')

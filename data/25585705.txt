@@ -1,0 +1,1 @@
+Item(by='GraemeMeyer', descendants=None, kids=None, score=None, time=1609360207, title=None, item_type='comment', url=None, parent=25585340, text='Performance is fine for me in Firefox, but it is using 3x the CPU of Edgeium, and more RAM, so I would guess the GPU acceleration isn&#x27;t working in FF')

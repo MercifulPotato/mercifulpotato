@@ -1,0 +1,1 @@
+Item(by='dal', descendants=None, kids=[25580989, 25582191], score=None, time=1609321251, title=None, item_type='comment', url=None, parent=25578451, text='No, this can be done in the loadbalancer before any application. You can load balance on L7. This would be a trivial thing.')

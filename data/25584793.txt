@@ -1,0 +1,1 @@
+Item(by='ashish01', descendants=None, kids=None, score=None, time=1609354992, title=None, item_type='comment', url=None, parent=25584677, text='You can limit the numbers pf concurrent calls using a semaphore and acquiring it before making a http request.')

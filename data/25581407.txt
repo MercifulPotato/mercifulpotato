@@ -1,0 +1,1 @@
+Item(by='mellavora', descendants=None, kids=None, score=None, time=1609334469, title=None, item_type='comment', url=None, parent=25580937, text='rand() + rand() does not produce normal, but adding together a few thousand rands does start to approach it. Central limit theorem.')

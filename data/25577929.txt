@@ -1,1 +1,1 @@
-Item(by='michaelrpeskin', descendants=None, kids=None, score=None, time=1609297066, title=None, item_type='comment', url=None, parent=25572765, text='+1 for mentioning IDL. I’ve always thought that was the best native array based language.')
+Item(by='michaelrpeskin', descendants=None, kids=[25583111], score=None, time=1609297066, title=None, item_type='comment', url=None, parent=25572765, text='+1 for mentioning IDL. I’ve always thought that was the best native array based language.')

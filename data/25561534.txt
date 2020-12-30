@@ -1,1 +1,1 @@
-Item(by='lermontov', descendants=0, kids=None, score=2, time=1609179478, title='Unmasking Graham Greene', item_type='story', url='https://www.newstatesman.com/Russian-roulette-life-times-graham-greene-new-biography-richard-review', parent=None, text=None)
+Item(by='lermontov', descendants=19, kids=[25582477, 25585239, 25582465], score=40, time=1609179478, title='Unmasking Graham Greene', item_type='story', url='https://www.newstatesman.com/Russian-roulette-life-times-graham-greene-new-biography-richard-review', parent=None, text=None)

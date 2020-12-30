@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=2, time=1609246058, title='The Defold engine code overview', item_type='story', url='https://defold.com/2020/12/27/engine-overview-pt1/', parent=None, text=None)
+Item(by='ingve', descendants=5, kids=[25584962, 25584308, 25584844, 25584634], score=25, time=1609246058, title='Defold engine code overview', item_type='story', url='https://defold.com/2020/12/27/engine-overview-pt1/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='zackees', descendants=None, kids=None, score=None, time=1609349894, title=None, item_type='comment', url=None, parent=25581326, text='With intrusive you can remove from the list in constant time  from the object itself.<p>With std::list you need to find the iterate to the node before you can delete it.')

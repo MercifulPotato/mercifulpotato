@@ -1,0 +1,1 @@
+Item(by='as-j', descendants=None, kids=None, score=None, time=1609357193, title=None, item_type='comment', url=None, parent=25585083, text='MQTT doesn’t specify the payload format. You can easily have a topic with the data in protobuf and another with json.')

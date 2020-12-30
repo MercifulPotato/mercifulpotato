@@ -1,0 +1,1 @@
+Item(by='kortilla', descendants=None, kids=None, score=None, time=1609330815, title=None, item_type='comment', url=None, parent=25580775, text='Go doesn’t solve scaling issues in any meaningful sense. At most it’s just some constant factor reduction in required severs compared to python&#x2F;ruby&#x2F;whatever interpreted thing it usually replaces.')

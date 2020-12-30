@@ -1,1 +1,1 @@
-Item(by='kjs3', descendants=None, kids=None, score=None, time=1609288784, title=None, item_type='comment', url=None, parent=25574965, text='Says every bad developer ever.')
+Item(by='kjs3', descendants=None, kids=[25580445], score=None, time=1609288784, title=None, item_type='comment', url=None, parent=25574965, text='Says every bad developer ever.')

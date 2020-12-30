@@ -1,1 +1,1 @@
-Item(by='yurishimo', descendants=None, kids=None, score=None, time=1609308687, title=None, item_type='comment', url=None, parent=25575801, text='You obviously didn&#x27;t go to a school with metal detectors...')
+Item(by='yurishimo', descendants=None, kids=[25581205], score=None, time=1609308687, title=None, item_type='comment', url=None, parent=25575801, text='You obviously didn&#x27;t go to a school with metal detectors...')

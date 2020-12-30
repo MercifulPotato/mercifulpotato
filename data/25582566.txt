@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=[25585603], score=None, time=1609342823, title=None, item_type='comment', url=None, parent=25582494, text='of course it is possible to use boost intrusive without inheritance: it supports both hooks as base and hooks as members.')

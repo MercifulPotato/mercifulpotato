@@ -1,0 +1,1 @@
+Item(by='ric2b', descendants=None, kids=None, score=None, time=1609347578, title=None, item_type='comment', url=None, parent=25580920, text='It does take quite a while to load though, is there a way to improve it, maybe with some caching on the server since the query is static?')

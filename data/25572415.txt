@@ -1,1 +1,1 @@
-Item(by='ISL', descendants=None, kids=None, score=None, time=1609263881, title=None, item_type='comment', url=None, parent=25569150, text='As long as the microcontroller has a sleep mode, you can use a relay (for-real or solid-state) to toggle the power for the display.')
+Item(by='ISL', descendants=None, kids=[25581942], score=None, time=1609263881, title=None, item_type='comment', url=None, parent=25569150, text='As long as the microcontroller has a sleep mode, you can use a relay (for-real or solid-state) to toggle the power for the display.')

@@ -1,0 +1,1 @@
+Item(by='bpodgursky', descendants=None, kids=None, score=None, time=1609348742, title=None, item_type='comment', url=None, parent=25582641, text='This is a huge one.  If PyCharm is indexing one of your PyPi or  NPM caches, the memory footprint dwarfs your active code by orders of magnitude.')

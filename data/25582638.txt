@@ -1,0 +1,1 @@
+Item(by='krzyk', descendants=None, kids=None, score=None, time=1609343273, title=None, item_type='comment', url=None, parent=25582183, text='Yes, they ship custom JDK (BTW. This is now expected of all Java apps - jlink and lack of JRE since version 11) so they need to ship JDK that is Aarch64')

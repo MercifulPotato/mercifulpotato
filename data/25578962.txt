@@ -1,1 +1,1 @@
-Item(by='enw', descendants=None, kids=None, score=None, time=1609307174, title=None, item_type='comment', url=None, parent=25577792, text='&gt; To opt-out from our anonymization of your personal information<p>Doesn’t opting <i>out</i> from anonymization mean opting in for PII?')
+Item(by='enw', descendants=None, kids=[25579844], score=None, time=1609307174, title=None, item_type='comment', url=None, parent=25577792, text='&gt; To opt-out from our anonymization of your personal information<p>Doesn’t opting <i>out</i> from anonymization mean opting in for PII?')

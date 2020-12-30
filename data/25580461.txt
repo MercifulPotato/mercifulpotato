@@ -1,0 +1,1 @@
+Item(by='glouwbug', descendants=None, kids=[25580626], score=None, time=1609324054, title=None, item_type='comment', url=None, parent=25580396, text='Sets (and maps) are implemented as red black trees in the STL. The STL unordered_set (and unordered_map) is what I believe Java would call a HashMap, unless I am mistaken (I am not a Java guru).')

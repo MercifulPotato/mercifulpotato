@@ -1,0 +1,1 @@
+Item(by='pw6hv', descendants=None, kids=None, score=None, time=1609343249, title=None, item_type='comment', url=None, parent=25581282, text='Vim&#x27;s default behavior is to put two spaces after a period when reformatting (for example with gq).<p>If you prefer to keep one space instead of two you can use:<p><pre><code>  set nojoinspaces</code></pre>')

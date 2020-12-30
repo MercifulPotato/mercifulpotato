@@ -1,0 +1,1 @@
+Item(by='CrazyStat', descendants=None, kids=[25582195, 25582210], score=None, time=1609339953, title=None, item_type='comment', url=None, parent=25582049, text='Several years ago I started putting every sentence on a new line when I write LaTeX, as it makes diffs cleaner if I want to go back and compare versions of a document.')

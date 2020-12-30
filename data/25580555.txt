@@ -1,0 +1,1 @@
+Item(by='consp', descendants=None, kids=[25580801], score=None, time=1609324984, title=None, item_type='comment', url=None, parent=25580274, text='I&#x27;ve worked with TI BLE chips which were 8051 variants. Took me back to original CS classes as it is a very simple core with limited registers but can still be used to perform all the bluetooth functions.')

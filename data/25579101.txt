@@ -1,1 +1,1 @@
-Item(by='illiniboy', descendants=None, kids=None, score=None, time=1609308975, title=None, item_type='comment', url=None, parent=25577996, text='Will 2FA and having a customer support PIN set up prevent this hijacking with GoDaddy?')
+Item(by='illiniboy', descendants=None, kids=[25583536], score=None, time=1609308975, title=None, item_type='comment', url=None, parent=25577996, text='Will 2FA and having a customer support PIN set up prevent this hijacking with GoDaddy?')

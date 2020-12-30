@@ -1,1 +1,1 @@
-Item(by='tux', descendants=2, kids=[25579585, 25579427], score=2, time=1609312855, title='Death to 2020', item_type='story', url='https://www.imdb.com/title/tt13567480/', parent=None, text=None)
+Item(by='tux', descendants=3, kids=[25579427, 25579585, 25579647], score=2, time=1609312855, title='Death to 2020', item_type='story', url='https://www.imdb.com/title/tt13567480/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='misja111', descendants=None, kids=[25585691, 25582724], score=None, time=1609341884, title=None, item_type='comment', url=None, parent=25582165, text='Most of the features that you point out are IO bound. E.g. indexing dependencies, navigating&#x2F; searching files. Are you sure that the speed up is because of the new IDE release and not because of a new laptop?')

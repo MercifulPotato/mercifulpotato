@@ -1,1 +1,1 @@
-Item(by='zymhan', descendants=None, kids=None, score=None, time=1609304712, title=None, item_type='comment', url=None, parent=25578678, text='You should look up the Consumer Financial Protection Bureau')
+Item(by='zymhan', descendants=None, kids=[25582189], score=None, time=1609304712, title=None, item_type='comment', url=None, parent=25578678, text='You should look up the Consumer Financial Protection Bureau')

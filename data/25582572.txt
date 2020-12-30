@@ -1,0 +1,1 @@
+Item(by='Tuna-Fish', descendants=None, kids=None, score=None, time=1609342864, title=None, item_type='comment', url=None, parent=25582132, text='IDEA contains a JRE which has a JIT compiler. This is of course entirely cpu-specific, so had to be completely redone. OFC, ARM JITs for java already existed so they just had to ship to one of those.')

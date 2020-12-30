@@ -1,0 +1,1 @@
+Item(by='axi1', descendants=None, kids=None, score=None, time=1609319279, title=None, item_type='comment', url=None, parent=25571304, text='As a sidenote, I don&#x27;t write &quot;import numpy as np&quot; in jupyter notebooks (at least as long as I don&#x27;t share them with others) for I have this line in my ipython startup file.')

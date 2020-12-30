@@ -1,1 +1,1 @@
-Item(by='jarkhen', descendants=None, kids=None, score=None, time=1609305351, title=None, item_type='comment', url=None, parent=25573255, text='Was there no concern about an attacker being able to -read- the contents, as well?')
+Item(by='jarkhen', descendants=None, kids=[25581143], score=None, time=1609305351, title=None, item_type='comment', url=None, parent=25573255, text='Was there no concern about an attacker being able to -read- the contents, as well?')

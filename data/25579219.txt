@@ -1,1 +1,1 @@
-Item(by='Marsymars', descendants=None, kids=None, score=None, time=1609310188, title=None, item_type='comment', url=None, parent=25577761, text='I&#x27;ve found it easier to use NextDNS rather than maintaining a Pi-hole and routing everything through my home connection.')
+Item(by='Marsymars', descendants=None, kids=[25580682], score=None, time=1609310188, title=None, item_type='comment', url=None, parent=25577761, text='I&#x27;ve found it easier to use NextDNS rather than maintaining a Pi-hole and routing everything through my home connection.')

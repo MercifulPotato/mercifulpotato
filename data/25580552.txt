@@ -1,0 +1,1 @@
+Item(by='lmilcin', descendants=None, kids=[25581011, 25580813], score=None, time=1609324936, title=None, item_type='comment', url=None, parent=25580491, text='No, not really. The STM32s I use (I mainly work with Cortex-M4) have internal resonators that are enough for just about anything unless you need precise timing. Certainly good enough for toothbrush.')

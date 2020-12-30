@@ -1,0 +1,1 @@
+Item(by='ognarb', descendants=None, kids=[25583342], score=None, time=1609329375, title=None, item_type='comment', url=None, parent=25579332, text='Hiding the comments under a button was mostly because I wanted to limit to the maximum the number of request going to the mastodon server. But this has also the nice side effect of only loading them, if you need them.')

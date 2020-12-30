@@ -1,0 +1,1 @@
+Item(by='adamnemecek', descendants=None, kids=None, score=None, time=1609358263, title=None, item_type='comment', url=None, parent=25584786, text='It’s not just optimization but also correctness. You really don’t want do a bit wise copy of say a file descriptor.')

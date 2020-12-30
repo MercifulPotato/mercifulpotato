@@ -1,0 +1,1 @@
+Item(by='notagoodidea', descendants=None, kids=None, score=None, time=1609321306, title=None, item_type='comment', url=None, parent=25575223, text='I found that the &quot;one right way&quot; python&#x27;s mantra fall apart when it comes to pandas and numpy. Those libraries must be seen as DSL on top of the language IMHO.')

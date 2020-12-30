@@ -1,1 +1,1 @@
-Item(by='winrid', descendants=None, kids=None, score=None, time=1609289438, title=None, item_type='comment', url=None, parent=25573724, text='Hopefully without sounding rude - what&#x27;s the experiment exactly?')
+Item(by='winrid', descendants=None, kids=[25580789], score=None, time=1609289438, title=None, item_type='comment', url=None, parent=25573724, text='Hopefully without sounding rude - what&#x27;s the experiment exactly?')

@@ -1,1 +1,1 @@
-Item(by='prox', descendants=0, kids=None, score=1, time=1609246479, title='Perspectives in Numismatics – Jetons:their use and history (1986)', item_type='story', url='http://www.chicagocoinclub.org/projects/PiN/juh.html', parent=None, text=None)
+Item(by='prox', descendants=6, kids=[25582709, 25582721, 25581876], score=26, time=1609246479, title='Jetons: Their Use and History (1986)', item_type='story', url='http://www.chicagocoinclub.org/projects/PiN/juh.html', parent=None, text=None)

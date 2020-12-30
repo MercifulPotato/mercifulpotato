@@ -1,1 +1,1 @@
-Item(by='wackintosh', descendants=0, kids=None, score=11, time=1609296301, title="Lifestyle Inflation. It's a wealth killer", item_type='story', url='https://www.thriftythoughts.io/lifestyle-inflation/', parent=None, text=None)
+Item(by='wackintosh', descendants=39, kids=[25581381, 25581703, 25585719, 25584826, 25582061, 25583202, 25583423, 25581637, 25581839, 25582272], score=41, time=1609296301, title="Lifestyle Inflation. It's a wealth killer", item_type='story', url='https://www.thriftythoughts.io/lifestyle-inflation/', parent=None, text=None)

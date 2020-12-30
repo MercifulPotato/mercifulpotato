@@ -1,1 +1,1 @@
-Item(by='taurath', descendants=None, kids=None, score=None, time=1609299673, title=None, item_type='comment', url=None, parent=25576558, text='Is it only bullying if the bully throws a punch first?')
+Item(by='taurath', descendants=None, kids=[25581249], score=None, time=1609299673, title=None, item_type='comment', url=None, parent=25576558, text='Is it only bullying if the bully throws a punch first?')
