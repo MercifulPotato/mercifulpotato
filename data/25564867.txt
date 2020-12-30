@@ -1,1 +1,1 @@
-Item(by='thih9', descendants=None, kids=None, score=None, time=1609199862, title=None, item_type='comment', url=None, parent=25564651, text='Assuming productive criticism, yes. IMO the comment in question wasn’t that. E.g remarks about author’s bio seem random and unnecessary to me.')
+Item(by='thih9', descendants=None, kids=[25576895], score=None, time=1609199862, title=None, item_type='comment', url=None, parent=25564651, text='Assuming productive criticism, yes. IMO the comment in question wasn’t that. E.g remarks about author’s bio seem random and unnecessary to me.')

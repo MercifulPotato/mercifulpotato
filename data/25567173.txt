@@ -1,1 +1,1 @@
-Item(by='nrr', descendants=None, kids=None, score=None, time=1609221484, title=None, item_type='comment', url=None, parent=25566016, text='Out of curiosity, what does &quot;doesn&#x27;t suck&quot; mean to you?')
+Item(by='nrr', descendants=None, kids=[25575692], score=None, time=1609221484, title=None, item_type='comment', url=None, parent=25566016, text='Out of curiosity, what does &quot;doesn&#x27;t suck&quot; mean to you?')

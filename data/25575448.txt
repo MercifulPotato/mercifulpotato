@@ -1,0 +1,1 @@
+Item(by='pldr1234', descendants=None, kids=[25575741], score=None, time=1609278403, title=None, item_type='comment', url=None, parent=25575165, text='HN is missing a `word-break: break-all` on their `default p` class.<p>(Your reply with an unbroken word that spans larger than the page width forced my page to grow (horizontal scrollbar))')

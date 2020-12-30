@@ -1,1 +1,1 @@
-Item(by='sieste', descendants=None, kids=None, score=None, time=1609268494, title=None, item_type='comment', url=None, parent=25550363, text='Off topic: Strange, I submitted this link 2 days ago. Why does it show up as &quot;2 hours ago&quot; now?')
+Item(by='sieste', descendants=None, kids=[25573826], score=None, time=1609268494, title=None, item_type='comment', url=None, parent=25550363, text='Off topic: Strange, I submitted this link 2 days ago. Why does it show up as &quot;2 hours ago&quot; now?')

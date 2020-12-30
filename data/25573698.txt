@@ -1,1 +1,1 @@
-Item(by='ncmncm', descendants=None, kids=None, score=None, time=1609269895, title=None, item_type='comment', url=None, parent=25569651, text='Thanks, I have not once set foot in a Chick-fil-A. Now I am curious.')
+Item(by='ncmncm', descendants=None, kids=[25576066], score=None, time=1609269895, title=None, item_type='comment', url=None, parent=25569651, text='Thanks, I have not once set foot in a Chick-fil-A. Now I am curious.')

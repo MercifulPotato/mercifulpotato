@@ -1,1 +1,1 @@
-Item(by='monocasa', descendants=None, kids=None, score=None, time=1609271179, title=None, item_type='comment', url=None, parent=25573897, text='Canada has both first past the post voting and a multi party system, so no, it&#x27;s a deeper structural issue than that.')
+Item(by='monocasa', descendants=None, kids=[25577147], score=None, time=1609271179, title=None, item_type='comment', url=None, parent=25573897, text='Canada has both first past the post voting and a multi party system, so no, it&#x27;s a deeper structural issue than that.')

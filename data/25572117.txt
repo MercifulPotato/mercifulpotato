@@ -1,1 +1,1 @@
-Item(by='cperciva', descendants=None, kids=None, score=None, time=1609262448, title=None, item_type='comment', url=None, parent=25571553, text='You know that the G7 also includes France, Germany, Italy, and Japan, right?  Which are all below Canada&#x27;s vaccination level so far.')
+Item(by='cperciva', descendants=None, kids=[25575400], score=None, time=1609262448, title=None, item_type='comment', url=None, parent=25571553, text='You know that the G7 also includes France, Germany, Italy, and Japan, right?  Which are all below Canada&#x27;s vaccination level so far.')

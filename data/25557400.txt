@@ -1,1 +1,1 @@
-Item(by='Hooke', descendants=0, kids=None, score=3, time=1609139937, title='Where Have All the Ammonites Gone?', item_type='story', url='https://www.hakaimagazine.com/news/where-have-all-the-ammonites-gone/', parent=None, text=None)
+Item(by='Hooke', descendants=6, kids=[25577315, 25576236, 25576820, 25576974], score=34, time=1609139937, title='Where Have All the Ammonites Gone?', item_type='story', url='https://www.hakaimagazine.com/news/where-have-all-the-ammonites-gone/', parent=None, text=None)

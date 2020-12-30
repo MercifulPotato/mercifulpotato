@@ -1,1 +1,1 @@
-Item(by='gmays', descendants=1, kids=[25573902], score=5, time=1609264540, title='Self-learning algorithms analyze medical imaging data', item_type='story', url='https://www.tum.de/nc/en/about-tum/news/press-releases/details/36399/', parent=None, text=None)
+Item(by='gmays', descendants=4, kids=[25573902, 25576925], score=9, time=1609264540, title='Self-learning algorithms analyze medical imaging data', item_type='story', url='https://www.tum.de/nc/en/about-tum/news/press-releases/details/36399/', parent=None, text=None)

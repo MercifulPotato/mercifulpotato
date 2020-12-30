@@ -1,1 +1,1 @@
-Item(by='dfxm12', descendants=None, kids=None, score=None, time=1609252764, title=None, item_type='comment', url=None, parent=25567051, text='If you get it, try a cacio e pepe recipe. Also, to temper expectations, the article really oversells it.')
+Item(by='dfxm12', descendants=None, kids=[25577351], score=None, time=1609252764, title=None, item_type='comment', url=None, parent=25567051, text='If you get it, try a cacio e pepe recipe. Also, to temper expectations, the article really oversells it.')

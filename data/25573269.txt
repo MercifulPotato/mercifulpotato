@@ -1,1 +1,1 @@
-Item(by='franklampard', descendants=None, kids=None, score=None, time=1609267677, title=None, item_type='comment', url=None, parent=25572411, text='I like this analogy. \nI think a good idea is to sign a long term (1 year to multiple years) contract with cloud providers.')
+Item(by='franklampard', descendants=None, kids=[25575189], score=None, time=1609267677, title=None, item_type='comment', url=None, parent=25572411, text='I like this analogy. \nI think a good idea is to sign a long term (1 year to multiple years) contract with cloud providers.')

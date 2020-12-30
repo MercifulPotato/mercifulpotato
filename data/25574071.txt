@@ -1,1 +1,1 @@
-Item(by='valesco', descendants=None, kids=None, score=None, time=1609271870, title=None, item_type='comment', url=None, parent=25574014, text='So the mere threat of a ransomware attack would be enough to extract huge sums of money.')
+Item(by='valesco', descendants=None, kids=[25577634], score=None, time=1609271870, title=None, item_type='comment', url=None, parent=25574014, text='So the mere threat of a ransomware attack would be enough to extract huge sums of money.')

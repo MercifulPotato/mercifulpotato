@@ -1,0 +1,1 @@
+Item(by='penumbra_3', descendants=None, kids=None, score=None, time=1609279787, title=None, item_type='comment', url=None, parent=25575134, text='I use one for pihole (with DoH) and wireguard. For pi-hole, i filter around 10 devices, but i do only one wireguard connection at time. CPU usage is really low. I can have full bandwitdh usage on my 200&#x2F;80 connection.')

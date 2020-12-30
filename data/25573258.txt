@@ -1,1 +1,1 @@
-Item(by='hinkley', descendants=None, kids=None, score=None, time=1609267582, title=None, item_type='comment', url=None, parent=25571793, text='&quot;You must wear a desirable necklace to surpass the balances of the great lizard&quot;')
+Item(by='hinkley', descendants=None, kids=[25575840], score=None, time=1609267582, title=None, item_type='comment', url=None, parent=25571793, text='&quot;You must wear a desirable necklace to surpass the balances of the great lizard&quot;')

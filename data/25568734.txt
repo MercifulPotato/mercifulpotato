@@ -1,1 +1,1 @@
-Item(by='tankfeeder', descendants=0, kids=None, score=7, time=1609240646, title='PicoLisp on PicoLisp on LLVM-IR', item_type='story', url='https://github.com/picolisp/pil21', parent=None, text=None)
+Item(by='tankfeeder', descendants=0, kids=[25576933], score=12, time=1609240646, title='PicoLisp on PicoLisp on LLVM-IR', item_type='story', url='https://github.com/picolisp/pil21', parent=None, text=None)
