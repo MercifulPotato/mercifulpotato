@@ -1,1 +1,1 @@
-Item(by='automatorman', descendants=3, kids=[25580486, 25573279], score=6, time=1609262420, title='Show HN: We build a script engine to automate K8s tasks like bash for ur box', item_type='story', url='https://github.com/geertvos/automator', parent=None, text=None)
+Item(by='automatorman', descendants=3, kids=[25573279, 25580486], score=7, time=1609262420, title='Show HN: We build a script engine to automate K8s tasks like bash for ur box', item_type='story', url='https://github.com/geertvos/automator', parent=None, text=None)

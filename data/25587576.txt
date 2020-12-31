@@ -1,1 +1,1 @@
-Item(by='jburgess777', descendants=None, kids=None, score=None, time=1609370842, title=None, item_type='comment', url=None, parent=25584623, text='When you ran basic code you were effectively root, you could peek or poke any memory address or hardware register.')
+Item(by='jburgess777', descendants=None, kids=[25590800], score=None, time=1609370842, title=None, item_type='comment', url=None, parent=25584623, text='When you ran basic code you were effectively root, you could peek or poke any memory address or hardware register.')

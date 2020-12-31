@@ -1,0 +1,1 @@
+Item(by='leetrout', descendants=None, kids=[25589325], score=None, time=1609384469, title=None, item_type='comment', url=None, parent=25588979, text='Are you keeping your terraform configs in one repo or splitting the configs out and keeping them next to the code they deploy?')

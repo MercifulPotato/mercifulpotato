@@ -1,1 +1,1 @@
-Item(by='nosmokewhereiam', descendants=None, kids=None, score=None, time=1609338546, title=None, item_type='comment', url=None, parent=25580974, text='Lessons learned (journaling)')
+Item(by='nosmokewhereiam', descendants=None, kids=[25589083], score=None, time=1609338546, title=None, item_type='comment', url=None, parent=25580974, text='Lessons learned (journaling)')

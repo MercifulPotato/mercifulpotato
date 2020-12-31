@@ -1,0 +1,1 @@
+Item(by='nine_k', descendants=None, kids=None, score=None, time=1609399606, title=None, item_type='comment', url=None, parent=25586684, text='Generating a local CA and installing its certificate into the local browser(s) is not hard. Not harder than setting up an HTTP server on your LAN.<p>OTOH localhost is finally exempt from the &quot;not https&quot; warning.')

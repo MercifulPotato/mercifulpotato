@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1609403923, title=None, item_type='comment', url=None, parent=25590320, text='There are docker images for Windows software, and those are the ones I care about, which yes are based on Windows containers that are even capable of running directly on top of hyper-v, bypassing most of the kernel fat.')

@@ -1,0 +1,1 @@
+Item(by='lambda_obrien', descendants=None, kids=None, score=None, time=1609390471, title=None, item_type='comment', url=None, parent=25582746, text='I&#x27;m really excited to use linear types to try to speed up stream processing! I love Haskell but some of the fusion stuff that speeds up stream libraries can be slow to compile and not that fast anyways.')

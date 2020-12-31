@@ -1,1 +1,1 @@
-Item(by='CraigJPerry', descendants=None, kids=None, score=None, time=1609374098, title=None, item_type='comment', url=None, parent=25587622, text='&gt;&gt; these days<p>Was it ever any different? Pythagoras is on record saying something pretty similar to your words, ~2500 years ago.')
+Item(by='CraigJPerry', descendants=None, kids=[25590729], score=None, time=1609374098, title=None, item_type='comment', url=None, parent=25587622, text='&gt;&gt; these days<p>Was it ever any different? Pythagoras is on record saying something pretty similar to your words, ~2500 years ago.')

@@ -1,1 +1,1 @@
-Item(by='Fnoord', descendants=None, kids=None, score=None, time=1609344117, title=None, item_type='comment', url=None, parent=25572352, text='Using the term &#x27;Dumbshit&#x27; or &#x27;fuckhead&#x27; doesn&#x27;t give your argument credibility.')
+Item(by='Fnoord', descendants=None, kids=[25590344], score=None, time=1609344117, title=None, item_type='comment', url=None, parent=25572352, text='Using the term &#x27;Dumbshit&#x27; or &#x27;fuckhead&#x27; doesn&#x27;t give your argument credibility.')

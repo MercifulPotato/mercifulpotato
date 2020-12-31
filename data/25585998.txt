@@ -1,1 +1,1 @@
-Item(by='jeffbee', descendants=None, kids=None, score=None, time=1609361794, title=None, item_type='comment', url=None, parent=25584720, text='Alt title: how we made yet another population density map, but this time using all of your CPU.')
+Item(by='jeffbee', descendants=None, kids=[25590598], score=None, time=1609361794, title=None, item_type='comment', url=None, parent=25584720, text='Alt title: how we made yet another population density map, but this time using all of your CPU.')

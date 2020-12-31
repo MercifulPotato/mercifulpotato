@@ -1,1 +1,1 @@
-Item(by='wffurr', descendants=None, kids=None, score=None, time=1609373950, title=None, item_type='comment', url=None, parent=25587852, text='Clean, fast, efficient, reliable mass transit for everyone is such a totalitarian nightmare.  It&#x27;s just awful.')
+Item(by='wffurr', descendants=None, kids=[25590680], score=None, time=1609373950, title=None, item_type='comment', url=None, parent=25587852, text='Clean, fast, efficient, reliable mass transit for everyone is such a totalitarian nightmare.  It&#x27;s just awful.')

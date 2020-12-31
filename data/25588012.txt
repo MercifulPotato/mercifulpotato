@@ -1,1 +1,1 @@
-Item(by='google234123', descendants=None, kids=None, score=None, time=1609373979, title=None, item_type='comment', url=None, parent=25587169, text='According to the wiki page on this, the murder rate is now 3 times high than 1977 (start of data on the table).')
+Item(by='google234123', descendants=None, kids=[25589442], score=None, time=1609373979, title=None, item_type='comment', url=None, parent=25587169, text='According to the wiki page on this, the murder rate is now 3 times high than 1977 (start of data on the table).')

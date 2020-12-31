@@ -1,1 +1,1 @@
-Item(by='tobyhinloopen', descendants=None, kids=None, score=None, time=1609375479, title=None, item_type='comment', url=None, parent=25585933, text='Are you sure? Twinkly is doing fine I guess. Maybe focus on xmas lights.')
+Item(by='tobyhinloopen', descendants=None, kids=[25590332], score=None, time=1609375479, title=None, item_type='comment', url=None, parent=25585933, text='Are you sure? Twinkly is doing fine I guess. Maybe focus on xmas lights.')

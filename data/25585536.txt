@@ -1,1 +1,1 @@
-Item(by='zerr', descendants=None, kids=None, score=None, time=1609359222, title=None, item_type='comment', url=None, parent=25585298, text='Atom + SLIMA seems quite nice.')
+Item(by='zerr', descendants=None, kids=[25589941], score=None, time=1609359222, title=None, item_type='comment', url=None, parent=25585298, text='Atom + SLIMA seems quite nice.')

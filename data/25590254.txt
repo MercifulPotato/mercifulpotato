@@ -1,0 +1,1 @@
+Item(by='jchandra', descendants=None, kids=None, score=None, time=1609397622, title=None, item_type='comment', url=None, parent=25588898, text='IMO, i dont think terraform is the right tool for containerized services. I had experimented with terraform and ansible for deployments earlier but i could see simpler deployments using serverless or apex.<p>Informative article though.')

@@ -1,1 +1,1 @@
-Item(by='susam', descendants=5, kids=[25586705, 25586143], score=53, time=1609354434, title='Ultimate Debian Database', item_type='story', url='https://wiki.debian.org/UltimateDebianDatabase', parent=None, text=None)
+Item(by='susam', descendants=7, kids=[25586705, 25586143, 25589406], score=75, time=1609354434, title='Ultimate Debian Database', item_type='story', url='https://wiki.debian.org/UltimateDebianDatabase', parent=None, text=None)

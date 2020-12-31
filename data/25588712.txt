@@ -1,1 +1,1 @@
-Item(by='hanklazard', descendants=0, kids=None, score=2, time=1609379837, title='LibrePhotos: A Self-Hosted Google Photos Alternative', item_type='story', url='https://github.com/LibrePhotos/librephotos', parent=None, text=None)
+Item(by='hanklazard', descendants=14, kids=[25590818, 25590757, 25590727, 25590135, 25590297, 25590186, 25590081, 25590042], score=91, time=1609379837, title='LibrePhotos: A Self-Hosted Google Photos Alternative', item_type='story', url='https://github.com/LibrePhotos/librephotos', parent=None, text=None)

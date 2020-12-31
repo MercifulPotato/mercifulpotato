@@ -1,0 +1,1 @@
+Item(by='mongol', descendants=None, kids=[25590805], score=None, time=1609403017, title=None, item_type='comment', url=None, parent=25590392, text='How would you automate a job where a server uploads something, say a backup, to another server, without a private key?')

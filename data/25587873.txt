@@ -1,1 +1,1 @@
-Item(by='AlchemistCamp', descendants=0, kids=None, score=3, time=1609372874, title='Alchemist Camp 2020 Year in Review', item_type='story', url='https://questinglog.com/2020-year-in-review/', parent=None, text=None)
+Item(by='AlchemistCamp', descendants=1, kids=[25589701], score=4, time=1609372874, title='Alchemist Camp 2020 Year in Review', item_type='story', url='https://questinglog.com/2020-year-in-review/', parent=None, text=None)

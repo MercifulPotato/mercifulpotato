@@ -1,1 +1,1 @@
-Item(by='goshx', descendants=None, kids=None, score=None, time=1609385041, title=None, item_type='comment', url=None, parent=25588878, text='What you are looking for is a horse.')
+Item(by='goshx', descendants=None, kids=[25589383], score=None, time=1609385041, title=None, item_type='comment', url=None, parent=25588878, text='What you are looking for is a horse.')

@@ -1,0 +1,1 @@
+Item(by='musicale', descendants=None, kids=None, score=None, time=1609399014, title=None, item_type='comment', url=None, parent=25589040, text='You may be right - presumably iPhones have fewer GC pauses (though you can still have VM, loading, compression&#x2F;decompression, network, and other pauses.)<p>Be that as it may, lots of people still manage to use Android devices.')

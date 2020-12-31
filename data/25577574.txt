@@ -1,1 +1,1 @@
-Item(by='grupthink', descendants=None, kids=None, score=None, time=1609294374, title=None, item_type='comment', url=None, parent=25577446, text='It completely depends on the reward function it&#x27;s given. It won&#x27;t give a shit about anything else.')
+Item(by='grupthink', descendants=None, kids=[25589084], score=None, time=1609294374, title=None, item_type='comment', url=None, parent=25577446, text='It completely depends on the reward function it&#x27;s given. It won&#x27;t give a shit about anything else.')

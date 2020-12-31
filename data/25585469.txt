@@ -1,1 +1,1 @@
-Item(by='Bayart', descendants=None, kids=None, score=None, time=1609358899, title=None, item_type='comment', url=None, parent=25582972, text='The continuous criticism of GDPR is quite amazing as well. Reads as corporate boot-licking.')
+Item(by='Bayart', descendants=None, kids=[25589778], score=None, time=1609358899, title=None, item_type='comment', url=None, parent=25582972, text='The continuous criticism of GDPR is quite amazing as well. Reads as corporate boot-licking.')

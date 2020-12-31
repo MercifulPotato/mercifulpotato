@@ -1,1 +1,1 @@
-Item(by='jimmyjimjimmy', descendants=None, kids=None, score=None, time=1609378316, title=None, item_type='comment', url=None, parent=25588321, text='I&#x27;m a CPA. When I started learning code, I looked for whatever was most like a spreadsheet. R for the bill, with built-in frames.')
+Item(by='jimmyjimjimmy', descendants=None, kids=[25589447], score=None, time=1609378316, title=None, item_type='comment', url=None, parent=25588321, text='I&#x27;m a CPA. When I started learning code, I looked for whatever was most like a spreadsheet. R for the bill, with built-in frames.')
