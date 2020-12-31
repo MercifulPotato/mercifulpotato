@@ -1,0 +1,1 @@
+Item(by='dsego', descendants=None, kids=[25591356], score=None, time=1609409600, title=None, item_type='comment', url=None, parent=25589076, text='Not if it has local dependencies, like js or css, then you would need to bundle those as well, in an archive perhaps.')

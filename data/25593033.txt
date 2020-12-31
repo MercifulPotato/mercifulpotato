@@ -1,0 +1,1 @@
+Item(by='kondro', descendants=None, kids=[25593174], score=None, time=1609425676, title=None, item_type='comment', url=None, parent=25592822, text='Not quite, there are always a bunch of edge cases that inevitably make &quot;exactly once&quot; actually &quot;almost always exactly once, but always at least once.&quot;')

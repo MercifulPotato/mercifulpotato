@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=[25592354], score=None, time=1609419838, title=None, item_type='comment', url=None, parent=25592123, text='Which are some of the ways that Android deviates from GNU&#x2F;Linux.<p>SELinux, seccomp, eBPF, FORTIFY_SOURCE, HSAN,.... all enabled.')

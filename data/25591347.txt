@@ -1,0 +1,1 @@
+Item(by='olliebennett', descendants=None, kids=[25592831], score=None, time=1609409669, title=None, item_type='comment', url=None, parent=25591143, text='Be aware that Google Photos&#x27; API does not provide geolocation (lat&#x2F;long) information from the photos; it&#x27;s wiped.<p>AFAIK The only way to get the photos with all metadata intact is to use Google Takeout.')

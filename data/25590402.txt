@@ -1,1 +1,1 @@
-Item(by='sharjeelsayed', descendants=0, kids=None, score=1, time=1609399366, title='Diet Coke is not killing you', item_type='story', url='https://theoutline.com/post/842/diet-coke-is-not-killing-you', parent=None, text=None)
+Item(by='sharjeelsayed', descendants=1, kids=[25590639], score=2, time=1609399366, title='Diet Coke is not killing you', item_type='story', url='https://theoutline.com/post/842/diet-coke-is-not-killing-you', parent=None, text=None)

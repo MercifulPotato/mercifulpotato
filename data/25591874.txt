@@ -1,0 +1,1 @@
+Item(by='sgtfrankieboy', descendants=None, kids=None, score=None, time=1609415873, title=None, item_type='comment', url=None, parent=25588966, text='Because that information is not available in standalone frontend component. They would have to make an additional API request to get that when timezone is available locally.')

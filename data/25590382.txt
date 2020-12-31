@@ -1,1 +1,1 @@
-Item(by='loopz', descendants=None, kids=None, score=None, time=1609399154, title=None, item_type='comment', url=None, parent=25590285, text='This is a poor argument for white collar crimes.')
+Item(by='loopz', descendants=None, kids=[25590747], score=None, time=1609399154, title=None, item_type='comment', url=None, parent=25590285, text='This is a poor argument for white collar crimes.')

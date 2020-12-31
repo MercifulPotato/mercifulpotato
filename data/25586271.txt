@@ -1,1 +1,1 @@
-Item(by='chanind', descendants=0, kids=None, score=2, time=1609363291, title='Show HN: Gender Bias Viewer', item_type='story', url='https://chanind.github.io/gender-bias-viewer', parent=None, text=None)
+Item(by='chanind', descendants=1, kids=[25590822], score=2, time=1609363291, title='Show HN: Gender Bias Viewer', item_type='story', url='https://chanind.github.io/gender-bias-viewer', parent=None, text=None)

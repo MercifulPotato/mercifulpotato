@@ -1,0 +1,1 @@
+Item(by='tobilg', descendants=None, kids=None, score=None, time=1609408074, title=None, item_type='comment', url=None, parent=25590878, text='Yes, that’s the way I’m seeing it as well. SLS is a much better fit when developing services with lots of integrations with other services IMO, with much less code than Terraform.')

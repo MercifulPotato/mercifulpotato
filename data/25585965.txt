@@ -1,1 +1,1 @@
-Item(by='modeless', descendants=None, kids=None, score=None, time=1609361564, title=None, item_type='comment', url=None, parent=25585338, text='I work on WebGL in Chrome and I am curious why you have hardware acceleration turned off.')
+Item(by='modeless', descendants=None, kids=[25592145], score=None, time=1609361564, title=None, item_type='comment', url=None, parent=25585338, text='I work on WebGL in Chrome and I am curious why you have hardware acceleration turned off.')

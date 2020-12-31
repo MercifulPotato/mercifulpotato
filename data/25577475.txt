@@ -1,1 +1,1 @@
-Item(by='samwestdev', descendants=None, kids=None, score=None, time=1609293547, title=None, item_type='comment', url=None, parent=25572490, text='Are drivers going to speed up like madmen just to catch the “green wave”?')
+Item(by='samwestdev', descendants=None, kids=[25592268], score=None, time=1609293547, title=None, item_type='comment', url=None, parent=25572490, text='Are drivers going to speed up like madmen just to catch the “green wave”?')

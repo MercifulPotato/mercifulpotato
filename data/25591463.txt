@@ -1,0 +1,1 @@
+Item(by='lrossi', descendants=None, kids=None, score=None, time=1609410912, title=None, item_type='comment', url=None, parent=25590079, text='&gt; fixes for most security vulnerabilities are not able to be backported to LTS kernels<p>This is nonsense.')

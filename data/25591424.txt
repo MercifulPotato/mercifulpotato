@@ -1,0 +1,1 @@
+Item(by='Yajirobe', descendants=None, kids=[25592414], score=None, time=1609410574, title=None, item_type='comment', url=None, parent=25588567, text='&gt; A n-bit pure quantum state can be fully described using 2^n complex numbers<p>Why 2^n? Isn&#x27;t it 2 numbers per state (real and imaginary parts)? So it would be 2+2+2...+2 (n times) = 2n total numbers')

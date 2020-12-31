@@ -1,1 +1,1 @@
-Item(by='plumeria', descendants=None, kids=None, score=None, time=1609390968, title=None, item_type='comment', url=None, parent=25581373, text='Couldn&#x27;t one expect at least a job offer?')
+Item(by='plumeria', descendants=None, kids=[25590893], score=None, time=1609390968, title=None, item_type='comment', url=None, parent=25581373, text='Couldn&#x27;t one expect at least a job offer?')

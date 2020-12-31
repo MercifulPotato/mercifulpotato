@@ -1,1 +1,1 @@
-Item(by='Yhippa', descendants=None, kids=None, score=None, time=1609398351, title=None, item_type='comment', url=None, parent=25589471, text='What is TMMM?')
+Item(by='Yhippa', descendants=None, kids=[25592425], score=None, time=1609398351, title=None, item_type='comment', url=None, parent=25589471, text='What is TMMM?')

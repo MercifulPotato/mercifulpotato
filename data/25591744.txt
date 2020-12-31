@@ -1,0 +1,1 @@
+Item(by='tome', descendants=None, kids=[25592450], score=None, time=1609414474, title=None, item_type='comment', url=None, parent=25585014, text='I don&#x27;t see how, in the presence of unrestricted function types, you can tag <i>values</i> as linear unless you have a separate kind for linear values. I&#x27;d be interested to know how Rust does it.')

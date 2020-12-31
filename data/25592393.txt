@@ -1,0 +1,1 @@
+Item(by='alexhutcheson', descendants=None, kids=[25592940], score=None, time=1609420909, title=None, item_type='comment', url=None, parent=25591729, text='The JVM world is moving away from that approach. The current recommendation is to use jlink[1] to build a custom runtime image, which doesn’t depend on a JRE being present on the system.')

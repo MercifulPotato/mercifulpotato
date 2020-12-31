@@ -1,1 +1,1 @@
-Item(by='bowaggoner', descendants=4, kids=[25582865, 25582905, 25582674], score=5, time=1609343414, title='Show HN: NotAn.app', item_type='story', url='https://notan.app', parent=None, text=None)
+Item(by='bowaggoner', descendants=4, kids=[25582865, 25582674, 25582905], score=10, time=1609343414, title='Show HN: NotAn.app', item_type='story', url='https://notan.app', parent=None, text=None)

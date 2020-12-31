@@ -1,0 +1,1 @@
+Item(by='Doxin', descendants=None, kids=None, score=None, time=1609421216, title=None, item_type='comment', url=None, parent=25579835, text='Note that pip has recently gotten a proper version resolver. It&#x27;s still plenty of fast, but it&#x27;s also definitely possible to run into degenerate cases for which it will never finish.')

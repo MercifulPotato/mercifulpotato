@@ -1,0 +1,1 @@
+Item(by='joncrane', descendants=None, kids=[25592493], score=None, time=1609420902, title=None, item_type='comment', url=None, parent=25590125, text='I&#x27;ve always understood that trying to use S3 as a block store (or as anything other than an object store) is an extremely bad idea.  Has this changed?')

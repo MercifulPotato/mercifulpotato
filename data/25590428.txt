@@ -1,1 +1,1 @@
-Item(by='wikibob', descendants=None, kids=None, score=None, time=1609399653, title=None, item_type='comment', url=None, parent=25590291, text='In which language? Is there still significant gaps between languages?')
+Item(by='wikibob', descendants=None, kids=[25591446], score=None, time=1609399653, title=None, item_type='comment', url=None, parent=25590291, text='In which language? Is there still significant gaps between languages?')

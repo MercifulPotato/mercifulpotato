@@ -1,1 +1,1 @@
-Item(by='nn3', descendants=None, kids=None, score=None, time=1609388509, title=None, item_type='comment', url=None, parent=25589515, text='This raises the question - what paid HTML tools are available today which are as easy to use and have similar capabilities as the old Adobe tools?')
+Item(by='nn3', descendants=None, kids=[25590778], score=None, time=1609388509, title=None, item_type='comment', url=None, parent=25589515, text='This raises the question - what paid HTML tools are available today which are as easy to use and have similar capabilities as the old Adobe tools?')

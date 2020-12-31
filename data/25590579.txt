@@ -1,1 +1,1 @@
-Item(by='henrikschroder', descendants=None, kids=None, score=None, time=1609401300, title=None, item_type='comment', url=None, parent=25590290, text='In most civilized countries, the medical system is part of the government.')
+Item(by='henrikschroder', descendants=None, kids=[25590792], score=None, time=1609401300, title=None, item_type='comment', url=None, parent=25590290, text='In most civilized countries, the medical system is part of the government.')

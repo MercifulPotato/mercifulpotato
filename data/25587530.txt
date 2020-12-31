@@ -1,1 +1,1 @@
-Item(by='brnt', descendants=None, kids=None, score=None, time=1609370578, title=None, item_type='comment', url=None, parent=25585658, text='Because AppleArch64 is not the same as Arm64.')
+Item(by='brnt', descendants=None, kids=[25592686], score=None, time=1609370578, title=None, item_type='comment', url=None, parent=25585658, text='Because AppleArch64 is not the same as Arm64.')

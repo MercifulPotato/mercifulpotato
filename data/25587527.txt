@@ -1,1 +1,1 @@
-Item(by='vbezhenar', descendants=None, kids=None, score=None, time=1609370558, title=None, item_type='comment', url=None, parent=25586511, text='Not everyone hates global warming. I&#x27;ll have -30° C tomorrow, give me that warming please.')
+Item(by='vbezhenar', descendants=None, kids=[25591055], score=None, time=1609370558, title=None, item_type='comment', url=None, parent=25586511, text='Not everyone hates global warming. I&#x27;ll have -30° C tomorrow, give me that warming please.')

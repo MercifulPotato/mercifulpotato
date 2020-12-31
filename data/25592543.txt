@@ -1,0 +1,1 @@
+Item(by='mattbillenstein', descendants=None, kids=None, score=None, time=1609421905, title=None, item_type='comment', url=None, parent=25592472, text='I&#x27;ve done it for one-off data munging scripts - processing archives of one format of data to another, etc. Python is easy to write and for these tasks, you can get PyPy to execute at twice the speed for basically no cost.')
