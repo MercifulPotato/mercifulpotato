@@ -1,1 +1,1 @@
-Item(by='brink', descendants=None, kids=None, score=None, time=1609348387, title=None, item_type='comment', url=None, parent=25583419, text='Using the law as a moral compass is a bad idea.')
+Item(by='brink', descendants=None, kids=[25587642], score=None, time=1609348387, title=None, item_type='comment', url=None, parent=25583419, text='Using the law as a moral compass is a bad idea.')

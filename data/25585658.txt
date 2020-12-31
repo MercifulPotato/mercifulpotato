@@ -1,1 +1,1 @@
-Item(by='doctor_eval', descendants=None, kids=None, score=None, time=1609359886, title=None, item_type='comment', url=None, parent=25581487, text='Why is it called AArch64 and not Arm64?')
+Item(by='doctor_eval', descendants=None, kids=[25587803, 25587530], score=None, time=1609359886, title=None, item_type='comment', url=None, parent=25581487, text='Why is it called AArch64 and not Arm64?')

@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1609354472, title=None, item_type='comment', url=None, parent=25582434, text='These posts are not censored. If you want to see them, you can turn on the option to see them (‘showdead’)in your settings.')
+Item(by='tinus_hn', descendants=None, kids=[25587647], score=None, time=1609354472, title=None, item_type='comment', url=None, parent=25582434, text='These posts are not censored. If you want to see them, you can turn on the option to see them (‘showdead’)in your settings.')

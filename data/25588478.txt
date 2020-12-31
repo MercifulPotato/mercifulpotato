@@ -1,0 +1,1 @@
+Item(by='defanor', descendants=None, kids=None, score=None, time=1609377862, title=None, item_type='comment', url=None, parent=25585338, text='AFAICT, hardware acceleration is enabled here (even tried to force-enable it in FF, on Linux), and the CPU load is still 55%.')

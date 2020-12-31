@@ -1,0 +1,1 @@
+Item(by='yjftsjthsd-h', descendants=None, kids=[25588904], score=None, time=1609378975, title=None, item_type='comment', url=None, parent=25588484, text='Okay, I&#x27;ll bite. Let&#x27;s say I&#x27;m loading a page over https, and you control the network but not the server (mitm). How exactly are you adding content to the page?')

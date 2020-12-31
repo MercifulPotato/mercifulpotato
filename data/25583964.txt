@@ -1,1 +1,1 @@
-Item(by='RupertWiser', descendants=3, kids=[25585170, 25585162], score=13, time=1609350744, title='Writing my first Gameboy Emulator', item_type='story', url='http://benwiser.com/blog/Writing-my-first-Gameboy-Emulator.html', parent=None, text=None)
+Item(by='RupertWiser', descendants=15, kids=[25588073, 25585170, 25586366, 25588597, 25586507, 25585162, 25586382], score=48, time=1609350744, title='Writing my first Gameboy Emulator', item_type='story', url='http://benwiser.com/blog/Writing-my-first-Gameboy-Emulator.html', parent=None, text=None)

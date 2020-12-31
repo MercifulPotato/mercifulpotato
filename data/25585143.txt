@@ -1,1 +1,1 @@
-Item(by='TACIXAT', descendants=None, kids=None, score=None, time=1609357090, title=None, item_type='comment', url=None, parent=25581716, text='What did you use as a payment processor? Really hard to process cards for gambling.')
+Item(by='TACIXAT', descendants=None, kids=[25587783], score=None, time=1609357090, title=None, item_type='comment', url=None, parent=25581716, text='What did you use as a payment processor? Really hard to process cards for gambling.')

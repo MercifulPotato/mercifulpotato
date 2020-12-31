@@ -1,1 +1,1 @@
-Item(by='sontek', descendants=None, kids=None, score=None, time=1609358424, title=None, item_type='comment', url=None, parent=25585146, text='What is it?  Looks like a social network?  Is it competing with generic ones like FB or does it have a niche?')
+Item(by='sontek', descendants=None, kids=[25587735], score=None, time=1609358424, title=None, item_type='comment', url=None, parent=25585146, text='What is it?  Looks like a social network?  Is it competing with generic ones like FB or does it have a niche?')

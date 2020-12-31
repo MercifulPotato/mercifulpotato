@@ -1,1 +1,1 @@
-Item(by='gtsnexp', descendants=0, kids=None, score=7, time=1609355093, title='A message from the FSF president', item_type='story', url='https://www.fsf.org/blogs/community/fsf-fights-to-secure-software-freedom-for-future-generations', parent=None, text=None)
+Item(by='gtsnexp', descendants=1, kids=[25586578], score=21, time=1609355093, title='A message from the FSF president', item_type='story', url='https://www.fsf.org/blogs/community/fsf-fights-to-secure-software-freedom-for-future-generations', parent=None, text=None)

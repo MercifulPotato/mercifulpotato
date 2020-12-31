@@ -1,1 +1,1 @@
-Item(by='mdlayher', descendants=0, kids=None, score=1, time=1609351096, title='Unsafe String Interning in Go', item_type='story', url='https://mdlayher.com/blog/unsafe-string-interning-in-go/', parent=None, text=None)
+Item(by='mdlayher', descendants=0, kids=None, score=3, time=1609351096, title='Unsafe String Interning in Go', item_type='story', url='https://mdlayher.com/blog/unsafe-string-interning-in-go/', parent=None, text=None)

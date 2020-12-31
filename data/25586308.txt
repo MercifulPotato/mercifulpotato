@@ -1,0 +1,1 @@
+Item(by='endgame', descendants=None, kids=None, score=None, time=1609363579, title=None, item_type='comment', url=None, parent=25586224, text='GMP is LGPL, so if you distribute a binary to someone it has to be possible for the recipient to re-link it with an alternate libgmp (either via dynamic linking, or by providing .o files and a script)')

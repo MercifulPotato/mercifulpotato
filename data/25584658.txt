@@ -1,1 +1,1 @@
-Item(by='lxe', descendants=None, kids=None, score=None, time=1609354146, title=None, item_type='comment', url=None, parent=25582187, text='Why WebRTC? How heavy are the commands that are being shared?')
+Item(by='lxe', descendants=None, kids=[25586189], score=None, time=1609354146, title=None, item_type='comment', url=None, parent=25582187, text='Why WebRTC? How heavy are the commands that are being shared?')

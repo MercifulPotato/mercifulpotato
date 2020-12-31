@@ -1,1 +1,1 @@
-Item(by='gmays', descendants=0, kids=None, score=2, time=1609347499, title='What to Do Before You Die: A Tech Checklist', item_type='story', url='https://www.wsj.com/articles/what-to-do-before-you-die-a-tech-checklist-facebook-google-amazon-twitter-11608310486', parent=None, text=None)
+Item(by='gmays', descendants=1, kids=[25587319], score=3, time=1609347499, title='What to Do Before You Die: A Tech Checklist', item_type='story', url='https://www.wsj.com/articles/what-to-do-before-you-die-a-tech-checklist-facebook-google-amazon-twitter-11608310486', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='archsurface', descendants=None, kids=None, score=None, time=1609358806, title=None, item_type='comment', url=None, parent=25582979, text='The lockdown fallout will emerge in the coming years, and I suspect the cure will have been worse than the disease.')
+Item(by='archsurface', descendants=None, kids=[25587560], score=None, time=1609358806, title=None, item_type='comment', url=None, parent=25582979, text='The lockdown fallout will emerge in the coming years, and I suspect the cure will have been worse than the disease.')

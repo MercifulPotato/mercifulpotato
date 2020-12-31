@@ -1,1 +1,1 @@
-Item(by='gifnamething', descendants=None, kids=None, score=None, time=1609348957, title=None, item_type='comment', url=None, parent=25583387, text='Mean is an average, not the average. Mode is an average. Median is an average.')
+Item(by='gifnamething', descendants=None, kids=[25589134], score=None, time=1609348957, title=None, item_type='comment', url=None, parent=25583387, text='Mean is an average, not the average. Mode is an average. Median is an average.')

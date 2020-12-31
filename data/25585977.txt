@@ -1,0 +1,1 @@
+Item(by='JoeOfTexas', descendants=None, kids=None, score=None, time=1609361664, title=None, item_type='comment', url=None, parent=25584950, text='These things usually work by syncing the emulator clocks between clients, and then sending player inputs over the network along with the data to sync.')

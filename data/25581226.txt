@@ -1,1 +1,1 @@
-Item(by='arbol', descendants=None, kids=None, score=None, time=1609332694, title=None, item_type='comment', url=None, parent=25580780, text='Wow that really sucks! Sorry to hear that. I suppose you would&#x27;ve needed patents on the idea to stop them from stealing it.')
+Item(by='arbol', descendants=None, kids=[25588578], score=None, time=1609332694, title=None, item_type='comment', url=None, parent=25580780, text='Wow that really sucks! Sorry to hear that. I suppose you would&#x27;ve needed patents on the idea to stop them from stealing it.')

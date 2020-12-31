@@ -1,1 +1,1 @@
-Item(by='vermaden', descendants=0, kids=None, score=1, time=1609357877, title='FreeBSD/Bhyve Based K8s Clusters – Kubernetes on Top of FreeBSD', item_type='story', url='https://k8s-bhyve.convectix.com/', parent=None, text=None)
+Item(by='vermaden', descendants=0, kids=None, score=3, time=1609357877, title='FreeBSD/Bhyve Based K8s Clusters – Kubernetes on Top of FreeBSD', item_type='story', url='https://k8s-bhyve.convectix.com/', parent=None, text=None)

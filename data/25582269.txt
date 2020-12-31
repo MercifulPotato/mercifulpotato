@@ -1,1 +1,1 @@
-Item(by='valzevul', descendants=0, kids=None, score=13, time=1609340852, title='Things I Learnt in 2020', item_type='story', url='https://drobinin.com/posts/things-i-learnt-in-2020/', parent=None, text=None)
+Item(by='valzevul', descendants=25, kids=[25589238, 25589144, 25585875, 25585895, 25588220, 25585793, 25586924, 25588518, 25589036, 25588639, 25587290, 25586575, 25588972], score=124, time=1609340852, title='Things I Learnt in 2020', item_type='story', url='https://drobinin.com/posts/things-i-learnt-in-2020/', parent=None, text=None)

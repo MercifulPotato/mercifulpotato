@@ -1,0 +1,1 @@
+Item(by='oxplot', descendants=None, kids=None, score=None, time=1609377464, title=None, item_type='comment', url=None, parent=25580099, text='USB-C cables that support high current (&gt; 3A) have a chip inside that communicates with the power source to let it know it can carry high current. Only then does the source advertise the higher power profiles to the consumer.')

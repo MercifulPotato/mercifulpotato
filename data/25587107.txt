@@ -1,0 +1,1 @@
+Item(by='auggierose', descendants=None, kids=[25587277], score=None, time=1609368068, title=None, item_type='comment', url=None, parent=25586684, text='Totally agree. I have an iPad app that runs an embedded http server, so that other clients on the same lan can connect to it. Making that into an embedded https server would be a big hassle.')

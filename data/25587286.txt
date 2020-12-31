@@ -1,0 +1,1 @@
+Item(by='asfarley', descendants=None, kids=None, score=None, time=1609369089, title=None, item_type='comment', url=None, parent=25580637, text='I made a recursive version of Google Alerts. It was cool and it worked as intended, but it was difficult to explain to non-technical users and the payoff for using it is very slow, so it didn’t get any user traction.')

@@ -1,0 +1,1 @@
+Item(by='0xbadcafebee', descendants=None, kids=None, score=None, time=1609378567, title=None, item_type='comment', url=None, parent=25582962, text='If Protobuf was just created to make it easy for teams to inter-operate, couldn&#x27;t you just use a REST API with JSON Schema? If it&#x27;s gonna be a resource pig you might as well use simple components that are widely supported.')

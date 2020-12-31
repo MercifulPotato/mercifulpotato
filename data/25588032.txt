@@ -1,0 +1,1 @@
+Item(by='maxerickson', descendants=None, kids=[25588266], score=None, time=1609374123, title=None, item_type='comment', url=None, parent=25587964, text='Would the people doing the implementation need to be able to choose and manage dependencies? Or could they do the work inside a prepared environment (comparable to Excel in some sense).')

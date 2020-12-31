@@ -1,1 +1,1 @@
-Item(by='danbolt', descendants=None, kids=None, score=None, time=1609360360, title=None, item_type='comment', url=None, parent=25585360, text='I’d be curious to see how feasible a rollback-based implementation would be for emulating the game.')
+Item(by='danbolt', descendants=None, kids=[25588261], score=None, time=1609360360, title=None, item_type='comment', url=None, parent=25585360, text='I’d be curious to see how feasible a rollback-based implementation would be for emulating the game.')

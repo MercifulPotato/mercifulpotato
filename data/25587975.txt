@@ -1,0 +1,1 @@
+Item(by='vakili', descendants=None, kids=None, score=None, time=1609373705, title=None, item_type='comment', url=None, parent=25587122, text='<p><pre><code>  echo $(expr &#x27;(&#x27; $(date -d 2070-01-01 +%s) - $(date +%s) + 86399 &#x27;)&#x27; &#x2F; 604800) &quot; weeks until I turn 80&quot;</code></pre>')

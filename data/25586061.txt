@@ -1,1 +1,1 @@
-Item(by='dash2', descendants=None, kids=None, score=None, time=1609362146, title=None, item_type='comment', url=None, parent=25584058, text='It sounds like you agree that 1.0001 is a no-brainer, but that democracies may be tricked into rejecting it.')
+Item(by='dash2', descendants=None, kids=[25587461], score=None, time=1609362146, title=None, item_type='comment', url=None, parent=25584058, text='It sounds like you agree that 1.0001 is a no-brainer, but that democracies may be tricked into rejecting it.')

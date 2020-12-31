@@ -1,0 +1,1 @@
+Item(by='hackmiester', descendants=None, kids=[25589068], score=None, time=1609380603, title=None, item_type='comment', url=None, parent=25588250, text='No, just, like, an HTML file.<p>Put the JS in &lt;script&gt; elements, and the CSS in &lt;style&gt; elements, all within the HTML (in the &lt;head&gt;, or at the end, as appropriate).')
