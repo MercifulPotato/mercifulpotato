@@ -1,0 +1,1 @@
+Item(by='sjansen', descendants=None, kids=None, score=None, time=1609429032, title=None, item_type='comment', url=None, parent=25593370, text='Just a guess without reading the code, the unused bit is probably to avoid complications from signed integers. If the sign bit is never set, signed and unsigned integers can store the same data.')

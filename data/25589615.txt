@@ -1,1 +1,1 @@
-Item(by='MR4D', descendants=None, kids=None, score=None, time=1609389038, title=None, item_type='comment', url=None, parent=25585790, text='&gt; But that&#x27;s 500%&#x2F;5x higher than 2017<p>It’s 5x higher than 2020!!!')
+Item(by='MR4D', descendants=None, kids=[25594876], score=None, time=1609389038, title=None, item_type='comment', url=None, parent=25585790, text='&gt; But that&#x27;s 500%&#x2F;5x higher than 2017<p>It’s 5x higher than 2020!!!')

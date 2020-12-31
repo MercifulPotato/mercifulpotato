@@ -1,0 +1,1 @@
+Item(by='afavour', descendants=None, kids=None, score=None, time=1609427873, title=None, item_type='comment', url=None, parent=25593324, text='I think it’s that the tests aren’t run, and consequently, they don’t guarantee the tests pass, which means it might not behave exactly the same as a tier 1 platform. So the difference is bigger than just tests.')

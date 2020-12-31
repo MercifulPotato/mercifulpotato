@@ -1,1 +1,1 @@
-Item(by='visarga', descendants=None, kids=None, score=None, time=1609391929, title=None, item_type='comment', url=None, parent=25589779, text='Yeah, people won&#x27;t buy &#x27;crippled&#x27; car brands. Probably no manufacturer will dare be first.')
+Item(by='visarga', descendants=None, kids=[25593438], score=None, time=1609391929, title=None, item_type='comment', url=None, parent=25589779, text='Yeah, people won&#x27;t buy &#x27;crippled&#x27; car brands. Probably no manufacturer will dare be first.')

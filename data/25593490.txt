@@ -1,0 +1,1 @@
+Item(by='Nicksil', descendants=None, kids=[25593558], score=None, time=1609428505, title=None, item_type='comment', url=None, parent=25593434, text='&gt; There should be a way to signal to browser a div will be used for a button or whatever and I believe people would be happy to use such a solution.<p>That solution already exists: replace &quot;div&quot; with &quot;button&quot;')

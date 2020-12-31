@@ -1,0 +1,1 @@
+Item(by='koenigdavidmj', descendants=None, kids=None, score=None, time=1609427590, title=None, item_type='comment', url=None, parent=25593324, text='Tier2 compiler can be built with a cross-compiler, perhaps, but you don’t have consistent access to hardware to run the tests on. Just a guess')

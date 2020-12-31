@@ -1,1 +1,1 @@
-Item(by='yostrovs', descendants=None, kids=None, score=None, time=1609422244, title=None, item_type='comment', url=None, parent=25592334, text='SpaceX rockets seem too follow expected trajectories when using Texas science. The Lord works in mysterious ways.')
+Item(by='yostrovs', descendants=None, kids=[25592777, 25593782, 25592787], score=None, time=1609422244, title=None, item_type='comment', url=None, parent=25592334, text='SpaceX rockets seem too follow expected trajectories when using Texas science. The Lord works in mysterious ways.')

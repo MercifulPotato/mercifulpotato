@@ -1,0 +1,1 @@
+Item(by='esprehn', descendants=None, kids=None, score=None, time=1609438707, title=None, item_type='comment', url=None, parent=25591946, text='This is a feature that would save memory though. Instead of running N different copies of Electron or both Firefox and Electron, you could install PWAs to your desktop and have a single running browser on your system.')

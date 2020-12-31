@@ -1,1 +1,1 @@
-Item(by='appleflaxen', descendants=None, kids=None, score=None, time=1609420995, title=None, item_type='comment', url=None, parent=25591970, text='your last sentence is hard to understand. i think there is a typo or an extra word somewhere.')
+Item(by='appleflaxen', descendants=None, kids=[25593903], score=None, time=1609420995, title=None, item_type='comment', url=None, parent=25591970, text='your last sentence is hard to understand. i think there is a typo or an extra word somewhere.')

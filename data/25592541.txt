@@ -1,1 +1,1 @@
-Item(by='rvba', descendants=None, kids=None, score=None, time=1609421894, title=None, item_type='comment', url=None, parent=25588014, text='Uploading propertiary data to a cloud is a big no.')
+Item(by='rvba', descendants=None, kids=[25593970], score=None, time=1609421894, title=None, item_type='comment', url=None, parent=25588014, text='Uploading propertiary data to a cloud is a big no.')

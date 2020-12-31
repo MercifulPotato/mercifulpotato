@@ -1,0 +1,1 @@
+Item(by='xingyzt', descendants=None, kids=[25596224, 25594620], score=None, time=1609434056, title=None, item_type='comment', url=None, parent=25594197, text='The clickable divs should be focusable and have the aria button role. &lt;div tabindex=&quot;0&quot; role=&quot;button&quot;&gt;...&lt;&#x2F;div&gt;')

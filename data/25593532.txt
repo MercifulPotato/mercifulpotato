@@ -1,0 +1,1 @@
+Item(by='icedchai', descendants=None, kids=None, score=None, time=1609428791, title=None, item_type='comment', url=None, parent=25590703, text='You&#x27;d be surprised. I worked at a startup and our entire deployment system was based on &quot;git pulls&quot; onto each production node, recompiling binaries, etc. Yes, it was crazy and also slow.')

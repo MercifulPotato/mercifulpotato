@@ -1,0 +1,1 @@
+Item(by='marcinzm', descendants=None, kids=[25594897], score=None, time=1609433635, title=None, item_type='comment', url=None, parent=25592472, text='I can either spend a lot of time rewriting my already tested and working code if my application scales to the point of hitting a CPU bottleneck OR I can just try using PyPy.')

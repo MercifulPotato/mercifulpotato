@@ -1,0 +1,1 @@
+Item(by='madan', descendants=None, kids=None, score=None, time=1609445539, title=None, item_type='comment', url=None, parent=25596380, text='This push is not the native push like FCM&#x2F;APNS that show notifications to the users. These are payloads that update the app (e.g., location of the cars on the map or eta) and never show any notifications to the user.')

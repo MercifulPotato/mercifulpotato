@@ -1,0 +1,1 @@
+Item(by='Gracana', descendants=None, kids=[25596083], score=None, time=1609441546, title=None, item_type='comment', url=None, parent=25595458, text='That really isn&#x27;t systemd&#x27;s fault. Software needs to manage the efi variables, so systemd mounts efivarfs writable.')

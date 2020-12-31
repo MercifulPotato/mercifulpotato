@@ -1,1 +1,1 @@
-Item(by='person_of_color', descendants=None, kids=None, score=None, time=1609421429, title=None, item_type='comment', url=None, parent=25582000, text='What is the number one gamechanger for sleep?')
+Item(by='person_of_color', descendants=None, kids=[25592760], score=None, time=1609421429, title=None, item_type='comment', url=None, parent=25582000, text='What is the number one gamechanger for sleep?')

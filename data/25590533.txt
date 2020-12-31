@@ -1,1 +1,1 @@
-Item(by='trevyn', descendants=None, kids=None, score=None, time=1609400602, title=None, item_type='comment', url=None, parent=25590436, text='I guess it’s Good&#x2F;Fast&#x2F;Cheap, pick 2, duplicates allowed?')
+Item(by='trevyn', descendants=None, kids=[25596590], score=None, time=1609400602, title=None, item_type='comment', url=None, parent=25590436, text='I guess it’s Good&#x2F;Fast&#x2F;Cheap, pick 2, duplicates allowed?')

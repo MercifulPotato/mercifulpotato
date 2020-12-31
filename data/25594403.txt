@@ -1,0 +1,1 @@
+Item(by='sudhirj', descendants=None, kids=None, score=None, time=1609433849, title=None, item_type='comment', url=None, parent=25594346, text='Might not even need to use Redis. If the message has a proper idempotent ID a transactional database is more than enough. If the consumer is running MySQL&#x2F;Postgres&#x2F;DynamoDB etc nothing else is needed.')

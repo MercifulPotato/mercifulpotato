@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=2, kids=[25592567, 25592607], score=11, time=1609419277, title='Libriscv: RISC-V Binary Translation', item_type='story', url='https://fwsgonzo.medium.com/libriscv-risc-v-binary-translation-e080f52ee696', parent=None, text=None)
+Item(by='ingve', descendants=9, kids=[25592567, 25592607, 25594210], score=38, time=1609419277, title='Libriscv: RISC-V Binary Translation', item_type='story', url='https://fwsgonzo.medium.com/libriscv-risc-v-binary-translation-e080f52ee696', parent=None, text=None)

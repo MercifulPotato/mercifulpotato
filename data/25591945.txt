@@ -1,1 +1,1 @@
-Item(by='baq', descendants=None, kids=None, score=None, time=1609416676, title=None, item_type='comment', url=None, parent=25583413, text='does it make any difference to my point?')
+Item(by='baq', descendants=None, kids=[25593375], score=None, time=1609416676, title=None, item_type='comment', url=None, parent=25583413, text='does it make any difference to my point?')

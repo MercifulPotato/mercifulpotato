@@ -1,0 +1,1 @@
+Item(by='seunosewa', descendants=None, kids=None, score=None, time=1609438799, title=None, item_type='comment', url=None, parent=25594202, text='I guess I incorrectly understood “fully concurrent threads” to mean threads that actually run in parallel, like Java threads. The redundant word “fully” threw me off; apologies.')

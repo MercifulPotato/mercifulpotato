@@ -1,1 +1,1 @@
-Item(by='aluket', descendants=0, kids=None, score=2, time=1609419942, title='Yamaha’s DX7 synthesiser changed modern music', item_type='story', url='https://www.economist.com/prospero/2020/12/31/yamahas-dx7-synthesiser-changed-modern-music', parent=None, text=None)
+Item(by='aluket', descendants=4, kids=[25596110, 25595029], score=11, time=1609419942, title='Yamaha’s DX7 synthesiser changed modern music', item_type='story', url='https://www.economist.com/prospero/2020/12/31/yamahas-dx7-synthesiser-changed-modern-music', parent=None, text=None)

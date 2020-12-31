@@ -1,1 +1,1 @@
-Item(by='mobilio', descendants=None, kids=None, score=None, time=1609383692, title=None, item_type='comment', url=None, parent=25587432, text='This pandemia really crush all tourism industry...')
+Item(by='mobilio', descendants=None, kids=[25593332], score=None, time=1609383692, title=None, item_type='comment', url=None, parent=25587432, text='This pandemia really crush all tourism industry...')

@@ -1,0 +1,1 @@
+Item(by='rad_gruchalski', descendants=None, kids=None, score=None, time=1609440881, title=None, item_type='comment', url=None, parent=25595373, text='Yes. Kafka does not have a concept of a queue. Messages are written to an append only log and the broker does not track the state of the message. The consumer is responsible for tracking the offset. Kafka is not a queue.')

@@ -1,0 +1,1 @@
+Item(by='ibraheemdev', descendants=None, kids=None, score=None, time=1609435914, title=None, item_type='comment', url=None, parent=25594740, text='Rocket 0.5 (which is coming soon) will compile on stable. Alternatively, you can the master git branch directly. Very few libraries <i>still</i> require nightly. Most of them have moved or are moving to stable.')

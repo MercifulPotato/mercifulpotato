@@ -1,0 +1,1 @@
+Item(by='ChrisSD', descendants=None, kids=[25593652], score=None, time=1609429112, title=None, item_type='comment', url=None, parent=25593559, text='I&#x27;m not sure what you mean by conversion between String and &amp;str? To get an owned String from a &amp;str you just use the `into` method, no?')

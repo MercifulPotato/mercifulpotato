@@ -1,0 +1,1 @@
+Item(by='sssilver', descendants=None, kids=None, score=None, time=1609426491, title=None, item_type='comment', url=None, parent=25592127, text='Genuinely curious coz I don’t understand mobile networks very well — why not just send frames over websockets? You still get a persistent TCP connection and there’s no need for pushing or polling of any kind.')

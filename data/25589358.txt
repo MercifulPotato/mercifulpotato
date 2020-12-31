@@ -1,1 +1,1 @@
-Item(by='SammyNameTaken', descendants=None, kids=None, score=None, time=1609386239, title=None, item_type='comment', url=None, parent=25589304, text='suppose you get framed by having a vulnerability in your vehicle getting exploited')
+Item(by='SammyNameTaken', descendants=None, kids=[25594631, 25594616], score=None, time=1609386239, title=None, item_type='comment', url=None, parent=25589304, text='suppose you get framed by having a vulnerability in your vehicle getting exploited')

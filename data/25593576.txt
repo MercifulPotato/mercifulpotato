@@ -1,0 +1,1 @@
+Item(by='cjbconnor', descendants=None, kids=[25593610], score=None, time=1609429007, title=None, item_type='comment', url=None, parent=25592121, text='Photoprism doesn&#x27;t move photos around, I ran it in a docker container and just mounted my existing folder to &#x2F;photoprism&#x2F;originals and it worked fine.')

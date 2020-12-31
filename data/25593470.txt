@@ -1,0 +1,1 @@
+Item(by='halfmatthalfcat', descendants=None, kids=[25594737], score=None, time=1609428386, title=None, item_type='comment', url=None, parent=25593104, text='Gulp is still widely used for more general build-related tasks like moving files around but sometimes you have a more complex build pipeline where you need to invoke bundlers&#x2F;babel&#x2F;etc via Gulp.')

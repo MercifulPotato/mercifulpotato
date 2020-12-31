@@ -1,1 +1,1 @@
-Item(by='adrian_mrd', descendants=0, kids=None, score=5, time=1609276118, title='A delightful list of personal tech blogs', item_type='story', url='https://github.com/jkup/awesome-personal-blogs', parent=None, text=None)
+Item(by='adrian_mrd', descendants=1, kids=[25593194], score=5, time=1609276118, title='A delightful list of personal tech blogs', item_type='story', url='https://github.com/jkup/awesome-personal-blogs', parent=None, text=None)

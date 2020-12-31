@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1609431524, title=None, item_type='comment', url=None, parent=25593964, text='(You&#x27;d probably replace the first two lines with &quot;use lazy_static::lazy_static;&quot; in today&#x27;s Rust, that older style isn&#x27;t as idiomatic.)')

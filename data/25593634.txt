@@ -1,0 +1,1 @@
+Item(by='latch', descendants=None, kids=None, score=None, time=1609429307, title=None, item_type='comment', url=None, parent=25593162, text='That&#x27;s A LOT of JS. At a quick glance, datadog appears to do a decent job with a lot less. Grafana does it in about ~20x less.<p>Also, doesn&#x27;t explain why a fresh install of Kibana is 5.5x larger than a fresh install of Postgres.')

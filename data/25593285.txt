@@ -1,0 +1,1 @@
+Item(by='alexilliamson', descendants=None, kids=None, score=None, time=1609427189, title=None, item_type='comment', url=None, parent=25589051, text='I&#x27;ve been a heavy user of all 3, and pandas syntax is a nightmare compared to dplyR or data.table in R.  That being said, I still use pandas because I prefer python for non-analysis.')

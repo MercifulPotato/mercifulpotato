@@ -1,1 +1,1 @@
-Item(by='0verr1d3', descendants=None, kids=None, score=None, time=1609351492, title=None, item_type='comment', url=None, parent=25572255, text='I remember you from reddit! Awesome project.')
+Item(by='0verr1d3', descendants=None, kids=[25584607], score=None, time=1609351492, title=None, item_type='comment', url=None, parent=25572255, text='I remember you from reddit! Awesome project.')

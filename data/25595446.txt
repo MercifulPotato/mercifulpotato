@@ -1,0 +1,1 @@
+Item(by='aplummer', descendants=None, kids=[25595591, 25596010], score=None, time=1609439240, title=None, item_type='comment', url=None, parent=25595376, text='You can complete JIRA tickets just by using a commit title format, and I don’t buy that there is a better system for QA to report the bugs or feedback themselves...')

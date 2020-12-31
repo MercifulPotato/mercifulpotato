@@ -1,0 +1,1 @@
+Item(by='sciurus', descendants=None, kids=[25596602], score=None, time=1609432768, title=None, item_type='comment', url=None, parent=25592127, text='&gt; We have operated this system with more than 1.5M concurrent connections and pushes over 250,000 messages per second.<p>1.5 million? I thought Uber would have more simultaneous active clients than that.')

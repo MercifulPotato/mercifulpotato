@@ -1,1 +1,1 @@
-Item(by='e98cuenc', descendants=None, kids=None, score=None, time=1609401110, title=None, item_type='comment', url=None, parent=25588325, text='Paddle.com does that. At least in theory, I&#x27;m (not yet) a customer and haven&#x27;t tried it by myself.')
+Item(by='e98cuenc', descendants=None, kids=[25593229], score=None, time=1609401110, title=None, item_type='comment', url=None, parent=25588325, text='Paddle.com does that. At least in theory, I&#x27;m (not yet) a customer and haven&#x27;t tried it by myself.')

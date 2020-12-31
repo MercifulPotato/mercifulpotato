@@ -1,1 +1,1 @@
-Item(by='kimundi', descendants=None, kids=None, score=None, time=1609421217, title=None, item_type='comment', url=None, parent=25591744, text='Affinity is a property of the type in Rust, so any given value is affine or not depending on which type it has.')
+Item(by='kimundi', descendants=None, kids=[25594332], score=None, time=1609421217, title=None, item_type='comment', url=None, parent=25591744, text='Affinity is a property of the type in Rust, so any given value is affine or not depending on which type it has.')

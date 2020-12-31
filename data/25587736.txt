@@ -1,1 +1,1 @@
-Item(by='EvanAnderson', descendants=None, kids=None, score=None, time=1609371876, title=None, item_type='comment', url=None, parent=25587311, text='Flash animations could mix bitmap and vector resources. No video container can offer artifact-free scaling of vector resources.')
+Item(by='EvanAnderson', descendants=None, kids=[25593703], score=None, time=1609371876, title=None, item_type='comment', url=None, parent=25587311, text='Flash animations could mix bitmap and vector resources. No video container can offer artifact-free scaling of vector resources.')

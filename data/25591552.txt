@@ -1,1 +1,1 @@
-Item(by='rolisz', descendants=0, kids=None, score=3, time=1609411853, title='AI Update, Late 2020 – dumpster fire', item_type='story', url='https://blog.piekniewski.info/2020/12/30/ai-update-late-2020-dumpster-fire/', parent=None, text=None)
+Item(by='rolisz', descendants=16, kids=[25592839, 25592894, 25593095, 25593091, 25593501, 25593871, 25592984], score=23, time=1609411853, title='AI Update, Late 2020 – Dumpster Fire', item_type='story', url='https://blog.piekniewski.info/2020/12/30/ai-update-late-2020-dumpster-fire/', parent=None, text=None)

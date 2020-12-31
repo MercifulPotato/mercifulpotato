@@ -1,0 +1,1 @@
+Item(by='kentonv', descendants=None, kids=[25594101], score=None, time=1609428820, title=None, item_type='comment', url=None, parent=25589557, text='Certainly you wouldn&#x27;t use protobuf to encode TCP packets. It&#x27;s meant for encoding application-layer messages, typically ones that aren&#x27;t especially large but contain a lot of complex structure.')

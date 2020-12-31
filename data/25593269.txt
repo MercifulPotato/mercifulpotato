@@ -1,0 +1,1 @@
+Item(by='chrisseaton', descendants=None, kids=[25593410, 25594055], score=None, time=1609427079, title=None, item_type='comment', url=None, parent=25593159, text='&gt; Not fully.<p>This isn&#x27;t true - they <i>are</i> fully concurrent.<p>The GIL prevents <i>parallelism</i> - not <i>concurrency</i>.')

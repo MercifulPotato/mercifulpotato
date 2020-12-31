@@ -1,0 +1,1 @@
+Item(by='zinekeller', descendants=None, kids=[25594281], score=None, time=1609430135, title=None, item_type='comment', url=None, parent=25590468, text='When I found problems apparently relating to musl, it unfortunately mostly (like around 98%) ends up to be an application relying on GNUisms instead of actually being a musl bug.')

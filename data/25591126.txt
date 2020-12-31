@@ -1,1 +1,1 @@
-Item(by='bserfaty', descendants=None, kids=None, score=None, time=1609407326, title=None, item_type='comment', url=None, parent=25590846, text='It always seems to me that Jira was used to produce Jira itself and that&#x27;s why it turned out this way.')
+Item(by='bserfaty', descendants=None, kids=[25594018], score=None, time=1609407326, title=None, item_type='comment', url=None, parent=25590846, text='It always seems to me that Jira was used to produce Jira itself and that&#x27;s why it turned out this way.')

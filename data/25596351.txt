@@ -1,0 +1,1 @@
+Item(by='sudhirj', descendants=None, kids=None, score=None, time=1609444102, title=None, item_type='comment', url=None, parent=25596276, text='Makes sense, yeah. If a system architecture demands that failures be cascaded downstream to all dependencies, then queues should <i>not</i> be used. There are definitely architectures for which this is a reasonable demand.')
