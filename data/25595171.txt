@@ -1,1 +1,1 @@
-Item(by='jaredtn', descendants=None, kids=None, score=None, time=1609437752, title=None, item_type='comment', url=None, parent=25593262, text='Quite excited to read this. Murphy does a great job of explaining concepts from first principles.')
+Item(by='jaredtn', descendants=None, kids=[25599841], score=None, time=1609437752, title=None, item_type='comment', url=None, parent=25593262, text='Quite excited to read this. Murphy does a great job of explaining concepts from first principles.')

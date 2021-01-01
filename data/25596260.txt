@@ -1,1 +1,1 @@
-Item(by='billfruit', descendants=None, kids=None, score=None, time=1609443531, title=None, item_type='comment', url=None, parent=25595559, text='Enter the Dungeon seems more polished than Nuclear Throne, though it is also more difficult.')
+Item(by='billfruit', descendants=None, kids=[25597913], score=None, time=1609443531, title=None, item_type='comment', url=None, parent=25595559, text='Enter the Dungeon seems more polished than Nuclear Throne, though it is also more difficult.')

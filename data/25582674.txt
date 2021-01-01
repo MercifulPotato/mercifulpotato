@@ -1,1 +1,1 @@
-Item(by='bowaggoner', descendants=None, kids=None, score=None, time=1609343458, title=None, item_type='comment', url=None, parent=25582665, text='Hi all, seems like a slow news day so thought you might enjoy this little page. Comments, suggestions, discussion, criticism welcome!')
+Item(by='bowaggoner', descendants=None, kids=[25596741], score=None, time=1609343458, title=None, item_type='comment', url=None, parent=25582665, text='Hi all, seems like a slow news day so thought you might enjoy this little page. Comments, suggestions, discussion, criticism welcome!')

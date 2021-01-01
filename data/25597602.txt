@@ -1,0 +1,1 @@
+Item(by='cutler', descendants=None, kids=None, score=None, time=1609451596, title=None, item_type='comment', url=None, parent=25596666, text='Surely it&#x27;s an admission of failure if one has to resort to Docker just to get a scripting language to function on a local machine? It&#x27;s only a matter of time before someone finds a use for Kubernetes on a local machine.')

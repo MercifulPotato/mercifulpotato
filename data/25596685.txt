@@ -1,0 +1,1 @@
+Item(by='SeanLuke', descendants=None, kids=[25597256, 25597276], score=None, time=1609445920, title=None, item_type='comment', url=None, parent=25596311, text='&gt; Yamale’s tox.ini, for example, depends upon two different versions of Python, 3.6 and 3.8.<p>What?<p>It seems to me that <i>this</i> awful design choice is root of the problem, and not MacOS at all.')

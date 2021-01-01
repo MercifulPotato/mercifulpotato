@@ -1,1 +1,1 @@
-Item(by='Dracophoenix', descendants=None, kids=None, score=None, time=1609443666, title=None, item_type='comment', url=None, parent=25593771, text='Given how much you&#x27;ve waxed poetic about Austin, what&#x27;s pushing you to move to SV? Money, school, a startup idea?')
+Item(by='Dracophoenix', descendants=None, kids=[25597372], score=None, time=1609443666, title=None, item_type='comment', url=None, parent=25593771, text='Given how much you&#x27;ve waxed poetic about Austin, what&#x27;s pushing you to move to SV? Money, school, a startup idea?')

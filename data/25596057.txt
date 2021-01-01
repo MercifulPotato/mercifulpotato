@@ -1,1 +1,1 @@
-Item(by='dmos62', descendants=None, kids=None, score=None, time=1609442228, title=None, item_type='comment', url=None, parent=25595343, text='That&#x27;s what the Galactic Republic said just before it became the Galactic Empire.')
+Item(by='dmos62', descendants=None, kids=[25599846], score=None, time=1609442228, title=None, item_type='comment', url=None, parent=25595343, text='That&#x27;s what the Galactic Republic said just before it became the Galactic Empire.')

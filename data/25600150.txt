@@ -1,0 +1,1 @@
+Item(by='sitkack', descendants=None, kids=None, score=None, time=1609467426, title=None, item_type='comment', url=None, parent=25600012, text='The cabal that runs CPython ignores both standardization, the standard library and interop with other implementations.<p>PyPy shouldn&#x27;t be the new default, but neither should be CPython.')

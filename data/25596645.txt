@@ -1,0 +1,1 @@
+Item(by='theBashShell', descendants=5, kids=[25598988, 25600524, 25598401, 25598469, 25599135], score=95, time=1609445648, title='Deterministic Aperture: A distributed, load balancing algorithm', item_type='story', url='https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='uncledave', descendants=None, kids=None, score=None, time=1609445268, title=None, item_type='comment', url=None, parent=25596570, text='Yes. I want an escape these days. Worked my way through the Expanse series this year.')
+Item(by='uncledave', descendants=None, kids=[25596676], score=None, time=1609445268, title=None, item_type='comment', url=None, parent=25596570, text='Yes. I want an escape these days. Worked my way through the Expanse series this year.')

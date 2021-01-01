@@ -1,0 +1,1 @@
+Item(by='zemo', descendants=None, kids=None, score=None, time=1609454276, title=None, item_type='comment', url=None, parent=25597377, text='I dunno, I&#x27;ve been programming Go for 9 years and have had far fewer problems with dependencies than I ever did with pip, gem, or npm. I don&#x27;t think it&#x27;s perfect by any means, but none of them are.')

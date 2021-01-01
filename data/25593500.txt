@@ -1,1 +1,1 @@
-Item(by='pa7x1', descendants=None, kids=None, score=None, time=1609428566, title=None, item_type='comment', url=None, parent=25591687, text='Why do you assume that the reward for replication needs to be a constant?')
+Item(by='pa7x1', descendants=None, kids=[25596711], score=None, time=1609428566, title=None, item_type='comment', url=None, parent=25591687, text='Why do you assume that the reward for replication needs to be a constant?')

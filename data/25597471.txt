@@ -1,0 +1,1 @@
+Item(by='giancarlostoro', descendants=None, kids=None, score=None, time=1609450850, title=None, item_type='comment', url=None, parent=25593165, text='I like MongoDBs ObjectIDs because they secretly maintain a timestamp, therefore... if you sort it sorts by that value. MongoDB isnt for every use case but when I do use it I try to take advantage of everything it has.')

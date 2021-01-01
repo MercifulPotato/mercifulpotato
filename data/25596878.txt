@@ -1,0 +1,1 @@
+Item(by='xapata', descendants=None, kids=[25597197], score=None, time=1609447281, title=None, item_type='comment', url=None, parent=25596719, text='I&#x27;ve had a better experience using Conda for just Python and Pip, and anything Pip doesn&#x27;t handle as I wish, then using Pip for the bulk of the dependency tree.  Pip&#x27;s new resolver should make this even better.')

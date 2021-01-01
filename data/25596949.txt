@@ -1,0 +1,1 @@
+Item(by='fiddlerwoaroof', descendants=None, kids=[25596977], score=None, time=1609447710, title=None, item_type='comment', url=None, parent=25596871, text='Nope, per MDN:<p>&gt; When multiple is specified, most browsers will show a scrolling list box instead of a single line dropdown.<p>This is not “dropdown with multiselect” because it doesn’t “drop down”')

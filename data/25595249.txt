@@ -1,1 +1,1 @@
-Item(by='dawnerd', descendants=None, kids=None, score=None, time=1609438126, title=None, item_type='comment', url=None, parent=25590959, text='Okay but you’ll still find other car manufacturers doing recalls over major failures like that.')
+Item(by='dawnerd', descendants=None, kids=[25599954], score=None, time=1609438126, title=None, item_type='comment', url=None, parent=25590959, text='Okay but you’ll still find other car manufacturers doing recalls over major failures like that.')

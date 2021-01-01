@@ -1,1 +1,1 @@
-Item(by='bestinterest', descendants=None, kids=None, score=None, time=1609443886, title=None, item_type='comment', url=None, parent=25594145, text='Is it just me that finds all the text rendering on this page really bad?')
+Item(by='bestinterest', descendants=None, kids=[25600219, 25596929, 25597893, 25599424], score=None, time=1609443886, title=None, item_type='comment', url=None, parent=25594145, text='Is it just me that finds all the text rendering on this page really bad?')

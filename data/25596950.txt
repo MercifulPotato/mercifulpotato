@@ -1,0 +1,1 @@
+Item(by='proc0', descendants=None, kids=None, score=None, time=1609447712, title=None, item_type='comment', url=None, parent=25585460, text='I made a plugin for photoshop around 2010 to do the exact same thing. It has a slicer tool, and an API for it, so spitting out HTML was easy, but just used it as an internal tool for one of my first web dev jobs.')

@@ -1,0 +1,1 @@
+Item(by='ryanbrunner', descendants=None, kids=None, score=None, time=1609448921, title=None, item_type='comment', url=None, parent=25595632, text='I&#x27;ve definitely used issue tracking systems to look into why a bug was fixed a particular way - if a fix is non-intuitive, including the issue # in the commit messages can give you a lot more context than just a commit message.')

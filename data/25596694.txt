@@ -1,0 +1,1 @@
+Item(by='ComputerGuru', descendants=None, kids=None, score=None, time=1609446001, title=None, item_type='comment', url=None, parent=25594804, text='The monotonicity component of ULID is - confusingly - an optional part of the spec (which makes the spec weird). There is discussion to drop this component from the official spec altogether.')

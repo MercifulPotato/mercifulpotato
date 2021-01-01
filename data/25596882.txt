@@ -1,1 +1,1 @@
-Item(by='schwartzworld', descendants=None, kids=None, score=None, time=1609447310, title=None, item_type='comment', url=None, parent=25589238, text='Is this a covid skepticism thing? Because it sounds like a covid skepticism thing.')
+Item(by='schwartzworld', descendants=None, kids=[25598259], score=None, time=1609447310, title=None, item_type='comment', url=None, parent=25589238, text='Is this a covid skepticism thing? Because it sounds like a covid skepticism thing.')

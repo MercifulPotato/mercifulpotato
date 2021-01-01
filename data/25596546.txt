@@ -1,1 +1,1 @@
-Item(by='jbegley', descendants=0, kids=None, score=1, time=1609445121, title='Microsoft Says Russian Hackers Viewed Some of Its Source Code', item_type='story', url='https://www.nytimes.com/2020/12/31/technology/microsoft-russia-hack.html', parent=None, text=None)
+Item(by='jbegley', descendants=0, kids=[25596640], score=2, time=1609445121, title='Microsoft Says Russian Hackers Viewed Some of Its Source Code', item_type='story', url='https://www.nytimes.com/2020/12/31/technology/microsoft-russia-hack.html', parent=None, text=None)

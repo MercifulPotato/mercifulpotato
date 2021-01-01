@@ -1,0 +1,1 @@
+Item(by='srtjstjsj', descendants=None, kids=None, score=None, time=1609451267, title=None, item_type='comment', url=None, parent=25595892, text='The source code is already out there, so any compromises have already been found and exploited. Leaking it further won&#x27;t create more vulnerabilities, and more likely will cause existing vulnerabilities to be found by white hats')

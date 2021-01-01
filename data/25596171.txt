@@ -1,1 +1,1 @@
-Item(by='hu3', descendants=None, kids=None, score=None, time=1609442920, title=None, item_type='comment', url=None, parent=25593794, text='in terms of cognitive load, yes')
+Item(by='hu3', descendants=None, kids=[25597309], score=None, time=1609442920, title=None, item_type='comment', url=None, parent=25593794, text='in terms of cognitive load, yes')

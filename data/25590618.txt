@@ -1,1 +1,1 @@
-Item(by='bluebit', descendants=None, kids=None, score=None, time=1609401689, title=None, item_type='comment', url=None, parent=25590449, text='You do realize that the bull run is back again? Might be a good idea to look into this again.')
+Item(by='bluebit', descendants=None, kids=[25599921], score=None, time=1609401689, title=None, item_type='comment', url=None, parent=25590449, text='You do realize that the bull run is back again? Might be a good idea to look into this again.')

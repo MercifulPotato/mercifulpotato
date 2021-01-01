@@ -1,0 +1,1 @@
+Item(by='baby', descendants=None, kids=None, score=None, time=1609469234, title=None, item_type='comment', url=None, parent=25599323, text='When reading the article I was wondering: what if clients just spam the queue (by retrying) because they don’t see any responses coming their way (because subscribers have a long backlog to get through first).')

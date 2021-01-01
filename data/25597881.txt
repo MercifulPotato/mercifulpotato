@@ -1,0 +1,1 @@
+Item(by='federico_c', descendants=None, kids=None, score=None, time=1609453484, title=None, item_type='comment', url=None, parent=25596442, text='Nim natively supports 64bit RISC-V since years and 32bit in the current devel.<p>Also, the compiler itself is built for rv64 in Debian.')

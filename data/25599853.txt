@@ -1,0 +1,1 @@
+Item(by='libeclipse', descendants=None, kids=None, score=None, time=1609465164, title=None, item_type='comment', url=None, parent=25590956, text='Not necessarily. Is unencrypted data even sent to the server? That&#x27;s controlled at the application layer.<p>Of course you could setup TLS and FDE but this doesn&#x27;t guarantee that your data will be safe.')

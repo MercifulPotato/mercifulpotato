@@ -1,0 +1,1 @@
+Item(by='kawabungah', descendants=None, kids=None, score=None, time=1609460405, title=None, item_type='comment', url=None, parent=25598019, text='Assuming you own the DNS server and redirect traffic to a different IP address, how will your fake host provide the CA-verified certificate to the client?')

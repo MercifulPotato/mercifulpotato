@@ -1,0 +1,1 @@
+Item(by='ComputerGuru', descendants=None, kids=None, score=None, time=1609446478, title=None, item_type='comment', url=None, parent=25592674, text='Ulid doesn’t have a “machine id” or “node id” component. I think you are mixing it up with one of the uuid variants.')

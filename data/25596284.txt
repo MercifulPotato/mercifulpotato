@@ -1,1 +1,1 @@
-Item(by='xkeysc0re', descendants=0, kids=None, score=1, time=1609443684, title='Show HN: This Wojak Does Not Exist', item_type='story', url='https://thiswojakdoesnotexist.com/', parent=None, text=None)
+Item(by='xkeysc0re', descendants=3, kids=[25600164, 25599280, 25600090, 25599752], score=15, time=1609443684, title='Show HN: This Wojak Does Not Exist', item_type='story', url='https://thiswojakdoesnotexist.com/', parent=None, text=None)
