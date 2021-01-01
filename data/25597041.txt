@@ -1,1 +1,1 @@
-Item(by='macjohnmcc', descendants=None, kids=None, score=None, time=1609448306, title=None, item_type='comment', url=None, parent=25596991, text='And it was not compressed it was just a bunch of files and folders. My guess is it was around 15 CD-ROMs')
+Item(by='macjohnmcc', descendants=None, kids=[25604666], score=None, time=1609448306, title=None, item_type='comment', url=None, parent=25596991, text='And it was not compressed it was just a bunch of files and folders. My guess is it was around 15 CD-ROMs')

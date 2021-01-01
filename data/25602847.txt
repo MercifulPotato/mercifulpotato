@@ -1,1 +1,1 @@
-Item(by='FreeFull', descendants=None, kids=None, score=None, time=1609504600, title=None, item_type='comment', url=None, parent=25602315, text='They still use coca leaves to make the syrup, just with the cocaine removed.')
+Item(by='FreeFull', descendants=None, kids=[25603920], score=None, time=1609504600, title=None, item_type='comment', url=None, parent=25602315, text='They still use coca leaves to make the syrup, just with the cocaine removed.')

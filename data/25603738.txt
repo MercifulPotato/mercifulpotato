@@ -1,0 +1,1 @@
+Item(by='jamesmd', descendants=None, kids=[25603884, 25604300], score=None, time=1609513833, title=None, item_type='comment', url=None, parent=25603706, text='The board already has spi flash but it’s only 8 or 16mb. Enough for buildroot or maybe openwrt but Debian ain’t going to fit in there.')

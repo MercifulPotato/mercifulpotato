@@ -1,0 +1,1 @@
+Item(by='klodolph', descendants=None, kids=[25605239], score=None, time=1609517315, title=None, item_type='comment', url=None, parent=25604009, text='I don’t think anyone is claiming that Bazel is “the same thing” as distcc. But they both solve the problem of distributed builds.')

@@ -1,1 +1,1 @@
-Item(by='ntsplnkv2', descendants=None, kids=None, score=None, time=1609353650, title=None, item_type='comment', url=None, parent=25583807, text='You&#x27;re missing the point.<p>How do you know that wikileaks is trustworthy? Answer please.')
+Item(by='ntsplnkv2', descendants=None, kids=[25604831], score=None, time=1609353650, title=None, item_type='comment', url=None, parent=25583807, text='You&#x27;re missing the point.<p>How do you know that wikileaks is trustworthy? Answer please.')

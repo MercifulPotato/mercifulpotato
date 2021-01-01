@@ -1,1 +1,1 @@
-Item(by='barefeg', descendants=None, kids=None, score=None, time=1609324278, title=None, item_type='comment', url=None, parent=25572110, text='How is this not just the kubernetes client for x programming language?')
+Item(by='barefeg', descendants=None, kids=[25605777], score=None, time=1609324278, title=None, item_type='comment', url=None, parent=25572110, text='How is this not just the kubernetes client for x programming language?')

@@ -1,1 +1,1 @@
-Item(by='RHSeeger', descendants=None, kids=None, score=None, time=1609512562, title=None, item_type='comment', url=None, parent=25602753, text='The problem is how to allow the former while preventing the latter, in a way that is reasonable for small businesses.')
+Item(by='RHSeeger', descendants=None, kids=[25603836], score=None, time=1609512562, title=None, item_type='comment', url=None, parent=25602753, text='The problem is how to allow the former while preventing the latter, in a way that is reasonable for small businesses.')

@@ -1,0 +1,1 @@
+Item(by='recursive', descendants=None, kids=None, score=None, time=1609530600, title=None, item_type='comment', url=None, parent=25604402, text='Right here, by me.  Or perhaps I&#x27;m insane.<p>Using goto ensures that all of a particular state&#x27;s logic is nearby in code.  It also eliminates the need to check an exhaustive list of irrelevant switch cases at runtime.')

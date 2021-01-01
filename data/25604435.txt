@@ -1,0 +1,1 @@
+Item(by='rwmj', descendants=None, kids=[25604481, 25604713], score=None, time=1609519212, title=None, item_type='comment', url=None, parent=25603973, text='5MB and it ran SLS!  I even managed to run X11 and emacs (xemacs I think?), although it was very much a matter of either running X11+emacs <i>or</i> compiling but not both.')

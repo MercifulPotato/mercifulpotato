@@ -1,1 +1,1 @@
-Item(by='Alexendoo', descendants=None, kids=[25601034, 25600483], score=None, time=1609453580, title=None, item_type='comment', url=None, parent=25596322, text='Everything is rendered directly to a canvas, at the very least it lacks subpixel rendering')
+Item(by='Alexendoo', descendants=None, kids=[25600483, 25601034], score=None, time=1609453580, title=None, item_type='comment', url=None, parent=25596322, text='Everything is rendered directly to a canvas, at the very least it lacks subpixel rendering')

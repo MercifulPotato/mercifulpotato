@@ -1,0 +1,1 @@
+Item(by='anthk', descendants=None, kids=None, score=None, time=1609529991, title=None, item_type='comment', url=None, parent=25601576, text='Ironically this is reimplementing plan9&#x2F;9fs and everything is a filesystem. If any, this is Unix++.<p>Also, say hello to FUSE, which tries to mimic that on the userland.')

@@ -1,0 +1,1 @@
+Item(by='CDRdude', descendants=None, kids=None, score=None, time=1609526553, title=None, item_type='comment', url=None, parent=25603891, text='It seems to be compatible with tree style tabs. I&#x27;m not sure how to import, but this seems to do a reasonable job of exporting:\nls | xargs -I {} paste {}&#x2F;url.txt {}&#x2F;title.txt')

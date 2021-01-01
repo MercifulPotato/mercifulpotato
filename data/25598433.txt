@@ -1,1 +1,1 @@
-Item(by='0kl', descendants=None, kids=None, score=None, time=1609457078, title=None, item_type='comment', url=None, parent=25597335, text='<a href="https:&#x2F;&#x2F;smeqa.usds.gov&#x2F;" rel="nofollow">https:&#x2F;&#x2F;smeqa.usds.gov&#x2F;</a><p>We do work on hiring as well')
+Item(by='0kl', descendants=None, kids=[25605218], score=None, time=1609457078, title=None, item_type='comment', url=None, parent=25597335, text='<a href="https:&#x2F;&#x2F;smeqa.usds.gov&#x2F;" rel="nofollow">https:&#x2F;&#x2F;smeqa.usds.gov&#x2F;</a><p>We do work on hiring as well')

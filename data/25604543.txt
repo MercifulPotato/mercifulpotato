@@ -1,0 +1,1 @@
+Item(by='masterofmisc', descendants=None, kids=None, score=None, time=1609519972, title=None, item_type='comment', url=None, parent=25602615, text='Yeah, i find that using a library (like Stateless for C#) where it makes you &quot;spell-out, upfront&quot; each of the states and the transitions that are permitted from this state, it makes it easier to reason about the code.')

@@ -1,0 +1,1 @@
+Item(by='jtstanley', descendants=None, kids=[25606116], score=None, time=1609527467, title=None, item_type='comment', url=None, parent=25605470, text='The use of traits here is really cool. It looks like the entire language implementation is defined as a trait, which allows for language backends to be swapped out while maintaining the same outward API.')

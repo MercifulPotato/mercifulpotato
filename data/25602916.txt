@@ -1,1 +1,1 @@
-Item(by='based2', descendants=1, kids=[25602917], score=1, time=1609505577, title='JDK 17 Early-Access Builds', item_type='story', url='https://jdk.java.net/17/', parent=None, text=None)
+Item(by='based2', descendants=1, kids=[25602917], score=3, time=1609505577, title='JDK 17 Early-Access Builds', item_type='story', url='https://jdk.java.net/17/', parent=None, text=None)

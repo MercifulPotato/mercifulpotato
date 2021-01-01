@@ -1,1 +1,1 @@
-Item(by='parsecs', descendants=0, kids=None, score=2, time=1609480420, title='Fireside Friday: January 1, 2021', item_type='story', url='https://acoup.blog/2021/01/01/fireside-friday-january-1-2021/', parent=None, text=None)
+Item(by='parsecs', descendants=1, kids=[25603949], score=3, time=1609480420, title='Fireside Friday: January 1, 2021', item_type='story', url='https://acoup.blog/2021/01/01/fireside-friday-january-1-2021/', parent=None, text=None)

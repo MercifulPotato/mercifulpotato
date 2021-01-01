@@ -1,1 +1,1 @@
-Item(by='person_of_color', descendants=None, kids=None, score=None, time=1609500808, title=None, item_type='comment', url=None, parent=25601855, text='I hate Bitcoin but I want to be rich with no effort, so I&#x27;ve got FOMO.')
+Item(by='person_of_color', descendants=None, kids=[25605919], score=None, time=1609500808, title=None, item_type='comment', url=None, parent=25601855, text='I hate Bitcoin but I want to be rich with no effort, so I&#x27;ve got FOMO.')

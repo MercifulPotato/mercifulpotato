@@ -1,1 +1,1 @@
-Item(by='dsego', descendants=None, kids=None, score=None, time=1609498856, title=None, item_type='comment', url=None, parent=25600482, text='A grandma saving a html page and sending it via email without having to edit the html.')
+Item(by='dsego', descendants=None, kids=[25605911], score=None, time=1609498856, title=None, item_type='comment', url=None, parent=25600482, text='A grandma saving a html page and sending it via email without having to edit the html.')

@@ -1,0 +1,1 @@
+Item(by='akkartik', descendants=None, kids=None, score=None, time=1609522514, title=None, item_type='comment', url=None, parent=25604293, text='The results are always Javascript literals. Javascript doesn&#x27;t have symbols. So symbols are represented as strings starting with a single quote. Mildly confusing but seems easy to pick up.')

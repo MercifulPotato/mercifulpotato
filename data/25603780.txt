@@ -1,0 +1,1 @@
+Item(by='zeckalpha', descendants=None, kids=[25604943], score=None, time=1609514248, title=None, item_type='comment', url=None, parent=25601739, text='Safari maintains a list of tabs in a plist. You can’t delete while Safari is running, but at least you can extract the list to back it up.')

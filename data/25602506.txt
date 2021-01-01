@@ -1,1 +1,1 @@
-Item(by='kenoph', descendants=None, kids=None, score=None, time=1609500370, title=None, item_type='comment', url=None, parent=25594210, text='Actually I think the biggest problem is predicting correctly all the jump targets.')
+Item(by='kenoph', descendants=None, kids=[25603079], score=None, time=1609500370, title=None, item_type='comment', url=None, parent=25594210, text='Actually I think the biggest problem is predicting correctly all the jump targets.')

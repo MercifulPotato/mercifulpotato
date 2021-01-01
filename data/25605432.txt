@@ -1,0 +1,1 @@
+Item(by='ci5er', descendants=None, kids=None, score=None, time=1609526113, title=None, item_type='comment', url=None, parent=25601821, text='A long time ago I used to auto gen http and smtp servers and message queues (similar to RabbitMQ) from very compact descriptions. My in-house I infrastructure build-out productivity went up ~30x, but all the downstream teams hated it.')

@@ -1,1 +1,1 @@
-Item(by='noughtme', descendants=None, kids=None, score=None, time=1609491519, title=None, item_type='comment', url=None, parent=25594894, text='Wondering why the autofocus couldn’t be done by the Pi itself, rather than an M5Stack. Does the Pi not lend itself to real-time applications?')
+Item(by='noughtme', descendants=None, kids=[25605662], score=None, time=1609491519, title=None, item_type='comment', url=None, parent=25594894, text='Wondering why the autofocus couldn’t be done by the Pi itself, rather than an M5Stack. Does the Pi not lend itself to real-time applications?')
