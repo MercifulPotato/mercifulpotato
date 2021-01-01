@@ -1,1 +1,1 @@
-Item(by='jurgenwerk', descendants=None, kids=None, score=None, time=1609431948, title=None, item_type='comment', url=None, parent=25593987, text='An interesting phenomenon about this book is when you read it, you start noticing who else read it too.')
+Item(by='jurgenwerk', descendants=None, kids=[25600216], score=None, time=1609431948, title=None, item_type='comment', url=None, parent=25593987, text='An interesting phenomenon about this book is when you read it, you start noticing who else read it too.')

@@ -1,1 +1,1 @@
-Item(by='paulpauper', descendants=0, kids=None, score=12, time=1609368954, title='Months later, the great Twitter hack still boggles my mind', item_type='story', url='https://www.theverge.com/22163643/twitter-hack-bitcoin-scam-july-2020-elon-musk', parent=None, text=None)
+Item(by='paulpauper', descendants=1, kids=[25600558], score=13, time=1609368954, title='Months later, the great Twitter hack still boggles my mind', item_type='story', url='https://www.theverge.com/22163643/twitter-hack-bitcoin-scam-july-2020-elon-musk', parent=None, text=None)

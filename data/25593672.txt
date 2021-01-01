@@ -1,1 +1,1 @@
-Item(by='webinvest', descendants=None, kids=None, score=None, time=1609429523, title=None, item_type='comment', url=None, parent=25590512, text='In the USA, “every man is created equal” but outside... beliefs differ')
+Item(by='webinvest', descendants=None, kids=[25601652], score=None, time=1609429523, title=None, item_type='comment', url=None, parent=25590512, text='In the USA, “every man is created equal” but outside... beliefs differ')

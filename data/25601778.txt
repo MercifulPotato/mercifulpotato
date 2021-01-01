@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=None, score=None, time=1609490402, title=None, item_type='comment', url=None, parent=25601686, text='I suspect it would be harder to pull off these days without launching chrome headless for example. Opening the page itself wouldn&#x27;t include images&#x2F;resources loaded over JS. It would also not work great with image atlases.')

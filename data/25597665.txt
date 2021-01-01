@@ -1,1 +1,1 @@
-Item(by='corty', descendants=None, kids=None, score=None, time=1609452000, title=None, item_type='comment', url=None, parent=25597175, text='Maybe that and the sense of duty of the city police.')
+Item(by='corty', descendants=None, kids=[25601259], score=None, time=1609452000, title=None, item_type='comment', url=None, parent=25597175, text='Maybe that and the sense of duty of the city police.')

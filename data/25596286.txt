@@ -1,1 +1,1 @@
-Item(by='PeterWhittaker', descendants=1, kids=[25599123], score=2, time=1609443688, title='Obligatory “What I wish I knew about Git” post', item_type='story', url='https://peter-whittaker.com/obligatory-grokking-git-post', parent=None, text=None)
+Item(by='PeterWhittaker', descendants=1, kids=[25599123], score=3, time=1609443688, title='Obligatory “What I wish I knew about Git” post', item_type='story', url='https://peter-whittaker.com/obligatory-grokking-git-post', parent=None, text=None)

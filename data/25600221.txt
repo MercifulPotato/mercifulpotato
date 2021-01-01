@@ -1,1 +1,1 @@
-Item(by='amkkma', descendants=None, kids=None, score=None, time=1609468150, title=None, item_type='comment', url=None, parent=25599966, text='Thanks. How&#x27;s that relate to Gelman&#x27;s BDA or statistical rethinking?')
+Item(by='amkkma', descendants=None, kids=[25600786], score=None, time=1609468150, title=None, item_type='comment', url=None, parent=25599966, text='Thanks. How&#x27;s that relate to Gelman&#x27;s BDA or statistical rethinking?')

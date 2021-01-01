@@ -1,0 +1,1 @@
+Item(by='redisman', descendants=None, kids=[25601507], score=None, time=1609477568, title=None, item_type='comment', url=None, parent=25600540, text='I would guess because in slack the history can change when irc is basically a read only log. Slack has threads, edits, deletes and emojis etc. that will change the history so you can’t cache it')

@@ -1,1 +1,1 @@
-Item(by='thesephist', descendants=0, kids=None, score=1, time=1609469335, title='TabFS: Mount your Browser Tabs as a Filesystem', item_type='story', url='https://omar.website/tabfs/', parent=None, text=None)
+Item(by='thesephist', descendants=44, kids=[25601686, 25601369, 25601028, 25601053, 25601734, 25601355, 25601493, 25601701, 25601194, 25601616, 25601057, 25601313, 25601427, 25601337, 25600978], score=356, time=1609469335, title='TabFS: Mount your Browser Tabs as a Filesystem', item_type='story', url='https://omar.website/tabfs/', parent=None, text=None)

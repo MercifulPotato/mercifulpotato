@@ -1,1 +1,1 @@
-Item(by='wolco2', descendants=None, kids=None, score=None, time=1609442926, title=None, item_type='comment', url=None, parent=25594068, text='Netflix stock will drop by half.<p>The singleton will be rediscovered and frameworks, languages and religions will form around the concept.')
+Item(by='wolco2', descendants=None, kids=[25601762], score=None, time=1609442926, title=None, item_type='comment', url=None, parent=25594068, text='Netflix stock will drop by half.<p>The singleton will be rediscovered and frameworks, languages and religions will form around the concept.')

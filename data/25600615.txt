@@ -1,0 +1,1 @@
+Item(by='chinhodado', descendants=None, kids=[25600957], score=None, time=1609472259, title=None, item_type='comment', url=None, parent=25599672, text='That sounds like a hardware or driver thing, specifically related to GPU, rather than a Windows issue. You can try to disable hardware acceleration in Chrome.')

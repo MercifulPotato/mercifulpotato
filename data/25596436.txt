@@ -1,1 +1,1 @@
-Item(by='zeristor', descendants=0, kids=None, score=2, time=1609444626, title='The Wonderful Uses of Asbestos (1942) [video]', item_type='story', url='https://www.youtube.com/watch?v=HxfZSEboVM4', parent=None, text=None)
+Item(by='zeristor', descendants=1, kids=[25601631], score=11, time=1609444626, title='The Wonderful Uses of Asbestos (1942) [video]', item_type='story', url='https://www.youtube.com/watch?v=HxfZSEboVM4', parent=None, text=None)
