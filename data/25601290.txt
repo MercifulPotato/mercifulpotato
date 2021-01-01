@@ -1,1 +1,1 @@
-Item(by='mythrwy', descendants=None, kids=None, score=None, time=1609481484, title=None, item_type='comment', url=None, parent=25600408, text='I think Bitcoin does help people in North Korea though. Just not the average citizen.')
+Item(by='mythrwy', descendants=None, kids=[25601843], score=None, time=1609481484, title=None, item_type='comment', url=None, parent=25600408, text='I think Bitcoin does help people in North Korea though. Just not the average citizen.')

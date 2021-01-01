@@ -1,0 +1,1 @@
+Item(by='feanaro', descendants=None, kids=[25603740], score=None, time=1609509697, title=None, item_type='comment', url=None, parent=25603065, text='Thinking about point 1 makes me wonder why no popular regex engines have an intersection (logical AND) operator. It seems like it could allow writing complex regexes in a much clearer way.')

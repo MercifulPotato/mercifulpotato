@@ -1,1 +1,1 @@
-Item(by='StavrosK', descendants=None, kids=None, score=None, time=1609455001, title=None, item_type='comment', url=None, parent=25595865, text='Χρόνια πολλά μανάρια, καλή χρονιά!')
+Item(by='StavrosK', descendants=None, kids=[25601915], score=None, time=1609455001, title=None, item_type='comment', url=None, parent=25595865, text='Χρόνια πολλά μανάρια, καλή χρονιά!')

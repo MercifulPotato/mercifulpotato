@@ -1,1 +1,1 @@
-Item(by='AdamJacobMuller', descendants=None, kids=None, score=None, time=1609479578, title=None, item_type='comment', url=None, parent=25600980, text='Does anyone consider hydro as green anymore? Nuclear has far less impact.')
+Item(by='AdamJacobMuller', descendants=None, kids=[25601750], score=None, time=1609479578, title=None, item_type='comment', url=None, parent=25600980, text='Does anyone consider hydro as green anymore? Nuclear has far less impact.')

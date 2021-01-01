@@ -1,0 +1,1 @@
+Item(by='Jabbles', descendants=None, kids=[25602855], score=None, time=1609503929, title=None, item_type='comment', url=None, parent=25602476, text='Are integral and derivative important for server load balancing? If you can&#x27;t handle a sudden increase in load then we need to implement throttling, rather than load-balancing.')

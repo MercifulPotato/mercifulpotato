@@ -1,0 +1,1 @@
+Item(by='fxtentacle', descendants=None, kids=None, score=None, time=1609491779, title=None, item_type='comment', url=None, parent=25594427, text='Yes, those protocols make a huge difference. Also, high throughput low loss UDP relies on ms-level timing control, which is all but impossible in Javascript.')

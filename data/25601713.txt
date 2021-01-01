@@ -1,1 +1,1 @@
-Item(by='_flux', descendants=None, kids=None, score=None, time=1609489502, title=None, item_type='comment', url=None, parent=25601431, text='Alt-F4 closes the entire browser, and indeed Ctrl-F4 closes the current tab. (Just tried it out, I&#x27;ve always used Ctrl-W for that.)')
+Item(by='_flux', descendants=None, kids=[25602164], score=None, time=1609489502, title=None, item_type='comment', url=None, parent=25601431, text='Alt-F4 closes the entire browser, and indeed Ctrl-F4 closes the current tab. (Just tried it out, I&#x27;ve always used Ctrl-W for that.)')

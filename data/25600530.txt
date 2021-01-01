@@ -1,1 +1,1 @@
-Item(by='elsewhen', descendants=0, kids=None, score=2, time=1609471280, title='Adobe Flash rides off into the sunset', item_type='story', url='https://www.theverge.com/2020/12/31/22208190/adobe-flash-is-dead', parent=None, text=None)
+Item(by='elsewhen', descendants=1, kids=[25601712], score=2, time=1609471280, title='Adobe Flash rides off into the sunset', item_type='story', url='https://www.theverge.com/2020/12/31/22208190/adobe-flash-is-dead', parent=None, text=None)

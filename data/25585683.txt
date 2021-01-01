@@ -1,1 +1,1 @@
-Item(by='mmastrac', descendants=1, kids=[25598688], score=41, time=1609360044, title='Strange Things LINK Knows about 80x86 Processors (1997)', item_type='story', url='https://www.geoffchappell.com/notes/windows/archive/linkcpu.htm', parent=None, text=None)
+Item(by='mmastrac', descendants=2, kids=[25598688, 25601859, 25602532], score=45, time=1609360044, title='Strange Things LINK Knows about 80x86 Processors (1997)', item_type='story', url='https://www.geoffchappell.com/notes/windows/archive/linkcpu.htm', parent=None, text=None)

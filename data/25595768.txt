@@ -1,1 +1,1 @@
-Item(by='iblaine', descendants=None, kids=None, score=None, time=1609440840, title=None, item_type='comment', url=None, parent=25591167, text='Did someone at Zepel.io create this Why Jira Sucks site?')
+Item(by='iblaine', descendants=None, kids=[25601832], score=None, time=1609440840, title=None, item_type='comment', url=None, parent=25591167, text='Did someone at Zepel.io create this Why Jira Sucks site?')

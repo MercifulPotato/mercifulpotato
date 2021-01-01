@@ -1,1 +1,1 @@
-Item(by='srtjstjsj', descendants=None, kids=None, score=None, time=1609451499, title=None, item_type='comment', url=None, parent=25597176, text='Something bizarre in that URL')
+Item(by='srtjstjsj', descendants=None, kids=[25602339], score=None, time=1609451499, title=None, item_type='comment', url=None, parent=25597176, text='Something bizarre in that URL')

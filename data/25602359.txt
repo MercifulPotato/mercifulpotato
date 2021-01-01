@@ -1,0 +1,1 @@
+Item(by='sargun', descendants=None, kids=None, score=None, time=1609498643, title=None, item_type='comment', url=None, parent=25602210, text='What protocol guarantees that there is an atomic transaction, in the presence of faults, in such a system?')

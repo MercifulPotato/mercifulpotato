@@ -1,1 +1,1 @@
-Item(by='j_walter', descendants=None, kids=[25596297], score=None, time=1609440477, title=None, item_type='comment', url=None, parent=25595621, text='Exploits are much easier to find if you have pure source code and not having to reverse engineer it.')
+Item(by='j_walter', descendants=None, kids=[25601999, 25596297], score=None, time=1609440477, title=None, item_type='comment', url=None, parent=25595621, text='Exploits are much easier to find if you have pure source code and not having to reverse engineer it.')

@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1609491964, title=None, item_type='comment', url=None, parent=25594576, text='Sorry but that is just more an example of lack of knowledge of gdb capabilities than anything else.<p>Not only there are graphical frontends that provide that kind of information, gdb supports scripting and tracepoints.')

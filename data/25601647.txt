@@ -1,1 +1,1 @@
-Item(by='Andys', descendants=None, kids=None, score=None, time=1609488195, title=None, item_type='comment', url=None, parent=25597541, text='I thought the vaccine didn&#x27;t stop the spread, just the disease?  So the health care workers are going to keep spreading it either way.')
+Item(by='Andys', descendants=None, kids=[25601997], score=None, time=1609488195, title=None, item_type='comment', url=None, parent=25597541, text='I thought the vaccine didn&#x27;t stop the spread, just the disease?  So the health care workers are going to keep spreading it either way.')

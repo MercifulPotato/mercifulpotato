@@ -1,1 +1,1 @@
-Item(by='felipellrocha', descendants=None, kids=None, score=None, time=1609433945, title=None, item_type='comment', url=None, parent=25594093, text='How would webrtc impact anything? It’s literally a udp socket with a couple of protocols built on top of it')
+Item(by='felipellrocha', descendants=None, kids=[25601864], score=None, time=1609433945, title=None, item_type='comment', url=None, parent=25594093, text='How would webrtc impact anything? It’s literally a udp socket with a couple of protocols built on top of it')

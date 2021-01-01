@@ -1,1 +1,1 @@
-Item(by='luu', descendants=1, kids=[25601426], score=34, time=1609400561, title='Factor Graph Grammars [pdf]', item_type='story', url='https://proceedings.neurips.cc/paper/2020/file/49ca03822497d26a3943d5084ed59130-Paper.pdf', parent=None, text=None)
+Item(by='luu', descendants=2, kids=[25601426], score=39, time=1609400561, title='Factor Graph Grammars [pdf]', item_type='story', url='https://proceedings.neurips.cc/paper/2020/file/49ca03822497d26a3943d5084ed59130-Paper.pdf', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='reactspa', descendants=None, kids=None, score=None, time=1609461999, title=None, item_type='comment', url=None, parent=25598831, text='Interesting story.<p>Question: was there any possibility of escrow here? What if the phone never showed up?')
+Item(by='reactspa', descendants=None, kids=[25602201], score=None, time=1609461999, title=None, item_type='comment', url=None, parent=25598831, text='Interesting story.<p>Question: was there any possibility of escrow here? What if the phone never showed up?')
