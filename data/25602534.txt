@@ -1,1 +1,1 @@
-Item(by='Futurebot', descendants=4, kids=[25604339], score=12, time=1609500749, title='A Monster Wind Turbine Is Upending an Industry', item_type='story', url='https://www.nytimes.com/2021/01/01/business/GE-wind-turbine.html', parent=None, text=None)
+Item(by='Futurebot', descendants=6, kids=[25606886, 25604339], score=14, time=1609500749, title='A Monster Wind Turbine Is Upending an Industry', item_type='story', url='https://www.nytimes.com/2021/01/01/business/GE-wind-turbine.html', parent=None, text=None)

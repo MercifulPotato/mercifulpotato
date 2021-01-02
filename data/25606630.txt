@@ -1,1 +1,1 @@
-Item(by='bradleyjg', descendants=None, kids=None, score=None, time=1609532662, title=None, item_type='comment', url=None, parent=25605927, text='By that logic the employee shouldn’t care about anything other than the market rate, which is less for remote.')
+Item(by='bradleyjg', descendants=None, kids=[25609094, 25607750, 25606812, 25608682], score=None, time=1609532662, title=None, item_type='comment', url=None, parent=25605927, text='By that logic the employee shouldn’t care about anything other than the market rate, which is less for remote.')

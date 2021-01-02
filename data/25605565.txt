@@ -1,1 +1,1 @@
-Item(by='jayd16', descendants=None, kids=None, score=None, time=1609527036, title=None, item_type='comment', url=None, parent=25603404, text='Seems like you could just add some sugar to the definition process, eg an Any State or more than one source state per transition.')
+Item(by='jayd16', descendants=None, kids=[25609687], score=None, time=1609527036, title=None, item_type='comment', url=None, parent=25603404, text='Seems like you could just add some sugar to the definition process, eg an Any State or more than one source state per transition.')

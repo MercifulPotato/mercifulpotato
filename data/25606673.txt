@@ -1,1 +1,1 @@
-Item(by='geraldbauer', descendants=0, kids=None, score=1, time=1609532880, title='Best of Crypto Books @ Open Blockchains', item_type='story', url='https://openblockchains.github.io/crypto-books/', parent=None, text=None)
+Item(by='geraldbauer', descendants=1, kids=[25606699], score=2, time=1609532880, title='Best of Crypto Books @ Open Blockchains', item_type='story', url='https://openblockchains.github.io/crypto-books/', parent=None, text=None)

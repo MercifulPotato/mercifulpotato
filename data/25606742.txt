@@ -1,1 +1,1 @@
-Item(by='Faaak', descendants=None, kids=None, score=None, time=1609533210, title=None, item_type='comment', url=None, parent=25604530, text='And for those wondering, you should not go to sci-hub to get the paper, because that would be illegal ;-).')
+Item(by='Faaak', descendants=None, kids=[25609403], score=None, time=1609533210, title=None, item_type='comment', url=None, parent=25604530, text='And for those wondering, you should not go to sci-hub to get the paper, because that would be illegal ;-).')

@@ -1,1 +1,1 @@
-Item(by='grzm', descendants=9, kids=[25604417, 25604015, 25604293, 25604596], score=57, time=1609512268, title='ToriLisp – an ersatz Lisp for tiny birds', item_type='story', url='http://blog.fogus.me/2020/12/22/torilisp-an-ersatz-lisp-for-tiny-birds/', parent=None, text=None)
+Item(by='grzm', descendants=13, kids=[25604417, 25604015, 25607119, 25604596, 25604293], score=68, time=1609512268, title='ToriLisp – an ersatz Lisp for tiny birds', item_type='story', url='http://blog.fogus.me/2020/12/22/torilisp-an-ersatz-lisp-for-tiny-birds/', parent=None, text=None)

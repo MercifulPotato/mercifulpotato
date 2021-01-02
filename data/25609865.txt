@@ -1,0 +1,1 @@
+Item(by='Evidlo', descendants=None, kids=[25610307], score=None, time=1609555851, title=None, item_type='comment', url=None, parent=25603254, text='Seems like the author used Debian over buildroot because of package manager availability.  You can still get a package manager in buildroot.')

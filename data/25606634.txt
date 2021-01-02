@@ -1,1 +1,1 @@
-Item(by='taylorlapeyre', descendants=None, kids=None, score=None, time=1609532665, title=None, item_type='comment', url=None, parent=25605880, text='... can&#x27;t you just run `$ caffeinate -d` in terminal?')
+Item(by='taylorlapeyre', descendants=None, kids=[25607168], score=None, time=1609532665, title=None, item_type='comment', url=None, parent=25605880, text='... can&#x27;t you just run `$ caffeinate -d` in terminal?')

@@ -1,1 +1,1 @@
-Item(by='Narishma', descendants=None, kids=None, score=None, time=1609486016, title=None, item_type='comment', url=None, parent=25600419, text='Modding games on the PC, with the developer&#x27;s blessing, was pretty common for a decade or two before Halo came out.')
+Item(by='Narishma', descendants=None, kids=[25610222], score=None, time=1609486016, title=None, item_type='comment', url=None, parent=25600419, text='Modding games on the PC, with the developer&#x27;s blessing, was pretty common for a decade or two before Halo came out.')

@@ -1,1 +1,1 @@
-Item(by='rglover', descendants=24, kids=[25606454, 25606179, 25606363, 25606367, 25606590], score=10, time=1609529590, title='NY State Assembly Bill A416', item_type='story', url='https://www.nysenate.gov/legislation/bills/2021/a416', parent=None, text=None)
+Item(by='rglover', descendants=62, kids=[25606872, 25606363, 25606179, 25606733, 25607124, 25606454, 25606831, 25606590, 25606367], score=24, time=1609529590, title='NY State Assembly Bill A416', item_type='story', url='https://www.nysenate.gov/legislation/bills/2021/a416', parent=None, text=None)

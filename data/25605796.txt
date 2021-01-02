@@ -1,1 +1,1 @@
-Item(by='abhishekjha', descendants=None, kids=None, score=None, time=1609528288, title=None, item_type='comment', url=None, parent=25605710, text='In what way is apple customer friendly? Definitely not in the fixing broken devices way. The hostility is across the board.')
+Item(by='abhishekjha', descendants=None, kids=[25607737], score=None, time=1609528288, title=None, item_type='comment', url=None, parent=25605710, text='In what way is apple customer friendly? Definitely not in the fixing broken devices way. The hostility is across the board.')

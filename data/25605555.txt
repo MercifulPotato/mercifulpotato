@@ -1,1 +1,1 @@
-Item(by='BlueTemplar', descendants=None, kids=None, score=None, time=1609526965, title=None, item_type='comment', url=None, parent=25604491, text='&#x27;TRL&#x27; ?')
+Item(by='BlueTemplar', descendants=None, kids=[25608679], score=None, time=1609526965, title=None, item_type='comment', url=None, parent=25604491, text='&#x27;TRL&#x27; ?')

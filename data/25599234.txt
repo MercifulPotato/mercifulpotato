@@ -1,1 +1,1 @@
-Item(by='foobar1962', descendants=None, kids=None, score=None, time=1609461746, title=None, item_type='comment', url=None, parent=25597430, text='Is this what the exhaust plume of an ion drive looks like?')
+Item(by='foobar1962', descendants=None, kids=[25610132], score=None, time=1609461746, title=None, item_type='comment', url=None, parent=25597430, text='Is this what the exhaust plume of an ion drive looks like?')

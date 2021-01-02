@@ -1,1 +1,1 @@
-Item(by='footpath', descendants=1, kids=[25603234], score=3, time=1609507156, title='2021 in Public Domain', item_type='story', url='https://en.wikipedia.org/wiki/2021_in_public_domain', parent=None, text=None)
+Item(by='footpath', descendants=2, kids=[25607366, 25603234], score=4, time=1609507156, title='2021 in Public Domain', item_type='story', url='https://en.wikipedia.org/wiki/2021_in_public_domain', parent=None, text=None)

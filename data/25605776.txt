@@ -1,1 +1,1 @@
-Item(by='anthk', descendants=None, kids=None, score=None, time=1609528186, title=None, item_type='comment', url=None, parent=25604793, text='You could browse the web perfectly back in the day, and Nethack ran like a charm, too :).')
+Item(by='anthk', descendants=None, kids=[25608283, 25608068], score=None, time=1609528186, title=None, item_type='comment', url=None, parent=25604793, text='You could browse the web perfectly back in the day, and Nethack ran like a charm, too :).')

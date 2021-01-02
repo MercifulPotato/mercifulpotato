@@ -1,0 +1,1 @@
+Item(by='DHowett', descendants=None, kids=None, score=None, time=1609560402, title=None, item_type='comment', url=None, parent=25609865, text='You can get a package manager, yes, but you do not get an entire repository of prebuilt packages. I suspect that the author selected Debian for its <i>packages</i>, not its package manager.')

@@ -1,1 +1,1 @@
-Item(by='wrycoder', descendants=2, kids=[25606148, 25606010], score=23, time=1609522026, title='Arplisp Interpreter for Raspberry Pi in a Single ASM File, No Libraries Used', item_type='story', url='https://github.com/marcpaq/arpilisp', parent=None, text=None)
+Item(by='wrycoder', descendants=7, kids=[25606148, 25608370, 25608431, 25606010], score=63, time=1609522026, title='Arplisp Interpreter for Raspberry Pi in a Single ASM File, No Libraries Used', item_type='story', url='https://github.com/marcpaq/arpilisp', parent=None, text=None)

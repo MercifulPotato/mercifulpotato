@@ -1,1 +1,1 @@
-Item(by='PudgePacket', descendants=None, kids=[25600997], score=None, time=1609465473, title=None, item_type='comment', url=None, parent=25595996, text='Could you purge conditionally? Eg Purge where message importance &lt; critical.')
+Item(by='PudgePacket', descendants=None, kids=[25609341, 25600997], score=None, time=1609465473, title=None, item_type='comment', url=None, parent=25595996, text='Could you purge conditionally? Eg Purge where message importance &lt; critical.')

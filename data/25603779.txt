@@ -1,1 +1,1 @@
-Item(by='wilsonckao', descendants=1, kids=[25603955], score=1, time=1609514218, title='Image Scrape', item_type='story', url=None, parent=None, text='how to image scrape from websites like pinterest')
+Item(by='wilsonckao', descendants=2, kids=[25609069, 25603955], score=1, time=1609514218, title='Image Scrape', item_type='story', url=None, parent=None, text='how to image scrape from websites like pinterest')

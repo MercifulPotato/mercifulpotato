@@ -1,1 +1,1 @@
-Item(by='MrXOR', descendants=0, kids=[25605768], score=1, time=1609528086, title='Dennis Ritchie: Reflections on Software Research (1984)', item_type='story', url='https://dl.acm.org/doi/pdf/10.1145/358198.358207', parent=None, text=None)
+Item(by='MrXOR', descendants=1, kids=[25605768], score=3, time=1609528086, title='Dennis Ritchie: Reflections on Software Research (1984)', item_type='story', url='https://dl.acm.org/doi/pdf/10.1145/358198.358207', parent=None, text=None)

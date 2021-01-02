@@ -1,0 +1,1 @@
+Item(by='marmaduke', descendants=None, kids=None, score=None, time=1609538358, title=None, item_type='comment', url=None, parent=25599012, text='Hadn’t thought to look up more precise numbers, and the comment on CDN is good one.  It’s an example of where smart choices in the client (pip) could keep the backend (PyPI) scalable.')

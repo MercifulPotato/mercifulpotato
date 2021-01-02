@@ -1,1 +1,1 @@
-Item(by='philwelch', descendants=None, kids=None, score=None, time=1609533042, title=None, item_type='comment', url=None, parent=25606504, text='“There is freedom of speech, but I cannot guarantee freedom after speech” —Idi Amin.')
+Item(by='philwelch', descendants=None, kids=[25607461], score=None, time=1609533042, title=None, item_type='comment', url=None, parent=25606504, text='“There is freedom of speech, but I cannot guarantee freedom after speech” —Idi Amin.')
