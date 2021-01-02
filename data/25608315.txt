@@ -1,1 +1,1 @@
-Item(by='zinderssss', descendants=0, kids=None, score=1, time=1609542812, title='First Movie in the world – The Arrival of a Train (1896)', item_type='story', url='http://www.the-classic-movies.com/the-arrival-of-a-train-1896/', parent=None, text=None)
+Item(by='zinderssss', descendants=1, kids=[25610002], score=1, time=1609542812, title='First Movie in the world – The Arrival of a Train (1896)', item_type='story', url='http://www.the-classic-movies.com/the-arrival-of-a-train-1896/', parent=None, text=None)

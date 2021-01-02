@@ -1,1 +1,1 @@
-Item(by='bronson', descendants=None, kids=[25586431, 25590482, 25586420], score=None, time=1609362531, title=None, item_type='comment', url=None, parent=25585941, text='You can’t interact with a video.')
+Item(by='bronson', descendants=None, kids=[25586431, 25586420, 25590482], score=None, time=1609362531, title=None, item_type='comment', url=None, parent=25585941, text='You can’t interact with a video.')

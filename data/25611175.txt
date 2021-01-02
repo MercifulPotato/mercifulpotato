@@ -1,0 +1,1 @@
+Item(by='powersnail', descendants=None, kids=None, score=None, time=1609574148, title=None, item_type='comment', url=None, parent=25611091, text='Isn&#x27;t variable reassignment a special case of variable shadowing, where the new scope closes at the same place as the parent scope?')

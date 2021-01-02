@@ -1,1 +1,1 @@
-Item(by='jessaustin', descendants=None, kids=None, score=None, time=1609548181, title=None, item_type='comment', url=None, parent=25608938, text='You can use it that way if you want. That&#x27;s not how everyone else uses it, however.')
+Item(by='jessaustin', descendants=None, kids=[25610918], score=None, time=1609548181, title=None, item_type='comment', url=None, parent=25608938, text='You can use it that way if you want. That&#x27;s not how everyone else uses it, however.')

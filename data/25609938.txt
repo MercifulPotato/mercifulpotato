@@ -1,1 +1,1 @@
-Item(by='gesaint', descendants=0, kids=None, score=2, time=1609556504, title='Vitess Operator for Kubernetes', item_type='story', url='https://vitess.io/blog/2020-11-09-vitess-operator-for-kubernetes/', parent=None, text=None)
+Item(by='gesaint', descendants=0, kids=None, score=3, time=1609556504, title='Vitess Operator for Kubernetes', item_type='story', url='https://vitess.io/blog/2020-11-09-vitess-operator-for-kubernetes/', parent=None, text=None)

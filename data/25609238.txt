@@ -1,1 +1,1 @@
-Item(by='oblib', descendants=0, kids=None, score=2, time=1609550403, title='With support officially ended, Adobe ‘strongly recommends’ removing Flash now', item_type='story', url='https://9to5mac.com/2021/01/01/fully-remove-adobe-flash-from-mac/', parent=None, text=None)
+Item(by='oblib', descendants=1, kids=[25610045], score=3, time=1609550403, title='With support officially ended, Adobe ‘strongly recommends’ removing Flash now', item_type='story', url='https://9to5mac.com/2021/01/01/fully-remove-adobe-flash-from-mac/', parent=None, text=None)

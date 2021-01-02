@@ -1,1 +1,1 @@
-Item(by='glouwbug', descendants=None, kids=None, score=None, time=1609552491, title=None, item_type='comment', url=None, parent=25609444, text='But that&#x27;s just youtube. &quot;Engaging content&quot; is them yelling at us to smash the like button, and _hit the bell_')
+Item(by='glouwbug', descendants=None, kids=[25609538], score=None, time=1609552491, title=None, item_type='comment', url=None, parent=25609444, text='But that&#x27;s just youtube. &quot;Engaging content&quot; is them yelling at us to smash the like button, and _hit the bell_')

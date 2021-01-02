@@ -1,1 +1,1 @@
-Item(by='networdtwo', descendants=8, kids=[25609840, 25609686, 25609543, 25609513], score=35, time=1609547622, title='Getting Started in Robotics', item_type='story', url='https://allshire.org/getting-started-robotics/', parent=None, text=None)
+Item(by='networdtwo', descendants=21, kids=[25611322, 25609686, 25609543, 25609840, 25611124, 25610577, 25611013, 25610079, 25610908, 25609513, 25610409, 25611181, 25610413], score=157, time=1609547622, title='Getting Started in Robotics', item_type='story', url='https://allshire.org/getting-started-robotics/', parent=None, text=None)

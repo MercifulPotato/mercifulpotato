@@ -1,1 +1,1 @@
-Item(by='netsharc', descendants=None, kids=None, score=None, time=1609541481, title=None, item_type='comment', url=None, parent=25605482, text='Also it probably suffers from the &quot;worked fine when we tested it in sunny California&quot; phenomenon.')
+Item(by='netsharc', descendants=None, kids=[25610029], score=None, time=1609541481, title=None, item_type='comment', url=None, parent=25605482, text='Also it probably suffers from the &quot;worked fine when we tested it in sunny California&quot; phenomenon.')

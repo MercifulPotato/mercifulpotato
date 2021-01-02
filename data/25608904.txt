@@ -1,1 +1,1 @@
-Item(by='xony', descendants=None, kids=None, score=None, time=1609547352, title=None, item_type='comment', url=None, parent=25589081, text='They are able to match the performance of i5 , woooow')
+Item(by='xony', descendants=None, kids=[25610064], score=None, time=1609547352, title=None, item_type='comment', url=None, parent=25589081, text='They are able to match the performance of i5 , woooow')

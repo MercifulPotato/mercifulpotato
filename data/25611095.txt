@@ -1,0 +1,1 @@
+Item(by='vuciv1', descendants=None, kids=None, score=None, time=1609572762, title=None, item_type='comment', url=None, parent=25609321, text='can someone please explain to me the power of embedding a c compiler into a pdf?<p>doesnt a compiler just output executables? would we be able to run these executables? where would these executables get stored?')

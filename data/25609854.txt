@@ -1,1 +1,1 @@
-Item(by='deelowe', descendants=None, kids=None, score=None, time=1609555752, title=None, item_type='comment', url=None, parent=25609712, text='Yes, I&#x27;m aware, but what about vaccinating restaurant, grocery, pharmacy, and meat packing workers?')
+Item(by='deelowe', descendants=None, kids=[25610135], score=None, time=1609555752, title=None, item_type='comment', url=None, parent=25609712, text='Yes, I&#x27;m aware, but what about vaccinating restaurant, grocery, pharmacy, and meat packing workers?')

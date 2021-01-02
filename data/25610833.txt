@@ -1,0 +1,1 @@
+Item(by='mkl', descendants=None, kids=None, score=None, time=1609568030, title=None, item_type='comment', url=None, parent=25610800, text='Note that PDF 3D models have a static image (a bitmap) which readers that don&#x27;t support 3D (most of them) will show instead.  Actually Adobe Reader shows the static image too, until you click on it to activate the 3D rendered version.')

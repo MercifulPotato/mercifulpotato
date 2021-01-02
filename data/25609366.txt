@@ -1,1 +1,1 @@
-Item(by='rgarrett88', descendants=None, kids=None, score=None, time=1609551603, title=None, item_type='comment', url=None, parent=25607434, text='Read his biography. He was abusive and got shit done.')
+Item(by='rgarrett88', descendants=None, kids=[25611263], score=None, time=1609551603, title=None, item_type='comment', url=None, parent=25607434, text='Read his biography. He was abusive and got shit done.')

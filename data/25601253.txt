@@ -1,1 +1,1 @@
-Item(by='beepxyl', descendants=None, kids=None, score=None, time=1609480951, title=None, item_type='comment', url=None, parent=25594387, text='Joe Rogan.')
+Item(by='beepxyl', descendants=None, kids=[25610461], score=None, time=1609480951, title=None, item_type='comment', url=None, parent=25594387, text='Joe Rogan.')

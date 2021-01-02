@@ -1,1 +1,1 @@
-Item(by='felipemnoa', descendants=None, kids=None, score=None, time=1609555537, title=None, item_type='comment', url=None, parent=25609374, text='&gt;&gt; I get very angry<p>Freudian slip?')
+Item(by='felipemnoa', descendants=None, kids=[25611174, 25610418], score=None, time=1609555537, title=None, item_type='comment', url=None, parent=25609374, text='&gt;&gt; I get very angry<p>Freudian slip?')

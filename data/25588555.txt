@@ -1,1 +1,1 @@
-Item(by='solresol', descendants=None, kids=[25588827, 25588762, 25590189], score=None, time=1609378454, title=None, item_type='comment', url=None, parent=25588262, text='Why doesn&#x27;t annotating these functions with @functools.lru_cache(10000000) work?')
+Item(by='solresol', descendants=None, kids=[25588827, 25590189, 25588762], score=None, time=1609378454, title=None, item_type='comment', url=None, parent=25588262, text='Why doesn&#x27;t annotating these functions with @functools.lru_cache(10000000) work?')

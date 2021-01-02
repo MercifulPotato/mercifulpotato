@@ -1,1 +1,1 @@
-Item(by='bryan0', descendants=0, kids=None, score=1, time=1609550734, title='Le Mont-Saint-Michel', item_type='story', url='https://en.wikipedia.org/wiki/Mont-Saint-Michel', parent=None, text=None)
+Item(by='bryan0', descendants=1, kids=[25610619], score=2, time=1609550734, title='Le Mont-Saint-Michel', item_type='story', url='https://en.wikipedia.org/wiki/Mont-Saint-Michel', parent=None, text=None)

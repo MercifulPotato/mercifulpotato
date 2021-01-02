@@ -1,1 +1,1 @@
-Item(by='adrianmonk', descendants=None, kids=None, score=None, time=1609534049, title=None, item_type='comment', url=None, parent=25604381, text='&gt; <i>Telligent</i><p>Taligent?')
+Item(by='adrianmonk', descendants=None, kids=[25610842], score=None, time=1609534049, title=None, item_type='comment', url=None, parent=25604381, text='&gt; <i>Telligent</i><p>Taligent?')

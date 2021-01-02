@@ -1,1 +1,1 @@
-Item(by='abdabab', descendants=None, kids=None, score=None, time=1609537415, title=None, item_type='comment', url=None, parent=25606945, text='You can sense it when you walk into an Apple store. I met a few unnecessarily rude salesperson and wondered how or why they were still there.')
+Item(by='abdabab', descendants=None, kids=[25610615], score=None, time=1609537415, title=None, item_type='comment', url=None, parent=25606945, text='You can sense it when you walk into an Apple store. I met a few unnecessarily rude salesperson and wondered how or why they were still there.')

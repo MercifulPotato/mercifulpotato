@@ -1,1 +1,1 @@
-Item(by='mixmastamyk', descendants=None, kids=None, score=None, time=1609548829, title=None, item_type='comment', url=None, parent=25608789, text='Unix with lipstick?')
+Item(by='mixmastamyk', descendants=None, kids=[25610405], score=None, time=1609548829, title=None, item_type='comment', url=None, parent=25608789, text='Unix with lipstick?')

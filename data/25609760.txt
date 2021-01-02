@@ -1,1 +1,1 @@
-Item(by='dan-robertson', descendants=None, kids=None, score=None, time=1609554896, title=None, item_type='comment', url=None, parent=25609741, text='Do they not teach Shakespeare or early 20th century American poets either?')
+Item(by='dan-robertson', descendants=None, kids=[25610841], score=None, time=1609554896, title=None, item_type='comment', url=None, parent=25609741, text='Do they not teach Shakespeare or early 20th century American poets either?')

@@ -1,1 +1,1 @@
-Item(by='gamechangr', descendants=0, kids=None, score=1, time=1609556389, title='Ask HN: What is your best New Years Resolution?', item_type='story', url=None, parent=None, text=None)
+Item(by='gamechangr', descendants=1, kids=[25610051, 25610325], score=2, time=1609556389, title='Ask HN: What is your best New Years Resolution?', item_type='story', url=None, parent=None, text=None)

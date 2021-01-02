@@ -1,1 +1,1 @@
-Item(by='fitzroy', descendants=None, kids=None, score=None, time=1609530291, title=None, item_type='comment', url=None, parent=25605880, text='Wait until Apple realizes that &quot;Final Cut Pro&quot; seems to promote irreversible self harm for profit.')
+Item(by='fitzroy', descendants=None, kids=[25610705], score=None, time=1609530291, title=None, item_type='comment', url=None, parent=25605880, text='Wait until Apple realizes that &quot;Final Cut Pro&quot; seems to promote irreversible self harm for profit.')
