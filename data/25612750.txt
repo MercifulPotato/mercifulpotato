@@ -1,1 +1,1 @@
-Item(by='bauerd', descendants=None, kids=None, score=None, time=1609594667, title=None, item_type='comment', url=None, parent=25612635, text='This is about app store changelogs, not commit messages')
+Item(by='bauerd', descendants=None, kids=[25613369, 25613607], score=None, time=1609594667, title=None, item_type='comment', url=None, parent=25612635, text='This is about app store changelogs, not commit messages')

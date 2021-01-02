@@ -1,1 +1,1 @@
-Item(by='O_H_E', descendants=None, kids=None, score=None, time=1609568603, title=None, item_type='comment', url=None, parent=25609321, text='Question to OP (thesephist): did you also get to this by checking Omar&#x27;s profile from the TabOS link yesterday?')
+Item(by='O_H_E', descendants=None, kids=[25614529], score=None, time=1609568603, title=None, item_type='comment', url=None, parent=25609321, text='Question to OP (thesephist): did you also get to this by checking Omar&#x27;s profile from the TabOS link yesterday?')

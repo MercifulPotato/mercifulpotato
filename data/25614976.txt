@@ -1,0 +1,1 @@
+Item(by='matt_kantor', descendants=None, kids=None, score=None, time=1609611762, title=None, item_type='comment', url=None, parent=25614542, text='I&#x27;ve used dot+graphviz to visualize algorithms and data structures before. The syntax makes it really easy to get started with, just print out &quot;x -&gt; y;&quot; in your inner loop or whatever.')

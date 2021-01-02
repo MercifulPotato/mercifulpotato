@@ -1,1 +1,1 @@
-Item(by='chollida1', descendants=None, kids=None, score=None, time=1609598320, title=None, item_type='comment', url=None, parent=25613020, text='What additional burden do you think the bill puts on small businesses?')
+Item(by='chollida1', descendants=None, kids=[25613530], score=None, time=1609598320, title=None, item_type='comment', url=None, parent=25613020, text='What additional burden do you think the bill puts on small businesses?')

@@ -1,1 +1,1 @@
-Item(by='thewarrior', descendants=None, kids=None, score=None, time=1609542043, title=None, item_type='comment', url=None, parent=25607470, text='That’s because you aren’t on a visa ?')
+Item(by='thewarrior', descendants=None, kids=[25615702], score=None, time=1609542043, title=None, item_type='comment', url=None, parent=25607470, text='That’s because you aren’t on a visa ?')

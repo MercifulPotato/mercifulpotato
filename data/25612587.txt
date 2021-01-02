@@ -1,1 +1,1 @@
-Item(by='berkansasmaz', descendants=0, kids=[25612588], score=2, time=1609592760, title='Show HN: Open-Source Web/API Monitoring Tool', item_type='story', url='https://github.com/berkansasmaz/ketum', parent=None, text=None)
+Item(by='berkansasmaz', descendants=1, kids=[25616180, 25612588], score=5, time=1609592760, title='Show HN: Open-Source Web/API Monitoring Tool', item_type='story', url='https://github.com/berkansasmaz/ketum', parent=None, text=None)

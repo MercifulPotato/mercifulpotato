@@ -1,0 +1,1 @@
+Item(by='petters', descendants=None, kids=None, score=None, time=1609621799, title=None, item_type='comment', url=None, parent=25616405, text='Initial loads should definitely be be &lt;100ms as well.<p>But Jira currently is so slow that 1s would be a great improvement. I am using it at work and regret it, unfortunately.')

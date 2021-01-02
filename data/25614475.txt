@@ -1,0 +1,1 @@
+Item(by='semicolon_storm', descendants=None, kids=None, score=None, time=1609608881, title=None, item_type='comment', url=None, parent=25613772, text='Company IT policies. Can&#x27;t make *nix the main OS, can&#x27;t easily dualboot, and running the dev workspace in a VM is slow.<p>The answer, at least in my case, has been using Windows where I must and WSL for whatever I can.')

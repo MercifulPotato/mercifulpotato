@@ -1,0 +1,1 @@
+Item(by='sokoloff', descendants=None, kids=[25614595], score=None, time=1609609421, title=None, item_type='comment', url=None, parent=25614305, text='ESP32 in deep sleep modes is reasonably battery friendly (all depending on your frame of reference, of course.) 5uA in RTC-only and 10+ uA in RTC+ULP sleep.')

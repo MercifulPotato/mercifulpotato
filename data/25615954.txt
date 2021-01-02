@@ -1,0 +1,1 @@
+Item(by='IThinkImOKAY', descendants=None, kids=None, score=None, time=1609617785, title=None, item_type='comment', url=None, parent=25615267, text='the `random` package is one my favorites. I like getting a random string from a list:<p><pre><code>    strings = [&#x27;uno&#x27;, &#x27;dos&#x27;, &#x27;tres&#x27;]\n    print(random.choice(strings))</code></pre>')

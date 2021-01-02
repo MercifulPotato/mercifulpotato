@@ -1,1 +1,1 @@
-Item(by='0xfaded', descendants=None, kids=None, score=None, time=1609575691, title=None, item_type='comment', url=None, parent=25609368, text='wow, this is the first time it was pointed out to me that I shouldn&#x27;t be running my new fat tires at 120 PSI anymore. (face palm).')
+Item(by='0xfaded', descendants=None, kids=[25616146], score=None, time=1609575691, title=None, item_type='comment', url=None, parent=25609368, text='wow, this is the first time it was pointed out to me that I shouldn&#x27;t be running my new fat tires at 120 PSI anymore. (face palm).')

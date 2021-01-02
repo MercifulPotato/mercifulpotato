@@ -1,1 +1,1 @@
-Item(by='baybal2', descendants=None, kids=None, score=None, time=1609492925, title=None, item_type='comment', url=None, parent=25594951, text='More likely a calcium hydroxide, or a lithium scrubber, as amine scrubbers will make you smell like a submariner.')
+Item(by='baybal2', descendants=None, kids=[25614511], score=None, time=1609492925, title=None, item_type='comment', url=None, parent=25594951, text='More likely a calcium hydroxide, or a lithium scrubber, as amine scrubbers will make you smell like a submariner.')

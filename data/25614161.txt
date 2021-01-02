@@ -1,0 +1,1 @@
+Item(by='johannes1234321', descendants=None, kids=None, score=None, time=1609606791, title=None, item_type='comment', url=None, parent=25611983, text='This not only leads to the endianess issues, but also alignment&#x2F;packing.<p>But yes, people often start that way and regret only when it is too late and the files are in the wild.')

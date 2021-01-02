@@ -1,0 +1,1 @@
+Item(by='shawnz', descendants=None, kids=[25614539], score=None, time=1609605648, title=None, item_type='comment', url=None, parent=25613958, text='One downside there is the constantly huge RAM consumption of such a setup.<p>EDIT: At least compared to WSL1. However WSL2 also has some advantages in that it can reclaim unused memory and suspend the VM when not in use.')

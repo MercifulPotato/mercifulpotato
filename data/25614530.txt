@@ -1,0 +1,1 @@
+Item(by='eat_veggies', descendants=None, kids=None, score=None, time=1609609167, title=None, item_type='comment', url=None, parent=25612435, text='It seems like Nix and NixOps are designed for this type of thing, since they&#x27;re built on a functional language instead of yaml. But I haven&#x27;t played with them too much yet -- anyone have experience using them?')

@@ -1,0 +1,1 @@
+Item(by='Scene_Cast2', descendants=None, kids=None, score=None, time=1609602257, title=None, item_type='comment', url=None, parent=25613406, text='I literally spent the last couple of days getting ESP32 to work under WSL. Was not painless.<p>You can have WSL1 and WSL2 side by side IIRC. And there are scripts out there to pipe serial into WSL2.')

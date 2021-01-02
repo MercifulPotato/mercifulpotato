@@ -1,1 +1,1 @@
-Item(by='viraptor', descendants=None, kids=None, score=None, time=1609561054, title=None, item_type='comment', url=None, parent=25609108, text='This wouldn&#x27;t change the situation. What you ship would not meet the criteria either.')
+Item(by='viraptor', descendants=None, kids=[25614929], score=None, time=1609561054, title=None, item_type='comment', url=None, parent=25609108, text='This wouldn&#x27;t change the situation. What you ship would not meet the criteria either.')

@@ -1,1 +1,1 @@
-Item(by='luu', descendants=0, kids=None, score=2, time=1609540610, title='Three Unblinded Mice', item_type='story', url='https://statmodeling.stat.columbia.edu/2013/11/27/double-blind-mice/', parent=None, text=None)
+Item(by='luu', descendants=2, kids=[25614384, 25614262], score=15, time=1609540610, title='Three Unblinded Mice', item_type='story', url='https://statmodeling.stat.columbia.edu/2013/11/27/double-blind-mice/', parent=None, text=None)

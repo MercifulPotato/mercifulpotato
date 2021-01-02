@@ -1,1 +1,1 @@
-Item(by='asymptotically4', descendants=None, kids=None, score=None, time=1609584700, title=None, item_type='comment', url=None, parent=25611387, text='For me (emacs + clangd), the language server slowly grows in memory usage until it&#x27;s eaten up 32G and then gets OOM killed :(')
+Item(by='asymptotically4', descendants=None, kids=[25614299], score=None, time=1609584700, title=None, item_type='comment', url=None, parent=25611387, text='For me (emacs + clangd), the language server slowly grows in memory usage until it&#x27;s eaten up 32G and then gets OOM killed :(')

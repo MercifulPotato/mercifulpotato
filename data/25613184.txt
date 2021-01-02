@@ -1,0 +1,1 @@
+Item(by='temac', descendants=None, kids=None, score=None, time=1609599367, title=None, item_type='comment', url=None, parent=25613082, text='Wild guesses:<p>* the kernel is not properly shutdown (and sometimes some buffers are not flushed)<p>* the virtual block device and&#x2F;or its linux driver has bugs')

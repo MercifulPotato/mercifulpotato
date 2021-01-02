@@ -1,1 +1,1 @@
-Item(by='lmarcos', descendants=None, kids=None, score=None, time=1609535080, title=None, item_type='comment', url=None, parent=25604933, text='Genuinely interested: What are the problems of the past iterations you are talking about?')
+Item(by='lmarcos', descendants=None, kids=[25615134], score=None, time=1609535080, title=None, item_type='comment', url=None, parent=25604933, text='Genuinely interested: What are the problems of the past iterations you are talking about?')

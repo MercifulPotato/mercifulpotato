@@ -1,1 +1,1 @@
-Item(by='concurrencpp', descendants=18, kids=[25604109, 25604177, 25604347, 25606558, 25605917], score=59, time=1609502180, title='Concurrencpp – A C++ concurrency library', item_type='story', url='https://github.com/David-Haim/concurrencpp', parent=None, text=None)
+Item(by='concurrencpp', descendants=18, kids=[25604109, 25604177, 25604347, 25606558, 25605917], score=60, time=1609502180, title='Concurrencpp – A C++ concurrency library', item_type='story', url='https://github.com/David-Haim/concurrencpp', parent=None, text=None)

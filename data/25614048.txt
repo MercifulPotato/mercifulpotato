@@ -1,0 +1,1 @@
+Item(by='shawnz', descendants=None, kids=[25615517], score=None, time=1609606105, title=None, item_type='comment', url=None, parent=25613232, text='Have you tried WSL1? It sounds like it might fit your use cases better:<p>- WSL1 shares the same network interfaces and addresses as the host, no proxying like WSL2<p>- Significantly less RAM usage<p>- No time sync bug')

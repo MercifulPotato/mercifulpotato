@@ -1,1 +1,1 @@
-Item(by='frombody', descendants=None, kids=None, score=None, time=1609583243, title=None, item_type='comment', url=None, parent=25606890, text='And if someone made yet an even more powerful program called cocaine, that would be okay too, because the name fits so well.  right?')
+Item(by='frombody', descendants=None, kids=[25615869], score=None, time=1609583243, title=None, item_type='comment', url=None, parent=25606890, text='And if someone made yet an even more powerful program called cocaine, that would be okay too, because the name fits so well.  right?')

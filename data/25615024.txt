@@ -1,0 +1,1 @@
+Item(by='efdee', descendants=None, kids=None, score=None, time=1609612029, title=None, item_type='comment', url=None, parent=25614216, text='I never said the problem was in the EXT4 filesystem. The problem resulted in EXT4 corruption.<p>Quite sure the Git corruption issue WSL2 has isn&#x27;t in Git either.')

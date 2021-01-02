@@ -1,0 +1,1 @@
+Item(by='etimberg', descendants=None, kids=None, score=None, time=1609620481, title=None, item_type='comment', url=None, parent=25614881, text='Half the UI uses textile and half the UI uses Markdown. Shipping two parsers &amp; renderers for the app makes it a lot bigger.')

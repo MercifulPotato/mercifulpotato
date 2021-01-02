@@ -1,1 +1,1 @@
-Item(by='wulfmann', descendants=None, kids=None, score=None, time=1609547138, title=None, item_type='comment', url=None, parent=25606491, text='inb4 Apple releases this feature natively...')
+Item(by='wulfmann', descendants=None, kids=[25614717], score=None, time=1609547138, title=None, item_type='comment', url=None, parent=25606491, text='inb4 Apple releases this feature natively...')

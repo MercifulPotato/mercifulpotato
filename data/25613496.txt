@@ -1,1 +1,1 @@
-Item(by='scsilver', descendants=None, kids=None, score=None, time=1609602080, title=None, item_type='comment', url=None, parent=25606833, text='You are a crab in a buck arguing against your own interests because you see the game as zero sum.<p>Guess what, wfh isnt zero sum, and quality programmer supply isnt really picking up too fast')
+Item(by=None, descendants=None, kids=None, score=None, time=1609602080, title=None, item_type='comment', url=None, parent=25606833, text=None)

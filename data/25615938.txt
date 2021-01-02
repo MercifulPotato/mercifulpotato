@@ -1,0 +1,1 @@
+Item(by='ahupp', descendants=None, kids=[25616201], score=None, time=1609617682, title=None, item_type='comment', url=None, parent=25615891, text='I tried to build two projects in WSL1, one using the Z3 theorem prover, and one using Chrome for scraping.  Both ran into kernel issues. So for me it failed about 100% of the time on anything non-trivial.')

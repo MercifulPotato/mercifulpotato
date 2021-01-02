@@ -1,0 +1,1 @@
+Item(by='k__', descendants=None, kids=[25613426, 25615531, 25614271], score=None, time=1609600530, title=None, item_type='comment', url=None, parent=25613221, text='Wasn&#x27;t the main purpose of WSL2 to make WSL finally usable because before v2 it had really bad IO perf?')

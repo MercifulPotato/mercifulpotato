@@ -1,0 +1,1 @@
+Item(by='ahupp', descendants=None, kids=None, score=None, time=1609620174, title=None, item_type='comment', url=None, parent=25616201, text='Z3 had a timer to stop the solve if it takes to long and that used a specific option of clock_gettime that wasn&#x27;t supported.  I hacked around this and it otherwise worked fine.')

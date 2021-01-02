@@ -1,0 +1,1 @@
+Item(by='jrockway', descendants=None, kids=[25614502, 25614111], score=None, time=1609601622, title=None, item_type='comment', url=None, parent=25613364, text='Windows is moving to a model where Windows itself is run as a virtualized OS.  I believe this is enabled by default in new installs.<p>So having a Linux VM in Hyper-V isn&#x27;t opening up much new attack surface.')

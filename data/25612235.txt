@@ -1,1 +1,1 @@
-Item(by='adrian_mrd', descendants=0, kids=None, score=3, time=1609589293, title='As Understanding of Russian Hacking Grows, So Does Alarm', item_type='story', url='https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html', parent=None, text=None)
+Item(by='adrian_mrd', descendants=1, kids=[25614707], score=9, time=1609589293, title='As Understanding of Russian Hacking Grows, So Does Alarm', item_type='story', url='https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html', parent=None, text=None)

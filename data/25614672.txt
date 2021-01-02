@@ -1,0 +1,1 @@
+Item(by='dvdkon', descendants=None, kids=None, score=None, time=1609609982, title=None, item_type='comment', url=None, parent=25614472, text='I have scripts that rely on connecting to PostgreSQL via a UNIX socket, I couldn&#x27;t use these scripts on WSL. A workaround wouldn&#x27;t be too hard, but ideally WSL should be 100% Linux-compatible in my opinion.')

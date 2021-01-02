@@ -1,0 +1,1 @@
+Item(by='simonmales', descendants=None, kids=None, score=None, time=1609598550, title=None, item_type='comment', url=None, parent=25612907, text='From my understanding of frontend performance, JS parsing is blocking.<p>So reducing the JS &quot;load&quot; is a performance win on the client.')
