@@ -1,0 +1,1 @@
+Item(by='pixl97', descendants=None, kids=[25612950], score=None, time=1609596632, title=None, item_type='comment', url=None, parent=25612752, text='Is there a way to return a custom 404 error handler for .git and a different one for a regular 404 in Apache? Never tried that before.')

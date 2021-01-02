@@ -1,1 +1,1 @@
-Item(by='danbolt', descendants=None, kids=None, score=None, time=1609574708, title=None, item_type='comment', url=None, parent=25610934, text='I dearly wish creators inspired by <i>Star Wars</i> in their childhoods could have reimagined it when they came of age.')
+Item(by='danbolt', descendants=None, kids=[25611780], score=None, time=1609574708, title=None, item_type='comment', url=None, parent=25610934, text='I dearly wish creators inspired by <i>Star Wars</i> in their childhoods could have reimagined it when they came of age.')

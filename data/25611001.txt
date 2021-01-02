@@ -1,1 +1,1 @@
-Item(by='jxf', descendants=None, kids=None, score=None, time=1609571212, title=None, item_type='comment', url=None, parent=25610610, text='Also not to be confused with Peter Norvig of Google.')
+Item(by='jxf', descendants=None, kids=[25611332], score=None, time=1609571212, title=None, item_type='comment', url=None, parent=25610610, text='Also not to be confused with Peter Norvig of Google.')

@@ -1,1 +1,1 @@
-Item(by='Grustaf', descendants=None, kids=None, score=None, time=1609540119, title=None, item_type='comment', url=None, parent=25607399, text='Their puritans. Remember when Janet Jackson showed her nipple during superbowl or something? The whole country went bananas.')
+Item(by='Grustaf', descendants=None, kids=[25612130], score=None, time=1609540119, title=None, item_type='comment', url=None, parent=25607399, text='Their puritans. Remember when Janet Jackson showed her nipple during superbowl or something? The whole country went bananas.')

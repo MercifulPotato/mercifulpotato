@@ -1,1 +1,1 @@
-Item(by='prismatic', descendants=0, kids=None, score=2, time=1609535353, title='David Fincher, the Unhappiest Auteur', item_type='story', url='https://www.nytimes.com/2021/01/01/movies/david-fincher.html', parent=None, text=None)
+Item(by='prismatic', descendants=24, kids=[25612606, 25612909, 25612482, 25612868, 25612725, 25612473, 25612178], score=40, time=1609535353, title='David Fincher, the Unhappiest Auteur', item_type='story', url='https://www.nytimes.com/2021/01/01/movies/david-fincher.html', parent=None, text=None)

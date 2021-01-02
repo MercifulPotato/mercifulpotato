@@ -1,0 +1,1 @@
+Item(by='niteshade', descendants=None, kids=None, score=None, time=1609594407, title=None, item_type='comment', url=None, parent=25605470, text='This is amazing! I&#x27;d love to see some benchmarks of Artichoke vs Ruby for macOS Homebrew workloads (its mostly the only time the Ruby executable is invoked on my system).')

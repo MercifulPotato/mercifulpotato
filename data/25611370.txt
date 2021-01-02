@@ -1,1 +1,1 @@
-Item(by='bamboleo', descendants=None, kids=None, score=None, time=1609577772, title=None, item_type='comment', url=None, parent=25611106, text='I&#x27;m surprised AngularJS is on there but React isn&#x27;t.')
+Item(by='bamboleo', descendants=None, kids=[25612060], score=None, time=1609577772, title=None, item_type='comment', url=None, parent=25611106, text='I&#x27;m surprised AngularJS is on there but React isn&#x27;t.')

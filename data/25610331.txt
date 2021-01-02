@@ -1,1 +1,1 @@
-Item(by='typpo', descendants=None, kids=None, score=None, time=1609560756, title=None, item_type='comment', url=None, parent=25609027, text='Just want to say this journal is a fascinating &amp; fun read.  Thank you for sharing!')
+Item(by='typpo', descendants=None, kids=[25612282], score=None, time=1609560756, title=None, item_type='comment', url=None, parent=25609027, text='Just want to say this journal is a fascinating &amp; fun read.  Thank you for sharing!')

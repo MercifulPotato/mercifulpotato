@@ -1,0 +1,1 @@
+Item(by='AlexHerbert', descendants=2, kids=[25612120, 25612029], score=2, time=1609585790, title='Ask HN: Why does print (0.1 and 0.1 and 0.1 == 0.3) evaluate to False in Python?', item_type='story', url=None, parent=None, text=None)

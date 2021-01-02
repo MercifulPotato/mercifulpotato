@@ -1,1 +1,1 @@
-Item(by='fjdjsmsm', descendants=None, kids=None, score=None, time=1609560696, title=None, item_type='comment', url=None, parent=25609582, text='The lawsuits were for iOS not MacOS.')
+Item(by='fjdjsmsm', descendants=None, kids=[25611746], score=None, time=1609560696, title=None, item_type='comment', url=None, parent=25609582, text='The lawsuits were for iOS not MacOS.')

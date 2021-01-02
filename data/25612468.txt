@@ -1,0 +1,1 @@
+Item(by='amw-zero', descendants=None, kids=None, score=None, time=1609591625, title=None, item_type='comment', url=None, parent=25610966, text='Redux absolutely implements a state machine. The next state is a function of the current state and an input action. That’s the textbook definition of a state machine.')

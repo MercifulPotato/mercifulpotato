@@ -1,1 +1,1 @@
-Item(by='pabs3', descendants=None, kids=None, score=None, time=1609574612, title=None, item_type='comment', url=None, parent=25603254, text='Hmm, this doesn&#x27;t appear to mention which version of the Linux kernel it is running.')
+Item(by='pabs3', descendants=None, kids=[25611546], score=None, time=1609574612, title=None, item_type='comment', url=None, parent=25603254, text='Hmm, this doesn&#x27;t appear to mention which version of the Linux kernel it is running.')

@@ -1,0 +1,1 @@
+Item(by='mikewarot', descendants=None, kids=[25612503], score=None, time=1609591000, title=None, item_type='comment', url=None, parent=25612286, text='if I say<p>a = 2;\nb = a;\nc = a;<p>There&#x27;s no pointer in there, just 2.')

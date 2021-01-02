@@ -1,1 +1,1 @@
-Item(by='devdas', descendants=None, kids=None, score=None, time=1609542941, title=None, item_type='comment', url=None, parent=25599528, text='Developers should then be given access to those details so they can make better decisions.')
+Item(by='devdas', descendants=None, kids=[25612762], score=None, time=1609542941, title=None, item_type='comment', url=None, parent=25599528, text='Developers should then be given access to those details so they can make better decisions.')

@@ -1,1 +1,1 @@
-Item(by='josefx', descendants=None, kids=None, score=None, time=1609577261, title=None, item_type='comment', url=None, parent=25611312, text='Or run your own JavaScript interpreter, of course nesting interpreters that way is going to be horribly slow.')
+Item(by='josefx', descendants=None, kids=[25611507], score=None, time=1609577261, title=None, item_type='comment', url=None, parent=25611312, text='Or run your own JavaScript interpreter, of course nesting interpreters that way is going to be horribly slow.')

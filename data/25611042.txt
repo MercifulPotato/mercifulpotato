@@ -1,1 +1,1 @@
-Item(by='J5892', descendants=None, kids=None, score=None, time=1609571921, title=None, item_type='comment', url=None, parent=25610848, text='It&#x27;s a religion based on the idea that technology will advance fast enough to make its followers immortal before they die.')
+Item(by='J5892', descendants=None, kids=[25611329, 25611386], score=None, time=1609571921, title=None, item_type='comment', url=None, parent=25610848, text='It&#x27;s a religion based on the idea that technology will advance fast enough to make its followers immortal before they die.')

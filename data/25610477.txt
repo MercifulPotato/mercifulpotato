@@ -1,1 +1,1 @@
-Item(by='greggman3', descendants=None, kids=None, score=None, time=1609562947, title=None, item_type='comment', url=None, parent=25610320, text='Seemed fully readable on mobile to me. What happened for you?')
+Item(by='greggman3', descendants=None, kids=[25611638], score=None, time=1609562947, title=None, item_type='comment', url=None, parent=25610320, text='Seemed fully readable on mobile to me. What happened for you?')

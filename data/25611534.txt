@@ -1,0 +1,1 @@
+Item(by='jamesmd', descendants=None, kids=None, score=None, time=1609580469, title=None, item_type='comment', url=None, parent=25611319, text='I tried that, it refused to execute armel binaries however arm64 worked fine.<p>I’m not sure if it’s a bug or something I was doing wrong but I gave up and just finished the install on the device.')

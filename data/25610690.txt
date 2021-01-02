@@ -1,1 +1,1 @@
-Item(by='alokrai', descendants=0, kids=None, score=2, time=1609565815, title='How Not to Teach Recursion', item_type='story', url='https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/', parent=None, text=None)
+Item(by='alokrai', descendants=2, kids=[25612793], score=21, time=1609565815, title='How Not to Teach Recursion', item_type='story', url='https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/', parent=None, text=None)

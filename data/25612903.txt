@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1609596416, title=None, item_type='comment', url=None, parent=25612849, text='Windows is generally well supported by Rust and its ecosystem; this package seems to be using platform-specific flags in some cases, without trying to do it in a more platform-agnostic way. Doesn’t mean it can’t be done, of course.')

@@ -1,0 +1,1 @@
+Item(by='Aeolun', descendants=None, kids=[25612465], score=None, time=1609591448, title=None, item_type='comment', url=None, parent=25612396, text='Wouldn’t that mean they’re on the heap by default? Your program will have to malloc <i>something</i> if they don’t go on the stack.<p>(My low level knowledge is limited, may be completely wrong)')

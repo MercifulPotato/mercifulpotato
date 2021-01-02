@@ -1,0 +1,1 @@
+Item(by='garaetjjte', descendants=None, kids=[25612692], score=None, time=1609592457, title=None, item_type='comment', url=None, parent=25612469, text='&gt;But that code isn&#x27;t portable for a different endian machine.<p>But it is. That&#x27;s the whole point, to not bother with weird endian conversion macros.')

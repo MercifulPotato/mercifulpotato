@@ -1,1 +1,1 @@
-Item(by='localhost', descendants=None, kids=None, score=None, time=1609571413, title=None, item_type='comment', url=None, parent=25610728, text='Why can’t ordinary people use Jupyter? Or put another way, what’s missing from Jupyter that would get ordinary people to use it?')
+Item(by='localhost', descendants=None, kids=[25612229, 25612071], score=None, time=1609571413, title=None, item_type='comment', url=None, parent=25610728, text='Why can’t ordinary people use Jupyter? Or put another way, what’s missing from Jupyter that would get ordinary people to use it?')

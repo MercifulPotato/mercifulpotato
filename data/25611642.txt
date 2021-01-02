@@ -1,0 +1,1 @@
+Item(by='cbmuser', descendants=None, kids=[25611677, 25611658], score=None, time=1609581840, title=None, item_type='comment', url=None, parent=25611563, text='That looks like it could result in unaligned access and hence a crash on sparc64.')

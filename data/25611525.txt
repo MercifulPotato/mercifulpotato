@@ -1,0 +1,1 @@
+Item(by='rurban', descendants=None, kids=[25611943], score=None, time=1609580411, title=None, item_type='comment', url=None, parent=25611095, text='Breaking out of the sandbox easily. Check the OS, do syscalls to read and write to the filesystem, install a reverse shell and CC.')

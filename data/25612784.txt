@@ -1,0 +1,1 @@
+Item(by='AsyncAwait', descendants=None, kids=None, score=None, time=1609595106, title=None, item_type='comment', url=None, parent=25612425, text='&gt; why the heck would you copy pointers?<p>Pointer aliasing is not always obvious.')

@@ -1,1 +1,1 @@
-Item(by='luu', descendants=0, kids=[25610339], score=2, time=1609559694, title='Timnit Gebru’s Exit from Google Exposes a Crisis in AI', item_type='story', url='https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/', parent=None, text=None)
+Item(by='luu', descendants=1, kids=[25611408, 25610339], score=4, time=1609559694, title='Timnit Gebru’s Exit from Google Exposes a Crisis in AI', item_type='story', url='https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/', parent=None, text=None)
