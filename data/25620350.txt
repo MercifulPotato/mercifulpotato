@@ -1,0 +1,1 @@
+Item(by='shaicoleman', descendants=None, kids=None, score=None, time=1609660572, title=None, item_type='comment', url=None, parent=25619738, text='It doesn&#x27;t support S3 yet.<p>More importantly, S3 &#x2F; Backblaze B2 have 99.999999999% durability, so you can be sure that your data is there when you need it')

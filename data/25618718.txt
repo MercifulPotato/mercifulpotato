@@ -1,1 +1,1 @@
-Item(by='7thaccount', descendants=None, kids=None, score=None, time=1609640118, title=None, item_type='comment', url=None, parent=25616887, text='I don&#x27;t use Steam, but would gladly play this on pretty much anything else.')
+Item(by='7thaccount', descendants=None, kids=[25620645], score=None, time=1609640118, title=None, item_type='comment', url=None, parent=25616887, text='I don&#x27;t use Steam, but would gladly play this on pretty much anything else.')

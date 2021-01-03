@@ -1,1 +1,1 @@
-Item(by='ganeshkrishnan', descendants=None, kids=None, score=None, time=1609640015, title=None, item_type='comment', url=None, parent=25618468, text='I couldn&#x27;t PM you via your contact details on HN. I can help you with this. Is there a way I can message you?')
+Item(by='ganeshkrishnan', descendants=None, kids=[25620432], score=None, time=1609640015, title=None, item_type='comment', url=None, parent=25618468, text='I couldn&#x27;t PM you via your contact details on HN. I can help you with this. Is there a way I can message you?')

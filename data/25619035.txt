@@ -1,1 +1,1 @@
-Item(by='dgarrett', descendants=None, kids=None, score=None, time=1609643694, title=None, item_type='comment', url=None, parent=25619019, text='Some watch faces are only available on Series 4 and later, with their bigger screens.')
+Item(by='dgarrett', descendants=None, kids=[25619320], score=None, time=1609643694, title=None, item_type='comment', url=None, parent=25619019, text='Some watch faces are only available on Series 4 and later, with their bigger screens.')

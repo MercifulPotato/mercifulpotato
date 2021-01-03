@@ -1,1 +1,1 @@
-Item(by='sudosysgen', descendants=None, kids=None, score=None, time=1609637394, title=None, item_type='comment', url=None, parent=25618467, text='It&#x27;s seriously inferior in most ways.')
+Item(by='sudosysgen', descendants=None, kids=[25619205], score=None, time=1609637394, title=None, item_type='comment', url=None, parent=25618467, text='It&#x27;s seriously inferior in most ways.')

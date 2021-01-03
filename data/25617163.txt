@@ -1,1 +1,1 @@
-Item(by='k4r1', descendants=0, kids=None, score=2, time=1609626366, title='OpenGL Bindings for Emacs Lisp', item_type='story', url='https://github.com/Jimx-/emacs-gl', parent=None, text=None)
+Item(by='k4r1', descendants=0, kids=None, score=3, time=1609626366, title='OpenGL Bindings for Emacs Lisp', item_type='story', url='https://github.com/Jimx-/emacs-gl', parent=None, text=None)

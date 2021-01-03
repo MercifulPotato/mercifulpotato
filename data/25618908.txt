@@ -1,1 +1,1 @@
-Item(by='vitoc', descendants=0, kids=None, score=1, time=1609642384, title='After APIs, Webhooks', item_type='story', url='https://docs.prudent.me/blog/2020/12/6/webhooks', parent=None, text=None)
+Item(by='vitoc', descendants=1, kids=[25619234, 25619719], score=2, time=1609642384, title='After APIs, Webhooks', item_type='story', url='https://docs.prudent.me/blog/2020/12/6/webhooks', parent=None, text=None)

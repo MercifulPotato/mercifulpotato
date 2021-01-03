@@ -1,0 +1,1 @@
+Item(by='metreo', descendants=None, kids=None, score=None, time=1609649976, title=None, item_type='comment', url=None, parent=25612962, text='I used WSL2 with Debian and found it slow, aside from that Windows required what seems like an excessive amount of system resources to even get to WSL2.')

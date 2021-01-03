@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=4, time=1609637112, title='On Repl-Driven Programming', item_type='story', url='https://mikelevins.github.io/2020/12/18/repl-driven.html', parent=None, text=None)
+Item(by='todsacerdoti', descendants=2, kids=[25620423], score=9, time=1609637112, title='On Repl-Driven Programming', item_type='story', url='https://mikelevins.github.io/2020/12/18/repl-driven.html', parent=None, text=None)

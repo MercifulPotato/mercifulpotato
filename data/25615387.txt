@@ -1,1 +1,1 @@
-Item(by='elorant', descendants=2, kids=[25616092, 25617215], score=1, time=1609614226, title='The Turing Test is obsolete. AI needs a new benchmark', item_type='story', url='https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa', parent=None, text=None)
+Item(by='elorant', descendants=3, kids=[25616092, 25619285, 25617215], score=2, time=1609614226, title='The Turing Test is obsolete. AI needs a new benchmark', item_type='story', url='https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa', parent=None, text=None)
