@@ -1,0 +1,1 @@
+Item(by='josefx', descendants=None, kids=None, score=None, time=1609704965, title=None, item_type='comment', url=None, parent=25624615, text='That bit probably is either burned in or stored with the firmware in something more permanent than RAM. Modern RAM has the issue that it is optimized for capacity and speed to a point where state changes can leak into nearby bits.')

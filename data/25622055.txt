@@ -1,0 +1,1 @@
+Item(by='majormjr', descendants=None, kids=None, score=None, time=1609685324, title=None, item_type='comment', url=None, parent=25621927, text='That backup software also looks useful. The key feature for me with restic is the ability to upload the encrypted backup directly to cloud storage with all the nice de-duplication features.')

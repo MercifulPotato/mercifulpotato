@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1609702407, title=None, item_type='comment', url=None, parent=25624351, text='Technically libc couldhave an inline version of qsort in the header or the linker (even the dynamic linker) could do LTO, but bechmarks are done on actual implementations not the mythical sufficiently good compiler.')

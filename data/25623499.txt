@@ -1,0 +1,1 @@
+Item(by='ofrzeta', descendants=None, kids=[25624034], score=None, time=1609696858, title=None, item_type='comment', url=None, parent=25622491, text='You don&#x27;t need root to open ports 80 and 443 but instead use CAP_NET_BIND_SERVICE that you can also grant to the container.')

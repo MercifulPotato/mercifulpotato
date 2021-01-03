@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[25624441], score=None, time=1609697107, title=None, item_type='comment', url=None, parent=25623322, text='Newer linux have replaced mcelog with edac-util. I think most shops operating systems at that scale are getting their ECC errors out of band with IPMI SEL, though.')

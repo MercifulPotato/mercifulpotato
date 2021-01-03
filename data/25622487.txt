@@ -1,0 +1,1 @@
+Item(by='dheera', descendants=None, kids=[25624762], score=None, time=1609689726, title=None, item_type='comment', url=None, parent=25621323, text='Yes, the whole idea is to not store state. You only need a master password and domain to generate your site-specific password, and possibly a few custom parameters describing password rules for weird sites.')

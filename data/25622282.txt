@@ -1,0 +1,1 @@
+Item(by='ognarb', descendants=None, kids=None, score=None, time=1609687791, title=None, item_type='comment', url=None, parent=25622168, text='This is why I like Qml so much, it is using an declarative ui language while having a nicely organized cpp code for the backend. But as far as I know GTK also have some xml files for the ui.')

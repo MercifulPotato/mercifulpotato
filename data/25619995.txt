@@ -1,1 +1,1 @@
-Item(by='devxpy', descendants=None, kids=None, score=None, time=1609655536, title=None, item_type='comment', url=None, parent=25619606, text='I wonder if this problem can be solved by using the YOLO model in front of this to cut out the noise.')
+Item(by='devxpy', descendants=None, kids=[25622946], score=None, time=1609655536, title=None, item_type='comment', url=None, parent=25619606, text='I wonder if this problem can be solved by using the YOLO model in front of this to cut out the noise.')

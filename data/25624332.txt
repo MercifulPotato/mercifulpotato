@@ -1,0 +1,1 @@
+Item(by='qppo', descendants=None, kids=None, score=None, time=1609701911, title=None, item_type='comment', url=None, parent=25623042, text='Or create an iterator and use Iterator::filter, which is probably a bit more idiomatic.')

@@ -1,0 +1,1 @@
+Item(by='tshaddox', descendants=None, kids=None, score=None, time=1609699915, title=None, item_type='comment', url=None, parent=25623670, text='That’s the point. Running multiple paginated queries in parallel is essentially circumventing the API provider’s intent to limit the number of items requested at one time.')

@@ -1,0 +1,1 @@
+Item(by='dotancohen', descendants=None, kids=[25623480, 25623831], score=None, time=1609688633, title=None, item_type='comment', url=None, parent=25621610, text='So what is the right way to configure Docker such that both the container and my host user can alter files in the volume?')

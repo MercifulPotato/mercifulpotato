@@ -1,0 +1,1 @@
+Item(by='newsbinator', descendants=None, kids=None, score=None, time=1609689932, title=None, item_type='comment', url=None, parent=25619407, text='Awesome! I&#x27;ve been working on a module that obfuscates sensitive info in submitted text (e.g. phone numbers, email addresses, etc).<p>I&#x27;d love to check out your functions &#x2F; regexes for this.')

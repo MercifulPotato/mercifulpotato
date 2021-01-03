@@ -1,1 +1,1 @@
-Item(by='ekianjo', descendants=None, kids=None, score=None, time=1609612499, title=None, item_type='comment', url=None, parent=25614867, text='Twice a day for about an hour')
+Item(by='ekianjo', descendants=None, kids=[25622472], score=None, time=1609612499, title=None, item_type='comment', url=None, parent=25614867, text='Twice a day for about an hour')

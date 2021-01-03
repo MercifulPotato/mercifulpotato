@@ -1,1 +1,1 @@
-Item(by='shakna', descendants=0, kids=None, score=2, time=1609568810, title="Show HN: Let's Build a Version Control System", item_type='story', url='https://shatterealm.netlify.app/programming/2021_01_02_shiv_lets_build_a_vcs', parent=None, text=None)
+Item(by='shakna', descendants=3, kids=[25622981, 25623175, 25623176], score=66, time=1609568810, title='Let’s Build a Version Control System', item_type='story', url='https://shatterealm.netlify.app/programming/2021_01_02_shiv_lets_build_a_vcs', parent=None, text=None)

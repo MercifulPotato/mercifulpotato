@@ -1,0 +1,1 @@
+Item(by='cdmckay', descendants=None, kids=[25623317, 25623217, 25623411], score=None, time=1609694617, title=None, item_type='comment', url=None, parent=25623061, text='The JVM interop is a huge positive for Clojure, in my opinion.<p>Being able to consume any JVM library makes Clojure usable in many more professional settings than Haskell.')

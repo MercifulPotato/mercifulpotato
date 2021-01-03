@@ -1,1 +1,1 @@
-Item(by='TheCoelacanth', descendants=None, kids=None, score=None, time=1609639750, title=None, item_type='comment', url=None, parent=25613744, text='&quot;Never break two laws at once&quot;')
+Item(by='TheCoelacanth', descendants=None, kids=[25622212], score=None, time=1609639750, title=None, item_type='comment', url=None, parent=25613744, text='&quot;Never break two laws at once&quot;')

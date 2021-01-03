@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1609705618, title=None, item_type='comment', url=None, parent=25624892, text='I&#x27;ve always wondered if the reason why Rust keeps running into llvm bugs around restrict is that it is used so sparingly, and the semantics being unclear enough, that these codepaths just aren&#x27;t exercised as often.')

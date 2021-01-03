@@ -1,0 +1,1 @@
+Item(by='znpy', descendants=None, kids=None, score=None, time=1609703815, title=None, item_type='comment', url=None, parent=25622145, text='&gt; I&#x27;ve seen full-fat Ubuntu containers with uid 1000 which is in docker group on the host and ~ mounted to run some python flask app, in production<p>If you mount ~ in your containers you have bigger problems than uid 1000.')

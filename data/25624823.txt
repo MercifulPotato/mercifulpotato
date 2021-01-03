@@ -1,0 +1,1 @@
+Item(by='hda111', descendants=None, kids=None, score=None, time=1609704871, title=None, item_type='comment', url=None, parent=25622015, text='This is a problem with many package managers. Even if one downloads a package in Emacs from MELPA. How can one be sure it’s not containing malware? Read through all code every in every dependency after every update?')

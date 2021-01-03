@@ -1,1 +1,1 @@
-Item(by='Rebelgecko', descendants=None, kids=None, score=None, time=1609642982, title=None, item_type='comment', url=None, parent=25611615, text='If every almond in the entire world disappeared, how much food insecurity would it cause? I&#x27;ve never really considered them a staple')
+Item(by='Rebelgecko', descendants=None, kids=[25624687], score=None, time=1609642982, title=None, item_type='comment', url=None, parent=25611615, text='If every almond in the entire world disappeared, how much food insecurity would it cause? I&#x27;ve never really considered them a staple')

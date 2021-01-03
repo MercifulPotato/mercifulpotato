@@ -1,1 +1,1 @@
-Item(by='bob33212', descendants=None, kids=None, score=None, time=1609680862, title=None, item_type='comment', url=None, parent=25621657, text='Do a dns lookup for a large website. Then google that up address. There is a good chance you will see the domain name in one of the results')
+Item(by='bob33212', descendants=None, kids=[25623340], score=None, time=1609680862, title=None, item_type='comment', url=None, parent=25621657, text='Do a dns lookup for a large website. Then google that up address. There is a good chance you will see the domain name in one of the results')

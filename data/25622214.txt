@@ -1,0 +1,1 @@
+Item(by='kortex', descendants=None, kids=[25622262], score=None, time=1609687103, title=None, item_type='comment', url=None, parent=25619319, text='Is tini still considered best practice? I remember reading that it was included and now you can just docker run --init (init: true in compose)')

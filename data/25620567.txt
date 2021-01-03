@@ -1,1 +1,1 @@
-Item(by='dragonwriter', descendants=None, kids=None, score=None, time=1609664123, title=None, item_type='comment', url=None, parent=25619880, text='&gt; There was (bad) CGI of an X-35B in that movie.<p>Models (both miniature and full size) were used.')
+Item(by='dragonwriter', descendants=None, kids=[25622372], score=None, time=1609664123, title=None, item_type='comment', url=None, parent=25619880, text='&gt; There was (bad) CGI of an X-35B in that movie.<p>Models (both miniature and full size) were used.')

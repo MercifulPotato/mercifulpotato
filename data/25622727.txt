@@ -1,0 +1,1 @@
+Item(by='sokoloff', descendants=None, kids=None, score=None, time=1609691343, title=None, item_type='comment', url=None, parent=25621845, text='If I cold start a Raspberry Pi attached GPS in an airplane moving at 175 knots, it can easily be 20-30 minutes before it will determine a fix.')

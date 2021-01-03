@@ -1,0 +1,1 @@
+Item(by='vykthur', descendants=None, kids=None, score=None, time=1609691218, title=None, item_type='comment', url=None, parent=25622087, text='Hi,  handtack.js author here,\nI am exploring some size and speed optimizations which might help with this (smaller models such as efficientdet, quantization). Will share once something is ready.')

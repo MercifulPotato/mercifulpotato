@@ -1,0 +1,1 @@
+Item(by='Triv888', descendants=None, kids=[25623275, 25623281, 25623332], score=None, time=1609694399, title=None, item_type='comment', url=None, parent=25622961, text='&gt; they can inject arbitrary scripts into pages to make requests for them<p>disallow that behavior?<p>You could also just pull that code but it might change based on request origin...')

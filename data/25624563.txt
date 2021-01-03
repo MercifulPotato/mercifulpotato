@@ -1,0 +1,1 @@
+Item(by='rjsw', descendants=None, kids=None, score=None, time=1609703374, title=None, item_type='comment', url=None, parent=25624404, text='Back when AMD released the first Opteron CPUs there was a vendor selling an FPGA that would plug into an Opteron socket along with the IP to implement HyperTransport in the FPGA.')

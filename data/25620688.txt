@@ -1,1 +1,1 @@
-Item(by='jakeprins', descendants=10, kids=[25621952, 25621350, 25621203, 25621720], score=26, time=1609665934, title='Show HN: I made a free documentation tool', item_type='story', url='https://sidepage.co', parent=None, text=None)
+Item(by='jakeprins', descendants=25, kids=[25621350, 25623029, 25623393, 25622973, 25621203, 25621952, 25621720], score=55, time=1609665934, title='Show HN: I made a free documentation tool', item_type='story', url='https://sidepage.co', parent=None, text=None)

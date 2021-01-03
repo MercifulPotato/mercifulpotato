@@ -1,1 +1,1 @@
-Item(by='frombody', descendants=None, kids=None, score=None, time=1609583604, title=None, item_type='comment', url=None, parent=25606177, text='I just did some research and it appears that amphetamine used to have a coffee cup logo.<p>Amphetamine rebranded to showcase it as a pill.')
+Item(by='frombody', descendants=None, kids=[25622956], score=None, time=1609583604, title=None, item_type='comment', url=None, parent=25606177, text='I just did some research and it appears that amphetamine used to have a coffee cup logo.<p>Amphetamine rebranded to showcase it as a pill.')

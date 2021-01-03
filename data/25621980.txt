@@ -1,1 +1,1 @@
-Item(by='macmac', descendants=None, kids=None, score=None, time=1609684514, title=None, item_type='comment', url=None, parent=25621700, text='The text rendering seems very poor. Is that an artefact of the font used, the platform or something else?')
+Item(by='macmac', descendants=None, kids=[25622028, 25622962, 25621998], score=None, time=1609684514, title=None, item_type='comment', url=None, parent=25621700, text='The text rendering seems very poor. Is that an artefact of the font used, the platform or something else?')

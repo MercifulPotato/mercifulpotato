@@ -1,1 +1,1 @@
-Item(by='majormjr', descendants=1, kids=[25621927], score=2, time=1609683564, title='Creating Linux Backups with Restic and B2 Cloud', item_type='story', url='https://roote.ca/about/tutorials/restic-backups/', parent=None, text=None)
+Item(by='majormjr', descendants=2, kids=[25621927], score=2, time=1609683564, title='Creating Linux Backups with Restic and B2 Cloud', item_type='story', url='https://roote.ca/about/tutorials/restic-backups/', parent=None, text=None)

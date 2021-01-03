@@ -1,1 +1,1 @@
-Item(by='po1nter', descendants=None, kids=None, score=None, time=1609675140, title=None, item_type='comment', url=None, parent=25619440, text='It detects my face as a hand with a score of 0.900+ especially when I tilt my head backwards.')
+Item(by='po1nter', descendants=None, kids=[25622504], score=None, time=1609675140, title=None, item_type='comment', url=None, parent=25619440, text='It detects my face as a hand with a score of 0.900+ especially when I tilt my head backwards.')

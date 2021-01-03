@@ -1,0 +1,1 @@
+Item(by='Scarbutt', descendants=None, kids=None, score=None, time=1609702166, title=None, item_type='comment', url=None, parent=25623543, text='That article is disingenuous, the startup time of &quot;hello world&quot; in Clojure is still pretty bad but tolerable, the issue arises when you start to add libraries, now your web service can take from 1-2 minutes or more to start.')

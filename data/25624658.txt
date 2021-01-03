@@ -1,0 +1,1 @@
+Item(by='aae42', descendants=None, kids=None, score=None, time=1609703890, title=None, item_type='comment', url=None, parent=25617323, text='disagree, it&#x27;s unusably slow... i had to move to hyper-v vagrant driver as vbox, while it would boot the VM, was so slow it defeated any purpose on speeding up development')

@@ -1,0 +1,1 @@
+Item(by='p_l', descendants=None, kids=None, score=None, time=1609705305, title=None, item_type='comment', url=None, parent=25623901, text='Gigabyte is also infamous for trying to claim that they implemented UEFI by dropping a build of DUET (UEFI that boots on top of BIOS, used for early development) into BIOS image...')

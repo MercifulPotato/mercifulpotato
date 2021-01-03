@@ -1,0 +1,1 @@
+Item(by='nynx', descendants=None, kids=[25624314, 25624322, 25624293], score=None, time=1609701533, title=None, item_type='comment', url=None, parent=25624157, text='LLVM&#x27;s support for this is bugged, so rust does not currently take (edit: full) advantage of it.')

@@ -1,0 +1,1 @@
+Item(by='kortex', descendants=None, kids=None, score=None, time=1609695989, title=None, item_type='comment', url=None, parent=25622262, text='This is what I get for skimming, thanks for pointing it out.<p>I have noticed that after moving away from tini, some of my containers take a lot longer to shut down, despite the init flag. I think this might be related.')

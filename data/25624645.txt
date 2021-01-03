@@ -1,0 +1,1 @@
+Item(by='strogonoff', descendants=None, kids=[25624721], score=None, time=1609703807, title=None, item_type='comment', url=None, parent=25624074, text='&gt; my first action after installing an app is to do a packet capture and look at what the app talks to<p>Can’t it talk to its own servers that then talk to Facebook, in which case packet capture is of not much use?')

@@ -1,1 +1,1 @@
-Item(by='doener', descendants=0, kids=None, score=3, time=1609679693, title='Monkey Island with various sound cards', item_type='story', url='https://www.youtube.com/watch?v=Fr-84mjV3CI', parent=None, text=None)
+Item(by='doener', descendants=1, kids=[25622267], score=4, time=1609679693, title='Monkey Island with various sound cards', item_type='story', url='https://www.youtube.com/watch?v=Fr-84mjV3CI', parent=None, text=None)

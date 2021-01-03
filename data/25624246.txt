@@ -1,0 +1,1 @@
+Item(by='kmstout', descendants=None, kids=None, score=None, time=1609701459, title=None, item_type='comment', url=None, parent=25623118, text='ParEdit&#x27;s nice, especially when combined with mark-sexpr (C-M-Spc) and narrow-to-region (C-x n n). Somewhere out there is a smattering of Elisp for gracefully handling recursive narrowing.')

@@ -1,0 +1,1 @@
+Item(by='rosineygp', descendants=None, kids=[25623860], score=None, time=1609692710, title=None, item_type='comment', url=None, parent=25622666, text='Babashka is a nice project (I will try to do something or port it), but I use fleck to learn clojure better... to make lines I have to create a lot of base functions and interop. But fleck is slow :(')

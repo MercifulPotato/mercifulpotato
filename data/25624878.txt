@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=[25624975, 25625485], score=None, time=1609705365, title=None, item_type='comment', url=None, parent=25624510, text='Interestingly enough, I would say that dynamic linking makes binaries smaller, that code no longer lives in the binary, but another place instead.')

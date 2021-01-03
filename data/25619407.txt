@@ -1,1 +1,1 @@
-Item(by='theindianappguy', descendants=0, kids=None, score=1, time=1609647707, title='Show HN: I made a Chrome extension to hide sensitive information on a web page', item_type='story', url='https://blurmypage.web.app', parent=None, text=None)
+Item(by='theindianappguy', descendants=0, kids=[25622519], score=1, time=1609647707, title='Show HN: I made a Chrome extension to hide sensitive information on a web page', item_type='story', url='https://blurmypage.web.app', parent=None, text=None)

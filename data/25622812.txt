@@ -1,0 +1,1 @@
+Item(by='technological', descendants=None, kids=None, score=None, time=1609692095, title=None, item_type='comment', url=None, parent=25622458, text='We use hashicorp nomad, which handles the restart of unhealthy container. I think if ppl are using large number of containers (scale of more than 1000) then they would have some sort of tool that manages them')

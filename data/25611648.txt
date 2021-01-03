@@ -1,1 +1,1 @@
-Item(by='Bluestein', descendants=2, kids=[25611649], score=9, time=1609581953, title='Morris Chang, Taiwan Semiconductor Manufacturing, Engineering Hero Lecture', item_type='story', url='https://www.youtube.com/watch?v=wEh3ZgbvBrE', parent=None, text=None)
+Item(by='Bluestein', descendants=5, kids=[25621735, 25622376, 25611649], score=35, time=1609581953, title='Interview with Morris Chang, founder of TSMC (2014) [video]', item_type='story', url='https://www.youtube.com/watch?v=wEh3ZgbvBrE', parent=None, text=None)

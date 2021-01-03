@@ -1,0 +1,1 @@
+Item(by='anentropic', descendants=None, kids=[25623967], score=None, time=1609691337, title=None, item_type='comment', url=None, parent=25620866, text='I find ipython + ipdb super useful in this regard<p>But AFAIK neither provide the feature described in the article where you can continue running after an unhandled exception.')

@@ -1,0 +1,1 @@
+Item(by='paulgb', descendants=None, kids=None, score=None, time=1609699154, title=None, item_type='comment', url=None, parent=25623538, text='If an extension is open source, there are usually already some eyes on the GitHub codebase. If an extension version is pinned to a git hash, all those eyes could potentially spot that something is amiss.')

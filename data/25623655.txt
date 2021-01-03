@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=None, score=None, time=1609697934, title=None, item_type='comment', url=None, parent=25620841, text='&gt; so it&#x27;s not a type safe language if they use anonymous struct everywhere<p>It&#x27;s compile-time checked.  The example shows a compile time error when the struct fields are not completed by the anonymous struct')

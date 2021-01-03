@@ -1,0 +1,1 @@
+Item(by='fiddlerwoaroof', descendants=None, kids=None, score=None, time=1609694946, title=None, item_type='comment', url=None, parent=25623163, text='Yeah, I worked at a company where several Haskell projects crashed and burned because of interop issues with existing JVM systems, but the Clojure project I worked on did really well.')

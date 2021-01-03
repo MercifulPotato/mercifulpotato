@@ -1,1 +1,1 @@
-Item(by='johlo', descendants=0, kids=None, score=2, time=1609677120, title='Synthesizing Correct-by-Construction Code for Cryptographic Primitives', item_type='story', url='https://github.com/mit-plv/fiat-crypto', parent=None, text=None)
+Item(by='johlo', descendants=0, kids=None, score=3, time=1609677120, title='Synthesizing Correct-by-Construction Code for Cryptographic Primitives', item_type='story', url='https://github.com/mit-plv/fiat-crypto', parent=None, text=None)

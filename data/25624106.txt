@@ -1,0 +1,1 @@
+Item(by='paulryanrogers', descendants=None, kids=None, score=None, time=1609700706, title=None, item_type='comment', url=None, parent=25622544, text='It&#x27;s possible to make extensions declare which hostnames or registrable domains they need to communicate with. (Apart from pages in which they can run which is already defined with WebExtensions.)')

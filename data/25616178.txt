@@ -1,1 +1,1 @@
-Item(by='loeg', descendants=None, kids=None, score=None, time=1609619329, title=None, item_type='comment', url=None, parent=25614151, text='Can&#x27;t you just run Postgres natively on Windows?  It&#x27;s a database, you can talk to it from WSL over a local socket, no?')
+Item(by='loeg', descendants=None, kids=[25623122], score=None, time=1609619329, title=None, item_type='comment', url=None, parent=25614151, text='Can&#x27;t you just run Postgres natively on Windows?  It&#x27;s a database, you can talk to it from WSL over a local socket, no?')

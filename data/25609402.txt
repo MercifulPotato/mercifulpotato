@@ -1,1 +1,1 @@
-Item(by='iridium_core', descendants=None, kids=None, score=None, time=1609551897, title=None, item_type='comment', url=None, parent=25609246, text='We need automated and mainstream Vitamin and Mineral testing - without needing to go through the traditional healthcare system.')
+Item(by='iridium_core', descendants=None, kids=[25623490], score=None, time=1609551897, title=None, item_type='comment', url=None, parent=25609246, text='We need automated and mainstream Vitamin and Mineral testing - without needing to go through the traditional healthcare system.')

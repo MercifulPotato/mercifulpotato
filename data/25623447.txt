@@ -1,0 +1,1 @@
+Item(by='29athrowaway', descendants=None, kids=[25623718, 25623639], score=None, time=1609696559, title=None, item_type='comment', url=None, parent=25621533, text='Compression has a CPU time cost, though. You spend less on storage but use your CPUs more. Is the extra load from compression cause your cluster to autoscale? if so, you may not be saving money.')
