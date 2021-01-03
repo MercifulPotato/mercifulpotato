@@ -1,1 +1,1 @@
-Item(by='snvzz', descendants=None, kids=None, score=None, time=1609614624, title=None, item_type='comment', url=None, parent=25613937, text='We&#x27;ve established Jira&#x2F;Confluence&#x2F;etc. are crap.<p>Now, let&#x27;s talk alternatives.')
+Item(by='snvzz', descendants=None, kids=[25617343], score=None, time=1609614624, title=None, item_type='comment', url=None, parent=25613937, text='We&#x27;ve established Jira&#x2F;Confluence&#x2F;etc. are crap.<p>Now, let&#x27;s talk alternatives.')

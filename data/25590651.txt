@@ -1,1 +1,1 @@
-Item(by='gingerlime', descendants=None, kids=[25591676, 25590817], score=None, time=1609402019, title=None, item_type='comment', url=None, parent=25590359, text='I’ve never used Terraform, but isn’t it “intelligent” enough to apply only the changes necessary?')
+Item(by='gingerlime', descendants=None, kids=[25590817, 25591676], score=None, time=1609402019, title=None, item_type='comment', url=None, parent=25590359, text='I’ve never used Terraform, but isn’t it “intelligent” enough to apply only the changes necessary?')

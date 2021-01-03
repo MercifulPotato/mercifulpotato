@@ -1,0 +1,1 @@
+Item(by='yokoprime', descendants=None, kids=None, score=None, time=1609631543, title=None, item_type='comment', url=None, parent=25615808, text='i&#x27;ve used WSL2 with a Debian install and its worked flawlessly. Only issues i&#x27;ve had is working with ntfs volumes from the host, e.g &#x2F;mnt&#x2F;c. that&#x27;s really slow. otherwise wsl2 has been fine for me')

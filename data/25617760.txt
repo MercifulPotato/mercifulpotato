@@ -1,0 +1,1 @@
+Item(by='WhoIsSuraj', descendants=None, kids=None, score=None, time=1609630681, title=None, item_type='comment', url=None, parent=25615804, text='You can still limit the amount of ram used by wsl 2 by setting it in the wslconfig. I like to limit the amount of cores it has access to as well as i tend to find that these two things are generally prone to spiking.')

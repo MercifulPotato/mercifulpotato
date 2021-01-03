@@ -1,1 +1,1 @@
-Item(by='iamcreasy', descendants=None, kids=None, score=None, time=1609622088, title=None, item_type='comment', url=None, parent=25594983, text='What is the advantage of placing everything in the language of graphical model? How does the other ML book do it?')
+Item(by='iamcreasy', descendants=None, kids=[25617289], score=None, time=1609622088, title=None, item_type='comment', url=None, parent=25594983, text='What is the advantage of placing everything in the language of graphical model? How does the other ML book do it?')

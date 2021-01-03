@@ -1,0 +1,1 @@
+Item(by='glandium', descendants=None, kids=[25617973], score=None, time=1609631003, title=None, item_type='comment', url=None, parent=25616724, text='To give an idea how bad it is, building Firefox on a Threadripper 3970X on Windows takes slightly over 12 minutes if you don&#x27;t disable Defender and somewhere around 7 minutes if you do.')

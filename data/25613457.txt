@@ -1,1 +1,1 @@
-Item(by='uncledave', descendants=None, kids=None, score=None, time=1609601734, title=None, item_type='comment', url=None, parent=25613377, text='Yeah M1 Mini here. Total game changer.')
+Item(by='uncledave', descendants=None, kids=[25617535], score=None, time=1609601734, title=None, item_type='comment', url=None, parent=25613377, text='Yeah M1 Mini here. Total game changer.')

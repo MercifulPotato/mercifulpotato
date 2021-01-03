@@ -1,0 +1,1 @@
+Item(by='loeg', descendants=None, kids=[25617713], score=None, time=1609629316, title=None, item_type='comment', url=None, parent=25616556, text='Sure.  Running a Linux VM (WSL2) just to use containers seems to kind of defeat the point, though.  You might as well just run your containers in VMs.')

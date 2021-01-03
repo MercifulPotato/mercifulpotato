@@ -1,0 +1,1 @@
+Item(by='dahart', descendants=None, kids=None, score=None, time=1609635429, title=None, item_type='comment', url=None, parent=25618153, text='Why are you thinking GI wouldn’t work? Slicing the image plane pretty much works for parallelizing GI just as well as it does for raster. It does help to use small-ish tiles, that way you get some degree of automatic load balancing.')

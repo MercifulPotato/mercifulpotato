@@ -1,0 +1,1 @@
+Item(by='sethherr', descendants=None, kids=None, score=None, time=1609640225, title=None, item_type='comment', url=None, parent=25615394, text='As a note: this article says Strava uses Google maps, which is incorrect. Strava has for a while used Mapbox, which uses OSM.')

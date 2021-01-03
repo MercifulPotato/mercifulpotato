@@ -1,0 +1,1 @@
+Item(by='dralley', descendants=None, kids=None, score=None, time=1609627293, title=None, item_type='comment', url=None, parent=25616177, text='So does Python. Asyncio is mediocre at best and difficult to express certain patterns in. Other libraries are far better, but not in the standard library.')

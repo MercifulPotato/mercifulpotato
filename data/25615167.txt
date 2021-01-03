@@ -1,1 +1,1 @@
-Item(by='pjc50', descendants=None, kids=None, score=None, time=1609612858, title=None, item_type='comment', url=None, parent=25612645, text='Are there <i>ever</i> successful software product quality liability lawsuits?')
+Item(by='pjc50', descendants=None, kids=[25617376], score=None, time=1609612858, title=None, item_type='comment', url=None, parent=25612645, text='Are there <i>ever</i> successful software product quality liability lawsuits?')

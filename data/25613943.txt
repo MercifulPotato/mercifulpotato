@@ -1,1 +1,1 @@
-Item(by='tomerbd', descendants=0, kids=None, score=2, time=1609605335, title='Ask HN: Anyone still using play framework?', item_type='story', url=None, parent=None, text=None)
+Item(by='tomerbd', descendants=1, kids=[25616869], score=2, time=1609605335, title='Ask HN: Anyone still using play framework?', item_type='story', url=None, parent=None, text=None)

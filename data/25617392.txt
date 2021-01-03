@@ -1,0 +1,1 @@
+Item(by='strombofulous', descendants=None, kids=[25617528, 25617487], score=None, time=1609627931, title=None, item_type='comment', url=None, parent=25617275, text='WSL2 uses hyper-v. You can only run either hyper-v or ESXi (VB&#x27;s hypervisor) at the same time.')

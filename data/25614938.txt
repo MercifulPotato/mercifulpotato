@@ -1,1 +1,1 @@
-Item(by='pfdietz', descendants=None, kids=None, score=None, time=1609611539, title=None, item_type='comment', url=None, parent=25611883, text='Is this why Trump vetoed it?')
+Item(by='pfdietz', descendants=None, kids=[25618239], score=None, time=1609611539, title=None, item_type='comment', url=None, parent=25611883, text='Is this why Trump vetoed it?')

@@ -1,0 +1,1 @@
+Item(by='shoo_pl', descendants=None, kids=[25618922], score=None, time=1609629362, title=None, item_type='comment', url=None, parent=25617185, text='That is no longer true since VirtualBox 6 (or VMware Workstation 15.5), both of which can work alongside WSL2.')

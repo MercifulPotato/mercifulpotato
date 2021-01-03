@@ -1,0 +1,1 @@
+Item(by='snewman', descendants=None, kids=[25618958], score=None, time=1609641486, title=None, item_type='comment', url=None, parent=25618175, text='GC also protects you against forget-to-free, which in most non-GC languages is a common form of memory leak.')

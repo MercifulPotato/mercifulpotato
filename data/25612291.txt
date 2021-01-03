@@ -1,1 +1,1 @@
-Item(by='aldinoruswandi', descendants=0, kids=None, score=6, time=1609589861, title='Step by step guide to becoming a modern back end developer', item_type='story', url='https://roadmap.sh/backend', parent=None, text=None)
+Item(by='aldinoruswandi', descendants=1, kids=[25617759], score=6, time=1609589861, title='Step by step guide to becoming a modern back end developer', item_type='story', url='https://roadmap.sh/backend', parent=None, text=None)

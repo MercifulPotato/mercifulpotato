@@ -1,1 +1,1 @@
-Item(by='0x426577617265', descendants=None, kids=None, score=None, time=1609618324, title=None, item_type='comment', url=None, parent=25615321, text='Where do I find your service? I am planning on moving soon.')
+Item(by='0x426577617265', descendants=None, kids=[25617349], score=None, time=1609618324, title=None, item_type='comment', url=None, parent=25615321, text='Where do I find your service? I am planning on moving soon.')

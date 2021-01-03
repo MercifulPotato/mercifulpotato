@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=None, score=None, time=1609637011, title=None, item_type='comment', url=None, parent=25618045, text='&gt; windows has no concept of an executable bit<p>Sure it does. Execution is a permission you can set in the security tab.<p>&gt; a rename could make it runnable<p>This is more likely why.')

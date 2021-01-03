@@ -1,0 +1,1 @@
+Item(by='tyingq', descendants=None, kids=None, score=None, time=1609632889, title=None, item_type='comment', url=None, parent=25617482, text='I believe the comparison is just to the bundled zipfile module and BytesIO, which would be the quick and dirty way to make a zipfile without creating actual files, but would be memory intensive.')

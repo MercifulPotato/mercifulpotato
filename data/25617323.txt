@@ -1,0 +1,1 @@
+Item(by='noisem4ker', descendants=None, kids=[25617588], score=None, time=1609627476, title=None, item_type='comment', url=None, parent=25615894, text='Newer VirtualBox releases can run virtual machines on top of Hyper-V as a virtualization engine. It is slower than VirtualBox&#x27; own engine, but overall it is still a better experience than Hyper-V Manager.')

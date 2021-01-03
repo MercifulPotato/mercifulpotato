@@ -1,0 +1,1 @@
+Item(by='gutino', descendants=None, kids=None, score=None, time=1609626616, title=None, item_type='comment', url=None, parent=25615808, text='i have three different&#x2F;language dev setup, in one of them, i hit a known bug with ulimit. but the two rest worked well.\nI guess with time it will get fixed, we have to be patient, report try&#x2F;use it so we can report bugs.')

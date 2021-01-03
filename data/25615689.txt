@@ -1,1 +1,1 @@
-Item(by='sroussey', descendants=None, kids=None, score=None, time=1609616114, title=None, item_type='comment', url=None, parent=25613189, text='It doubled a couple years ago, which was temporary, so will halve in a few years time. <i>That</i> will catch people unaware.')
+Item(by='sroussey', descendants=None, kids=[25618512], score=None, time=1609616114, title=None, item_type='comment', url=None, parent=25613189, text='It doubled a couple years ago, which was temporary, so will halve in a few years time. <i>That</i> will catch people unaware.')

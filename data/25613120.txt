@@ -1,1 +1,1 @@
-Item(by='dekhn', descendants=None, kids=None, score=None, time=1609598841, title=None, item_type='comment', url=None, parent=25608350, text='this is garbage science with zero experimental evidence to support it.')
+Item(by='dekhn', descendants=None, kids=[25617318], score=None, time=1609598841, title=None, item_type='comment', url=None, parent=25608350, text='this is garbage science with zero experimental evidence to support it.')

@@ -1,0 +1,1 @@
+Item(by='koolba', descendants=None, kids=None, score=None, time=1609629535, title=None, item_type='comment', url=None, parent=25613613, text='There’s the “executive” level of this stupidity where an app replaces their md5 OpenSSL calls with their own internal copy pasta of the function.<p>“<i>Look ma! We’re FIPS compliant now!</i>”')

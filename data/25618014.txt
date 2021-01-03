@@ -1,0 +1,1 @@
+Item(by='monkaiju', descendants=None, kids=None, score=None, time=1609632770, title=None, item_type='comment', url=None, parent=25618012, text='Pretty configurable, by default gives pretty table output, can be configured to give CSV or JSON output instead. Designed to be easy to use for humans but also usable in scripts.')
