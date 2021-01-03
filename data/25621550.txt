@@ -1,0 +1,1 @@
+Item(by='kochismo', descendants=None, kids=None, score=None, time=1609679264, title=None, item_type='comment', url=None, parent=25619491, text='caps.name(&quot;min&quot;) returns an Option which you need to handle e.g. by unwrapping.  You can use caps[&quot;min&quot;] instead if you don&#x27;t want an option.')

@@ -1,0 +1,1 @@
+Item(by='CodesInChaos', descendants=None, kids=None, score=None, time=1609670709, title=None, item_type='comment', url=None, parent=25618180, text='The functions you link look like they&#x27;re for simple deflate streams (i.e. a single file), while the OP appears to be about streaming zip archives which can contain multiple files with metadata.')

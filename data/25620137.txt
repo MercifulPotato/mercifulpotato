@@ -1,1 +1,1 @@
-Item(by='timhigins', descendants=0, kids=None, score=2, time=1609657563, title='Ordered Key-Value Stores', item_type='story', url='https://hyper.dev/ordered-key-value-stores.html', parent=None, text=None)
+Item(by='timhigins', descendants=16, kids=[25621376, 25621373, 25621824, 25621046, 25620932, 25620718, 25620835, 25620897], score=26, time=1609657563, title='Ordered Key-Value Stores', item_type='story', url='https://hyper.dev/ordered-key-value-stores.html', parent=None, text=None)

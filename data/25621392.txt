@@ -1,0 +1,1 @@
+Item(by='mettamage', descendants=None, kids=None, score=None, time=1609677003, title=None, item_type='comment', url=None, parent=25621290, text='The article specifically stated that Python does not have a real Read-Eval-Print-Loop mechanism like Lisp or Smalltalk. For example, the Python REPL doesn’t go into a breakloop mechanism for undefined functions.')

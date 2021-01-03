@@ -1,1 +1,1 @@
-Item(by='IThinkImOKAY', descendants=None, kids=None, score=None, time=1609617143, title=None, item_type='comment', url=None, parent=25615797, text='Very cool browser extension, does what it promised. An option to whitelist certain pages would be cool :)')
+Item(by='IThinkImOKAY', descendants=None, kids=[25621679], score=None, time=1609617143, title=None, item_type='comment', url=None, parent=25615797, text='Very cool browser extension, does what it promised. An option to whitelist certain pages would be cool :)')

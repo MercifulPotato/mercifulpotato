@@ -1,1 +1,1 @@
-Item(by='okaram', descendants=None, kids=None, score=None, time=1609622911, title=None, item_type='comment', url=None, parent=25616038, text='I think this is the median house price ... sort all the prices for houses sold in the USA in a year, pick the one in the middle, so ...')
+Item(by='okaram', descendants=None, kids=[25620696], score=None, time=1609622911, title=None, item_type='comment', url=None, parent=25616038, text='I think this is the median house price ... sort all the prices for houses sold in the USA in a year, pick the one in the middle, so ...')

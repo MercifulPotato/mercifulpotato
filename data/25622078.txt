@@ -1,0 +1,1 @@
+Item(by='criddell', descendants=None, kids=None, score=None, time=1609685656, title=None, item_type='comment', url=None, parent=25612770, text='Embedding diagrams in code seems like such a no-brainer. You can do it with a third-party extension in Visual Studio, but it’s still clunky and too hard to use.<p>This should be a basic thing that IDEs help you do.')

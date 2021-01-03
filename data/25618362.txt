@@ -1,1 +1,1 @@
-Item(by='ianlevesque', descendants=None, kids=None, score=None, time=1609636070, title=None, item_type='comment', url=None, parent=25618274, text='You can choose not to smoke. You can’t choose not to covid.')
+Item(by='ianlevesque', descendants=None, kids=[25620752], score=None, time=1609636070, title=None, item_type='comment', url=None, parent=25618274, text='You can choose not to smoke. You can’t choose not to covid.')

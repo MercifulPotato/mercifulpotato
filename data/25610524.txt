@@ -1,1 +1,1 @@
-Item(by='eyelidlessness', descendants=None, kids=None, score=None, time=1609563530, title=None, item_type='comment', url=None, parent=25605119, text='Agree. A year seems a lot more reasonable.')
+Item(by='eyelidlessness', descendants=None, kids=[25620928], score=None, time=1609563530, title=None, item_type='comment', url=None, parent=25605119, text='Agree. A year seems a lot more reasonable.')

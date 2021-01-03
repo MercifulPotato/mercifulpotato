@@ -1,0 +1,1 @@
+Item(by='geofft', descendants=None, kids=None, score=None, time=1609669181, title=None, item_type='comment', url=None, parent=25619421, text='That&#x27;s fair, I should have added that as an exception too. Another similar case: you&#x27;re writing a shell script and you can assume the target machines all have md5sum installed but not necessarily b3sum.')

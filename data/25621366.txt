@@ -1,0 +1,1 @@
+Item(by='Measter', descendants=None, kids=None, score=None, time=1609676511, title=None, item_type='comment', url=None, parent=25621060, text='That `Integer` type can&#x27;t implement `Copy` because it manages a resource, meaning you can&#x27;t just do a simple memcpy of the type.')

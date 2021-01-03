@@ -1,0 +1,1 @@
+Item(by='cassepipe', descendants=None, kids=None, score=None, time=1609673351, title=None, item_type='comment', url=None, parent=25620841, text='printf in C makes use of variadic arguments (man 3 stdarg) which Zig does not allow  (unless you are using a C function) for safety reasons.')

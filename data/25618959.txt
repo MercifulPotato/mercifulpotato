@@ -1,1 +1,1 @@
-Item(by='AceyMan', descendants=0, kids=None, score=3, time=1609642965, title='Writing Comfortably in Thick Notebooks', item_type='story', url='https://www.nanamipaper.com/pages/writing-comfortably-in-thick-notebooks-tomoe-river.html', parent=None, text=None)
+Item(by='AceyMan', descendants=1, kids=[25620730], score=8, time=1609642965, title='Writing Comfortably in Thick Notebooks', item_type='story', url='https://www.nanamipaper.com/pages/writing-comfortably-in-thick-notebooks-tomoe-river.html', parent=None, text=None)

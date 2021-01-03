@@ -1,0 +1,1 @@
+Item(by='pimeys', descendants=None, kids=[25621366], score=None, time=1609671744, title=None, item_type='comment', url=None, parent=25617399, text='This would work if `Integer` would implement the `Copy` trait. But I guess that type is heavy enough for it to be too expensive, therefore forcing you to explicitly call `clone()`.')

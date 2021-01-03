@@ -1,0 +1,1 @@
+Item(by='mwgarcia', descendants=None, kids=None, score=None, time=1609682544, title=None, item_type='comment', url=None, parent=25621676, text='Totally agree. I failed to add server_name to my nginx config. IIRC I wrongly assumed that it can only accept one domain&#x2F;pattern and didn&#x27;t want to bother so I can simplify testing using localhost.')

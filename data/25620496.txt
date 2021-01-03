@@ -1,1 +1,1 @@
-Item(by='greggman3', descendants=None, kids=None, score=None, time=1609663177, title=None, item_type='comment', url=None, parent=25620106, text='$1.99 a month for watch faces? WTF!!!!')
+Item(by='greggman3', descendants=None, kids=[25621052], score=None, time=1609663177, title=None, item_type='comment', url=None, parent=25620106, text='$1.99 a month for watch faces? WTF!!!!')

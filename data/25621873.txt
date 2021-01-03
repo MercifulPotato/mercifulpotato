@@ -1,0 +1,1 @@
+Item(by='Der_Einzige', descendants=None, kids=[25621891], score=None, time=1609683368, title=None, item_type='comment', url=None, parent=25621094, text='Matplotlib is terrible (once you get to the point that you need to do non trivial things with it), that&#x27;s why you use the excellent plotting library for python called &quot;Bokeh&quot;')

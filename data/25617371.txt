@@ -1,1 +1,1 @@
-Item(by='jack2222', descendants=None, kids=None, score=None, time=1609627788, title=None, item_type='comment', url=None, parent=25617317, text='I&#x27;ve had renders cost $50,000! Or CTO was less than amused')
+Item(by='jack2222', descendants=None, kids=[25621655], score=None, time=1609627788, title=None, item_type='comment', url=None, parent=25617317, text='I&#x27;ve had renders cost $50,000! Or CTO was less than amused')

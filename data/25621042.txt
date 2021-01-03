@@ -1,0 +1,1 @@
+Item(by='brainbag', descendants=None, kids=None, score=None, time=1609671589, title=None, item_type='comment', url=None, parent=25620734, text='It&#x27;s not compiled, but Ruby&#x27;s Pry REPL allows you to edit and update code files during live execution. I use it all the time for adding breakpoints and live fixing issues. It&#x27;s very productive for problem solving.')

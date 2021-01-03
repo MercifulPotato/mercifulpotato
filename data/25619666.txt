@@ -1,1 +1,1 @@
-Item(by='Chris2048', descendants=None, kids=None, score=None, time=1609650808, title=None, item_type='comment', url=None, parent=25619193, text='If Bāo and Bào are surnames, then it isn&#x27;t similar to the forename &quot;Joe&quot;?')
+Item(by='Chris2048', descendants=None, kids=[25621983], score=None, time=1609650808, title=None, item_type='comment', url=None, parent=25619193, text='If Bāo and Bào are surnames, then it isn&#x27;t similar to the forename &quot;Joe&quot;?')

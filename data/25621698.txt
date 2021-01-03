@@ -1,0 +1,1 @@
+Item(by='tasn', descendants=None, kids=None, score=None, time=1609681242, title=None, item_type='comment', url=None, parent=25621666, text='It&#x27;s public in my lib, so it&#x27;s exported. Though I also tried calling it from my code, it still doesn&#x27;t trigger a warning. :|')

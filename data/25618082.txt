@@ -1,1 +1,1 @@
-Item(by='amself', descendants=None, kids=None, score=None, time=1609633386, title=None, item_type='comment', url=None, parent=25611923, text='That sounds like Wikipedia!')
+Item(by='amself', descendants=None, kids=[25621246], score=None, time=1609633386, title=None, item_type='comment', url=None, parent=25611923, text='That sounds like Wikipedia!')

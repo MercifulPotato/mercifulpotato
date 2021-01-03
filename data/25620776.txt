@@ -1,0 +1,1 @@
+Item(by='srich36', descendants=None, kids=[25620805], score=None, time=1609667349, title=None, item_type='comment', url=None, parent=25620737, text='fwiw async&#x2F;await also solves issues with chained promises in the .then portion. I’ve found this to be really helpful and a lot cleaner at times')

@@ -1,0 +1,1 @@
+Item(by='sawirricardo', descendants=None, kids=None, score=None, time=1609667282, title=None, item_type='comment', url=None, parent=25615978, text='Hi, I wonder what payment stack did you use? Is it only PayPal or do you use other, too? I&#x27;m thinking of integrating with PayPal API, too, but really didn&#x27;t know the steps needed (not really friendly compared with Stripe)')

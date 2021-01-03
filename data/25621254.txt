@@ -1,0 +1,1 @@
+Item(by='mkl', descendants=None, kids=[25621291], score=None, time=1609674675, title=None, item_type='comment', url=None, parent=25621252, text='You need to tell Python that you want a symbolic variable named x:<p><pre><code>  from sympy import *\n  x = symbols(&#x27;x&#x27;)\n  plot(sin(x))\n</code></pre>\nsymbols is sympy.symbols.')

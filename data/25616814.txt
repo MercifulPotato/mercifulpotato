@@ -1,1 +1,1 @@
-Item(by='spratzt', descendants=None, kids=None, score=None, time=1609623763, title=None, item_type='comment', url=None, parent=25616012, text='Why does Mapout need to use your location even when it isn&#x27;t open?')
+Item(by='spratzt', descendants=None, kids=[25620847], score=None, time=1609623763, title=None, item_type='comment', url=None, parent=25616012, text='Why does Mapout need to use your location even when it isn&#x27;t open?')

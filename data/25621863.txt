@@ -1,0 +1,1 @@
+Item(by='nabla9', descendants=None, kids=None, score=None, time=1609683285, title=None, item_type='comment', url=None, parent=25618346, text='ZFS is helluva encrypted backup tool.  After ZFS got encryption, I switched almost completely to it.  rsync to ZFS drives when not in ZFS. Then it&#x27;s just snapshots sending and receiving.')
