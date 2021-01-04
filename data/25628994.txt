@@ -1,0 +1,1 @@
+Item(by='midasuni', descendants=None, kids=None, score=None, time=1609750382, title=None, item_type='comment', url=None, parent=25628643, text='SRT is massively complicated hence just the one implementation from one person. It’s based on a defunct file transfer protocol.<p>RIST adds nack based retransmissions to decades old RTP and has multiple implementations.')

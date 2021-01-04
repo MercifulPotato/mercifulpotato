@@ -1,1 +1,1 @@
-Item(by='lambda', descendants=None, kids=None, score=None, time=1609715037, title=None, item_type='comment', url=None, parent=25625781, text='Not just the standard library, but the core language. They are what you get if you write a string literal in your code.')
+Item(by='lambda', descendants=None, kids=[25628648], score=None, time=1609715037, title=None, item_type='comment', url=None, parent=25625781, text='Not just the standard library, but the core language. They are what you get if you write a string literal in your code.')

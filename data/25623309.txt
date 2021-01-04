@@ -1,1 +1,1 @@
-Item(by='apsec112', descendants=0, kids=None, score=1, time=1609695571, title='Prop 14 (1964) amended the CA constitution to re-legalize housing discrimination', item_type='story', url='https://en.wikipedia.org/wiki/1964_California_Proposition_14', parent=None, text=None)
+Item(by='apsec112', descendants=1, kids=[25628735], score=1, time=1609695571, title='Prop 14 (1964) amended the CA constitution to re-legalize housing discrimination', item_type='story', url='https://en.wikipedia.org/wiki/1964_California_Proposition_14', parent=None, text=None)

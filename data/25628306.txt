@@ -1,0 +1,1 @@
+Item(by='freeqaz', descendants=None, kids=None, score=None, time=1609740293, title=None, item_type='comment', url=None, parent=25628191, text='The work is already being put in with modern NUMA (non-uniform memory access) systems  to pin apps to specific cores. This seems like it would overlap if this ended up being used in production.')

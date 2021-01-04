@@ -1,0 +1,1 @@
+Item(by='jeltz', descendants=None, kids=None, score=None, time=1609745656, title=None, item_type='comment', url=None, parent=25626735, text='Heavy use of linked lists is one reason for why commercial C code often is slow. While there are some exceptions linked lists are slower than arrays for most things. Linked lists are easy to implement in C and therefore used a lot.')

@@ -1,0 +1,1 @@
+Item(by='bcrosby95', descendants=None, kids=[25628436], score=None, time=1609741271, title=None, item_type='comment', url=None, parent=25627232, text='Why can&#x27;t a JIT program the FPGA based upon previous runs through the same set of code?  IIRC the JVM won&#x27;t rest on its final optimizations until it runs a chunk of code hundreds (or thousands? I forget) of times.')

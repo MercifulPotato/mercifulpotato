@@ -1,1 +1,1 @@
-Item(by='earthboundkid', descendants=None, kids=None, score=None, time=1609709423, title=None, item_type='comment', url=None, parent=25624939, text='No, the primary point was always to add UTM trackers to the URL. That’s why companies kept using them after Twitter introduced t.co.')
+Item(by='earthboundkid', descendants=None, kids=[25628430], score=None, time=1609709423, title=None, item_type='comment', url=None, parent=25624939, text='No, the primary point was always to add UTM trackers to the URL. That’s why companies kept using them after Twitter introduced t.co.')

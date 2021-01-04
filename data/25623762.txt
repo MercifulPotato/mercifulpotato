@@ -1,1 +1,1 @@
-Item(by='infodocket', descendants=0, kids=None, score=21, time=1609698573, title='Computerworld Archives: Back from Vintage Microfilm', item_type='story', url='https://blog.archive.org/2020/12/30/computerworld-archives-back-from-vintage-microfilm/', parent=None, text=None)
+Item(by='infodocket', descendants=1, kids=[25628499], score=23, time=1609698573, title='Computerworld Archives: Back from Vintage Microfilm', item_type='story', url='https://blog.archive.org/2020/12/30/computerworld-archives-back-from-vintage-microfilm/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='zepto', descendants=None, kids=None, score=None, time=1609705129, title=None, item_type='comment', url=None, parent=25624761, text='If there was a supply chain attack, Apple would disable the app.')
+Item(by='zepto', descendants=None, kids=[25628144], score=None, time=1609705129, title=None, item_type='comment', url=None, parent=25624761, text='If there was a supply chain attack, Apple would disable the app.')

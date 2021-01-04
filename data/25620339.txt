@@ -1,1 +1,1 @@
-Item(by='MrXOR', descendants=0, kids=None, score=3, time=1609660421, title='E.O. Wilson on Becoming a Great Scientist', item_type='story', url='https://fs.blog/2015/12/e-o-wilson-how-science-works/', parent=None, text=None)
+Item(by='MrXOR', descendants=11, kids=[25627680, 25627856, 25627593, 25628296, 25627653], score=45, time=1609660421, title='E.O. Wilson on Becoming a Great Scientist', item_type='story', url='https://fs.blog/2015/12/e-o-wilson-how-science-works/', parent=None, text=None)

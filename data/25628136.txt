@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=None, score=None, time=1609737616, title=None, item_type='comment', url=None, parent=25626687, text='Per object custom allocators are coming soon! I believe Vec already has an implementation on nightly.')

@@ -1,1 +1,1 @@
-Item(by='zepto', descendants=None, kids=None, score=None, time=1609718608, title=None, item_type='comment', url=None, parent=25625748, text='How?  A spoofed app would have the client certificate taken from the real app.')
+Item(by='zepto', descendants=None, kids=[25628855], score=None, time=1609718608, title=None, item_type='comment', url=None, parent=25625748, text='How?  A spoofed app would have the client certificate taken from the real app.')

@@ -1,0 +1,1 @@
+Item(by='millstone', descendants=None, kids=None, score=None, time=1609739988, title=None, item_type='comment', url=None, parent=25625398, text='But this is the crux. What sorts of aliasing are permitted in unsafe Rust? I think we kind of don&#x27;t know; that&#x27;s what the &quot;stacked borrow&quot; effort is trying to answer.')

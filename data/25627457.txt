@@ -1,1 +1,1 @@
-Item(by='doener', descendants=0, kids=None, score=1, time=1609728273, title='A simple real time clock (RTC) for the Amiga 500 and Amiga 1000 Computer', item_type='story', url='https://gitlab.com/marceljaehne/a1k-simpleclock', parent=None, text=None)
+Item(by='doener', descendants=0, kids=None, score=2, time=1609728273, title='A simple real time clock (RTC) for the Amiga 500 and Amiga 1000 Computer', item_type='story', url='https://gitlab.com/marceljaehne/a1k-simpleclock', parent=None, text=None)

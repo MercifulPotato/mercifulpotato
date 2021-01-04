@@ -1,0 +1,1 @@
+Item(by='phenkdo', descendants=0, kids=None, score=1, time=1609747007, title="Ask HN: Why isn't one-time sign in links more popular for authentication?", item_type='story', url=None, parent=None, text='Tying a OTP to an email appears to be more secure than the cluster that is remembering and managing passwords.')

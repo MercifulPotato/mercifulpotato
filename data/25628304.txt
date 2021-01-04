@@ -1,0 +1,1 @@
+Item(by='smmalis37', descendants=None, kids=None, score=None, time=1609740281, title=None, item_type='comment', url=None, parent=25617399, text='<p><pre><code>  let b = &amp;a + &amp;a;\n</code></pre>\nwill work, but I agree it&#x27;s unfortunate that this is necessary.')

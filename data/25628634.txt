@@ -1,0 +1,1 @@
+Item(by='matsemann', descendants=None, kids=[25628692, 25628663], score=None, time=1609745607, title=None, item_type='comment', url=None, parent=25627673, text='Very cool!<p>If you want casual people to use this, I would look into simplifying the setup. Either by providing compiled binaries instead of having to set up go, rust etc oneself. Or by containerizing something.')

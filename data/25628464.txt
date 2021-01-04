@@ -1,0 +1,1 @@
+Item(by='12things', descendants=None, kids=[25628664, 25628475], score=None, time=1609742906, title=None, item_type='comment', url=None, parent=25627674, text='A very interesting project, can you elaborate more on how \nit is getting sub second latency and why youtube&#x2F;twitch seem to have more than a few seconds of delay.')

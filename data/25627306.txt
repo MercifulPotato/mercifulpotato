@@ -1,1 +1,1 @@
-Item(by='umeshunni', descendants=None, kids=None, score=None, time=1609726665, title=None, item_type='comment', url=None, parent=25625102, text='None of these seems like marketing related (except the first one about a candle). Just some rando&#x27;s email newsletter.')
+Item(by='umeshunni', descendants=None, kids=[25627595], score=None, time=1609726665, title=None, item_type='comment', url=None, parent=25625102, text='None of these seems like marketing related (except the first one about a candle). Just some rando&#x27;s email newsletter.')

@@ -1,0 +1,1 @@
+Item(by='ma2rten', descendants=None, kids=None, score=None, time=1609749198, title=None, item_type='comment', url=None, parent=25624044, text='I don&#x27;t understand this. Isn&#x27;t it obviously slower if you redraw every window in every frame instead of just redrawing what changed?')

@@ -1,1 +1,1 @@
-Item(by='selflesssieve', descendants=None, kids=None, score=None, time=1609657809, title=None, item_type='comment', url=None, parent=25619872, text='I’m also interested. What’s your latitude and do you get sun often?')
+Item(by='selflesssieve', descendants=None, kids=[25628390], score=None, time=1609657809, title=None, item_type='comment', url=None, parent=25619872, text='I’m also interested. What’s your latitude and do you get sun often?')

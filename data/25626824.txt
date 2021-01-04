@@ -1,1 +1,1 @@
-Item(by='rubyfan', descendants=None, kids=None, score=None, time=1609721547, title=None, item_type='comment', url=None, parent=25626736, text='or painting')
+Item(by='rubyfan', descendants=None, kids=[25628236], score=None, time=1609721547, title=None, item_type='comment', url=None, parent=25626736, text='or painting')

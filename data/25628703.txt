@@ -1,0 +1,1 @@
+Item(by='gidan', descendants=None, kids=None, score=None, time=1609746545, title=None, item_type='comment', url=None, parent=25623669, text='Pitch (from Berlin) is using Clojure as well as Reagent with React. From what I saw it&#x27;s quite a moderately sized app (not a gigantic one, but not a side-project sized either, in between that&#x27;s what I mean).')
