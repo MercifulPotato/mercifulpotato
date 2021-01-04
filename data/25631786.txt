@@ -1,1 +1,1 @@
-Item(by='daviwil', descendants=1, kids=[25631804], score=2, time=1609770792, title='5 Reasons to Learn Emacs in 2021', item_type='story', url='https://www.youtube.com/watch?v=bEfYm8sAaQg', parent=None, text=None)
+Item(by='daviwil', descendants=3, kids=[25631804, 25632410], score=5, time=1609770792, title='5 Reasons to Learn Emacs in 2021', item_type='story', url='https://www.youtube.com/watch?v=bEfYm8sAaQg', parent=None, text=None)

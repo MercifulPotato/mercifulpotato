@@ -1,0 +1,1 @@
+Item(by='tyingq', descendants=None, kids=None, score=None, time=1609786534, title=None, item_type='comment', url=None, parent=25635781, text='The point count for most articles is consistently lower on a view of the non-logged-in homepage.  I assume that means they are cached more aggressively for non-logged-in.  There&#x27;s also the username and karma count in the top-right.')

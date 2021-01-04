@@ -1,1 +1,1 @@
-Item(by='x87678r', descendants=None, kids=None, score=None, time=1609767016, title=None, item_type='comment', url=None, parent=25630942, text='Yeah that doesn&#x27;t look like any union I&#x27;ve ever seen.')
+Item(by='x87678r', descendants=None, kids=[25632450, 25634058], score=None, time=1609767016, title=None, item_type='comment', url=None, parent=25630942, text='Yeah that doesn&#x27;t look like any union I&#x27;ve ever seen.')

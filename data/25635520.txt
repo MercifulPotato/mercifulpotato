@@ -1,0 +1,1 @@
+Item(by='julianlam', descendants=None, kids=[25635894], score=None, time=1609784125, title=None, item_type='comment', url=None, parent=25635169, text='I&#x27;ve found that element.io itself is really slow to load.<p>That said, we&#x27;re pushing up against the limits of our free plan with Slack and will likely deploy a matrix server in due course.')

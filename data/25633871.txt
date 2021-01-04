@@ -1,0 +1,1 @@
+Item(by='cycloptic', descendants=None, kids=[25634472], score=None, time=1609778891, title=None, item_type='comment', url=None, parent=25630439, text='Using Xephyr in that way is essentially the same thing as client rendering. (Xephyr draws the whole framebuffer and then sends that)')

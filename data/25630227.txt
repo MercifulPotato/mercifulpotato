@@ -1,1 +1,1 @@
-Item(by='petercerno', descendants=1, kids=[25630228], score=1, time=1609761649, title='High-performance backtesting engine written in C++', item_type='story', url='https://github.com/petercerno/trader-backtest', parent=None, text=None)
+Item(by='petercerno', descendants=1, kids=[25630228], score=2, time=1609761649, title='High-performance backtesting engine written in C++', item_type='story', url='https://github.com/petercerno/trader-backtest', parent=None, text=None)

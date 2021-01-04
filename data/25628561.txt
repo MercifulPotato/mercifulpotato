@@ -1,1 +1,1 @@
-Item(by='djeiasbsbo', descendants=None, kids=None, score=None, time=1609744510, title=None, item_type='comment', url=None, parent=25627504, text='I use Syncthing&#x2F;Nextcloud to sync the notes to my phone where I use another markdown editor. It works pretty well.')
+Item(by='djeiasbsbo', descendants=None, kids=[25632045], score=None, time=1609744510, title=None, item_type='comment', url=None, parent=25627504, text='I use Syncthing&#x2F;Nextcloud to sync the notes to my phone where I use another markdown editor. It works pretty well.')

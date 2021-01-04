@@ -1,0 +1,1 @@
+Item(by='Bostonian', descendants=None, kids=None, score=None, time=1609783777, title=None, item_type='comment', url=None, parent=25630825, text='In Fortran, Hello World is just<p><pre><code>  print*,&quot;Hello, World&quot;\n  end\n</code></pre>\nThis is shorter than the way a Hello World program in Java, C, or C++ would be written.')

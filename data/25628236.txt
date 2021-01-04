@@ -1,1 +1,1 @@
-Item(by='asdff', descendants=None, kids=None, score=None, time=1609739113, title=None, item_type='comment', url=None, parent=25626824, text='or cutting grass. my god. give me the tools and i&#x27;ll give you a putting green fit for the pga')
+Item(by='asdff', descendants=None, kids=[25635726], score=None, time=1609739113, title=None, item_type='comment', url=None, parent=25626824, text='or cutting grass. my god. give me the tools and i&#x27;ll give you a putting green fit for the pga')

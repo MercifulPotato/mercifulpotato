@@ -1,1 +1,1 @@
-Item(by='rendall', descendants=None, kids=None, score=None, time=1609753462, title=None, item_type='comment', url=None, parent=25628256, text='Was it an Italian high-school?')
+Item(by='rendall', descendants=None, kids=[25633698], score=None, time=1609753462, title=None, item_type='comment', url=None, parent=25628256, text='Was it an Italian high-school?')

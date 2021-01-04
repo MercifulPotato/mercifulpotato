@@ -1,1 +1,1 @@
-Item(by='ric2b', descendants=None, kids=None, score=None, time=1609775062, title=None, item_type='comment', url=None, parent=25631426, text='What&#x27;s your opinion of trade unions in Norway, which seem to me like they work quite well for everyone?')
+Item(by='ric2b', descendants=None, kids=[25635458], score=None, time=1609775062, title=None, item_type='comment', url=None, parent=25631426, text='What&#x27;s your opinion of trade unions in Norway, which seem to me like they work quite well for everyone?')

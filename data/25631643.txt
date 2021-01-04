@@ -1,1 +1,1 @@
-Item(by='geoduck14', descendants=None, kids=None, score=None, time=1609770151, title=None, item_type='comment', url=None, parent=25631119, text='I am genuinely curious how well this works.')
+Item(by='geoduck14', descendants=None, kids=[25635952], score=None, time=1609770151, title=None, item_type='comment', url=None, parent=25631119, text='I am genuinely curious how well this works.')

@@ -1,1 +1,1 @@
-Item(by='monster_group', descendants=None, kids=None, score=None, time=1609734752, title=None, item_type='comment', url=None, parent=25627545, text='I always interpreted as &quot;The Full Article&quot; (as opposed to just the title).')
+Item(by='monster_group', descendants=None, kids=[25632857], score=None, time=1609734752, title=None, item_type='comment', url=None, parent=25627545, text='I always interpreted as &quot;The Full Article&quot; (as opposed to just the title).')

@@ -1,1 +1,1 @@
-Item(by='seppin', descendants=None, kids=None, score=None, time=1609741282, title=None, item_type='comment', url=None, parent=25628324, text='&gt; Even Google has other revenue streams.<p>How long do they survive in their current form relying solely on them?')
+Item(by='seppin', descendants=None, kids=[25633638], score=None, time=1609741282, title=None, item_type='comment', url=None, parent=25628324, text='&gt; Even Google has other revenue streams.<p>How long do they survive in their current form relying solely on them?')

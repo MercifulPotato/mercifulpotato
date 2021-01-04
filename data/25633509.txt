@@ -1,0 +1,1 @@
+Item(by='BruceEel', descendants=None, kids=None, score=None, time=1609777715, title=None, item_type='comment', url=None, parent=25627266, text='Walter, can you elaborate on this, are D&#x27;s slices functionally equivalent to C++&#x27;s string_view? I.e. no copying as long no &#x27;ASCIIZ-dependent&#x27; code is involved?')

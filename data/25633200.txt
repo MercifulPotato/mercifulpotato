@@ -1,0 +1,1 @@
+Item(by='jcranmer', descendants=None, kids=None, score=None, time=1609776743, title=None, item_type='comment', url=None, parent=25631803, text='I haven&#x27;t managed a 6TB file before, but I did have a &gt;100GB log file I ended up parsing with awk just to be sure that the memory consumption on the consuming process wouldn&#x27;t go crazy.')

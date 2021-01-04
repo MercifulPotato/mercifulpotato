@@ -1,1 +1,1 @@
-Item(by='suzdalnitski', descendants=1, kids=[25631512], score=3, time=1609767722, title='Object-Oriented Programming Will Make You Suffer', item_type='story', url='https://suzdalnitski.medium.com/oop-will-make-you-suffer-846d072b4dce', parent=None, text=None)
+Item(by='suzdalnitski', descendants=2, kids=[25631512, 25633033], score=4, time=1609767722, title='Object-Oriented Programming Will Make You Suffer', item_type='story', url='https://suzdalnitski.medium.com/oop-will-make-you-suffer-846d072b4dce', parent=None, text=None)

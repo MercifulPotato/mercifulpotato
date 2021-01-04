@@ -1,1 +1,1 @@
-Item(by='polm23', descendants=20, kids=[25611265, 25617260, 25616968, 25615883, 25617409], score=86, time=1609575340, title='Koan: A word2vec negative sampling implementation with correct CBOW update', item_type='story', url='https://github.com/bloomberg/koan', parent=None, text=None)
+Item(by='polm23', descendants=20, kids=[25611265, 25617260, 25616968, 25615883, 25617409], score=87, time=1609575340, title='Koan: A word2vec negative sampling implementation with correct CBOW update', item_type='story', url='https://github.com/bloomberg/koan', parent=None, text=None)

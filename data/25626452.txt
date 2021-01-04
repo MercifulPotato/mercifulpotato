@@ -1,1 +1,1 @@
-Item(by='fortran77', descendants=2, kids=[25628508], score=23, time=1609717892, title='The Dining Philosophers Problem', item_type='story', url='https://pages.mtu.edu/~shene/NSF-3/e-Book/MUTEX/TM-example-philos-1.html', parent=None, text=None)
+Item(by='fortran77', descendants=3, kids=[25628508, 25633395], score=27, time=1609717892, title='The Dining Philosophers Problem', item_type='story', url='https://pages.mtu.edu/~shene/NSF-3/e-Book/MUTEX/TM-example-philos-1.html', parent=None, text=None)

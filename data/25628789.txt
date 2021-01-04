@@ -1,1 +1,1 @@
-Item(by='dannyw', descendants=None, kids=None, score=None, time=1609747828, title=None, item_type='comment', url=None, parent=25624472, text='Will this also exist for consumer DDR5?')
+Item(by='dannyw', descendants=None, kids=[25632455], score=None, time=1609747828, title=None, item_type='comment', url=None, parent=25624472, text='Will this also exist for consumer DDR5?')

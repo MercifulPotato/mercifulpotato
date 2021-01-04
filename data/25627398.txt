@@ -1,1 +1,1 @@
-Item(by='uptown', descendants=5, kids=[25627517, 25627539, 25630784], score=60, time=1609727524, title='Chinese billionaire Jack Ma suspected missing', item_type='story', url='https://au.finance.yahoo.com/news/jack-ma-missing-232138645.html', parent=None, text=None)
+Item(by='uptown', descendants=5, kids=[25627517, 25627539, 25630784], score=65, time=1609727524, title='Chinese billionaire Jack Ma suspected missing', item_type='story', url='https://au.finance.yahoo.com/news/jack-ma-missing-232138645.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='ocdnix', descendants=None, kids=None, score=None, time=1609772309, title=None, item_type='comment', url=None, parent=25620411, text='With AWS Route 53&#x27;s 10 000 records&#x2F;zone, 400 values&#x2F;record 255 chars&#x2F;TXT and base64&#x27;s ~35% overhead, you have a bit over 600 megabytes of binary value storage.')

@@ -1,1 +1,1 @@
-Item(by='perryizgr8', descendants=None, kids=None, score=None, time=1609759694, title=None, item_type='comment', url=None, parent=25628908, text='HDMI can do that, but unfortunately the M1 can&#x27;t.')
+Item(by='perryizgr8', descendants=None, kids=[25634044], score=None, time=1609759694, title=None, item_type='comment', url=None, parent=25628908, text='HDMI can do that, but unfortunately the M1 can&#x27;t.')

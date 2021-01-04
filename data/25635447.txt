@@ -1,0 +1,1 @@
+Item(by='adrian_b', descendants=None, kids=None, score=None, time=1609783876, title=None, item_type='comment', url=None, parent=25634883, text='The change is that now there is an exFAT driver included in the Linux kernel.<p>Therefore, if you have a recent Linux kernel, you no longer need to install a user-mode driver for exFAT and the kernel driver has better performance.')

@@ -1,1 +1,1 @@
-Item(by='pimeys', descendants=None, kids=None, score=None, time=1609765933, title=None, item_type='comment', url=None, parent=25628945, text='Funny thing is now I started liking season 5 after my last watch.')
+Item(by='pimeys', descendants=None, kids=[25634272], score=None, time=1609765933, title=None, item_type='comment', url=None, parent=25628945, text='Funny thing is now I started liking season 5 after my last watch.')
