@@ -1,1 +1,1 @@
-Item(by='vinteruggla', descendants=None, kids=None, score=None, time=1609623823, title=None, item_type='comment', url=None, parent=25615733, text='Brilliant. Are all those screenshots and videos made manually? Hard work')
+Item(by='vinteruggla', descendants=None, kids=[25629367], score=None, time=1609623823, title=None, item_type='comment', url=None, parent=25615733, text='Brilliant. Are all those screenshots and videos made manually? Hard work')

@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1609756974, title=None, item_type='comment', url=None, parent=25624908, text='Besides the previous answer, it isn&#x27;t supported by ISO C++ (although it does exist as extension), because the majority of the WG thinks it will go the same way as register and inline in the long run.')

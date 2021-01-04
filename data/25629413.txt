@@ -1,0 +1,1 @@
+Item(by='beagle3', descendants=None, kids=None, score=None, time=1609754625, title=None, item_type='comment', url=None, parent=25621161, text='Thanks.<p>Should be noted that when talking about e.g. Python dictionaries (and some other in-memory associative arrays), &quot;ordered&quot; refers to insertion order, where as &quot;sorted&quot; refers to key order.')

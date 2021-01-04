@@ -1,1 +1,1 @@
-Item(by='pvorb', descendants=None, kids=None, score=None, time=1609747938, title=None, item_type='comment', url=None, parent=25628519, text='So this is arguing against GP&#x27;s point since a washing machine should last for several years and is not fast-moving, right?')
+Item(by='pvorb', descendants=None, kids=[25629081], score=None, time=1609747938, title=None, item_type='comment', url=None, parent=25628519, text='So this is arguing against GP&#x27;s point since a washing machine should last for several years and is not fast-moving, right?')

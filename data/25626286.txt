@@ -1,1 +1,1 @@
-Item(by='botayhard', descendants=0, kids=None, score=8, time=1609716308, title='Mindustry: A open-source sandbox tower defense game', item_type='story', url='https://github.com/Anuken/Mindustry', parent=None, text=None)
+Item(by='botayhard', descendants=5, kids=[25631745, 25630734, 25629594, 25630150], score=29, time=1609716308, title='Mindustry: A open-source sandbox tower defense game', item_type='story', url='https://github.com/Anuken/Mindustry', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='ghostwriter', descendants=None, kids=None, score=None, time=1609767133, title=None, item_type='comment', url=None, parent=25627614, text='&gt; there&#x27;s a reason PyPy trails CPython language features on the scale of literal years.<p>the reason is under-funding, and the lack of developers to the cause as a consequence, not the portability complexities of jit.')

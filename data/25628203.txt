@@ -1,1 +1,1 @@
-Item(by='thehappypm', descendants=None, kids=None, score=None, time=1609738638, title=None, item_type='comment', url=None, parent=25624258, text='This is blatantly false. It’s incredibly easy to prove that digital advertising is effective using A&#x2F;B testing.')
+Item(by='thehappypm', descendants=None, kids=[25629313], score=None, time=1609738638, title=None, item_type='comment', url=None, parent=25624258, text='This is blatantly false. It’s incredibly easy to prove that digital advertising is effective using A&#x2F;B testing.')

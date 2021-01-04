@@ -1,0 +1,1 @@
+Item(by='apsient', descendants=None, kids=None, score=None, time=1609757885, title=None, item_type='comment', url=None, parent=25628191, text='how about having FPGA execution units in addition to the normal units and os deciding how and who will use these new EUs based on the most CPU intensive apps running currently')

@@ -1,0 +1,1 @@
+Item(by='code-is-code', descendants=None, kids=None, score=None, time=1609766248, title=None, item_type='comment', url=None, parent=25630878, text='This.\nSame happens with the sms verifcation in microsoft teams.\nOn older devices switching to the sms app will restart the teams authentication process. So you have no chance in every typing the correct 2 factor sms key.')

@@ -1,1 +1,1 @@
-Item(by='juliangamble', descendants=0, kids=None, score=11, time=1609724914, title='Have We Been Interpreting Quantum Mechanics Wrong This Whole Time?', item_type='story', url='https://www.wired.com/2014/06/the-new-quantum-reality/', parent=None, text=None)
+Item(by='juliangamble', descendants=0, kids=[25629975], score=14, time=1609724914, title='Have We Been Interpreting Quantum Mechanics Wrong This Whole Time?', item_type='story', url='https://www.wired.com/2014/06/the-new-quantum-reality/', parent=None, text=None)

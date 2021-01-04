@@ -1,0 +1,1 @@
+Item(by='aliceryhl', descendants=None, kids=None, score=None, time=1609752878, title=None, item_type='comment', url=None, parent=25628286, text='We know pretty well for the vast majority of patterns whether it violates the aliasing rules or not. There may be some corner cases that are not yet decided on, but if you just consider those as UB for now, you are perfectly fine.')

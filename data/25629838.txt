@@ -1,0 +1,1 @@
+Item(by='erik_seaberg', descendants=None, kids=None, score=None, time=1609758581, title=None, item_type='comment', url=None, parent=25622606, text='Hm, isn’t there still nondeterminism from a path dependency, because reinstalling a datastore that has arbitrary history isn’t exactly equivalent to creating a datastore with none?')

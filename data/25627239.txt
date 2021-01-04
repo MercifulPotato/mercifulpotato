@@ -1,1 +1,1 @@
-Item(by='tertius', descendants=None, kids=None, score=None, time=1609726012, title=None, item_type='comment', url=None, parent=25626536, text='Corporate policy, written by humans.')
+Item(by='tertius', descendants=None, kids=[25628969], score=None, time=1609726012, title=None, item_type='comment', url=None, parent=25626536, text='Corporate policy, written by humans.')

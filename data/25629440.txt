@@ -1,0 +1,1 @@
+Item(by='clappski', descendants=None, kids=[25629531], score=None, time=1609754916, title=None, item_type='comment', url=None, parent=25625965, text='Probably fairer to say that the virtual inheritance architecture is idiomatic to GUI libraries rather than any particular language? You even mention GTKmm, a C++ wrapper around a C library that leverages inheritance.')

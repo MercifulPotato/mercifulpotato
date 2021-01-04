@@ -1,0 +1,1 @@
+Item(by='dSebastien', descendants=None, kids=None, score=None, time=1609771436, title=None, item_type='comment', url=None, parent=25630965, text='I don&#x27;t regret setting up CI; it has saved us quite some time already with broken PRs (haven&#x27;t tried CD, and I won&#x27;t before we sell this thing :p).')

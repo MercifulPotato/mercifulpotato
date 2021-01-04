@@ -1,0 +1,1 @@
+Item(by='tictac-toe', descendants=None, kids=[25631218], score=None, time=1609755587, title=None, item_type='comment', url=None, parent=25628554, text='All data is relational. If you think some data model is not relational then you haven&#x27;t thought about the problem space enough :p<p>The only valid reasons to choose non-relational databases are scalability and performance.')

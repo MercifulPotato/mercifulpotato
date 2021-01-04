@@ -1,0 +1,1 @@
+Item(by='ChrisRackauckas', descendants=None, kids=None, score=None, time=1609771774, title=None, item_type='comment', url=None, parent=25629533, text='Julia is not allowed to use its compiler (PackageCompiler.jl) but Rust and C are. It&#x27;s really silly and imposed by the author of the benchmarks for no clear reason.')

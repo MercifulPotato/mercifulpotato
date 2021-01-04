@@ -1,0 +1,1 @@
+Item(by='Leherenn', descendants=None, kids=None, score=None, time=1609752838, title=None, item_type='comment', url=None, parent=25628421, text='You can do:<p><pre><code>  {\n    var it = a.getSomeIterable();\n    while (it.next()) |item| {\n        ...\n    }\n  }\n  {\n    var it = b.getSomeIterable();\n    while (it.next()) |item| {\n        ...\n    }\n  }</code></pre>')

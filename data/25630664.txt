@@ -1,0 +1,1 @@
+Item(by='tormeh', descendants=None, kids=[25631918], score=None, time=1609764792, title=None, item_type='comment', url=None, parent=25630614, text='Not such a big deal in embedded, where the compiler and hardware is always the same, which means that the behavior is still predictable even if undefined')

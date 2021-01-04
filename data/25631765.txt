@@ -1,0 +1,1 @@
+Item(by='Jnr', descendants=None, kids=None, score=None, time=1609770706, title=None, item_type='comment', url=None, parent=25628526, text='Apparently since FTL is a proprietary protocol, it is not supported on most Linux distributions.<p>I wanted to try this, even made a docker config and only then realized I can&#x27;t stream to it from Archlinux.')

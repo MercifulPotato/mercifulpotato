@@ -1,1 +1,1 @@
-Item(by='jyothepro', descendants=None, kids=None, score=None, time=1609615181, title=None, item_type='comment', url=None, parent=25615455, text='I wish they also pulled in brokerage account transactions')
+Item(by='jyothepro', descendants=None, kids=[25631009], score=None, time=1609615181, title=None, item_type='comment', url=None, parent=25615455, text='I wish they also pulled in brokerage account transactions')

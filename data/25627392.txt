@@ -1,1 +1,1 @@
-Item(by='mrfusion', descendants=None, kids=None, score=None, time=1609727471, title=None, item_type='comment', url=None, parent=25612663, text='Could this be a camera app on the latest iPhones with the built in lidar like technology?  You’d snap an image and a mesh, right?')
+Item(by='mrfusion', descendants=None, kids=[25629194], score=None, time=1609727471, title=None, item_type='comment', url=None, parent=25612663, text='Could this be a camera app on the latest iPhones with the built in lidar like technology?  You’d snap an image and a mesh, right?')

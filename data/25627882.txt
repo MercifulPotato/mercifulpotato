@@ -1,1 +1,1 @@
-Item(by='detaro', descendants=None, kids=None, score=None, time=1609733773, title=None, item_type='comment', url=None, parent=25627870, text='It&#x27;s not C, it&#x27;s GLSL shader language, which is used in the browser through WebGL.')
+Item(by='detaro', descendants=None, kids=[25629423], score=None, time=1609733773, title=None, item_type='comment', url=None, parent=25627870, text='It&#x27;s not C, it&#x27;s GLSL shader language, which is used in the browser through WebGL.')

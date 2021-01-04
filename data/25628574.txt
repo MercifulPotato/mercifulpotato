@@ -1,1 +1,1 @@
-Item(by='_31', descendants=None, kids=None, score=None, time=1609744731, title=None, item_type='comment', url=None, parent=25622668, text='This looks great! How much data (clips&#x2F;pitches) did you train your model on?')
+Item(by='_31', descendants=None, kids=[25629063], score=None, time=1609744731, title=None, item_type='comment', url=None, parent=25622668, text='This looks great! How much data (clips&#x2F;pitches) did you train your model on?')

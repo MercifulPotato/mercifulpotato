@@ -1,1 +1,1 @@
-Item(by='TazeTSchnitzel', descendants=None, kids=[25625179, 25621083, 25621914], score=None, time=1609670681, title=None, item_type='comment', url=None, parent=25620968, text='This seems extremely pedantic. Python and Ruby will “read” the string inside the “eval” function.')
+Item(by='TazeTSchnitzel', descendants=None, kids=[25621083, 25625179, 25621914], score=None, time=1609670681, title=None, item_type='comment', url=None, parent=25620968, text='This seems extremely pedantic. Python and Ruby will “read” the string inside the “eval” function.')

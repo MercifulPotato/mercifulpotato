@@ -1,1 +1,1 @@
-Item(by='jldugger', descendants=None, kids=None, score=None, time=1609731074, title=None, item_type='comment', url=None, parent=25627002, text='Not that it harms the argument, but do you really need it two sided here?')
+Item(by='jldugger', descendants=None, kids=[25631511], score=None, time=1609731074, title=None, item_type='comment', url=None, parent=25627002, text='Not that it harms the argument, but do you really need it two sided here?')
