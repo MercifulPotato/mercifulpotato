@@ -1,1 +1,1 @@
-Item(by='cblconfederate', descendants=None, kids=None, score=None, time=1609708204, title=None, item_type='comment', url=None, parent=25623858, text='Do they know which 2&#x2F;3 ?')
+Item(by=None, descendants=None, kids=None, score=None, time=1609708204, title=None, item_type='comment', url=None, parent=25623858, text=None)

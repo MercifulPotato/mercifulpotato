@@ -1,1 +1,1 @@
-Item(by='gameswithgo', descendants=None, kids=[25625536], score=None, time=1609707192, title=None, item_type='comment', url=None, parent=25624851, text='cpu feature detection is way easier in rust. its just built into the core libs.')
+Item(by='gameswithgo', descendants=None, kids=[25625536, 25625734], score=None, time=1609707192, title=None, item_type='comment', url=None, parent=25624851, text='cpu feature detection is way easier in rust. its just built into the core libs.')

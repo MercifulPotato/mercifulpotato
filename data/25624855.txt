@@ -1,1 +1,1 @@
-Item(by='gregod', descendants=None, kids=None, score=None, time=1609705153, title=None, item_type='comment', url=None, parent=25623583, text='Btw: The Apple Notes application has this functionality built-in if you are just interested in scanning.')
+Item(by='gregod', descendants=None, kids=[25625523], score=None, time=1609705153, title=None, item_type='comment', url=None, parent=25623583, text='Btw: The Apple Notes application has this functionality built-in if you are just interested in scanning.')

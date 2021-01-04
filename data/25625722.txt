@@ -1,0 +1,1 @@
+Item(by='acje', descendants=None, kids=None, score=None, time=1609711969, title=None, item_type='comment', url=None, parent=25623634, text='It struck me a while ago that the most powerful feature of rust is the strong contracts libraries can and must express. This allows people with much deeper knowledge than me to make awesome stuff I can depend on.')

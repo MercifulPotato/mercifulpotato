@@ -1,0 +1,1 @@
+Item(by='throwaway894345', descendants=None, kids=None, score=None, time=1609724538, title=None, item_type='comment', url=None, parent=25626967, text='Lots of people argue that Rust improves correctness by way of sum types (including no implicit nil&#x2F;null), affine types (addressing data races and so on), and (compared to Go) generics. I completely buy this argument.')

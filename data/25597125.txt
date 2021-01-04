@@ -1,1 +1,1 @@
-Item(by='zemo', descendants=None, kids=None, score=None, time=1609448724, title=None, item_type='comment', url=None, parent=25597063, text='I just write everything in Go nowadays, since I didn&#x27;t have any hard Python requirements like numpy to worry about.')
+Item(by='zemo', descendants=None, kids=[25624935], score=None, time=1609448724, title=None, item_type='comment', url=None, parent=25597063, text='I just write everything in Go nowadays, since I didn&#x27;t have any hard Python requirements like numpy to worry about.')

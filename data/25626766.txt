@@ -1,0 +1,1 @@
+Item(by='jonstewart', descendants=None, kids=None, score=None, time=1609720903, title=None, item_type='comment', url=None, parent=25625747, text='Link about Meltdown mitigations? I’ve been operating off idea that computed goto isn’t faster anymore due to better branch prediction, would love to see something in-depth to the contrary.')

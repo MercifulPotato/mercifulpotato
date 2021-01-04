@@ -1,1 +1,1 @@
-Item(by='excalibur', descendants=None, kids=None, score=None, time=1609478899, title=None, item_type='comment', url=None, parent=25600274, text='I think sane people are a myth. If someone believes strongly in their own sanity, they&#x27;re most likely even crazier than we are.')
+Item(by='excalibur', descendants=None, kids=[25627340], score=None, time=1609478899, title=None, item_type='comment', url=None, parent=25600274, text='I think sane people are a myth. If someone believes strongly in their own sanity, they&#x27;re most likely even crazier than we are.')

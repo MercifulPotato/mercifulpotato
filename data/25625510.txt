@@ -1,1 +1,1 @@
-Item(by='jader201', descendants=None, kids=None, score=None, time=1609710032, title=None, item_type='comment', url=None, parent=25624746, text='So basically procrastination. Not exactly the same, but the same sentiment.')
+Item(by='jader201', descendants=None, kids=[25626325], score=None, time=1609710032, title=None, item_type='comment', url=None, parent=25624746, text='So basically procrastination. Not exactly the same, but the same sentiment.')

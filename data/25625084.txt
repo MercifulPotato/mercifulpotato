@@ -1,1 +1,1 @@
-Item(by='RhodoYolo', descendants=None, kids=None, score=None, time=1609706881, title=None, item_type='comment', url=None, parent=25623324, text='What happened last time? Did he invest alot at the top in 2017?')
+Item(by='RhodoYolo', descendants=None, kids=[25625568], score=None, time=1609706881, title=None, item_type='comment', url=None, parent=25623324, text='What happened last time? Did he invest alot at the top in 2017?')

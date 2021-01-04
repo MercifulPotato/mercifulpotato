@@ -1,1 +1,1 @@
-Item(by='doener', descendants=7, kids=[25623606, 25623671], score=15, time=1609696740, title='Bitcoin tops $34,000 as record-breaking rally resumes', item_type='story', url='https://www.ft.com/content/314f6c8a-ff7f-4a52-b5d1-98eb36a7bf40', parent=None, text=None)
+Item(by='doener', descendants=10, kids=[25623671, 25623606], score=16, time=1609696740, title='Bitcoin tops $34,000 as record-breaking rally resumes', item_type='story', url='https://www.ft.com/content/314f6c8a-ff7f-4a52-b5d1-98eb36a7bf40', parent=None, text=None)

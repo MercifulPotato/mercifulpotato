@@ -1,1 +1,1 @@
-Item(by='AntiImperialis4', descendants=None, kids=None, score=None, time=1609683104, title=None, item_type='comment', url=None, parent=25621565, text='That doesn&#x27;t protect you against violating someone else&#x27;s license. If you never make it opensource, nobody has to know.')
+Item(by='AntiImperialis4', descendants=None, kids=[25626439], score=None, time=1609683104, title=None, item_type='comment', url=None, parent=25621565, text='That doesn&#x27;t protect you against violating someone else&#x27;s license. If you never make it opensource, nobody has to know.')

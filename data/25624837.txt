@@ -1,1 +1,1 @@
-Item(by='thrtythreeforty', descendants=None, kids=None, score=None, time=1609704977, title=None, item_type='comment', url=None, parent=25624544, text='What does Bluespec compile to? All the way to a bitstream (surely not) or to Verilog or an intermediate language?')
+Item(by='thrtythreeforty', descendants=None, kids=[25625235, 25625087], score=None, time=1609704977, title=None, item_type='comment', url=None, parent=25624544, text='What does Bluespec compile to? All the way to a bitstream (surely not) or to Verilog or an intermediate language?')

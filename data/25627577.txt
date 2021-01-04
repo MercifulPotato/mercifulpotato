@@ -1,0 +1,1 @@
+Item(by='frutiger', descendants=None, kids=None, score=None, time=1609729839, title=None, item_type='comment', url=None, parent=25627121, text='Yes, the address of any element of an std::map is valid until that element is erased.')

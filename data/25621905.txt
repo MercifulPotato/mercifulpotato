@@ -1,1 +1,1 @@
-Item(by='tertius', descendants=None, kids=None, score=None, time=1609683650, title=None, item_type='comment', url=None, parent=25621498, text='A corporation is just a bunch of people.<p>Hiding behind a legal structure yes, but just a bunch of people.')
+Item(by='tertius', descendants=None, kids=[25626536], score=None, time=1609683650, title=None, item_type='comment', url=None, parent=25621498, text='A corporation is just a bunch of people.<p>Hiding behind a legal structure yes, but just a bunch of people.')

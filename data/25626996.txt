@@ -1,0 +1,1 @@
+Item(by='erik_seaberg', descendants=None, kids=None, score=None, time=1609723350, title=None, item_type='comment', url=None, parent=25626547, text='COM on Windows also promoted BSTR as a language-neutral type, which was a pointer to a null-terminated UTF-16 string (compatible with Win32 entry points, at least the Unicode versions) preceded in memory by its length.')

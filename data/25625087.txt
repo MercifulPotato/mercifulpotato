@@ -1,0 +1,1 @@
+Item(by='ohazi', descendants=None, kids=None, score=None, time=1609706901, title=None, item_type='comment', url=None, parent=25624837, text='I&#x27;m pretty sure Bluespec and SpinalHDL compile to Verilog. Chisel uses it&#x27;s own IR (FIRRTL). I think Migen used to target Verilog, but now targets (one of?) the IR(s) that Yosys supports (RTLIL?).')

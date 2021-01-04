@@ -1,0 +1,1 @@
+Item(by='brundolf', descendants=None, kids=[25626515], score=None, time=1609716424, title=None, item_type='comment', url=None, parent=25626193, text='Node uses V8, which does JIT compilation, while CPython is a straight bytecode interpreter. A better point of comparison would be PyPy')

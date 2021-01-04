@@ -1,0 +1,1 @@
+Item(by='penteract', descendants=None, kids=None, score=None, time=1609726422, title=None, item_type='comment', url=None, parent=25627232, text='For a JIT, the easy way to guess is to wait until it&#x27;s already taken 10 seconds and if it hasn&#x27;t stopped, assume it will take at least 10 more.')

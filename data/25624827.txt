@@ -1,1 +1,1 @@
-Item(by='raunakdag', descendants=None, kids=None, score=None, time=1609704909, title=None, item_type='comment', url=None, parent=25624679, text='Do you have a waitlist? I want to sign up')
+Item(by='raunakdag', descendants=None, kids=[25625689], score=None, time=1609704909, title=None, item_type='comment', url=None, parent=25624679, text='Do you have a waitlist? I want to sign up')

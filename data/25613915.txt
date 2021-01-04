@@ -1,1 +1,1 @@
-Item(by='jgwil2', descendants=None, kids=None, score=None, time=1609605177, title=None, item_type='comment', url=None, parent=25613018, text='Why can&#x27;t Python support a tree structure?')
+Item(by='jgwil2', descendants=None, kids=[25624704], score=None, time=1609605177, title=None, item_type='comment', url=None, parent=25613018, text='Why can&#x27;t Python support a tree structure?')

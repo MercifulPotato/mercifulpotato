@@ -1,0 +1,1 @@
+Item(by='bsder', descendants=None, kids=[25626030, 25625881], score=None, time=1609712258, title=None, item_type='comment', url=None, parent=25625358, text='Huh.<p>Does that also hold for a &quot;uint8_t&quot;--which is often just a renamed unsigned char rather than being a genuine type of its own?')

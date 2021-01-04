@@ -1,0 +1,1 @@
+Item(by='cunac', descendants=None, kids=None, score=None, time=1609724726, title=None, item_type='comment', url=None, parent=25625507, text='my intent with pagination is always to prevent problems with open ended size of data set. 1000 at once is usually not a problem but 10x , 100x etc.. is a big problem for transferring over the wire.')

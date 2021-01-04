@@ -1,0 +1,1 @@
+Item(by='Rochus', descendants=None, kids=None, score=None, time=1609718789, title=None, item_type='comment', url=None, parent=25624515, text='You seem to mix that up with LGPL. With GPL the linked app also becomes GPL. With LGPL this is not the case; usually apps link to Qt dynamic libraries which is ok.')

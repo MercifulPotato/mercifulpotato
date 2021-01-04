@@ -1,0 +1,1 @@
+Item(by='kijiki', descendants=None, kids=None, score=None, time=1609729191, title=None, item_type='comment', url=None, parent=25624563, text='Really? I used a HT FPGA back then, but it came on an HTX card that fit into the HTX slot on the motherboard.<p>Never heard of putting it into the socket, would be a real pain to attach JTAG to program&#x2F;debug your design...')

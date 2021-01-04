@@ -1,1 +1,1 @@
-Item(by='thih9', descendants=None, kids=None, score=None, time=1609698471, title=None, item_type='comment', url=None, parent=25623631, text='&gt; Wait till you hear about Egypt.<p>What about Egypt? Could you elaborate?')
+Item(by='thih9', descendants=None, kids=[25626865, 25626808], score=None, time=1609698471, title=None, item_type='comment', url=None, parent=25623631, text='&gt; Wait till you hear about Egypt.<p>What about Egypt? Could you elaborate?')

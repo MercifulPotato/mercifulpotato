@@ -1,0 +1,1 @@
+Item(by='michaelmior', descendants=None, kids=[25625973], score=None, time=1609713088, title=None, item_type='comment', url=None, parent=25625781, text='True. I was skipping over that, but the fact that functions manipulating null terminated strings are part of the standard library is certainly a reason in itself to consider them idiomatic.')

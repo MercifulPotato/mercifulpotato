@@ -1,0 +1,1 @@
+Item(by='arxanas', descendants=None, kids=[25626151], score=None, time=1609712002, title=None, item_type='comment', url=None, parent=25625451, text='I didn&#x27;t mention it since the intention of these notes is to aid in writing new Rust 2018 code. So far, I haven&#x27;t had to know the details of mod.rs to use any third-party libraries.')

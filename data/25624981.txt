@@ -1,1 +1,1 @@
-Item(by='sn_master', descendants=None, kids=None, score=None, time=1609706135, title=None, item_type='comment', url=None, parent=25623858, text='Can someone explain the tweet for me please? I am really confused on what she&#x27;s trying to say.')
+Item(by='sn_master', descendants=None, kids=[25625442], score=None, time=1609706135, title=None, item_type='comment', url=None, parent=25623858, text='Can someone explain the tweet for me please? I am really confused on what she&#x27;s trying to say.')
