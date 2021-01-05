@@ -1,1 +1,1 @@
-Item(by='DoreenMichele', descendants=0, kids=None, score=1, time=1609814187, title='Snow-Diving Foxes (2014)', item_type='story', url='https://www.npr.org/sections/krulwich/2014/01/03/259136596/youre-invisible-but-ill-eat-you-anyway-secrets-of-snow-diving-foxes', parent=None, text=None)
+Item(by='DoreenMichele', descendants=1, kids=[25641556], score=4, time=1609814187, title='Snow-Diving Foxes (2014)', item_type='story', url='https://www.npr.org/sections/krulwich/2014/01/03/259136596/youre-invisible-but-ill-eat-you-anyway-secrets-of-snow-diving-foxes', parent=None, text=None)

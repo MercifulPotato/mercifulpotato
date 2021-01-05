@@ -1,0 +1,1 @@
+Item(by='nsm', descendants=None, kids=None, score=None, time=1609827768, title=None, item_type='comment', url=None, parent=25620610, text='Note that modern Smalltalks allow exporting code out to plain text files so one can use Git and code review tools just like any other language.')

@@ -1,1 +1,1 @@
-Item(by='Gaishan', descendants=0, kids=None, score=1, time=1609797314, title='Microsoft Wants You to Reincarnate as a Chatbot', item_type='story', url='https://www.makeuseof.com/microsoft-patents-reincarnating-as-a-chatbot/', parent=None, text=None)
+Item(by='Gaishan', descendants=1, kids=[25642128], score=2, time=1609797314, title='Microsoft Wants You to Reincarnate as a Chatbot', item_type='story', url='https://www.makeuseof.com/microsoft-patents-reincarnating-as-a-chatbot/', parent=None, text=None)

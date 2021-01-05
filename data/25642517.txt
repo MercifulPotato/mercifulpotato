@@ -1,0 +1,1 @@
+Item(by='H8crilA', descendants=None, kids=[25642880], score=None, time=1609825056, title=None, item_type='comment', url=None, parent=25641141, text='Not the OP, but since repeatability is not a problem you can just use any cheap and insecure random number generator and hardcode a constant for the seed.')

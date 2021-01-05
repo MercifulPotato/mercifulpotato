@@ -1,1 +1,1 @@
-Item(by='Th3MadScientist', descendants=None, kids=None, score=None, time=1609810161, title=None, item_type='comment', url=None, parent=25632888, text='If you are going to report on FLIR, at least pronounce the name correctly. It&#x27;s pronounced &quot;fleer&quot;.')
+Item(by='Th3MadScientist', descendants=None, kids=[25642026], score=None, time=1609810161, title=None, item_type='comment', url=None, parent=25632888, text='If you are going to report on FLIR, at least pronounce the name correctly. It&#x27;s pronounced &quot;fleer&quot;.')

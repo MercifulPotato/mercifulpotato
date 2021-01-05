@@ -1,1 +1,1 @@
-Item(by='lamontcg', descendants=None, kids=None, score=None, time=1609810982, title=None, item_type='comment', url=None, parent=25640876, text='Your comment here is also violating those comment guidelines.')
+Item(by='lamontcg', descendants=None, kids=[25642629], score=None, time=1609810982, title=None, item_type='comment', url=None, parent=25640876, text='Your comment here is also violating those comment guidelines.')

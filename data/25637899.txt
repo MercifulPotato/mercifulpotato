@@ -1,1 +1,1 @@
-Item(by='Izkata', descendants=None, kids=None, score=None, time=1609793960, title=None, item_type='comment', url=None, parent=25633785, text='&gt; negatively contentious<p>...did you miss the first sentence?')
+Item(by='Izkata', descendants=None, kids=[25642781], score=None, time=1609793960, title=None, item_type='comment', url=None, parent=25633785, text='&gt; negatively contentious<p>...did you miss the first sentence?')

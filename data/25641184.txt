@@ -1,1 +1,1 @@
-Item(by='jgwil2', descendants=None, kids=None, score=None, time=1609812498, title=None, item_type='comment', url=None, parent=25640517, text='Good advice for learning any programming language.')
+Item(by='jgwil2', descendants=None, kids=[25642378], score=None, time=1609812498, title=None, item_type='comment', url=None, parent=25640517, text='Good advice for learning any programming language.')

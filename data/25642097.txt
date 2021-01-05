@@ -1,0 +1,1 @@
+Item(by='nnx', descendants=None, kids=None, score=None, time=1609820708, title=None, item_type='comment', url=None, parent=25641399, text='iOS recently introduced per-app “Precise Location” toggle in Settings.<p>Turning this toggle off is a great mitigation for apps who haven’t fixed or clarified how they handle such triangulation attacks.')

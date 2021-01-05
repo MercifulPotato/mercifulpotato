@@ -1,1 +1,1 @@
-Item(by='bane', descendants=2, kids=[25627556], score=17, time=1609690554, title='PaddleOCR, Multilingual OCR Tools', item_type='story', url='https://github.com/PaddlePaddle/PaddleOCR', parent=None, text=None)
+Item(by='bane', descendants=3, kids=[25627556], score=18, time=1609690554, title='PaddleOCR, Multilingual OCR Tools', item_type='story', url='https://github.com/PaddlePaddle/PaddleOCR', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='travisoneill1', descendants=None, kids=None, score=None, time=1609815119, title=None, item_type='comment', url=None, parent=25641447, text='2 good points.  Being in the same city as the virus lab is a lot less suspicious than being across the street.')
+Item(by='travisoneill1', descendants=None, kids=[25642783], score=None, time=1609815119, title=None, item_type='comment', url=None, parent=25641447, text='2 good points.  Being in the same city as the virus lab is a lot less suspicious than being across the street.')

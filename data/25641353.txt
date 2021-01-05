@@ -1,1 +1,1 @@
-Item(by='hedora', descendants=None, kids=None, score=None, time=1609814083, title=None, item_type='comment', url=None, parent=25637183, text='The CWA is a fairly old union, right?  They’re hoping to join it.')
+Item(by='hedora', descendants=None, kids=[25641646], score=None, time=1609814083, title=None, item_type='comment', url=None, parent=25637183, text='The CWA is a fairly old union, right?  They’re hoping to join it.')

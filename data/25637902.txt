@@ -1,1 +1,1 @@
-Item(by='_andychung', descendants=None, kids=None, score=None, time=1609793967, title=None, item_type='comment', url=None, parent=25636904, text='You can rearrange the order of the sections using the grab handles in the editor. Let me know if that helps!')
+Item(by='_andychung', descendants=None, kids=[25641900], score=None, time=1609793967, title=None, item_type='comment', url=None, parent=25636904, text='You can rearrange the order of the sections using the grab handles in the editor. Let me know if that helps!')

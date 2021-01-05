@@ -1,1 +1,1 @@
-Item(by='jkhdigital', descendants=None, kids=None, score=None, time=1609810917, title=None, item_type='comment', url=None, parent=25639091, text='I treat anonymously sourced news articles as a coin toss nowadays—assume a 50% chance that the claims in the article are unqualified truth.')
+Item(by='jkhdigital', descendants=None, kids=[25642487], score=None, time=1609810917, title=None, item_type='comment', url=None, parent=25639091, text='I treat anonymously sourced news articles as a coin toss nowadays—assume a 50% chance that the claims in the article are unqualified truth.')
