@@ -1,1 +1,1 @@
-Item(by='j-james', descendants=None, kids=None, score=None, time=1609821944, title=None, item_type='comment', url=None, parent=25641798, text='Out of curiosity, how can end-to-end encryption be verified when both the clients and the servers are closed-source?')
+Item(by='j-james', descendants=None, kids=[25645869], score=None, time=1609821944, title=None, item_type='comment', url=None, parent=25641798, text='Out of curiosity, how can end-to-end encryption be verified when both the clients and the servers are closed-source?')

@@ -1,1 +1,1 @@
-Item(by='jacquesm', descendants=None, kids=None, score=None, time=1609830126, title=None, item_type='comment', url=None, parent=25641420, text='Nice. Have you found any good workarounds for getting midi to work in Firefox or is this Chrome only?')
+Item(by='jacquesm', descendants=None, kids=[25643726], score=None, time=1609830126, title=None, item_type='comment', url=None, parent=25641420, text='Nice. Have you found any good workarounds for getting midi to work in Firefox or is this Chrome only?')

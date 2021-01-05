@@ -1,1 +1,1 @@
-Item(by='chasd00', descendants=None, kids=None, score=None, time=1609817316, title=None, item_type='comment', url=None, parent=25636429, text='yeah I can&#x27;t imagine 8 hrs of coding from a bed. i have bad posture and even I know that would be bad news.')
+Item(by='chasd00', descendants=None, kids=[25643765], score=None, time=1609817316, title=None, item_type='comment', url=None, parent=25636429, text='yeah I can&#x27;t imagine 8 hrs of coding from a bed. i have bad posture and even I know that would be bad news.')

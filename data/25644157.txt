@@ -1,0 +1,1 @@
+Item(by='imtringued', descendants=None, kids=None, score=None, time=1609843550, title=None, item_type='comment', url=None, parent=25628554, text='CouchDB is often just used for simple cloud sync in combination with PouchDB. It&#x27;s like having a Google Drive integrated into your application. If you do any complicated online querying it&#x27;s simply not meant for that.')

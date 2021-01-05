@@ -1,1 +1,1 @@
-Item(by='Phenomenit', descendants=None, kids=None, score=None, time=1609708922, title=None, item_type='comment', url=None, parent=25625307, text='That you&#x27;re paying for these ads.')
+Item(by='Phenomenit', descendants=None, kids=[25644703], score=None, time=1609708922, title=None, item_type='comment', url=None, parent=25625307, text='That you&#x27;re paying for these ads.')

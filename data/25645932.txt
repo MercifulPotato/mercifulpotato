@@ -1,0 +1,1 @@
+Item(by='DocSavage', descendants=None, kids=None, score=None, time=1609857501, title=None, item_type='comment', url=None, parent=25645775, text='They are also using a pure Go version of leveldb (github.com&#x2F;syndtr&#x2F;goleveldb) and not the more battle-hardened Google leveldb, RocksDB implementations, or even the dgraph-io Badger WiscKey-style approach.')

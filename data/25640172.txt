@@ -1,1 +1,1 @@
-Item(by='zeristor', descendants=0, kids=None, score=3, time=1609805585, title='The Riemann Hypothesis, Explained', item_type='story', url='https://www.youtube.com/watch?v=zlm1aajH6gY', parent=None, text=None)
+Item(by='zeristor', descendants=1, kids=[25643297], score=4, time=1609805585, title='The Riemann Hypothesis, Explained', item_type='story', url='https://www.youtube.com/watch?v=zlm1aajH6gY', parent=None, text=None)

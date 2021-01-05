@@ -1,0 +1,1 @@
+Item(by='tpoacher', descendants=None, kids=None, score=None, time=1609844661, title=None, item_type='comment', url=None, parent=25641399, text='I discovered a bug too. If you ask a user to give you their location, this can be used to find out where they are!')

@@ -1,1 +1,1 @@
-Item(by='olegp', descendants=None, kids=None, score=None, time=1609829902, title=None, item_type='comment', url=None, parent=25634783, text='Just a heads up that your CV link returns a 404')
+Item(by='olegp', descendants=None, kids=[25643856], score=None, time=1609829902, title=None, item_type='comment', url=None, parent=25634783, text='Just a heads up that your CV link returns a 404')

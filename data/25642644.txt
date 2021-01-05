@@ -1,1 +1,1 @@
-Item(by='anothernewdude', descendants=None, kids=None, score=None, time=1609826376, title=None, item_type='comment', url=None, parent=25636223, text='Pretty sure Snowden dumped every single thing he could get his hands on. That pretty much makes him a traitor.')
+Item(by='anothernewdude', descendants=None, kids=[25644002], score=None, time=1609826376, title=None, item_type='comment', url=None, parent=25636223, text='Pretty sure Snowden dumped every single thing he could get his hands on. That pretty much makes him a traitor.')

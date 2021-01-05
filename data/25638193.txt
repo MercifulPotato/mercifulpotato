@@ -1,1 +1,1 @@
-Item(by='marcus_holmes', descendants=None, kids=None, score=None, time=1609795037, title=None, item_type='comment', url=None, parent=25635141, text='That&#x27;s because I was relating my personal experience building MVPs rather than spouting TDD dogma.')
+Item(by='marcus_holmes', descendants=None, kids=[25644210], score=None, time=1609795037, title=None, item_type='comment', url=None, parent=25635141, text='That&#x27;s because I was relating my personal experience building MVPs rather than spouting TDD dogma.')

@@ -1,0 +1,1 @@
+Item(by='laurentdc', descendants=None, kids=None, score=None, time=1609842315, title=None, item_type='comment', url=None, parent=25643930, text='I just use my own domain and then forward incoming email to whatever service. This way it doesn&#x27;t really matter what I use: if I get locked out I simply change the forwarding email. It&#x27;s free with most providers.')

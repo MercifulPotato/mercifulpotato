@@ -1,1 +1,1 @@
-Item(by='Gaessaki', descendants=0, kids=None, score=11, time=1609815498, title='Evidence for entropy maximisation in human free choice behaviour', item_type='story', url='https://psyarxiv.com/3ntku/', parent=None, text=None)
+Item(by='Gaessaki', descendants=17, kids=[25643572, 25645969, 25645417, 25644712, 25644097, 25645006, 25645620, 25645108, 25643674, 25644471], score=67, time=1609815498, title='Evidence for entropy maximisation in human free choice behaviour', item_type='story', url='https://psyarxiv.com/3ntku/', parent=None, text=None)

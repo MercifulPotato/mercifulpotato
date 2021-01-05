@@ -1,0 +1,1 @@
+Item(by='nickserv', descendants=None, kids=None, score=None, time=1609846135, title=None, item_type='comment', url=None, parent=25643667, text='Can confirm, I&#x27;ve made some pretty extensive scenarios with JMeter and while not exactly fun to do it works great. We integrated &quot;normal&quot; requests with WebSockets in the scenarios.')

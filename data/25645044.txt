@@ -1,0 +1,1 @@
+Item(by='torginus', descendants=None, kids=None, score=None, time=1609851765, title=None, item_type='comment', url=None, parent=25641141, text='Well, LFSR RNG-s are pretty efficient in terms of HW space. You take a single-bit wide shift registers of length n, and feed back its output to the beginning XOR-ed with predefined bits in the shift register.')

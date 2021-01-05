@@ -1,0 +1,1 @@
+Item(by='ivoras', descendants=None, kids=[25644268, 25643799], score=None, time=1609837324, title=None, item_type='comment', url=None, parent=25643313, text='Go does include a reasonably capable HTTP server, so they could have done it in Go... but would you add the Go&#x27;s HTTP server LOC to the count? :)')

@@ -1,0 +1,1 @@
+Item(by='dante_dev', descendants=None, kids=None, score=None, time=1609852707, title=None, item_type='comment', url=None, parent=25644854, text='I do agree. More importantly, it has an architecture to scale (despite of being just python).<p>I created complex load tests and custom workflows to analyse resulting data thanks to its complete scriptability. Really a nice tool.')

@@ -1,0 +1,1 @@
+Item(by='z3t4', descendants=None, kids=None, score=None, time=1609849462, title=None, item_type='comment', url=None, parent=25642762, text='The multi threaded one process app might work well - until you need to scale across many machines, then the multi-process architecture might be easier to scale. But you probably end up rewriting the whole architecture anyway.')

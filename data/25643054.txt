@@ -1,1 +1,1 @@
-Item(by='Donckele', descendants=None, kids=None, score=None, time=1609831548, title=None, item_type='comment', url=None, parent=25641399, text='“Users in the People Nearby section”\nIs that everyone on telegram or just your “friends”?')
+Item(by='Donckele', descendants=None, kids=[25643501], score=None, time=1609831548, title=None, item_type='comment', url=None, parent=25641399, text='“Users in the People Nearby section”\nIs that everyone on telegram or just your “friends”?')

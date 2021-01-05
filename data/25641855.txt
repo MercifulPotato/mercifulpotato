@@ -1,1 +1,1 @@
-Item(by='Can_Not', descendants=None, kids=None, score=None, time=1609818650, title=None, item_type='comment', url=None, parent=25641622, text='I tried to setup 2FA, Google would not let me setup an authenticator app without first giving Google a phone number.')
+Item(by='Can_Not', descendants=None, kids=[25643441], score=None, time=1609818650, title=None, item_type='comment', url=None, parent=25641622, text='I tried to setup 2FA, Google would not let me setup an authenticator app without first giving Google a phone number.')

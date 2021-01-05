@@ -1,1 +1,1 @@
-Item(by='toper-centage', descendants=None, kids=None, score=None, time=1609834837, title=None, item_type='comment', url=None, parent=25643263, text='Virtually all ISPs collect and sell this data.')
+Item(by='toper-centage', descendants=None, kids=[25643620], score=None, time=1609834837, title=None, item_type='comment', url=None, parent=25643263, text='Virtually all ISPs collect and sell this data.')

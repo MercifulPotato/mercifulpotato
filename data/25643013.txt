@@ -1,1 +1,1 @@
-Item(by='brodie', descendants=None, kids=None, score=None, time=1609831115, title=None, item_type='comment', url=None, parent=25642973, text='On a more serious, thought out note: It is kind of interesting seeing the rise of home pulse oximeter products (due to the pandemic).')
+Item(by='brodie', descendants=None, kids=[25644834], score=None, time=1609831115, title=None, item_type='comment', url=None, parent=25642973, text='On a more serious, thought out note: It is kind of interesting seeing the rise of home pulse oximeter products (due to the pandemic).')

@@ -1,1 +1,1 @@
-Item(by='gegtik', descendants=None, kids=None, score=None, time=1609822210, title=None, item_type='comment', url=None, parent=25641420, text='reminds me of sonicpi')
+Item(by='gegtik', descendants=None, kids=[25644159], score=None, time=1609822210, title=None, item_type='comment', url=None, parent=25641420, text='reminds me of sonicpi')
