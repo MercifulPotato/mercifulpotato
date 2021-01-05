@@ -1,1 +1,1 @@
-Item(by='worldwidekatie', descendants=0, kids=None, score=2, time=1609789604, title='Show HN: I used GPT-3 to make synthetic training data', item_type='story', url='https://www.ameliormate.com/gpt3-synthetic-data', parent=None, text=None)
+Item(by='worldwidekatie', descendants=1, kids=[25638399], score=2, time=1609789604, title='Show HN: I used GPT-3 to make synthetic training data', item_type='story', url='https://www.ameliormate.com/gpt3-synthetic-data', parent=None, text=None)

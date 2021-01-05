@@ -1,0 +1,1 @@
+Item(by='gusfrehse', descendants=None, kids=None, score=None, time=1609778394, title=None, item_type='comment', url=None, parent=25617651, text='The way I see it, that would mean the function &#x27;fair_dice&#x27; has type &#x27;i32&#x27;. While in this case it maybe fine, if the function had arguments, it would be ambiguous.')

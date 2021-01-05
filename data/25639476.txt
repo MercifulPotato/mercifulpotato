@@ -1,0 +1,1 @@
+Item(by='reddit_clone', descendants=None, kids=None, score=None, time=1609801161, title=None, item_type='comment', url=None, parent=25622943, text='You don&#x27;t have to type up stuff in repl literally. You can write regular functions in emacs and send pieces of code to the running repl.<p>For adhoc testing code you can type on the repl buffer.')

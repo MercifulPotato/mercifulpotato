@@ -1,1 +1,1 @@
-Item(by='africanboy', descendants=None, kids=None, score=None, time=1609765339, title=None, item_type='comment', url=None, parent=25630491, text='But the symptoms could.')
+Item(by='africanboy', descendants=None, kids=[25639881], score=None, time=1609765339, title=None, item_type='comment', url=None, parent=25630491, text='But the symptoms could.')

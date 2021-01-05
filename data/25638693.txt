@@ -1,0 +1,1 @@
+Item(by='ColonelPhantom', descendants=None, kids=None, score=None, time=1609797030, title=None, item_type='comment', url=None, parent=25627988, text='The issue highlighted, at least for UTF-8, is that Go just _assumes_ everything is UTF-8. It makes seemingly no effort to actually _enforce_ UTF-8, leading to silent mistakes like with the file path.')

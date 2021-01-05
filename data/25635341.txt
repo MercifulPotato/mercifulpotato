@@ -1,1 +1,1 @@
-Item(by='hzengin', descendants=None, kids=None, score=None, time=1609783486, title=None, item_type='comment', url=None, parent=25620411, text='We used (route 53) private DNS records for feature toggles in my previous company; worked better than most of the other solutions tbh.')
+Item(by='hzengin', descendants=None, kids=[25638252], score=None, time=1609783486, title=None, item_type='comment', url=None, parent=25620411, text='We used (route 53) private DNS records for feature toggles in my previous company; worked better than most of the other solutions tbh.')

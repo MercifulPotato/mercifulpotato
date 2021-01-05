@@ -1,1 +1,1 @@
-Item(by='timr', descendants=None, kids=[25636797, 25633549], score=None, time=1609777726, title=None, item_type='comment', url=None, parent=25633164, text='Graph NNs are widely used in the chemical domain -- molecules are easily modeled as graphs, so it&#x27;s a natural fit.')
+Item(by='timr', descendants=None, kids=[25633549, 25636797], score=None, time=1609777726, title=None, item_type='comment', url=None, parent=25633164, text='Graph NNs are widely used in the chemical domain -- molecules are easily modeled as graphs, so it&#x27;s a natural fit.')

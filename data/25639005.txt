@@ -1,0 +1,1 @@
+Item(by='brnt', descendants=None, kids=None, score=None, time=1609798447, title=None, item_type='comment', url=None, parent=25633952, text='So, since we&#x27;re on kernel 5.10, has this new Samsung exFAT driver been tested? Is it at least as reliable as btrfs?')

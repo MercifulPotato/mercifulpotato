@@ -1,0 +1,1 @@
+Item(by='lilyball', descendants=None, kids=None, score=None, time=1609800871, title=None, item_type='comment', url=None, parent=25632044, text='It should in fact have an effect on real-world code. It looks like sloc in general doesn&#x27;t handle nested block comments, so any source file that uses nested block comments will be counted incorrectly by sloc.')

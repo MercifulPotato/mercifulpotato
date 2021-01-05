@@ -1,0 +1,1 @@
+Item(by='mrob', descendants=None, kids=[25639282], score=None, time=1609799508, title=None, item_type='comment', url=None, parent=25638970, text='&gt;(in the case of 1-bit) just let the grey value (from 0.0=black to 1.0=white) determine the probability that the pixel is on or off<p>This is equivalent to the random noise [-0.5; 0.5] before quantization example.')

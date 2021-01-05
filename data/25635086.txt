@@ -1,1 +1,1 @@
-Item(by='johnisgood', descendants=None, kids=None, score=None, time=1609782572, title=None, item_type='comment', url=None, parent=25633223, text='But is a chat bot novel?')
+Item(by='johnisgood', descendants=None, kids=[25638881], score=None, time=1609782572, title=None, item_type='comment', url=None, parent=25633223, text='But is a chat bot novel?')

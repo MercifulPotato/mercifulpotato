@@ -1,1 +1,1 @@
-Item(by='jldugger', descendants=None, kids=None, score=None, time=1609730495, title=None, item_type='comment', url=None, parent=25627284, text='Kinda depends on what you mean by scarce. Expensive? Subdivision doesn&#x27;t help. Illiquid? satoshis help there.')
+Item(by='jldugger', descendants=None, kids=[25638877], score=None, time=1609730495, title=None, item_type='comment', url=None, parent=25627284, text='Kinda depends on what you mean by scarce. Expensive? Subdivision doesn&#x27;t help. Illiquid? satoshis help there.')

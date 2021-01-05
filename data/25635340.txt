@@ -1,1 +1,1 @@
-Item(by='samizdis', descendants=4, kids=[25635401, 25635592], score=6, time=1609783480, title='Astronomers agree: Universe is nearly 14B years old', item_type='story', url='https://phys.org/news/2021-01-astronomers-universe-billion-years.html', parent=None, text=None)
+Item(by='samizdis', descendants=9, kids=[25635401, 25638852, 25635592], score=11, time=1609783480, title='Astronomers agree: Universe is nearly 14B years old', item_type='story', url='https://phys.org/news/2021-01-astronomers-universe-billion-years.html', parent=None, text=None)

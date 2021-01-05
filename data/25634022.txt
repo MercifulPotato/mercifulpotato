@@ -1,1 +1,1 @@
-Item(by='Leherenn', descendants=None, kids=None, score=None, time=1609779383, title=None, item_type='comment', url=None, parent=25628056, text='Conversely, I have only seen arrays being used, and never linked lists&#x2F;hash maps in the few embedded code bases I have worked on.')
+Item(by='Leherenn', descendants=None, kids=[25639765], score=None, time=1609779383, title=None, item_type='comment', url=None, parent=25628056, text='Conversely, I have only seen arrays being used, and never linked lists&#x2F;hash maps in the few embedded code bases I have worked on.')

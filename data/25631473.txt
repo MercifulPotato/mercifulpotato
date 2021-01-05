@@ -1,1 +1,1 @@
-Item(by='jimcsharp', descendants=None, kids=None, score=None, time=1609769221, title=None, item_type='comment', url=None, parent=25631095, text='I would liken unions to corporations rather than cartels.')
+Item(by='jimcsharp', descendants=None, kids=[25640020], score=None, time=1609769221, title=None, item_type='comment', url=None, parent=25631095, text='I would liken unions to corporations rather than cartels.')

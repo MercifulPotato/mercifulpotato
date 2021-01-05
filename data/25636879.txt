@@ -1,1 +1,1 @@
-Item(by='jjcon', descendants=None, kids=None, score=None, time=1609789744, title=None, item_type='comment', url=None, parent=25636850, text='&gt; it has crashed at least 4&#x2F;5 times by now, and none of the crashes was permanent<p>What do you think a bubble is?')
+Item(by='jjcon', descendants=None, kids=[25637279], score=None, time=1609789744, title=None, item_type='comment', url=None, parent=25636850, text='&gt; it has crashed at least 4&#x2F;5 times by now, and none of the crashes was permanent<p>What do you think a bubble is?')

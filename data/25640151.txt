@@ -1,0 +1,1 @@
+Item(by='tyingq', descendants=None, kids=None, score=None, time=1609805411, title=None, item_type='comment', url=None, parent=25639760, text='It appears to be using a WizNet ethernet to parallel device. So, at least the tcp is offloaded to something else.  But it would have to read and respond to page requests in the Z80.')

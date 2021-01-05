@@ -1,1 +1,1 @@
-Item(by='brundolf', descendants=None, kids=None, score=None, time=1609790190, title=None, item_type='comment', url=None, parent=25633634, text='VSCode is one of the snappiest and most responsive apps I use, period. Microsoft knows how to use Electron.')
+Item(by='brundolf', descendants=None, kids=[25637452], score=None, time=1609790190, title=None, item_type='comment', url=None, parent=25633634, text='VSCode is one of the snappiest and most responsive apps I use, period. Microsoft knows how to use Electron.')

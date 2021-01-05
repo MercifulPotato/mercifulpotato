@@ -1,0 +1,1 @@
+Item(by='xapata', descendants=None, kids=None, score=None, time=1609798922, title=None, item_type='comment', url=None, parent=25638999, text='Yep, just copy-paste a bit of REPL history for a docstring, then use `doctest` to make sure it holds.  Pretty soon you&#x27;ll have ~100% test coverage.  Minus the error paths you didn&#x27;t test in REPL.')

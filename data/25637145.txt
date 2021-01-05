@@ -1,1 +1,1 @@
-Item(by='bserge', descendants=None, kids=None, score=None, time=1609790904, title=None, item_type='comment', url=None, parent=25637107, text='So, Eve with pseudo-8bit graphics? I always wanted something like Eve in a fantasy setting, but damn I hate Minecraft-like graphics :&#x2F;')
+Item(by='bserge', descendants=None, kids=[25637597], score=None, time=1609790904, title=None, item_type='comment', url=None, parent=25637107, text='So, Eve with pseudo-8bit graphics? I always wanted something like Eve in a fantasy setting, but damn I hate Minecraft-like graphics :&#x2F;')

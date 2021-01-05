@@ -1,1 +1,1 @@
-Item(by='jcdentonunatco', descendants=None, kids=None, score=None, time=1609788545, title=None, item_type='comment', url=None, parent=25626227, text='It&#x27;s amazing that you could write this much and have it be 100% wrong.')
+Item(by='jcdentonunatco', descendants=None, kids=[25638874], score=None, time=1609788545, title=None, item_type='comment', url=None, parent=25626227, text='It&#x27;s amazing that you could write this much and have it be 100% wrong.')

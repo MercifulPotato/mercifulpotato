@@ -1,1 +1,1 @@
-Item(by='rendx', descendants=None, kids=None, score=None, time=1609762433, title=None, item_type='comment', url=None, parent=25626787, text='I don&#x27;t understand why this was downvoted. It <i>is</i> a GDPR violation. That&#x27;s a fact.')
+Item(by='rendx', descendants=None, kids=[25640863], score=None, time=1609762433, title=None, item_type='comment', url=None, parent=25626787, text='I don&#x27;t understand why this was downvoted. It <i>is</i> a GDPR violation. That&#x27;s a fact.')

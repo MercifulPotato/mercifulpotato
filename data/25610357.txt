@@ -1,1 +1,1 @@
-Item(by='pseudalopex', descendants=None, kids=None, score=None, time=1609561264, title=None, item_type='comment', url=None, parent=25609752, text='Surgical and N95 masks were proven against other coronaviruses.')
+Item(by='pseudalopex', descendants=None, kids=[25641254], score=None, time=1609561264, title=None, item_type='comment', url=None, parent=25609752, text='Surgical and N95 masks were proven against other coronaviruses.')

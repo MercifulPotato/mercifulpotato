@@ -1,0 +1,1 @@
+Item(by='sischoel', descendants=None, kids=None, score=None, time=1609803591, title=None, item_type='comment', url=None, parent=25639605, text='Yes, I had something mixed up here - you are completely right about CSR matrices, they should not use more memory than an adjacency list.')

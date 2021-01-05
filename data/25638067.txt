@@ -1,1 +1,1 @@
-Item(by='TedDoesntTalk', descendants=None, kids=None, score=None, time=1609794483, title=None, item_type='comment', url=None, parent=25636125, text='Nice post, but what does that have to do with the Human Genome Project?')
+Item(by='TedDoesntTalk', descendants=None, kids=[25638331], score=None, time=1609794483, title=None, item_type='comment', url=None, parent=25636125, text='Nice post, but what does that have to do with the Human Genome Project?')

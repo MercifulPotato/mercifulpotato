@@ -1,0 +1,1 @@
+Item(by='brnt', descendants=None, kids=None, score=None, time=1609797156, title=None, item_type='comment', url=None, parent=25636011, text='It is used, but with a modified titlebar bar the styling on it seems to be ignored. GTK3 apps that leave the titlebar alone are fine (Quidlibet for instance).')

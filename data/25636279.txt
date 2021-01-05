@@ -1,1 +1,1 @@
-Item(by='mcguire', descendants=None, kids=None, score=None, time=1609787142, title=None, item_type='comment', url=None, parent=25634890, text='Bitcoin.')
+Item(by='mcguire', descendants=None, kids=[25641387], score=None, time=1609787142, title=None, item_type='comment', url=None, parent=25634890, text='Bitcoin.')
