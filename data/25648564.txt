@@ -1,0 +1,1 @@
+Item(by='asiando', descendants=None, kids=[25649654], score=None, time=1609869627, title=None, item_type='comment', url=None, parent=25646342, text='Offering the UI in the browser versus just the CLI is an interesting idea. Go one step further and just display the results in the browser. Go another step and you got an Electron app, no CLI at all.')

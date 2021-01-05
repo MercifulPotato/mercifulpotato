@@ -1,1 +1,1 @@
-Item(by='kavalg', descendants=None, kids=None, score=None, time=1609856626, title=None, item_type='comment', url=None, parent=25645654, text='WRT self hosting, GitLab could be painful, but Gitea is really easy to host and keep up to date.')
+Item(by='kavalg', descendants=None, kids=[25646194], score=None, time=1609856626, title=None, item_type='comment', url=None, parent=25645654, text='WRT self hosting, GitLab could be painful, but Gitea is really easy to host and keep up to date.')

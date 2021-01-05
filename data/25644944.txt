@@ -1,1 +1,1 @@
-Item(by='mgav', descendants=0, kids=None, score=2, time=1609850802, title='Amazon Banned from Using AWS Logo in China Trademark Ruling', item_type='story', url='https://www.wsj.com/articles/amazon-banned-from-using-aws-logo-in-china-trademark-ruling-11609841232', parent=None, text=None)
+Item(by='mgav', descendants=1, kids=[25647999], score=4, time=1609850802, title='Amazon Banned from Using AWS Logo in China Trademark Ruling', item_type='story', url='https://www.wsj.com/articles/amazon-banned-from-using-aws-logo-in-china-trademark-ruling-11609841232', parent=None, text=None)

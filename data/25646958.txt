@@ -1,0 +1,1 @@
+Item(by='michelb', descendants=None, kids=None, score=None, time=1609863102, title=None, item_type='comment', url=None, parent=25646379, text='The minimum size for an empty DMG I could create on my mac was 8Mb. If I make the DMG directly from the folder with the app in it, it becomes 1.2Mb. Maybe the developer uses a script that makes it this size.')

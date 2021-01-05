@@ -1,0 +1,1 @@
+Item(by='marc_io', descendants=None, kids=[25649453], score=None, time=1609872493, title=None, item_type='comment', url=None, parent=25648793, text='Updating to a major version is not mandatory, as they support older versions as early as 3.7.<p>The real problem is the plugin ecosystem, which does not do the same.')

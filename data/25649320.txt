@@ -1,0 +1,1 @@
+Item(by='hilbertseries', descendants=None, kids=None, score=None, time=1609872705, title=None, item_type='comment', url=None, parent=25646326, text='Generally a connection pool also checks the health of its connections. In SQL connection pools this can be done by executing a select 1, if this fails then a new connection can be attempted.')

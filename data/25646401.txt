@@ -1,0 +1,1 @@
+Item(by='batter', descendants=None, kids=[25646458], score=None, time=1609860086, title=None, item_type='comment', url=None, parent=25645041, text='This article helped me to reduce connections pool from 80 to 10 per box. Which helped to serve traffic spikes from couple requests per second to thousands per second.')

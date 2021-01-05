@@ -1,0 +1,1 @@
+Item(by='syrusakbary', descendants=None, kids=[25647169], score=None, time=1609863566, title=None, item_type='comment', url=None, parent=25646022, text='This is awesome!!\nIs CheerpX able to run the JITed code generated from node&#x2F;v8 as well?<p>Or said in other way: is the node binary compiled with v8 in interpreted mode, or does it support the v8 JIT?')

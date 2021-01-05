@@ -1,1 +1,1 @@
-Item(by='elgfare', descendants=None, kids=None, score=None, time=1609663905, title=None, item_type='comment', url=None, parent=25616771, text='The nrf53 is dual core with a dedicated network cpu.')
+Item(by='elgfare', descendants=None, kids=[25648581], score=None, time=1609663905, title=None, item_type='comment', url=None, parent=25616771, text='The nrf53 is dual core with a dedicated network cpu.')

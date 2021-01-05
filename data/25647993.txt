@@ -1,0 +1,1 @@
+Item(by='brundolf', descendants=None, kids=[25648091], score=None, time=1609867606, title=None, item_type='comment', url=None, parent=25647872, text='#[...] is an attribute, more like @foo annotations in Java, not a comment. Comments do not use # in Rust')

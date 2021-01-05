@@ -1,1 +1,1 @@
-Item(by='300', descendants=None, kids=None, score=None, time=1609844726, title=None, item_type='comment', url=None, parent=25644056, text='They could have blocked the user in Iran. It&#x27;s without sense to block the organization&#x27;s account.')
+Item(by='300', descendants=None, kids=[25646960], score=None, time=1609844726, title=None, item_type='comment', url=None, parent=25644056, text='They could have blocked the user in Iran. It&#x27;s without sense to block the organization&#x27;s account.')

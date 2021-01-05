@@ -1,1 +1,1 @@
-Item(by='dsego', descendants=0, kids=None, score=1, time=1609855402, title='What is the worst part of being a software engineer?', item_type='story', url='https://www.quora.com/What-is-the-worst-part-of-being-a-software-engineer?share=1', parent=None, text=None)
+Item(by='dsego', descendants=1, kids=[25645984], score=2, time=1609855402, title='What is the worst part of being a software engineer?', item_type='story', url='https://www.quora.com/What-is-the-worst-part-of-being-a-software-engineer?share=1', parent=None, text=None)

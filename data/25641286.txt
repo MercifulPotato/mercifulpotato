@@ -1,1 +1,1 @@
-Item(by='whitepoplar', descendants=None, kids=None, score=None, time=1609813543, title=None, item_type='comment', url=None, parent=25638553, text='Could you share some of these techniques? I&#x27;m in the same boat.')
+Item(by='whitepoplar', descendants=None, kids=[25649546], score=None, time=1609813543, title=None, item_type='comment', url=None, parent=25638553, text='Could you share some of these techniques? I&#x27;m in the same boat.')

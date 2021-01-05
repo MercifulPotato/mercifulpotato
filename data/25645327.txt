@@ -1,1 +1,1 @@
-Item(by='skrebbel', descendants=None, kids=None, score=None, time=1609853857, title=None, item_type='comment', url=None, parent=25645110, text='The UK government is often quoted as a leading example on how to run digital services well. A fuckup <i>would</i> be a surprise.')
+Item(by='skrebbel', descendants=None, kids=[25647892], score=None, time=1609853857, title=None, item_type='comment', url=None, parent=25645110, text='The UK government is often quoted as a leading example on how to run digital services well. A fuckup <i>would</i> be a surprise.')

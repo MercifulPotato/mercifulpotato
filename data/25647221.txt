@@ -1,0 +1,1 @@
+Item(by='nine_k', descendants=None, kids=[25647363, 25648375, 25648550], score=None, time=1609864549, title=None, item_type='comment', url=None, parent=25646946, text='&gt; <i>in SQL even reads create locks.</i><p>IIRC, of all popular SQL databases, only MySQL uses locks at all. Postgres, MS SQL, Oracle all use MVCC.<p>(Edited: typo)')

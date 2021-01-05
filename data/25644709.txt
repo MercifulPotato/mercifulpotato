@@ -1,1 +1,1 @@
-Item(by='Tomte', descendants=0, kids=None, score=1, time=1609848568, title='The Now Habit', item_type='story', url='https://www.2uo.de/the-now-habit/', parent=None, text=None)
+Item(by='Tomte', descendants=2, kids=[25649579, 25649304], score=14, time=1609848568, title='The Now Habit', item_type='story', url='https://www.2uo.de/the-now-habit/', parent=None, text=None)

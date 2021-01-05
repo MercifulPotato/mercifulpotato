@@ -1,1 +1,1 @@
-Item(by='gambiting', descendants=None, kids=None, score=None, time=1609614570, title=None, item_type='comment', url=None, parent=25615384, text='Sure, but there&#x27;s 4-6 of them on the street and probably 40-50 cars. That will work in short term, but not in 10+ years.')
+Item(by='gambiting', descendants=None, kids=[25649185], score=None, time=1609614570, title=None, item_type='comment', url=None, parent=25615384, text='Sure, but there&#x27;s 4-6 of them on the street and probably 40-50 cars. That will work in short term, but not in 10+ years.')

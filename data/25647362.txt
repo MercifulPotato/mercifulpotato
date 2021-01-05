@@ -1,0 +1,1 @@
+Item(by='alpaca128', descendants=None, kids=[25647549], score=None, time=1609865223, title=None, item_type='comment', url=None, parent=25647279, text='I&#x27;m not a C fan but isn&#x27;t Zig much closer to C&#x27;s philosophy\nwhile fixing bad parts than Go? Especially due to the garbage\ncollection, at which point Go suddenly competes with many more\nsimple languages.')

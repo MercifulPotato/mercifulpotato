@@ -1,0 +1,1 @@
+Item(by='simias', descendants=None, kids=None, score=None, time=1609872360, title=None, item_type='comment', url=None, parent=25647773, text='Go uses compiler magic to have effectively generic collections, why not hardcode a Result type in the same fashion? It&#x27;s not very elegant, but it&#x27;s pragmatic and error handling is important enough that it may well warrant it.')

@@ -1,0 +1,1 @@
+Item(by='calpaterson', descendants=None, kids=None, score=None, time=1609874230, title=None, item_type='comment', url=None, parent=25647363, text='&gt; Innodb does not create locks for reads, unless in a transaction.<p>Right...but I have a feeling that most libraries&#x2F;frameworks put you in a transaction by default and just rollback at the end of the request lifecycle.')

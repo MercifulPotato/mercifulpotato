@@ -1,0 +1,1 @@
+Item(by='ramchip', descendants=None, kids=None, score=None, time=1609857166, title=None, item_type='comment', url=None, parent=25645041, text='I think latency also matters a lot for client-side DB connection pooling. If the DB is a 10ms round-trip away, and queries take 10ms, the process on the DB side is only really busy half the time.')

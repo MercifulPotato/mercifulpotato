@@ -1,1 +1,1 @@
-Item(by='faeyanpiraat', descendants=None, kids=None, score=None, time=1609856627, title=None, item_type='comment', url=None, parent=25645701, text='€297 pre order pricing for a very simple phone.')
+Item(by='faeyanpiraat', descendants=None, kids=[25647281], score=None, time=1609856627, title=None, item_type='comment', url=None, parent=25645701, text='€297 pre order pricing for a very simple phone.')

@@ -1,0 +1,1 @@
+Item(by='amiga-workbench', descendants=None, kids=None, score=None, time=1609868247, title=None, item_type='comment', url=None, parent=25647164, text='I am glad the shortcode support is still around. Writing plugins that integrate with Gutenberg is a bit soul-sucking, especially when you just want to have a little serverside rendered widget chucked into your page.')

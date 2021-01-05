@@ -1,1 +1,1 @@
-Item(by='ncmncm', descendants=None, kids=None, score=None, time=1609820964, title=None, item_type='comment', url=None, parent=25631872, text='I have a Somu. The docs I have found say it can only store one resident key. Is it particularly limited, vs. the Solo v1?')
+Item(by='ncmncm', descendants=None, kids=[25649995], score=None, time=1609820964, title=None, item_type='comment', url=None, parent=25631872, text='I have a Somu. The docs I have found say it can only store one resident key. Is it particularly limited, vs. the Solo v1?')

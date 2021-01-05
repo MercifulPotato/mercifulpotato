@@ -1,0 +1,1 @@
+Item(by='oneearedrabbit', descendants=None, kids=[25650197], score=None, time=1609875887, title=None, item_type='comment', url=None, parent=25649818, text='Thanks! On a technical side, do you run the whole application in the main thread of a web worker. I wonder whether you considered using service workers for the faster boot up?')

@@ -1,1 +1,1 @@
-Item(by='cageface', descendants=None, kids=None, score=None, time=1609829653, title=None, item_type='comment', url=None, parent=25642831, text='This is exactly why I use an Android phone.')
+Item(by='cageface', descendants=None, kids=[25649207], score=None, time=1609829653, title=None, item_type='comment', url=None, parent=25642831, text='This is exactly why I use an Android phone.')

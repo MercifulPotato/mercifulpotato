@@ -1,1 +1,1 @@
-Item(by='317070', descendants=None, kids=None, score=None, time=1609848728, title=None, item_type='comment', url=None, parent=25643096, text='The Schelling point works when there is no communication. But how do you know if your community members are not communicating?')
+Item(by='317070', descendants=None, kids=[25646073], score=None, time=1609848728, title=None, item_type='comment', url=None, parent=25643096, text='The Schelling point works when there is no communication. But how do you know if your community members are not communicating?')

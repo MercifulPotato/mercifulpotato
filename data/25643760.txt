@@ -1,1 +1,1 @@
-Item(by='pindab0ter', descendants=None, kids=None, score=None, time=1609839232, title=None, item_type='comment', url=None, parent=25643475, text='A post isn’t sucky just because your definition and their definition of a term which are both valid don’t align with your expectations.')
+Item(by='pindab0ter', descendants=None, kids=[25649364], score=None, time=1609839232, title=None, item_type='comment', url=None, parent=25643475, text='A post isn’t sucky just because your definition and their definition of a term which are both valid don’t align with your expectations.')

@@ -1,1 +1,1 @@
-Item(by='Reedx', descendants=2, kids=[25641330], score=18, time=1609812576, title='US Treasury to Allow Blockchains, Stablecoins for Bank Payments', item_type='story', url='https://www2.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html', parent=None, text=None)
+Item(by='Reedx', descendants=10, kids=[25646632, 25641330, 25647532], score=45, time=1609812576, title='US Treasury to Allow Blockchains, Stablecoins for Bank Payments', item_type='story', url='https://www2.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html', parent=None, text=None)

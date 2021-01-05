@@ -1,1 +1,1 @@
-Item(by='kazinator', descendants=None, kids=None, score=None, time=1609836062, title=None, item_type='comment', url=None, parent=25643086, text='... and if it links, it must work, so ship it! Put it on an media streamer box or router and sell it to customers.')
+Item(by='kazinator', descendants=None, kids=[25651076], score=None, time=1609836062, title=None, item_type='comment', url=None, parent=25643086, text='... and if it links, it must work, so ship it! Put it on an media streamer box or router and sell it to customers.')

@@ -1,1 +1,1 @@
-Item(by='robbyt', descendants=None, kids=None, score=None, time=1609857971, title=None, item_type='comment', url=None, parent=25643514, text='I just found out about k6, and I&#x27;m wondering why it&#x27;s better than jmeter?')
+Item(by='robbyt', descendants=None, kids=[25647349, 25649141], score=None, time=1609857971, title=None, item_type='comment', url=None, parent=25643514, text='I just found out about k6, and I&#x27;m wondering why it&#x27;s better than jmeter?')

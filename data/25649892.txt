@@ -1,0 +1,1 @@
+Item(by='prepperdev', descendants=None, kids=None, score=None, time=1609875133, title=None, item_type='comment', url=None, parent=25649808, text='That&#x27;s not necessarily true. If your organization has tens of repositories with multiple important branches in each, all odds that at least some of those branches are lost.<p>Proper backups of all repos are an answer, of course.')

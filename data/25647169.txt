@@ -1,0 +1,1 @@
+Item(by='apignotti', descendants=None, kids=[25647204], score=None, time=1609864259, title=None, item_type='comment', url=None, parent=25647037, text='This is a surprisingly common question. What you see is a standard node.js&#x2F;V8 package from Ubuntu with no modification at all. V8 will emit JIT x86 code that will be then further JITted into Wasm if hot enough.')

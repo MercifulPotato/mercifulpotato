@@ -1,0 +1,1 @@
+Item(by='wryoak', descendants=None, kids=None, score=None, time=1609867795, title=None, item_type='comment', url=None, parent=25647143, text='Depends how state is modeled in your application. If you can enumerate the events&#x2F;messages that affect state then you can create sequences of them and permutations thereof to run tests.')

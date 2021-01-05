@@ -1,0 +1,1 @@
+Item(by='skrtskrt', descendants=None, kids=[25650820], score=None, time=1609875320, title=None, item_type='comment', url=None, parent=25648959, text='File embedding is a common enough use case (HTML templates, config files) that it really makes me cringe that it&#x27;s being done with comments.')

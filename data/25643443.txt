@@ -1,1 +1,1 @@
-Item(by='ejanus', descendants=None, kids=None, score=None, time=1609835728, title=None, item_type='comment', url=None, parent=25642661, text='Why is it that I am seeing Clojure everywhere now I am rusty? Any hope for me?')
+Item(by='ejanus', descendants=None, kids=[25649837], score=None, time=1609835728, title=None, item_type='comment', url=None, parent=25642661, text='Why is it that I am seeing Clojure everywhere now I am rusty? Any hope for me?')

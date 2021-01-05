@@ -1,1 +1,1 @@
-Item(by='Jommi', descendants=None, kids=None, score=None, time=1609850620, title=None, item_type='comment', url=None, parent=25642618, text='Yes, and amending by popular vote is the norm. What exactly is the issue here again?')
+Item(by='Jommi', descendants=None, kids=[25648906], score=None, time=1609850620, title=None, item_type='comment', url=None, parent=25642618, text='Yes, and amending by popular vote is the norm. What exactly is the issue here again?')
