@@ -1,1 +1,1 @@
-Item(by='jeffbee', descendants=None, kids=None, score=None, time=1609707525, title=None, item_type='comment', url=None, parent=25625004, text='Sure you are welcome to reimplement C++ in C macros. When your time is worthless anything is possible.')
+Item(by='jeffbee', descendants=None, kids=[25650862], score=None, time=1609707525, title=None, item_type='comment', url=None, parent=25625004, text='Sure you are welcome to reimplement C++ in C macros. When your time is worthless anything is possible.')

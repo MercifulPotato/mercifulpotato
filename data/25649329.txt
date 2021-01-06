@@ -1,1 +1,1 @@
-Item(by='TheGuyWhoCodes', descendants=0, kids=None, score=1, time=1609872743, title='gRPC-Java: Netty is significantly slower than OkHttp', item_type='story', url='https://github.com/grpc/grpc-java/issues/6696', parent=None, text=None)
+Item(by='TheGuyWhoCodes', descendants=0, kids=None, score=2, time=1609872743, title='gRPC-Java: Netty is significantly slower than OkHttp', item_type='story', url='https://github.com/grpc/grpc-java/issues/6696', parent=None, text=None)

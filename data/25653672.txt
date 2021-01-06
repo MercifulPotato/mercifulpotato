@@ -1,0 +1,1 @@
+Item(by='fotta', descendants=None, kids=None, score=None, time=1609896109, title=None, item_type='comment', url=None, parent=25653668, text='Not really any interesting info, seems like an issue with how they provision nodes on their cloud provider (AWS?). I guess you can email them for the full postmortem, although I would&#x27;ve preferred they just posted it.')

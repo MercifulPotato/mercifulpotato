@@ -1,1 +1,1 @@
-Item(by='maxerickson', descendants=None, kids=None, score=None, time=1609871267, title=None, item_type='comment', url=None, parent=25648154, text='Is Youtube infrastructure or publisher?<p>The way ad placement works suggests publisher. Is the scale of that publishing transformative?')
+Item(by='maxerickson', descendants=None, kids=[25652822], score=None, time=1609871267, title=None, item_type='comment', url=None, parent=25648154, text='Is Youtube infrastructure or publisher?<p>The way ad placement works suggests publisher. Is the scale of that publishing transformative?')

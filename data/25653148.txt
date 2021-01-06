@@ -1,0 +1,1 @@
+Item(by='pm90', descendants=None, kids=None, score=None, time=1609891823, title=None, item_type='comment', url=None, parent=25650298, text='Funny. I wanted to try this so I just ran the docker image and it worked. Time spent: 2 mins.<p>docker run -p 8888:8888 jupyter&#x2F;scipy-notebook')

@@ -1,0 +1,1 @@
+Item(by='danielheath', descendants=None, kids=[25652991], score=None, time=1609889974, title=None, item_type='comment', url=None, parent=25651685, text='I’m a big fan of the capability-based photo access in ios; when an app tries to access my photos it opens a system dialog which allows me to select the set of images the app can see.')

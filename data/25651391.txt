@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=None, score=None, time=1609882272, title=None, item_type='comment', url=None, parent=25651286, text='Trying to display at native full screen resolution from a VM is not a great experience. Or at least I couldn&#x27;t achieve that without lag on any hypervisor. On top of that you&#x27;re paying the battery tax because of virtualisation.')

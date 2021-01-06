@@ -1,0 +1,1 @@
+Item(by='ruslan', descendants=None, kids=None, score=None, time=1609892523, title=None, item_type='comment', url=None, parent=25644678, text='I know Yosys has a limited support for System Verilog, but any success synthesizing this using FOSS toolchain ? What features are missing if not successful ?')

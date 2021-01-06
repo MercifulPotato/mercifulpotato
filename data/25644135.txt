@@ -1,1 +1,1 @@
-Item(by='Abishek_Muthian', descendants=None, kids=None, score=None, time=1609843210, title=None, item_type='comment', url=None, parent=25643701, text='Yes, I just wanted to know whether article with more images for SEO is a common knowledge now as the parent comment suggests.')
+Item(by='Abishek_Muthian', descendants=None, kids=[25651061], score=None, time=1609843210, title=None, item_type='comment', url=None, parent=25643701, text='Yes, I just wanted to know whether article with more images for SEO is a common knowledge now as the parent comment suggests.')

@@ -1,0 +1,1 @@
+Item(by='nynx', descendants=None, kids=[25652375, 25651052], score=None, time=1609878888, title=None, item_type='comment', url=None, parent=25649859, text='A significant point of wasm is runtime-independence. If a runtime implements the right apis, any wasm module that uses them should be able to run (performance aside).')

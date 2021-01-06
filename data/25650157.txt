@@ -1,1 +1,1 @@
-Item(by='yew', descendants=None, kids=None, score=None, time=1609876473, title=None, item_type='comment', url=None, parent=25649823, text='<i>No one</i> is being censored. Deplatforming isn&#x27;t censorship. They&#x27;ve merely shown a disagreeable customer out the door.')
+Item(by='yew', descendants=None, kids=[25650799], score=None, time=1609876473, title=None, item_type='comment', url=None, parent=25649823, text='<i>No one</i> is being censored. Deplatforming isn&#x27;t censorship. They&#x27;ve merely shown a disagreeable customer out the door.')

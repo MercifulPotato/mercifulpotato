@@ -1,0 +1,1 @@
+Item(by='whatshisface', descendants=None, kids=None, score=None, time=1609889764, title=None, item_type='comment', url=None, parent=25652694, text='It takes O(n) to check if a chess game follows the rules, and to check who wins. Same for checking a proof written in CoQ. What do you mean by &quot;check?&quot;')

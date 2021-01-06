@@ -1,1 +1,1 @@
-Item(by='enkid', descendants=None, kids=None, score=None, time=1609875859, title=None, item_type='comment', url=None, parent=25650003, text='Some places parking ticket is revenue, some places it&#x27;s just a reminder.')
+Item(by='enkid', descendants=None, kids=[25652576], score=None, time=1609875859, title=None, item_type='comment', url=None, parent=25650003, text='Some places parking ticket is revenue, some places it&#x27;s just a reminder.')

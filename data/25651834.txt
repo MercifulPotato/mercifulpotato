@@ -1,0 +1,1 @@
+Item(by='Ekaros', descendants=None, kids=[25652799, 25652777], score=None, time=1609884347, title=None, item_type='comment', url=None, parent=25651530, text='Let&#x27;s use Watt-Seconds to simplify things.<p>3000W * 0.63s = 1890 Ws<p>1.63W * 1200s = 1956 Ws<p>Near enough the same. Watt is unit of power, Watt-hour is unit of energy.')

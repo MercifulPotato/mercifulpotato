@@ -1,0 +1,1 @@
+Item(by='marcan_42', descendants=None, kids=[25652169], score=None, time=1609883733, title=None, item_type='comment', url=None, parent=25651451, text='I don&#x27;t think recent Intel macs even support &quot;Boot Camp&quot; (CSM) any more. You need to go through UEFI, Boot Camp now is just a software wizard for getting UEFI Windows installed.')

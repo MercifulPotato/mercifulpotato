@@ -1,1 +1,1 @@
-Item(by='H1Supreme', descendants=None, kids=None, score=None, time=1609868321, title=None, item_type='comment', url=None, parent=25647959, text='This is purely anecdotal, and simply suggests you know Node.js better than Go.')
+Item(by='H1Supreme', descendants=None, kids=[25654521], score=None, time=1609868321, title=None, item_type='comment', url=None, parent=25647959, text='This is purely anecdotal, and simply suggests you know Node.js better than Go.')

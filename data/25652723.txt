@@ -1,0 +1,1 @@
+Item(by='anderspitman', descendants=None, kids=[25653925], score=None, time=1609889300, title=None, item_type='comment', url=None, parent=25652376, text='That&#x27;s unnecessary. I ship my apps as single-file executables that are ready to go. In the worst case you can use a directory like zoom does (on Linux at least) which contains all the libraries and dependencies you need.')

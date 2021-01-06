@@ -1,1 +1,1 @@
-Item(by='el-salvador', descendants=None, kids=None, score=None, time=1609853730, title=None, item_type='comment', url=None, parent=25643717, text='It&#x27;s similar where I live, but with a lower limit... Most transactions over US$100 are required to be linked to your ID number.')
+Item(by='el-salvador', descendants=None, kids=[25653982], score=None, time=1609853730, title=None, item_type='comment', url=None, parent=25643717, text='It&#x27;s similar where I live, but with a lower limit... Most transactions over US$100 are required to be linked to your ID number.')

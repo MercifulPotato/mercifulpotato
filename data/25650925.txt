@@ -1,1 +1,1 @@
-Item(by='stopFalse', descendants=None, kids=None, score=None, time=1609880259, title=None, item_type='comment', url=None, parent=25650537, text='We&#x27;ve seen Apple remove competition from the App Store at will.<p>This is not theoretical.')
+Item(by='stopFalse', descendants=None, kids=[25651829], score=None, time=1609880259, title=None, item_type='comment', url=None, parent=25650537, text='We&#x27;ve seen Apple remove competition from the App Store at will.<p>This is not theoretical.')

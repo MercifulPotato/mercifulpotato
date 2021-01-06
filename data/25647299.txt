@@ -1,1 +1,1 @@
-Item(by='bschne', descendants=0, kids=None, score=3, time=1609864964, title='My Tungsten Cube', item_type='story', url='https://thume.ca/2019/03/03/my-tungsten-cube/', parent=None, text=None)
+Item(by='bschne', descendants=1, kids=[25654214], score=4, time=1609864964, title='My Tungsten Cube', item_type='story', url='https://thume.ca/2019/03/03/my-tungsten-cube/', parent=None, text=None)

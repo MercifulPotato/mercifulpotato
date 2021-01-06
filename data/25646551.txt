@@ -1,1 +1,1 @@
-Item(by='the_only_law', descendants=None, kids=None, score=None, time=1609860813, title=None, item_type='comment', url=None, parent=25641746, text='Wow I completely forgot about this style of game. I always found the concept kinda neat.')
+Item(by='the_only_law', descendants=None, kids=[25652944, 25650542], score=None, time=1609860813, title=None, item_type='comment', url=None, parent=25641746, text='Wow I completely forgot about this style of game. I always found the concept kinda neat.')

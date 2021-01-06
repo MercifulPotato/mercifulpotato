@@ -1,0 +1,1 @@
+Item(by='ricardobeat', descendants=None, kids=None, score=None, time=1609900805, title=None, item_type='comment', url=None, parent=25653442, text='In the linked CLIP paper they say it is trained on 256 GPUs for 2 weeks. No mention of the size of the trained output.')

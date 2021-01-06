@@ -1,0 +1,1 @@
+Item(by='yrimaxi', descendants=None, kids=None, score=None, time=1609886344, title=None, item_type='comment', url=None, parent=25650907, text='Pretty obvious stuff.  Of course GUIDs are more unweildy to read etc. compared to simple auto-incrementing integers.<p>I don’t see a reason to prefix an id with something like `task-`.  I would rather leave it to the display logic.')

@@ -1,1 +1,1 @@
-Item(by='nine_zeros', descendants=None, kids=None, score=None, time=1609801505, title=None, item_type='comment', url=None, parent=25639218, text='Same with India. They could maybe hide cases due to incompetence but news of deaths just cannot be hidden in a country as dense as India.')
+Item(by='nine_zeros', descendants=None, kids=[25653527], score=None, time=1609801505, title=None, item_type='comment', url=None, parent=25639218, text='Same with India. They could maybe hide cases due to incompetence but news of deaths just cannot be hidden in a country as dense as India.')

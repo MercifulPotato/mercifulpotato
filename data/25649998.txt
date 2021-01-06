@@ -1,1 +1,1 @@
-Item(by='wowzers123', descendants=None, kids=None, score=None, time=1609875743, title=None, item_type='comment', url=None, parent=25648035, text='Meh, Tencent owns a huge portion of them. At least there are still good American game dev jobs though.')
+Item(by='wowzers123', descendants=None, kids=[25651635], score=None, time=1609875743, title=None, item_type='comment', url=None, parent=25648035, text='Meh, Tencent owns a huge portion of them. At least there are still good American game dev jobs though.')
