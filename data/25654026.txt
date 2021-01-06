@@ -1,1 +1,1 @@
-Item(by='throwawaygulf', descendants=None, kids=None, score=None, time=1609899589, title=None, item_type='comment', url=None, parent=25653938, text='&quot;They hated him because he told the truth.&quot;<p>I can&#x27;t stand the subway. LIRR on the other hand is quite nice.')
+Item(by='throwawaygulf', descendants=None, kids=[25654721], score=None, time=1609899589, title=None, item_type='comment', url=None, parent=25653938, text='&quot;They hated him because he told the truth.&quot;<p>I can&#x27;t stand the subway. LIRR on the other hand is quite nice.')

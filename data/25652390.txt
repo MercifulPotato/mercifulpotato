@@ -1,1 +1,1 @@
-Item(by='deeviant', descendants=None, kids=None, score=None, time=1609887423, title=None, item_type='comment', url=None, parent=25642182, text='If caffeine is bad for you, why does nearly every study that looks in to tea or coffee drinking find that it reduces all-cause mortality?')
+Item(by='deeviant', descendants=None, kids=[25655811], score=None, time=1609887423, title=None, item_type='comment', url=None, parent=25642182, text='If caffeine is bad for you, why does nearly every study that looks in to tea or coffee drinking find that it reduces all-cause mortality?')

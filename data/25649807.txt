@@ -1,1 +1,1 @@
-Item(by='samrolken', descendants=None, kids=None, score=None, time=1609874726, title=None, item_type='comment', url=None, parent=25649259, text='Apps must be specifically authorized by the user to do so, otherwise they cannot. This process is detailed on the FAQ page.')
+Item(by='samrolken', descendants=None, kids=[25654569], score=None, time=1609874726, title=None, item_type='comment', url=None, parent=25649259, text='Apps must be specifically authorized by the user to do so, otherwise they cannot. This process is detailed on the FAQ page.')

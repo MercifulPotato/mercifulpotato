@@ -1,0 +1,1 @@
+Item(by='enw', descendants=None, kids=None, score=None, time=1609903371, title=None, item_type='comment', url=None, parent=25654349, text='I also find the weather example a bit funny.<p>&quot;Remember kids, if you want to ask for weather, don&#x27;t forget to send the API key from the previous step in an HTTP header named x-rapidapi-key!&quot;')

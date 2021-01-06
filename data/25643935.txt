@@ -1,1 +1,1 @@
-Item(by='bbarnett', descendants=None, kids=None, score=None, time=1609841145, title=None, item_type='comment', url=None, parent=25633967, text='Due to your email address, I hate you.  (<i>Jealousy</i>)')
+Item(by='bbarnett', descendants=None, kids=[25655026], score=None, time=1609841145, title=None, item_type='comment', url=None, parent=25633967, text='Due to your email address, I hate you.  (<i>Jealousy</i>)')

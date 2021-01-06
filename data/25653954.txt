@@ -1,1 +1,1 @@
-Item(by='talles', descendants=1, kids=[25654137], score=8, time=1609898623, title='Doctor Who HiFive – Inventor Coding Kit', item_type='story', url='https://www.hifiveinventor.com/', parent=None, text=None)
+Item(by='talles', descendants=14, kids=[25654729, 25654349, 25654341, 25654137], score=25, time=1609898623, title='Doctor Who HiFive – Inventor Coding Kit', item_type='story', url='https://www.hifiveinventor.com/', parent=None, text=None)

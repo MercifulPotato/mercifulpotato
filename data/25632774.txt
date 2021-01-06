@@ -1,1 +1,1 @@
-Item(by='SilasX', descendants=None, kids=None, score=None, time=1609775117, title=None, item_type='comment', url=None, parent=25626855, text='You think Uber&#x27;s marketing people are extreme outliers compared to the typical large company?')
+Item(by='SilasX', descendants=None, kids=[25654896], score=None, time=1609775117, title=None, item_type='comment', url=None, parent=25626855, text='You think Uber&#x27;s marketing people are extreme outliers compared to the typical large company?')

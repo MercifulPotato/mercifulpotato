@@ -1,1 +1,1 @@
-Item(by='matt_d', descendants=0, kids=None, score=15, time=1609800462, title='Chain loading, not preloading: the dynamic linker as a virtualization vector', item_type='story', url='https://www.cs.kent.ac.uk/people/staff/srk21/blog/2021/01/04/#elf-chain-loading', parent=None, text=None)
+Item(by='matt_d', descendants=1, kids=[25654858], score=36, time=1609800462, title='Chain loading, not preloading: the dynamic linker as a virtualization vector', item_type='story', url='https://www.cs.kent.ac.uk/people/staff/srk21/blog/2021/01/04/#elf-chain-loading', parent=None, text=None)

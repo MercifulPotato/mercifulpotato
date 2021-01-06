@@ -1,1 +1,1 @@
-Item(by='vnchr', descendants=None, kids=None, score=None, time=1609896701, title=None, item_type='comment', url=None, parent=25652744, text='Does that set any precedents?')
+Item(by='vnchr', descendants=None, kids=[25655567], score=None, time=1609896701, title=None, item_type='comment', url=None, parent=25652744, text='Does that set any precedents?')

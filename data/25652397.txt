@@ -1,1 +1,1 @@
-Item(by='W-Stool', descendants=None, kids=None, score=None, time=1609887455, title=None, item_type='comment', url=None, parent=25650094, text='If UPS is not looking over their shoulder, they should be.')
+Item(by='W-Stool', descendants=None, kids=[25655292], score=None, time=1609887455, title=None, item_type='comment', url=None, parent=25650094, text='If UPS is not looking over their shoulder, they should be.')

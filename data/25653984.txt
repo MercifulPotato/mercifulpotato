@@ -1,1 +1,1 @@
-Item(by='nanagojo', descendants=None, kids=[25654023], score=None, time=1609898991, title=None, item_type='comment', url=None, parent=25653455, text='Strange, gradle is just way faster in my use cases. Maven has always been a pain with regards to speed with handling dependencies.')
+Item(by='nanagojo', descendants=None, kids=[25654023, 25654837], score=None, time=1609898991, title=None, item_type='comment', url=None, parent=25653455, text='Strange, gradle is just way faster in my use cases. Maven has always been a pain with regards to speed with handling dependencies.')

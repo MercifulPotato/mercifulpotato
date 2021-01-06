@@ -1,1 +1,1 @@
-Item(by='mnouquet', descendants=0, kids=None, score=2, time=1609872630, title="Emacs: Don't mention non-GNU package archives", item_type='story', url='https://git.savannah.gnu.org/cgit/emacs.git/commit/?id=5daa7a5fd4aced33a2ae016bde5bb37d1d95edf6', parent=None, text=None)
+Item(by='mnouquet', descendants=0, kids=None, score=3, time=1609872630, title="Emacs: Don't mention non-GNU package archives", item_type='story', url='https://git.savannah.gnu.org/cgit/emacs.git/commit/?id=5daa7a5fd4aced33a2ae016bde5bb37d1d95edf6', parent=None, text=None)

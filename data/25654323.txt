@@ -1,1 +1,1 @@
-Item(by='tathougies', descendants=None, kids=None, score=None, time=1609902734, title=None, item_type='comment', url=None, parent=25653264, text='I mean... I agree with you. I like Norway&#x27;s model... Please don&#x27;t be so confrontational.')
+Item(by='tathougies', descendants=None, kids=[25655813], score=None, time=1609902734, title=None, item_type='comment', url=None, parent=25653264, text='I mean... I agree with you. I like Norway&#x27;s model... Please don&#x27;t be so confrontational.')

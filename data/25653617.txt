@@ -1,1 +1,1 @@
-Item(by='gnicholas', descendants=None, kids=None, score=None, time=1609895557, title=None, item_type='comment', url=None, parent=25653221, text='Weird! It’s “How It’s Made” about peanut butter. Many of the episodes have British narration, and I watch them in the US.')
+Item(by='gnicholas', descendants=None, kids=[25654616], score=None, time=1609895557, title=None, item_type='comment', url=None, parent=25653221, text='Weird! It’s “How It’s Made” about peanut butter. Many of the episodes have British narration, and I watch them in the US.')
