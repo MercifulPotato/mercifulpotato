@@ -1,1 +1,1 @@
-Item(by='cageface', descendants=None, kids=None, score=None, time=1609934333, title=None, item_type='comment', url=None, parent=25656881, text='Revise, not throw out entirely.<p>Optimization always adds complexity. Don&#x27;t do it more than necessary.')
+Item(by='cageface', descendants=None, kids=[25657829], score=None, time=1609934333, title=None, item_type='comment', url=None, parent=25656881, text='Revise, not throw out entirely.<p>Optimization always adds complexity. Don&#x27;t do it more than necessary.')

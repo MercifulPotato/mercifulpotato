@@ -1,1 +1,1 @@
-Item(by='pottertheotter', descendants=None, kids=None, score=None, time=1609884174, title=None, item_type='comment', url=None, parent=25651430, text='It&#x27;s a little odd to put a paper on SSRN that is &quot;do not circulate&quot;. I&#x27;m guessing it was left on there by accident.')
+Item(by='pottertheotter', descendants=None, kids=[25658927], score=None, time=1609884174, title=None, item_type='comment', url=None, parent=25651430, text='It&#x27;s a little odd to put a paper on SSRN that is &quot;do not circulate&quot;. I&#x27;m guessing it was left on there by accident.')

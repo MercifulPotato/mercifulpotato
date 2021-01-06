@@ -1,1 +1,1 @@
-Item(by='throwaway744678', descendants=None, kids=None, score=None, time=1609714070, title=None, item_type='comment', url=None, parent=25625764, text='Confirmation here: it works fine on Big Sur too.')
+Item(by='throwaway744678', descendants=None, kids=[25660142], score=None, time=1609714070, title=None, item_type='comment', url=None, parent=25625764, text='Confirmation here: it works fine on Big Sur too.')

@@ -1,1 +1,1 @@
-Item(by='jtdev', descendants=None, kids=None, score=None, time=1609868306, title=None, item_type='comment', url=None, parent=25647959, text='Any examples of Node being faster to write than Go? Did this have anything to do with the plethora of npm packages available?')
+Item(by='jtdev', descendants=None, kids=[25659138], score=None, time=1609868306, title=None, item_type='comment', url=None, parent=25647959, text='Any examples of Node being faster to write than Go? Did this have anything to do with the plethora of npm packages available?')

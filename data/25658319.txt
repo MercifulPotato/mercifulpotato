@@ -1,1 +1,1 @@
-Item(by='Cthulhu_', descendants=None, kids=None, score=None, time=1609945331, title=None, item_type='comment', url=None, parent=25658172, text='That&#x27;s like saying RIP in peace.')
+Item(by='Cthulhu_', descendants=None, kids=[25658697], score=None, time=1609945331, title=None, item_type='comment', url=None, parent=25658172, text='That&#x27;s like saying RIP in peace.')

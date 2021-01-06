@@ -1,0 +1,1 @@
+Item(by='kaba0', descendants=None, kids=None, score=None, time=1609953022, title=None, item_type='comment', url=None, parent=25656664, text='It may be. As far as I know GraalVM can compile it AOT, but I don’t know about it’s performance characteristics.')

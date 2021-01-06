@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1609931485, title=None, item_type='comment', url=None, parent=25656341, text='Of course it is so much faster, it does almost nothing.')
+Item(by='pjmlp', descendants=None, kids=[25662376], score=None, time=1609931485, title=None, item_type='comment', url=None, parent=25656341, text='Of course it is so much faster, it does almost nothing.')

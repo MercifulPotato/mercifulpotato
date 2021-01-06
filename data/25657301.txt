@@ -1,1 +1,1 @@
-Item(by='XCSme', descendants=None, kids=None, score=None, time=1609937914, title=None, item_type='comment', url=None, parent=25653540, text='Where are you hosting it and how much do you pay for it? Do you have a lot of visitors?')
+Item(by='XCSme', descendants=None, kids=[25657696], score=None, time=1609937914, title=None, item_type='comment', url=None, parent=25653540, text='Where are you hosting it and how much do you pay for it? Do you have a lot of visitors?')

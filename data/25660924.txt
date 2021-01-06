@@ -1,0 +1,1 @@
+Item(by='jayd16', descendants=None, kids=[25661009], score=None, time=1609959674, title=None, item_type='comment', url=None, parent=25660754, text='Its a little confusing because they&#x27;re conflating the idea that you almost certainly read at least the entire word (and not a single byte) at a time with the other idea that you could fetch multiple words concurrently.')

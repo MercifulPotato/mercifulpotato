@@ -1,0 +1,1 @@
+Item(by='erickj', descendants=None, kids=None, score=None, time=1609960132, title=None, item_type='comment', url=None, parent=25660844, text='&quot;You can implement e2e tests with network emulation (e.g. using iptables&#x2F;iptraf)&quot;<p>or via network isolation through networking namespaces (e.g. with podman and lxc)')

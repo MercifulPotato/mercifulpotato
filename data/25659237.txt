@@ -1,0 +1,1 @@
+Item(by='kube-system', descendants=None, kids=[25659734], score=None, time=1609950919, title=None, item_type='comment', url=None, parent=25656704, text='FWIW I think they&#x27;ve got QEMU baked in to docker desktop to emulate x86.  But I&#x27;ve just been using a remote docker daemon.')

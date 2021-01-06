@@ -1,0 +1,1 @@
+Item(by='lilyball', descendants=None, kids=[25660769], score=None, time=1609958442, title=None, item_type='comment', url=None, parent=25660626, text='Is it possibly exposed via sysctl, which does support a flag to list all variables?')

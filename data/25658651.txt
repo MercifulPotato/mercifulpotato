@@ -1,0 +1,1 @@
+Item(by='johnisgood', descendants=None, kids=None, score=None, time=1609947686, title=None, item_type='comment', url=None, parent=25658427, text='<p><pre><code>  You have: 1500 mA * hr * 3.7 V\n  You want: kJ\n          * 19.98\n          &#x2F; 0.05005005\n\n  You have: 1500 mA * hr * 3.7 V\n  You want: watt * hours\n          * 5.55\n          &#x2F; 0.18018018</code></pre>')

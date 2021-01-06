@@ -1,0 +1,1 @@
+Item(by='fuy', descendants=None, kids=None, score=None, time=1609965316, title=None, item_type='comment', url=None, parent=25659316, text='Could you elaborate on &quot;using cursors&quot; part? Are you talking about database-level cursors? If so, do you know any resources which cover this approach?')

@@ -1,1 +1,1 @@
-Item(by='comeonseriously', descendants=None, kids=None, score=None, time=1609940673, title=None, item_type='comment', url=None, parent=25654222, text='&gt; Maps → Apple maps<p>HERE Maps is good.')
+Item(by='comeonseriously', descendants=None, kids=[25659373], score=None, time=1609940673, title=None, item_type='comment', url=None, parent=25654222, text='&gt; Maps → Apple maps<p>HERE Maps is good.')

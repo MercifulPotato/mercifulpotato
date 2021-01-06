@@ -1,1 +1,1 @@
-Item(by='duskwuff', descendants=None, kids=None, score=None, time=1609919673, title=None, item_type='comment', url=None, parent=25653322, text='&gt; free (AFAIK)<p>Google requires developers to pay them $5, once, before they can upload extensions to the web store.')
+Item(by='duskwuff', descendants=None, kids=[25658065], score=None, time=1609919673, title=None, item_type='comment', url=None, parent=25653322, text='&gt; free (AFAIK)<p>Google requires developers to pay them $5, once, before they can upload extensions to the web store.')

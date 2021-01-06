@@ -1,1 +1,1 @@
-Item(by='undreren', descendants=0, kids=None, score=5, time=1609922039, title='The Future Might Be Influencing the Past', item_type='story', url='https://www.sciencealert.com/quantum-physics-theory-predicts-future-might-influence-the-past-retrocausality', parent=None, text=None)
+Item(by='undreren', descendants=1, kids=[25659918], score=6, time=1609922039, title='The Future Might Be Influencing the Past', item_type='story', url='https://www.sciencealert.com/quantum-physics-theory-predicts-future-might-influence-the-past-retrocausality', parent=None, text=None)

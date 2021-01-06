@@ -1,0 +1,1 @@
+Item(by='samjmck', descendants=None, kids=None, score=None, time=1609955854, title=None, item_type='comment', url=None, parent=25660144, text='If you&#x27;re using Firefox tracking protection (which I&#x27;m guessing using DNT as well), then Matomo by default does not track you though. So no, your tracking protections aren&#x27;t being bypassed.')

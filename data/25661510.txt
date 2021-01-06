@@ -1,0 +1,1 @@
+Item(by='jaymzcampbell', descendants=None, kids=[25661670], score=None, time=1609963175, title=None, item_type='comment', url=None, parent=25661286, text='Python also lets you do this, definitley a nice bit of sugar<p>```\nIn [2]: b = 15;\nIn [3]: a = 40 if b == 15 else 99;\nIn [4]: a;\nOut[4]: 40;\n```')

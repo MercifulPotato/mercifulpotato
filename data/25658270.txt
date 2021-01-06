@@ -1,0 +1,1 @@
+Item(by='TurkTurkleton', descendants=None, kids=None, score=None, time=1609945019, title=None, item_type='comment', url=None, parent=25658232, text='It is.  The unit Kelvin is equal to the degree Celsius.  If you want to convert temperatures, you need to use tempK and tempC:<p><pre><code>    You have: tempK(1)\n    You want: tempC\n            -272.15</code></pre>')

@@ -1,1 +1,1 @@
-Item(by='cbmuser', descendants=None, kids=None, score=None, time=1609815537, title=None, item_type='comment', url=None, parent=25640022, text='I agree. They should probably just start charging an entrance fee. It’s just way too crowded.<p>Or find a larger venue.')
+Item(by='cbmuser', descendants=None, kids=[25659160], score=None, time=1609815537, title=None, item_type='comment', url=None, parent=25640022, text='I agree. They should probably just start charging an entrance fee. It’s just way too crowded.<p>Or find a larger venue.')

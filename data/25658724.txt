@@ -1,0 +1,1 @@
+Item(by='dhosek', descendants=None, kids=None, score=None, time=1609948176, title=None, item_type='comment', url=None, parent=25658576, text='That&#x27;s not how it works. The definition of linear used in this context requires f(a+b) = f(a) + f(b) which is not the case with the C to K translation which is f(x) = x + 273.15 Only functions in the form y=mx+0 meet the criteria.')

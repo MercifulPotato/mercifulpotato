@@ -1,0 +1,1 @@
+Item(by='whoisburbansky', descendants=None, kids=None, score=None, time=1609959974, title=None, item_type='comment', url=None, parent=25660957, text='The concepts are still broadly valid, the naivety being referred to is the assumption that two non adjacent memory reads will be twice as slow as one memory read or two adjacent reads.')

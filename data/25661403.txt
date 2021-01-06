@@ -1,0 +1,1 @@
+Item(by='KSS42', descendants=None, kids=[25661574], score=None, time=1609962477, title=None, item_type='comment', url=None, parent=25661286, text='Verilog has a conditional operator ?:<p>condition ? value_if_true : value_if_false<p>It is used quite extensively in ASIC design.')

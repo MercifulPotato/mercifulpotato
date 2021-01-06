@@ -1,1 +1,1 @@
-Item(by='sneak', descendants=None, kids=None, score=None, time=1609938146, title=None, item_type='comment', url=None, parent=25650795, text='Does anyone know how to get it to show the full referer URL? I use a self hosted Matomo and it only shows the referer domain.')
+Item(by='sneak', descendants=None, kids=[25660064], score=None, time=1609938146, title=None, item_type='comment', url=None, parent=25650795, text='Does anyone know how to get it to show the full referer URL? I use a self hosted Matomo and it only shows the referer domain.')

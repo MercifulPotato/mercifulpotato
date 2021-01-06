@@ -1,0 +1,1 @@
+Item(by='lrossi', descendants=None, kids=[25660497], score=None, time=1609956676, title=None, item_type='comment', url=None, parent=25659615, text='Shouldn’t you choose the random numbers such that array[idx1] ^ array[idx1 + 1] are guaranteed to fall in the same cache line? Assuming that it has that. Right now some accesses cross the end of the cache line.')

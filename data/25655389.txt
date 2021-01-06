@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1609917692, title=None, item_type='comment', url=None, parent=25650812, text='Just like the non-PC vertical integrated platforms were at the time.')
+Item(by='pjmlp', descendants=None, kids=[25659208], score=None, time=1609917692, title=None, item_type='comment', url=None, parent=25650812, text='Just like the non-PC vertical integrated platforms were at the time.')
