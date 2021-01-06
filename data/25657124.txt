@@ -1,0 +1,1 @@
+Item(by='jimsmart', descendants=None, kids=None, score=None, time=1609936349, title=None, item_type='comment', url=None, parent=25656847, text='I like this programming style, personally. The pattern of having helper funcs as well as class&#x2F;struct methods, which is most appropriate, is a pattern I seem to see quite frequently with Go code.')

@@ -1,0 +1,1 @@
+Item(by='nextos', descendants=None, kids=None, score=None, time=1609935870, title=None, item_type='comment', url=None, parent=25655009, text='While I prefer declarative languages, it is also interesting to note very simple imperative languages are often the easiest to verify formally (as transition systems).')

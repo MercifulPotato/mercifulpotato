@@ -1,1 +1,1 @@
-Item(by='codr7', descendants=None, kids=None, score=None, time=1609897713, title=None, item_type='comment', url=None, parent=25653832, text='I can&#x27;t see why not, though I honestly fail to see the point.')
+Item(by='codr7', descendants=None, kids=[25656572], score=None, time=1609897713, title=None, item_type='comment', url=None, parent=25653832, text='I can&#x27;t see why not, though I honestly fail to see the point.')

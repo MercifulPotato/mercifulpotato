@@ -1,1 +1,1 @@
-Item(by='anoncake', descendants=None, kids=None, score=None, time=1609862596, title=None, item_type='comment', url=None, parent=25642814, text='If people don&#x27;t understand that publishing their location makes their location public, that&#x27;s on them.')
+Item(by='anoncake', descendants=None, kids=[25656336], score=None, time=1609862596, title=None, item_type='comment', url=None, parent=25642814, text='If people don&#x27;t understand that publishing their location makes their location public, that&#x27;s on them.')

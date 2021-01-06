@@ -1,1 +1,1 @@
-Item(by='DennisP', descendants=None, kids=None, score=None, time=1609884640, title=None, item_type='comment', url=None, parent=25650951, text='One difference between rollups and sidechains is that with rollups the essential data is stored on the main chain, in compressed form.')
+Item(by='DennisP', descendants=None, kids=[25658139], score=None, time=1609884640, title=None, item_type='comment', url=None, parent=25650951, text='One difference between rollups and sidechains is that with rollups the essential data is stored on the main chain, in compressed form.')

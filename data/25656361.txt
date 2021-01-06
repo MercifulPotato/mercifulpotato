@@ -1,0 +1,1 @@
+Item(by='shakna', descendants=None, kids=None, score=None, time=1609928478, title=None, item_type='comment', url=None, parent=25656072, text='BSD jails? I&#x27;d be quite confident running possibly dangerous code in one of the most restricted jail configs. Processes can&#x27;t interact, can&#x27;t access outside their given directories, can&#x27;t modify devices, etc.')

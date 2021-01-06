@@ -1,1 +1,1 @@
-Item(by='eutectic', descendants=None, kids=None, score=None, time=1609914364, title=None, item_type='comment', url=None, parent=25654449, text='Oops, *mega, obviously! But I did mean watts.')
+Item(by='eutectic', descendants=None, kids=[25657423], score=None, time=1609914364, title=None, item_type='comment', url=None, parent=25654449, text='Oops, *mega, obviously! But I did mean watts.')

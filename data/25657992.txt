@@ -1,0 +1,1 @@
+Item(by='netrus', descendants=None, kids=None, score=None, time=1609943121, title=None, item_type='comment', url=None, parent=25657859, text='Not sure what GP is thinking of, but type checking for Excel would be really nice:<p>ERR: A1 is USD&#x2F;month, B1 is USD&#x2F;user, so you cannot calculate A1+B1!')

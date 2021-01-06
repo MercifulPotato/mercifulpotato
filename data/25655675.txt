@@ -1,1 +1,1 @@
-Item(by='jenkinsj', descendants=0, kids=None, score=3, time=1609921021, title='Bitcoin has $229 Trillion in 24 Hour Volume', item_type='story', url='https://coinmarketcap.com/currencies/volume/24-hour', parent=None, text=None)
+Item(by='jenkinsj', descendants=1, kids=[25655727], score=3, time=1609921021, title='Bitcoin has $229 Trillion in 24 Hour Volume', item_type='story', url='https://coinmarketcap.com/currencies/volume/24-hour', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='elygre', descendants=None, kids=None, score=None, time=1609915839, title=None, item_type='comment', url=None, parent=25654837, text='Are you saying that it takes 2-3 minutes to start the grade daemon? That sounds weird.')
+Item(by='elygre', descendants=None, kids=[25656014], score=None, time=1609915839, title=None, item_type='comment', url=None, parent=25654837, text='Are you saying that it takes 2-3 minutes to start the grade daemon? That sounds weird.')

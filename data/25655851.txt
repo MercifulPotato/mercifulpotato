@@ -1,1 +1,1 @@
-Item(by='dorkwood', descendants=None, kids=None, score=None, time=1609922935, title=None, item_type='comment', url=None, parent=25655723, text='Do many people grow up with a love of math due to this common practice, though? I would have thought the opposite.')
+Item(by='dorkwood', descendants=None, kids=[25656023], score=None, time=1609922935, title=None, item_type='comment', url=None, parent=25655723, text='Do many people grow up with a love of math due to this common practice, though? I would have thought the opposite.')

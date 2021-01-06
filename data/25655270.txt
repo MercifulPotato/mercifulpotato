@@ -1,1 +1,1 @@
-Item(by='mgh2', descendants=0, kids=None, score=2, time=1609916066, title='Amazon plots a course into the healthcare industry', item_type='story', url='https://www.bbc.com/news/business-55228999', parent=None, text=None)
+Item(by='mgh2', descendants=1, kids=[25655801], score=2, time=1609916066, title='Amazon plots a course into the healthcare industry', item_type='story', url='https://www.bbc.com/news/business-55228999', parent=None, text=None)

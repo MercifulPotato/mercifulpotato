@@ -1,0 +1,1 @@
+Item(by='dyeje', descendants=None, kids=None, score=None, time=1609940206, title=None, item_type='comment', url=None, parent=25647143, text='_Why_ do you need to test all potential combinations? Just test the critical paths, setup error tracking, and handle the longtail of bugs as they come up. Unless you&#x27;re building a moon rover this level of granularity is unnecessary.')

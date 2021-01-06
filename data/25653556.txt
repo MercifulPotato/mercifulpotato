@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=None, score=None, time=1609894933, title=None, item_type='comment', url=None, parent=25652358, text='My shop is also all x86 in the cloud... but I took the plunge anyway.  I&#x27;m glad I did; Rosetta 2 works really well.')
+Item(by='kube-system', descendants=None, kids=[25656704], score=None, time=1609894933, title=None, item_type='comment', url=None, parent=25652358, text='My shop is also all x86 in the cloud... but I took the plunge anyway.  I&#x27;m glad I did; Rosetta 2 works really well.')

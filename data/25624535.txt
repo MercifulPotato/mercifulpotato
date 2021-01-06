@@ -1,1 +1,1 @@
-Item(by='wmf', descendants=None, kids=None, score=None, time=1609703184, title=None, item_type='comment', url=None, parent=25624194, text='Yes, PCs used to use parity memory.')
+Item(by='wmf', descendants=None, kids=[25656856], score=None, time=1609703184, title=None, item_type='comment', url=None, parent=25624194, text='Yes, PCs used to use parity memory.')

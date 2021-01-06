@@ -1,0 +1,1 @@
+Item(by='hospadar', descendants=None, kids=None, score=None, time=1609942033, title=None, item_type='comment', url=None, parent=25657588, text='row_number() !<p>As in:\nSELECT * FROM (SELECT *, \nrow_number() OVER (order by &lt;some column - primary key column would be a good choice&gt;) as rowidx FROM your_table) as numbered WHERE rowidx &gt; ? AND rowid &lt; ?')

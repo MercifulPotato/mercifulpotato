@@ -1,0 +1,1 @@
+Item(by='efdee', descendants=None, kids=None, score=None, time=1609942491, title=None, item_type='comment', url=None, parent=25657856, text='I remember once writing an IRC script for Microsoft&#x27;s IrcX implementation that unmasked a masked IP, literally one character at a time. Sometimes these things are by design. :-)')

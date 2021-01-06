@@ -1,0 +1,1 @@
+Item(by='legerdemain', descendants=None, kids=None, score=None, time=1609924100, title=None, item_type='comment', url=None, parent=25654429, text='You can download the source build of Gradle and get autocomplete for the Groovy DSL as well. Just change `distributionUrl` to the `-all` build of Gradle in your project&#x27;s gradle-wrapper.properties.')

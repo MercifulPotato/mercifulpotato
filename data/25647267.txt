@@ -1,1 +1,1 @@
-Item(by='csours', descendants=None, kids=None, score=None, time=1609864831, title=None, item_type='comment', url=None, parent=25646387, text='Did you mean to sound reductionist? Just because something is fun and interesting doesn&#x27;t mean it&#x27;s easy.')
+Item(by='csours', descendants=None, kids=[25658122], score=None, time=1609864831, title=None, item_type='comment', url=None, parent=25646387, text='Did you mean to sound reductionist? Just because something is fun and interesting doesn&#x27;t mean it&#x27;s easy.')
