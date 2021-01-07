@@ -1,1 +1,1 @@
-Item(by='delaaxe', descendants=None, kids=None, score=None, time=1609964309, title=None, item_type='comment', url=None, parent=25661732, text='But then why not use the DEXes directy?')
+Item(by='delaaxe', descendants=None, kids=[25662077], score=None, time=1609964309, title=None, item_type='comment', url=None, parent=25661732, text='But then why not use the DEXes directy?')

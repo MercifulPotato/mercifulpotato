@@ -1,1 +1,1 @@
-Item(by='dorianmariefr', descendants=None, kids=None, score=None, time=1609953980, title=None, item_type='comment', url=None, parent=25657198, text='I love how the co-founder is doing tours in the online demo')
+Item(by='dorianmariefr', descendants=None, kids=[25663340], score=None, time=1609953980, title=None, item_type='comment', url=None, parent=25657198, text='I love how the co-founder is doing tours in the online demo')

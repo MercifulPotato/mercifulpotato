@@ -1,0 +1,1 @@
+Item(by='manfredo', descendants=None, kids=None, score=None, time=1609998369, title=None, item_type='comment', url=None, parent=25667570, text='Interesting, so validation of the parity bits occurs in the CPU? Presumably when data is read off the bus.')

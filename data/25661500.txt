@@ -1,1 +1,1 @@
-Item(by='waldrews', descendants=None, kids=None, score=None, time=1609963116, title=None, item_type='comment', url=None, parent=25659865, text='Curious how logic programming fits in with the rest of that list?')
+Item(by='waldrews', descendants=None, kids=[25662605], score=None, time=1609963116, title=None, item_type='comment', url=None, parent=25659865, text='Curious how logic programming fits in with the rest of that list?')

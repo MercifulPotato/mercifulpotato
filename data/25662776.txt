@@ -1,1 +1,1 @@
-Item(by='danaris', descendants=None, kids=None, score=None, time=1609968562, title=None, item_type='comment', url=None, parent=25661515, text='And (genuine question) how do the Tiger Lake laptops compare with the M1 MacBooks thus far?')
+Item(by='danaris', descendants=None, kids=[25663094, 25663221, 25666053], score=None, time=1609968562, title=None, item_type='comment', url=None, parent=25661515, text='And (genuine question) how do the Tiger Lake laptops compare with the M1 MacBooks thus far?')

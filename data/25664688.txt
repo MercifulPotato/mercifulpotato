@@ -1,0 +1,1 @@
+Item(by='pstrateman', descendants=None, kids=[25664808], score=None, time=1609977852, title=None, item_type='comment', url=None, parent=25663729, text='The context switching thing is the biggest.<p>If you have something that&#x27;s just making a huge number of syscall&#x27;s in a tight loop the mitigations absolutely dumpster performance.')

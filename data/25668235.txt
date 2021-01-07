@@ -1,0 +1,1 @@
+Item(by='ivanb', descendants=None, kids=None, score=None, time=1610004534, title=None, item_type='comment', url=None, parent=25655650, text='If the main benefit of prefixed IDs is debugging then a dev tool can be created that would just look up the ID in all tables and report what object it corresponds to.')

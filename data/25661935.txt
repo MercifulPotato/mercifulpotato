@@ -1,1 +1,1 @@
-Item(by='kgwxd', descendants=None, kids=None, score=None, time=1609964795, title=None, item_type='comment', url=None, parent=25661286, text='Clojure: (def a (if (= b 15) 40 99))')
+Item(by='kgwxd', descendants=None, kids=None, score=None, time=1609964795, title=None, item_type='comment', url=None, parent=25661286, text='Clojure: (def a (if (= b 15) 40 99))<p>Also: (def a (cond (= b 15) 40 (= b 20) 50 :else 99))')

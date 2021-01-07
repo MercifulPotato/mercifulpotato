@@ -1,0 +1,1 @@
+Item(by='phkahler', descendants=None, kids=None, score=None, time=1609978374, title=None, item_type='comment', url=None, parent=25661418, text='That array is indexed by an array of random numbers and there are only 3M of them. That should be enough assuming even 4 bytes per index it will just fit in the 12MB cache, but then there are accesses to the big array as well.')

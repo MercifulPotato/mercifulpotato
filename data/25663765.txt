@@ -1,0 +1,1 @@
+Item(by='mrob', descendants=None, kids=None, score=None, time=1609973341, title=None, item_type='comment', url=None, parent=25660944, text='I tried it on my old (2009) 2.5GHz Phenom II X4 905e (GCC 10.2.1 -O3, 64 bit) and got results almost perfectly matching the conventional wisdom:<p><pre><code>  two  : 97.4 ns\n  two+  : 97.9 ns\n  three: 145.8 ns</code></pre>')

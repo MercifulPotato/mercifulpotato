@@ -1,0 +1,1 @@
+Item(by='jandrese', descendants=None, kids=[25666050], score=None, time=1609969283, title=None, item_type='comment', url=None, parent=25661984, text='On the 2600 if it saved you a byte or two it was a big win.  Remember your program had to fit in <i>64 bytes</i> of memory.  Not kilobytes, single bytes.  And your numbers are BCD encoded, so they&#x27;re extra inefficient.')

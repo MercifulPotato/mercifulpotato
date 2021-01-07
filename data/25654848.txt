@@ -1,0 +1,1 @@
+Item(by='grishka', descendants=None, kids=None, score=None, time=1609910061, title=None, item_type='comment', url=None, parent=25650775, text='If you mean pixel density, then sure it can be made scalable by using vector graphics or using several different dpi variants of assets. All without changing visual appearance even. Apple managed to do this exact thing in 2012.')

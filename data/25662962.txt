@@ -1,1 +1,1 @@
-Item(by='dcolkitt', descendants=None, kids=None, score=None, time=1609969298, title=None, item_type='comment', url=None, parent=25661682, text='Interesting point. This would suggest pretty sizable synergies from the oft-rumored Microsoft acquisition of Intel.')
+Item(by='dcolkitt', descendants=None, kids=[25663680, 25663517], score=None, time=1609969298, title=None, item_type='comment', url=None, parent=25661682, text='Interesting point. This would suggest pretty sizable synergies from the oft-rumored Microsoft acquisition of Intel.')

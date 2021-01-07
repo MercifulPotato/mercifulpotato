@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1609887271, title=None, item_type='comment', url=None, parent=25649739, text='But will you notice if the webcam captures one frame and the led flashes for 1&#x2F;60th of a second?')
+Item(by='tinus_hn', descendants=None, kids=[25668204], score=None, time=1609887271, title=None, item_type='comment', url=None, parent=25649739, text='But will you notice if the webcam captures one frame and the led flashes for 1&#x2F;60th of a second?')

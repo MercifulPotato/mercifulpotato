@@ -1,1 +1,1 @@
-Item(by='mhh__', descendants=None, kids=None, score=None, time=1609966680, title=None, item_type='comment', url=None, parent=25661474, text='No citation yet but apparently MSNBC are reporting an IED has been found.<p>MQ-9 time at this point...')
+Item(by='mhh__', descendants=None, kids=[25662864], score=None, time=1609966680, title=None, item_type='comment', url=None, parent=25661474, text='No citation yet but apparently MSNBC are reporting an IED has been found.<p>MQ-9 time at this point...')

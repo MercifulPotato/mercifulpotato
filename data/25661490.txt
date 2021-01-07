@@ -1,1 +1,1 @@
-Item(by='apress', descendants=0, kids=None, score=17, time=1609963066, title='US Capitol breached as Trump supporters clash with police', item_type='story', url='https://apnews.com/article/2f56a611445df15fb9640893bb9f7a93', parent=None, text=None)
+Item(by='apress', descendants=1, kids=[25663174, 25662040], score=36, time=1609963066, title='US Capitol breached as Trump supporters clash with police', item_type='story', url='https://apnews.com/article/2f56a611445df15fb9640893bb9f7a93', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='djur', descendants=None, kids=None, score=None, time=1609969519, title=None, item_type='comment', url=None, parent=25659474, text='It&#x27;s just showing the inverse. It makes more sense if you don&#x27;t enter a number for the first unit:<p><pre><code>   You have: kg&#x2F;day\n   You want: lb&#x2F;hr\n * 0.091859276\n &#x2F; 10.886217</code></pre>')

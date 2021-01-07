@@ -1,1 +1,1 @@
-Item(by='chojeen', descendants=None, kids=None, score=None, time=1609957576, title=None, item_type='comment', url=None, parent=25658098, text='Do people have any pride? Why would you subject yourself to this?')
+Item(by='chojeen', descendants=None, kids=[25667283], score=None, time=1609957576, title=None, item_type='comment', url=None, parent=25658098, text='Do people have any pride? Why would you subject yourself to this?')

@@ -1,0 +1,1 @@
+Item(by='edoceo', descendants=None, kids=None, score=None, time=1609975735, title=None, item_type='comment', url=None, parent=25652575, text='Just had a similar project. Spent loads of time replacing %d with %s in printf and \\d to \\w in regex.  Tedious! All from design choices in 2013.')

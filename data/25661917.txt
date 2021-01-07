@@ -1,1 +1,1 @@
-Item(by='visox', descendants=None, kids=None, score=None, time=1609964720, title=None, item_type='comment', url=None, parent=25659985, text='nice, what is actually needed to crawl onion sites ?<p>i am not a go dev, would try it with scala&#x2F;java')
+Item(by='visox', descendants=None, kids=[25663779], score=None, time=1609964720, title=None, item_type='comment', url=None, parent=25659985, text='nice, what is actually needed to crawl onion sites ?<p>i am not a go dev, would try it with scala&#x2F;java')

@@ -1,0 +1,1 @@
+Item(by='boogies', descendants=None, kids=None, score=None, time=1609970622, title=None, item_type='comment', url=None, parent=25661565, text='Or just something like<p><pre><code>  0 0 * * * nice -n 19 &#x2F;usr&#x2F;bin&#x2F;units_cur\n</code></pre>\nfor *BSD crontabs or both HN users (besides me) who prefer systemd-free distros of GNU')

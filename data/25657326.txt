@@ -1,1 +1,1 @@
-Item(by='paul_f', descendants=None, kids=None, score=None, time=1609938062, title=None, item_type='comment', url=None, parent=25654883, text='You are not Ryanair&#x27;s customer. I don&#x27;t think that bothers them.')
+Item(by='paul_f', descendants=None, kids=[25665635], score=None, time=1609938062, title=None, item_type='comment', url=None, parent=25654883, text='You are not Ryanair&#x27;s customer. I don&#x27;t think that bothers them.')

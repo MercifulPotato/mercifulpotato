@@ -1,0 +1,1 @@
+Item(by='colejohnson66', descendants=None, kids=[25666945, 25666976], score=None, time=1609989256, title=None, item_type='comment', url=None, parent=25666166, text='Doesn’t Spectre&#x2F;Meltdown rely on hyperthreading? In that case, not doing that would stop it, no? Or am I misinformed and it would affect multi core single threaded chips as well?')

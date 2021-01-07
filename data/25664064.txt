@@ -1,0 +1,1 @@
+Item(by='fiddlerwoaroof', descendants=None, kids=None, score=None, time=1609974938, title=None, item_type='comment', url=None, parent=25663082, text='It&#x27;s implementation dependent, but something like this works with sbcl:<p><pre><code>    C-u C-c C-k ;; recompile with (debug 3)\n    (step (some-function))\n</code></pre>\nI also never do this')

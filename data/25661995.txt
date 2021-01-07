@@ -1,1 +1,1 @@
-Item(by='doener', descendants=0, kids=None, score=3, time=1609964989, title="DER Spiegel's New Cover", item_type='story', url='https://twitter.com/stanek_c/status/1346916510309224457', parent=None, text=None)
+Item(by='doener', descendants=4, kids=[25662048, 25662050], score=5, time=1609964989, title="Der Spiegel's June Cover", item_type='story', url='https://twitter.com/stanek_c/status/1346916510309224457', parent=None, text=None)

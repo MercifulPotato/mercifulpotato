@@ -1,1 +1,1 @@
-Item(by='nine_zeros', descendants=None, kids=None, score=None, time=1609963180, title=None, item_type='comment', url=None, parent=25661395, text='I wonder if media will call this a coup much like they label other countries.')
+Item(by='nine_zeros', descendants=None, kids=[25663474], score=None, time=1609963180, title=None, item_type='comment', url=None, parent=25661395, text='I wonder if media will call this a coup much like they label other countries.')

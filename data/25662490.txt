@@ -1,0 +1,1 @@
+Item(by='sedatk', descendants=None, kids=None, score=None, time=1609967165, title=None, item_type='comment', url=None, parent=25661286, text='That&#x27;s very confusing as other BASIC dialects had used the same syntax in lieu of GOTO. `IF B = 15 THEN 40 ELSE 99` would be equivalent to `IF B = 15 THEN GOTO 40 ELSE GOTO 99`.')

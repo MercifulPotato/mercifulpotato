@@ -1,1 +1,1 @@
-Item(by='amelius', descendants=None, kids=None, score=None, time=1609934783, title=None, item_type='comment', url=None, parent=25654182, text='But you&#x27;re sailing along with a false dichotomy. We can have hardware that is safe for mom and dad, <i>and</i> open for professionals.')
+Item(by='amelius', descendants=None, kids=[25664135], score=None, time=1609934783, title=None, item_type='comment', url=None, parent=25654182, text='But you&#x27;re sailing along with a false dichotomy. We can have hardware that is safe for mom and dad, <i>and</i> open for professionals.')

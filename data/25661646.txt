@@ -1,1 +1,1 @@
-Item(by='lbrito', descendants=None, kids=None, score=None, time=1609963707, title=None, item_type='comment', url=None, parent=25661474, text='I wonder how different this headline would be if the latitude of this event was just a few degrees to the south...')
+Item(by='lbrito', descendants=None, kids=[25665697, 25663062, 25664090], score=None, time=1609963707, title=None, item_type='comment', url=None, parent=25661474, text='I wonder how different this headline would be if the latitude of this event was just a few degrees to the south...')

@@ -1,1 +1,1 @@
-Item(by='creekorful', descendants=5, kids=[25661917, 25660044, 25659986], score=5, time=1609954393, title='Show HN: I have written a cloud native dark web crawler in Go', item_type='story', url='https://github.com/creekorful/trandoshan/discussions/122', parent=None, text=None)
+Item(by='creekorful', descendants=6, kids=[25660044, 25659986, 25661917], score=6, time=1609954393, title='Show HN: I have written a cloud native dark web crawler in Go', item_type='story', url='https://github.com/creekorful/trandoshan/discussions/122', parent=None, text=None)
