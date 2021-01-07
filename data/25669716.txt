@@ -1,0 +1,1 @@
+Item(by='scottmcdot', descendants=None, kids=[25670393], score=None, time=1610017809, title=None, item_type='comment', url=None, parent=25668075, text='Someone correct me if I&#x27;m wrong, but can&#x27;t you copy and paste the package folder into your libpath directory and R can load it that way with actually running install.packages()?')

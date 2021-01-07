@@ -1,1 +1,1 @@
-Item(by='toast0', descendants=None, kids=None, score=None, time=1609982512, title=None, item_type='comment', url=None, parent=25665389, text='4) Intel&#x27;s design pipeline is significantly messed up by its 10nm fab issues.')
+Item(by='toast0', descendants=None, kids=[25671546], score=None, time=1609982512, title=None, item_type='comment', url=None, parent=25665389, text='4) Intel&#x27;s design pipeline is significantly messed up by its 10nm fab issues.')

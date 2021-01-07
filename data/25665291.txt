@@ -1,1 +1,1 @@
-Item(by='another_sock', descendants=None, kids=None, score=None, time=1609979686, title=None, item_type='comment', url=None, parent=25665228, text='I think a lot of posts on HN are by people not particularly capable of critical thought.')
+Item(by='another_sock', descendants=None, kids=[25670507], score=None, time=1609979686, title=None, item_type='comment', url=None, parent=25665228, text='I think a lot of posts on HN are by people not particularly capable of critical thought.')

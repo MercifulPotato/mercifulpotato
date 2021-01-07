@@ -1,1 +1,1 @@
-Item(by='danielheath', descendants=None, kids=None, score=None, time=1609993436, title=None, item_type='comment', url=None, parent=25667143, text='I have a test suite that went from 19 minutes to 8 with mitigations=off')
+Item(by='danielheath', descendants=None, kids=[25669124], score=None, time=1609993436, title=None, item_type='comment', url=None, parent=25667143, text='I have a test suite that went from 19 minutes to 8 with mitigations=off')

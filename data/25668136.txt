@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1610003493, title=None, item_type='comment', url=None, parent=25652503, text='Go supports native packages natively via go get, why the hell bring npm into the picture?!?')
+Item(by='pjmlp', descendants=None, kids=[25668830, 25670131], score=None, time=1610003493, title=None, item_type='comment', url=None, parent=25652503, text='Go supports native packages natively via go get, why the hell bring npm into the picture?!?')

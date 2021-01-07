@@ -1,1 +1,1 @@
-Item(by='moomin', descendants=None, kids=None, score=None, time=1609853422, title=None, item_type='comment', url=None, parent=25644552, text='Indeed, OpenSSL was the premier SSL library for years and no-one noticed Heartbleed. Turns out not all bugs are shallow.')
+Item(by='moomin', descendants=None, kids=[25671261], score=None, time=1609853422, title=None, item_type='comment', url=None, parent=25644552, text='Indeed, OpenSSL was the premier SSL library for years and no-one noticed Heartbleed. Turns out not all bugs are shallow.')

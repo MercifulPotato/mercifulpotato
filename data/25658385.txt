@@ -1,1 +1,1 @@
-Item(by='jtbayly', descendants=None, kids=None, score=None, time=1609945831, title=None, item_type='comment', url=None, parent=25657424, text='Why?')
+Item(by='jtbayly', descendants=None, kids=[25668811], score=None, time=1609945831, title=None, item_type='comment', url=None, parent=25657424, text='Why?')

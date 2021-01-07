@@ -1,1 +1,1 @@
-Item(by='jachee', descendants=None, kids=None, score=None, time=1609981047, title=None, item_type='comment', url=None, parent=25665317, text='I also wonder if he still has (ever had?) access to the @PotUS account.')
+Item(by='jachee', descendants=None, kids=[25668840], score=None, time=1609981047, title=None, item_type='comment', url=None, parent=25665317, text='I also wonder if he still has (ever had?) access to the @PotUS account.')

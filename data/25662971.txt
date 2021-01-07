@@ -1,1 +1,1 @@
-Item(by='the-enemy', descendants=0, kids=None, score=15, time=1609969352, title='The Metaphysical Can Opener', item_type='story', url='https://apjjf.org/2020/23/Schodt.html', parent=None, text=None)
+Item(by='the-enemy', descendants=2, kids=[25669825, 25670745], score=29, time=1609969352, title='The Metaphysical Can Opener', item_type='story', url='https://apjjf.org/2020/23/Schodt.html', parent=None, text=None)

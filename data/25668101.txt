@@ -1,1 +1,1 @@
-Item(by='SirHound', descendants=None, kids=None, score=None, time=1610003142, title=None, item_type='comment', url=None, parent=25666249, text='Are they unable to talk on Parler?')
+Item(by='SirHound', descendants=None, kids=[25668903, 25668851], score=None, time=1610003142, title=None, item_type='comment', url=None, parent=25666249, text='Are they unable to talk on Parler?')

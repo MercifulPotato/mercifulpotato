@@ -1,1 +1,1 @@
-Item(by='refurb', descendants=None, kids=None, score=None, time=1609998011, title=None, item_type='comment', url=None, parent=25667460, text='Please don’t report rumors as facts.<p>The only dead person was one of the protestors.')
+Item(by='refurb', descendants=None, kids=[25671043], score=None, time=1609998011, title=None, item_type='comment', url=None, parent=25667460, text='Please don’t report rumors as facts.<p>The only dead person was one of the protestors.')

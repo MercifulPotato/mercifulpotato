@@ -1,1 +1,1 @@
-Item(by='marton78', descendants=None, kids=None, score=None, time=1610005282, title=None, item_type='comment', url=None, parent=25665834, text='Why wouldn&#x27;t it be possible if you live in Germany?')
+Item(by='marton78', descendants=None, kids=[25669163], score=None, time=1610005282, title=None, item_type='comment', url=None, parent=25665834, text='Why wouldn&#x27;t it be possible if you live in Germany?')

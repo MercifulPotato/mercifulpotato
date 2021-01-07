@@ -1,1 +1,1 @@
-Item(by='leetcrew', descendants=None, kids=None, score=None, time=1609947311, title=None, item_type='comment', url=None, parent=25656913, text='&gt; same, best-effort treatment<p>no matter how enlightened the society is, you can still pick at most one of these.')
+Item(by='leetcrew', descendants=None, kids=[25668825], score=None, time=1609947311, title=None, item_type='comment', url=None, parent=25656913, text='&gt; same, best-effort treatment<p>no matter how enlightened the society is, you can still pick at most one of these.')
