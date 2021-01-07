@@ -1,1 +1,1 @@
-Item(by='dev_by_day', descendants=8, kids=[25658561, 25652333, 25653958, 25653780], score=26, time=1609875440, title='Show HN: Command-line-first app for capturing notes and reflections in Markdown', item_type='story', url='https://github.com/automoto/devlog', parent=None, text=None)
+Item(by='dev_by_day', descendants=9, kids=[25658561, 25652333, 25653958, 25653780], score=27, time=1609875440, title='Show HN: Command-line-first app for capturing notes and reflections in Markdown', item_type='story', url='https://github.com/automoto/devlog', parent=None, text=None)

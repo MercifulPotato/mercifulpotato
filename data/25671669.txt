@@ -1,1 +1,1 @@
-Item(by='mchristen', descendants=None, kids=None, score=None, time=1610031105, title=None, item_type='comment', url=None, parent=25670707, text='More than once I&#x27;ve lost a RAID array during a rebuild. That&#x27;s what backups are for, I suppose.')
+Item(by='mchristen', descendants=None, kids=[25673945, 25673222], score=None, time=1610031105, title=None, item_type='comment', url=None, parent=25670707, text='More than once I&#x27;ve lost a RAID array during a rebuild. That&#x27;s what backups are for, I suppose.')

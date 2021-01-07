@@ -1,0 +1,1 @@
+Item(by='nikivi', descendants=None, kids=None, score=None, time=1610040056, title=None, item_type='comment', url=None, parent=25673919, text='How come GitHub isn&#x27;t using Turbolinks then? Because each link transition will reload the page.')

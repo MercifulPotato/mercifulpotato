@@ -1,1 +1,1 @@
-Item(by='smadge', descendants=None, kids=None, score=None, time=1610014131, title=None, item_type='comment', url=None, parent=25668688, text='Extrapolating, the genre of “learn X in 5 minutes” tutorials must only teach you 5% of the language.')
+Item(by='smadge', descendants=None, kids=[25671381], score=None, time=1610014131, title=None, item_type='comment', url=None, parent=25668688, text='Extrapolating, the genre of “learn X in 5 minutes” tutorials must only teach you 5% of the language.')

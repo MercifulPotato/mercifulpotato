@@ -1,1 +1,1 @@
-Item(by='jajjarax', descendants=0, kids=None, score=1, time=1610027617, title='Font previews in command line with Python', item_type='story', url='https://fontpreview.readthedocs.io/en/latest/', parent=None, text=None)
+Item(by='jajjarax', descendants=1, kids=[25671517], score=2, time=1610027617, title='Font previews in command line with Python', item_type='story', url='https://fontpreview.readthedocs.io/en/latest/', parent=None, text=None)

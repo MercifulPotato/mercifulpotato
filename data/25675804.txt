@@ -1,0 +1,1 @@
+Item(by='fiddlerwoaroof', descendants=None, kids=None, score=None, time=1610046964, title=None, item_type='comment', url=None, parent=25675573, text='I’ve only run mbsync unidirectionally as a backup utility (in addition to tarsnap on my Mailserver). I wonder if the bidirectional features just aren’t used that much?<p>Also, Gmail’s tags don’t map nicely onto folders.')

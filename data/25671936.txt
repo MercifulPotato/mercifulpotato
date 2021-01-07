@@ -1,1 +1,1 @@
-Item(by='beerandt', descendants=None, kids=None, score=None, time=1610032354, title=None, item_type='comment', url=None, parent=25671764, text='Yes, but in a way that&#x27;s obvious to other drivers.<p>Driving decisively is more important to overall safety than driving defensively.')
+Item(by='beerandt', descendants=None, kids=[25673097], score=None, time=1610032354, title=None, item_type='comment', url=None, parent=25671764, text='Yes, but in a way that&#x27;s obvious to other drivers.<p>Driving decisively is more important to overall safety than driving defensively.')

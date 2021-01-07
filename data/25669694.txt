@@ -1,1 +1,1 @@
-Item(by='refurb', descendants=None, kids=None, score=None, time=1610017660, title=None, item_type='comment', url=None, parent=25668483, text='Their control is solidifying.  Does that not concern you?')
+Item(by='refurb', descendants=None, kids=[25675003], score=None, time=1610017660, title=None, item_type='comment', url=None, parent=25668483, text='Their control is solidifying.  Does that not concern you?')

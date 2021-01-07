@@ -1,0 +1,1 @@
+Item(by='mslip', descendants=None, kids=None, score=None, time=1610034492, title=None, item_type='comment', url=None, parent=25668674, text='Not really relevant but just to note packrat had been soft-deprecated and is superseded by renv, which comes standard with rstudio.')

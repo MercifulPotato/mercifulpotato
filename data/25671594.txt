@@ -1,1 +1,1 @@
-Item(by='ConceptJunkie', descendants=None, kids=None, score=None, time=1610030765, title=None, item_type='comment', url=None, parent=25657754, text='It&#x27;s a very slow velocity, though.  It&#x27;s best used for things like snails.')
+Item(by='ConceptJunkie', descendants=None, kids=[25672944], score=None, time=1610030765, title=None, item_type='comment', url=None, parent=25657754, text='It&#x27;s a very slow velocity, though.  It&#x27;s best used for things like snails.')

@@ -1,1 +1,1 @@
-Item(by='mmglr', descendants=None, kids=[25668787], score=None, time=1609999776, title=None, item_type='comment', url=None, parent=25663467, text='What are some good tips to minimize the attack surface of my CI&#x2F;CD tool?')
+Item(by='mmglr', descendants=None, kids=[25671962, 25668787], score=None, time=1609999776, title=None, item_type='comment', url=None, parent=25663467, text='What are some good tips to minimize the attack surface of my CI&#x2F;CD tool?')

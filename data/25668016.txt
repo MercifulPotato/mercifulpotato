@@ -1,1 +1,1 @@
-Item(by='Rapzid', descendants=None, kids=None, score=None, time=1610002324, title=None, item_type='comment', url=None, parent=25667736, text='So no, not <i>this</i> century. We are talking about recent events, and the NFAC march from a few months ago.')
+Item(by='Rapzid', descendants=None, kids=[25673074], score=None, time=1610002324, title=None, item_type='comment', url=None, parent=25667736, text='So no, not <i>this</i> century. We are talking about recent events, and the NFAC march from a few months ago.')

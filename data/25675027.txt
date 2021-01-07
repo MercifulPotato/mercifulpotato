@@ -1,0 +1,1 @@
+Item(by='Naac', descendants=None, kids=[25675217], score=None, time=1610043703, title=None, item_type='comment', url=None, parent=25674134, text='The debugger looks neat. Would be nice to have the same micro-IDE for Go, Rust, Ruby, etc. Something like the Jetbrains tools, but open source.')

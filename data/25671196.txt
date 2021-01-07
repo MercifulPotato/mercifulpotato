@@ -1,1 +1,1 @@
-Item(by='janmo', descendants=0, kids=None, score=1, time=1610028697, title="Bitcoin's market cap is now higher than Tesla's", item_type='story', url='https://8marketcap.com/', parent=None, text=None)
+Item(by='janmo', descendants=15, kids=[25671481, 25671531, 25671490, 25671592, 25671487, 25671577], score=14, time=1610028697, title="Bitcoin's market cap is now higher than Tesla's", item_type='story', url='https://8marketcap.com/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='chaganated', descendants=None, kids=None, score=None, time=1610023199, title=None, item_type='comment', url=None, parent=25670019, text='We used to do all of those things with Windows 95, 64M of RAM, and a 2GB hard drive.')
+Item(by='chaganated', descendants=None, kids=[25673871], score=None, time=1610023199, title=None, item_type='comment', url=None, parent=25670019, text='We used to do all of those things with Windows 95, 64M of RAM, and a 2GB hard drive.')

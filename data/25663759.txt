@@ -1,1 +1,1 @@
-Item(by='sneak', descendants=None, kids=None, score=None, time=1609973307, title=None, item_type='comment', url=None, parent=25662763, text='It&#x27;s no longer a burner if you type in payment details to buy stuff, it&#x27;s then linked to your banking identity.')
+Item(by='sneak', descendants=None, kids=[25673117], score=None, time=1609973307, title=None, item_type='comment', url=None, parent=25662763, text='It&#x27;s no longer a burner if you type in payment details to buy stuff, it&#x27;s then linked to your banking identity.')

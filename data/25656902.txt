@@ -1,1 +1,1 @@
-Item(by='Uberphallus', descendants=None, kids=None, score=None, time=1609934118, title=None, item_type='comment', url=None, parent=25656417, text='Vienna is notoriously safe, as any city there are sketchy neighborhoods, but still. Were you there for long? Or just used it at night?')
+Item(by='Uberphallus', descendants=None, kids=[25672335], score=None, time=1609934118, title=None, item_type='comment', url=None, parent=25656417, text='Vienna is notoriously safe, as any city there are sketchy neighborhoods, but still. Were you there for long? Or just used it at night?')

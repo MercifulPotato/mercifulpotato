@@ -1,0 +1,1 @@
+Item(by='egypturnash', descendants=None, kids=None, score=None, time=1610048788, title=None, item_type='comment', url=None, parent=25675593, text='&quot;I looked at static site generators like Jekyll, Hugo, 11ty, but all of these require tooling installed, have a build step and will ultimately need some updates or be abandoned by their maintainer.&quot; - from the article')

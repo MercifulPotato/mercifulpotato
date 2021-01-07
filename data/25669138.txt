@@ -1,1 +1,1 @@
-Item(by='marcus_holmes', descendants=None, kids=None, score=None, time=1610012348, title=None, item_type='comment', url=None, parent=25660269, text='it&#x27;s not &quot;cold hard truth&quot; it&#x27;s a right-wing white-supremacist dog whistle.')
+Item(by='marcus_holmes', descendants=None, kids=[25674500], score=None, time=1610012348, title=None, item_type='comment', url=None, parent=25660269, text='it&#x27;s not &quot;cold hard truth&quot; it&#x27;s a right-wing white-supremacist dog whistle.')
