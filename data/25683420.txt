@@ -1,1 +1,1 @@
-Item(by='signa11', descendants=34, kids=[25685543, 25685527, 25685380, 25684400, 25684173, 25683741, 25684678, 25684003], score=59, time=1610103032, title='Doing Symbolic Math with SymPy', item_type='story', url='https://lwn.net/Articles/840986/', parent=None, text=None)
+Item(by='signa11', descendants=59, kids=[25684400, 25685543, 25684678, 25685527, 25685380, 25684173, 25683741, 25684003, 25686833], score=109, time=1610103032, title='Doing Symbolic Math with SymPy', item_type='story', url='https://lwn.net/Articles/840986/', parent=None, text=None)

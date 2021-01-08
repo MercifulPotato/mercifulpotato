@@ -1,1 +1,1 @@
-Item(by='udfalkso', descendants=None, kids=None, score=None, time=1610116443, title=None, item_type='comment', url=None, parent=25682599, text='Which competitor?')
+Item(by='udfalkso', descendants=None, kids=[25686976], score=None, time=1610116443, title=None, item_type='comment', url=None, parent=25682599, text='Which competitor?')

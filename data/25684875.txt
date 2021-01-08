@@ -1,1 +1,1 @@
-Item(by='ubermonkey', descendants=None, kids=None, score=None, time=1610115099, title=None, item_type='comment', url=None, parent=25684630, text='Yeah, it must be, since I never see any ads in Apple apps on my phone.<p>IOW, this doesn&#x27;t sound like a real reason.')
+Item(by='ubermonkey', descendants=None, kids=[25686053], score=None, time=1610115099, title=None, item_type='comment', url=None, parent=25684630, text='Yeah, it must be, since I never see any ads in Apple apps on my phone.<p>IOW, this doesn&#x27;t sound like a real reason.')

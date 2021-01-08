@@ -1,1 +1,1 @@
-Item(by='almost_usual', descendants=None, kids=None, score=None, time=1610084271, title=None, item_type='comment', url=None, parent=25681435, text='vs the police officer who was bludgeoned to death with a fire extinguisher')
+Item(by='almost_usual', descendants=None, kids=[25685752], score=None, time=1610084271, title=None, item_type='comment', url=None, parent=25681435, text='vs the police officer who was bludgeoned to death with a fire extinguisher')

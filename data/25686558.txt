@@ -1,0 +1,1 @@
+Item(by='cmollis', descendants=None, kids=[25688323], score=None, time=1610124392, title=None, item_type='comment', url=None, parent=25686173, text='how about the difference in cost?  Redshift is pretty expensive.  We use Spark to convert our data to Parquet and Presto to query it (although you can just use Spark to query it also)')

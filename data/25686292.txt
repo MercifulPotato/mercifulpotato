@@ -1,0 +1,1 @@
+Item(by='vmchale', descendants=None, kids=None, score=None, time=1610123222, title=None, item_type='comment', url=None, parent=25684854, text='&gt;  Thanks to laziness, foldr is usually preferred, and it is not tail recursive.<p>With guarded recursion. foldl&#x27; has its place.')

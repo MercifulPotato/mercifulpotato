@@ -1,0 +1,1 @@
+Item(by='tiagod', descendants=None, kids=[25690310, 25690329], score=None, time=1610138861, title=None, item_type='comment', url=None, parent=25689490, text='Does NTP do that, though? I was under the impression it made time slightly faster&#x2F;slower until the point is met, if the difference is small (which it will always be on production servers, in principle)')

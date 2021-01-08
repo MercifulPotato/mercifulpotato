@@ -1,0 +1,1 @@
+Item(by='panzerklein', descendants=None, kids=None, score=None, time=1610127195, title=None, item_type='comment', url=None, parent=25685293, text='Should be easy to isolate objects that haven&#x27;t touched anything yet. Determining when to start isolating already touching objects would be harder. Probably some kind of threshold is needed.')

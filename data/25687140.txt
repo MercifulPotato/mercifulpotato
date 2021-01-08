@@ -1,0 +1,1 @@
+Item(by='ncmncm', descendants=None, kids=None, score=None, time=1610126918, title=None, item_type='comment', url=None, parent=25683230, text='Literally nobody needs to remove signal&#x2F;slots. They just need to replace them with Q_SIGNAL&#x2F;Q_SLOTS.<p>No framework merits new core language keywords.')

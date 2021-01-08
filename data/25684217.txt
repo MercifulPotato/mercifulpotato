@@ -1,1 +1,1 @@
-Item(by='Techbrunch', descendants=0, kids=None, score=1, time=1610110893, title='Universal Ruby 2.x-3.x deserialisation gadget to achieve RCE', item_type='story', url='https://devcraft.io/2021/01/07/universal-deserialisation-gadget-for-ruby-2-x-3-x.html', parent=None, text=None)
+Item(by='Techbrunch', descendants=0, kids=None, score=2, time=1610110893, title='Universal Ruby 2.x-3.x deserialisation gadget to achieve RCE', item_type='story', url='https://devcraft.io/2021/01/07/universal-deserialisation-gadget-for-ruby-2-x-3-x.html', parent=None, text=None)

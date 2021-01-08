@@ -1,0 +1,1 @@
+Item(by='jm_l', descendants=None, kids=None, score=None, time=1610132802, title=None, item_type='comment', url=None, parent=25687656, text='This seems to be using a central server as a relay (which is why they can have n participants). It works pretty well but the latency tends to be too high to actually jam. (Similar to my toy example at piano.jminjie.com)')

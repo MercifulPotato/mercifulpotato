@@ -1,1 +1,1 @@
-Item(by='longdefeat', descendants=0, kids=None, score=24, time=1610078364, title='Now It Can Be Told: How Neil Sheehan Got the Pentagon Papers', item_type='story', url='https://www.nytimes.com/2021/01/07/us/pentagon-papers-neil-sheehan.html', parent=None, text=None)
+Item(by='longdefeat', descendants=2, kids=[25686573, 25685842], score=32, time=1610078364, title='Now It Can Be Told: How Neil Sheehan Got the Pentagon Papers', item_type='story', url='https://www.nytimes.com/2021/01/07/us/pentagon-papers-neil-sheehan.html', parent=None, text=None)

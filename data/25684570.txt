@@ -1,1 +1,1 @@
-Item(by='kryogen1c', descendants=None, kids=None, score=None, time=1610113070, title=None, item_type='comment', url=None, parent=25681517, text='&gt;I strongly agree with his comments in their original context.<p>is the implication that you do not agree within this context?')
+Item(by='kryogen1c', descendants=None, kids=[25685669], score=None, time=1610113070, title=None, item_type='comment', url=None, parent=25681517, text='&gt;I strongly agree with his comments in their original context.<p>is the implication that you do not agree within this context?')

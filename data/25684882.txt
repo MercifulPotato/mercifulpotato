@@ -1,1 +1,1 @@
-Item(by='julienreszka', descendants=0, kids=None, score=1, time=1610115159, title='Ask HN: How do you mitigate the risk of echo chambers?', item_type='story', url=None, parent=None, text=None)
+Item(by='julienreszka', descendants=2, kids=[25685964, 25685060], score=3, time=1610115159, title='Ask HN: How do you mitigate the risk of echo chambers?', item_type='story', url=None, parent=None, text=None)

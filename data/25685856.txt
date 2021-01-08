@@ -1,0 +1,1 @@
+Item(by='MaxBarraclough', descendants=None, kids=[25685993], score=None, time=1610121131, title=None, item_type='comment', url=None, parent=25685787, text='&gt;  RVO are guaranteed as of C++17 and mentioned in your cppreference link.<p>Yes, but other instances of copy-elision are still at the discretion of the compiler, right?')

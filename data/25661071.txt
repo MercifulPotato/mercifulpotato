@@ -1,1 +1,1 @@
-Item(by='adamnemecek', descendants=None, kids=None, score=None, time=1609960412, title=None, item_type='comment', url=None, parent=25659288, text='The inner space of our reality is linear.')
+Item(by='adamnemecek', descendants=None, kids=[25689803], score=None, time=1609960412, title=None, item_type='comment', url=None, parent=25659288, text='The inner space of our reality is linear.')

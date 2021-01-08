@@ -1,1 +1,1 @@
-Item(by='signa11', descendants=37, kids=[25669954, 25670409, 25672778, 25670730, 25670707, 25669843], score=99, time=1609989236, title='Reed-Solomon error recovery in RAID-6', item_type='story', url='http://anadoxin.org/blog/error-recovery-in-raid6.html/', parent=None, text=None)
+Item(by='signa11', descendants=37, kids=[25669954, 25670409, 25672778, 25670730, 25670707, 25669843], score=100, time=1609989236, title='Reed-Solomon error recovery in RAID-6', item_type='story', url='http://anadoxin.org/blog/error-recovery-in-raid6.html/', parent=None, text=None)

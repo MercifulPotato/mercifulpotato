@@ -1,1 +1,1 @@
-Item(by='tasuki', descendants=None, kids=None, score=None, time=1610108049, title=None, item_type='comment', url=None, parent=25680933, text='Fyi I downvoted you because I&#x27;m based outside of the US.')
+Item(by='tasuki', descendants=None, kids=[25688547], score=None, time=1610108049, title=None, item_type='comment', url=None, parent=25680933, text='Fyi I downvoted you because I&#x27;m based outside of the US.')

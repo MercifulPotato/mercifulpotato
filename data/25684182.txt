@@ -1,1 +1,1 @@
-Item(by='KingOfCoders', descendants=None, kids=None, score=None, time=1610110659, title=None, item_type='comment', url=None, parent=25683151, text='Had a 500 and a 4000&#x2F;40 but always found the 1000 the most beautiful.')
+Item(by='KingOfCoders', descendants=None, kids=[25686432], score=None, time=1610110659, title=None, item_type='comment', url=None, parent=25683151, text='Had a 500 and a 4000&#x2F;40 but always found the 1000 the most beautiful.')

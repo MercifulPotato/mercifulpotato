@@ -1,1 +1,1 @@
-Item(by='robjan', descendants=None, kids=None, score=None, time=1610018088, title=None, item_type='comment', url=None, parent=25666228, text='Gold has practical and decorative uses')
+Item(by='robjan', descendants=None, kids=[25688353], score=None, time=1610018088, title=None, item_type='comment', url=None, parent=25666228, text='Gold has practical and decorative uses')

@@ -1,1 +1,1 @@
-Item(by='dunefox', descendants=None, kids=None, score=None, time=1610108256, title=None, item_type='comment', url=None, parent=25681442, text='Do you have an article or the code somewhere for all this? I&#x27;d like to try setting it up as well.')
+Item(by='dunefox', descendants=None, kids=[25686328], score=None, time=1610108256, title=None, item_type='comment', url=None, parent=25681442, text='Do you have an article or the code somewhere for all this? I&#x27;d like to try setting it up as well.')

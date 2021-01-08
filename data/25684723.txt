@@ -1,1 +1,1 @@
-Item(by='adrianN', descendants=None, kids=None, score=None, time=1610114143, title=None, item_type='comment', url=None, parent=25684412, text='I don&#x27;t understand what you want to say. Germany is relatively close to 50% renewable electricity without a lot of grid scale storage.')
+Item(by='adrianN', descendants=None, kids=[25688826], score=None, time=1610114143, title=None, item_type='comment', url=None, parent=25684412, text='I don&#x27;t understand what you want to say. Germany is relatively close to 50% renewable electricity without a lot of grid scale storage.')

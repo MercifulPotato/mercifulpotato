@@ -1,0 +1,1 @@
+Item(by='Storm-Bringer', descendants=None, kids=[25686541, 25685997], score=None, time=1610121177, title=None, item_type='comment', url=None, parent=25680078, text='How do people usually tackle AdventOfCode? Most elegant&#x2F;concise solution or best performant?<p>Asking because for example most solutions to Day 1 I&#x27;ve seen are O(n^2)')

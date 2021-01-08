@@ -1,0 +1,1 @@
+Item(by='mcguire', descendants=None, kids=[25687569], score=None, time=1610125001, title=None, item_type='comment', url=None, parent=25682378, text='It does have effects on the semantics: without TCO, simple recursion will blow the stack and is therefore a very sketchy technique (few if any specs describe the minimum size of the stack).')
