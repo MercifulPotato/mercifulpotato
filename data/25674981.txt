@@ -1,1 +1,1 @@
-Item(by='sneak', descendants=0, kids=None, score=1, time=1610043524, title='A custom 9.1L mini-itx case based off of the 1991 Quadra 700', item_type='story', url='https://www.reddit.com/r/sffpc/comments/kr8tfv/i_designed_a_custom_91l_miniitx_case_based_off_of/', parent=None, text=None)
+Item(by='sneak', descendants=1, kids=[25681418], score=2, time=1610043524, title='A custom 9.1L mini-itx case based off of the 1991 Quadra 700', item_type='story', url='https://www.reddit.com/r/sffpc/comments/kr8tfv/i_designed_a_custom_91l_miniitx_case_based_off_of/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='selectodude', descendants=None, kids=None, score=None, time=1610057354, title=None, item_type='comment', url=None, parent=25677728, text='Linus Torvalds worked on a MacBook Air for years.')
+Item(by='selectodude', descendants=None, kids=[25681403], score=None, time=1610057354, title=None, item_type='comment', url=None, parent=25677728, text='Linus Torvalds worked on a MacBook Air for years.')

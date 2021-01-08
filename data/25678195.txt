@@ -1,1 +1,1 @@
-Item(by='uptown', descendants=1, kids=[25680493], score=10, time=1610056904, title='Neil Sheehan, Reporter Who Obtained the Pentagon Papers, Dies at 84', item_type='story', url='https://www.nytimes.com/2021/01/07/business/media/neil-sheehan-dead.html', parent=None, text=None)
+Item(by='uptown', descendants=1, kids=[25680493], score=12, time=1610056904, title='Neil Sheehan, Reporter Who Obtained the Pentagon Papers, Dies at 84', item_type='story', url='https://www.nytimes.com/2021/01/07/business/media/neil-sheehan-dead.html', parent=None, text=None)

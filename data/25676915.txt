@@ -1,1 +1,1 @@
-Item(by='thebiglebrewski', descendants=None, kids=None, score=None, time=1610051163, title=None, item_type='comment', url=None, parent=25676301, text='Looks like BBVA is shutting down all of its &quot;startup bank&quot; acquisitions? Simple is also shutting down today.')
+Item(by='thebiglebrewski', descendants=None, kids=[25681802], score=None, time=1610051163, title=None, item_type='comment', url=None, parent=25676301, text='Looks like BBVA is shutting down all of its &quot;startup bank&quot; acquisitions? Simple is also shutting down today.')

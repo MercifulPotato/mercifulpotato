@@ -1,0 +1,1 @@
+Item(by='Scarbutt', descendants=None, kids=None, score=None, time=1610087617, title=None, item_type='comment', url=None, parent=25681831, text='<i>you lose history for eg stack traces and debuggers.</i><p>I remember javascriptcore solving this issue by using a &quot;shadow stack&quot;')

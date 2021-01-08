@@ -1,0 +1,1 @@
+Item(by='rasz', descendants=None, kids=None, score=None, time=1610089118, title=None, item_type='comment', url=None, parent=25679384, text='Didnt Quake 1 use fixed-point 256x256 vertex meshes for all the 3d models? with morphing instead of skeletal animations on top of that resulting in funky wobbly artefacts.')

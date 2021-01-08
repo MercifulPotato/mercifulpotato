@@ -1,1 +1,1 @@
-Item(by='King-Aaron', descendants=None, kids=None, score=None, time=1610070797, title=None, item_type='comment', url=None, parent=25680382, text='I wonder if it correlates to Joe Rogan&#x27;s fixation on Vitamin D')
+Item(by='King-Aaron', descendants=None, kids=[25681794], score=None, time=1610070797, title=None, item_type='comment', url=None, parent=25680382, text='I wonder if it correlates to Joe Rogan&#x27;s fixation on Vitamin D')

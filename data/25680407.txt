@@ -1,1 +1,1 @@
-Item(by='EE84M3i', descendants=None, kids=None, score=None, time=1610070667, title=None, item_type='comment', url=None, parent=25680398, text='Where do you live where grocery stores accept checks?')
+Item(by='EE84M3i', descendants=None, kids=[25682167], score=None, time=1610070667, title=None, item_type='comment', url=None, parent=25680398, text='Where do you live where grocery stores accept checks?')

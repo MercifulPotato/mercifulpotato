@@ -1,1 +1,1 @@
-Item(by='vtantia', descendants=3, kids=[25680594, 25680233], score=14, time=1610066696, title='Airpods V1 (2007)', item_type='story', url='https://appleinsider.com/articles/07/07/30/review_apple_iphone_bluetooth_headset', parent=None, text=None)
+Item(by='vtantia', descendants=5, kids=[25681858, 25680233, 25680594], score=20, time=1610066696, title='Airpods V1 (2007)', item_type='story', url='https://appleinsider.com/articles/07/07/30/review_apple_iphone_bluetooth_headset', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='Sami_Lehtinen', descendants=2, kids=[25680621], score=61, time=1609920876, title='Codebreaking: A Practical Guide', item_type='story', url='https://www.codebreaking-guide.com/', parent=None, text=None)
+Item(by='Sami_Lehtinen', descendants=3, kids=[25681715, 25680621, 25682744], score=79, time=1609920876, title='Codebreaking: A Practical Guide', item_type='story', url='https://www.codebreaking-guide.com/', parent=None, text=None)

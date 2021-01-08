@@ -1,1 +1,1 @@
-Item(by='silly-silly', descendants=None, kids=None, score=None, time=1610069192, title=None, item_type='comment', url=None, parent=25679589, text='This was not a viable option pre 6th gen.')
+Item(by='silly-silly', descendants=None, kids=[25681590], score=None, time=1610069192, title=None, item_type='comment', url=None, parent=25679589, text='This was not a viable option pre 6th gen.')

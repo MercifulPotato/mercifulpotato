@@ -1,0 +1,1 @@
+Item(by='millstone', descendants=None, kids=[25682541, 25682529], score=None, time=1610090619, title=None, item_type='comment', url=None, parent=25682214, text='They don&#x27;t. The whole point of TCO is to discard stack frames, which means local variables cannot be recovered. Optimize or debug, pick one.')

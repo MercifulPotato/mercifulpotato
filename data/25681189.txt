@@ -1,0 +1,1 @@
+Item(by='megous', descendants=None, kids=[25681423], score=None, time=1610076628, title=None, item_type='comment', url=None, parent=25680537, text='ATTiny85 - I doubt it. With 8k program memory and 512B data RAM you will have trouble fitting in a single cipher and hash function, let alone the TLS + TCP stack. And ESP has HW acceleration for crypto.')
