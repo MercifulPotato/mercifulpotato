@@ -1,0 +1,1 @@
+Item(by='silon42', descendants=None, kids=[25683079], score=None, time=1610097966, title=None, item_type='comment', url=None, parent=25682755, text='I want to run something like this on the client, for firewalling purposes. The firewall should perform ECH encryption after validating the destination, not the client.')

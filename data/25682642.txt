@@ -1,1 +1,1 @@
-Item(by='ABeeSea', descendants=None, kids=None, score=None, time=1610093110, title=None, item_type='comment', url=None, parent=25682103, text='The sidebar covers the content when zooming. Terrible design for accessibility.')
+Item(by='ABeeSea', descendants=None, kids=[25683252, 25683170], score=None, time=1610093110, title=None, item_type='comment', url=None, parent=25682103, text='The sidebar covers the content when zooming. Terrible design for accessibility.')

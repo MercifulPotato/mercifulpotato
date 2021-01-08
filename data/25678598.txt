@@ -1,1 +1,1 @@
-Item(by='hermitcrab', descendants=None, kids=None, score=None, time=1610058766, title=None, item_type='comment', url=None, parent=25672863, text='So why didn&#x27;t they say that?')
+Item(by='hermitcrab', descendants=None, kids=[25682840], score=None, time=1610058766, title=None, item_type='comment', url=None, parent=25672863, text='So why didn&#x27;t they say that?')

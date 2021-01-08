@@ -1,1 +1,1 @@
-Item(by='oddmiral', descendants=None, kids=None, score=None, time=1610086688, title=None, item_type='comment', url=None, parent=25679607, text='We will know that after cooling of nuclear waste to background level only, which will not happen soon.')
+Item(by='oddmiral', descendants=None, kids=[25684499, 25684833], score=None, time=1610086688, title=None, item_type='comment', url=None, parent=25679607, text='We will know that after cooling of nuclear waste to background level only, which will not happen soon.')

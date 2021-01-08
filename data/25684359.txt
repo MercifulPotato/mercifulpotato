@@ -1,0 +1,1 @@
+Item(by='Someone', descendants=None, kids=[25685184, 25685173], score=None, time=1610111765, title=None, item_type='comment', url=None, parent=25681825, text='So, what do we call it when the compiler transforms a call immediately followed by a ret into a fall through into the to-be called function? And which compilers ever do that?')

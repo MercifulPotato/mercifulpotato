@@ -1,0 +1,1 @@
+Item(by='nailer', descendants=None, kids=None, score=None, time=1610102246, title=None, item_type='comment', url=None, parent=25683303, text='Svelte did this by throwing away virtual DOMs and using a compiler to directly bind elements to data.')

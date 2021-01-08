@@ -1,0 +1,1 @@
+Item(by='teddyh', descendants=None, kids=None, score=None, time=1610096593, title=None, item_type='comment', url=None, parent=25681594, text='As I understand it, the new record types are “HTTPS” and “SVCB” (“service binding”).  The SVCB record is a generic SRV-like thing, and HTTPS is like SVCB but with extra things which HTTPS needs.')

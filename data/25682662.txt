@@ -1,1 +1,1 @@
-Item(by='stingraycharles', descendants=None, kids=None, score=None, time=1610093386, title=None, item_type='comment', url=None, parent=25682385, text='I’m actually still using the pay-once app. There are hardly any functional changes between that app and the new web-based app.')
+Item(by='stingraycharles', descendants=None, kids=[25684934, 25684555], score=None, time=1610093386, title=None, item_type='comment', url=None, parent=25682385, text='I’m actually still using the pay-once app. There are hardly any functional changes between that app and the new web-based app.')

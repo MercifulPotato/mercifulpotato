@@ -1,0 +1,1 @@
+Item(by='flohofwoe', descendants=None, kids=None, score=None, time=1610119110, title=None, item_type='comment', url=None, parent=25685368, text='Hmm, looking at cycle count tables it looks like 8- and 16-bit operations are indeed faster than 32-bit operations (e.g. add.w is faster than add.l).')

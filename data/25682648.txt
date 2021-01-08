@@ -1,1 +1,1 @@
-Item(by='namekrea', descendants=0, kids=None, score=1, time=1610093199, title='Show HN: AI Domain Name Generator Namekrea', item_type='story', url='https://namekrea.com', parent=None, text=None)
+Item(by='namekrea', descendants=1, kids=[25683010], score=1, time=1610093199, title='Show HN: AI Domain Name Generator Namekrea', item_type='story', url='https://namekrea.com', parent=None, text=None)

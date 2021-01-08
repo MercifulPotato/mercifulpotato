@@ -1,0 +1,1 @@
+Item(by='wnoise', descendants=None, kids=None, score=None, time=1610099415, title=None, item_type='comment', url=None, parent=25681362, text='&gt; However, the compiler still generated code for factorial_accumulate in my object file.<p>This is because it is not declared static, and thus is visible outside that translation unit.')

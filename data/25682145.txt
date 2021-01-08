@@ -1,1 +1,1 @@
-Item(by='oddmiral', descendants=None, kids=None, score=None, time=1610087417, title=None, item_type='comment', url=None, parent=25678701, text='So, you say, coal waste can be source of uranium for nuclear plants, right? How many tonnes of Uranium we can extract from coal ashes?')
+Item(by='oddmiral', descendants=None, kids=[25683980], score=None, time=1610087417, title=None, item_type='comment', url=None, parent=25678701, text='So, you say, coal waste can be source of uranium for nuclear plants, right? How many tonnes of Uranium we can extract from coal ashes?')

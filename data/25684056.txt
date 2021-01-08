@@ -1,0 +1,1 @@
+Item(by='MaxBarraclough', descendants=None, kids=[25684080], score=None, time=1610109715, title=None, item_type='comment', url=None, parent=25683851, text='&gt; can you implement tail calls in Java and meet the same language specification? I think you cannot.<p>Is this because Java exposes stack traces in a way most languages don&#x27;t?')

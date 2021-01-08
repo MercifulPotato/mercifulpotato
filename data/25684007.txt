@@ -1,0 +1,1 @@
+Item(by='DarkWiiPlayer', descendants=None, kids=None, score=None, time=1610109283, title=None, item_type='comment', url=None, parent=25682469, text='Alternatively, compilers could generate warnings when they find something like `return some_func(args...)`, and can&#x27;t eliminate the tail-call because of something that happens elsewhere in the code.')

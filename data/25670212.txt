@@ -1,1 +1,1 @@
-Item(by='CodesInChaos', descendants=None, kids=None, score=None, time=1610022193, title=None, item_type='comment', url=None, parent=25668148, text='If the hash function is collision resistant (e.g. SHA-256) unique hashes are guaranteed in practice.')
+Item(by='CodesInChaos', descendants=None, kids=[25684496], score=None, time=1610022193, title=None, item_type='comment', url=None, parent=25668148, text='If the hash function is collision resistant (e.g. SHA-256) unique hashes are guaranteed in practice.')

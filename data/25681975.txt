@@ -1,1 +1,1 @@
-Item(by='KitDuncan', descendants=None, kids=None, score=None, time=1610085682, title=None, item_type='comment', url=None, parent=25678267, text='I very strongly feel like hackernews is backing the wrong horse with Signal over Matrix and it is making me sad.')
+Item(by='KitDuncan', descendants=None, kids=[25683278, 25683643], score=None, time=1610085682, title=None, item_type='comment', url=None, parent=25678267, text='I very strongly feel like hackernews is backing the wrong horse with Signal over Matrix and it is making me sad.')

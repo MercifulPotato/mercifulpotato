@@ -1,1 +1,1 @@
-Item(by='dmead', descendants=None, kids=None, score=None, time=1610034428, title=None, item_type='comment', url=None, parent=25671646, text='did you do a bios update or something you forgot about?')
+Item(by='dmead', descendants=None, kids=[25684726], score=None, time=1610034428, title=None, item_type='comment', url=None, parent=25671646, text='did you do a bios update or something you forgot about?')

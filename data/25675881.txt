@@ -1,1 +1,1 @@
-Item(by='FlyMoreRockets', descendants=7, kids=[25675940, 25677687, 25679185, 25681275], score=44, time=1610047235, title='USB floppy controller for Amiga disks', item_type='story', url='https://github.com/jtsiomb/usbamigafloppy', parent=None, text=None)
+Item(by='FlyMoreRockets', descendants=8, kids=[25675940, 25677687, 25679185, 25681275], score=48, time=1610047235, title='USB floppy controller for Amiga disks', item_type='story', url='https://github.com/jtsiomb/usbamigafloppy', parent=None, text=None)

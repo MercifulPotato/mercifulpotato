@@ -1,0 +1,1 @@
+Item(by='eru', descendants=None, kids=None, score=None, time=1610114736, title=None, item_type='comment', url=None, parent=25683193, text='Well, any program that neither loops nor is recursive (the same thing in Scheme), only has a very finite runtime.  So those are not very interesting Scheme programs, I guess?')

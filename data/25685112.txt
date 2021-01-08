@@ -1,0 +1,1 @@
+Item(by='travv0', descendants=None, kids=None, score=None, time=1610116582, title=None, item_type='comment', url=None, parent=25683811, text='&gt; an SBCL program can.<p>SBCL will only perform TCO at specific optimization levels, so you can&#x27;t even rely on it in SBCL.')

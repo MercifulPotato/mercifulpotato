@@ -1,0 +1,1 @@
+Item(by='pygy_', descendants=None, kids=None, score=None, time=1610113612, title=None, item_type='comment', url=None, parent=25682493, text='Safari supports proper tail calls per the ES6 spec. If your code relies on the non-elimination of tail calls it will not work in Safari, and thus not be Web compatible.')

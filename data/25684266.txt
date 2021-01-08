@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=[25684295], score=None, time=1610111205, title=None, item_type='comment', url=None, parent=25683851, text='&gt; With tail calls, the call stack frames are completely gone, and cannot be recovered.<p>You can absolutely record these things under TCO, in much the same way you&#x27;d record virtual stackframes when inlining.')

@@ -1,1 +1,1 @@
-Item(by='anonymouse008', descendants=None, kids=None, score=None, time=1610083097, title=None, item_type='comment', url=None, parent=25681628, text='I feel like a person with red yarn all over my wall, and I don’t like it.')
+Item(by='anonymouse008', descendants=None, kids=[25683104], score=None, time=1610083097, title=None, item_type='comment', url=None, parent=25681628, text='I feel like a person with red yarn all over my wall, and I don’t like it.')
