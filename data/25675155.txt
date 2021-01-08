@@ -1,1 +1,1 @@
-Item(by='peter_d_sherman', descendants=1, kids=[25675231], score=1, time=1610044314, title='Another Advanced Useless Machine', item_type='story', url='https://www.youtube.com/watch?v=Nqk_nWAjBus', parent=None, text=None)
+Item(by='peter_d_sherman', descendants=1, kids=[25675231, 25677622], score=2, time=1610044314, title='Another Advanced Useless Machine', item_type='story', url='https://www.youtube.com/watch?v=Nqk_nWAjBus', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='catacombs', descendants=None, kids=None, score=None, time=1610039272, title=None, item_type='comment', url=None, parent=25647989, text='What a lazy and unhelpful response.')
+Item(by='catacombs', descendants=None, kids=[25678721], score=None, time=1610039272, title=None, item_type='comment', url=None, parent=25647989, text='What a lazy and unhelpful response.')

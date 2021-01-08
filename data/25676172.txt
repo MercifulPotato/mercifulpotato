@@ -1,1 +1,1 @@
-Item(by='thotsBgone', descendants=None, kids=None, score=None, time=1610048478, title=None, item_type='comment', url=None, parent=25666592, text='Only because much of what emacs does is cumbersome or impossible as regular software.')
+Item(by='thotsBgone', descendants=None, kids=[25677516], score=None, time=1610048478, title=None, item_type='comment', url=None, parent=25666592, text='Only because much of what emacs does is cumbersome or impossible as regular software.')

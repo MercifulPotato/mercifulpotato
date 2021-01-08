@@ -1,1 +1,1 @@
-Item(by='andrewshadura', descendants=None, kids=None, score=None, time=1610048735, title=None, item_type='comment', url=None, parent=25676135, text='No, it’s actually Tk.')
+Item(by='andrewshadura', descendants=None, kids=[25680886], score=None, time=1610048735, title=None, item_type='comment', url=None, parent=25676135, text='No, it’s actually Tk.')

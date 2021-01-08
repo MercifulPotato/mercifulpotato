@@ -1,1 +1,1 @@
-Item(by='teloli', descendants=None, kids=None, score=None, time=1610035389, title=None, item_type='comment', url=None, parent=25672228, text='I do agree with you, but let&#x27;s add:<p>3. dealing with spam is a massive PITA')
+Item(by='teloli', descendants=None, kids=[25678858], score=None, time=1610035389, title=None, item_type='comment', url=None, parent=25672228, text='I do agree with you, but let&#x27;s add:<p>3. dealing with spam is a massive PITA')

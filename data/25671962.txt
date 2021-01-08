@@ -1,1 +1,1 @@
-Item(by='mumblemumble', descendants=None, kids=None, score=None, time=1610032485, title=None, item_type='comment', url=None, parent=25667803, text='Just spitballing, how about: requiring 2FA to access the CI&#x2F;CD tool, and requiring signed commits for your source code.')
+Item(by='mumblemumble', descendants=None, kids=[25678366], score=None, time=1610032485, title=None, item_type='comment', url=None, parent=25667803, text='Just spitballing, how about: requiring 2FA to access the CI&#x2F;CD tool, and requiring signed commits for your source code.')

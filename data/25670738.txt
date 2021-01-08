@@ -1,1 +1,1 @@
-Item(by='benhurmarcel', descendants=None, kids=None, score=None, time=1610026082, title=None, item_type='comment', url=None, parent=25666259, text='For info, the colors (and whole style) in Signal are the same as iMessage.')
+Item(by='benhurmarcel', descendants=None, kids=[25677913], score=None, time=1610026082, title=None, item_type='comment', url=None, parent=25666259, text='For info, the colors (and whole style) in Signal are the same as iMessage.')

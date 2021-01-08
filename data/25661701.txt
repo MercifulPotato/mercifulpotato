@@ -1,1 +1,1 @@
-Item(by='wooby', descendants=30, kids=[25670264, 25663082, 25667329, 25664647], score=113, time=1609963908, title='Debugging Lisp (2015)', item_type='story', url='https://malisper.me/category/debugging-common-lisp/', parent=None, text=None)
+Item(by='wooby', descendants=31, kids=[25670264, 25663082, 25664647, 25667329], score=114, time=1609963908, title='Debugging Lisp (2015)', item_type='story', url='https://malisper.me/category/debugging-common-lisp/', parent=None, text=None)

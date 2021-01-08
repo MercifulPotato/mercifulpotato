@@ -1,1 +1,1 @@
-Item(by='darkpicnic', descendants=0, kids=None, score=1, time=1610049603, title='Azlo Is Shutting Down', item_type='story', url=None, parent=None, text='Just got the email now. Similar to Simple.')
+Item(by='darkpicnic', descendants=1, kids=[25677161], score=1, time=1610049603, title='Azlo Is Shutting Down', item_type='story', url=None, parent=None, text='Just got the email now. Similar to Simple.')

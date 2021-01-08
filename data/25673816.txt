@@ -1,1 +1,1 @@
-Item(by='CrankyBear', descendants=0, kids=None, score=3, time=1610039522, title='Red Hat OpenShift now supports both Windows and Linux containers', item_type='story', url='https://www.zdnet.com/article/red-hat-openshift-supports-both-windows-and-linux-containers/', parent=None, text=None)
+Item(by='CrankyBear', descendants=0, kids=None, score=5, time=1610039522, title='Red Hat OpenShift now supports both Windows and Linux containers', item_type='story', url='https://www.zdnet.com/article/red-hat-openshift-supports-both-windows-and-linux-containers/', parent=None, text=None)

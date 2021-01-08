@@ -1,0 +1,1 @@
+Item(by='amelo', descendants=None, kids=None, score=None, time=1610068751, title=None, item_type='comment', url=None, parent=25680076, text='Good catch -- the expected behavior is indeed for the page to scroll down to the appropriate sections of the landing page. Thanks for the bug report!')

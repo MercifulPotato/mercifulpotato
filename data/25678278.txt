@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1610057244, title=None, item_type='comment', url=None, parent=25678140, text='GA102 is 1:1 FP16&#x2F;FP32 rate, but with a ton of FP32 (30 Tflops for the RTX 3080).')

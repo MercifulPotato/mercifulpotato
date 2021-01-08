@@ -1,1 +1,1 @@
-Item(by='jareklupinski', descendants=0, kids=None, score=1, time=1610048750, title='Show HN: I wrote a simple HTTP Watchdog that sends you an Email on Timeout', item_type='story', url='http://watchdog.email', parent=None, text=None)
+Item(by='jareklupinski', descendants=1, kids=[25678713], score=1, time=1610048750, title='Show HN: I wrote a simple HTTP Watchdog that sends you an Email on Timeout', item_type='story', url='http://watchdog.email', parent=None, text=None)

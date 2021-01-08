@@ -1,0 +1,1 @@
+Item(by='ameshkov', descendants=None, kids=[25678399, 25678446], score=None, time=1610057674, title=None, item_type='comment', url=None, parent=25678191, text='As someone suggested in a different comment: handshake with one certificate, then send a new ClientHello that contains the desired hostname and &quot;re-handshake&quot; with the real cert?')

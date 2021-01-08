@@ -1,1 +1,1 @@
-Item(by='310260', descendants=None, kids=None, score=None, time=1610047679, title=None, item_type='comment', url=None, parent=25675235, text='A combination of Elon tweeting &quot;Use Signal&quot; and the events at the Capitol are probably to blame.')
+Item(by='310260', descendants=None, kids=[25678428, 25676907], score=None, time=1610047679, title=None, item_type='comment', url=None, parent=25675235, text='A combination of Elon tweeting &quot;Use Signal&quot; and the events at the Capitol are probably to blame.')

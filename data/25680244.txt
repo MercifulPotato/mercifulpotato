@@ -1,0 +1,1 @@
+Item(by='shahar2k', descendants=None, kids=[25680932], score=None, time=1610069379, title=None, item_type='comment', url=None, parent=25678922, text='likely the performance of playing small video elements as part of the UI, oftentimes it&#x27;s faster to keep a whole uncompressed texture atlas in memory for animations and such.')

@@ -1,1 +1,1 @@
-Item(by='abrowne', descendants=None, kids=None, score=None, time=1610045889, title=None, item_type='comment', url=None, parent=25675296, text='Their website for credit cards is my favorite of any I&#x27;ve tried. My least favorite by far was Chase when I had the Amazon-linked card.')
+Item(by='abrowne', descendants=None, kids=[25680213], score=None, time=1610045889, title=None, item_type='comment', url=None, parent=25675296, text='Their website for credit cards is my favorite of any I&#x27;ve tried. My least favorite by far was Chase when I had the Amazon-linked card.')

@@ -1,1 +1,1 @@
-Item(by='nemothekid', descendants=None, kids=None, score=None, time=1610047703, title=None, item_type='comment', url=None, parent=25675912, text='How do you pay engineers? This only makes sense if you have the talent to bootstrap by building everything yourself.')
+Item(by='nemothekid', descendants=None, kids=[25679779], score=None, time=1610047703, title=None, item_type='comment', url=None, parent=25675912, text='How do you pay engineers? This only makes sense if you have the talent to bootstrap by building everything yourself.')

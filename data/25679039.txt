@@ -1,0 +1,1 @@
+Item(by='defx', descendants=None, kids=None, score=None, time=1610061544, title=None, item_type='comment', url=None, parent=25678863, text='Thanks for your question. I&#x27;m not overly familiar with Alpine but yes, the syntax is very different. Alpine appears to freely mix JS and HTML whereas Synergy minimises this in favour of a clearer separation of concerns.')

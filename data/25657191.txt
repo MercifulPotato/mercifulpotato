@@ -1,1 +1,1 @@
-Item(by='Anon84', descendants=0, kids=None, score=4, time=1609936989, title='The Atlas for the Aspiring Network Scientist', item_type='story', url='https://arxiv.org/abs/2101.00863', parent=None, text=None)
+Item(by='Anon84', descendants=12, kids=[25678902, 25679101, 25678681, 25679137, 25677205, 25677634, 25677421, 25678173], score=60, time=1609936989, title='The Atlas for the Aspiring Network Scientist', item_type='story', url='https://arxiv.org/abs/2101.00863', parent=None, text=None)

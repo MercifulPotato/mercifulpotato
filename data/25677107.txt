@@ -1,1 +1,1 @@
-Item(by='zoobab', descendants=None, kids=None, score=None, time=1610051871, title=None, item_type='comment', url=None, parent=25676917, text='&quot;BSD licensed and therefore don&#x27;t strictly require source code to be released&quot;<p>Broken promises of liberal freedom.')
+Item(by='zoobab', descendants=None, kids=[25677522], score=None, time=1610051871, title=None, item_type='comment', url=None, parent=25676917, text='&quot;BSD licensed and therefore don&#x27;t strictly require source code to be released&quot;<p>Broken promises of liberal freedom.')

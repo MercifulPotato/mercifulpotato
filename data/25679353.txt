@@ -1,0 +1,1 @@
+Item(by='parliament32', descendants=None, kids=[25679477, 25679509], score=None, time=1610063432, title=None, item_type='comment', url=None, parent=25675355, text='&gt;A TLS server supporting ECH now advertises its public key via an HTTPSSVC DNS record<p>Why a new record type, when TLSA records were invented for literally this exact purpose?')

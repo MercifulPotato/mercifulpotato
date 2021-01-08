@@ -1,1 +1,1 @@
-Item(by='rossmohax', descendants=None, kids=None, score=None, time=1610048992, title=None, item_type='comment', url=None, parent=25675556, text='List of products affected mentions &quot;Yubico Yubikey Neo&quot; as vulnerable too')
+Item(by='rossmohax', descendants=None, kids=[25678172], score=None, time=1610048992, title=None, item_type='comment', url=None, parent=25675556, text='List of products affected mentions &quot;Yubico Yubikey Neo&quot; as vulnerable too')

@@ -1,0 +1,1 @@
+Item(by='ropman76', descendants=None, kids=None, score=None, time=1610059760, title=None, item_type='comment', url=None, parent=25675780, text='Since this is a .net core project, I am a little puzzled as to why they didn&#x27;t use the .net AES-GCM classes.  It&#x27;s part of .net core 3.1.  There should be no reason to use AES-CBC mode in a newer application.')

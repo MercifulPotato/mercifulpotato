@@ -1,1 +1,1 @@
-Item(by='adultSwim', descendants=None, kids=None, score=None, time=1609969490, title=None, item_type='comment', url=None, parent=25662185, text='Has there even been evidence presented that the hacks were from Russia?')
+Item(by='adultSwim', descendants=None, kids=[25677449], score=None, time=1609969490, title=None, item_type='comment', url=None, parent=25662185, text='Has there even been evidence presented that the hacks were from Russia?')

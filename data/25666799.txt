@@ -1,1 +1,1 @@
-Item(by='thekyle', descendants=None, kids=None, score=None, time=1609988970, title=None, item_type='comment', url=None, parent=25666272, text='Recommendation algorithms are completely unrelated to summarization algorithms.')
+Item(by='thekyle', descendants=None, kids=[25680388], score=None, time=1609988970, title=None, item_type='comment', url=None, parent=25666272, text='Recommendation algorithms are completely unrelated to summarization algorithms.')

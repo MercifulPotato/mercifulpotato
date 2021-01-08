@@ -1,1 +1,1 @@
-Item(by='maelito', descendants=None, kids=None, score=None, time=1610006131, title=None, item_type='comment', url=None, parent=25668180, text='The author probably meant fusion.<p>70% of France&#x27;s electricity comes from fission, but that&#x27;s only electric power.')
+Item(by='maelito', descendants=None, kids=[25681136], score=None, time=1610006131, title=None, item_type='comment', url=None, parent=25668180, text='The author probably meant fusion.<p>70% of France&#x27;s electricity comes from fission, but that&#x27;s only electric power.')

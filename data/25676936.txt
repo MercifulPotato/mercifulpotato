@@ -1,1 +1,1 @@
-Item(by='ofrzeta', descendants=None, kids=None, score=None, time=1610051241, title=None, item_type='comment', url=None, parent=25676749, text='An individual does not choose to be stupid, though.')
+Item(by='ofrzeta', descendants=None, kids=[25678463], score=None, time=1610051241, title=None, item_type='comment', url=None, parent=25676749, text='An individual does not choose to be stupid, though.')

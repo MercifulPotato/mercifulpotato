@@ -1,1 +1,1 @@
-Item(by='Havoc', descendants=None, kids=None, score=None, time=1610013070, title=None, item_type='comment', url=None, parent=25665297, text='And? You think the post Xmas will somehow be better?')
+Item(by='Havoc', descendants=None, kids=[25679547], score=None, time=1610013070, title=None, item_type='comment', url=None, parent=25665297, text='And? You think the post Xmas will somehow be better?')

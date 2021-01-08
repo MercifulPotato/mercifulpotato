@@ -1,1 +1,1 @@
-Item(by='SilasX', descendants=None, kids=None, score=None, time=1610052475, title=None, item_type='comment', url=None, parent=25677110, text='Ah, that explains why they take a cut of Netflix subscriptions.')
+Item(by='SilasX', descendants=None, kids=[25677609], score=None, time=1610052475, title=None, item_type='comment', url=None, parent=25677110, text='Ah, that explains why they take a cut of Netflix subscriptions.')

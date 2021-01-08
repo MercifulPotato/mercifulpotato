@@ -1,0 +1,1 @@
+Item(by='defx', descendants=None, kids=None, score=None, time=1610066254, title=None, item_type='comment', url=None, parent=25679680, text='Yes, you can prerender in a browser (e.g., using Puppeteer) or provide a synthetic DOM (e.g., JSDOM) in Node. It&#x27;s the next thing on my list to flesh out some more detail in the docs around this.')

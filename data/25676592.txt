@@ -1,1 +1,1 @@
-Item(by='josefresco', descendants=None, kids=None, score=None, time=1610050012, title=None, item_type='comment', url=None, parent=25675593, text='&gt; To be fair, static site generators are a thing<p>There goes your super-lean stack and we&#x27;re back to square-one.')
+Item(by='josefresco', descendants=None, kids=[25677680], score=None, time=1610050012, title=None, item_type='comment', url=None, parent=25675593, text='&gt; To be fair, static site generators are a thing<p>There goes your super-lean stack and we&#x27;re back to square-one.')

@@ -1,0 +1,1 @@
+Item(by='Fnoord', descendants=None, kids=[25679889, 25679368], score=None, time=1610055737, title=None, item_type='comment', url=None, parent=25677878, text='Not if your DNS is encrypted (e.g. DNSCrypt, DoH, DoT, ...)<p>I suppose it does if you run your own resolver?')
