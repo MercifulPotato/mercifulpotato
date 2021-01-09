@@ -1,1 +1,1 @@
-Item(by='coolgeek', descendants=None, kids=None, score=None, time=1610133823, title=None, item_type='comment', url=None, parent=25688333, text='Or anonymous interwebz commenters?<p>(That&#x27;s a general comment, not directed at you or any other specific person)')
+Item(by='coolgeek', descendants=None, kids=[25699650], score=None, time=1610133823, title=None, item_type='comment', url=None, parent=25688333, text='Or anonymous interwebz commenters?<p>(That&#x27;s a general comment, not directed at you or any other specific person)')

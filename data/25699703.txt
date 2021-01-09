@@ -1,0 +1,1 @@
+Item(by='qetuo13579', descendants=None, kids=[25700515], score=None, time=1610194154, title=None, item_type='comment', url=None, parent=25699257, text='We have a handheld product (custom hardware) that we struggle to test. Currently it’s all manual testing but lately I’ve been wondering how to increase test coverage and automate it too.')

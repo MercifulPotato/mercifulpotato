@@ -1,1 +1,1 @@
-Item(by='Jtsummers', descendants=None, kids=None, score=None, time=1610165155, title=None, item_type='comment', url=None, parent=25696582, text='The first AMD64 processor was the Opteron released in 2003, 4 years after the announcement.')
+Item(by='Jtsummers', descendants=None, kids=[25699419], score=None, time=1610165155, title=None, item_type='comment', url=None, parent=25696582, text='The first AMD64 processor was the Opteron released in 2003, 4 years after the announcement.')

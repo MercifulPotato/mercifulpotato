@@ -1,1 +1,1 @@
-Item(by='cercatrova', descendants=None, kids=None, score=None, time=1610176661, title=None, item_type='comment', url=None, parent=25698063, text='Net neutrality is a very needed thing there it seems, as everywhere.')
+Item(by='cercatrova', descendants=None, kids=[25699963], score=None, time=1610176661, title=None, item_type='comment', url=None, parent=25698063, text='Net neutrality is a very needed thing there it seems, as everywhere.')

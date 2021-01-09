@@ -1,1 +1,1 @@
-Item(by='thefunnyman', descendants=None, kids=None, score=None, time=1610164041, title=None, item_type='comment', url=None, parent=25683682, text='Signal is open source. In any of these hypotheticals, it can be forked.')
+Item(by='thefunnyman', descendants=None, kids=[25699221], score=None, time=1610164041, title=None, item_type='comment', url=None, parent=25683682, text='Signal is open source. In any of these hypotheticals, it can be forked.')

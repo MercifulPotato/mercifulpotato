@@ -1,0 +1,1 @@
+Item(by='ckolkey', descendants=None, kids=None, score=None, time=1610187389, title=None, item_type='comment', url=None, parent=25693904, text='Fyi, `.times` is enumerable, you don&#x27;t need to call `.each` after it.')

@@ -1,1 +1,1 @@
-Item(by='nkurz', descendants=17, kids=[25683800, 25681198], score=67, time=1610068555, title='Avoiding instruction cache misses (2019)', item_type='story', url='https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/', parent=None, text=None)
+Item(by='nkurz', descendants=17, kids=[25683800, 25681198], score=68, time=1610068555, title='Avoiding instruction cache misses (2019)', item_type='story', url='https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/', parent=None, text=None)

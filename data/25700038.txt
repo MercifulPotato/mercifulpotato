@@ -1,0 +1,1 @@
+Item(by='networked', descendants=34, kids=[25700226, 25700841, 25700236, 25701041, 25700280, 25701155, 25700997, 25700325, 25700317, 25700343, 25700439, 25700911, 25700455], score=123, time=1610197455, title='Ray Tracing in pure CMake', item_type='story', url='https://64.github.io/cmake-raytracer/', parent=None, text=None)

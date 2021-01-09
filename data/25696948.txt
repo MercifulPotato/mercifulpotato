@@ -1,1 +1,1 @@
-Item(by='fortran77', descendants=1, kids=[25698291], score=6, time=1610166337, title='Amazon’s Affordable Housing Pledge Won’t Fix Anything', item_type='story', url='https://www.curbed.com/2021/01/amazon-affordable-housing-seattle-low-cost-loans.html', parent=None, text=None)
+Item(by='fortran77', descendants=2, kids=[25698822, 25698291], score=7, time=1610166337, title='Amazon’s Affordable Housing Pledge Won’t Fix Anything', item_type='story', url='https://www.curbed.com/2021/01/amazon-affordable-housing-seattle-low-cost-loans.html', parent=None, text=None)

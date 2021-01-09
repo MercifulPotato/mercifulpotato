@@ -1,0 +1,1 @@
+Item(by='tuankiet65', descendants=None, kids=None, score=None, time=1610200313, title=None, item_type='comment', url=None, parent=25700038, text='Here&#x27;s a performance figure on my i5-3210m (2 core, 4 threads) when using 4 processes:<p>* 64x64: 14.561s<p>* 256x256: 226.28s, 15x compared to 64x64.')

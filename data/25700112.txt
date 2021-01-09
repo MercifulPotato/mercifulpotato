@@ -1,0 +1,1 @@
+Item(by='gambiting', descendants=None, kids=[25701071], score=None, time=1610198278, title=None, item_type='comment', url=None, parent=25699464, text='Does anyone know why it was introduced in the first place? I mean.....the return value of printf gives you the exact same information, no? Why give printf the ability to write anything in the first place?')

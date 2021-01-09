@@ -1,1 +1,1 @@
-Item(by='agensaequivocum', descendants=None, kids=None, score=None, time=1610176002, title=None, item_type='comment', url=None, parent=25695083, text='Apple should probably remove Safari since there&#x27;s too much unmoderated content on the open web.')
+Item(by='agensaequivocum', descendants=None, kids=[25699116, 25698896], score=None, time=1610176002, title=None, item_type='comment', url=None, parent=25695083, text='Apple should probably remove Safari since there&#x27;s too much unmoderated content on the open web.')

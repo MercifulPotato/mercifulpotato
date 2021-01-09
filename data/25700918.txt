@@ -1,0 +1,1 @@
+Item(by='jabl', descendants=None, kids=None, score=None, time=1610205051, title=None, item_type='comment', url=None, parent=25700073, text='IIRC SunOS&#x2F;Solaris always used TSO, but Linux originally used RSO, however they switched to TSO once chips that only supported TSO appeared on the market.')

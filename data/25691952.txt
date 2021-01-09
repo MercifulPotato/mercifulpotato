@@ -1,1 +1,1 @@
-Item(by='NonEUCitizen', descendants=None, kids=None, score=None, time=1610148289, title=None, item_type='comment', url=None, parent=25691092, text='The city&#x27;s name is romanized as Hsinchu in Taiwan, ROC, not Xinzhu as PRC pinyin would romanize it.')
+Item(by='NonEUCitizen', descendants=None, kids=[25699633], score=None, time=1610148289, title=None, item_type='comment', url=None, parent=25691092, text='The city&#x27;s name is romanized as Hsinchu in Taiwan, ROC, not Xinzhu as PRC pinyin would romanize it.')

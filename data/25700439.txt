@@ -1,0 +1,1 @@
+Item(by='bawana', descendants=None, kids=[25700555], score=None, time=1610201036, title=None, item_type='comment', url=None, parent=25700038, text='Please clarify for me the part about the set exec command. You create n workers but you pass the whole image size to each. Why isn’t the image size divided by the number of workers?')

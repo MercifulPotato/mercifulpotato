@@ -1,0 +1,1 @@
+Item(by='gambiting', descendants=None, kids=None, score=None, time=1610206014, title=None, item_type='comment', url=None, parent=25700112, text='Ah, I found out why - %n prints out the number of characters printed up to the point where the %n is. Printf returns the total number of characters printed.')
