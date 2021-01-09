@@ -1,1 +1,1 @@
-Item(by='jonnycomputer', descendants=None, kids=None, score=None, time=1610122134, title=None, item_type='comment', url=None, parent=25681719, text='I&#x27;m sure the above was downvoted because it was not a substantive contribution to the discussion &#x2F;s')
+Item(by='jonnycomputer', descendants=None, kids=[25691862], score=None, time=1610122134, title=None, item_type='comment', url=None, parent=25681719, text='I&#x27;m sure the above was downvoted because it was not a substantive contribution to the discussion &#x2F;s')

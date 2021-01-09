@@ -1,1 +1,1 @@
-Item(by='marcosdumay', descendants=None, kids=None, score=None, time=1610133427, title=None, item_type='comment', url=None, parent=25688481, text='Passing your speech through an ISP is not the same as compelling the ISP to speak.')
+Item(by='marcosdumay', descendants=None, kids=[25690714], score=None, time=1610133427, title=None, item_type='comment', url=None, parent=25688481, text='Passing your speech through an ISP is not the same as compelling the ISP to speak.')

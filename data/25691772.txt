@@ -1,0 +1,1 @@
+Item(by='lima', descendants=None, kids=None, score=None, time=1610147749, title=None, item_type='comment', url=None, parent=25691701, text='Would a LLVM backend, i.e. gollvm[0], be able to optimize this?<p>[0]: <a href="https:&#x2F;&#x2F;go.googlesource.com&#x2F;gollvm&#x2F;" rel="nofollow">https:&#x2F;&#x2F;go.googlesource.com&#x2F;gollvm&#x2F;</a>')

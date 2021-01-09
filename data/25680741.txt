@@ -1,1 +1,1 @@
-Item(by='ruffrey', descendants=None, kids=None, score=None, time=1610072955, title=None, item_type='comment', url=None, parent=25678784, text='My wife would shoot me on site for suggesting this.<p>I’ll let you know how it goes.')
+Item(by='ruffrey', descendants=None, kids=[25691377], score=None, time=1610072955, title=None, item_type='comment', url=None, parent=25678784, text='My wife would shoot me on site for suggesting this.<p>I’ll let you know how it goes.')

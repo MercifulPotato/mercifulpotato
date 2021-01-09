@@ -1,0 +1,1 @@
+Item(by='segfaultbuserr', descendants=None, kids=None, score=None, time=1610145930, title=None, item_type='comment', url=None, parent=25691480, text='Fun fact, on glibc, an extension feature is that you can define your own custom conversion specifiers for printf().')

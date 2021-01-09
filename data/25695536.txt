@@ -1,0 +1,1 @@
+Item(by='moonchild', descendants=None, kids=None, score=None, time=1610159060, title=None, item_type='comment', url=None, parent=25694365, text='Not portable, but if you can get the address of the stack you can force printf to overwrite the return address, obviating the loop.')

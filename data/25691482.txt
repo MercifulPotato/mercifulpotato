@@ -1,0 +1,1 @@
+Item(by='rdsubhas', descendants=None, kids=None, score=None, time=1610145746, title=None, item_type='comment', url=None, parent=25682672, text='Parent comment only proposed a syntax. From grandparent comment:<p>&gt; fails to compile if your code is written in such a way that a true tail call cannot be guaranteed')

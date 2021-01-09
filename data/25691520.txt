@@ -1,0 +1,1 @@
+Item(by='teekert', descendants=None, kids=None, score=None, time=1610145960, title=None, item_type='comment', url=None, parent=25690701, text='Distro repos are notorious for containing super out of date stuff (especially when it comes to these kinds of apps). It&#x27;s why we now have flatpack, AppImage and Snaps. Always check the version numbers when using repo stuff.')

@@ -1,1 +1,1 @@
-Item(by='sndean', descendants=0, kids=None, score=3, time=1610134636, title='Do We Have to Age?', item_type='story', url='https://www.theguardian.com/science/2021/jan/03/observer-magazine-do-we-have-to-age-biologist-andrew-steele', parent=None, text=None)
+Item(by='sndean', descendants=1, kids=[25690341], score=5, time=1610134636, title='Do We Have to Age?', item_type='story', url='https://www.theguardian.com/science/2021/jan/03/observer-magazine-do-we-have-to-age-biologist-andrew-steele', parent=None, text=None)

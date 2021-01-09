@@ -1,1 +1,1 @@
-Item(by='idlewords', descendants=None, kids=None, score=None, time=1610096007, title=None, item_type='comment', url=None, parent=25678808, text='It&#x27;s important to remember that nearly all of these offices are in other buildings across the street.')
+Item(by='idlewords', descendants=None, kids=[25690506], score=None, time=1610096007, title=None, item_type='comment', url=None, parent=25678808, text='It&#x27;s important to remember that nearly all of these offices are in other buildings across the street.')

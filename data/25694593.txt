@@ -1,0 +1,1 @@
+Item(by='astrange', descendants=None, kids=None, score=None, time=1610155541, title=None, item_type='comment', url=None, parent=25693740, text='dyld on Darwin has an API to ask if any pointer is to a read-only section of a binary. It’s useful because you can e.g. skip strcpys and other allocations.')

@@ -1,1 +1,1 @@
-Item(by='haltingproblem', descendants=None, kids=None, score=None, time=1610088577, title=None, item_type='comment', url=None, parent=25681703, text='I would appreciate the citation, not doubting but would love to read it since I have not seen anything like it in the public domain.')
+Item(by='haltingproblem', descendants=None, kids=[25691397], score=None, time=1610088577, title=None, item_type='comment', url=None, parent=25681703, text='I would appreciate the citation, not doubting but would love to read it since I have not seen anything like it in the public domain.')

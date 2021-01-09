@@ -1,1 +1,1 @@
-Item(by='toomuchtodo', descendants=1, kids=[25689219], score=1, time=1610133646, title='Stupid', item_type='story', url='https://www.profgalloway.com/stupid', parent=None, text=None)
+Item(by='toomuchtodo', descendants=0, kids=[25689219], score=2, time=1610133646, title='Stupid', item_type='story', url='https://www.profgalloway.com/stupid', parent=None, text=None)

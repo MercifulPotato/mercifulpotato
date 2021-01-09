@@ -1,1 +1,1 @@
-Item(by='reaperducer', descendants=29, kids=[25663284, 25666088, 25661286, 25666404, 25661493, 25665528], score=61, time=1609960456, title='A constructive look at the Atari 2600 BASIC cartridge', item_type='story', url='http://boston.conman.org/2015/06/16.1', parent=None, text=None)
+Item(by='reaperducer', descendants=29, kids=[25663284, 25665528, 25666088, 25661286, 25666404, 25661493], score=61, time=1609960456, title='A constructive look at the Atari 2600 BASIC cartridge', item_type='story', url='http://boston.conman.org/2015/06/16.1', parent=None, text=None)

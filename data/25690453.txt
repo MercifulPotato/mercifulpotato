@@ -1,1 +1,1 @@
-Item(by='dylan604', descendants=None, kids=None, score=None, time=1610139687, title=None, item_type='comment', url=None, parent=25689457, text='opening this doc opens a video of a guy singing about never giving up')
+Item(by='dylan604', descendants=None, kids=[25691569, 25691160], score=None, time=1610139687, title=None, item_type='comment', url=None, parent=25689457, text='opening this doc opens a video of a guy singing about never giving up')

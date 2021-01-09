@@ -1,0 +1,1 @@
+Item(by='NoThisIsMe', descendants=None, kids=None, score=None, time=1610144192, title=None, item_type='comment', url=None, parent=25685587, text='Closures do work natively in Python though. Lexical scope does not prevent that. Most languages, including functional languages, use lexical scope these days.')

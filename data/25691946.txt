@@ -1,0 +1,1 @@
+Item(by='snvzz', descendants=None, kids=[25693056], score=None, time=1610148277, title=None, item_type='comment', url=None, parent=25688723, text='There&#x27;s progress indeed, but 4x 16TB isn&#x27;t cutting it. You&#x27;d need extra disks for redundancy, extra space for filesystem overhead (including data and metadata checksums), and a sizable amount of ECC memory.')
