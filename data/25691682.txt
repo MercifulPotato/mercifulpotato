@@ -1,1 +1,1 @@
-Item(by='akeck', descendants=0, kids=None, score=4, time=1610147148, title='Crude Oil Flow from Saudi Arabia to U.S. Falls to Zero', item_type='story', url='https://oilprice.com/Energy/Energy-General/Crude-Oil-Flow-From-Saudi-Arabia-To-US-Falls-To-Zero.html', parent=None, text=None)
+Item(by='akeck', descendants=0, kids=[25698624], score=12, time=1610147148, title='Crude Oil Flow from Saudi Arabia to U.S. Falls to Zero', item_type='story', url='https://oilprice.com/Energy/Energy-General/Crude-Oil-Flow-From-Saudi-Arabia-To-US-Falls-To-Zero.html', parent=None, text=None)

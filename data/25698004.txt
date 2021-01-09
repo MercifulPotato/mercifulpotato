@@ -1,0 +1,1 @@
+Item(by='kseistrup', descendants=None, kids=None, score=None, time=1610173961, title=None, item_type='comment', url=None, parent=25694901, text='Can it be used for commandline scripts? As in<p><pre><code>    #!&#x2F;usr&#x2F;bin&#x2F;env kata\n    print(&quot;hello &quot;, &quot;world&quot;);</code></pre>')

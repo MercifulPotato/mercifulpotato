@@ -1,1 +1,1 @@
-Item(by='pryelluw', descendants=1, kids=[25691508], score=1, time=1610145746, title='Show HN: Simple utility to back up your PostgreSQL database to AWS S3', item_type='story', url='https://github.com/yelluw/pgsql-aws-s3-backup', parent=None, text=None)
+Item(by='pryelluw', descendants=1, kids=[25691508], score=2, time=1610145746, title='Show HN: Simple utility to back up your PostgreSQL database to AWS S3', item_type='story', url='https://github.com/yelluw/pgsql-aws-s3-backup', parent=None, text=None)

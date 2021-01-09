@@ -1,0 +1,1 @@
+Item(by='slavik81', descendants=None, kids=None, score=None, time=1610174879, title=None, item_type='comment', url=None, parent=25690189, text='I found OpenVDB to be quite a good library for isosurface extraction. It has a very efficient, parallelized implementation.')

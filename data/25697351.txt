@@ -1,0 +1,1 @@
+Item(by='rriepe', descendants=None, kids=[25697570], score=None, time=1610168891, title=None, item_type='comment', url=None, parent=25696501, text='&gt; (rip cache)<p>You&#x27;d have a separate theme.css that defined the new variables. Because of CSS variables you can keep the main style.css and all the markup the same.')

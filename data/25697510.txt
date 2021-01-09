@@ -1,1 +1,1 @@
-Item(by='icy', descendants=None, kids=None, score=None, time=1610169851, title=None, item_type='comment', url=None, parent=25697114, text='Discord is neither decentralized nor censorship resistant. Discord (the company) has full control over what is allowed to be discussed on there.')
+Item(by='icy', descendants=None, kids=[25698134], score=None, time=1610169851, title=None, item_type='comment', url=None, parent=25697114, text='Discord is neither decentralized nor censorship resistant. Discord (the company) has full control over what is allowed to be discussed on there.')

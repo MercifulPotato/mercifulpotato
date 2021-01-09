@@ -1,1 +1,1 @@
-Item(by='bmn__', descendants=0, kids=None, score=1, time=1610140846, title='The Software of My Dreams', item_type='story', url='https://www.youtube.com/watch?v=at5YMpTLl9U', parent=None, text=None)
+Item(by='bmn__', descendants=1, kids=[25698609], score=2, time=1610140846, title='The Software of My Dreams', item_type='story', url='https://www.youtube.com/watch?v=at5YMpTLl9U', parent=None, text=None)

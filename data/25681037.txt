@@ -1,1 +1,1 @@
-Item(by='samclemens', descendants=0, kids=None, score=1, time=1610075090, title='What Writers and Editors Do', item_type='story', url='https://www.theparisreview.org/blog/2021/01/05/what-writers-and-editors-do/', parent=None, text=None)
+Item(by='samclemens', descendants=4, kids=[25698422, 25697754], score=67, time=1610075090, title='What Writers and Editors Do', item_type='story', url='https://www.theparisreview.org/blog/2021/01/05/what-writers-and-editors-do/', parent=None, text=None)

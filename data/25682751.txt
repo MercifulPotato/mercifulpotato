@@ -1,1 +1,1 @@
-Item(by='polm23', descendants=0, kids=None, score=1, time=1610094444, title='Custom Properties as State', item_type='story', url='https://css-tricks.com/custom-properties-as-state/', parent=None, text=None)
+Item(by='polm23', descendants=10, kids=[25697632, 25696501], score=23, time=1610094444, title='Custom Properties as State', item_type='story', url='https://css-tricks.com/custom-properties-as-state/', parent=None, text=None)

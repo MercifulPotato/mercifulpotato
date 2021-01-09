@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=None, score=None, time=1610183631, title=None, item_type='comment', url=None, parent=25696144, text='While the SPARC architecture allows for a very relaxed memory model, I belive all SPARC implementations have been TSO (i.e. exactly the same as x86) for a long time (and IIRC even non TSO SPARCs had mode bits to force system wide TSO).')

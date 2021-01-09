@@ -1,1 +1,1 @@
-Item(by='snerp', descendants=1, kids=[25695431], score=1, time=1610156518, title='Show HN: KataScript, new language looking for feedback', item_type='story', url='https://github.com/brwhale/KataScript', parent=None, text=None)
+Item(by='snerp', descendants=2, kids=[25698004, 25695431], score=3, time=1610156518, title='Show HN: KataScript, new language looking for feedback', item_type='story', url='https://github.com/brwhale/KataScript', parent=None, text=None)

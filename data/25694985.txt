@@ -1,1 +1,1 @@
-Item(by='lnyan', descendants=0, kids=None, score=10, time=1610156785, title='SARS-CoV-2 induced remission of Hodgkin lymphoma', item_type='story', url='https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.17116', parent=None, text=None)
+Item(by='lnyan', descendants=12, kids=[25698858, 25696480, 25697909, 25696560, 25697521], score=81, time=1610156785, title='SARS-CoV-2 induced remission of Hodgkin lymphoma', item_type='story', url='https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.17116', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='Tokkemon', descendants=None, kids=None, score=None, time=1610153760, title=None, item_type='comment', url=None, parent=25692413, text='That doesn&#x27;t work with people who didn&#x27;t get to their beliefs by reason in the first place.')
+Item(by='Tokkemon', descendants=None, kids=[25698720], score=None, time=1610153760, title=None, item_type='comment', url=None, parent=25692413, text='That doesn&#x27;t work with people who didn&#x27;t get to their beliefs by reason in the first place.')

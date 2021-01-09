@@ -1,1 +1,1 @@
-Item(by='c22', descendants=None, kids=None, score=None, time=1610154226, title=None, item_type='comment', url=None, parent=25693407, text='They should have just shadowbanned him.')
+Item(by='c22', descendants=None, kids=[25697013], score=None, time=1610154226, title=None, item_type='comment', url=None, parent=25693407, text='They should have just shadowbanned him.')
