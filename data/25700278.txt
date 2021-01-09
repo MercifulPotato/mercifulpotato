@@ -1,1 +1,1 @@
-Item(by='jakelazaroff', descendants=None, kids=None, score=None, time=1610199991, title=None, item_type='comment', url=None, parent=25698722, text='Those people were met with state violence, so no it’s not.')
+Item(by='jakelazaroff', descendants=None, kids=[25704810], score=None, time=1610199991, title=None, item_type='comment', url=None, parent=25698722, text='Those people were met with state violence, so no it’s not.')

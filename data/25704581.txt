@@ -1,0 +1,1 @@
+Item(by='pocak', descendants=None, kids=None, score=None, time=1610225304, title=None, item_type='comment', url=None, parent=25703439, text='Linux allocates page tables lazily, and fills them lazily. The only upfront work is to mark the virtual address range as valid and associated with the file. I&#x27;d expect mapping giant files to be fast enough to not need windowing.')

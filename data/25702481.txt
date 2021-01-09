@@ -1,0 +1,1 @@
+Item(by='kubanczyk', descendants=None, kids=[25702872, 25702556], score=None, time=1610214306, title=None, item_type='comment', url=None, parent=25701842, text='&gt; the opening &lt;html&gt; tag is optional too but I retained it in the above example to specify the lang<p>&gt;    &lt;html lang=&quot;en&quot;&gt;<p>Yeah, no. The text is in Latin (la), not in English (en).')

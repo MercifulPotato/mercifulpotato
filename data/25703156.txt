@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=None, score=None, time=1610217795, title=None, item_type='comment', url=None, parent=25702960, text='Its registers are just larger. The way x86 moves memory is through registers, register-to-register or register-to&#x2F;from-memory. The AVX registers move up to 64 bytes in one move. A general purpose register moves at most 8 bytes.')

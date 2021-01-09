@@ -1,1 +1,1 @@
-Item(by='dave_sid', descendants=None, kids=None, score=None, time=1610181684, title=None, item_type='comment', url=None, parent=25697161, text='Build something on it. You will learn it so much better and it will sink in.')
+Item(by='dave_sid', descendants=None, kids=[25701771], score=None, time=1610181684, title=None, item_type='comment', url=None, parent=25697161, text='Build something on it. You will learn it so much better and it will sink in.')

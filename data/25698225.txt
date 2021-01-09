@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1610176192, title=None, item_type='comment', url=None, parent=25689541, text='I believe Apple&#x27;s margins have been a fairly consistent 38% for the last few years at least.')
+Item(by='saagarjha', descendants=None, kids=[25704117], score=None, time=1610176192, title=None, item_type='comment', url=None, parent=25689541, text='I believe Apple&#x27;s margins have been a fairly consistent 38% for the last few years at least.')

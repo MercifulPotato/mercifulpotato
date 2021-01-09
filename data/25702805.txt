@@ -1,0 +1,1 @@
+Item(by='CalChris', descendants=None, kids=[25702951, 25704107], score=None, time=1610215848, title=None, item_type='comment', url=None, parent=25702630, text='Neither <i>mmap()</i> nor <i>read()&#x2F;write()</i> leak memory.')

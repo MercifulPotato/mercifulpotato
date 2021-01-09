@@ -1,0 +1,1 @@
+Item(by='alexchamberlain', descendants=None, kids=None, score=None, time=1610220496, title=None, item_type='comment', url=None, parent=25703331, text='The kernel can, in theory, estimate what page you&#x27;re going to load next, so loading 4KB at a time may not have the page faults you&#x27;d expect.')

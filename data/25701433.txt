@@ -1,0 +1,1 @@
+Item(by='andrei-at', descendants=None, kids=None, score=None, time=1610208181, title=None, item_type='comment', url=None, parent=25663819, text='Hi, Andrei here.<p>Just a clarification as to why the P per RV prange numbers are good: This pattern is simply aggressively prefetched by the region prefetcher in the M1, while Zen3 doesn&#x27;t pull things in as aggressively.')

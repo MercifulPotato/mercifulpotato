@@ -1,0 +1,1 @@
+Item(by='jshen', descendants=None, kids=None, score=None, time=1610210911, title=None, item_type='comment', url=None, parent=25700011, text='Ractors don&#x27;t share everything, unlike threads.<p>Most objects are Unshareable objects, so you don&#x27;t need to care about thread-safety problem which is caused by sharing.')

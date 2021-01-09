@@ -1,1 +1,1 @@
-Item(by='pjc50', descendants=None, kids=None, score=None, time=1610196755, title=None, item_type='comment', url=None, parent=25699825, text='Hmm. Time for a Haskell-to-Javascript compiler.')
+Item(by='pjc50', descendants=None, kids=[25701458], score=None, time=1610196755, title=None, item_type='comment', url=None, parent=25699825, text='Hmm. Time for a Haskell-to-Javascript compiler.')

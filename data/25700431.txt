@@ -1,1 +1,1 @@
-Item(by='enkid', descendants=None, kids=None, score=None, time=1610201009, title=None, item_type='comment', url=None, parent=25700326, text='I think the word you&#x27;re looking for is hyperbole&#x2F;hyperbolic?')
+Item(by='enkid', descendants=None, kids=[25700860], score=None, time=1610201009, title=None, item_type='comment', url=None, parent=25700326, text='I think the word you&#x27;re looking for is hyperbole&#x2F;hyperbolic?')

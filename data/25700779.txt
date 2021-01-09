@@ -1,1 +1,1 @@
-Item(by='numpad0', descendants=None, kids=None, score=None, time=1610203826, title=None, item_type='comment', url=None, parent=25700639, text='Did they figure the pickle fork issue?')
+Item(by='numpad0', descendants=None, kids=[25702181, 25701738], score=None, time=1610203826, title=None, item_type='comment', url=None, parent=25700639, text='Did they figure the pickle fork issue?')

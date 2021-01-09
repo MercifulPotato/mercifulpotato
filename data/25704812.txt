@@ -1,0 +1,1 @@
+Item(by='knorker', descendants=None, kids=None, score=None, time=1610226798, title=None, item_type='comment', url=None, parent=25703589, text='I can&#x27;t speak for MSVC support, but to me CMake fails all other bullet points. <i>especially</i> cross-platform package detection.<p>I haven&#x27;t seen anything except autotools get this right.')

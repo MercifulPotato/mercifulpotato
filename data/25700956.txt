@@ -1,1 +1,1 @@
-Item(by='asddubs', descendants=None, kids=None, score=None, time=1610205342, title=None, item_type='comment', url=None, parent=25700841, text='I&#x27;ll agree CMake is pretty rough to get into, but what makes you say it doesn&#x27;t do it&#x27;s one job?')
+Item(by='asddubs', descendants=None, kids=[25704776], score=None, time=1610205342, title=None, item_type='comment', url=None, parent=25700841, text='I&#x27;ll agree CMake is pretty rough to get into, but what makes you say it doesn&#x27;t do it&#x27;s one job?')

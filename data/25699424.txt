@@ -1,1 +1,1 @@
-Item(by='incrudible', descendants=None, kids=None, score=None, time=1610190713, title=None, item_type='comment', url=None, parent=25696247, text='Alright, then maybe in a hundred years your gold comparison will be meaningful, but not today.')
+Item(by='incrudible', descendants=None, kids=[25701905], score=None, time=1610190713, title=None, item_type='comment', url=None, parent=25696247, text='Alright, then maybe in a hundred years your gold comparison will be meaningful, but not today.')

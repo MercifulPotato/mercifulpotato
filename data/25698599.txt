@@ -1,1 +1,1 @@
-Item(by='akamaka', descendants=None, kids=None, score=None, time=1610180160, title=None, item_type='comment', url=None, parent=25697971, text='I hope you reconsider your approach.  It won’t help you much if you one day find yourself in a persecuted minority.')
+Item(by='akamaka', descendants=None, kids=[25701799], score=None, time=1610180160, title=None, item_type='comment', url=None, parent=25697971, text='I hope you reconsider your approach.  It won’t help you much if you one day find yourself in a persecuted minority.')

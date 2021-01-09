@@ -1,1 +1,1 @@
-Item(by='read_if_gay_', descendants=None, kids=None, score=None, time=1610180126, title=None, item_type='comment', url=None, parent=25695752, text='This is countering my point how?')
+Item(by='read_if_gay_', descendants=None, kids=[25701646], score=None, time=1610180126, title=None, item_type='comment', url=None, parent=25695752, text='This is countering my point how?')

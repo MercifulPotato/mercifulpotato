@@ -1,1 +1,1 @@
-Item(by='diodorus', descendants=0, kids=None, score=1, time=1610171574, title="Stonehenge's Continental Cousin", item_type='story', url='https://www.archaeology.org/issues/411-2101/letter-from/9295-germany-woodhenge', parent=None, text=None)
+Item(by='diodorus', descendants=1, kids=[25703519, 25703546], score=21, time=1610171574, title="Stonehenge's Continental Cousin", item_type='story', url='https://www.archaeology.org/issues/411-2101/letter-from/9295-germany-woodhenge', parent=None, text=None)

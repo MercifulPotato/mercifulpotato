@@ -1,1 +1,1 @@
-Item(by='meowster', descendants=None, kids=None, score=None, time=1610143429, title=None, item_type='comment', url=None, parent=25689664, text='I think it would just be easier if someone &quot;accidently&quot; spilled coffee on it.')
+Item(by='meowster', descendants=None, kids=[25704529], score=None, time=1610143429, title=None, item_type='comment', url=None, parent=25689664, text='I think it would just be easier if someone &quot;accidently&quot; spilled coffee on it.')

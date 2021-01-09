@@ -1,1 +1,1 @@
-Item(by='syshum', descendants=None, kids=None, score=None, time=1610203223, title=None, item_type='comment', url=None, parent=25700108, text='fediverse also caved to pressure from Big Tech to put in place a system of censorship')
+Item(by='syshum', descendants=None, kids=[25702222], score=None, time=1610203223, title=None, item_type='comment', url=None, parent=25700108, text='fediverse also caved to pressure from Big Tech to put in place a system of censorship')
