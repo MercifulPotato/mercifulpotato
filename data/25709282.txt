@@ -1,0 +1,1 @@
+Item(by='optimalsolver', descendants=None, kids=[25709800, 25709647], score=None, time=1610249638, title=None, item_type='comment', url=None, parent=25708403, text='Comment on r&#x2F;aws:<p>&gt;I am praying and hoping that Parler chose to use DynamoDB, Cognito, API GW, lambda functions, SnS&#x2F;&#x2F;SQS , Cloudwatch etc. :-D')

@@ -1,0 +1,1 @@
+Item(by='inickt', descendants=None, kids=None, score=None, time=1610244310, title=None, item_type='comment', url=None, parent=25707768, text='Just wanted to point out that iOS Safari currently does not support web notifications, even for PWA. Works on Safari for macOS, but Apple hasn’t allowed it on iOS yet (along with a lot of PWA useful APIs).')

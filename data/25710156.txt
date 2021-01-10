@@ -1,0 +1,1 @@
+Item(by='jjtheblunt', descendants=None, kids=None, score=None, time=1610253619, title=None, item_type='comment', url=None, parent=25707252, text='Zero application level parallelism?<p>What about multiple posix threads on a multicore machine manipulating the same mapped page at the same time?')

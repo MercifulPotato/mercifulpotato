@@ -1,0 +1,1 @@
+Item(by='adds68', descendants=0, kids=None, score=2, time=1610227594, title='A dynamic rules_cc toolchain configuration for Bazel for both aarch64 and x86_64', item_type='story', url='https://www.codethink.co.uk/articles/2020/building-the-abseil-hello-bazel-project-for-a-different-architecture-using-a-dynamically-generated-toolchain/', parent=None, text=None)

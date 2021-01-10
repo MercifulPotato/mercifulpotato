@@ -1,1 +1,1 @@
-Item(by='dmitrygr', descendants=None, kids=None, score=None, time=1610223881, title=None, item_type='comment', url=None, parent=25702148, text='It is not like riding a bike at all. A few weeks of not flying, and I notice my landings getting sloppier and less smooth.')
+Item(by='dmitrygr', descendants=None, kids=[25708024], score=None, time=1610223881, title=None, item_type='comment', url=None, parent=25702148, text='It is not like riding a bike at all. A few weeks of not flying, and I notice my landings getting sloppier and less smooth.')

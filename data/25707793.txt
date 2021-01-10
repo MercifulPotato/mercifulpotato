@@ -1,0 +1,1 @@
+Item(by='chrismorgan', descendants=None, kids=None, score=None, time=1610243812, title=None, item_type='comment', url=None, parent=25706123, text='Note that the XML serialisation of HTML is still a thing—if you open a .xhtml file or navigate to something served with the content-type application&#x2F;xhxml+xml, the XML parser will be used instead of the HTML parser.')

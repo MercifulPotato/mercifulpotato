@@ -1,0 +1,1 @@
+Item(by='hendry', descendants=None, kids=None, score=None, time=1610243560, title=None, item_type='comment', url=None, parent=25701959, text='Developers using mmap broke the utility of strace for me.<p>Using mmap makes it pretty much impossible to debug what a program is actually doing!')

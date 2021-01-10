@@ -1,1 +1,1 @@
-Item(by='cosmotic', descendants=None, kids=None, score=None, time=1610227829, title=None, item_type='comment', url=None, parent=25701446, text='It doesn&#x27;t prevent the hospitalization, it prevents the symptoms that lead to hospitalization.')
+Item(by='cosmotic', descendants=None, kids=[25705329], score=None, time=1610227829, title=None, item_type='comment', url=None, parent=25701446, text='It doesn&#x27;t prevent the hospitalization, it prevents the symptoms that lead to hospitalization.')

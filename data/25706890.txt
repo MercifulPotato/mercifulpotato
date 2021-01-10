@@ -1,0 +1,1 @@
+Item(by='toast0', descendants=None, kids=None, score=None, time=1610239255, title=None, item_type='comment', url=None, parent=25702491, text='The minimizer should output HTML without unneccesary tags, and it should probably expect to run on its own output, so I don&#x27;t see why adding unneccesary tags would help it work.')

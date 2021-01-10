@@ -1,0 +1,1 @@
+Item(by='__turbobrew__', descendants=None, kids=None, score=None, time=1610234499, title=None, item_type='comment', url=None, parent=25705114, text='Every time you run a dynamically linked program on linux the system linker mmaps your program + libraries into memory.<p>You may not personally see mmap used, but it is used quite often in software you use.')

@@ -1,1 +1,1 @@
-Item(by='p1esk', descendants=None, kids=None, score=None, time=1610144722, title=None, item_type='comment', url=None, parent=25691208, text='That&#x27;s a lot, but the way to look at it is: &quot;how many TOPS per second <i>per watt</i> when we run Resnet-50 on it&quot;')
+Item(by='p1esk', descendants=None, kids=[25705695], score=None, time=1610144722, title=None, item_type='comment', url=None, parent=25691208, text='That&#x27;s a lot, but the way to look at it is: &quot;how many TOPS per second <i>per watt</i> when we run Resnet-50 on it&quot;')

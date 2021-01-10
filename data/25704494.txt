@@ -1,1 +1,1 @@
-Item(by='mkr-hn', descendants=None, kids=None, score=None, time=1610224791, title=None, item_type='comment', url=None, parent=25697068, text='This is why the USPS is part of the constitution.')
+Item(by=None, descendants=None, kids=None, score=None, time=1610224791, title=None, item_type='comment', url=None, parent=25697068, text=None)

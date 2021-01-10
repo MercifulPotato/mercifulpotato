@@ -1,0 +1,1 @@
+Item(by='owl57', descendants=None, kids=None, score=None, time=1610238469, title=None, item_type='comment', url=None, parent=25703101, text='Are page tables garbage-collected in Linux? That seems like a potential non-trivial leak source: up to 200MB for your hypothetical 100GB file.')

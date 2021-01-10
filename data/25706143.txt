@@ -1,0 +1,1 @@
+Item(by='crazypython', descendants=None, kids=None, score=None, time=1610234320, title=None, item_type='comment', url=None, parent=25704645, text='Thanks! We just fixed a major bug where you would sometimes take far, far more damage than was correct, especially with bots.')

@@ -1,0 +1,1 @@
+Item(by='jiggawatts', descendants=None, kids=None, score=None, time=1610247245, title=None, item_type='comment', url=None, parent=25704189, text='Stupid question: Does the <i>entire</i> AVX state need to be saved and restored for a memcpy routine? It seems like it would be sufficient to save at most a couple of registers for a tight copy loop...')

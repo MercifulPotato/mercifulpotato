@@ -1,1 +1,1 @@
-Item(by='dennisy', descendants=None, kids=None, score=None, time=1610190633, title=None, item_type='comment', url=None, parent=25698005, text='Could you explain what this POC shows?')
+Item(by='dennisy', descendants=None, kids=[25705744], score=None, time=1610190633, title=None, item_type='comment', url=None, parent=25698005, text='Could you explain what this POC shows?')

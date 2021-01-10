@@ -1,1 +1,1 @@
-Item(by='SpicyLemonZest', descendants=None, kids=None, score=None, time=1610224065, title=None, item_type='comment', url=None, parent=25704343, text='Twitter just does not have anywhere close to monopoly control on the flow of information. Only 20% of the country uses it at all.')
+Item(by='SpicyLemonZest', descendants=None, kids=[25706739], score=None, time=1610224065, title=None, item_type='comment', url=None, parent=25704343, text='Twitter just does not have anywhere close to monopoly control on the flow of information. Only 20% of the country uses it at all.')

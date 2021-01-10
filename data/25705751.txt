@@ -1,0 +1,1 @@
+Item(by='klodolph', descendants=None, kids=None, score=None, time=1610232079, title=None, item_type='comment', url=None, parent=25702979, text='You don’t have to longjmp, you can remap the memory and set a flag, return from the signal handler, handle the error later, if you like.')

@@ -1,1 +1,1 @@
-Item(by='OpuRahman', descendants=0, kids=None, score=2, time=1610210250, title='Climate change: Extreme weather causes losses in 2020', item_type='story', url='https://www.bbc.com/news/science-environment-55416013', parent=None, text=None)
+Item(by='OpuRahman', descendants=1, kids=[25708714], score=4, time=1610210250, title='Climate change: Extreme weather causes losses in 2020', item_type='story', url='https://www.bbc.com/news/science-environment-55416013', parent=None, text=None)

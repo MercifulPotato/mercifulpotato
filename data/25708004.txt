@@ -1,0 +1,1 @@
+Item(by='KMag', descendants=None, kids=None, score=None, time=1610244986, title=None, item_type='comment', url=None, parent=25702142, text='&gt; if (a == 0) assert(b == 0);<p>Even on x86, you can&#x27;t make this assertion without any synchronization primitives (mutexes, etc.).  Without synchronization, the a = 1; b = 1; can run between the (a == 0) and assert(b == 0).')

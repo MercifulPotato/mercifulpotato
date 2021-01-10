@@ -1,1 +1,1 @@
-Item(by='nodematic', descendants=None, kids=None, score=None, time=1610212393, title=None, item_type='comment', url=None, parent=25702042, text='Cool.  Interesting concept.  While I&#x27;m not in the video game space, it seems to me like there could be value for a particular niche.')
+Item(by='nodematic', descendants=None, kids=[25707352], score=None, time=1610212393, title=None, item_type='comment', url=None, parent=25702042, text='Cool.  Interesting concept.  While I&#x27;m not in the video game space, it seems to me like there could be value for a particular niche.')

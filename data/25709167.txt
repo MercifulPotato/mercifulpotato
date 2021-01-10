@@ -1,0 +1,1 @@
+Item(by='dannyw', descendants=None, kids=None, score=None, time=1610249253, title=None, item_type='comment', url=None, parent=25709000, text='They don’t use any of AWS’s services other than EC2 and bare metal, because they don’t want to be locked in.')

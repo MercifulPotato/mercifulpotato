@@ -1,1 +1,1 @@
-Item(by='amelius', descendants=None, kids=None, score=None, time=1610222348, title=None, item_type='comment', url=None, parent=25704068, text='Ah, I see it&#x27;s confusing, but I really meant decentralized.<p>What we currently have is centralized in the silo-sense.')
+Item(by='amelius', descendants=None, kids=[25704726, 25704794], score=None, time=1610222348, title=None, item_type='comment', url=None, parent=25704068, text='Ah, I see it&#x27;s confusing, but I really meant decentralized.<p>What we currently have is centralized in the silo-sense.')

@@ -1,1 +1,1 @@
-Item(by='AbdHicham', descendants=0, kids=None, score=5, time=1610218171, title='Platformio IDE: Professional collaborative platform for embedded development', item_type='story', url='https://platformio.org/platformio-ide', parent=None, text=None)
+Item(by='AbdHicham', descendants=1, kids=[25707028], score=9, time=1610218171, title='Platformio IDE: Professional collaborative platform for embedded development', item_type='story', url='https://platformio.org/platformio-ide', parent=None, text=None)

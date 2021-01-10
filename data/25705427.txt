@@ -1,0 +1,1 @@
+Item(by='im3w1l', descendants=None, kids=[25706597], score=None, time=1610230254, title=None, item_type='comment', url=None, parent=25704967, text='If I <i>read</i> with a huge block size, say 100mb. Will the OS request things in a sane way?')

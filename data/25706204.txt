@@ -1,0 +1,1 @@
+Item(by='lima', descendants=None, kids=[25707177], score=None, time=1610234680, title=None, item_type='comment', url=None, parent=25704951, text='Regarding multi-tenancy: The CRD schema is global but versioned, so it&#x27;s annoying-but-manageable with multiple tenants.<p>Controllers can be scoped to a namespace without requiring cluster-level permissions, no?')

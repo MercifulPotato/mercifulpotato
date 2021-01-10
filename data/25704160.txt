@@ -1,1 +1,1 @@
-Item(by='vmception', descendants=None, kids=None, score=None, time=1610222778, title=None, item_type='comment', url=None, parent=25703441, text='wow someone missed the flight because their PCR COVID test took a few hours longer to arrive')
+Item(by='vmception', descendants=None, kids=[25706859], score=None, time=1610222778, title=None, item_type='comment', url=None, parent=25703441, text='wow someone missed the flight because their PCR COVID test took a few hours longer to arrive')

@@ -1,1 +1,1 @@
-Item(by='bluGill', descendants=None, kids=None, score=None, time=1610225912, title=None, item_type='comment', url=None, parent=25702946, text='Can you name one that works and isn&#x27;t worse?')
+Item(by='bluGill', descendants=None, kids=[25705228], score=None, time=1610225912, title=None, item_type='comment', url=None, parent=25702946, text='Can you name one that works and isn&#x27;t worse?')

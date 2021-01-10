@@ -1,1 +1,1 @@
-Item(by='majkinetor', descendants=0, kids=None, score=2, time=1610215207, title='Prevent future disease by analyzing and shaping the infant’s oral microbiome', item_type='story', url='https://www.nature.com/articles/s41368-020-0082-x', parent=None, text=None)
+Item(by='majkinetor', descendants=2, kids=[25704732], score=2, time=1610215207, title='Prevent future disease by analyzing and shaping the infant’s oral microbiome', item_type='story', url='https://www.nature.com/articles/s41368-020-0082-x', parent=None, text=None)

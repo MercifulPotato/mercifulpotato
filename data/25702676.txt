@@ -1,1 +1,1 @@
-Item(by='mlyle', descendants=None, kids=None, score=None, time=1610215287, title=None, item_type='comment', url=None, parent=25702293, text='Yup.  There were plans to give the Shuttle flyback boosters at various points, but each time it was thought it wouldn&#x27;t pay off.')
+Item(by='mlyle', descendants=None, kids=[25708986], score=None, time=1610215287, title=None, item_type='comment', url=None, parent=25702293, text='Yup.  There were plans to give the Shuttle flyback boosters at various points, but each time it was thought it wouldn&#x27;t pay off.')

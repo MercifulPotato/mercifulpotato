@@ -1,1 +1,1 @@
-Item(by='lukastyrychtr', descendants=0, kids=None, score=7, time=1610223347, title='Writing a Kubernetes CRD Controller in Rust', item_type='story', url='http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html', parent=None, text=None)
+Item(by='lukastyrychtr', descendants=47, kids=[25707145, 25705770, 25704556, 25709905, 25704491, 25704897], score=122, time=1610223347, title='Writing a Kubernetes CRD Controller in Rust', item_type='story', url='http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html', parent=None, text=None)
