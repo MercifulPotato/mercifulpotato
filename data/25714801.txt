@@ -1,0 +1,1 @@
+Item(by='kodablah', descendants=None, kids=None, score=None, time=1610288299, title=None, item_type='comment', url=None, parent=25714703, text='Directory servers, the DNS of Tor iirc, are a central point of failure I believe. I would guess it&#x27;s hard to distribute this and keep queriers anonymous. Can do a DHT over Tor, but you still need known address list to bootstrap.')

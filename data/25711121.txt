@@ -1,1 +1,1 @@
-Item(by='dang', descendants=None, kids=None, score=None, time=1610258461, title=None, item_type='comment', url=None, parent=25707878, text='Please do not take HN threads further into ideological or nationalistic flamewar.')
+Item(by='dang', descendants=None, kids=[25714186], score=None, time=1610258461, title=None, item_type='comment', url=None, parent=25707878, text='Please do not take HN threads further into ideological or nationalistic flamewar.')

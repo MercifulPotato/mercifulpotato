@@ -1,1 +1,1 @@
-Item(by='faeyanpiraat', descendants=None, kids=None, score=None, time=1610265890, title=None, item_type='comment', url=None, parent=25711899, text='I’m not sure if you are joking or not.')
+Item(by='faeyanpiraat', descendants=None, kids=[25714384], score=None, time=1610265890, title=None, item_type='comment', url=None, parent=25711899, text='I’m not sure if you are joking or not.')

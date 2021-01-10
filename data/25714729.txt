@@ -1,0 +1,1 @@
+Item(by='pansa2', descendants=None, kids=[25715005], score=None, time=1610287702, title=None, item_type='comment', url=None, parent=25714612, text='&gt; <i>bool(Array(False, False)) would evaluate to True</i><p>Isn&#x27;t that consistent with the built-in `list`, though, because `bool([False, False])` is True?')

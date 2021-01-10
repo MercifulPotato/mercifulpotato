@@ -1,1 +1,1 @@
-Item(by='rkagerer', descendants=0, kids=None, score=2, time=1610240883, title='Follow-up from Kashmir Hill, the reporter who lived on Bitcoin for a week', item_type='story', url='https://www.nytimes.com/2020/12/16/style/bitcoin.html', parent=None, text=None)
+Item(by='rkagerer', descendants=1, kids=[25712966], score=3, time=1610240883, title='Follow-up from Kashmir Hill, the reporter who lived on Bitcoin for a week', item_type='story', url='https://www.nytimes.com/2020/12/16/style/bitcoin.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='guerrilla', descendants=None, kids=None, score=None, time=1610202791, title=None, item_type='comment', url=None, parent=25700612, text='Probably because there was only really one side...')
+Item(by='guerrilla', descendants=None, kids=[25715306], score=None, time=1610202791, title=None, item_type='comment', url=None, parent=25700612, text='Probably because there was only really one side...')

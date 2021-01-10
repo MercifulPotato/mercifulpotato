@@ -1,0 +1,1 @@
+Item(by='IshKebab', descendants=None, kids=[25713922], score=None, time=1610278279, title=None, item_type='comment', url=None, parent=25702204, text='&gt; How do you propose CMake supports all those build generators without doing this?<p>I propose that it doesn&#x27;t support build generators. It should do the build itself, like QBS did.')

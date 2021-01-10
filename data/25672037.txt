@@ -1,1 +1,1 @@
-Item(by='chrisbennet', descendants=None, kids=None, score=None, time=1610032898, title=None, item_type='comment', url=None, parent=25667475, text='I was just lucky. I never had to market myself. Jobs just fell in my lap.')
+Item(by='chrisbennet', descendants=None, kids=[25712560], score=None, time=1610032898, title=None, item_type='comment', url=None, parent=25667475, text='I was just lucky. I never had to market myself. Jobs just fell in my lap.')

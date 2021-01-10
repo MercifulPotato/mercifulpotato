@@ -1,1 +1,1 @@
-Item(by='epse', descendants=None, kids=None, score=None, time=1610269777, title=None, item_type='comment', url=None, parent=25711342, text='Yes but also sort of no? It&#x27;s a whole can of worms, which Web standard is done by who')
+Item(by='epse', descendants=None, kids=[25713043], score=None, time=1610269777, title=None, item_type='comment', url=None, parent=25711342, text='Yes but also sort of no? It&#x27;s a whole can of worms, which Web standard is done by who')

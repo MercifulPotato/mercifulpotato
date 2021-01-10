@@ -1,0 +1,1 @@
+Item(by='scaramanga', descendants=None, kids=None, score=None, time=1610278037, title=None, item_type='comment', url=None, parent=25703792, text='Long story short. Spectre mitigations make ret_from_syscall much slower. Much slower than taking a page-fault.')

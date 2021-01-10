@@ -1,1 +1,1 @@
-Item(by='herval', descendants=None, kids=None, score=None, time=1610224768, title=None, item_type='comment', url=None, parent=25702241, text='this is a great idea, and execution is looking good! I&#x27;d not call it half baked at all :-)')
+Item(by='herval', descendants=None, kids=[25713539], score=None, time=1610224768, title=None, item_type='comment', url=None, parent=25702241, text='this is a great idea, and execution is looking good! I&#x27;d not call it half baked at all :-)')

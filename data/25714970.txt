@@ -1,0 +1,1 @@
+Item(by='brian_herman', descendants=None, kids=[25714992, 25715017], score=None, time=1610289458, title=None, item_type='comment', url=None, parent=25713915, text='Can you do the same thing with dicts and make it so d[&#x27;non_existant_key&#x27;] does not create an exception?')

@@ -1,1 +1,1 @@
-Item(by='andirk', descendants=None, kids=None, score=None, time=1610262740, title=None, item_type='comment', url=None, parent=25705601, text='Food and water have fundamental value.')
+Item(by='andirk', descendants=None, kids=[25713193], score=None, time=1610262740, title=None, item_type='comment', url=None, parent=25705601, text='Food and water have fundamental value.')

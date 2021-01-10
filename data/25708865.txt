@@ -1,1 +1,1 @@
-Item(by='lawnchair_larry', descendants=None, kids=None, score=None, time=1610248148, title=None, item_type='comment', url=None, parent=25708706, text='In no way does this describe conservative discourse. This just demonstrates how far apart the bubbles are growing.')
+Item(by='lawnchair_larry', descendants=None, kids=[25715369], score=None, time=1610248148, title=None, item_type='comment', url=None, parent=25708706, text='In no way does this describe conservative discourse. This just demonstrates how far apart the bubbles are growing.')

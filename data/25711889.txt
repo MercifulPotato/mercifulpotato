@@ -1,1 +1,1 @@
-Item(by='vuciv1', descendants=None, kids=None, score=None, time=1610263384, title=None, item_type='comment', url=None, parent=25711622, text='This is pretty cool. How&#x27;d you decide on the powerstats?<p>Also, have you had any customers yet? I&#x27;m wondering who your market is')
+Item(by='vuciv1', descendants=None, kids=[25713817], score=None, time=1610263384, title=None, item_type='comment', url=None, parent=25711622, text='This is pretty cool. How&#x27;d you decide on the powerstats?<p>Also, have you had any customers yet? I&#x27;m wondering who your market is')

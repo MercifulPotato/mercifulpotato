@@ -1,0 +1,1 @@
+Item(by='layoutIfNeeded', descendants=None, kids=None, score=None, time=1610286626, title=None, item_type='comment', url=None, parent=25714572, text='Or just do the classic rejection sampling technique:<p><pre><code>  do {\n      x = random(-R, R)\n      y = random(-R, R)\n  } while (x*x + y*y &gt; R*R)</code></pre>')

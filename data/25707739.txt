@@ -1,1 +1,1 @@
-Item(by='iso8859-1', descendants=None, kids=None, score=None, time=1610243537, title=None, item_type='comment', url=None, parent=25704994, text='The Berlin FP group on Meetup just finished the haskellbook.com , you&#x27;re just in time to join in with the next reading group!')
+Item(by='iso8859-1', descendants=None, kids=[25715084], score=None, time=1610243537, title=None, item_type='comment', url=None, parent=25704994, text='The Berlin FP group on Meetup just finished the haskellbook.com , you&#x27;re just in time to join in with the next reading group!')

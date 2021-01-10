@@ -1,0 +1,1 @@
+Item(by='layer8', descendants=None, kids=None, score=None, time=1610277191, title=None, item_type='comment', url=None, parent=25713298, text='IDEs arguably already do that, at least for the innermost scope the current line is part of, plus breadcrumbs for the surrounding scopes.')

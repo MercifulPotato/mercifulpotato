@@ -1,1 +1,1 @@
-Item(by='blopeur', descendants=0, kids=None, score=1, time=1610196817, title='Baleen Analytics', item_type='story', url='https://queue.acm.org/detail.cfm?ref=rss&id=3446917', parent=None, text=None)
+Item(by='blopeur', descendants=2, kids=[25713629], score=21, time=1610196817, title='Baleen Analytics', item_type='story', url='https://queue.acm.org/detail.cfm?ref=rss&id=3446917', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='neslinesli93', descendants=0, kids=None, score=1, time=1610267145, title='Show HN: JPEG.rocks – Optimize JPEG images using WebAssembly', item_type='story', url='https://jpeg.rocks', parent=None, text=None)
+Item(by='neslinesli93', descendants=7, kids=[25713512, 25713892, 25713486, 25714614], score=33, time=1610267145, title='Show HN: JPEG.rocks – Privacy-aware JPEG optimizer built with WebAssembly', item_type='story', url='https://jpeg.rocks', parent=None, text=None)
