@@ -1,0 +1,1 @@
+Item(by='rasengan', descendants=None, kids=[25715640], score=None, time=1610291120, title=None, item_type='comment', url=None, parent=25714941, text='&gt; You can&#x27;t cryptographically verify that the system you are using doesn&#x27;t have backdoors<p>Yes you can, there are many methods including but not limited to SGX among other things.')

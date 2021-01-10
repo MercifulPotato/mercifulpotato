@@ -1,1 +1,1 @@
-Item(by='mlitwiniuk', descendants=0, kids=None, score=5, time=1610286112, title='Covid-19 and Vit D: “Everyone take Vitamin D and cut out the junk food.”', item_type='story', url='https://www.theguardian.com/lifeandstyle/2021/jan/10/does-vitamin-d-combat-covid', parent=None, text=None)
+Item(by='mlitwiniuk', descendants=1, kids=[25716964], score=11, time=1610286112, title='Covid-19 and Vit D: “Everyone take Vitamin D and cut out the junk food.”', item_type='story', url='https://www.theguardian.com/lifeandstyle/2021/jan/10/does-vitamin-d-combat-covid', parent=None, text=None)

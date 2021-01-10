@@ -1,1 +1,1 @@
-Item(by='charlieroth', descendants=None, kids=None, score=None, time=1610283411, title=None, item_type='comment', url=None, parent=25709254, text='JavaScript is not often recommended as a first language but for kids the feedback loop of web development might keep them more interested!')
+Item(by='charlieroth', descendants=None, kids=[25716517], score=None, time=1610283411, title=None, item_type='comment', url=None, parent=25709254, text='JavaScript is not often recommended as a first language but for kids the feedback loop of web development might keep them more interested!')

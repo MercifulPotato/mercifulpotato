@@ -1,0 +1,1 @@
+Item(by='chrisseaton', descendants=None, kids=[25717923], score=None, time=1610302471, title=None, item_type='comment', url=None, parent=25717377, text='getelementptr is just some pointer arithmetic - all backends can do that.<p>And using signed integers is unusual yes, but again all backends (obviously) also support signed integers.')

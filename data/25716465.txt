@@ -1,0 +1,1 @@
+Item(by='jahewson', descendants=None, kids=[25717419], score=None, time=1610296938, title=None, item_type='comment', url=None, parent=25716129, text='Then it would be “build your own FreeType”.<p>Zooming big blobs of text at 60fps without caching remains an open problem as it’s necessary to use a GPU shader and all of the approaches make one or another lacklustre trade-offs.')

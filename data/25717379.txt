@@ -1,0 +1,1 @@
+Item(by='threentaway', descendants=None, kids=[25720253, 25720144], score=None, time=1610301639, title=None, item_type='comment', url=None, parent=25716836, text='This seems like you didn&#x27;t have proper monitoring and alerting set up for your job, not sure how that is a downside of AWS.')

@@ -1,0 +1,1 @@
+Item(by='rcxdude', descendants=None, kids=None, score=None, time=1610300315, title=None, item_type='comment', url=None, parent=25716639, text='If it was written in rust, there&#x27;s no reason they couldn&#x27;t use LLVM rust to start development until it became self-hosting. (Same as you can develop a self-hosting C compiler by starting with gcc)')

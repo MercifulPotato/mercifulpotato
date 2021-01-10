@@ -1,1 +1,1 @@
-Item(by='Moosdijk', descendants=None, kids=None, score=None, time=1610269320, title=None, item_type='comment', url=None, parent=25711738, text='I think it&#x27;s internally. The article also states that the users of the code would still have to pay the royalties.')
+Item(by='Moosdijk', descendants=None, kids=[25720434], score=None, time=1610269320, title=None, item_type='comment', url=None, parent=25711738, text='I think it&#x27;s internally. The article also states that the users of the code would still have to pay the royalties.')

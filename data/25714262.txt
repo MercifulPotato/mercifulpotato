@@ -1,1 +1,1 @@
-Item(by='josefx', descendants=None, kids=None, score=None, time=1610283481, title=None, item_type='comment', url=None, parent=25713873, text='That sounds like the code needs some refactoring. If only to clearly encapsulate individual steps.')
+Item(by='josefx', descendants=None, kids=[25715798], score=None, time=1610283481, title=None, item_type='comment', url=None, parent=25713873, text='That sounds like the code needs some refactoring. If only to clearly encapsulate individual steps.')

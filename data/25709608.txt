@@ -1,1 +1,1 @@
-Item(by='ed25519FUUU', descendants=None, kids=None, score=None, time=1610250867, title=None, item_type='comment', url=None, parent=25709442, text='Well Jan 6th was 3 days ago.')
+Item(by='ed25519FUUU', descendants=None, kids=[25719055], score=None, time=1610250867, title=None, item_type='comment', url=None, parent=25709442, text='Well Jan 6th was 3 days ago.')

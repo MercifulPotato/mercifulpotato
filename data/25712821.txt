@@ -1,1 +1,1 @@
-Item(by='stevep98', descendants=None, kids=None, score=None, time=1610271293, title=None, item_type='comment', url=None, parent=25705059, text='This reminds me that last week I was joking with a friend... someone should make an AI that solves leetcode problems. Instant hire!')
+Item(by='stevep98', descendants=None, kids=[25716215], score=None, time=1610271293, title=None, item_type='comment', url=None, parent=25705059, text='This reminds me that last week I was joking with a friend... someone should make an AI that solves leetcode problems. Instant hire!')

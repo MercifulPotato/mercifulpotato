@@ -1,1 +1,1 @@
-Item(by='andrew_', descendants=None, kids=None, score=None, time=1610288124, title=None, item_type='comment', url=None, parent=25711704, text='Is it still profitable to mine Siacoin locally?')
+Item(by='andrew_', descendants=None, kids=[25716399], score=None, time=1610288124, title=None, item_type='comment', url=None, parent=25711704, text='Is it still profitable to mine Siacoin locally?')

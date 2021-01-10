@@ -1,1 +1,1 @@
-Item(by='cbm-vic-20', descendants=None, kids=None, score=None, time=1610294871, title=None, item_type='comment', url=None, parent=25713305, text='Likewise, LaTeX isn&#x27;t pronounced as the rubber derivative, but as &quot;Lah-tecchh&quot; &#x2F;ˈlɑːtɛx&#x2F; (IPA via Wikipedia)')
+Item(by='cbm-vic-20', descendants=None, kids=[25717079], score=None, time=1610294871, title=None, item_type='comment', url=None, parent=25713305, text='Likewise, LaTeX isn&#x27;t pronounced as the rubber derivative, but as &quot;Lah-tecchh&quot; &#x2F;ˈlɑːtɛx&#x2F; (IPA via Wikipedia)')

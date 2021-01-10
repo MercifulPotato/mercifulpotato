@@ -1,0 +1,1 @@
+Item(by='pansa2', descendants=None, kids=[25717809, 25717804], score=None, time=1610297789, title=None, item_type='comment', url=None, parent=25716275, text='PEP8 recommends using `if seq:` instead of more verbose alternatives like `if len(seq):`.')

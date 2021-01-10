@@ -1,1 +1,1 @@
-Item(by='wiredone', descendants=None, kids=None, score=None, time=1610273654, title=None, item_type='comment', url=None, parent=25706993, text='Free speech is not &quot;without consequences&quot;. There&#x27;s nothing stopping them from starting their own data centre.')
+Item(by='wiredone', descendants=None, kids=[25720030], score=None, time=1610273654, title=None, item_type='comment', url=None, parent=25706993, text='Free speech is not &quot;without consequences&quot;. There&#x27;s nothing stopping them from starting their own data centre.')

@@ -1,1 +1,1 @@
-Item(by='bzb6', descendants=None, kids=None, score=None, time=1610276931, title=None, item_type='comment', url=None, parent=25713427, text='If those users cared about this they would’ve voted for legislation similar to the gdpr.')
+Item(by='bzb6', descendants=None, kids=[25718237], score=None, time=1610276931, title=None, item_type='comment', url=None, parent=25713427, text='If those users cared about this they would’ve voted for legislation similar to the gdpr.')

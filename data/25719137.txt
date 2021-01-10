@@ -1,0 +1,1 @@
+Item(by='bryzaguy', descendants=None, kids=None, score=None, time=1610309588, title=None, item_type='comment', url=None, parent=25697570, text='An alternative would be keeping theme state in JS as suggested at the end of the article which improves the cache-ability of the css file as themes change.')

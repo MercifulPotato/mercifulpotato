@@ -1,0 +1,1 @@
+Item(by='stryan', descendants=None, kids=[25718241], score=None, time=1610302722, title=None, item_type='comment', url=None, parent=25716429, text='Besides what others said, I believe you can now shard Synapse and scale horizontally (part of why matrix.org has gotten faster recently).')

@@ -1,1 +1,1 @@
-Item(by='tomcam', descendants=None, kids=None, score=None, time=1610290532, title=None, item_type='comment', url=None, parent=25712949, text='What is the equivalent of this project but with support for Unicode and RTL?')
+Item(by='tomcam', descendants=None, kids=[25716599], score=None, time=1610290532, title=None, item_type='comment', url=None, parent=25712949, text='What is the equivalent of this project but with support for Unicode and RTL?')

@@ -1,0 +1,1 @@
+Item(by='whateveracct', descendants=None, kids=[25719302], score=None, time=1610309903, title=None, item_type='comment', url=None, parent=25719083, text='NixOS uses systemd pretty heavily under the hood. You configure systemd services in the Nix language as part of your system config. It&#x27;s quite nice.')

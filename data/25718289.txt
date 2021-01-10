@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1610305591, title=None, item_type='comment', url=None, parent=25716804, text='It could take the same approach as GDC and GNAT, by having the frontend written on the same language (D and Ada respectively), shared with other implementations using another set of backends.')

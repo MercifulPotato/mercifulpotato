@@ -1,1 +1,1 @@
-Item(by='mardiyah', descendants=0, kids=None, score=2, time=1610287432, title='Electric cars hit record 54% of sales in Norway as VW overtakes Tesla', item_type='story', url='https://edition.cnn.com/2021/01/05/business/norway-electric-cars-vw-tesla/index.html', parent=None, text=None)
+Item(by='mardiyah', descendants=5, kids=[25717041], score=23, time=1610287432, title='Electric cars hit record 54% of sales in Norway as VW overtakes Tesla', item_type='story', url='https://edition.cnn.com/2021/01/05/business/norway-electric-cars-vw-tesla/index.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='faitswulff', descendants=None, kids=[25716967, 25718289, 25717221], score=None, time=1610298834, title=None, item_type='comment', url=None, parent=25716773, text='I see, so it’s written in C++. Would it remain that way, though? AFAIK the LLVM Rust is, itself, written in Rust, right? I imagine that it would be a goal to do the same for gcc.')

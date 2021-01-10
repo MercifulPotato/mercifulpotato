@@ -1,1 +1,1 @@
-Item(by='victorthehuman', descendants=0, kids=[25713089], score=1, time=1610273728, title='Show HN: Yet another iOS Hacker News client: Metalens', item_type='story', url='https://apps.apple.com/us/app/metalens/id1506654571?ls=1', parent=None, text=None)
+Item(by='victorthehuman', descendants=1, kids=[25713089], score=2, time=1610273728, title='Show HN: Yet another iOS Hacker News client: Metalens', item_type='story', url='https://apps.apple.com/us/app/metalens/id1506654571?ls=1', parent=None, text=None)

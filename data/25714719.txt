@@ -1,1 +1,1 @@
-Item(by='doener', descendants=1, kids=[25714809], score=2, time=1610287594, title='The Impractical but Indisputable Rise of Retrocomputing', item_type='story', url='https://www.nytimes.com/2021/01/08/style/retrocomputing.html', parent=None, text=None)
+Item(by='doener', descendants=4, kids=[25717312, 25714809, 25717448], score=5, time=1610287594, title='The Impractical but Indisputable Rise of Retrocomputing', item_type='story', url='https://www.nytimes.com/2021/01/08/style/retrocomputing.html', parent=None, text=None)

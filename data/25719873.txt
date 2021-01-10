@@ -1,0 +1,1 @@
+Item(by='cvwright', descendants=None, kids=None, score=None, time=1610312980, title=None, item_type='comment', url=None, parent=25719071, text='I’d be surprised if 24gb is sufficient for 100k users.  Back when they switched Synapse to Python3, they showed a graph where the matrix.org homeserver had something like 8-10 syncotron processes consuming 8-10gb each.')

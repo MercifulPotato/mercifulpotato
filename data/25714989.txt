@@ -1,1 +1,1 @@
-Item(by='ric2b', descendants=None, kids=None, score=None, time=1610289591, title=None, item_type='comment', url=None, parent=25710163, text='And that number is 42. Now the question is how to write all the functions to decode what we want from it.')
+Item(by='ric2b', descendants=None, kids=[25717409], score=None, time=1610289591, title=None, item_type='comment', url=None, parent=25710163, text='And that number is 42. Now the question is how to write all the functions to decode what we want from it.')

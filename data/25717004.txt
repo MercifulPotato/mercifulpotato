@@ -1,0 +1,1 @@
+Item(by='rectang', descendants=None, kids=[25718654], score=None, time=1610299813, title=None, item_type='comment', url=None, parent=25716937, text='Glad you&#x27;re going slow on the stable ABI and resisting the pressure to put out something half-baked.  The C++ ABI is horribly fragile and complex.  Unless the pitfalls of C++ can be avoided, making no ABI promises is better.')

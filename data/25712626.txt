@@ -1,1 +1,1 @@
-Item(by='Trias11', descendants=None, kids=None, score=None, time=1610269698, title=None, item_type='comment', url=None, parent=25712315, text='The way things are going - mentioning his name might become a criminal offence by the end of Jan.')
+Item(by='Trias11', descendants=None, kids=[25717679], score=None, time=1610269698, title=None, item_type='comment', url=None, parent=25712315, text='The way things are going - mentioning his name might become a criminal offence by the end of Jan.')
