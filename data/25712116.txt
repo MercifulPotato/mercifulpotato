@@ -1,0 +1,1 @@
+Item(by='skohan', descendants=None, kids=None, score=None, time=1610265403, title=None, item_type='comment', url=None, parent=25707943, text='In my experience, 98% of the time, I don&#x27;t have to think much about memory management in Rust. The other 2% of the time I am untangling some kind of tricky, arcane situation.')

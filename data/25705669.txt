@@ -1,1 +1,1 @@
-Item(by='Uehreka', descendants=None, kids=None, score=None, time=1610231567, title=None, item_type='comment', url=None, parent=25700294, text='To pick from a recent HN thread: A raytracer has probably not been written yet using only printf. Who wants the glory?')
+Item(by='Uehreka', descendants=None, kids=[25711460], score=None, time=1610231567, title=None, item_type='comment', url=None, parent=25700294, text='To pick from a recent HN thread: A raytracer has probably not been written yet using only printf. Who wants the glory?')

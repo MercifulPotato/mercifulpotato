@@ -1,1 +1,1 @@
-Item(by='shadowgovt', descendants=None, kids=None, score=None, time=1610249899, title=None, item_type='comment', url=None, parent=25709170, text='That&#x27;s a good job for an FBI task force.')
+Item(by='shadowgovt', descendants=None, kids=[25711903], score=None, time=1610249899, title=None, item_type='comment', url=None, parent=25709170, text='That&#x27;s a good job for an FBI task force.')

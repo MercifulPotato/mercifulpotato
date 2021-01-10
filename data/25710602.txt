@@ -1,0 +1,1 @@
+Item(by='ehsankia', descendants=None, kids=[25712269], score=None, time=1610255856, title=None, item_type='comment', url=None, parent=25706792, text='Maybe this is a stupid request, but I&#x27;d like &lt;img&gt; (or maybe the newer &lt;picture&gt; tag) to take a video but with autoplay=true, loop=true, muted=true and controls=false when given a video source')

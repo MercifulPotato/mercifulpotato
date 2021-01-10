@@ -1,1 +1,1 @@
-Item(by='permo-w', descendants=None, kids=None, score=None, time=1610237218, title=None, item_type='comment', url=None, parent=25706182, text='Hacker News definitely should')
+Item(by='permo-w', descendants=None, kids=[25712823], score=None, time=1610237218, title=None, item_type='comment', url=None, parent=25706182, text='Hacker News definitely should')

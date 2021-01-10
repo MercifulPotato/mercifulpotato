@@ -1,1 +1,1 @@
-Item(by='6a74', descendants=0, kids=None, score=1, time=1610229952, title='NIO Reveals Stunning ET7 Flagship Sedan', item_type='story', url='https://insideevs.com/news/465163/nio-et7-flagship-sedan-debut/', parent=None, text=None)
+Item(by='6a74', descendants=1, kids=[25710903], score=1, time=1610229952, title='NIO Reveals Stunning ET7 Flagship Sedan', item_type='story', url='https://insideevs.com/news/465163/nio-et7-flagship-sedan-debut/', parent=None, text=None)

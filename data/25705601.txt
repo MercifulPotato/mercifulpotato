@@ -1,1 +1,1 @@
-Item(by='BlueTemplar', descendants=None, kids=None, score=None, time=1610231232, title=None, item_type='comment', url=None, parent=25704603, text='This is true, but only because nothing has fundamental value.')
+Item(by='BlueTemplar', descendants=None, kids=[25711791], score=None, time=1610231232, title=None, item_type='comment', url=None, parent=25704603, text='This is true, but only because nothing has fundamental value.')

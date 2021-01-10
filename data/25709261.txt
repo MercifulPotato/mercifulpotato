@@ -1,1 +1,1 @@
-Item(by='heurist', descendants=None, kids=None, score=None, time=1610249554, title=None, item_type='comment', url=None, parent=25704850, text='Nevermind the ziptie handcuffs and tasers')
+Item(by='heurist', descendants=None, kids=[25712055], score=None, time=1610249554, title=None, item_type='comment', url=None, parent=25704850, text='Nevermind the ziptie handcuffs and tasers')

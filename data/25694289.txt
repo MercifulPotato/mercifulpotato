@@ -1,1 +1,1 @@
-Item(by='JamisonM', descendants=None, kids=None, score=None, time=1610154794, title=None, item_type='comment', url=None, parent=25671694, text='jamisonmasse@gmail.com<p>Email me')
+Item(by='JamisonM', descendants=None, kids=[25711041], score=None, time=1610154794, title=None, item_type='comment', url=None, parent=25671694, text='jamisonmasse@gmail.com<p>Email me')

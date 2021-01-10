@@ -1,1 +1,1 @@
-Item(by='edward', descendants=1, kids=[25707270], score=21, time=1610229482, title='Much of Pakistan Loses Power in Blackout', item_type='story', url='https://www.nytimes.com/2021/01/09/world/asia/pakistan-blackout-power-failure.html', parent=None, text=None)
+Item(by='edward', descendants=2, kids=[25711463, 25707270], score=23, time=1610229482, title='Much of Pakistan Loses Power in Blackout', item_type='story', url='https://www.nytimes.com/2021/01/09/world/asia/pakistan-blackout-power-failure.html', parent=None, text=None)

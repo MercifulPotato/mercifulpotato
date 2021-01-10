@@ -1,1 +1,1 @@
-Item(by='postalrat', descendants=None, kids=None, score=None, time=1610249370, title=None, item_type='comment', url=None, parent=25707332, text='Is &quot;to curate their site&quot; the same as &quot;to curate their content&quot;?')
+Item(by='postalrat', descendants=None, kids=[25710439], score=None, time=1610249370, title=None, item_type='comment', url=None, parent=25707332, text='Is &quot;to curate their site&quot; the same as &quot;to curate their content&quot;?')

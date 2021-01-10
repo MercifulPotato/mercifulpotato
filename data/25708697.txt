@@ -1,1 +1,1 @@
-Item(by='nemothekid', descendants=None, kids=None, score=None, time=1610247517, title=None, item_type='comment', url=None, parent=25708505, text='&gt;<i>kathy griffen posted a photo of herself with a severed donald trump head</i><p>And she was suspended for that.')
+Item(by='nemothekid', descendants=None, kids=[25710135], score=None, time=1610247517, title=None, item_type='comment', url=None, parent=25708505, text='&gt;<i>kathy griffen posted a photo of herself with a severed donald trump head</i><p>And she was suspended for that.')

@@ -1,0 +1,1 @@
+Item(by='zelly', descendants=None, kids=None, score=None, time=1610257454, title=None, item_type='comment', url=None, parent=25698431, text='Go discourages C FFI but it runs those in kernel threads just to be safe. If you are using a lot of C FFI calls that all block, then it could be a problem (all cores are blocked).')

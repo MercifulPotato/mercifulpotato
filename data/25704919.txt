@@ -1,1 +1,1 @@
-Item(by='irowe', descendants=None, kids=None, score=None, time=1610227468, title=None, item_type='comment', url=None, parent=25702090, text='Which 3 decades were astronauts practically grounded?')
+Item(by='irowe', descendants=None, kids=[25711466], score=None, time=1610227468, title=None, item_type='comment', url=None, parent=25702090, text='Which 3 decades were astronauts practically grounded?')

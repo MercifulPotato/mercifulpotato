@@ -1,1 +1,1 @@
-Item(by='BlueTemplar', descendants=None, kids=None, score=None, time=1610230173, title=None, item_type='comment', url=None, parent=25705321, text='It&#x27;s critical for those people  who&#x27;s only computer is an iPhone.')
+Item(by='BlueTemplar', descendants=None, kids=[25712194], score=None, time=1610230173, title=None, item_type='comment', url=None, parent=25705321, text='It&#x27;s critical for those people  who&#x27;s only computer is an iPhone.')
