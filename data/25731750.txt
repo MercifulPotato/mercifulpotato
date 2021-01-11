@@ -1,0 +1,1 @@
+Item(by='fgonzag', descendants=None, kids=[25731962], score=None, time=1610384342, title=None, item_type='comment', url=None, parent=25731517, text='They have the users password hash stored in their db so they can replicate the process server side:<p>login_token = hash(pwd_hash + nonce)<p>its nothing too wild, especially considering the age of yahoo mail.')

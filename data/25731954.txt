@@ -1,0 +1,1 @@
+Item(by='wdevanny', descendants=None, kids=[25734710], score=None, time=1610385027, title=None, item_type='comment', url=None, parent=25730002, text='Take two copies of K_4. Connect them with a single edge. The minimum cut is the single connector edge while your proposed strategy would delete the three edges out of one of the vertices not incident to the connector edge.')

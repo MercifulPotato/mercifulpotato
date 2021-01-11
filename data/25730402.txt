@@ -1,1 +1,1 @@
-Item(by='ikeboy', descendants=None, kids=None, score=None, time=1610379850, title=None, item_type='comment', url=None, parent=25730006, text='Knowing that whatsapp implemented e2e in 2016, the direct implication of his statement is that there was no encryption prior to that.')
+Item(by='ikeboy', descendants=None, kids=[25736310], score=None, time=1610379850, title=None, item_type='comment', url=None, parent=25730006, text='Knowing that whatsapp implemented e2e in 2016, the direct implication of his statement is that there was no encryption prior to that.')

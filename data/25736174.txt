@@ -1,0 +1,1 @@
+Item(by='vbezhenar', descendants=None, kids=None, score=None, time=1610397040, title=None, item_type='comment', url=None, parent=25728930, text='May be it would be possible to rip kernel with drivers from iOS image and run custom user software over it. It should be very close to UNIX anyway. People want to run userspace software, not just Linux kernel.')

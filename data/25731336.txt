@@ -1,0 +1,1 @@
+Item(by='lostmsu', descendants=None, kids=[25731755, 25731517], score=None, time=1610382992, title=None, item_type='comment', url=None, parent=25731145, text='That only works if the string is the same each time. But it won&#x27;t, if it changes like TOTP code.')

@@ -1,1 +1,1 @@
-Item(by='jm_l', descendants=None, kids=None, score=None, time=1610383377, title=None, item_type='comment', url=None, parent=25729893, text='They mention at the bottom of the article that they did enable side loading, that&#x27;s how the app was installed.')
+Item(by='jm_l', descendants=None, kids=[25731761], score=None, time=1610383377, title=None, item_type='comment', url=None, parent=25729893, text='They mention at the bottom of the article that they did enable side loading, that&#x27;s how the app was installed.')

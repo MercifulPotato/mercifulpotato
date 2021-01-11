@@ -1,0 +1,1 @@
+Item(by='lenv', descendants=None, kids=None, score=None, time=1610383605, title=None, item_type='comment', url=None, parent=25730592, text='I always forget some linux or osx commands (like sudo lsof -iTCP -sTCP:LISTEN -n -P for checking which ports are being listened on). So I created this command, saves me a trip to google every time. Feel free to use')

@@ -1,0 +1,1 @@
+Item(by='robjan', descendants=None, kids=None, score=None, time=1610384237, title=None, item_type='comment', url=None, parent=25731315, text='If you&#x27;re doing that, it may be good for the API to be an abstraction over the existing protocols rather than creating a new protocol as well. That way you get the simplification and interoperability with the existing fediverse.')

@@ -1,1 +1,1 @@
-Item(by='MichaelZuo', descendants=None, kids=None, score=None, time=1610382454, title=None, item_type='comment', url=None, parent=25728291, text='Yup, peace of mind in the USB world apparently comes at a large cost.')
+Item(by='MichaelZuo', descendants=None, kids=[25734241], score=None, time=1610382454, title=None, item_type='comment', url=None, parent=25728291, text='Yup, peace of mind in the USB world apparently comes at a large cost.')

@@ -1,1 +1,1 @@
-Item(by='MichaelZuo', descendants=None, kids=None, score=None, time=1610382329, title=None, item_type='comment', url=None, parent=25728285, text='Well both can be true, though I would be surprised of the fact that there is an actual usb cable factory in germany.')
+Item(by='MichaelZuo', descendants=None, kids=[25732808], score=None, time=1610382329, title=None, item_type='comment', url=None, parent=25728285, text='Well both can be true, though I would be surprised of the fact that there is an actual usb cable factory in germany.')

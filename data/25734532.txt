@@ -1,0 +1,1 @@
+Item(by='bytex64', descendants=None, kids=None, score=None, time=1610392309, title=None, item_type='comment', url=None, parent=25729128, text='Sorry about that! Should be working now.<p>Here&#x27;s something I never thought I&#x27;d say: Perl made breaking changes. My guess is additional strict things broke the gitweb CGI script (which was hopelessly out of date anyway).')

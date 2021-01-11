@@ -1,0 +1,1 @@
+Item(by='stabbles', descendants=None, kids=None, score=None, time=1610394838, title=None, item_type='comment', url=None, parent=25734727, text='I remember I ran into this Ryzen problem too. Spent a long time trying to figure out a bug in my code (random numbers were deterministic between runs), which ultimately was fixed by upgrading the bios.')

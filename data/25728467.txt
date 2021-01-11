@@ -1,1 +1,1 @@
-Item(by='doener', descendants=2, kids=[25728520], score=6, time=1610371015, title='Cassette sales have more than doubled in 2020', item_type='story', url='https://www.nme.com/news/music/cassette-sales-have-more-than-doubled-in-2020-2711274', parent=None, text=None)
+Item(by='doener', descendants=3, kids=[25729973, 25728520], score=8, time=1610371015, title='Cassette sales have more than doubled in 2020', item_type='story', url='https://www.nme.com/news/music/cassette-sales-have-more-than-doubled-in-2020-2711274', parent=None, text=None)

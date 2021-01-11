@@ -1,0 +1,1 @@
+Item(by='tjohns', descendants=None, kids=None, score=None, time=1610400449, title=None, item_type='comment', url=None, parent=25737314, text='It&#x27;s worth noting that the Unifi gateways have hardware offload for traffic routing.<p>While a Raspberry Pi might work for some folks, it&#x27;s worth noting that these are two very different performance classes.')

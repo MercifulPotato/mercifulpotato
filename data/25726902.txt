@@ -1,1 +1,1 @@
-Item(by='netgusto', descendants=1, kids=[25727664], score=12, time=1610359867, title='Computer Says No', item_type='story', url='https://en.wikipedia.org/wiki/Computer_says_no', parent=None, text=None)
+Item(by='netgusto', descendants=2, kids=[25727664, 25729869], score=13, time=1610359867, title='Computer Says No', item_type='story', url='https://en.wikipedia.org/wiki/Computer_says_no', parent=None, text=None)

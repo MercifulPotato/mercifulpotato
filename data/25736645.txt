@@ -1,0 +1,1 @@
+Item(by='na85', descendants=None, kids=None, score=None, time=1610398287, title=None, item_type='comment', url=None, parent=25736124, text='apt:  Package Gnome3-Shell depends on systemd-rdrand which is not installed.  Package systemd-rdrand conflicts gnome3-shell.  Uninstall 1230982 packages to resolve? [y&#x2F;n]')

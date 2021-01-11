@@ -1,0 +1,1 @@
+Item(by='SAI_Peregrinus', descendants=None, kids=[25734295], score=None, time=1610389952, title=None, item_type='comment', url=None, parent=25731962, text='Except that it&#x27;s easy (indeed, required for security) to change the nonce for each login request, so you can&#x27;t just replay the hash.')

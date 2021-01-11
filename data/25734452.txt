@@ -1,0 +1,1 @@
+Item(by='recursive', descendants=None, kids=None, score=None, time=1610392090, title=None, item_type='comment', url=None, parent=25734318, text='Who&#x27;s spending multiple milliseconds generating uuids?  I&#x27;m sure it happens somewhere, somehow, but that does not seem like a common occurrence.')

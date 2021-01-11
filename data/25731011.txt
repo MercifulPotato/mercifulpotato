@@ -1,1 +1,1 @@
-Item(by='kwertyoowiyop', descendants=None, kids=None, score=None, time=1610381974, title=None, item_type='comment', url=None, parent=25730074, text='There are many talented engineers all across the political spectrum.')
+Item(by='kwertyoowiyop', descendants=None, kids=[25733036], score=None, time=1610381974, title=None, item_type='comment', url=None, parent=25730074, text='There are many talented engineers all across the political spectrum.')

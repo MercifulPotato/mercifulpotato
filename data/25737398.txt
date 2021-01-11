@@ -1,0 +1,1 @@
+Item(by='centimeter', descendants=None, kids=[25737560], score=None, time=1610400469, title=None, item_type='comment', url=None, parent=25737180, text='FWIW, I tried using OpenWRT on a box with similar specs to yours and it was a nightmare. Ended up using FreeBSD instead and it was a vastly better experience. I think OpenWRT might only be worth it on very low-spec hardware.')

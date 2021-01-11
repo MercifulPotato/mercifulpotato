@@ -1,0 +1,1 @@
+Item(by='johncolanduoni', descendants=None, kids=None, score=None, time=1610397519, title=None, item_type='comment', url=None, parent=25735945, text='Most cryptographic constructs you feed CSPRNG data into break spectacularly if they receive colliding data so I guess they all have design issues too. Including the TLS connection you’re typing your comment through.')

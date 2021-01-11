@@ -1,1 +1,1 @@
-Item(by='pdevr', descendants=None, kids=None, score=None, time=1610368842, title=None, item_type='comment', url=None, parent=25711669, text='Is there any place where NLG guys hang around? Most groups seem to have NLP as the focus.')
+Item(by='pdevr', descendants=None, kids=[25733620, 25730913, 25733307], score=None, time=1610368842, title=None, item_type='comment', url=None, parent=25711669, text='Is there any place where NLG guys hang around? Most groups seem to have NLP as the focus.')

@@ -1,0 +1,1 @@
+Item(by='fullstop', descendants=None, kids=None, score=None, time=1610400719, title=None, item_type='comment', url=None, parent=25737313, text='Yes, I have disabled it. You can also drop outbound traffic for the uid running the controller with iptables if you&#x27;re paranoid about it.')

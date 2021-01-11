@@ -1,0 +1,1 @@
+Item(by='zvrba', descendants=None, kids=[25735742], score=None, time=1610390540, title=None, item_type='comment', url=None, parent=25728072, text='But is _just reading_ from a database a &quot;side-effect&quot;? It is non-deterministic, but it has no side-effects. So IO jumbles together the two notions.')

@@ -1,1 +1,1 @@
-Item(by='mistermann', descendants=None, kids=None, score=None, time=1610375004, title=None, item_type='comment', url=None, parent=25728874, text='Can anything save the American family (or America itself, after this last week) seems like a better question.')
+Item(by='mistermann', descendants=None, kids=[25733501], score=None, time=1610375004, title=None, item_type='comment', url=None, parent=25728874, text='Can anything save the American family (or America itself, after this last week) seems like a better question.')

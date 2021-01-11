@@ -1,0 +1,1 @@
+Item(by='kuroguro', descendants=None, kids=[25731737], score=None, time=1610382985, title=None, item_type='comment', url=None, parent=25731149, text='If you root your phone you can get the secret out and use it with regular TOTP software that implements that variant (I forgot the name - I just know Bitwarden supports it).')

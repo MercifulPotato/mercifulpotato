@@ -1,1 +1,1 @@
-Item(by='nefitty', descendants=None, kids=None, score=None, time=1610365106, title=None, item_type='comment', url=None, parent=25713617, text='They’re underwater so they say “blub blub blub”')
+Item(by='nefitty', descendants=None, kids=[25728943], score=None, time=1610365106, title=None, item_type='comment', url=None, parent=25713617, text='They’re underwater so they say “blub blub blub”')

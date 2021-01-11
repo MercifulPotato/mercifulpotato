@@ -1,1 +1,1 @@
-Item(by='grzm', descendants=None, kids=None, score=None, time=1610328174, title=None, item_type='comment', url=None, parent=25722542, text='The best way to contact the mods is via the Contact link in the footer.')
+Item(by='grzm', descendants=None, kids=[25734702], score=None, time=1610328174, title=None, item_type='comment', url=None, parent=25722542, text='The best way to contact the mods is via the Contact link in the footer.')

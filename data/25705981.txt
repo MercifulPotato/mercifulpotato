@@ -1,1 +1,1 @@
-Item(by='dillondoyle', descendants=None, kids=None, score=None, time=1610233372, title=None, item_type='comment', url=None, parent=25705782, text='There might already be nuclear weapons deployed in space, and almost surely already deployable quickly via a platform like x-37b')
+Item(by='dillondoyle', descendants=None, kids=[25720624], score=None, time=1610233372, title=None, item_type='comment', url=None, parent=25705782, text='There might already be nuclear weapons deployed in space, and almost surely already deployable quickly via a platform like x-37b')

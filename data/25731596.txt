@@ -1,1 +1,1 @@
-Item(by='cies', descendants=None, kids=None, score=None, time=1610383834, title=None, item_type='comment', url=None, parent=25727987, text='I beg to differ. This stuff is called reverse engineering and it&#x27;s all but trivial.')
+Item(by='cies', descendants=None, kids=[25733052], score=None, time=1610383834, title=None, item_type='comment', url=None, parent=25727987, text='I beg to differ. This stuff is called reverse engineering and it&#x27;s all but trivial.')
