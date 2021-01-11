@@ -1,0 +1,1 @@
+Item(by='ve55', descendants=None, kids=None, score=None, time=1610316652, title=None, item_type='comment', url=None, parent=25720436, text='It would be weird that they&#x27;d make it display a 404 though. It&#x27;s possible Signal could be returning that when they see FB perform a request to them for some reason (e.g. want to make sure no metadata leaks to FB).')

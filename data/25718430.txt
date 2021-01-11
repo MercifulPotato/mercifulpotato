@@ -1,1 +1,1 @@
-Item(by='forgotmypw77', descendants=None, kids=None, score=None, time=1610306125, title=None, item_type='comment', url=None, parent=25717080, text='please test your site with nojs.<p>js is not an option with many devices and useragents.<p>thank you for doing what you do.')
+Item(by='forgotmypw77', descendants=None, kids=[25721937], score=None, time=1610306125, title=None, item_type='comment', url=None, parent=25717080, text='please test your site with nojs.<p>js is not an option with many devices and useragents.<p>thank you for doing what you do.')

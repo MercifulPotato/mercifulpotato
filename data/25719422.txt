@@ -1,1 +1,1 @@
-Item(by='niutech', descendants=None, kids=None, score=None, time=1610311000, title=None, item_type='comment', url=None, parent=25719312, text='Possibly, but it&#x27;s still better than using Whatsapp as before.')
+Item(by='niutech', descendants=None, kids=[25720099], score=None, time=1610311000, title=None, item_type='comment', url=None, parent=25719312, text='Possibly, but it&#x27;s still better than using Whatsapp as before.')

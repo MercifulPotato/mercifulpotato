@@ -1,1 +1,1 @@
-Item(by='muglug', descendants=5, kids=[25710636, 25716915, 25711599], score=477, time=1610244748, title='Amazon Is Booting Parler Off AWS', item_type='story', url='https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws', parent=None, text=None)
+Item(by='muglug', descendants=10, kids=[25710636, 25711599, 25716915], score=484, time=1610244748, title='Amazon Is Booting Parler Off AWS', item_type='story', url='https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws', parent=None, text=None)

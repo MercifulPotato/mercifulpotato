@@ -1,1 +1,1 @@
-Item(by='valuearb', descendants=None, kids=[25720523], score=None, time=1610309818, title=None, item_type='comment', url=None, parent=25718526, text='M1 is either first or very close to first in all the Anandtech benchmarks against CPUs using up to seven times more power.')
+Item(by='valuearb', descendants=None, kids=[25720523, 25720952], score=None, time=1610309818, title=None, item_type='comment', url=None, parent=25718526, text='M1 is either first or very close to first in all the Anandtech benchmarks against CPUs using up to seven times more power.')

@@ -1,0 +1,1 @@
+Item(by='mtve', descendants=None, kids=[25721623], score=None, time=1610321563, title=None, item_type='comment', url=None, parent=25721413, text='nMigen still requires toolchains, perhaps you mean that iCE40 is just supported by Yosys+nextpnr?')

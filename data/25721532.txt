@@ -1,0 +1,1 @@
+Item(by='rbanffy', descendants=None, kids=[25722846], score=None, time=1610321122, title=None, item_type='comment', url=None, parent=25716625, text='It&#x27;s surprising the performance on modern hardware is so low. I would expect the GPU emulation to suffer, but not CPU.')

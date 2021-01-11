@@ -1,1 +1,1 @@
-Item(by='p1necone', descendants=None, kids=None, score=None, time=1610315585, title=None, item_type='comment', url=None, parent=25716014, text='&quot;Pick an oil with a high smoke point, a neutral taste&quot;<p>This sounds somewhat like &quot;special&quot; to me.')
+Item(by='p1necone', descendants=None, kids=[25721184], score=None, time=1610315585, title=None, item_type='comment', url=None, parent=25716014, text='&quot;Pick an oil with a high smoke point, a neutral taste&quot;<p>This sounds somewhat like &quot;special&quot; to me.')

@@ -1,1 +1,1 @@
-Item(by='dilyevsky', descendants=None, kids=None, score=None, time=1610310339, title=None, item_type='comment', url=None, parent=25717561, text='Right linode is basically old school dedicated servers afaik but DO should be in different class')
+Item(by='dilyevsky', descendants=None, kids=[25720857], score=None, time=1610310339, title=None, item_type='comment', url=None, parent=25717561, text='Right linode is basically old school dedicated servers afaik but DO should be in different class')

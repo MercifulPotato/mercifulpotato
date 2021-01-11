@@ -1,1 +1,1 @@
-Item(by='vyuh', descendants=0, kids=None, score=10, time=1610294879, title='Mathcha – Online Mathematics Editor', item_type='story', url='http://www.mathcha.io/', parent=None, text=None)
+Item(by='vyuh', descendants=3, kids=[25720049, 25720668], score=14, time=1610294879, title='Mathcha – Online Mathematics Editor', item_type='story', url='http://www.mathcha.io/', parent=None, text=None)

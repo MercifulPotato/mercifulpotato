@@ -1,0 +1,1 @@
+Item(by='byhemechi', descendants=None, kids=None, score=None, time=1610325903, title=None, item_type='comment', url=None, parent=25711193, text='GrapheneOS is AOSP, not lineage based.<p>It has the full android security model, even allowing a locked bootloader, plus several extras like a hardened `malloc`. Don&#x27;t know what you&#x27;re getting at with that.')

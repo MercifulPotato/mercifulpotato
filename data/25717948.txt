@@ -1,1 +1,1 @@
-Item(by='annadane', descendants=0, kids=None, score=3, time=1610304203, title='WhatsApp Has Shared Your Data with Facebook for Years', item_type='story', url='https://www.wired.com/story/whatsapp-facebook-data-share-notification/', parent=None, text=None)
+Item(by='annadane', descendants=1, kids=[25720390], score=3, time=1610304203, title='WhatsApp Has Shared Your Data with Facebook for Years', item_type='story', url='https://www.wired.com/story/whatsapp-facebook-data-share-notification/', parent=None, text=None)

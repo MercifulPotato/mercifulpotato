@@ -1,0 +1,1 @@
+Item(by='buckminster', descendants=None, kids=[25720861, 25721525], score=None, time=1610317811, title=None, item_type='comment', url=None, parent=25720610, text='This is bad but it&#x27;s not unusual. There are similar issues in Firefox and Windows. Nobody gets UI asynchrony right. There are race conditions in everything. It&#x27;s particularly noticeable with a slow computer.')

@@ -1,1 +1,1 @@
-Item(by='dalacv', descendants=None, kids=None, score=None, time=1610310786, title=None, item_type='comment', url=None, parent=25718746, text='Never heard the term listickle before.  Thanks for introducing it :)')
+Item(by='dalacv', descendants=None, kids=[25719990], score=None, time=1610310786, title=None, item_type='comment', url=None, parent=25718746, text='Never heard the term listickle before.  Thanks for introducing it :)')

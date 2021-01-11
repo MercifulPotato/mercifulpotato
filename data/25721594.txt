@@ -1,0 +1,1 @@
+Item(by='ATsch', descendants=None, kids=[25721891], score=None, time=1610321536, title=None, item_type='comment', url=None, parent=25721164, text='Nautilus does already have such a cache though. But there is little to no code sharing between nautilus and the gtk file picker, which I think is the actual problem here.')

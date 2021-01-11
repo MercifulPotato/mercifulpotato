@@ -1,1 +1,1 @@
-Item(by='GordonS', descendants=None, kids=None, score=None, time=1610289621, title=None, item_type='comment', url=None, parent=25687570, text='The OP didn&#x27;t say that though; they did say they had a zero-carb diet, but my interpretation of that was &quot;very low carb diet&quot;.')
+Item(by='GordonS', descendants=None, kids=[25723244], score=None, time=1610289621, title=None, item_type='comment', url=None, parent=25687570, text='The OP didn&#x27;t say that though; they did say they had a zero-carb diet, but my interpretation of that was &quot;very low carb diet&quot;.')

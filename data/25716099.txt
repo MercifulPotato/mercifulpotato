@@ -1,1 +1,1 @@
-Item(by='benbreen', descendants=0, kids=None, score=18, time=1610295170, title='William Hogarth’s Satire on False Perspective (1754)', item_type='story', url='https://publicdomainreview.org/collection/william-hogarth-satire-on-false-perspective', parent=None, text=None)
+Item(by='benbreen', descendants=4, kids=[25721583, 25723241, 25723068], score=40, time=1610295170, title='William Hogarth’s Satire on False Perspective (1754)', item_type='story', url='https://publicdomainreview.org/collection/william-hogarth-satire-on-false-perspective', parent=None, text=None)

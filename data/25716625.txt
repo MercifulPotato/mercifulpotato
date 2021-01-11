@@ -1,1 +1,1 @@
-Item(by='FlyMoreRockets', descendants=0, kids=None, score=12, time=1610297796, title='A guide to running IRIX 6.5.22 in MAME', item_type='story', url='https://sgi.neocities.org/index.html', parent=None, text=None)
+Item(by='FlyMoreRockets', descendants=4, kids=[25721532, 25719876], score=24, time=1610297796, title='A guide to running IRIX 6.5.22 in MAME', item_type='story', url='https://sgi.neocities.org/index.html', parent=None, text=None)

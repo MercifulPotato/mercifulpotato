@@ -1,0 +1,1 @@
+Item(by='mst', descendants=None, kids=None, score=None, time=1610331027, title=None, item_type='comment', url=None, parent=25720714, text='A mildly insane possibility would be to install lxc and then use a system container to play with nix in.')

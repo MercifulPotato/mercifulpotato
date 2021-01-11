@@ -1,1 +1,1 @@
-Item(by='Torwald', descendants=None, kids=None, score=None, time=1610309664, title=None, item_type='comment', url=None, parent=25717306, text='I haven&#x27;t read it fully yet, but I will write that TPK algorithm in some language(s). Post here if you have some (! OR ?)')
+Item(by='Torwald', descendants=None, kids=[25720141, 25720559], score=None, time=1610309664, title=None, item_type='comment', url=None, parent=25717306, text='I haven&#x27;t read it fully yet, but I will write that TPK algorithm in some language(s). Post here if you have some (! OR ?)')

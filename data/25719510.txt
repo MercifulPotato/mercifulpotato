@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1610311346, title=None, item_type='comment', url=None, parent=25719327, text='Unfortunately it isn&#x27;t that simple, that only works for very basic documents, imagine a 50 A4 page contract written that way.')
+Item(by='pjmlp', descendants=None, kids=[25723975], score=None, time=1610311346, title=None, item_type='comment', url=None, parent=25719327, text='Unfortunately it isn&#x27;t that simple, that only works for very basic documents, imagine a 50 A4 page contract written that way.')

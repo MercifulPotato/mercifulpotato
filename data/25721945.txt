@@ -1,0 +1,1 @@
+Item(by='piinbinary', descendants=None, kids=[25722670], score=None, time=1610323182, title=None, item_type='comment', url=None, parent=25715431, text='Don&#x27;t try to compile this with `make -j` - I tried, and my system ran out of ram and swap and started OOM killing things. I have 16 threads and 32gb of ram.<p>Running `make -j4` seems safe thus far.')

@@ -1,0 +1,1 @@
+Item(by='Scoundreller', descendants=None, kids=[25724227], score=None, time=1610335165, title=None, item_type='comment', url=None, parent=25723933, text='&gt; I wonder if I could get it booting off a CF card for better speed&#x2F;latency…<p>Depends. CF, electrically, is just PATA IDE. But Apple used SCSI back then. Maybe you can find an SCSI SSD?')

@@ -1,1 +1,1 @@
-Item(by='Spone', descendants=None, kids=None, score=None, time=1610311956, title=None, item_type='comment', url=None, parent=25719598, text='&gt; code itself is apolitical<p>I suggest you read Larry Lessig&#x27;s Code 2.0 book.')
+Item(by='Spone', descendants=None, kids=[25719727, 25719786], score=None, time=1610311956, title=None, item_type='comment', url=None, parent=25719598, text='&gt; code itself is apolitical<p>I suggest you read Larry Lessig&#x27;s Code 2.0 book.')

@@ -1,1 +1,1 @@
-Item(by='dsemelianov', descendants=0, kids=None, score=2, time=1610290784, title='Show HN: A Gmail tool to trim away annoying mailing lists', item_type='story', url='https://trimbox.io/', parent=None, text=None)
+Item(by='dsemelianov', descendants=1, kids=[25720898], score=7, time=1610290784, title='Show HN: A Gmail tool to trim away annoying mailing lists', item_type='story', url='https://trimbox.io/', parent=None, text=None)

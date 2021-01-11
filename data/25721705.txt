@@ -1,0 +1,1 @@
+Item(by='kaba0', descendants=None, kids=None, score=None, time=1610322035, title=None, item_type='comment', url=None, parent=25718836, text='Not repeating the others:\nIf a package does end up using multiple version of the same lib, nixos can even deduplicate it somewhat, by symlinking one’s documentations to the other’s.')

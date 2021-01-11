@@ -1,1 +1,1 @@
-Item(by='Ekaros', descendants=None, kids=None, score=None, time=1610271250, title=None, item_type='comment', url=None, parent=25706422, text='Or even simpler. Just scan all domains for MX records... That information is not even secret, but openly advertised.')
+Item(by='Ekaros', descendants=None, kids=[25722055], score=None, time=1610271250, title=None, item_type='comment', url=None, parent=25706422, text='Or even simpler. Just scan all domains for MX records... That information is not even secret, but openly advertised.')

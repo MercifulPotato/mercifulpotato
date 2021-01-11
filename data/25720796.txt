@@ -1,0 +1,1 @@
+Item(by='tester756', descendants=None, kids=[25723161], score=None, time=1610317609, title=None, item_type='comment', url=None, parent=25720712, text='Sometimes I do wonder... maybe 1 based indexing is better and would cause less off by 1 bugs for non-US devs?')

@@ -1,1 +1,1 @@
-Item(by='ajfriend', descendants=None, kids=None, score=None, time=1610312624, title=None, item_type='comment', url=None, parent=25719659, text='Can you recommend any good books or other resources?')
+Item(by='ajfriend', descendants=None, kids=[25720546, 25721974], score=None, time=1610312624, title=None, item_type='comment', url=None, parent=25719659, text='Can you recommend any good books or other resources?')

@@ -1,0 +1,1 @@
+Item(by='keyle', descendants=None, kids=[25723225], score=None, time=1610316140, title=None, item_type='comment', url=None, parent=25720426, text='Right. So typical bug of redrawing selection once the list is rendered.<p>On the plus side it should be an easy fix?')
