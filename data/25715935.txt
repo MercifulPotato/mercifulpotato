@@ -1,1 +1,1 @@
-Item(by='oblio', descendants=None, kids=None, score=None, time=1610294328, title=None, item_type='comment', url=None, parent=25713682, text='Those things were a cooperation. And you definitely don&#x27;t want to read up who led the US space program.')
+Item(by='oblio', descendants=None, kids=[25725926], score=None, time=1610294328, title=None, item_type='comment', url=None, parent=25713682, text='Those things were a cooperation. And you definitely don&#x27;t want to read up who led the US space program.')

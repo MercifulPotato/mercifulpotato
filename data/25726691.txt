@@ -1,0 +1,1 @@
+Item(by='beagle3', descendants=None, kids=None, score=None, time=1610358003, title=None, item_type='comment', url=None, parent=25718143, text='It is tiny compared to Emacs, and it is very modular. A stripped, functional minimal build (Without bidir) is ~60KB executable.')

@@ -1,0 +1,1 @@
+Item(by='stuaxo', descendants=None, kids=None, score=None, time=1610355056, title=None, item_type='comment', url=None, parent=25719796, text='It seems like in Gtk3 and earlier there was an architectural reason, IIRC all the icons had to get created once and so would use loads of RAM.<p>In Gtk 4 the limitation is lifted, so this might be a matter of someone implementing it.')

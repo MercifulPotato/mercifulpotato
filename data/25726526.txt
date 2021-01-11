@@ -1,0 +1,1 @@
+Item(by='patrec', descendants=None, kids=None, score=None, time=1610356418, title=None, item_type='comment', url=None, parent=25719454, text='There is an annoying error:<p>% is not &#x27;modulo&#x27;, it&#x27;s the (less useful) remainder operator.<p><pre><code>    julia&gt; -1%9\n    -1\n    julia&gt; mod(-1, 9)\n    8\n\n    python\n    &gt;&gt;&gt; -1%9\n    8</code></pre>')

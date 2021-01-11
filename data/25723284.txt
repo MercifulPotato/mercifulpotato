@@ -1,1 +1,1 @@
-Item(by='j8hn', descendants=None, kids=None, score=None, time=1610330219, title=None, item_type='comment', url=None, parent=25723157, text='Can you explain how I&#x27;m a bad faith actor.')
+Item(by='j8hn', descendants=None, kids=[25725904], score=None, time=1610330219, title=None, item_type='comment', url=None, parent=25723157, text='Can you explain how I&#x27;m a bad faith actor.')

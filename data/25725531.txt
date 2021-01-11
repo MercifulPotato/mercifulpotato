@@ -1,0 +1,1 @@
+Item(by='RaitoBezarius', descendants=None, kids=None, score=None, time=1610347556, title=None, item_type='comment', url=None, parent=25720138, text='There are actual plugins for AWS, Hetzner, GCP and Azure (on an old version of NixOps) and it&#x27;s quite easy to add support for your favorite cloud if there is a decent usable API.')

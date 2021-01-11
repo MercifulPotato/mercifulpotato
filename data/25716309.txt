@@ -1,1 +1,1 @@
-Item(by='hu3', descendants=None, kids=None, score=None, time=1610296123, title=None, item_type='comment', url=None, parent=25716157, text='Different goals.\nIRC needs a central server.\nThis is peer-to-peer.')
+Item(by='hu3', descendants=None, kids=[25724890], score=None, time=1610296123, title=None, item_type='comment', url=None, parent=25716157, text='Different goals.\nIRC needs a central server.\nThis is peer-to-peer.')

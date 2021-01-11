@@ -1,1 +1,1 @@
-Item(by='70rd', descendants=None, kids=None, score=None, time=1610294895, title=None, item_type='comment', url=None, parent=25711893, text='What&#x27;s the issue with the page on Falun Gong?')
+Item(by='70rd', descendants=None, kids=[25724895], score=None, time=1610294895, title=None, item_type='comment', url=None, parent=25711893, text='What&#x27;s the issue with the page on Falun Gong?')

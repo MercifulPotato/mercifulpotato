@@ -1,1 +1,1 @@
-Item(by='m463', descendants=None, kids=None, score=None, time=1610326978, title=None, item_type='comment', url=None, parent=25717325, text='California allows you to opt-out of binding arbitration at the time of signing or for a period after signing.')
+Item(by='m463', descendants=None, kids=[25726187], score=None, time=1610326978, title=None, item_type='comment', url=None, parent=25717325, text='California allows you to opt-out of binding arbitration at the time of signing or for a period after signing.')

@@ -1,1 +1,1 @@
-Item(by='tambourine_man', descendants=0, kids=None, score=3, time=1610329847, title='Energy Vault – Gravitational Batteries', item_type='story', url='https://energyvault.com/', parent=None, text=None)
+Item(by='tambourine_man', descendants=1, kids=[25726049], score=6, time=1610329847, title='Energy Vault – Gravitational Batteries', item_type='story', url='https://energyvault.com/', parent=None, text=None)

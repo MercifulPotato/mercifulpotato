@@ -1,1 +1,1 @@
-Item(by='AaronFriel', descendants=None, kids=None, score=None, time=1610341413, title=None, item_type='comment', url=None, parent=25724635, text='My god, bonfires?')
+Item(by='AaronFriel', descendants=None, kids=[25725086], score=None, time=1610341413, title=None, item_type='comment', url=None, parent=25724635, text='My god, bonfires?')

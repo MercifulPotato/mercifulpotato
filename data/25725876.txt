@@ -1,0 +1,1 @@
+Item(by='db48x', descendants=None, kids=[25726027], score=None, time=1610350636, title=None, item_type='comment', url=None, parent=25725501, text='I don&#x27;t do that in my web browser. Instead I type a command in a shell that adds the file to a git repository, commits it, and syncs the repository with my web server.')
