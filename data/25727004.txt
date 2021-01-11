@@ -1,0 +1,1 @@
+Item(by='beerandt', descendants=None, kids=[25727530], score=None, time=1610360644, title=None, item_type='comment', url=None, parent=25726803, text='That, or Twillio was reporting authenticated emails, without actually authenticating them?<p>It seems to involve some skipped auth steps on someones part though, not just a fail-safe&#x2F;fail-dead mixup. It&#x27;s not clear.')

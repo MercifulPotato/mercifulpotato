@@ -1,0 +1,1 @@
+Item(by='sesm', descendants=None, kids=[25728691], score=None, time=1610370406, title=None, item_type='comment', url=None, parent=25728051, text='Java is much easier to reason about the performance and space usage because it&#x27;s a language with strict evaluation. Most programming languages use strict evaluation, including OCaml, F# and Scala.')

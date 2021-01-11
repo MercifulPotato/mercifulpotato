@@ -1,1 +1,1 @@
-Item(by='stevefan1999', descendants=None, kids=None, score=None, time=1610352788, title=None, item_type='comment', url=None, parent=25715431, text='This is the very first step to getting Rust into Linux kernel. I liked that.')
+Item(by='stevefan1999', descendants=None, kids=[25728536], score=None, time=1610352788, title=None, item_type='comment', url=None, parent=25715431, text='This is the very first step to getting Rust into Linux kernel. I liked that.')

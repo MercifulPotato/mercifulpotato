@@ -1,1 +1,1 @@
-Item(by='esarbe', descendants=None, kids=None, score=None, time=1610309209, title=None, item_type='comment', url=None, parent=25714394, text='And yet the hottest 10 years in recorded history are\n2009, 2005, 2013, 2010, 2014, 2018, 2017, 2015, 2019, 2016.<p>Yeah. Nothingburger.')
+Item(by='esarbe', descendants=None, kids=[25728625], score=None, time=1610309209, title=None, item_type='comment', url=None, parent=25714394, text='And yet the hottest 10 years in recorded history are\n2009, 2005, 2013, 2010, 2014, 2018, 2017, 2015, 2019, 2016.<p>Yeah. Nothingburger.')

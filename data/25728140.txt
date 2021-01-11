@@ -1,0 +1,1 @@
+Item(by='jonp888', descendants=None, kids=None, score=None, time=1610369007, title=None, item_type='comment', url=None, parent=25723642, text='According to the developers of Mongo at least, it&#x27;s not worth considering. You can&#x27;t store more than 2GB of data on a 32-bit machine because they map the entire datastore into memory.')

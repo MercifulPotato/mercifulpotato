@@ -1,0 +1,1 @@
+Item(by='Torwald', descendants=None, kids=None, score=None, time=1610365473, title=None, item_type='comment', url=None, parent=25725569, text='Google search bar also breaks the standard OS behaviour on a Mac, eg. when I am i the search bar and hit &lt;cmd-left&gt; it should jump cursor to the beginning of the line, which it doesn&#x27;t.')

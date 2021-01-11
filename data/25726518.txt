@@ -1,1 +1,1 @@
-Item(by='jansan', descendants=None, kids=None, score=None, time=1610356341, title=None, item_type='comment', url=None, parent=25724530, text='<i>&gt;Jake Angeli carried a spear.</i><p>I honestly cannot tell if you are being sarcastic here.')
+Item(by='jansan', descendants=None, kids=[25727479], score=None, time=1610356341, title=None, item_type='comment', url=None, parent=25724530, text='<i>&gt;Jake Angeli carried a spear.</i><p>I honestly cannot tell if you are being sarcastic here.')

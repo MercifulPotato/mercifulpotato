@@ -1,1 +1,1 @@
-Item(by='jimis', descendants=4, kids=[25725811], score=22, time=1610349823, title='Blërg, a microblogging platform', item_type='story', url='https://blerg.cc/', parent=None, text=None)
+Item(by='jimis', descendants=38, kids=[25729354, 25727504, 25729128, 25729162, 25725811, 25726782, 25728662, 25726950, 25727841, 25726726, 25727335, 25726838, 25726657, 25726916], score=84, time=1610349823, title='Blërg, a microblogging platform', item_type='story', url='https://blerg.cc/', parent=None, text=None)

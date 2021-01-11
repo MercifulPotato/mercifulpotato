@@ -1,1 +1,1 @@
-Item(by='madewulf', descendants=0, kids=None, score=4, time=1610352082, title='The clipboard history feature is the best thing since sliced bread', item_type='story', url='https://multitasked.net/2021/01/11/the-clipboard-history.html', parent=None, text=None)
+Item(by='madewulf', descendants=1, kids=[25726554], score=4, time=1610352082, title='The clipboard history feature is the best thing since sliced bread', item_type='story', url='https://multitasked.net/2021/01/11/the-clipboard-history.html', parent=None, text=None)

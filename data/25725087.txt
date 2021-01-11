@@ -1,1 +1,1 @@
-Item(by='leshokunin', descendants=None, kids=None, score=None, time=1610344001, title=None, item_type='comment', url=None, parent=25724871, text='I&#x27;ve read what I could here, but I&#x27;m still not clear on how this differs from Mastodon. Is it the web client?')
+Item(by='leshokunin', descendants=None, kids=[25726681], score=None, time=1610344001, title=None, item_type='comment', url=None, parent=25724871, text='I&#x27;ve read what I could here, but I&#x27;m still not clear on how this differs from Mastodon. Is it the web client?')

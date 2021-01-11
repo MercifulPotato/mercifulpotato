@@ -1,0 +1,1 @@
+Item(by='3836293648', descendants=None, kids=[25729586], score=None, time=1610372224, title=None, item_type='comment', url=None, parent=25728165, text='Depends on the compiler. In my very limited experience I&#x27;ve found that Clang is far superior to GCC in this matter (but rustc is better still, apart from iterator errors)')

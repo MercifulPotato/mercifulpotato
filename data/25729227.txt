@@ -1,0 +1,1 @@
+Item(by='mister_hn', descendants=None, kids=None, score=None, time=1610375493, title=None, item_type='comment', url=None, parent=25727270, text='SonarQube is one of the most famous quality checkers.<p>Another good measure is the number of dependencies used: if too much, the quality might be poor (= poor maintainability).<p>Is the application vulnerable? Check OWASP for this.')

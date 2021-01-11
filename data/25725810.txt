@@ -1,1 +1,1 @@
-Item(by='Taurenking', descendants=None, kids=None, score=None, time=1610350080, title=None, item_type='comment', url=None, parent=25724253, text='Ah, yes, the famous polls which predicted a 99&#x2F;1 landslide win for Hillary')
+Item(by='Taurenking', descendants=None, kids=[25727042], score=None, time=1610350080, title=None, item_type='comment', url=None, parent=25724253, text='Ah, yes, the famous polls which predicted a 99&#x2F;1 landslide win for Hillary')

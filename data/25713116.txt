@@ -1,1 +1,1 @@
-Item(by='user-the-name', descendants=None, kids=None, score=None, time=1610273972, title=None, item_type='comment', url=None, parent=25707754, text='I don&#x27;t think that at this point in history, right now, there is much trouble identifying who is evil.')
+Item(by='user-the-name', descendants=None, kids=[25729733], score=None, time=1610273972, title=None, item_type='comment', url=None, parent=25707754, text='I don&#x27;t think that at this point in history, right now, there is much trouble identifying who is evil.')

@@ -1,1 +1,1 @@
-Item(by='ethbr0', descendants=None, kids=None, score=None, time=1610310528, title=None, item_type='comment', url=None, parent=25717461, text='You managed to ignore two other guidelines in one comment, so it&#x27;s probably not productive for either of us to continue this thread.')
+Item(by='ethbr0', descendants=None, kids=[25731449], score=None, time=1610310528, title=None, item_type='comment', url=None, parent=25717461, text='You managed to ignore two other guidelines in one comment, so it&#x27;s probably not productive for either of us to continue this thread.')

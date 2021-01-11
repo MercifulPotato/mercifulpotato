@@ -1,1 +1,1 @@
-Item(by='Closi', descendants=None, kids=None, score=None, time=1610298634, title=None, item_type='comment', url=None, parent=25715943, text='1 million is a woefully small amount of money to retire with?<p>HN needs to live in the real world and learn what most people retire with')
+Item(by='Closi', descendants=None, kids=[25729545], score=None, time=1610298634, title=None, item_type='comment', url=None, parent=25715943, text='1 million is a woefully small amount of money to retire with?<p>HN needs to live in the real world and learn what most people retire with')

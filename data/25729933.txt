@@ -1,0 +1,1 @@
+Item(by='volta87', descendants=None, kids=[25730684], score=None, time=1610378039, title=None, item_type='comment', url=None, parent=25729340, text='&gt; A lot of software breaks when you&#x27;re not running 4kb pages.<p>The page size on windows is 64kb as well so portable software already needs to deal with supporting 4kB and 64kB pages.')

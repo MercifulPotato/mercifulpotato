@@ -1,1 +1,1 @@
-Item(by='fortran77', descendants=0, kids=None, score=7, time=1610306723, title="The Race to Preserve the DC Mob's Digital Traces", item_type='story', url='https://www.wired.com/story/archive-social-media-footage-pro-trump/', parent=None, text=None)
+Item(by='fortran77', descendants=1, kids=[25728109], score=8, time=1610306723, title="The Race to Preserve the DC Mob's Digital Traces", item_type='story', url='https://www.wired.com/story/archive-social-media-footage-pro-trump/', parent=None, text=None)

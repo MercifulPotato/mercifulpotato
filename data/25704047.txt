@@ -1,1 +1,1 @@
-Item(by='brudgers', descendants=None, kids=None, score=None, time=1610222158, title=None, item_type='comment', url=None, parent=25691426, text='The offices are public areas because they serve public officials carrying out public office.')
+Item(by='brudgers', descendants=None, kids=[25729181], score=None, time=1610222158, title=None, item_type='comment', url=None, parent=25691426, text='The offices are public areas because they serve public officials carrying out public office.')

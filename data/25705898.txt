@@ -1,1 +1,1 @@
-Item(by='Kim_Bruning', descendants=None, kids=None, score=None, time=1610232876, title=None, item_type='comment', url=None, parent=25705099, text='<a href="https:&#x2F;&#x2F;parler.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;parler.com&#x2F;</a><p>Didn&#x27;t everyone move to Parler?')
+Item(by='Kim_Bruning', descendants=None, kids=[25728321], score=None, time=1610232876, title=None, item_type='comment', url=None, parent=25705099, text='<a href="https:&#x2F;&#x2F;parler.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;parler.com&#x2F;</a><p>Didn&#x27;t everyone move to Parler?')

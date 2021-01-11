@@ -1,0 +1,1 @@
+Item(by='mehrdadn', descendants=None, kids=[25728483], score=None, time=1610370108, title=None, item_type='comment', url=None, parent=25728265, text='You probably did intend it to be a copy if you&#x27;re binding it to a variable and need it to be non-const (like in the example)!')

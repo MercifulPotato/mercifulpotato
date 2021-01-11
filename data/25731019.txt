@@ -1,0 +1,1 @@
+Item(by='trungdq88', descendants=None, kids=None, score=None, time=1610382011, title=None, item_type='comment', url=None, parent=25729407, text='Thanks for the feedback. I realized most HN comments are not that long, so I updated the page to show all the comment in the tooltip (instead of only 100 first chars previously).')
