@@ -1,0 +1,1 @@
+Item(by='pera', descendants=None, kids=None, score=None, time=1610448426, title=None, item_type='comment', url=None, parent=25744729, text='I also was very surprised about that number, so I checked with tcpdump and google maps on a new browser instance: I count just 31 syns after zooming in, moving and clicking on a pub :?')

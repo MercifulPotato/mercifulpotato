@@ -1,1 +1,1 @@
-Item(by='aembleton', descendants=None, kids=None, score=None, time=1610378735, title=None, item_type='comment', url=None, parent=25722947, text='At least the link for Brave appears below the information box about Firefox.')
+Item(by='aembleton', descendants=None, kids=[25745991], score=None, time=1610378735, title=None, item_type='comment', url=None, parent=25722947, text='At least the link for Brave appears below the information box about Firefox.')

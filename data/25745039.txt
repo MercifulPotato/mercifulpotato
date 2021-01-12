@@ -1,0 +1,1 @@
+Item(by='rasz', descendants=None, kids=[25748481], score=None, time=1610448448, title=None, item_type='comment', url=None, parent=25740843, text='&gt;Using random numbers to make a UUID is not a bug.<p>the thing about randomness is you can get two 0x00 answers in a row and they are 100% valid. Using random numbers for something which required Unique numbers is crazy.')

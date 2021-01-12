@@ -1,1 +1,1 @@
-Item(by='coolspot', descendants=None, kids=None, score=None, time=1610431865, title=None, item_type='comment', url=None, parent=25742930, text='Check out r&#x2F;politics')
+Item(by='coolspot', descendants=None, kids=[25745431], score=None, time=1610431865, title=None, item_type='comment', url=None, parent=25742930, text='Check out r&#x2F;politics')

@@ -1,0 +1,1 @@
+Item(by='tauntz', descendants=None, kids=None, score=None, time=1610460513, title=None, item_type='comment', url=None, parent=25746552, text='Pi-hole can only block DNS requests, it won&#x27;t help against connecting directly to ipv4 or ipv6 addresses.')

@@ -1,1 +1,1 @@
-Item(by='jldugger', descendants=None, kids=None, score=None, time=1610426266, title=None, item_type='comment', url=None, parent=25733790, text='Any chance you can recall enough of that paper to find a citation? I&#x27;d be interested to read such a paper.')
+Item(by='jldugger', descendants=None, kids=[25744561], score=None, time=1610426266, title=None, item_type='comment', url=None, parent=25733790, text='Any chance you can recall enough of that paper to find a citation? I&#x27;d be interested to read such a paper.')

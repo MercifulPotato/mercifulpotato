@@ -1,1 +1,1 @@
-Item(by='cosmodisk', descendants=None, kids=None, score=None, time=1610373267, title=None, item_type='comment', url=None, parent=25728794, text='Samsung SGR-1 is an interesting product, compared to their usual TVs and phones.')
+Item(by='cosmodisk', descendants=None, kids=[25745737], score=None, time=1610373267, title=None, item_type='comment', url=None, parent=25728794, text='Samsung SGR-1 is an interesting product, compared to their usual TVs and phones.')

@@ -1,1 +1,1 @@
-Item(by='nojito', descendants=None, kids=None, score=None, time=1610327225, title=None, item_type='comment', url=None, parent=25718431, text='But who&#x27;s correct?<p>My sample size of 100+ or yours of 1?')
+Item(by='nojito', descendants=None, kids=[25748656], score=None, time=1610327225, title=None, item_type='comment', url=None, parent=25718431, text='But who&#x27;s correct?<p>My sample size of 100+ or yours of 1?')

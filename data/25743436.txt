@@ -1,1 +1,1 @@
-Item(by='ralusek', descendants=None, kids=None, score=None, time=1610435706, title=None, item_type='comment', url=None, parent=25741895, text='I like it, but it spazzes out pretty frequently for me on MBP and suddenly draws lines through my design towards the center.')
+Item(by='ralusek', descendants=None, kids=[25748323], score=None, time=1610435706, title=None, item_type='comment', url=None, parent=25741895, text='I like it, but it spazzes out pretty frequently for me on MBP and suddenly draws lines through my design towards the center.')

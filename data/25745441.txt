@@ -1,0 +1,1 @@
+Item(by='dewey', descendants=None, kids=[25745623], score=None, time=1610451012, title=None, item_type='comment', url=None, parent=25744605, text='The latest version of LS doesn&#x27;t use kernel extensions any more as it&#x27;s using the new network filter stack provided by the OS.')

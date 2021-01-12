@@ -1,1 +1,1 @@
-Item(by='martincmartin', descendants=0, kids=None, score=3, time=1610411730, title='Re-Introducing Hash Indexes in PostgreSQL', item_type='story', url='https://hakibenita.com/postgresql-hash-index', parent=None, text=None)
+Item(by='martincmartin', descendants=0, kids=None, score=7, time=1610411730, title='Re-Introducing Hash Indexes in PostgreSQL', item_type='story', url='https://hakibenita.com/postgresql-hash-index', parent=None, text=None)

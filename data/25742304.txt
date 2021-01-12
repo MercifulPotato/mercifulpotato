@@ -1,1 +1,1 @@
-Item(by='skzv', descendants=None, kids=None, score=None, time=1610425900, title=None, item_type='comment', url=None, parent=25741682, text='Oh okay, makes sense. Can you share a resource where I can read up on this?')
+Item(by='skzv', descendants=None, kids=[25745055], score=None, time=1610425900, title=None, item_type='comment', url=None, parent=25741682, text='Oh okay, makes sense. Can you share a resource where I can read up on this?')

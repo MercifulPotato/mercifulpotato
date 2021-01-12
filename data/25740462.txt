@@ -1,1 +1,1 @@
-Item(by='TedShiller', descendants=None, kids=None, score=None, time=1610411063, title=None, item_type='comment', url=None, parent=25730778, text='The first mistake is using MySQL.')
+Item(by='TedShiller', descendants=None, kids=[25745533], score=None, time=1610411063, title=None, item_type='comment', url=None, parent=25730778, text='The first mistake is using MySQL.')

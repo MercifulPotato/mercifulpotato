@@ -1,1 +1,1 @@
-Item(by='aksss', descendants=None, kids=None, score=None, time=1610443690, title=None, item_type='comment', url=None, parent=25743660, text='It’s not ISPs doing the censoring.')
+Item(by='aksss', descendants=None, kids=[25747504], score=None, time=1610443690, title=None, item_type='comment', url=None, parent=25743660, text='It’s not ISPs doing the censoring.')

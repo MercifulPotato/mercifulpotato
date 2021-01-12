@@ -1,1 +1,1 @@
-Item(by='tjkoury', descendants=None, kids=None, score=None, time=1610390679, title=None, item_type='comment', url=None, parent=25707368, text='They changed it &quot;to address the Violent Attack at the U.S. Capitol on January 6, 2021&quot;.  Check the link again.')
+Item(by='tjkoury', descendants=None, kids=[25744467], score=None, time=1610390679, title=None, item_type='comment', url=None, parent=25707368, text='They changed it &quot;to address the Violent Attack at the U.S. Capitol on January 6, 2021&quot;.  Check the link again.')

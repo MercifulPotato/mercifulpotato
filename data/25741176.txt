@@ -1,1 +1,1 @@
-Item(by='exikyut', descendants=None, kids=None, score=None, time=1610415599, title=None, item_type='comment', url=None, parent=25739822, text='Huh. What&#x27;s the experience like? Eg are there any driver issues, or edge cases with unimplemented&#x2F;missing bits of functionality?')
+Item(by='exikyut', descendants=None, kids=[25747231], score=None, time=1610415599, title=None, item_type='comment', url=None, parent=25739822, text='Huh. What&#x27;s the experience like? Eg are there any driver issues, or edge cases with unimplemented&#x2F;missing bits of functionality?')

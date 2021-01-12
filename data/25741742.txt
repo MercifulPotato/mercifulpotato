@@ -1,1 +1,1 @@
-Item(by='blisterpeanuts', descendants=None, kids=None, score=None, time=1610420762, title=None, item_type='comment', url=None, parent=25740348, text='Is it true that a very active participant on Reddit was shadow banned a while back, and he didn&#x27;t realize it for two years?')
+Item(by='blisterpeanuts', descendants=None, kids=[25746663], score=None, time=1610420762, title=None, item_type='comment', url=None, parent=25740348, text='Is it true that a very active participant on Reddit was shadow banned a while back, and he didn&#x27;t realize it for two years?')

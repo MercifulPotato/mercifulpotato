@@ -1,1 +1,1 @@
-Item(by='tpush', descendants=None, kids=None, score=None, time=1610367214, title=None, item_type='comment', url=None, parent=25727798, text='Set ‘showdead’ in your profile to yes and scroll down the comments to the end.')
+Item(by='tpush', descendants=None, kids=[25748489], score=None, time=1610367214, title=None, item_type='comment', url=None, parent=25727798, text='Set ‘showdead’ in your profile to yes and scroll down the comments to the end.')

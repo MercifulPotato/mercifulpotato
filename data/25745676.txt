@@ -1,0 +1,1 @@
+Item(by='jansan', descendants=None, kids=None, score=None, time=1610452737, title=None, item_type='comment', url=None, parent=25743228, text='I recently had to decide on a client framework for a side project. Svelte looked very nice, but still a bit hobbyist. At the end I decided on Vue3, but will keep a close eye on Svelte and wish all the best for this project.')

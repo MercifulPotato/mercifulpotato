@@ -1,1 +1,1 @@
-Item(by='guilhas', descendants=None, kids=None, score=None, time=1610403720, title=None, item_type='comment', url=None, parent=25731611, text='One week &quot;conspiracy theories are stupid&quot;, another week &quot;hey look at these conspiracy theories&quot;')
+Item(by='guilhas', descendants=None, kids=[25745513], score=None, time=1610403720, title=None, item_type='comment', url=None, parent=25731611, text='One week &quot;conspiracy theories are stupid&quot;, another week &quot;hey look at these conspiracy theories&quot;')

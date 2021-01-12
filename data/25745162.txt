@@ -1,0 +1,1 @@
+Item(by='secondcoming', descendants=None, kids=None, score=None, time=1610449089, title=None, item_type='comment', url=None, parent=25738325, text='I should have added that fairly liberal use of type aliases also helps.<p><pre><code>    using B64String = std::string;\n\n    B64String encode(const std::string&amp; text);\n    std::string decode(const B64String b64);</code></pre>')

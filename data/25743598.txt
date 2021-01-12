@@ -1,1 +1,1 @@
-Item(by='Fnoord', descendants=None, kids=None, score=None, time=1610437465, title=None, item_type='comment', url=None, parent=25743390, text='Depending on who you ask, 1-4% of our population is a psychopath.')
+Item(by='Fnoord', descendants=None, kids=[25745197], score=None, time=1610437465, title=None, item_type='comment', url=None, parent=25743390, text='Depending on who you ask, 1-4% of our population is a psychopath.')

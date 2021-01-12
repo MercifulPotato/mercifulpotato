@@ -1,0 +1,1 @@
+Item(by='sokoloff', descendants=None, kids=[25746980], score=None, time=1610447464, title=None, item_type='comment', url=None, parent=25743647, text='There’s no “extra component” in the physical design. Both flip-flops are in the single 74x74 package and if you’re only using one, you have to drive the other to a known state anyway, so why not use them both anyway?')

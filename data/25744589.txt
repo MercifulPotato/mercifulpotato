@@ -1,1 +1,1 @@
-Item(by='clausz', descendants=None, kids=None, score=None, time=1610445413, title=None, item_type='comment', url=None, parent=25744410, text='No, it&#x27;s not. It only means that with these given numbers it is impossible to reach herd immunity.')
+Item(by='clausz', descendants=None, kids=[25745693], score=None, time=1610445413, title=None, item_type='comment', url=None, parent=25744410, text='No, it&#x27;s not. It only means that with these given numbers it is impossible to reach herd immunity.')

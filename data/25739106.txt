@@ -1,1 +1,1 @@
-Item(by='Nabati', descendants=3, kids=[25739253, 25739116], score=8, time=1610406075, title='Intel Previews Alder Lake 10nm processor', item_type='story', url='https://www.theverge.com/2021/1/11/22225514/intel-12th-gen-hybrid-alder-lake-chips-2h-ces-2021', parent=None, text=None)
+Item(by='Nabati', descendants=3, kids=[25739253, 25739116], score=10, time=1610406075, title='Intel Previews Alder Lake 10nm processor', item_type='story', url='https://www.theverge.com/2021/1/11/22225514/intel-12th-gen-hybrid-alder-lake-chips-2h-ces-2021', parent=None, text=None)

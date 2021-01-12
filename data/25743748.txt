@@ -1,1 +1,1 @@
-Item(by='trianglem', descendants=None, kids=None, score=None, time=1610438868, title=None, item_type='comment', url=None, parent=25743294, text='They are not equivalent positions. Selling covered calls has unlimited loss potential.')
+Item(by='trianglem', descendants=None, kids=[25744888], score=None, time=1610438868, title=None, item_type='comment', url=None, parent=25743294, text='They are not equivalent positions. Selling covered calls has unlimited loss potential.')

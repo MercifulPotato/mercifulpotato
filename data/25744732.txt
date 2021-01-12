@@ -1,0 +1,1 @@
+Item(by='webmobdev', descendants=None, kids=None, score=None, time=1610446488, title=None, item_type='comment', url=None, parent=25744655, text='Pi-hole has its advantages. But this is also an application firewall. It&#x27;s a little more convenient to block a whole app then try and figure out which ip it is trying to connect and block that.')
