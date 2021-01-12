@@ -1,1 +1,1 @@
-Item(by='theBashShell', descendants=10, kids=[25741590, 25741010, 25741352, 25741013], score=32, time=1610399401, title='An additional non-backtracking RegExp engine', item_type='story', url='https://v8.dev/blog/non-backtracking-regexp', parent=None, text=None)
+Item(by='theBashShell', descendants=13, kids=[25741590, 25741010, 25741352, 25741013], score=41, time=1610399401, title='An additional non-backtracking RegExp engine', item_type='story', url='https://v8.dev/blog/non-backtracking-regexp', parent=None, text=None)

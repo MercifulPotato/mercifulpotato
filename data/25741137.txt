@@ -1,1 +1,1 @@
-Item(by='judge2020', descendants=None, kids=None, score=None, time=1610415321, title=None, item_type='comment', url=None, parent=25740895, text='The real kicker is that the sender is no-reply@ubnt.com - why is it not @ui.com?')
+Item(by='judge2020', descendants=None, kids=[25742393], score=None, time=1610415321, title=None, item_type='comment', url=None, parent=25740895, text='The real kicker is that the sender is no-reply@ubnt.com - why is it not @ui.com?')

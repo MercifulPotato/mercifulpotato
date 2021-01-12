@@ -1,0 +1,1 @@
+Item(by='Kalium', descendants=None, kids=[25742708], score=None, time=1610427882, title=None, item_type='comment', url=None, parent=25742340, text='What are unit tests, linters, SAST tools, and more all for? Naively, it seems to me that we swim in a great sea of tools to verify that we do, in fact, know what we&#x27;re doing.')

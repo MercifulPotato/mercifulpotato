@@ -1,0 +1,1 @@
+Item(by='nwsm', descendants=None, kids=None, score=None, time=1610427430, title=None, item_type='comment', url=None, parent=25741317, text='They didn&#x27;t say it&#x27;s done more efficiently, they said it helped their DB scale.<p>(It&#x27;s probably cheaper&#x2F;easier to scale their application servers as well.)')

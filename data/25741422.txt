@@ -1,1 +1,1 @@
-Item(by='gbjw', descendants=None, kids=None, score=None, time=1610417912, title=None, item_type='comment', url=None, parent=25740034, text='So you mean your frustration <i>is</i> warranted then?')
+Item(by='gbjw', descendants=None, kids=[25743161], score=None, time=1610417912, title=None, item_type='comment', url=None, parent=25740034, text='So you mean your frustration <i>is</i> warranted then?')

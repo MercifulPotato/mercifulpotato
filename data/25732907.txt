@@ -1,1 +1,1 @@
-Item(by='johnx123-up', descendants=None, kids=None, score=None, time=1610387994, title=None, item_type='comment', url=None, parent=25727715, text='Curious: How did you do that? (scrape + chart)')
+Item(by='johnx123-up', descendants=None, kids=[25744117], score=None, time=1610387994, title=None, item_type='comment', url=None, parent=25727715, text='Curious: How did you do that? (scrape + chart)')

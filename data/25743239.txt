@@ -1,0 +1,1 @@
+Item(by='BossHamster', descendants=None, kids=None, score=None, time=1610433747, title=None, item_type='comment', url=None, parent=25741222, text='yes, because the issue was not the site data transfer, but the idle SSH session(s) running the nc commands. When the idle SSH session got dropped, it took nc down with it and that stopped the transfer.')

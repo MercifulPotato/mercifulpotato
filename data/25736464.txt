@@ -1,1 +1,1 @@
-Item(by='yardstick', descendants=None, kids=None, score=None, time=1610397858, title=None, item_type='comment', url=None, parent=25730778, text='ikonic89: how large is the database? The charts showed disk utilisation % but would be interested to know raw sizes.')
+Item(by='yardstick', descendants=None, kids=[25744026], score=None, time=1610397858, title=None, item_type='comment', url=None, parent=25730778, text='ikonic89: how large is the database? The charts showed disk utilisation % but would be interested to know raw sizes.')

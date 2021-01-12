@@ -1,0 +1,1 @@
+Item(by='fomine3', descendants=None, kids=None, score=None, time=1610433715, title=None, item_type='comment', url=None, parent=25742925, text='Enabling non self-signed TLS certificate on IoT devices looks like easy task but actually it has difficulty. Especially router is hard because it bootstrap WAN connection.')

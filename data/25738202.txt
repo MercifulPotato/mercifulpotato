@@ -1,1 +1,1 @@
-Item(by='complexmango', descendants=None, kids=None, score=None, time=1610403338, title=None, item_type='comment', url=None, parent=25728653, text='Somehow that doesn’t count in the lefty HN echo chamber.')
+Item(by='complexmango', descendants=None, kids=[25742711], score=None, time=1610403338, title=None, item_type='comment', url=None, parent=25728653, text='Somehow that doesn’t count in the lefty HN echo chamber.')

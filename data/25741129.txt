@@ -1,1 +1,1 @@
-Item(by='nawgz', descendants=None, kids=None, score=None, time=1610415222, title=None, item_type='comment', url=None, parent=25739918, text='It shows up fine for everyone. You might actually be delusional, in the medical sense.')
+Item(by='nawgz', descendants=None, kids=[25742910], score=None, time=1610415222, title=None, item_type='comment', url=None, parent=25739918, text='It shows up fine for everyone. You might actually be delusional, in the medical sense.')

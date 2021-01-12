@@ -1,1 +1,1 @@
-Item(by='winrid', descendants=None, kids=None, score=None, time=1610407279, title=None, item_type='comment', url=None, parent=25735743, text='Back in 2014 the lichess app would send your username&#x2F;password in clear text :) will have to see if that&#x27;s still the case...')
+Item(by='winrid', descendants=None, kids=[25742436], score=None, time=1610407279, title=None, item_type='comment', url=None, parent=25735743, text='Back in 2014 the lichess app would send your username&#x2F;password in clear text :) will have to see if that&#x27;s still the case...')

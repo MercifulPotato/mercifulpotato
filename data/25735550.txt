@@ -1,1 +1,1 @@
-Item(by='pjnz', descendants=0, kids=None, score=8, time=1610395235, title='Show HN: Hacn – a React “monad” implemented using F#/Fable', item_type='story', url='https://github.com/pj/hacn', parent=None, text=None)
+Item(by='pjnz', descendants=1, kids=[25743046], score=13, time=1610395235, title='Show HN: Hacn – a React “monad” implemented using F#/Fable', item_type='story', url='https://github.com/pj/hacn', parent=None, text=None)

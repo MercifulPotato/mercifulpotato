@@ -1,1 +1,1 @@
-Item(by='ViViDboarder', descendants=None, kids=None, score=None, time=1610378243, title=None, item_type='comment', url=None, parent=25729603, text='I’m assuming, but the USA then. What country is that?')
+Item(by='ViViDboarder', descendants=None, kids=[25743360], score=None, time=1610378243, title=None, item_type='comment', url=None, parent=25729603, text='I’m assuming, but the USA then. What country is that?')
