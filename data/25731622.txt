@@ -1,1 +1,1 @@
-Item(by='sillysaurusx', descendants=None, kids=None, score=None, time=1610383925, title=None, item_type='comment', url=None, parent=25731520, text='I was talking about weev, not Aaron.')
+Item(by='sillysaurusx', descendants=None, kids=[25753841], score=None, time=1610383925, title=None, item_type='comment', url=None, parent=25731520, text='I was talking about weev, not Aaron.')

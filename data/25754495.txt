@@ -1,0 +1,1 @@
+Item(by='isaac-hagoel', descendants=None, kids=None, score=None, time=1610488744, title=None, item_type='comment', url=None, parent=25746976, text='You can control the duration of the animation via the `flipDurationMs` option or turn the animation off.\nIt is also possible to drop to the new position before the animation finished (but after it started).')

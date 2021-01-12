@@ -1,0 +1,1 @@
+Item(by='hackyhacky', descendants=None, kids=[25752524, 25751317], score=None, time=1610476199, title=None, item_type='comment', url=None, parent=25751178, text='Sure. But why not replace it with something that is type-safe AND already has generics, like Rust? Why are we trying to get a do-over on Go?')

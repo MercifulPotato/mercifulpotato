@@ -1,1 +1,1 @@
-Item(by='okanesen', descendants=None, kids=None, score=None, time=1610466368, title=None, item_type='comment', url=None, parent=25745916, text='Just as a side info: unfortunately this won&#x27;t work in Germany, since that feature was disabled there.')
+Item(by='okanesen', descendants=None, kids=[25754346, 25752768], score=None, time=1610466368, title=None, item_type='comment', url=None, parent=25745916, text='Just as a side info: unfortunately this won&#x27;t work in Germany, since that feature was disabled there.')

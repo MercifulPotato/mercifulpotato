@@ -1,0 +1,1 @@
+Item(by='egeozcan', descendants=None, kids=None, score=None, time=1610475446, title=None, item_type='comment', url=None, parent=25750378, text='Wanted to test too...<p>I&#x27;m getting &quot; Error: Error in connector: Error querying the database: db error: FATAL: remaining connection slots are reserved for non-replication superuser connections &quot; when deploying.')

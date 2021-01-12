@@ -1,1 +1,1 @@
-Item(by='Cieplak', descendants=16, kids=[25747495, 25746852, 25747575, 25745344, 25747233, 25746949], score=29, time=1610442513, title='A Brief Introduction to Forth (1993)', item_type='story', url='https://users.ece.cmu.edu/~koopman/forth/hopl.html', parent=None, text=None)
+Item(by='Cieplak', descendants=23, kids=[25747495, 25746852, 25748278, 25750640, 25745344, 25747575, 25747233, 25746949], score=45, time=1610442513, title='A Brief Introduction to Forth (1993)', item_type='story', url='https://users.ece.cmu.edu/~koopman/forth/hopl.html', parent=None, text=None)

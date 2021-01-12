@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1610474949, title=None, item_type='comment', url=None, parent=25749874, text='Apple M1 has togglable TSO with ACTLR_EL1, not sequential consistency.<p>You also don&#x27;t run as TSO by default, has to be toggled on by the kernel when context switching to a given task.')

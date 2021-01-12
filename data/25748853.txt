@@ -1,0 +1,1 @@
+Item(by='massysett', descendants=None, kids=None, score=None, time=1610468167, title=None, item_type='comment', url=None, parent=25747894, text='It’s hard to do this in XML because parsers nearly always strip out comments and often whitespace too. Thus writing days to the file strips out important data that I expect to be able to add if the file were truly human writable.')

@@ -1,0 +1,1 @@
+Item(by='capitainenemo', descendants=None, kids=[25752030], score=None, time=1610478653, title=None, item_type='comment', url=None, parent=25751472, text='It would work however on a password change form though which might write out on page load to a password input for comparison:\n[old]\n[new]\n[retype new]\nSometimes old is prefilled with [****] for trivial JS overlap checks.')

@@ -1,1 +1,1 @@
-Item(by='Kaibeezy', descendants=2, kids=[25747489, 25747268], score=2, time=1610461385, title='A Colonoscopy Alternative Comes Home', item_type='story', url='https://www.nytimes.com/2021/01/11/health/colonoscopy-health-home-testing.html', parent=None, text=None)
+Item(by='Kaibeezy', descendants=5, kids=[25752950, 25752965, 25747268, 25751574, 25747489], score=15, time=1610461385, title='A Colonoscopy Alternative Comes Home', item_type='story', url='https://www.nytimes.com/2021/01/11/health/colonoscopy-health-home-testing.html', parent=None, text=None)

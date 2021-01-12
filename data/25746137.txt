@@ -1,1 +1,1 @@
-Item(by='henearkr', descendants=None, kids=None, score=None, time=1610455927, title=None, item_type='comment', url=None, parent=25746125, text='This potential role of vitamin D is very exciting!')
+Item(by='henearkr', descendants=None, kids=[25748765], score=None, time=1610455927, title=None, item_type='comment', url=None, parent=25746125, text='This potential role of vitamin D is very exciting!')

@@ -1,0 +1,1 @@
+Item(by='turtlebits', descendants=None, kids=None, score=None, time=1610480417, title=None, item_type='comment', url=None, parent=25749492, text='Very cool, looks like it only works with Node.js and possibly React.  I&#x27;ve a huge fan of Hasura which just sits in front of Postgres and presents GraphQL queries (and is easily deployable as a container).')

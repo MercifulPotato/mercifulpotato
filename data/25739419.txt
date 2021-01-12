@@ -1,1 +1,1 @@
-Item(by='ArtDev', descendants=None, kids=None, score=None, time=1610407022, title=None, item_type='comment', url=None, parent=25738883, text='A joke in poor taste, yes.<p>However, his social media posts before traveling to DC were enough to strip him of any dignity he may have had.')
+Item(by='ArtDev', descendants=None, kids=[25749558], score=None, time=1610407022, title=None, item_type='comment', url=None, parent=25738883, text='A joke in poor taste, yes.<p>However, his social media posts before traveling to DC were enough to strip him of any dignity he may have had.')

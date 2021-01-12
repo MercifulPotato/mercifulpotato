@@ -1,0 +1,1 @@
+Item(by='alexfromapex', descendants=None, kids=[25751640], score=None, time=1610477166, title=None, item_type='comment', url=None, parent=25751259, text='Yes, because most companies won’t let you play around and learn Kubernetes or Hadoop on their enterprise cluster.  I have 3 RPi4s with 500GB SSDs running full blown k8s with my own privately hosted Docker repo.')

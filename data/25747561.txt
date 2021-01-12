@@ -1,1 +1,1 @@
-Item(by='eat_veggies', descendants=None, kids=None, score=None, time=1610462856, title=None, item_type='comment', url=None, parent=25747483, text='Git is a distributed VCS, so if another tool works better for their workflow, then they can use that instead of GitHub')
+Item(by='eat_veggies', descendants=None, kids=[25748704], score=None, time=1610462856, title=None, item_type='comment', url=None, parent=25747483, text='Git is a distributed VCS, so if another tool works better for their workflow, then they can use that instead of GitHub')

@@ -1,0 +1,1 @@
+Item(by='echelon', descendants=None, kids=None, score=None, time=1610484764, title=None, item_type='comment', url=None, parent=25751312, text='Rust is as complex as C++, but it hides features from use unless you know you need them.<p>If you use vanilla Rust, it honestly feels quite high level, almost like Ruby or Python.')

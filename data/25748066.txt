@@ -1,1 +1,1 @@
-Item(by='wmeredith', descendants=None, kids=None, score=None, time=1610465262, title=None, item_type='comment', url=None, parent=25746041, text='Yes. See also: ebola. If a disease is fatal <i>too fast</i>, it cannot spread well.')
+Item(by='wmeredith', descendants=None, kids=[25748693], score=None, time=1610465262, title=None, item_type='comment', url=None, parent=25746041, text='Yes. See also: ebola. If a disease is fatal <i>too fast</i>, it cannot spread well.')

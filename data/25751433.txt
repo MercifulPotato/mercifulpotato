@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1610477070, title=None, item_type='comment', url=None, parent=25751203, text='And they are, Qemu isn&#x27;t even remotely in the same performance category.<p>(it was intended to be easily retargetable to other platforms instead of being tailored to them, not even using the hardware FPU at all for example)')

@@ -1,1 +1,1 @@
-Item(by='Garbage', descendants=0, kids=None, score=9, time=1610460384, title='The State of FOSS in India', item_type='story', url='https://state-of-foss.in/', parent=None, text=None)
+Item(by='Garbage', descendants=31, kids=[25748680, 25748402, 25748204, 25751405, 25750104, 25748959, 25749765, 25748095], score=98, time=1610460384, title='The State of FOSS in India', item_type='story', url='https://state-of-foss.in/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='aratno', descendants=0, kids=None, score=1, time=1610392608, title='AnyDB: An Architecture-Less DBMS for Any Workload', item_type='story', url='https://arxiv.org/abs/2009.02258', parent=None, text=None)
+Item(by='aratno', descendants=3, kids=[25752093, 25751688], score=31, time=1610392608, title='AnyDB: An Architecture-Less DBMS for Any Workload', item_type='story', url='https://arxiv.org/abs/2009.02258', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='jcelerier', descendants=None, kids=[25751043, 25752796], score=None, time=1610475451, title=None, item_type='comment', url=None, parent=25750582, text='every language designer who does not understand c++ is doomed to reinvent it<p>I mean, seriously,<p><pre><code>    func F[T any](p T) { ... }</code></pre>')

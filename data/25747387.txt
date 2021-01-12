@@ -1,1 +1,1 @@
-Item(by='hgarg', descendants=0, kids=None, score=2, time=1610462120, title='Chinese startup leaked scraped data exposing 200+M Facebook, IG and LI users', item_type='story', url='https://www.safetydetectives.com/blog/socialarks-leak-report/', parent=None, text=None)
+Item(by='hgarg', descendants=0, kids=[25747747], score=4, time=1610462120, title='Chinese startup leaked scraped data exposing 200+M Facebook, IG and LI users', item_type='story', url='https://www.safetydetectives.com/blog/socialarks-leak-report/', parent=None, text=None)

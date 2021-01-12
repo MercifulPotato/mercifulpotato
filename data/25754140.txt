@@ -1,0 +1,1 @@
+Item(by='praptak', descendants=None, kids=None, score=None, time=1610487394, title=None, item_type='comment', url=None, parent=25752130, text='Go (without generics) is not Java 1.4.<p>Go&#x27;s built-in collections are actually generic and Java&#x27;s generic-less awkwardness was mostly about collections.')

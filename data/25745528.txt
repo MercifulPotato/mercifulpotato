@@ -1,1 +1,1 @@
-Item(by='irjustin', descendants=None, kids=None, score=None, time=1610451669, title=None, item_type='comment', url=None, parent=25745157, text='If they perform well, it&#x27;s brilliant. If badly, it&#x27;s cronyism.')
+Item(by='irjustin', descendants=None, kids=[25750433, 25750134], score=None, time=1610451669, title=None, item_type='comment', url=None, parent=25745157, text='If they perform well, it&#x27;s brilliant. If badly, it&#x27;s cronyism.')

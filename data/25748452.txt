@@ -1,1 +1,1 @@
-Item(by='tkinom', descendants=None, kids=None, score=None, time=1610466665, title=None, item_type='comment', url=None, parent=25745594, text='It happened so infrequently. How are they plan to test the vaccine on people?')
+Item(by='tkinom', descendants=None, kids=[25751051], score=None, time=1610466665, title=None, item_type='comment', url=None, parent=25745594, text='It happened so infrequently. How are they plan to test the vaccine on people?')

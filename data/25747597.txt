@@ -1,1 +1,1 @@
-Item(by='Steltek', descendants=None, kids=None, score=None, time=1610463005, title=None, item_type='comment', url=None, parent=25747062, text='Socio-economic class is not tied to moral values or compassion.')
+Item(by='Steltek', descendants=None, kids=[25747752], score=None, time=1610463005, title=None, item_type='comment', url=None, parent=25747062, text='Socio-economic class is not tied to moral values or compassion.')

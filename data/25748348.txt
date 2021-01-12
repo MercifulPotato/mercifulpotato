@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1610466335, title=None, item_type='comment', url=None, parent=25747284, text='&gt;Uncensorable<p>According to the article it looks like the only applies to the DNS part? IP&#x2F;sni blocks can still block access to it. To actually get close to &quot;uncensorable&quot; they&#x27;d need to host it on tor (or similar).')
+Item(by=None, descendants=None, kids=None, score=None, time=1610466335, title=None, item_type='comment', url=None, parent=25747284, text=None)

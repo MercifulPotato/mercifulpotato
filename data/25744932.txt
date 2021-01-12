@@ -1,1 +1,1 @@
-Item(by='inshard', descendants=1, kids=[25745109], score=3, time=1610447792, title='Show HN: Native, infinitely nest-able notes with multi-dimensional tagging', item_type='story', url='https://northnotes.app', parent=None, text=None)
+Item(by='inshard', descendants=3, kids=[25750520, 25745109], score=8, time=1610447792, title='Show HN: Native, infinitely nest-able notes with multi-dimensional tagging', item_type='story', url='https://northnotes.app', parent=None, text=None)

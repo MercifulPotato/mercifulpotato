@@ -1,0 +1,1 @@
+Item(by='jbronn', descendants=None, kids=None, score=None, time=1610473520, title=None, item_type='comment', url=None, parent=25749373, text='I’ve been using APU2 systems for several years.  It can handle gigabit if you’re using Linux and your ISP doesn’t use PPPoE.  On PPPoE it tops out around 500mbps for download and 800mbps for upload.')

@@ -1,0 +1,1 @@
+Item(by='jrockway', descendants=None, kids=None, score=None, time=1610482280, title=None, item_type='comment', url=None, parent=25751506, text='I have the same experience.  I maintain lots of software that directly depends on k8s.io&#x2F;go-client and it feels the same as any other Go project.')

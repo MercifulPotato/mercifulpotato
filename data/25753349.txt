@@ -1,0 +1,1 @@
+Item(by='mxxx', descendants=None, kids=None, score=None, time=1610484378, title=None, item_type='comment', url=None, parent=25751040, text='They were able to scrape “deleted” posts because they were just flagged but remained visible via the API. That’s a bug.')

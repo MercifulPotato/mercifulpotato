@@ -1,0 +1,1 @@
+Item(by='paulluuk', descendants=None, kids=None, score=None, time=1610470020, title=None, item_type='comment', url=None, parent=25748442, text='I noticed that pythonhosted.org was shaky, which meant that `pip install` failed over and over again on different packages. CircleCI and Github were also affected.')

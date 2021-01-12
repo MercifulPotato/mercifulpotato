@@ -1,1 +1,1 @@
-Item(by='upofadown', descendants=41, kids=[25714320, 25714406, 25714235, 25715778, 25725515, 25715630], score=69, time=1610278654, title='How Prosody developers spent 2020', item_type='story', url='https://blog.prosody.im/2020-retrospective/', parent=None, text=None)
+Item(by='upofadown', descendants=41, kids=[25714320, 25714406, 25714235, 25715630, 25715778, 25725515], score=69, time=1610278654, title='How Prosody developers spent 2020', item_type='story', url='https://blog.prosody.im/2020-retrospective/', parent=None, text=None)

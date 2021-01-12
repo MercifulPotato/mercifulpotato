@@ -1,1 +1,1 @@
-Item(by='high_density', descendants=None, kids=[25747768], score=None, time=1610462497, title=None, item_type='comment', url=None, parent=25747262, text='damn I have a habit of only reading HN comments and guessing what the article is about')
+Item(by='high_density', descendants=None, kids=[25747768, 25751361], score=None, time=1610462497, title=None, item_type='comment', url=None, parent=25747262, text='damn I have a habit of only reading HN comments and guessing what the article is about')

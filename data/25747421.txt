@@ -1,1 +1,1 @@
-Item(by='grishka', descendants=None, kids=None, score=None, time=1610462274, title=None, item_type='comment', url=None, parent=25747379, text='<a href="https:&#x2F;&#x2F;z0r.de" rel="nofollow">https:&#x2F;&#x2F;z0r.de</a> hosts a bunch of swfs and has a Ruffle&#x2F;Flash switch.')
+Item(by='grishka', descendants=None, kids=[25748032], score=None, time=1610462274, title=None, item_type='comment', url=None, parent=25747379, text='<a href="https:&#x2F;&#x2F;z0r.de" rel="nofollow">https:&#x2F;&#x2F;z0r.de</a> hosts a bunch of swfs and has a Ruffle&#x2F;Flash switch.')

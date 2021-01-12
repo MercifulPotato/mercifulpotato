@@ -1,0 +1,1 @@
+Item(by='abhijat', descendants=None, kids=None, score=None, time=1610482238, title=None, item_type='comment', url=None, parent=25752091, text='In my experience a combination of the rust book followed by the too many linked lists book was enough to give a pretty good idea of Rc, RefCell etc and how they can be used.')

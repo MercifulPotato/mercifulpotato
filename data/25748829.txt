@@ -1,0 +1,1 @@
+Item(by='eyelidlessness', descendants=None, kids=None, score=None, time=1610468094, title=None, item_type='comment', url=None, parent=25747291, text='If I’m ready to commit, I look at my most recent commit notes. If I’m not, I either:<p>- recall by what was open last<p>- recall by hitting undo a couple times<p>- stash with notes if I worry that won’t be enough context')

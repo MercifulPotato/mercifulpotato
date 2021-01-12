@@ -1,0 +1,1 @@
+Item(by='akerl_', descendants=None, kids=None, score=None, time=1610468178, title=None, item_type='comment', url=None, parent=25747671, text='I’ve ended up using Plaid to solve this. I’ve got some scripts that talk to Plaid to pull transaction data and emit it in ledger format.')

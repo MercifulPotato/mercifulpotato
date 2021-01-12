@@ -1,0 +1,1 @@
+Item(by='betimsl', descendants=None, kids=None, score=None, time=1610482874, title=None, item_type='comment', url=None, parent=25750582, text='&gt; Interface types used as type constraints can have a list of predeclared types; only type arguments that match one of those types satisfy the constraint.<p>Wait... But why?gif')

@@ -1,0 +1,1 @@
+Item(by='freewilly1040', descendants=None, kids=[25753220, 25749303], score=None, time=1610467830, title=None, item_type='comment', url=None, parent=25748499, text='Why is the auto incrementing ID bad? Easier to scrape, I suppose, if the db ID was in the URL')
