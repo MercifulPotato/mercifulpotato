@@ -1,1 +1,1 @@
-Item(by='Tomte', descendants=2, kids=[25723848, 25715825], score=14, time=1610281356, title='Chaff Bugs: Deterring Attackers by Making Software Buggier', item_type='story', url='https://arxiv.org/abs/1808.00659', parent=None, text=None)
+Item(by='Tomte', descendants=2, kids=[25715825, 25723848], score=14, time=1610281356, title='Chaff Bugs: Deterring Attackers by Making Software Buggier', item_type='story', url='https://arxiv.org/abs/1808.00659', parent=None, text=None)

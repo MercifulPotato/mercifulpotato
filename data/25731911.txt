@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1610384865, title=None, item_type='comment', url=None, parent=25730843, text='Yeah that prevents mass surveillance but doesn&#x27;t prevent targeted surveillance (think steam account with valuable skins).')
+Item(by='gruez', descendants=None, kids=[25741561], score=None, time=1610384865, title=None, item_type='comment', url=None, parent=25730843, text='Yeah that prevents mass surveillance but doesn&#x27;t prevent targeted surveillance (think steam account with valuable skins).')

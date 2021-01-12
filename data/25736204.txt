@@ -1,1 +1,1 @@
-Item(by='adamhearn', descendants=0, kids=None, score=1, time=1610397127, title='We Are What We Remember', item_type='story', url='https://fs.blog/2021/01/we-remember/', parent=None, text=None)
+Item(by='adamhearn', descendants=4, kids=[25739954, 25739947, 25740777], score=36, time=1610397127, title='We Are What We Remember', item_type='story', url='https://fs.blog/2021/01/we-remember/', parent=None, text=None)

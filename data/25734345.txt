@@ -1,1 +1,1 @@
-Item(by='astrange', descendants=None, kids=None, score=None, time=1610391775, title=None, item_type='comment', url=None, parent=25732658, text='It wouldn&#x27;t be very useful without swap, and the device isn&#x27;t meant to be used with swap enabled.')
+Item(by='astrange', descendants=None, kids=[25740012], score=None, time=1610391775, title=None, item_type='comment', url=None, parent=25732658, text='It wouldn&#x27;t be very useful without swap, and the device isn&#x27;t meant to be used with swap enabled.')

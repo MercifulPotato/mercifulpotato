@@ -1,0 +1,1 @@
+Item(by='varenc', descendants=None, kids=[25739623, 25740281], score=None, time=1610407174, title=None, item_type='comment', url=None, parent=25737127, text='The Mikrotik CRS will work as a &quot;gateway&quot; right? That is, run a DHCP server, connect to my cable modem, provide local DNS, etc?  Thanks!')

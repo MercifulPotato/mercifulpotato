@@ -1,0 +1,1 @@
+Item(by='lostmsu', descendants=None, kids=None, score=None, time=1610408091, title=None, item_type='comment', url=None, parent=25733285, text='@dang the title should be changed to &quot;Systemd fails to boot on some Ryzen machines&quot;. As discussed in the issue itself, there&#x27;s no apparent problem with RDRAND on Ryzen.')

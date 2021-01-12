@@ -1,1 +1,1 @@
-Item(by='anarbadalov', descendants=0, kids=None, score=7, time=1610381044, title='A Brief History of Consumer Culture', item_type='story', url='https://thereader.mitpress.mit.edu/a-brief-history-of-consumer-culture/', parent=None, text=None)
+Item(by='anarbadalov', descendants=6, kids=[25741363, 25737900, 25740982], score=43, time=1610381044, title='A Brief History of Consumer Culture', item_type='story', url='https://thereader.mitpress.mit.edu/a-brief-history-of-consumer-culture/', parent=None, text=None)

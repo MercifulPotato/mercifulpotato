@@ -1,0 +1,1 @@
+Item(by='_joel', descendants=None, kids=[25741176], score=None, time=1610408369, title=None, item_type='comment', url=None, parent=25737525, text='I use a Microtik hAP AC (Small little SOHO style router with an sfp and PoE). You can easily flash it with OpenWRT and use wireguard on that. All open source too.<p>It&#x27;s great hardware but I&#x27;m no personal fan of RouterOS.')

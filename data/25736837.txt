@@ -1,1 +1,1 @@
-Item(by='jounker', descendants=None, kids=None, score=None, time=1610398812, title=None, item_type='comment', url=None, parent=25733085, text='Don’t run a social network designed to host right wing extremists, and you should be fine.')
+Item(by='jounker', descendants=None, kids=[25739258], score=None, time=1610398812, title=None, item_type='comment', url=None, parent=25733085, text='Don’t run a social network designed to host right wing extremists, and you should be fine.')

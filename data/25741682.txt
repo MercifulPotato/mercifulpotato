@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=[25742304, 25742413], score=None, time=1610420205, title=None, item_type='comment', url=None, parent=25741595, text='No, because delta can&#x27;t ever go below 0 or above 1, but it will be close to 0 for low prices (OTM options) and close to 1 for high prices (ITM options). So it&#x27;ll always form a kind of S-curve.')

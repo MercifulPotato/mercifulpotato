@@ -1,1 +1,1 @@
-Item(by='toast0', descendants=None, kids=None, score=None, time=1610381812, title=None, item_type='comment', url=None, parent=25729201, text='If a video used to be public, but was turned private, there could be references to it in other places.')
+Item(by='toast0', descendants=None, kids=[25737482], score=None, time=1610381812, title=None, item_type='comment', url=None, parent=25729201, text='If a video used to be public, but was turned private, there could be references to it in other places.')

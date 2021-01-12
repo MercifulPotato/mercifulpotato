@@ -1,1 +1,1 @@
-Item(by='Stratoscope', descendants=None, kids=None, score=None, time=1610345371, title=None, item_type='comment', url=None, parent=25724501, text='Indeed, when I was a kid, I learned that when the parish priest stopped by our home, we always offered him a shot of whiskey.')
+Item(by='Stratoscope', descendants=None, kids=[25738050], score=None, time=1610345371, title=None, item_type='comment', url=None, parent=25724501, text='Indeed, when I was a kid, I learned that when the parish priest stopped by our home, we always offered him a shot of whiskey.')

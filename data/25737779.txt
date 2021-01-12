@@ -1,0 +1,1 @@
+Item(by='drran', descendants=None, kids=[25738581], score=None, time=1610401722, title=None, item_type='comment', url=None, parent=25737556, text='Try to append to search string:<p><pre><code>    -site:quora.com -site:wikihow.com -site:medium.com  -site:pinterest.*</code></pre>')

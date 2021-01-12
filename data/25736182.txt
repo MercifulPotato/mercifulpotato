@@ -1,1 +1,1 @@
-Item(by='trianglem', descendants=None, kids=None, score=None, time=1610397073, title=None, item_type='comment', url=None, parent=25734264, text='Trump has received many warnings. Kathy Griffin was forced to delete those and she complied and hasn’t erred since.')
+Item(by='trianglem', descendants=None, kids=[25737255], score=None, time=1610397073, title=None, item_type='comment', url=None, parent=25734264, text='Trump has received many warnings. Kathy Griffin was forced to delete those and she complied and hasn’t erred since.')

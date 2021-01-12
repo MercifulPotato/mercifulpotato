@@ -1,1 +1,1 @@
-Item(by='nomdep', descendants=None, kids=None, score=None, time=1610398097, title=None, item_type='comment', url=None, parent=25735441, text='Yes. AWS is so big that the common carrier laws should apply to it.')
+Item(by='nomdep', descendants=None, kids=[25737988], score=None, time=1610398097, title=None, item_type='comment', url=None, parent=25735441, text='Yes. AWS is so big that the common carrier laws should apply to it.')

@@ -1,1 +1,1 @@
-Item(by='sjtgraham', descendants=None, kids=None, score=None, time=1610398737, title=None, item_type='comment', url=None, parent=25735735, text='I haven&#x27;t read the article I&#x27;m just joining in on the side-discussion in this thread.')
+Item(by='sjtgraham', descendants=None, kids=[25740321], score=None, time=1610398737, title=None, item_type='comment', url=None, parent=25735735, text='I haven&#x27;t read the article I&#x27;m just joining in on the side-discussion in this thread.')

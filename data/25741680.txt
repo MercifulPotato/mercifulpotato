@@ -1,0 +1,1 @@
+Item(by='conk', descendants=None, kids=[25741731, 25741952], score=None, time=1610420189, title=None, item_type='comment', url=None, parent=25741634, text='This is true for existing installs. But recently ATT moved to XGPON gateways with integrated ONT. You can no longer bypass these gateways. Also to my knowledge you can’t extract the certs from Pace gateways.')

@@ -1,1 +1,1 @@
-Item(by='daviducolo', descendants=0, kids=None, score=5, time=1610389524, title='Show HN: DatoJi fastest JSON storage service ever made', item_type='story', url='https://datoji.dev', parent=None, text=None)
+Item(by='daviducolo', descendants=3, kids=[25736427, 25741749], score=9, time=1610389524, title='Show HN: DatoJi fastest JSON storage service ever made', item_type='story', url='https://datoji.dev', parent=None, text=None)

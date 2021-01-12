@@ -1,1 +1,1 @@
-Item(by='rasengan', descendants=6, kids=[25734678, 25734615, 25734813, 25735350, 25734975], score=23, time=1610392032, title='Ask HN: Where Is Jack Ma?', item_type='story', url=None, parent=None, text='Has anyone seen Jack Ma in the past few weeks?')
+Item(by='rasengan', descendants=10, kids=[25734678, 25734615, 25734813, 25735350, 25736582, 25734975], score=27, time=1610392032, title='Ask HN: Where Is Jack Ma?', item_type='story', url=None, parent=None, text='Has anyone seen Jack Ma in the past few weeks?')

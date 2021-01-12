@@ -1,0 +1,1 @@
+Item(by='kayodelycaon', descendants=None, kids=[25741222], score=None, time=1610414192, title=None, item_type='comment', url=None, parent=25740872, text='The issue in the article could have been solved by running a long-running command with no output in screen or tmux. If ssh disconnects, just reattach.')

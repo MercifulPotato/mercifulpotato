@@ -1,0 +1,1 @@
+Item(by='centimeter', descendants=None, kids=None, score=None, time=1610415764, title=None, item_type='comment', url=None, parent=25737611, text='Wireguard will help you work around this. Just tunnel ssh through it. You will still have nat failures but wg will reconnect and things will look stable to ssh.')

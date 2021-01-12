@@ -1,1 +1,1 @@
-Item(by='FlyMoreRockets', descendants=3, kids=[25730338, 25715864, 25717998], score=7, time=1610293562, title='Coping with Unix, a Survival Guide', item_type='story', url='http://sites.science.oregonstate.edu/~landaur/nacphy/coping-with-unix/book.html', parent=None, text=None)
+Item(by='FlyMoreRockets', descendants=3, kids=[25715864, 25717998, 25730338], score=7, time=1610293562, title='Coping with Unix, a Survival Guide', item_type='story', url='http://sites.science.oregonstate.edu/~landaur/nacphy/coping-with-unix/book.html', parent=None, text=None)

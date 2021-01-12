@@ -1,1 +1,1 @@
-Item(by='tremon', descendants=None, kids=None, score=None, time=1610390027, title=None, item_type='comment', url=None, parent=25733563, text='Google, Apple, Facebook, Amazon.')
+Item(by='tremon', descendants=None, kids=[25738609], score=None, time=1610390027, title=None, item_type='comment', url=None, parent=25733563, text='Google, Apple, Facebook, Amazon.')

@@ -1,1 +1,1 @@
-Item(by='socceroos', descendants=None, kids=None, score=None, time=1610325269, title=None, item_type='comment', url=None, parent=25706516, text='I took the quote to mean that competent people get handed more and more workload until they burn out.')
+Item(by='socceroos', descendants=None, kids=[25737543], score=None, time=1610325269, title=None, item_type='comment', url=None, parent=25706516, text='I took the quote to mean that competent people get handed more and more workload until they burn out.')

@@ -1,0 +1,1 @@
+Item(by='Causality1', descendants=None, kids=[25741753], score=None, time=1610414070, title=None, item_type='comment', url=None, parent=25737611, text='Interesting. I hadn&#x27;t really been familiar with carrier-level NAT. How does that work with say, a home server that other people connect to using only an IP address and a port number?')

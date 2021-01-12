@@ -1,1 +1,1 @@
-Item(by='l9k', descendants=None, kids=None, score=None, time=1610384324, title=None, item_type='comment', url=None, parent=25731005, text='Yet you seem to side with the less complex interpretation of current event being &quot;he gave a rousing speech&quot;')
+Item(by='l9k', descendants=None, kids=[25740280], score=None, time=1610384324, title=None, item_type='comment', url=None, parent=25731005, text='Yet you seem to side with the less complex interpretation of current event being &quot;he gave a rousing speech&quot;')

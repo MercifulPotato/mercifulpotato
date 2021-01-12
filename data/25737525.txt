@@ -1,1 +1,1 @@
-Item(by='aborsy', descendants=None, kids=None, score=None, time=1610400833, title=None, item_type='comment', url=None, parent=25736757, text='Does it support Wireguard?<p>Also RouterOS does not seem open source.')
+Item(by='aborsy', descendants=None, kids=[25737785, 25741166, 25739822, 25737648, 25737608], score=None, time=1610400833, title=None, item_type='comment', url=None, parent=25736757, text='Does it support Wireguard?<p>Also RouterOS does not seem open source.')

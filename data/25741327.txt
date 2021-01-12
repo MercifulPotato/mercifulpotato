@@ -1,0 +1,1 @@
+Item(by='dfox', descendants=None, kids=None, score=None, time=1610416985, title=None, item_type='comment', url=None, parent=25741045, text='Some NAT implementations ignore TCP keepalives. Alcatel branded ADSL modem&#x2F;router I had used in 2005-ish certainly did and IIRC some more recent Zyxel ones do the same.')

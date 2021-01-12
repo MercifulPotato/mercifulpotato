@@ -1,0 +1,1 @@
+Item(by='this_user', descendants=None, kids=None, score=None, time=1610398842, title=None, item_type='comment', url=None, parent=25736605, text='They are probably encrypted in the backend DB with a symmetric cipher on the server with a key that Telegram have access to.')

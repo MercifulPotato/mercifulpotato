@@ -1,0 +1,1 @@
+Item(by='jimsparkman', descendants=None, kids=None, score=None, time=1610423912, title=None, item_type='comment', url=None, parent=25738217, text='At least in the AWS ecosystem, Athena makes this very simple to implement. Stream load balancer logs to S3 and query directly.')

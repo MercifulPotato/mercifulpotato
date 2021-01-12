@@ -1,0 +1,1 @@
+Item(by='citrin_ru', descendants=None, kids=[25740972], score=None, time=1610412887, title=None, item_type='comment', url=None, parent=25739369, text='Purpose of UUID is to be unique, not random. There is no need to wrap RDRAND into another random generator. One can use time&#x2F;counter as one part of UUID and kernel provided PRNG, e. g. getrandom(2) for another part.')

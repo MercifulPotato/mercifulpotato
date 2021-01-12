@@ -1,0 +1,1 @@
+Item(by='secondcoming', descendants=None, kids=[25738877], score=None, time=1610401880, title=None, item_type='comment', url=None, parent=25735957, text='Since they only use it for UUID generation, couldn&#x27;t they use rdrand() to seed a PGC pseudo-RNG?')

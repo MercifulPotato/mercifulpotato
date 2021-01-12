@@ -1,1 +1,1 @@
-Item(by='hatmatrix', descendants=0, kids=None, score=2, time=1610158206, title='Is the Schrödinger Equation True?', item_type='story', url='https://www.scientificamerican.com/article/is-the-schroedinger-equation-true/', parent=None, text=None)
+Item(by='hatmatrix', descendants=62, kids=[25741393, 25739795, 25738829, 25738766, 25740305, 25739756, 25738961, 25739595, 25738845], score=25, time=1610158206, title='Is the Schrödinger Equation True?', item_type='story', url='https://www.scientificamerican.com/article/is-the-schroedinger-equation-true/', parent=None, text=None)

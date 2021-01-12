@@ -1,0 +1,1 @@
+Item(by='aduros', descendants=None, kids=[25742305], score=None, time=1610419371, title=None, item_type='comment', url=None, parent=25738690, text='Try this:<p><pre><code>    XTerm.vt100.translations: #override \\n\\\n        Ctrl &lt;Key&gt;T: spawn-new-terminal()</code></pre>')

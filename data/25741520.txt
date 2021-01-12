@@ -1,0 +1,1 @@
+Item(by='sonotmyname', descendants=None, kids=None, score=None, time=1610418832, title=None, item_type='comment', url=None, parent=25739946, text='There is no such thing as a properly configured NAT implementation that does not have timeouts for idle sessions.  Without those you’d run out of memory on your router and new sessions would be blocked.')

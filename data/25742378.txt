@@ -1,0 +1,1 @@
+Item(by='greg5green', descendants=None, kids=None, score=None, time=1610426534, title=None, item_type='comment', url=None, parent=25741952, text='The AT&amp;T gateways do not have a true bridge mode. They still use NAT even if they look like they are just passing the connection on.')

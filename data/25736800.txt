@@ -1,0 +1,1 @@
+Item(by='Ashoat', descendants=None, kids=[25737023], score=None, time=1610398728, title=None, item_type='comment', url=None, parent=25736516, text='My understanding is that WhatsApp backups are plaintext. It&#x27;s true that Apple&#x2F;Google can&#x27;t recover your WhatsApp account with just the plaintext, but I believe they <i>can</i> read the messages.')

@@ -1,1 +1,1 @@
-Item(by='sn_master', descendants=None, kids=None, score=None, time=1610396452, title=None, item_type='comment', url=None, parent=25735089, text='Everyone nowadays is one-sided it seems. Its very sad..')
+Item(by='sn_master', descendants=None, kids=[25737749], score=None, time=1610396452, title=None, item_type='comment', url=None, parent=25735089, text='Everyone nowadays is one-sided it seems. Its very sad..')

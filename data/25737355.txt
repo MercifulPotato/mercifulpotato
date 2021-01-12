@@ -1,0 +1,1 @@
+Item(by='m4lvin', descendants=None, kids=[25737462], score=None, time=1610400329, title=None, item_type='comment', url=None, parent=25737012, text='Encrypting the message AND the upload seems a no-brainer to me, if you want to call it E2EE. If the upload would not be encrypted then the (admin of the) server running XEP-0363 HTTP File Upload could see the contents.')
