@@ -1,0 +1,1 @@
+Item(by='a-dub', descendants=None, kids=None, score=None, time=1610506720, title=None, item_type='comment', url=None, parent=25747215, text='this is really cool! using a fast redis for metadata means that suddenly s3 style blob stores become feasible as real networked filesystems.<p>nice!')

@@ -1,0 +1,1 @@
+Item(by='fock', descendants=None, kids=None, score=None, time=1610523025, title=None, item_type='comment', url=None, parent=25757700, text='well, NFS may not scale to infinity, but easily beats this thing I guess... And for scaling to infinity: how about benchmarking vs. GPFS, BeeGFS or Gluster?')

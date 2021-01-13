@@ -1,1 +1,1 @@
-Item(by='systemvoltage', descendants=None, kids=None, score=None, time=1610509981, title=None, item_type='comment', url=None, parent=25757815, text='Even if Pence is taking over Trump as President, the number doesn&#x27;t increment. It doesn&#x27;t imply anything.')
+Item(by='systemvoltage', descendants=None, kids=[25757951, 25757902, 25757900], score=None, time=1610509981, title=None, item_type='comment', url=None, parent=25757815, text='Even if Pence is taking over Trump as President, the number doesn&#x27;t increment. It doesn&#x27;t imply anything.')

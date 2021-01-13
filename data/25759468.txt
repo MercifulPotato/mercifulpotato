@@ -1,0 +1,1 @@
+Item(by='chalst', descendants=None, kids=[25759629], score=None, time=1610525309, title=None, item_type='comment', url=None, parent=25758863, text='I&#x27;m surprised the option of moving the package to contrib got so little support. Many of these packages don&#x27;t seem a good fit for Debian stable and its security-patch model.')

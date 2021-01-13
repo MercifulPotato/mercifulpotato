@@ -1,0 +1,1 @@
+Item(by='albatruss', descendants=None, kids=[25758546], score=None, time=1610510763, title=None, item_type='comment', url=None, parent=25747215, text='How does this compare with seaweedfs? That also has fuse and can store metadata and small data in redis and provides its own s3 api, so there&#x27;s one less moving part.')

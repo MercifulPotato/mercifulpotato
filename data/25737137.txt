@@ -1,1 +1,1 @@
-Item(by='nend', descendants=None, kids=None, score=None, time=1610399717, title=None, item_type='comment', url=None, parent=25736608, text='That&#x27;s typically the reason why I get into a debate.')
+Item(by='nend', descendants=None, kids=[25758911], score=None, time=1610399717, title=None, item_type='comment', url=None, parent=25736608, text='That&#x27;s typically the reason why I get into a debate.')

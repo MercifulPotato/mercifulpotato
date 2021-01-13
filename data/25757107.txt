@@ -1,1 +1,1 @@
-Item(by='lawrenceyan', descendants=0, kids=None, score=2, time=1610503963, title='A London Accent from the 14th to the 21st Centuries [video]', item_type='story', url='https://www.youtube.com/watch?v=3lXv3Tt4x20', parent=None, text=None)
+Item(by='lawrenceyan', descendants=1, kids=[25757968], score=4, time=1610503963, title='A London Accent from the 14th to the 21st Centuries [video]', item_type='story', url='https://www.youtube.com/watch?v=3lXv3Tt4x20', parent=None, text=None)

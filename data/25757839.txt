@@ -1,1 +1,1 @@
-Item(by='ed25519FUUU', descendants=None, kids=None, score=None, time=1610510027, title=None, item_type='comment', url=None, parent=25757686, text='What about people who subscribe to his channel and want to hear the president speak?')
+Item(by='ed25519FUUU', descendants=None, kids=[25757981], score=None, time=1610510027, title=None, item_type='comment', url=None, parent=25757686, text='One person wants to speak, 80 million people don’t want to hear him, 70 million do, so who’s rights are abridged?')

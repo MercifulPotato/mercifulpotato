@@ -1,1 +1,1 @@
-Item(by='chishaku', descendants=None, kids=None, score=None, time=1610497394, title=None, item_type='comment', url=None, parent=25755745, text='because you sign a 5b deal and then do due diligence')
+Item(by='chishaku', descendants=None, kids=[25758936, 25758308], score=None, time=1610497394, title=None, item_type='comment', url=None, parent=25755745, text='because you sign a 5b deal and then do due diligence')

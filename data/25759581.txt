@@ -1,0 +1,1 @@
+Item(by='erik_seaberg', descendants=None, kids=None, score=None, time=1610526615, title=None, item_type='comment', url=None, parent=25759489, text='They don’t want twenty .deb node apps to depend on twenty different versions of the same library, because backporting security fixes to each of them years from now could be a nightmare.')

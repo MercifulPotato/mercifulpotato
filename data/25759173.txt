@@ -1,0 +1,1 @@
+Item(by='hilbertseries', descendants=None, kids=[25759204], score=None, time=1610522212, title=None, item_type='comment', url=None, parent=25758582, text='OOC, what are the downsides of storing service discovery information like this in TXT records? As opposed to using ZK, consul, etcd or a more standard solution?')

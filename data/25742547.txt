@@ -1,1 +1,1 @@
-Item(by='Tomte', descendants=15, kids=[25745521, 25744983, 25746624, 25746837, 25746739], score=66, time=1610427977, title='Old Compilers and Old Bugs', item_type='story', url='https://lwn.net/SubscriberLink/842122/2ed09eb12c8ca4bf/', parent=None, text=None)
+Item(by='Tomte', descendants=15, kids=[25745521, 25744983, 25746837, 25746739, 25746624], score=69, time=1610427977, title='Old Compilers and Old Bugs', item_type='story', url='https://lwn.net/SubscriberLink/842122/2ed09eb12c8ca4bf/', parent=None, text=None)

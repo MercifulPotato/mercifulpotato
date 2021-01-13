@@ -1,0 +1,1 @@
+Item(by='praptak', descendants=None, kids=None, score=None, time=1610522092, title=None, item_type='comment', url=None, parent=25759058, text='Most of the casting in Java 1.4 was from collections of Object. In Go the collections are typed, so the casting is confined to some very specialized pieces of code.')

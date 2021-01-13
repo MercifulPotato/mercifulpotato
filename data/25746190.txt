@@ -1,1 +1,1 @@
-Item(by='mhb', descendants=0, kids=None, score=1, time=1610456292, title='Snakes Found a New Way to Slither', item_type='story', url='https://www.nytimes.com/2021/01/11/science/brown-tree-snake-climbing.html', parent=None, text=None)
+Item(by='mhb', descendants=12, kids=[25758805, 25759035, 25759042, 25758883], score=29, time=1610456292, title='Snakes Found a New Way to Slither', item_type='story', url='https://www.nytimes.com/2021/01/11/science/brown-tree-snake-climbing.html', parent=None, text=None)

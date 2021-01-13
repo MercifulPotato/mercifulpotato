@@ -1,1 +1,1 @@
-Item(by='dralley', descendants=1, kids=[25755802, 25753931], score=15, time=1610483834, title='Monthlong denial-of-service against PyPI', item_type='story', url='https://status.python.org/', parent=None, text=None)
+Item(by='dralley', descendants=1, kids=[25753931, 25755802], score=16, time=1610483834, title='Monthlong denial-of-service against PyPI', item_type='story', url='https://status.python.org/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='q3k', descendants=None, kids=None, score=None, time=1610531682, title=None, item_type='comment', url=None, parent=25758678, text='&gt; The architect of JuiceFS is very close to GFS, which use a single node master for many years, even now.<p>GFS has since evolved into Colossus which doesn&#x27;t have this architecture limitation.')

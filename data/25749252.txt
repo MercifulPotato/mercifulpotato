@@ -1,1 +1,1 @@
-Item(by='marcelo_lebre', descendants=1, kids=[25756556], score=30, time=1610469440, title='José Valim, creator of Elixir lang, is now an official advisor to Remote', item_type='story', url='https://remote.com/blog/welcoming-elixir-creator-jose-valim', parent=None, text=None)
+Item(by='marcelo_lebre', descendants=2, kids=[25756556], score=33, time=1610469440, title='José Valim, creator of Elixir lang, is now an official advisor to Remote', item_type='story', url='https://remote.com/blog/welcoming-elixir-creator-jose-valim', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='arcticbull', descendants=None, kids=None, score=None, time=1610497551, title=None, item_type='comment', url=None, parent=25745955, text='You haven&#x27;t cited any evidence, you&#x27;re just speculating.')
+Item(by='arcticbull', descendants=None, kids=[25758953], score=None, time=1610497551, title=None, item_type='comment', url=None, parent=25745955, text='You haven&#x27;t cited any evidence, you&#x27;re just speculating.')

@@ -1,0 +1,1 @@
+Item(by='Labo333', descendants=None, kids=[25759323, 25759330], score=None, time=1610523153, title=None, item_type='comment', url=None, parent=25747215, text='Is metadata also replicated in S3?<p>Else I don&#x27;t understand how the metadata can be persistent after reboot as AFAIK redis cannot dump and reload its state.')

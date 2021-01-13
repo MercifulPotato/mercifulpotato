@@ -1,1 +1,1 @@
-Item(by='Finnucane', descendants=None, kids=None, score=None, time=1610507918, title=None, item_type='comment', url=None, parent=25757316, text='How long before all of bitcoin is lost, stolen, or forgotten  wallets?')
+Item(by='Finnucane', descendants=None, kids=[25758603], score=None, time=1610507918, title=None, item_type='comment', url=None, parent=25757316, text='How long before all of bitcoin is lost, stolen, or forgotten  wallets?')

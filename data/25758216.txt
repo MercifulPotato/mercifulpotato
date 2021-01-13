@@ -1,0 +1,1 @@
+Item(by='satoru42', descendants=None, kids=None, score=None, time=1610512713, title=None, item_type='comment', url=None, parent=25757494, text='Yes, commands like `ls` are very fast as long as you are near the metadata server (Redis in this case).')

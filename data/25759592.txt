@@ -1,0 +1,1 @@
+Item(by='fileeditview', descendants=None, kids=None, score=None, time=1610526707, title=None, item_type='comment', url=None, parent=25759394, text='Wrong. The whole point of this construct is that in Go maps return default values for keys that do not exist. The default value for bool is false.')
