@@ -1,1 +1,1 @@
-Item(by='SoMuchToGrok', descendants=0, kids=None, score=3, time=1610483705, title='Razer Project Hazel – The Smartest Mask', item_type='story', url='https://www.razer.com/concepts/razer-project-hazel', parent=None, text=None)
+Item(by='SoMuchToGrok', descendants=1, kids=[25753762], score=4, time=1610483705, title='Razer Project Hazel – The Smartest Mask', item_type='story', url='https://www.razer.com/concepts/razer-project-hazel', parent=None, text=None)

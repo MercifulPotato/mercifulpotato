@@ -1,0 +1,1 @@
+Item(by='_rend', descendants=None, kids=None, score=None, time=1610506065, title=None, item_type='comment', url=None, parent=25754441, text='No, they only avoid being filtered by per-process filters. They can&#x27;t bypass packet filters, by design; system-wide VPN connections work the same way, and cannot be bypassed.')

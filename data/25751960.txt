@@ -1,1 +1,1 @@
-Item(by='troquerre', descendants=None, kids=None, score=None, time=1610479051, title=None, item_type='comment', url=None, parent=25751604, text='They&#x27;re top-level domains on an alternative root but that doesn&#x27;t make them not top-level domains.')
+Item(by='troquerre', descendants=None, kids=[25756082], score=None, time=1610479051, title=None, item_type='comment', url=None, parent=25751604, text='They&#x27;re top-level domains on an alternative root but that doesn&#x27;t make them not top-level domains.')

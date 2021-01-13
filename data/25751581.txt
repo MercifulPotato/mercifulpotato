@@ -1,1 +1,1 @@
-Item(by='joshlemer', descendants=None, kids=[25751913, 25751666, 25752675, 25752322, 25751618], score=None, time=1610477639, title=None, item_type='comment', url=None, parent=25751524, text='I thought the idomatic approach was to represent sets with map[key]bool')
+Item(by='joshlemer', descendants=None, kids=[25751666, 25751913, 25752675, 25752322, 25751618], score=None, time=1610477639, title=None, item_type='comment', url=None, parent=25751524, text='I thought the idomatic approach was to represent sets with map[key]bool')

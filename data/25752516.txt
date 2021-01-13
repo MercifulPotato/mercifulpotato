@@ -1,1 +1,1 @@
-Item(by='edward', descendants=0, kids=None, score=2, time=1610481267, title='1028 Words on Free Software', item_type='story', url='http://deblanc.net/blog/2021/01/12/1028-words-on-free-software/', parent=None, text=None)
+Item(by='edward', descendants=1, kids=[25755904], score=3, time=1610481267, title='1028 Words on Free Software', item_type='story', url='http://deblanc.net/blog/2021/01/12/1028-words-on-free-software/', parent=None, text=None)

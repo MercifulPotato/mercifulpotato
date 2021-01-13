@@ -1,0 +1,1 @@
+Item(by='Spivak', descendants=None, kids=[25754799], score=None, time=1610489964, title=None, item_type='comment', url=None, parent=25754238, text='Yeah, I&#x27;m not really sure if DRYing yourself to death is a good approach to software development. Ansible is really really easy to hack on and it&#x27;s ~1.2mil LOC which probably horrifies the suckless devs.')

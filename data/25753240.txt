@@ -1,1 +1,1 @@
-Item(by='what_ever', descendants=None, kids=None, score=None, time=1610483898, title=None, item_type='comment', url=None, parent=25752759, text='Japan cruise case was in February 2020 which is about a year ago now. Testing became more reliable a long time ago.')
+Item(by='what_ever', descendants=None, kids=[25756850], score=None, time=1610483898, title=None, item_type='comment', url=None, parent=25752759, text='Japan cruise case was in February 2020 which is about a year ago now. Testing became more reliable a long time ago.')

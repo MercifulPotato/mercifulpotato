@@ -1,1 +1,1 @@
-Item(by='sholdery', descendants=None, kids=None, score=None, time=1610408635, title=None, item_type='comment', url=None, parent=25739422, text='The courts have refused to accept the case. It didn’t have the opportunity to be shown in court.')
+Item(by='sholdery', descendants=None, kids=[25756104], score=None, time=1610408635, title=None, item_type='comment', url=None, parent=25739422, text='The courts have refused to accept the case. It didn’t have the opportunity to be shown in court.')

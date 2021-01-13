@@ -1,0 +1,1 @@
+Item(by='wrnr', descendants=None, kids=None, score=None, time=1610496504, title=None, item_type='comment', url=None, parent=25750582, text='Sometimes I miss java stream API in Go, maybe this can be a first step to implementing a similar lazy functional programming interface.')

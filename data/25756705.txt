@@ -1,0 +1,1 @@
+Item(by='colsandurz', descendants=None, kids=None, score=None, time=1610500885, title=None, item_type='comment', url=None, parent=25753849, text='A GPS repeater would only give accurate time, not position.  The repeater only repeats the signal that&#x27;s captured by the antenna on the roof.  I use GPS repeaters frequently in my labs to supply timing to instruments.')

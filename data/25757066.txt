@@ -1,0 +1,1 @@
+Item(by='mkl', descendants=None, kids=None, score=None, time=1610503502, title=None, item_type='comment', url=None, parent=25756473, text='Are you using the Nouveau graphics driver?  Chrome reliably crashes my machine with Nouveau (though nothing else seems to).  After I install NVidia&#x27;s driver, it&#x27;s rock solid.<p>I get far more UI freakouts in Windows.')

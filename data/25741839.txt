@@ -1,1 +1,1 @@
-Item(by='Hooke', descendants=1, kids=[25742366], score=3, time=1610421631, title='Dormant viruses activate during spaceflight (2019)', item_type='story', url='https://www.sciencedaily.com/releases/2019/03/190316162211.htm', parent=None, text=None)
+Item(by='Hooke', descendants=3, kids=[25742366, 25757032], score=13, time=1610421631, title='Dormant viruses activate during spaceflight (2019)', item_type='story', url='https://www.sciencedaily.com/releases/2019/03/190316162211.htm', parent=None, text=None)

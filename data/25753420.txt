@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=None, kids=None, score=None, time=1610484606, title=None, item_type='comment', url=None, parent=25752875, text='I can see a future where something like this becomes default in most countries. Unthinkable just a few years ago.')
+Item(by='tosh', descendants=None, kids=[25753986, 25754744, 25754485, 25753818, 25753833], score=None, time=1610484606, title=None, item_type='comment', url=None, parent=25752875, text='I can see a future where something like this becomes default in most countries. Unthinkable just a few years ago.')

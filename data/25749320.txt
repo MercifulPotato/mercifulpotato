@@ -1,1 +1,1 @@
-Item(by='0_____0', descendants=None, kids=None, score=None, time=1610469688, title=None, item_type='comment', url=None, parent=25749209, text='what? article says it gets up to 15 hours runtime, which i presume includes CPU heavy applications like commenting on hacker news.')
+Item(by='0_____0', descendants=None, kids=[25754313], score=None, time=1610469688, title=None, item_type='comment', url=None, parent=25749209, text='what? article says it gets up to 15 hours runtime, which i presume includes CPU heavy applications like commenting on hacker news.')

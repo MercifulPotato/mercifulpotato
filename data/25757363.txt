@@ -1,0 +1,1 @@
+Item(by='rdsubhas', descendants=None, kids=[25757643], score=None, time=1610505895, title=None, item_type='comment', url=None, parent=25755731, text='Looks more like reliability vs speed. Small &amp; fast compilers skimp out on various safety checks and edge cases. Yeah it might mean segfaults and crashes in weird archs and situations, but it&#x27;s fast on perfect machines.')

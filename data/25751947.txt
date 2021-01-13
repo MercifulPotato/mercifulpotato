@@ -1,1 +1,1 @@
-Item(by='Nullabillity', descendants=None, kids=None, score=None, time=1610479017, title=None, item_type='comment', url=None, parent=25748758, text='&gt; Maintainers can&#x27;t. Only the PR owner can.<p>Just tried it, seems to work fine for me..?')
+Item(by='Nullabillity', descendants=None, kids=[25752841], score=None, time=1610479017, title=None, item_type='comment', url=None, parent=25748758, text='&gt; Maintainers can&#x27;t. Only the PR owner can.<p>Just tried it, seems to work fine for me..?')

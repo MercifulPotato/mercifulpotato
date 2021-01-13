@@ -1,0 +1,1 @@
+Item(by='marcinzm', descendants=None, kids=None, score=None, time=1610495611, title=None, item_type='comment', url=None, parent=25755763, text='Based on the description, the source code wasn&#x27;t modified, only the build tooling on the developer machines. As such a CI server wouldn&#x27;t be impacted.')

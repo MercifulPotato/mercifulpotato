@@ -1,0 +1,1 @@
+Item(by='millstone', descendants=None, kids=None, score=None, time=1610507725, title=None, item_type='comment', url=None, parent=25756014, text='LLVM does indeed use known suboptimal algorithms for increased speed. Its register allocator is an example: a &quot;perfect&quot; register allocator is NP complete, and LLVM uses a relatively simple greedy algorithm instead.')

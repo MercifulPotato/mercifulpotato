@@ -1,1 +1,1 @@
-Item(by='troyvit', descendants=None, kids=None, score=None, time=1610467095, title=None, item_type='comment', url=None, parent=25736971, text='There&#x27;s a difference between email not being permanent and gmail not being permanent.')
+Item(by='troyvit', descendants=None, kids=[25757812], score=None, time=1610467095, title=None, item_type='comment', url=None, parent=25736971, text='There&#x27;s a difference between email not being permanent and gmail not being permanent.')

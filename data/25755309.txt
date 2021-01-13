@@ -1,0 +1,1 @@
+Item(by='cptnapalm', descendants=None, kids=None, score=None, time=1610493003, title=None, item_type='comment', url=None, parent=25751853, text='I tried running st on sparc64&#x2F;OpenBSD.  It compiled fine, but would instantly crash when run.  I&#x27;m guessing it is an endian problem.')

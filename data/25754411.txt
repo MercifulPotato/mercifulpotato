@@ -1,0 +1,1 @@
+Item(by='jaywalk', descendants=None, kids=None, score=None, time=1610488462, title=None, item_type='comment', url=None, parent=25753906, text='SolarWinds was absolutely not the real target. The malware wouldn&#x27;t even execute if the machine it was installed on was joined to a domain containing the string &quot;solarwinds&quot;.')

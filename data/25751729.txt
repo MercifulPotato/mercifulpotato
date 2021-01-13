@@ -1,1 +1,1 @@
-Item(by='kuschku', descendants=None, kids=None, score=None, time=1610478264, title=None, item_type='comment', url=None, parent=25751472, text='How about an extremely slow to render zalgo text, switching between opacity 0 and 1 depending on visited?')
+Item(by='kuschku', descendants=None, kids=[25757826], score=None, time=1610478264, title=None, item_type='comment', url=None, parent=25751472, text='How about an extremely slow to render zalgo text, switching between opacity 0 and 1 depending on visited?')

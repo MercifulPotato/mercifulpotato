@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1610442082, title=None, item_type='comment', url=None, parent=25724934, text='None of my whatsapp chats are backed up to Google drive and iCloud, it’s optional.')
+Item(by='tinus_hn', descendants=None, kids=[25753383], score=None, time=1610442082, title=None, item_type='comment', url=None, parent=25724934, text='None of my whatsapp chats are backed up to Google drive and iCloud, it’s optional.')

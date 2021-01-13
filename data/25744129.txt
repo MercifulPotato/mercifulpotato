@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1610442031, title=None, item_type='comment', url=None, parent=25724805, text='So you can be 100% sure Russia gets a copy of every message you send.')
+Item(by='tinus_hn', descendants=None, kids=[25753440], score=None, time=1610442031, title=None, item_type='comment', url=None, parent=25724805, text='So you can be 100% sure Russia gets a copy of every message you send.')

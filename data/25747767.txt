@@ -1,1 +1,1 @@
-Item(by='Triv888', descendants=None, kids=None, score=None, time=1610463818, title=None, item_type='comment', url=None, parent=25746114, text='It probably could also mutate in a way that it would be just as lethal, but with a longer incubation period.')
+Item(by='Triv888', descendants=None, kids=[25755384], score=None, time=1610463818, title=None, item_type='comment', url=None, parent=25746114, text='It probably could also mutate in a way that it would be just as lethal, but with a longer incubation period.')

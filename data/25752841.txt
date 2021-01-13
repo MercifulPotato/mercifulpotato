@@ -1,0 +1,1 @@
+Item(by='LukeShu', descendants=None, kids=None, score=None, time=1610482473, title=None, item_type='comment', url=None, parent=25751947, text='When filing a PR there&#x27;s a &quot;allow maintainers to edit the PR&quot; checkbox (I don&#x27;t recall the exact wording).  If the PR owner doesn&#x27;t check it, the maintainer can&#x27;t change the target branch.')

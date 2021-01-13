@@ -1,0 +1,1 @@
+Item(by='sudosysgen', descendants=None, kids=[25757755], score=None, time=1610505060, title=None, item_type='comment', url=None, parent=25756528, text='You can extract the public key from the signature. This public key is E2C73BC53B9118A0.<p>If you want to have a go at it yourself, run gpg -vv and paste the entire message, it will give you the public key.')
