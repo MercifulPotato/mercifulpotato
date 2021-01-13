@@ -1,0 +1,1 @@
+Item(by='wscott', descendants=None, kids=None, score=None, time=1610550303, title=None, item_type='comment', url=None, parent=25759788, text='Rust is funny because it is perfectly possible to build a single binary that links multiple versions of the same library.  Happens when a transitive dependency is written assuming the older API of a library.')

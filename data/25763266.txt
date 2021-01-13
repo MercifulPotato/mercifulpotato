@@ -1,0 +1,1 @@
+Item(by='p0nce', descendants=None, kids=None, score=None, time=1610552177, title=None, item_type='comment', url=None, parent=25762718, text='IIRC LetsEncrypt provide website certificates but not codesigning certificates.\nThe entities giving codesigning cert need to verify you exist by checking an company index and phonecalling you. Apple makes it way easier on their platform.')

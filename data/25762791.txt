@@ -1,0 +1,1 @@
+Item(by='simiones', descendants=None, kids=None, score=None, time=1610550244, title=None, item_type='comment', url=None, parent=25751886, text='In addition to that, map[T]bool only works if T is one of the few types that Go can check for equality automatically. You can&#x27;t define a custom equality (+hash) function for your type and use it with the built-in map.')

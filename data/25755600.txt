@@ -1,1 +1,1 @@
-Item(by='Daho0n', descendants=None, kids=None, score=None, time=1610494468, title=None, item_type='comment', url=None, parent=25755558, text='I wonder if this could end out with a GPU driver in the mainline kernel and a faster PinePhone.')
+Item(by='Daho0n', descendants=None, kids=[25762643], score=None, time=1610494468, title=None, item_type='comment', url=None, parent=25755558, text='I wonder if this could end out with a GPU driver in the mainline kernel and a faster PinePhone.')

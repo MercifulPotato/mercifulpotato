@@ -1,0 +1,1 @@
+Item(by='Blikkentrekker', descendants=None, kids=[25761983], score=None, time=1610544554, title=None, item_type='comment', url=None, parent=25760977, text='The problem is that in the real world despite promises of semantic versioning, breaking often occurs which makes it impossible for two packages to depend on the same version of another library though in theory they should.')

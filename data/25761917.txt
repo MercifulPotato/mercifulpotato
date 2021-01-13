@@ -1,0 +1,1 @@
+Item(by='WatchDog', descendants=None, kids=[25762155, 25762114, 25762069], score=None, time=1610545856, title=None, item_type='comment', url=None, parent=25761469, text='Is the SiFive U74 open source?<p>I know the RISC-V ISA is, but I thought the SiFive designs were proprietary.')

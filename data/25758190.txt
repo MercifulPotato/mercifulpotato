@@ -1,1 +1,1 @@
-Item(by='ketamine__', descendants=None, kids=None, score=None, time=1610512563, title=None, item_type='comment', url=None, parent=25757890, text='Try banning users. Try having moderators that aren&#x27;t volunteers.')
+Item(by='ketamine__', descendants=None, kids=[25761685], score=None, time=1610512563, title=None, item_type='comment', url=None, parent=25757890, text='Try banning users. Try having moderators that aren&#x27;t volunteers.')

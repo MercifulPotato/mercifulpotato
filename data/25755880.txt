@@ -1,1 +1,1 @@
-Item(by='maerF0x0', descendants=None, kids=None, score=None, time=1610496064, title=None, item_type='comment', url=None, parent=25753705, text='in my experience sequence diagrams tend to betray the challenges of distributed computing.')
+Item(by='maerF0x0', descendants=None, kids=[25762177], score=None, time=1610496064, title=None, item_type='comment', url=None, parent=25753705, text='in my experience sequence diagrams tend to betray the challenges of distributed computing.')

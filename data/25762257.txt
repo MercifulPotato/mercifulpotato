@@ -1,0 +1,1 @@
+Item(by='fctorial', descendants=None, kids=[25762308, 25762394, 25762668], score=None, time=1610547837, title=None, item_type='comment', url=None, parent=25761469, text='How is RISC-V better than x64? Aren&#x27;t both of them just ISAs? The only pro I can find is that RISC V is cleaner (less legacy). But no one programs in assembly these days so why is this an issue?')

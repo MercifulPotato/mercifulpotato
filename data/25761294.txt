@@ -1,0 +1,1 @@
+Item(by='plasma', descendants=None, kids=[25761582], score=None, time=1610541819, title=None, item_type='comment', url=None, parent=25760477, text='Regarding licensing, I’ve wondered why AWS RDS for SQL server is more expensive than Oracle RDS (this surprised me).<p>Any ideas why that is?')

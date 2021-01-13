@@ -1,0 +1,1 @@
+Item(by='smichael', descendants=None, kids=None, score=None, time=1610552710, title=None, item_type='comment', url=None, parent=25756493, text='You can use command-line hledger to produce the appropriate balance report data as CSV, suitable for gnuplot (or drag into a spreadsheet and use the charting tools there).')

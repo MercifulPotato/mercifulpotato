@@ -1,0 +1,1 @@
+Item(by='chalst', descendants=None, kids=[25760405], score=None, time=1610531969, title=None, item_type='comment', url=None, parent=25760063, text='It used to be the case that double precision meant two words, which for this 16-bit CPU fits. It&#x27;s fairly rare these days now we care more about portability.')

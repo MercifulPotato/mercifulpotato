@@ -1,0 +1,1 @@
+Item(by='chalst', descendants=None, kids=None, score=None, time=1610529070, title=None, item_type='comment', url=None, parent=25759629, text='It is hard to audit DFSG compliance for software whose build process pulls in dependencies at run time.')

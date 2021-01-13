@@ -1,1 +1,1 @@
-Item(by='daviesliu', descendants=None, kids=None, score=None, time=1610516363, title=None, item_type='comment', url=None, parent=25758383, text='The underlying S3 bucket still have intelligent tiering, you can also put life cycle rules on it.')
+Item(by='daviesliu', descendants=None, kids=[25761679], score=None, time=1610516363, title=None, item_type='comment', url=None, parent=25758383, text='The underlying S3 bucket still have intelligent tiering, you can also put life cycle rules on it.')

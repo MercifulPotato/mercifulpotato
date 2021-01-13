@@ -1,0 +1,1 @@
+Item(by='SummerlyMars', descendants=None, kids=[25761331], score=None, time=1610539243, title=None, item_type='comment', url=None, parent=25760929, text='Same for me, on Firefox 84. Looking at the console, it seems to be coming from the Phaser audio library (&#x27;t is undefined&#x27;, stack trace to a minified file).')

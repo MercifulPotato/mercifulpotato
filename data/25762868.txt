@@ -1,0 +1,1 @@
+Item(by='aquadzn', descendants=None, kids=None, score=None, time=1610550595, title=None, item_type='comment', url=None, parent=25761233, text='I just added a parameter taking into account # and + for C# and C++. The results goes from 140 without to 27 and 111 with.')

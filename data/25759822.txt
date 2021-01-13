@@ -1,0 +1,1 @@
+Item(by='raihansaputra', descendants=None, kids=[25761405], score=None, time=1610529151, title=None, item_type='comment', url=None, parent=25759743, text='Hmm. I&#x27;m not sure whether that&#x27;s correct. $: is comparable to Vue&#x27;s computed instead of a reactive value. Any variables in the component are automatically reactive. External Stores are reactive with a $ prefix.')

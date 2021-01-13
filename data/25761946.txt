@@ -1,0 +1,1 @@
+Item(by='stsquad', descendants=None, kids=[25763107], score=None, time=1610546015, title=None, item_type='comment', url=None, parent=25751433, text='We do use the host FPU for a subset of floating point operations now. However it only really works for clean 32&#x2F;64 IEEE FP so anything that goes through the x87 still needs software emulation.')

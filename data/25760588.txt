@@ -1,0 +1,1 @@
+Item(by='andag', descendants=None, kids=[25760779], score=None, time=1610536041, title=None, item_type='comment', url=None, parent=25747215, text='How do you deal with failures? What happens if the redid availability zone disappears for example? An I manually responsible for recovery and backups in this cases, or do you use redis as a cache that can be recovered from s3?')

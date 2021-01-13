@@ -1,0 +1,1 @@
+Item(by='sabertoothed', descendants=None, kids=[25760934], score=None, time=1610537380, title=None, item_type='comment', url=None, parent=25760542, text='As a non-mathematician, how did the word &quot;differentiable&quot; change its meaning? Is it not still that one can compute the derivative (so that Gradient Descent can be applied)? (honest question)')

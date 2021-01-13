@@ -1,0 +1,1 @@
+Item(by='cesarb', descendants=None, kids=[25762469], score=None, time=1610543174, title=None, item_type='comment', url=None, parent=25761009, text='Doesn&#x27;t IPSec need a &quot;clean&quot; network connection, without any NAT in the middle? Wireguard was designed to work well even in the presence of NAT.')

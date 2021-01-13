@@ -1,1 +1,1 @@
-Item(by='ketamine__', descendants=None, kids=None, score=None, time=1610513956, title=None, item_type='comment', url=None, parent=25756686, text='The founder of Gab was kicked out of YC, right?')
+Item(by='ketamine__', descendants=None, kids=[25762378], score=None, time=1610513956, title=None, item_type='comment', url=None, parent=25756686, text='The founder of Gab was kicked out of YC, right?')

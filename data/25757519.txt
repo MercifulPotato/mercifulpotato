@@ -1,1 +1,1 @@
-Item(by='leerob', descendants=2, kids=[25758972, 25757548], score=5, time=1610507210, title='State of JavaScript 2020', item_type='story', url='https://2020.stateofjs.com/', parent=None, text=None)
+Item(by='leerob', descendants=3, kids=[25758972, 25757548], score=8, time=1610507210, title='State of JavaScript 2020', item_type='story', url='https://2020.stateofjs.com/', parent=None, text=None)

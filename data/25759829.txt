@@ -1,1 +1,1 @@
-Item(by='j0ba', descendants=None, kids=None, score=None, time=1610529211, title=None, item_type='comment', url=None, parent=25759684, text='I want to read that link, but not sure if I should...<p>I&#x27;ll ddg &quot;snowden wikipedia&quot; instead.')
+Item(by='j0ba', descendants=None, kids=[25761028], score=None, time=1610529211, title=None, item_type='comment', url=None, parent=25759684, text='I want to read that link, but not sure if I should...<p>I&#x27;ll ddg &quot;snowden wikipedia&quot; instead.')
