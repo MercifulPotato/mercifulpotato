@@ -1,0 +1,1 @@
+Item(by='karavelov', descendants=None, kids=None, score=None, time=1610560727, title=None, item_type='comment', url=None, parent=25765028, text='On first generation Ryzen AVX2 instructions were executed as 2 AVX instructions as the AVX pipeline was 128 bits wide. This was fixed in Zen 2 and nowadays we are at Zen 3.')

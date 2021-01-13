@@ -1,1 +1,1 @@
-Item(by='jaywalk', descendants=None, kids=None, score=None, time=1610550521, title=None, item_type='comment', url=None, parent=25761240, text='You can download MacOS directly from Apple for free.')
+Item(by='jaywalk', descendants=None, kids=[25767983], score=None, time=1610550521, title=None, item_type='comment', url=None, parent=25761240, text='You can download MacOS directly from Apple for free.')

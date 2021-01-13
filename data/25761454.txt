@@ -1,1 +1,1 @@
-Item(by='eppp', descendants=None, kids=None, score=None, time=1610543069, title=None, item_type='comment', url=None, parent=25760813, text='The internet itself is the common good. Twitter isnt and Facebook certainly isnt.')
+Item(by='eppp', descendants=None, kids=[25763825], score=None, time=1610543069, title=None, item_type='comment', url=None, parent=25760813, text='The internet itself is the common good. Twitter isnt and Facebook certainly isnt.')

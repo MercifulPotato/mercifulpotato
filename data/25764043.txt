@@ -1,0 +1,1 @@
+Item(by='pimeys', descendants=None, kids=[25766076, 25765166, 25764250], score=None, time=1610554718, title=None, item_type='comment', url=None, parent=25763803, text='I guess Windows doesn&#x27;t break their compatibility almost ever. Linux doesn&#x27;t break user-space, but of course the libraries you depend on might change in a few decades.')

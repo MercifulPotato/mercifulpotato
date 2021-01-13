@@ -1,0 +1,1 @@
+Item(by='second--shift', descendants=None, kids=None, score=None, time=1610565476, title=None, item_type='comment', url=None, parent=25765796, text='I am running pfSense on a Supermicro X9SCL 1U pulling &lt;40W, with an old SSD as the bootdisk. gig nics &amp; everything else.<p>Sure you can half the power draw again with an embedded device, but diminishing marginal gain.')

@@ -1,0 +1,1 @@
+Item(by='petargyurov', descendants=None, kids=[25765170], score=None, time=1610557015, title=None, item_type='comment', url=None, parent=25762715, text='There&#x27;s an issue with your cert. Getting SSL_ERROR_BAD_CERT_DOMAIN on Firefox.<p>Edit: seems to be working now.')

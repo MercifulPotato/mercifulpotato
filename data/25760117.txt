@@ -1,1 +1,1 @@
-Item(by='dgellow', descendants=None, kids=None, score=None, time=1610531842, title=None, item_type='comment', url=None, parent=25758519, text='Since the typescript support released last year, svelte has been fantastic to use. I’m looking forward to trying SvelteKit!')
+Item(by='dgellow', descendants=None, kids=[25764020], score=None, time=1610531842, title=None, item_type='comment', url=None, parent=25758519, text='Since the typescript support released last year, svelte has been fantastic to use. I’m looking forward to trying SvelteKit!')

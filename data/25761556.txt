@@ -1,1 +1,1 @@
-Item(by='ChuckNorris89', descendants=None, kids=None, score=None, time=1610543748, title=None, item_type='comment', url=None, parent=25761066, text='Out of curiosity, where in Europe do you live&#x2F;work with such high rates?')
+Item(by='ChuckNorris89', descendants=None, kids=[25761839], score=None, time=1610543748, title=None, item_type='comment', url=None, parent=25761066, text='Out of curiosity, where in Europe do you live&#x2F;work with such high rates?')

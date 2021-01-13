@@ -1,0 +1,1 @@
+Item(by='sneak', descendants=None, kids=[25766618, 25766602], score=None, time=1610564493, title=None, item_type='comment', url=None, parent=25764420, text='The server can MITM the public keys, providing you with a key from the server instead of the key from your conversation partner.<p>It very much does matter if the server is malicious.')

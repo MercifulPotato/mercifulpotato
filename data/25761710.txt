@@ -1,1 +1,1 @@
-Item(by='Blahah', descendants=None, kids=None, score=None, time=1610544530, title=None, item_type='comment', url=None, parent=25757143, text='It&#x27;s still there and working: <a href="https:&#x2F;&#x2F;hashbase.io&#x2F;" rel="nofollow">https:&#x2F;&#x2F;hashbase.io&#x2F;</a>')
+Item(by='Blahah', descendants=None, kids=[25767260], score=None, time=1610544530, title=None, item_type='comment', url=None, parent=25757143, text='It&#x27;s still there and working: <a href="https:&#x2F;&#x2F;hashbase.io&#x2F;" rel="nofollow">https:&#x2F;&#x2F;hashbase.io&#x2F;</a>')

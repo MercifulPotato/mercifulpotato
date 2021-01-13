@@ -1,0 +1,1 @@
+Item(by='ghshephard', descendants=None, kids=[25766432, 25766565], score=None, time=1610563459, title=None, item_type='comment', url=None, parent=25766042, text='But, don&#x27;t you want to code your application stack such that your database being killed is a no-op?  Shouldn&#x27;t the state mostly reside in your persistent store (which decidedly needs to be robust)')

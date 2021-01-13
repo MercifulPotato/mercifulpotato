@@ -1,1 +1,1 @@
-Item(by='iridium_core', descendants=None, kids=None, score=None, time=1610549035, title=None, item_type='comment', url=None, parent=25760345, text='And would those sites be conservative media, who also advocate breaking up big tech?')
+Item(by='iridium_core', descendants=None, kids=[25766245], score=None, time=1610549035, title=None, item_type='comment', url=None, parent=25760345, text='And would those sites be conservative media, who also advocate breaking up big tech?')

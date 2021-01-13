@@ -1,1 +1,1 @@
-Item(by='ZephyrBlu', descendants=None, kids=None, score=None, time=1610515124, title=None, item_type='comment', url=None, parent=25756502, text='They said they use Django REST Framework (DRF), so presumably they use a frontend framework and communicate with the backend via API.')
+Item(by='ZephyrBlu', descendants=None, kids=[25768674], score=None, time=1610515124, title=None, item_type='comment', url=None, parent=25756502, text='They said they use Django REST Framework (DRF), so presumably they use a frontend framework and communicate with the backend via API.')

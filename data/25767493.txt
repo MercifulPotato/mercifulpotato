@@ -1,0 +1,1 @@
+Item(by='amaccuish', descendants=None, kids=None, score=None, time=1610569397, title=None, item_type='comment', url=None, parent=25764634, text='This. I find keycloak to heavy. Though I have yet to find something as good that does LDAP, Kerberos and x509 all together.<p>I had a hacky simplesamlphp instance that work well but no OAUTH :&#x2F;')

@@ -1,0 +1,1 @@
+Item(by='skrtskrt', descendants=None, kids=None, score=None, time=1610568821, title=None, item_type='comment', url=None, parent=25766986, text='Yeah I use pyenv + virtualenvwrapper and there are a few packages I am fine with having in the top-level pyenv version, rather than in any particular virtual environment: black, requests, click, etc.')

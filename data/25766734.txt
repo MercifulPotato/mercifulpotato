@@ -1,0 +1,1 @@
+Item(by='smileybarry', descendants=None, kids=None, score=None, time=1610565598, title=None, item_type='comment', url=None, parent=25766691, text='That&#x27;s two separate mechanisms; PatchGuard protects against hooking and rewriting sections of the kernel, and the kernel only loads signed drivers (and since 2016-ish only Microsoft-signed).')

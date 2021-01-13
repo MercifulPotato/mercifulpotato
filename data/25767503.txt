@@ -1,0 +1,1 @@
+Item(by='bradfitz', descendants=None, kids=None, score=None, time=1610569465, title=None, item_type='comment', url=None, parent=25767474, text='Exactly. That&#x27;s why I wrote: &quot;No Docker, no mocks, testing what we’d actually use in production.&quot;')

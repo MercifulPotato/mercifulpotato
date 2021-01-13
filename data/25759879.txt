@@ -1,1 +1,1 @@
-Item(by='Cederfjard', descendants=None, kids=None, score=None, time=1610529686, title=None, item_type='comment', url=None, parent=25759202, text='Going by what was posted further up in the thread, that seems to be what TD Bank alleges in their suit?')
+Item(by='Cederfjard', descendants=None, kids=[25764216], score=None, time=1610529686, title=None, item_type='comment', url=None, parent=25759202, text='Going by what was posted further up in the thread, that seems to be what TD Bank alleges in their suit?')

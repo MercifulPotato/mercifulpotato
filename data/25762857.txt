@@ -1,1 +1,1 @@
-Item(by='jwandborg', descendants=None, kids=None, score=None, time=1610550522, title=None, item_type='comment', url=None, parent=25762743, text='An M.2 SSD is not huge. In my experience, SD cards are way slower than SSDs for random access operations.')
+Item(by='jwandborg', descendants=None, kids=[25765050], score=None, time=1610550522, title=None, item_type='comment', url=None, parent=25762743, text='An M.2 SSD is not huge. In my experience, SD cards are way slower than SSDs for random access operations.')

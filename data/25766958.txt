@@ -1,0 +1,1 @@
+Item(by='sitkack', descendants=None, kids=None, score=None, time=1610566750, title=None, item_type='comment', url=None, parent=25766160, text='There are RISC-V cores that fit in about 1k luts. One could build a NoC of RISC-V using an XCS1000.')

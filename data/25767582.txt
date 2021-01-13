@@ -1,0 +1,1 @@
+Item(by='ansible', descendants=None, kids=None, score=None, time=1610569936, title=None, item_type='comment', url=None, parent=25764410, text='I would be happy if they just released a instruction-level simulator to play around with.<p>It would also be super-nice if they released at least a Copper or Tin core (low-end) that can be synthesized to an FPGA for people to try out.')

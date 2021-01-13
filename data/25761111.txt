@@ -1,1 +1,1 @@
-Item(by='DaniloDias', descendants=None, kids=None, score=None, time=1610540437, title=None, item_type='comment', url=None, parent=25758851, text='We are doomed if more people think like you.')
+Item(by='DaniloDias', descendants=None, kids=[25762215], score=None, time=1610540437, title=None, item_type='comment', url=None, parent=25758851, text='We are doomed if more people think like you.')

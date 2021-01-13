@@ -1,0 +1,1 @@
+Item(by='bfrog', descendants=None, kids=None, score=None, time=1610558800, title=None, item_type='comment', url=None, parent=25758863, text='Nix seems to effectively have solved this, by more or less vendoring everything, but in a way that still allows shared usage. Having made a few deb and rom packages in my life, I don&#x27;t miss it. At all.')

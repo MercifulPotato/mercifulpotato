@@ -1,1 +1,1 @@
-Item(by='jaywalk', descendants=None, kids=None, score=None, time=1610549128, title=None, item_type='comment', url=None, parent=25761473, text='The wording is vague enough that having a link in your app for donations could easily be (and apparently is) considered a violation.')
+Item(by='jaywalk', descendants=None, kids=[25764669], score=None, time=1610549128, title=None, item_type='comment', url=None, parent=25761473, text='The wording is vague enough that having a link in your app for donations could easily be (and apparently is) considered a violation.')

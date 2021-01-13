@@ -1,1 +1,1 @@
-Item(by='HexDecOctBin', descendants=11, kids=[25762661, 25762300], score=16, time=1610547620, title='Proposal for C23: Improve type generic programming [pdf]', item_type='story', url='http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2638.pdf', parent=None, text=None)
+Item(by='HexDecOctBin', descendants=42, kids=[25763375, 25762809, 25766960, 25762661, 25762300], score=48, time=1610547620, title='Proposal for C23: Improve type generic programming [pdf]', item_type='story', url='http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2638.pdf', parent=None, text=None)

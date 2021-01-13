@@ -1,1 +1,1 @@
-Item(by='adamnemecek', descendants=None, kids=None, score=None, time=1610517104, title=None, item_type='comment', url=None, parent=25758566, text='Maybe you are building something performance sensitive.<p>DLL hell isn’t a problem. You can just ship a stand-alone binary if you want.')
+Item(by='adamnemecek', descendants=None, kids=[25767419], score=None, time=1610517104, title=None, item_type='comment', url=None, parent=25758566, text='Maybe you are building something performance sensitive.<p>DLL hell isn’t a problem. You can just ship a stand-alone binary if you want.')

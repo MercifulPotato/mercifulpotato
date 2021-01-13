@@ -1,0 +1,1 @@
+Item(by='chopin24', descendants=None, kids=None, score=None, time=1610574547, title=None, item_type='comment', url=None, parent=25754174, text='Thanks, this works! It fails when one video isn&#x27;t found, but gets 60% of the way there. I&#x27;ll see if I can exclude that one and get it to keep going')

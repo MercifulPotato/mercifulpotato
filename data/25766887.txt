@@ -1,0 +1,1 @@
+Item(by='sneak', descendants=None, kids=[25766946], score=None, time=1610566428, title=None, item_type='comment', url=None, parent=25766602, text='This is false. A video call will not prevent or detect MITM. You may be suggesting that a video call is used to authenticate the key, which is certainly a step in the right direction, but I don&#x27;t think Signal supports this.')

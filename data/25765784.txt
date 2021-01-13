@@ -1,0 +1,1 @@
+Item(by='esotericimpl', descendants=None, kids=None, score=None, time=1610561311, title=None, item_type='comment', url=None, parent=25755324, text='Their engineering team is so terrible. They implemented race conditions that caused their end users to receive data that didn&#x27;t belong to the underlying account that they had connected.')

@@ -1,1 +1,1 @@
-Item(by='cbmuser', descendants=None, kids=None, score=None, time=1610539187, title=None, item_type='comment', url=None, parent=25759576, text='The name is a bit confusing as there is already a J2 CPU which is the open source variant of the SuperH SH-2.')
+Item(by='cbmuser', descendants=None, kids=[25765310], score=None, time=1610539187, title=None, item_type='comment', url=None, parent=25759576, text='The name is a bit confusing as there is already a J2 CPU which is the open source variant of the SuperH SH-2.')

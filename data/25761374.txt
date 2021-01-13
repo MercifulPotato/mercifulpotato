@@ -1,1 +1,1 @@
-Item(by='Finnucane', descendants=None, kids=None, score=None, time=1610542446, title=None, item_type='comment', url=None, parent=25758716, text='I guess I owe someone an apology then, I wouldn’t want to malign the Klan by equating them with Nazis.')
+Item(by='Finnucane', descendants=None, kids=[25767830], score=None, time=1610542446, title=None, item_type='comment', url=None, parent=25758716, text='I guess I owe someone an apology then, I wouldn’t want to malign the Klan by equating them with Nazis.')

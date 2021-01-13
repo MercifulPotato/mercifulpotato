@@ -1,0 +1,1 @@
+Item(by='neonmate', descendants=None, kids=[25766361], score=None, time=1610561298, title=None, item_type='comment', url=None, parent=25764731, text='Thanks for the feedback. I thought about this earlier, but it requires to maintain this list manually. What do you think about fetching the tags from the Github repository and link once synchronized to wintermute?')

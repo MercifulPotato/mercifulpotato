@@ -1,0 +1,1 @@
+Item(by='klmr', descendants=None, kids=None, score=None, time=1610551449, title=None, item_type='comment', url=None, parent=25760939, text='Same for the templates, presumably; `std::atomic` isn’t a type in C++, it’s a template. To be analogous with the C code, this was probably meant to read `std::atomic&lt;unsigned&gt;`.')

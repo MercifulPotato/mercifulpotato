@@ -1,1 +1,1 @@
-Item(by='pantalaimon', descendants=0, kids=None, score=2, time=1610435573, title="The first Locha Mesh's Turpial dev-kits in the wild", item_type='story', url='https://github.com/btcven/locha/discussions/175', parent=None, text=None)
+Item(by='pantalaimon', descendants=4, kids=[25766634, 25766481, 25766767], score=12, time=1610435573, title="The first Locha Mesh's Turpial dev-kits in the wild", item_type='story', url='https://github.com/btcven/locha/discussions/175', parent=None, text=None)

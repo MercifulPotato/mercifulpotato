@@ -1,1 +1,1 @@
-Item(by='bshanks', descendants=0, kids=None, score=2, time=1610525883, title='Two Year Work Retrospective', item_type='story', url='https://simpixelated.com/two-year-work-retrospective', parent=None, text=None)
+Item(by='bshanks', descendants=2, kids=[25766480, 25766144], score=16, time=1610525883, title='Two Year Work Retrospective', item_type='story', url='https://simpixelated.com/two-year-work-retrospective', parent=None, text=None)

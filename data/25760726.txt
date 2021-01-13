@@ -1,1 +1,1 @@
-Item(by='eppp', descendants=None, kids=None, score=None, time=1610537081, title=None, item_type='comment', url=None, parent=25760677, text='Twitter isnt infrastructure. The internet is. This isnt a valid comparison.')
+Item(by='eppp', descendants=None, kids=[25765851], score=None, time=1610537081, title=None, item_type='comment', url=None, parent=25760677, text='Twitter isnt infrastructure. The internet is. This isnt a valid comparison.')

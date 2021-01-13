@@ -1,0 +1,1 @@
+Item(by='DougBTX', descendants=None, kids=None, score=None, time=1610549669, title=None, item_type='comment', url=None, parent=25761168, text='They make the point in their presentation to say that their method replaces the non-differentiable step function with a differentiable sigmoid function to enable the rasterizer to be differentiable.')

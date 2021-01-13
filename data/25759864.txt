@@ -1,1 +1,1 @@
-Item(by='Jack000', descendants=None, kids=[25760155], score=None, time=1610529598, title=None, item_type='comment', url=None, parent=25747230, text='This is really cool. A possible application I see is GAN generation of new fonts.')
+Item(by='Jack000', descendants=None, kids=[25760155, 25765449], score=None, time=1610529598, title=None, item_type='comment', url=None, parent=25747230, text='This is really cool. A possible application I see is GAN generation of new fonts.')

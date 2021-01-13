@@ -1,0 +1,1 @@
+Item(by='zozbot234', descendants=None, kids=None, score=None, time=1610554884, title=None, item_type='comment', url=None, parent=25764047, text='Dependency hell is a result of not using sensible semantic versioning. If libraries are properly versioned, it&#x27;s easy to make sure that each dependency uses the latest compatible version.')

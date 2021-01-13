@@ -1,0 +1,1 @@
+Item(by='dilyevsky', descendants=None, kids=[25768707], score=None, time=1610557856, title=None, item_type='comment', url=None, parent=25760285, text='Yeah I’m actually fine with that part. Even application level libs are still mostly dynamically linked and you can’t for example take a .dylib and link it statically (not with standard tooling at least)')

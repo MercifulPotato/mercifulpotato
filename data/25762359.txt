@@ -1,1 +1,1 @@
-Item(by='myspy', descendants=None, kids=None, score=None, time=1610548277, title=None, item_type='comment', url=None, parent=25762252, text='A regime? Pretty absurd comparison, isn&#x27;t it?')
+Item(by='myspy', descendants=None, kids=[25763508], score=None, time=1610548277, title=None, item_type='comment', url=None, parent=25762252, text='A regime? Pretty absurd comparison, isn&#x27;t it?')

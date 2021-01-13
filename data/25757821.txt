@@ -1,1 +1,1 @@
-Item(by='ed25519FUUU', descendants=None, kids=None, score=None, time=1610509909, title=None, item_type='comment', url=None, parent=25757020, text='Reminds me of this fun quote from the View: “Can’t the ACLU sue Trump for hate speech?”')
+Item(by='ed25519FUUU', descendants=None, kids=[25763014], score=None, time=1610509909, title=None, item_type='comment', url=None, parent=25757020, text='Reminds me of this fun quote from the View: “Can’t the ACLU sue Trump for hate speech?”')

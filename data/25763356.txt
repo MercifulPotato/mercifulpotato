@@ -1,0 +1,1 @@
+Item(by='raxrb', descendants=0, kids=None, score=1, time=1610552514, title='Fully Managed Sccache as a Service', item_type='story', url=None, parent=None, text='Hi Everyone,<p>I am thinking to build Fully Managed Sccache As A Service for distributed compilation for Rust.\nWill you think service like that is helpful?<p>How do you try to cut down the build time in Rust?')

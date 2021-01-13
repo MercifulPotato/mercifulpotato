@@ -1,1 +1,1 @@
-Item(by='LeonB', descendants=None, kids=None, score=None, time=1610533606, title=None, item_type='comment', url=None, parent=25759365, text='“If curious see also” sounds perfect to me.')
+Item(by='LeonB', descendants=None, kids=[25767345], score=None, time=1610533606, title=None, item_type='comment', url=None, parent=25759365, text='“If curious see also” sounds perfect to me.')

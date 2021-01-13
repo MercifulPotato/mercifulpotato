@@ -1,1 +1,1 @@
-Item(by='ggerganov', descendants=7, kids=[25762357, 25762447, 25762021, 25761016], score=18, time=1610539471, title='Show HN: Waver – Messaging Through Sound', item_type='story', url='https://github.com/ggerganov/ggwave/tree/master/examples/waver', parent=None, text=None)
+Item(by='ggerganov', descendants=10, kids=[25762357, 25761016, 25762021, 25762447], score=34, time=1610539471, title='Show HN: Waver – Messaging Through Sound', item_type='story', url='https://github.com/ggerganov/ggwave/tree/master/examples/waver', parent=None, text=None)

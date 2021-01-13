@@ -1,0 +1,1 @@
+Item(by='vhodges', descendants=None, kids=None, score=None, time=1610572496, title=None, item_type='comment', url=None, parent=25768020, text='Most risc-v cores to date have been more on the micro-controller side of things (ie without an MMU).  The cpu on this board has one so it can run Linux.')
