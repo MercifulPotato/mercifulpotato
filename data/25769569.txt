@@ -1,1 +1,1 @@
-Item(by='javajosh', descendants=None, kids=None, score=None, time=1610581171, title=None, item_type='comment', url=None, parent=25769558, text='Their first name was worse: &quot;Drive By&quot;.')
+Item(by='javajosh', descendants=None, kids=[25772926], score=None, time=1610581171, title=None, item_type='comment', url=None, parent=25769558, text='Their first name was worse: &quot;Drive By&quot;.')

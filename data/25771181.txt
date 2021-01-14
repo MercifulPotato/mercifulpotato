@@ -1,1 +1,1 @@
-Item(by='longdefeat', descendants=0, kids=None, score=2, time=1610592204, title='The Most Popular College Books', item_type='story', url='https://www.degreequery.com/the-most-popular-college-books/', parent=None, text=None)
+Item(by='longdefeat', descendants=16, kids=[25772404, 25772095, 25772412, 25772937, 25772850], score=39, time=1610592204, title='The Most Popular College Books', item_type='story', url='https://www.degreequery.com/the-most-popular-college-books/', parent=None, text=None)

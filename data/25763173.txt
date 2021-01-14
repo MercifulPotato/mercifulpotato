@@ -1,1 +1,1 @@
-Item(by='ethbr0', descendants=None, kids=[25763437], score=None, time=1610551831, title=None, item_type='comment', url=None, parent=25763061, text='From my personal memory at the time, early NUMA multicore on Windows wasn&#x27;t the smoothest sailing.')
+Item(by='ethbr0', descendants=None, kids=[25763437, 25772943], score=None, time=1610551831, title=None, item_type='comment', url=None, parent=25763061, text='From my personal memory at the time, early NUMA multicore on Windows wasn&#x27;t the smoothest sailing.')

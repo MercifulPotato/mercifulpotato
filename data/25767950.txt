@@ -1,1 +1,1 @@
-Item(by='readflaggedcomm', descendants=None, kids=None, score=None, time=1610571930, title=None, item_type='comment', url=None, parent=25764466, text='&quot;Equivocation&quot; is like prevarication or evasiveness. The word you&#x27;re looking for is &quot;equivalence.&quot;')
+Item(by='readflaggedcomm', descendants=None, kids=[25768821], score=None, time=1610571930, title=None, item_type='comment', url=None, parent=25764466, text='&quot;Equivocation&quot; is like prevarication or evasiveness. The word you&#x27;re looking for is &quot;equivalence.&quot;')

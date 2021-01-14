@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=None, score=None, time=1610609977, title=None, item_type='comment', url=None, parent=25772800, text='Their point about schema migration is completely true though. An SQLite db is extremely stateful, and querying that state in order to apply schema migrations (for both the data schema and the indexes) is bothersome.')

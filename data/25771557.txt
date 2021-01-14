@@ -1,1 +1,1 @@
-Item(by='brundolf', descendants=None, kids=[25771612], score=None, time=1610595347, title=None, item_type='comment', url=None, parent=25770927, text='Worth noting is that at least in the animation case, the non-jQuery (CSS) version should perform much better than the jQuery version')
+Item(by='brundolf', descendants=None, kids=[25771612], score=None, time=1610595347, title=None, item_type='comment', url=None, parent=25770927, text='Worth noting is that at least in the animation case, the non-jQuery (CSS) version should perform better than the jQuery version')

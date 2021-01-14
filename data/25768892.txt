@@ -1,1 +1,1 @@
-Item(by='jaden', descendants=None, kids=None, score=None, time=1610577122, title=None, item_type='comment', url=None, parent=25768581, text='It&#x27;s been on Hulu for a few years, just FYI.')
+Item(by='jaden', descendants=None, kids=[25773115], score=None, time=1610577122, title=None, item_type='comment', url=None, parent=25768581, text='It&#x27;s been on Hulu for a few years, just FYI.')

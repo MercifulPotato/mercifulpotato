@@ -1,0 +1,1 @@
+Item(by='PragmaticPulp', descendants=None, kids=None, score=None, time=1610598172, title=None, item_type='comment', url=None, parent=25771887, text='eMMC is fine if used appropriately. The problem appears to be that Tesla is (or was) writing frequent log file updates to eMMC, resulting in huge write amplification and a quick exhaustion of wear cycles.')

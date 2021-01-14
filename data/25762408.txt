@@ -1,1 +1,1 @@
-Item(by='gsich', descendants=None, kids=None, score=None, time=1610548547, title=None, item_type='comment', url=None, parent=25761964, text='Text is recorded, it has to if you want persistant chat.<p>Audio maybe - but stored indefinitly? No.')
+Item(by='gsich', descendants=None, kids=[25772894], score=None, time=1610548547, title=None, item_type='comment', url=None, parent=25761964, text='Text is recorded, it has to if you want persistant chat.<p>Audio maybe - but stored indefinitly? No.')

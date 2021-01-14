@@ -1,1 +1,1 @@
-Item(by='swat535', descendants=None, kids=None, score=None, time=1610590451, title=None, item_type='comment', url=None, parent=25768516, text='What&#x27;s the advantage that Elixir has over Erlang?')
+Item(by='swat535', descendants=None, kids=[25772893, 25772030], score=None, time=1610590451, title=None, item_type='comment', url=None, parent=25768516, text='What&#x27;s the advantage that Elixir has over Erlang?')

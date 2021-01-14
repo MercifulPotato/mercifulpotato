@@ -1,1 +1,1 @@
-Item(by='lemonspat', descendants=28, kids=[25770927, 25771790, 25770969, 25771452, 25771784], score=13, time=1610589660, title='You Might Not Need JQuery', item_type='story', url='http://youmightnotneedjquery.com/', parent=None, text=None)
+Item(by='lemonspat', descendants=94, kids=[25770927, 25773070, 25770969, 25771790, 25771976, 25772613, 25772749, 25773448, 25772861, 25772354, 25773313, 25771784, 25771452], score=87, time=1610589660, title='You might not need jQuery (2014)', item_type='story', url='http://youmightnotneedjquery.com/', parent=None, text=None)

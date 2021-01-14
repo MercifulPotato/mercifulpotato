@@ -1,0 +1,1 @@
+Item(by='gorgoiler', descendants=None, kids=None, score=None, time=1610600621, title=None, item_type='comment', url=None, parent=25769458, text='I use consumer (Netgear) switches with VLAN support to enforce network separation.<p>The actual routing is done as a router-on-a-stick.  It’s not perfect but it’s simple, scalable, and reliable.')

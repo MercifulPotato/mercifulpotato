@@ -1,0 +1,1 @@
+Item(by='viseztrance', descendants=None, kids=None, score=None, time=1610608274, title=None, item_type='comment', url=None, parent=25771526, text='Lines of code is a bad metric for complexity.<p>Jquery is a thin wrapper over javascript, whereas React has a comparable size but is a significantly higher level abstraction.')

@@ -1,1 +1,1 @@
-Item(by='oneplane', descendants=None, kids=None, score=None, time=1610597405, title=None, item_type='comment', url=None, parent=25770357, text='The irony is that with all your knowledge you can&#x27;t see that even if that is a universally desirable situation it isn&#x27;t scalable.')
+Item(by='oneplane', descendants=None, kids=[25772844], score=None, time=1610597405, title=None, item_type='comment', url=None, parent=25770357, text='The irony is that with all your knowledge you can&#x27;t see that even if that is a universally desirable situation it isn&#x27;t scalable.')

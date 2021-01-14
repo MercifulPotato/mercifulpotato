@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1610603983, title=None, item_type='comment', url=None, parent=25772596, text='Java just prints “null” IIRC. To be fair, the “(null)” you’ll usually get from passing a null pointer to printf is implementation defined (really, undefined, but no implementation I’ve seen has done bad things with it).')

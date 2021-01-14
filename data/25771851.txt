@@ -1,1 +1,1 @@
-Item(by='nradov', descendants=None, kids=None, score=None, time=1610597231, title=None, item_type='comment', url=None, parent=25770932, text='There are other manufacturers with flawless records. The data is right there on the NHTSA web site. Tesla is nothing special.')
+Item(by='nradov', descendants=None, kids=[25772512], score=None, time=1610597231, title=None, item_type='comment', url=None, parent=25770932, text='There are other manufacturers with flawless records. The data is right there on the NHTSA web site. Tesla is nothing special.')

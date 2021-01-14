@@ -1,1 +1,1 @@
-Item(by='danhodgins', descendants=None, kids=None, score=None, time=1610594100, title=None, item_type='comment', url=None, parent=25771412, text='Amazing story about hustle and initiative... from an 8 year old kid. Hope you enjoy it as much as I did! -Dan')
+Item(by='danhodgins', descendants=None, kids=[25772367], score=None, time=1610594100, title=None, item_type='comment', url=None, parent=25771412, text='Amazing story about hustle and initiative... from an 8 year old kid. Hope you enjoy it as much as I did! -Dan')

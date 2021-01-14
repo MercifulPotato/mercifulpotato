@@ -1,1 +1,1 @@
-Item(by='randomopining', descendants=None, kids=None, score=None, time=1610592240, title=None, item_type='comment', url=None, parent=25765494, text='Don’t they get paid much less? Let’s say you’re a 7&#x2F;10 dev, wouldn’t you get paid more as a dev?')
+Item(by='randomopining', descendants=None, kids=[25773664], score=None, time=1610592240, title=None, item_type='comment', url=None, parent=25765494, text='Don’t they get paid much less? Let’s say you’re a 7&#x2F;10 dev, wouldn’t you get paid more as a dev?')

@@ -1,0 +1,1 @@
+Item(by='kapilvt', descendants=None, kids=None, score=None, time=1610605246, title=None, item_type='comment', url=None, parent=25771034, text='and now we have lsp major modes in emacs, with key bindings.. plus various plugins ie magit, org-mode, etc.. butterflies indeed (re xkcd).. ideal workflows in vscode are still a (same) mess of plugins, which are starting to go non foss.')

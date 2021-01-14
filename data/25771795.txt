@@ -1,1 +1,1 @@
-Item(by='andrew_', descendants=None, kids=None, score=None, time=1610596872, title=None, item_type='comment', url=None, parent=25771033, text='This comment reflects what&#x27;s wrong with open source. It&#x27;s bitter, entitled, and devalues the time and effort of project maintainers.')
+Item(by='andrew_', descendants=None, kids=[25772135], score=None, time=1610596872, title=None, item_type='comment', url=None, parent=25771033, text='This comment reflects what&#x27;s wrong with open source. It&#x27;s bitter, entitled, and devalues the time and effort of project maintainers.')
