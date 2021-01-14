@@ -1,0 +1,1 @@
+Item(by='3np', descendants=None, kids=None, score=None, time=1610592013, title=None, item_type='comment', url=None, parent=25770974, text='Well, assuming they&#x27;re storing the strings as ASCII, that&#x27;s 98 bits - the y2k38 problem is for 32 bit integers, so a 64 bit integer would be way, way more than needed for human needs for foreseeable generations.')

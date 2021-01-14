@@ -1,0 +1,1 @@
+Item(by='jolux', descendants=None, kids=[25768943], score=None, time=1610575963, title=None, item_type='comment', url=None, parent=25768108, text='Why are your <i>unit tests</i> touching a database? I’m a real stickler about keeping unit tests isolated, because once I&#x2F;O gets involved, they invariably become much less reliable and as you mention, too slow.')

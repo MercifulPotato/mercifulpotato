@@ -1,1 +1,1 @@
-Item(by='philmcp', descendants=None, kids=None, score=None, time=1610575423, title=None, item_type='comment', url=None, parent=25768477, text='Hopefully next week, will email everyone on the list and post it on HN when it&#x27;s live')
+Item(by='philmcp', descendants=None, kids=[25769979, 25769889], score=None, time=1610575423, title=None, item_type='comment', url=None, parent=25768477, text='Hopefully next week, will email everyone on the list and post it on HN when it&#x27;s live')

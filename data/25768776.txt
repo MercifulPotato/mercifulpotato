@@ -1,0 +1,1 @@
+Item(by='christophilus', descendants=None, kids=None, score=None, time=1610576574, title=None, item_type='comment', url=None, parent=25768617, text='I tried a deno port, but lack of crypto support was a showstopper. I think I could’ve done it if not for that. It’s quite a lot nicer than node, though, and I definitely will give it another go when it’s further along.')

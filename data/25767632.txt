@@ -1,1 +1,1 @@
-Item(by='anoncake', descendants=None, kids=None, score=None, time=1610570229, title=None, item_type='comment', url=None, parent=25765881, text='What&#x27;s the point of arguing if companies are able to limit free speech in theory when they just did so in practice?')
+Item(by='anoncake', descendants=None, kids=[25769850], score=None, time=1610570229, title=None, item_type='comment', url=None, parent=25765881, text='What&#x27;s the point of arguing if companies are able to limit free speech in theory when they just did so in practice?')

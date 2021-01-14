@@ -1,1 +1,1 @@
-Item(by='arrow7000', descendants=2, kids=[25767680, 25766926], score=12, time=1610566243, title='TypeScript 4.2 Beta', item_type='story', url='https://devblogs.microsoft.com/typescript/announcing-typescript-4-2-beta/', parent=None, text=None)
+Item(by='arrow7000', descendants=3, kids=[25767680, 25766926], score=19, time=1610566243, title='TypeScript 4.2 Beta', item_type='story', url='https://devblogs.microsoft.com/typescript/announcing-typescript-4-2-beta/', parent=None, text=None)

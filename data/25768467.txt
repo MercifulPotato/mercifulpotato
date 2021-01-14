@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=[25768569], score=None, time=1610574953, title=None, item_type='comment', url=None, parent=25768201, text='Why is testing Postgres&#x2F;MySQL difficult? You can easily run a server locally (or on CI) and create new databases for test runs, etc.')

@@ -1,0 +1,1 @@
+Item(by='developer2', descendants=None, kids=[25772023], score=None, time=1610597525, title=None, item_type='comment', url=None, parent=25771573, text='Yep, that&#x27;s an indication of Elasticsearch being used (and not transforming documents to a standard representation that strips such fields).')

@@ -1,1 +1,1 @@
-Item(by='fastball', descendants=None, kids=None, score=None, time=1610577220, title=None, item_type='comment', url=None, parent=25766520, text='Was this a plot point in ME? I don&#x27;t remember that.')
+Item(by='fastball', descendants=None, kids=[25769085], score=None, time=1610577220, title=None, item_type='comment', url=None, parent=25766520, text='Was this a plot point in ME? I don&#x27;t remember that.')

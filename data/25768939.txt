@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[25769883], score=None, time=1610577376, title=None, item_type='comment', url=None, parent=25768771, text='Hrmm. Even lz4 level 1 compresses at &quot;only&quot; about 500-1000MB&#x2F;s on various CPU types, which isn&#x27;t quiet as fast as NVMe devices demand.')

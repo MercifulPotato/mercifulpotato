@@ -1,0 +1,1 @@
+Item(by='formalsystems', descendants=None, kids=[25771648], score=None, time=1610592708, title=None, item_type='comment', url=None, parent=25771013, text='They would display numbers less than 1000 as-is, and only start adding the &quot;k&quot; and &quot;m&quot; prefix after the 4-digit and 7-digit threshold was crossed.')

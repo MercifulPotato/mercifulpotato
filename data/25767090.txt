@@ -1,1 +1,1 @@
-Item(by='breck', descendants=0, kids=None, score=2, time=1610567370, title='An open source CAD program for creating virtual Lego models', item_type='story', url='https://github.com/leozide/leocad', parent=None, text=None)
+Item(by='breck', descendants=0, kids=None, score=3, time=1610567370, title='An open source CAD program for creating virtual Lego models', item_type='story', url='https://github.com/leozide/leocad', parent=None, text=None)

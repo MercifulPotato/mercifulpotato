@@ -1,1 +1,1 @@
-Item(by='samizdis', descendants=0, kids=None, score=6, time=1610568667, title='Oldest known cave painting found in Indonesia', item_type='story', url='https://phys.org/news/2021-01-world-oldest-cave-indonesia.html', parent=None, text=None)
+Item(by='samizdis', descendants=4, kids=[25768098], score=12, time=1610568667, title='Oldest known cave painting found in Indonesia', item_type='story', url='https://phys.org/news/2021-01-world-oldest-cave-indonesia.html', parent=None, text=None)

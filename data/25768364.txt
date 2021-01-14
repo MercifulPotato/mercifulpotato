@@ -1,0 +1,1 @@
+Item(by='crawshaw', descendants=None, kids=[25768383], score=None, time=1610574319, title=None, item_type='comment', url=None, parent=25768347, text='We could use SQLite. (I love SQLite and have written about it before!) The goal is N control processes not for scale, but for more flexibility with deployment, canarying, etc.')

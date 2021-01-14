@@ -1,0 +1,1 @@
+Item(by='daviesliu', descendants=None, kids=None, score=None, time=1610583382, title=None, item_type='comment', url=None, parent=25764116, text='Redis is an in-memory database, so the persistency of data should be supported by using RDB and AOF together with replication and failover.')

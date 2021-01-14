@@ -1,1 +1,1 @@
-Item(by='stragies', descendants=None, kids=None, score=None, time=1610558920, title=None, item_type='comment', url=None, parent=25762721, text='Haven&#x27;t they been promising that since about 3 years?\nAs far as I know, that never materialized.')
+Item(by='stragies', descendants=None, kids=[25771227], score=None, time=1610558920, title=None, item_type='comment', url=None, parent=25762721, text='Haven&#x27;t they been promising that since about 3 years?\nAs far as I know, that never materialized.')

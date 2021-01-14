@@ -1,0 +1,1 @@
+Item(by='throwdbaaway', descendants=None, kids=None, score=None, time=1610580805, title=None, item_type='comment', url=None, parent=25768592, text='There is a middle path -- use lxd. This way, the mysqld&#x2F;postgres process can always be running, while the dev machine remains clean.<p>(But of course the battery will drain a little faster if it is a laptop)')

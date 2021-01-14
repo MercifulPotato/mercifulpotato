@@ -1,0 +1,1 @@
+Item(by='SulfurHexaFluri', descendants=None, kids=None, score=None, time=1610594941, title=None, item_type='comment', url=None, parent=25770980, text='There is nothing wrong with this on its own. The real flaw was not stripping the exif data. Although I guess sequential IDs did enable an easier attack on the real flaw.')

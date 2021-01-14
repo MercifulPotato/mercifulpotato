@@ -1,1 +1,1 @@
-Item(by='Markoff', descendants=None, kids=None, score=None, time=1610546489, title=None, item_type='comment', url=None, parent=25759682, text='one would think Signal can hire bunch of devs full time with 50M donation to avoid such lame excuses')
+Item(by='Markoff', descendants=None, kids=[25770156], score=None, time=1610546489, title=None, item_type='comment', url=None, parent=25759682, text='one would think Signal can hire bunch of devs full time with 50M donation to avoid such lame excuses')

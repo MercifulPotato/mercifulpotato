@@ -1,0 +1,1 @@
+Item(by='kevindurb', descendants=None, kids=[25771573], score=None, time=1610591131, title=None, item_type='comment', url=None, parent=25770723, text='If I remember correctly mongo stores the id in “_id” and has a getter for “id” so maybe they just iterated all the keys of the model when they stringified their output')

@@ -1,1 +1,1 @@
-Item(by='mceachen', descendants=None, kids=None, score=None, time=1610557551, title=None, item_type='comment', url=None, parent=25762717, text='Try a higher-quality power supply for your RPi.')
+Item(by='mceachen', descendants=None, kids=[25769022], score=None, time=1610557551, title=None, item_type='comment', url=None, parent=25762717, text='Try a higher-quality power supply for your RPi.')

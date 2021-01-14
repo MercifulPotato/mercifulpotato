@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=[25768756], score=None, time=1610576070, title=None, item_type='comment', url=None, parent=25768271, text='Definitely watching esbuild (basically babel but implemented in Go) and SWC (the same, but in Rust). Compile times cut from 47s to less than 1 second speak for themselves!')

@@ -1,0 +1,1 @@
+Item(by='a1369209993', descendants=None, kids=None, score=None, time=1610589697, title=None, item_type='comment', url=None, parent=25762101, text='Another, somewhat more underhanded trick: add a string that is required to <i>not</i> be there, e.g. &quot;Please remove this line entirely.&quot;, halfway through the template, and mention it nowhere else.')

@@ -1,1 +1,1 @@
-Item(by='wmf', descendants=None, kids=None, score=None, time=1610572269, title=None, item_type='comment', url=None, parent=25767931, text='Netscape did a $2.9B IPO after 17 months.')
+Item(by='wmf', descendants=None, kids=[25768192], score=None, time=1610572269, title=None, item_type='comment', url=None, parent=25767931, text='Netscape did a $2.9B IPO after 17 months.')

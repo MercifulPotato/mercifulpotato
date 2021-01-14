@@ -1,0 +1,1 @@
+Item(by='9wzYQbTYsAIc', descendants=None, kids=None, score=None, time=1610572360, title=None, item_type='comment', url=None, parent=25764551, text='Are you referring to the init only setters?<p>If so, it isn’t just sugar, they added a new hook for it in the internals, rather than just relabelling a technique to accomplish a similar (but not equal) end.')

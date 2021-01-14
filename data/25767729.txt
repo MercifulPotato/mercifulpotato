@@ -1,0 +1,1 @@
+Item(by='edeion', descendants=None, kids=None, score=None, time=1610570714, title=None, item_type='comment', url=None, parent=25760381, text='This article can be seen as an introduction to emacs hacking. It features profiling, hooks, advice, and more emacs developer tricks. I haven&#x27;t read it fully yet but this looks like a nice way to get to know emacs deeper.')

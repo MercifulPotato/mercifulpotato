@@ -1,0 +1,1 @@
+Item(by='sjwright', descendants=None, kids=None, score=None, time=1610598983, title=None, item_type='comment', url=None, parent=25771768, text='Flaky network stacks aren&#x27;t rare. I&#x27;ve experienced plenty of consumer-facing operating systems that will freeze on boot for 10 to 60 seconds if the network interface is up but DHCP is unreachable.')

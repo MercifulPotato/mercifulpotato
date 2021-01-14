@@ -1,1 +1,1 @@
-Item(by='Lammy', descendants=None, kids=None, score=None, time=1610566958, title=None, item_type='comment', url=None, parent=25766562, text='&#x27;GAFAM&#x27; is a popular term in some places.')
+Item(by='Lammy', descendants=None, kids=[25769732], score=None, time=1610566958, title=None, item_type='comment', url=None, parent=25766562, text='&#x27;GAFAM&#x27; is a popular term in some places.')

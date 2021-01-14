@@ -1,0 +1,1 @@
+Item(by='francoisp', descendants=None, kids=None, score=None, time=1610580491, title=None, item_type='comment', url=None, parent=25767128, text='Looks like a clear case of migration to postgres. A single table with jsonb. You can do indexes on jsonb and a few plpgsql for partial updates, and forget about it for a while.')

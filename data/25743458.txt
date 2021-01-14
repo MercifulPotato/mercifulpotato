@@ -1,1 +1,1 @@
-Item(by='drran', descendants=None, kids=None, score=None, time=1610435929, title=None, item_type='comment', url=None, parent=25740182, text='Neutron is 3 quarks (u-d-d), which are bouncing around each other. The bouncing creates waves.')
+Item(by='drran', descendants=None, kids=[25768681], score=None, time=1610435929, title=None, item_type='comment', url=None, parent=25740182, text='Neutron is 3 quarks (u-d-d), which are bouncing around each other. The bouncing creates waves.')

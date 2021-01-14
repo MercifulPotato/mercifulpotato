@@ -1,0 +1,1 @@
+Item(by='knorker', descendants=None, kids=[25769658], score=None, time=1610580340, title=None, item_type='comment', url=None, parent=25769164, text='The OOM killer makes running out of memory on Linux not fun. I&#x27;ve found that turning of overcommit avoids this problem.<p>Then again, I&#x27;ve seen BSDs handle it even worse.')

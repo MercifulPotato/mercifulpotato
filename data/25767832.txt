@@ -1,1 +1,1 @@
-Item(by='Hooke', descendants=1, kids=[25767913], score=1, time=1610571270, title='When Getting High Is a Hobby, Not a Habit', item_type='story', url='https://www.nytimes.com/2021/01/12/books/review/drug-use-for-grown-ups-carl-l-hart.html', parent=None, text=None)
+Item(by='Hooke', descendants=56, kids=[25768675, 25768897, 25768602, 25768587, 25768770, 25767913], score=30, time=1610571270, title='When Getting High Is a Hobby, Not a Habit', item_type='story', url='https://www.nytimes.com/2021/01/12/books/review/drug-use-for-grown-ups-carl-l-hart.html', parent=None, text=None)

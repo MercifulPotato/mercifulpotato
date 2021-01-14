@@ -1,0 +1,1 @@
+Item(by='bradfitz', descendants=None, kids=None, score=None, time=1610573234, title=None, item_type='comment', url=None, parent=25768168, text='Not a typo. See why we&#x27;re holding it all in RAM?<p>But writing out 150MB many times per second isn&#x27;t super nice when both 150MB and the number of times per second are both growing.')

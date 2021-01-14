@@ -1,0 +1,1 @@
+Item(by='bradfitz', descendants=None, kids=None, score=None, time=1610577337, title=None, item_type='comment', url=None, parent=25768771, text='Yeah, I think it was zstd.<p>But the bigger problem was the curve. Doing something O(N*M) where N (file size) and M (writes per second) were both growing was not a winning strategy, compression or not.')

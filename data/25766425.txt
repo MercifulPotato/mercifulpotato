@@ -1,1 +1,1 @@
-Item(by='atombender', descendants=0, kids=None, score=1, time=1610564168, title='Blindsight: Short CGI film based on novel by Peter Watts', item_type='story', url='https://blindsight.space/', parent=None, text=None)
+Item(by='atombender', descendants=1, kids=[25770122], score=2, time=1610564168, title='Blindsight: Short CGI film based on novel by Peter Watts', item_type='story', url='https://blindsight.space/', parent=None, text=None)

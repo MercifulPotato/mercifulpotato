@@ -1,0 +1,1 @@
+Item(by='adammck', descendants=None, kids=None, score=None, time=1610585475, title=None, item_type='comment', url=None, parent=25769377, text='Since the parent is running on GKE, they’re already doing that. Postgres in a (kube) container on a (GCE) VM in a (borg) container on a computer.')

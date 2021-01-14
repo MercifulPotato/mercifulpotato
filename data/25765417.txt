@@ -1,1 +1,1 @@
-Item(by='jaywalk', descendants=None, kids=None, score=None, time=1610559779, title=None, item_type='comment', url=None, parent=25764796, text='FYI it&#x27;s simply called .NET now, as of the release of .NET 5. Which is the successor to .NET Core 3.1.')
+Item(by='jaywalk', descendants=None, kids=[25767129], score=None, time=1610559779, title=None, item_type='comment', url=None, parent=25764796, text='FYI it&#x27;s simply called .NET now, as of the release of .NET 5. Which is the successor to .NET Core 3.1.')

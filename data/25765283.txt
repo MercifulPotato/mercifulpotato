@@ -1,1 +1,1 @@
-Item(by='unwind', descendants=None, kids=None, score=None, time=1610559158, title=None, item_type='comment', url=None, parent=25763136, text='At $679, that&#x27;s more than &quot;a little pricey&quot; to me at least.')
+Item(by='unwind', descendants=None, kids=[25769296], score=None, time=1610559158, title=None, item_type='comment', url=None, parent=25763136, text='At $679, that&#x27;s more than &quot;a little pricey&quot; to me at least.')

@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=None, score=None, time=1610594811, title=None, item_type='comment', url=None, parent=25764613, text='JIT requires bypassing exploit mitigations e.g. W^X. JIT doesn&#x27;t make an app that&#x27;s already been subverted any more dangerous than it would otherwise be, but it makes it easier to exploit the app in the first place.')
