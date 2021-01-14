@@ -1,1 +1,1 @@
-Item(by='a_humean', descendants=None, kids=None, score=None, time=1610606787, title=None, item_type='comment', url=None, parent=25772888, text='Its only 60 votes if senators insist on pretending its 60 votes. Its 50+1 votes if senators actually want to do something.')
+Item(by='a_humean', descendants=None, kids=[25775614], score=None, time=1610606787, title=None, item_type='comment', url=None, parent=25772888, text='Its only 60 votes if senators insist on pretending its 60 votes. Its 50+1 votes if senators actually want to do something.')

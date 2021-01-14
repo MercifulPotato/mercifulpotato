@@ -1,0 +1,1 @@
+Item(by='oblio', descendants=None, kids=None, score=None, time=1610625674, title=None, item_type='comment', url=None, parent=25774938, text='Isn&#x27;t the M1 GPU memory shared with everything else? Can the GPU realistically used that much? Won&#x27;t the OS and base apps use up at least 2-3GB?')

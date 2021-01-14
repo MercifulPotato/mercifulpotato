@@ -1,1 +1,1 @@
-Item(by='twentydollars', descendants=None, kids=None, score=None, time=1610551767, title=None, item_type='comment', url=None, parent=25759878, text='hmmm, this is your desktop or a server?')
+Item(by='twentydollars', descendants=None, kids=[25775116], score=None, time=1610551767, title=None, item_type='comment', url=None, parent=25759878, text='hmmm, this is your desktop or a server?')

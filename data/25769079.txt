@@ -1,1 +1,1 @@
-Item(by='jonifico', descendants=None, kids=None, score=None, time=1610578163, title=None, item_type='comment', url=None, parent=25764085, text='Is there any way to see a demo ?')
+Item(by='jonifico', descendants=None, kids=[25775255], score=None, time=1610578163, title=None, item_type='comment', url=None, parent=25764085, text='Is there any way to see a demo ?')

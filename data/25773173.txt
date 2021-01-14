@@ -1,1 +1,1 @@
-Item(by='agarella', descendants=1, kids=[25773180], score=1, time=1610608545, title="Show HN: I've launched a Scala job board. Feedback welcome", item_type='story', url='https://scalajobs.dev/', parent=None, text=None)
+Item(by='agarella', descendants=2, kids=[25773180, 25773704], score=4, time=1610608545, title="Show HN: I've launched a Scala job board. Feedback welcome", item_type='story', url='https://scalajobs.dev/', parent=None, text=None)

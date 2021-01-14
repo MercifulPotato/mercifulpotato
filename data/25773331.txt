@@ -1,1 +1,1 @@
-Item(by='tsimionescu', descendants=None, kids=None, score=None, time=1610609771, title=None, item_type='comment', url=None, parent=25766121, text='No, they mean writing the eval () function in pure JavaScript.')
+Item(by='tsimionescu', descendants=None, kids=[25776002], score=None, time=1610609771, title=None, item_type='comment', url=None, parent=25766121, text='No, they mean writing the eval () function in pure JavaScript.')

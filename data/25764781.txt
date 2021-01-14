@@ -1,1 +1,1 @@
-Item(by='dfilppi', descendants=None, kids=None, score=None, time=1610557267, title=None, item_type='comment', url=None, parent=25763863, text='Are we expected to believe that there are workaholics in France?  Now &#x27;strikaholics&#x27; I can believe.')
+Item(by='dfilppi', descendants=None, kids=[25773692], score=None, time=1610557267, title=None, item_type='comment', url=None, parent=25763863, text='Are we expected to believe that there are workaholics in France?  Now &#x27;strikaholics&#x27; I can believe.')

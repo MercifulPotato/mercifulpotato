@@ -1,0 +1,1 @@
+Item(by='fsflover', descendants=None, kids=[25775608], score=None, time=1610627247, title=None, item_type='comment', url=None, parent=25775442, text='I expected that Wayland isolates the applications by default, not just when they allow it.<p>So you might be interested in Qubes OS, which provides a very strong isolation through virtualization.')

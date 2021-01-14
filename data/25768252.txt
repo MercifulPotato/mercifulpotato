@@ -1,1 +1,1 @@
-Item(by='birdman3131', descendants=None, kids=None, score=None, time=1610573646, title=None, item_type='comment', url=None, parent=25763177, text='Oneplus requires you to wipe your phone to root it. Add to this that there is no way to backup the phone without rooting it.')
+Item(by='birdman3131', descendants=None, kids=[25776186], score=None, time=1610573646, title=None, item_type='comment', url=None, parent=25763177, text='Oneplus requires you to wipe your phone to root it. Add to this that there is no way to backup the phone without rooting it.')

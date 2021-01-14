@@ -1,1 +1,1 @@
-Item(by='boffinism', descendants=0, kids=None, score=2, time=1610610639, title='CD PROJEKT’s co-founder’s statement on Cyberpunk 2077', item_type='story', url='https://twitter.com/CyberpunkGame/status/1349462362764537862', parent=None, text=None)
+Item(by='boffinism', descendants=2, kids=[25773728], score=4, time=1610610639, title='CD PROJEKT’s co-founder’s statement on Cyberpunk 2077', item_type='story', url='https://twitter.com/CyberpunkGame/status/1349462362764537862', parent=None, text=None)

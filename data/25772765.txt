@@ -1,1 +1,1 @@
-Item(by='pseudalopex', descendants=None, kids=None, score=None, time=1610604847, title=None, item_type='comment', url=None, parent=25772086, text='It lets Little Snitch 5 block Apple processes without editing a system file.')
+Item(by='pseudalopex', descendants=None, kids=[25775022], score=None, time=1610604847, title=None, item_type='comment', url=None, parent=25772086, text='It lets Little Snitch 5 block Apple processes without editing a system file.')

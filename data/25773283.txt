@@ -1,1 +1,1 @@
-Item(by='hoseja', descendants=None, kids=None, score=None, time=1610609332, title=None, item_type='comment', url=None, parent=25769730, text='I wonder what the engineering quality and opsec was at facebook, a year or two after the Zuck built it to steal people&#x27;s cell numbers.')
+Item(by='hoseja', descendants=None, kids=[25774049], score=None, time=1610609332, title=None, item_type='comment', url=None, parent=25769730, text='I wonder what the engineering quality and opsec was at facebook, a year or two after the Zuck built it to steal people&#x27;s cell numbers.')

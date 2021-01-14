@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1610629661, title=None, item_type='comment', url=None, parent=25775837, text='You can use sudo fdesetup list -verbose which tells you which users have their password attached as an unlock token for a given volume.')

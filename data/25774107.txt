@@ -1,0 +1,1 @@
+Item(by='jarek-foksa', descendants=None, kids=None, score=None, time=1610616414, title=None, item_type='comment', url=None, parent=25772634, text='The modern DOM equivalent would look almost the same as the jQuery version:<p><pre><code>  document.querySelector(&quot;.class&quot;).remove();\n  document.querySelector(&quot;.class&quot;).after(...);</code></pre>')

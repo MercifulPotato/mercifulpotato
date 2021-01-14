@@ -1,1 +1,1 @@
-Item(by='cloakedarbiter', descendants=1, kids=[25772441], score=11, time=1610554312, title='Decentralised Content Moderation', item_type='story', url='https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html', parent=None, text=None)
+Item(by='cloakedarbiter', descendants=3, kids=[25776341, 25772441], score=12, time=1610554312, title='Decentralised Content Moderation', item_type='story', url='https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html', parent=None, text=None)

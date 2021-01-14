@@ -1,0 +1,1 @@
+Item(by='Nextgrid', descendants=None, kids=[25775291], score=None, time=1610624044, title=None, item_type='comment', url=None, parent=25775073, text='Maybe the data compresses well and&#x2F;or a lot of it is redundant (so instead of storing it raw you store it in a database and use relationships to link related pieces of data)?')

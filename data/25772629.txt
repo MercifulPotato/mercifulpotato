@@ -1,1 +1,1 @@
-Item(by='chupasaurus', descendants=None, kids=None, score=None, time=1610603555, title=None, item_type='comment', url=None, parent=25770988, text='&gt; I dont kniw what its like elsewhere<p>&quot;Efficient management&quot; is a meme in Russian IT industry.')
+Item(by='chupasaurus', descendants=None, kids=[25774628], score=None, time=1610603555, title=None, item_type='comment', url=None, parent=25770988, text='&gt; I dont kniw what its like elsewhere<p>&quot;Efficient management&quot; is a meme in Russian IT industry.')

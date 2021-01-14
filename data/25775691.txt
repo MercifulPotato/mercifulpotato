@@ -1,0 +1,1 @@
+Item(by='bjoli', descendants=None, kids=None, score=None, time=1610628247, title=None, item_type='comment', url=None, parent=25774546, text='Wow, I didnnt know they switched to chez scheme as the default backend for Idris 2. I know Edwin was impressed with the speed of Chez and the overall quality of the implementation, but I never heard about the switch to it as default.')

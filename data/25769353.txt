@@ -1,1 +1,1 @@
-Item(by='centimeter', descendants=None, kids=[25772318, 25769998, 25771098, 25769502], score=None, time=1610579761, title=None, item_type='comment', url=None, parent=25765995, text='&gt; The landauer limit at 4.2K is 4.019×10^-23 J (joules).<p>At room temperature.')
+Item(by='centimeter', descendants=None, kids=[25769998, 25772318, 25771098, 25769502], score=None, time=1610579761, title=None, item_type='comment', url=None, parent=25765995, text='&gt; The landauer limit at 4.2K is 4.019×10^-23 J (joules).<p>At room temperature.')

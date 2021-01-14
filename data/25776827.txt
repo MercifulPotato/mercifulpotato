@@ -1,0 +1,1 @@
+Item(by='f00zz', descendants=None, kids=[25777170], score=None, time=1610635364, title=None, item_type='comment', url=None, parent=25769469, text='Pointless nitpick: replace<p><pre><code>    rm `find lisp -name &#x27;*.elc&#x27;`\n</code></pre>\nwith<p><pre><code>    find lisp -name &#x27;*.elc&#x27; -exec rm {} \\;</code></pre>')

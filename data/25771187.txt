@@ -1,1 +1,1 @@
-Item(by='megous', descendants=None, kids=None, score=None, time=1610592273, title=None, item_type='comment', url=None, parent=25769319, text='They have a JS compiler written in rust in the list. :)')
+Item(by='megous', descendants=None, kids=[25774542], score=None, time=1610592273, title=None, item_type='comment', url=None, parent=25769319, text='They have a JS compiler written in rust in the list. :)')

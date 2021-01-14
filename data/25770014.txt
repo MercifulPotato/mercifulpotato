@@ -1,1 +1,1 @@
-Item(by='rjsw', descendants=None, kids=None, score=None, time=1610583795, title=None, item_type='comment', url=None, parent=25769690, text='Porting the JVM to a new CPU architecture is hard but it has already been done for AArch64.')
+Item(by='rjsw', descendants=None, kids=[25775050], score=None, time=1610583795, title=None, item_type='comment', url=None, parent=25769690, text='Porting the JVM to a new CPU architecture is hard but it has already been done for AArch64.')

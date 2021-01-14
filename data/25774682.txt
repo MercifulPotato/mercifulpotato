@@ -1,0 +1,1 @@
+Item(by='adwww', descendants=None, kids=[25774923], score=None, time=1610620056, title=None, item_type='comment', url=None, parent=25772831, text='Presumably just another s3 bucket?<p>Do all your transferring from an EC2 instance in the same region and it never needs to waste bandwidth going over the public internet anyway.')

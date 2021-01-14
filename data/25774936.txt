@@ -1,0 +1,1 @@
+Item(by='varispeed', descendants=None, kids=None, score=None, time=1610622255, title=None, item_type='comment', url=None, parent=25769676, text='Imagine what Apple does to x64 to work on ARM, Intel having Altera, could do x86 translation to FPGA gates... It wouldn&#x27;t take whole programs, but it could reconfigure itself to run most commonly executed routines on FPGA.')

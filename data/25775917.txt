@@ -1,0 +1,1 @@
+Item(by='devenblake', descendants=None, kids=[25776108], score=None, time=1610630135, title=None, item_type='comment', url=None, parent=25775884, text='You could always just rig up a couple Bash aliases and change where your menu works. Say for example appimg() { chmod +x $1; mv $1 ~&#x2F;apps&#x2F; } and then bind a key sequence to `$(ls ~&#x2F;apps&#x2F; | dmenu)`.')

@@ -1,0 +1,1 @@
+Item(by='ryanbrunner', descendants=None, kids=None, score=None, time=1610623511, title=None, item_type='comment', url=None, parent=25774480, text='I think this is a fair point if you genuinely want to keep your bundle size as small as possible. Many times, the people complaining about jQuery&#x27;s size are serving 2 MB bundles. 30K is immaterial in that scenario.')

@@ -1,0 +1,1 @@
+Item(by='jcelerier', descendants=None, kids=None, score=None, time=1610636125, title=None, item_type='comment', url=None, parent=25776888, text='Static linking does not reasonably work for graphical apps on linux due to libGL, since you&#x27;d have to choose one libgl implementation at link time and basically embed the GPU driver in your program.')

@@ -1,1 +1,1 @@
-Item(by='xmprt', descendants=None, kids=None, score=None, time=1610601160, title=None, item_type='comment', url=None, parent=25768627, text='Roam is pretty expensive and I&#x27;ve heard it can get slow. Have you tried Notion and if so, how would you compare them?')
+Item(by='xmprt', descendants=None, kids=[25774561], score=None, time=1610601160, title=None, item_type='comment', url=None, parent=25768627, text='Roam is pretty expensive and I&#x27;ve heard it can get slow. Have you tried Notion and if so, how would you compare them?')

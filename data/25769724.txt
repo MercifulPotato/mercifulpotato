@@ -1,1 +1,1 @@
-Item(by='vevans', descendants=0, kids=None, score=6, time=1610582060, title='Glacies – A Different Linux Distribution', item_type='story', url='https://eltan.in.net/blog/2021/01/13/0/', parent=None, text=None)
+Item(by='vevans', descendants=1, kids=[25775816], score=12, time=1610582060, title='Glacies – A Different Linux Distribution', item_type='story', url='https://eltan.in.net/blog/2021/01/13/0/', parent=None, text=None)

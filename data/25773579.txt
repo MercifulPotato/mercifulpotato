@@ -1,1 +1,1 @@
-Item(by='asiando', descendants=None, kids=None, score=None, time=1610612086, title=None, item_type='comment', url=None, parent=25772290, text='Yes but the former will silently fail on you. Good luck finding that!')
+Item(by='asiando', descendants=None, kids=[25775895], score=None, time=1610612086, title=None, item_type='comment', url=None, parent=25772290, text='Yes but the former will silently fail on you. Good luck finding that!')
