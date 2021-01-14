@@ -1,0 +1,1 @@
+Item(by='dpayonk', descendants=None, kids=None, score=None, time=1610638190, title=None, item_type='comment', url=None, parent=25777175, text='If we only had to use 1st party data, that might be easier.  But then again, if you’re building your product incrementally, you’re still going to have instrumentation holes that you may or may not be able to partially backfill.')

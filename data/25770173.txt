@@ -1,1 +1,1 @@
-Item(by='cjlm', descendants=None, kids=None, score=None, time=1610584897, title=None, item_type='comment', url=None, parent=25769785, text='There is also logseq.<p><a href="https:&#x2F;&#x2F;logseq.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;logseq.com&#x2F;</a>')
+Item(by='cjlm', descendants=None, kids=[25778638], score=None, time=1610584897, title=None, item_type='comment', url=None, parent=25769785, text='There is also logseq.<p><a href="https:&#x2F;&#x2F;logseq.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;logseq.com&#x2F;</a>')

@@ -1,1 +1,1 @@
-Item(by='legerdemain', descendants=None, kids=None, score=None, time=1610577298, title=None, item_type='comment', url=None, parent=25768663, text='How did you manage to go from &quot;IOI gold&quot; to &quot;not as good&quot;?')
+Item(by='legerdemain', descendants=None, kids=[25781205], score=None, time=1610577298, title=None, item_type='comment', url=None, parent=25768663, text='How did you manage to go from &quot;IOI gold&quot; to &quot;not as good&quot;?')

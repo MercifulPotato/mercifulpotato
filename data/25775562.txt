@@ -1,1 +1,1 @@
-Item(by='Ntrails', descendants=None, kids=None, score=None, time=1610627250, title=None, item_type='comment', url=None, parent=25775389, text='But that&#x27;s only if you can resolve the &quot;which day&quot; issue?')
+Item(by='Ntrails', descendants=None, kids=[25779366], score=None, time=1610627250, title=None, item_type='comment', url=None, parent=25775389, text='But that&#x27;s only if you can resolve the &quot;which day&quot; issue?')

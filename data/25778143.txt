@@ -1,0 +1,1 @@
+Item(by='Jtsummers', descendants=None, kids=None, score=None, time=1610640999, title=None, item_type='comment', url=None, parent=25778114, text='Throw in two spaces before each code line and that will be formatted much better:<p><pre><code>  with open(&quot;grab_dragon.sh&quot;, &quot;w&quot;) as file1:\n    for index in range(200):\n      ...</code></pre>')

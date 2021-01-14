@@ -1,0 +1,1 @@
+Item(by='prepperdev', descendants=None, kids=None, score=None, time=1610651992, title=None, item_type='comment', url=None, parent=25778590, text='Recently, I migrated my personal dev laptop from Ubuntu to Alpine Linux. It took a day, but everything works now, including hidpi stuff.<p>No big issues so far and I am in the process of migrating my home server to Alpine.')

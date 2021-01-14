@@ -1,1 +1,1 @@
-Item(by='cozuya', descendants=None, kids=None, score=None, time=1610573704, title=None, item_type='comment', url=None, parent=25768117, text='No you can&#x27;t.')
+Item(by='cozuya', descendants=None, kids=[25779671], score=None, time=1610573704, title=None, item_type='comment', url=None, parent=25768117, text='No you can&#x27;t.')

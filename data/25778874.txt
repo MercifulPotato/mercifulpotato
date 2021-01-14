@@ -1,0 +1,1 @@
+Item(by='acemarke', descendants=None, kids=None, score=None, time=1610643828, title=None, item_type='comment', url=None, parent=25773950, text='Not sure I agree with this statement.<p>The Redux core by itself doesn&#x27;t really introduce abstractions.  A reducer is just a function.  An action is just an object.  They&#x27;re not abstractions, just a particular usage pattern.')

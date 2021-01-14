@@ -1,1 +1,1 @@
-Item(by='pantelisk', descendants=None, kids=None, score=None, time=1610610909, title=None, item_type='comment', url=None, parent=25772839, text='VR aims for sub 12ms. (80+ fps. 11ms for 90 fps)')
+Item(by='pantelisk', descendants=None, kids=[25782612], score=None, time=1610610909, title=None, item_type='comment', url=None, parent=25772839, text='VR aims for sub 12ms. (80+ fps. 11ms for 90 fps)')

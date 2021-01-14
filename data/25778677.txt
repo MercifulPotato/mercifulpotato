@@ -1,0 +1,1 @@
+Item(by='mrpippy', descendants=None, kids=[25778725], score=None, time=1610643181, title=None, item_type='comment', url=None, parent=25778360, text='Wine on macOS can already use MoltenVK to expose Vulkan to Windows apps, CrossOver uses this with DXVK to support D3D11 games.')

@@ -1,0 +1,1 @@
+Item(by='zie', descendants=None, kids=None, score=None, time=1610656933, title=None, item_type='comment', url=None, parent=25772574, text='You can&#x27;t add files or commits from the web UI.<p>The wiki has had some work done to it in recent versions, it has preview now for instance.<p>Fossil syncs *FOR* you.  let fossil handle syncing, that is it&#x27;s bread and butter.')

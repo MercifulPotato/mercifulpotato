@@ -1,0 +1,1 @@
+Item(by='knz42', descendants=None, kids=None, score=None, time=1610636109, title=None, item_type='comment', url=None, parent=25776953, text='The report says that AWS&#x27;s ARM-based Graviton2 cores were tested. Where can we find the download link for the CockroachDB release that was used to test on ARM?')

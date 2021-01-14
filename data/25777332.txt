@@ -1,1 +1,1 @@
-Item(by='leetcrew', descendants=None, kids=None, score=None, time=1610637629, title=None, item_type='comment', url=None, parent=25777210, text='why are we starting with the assumption that <i>anyone</i> needs to receive and moderate posts at the scale facebook does?')
+Item(by='leetcrew', descendants=None, kids=[25778248, 25777833], score=None, time=1610637629, title=None, item_type='comment', url=None, parent=25777210, text='why are we starting with the assumption that <i>anyone</i> needs to receive and moderate posts at the scale facebook does?')

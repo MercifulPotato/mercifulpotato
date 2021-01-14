@@ -1,0 +1,1 @@
+Item(by='hn_acc_2', descendants=None, kids=None, score=None, time=1610659520, title=None, item_type='comment', url=None, parent=25780581, text='I did settle on Debian, using e.g. python:3.9-slim-buster (though you can just as easily start from debian and install your python version)')

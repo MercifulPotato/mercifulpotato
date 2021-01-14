@@ -1,1 +1,1 @@
-Item(by='Lopiolis', descendants=None, kids=None, score=None, time=1610637983, title=None, item_type='comment', url=None, parent=25776966, text='Afaik none of that data is stored server-side anyway.')
+Item(by='Lopiolis', descendants=None, kids=[25779586], score=None, time=1610637983, title=None, item_type='comment', url=None, parent=25776966, text='Afaik none of that data is stored server-side anyway.')

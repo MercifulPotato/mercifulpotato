@@ -1,1 +1,1 @@
-Item(by='mhh__', descendants=None, kids=[25773736], score=None, time=1610600338, title=None, item_type='comment', url=None, parent=25770351, text='Phoronix currently have GCC faster than Clang at compiling the Linux kernel.<p>There was a big thread on it recently')
+Item(by='mhh__', descendants=None, kids=[25778176, 25773736], score=None, time=1610600338, title=None, item_type='comment', url=None, parent=25770351, text='Phoronix currently have GCC faster than Clang at compiling the Linux kernel.<p>There was a big thread on it recently')

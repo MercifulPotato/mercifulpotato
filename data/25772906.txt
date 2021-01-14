@@ -1,1 +1,1 @@
-Item(by='ece', descendants=None, kids=None, score=None, time=1610606013, title=None, item_type='comment', url=None, parent=25772259, text='I will sleep easier knowing there is no 51 or 52-star flag crisis looming.')
+Item(by='ece', descendants=None, kids=[25778488], score=None, time=1610606013, title=None, item_type='comment', url=None, parent=25772259, text='I will sleep easier knowing there is no 51 or 52-star flag crisis looming.')

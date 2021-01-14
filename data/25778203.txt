@@ -1,0 +1,1 @@
+Item(by='unilynx', descendants=None, kids=None, score=None, time=1610641302, title=None, item_type='comment', url=None, parent=25775589, text='The answer probably depends a lot on what you&#x27;re used to from other languages.<p>Java users might want to make 404 an exception (FileNotFoundException), C++ users probably wouldn&#x27;t throw an exception for that')

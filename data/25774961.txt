@@ -1,1 +1,1 @@
-Item(by='fxtentacle', descendants=None, kids=None, score=None, time=1610622530, title=None, item_type='comment', url=None, parent=25774932, text='Can&#x27;t use it because most AI frameworks won&#x27;t run on AMD because they did not implement suitable back-ends (yet).')
+Item(by='fxtentacle', descendants=None, kids=[25778766], score=None, time=1610622530, title=None, item_type='comment', url=None, parent=25774932, text='Can&#x27;t use it because most AI frameworks won&#x27;t run on AMD because they did not implement suitable back-ends (yet).')

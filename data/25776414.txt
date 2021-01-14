@@ -1,1 +1,1 @@
-Item(by='plaur782', descendants=1, kids=[25776415], score=1, time=1610633518, title='Bottom-Up Index Deletion Committed to Postgres 14', item_type='story', url='https://www.postgresql.org/docs/devel/btree-implementation.html#BTREE-DELETION', parent=None, text=None)
+Item(by='plaur782', descendants=1, kids=[25776415], score=3, time=1610633518, title='Bottom-Up Index Deletion Committed to Postgres 14', item_type='story', url='https://www.postgresql.org/docs/devel/btree-implementation.html#BTREE-DELETION', parent=None, text=None)

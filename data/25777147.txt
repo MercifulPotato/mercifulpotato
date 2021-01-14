@@ -1,1 +1,1 @@
-Item(by='bidirectional', descendants=None, kids=None, score=None, time=1610636931, title=None, item_type='comment', url=None, parent=25777007, text='Won&#x27;t they be much fewer in number, though?')
+Item(by='bidirectional', descendants=None, kids=[25777689], score=None, time=1610636931, title=None, item_type='comment', url=None, parent=25777007, text='Won&#x27;t they be much fewer in number, though?')

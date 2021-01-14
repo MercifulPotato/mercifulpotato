@@ -1,1 +1,1 @@
-Item(by='karimtr', descendants=1, kids=[25776423], score=4, time=1610633540, title='Show HN: Learn how to query and visualize a graph using Cypher in the browser', item_type='story', url='https://playground.memgraph.com', parent=None, text=None)
+Item(by='karimtr', descendants=1, kids=[25776423], score=6, time=1610633540, title='Show HN: Learn how to query and visualize graphs with Cypher in the browser', item_type='story', url='https://playground.memgraph.com', parent=None, text=None)

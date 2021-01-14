@@ -1,0 +1,1 @@
+Item(by='kazinator', descendants=None, kids=[25781750], score=None, time=1610644637, title=None, item_type='comment', url=None, parent=25768553, text='&gt; <i>While emacs has parts written in C, that portion really exists to enable elisp.</i><p>You should do a line count; GNU Emacs has more than 250,000 lines of C.')

@@ -1,1 +1,1 @@
-Item(by='amelius', descendants=None, kids=None, score=None, time=1610634499, title=None, item_type='comment', url=None, parent=25775872, text='In other words: we need plumbers.')
+Item(by='amelius', descendants=None, kids=[25776950, 25776874], score=None, time=1610634499, title=None, item_type='comment', url=None, parent=25775872, text='In other words: we need plumbers.')

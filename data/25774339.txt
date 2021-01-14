@@ -1,1 +1,1 @@
-Item(by='indigodaddy', descendants=None, kids=None, score=None, time=1610617856, title=None, item_type='comment', url=None, parent=25772645, text='Parler didn’t use any proprietary AWS services.')
+Item(by='indigodaddy', descendants=None, kids=[25778726], score=None, time=1610617856, title=None, item_type='comment', url=None, parent=25772645, text='Parler didn’t use any proprietary AWS services.')

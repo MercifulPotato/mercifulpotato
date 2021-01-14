@@ -1,0 +1,1 @@
+Item(by='ironmagma', descendants=None, kids=None, score=None, time=1610638522, title=None, item_type='comment', url=None, parent=25777267, text='Bundlers these days are very good. Any code that isn’t used is removed with tree shaking&#x2F;dead code elimination, and React can be swapped with Preact which has a lot smaller bundle size as well.')

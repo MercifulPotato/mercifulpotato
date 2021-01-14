@@ -1,1 +1,1 @@
-Item(by='nr2x', descendants=None, kids=None, score=None, time=1610635387, title=None, item_type='comment', url=None, parent=25776623, text='Philip Morris didn’t intentionally develop a system to spread lung cancer, and yet they did.')
+Item(by='nr2x', descendants=None, kids=[25780002], score=None, time=1610635387, title=None, item_type='comment', url=None, parent=25776623, text='Philip Morris didn’t intentionally develop a system to spread lung cancer, and yet they did.')

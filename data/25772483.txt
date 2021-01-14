@@ -1,1 +1,1 @@
-Item(by='peter_d_sherman', descendants=19, kids=[25776235, 25772493, 25774173, 25775703, 25773505], score=65, time=1610602124, title='zForth – Tiny, embeddable, flexible, compact Forth for embedded systems', item_type='story', url='https://github.com/zevv/zForth', parent=None, text=None)
+Item(by='peter_d_sherman', descendants=23, kids=[25772493, 25776235, 25774173, 25775703, 25773505], score=77, time=1610602124, title='zForth – Tiny, embeddable, flexible, compact Forth for embedded systems', item_type='story', url='https://github.com/zevv/zForth', parent=None, text=None)
