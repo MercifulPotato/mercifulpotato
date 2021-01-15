@@ -1,1 +1,1 @@
-Item(by='tus88', descendants=None, kids=None, score=None, time=1610658419, title=None, item_type='comment', url=None, parent=25778781, text='It&#x27;s not open source though.')
+Item(by='tus88', descendants=None, kids=[25782847], score=None, time=1610658419, title=None, item_type='comment', url=None, parent=25778781, text='It&#x27;s not open source though.')

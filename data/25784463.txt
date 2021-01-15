@@ -1,0 +1,1 @@
+Item(by='babypuncher', descendants=None, kids=[25785308], score=None, time=1610666501, title=None, item_type='comment', url=None, parent=25778725, text='These low level graphics API wrappers have so far proven to have very little overhead. Probably because metal, vulkan, and dx12 are a lot more similar than opengl and dx9 were.')

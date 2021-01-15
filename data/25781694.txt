@@ -1,1 +1,1 @@
-Item(by='jibbit', descendants=None, kids=None, score=None, time=1610654565, title=None, item_type='comment', url=None, parent=25779347, text='i could really do with React in Tcl right now')
+Item(by='jibbit', descendants=None, kids=[25784460, 25783902], score=None, time=1610654565, title=None, item_type='comment', url=None, parent=25779347, text='i could really do with React in Tcl right now')

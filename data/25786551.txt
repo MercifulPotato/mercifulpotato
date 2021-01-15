@@ -1,0 +1,1 @@
+Item(by='f430', descendants=None, kids=None, score=None, time=1610680290, title=None, item_type='comment', url=None, parent=25786469, text='I found that PostgreSQL was good for all of the cases I would use with NoSQL. Even on AWS, I found Dynamodb&#x27;s query language really unintuitive. There will be use cases for NoSQL but for the 99% cases, it doesn&#x27;t make much sense.')

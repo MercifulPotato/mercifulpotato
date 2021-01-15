@@ -1,1 +1,1 @@
-Item(by='schnable', descendants=None, kids=None, score=None, time=1610641815, title=None, item_type='comment', url=None, parent=25770863, text='Bear web clipper has worked great for me over the past year or so. It was definitely not great before that.')
+Item(by='schnable', descendants=None, kids=[25783892], score=None, time=1610641815, title=None, item_type='comment', url=None, parent=25770863, text='Bear web clipper has worked great for me over the past year or so. It was definitely not great before that.')

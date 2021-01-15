@@ -1,0 +1,1 @@
+Item(by='skulk', descendants=None, kids=None, score=None, time=1610665416, title=None, item_type='comment', url=None, parent=25779930, text='From docs&#x2F;LISP.md, on how the Lisp contained within lacks a GC and instead uses reference counting without a cycle collector.<p>&gt; So you do have to be careful not to create cycles, so think about how your code works.')

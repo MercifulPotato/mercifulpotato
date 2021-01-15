@@ -1,1 +1,1 @@
-Item(by='marinhero', descendants=None, kids=None, score=None, time=1610653592, title=None, item_type='comment', url=None, parent=25778088, text='Congratulations to the Wine team! Does this release impacts Steam&#x27;s Proton in any way?')
+Item(by='marinhero', descendants=None, kids=[25786428], score=None, time=1610653592, title=None, item_type='comment', url=None, parent=25778088, text='Congratulations to the Wine team! Does this release impacts Steam&#x27;s Proton in any way?')

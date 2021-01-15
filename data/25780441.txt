@@ -1,1 +1,1 @@
-Item(by='Corrado', descendants=None, kids=None, score=None, time=1610650139, title=None, item_type='comment', url=None, parent=25778294, text='The wipers automatically activate when its raining.  I&#x27;ve only had to manually activate the wipers a handful of times.')
+Item(by='Corrado', descendants=None, kids=[25786224], score=None, time=1610650139, title=None, item_type='comment', url=None, parent=25778294, text='The wipers automatically activate when its raining.  I&#x27;ve only had to manually activate the wipers a handful of times.')

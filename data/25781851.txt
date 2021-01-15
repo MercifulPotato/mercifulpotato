@@ -1,1 +1,1 @@
-Item(by='jbranchaud', descendants=3, kids=[25782149, 25782027], score=8, time=1610655267, title='One Thousand TILs and Counting', item_type='story', url='https://github.com/jbranchaud/til', parent=None, text=None)
+Item(by='jbranchaud', descendants=6, kids=[25782149, 25782027, 25782195, 25782476], score=9, time=1610655267, title='One Thousand TILs and Counting', item_type='story', url='https://github.com/jbranchaud/til', parent=None, text=None)

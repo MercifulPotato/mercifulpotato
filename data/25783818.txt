@@ -1,0 +1,1 @@
+Item(by='koeng', descendants=None, kids=[25784015], score=None, time=1610663794, title=None, item_type='comment', url=None, parent=25783735, text='Awesome package! I&#x27;ve been thinking about using datasette for some genomics data for a while. The value prop of &quot;make nice visualization on top of SQLite&quot; was very clear to me. Thanks for making an awesome project')

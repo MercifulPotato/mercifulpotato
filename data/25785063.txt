@@ -1,0 +1,1 @@
+Item(by='paxys', descendants=None, kids=None, score=None, time=1610669575, title=None, item_type='comment', url=None, parent=25784609, text='You are correct. And &quot;contributes back&quot; would mean having to open source all of AWS, so they aren&#x27;t going to update Elasticsearch beyond v7.10. They&#x27;ll likely hard fork it and continue to develop it themselves.')

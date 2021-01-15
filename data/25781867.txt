@@ -1,1 +1,1 @@
-Item(by='whatshisface', descendants=None, kids=None, score=None, time=1610655331, title=None, item_type='comment', url=None, parent=25781846, text='I don&#x27;t get what you&#x27;re saying, every phenotype is something &quot;that the body controls.&quot;')
+Item(by='whatshisface', descendants=None, kids=[25784346], score=None, time=1610655331, title=None, item_type='comment', url=None, parent=25781846, text='I don&#x27;t get what you&#x27;re saying, every phenotype is something &quot;that the body controls.&quot;')

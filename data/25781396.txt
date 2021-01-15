@@ -1,1 +1,1 @@
-Item(by='nenolod', descendants=None, kids=None, score=None, time=1610653537, title=None, item_type='comment', url=None, parent=25781293, text='We have started to extend musl with optimized routines like glibc does.  But really, the performance difference is usually minimal.')
+Item(by='nenolod', descendants=None, kids=[25783059], score=None, time=1610653537, title=None, item_type='comment', url=None, parent=25781293, text='We have started to extend musl with optimized routines like glibc does.  But really, the performance difference is usually minimal.')

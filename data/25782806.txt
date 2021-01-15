@@ -1,1 +1,1 @@
-Item(by='pythonist', descendants=None, kids=None, score=None, time=1610659516, title=None, item_type='comment', url=None, parent=25781924, text='Of course, I am affiliated.')
+Item(by='pythonist', descendants=None, kids=None, score=None, time=1610659516, title=None, item_type='comment', url=None, parent=25781924, text='Of course, I am affiliated, but also using it for Alpine Docker image notifications.')

@@ -1,0 +1,1 @@
+Item(by='tosh', descendants=0, kids=None, score=5, time=1610658824, title='Clojure program calling a Rust library, as one executable using GraalVM', item_type='story', url='https://github.com/borkdude/clojure-rust-graalvm', parent=None, text=None)

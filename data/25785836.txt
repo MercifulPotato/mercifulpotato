@@ -1,0 +1,1 @@
+Item(by='devmunchies', descendants=None, kids=[25786831], score=None, time=1610674866, title=None, item_type='comment', url=None, parent=25785191, text='I wrote a user script that compares each entry to a blacklist and removes the post from the page. Just by blacklisting the top 15-20 news sites I&#x27;ve been happier.')

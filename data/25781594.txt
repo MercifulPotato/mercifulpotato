@@ -1,1 +1,1 @@
-Item(by='richardwhiuk', descendants=None, kids=None, score=None, time=1610654179, title=None, item_type='comment', url=None, parent=25781233, text='I think the alternatives in swift are `func` and `extension` (not sure on the last one - by Swift is a bit rusty).')
+Item(by='richardwhiuk', descendants=None, kids=[25784123], score=None, time=1610654179, title=None, item_type='comment', url=None, parent=25781233, text='I think the alternatives in swift are `func` and `extension` (not sure on the last one - by Swift is a bit rusty).')

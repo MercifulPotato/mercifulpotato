@@ -1,0 +1,1 @@
+Item(by='m463', descendants=None, kids=[25785663], score=None, time=1610671066, title=None, item_type='comment', url=None, parent=25779339, text='<p><pre><code>   printf -v j  &lt;-- what is this magic that sets the variable $j ?</code></pre>')

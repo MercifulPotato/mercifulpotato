@@ -1,0 +1,1 @@
+Item(by='rckrd', descendants=None, kids=None, score=None, time=1610673119, title=None, item_type='comment', url=None, parent=25777580, text='Minikube uses a 9p FS for sharing files between host and VM. Fairly easy to implement, and runs completely in user space')

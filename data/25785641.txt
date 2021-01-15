@@ -1,0 +1,1 @@
+Item(by='zie', descendants=None, kids=None, score=None, time=1610673291, title=None, item_type='comment', url=None, parent=25783268, text='Git&#x27;s syncing system is custom and unique also.<p>But yes I agree.<p>You can just copy&#x2F;overwrite the SQLITE DB file, and do a bulk replace.  Not the same as 2-way sync that Fossil will give you, obviously.')

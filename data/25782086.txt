@@ -1,1 +1,1 @@
-Item(by='samizdis', descendants=0, kids=None, score=1, time=1610656404, title='The complex new landscape of going public', item_type='story', url='https://www.axios.com/the-complex-new-landscape-of-going-public-d05b7f8b-b138-4160-9efc-4f4be2abc3ae.html', parent=None, text=None)
+Item(by='samizdis', descendants=1, kids=[25782183], score=2, time=1610656404, title='The complex new landscape of going public', item_type='story', url='https://www.axios.com/the-complex-new-landscape-of-going-public-d05b7f8b-b138-4160-9efc-4f4be2abc3ae.html', parent=None, text=None)

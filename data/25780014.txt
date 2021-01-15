@@ -1,1 +1,1 @@
-Item(by='rijoja', descendants=None, kids=None, score=None, time=1610648537, title=None, item_type='comment', url=None, parent=25777021, text='hm, a bit annoying really. Wonder if a KVM + android x86 virtual machine would suffice. Will try it out when I have time...')
+Item(by='rijoja', descendants=None, kids=[25783790], score=None, time=1610648537, title=None, item_type='comment', url=None, parent=25777021, text='hm, a bit annoying really. Wonder if a KVM + android x86 virtual machine would suffice. Will try it out when I have time...')

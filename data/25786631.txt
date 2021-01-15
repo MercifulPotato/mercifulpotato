@@ -1,0 +1,1 @@
+Item(by='lostmsu', descendants=None, kids=None, score=None, time=1610681098, title=None, item_type='comment', url=None, parent=25783617, text='TL;DR; libc qsort is bad because comparison is not inlined. C++ one is fine. They beat it with optimized radix sort.')

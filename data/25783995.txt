@@ -1,0 +1,1 @@
+Item(by='riyakhanna1983', descendants=None, kids=[25784038], score=None, time=1610664546, title=None, item_type='comment', url=None, parent=25783152, text='Been working on a new hypervisor that can directly run isolated containers (not VMs) to enable secure micro-services without virtualization overhead. Email me if interested in testing or contributing.')

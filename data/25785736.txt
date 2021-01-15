@@ -1,0 +1,1 @@
+Item(by='lspears', descendants=None, kids=None, score=None, time=1610674123, title=None, item_type='comment', url=None, parent=25783152, text='Tensorflow model for Chess Board evaluation using binary board state as input and Stockfish eval and training data.')

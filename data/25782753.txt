@@ -1,1 +1,1 @@
-Item(by='CSDude', descendants=None, kids=None, score=None, time=1610659242, title=None, item_type='comment', url=None, parent=25777652, text='AWS ES has major problems, have been a pain us for years.  Pretty sure they cannot be competitive with a hard fork')
+Item(by='CSDude', descendants=None, kids=[25783742], score=None, time=1610659242, title=None, item_type='comment', url=None, parent=25777652, text='AWS ES has major problems, have been a pain us for years.  Pretty sure they cannot be competitive with a hard fork')

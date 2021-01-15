@@ -1,0 +1,1 @@
+Item(by='ncmncm', descendants=None, kids=None, score=None, time=1610683308, title=None, item_type='comment', url=None, parent=25786512, text='MIPS has no SMP memory model.<p>One could be cribbed from POWER or ARM, or even x86, but it is a paste-up.')

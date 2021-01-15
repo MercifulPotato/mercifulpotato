@@ -1,0 +1,1 @@
+Item(by='confiq', descendants=None, kids=[25784236], score=None, time=1610661399, title=None, item_type='comment', url=None, parent=25782727, text='I assume if you run ES in your own datacenter or you use SaaS, you will be fine!<p>I guess they target AWS but not AWS users...')
