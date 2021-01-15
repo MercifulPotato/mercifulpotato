@@ -1,0 +1,1 @@
+Item(by='slezyr', descendants=None, kids=[25791927], score=None, time=1610719593, title=None, item_type='comment', url=None, parent=25786976, text='Nix doesn&#x27;t have win32&#x2F;64 packages or I&#x27;m missing something?<p>Now you can use Conan + CMake to build a project with OpenSSL and Boost deps on Mac, Win, Linux. And it seems that Nix is very far from doing this.')

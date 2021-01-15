@@ -1,1 +1,1 @@
-Item(by='halbritt', descendants=None, kids=None, score=None, time=1610691114, title=None, item_type='comment', url=None, parent=25786179, text='Well, what, then?<p>SOLR?')
+Item(by='halbritt', descendants=None, kids=[25792793], score=None, time=1610691114, title=None, item_type='comment', url=None, parent=25786179, text='Well, what, then?<p>SOLR?')

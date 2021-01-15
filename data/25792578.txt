@@ -1,0 +1,1 @@
+Item(by='BugsJustFindMe', descendants=None, kids=[25792622], score=None, time=1610727929, title=None, item_type='comment', url=None, parent=25792485, text='Those &quot;i&quot; links are only less bad if you&#x27;re not on mobile.\nImgur detects mobile browsers and redirects away from &quot;i&quot; links back to spam-heavy ones so they can push their app.')

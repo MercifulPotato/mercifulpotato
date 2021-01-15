@@ -1,0 +1,1 @@
+Item(by='tekstar', descendants=None, kids=[25793269, 25793240], score=None, time=1610730713, title=None, item_type='comment', url=None, parent=25792873, text='If it&#x27;s audio rate how is it different than a squarewave?<p>Edit: looked closer at the post, the DC offset lasts for over 100ms per cycle.. yeah that&#x27;s a problem')

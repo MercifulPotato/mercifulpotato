@@ -1,0 +1,1 @@
+Item(by='drwu', descendants=None, kids=None, score=None, time=1610732069, title=None, item_type='comment', url=None, parent=25792803, text='About better linux support: \nVDPAU does not have browser hardware accelerated video decoding yet. It seems both AMD and Intel based on VA have this feature already.<p>However, I had to choose NVIDIA only because of CUDA.')

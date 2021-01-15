@@ -1,1 +1,1 @@
-Item(by='hgarg', descendants=0, kids=None, score=1, time=1610719212, title='GPT3: Examples, Resources and Ideas', item_type='story', url='https://gumroad.com/l/gpt-3-guide', parent=None, text=None)
+Item(by='hgarg', descendants=1, kids=[25791503], score=1, time=1610719212, title='GPT3: Examples, Resources and Ideas', item_type='story', url='https://gumroad.com/l/gpt-3-guide', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='hundchenkatze', descendants=None, kids=None, score=None, time=1610740329, title=None, item_type='comment', url=None, parent=25794928, text='Yes if it&#x27;s compiled as a standalone script or script bundle and then run using osascript.<p>You can also compile osa scripts into .app bundles, since these are new, standalone apps they need to have a valid signature.')

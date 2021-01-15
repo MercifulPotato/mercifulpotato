@@ -1,0 +1,1 @@
+Item(by='gus_massa', descendants=None, kids=None, score=None, time=1610724741, title=None, item_type='comment', url=None, parent=25791142, text='And if you right click on the link to the file, it downloads the html page that shows the file, using the name of the file.<p>So when you open the file locally, you get a corrupt file message because you downloaded the wrong thing.')

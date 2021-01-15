@@ -1,1 +1,1 @@
-Item(by='jerodsanto', descendants=0, kids=None, score=1, time=1610720643, title='An Effective Pentesting Methodology', item_type='story', url='https://github.com/carlospolop/hacktricks/blob/master/pentesting-methodology.md', parent=None, text=None)
+Item(by='jerodsanto', descendants=0, kids=None, score=2, time=1610720643, title='An Effective Pentesting Methodology', item_type='story', url='https://github.com/carlospolop/hacktricks/blob/master/pentesting-methodology.md', parent=None, text=None)

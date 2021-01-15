@@ -1,0 +1,1 @@
+Item(by='thiht', descendants=None, kids=None, score=None, time=1610739683, title=None, item_type='comment', url=None, parent=25783867, text='Yes. The actual coverage number is not meaningful, but knowing for sure that a function or a line of code is not covered at all is invaluable.<p>I use SonarQube&#x2F;SonarCloud for the reports.')

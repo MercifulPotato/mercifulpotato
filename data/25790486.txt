@@ -1,1 +1,1 @@
-Item(by='nicoburns', descendants=None, kids=None, score=None, time=1610715961, title=None, item_type='comment', url=None, parent=25789396, text='Are many creatives using laptops? Most creative people I use are using desktops with big screens or iPad pros with an Apple pencil.')
+Item(by='nicoburns', descendants=None, kids=[25792427], score=None, time=1610715961, title=None, item_type='comment', url=None, parent=25789396, text='Are many creatives using laptops? Most creative people I use are using desktops with big screens or iPad pros with an Apple pencil.')

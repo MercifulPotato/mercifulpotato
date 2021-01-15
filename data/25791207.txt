@@ -1,1 +1,1 @@
-Item(by='chanar', descendants=0, kids=None, score=1, time=1610720416, title='Show HN: Free in-browser tool to query CSV, xls and JSON with SQL – simplql', item_type='story', url='https://simplql.com', parent=None, text=None)
+Item(by='chanar', descendants=6, kids=[25791300, 25793767, 25791534], score=6, time=1610720416, title='Show HN: Simplql - Query csv, xls and json files with SQL', item_type='story', url='https://simplql.com', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='user-the-name', descendants=None, kids=None, score=None, time=1610699431, title=None, item_type='comment', url=None, parent=25786012, text='You can run any software you want on macOS.<p>You can&#x27;t publish any software you want on the App Store.')
+Item(by='user-the-name', descendants=None, kids=[25795492], score=None, time=1610699431, title=None, item_type='comment', url=None, parent=25786012, text='You can run any software you want on macOS.<p>You can&#x27;t publish any software you want on the App Store.')

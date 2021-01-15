@@ -1,1 +1,1 @@
-Item(by='bartlomieju', descendants=0, kids=None, score=5, time=1610717356, title='Deno 2020 year in review', item_type='story', url='https://deno.land/posts/deno-in-2020', parent=None, text=None)
+Item(by='bartlomieju', descendants=1, kids=[25791431], score=7, time=1610717356, title='Deno 2020 year in review', item_type='story', url='https://deno.land/posts/deno-in-2020', parent=None, text=None)

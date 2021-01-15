@@ -1,0 +1,1 @@
+Item(by='ziml77', descendants=None, kids=None, score=None, time=1610741894, title=None, item_type='comment', url=None, parent=25795186, text='A built-in function to convert a table to a string would be great. It&#x27;s not hard to write one myself but tables are so core to the language and printing them is handy for debugging and exploration.')

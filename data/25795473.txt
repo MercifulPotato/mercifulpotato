@@ -1,0 +1,1 @@
+Item(by='mrkurt', descendants=None, kids=None, score=None, time=1610740448, title=None, item_type='comment', url=None, parent=25795330, text='It&#x27;s still 100x easier to setup a relocated MongoDB cluster with auto failover than it is with Postgres or MySQL. It&#x27;s an underrated power.')

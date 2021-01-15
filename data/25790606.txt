@@ -1,1 +1,1 @@
-Item(by='frockington1', descendants=None, kids=None, score=None, time=1610716802, title=None, item_type='comment', url=None, parent=25787403, text='This is a great example of why not to watch the news. You are fuming over something you cannot control')
+Item(by='frockington1', descendants=None, kids=[25793811], score=None, time=1610716802, title=None, item_type='comment', url=None, parent=25787403, text='This is a great example of why not to watch the news. You are fuming over something you cannot control')

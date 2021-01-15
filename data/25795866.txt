@@ -1,0 +1,1 @@
+Item(by='DominoTree', descendants=None, kids=[25795982], score=None, time=1610742163, title=None, item_type='comment', url=None, parent=25795663, text='I&#x27;ve personally found Fluentd to be flaky at scale or under heavy load, but it does talk to damn near everything and is pretty simple to stand up')

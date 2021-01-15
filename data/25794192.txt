@@ -1,0 +1,1 @@
+Item(by='malkia', descendants=None, kids=[25794220, 25795039], score=None, time=1610735119, title=None, item_type='comment', url=None, parent=25792422, text='Since you&#x27;ve looked into .NET 5.0 - is it possible now to create a single .exe, and not having to carry extra .dlls (I&#x27;m still stuck to .NET Framework 4.7.2 for one reason or another).')

@@ -1,1 +1,1 @@
-Item(by='hehehaha', descendants=None, kids=None, score=None, time=1610720238, title=None, item_type='comment', url=None, parent=25790323, text='Think AMD was too slow to capitalize on Intel’s mistakes and arrived a year too late. I expect them to lose momentum from here on out.')
+Item(by='hehehaha', descendants=None, kids=[25792148], score=None, time=1610720238, title=None, item_type='comment', url=None, parent=25790323, text='Think AMD was too slow to capitalize on Intel’s mistakes and arrived a year too late. I expect them to lose momentum from here on out.')

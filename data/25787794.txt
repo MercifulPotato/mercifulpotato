@@ -1,1 +1,1 @@
-Item(by='spiderfarmer', descendants=None, kids=None, score=None, time=1610693506, title=None, item_type='comment', url=None, parent=25783184, text='That means he didn&#x27;t read it. Doesn&#x27;t want to pop his bubble of choice.')
+Item(by='spiderfarmer', descendants=None, kids=[25795956], score=None, time=1610693506, title=None, item_type='comment', url=None, parent=25783184, text='That means he didn&#x27;t read it. Doesn&#x27;t want to pop his bubble of choice.')

@@ -1,0 +1,1 @@
+Item(by='simonh', descendants=None, kids=None, score=None, time=1610724519, title=None, item_type='comment', url=None, parent=25790341, text='No you have to also delete any backups. I suppose you&#x27;d have to keep all data with such expiry dates in a separate database from other data, and backup the data to different media based on expiry date.')

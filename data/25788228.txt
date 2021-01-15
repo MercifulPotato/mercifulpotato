@@ -1,1 +1,1 @@
-Item(by='jeppesen-io', descendants=None, kids=None, score=None, time=1610698052, title=None, item_type='comment', url=None, parent=25786696, text='Big fan of NixOS - It&#x27;s a hard start but rewarding')
+Item(by='jeppesen-io', descendants=None, kids=[25796326], score=None, time=1610698052, title=None, item_type='comment', url=None, parent=25786696, text='Big fan of NixOS - It&#x27;s a hard start but rewarding')

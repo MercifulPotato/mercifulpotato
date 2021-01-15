@@ -1,0 +1,1 @@
+Item(by='CameronNemo', descendants=None, kids=None, score=None, time=1610738181, title=None, item_type='comment', url=None, parent=25791779, text='I am pretty sure it is not comparable to the RPI zero. The SoC this is based on is Rockchip rk3326. Dual core A35 @ 1GHz each, g31 (bifrost) GPU. RPI zero uses the older arm11 cores.')

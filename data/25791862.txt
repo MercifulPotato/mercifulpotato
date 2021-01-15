@@ -1,1 +1,1 @@
-Item(by='SXX', descendants=None, kids=None, score=None, time=1610723754, title=None, item_type='comment', url=None, parent=25791264, text='Apple M1 has 4 hours on battery life when playing games. Is it much better during heavy C++ compilation or Java builds?')
+Item(by='SXX', descendants=None, kids=[25792213], score=None, time=1610723754, title=None, item_type='comment', url=None, parent=25791264, text='Apple M1 has 4 hours on battery life when playing games. Is it much better during heavy C++ compilation or Java builds?<p>PS: 4 hours on Air M1')

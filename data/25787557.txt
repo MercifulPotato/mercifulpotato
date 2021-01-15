@@ -1,1 +1,1 @@
-Item(by='bananabreakfast', descendants=None, kids=None, score=None, time=1610690618, title=None, item_type='comment', url=None, parent=25786544, text='Small nitpick, but the macOS kernel is actually called XNU which is a hybrid of Mach and FreeBSD.')
+Item(by='bananabreakfast', descendants=None, kids=[25793375], score=None, time=1610690618, title=None, item_type='comment', url=None, parent=25786544, text='Small nitpick, but the macOS kernel is actually called XNU which is a hybrid of Mach and FreeBSD.')

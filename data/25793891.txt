@@ -1,0 +1,1 @@
+Item(by='DavidWoof', descendants=None, kids=None, score=None, time=1610733763, title=None, item_type='comment', url=None, parent=25793743, text='Nobody should be writing one-off command line parsing code.   If you don&#x27;t want something fairly heavy like Spectre, then just pull in a lighweight library like CommandLineParser.')

@@ -1,0 +1,1 @@
+Item(by='benibela', descendants=None, kids=None, score=None, time=1610731514, title=None, item_type='comment', url=None, parent=25786255, text='XPath has such a thing:<p><pre><code>     (4, 5, 6, 7) ! (. + 7)</code></pre>')
