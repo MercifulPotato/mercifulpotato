@@ -1,1 +1,1 @@
-Item(by='bribri', descendants=0, kids=None, score=1, time=1610680485, title='The Greatest Books of All Time', item_type='story', url='https://thegreatestbooks.org/', parent=None, text=None)
+Item(by='bribri', descendants=23, kids=[25787458, 25787266, 25788256, 25787331, 25787771, 25787409, 25787791, 25787361, 25787156], score=40, time=1610680485, title='The Greatest Books of All Time', item_type='story', url='https://thegreatestbooks.org/', parent=None, text=None)

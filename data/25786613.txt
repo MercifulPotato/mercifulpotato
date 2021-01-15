@@ -1,1 +1,1 @@
-Item(by='jack_pp', descendants=None, kids=None, score=None, time=1610681008, title=None, item_type='comment', url=None, parent=25786455, text='Steam has a lot of games that work well on linux. I play dota and have no issues. Hackmud works well too but I didn&#x27;t get into it much.')
+Item(by='jack_pp', descendants=None, kids=[25787274], score=None, time=1610681008, title=None, item_type='comment', url=None, parent=25786455, text='Steam has a lot of games that work well on linux. I play dota and have no issues. Hackmud works well too but I didn&#x27;t get into it much.')

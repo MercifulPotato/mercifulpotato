@@ -1,1 +1,1 @@
-Item(by='sebmellen', descendants=None, kids=None, score=None, time=1610681096, title=None, item_type='comment', url=None, parent=25782543, text='For that matter, what about the Pirate Party?')
+Item(by='sebmellen', descendants=None, kids=[25786821], score=None, time=1610681096, title=None, item_type='comment', url=None, parent=25782543, text='For that matter, what about the Pirate Party?')

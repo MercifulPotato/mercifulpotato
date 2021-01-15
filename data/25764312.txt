@@ -1,1 +1,1 @@
-Item(by='alisonkisk', descendants=None, kids=None, score=None, time=1610555718, title=None, item_type='comment', url=None, parent=25761126, text='Microsoft declared war on free software first, pursued that war for many years, and never made amends.')
+Item(by='alisonkisk', descendants=None, kids=[25787256], score=None, time=1610555718, title=None, item_type='comment', url=None, parent=25761126, text='Microsoft declared war on free software first, pursued that war for many years, and never made amends.')

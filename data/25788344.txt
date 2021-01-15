@@ -1,0 +1,1 @@
+Item(by='0x0', descendants=None, kids=None, score=None, time=1610699130, title=None, item_type='comment', url=None, parent=25788254, text='They&#x27;re talking about the same bug. The article even embeds the tweet starting the twitter thread.<p>The stuff about icons is just using a filetype to trigger the bug quickly by forcing windows to look up the path embedded in the icon.')

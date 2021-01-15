@@ -1,1 +1,1 @@
-Item(by='paxys', descendants=None, kids=None, score=None, time=1610675910, title=None, item_type='comment', url=None, parent=25783521, text='Except that little thing called freedom of speech gets in the way.')
+Item(by='paxys', descendants=None, kids=[25786832], score=None, time=1610675910, title=None, item_type='comment', url=None, parent=25783521, text='Except that little thing called freedom of speech gets in the way.')

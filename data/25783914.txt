@@ -1,1 +1,1 @@
-Item(by='bambax', descendants=None, kids=None, score=None, time=1610664216, title=None, item_type='comment', url=None, parent=25783884, text='Not yet, no but I will! ;-)')
+Item(by='bambax', descendants=None, kids=[25786789], score=None, time=1610664216, title=None, item_type='comment', url=None, parent=25783884, text='Not yet, no but I will! ;-)')

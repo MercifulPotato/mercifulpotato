@@ -1,1 +1,1 @@
-Item(by='jrumbut', descendants=None, kids=None, score=None, time=1610648378, title=None, item_type='comment', url=None, parent=25777240, text='The IE 7 compatibility code broke the site in modern browsers, or did you really get a visitor on a Windows 98 machine?')
+Item(by='jrumbut', descendants=None, kids=[25788709], score=None, time=1610648378, title=None, item_type='comment', url=None, parent=25777240, text='The IE 7 compatibility code broke the site in modern browsers, or did you really get a visitor on a Windows 98 machine?')

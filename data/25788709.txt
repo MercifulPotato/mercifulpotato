@@ -1,0 +1,1 @@
+Item(by='martin_a', descendants=None, kids=None, score=None, time=1610702516, title=None, item_type='comment', url=None, parent=25779962, text='It was a bug in an old version of superfish.js which relied on a deprecated jQuery function to detect the browser. $.browser broke in the new(er&#x2F;est) version of jQuery which is integrated in that site.')

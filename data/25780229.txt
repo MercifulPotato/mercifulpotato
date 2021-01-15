@@ -1,1 +1,1 @@
-Item(by='alfongj', descendants=None, kids=None, score=None, time=1610649342, title=None, item_type='comment', url=None, parent=25776450, text='I love my Fitbit hardware but loathe their apps. After 5 years or so, they still suck at data synchronization.<p>I hope Google fixes this')
+Item(by='alfongj', descendants=None, kids=[25786841], score=None, time=1610649342, title=None, item_type='comment', url=None, parent=25776450, text='I love my Fitbit hardware but loathe their apps. After 5 years or so, they still suck at data synchronization.<p>I hope Google fixes this')

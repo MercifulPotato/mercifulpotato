@@ -1,1 +1,1 @@
-Item(by='jaytaylor', descendants=0, kids=None, score=3, time=1610679648, title='Oberon OS Walkthrough', item_type='story', url='http://ignorethecode.net/blog/2009/04/22/oberon/', parent=None, text=None)
+Item(by='jaytaylor', descendants=38, kids=[25788755, 25788469, 25787035, 25787404, 25788574, 25787074, 25787030, 25786766, 25787224, 25787239, 25788077, 25787217, 25786931, 25787191, 25787065, 25787429], score=115, time=1610679648, title='Oberon OS Walkthrough (2009)', item_type='story', url='http://ignorethecode.net/blog/2009/04/22/oberon/', parent=None, text=None)

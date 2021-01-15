@@ -1,1 +1,1 @@
-Item(by='cush', descendants=None, kids=None, score=None, time=1610675396, title=None, item_type='comment', url=None, parent=25785351, text='A 5 year old Pebble time steel is still better than anything Fitbit has made')
+Item(by='cush', descendants=None, kids=[25787341], score=None, time=1610675396, title=None, item_type='comment', url=None, parent=25785351, text='A 5 year old Pebble time steel is still better than anything Fitbit has made')

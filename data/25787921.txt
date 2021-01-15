@@ -1,0 +1,1 @@
+Item(by='nuker', descendants=None, kids=[25788416], score=None, time=1610694641, title=None, item_type='comment', url=None, parent=25784210, text='&gt; If I&#x27;m spending $100k&#x2F;mo on my logging stack, and it&#x27;s falling over frequently<p>I do the same and AWS ES works fine. I did try Elastic, performance was bad. They run it in containers internally!')

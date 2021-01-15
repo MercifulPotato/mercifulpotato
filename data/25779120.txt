@@ -1,1 +1,1 @@
-Item(by='ibobev', descendants=4, kids=[25782026], score=17, time=1610644841, title='CMake and the Future of C++ Package Management', item_type='story', url='http://ibob.github.io/blog/2020/01/13/cmake-package-management/', parent=None, text=None)
+Item(by='ibobev', descendants=11, kids=[25786976, 25782026, 25786595], score=17, time=1610644841, title='CMake and the Future of C++ Package Management', item_type='story', url='http://ibob.github.io/blog/2020/01/13/cmake-package-management/', parent=None, text=None)

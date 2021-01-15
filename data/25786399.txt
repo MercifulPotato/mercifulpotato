@@ -1,1 +1,1 @@
-Item(by='brittpart_', descendants=0, kids=None, score=1, time=1610679162, title='Ask HN: Open-Source OCR Recommendations?', item_type='story', url=None, parent=None, text='I&#x27;m looking for open source OCR, Tesseract?')
+Item(by='brittpart_', descendants=1, kids=[25786633], score=2, time=1610679162, title='Ask HN: Open-Source OCR Recommendations?', item_type='story', url=None, parent=None, text='I&#x27;m looking for open source OCR, Tesseract?')

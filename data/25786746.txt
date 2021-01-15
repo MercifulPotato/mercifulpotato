@@ -1,1 +1,1 @@
-Item(by='jcun4128', descendants=None, kids=None, score=None, time=1610682198, title=None, item_type='comment', url=None, parent=25783819, text='Paperclips')
+Item(by='jcun4128', descendants=None, kids=[25786876], score=None, time=1610682198, title=None, item_type='comment', url=None, parent=25783819, text='Paperclips')

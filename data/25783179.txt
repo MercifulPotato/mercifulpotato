@@ -1,1 +1,1 @@
-Item(by='MayeulC', descendants=None, kids=None, score=None, time=1610661150, title=None, item_type='comment', url=None, parent=25762715, text='&gt; GPLv3<p>I&#x27;m curious: Why not AGPL, since this is intended as a web application?')
+Item(by='MayeulC', descendants=None, kids=[25788522], score=None, time=1610661150, title=None, item_type='comment', url=None, parent=25762715, text='&gt; GPLv3<p>I&#x27;m curious: Why not AGPL, since this is intended as a web application?')

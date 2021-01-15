@@ -1,1 +1,1 @@
-Item(by='tjalfi', descendants=1, kids=[25786631], score=48, time=1610663111, title='Beating Up on Qsort (2019)', item_type='story', url='https://travisdowns.github.io/blog/2019/05/22/sorting.html', parent=None, text=None)
+Item(by='tjalfi', descendants=10, kids=[25787950, 25787852, 25787357, 25788441, 25787862, 25786631], score=71, time=1610663111, title='Beating Up on Qsort (2019)', item_type='story', url='https://travisdowns.github.io/blog/2019/05/22/sorting.html', parent=None, text=None)

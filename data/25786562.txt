@@ -1,0 +1,1 @@
+Item(by='millstone', descendants=None, kids=[25787418], score=None, time=1610680433, title=None, item_type='comment', url=None, parent=25786052, text='CMake quietly lifts heavy things behind the curtains. Cargo uses Rust, which uses LLVM, which builds with CMake.')

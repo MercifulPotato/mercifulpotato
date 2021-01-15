@@ -1,0 +1,1 @@
+Item(by='musicale', descendants=None, kids=None, score=None, time=1610697139, title=None, item_type='comment', url=None, parent=25786236, text='The macOS kernel is Xnu or Darwin, not Linux. Try this on macOS vs. Linux:<p><pre><code>    uname -a\n</code></pre>\nmacOS system call numbers and interfaces are derived from (Free)BSD.')

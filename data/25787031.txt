@@ -1,0 +1,1 @@
+Item(by='pabs3', descendants=None, kids=[25787055], score=None, time=1610685145, title=None, item_type='comment', url=None, parent=25786410, text='386 distro and i386 multiarch are pretty much one and the same for Debian, we don&#x27;t have any &quot;cut-down&quot; ports without a kernel, bootloaders etc.')

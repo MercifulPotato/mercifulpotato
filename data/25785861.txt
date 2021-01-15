@@ -1,1 +1,1 @@
-Item(by='viraptor', descendants=0, kids=None, score=1, time=1610675069, title='Nihonjinron', item_type='story', url='https://en.wikipedia.org/wiki/Nihonjinron', parent=None, text=None)
+Item(by='viraptor', descendants=1, kids=[25786578], score=1, time=1610675069, title='Nihonjinron', item_type='story', url='https://en.wikipedia.org/wiki/Nihonjinron', parent=None, text=None)

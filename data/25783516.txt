@@ -1,1 +1,1 @@
-Item(by='shireboy', descendants=None, kids=None, score=None, time=1610662663, title=None, item_type='comment', url=None, parent=25782861, text='My wife made bean brownies once.  They tasted like beans, not brownies.')
+Item(by='shireboy', descendants=None, kids=[25787362], score=None, time=1610662663, title=None, item_type='comment', url=None, parent=25782861, text='My wife made bean brownies once.  They tasted like beans, not brownies.')

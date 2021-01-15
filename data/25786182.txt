@@ -1,1 +1,1 @@
-Item(by='hkhn', descendants=0, kids=[25786471], score=6, time=1610677453, title="William Blake's Four-Fold Imagination (2020)", item_type='story', url='https://aeon.co/essays/what-we-can-learn-from-william-blakes-visionary-imagination', parent=None, text=None)
+Item(by='hkhn', descendants=1, kids=[25786681, 25786471], score=20, time=1610677453, title="William Blake's Four-Fold Imagination (2020)", item_type='story', url='https://aeon.co/essays/what-we-can-learn-from-william-blakes-visionary-imagination', parent=None, text=None)
