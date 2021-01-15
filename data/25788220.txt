@@ -1,1 +1,1 @@
-Item(by='bsaul', descendants=None, kids=None, score=None, time=1610697950, title=None, item_type='comment', url=None, parent=25787838, text='i never understood why magsafe was ditched in the first place. Any idea people ?')
+Item(by='bsaul', descendants=None, kids=[25788707, 25788535], score=None, time=1610697950, title=None, item_type='comment', url=None, parent=25787838, text='i never understood why magsafe was ditched in the first place. Any idea people ?')

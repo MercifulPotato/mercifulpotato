@@ -1,1 +1,1 @@
-Item(by='DarkWiiPlayer', descendants=None, kids=None, score=None, time=1610640647, title=None, item_type='comment', url=None, parent=25776861, text='That is quite literally what I said though.')
+Item(by='DarkWiiPlayer', descendants=None, kids=[25788776], score=None, time=1610640647, title=None, item_type='comment', url=None, parent=25776861, text='That is quite literally what I said though.')

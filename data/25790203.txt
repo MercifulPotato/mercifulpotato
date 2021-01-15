@@ -1,0 +1,1 @@
+Item(by='messe', descendants=None, kids=None, score=None, time=1610714127, title=None, item_type='comment', url=None, parent=25789359, text='&gt; Ex. you can compile with gcc flags -x assembler-with-cpp<p>You don&#x27;t even need the flag. Just use the .S file extension rather than .s')

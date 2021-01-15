@@ -1,1 +1,1 @@
-Item(by='curt15', descendants=None, kids=None, score=None, time=1610653382, title=None, item_type='comment', url=None, parent=25777898, text='The sandboxing is virtually nonexistent unless the distro uses apparmor.')
+Item(by='curt15', descendants=None, kids=[25788948], score=None, time=1610653382, title=None, item_type='comment', url=None, parent=25777898, text='The sandboxing is virtually nonexistent unless the distro uses apparmor.')

@@ -1,1 +1,1 @@
-Item(by='type0', descendants=None, kids=None, score=None, time=1610699253, title=None, item_type='comment', url=None, parent=25786923, text='&gt; Helps me with my socially conscious investing so I don’t have to go look them up individually.<p>Why? Do you otherwise have time for that?')
+Item(by='type0', descendants=None, kids=[25788662], score=None, time=1610699253, title=None, item_type='comment', url=None, parent=25786923, text='&gt; Helps me with my socially conscious investing so I don’t have to go look them up individually.<p>Why? Do you otherwise have time for that?')

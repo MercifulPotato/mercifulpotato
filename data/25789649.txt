@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=[25790818, 25789668, 25789762], score=None, time=1610710495, title=None, item_type='comment', url=None, parent=25789583, text='I know how dynamic linkers work and am not arguing against using the libc interface in general. I&#x27;m saying that this program <i>intentionally</i> doesn&#x27;t use those interfaces.')

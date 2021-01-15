@@ -1,0 +1,1 @@
+Item(by='mbreese', descendants=None, kids=[25788976], score=None, time=1610704601, title=None, item_type='comment', url=None, parent=25786646, text='<i>&gt;I also made a script for provisioning a Ubuntu VM</i><p>FYI - for an Intel Mac at least, the Ubuntu script needed a little manual tweaking, but the script was more than enough to get a VM working. Thanks!')

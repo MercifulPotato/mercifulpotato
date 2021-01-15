@@ -1,1 +1,1 @@
-Item(by='cbhl', descendants=None, kids=None, score=None, time=1610703008, title=None, item_type='comment', url=None, parent=25787896, text='Asahi is for running Linux on M1 bare metal, no? Also super early stage, IIRC.')
+Item(by='cbhl', descendants=None, kids=[25790305], score=None, time=1610703008, title=None, item_type='comment', url=None, parent=25787896, text='Asahi is for running Linux on M1 bare metal, no? Also super early stage, IIRC.')

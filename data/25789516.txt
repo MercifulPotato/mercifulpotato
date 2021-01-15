@@ -1,0 +1,1 @@
+Item(by='stallman_is_ok', descendants=None, kids=None, score=None, time=1610709398, title=None, item_type='comment', url=None, parent=25788171, text='I believe you are correct. I could not see this cause filesystem corruption. From looking around in ntfs.sys, it just seem to set a &#x27;this is corrupt&#x27; flags on that code path.')

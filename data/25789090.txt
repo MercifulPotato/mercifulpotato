@@ -1,0 +1,1 @@
+Item(by='airocker', descendants=None, kids=[25789448], score=None, time=1610705833, title=None, item_type='comment', url=None, parent=25788981, text='well we are on gcp but we can run on minikube. In my experience, on-prem k8s is not hard to run even in ha mode. You could do a lot with node problem detector, datadog and an ha k8s master')

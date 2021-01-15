@@ -1,1 +1,1 @@
-Item(by='KitDuncan', descendants=None, kids=None, score=None, time=1610662202, title=None, item_type='comment', url=None, parent=25776920, text='Kinda. You can set up a matrix server and signal bridge. That&#x27;s what I am doing with all chat applications.')
+Item(by='KitDuncan', descendants=None, kids=[25790389], score=None, time=1610662202, title=None, item_type='comment', url=None, parent=25776920, text='Kinda. You can set up a matrix server and signal bridge. That&#x27;s what I am doing with all chat applications.')

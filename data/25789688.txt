@@ -1,0 +1,1 @@
+Item(by='toomanybeersies', descendants=None, kids=None, score=None, time=1610710770, title=None, item_type='comment', url=None, parent=25789591, text='Interestingly enough these are both solved problems when using iTerm on macOS.<p>Ctrl+C sends SIGINT, while CMD+C copies text, and running commands when a newline is pasted can be disabled.')

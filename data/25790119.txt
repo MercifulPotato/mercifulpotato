@@ -1,0 +1,1 @@
+Item(by='beckerdo', descendants=None, kids=None, score=None, time=1610713531, title=None, item_type='comment', url=None, parent=25783508, text='TLDR: &quot;the new functionality allows users to disable echo cancellation and post-processing, and get rid of compression, and increases the audio codec quality from 22kHz to 48kHz, 96Kbps mono&#x2F;192Kbps stereo&quot;')

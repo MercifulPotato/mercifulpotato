@@ -1,1 +1,1 @@
-Item(by='Xylakant', descendants=None, kids=None, score=None, time=1610668530, title=None, item_type='comment', url=None, parent=25784350, text='Opendistro is primarily a set of plugins for the stock APL ES distribution, not a fork of elasticsearch proper.')
+Item(by='Xylakant', descendants=None, kids=[25788987], score=None, time=1610668530, title=None, item_type='comment', url=None, parent=25784350, text='Opendistro is primarily a set of plugins for the stock APL ES distribution, not a fork of elasticsearch proper.')

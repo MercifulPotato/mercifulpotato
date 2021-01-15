@@ -1,0 +1,1 @@
+Item(by='sudhirj', descendants=None, kids=[25790826, 25790429], score=None, time=1610714867, title=None, item_type='comment', url=None, parent=25790213, text='So this receives the full HTML page and does a near-zero-damage “morphing” as opposed to Hotwire which either does full page dumb replacement or asks you to define which sections to replace? Does that sound right?')

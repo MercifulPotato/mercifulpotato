@@ -1,1 +1,1 @@
-Item(by='mekster', descendants=None, kids=None, score=None, time=1610647078, title=None, item_type='comment', url=None, parent=25773444, text='What&#x27;s ironic about that?')
+Item(by='mekster', descendants=None, kids=[25789082], score=None, time=1610647078, title=None, item_type='comment', url=None, parent=25773444, text='What&#x27;s ironic about that?')

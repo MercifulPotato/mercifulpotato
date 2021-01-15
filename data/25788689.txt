@@ -1,1 +1,1 @@
-Item(by='reeestandard', descendants=None, kids=[25788712], score=None, time=1610702371, title=None, item_type='comment', url=None, parent=25788531, text='Anyone who spends significant time in vim has already remapped ESC to something else anyway, be it caps-lock or a key combo.')
+Item(by='reeestandard', descendants=None, kids=[25788712, 25788887], score=None, time=1610702371, title=None, item_type='comment', url=None, parent=25788531, text='Anyone who spends significant time in vim has already remapped ESC to something else anyway, be it caps-lock or a key combo.')

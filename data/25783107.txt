@@ -1,1 +1,1 @@
-Item(by='Vermeulen', descendants=None, kids=None, score=None, time=1610660865, title=None, item_type='comment', url=None, parent=25777482, text='It is true I&#x27;d rather my data be with Facebook than a unprofitable startup, which was made clear, so pretty pointless copy and paste')
+Item(by='Vermeulen', descendants=None, kids=[25789325], score=None, time=1610660865, title=None, item_type='comment', url=None, parent=25777482, text='It is true I&#x27;d rather my data be with Facebook than a unprofitable startup, which was made clear, so pretty pointless copy and paste')

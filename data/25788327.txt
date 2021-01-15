@@ -1,1 +1,1 @@
-Item(by='TekMol', descendants=0, kids=None, score=1, time=1610698965, title='Ask HN: What is a good terminal based email client in 2021?', item_type='story', url=None, parent=None, text=None)
+Item(by='TekMol', descendants=3, kids=[25788539, 25789352], score=3, time=1610698965, title='Ask HN: What is a good terminal based email client in 2021?', item_type='story', url=None, parent=None, text=None)

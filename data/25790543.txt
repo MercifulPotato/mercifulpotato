@@ -1,0 +1,1 @@
+Item(by='robertlagrant', descendants=None, kids=[25791395], score=None, time=1610716349, title=None, item_type='comment', url=None, parent=25790366, text='That&#x27;s not oauth, that&#x27;s just the granularity the auth provider has decided to expose in its permissions system, and the granularity Dropbox have opted to request.')

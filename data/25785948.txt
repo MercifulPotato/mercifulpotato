@@ -1,1 +1,1 @@
-Item(by='Threeve303', descendants=None, kids=None, score=None, time=1610675669, title=None, item_type='comment', url=None, parent=25785346, text='The best way I&#x27;ve heard this described is... Imagine the best painting you can come up with or have ever seen. \nNow go paint it.')
+Item(by='Threeve303', descendants=None, kids=[25789490], score=None, time=1610675669, title=None, item_type='comment', url=None, parent=25785346, text='The best way I&#x27;ve heard this described is... Imagine the best painting you can come up with or have ever seen. \nNow go paint it.')

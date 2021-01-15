@@ -1,1 +1,1 @@
-Item(by='allending', descendants=1, kids=[25777062], score=6, time=1610587362, title='C Right-Left Rule', item_type='story', url='http://cseweb.ucsd.edu/~ricko/rt_lt.rule.html', parent=None, text=None)
+Item(by='allending', descendants=2, kids=[25789872, 25777062], score=6, time=1610587362, title='C Right-Left Rule', item_type='story', url='http://cseweb.ucsd.edu/~ricko/rt_lt.rule.html', parent=None, text=None)

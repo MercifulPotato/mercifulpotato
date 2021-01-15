@@ -1,0 +1,1 @@
+Item(by='maattdd', descendants=None, kids=None, score=None, time=1610705025, title=None, item_type='comment', url=None, parent=25783152, text='A Slack bot to subscribe to keywords and alert you when there are matching comments on HN and Reddit tech.<p>It works but need (a lot) of polishing: www.newsbutler.io')
