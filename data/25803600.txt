@@ -1,0 +1,1 @@
+Item(by='rantwasp', descendants=None, kids=None, score=None, time=1610817377, title=None, item_type='comment', url=None, parent=25803029, text='it depends. depending on the dhcp implementation on the server side you may have the same problem (ie while you get a new lease it may expire at the same time). unlikely but I’ve seen some stuff when it comes to dhcp')

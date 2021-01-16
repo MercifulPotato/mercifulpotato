@@ -1,0 +1,1 @@
+Item(by='davidro', descendants=None, kids=[25803016], score=None, time=1610812020, title=None, item_type='comment', url=None, parent=25802714, text='Change your DNS servers.. I use openDNS, but there are lots of other choices. If the Pi isn’t in use set it up as a Pi-hole (DNS server &#x2F; ad blocker), so you’re not use your isp provided router for DNS.')

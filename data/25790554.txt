@@ -1,1 +1,1 @@
-Item(by='bryanrasmussen', descendants=1, kids=[25802000], score=4, time=1610716418, title='Predicting visible flicker in temporally changing images (2020) [pdf]', item_type='story', url='https://www.cl.cam.ac.uk/~rkm38/pdfs/denes2020flicker_model.pdf', parent=None, text=None)
+Item(by='bryanrasmussen', descendants=2, kids=[25802000], score=8, time=1610716418, title='Predicting visible flicker in temporally changing images (2020) [pdf]', item_type='story', url='https://www.cl.cam.ac.uk/~rkm38/pdfs/denes2020flicker_model.pdf', parent=None, text=None)

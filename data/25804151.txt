@@ -1,0 +1,1 @@
+Item(by='pmiller2', descendants=None, kids=[25805416], score=None, time=1610821533, title=None, item_type='comment', url=None, parent=25804129, text='One easy way to show that more generally is that if f and g are differentiable, f(x) dominates g(x) iff f&#x27;(x) dominates g&#x27;(x), by L&#x27;Hopital&#x27;s rule.   Details left as an exercise for the reader.')

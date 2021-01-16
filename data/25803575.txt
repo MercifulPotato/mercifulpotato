@@ -1,0 +1,1 @@
+Item(by='gomox', descendants=None, kids=None, score=None, time=1610817220, title=None, item_type='comment', url=None, parent=25803397, text='Not really, we own the entire Cloudfront subdomain, and Google is wise enough to not ban cloudfront.net entirely (now that would be an interesting day on the internet!).<p>Having a CNAME in front wouldn&#x27;t have made any difference.')

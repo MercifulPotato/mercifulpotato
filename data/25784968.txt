@@ -1,1 +1,1 @@
-Item(by='whatever1', descendants=None, kids=None, score=None, time=1610669100, title=None, item_type='comment', url=None, parent=25784663, text='And unfortunately this can impact their career opportunities as well.')
+Item(by='whatever1', descendants=None, kids=[25803618], score=None, time=1610669100, title=None, item_type='comment', url=None, parent=25784663, text='And unfortunately this can impact their career opportunities as well.')

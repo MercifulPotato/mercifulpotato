@@ -1,0 +1,1 @@
+Item(by='edoceo', descendants=None, kids=None, score=None, time=1610824791, title=None, item_type='comment', url=None, parent=25804231, text='I make a mobile app and we do this. When the app wakes up it tries to GET a file from &#x2F;.well-known and if that works, proceed.  If it fails we have a notice with &quot;will retry at T&quot;. Timing is random between 10 and 50 seconds')

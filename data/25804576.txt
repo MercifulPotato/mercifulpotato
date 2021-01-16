@@ -1,0 +1,1 @@
+Item(by='knotty66', descendants=None, kids=[25804941], score=None, time=1610824439, title=None, item_type='comment', url=None, parent=25804218, text='You can run intel&#x2F;amd64 images too by passing &#x27;--platform linux&#x2F;amd64&#x27;.<p>I span up Hasura last week and it worked fine - there will be a speed impact but I couldn&#x27;t notice it for that use case.')

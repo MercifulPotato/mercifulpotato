@@ -1,0 +1,1 @@
+Item(by='breckenedge', descendants=None, kids=None, score=None, time=1610817388, title=None, item_type='comment', url=None, parent=25803546, text='I had a similar problem with my Asus router. Traced it back to it being scanned for UPnP every day at the same time. Something about the scan caused the router to crash and reboot. Disabled UPnP and the problem disappeared.')

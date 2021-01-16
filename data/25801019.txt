@@ -1,1 +1,1 @@
-Item(by='MrXOR', descendants=0, kids=None, score=1, time=1610786702, title="The Most Backdoor-Looking Bug I’ve Ever Seen: Apple's goto fail bug (2014)", item_type='story', url='https://dwheeler.com/essays/apple-goto-fail.html', parent=None, text=None)
+Item(by='MrXOR', descendants=1, kids=[25805175], score=10, time=1610786702, title="The Most Backdoor-Looking Bug I’ve Ever Seen: Apple's goto fail bug (2014)", item_type='story', url='https://dwheeler.com/essays/apple-goto-fail.html', parent=None, text=None)

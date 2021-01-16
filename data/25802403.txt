@@ -1,1 +1,1 @@
-Item(by='williamdclt', descendants=None, kids=None, score=None, time=1610807770, title=None, item_type='comment', url=None, parent=25801257, text='Genuine question: in what sort of setup do you have a single build for your frontend and backend?')
+Item(by='williamdclt', descendants=None, kids=[25803821], score=None, time=1610807770, title=None, item_type='comment', url=None, parent=25801257, text='Genuine question: in what sort of setup do you have a single build for your frontend and backend?')

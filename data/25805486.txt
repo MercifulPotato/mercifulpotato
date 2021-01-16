@@ -1,0 +1,1 @@
+Item(by='bla3', descendants=None, kids=None, score=None, time=1610831033, title=None, item_type='comment', url=None, parent=25804837, text='I did quite a bit of benchmarking. I mostly compile code, which parallelizes well. For that workload, the higher core count on the 16&quot; means it&#x27;s (a bit) faster. For single-core work, the M1 wins.')

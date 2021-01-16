@@ -1,0 +1,1 @@
+Item(by='gmac', descendants=None, kids=None, score=None, time=1610828845, title=None, item_type='comment', url=None, parent=25804675, text='I can’t tell from the homepage, but perhaps it supports SHA256? Google Authenticator on Android (but not, weirdly, on iOS) pretends to be fine with SHA256 but then goes ahead and uses SHA1, and thus generates wrong codes.')

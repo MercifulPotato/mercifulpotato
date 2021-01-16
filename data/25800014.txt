@@ -1,1 +1,1 @@
-Item(by='bufferout', descendants=None, kids=None, score=None, time=1610771024, title=None, item_type='comment', url=None, parent=25799858, text='If anyone else is wondering when &quot;autumn 2019&quot; is, in an international format: it&#x27;s the fourth quarter of 2019.')
+Item(by='bufferout', descendants=None, kids=[25805518], score=None, time=1610771024, title=None, item_type='comment', url=None, parent=25799858, text='If anyone else is wondering when &quot;autumn 2019&quot; is, in an international format: it&#x27;s the fourth quarter of 2019.')

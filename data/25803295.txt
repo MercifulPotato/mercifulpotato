@@ -1,0 +1,1 @@
+Item(by='LurkersWillLurk', descendants=None, kids=[25803317, 25803335], score=None, time=1610814882, title=None, item_type='comment', url=None, parent=25803264, text='Can somebody clarify if I&#x27;m correct in believing that feature flags are client features that can be activated server-side (as opposed to an app update)?')

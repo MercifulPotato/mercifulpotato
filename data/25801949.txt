@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=2, time=1610802306, title='C++ Performance Trap #1: Constant-size std:vector', item_type='story', url='https://wolchok.org/posts/cxx-trap-1-constant-size-vector/', parent=None, text=None)
+Item(by='todsacerdoti', descendants=0, kids=None, score=3, time=1610802306, title='C++ Performance Trap #1: Constant-size std:vector', item_type='story', url='https://wolchok.org/posts/cxx-trap-1-constant-size-vector/', parent=None, text=None)

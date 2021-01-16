@@ -1,0 +1,1 @@
+Item(by='szatkus', descendants=None, kids=None, score=None, time=1610827541, title=None, item_type='comment', url=None, parent=25803484, text='The problem is that many Java projects in the wild are... well, old. Some of them haven&#x27;t migrated to Java 8 yet and even then you can stuck with a lot of code using the old API.')

@@ -1,0 +1,1 @@
+Item(by='pacaro', descendants=None, kids=None, score=None, time=1610817829, title=None, item_type='comment', url=None, parent=25802994, text='Older versions also used &quot;cannot open&quot; as the error message, leading to<p><pre><code>  $ cat &#x27;the can of toona&#x27;\n  cat: cannot open: the can of toona</code></pre>')

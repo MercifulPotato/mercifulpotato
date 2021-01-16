@@ -1,1 +1,1 @@
-Item(by='ducktective', descendants=1, kids=[25801552], score=1, time=1610795757, title='A faster file programming language detector', item_type='story', url='https://github.com/go-enry/go-enry', parent=None, text=None)
+Item(by='ducktective', descendants=1, kids=[25801552], score=5, time=1610795757, title='A faster file programming language detector', item_type='story', url='https://github.com/go-enry/go-enry', parent=None, text=None)

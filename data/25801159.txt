@@ -1,1 +1,1 @@
-Item(by='J-Kuhn', descendants=None, kids=None, score=None, time=1610789153, title=None, item_type='comment', url=None, parent=25797954, text='Just a question:<p>Do the organizers know about the security vulnerability?<p>Where do they get the vulnerabilities from?')
+Item(by='J-Kuhn', descendants=None, kids=[25804618], score=None, time=1610789153, title=None, item_type='comment', url=None, parent=25797954, text='Just a question:<p>Do the organizers know about the security vulnerability?<p>Where do they get the vulnerabilities from?')

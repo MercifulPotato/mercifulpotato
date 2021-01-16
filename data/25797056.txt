@@ -1,1 +1,1 @@
-Item(by='mcp_', descendants=10, kids=[25797903, 25798152, 25798090, 25797683], score=56, time=1610747686, title='libsignal-client – a Signal protocol implementation in Rust', item_type='story', url='https://github.com/signalapp/libsignal-client', parent=None, text=None)
+Item(by='mcp_', descendants=12, kids=[25797903, 25798152, 25798090, 25797683], score=56, time=1610747686, title='libsignal-client – a Signal protocol implementation in Rust', item_type='story', url='https://github.com/signalapp/libsignal-client', parent=None, text=None)

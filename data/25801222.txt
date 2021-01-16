@@ -1,1 +1,1 @@
-Item(by='shezi', descendants=None, kids=None, score=None, time=1610790366, title=None, item_type='comment', url=None, parent=25798789, text='It is on the official Signal GitHub organisation, so it must have __some__ amount of blessing.')
+Item(by='shezi', descendants=None, kids=[25803631], score=None, time=1610790366, title=None, item_type='comment', url=None, parent=25798789, text='It is on the official Signal GitHub organisation, so it must have __some__ amount of blessing.')

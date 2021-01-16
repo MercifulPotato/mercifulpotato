@@ -1,0 +1,1 @@
+Item(by='hnarn', descendants=None, kids=[25804705], score=None, time=1610823485, title=None, item_type='comment', url=None, parent=25803537, text='Is this what&#x27;s commonly seen as &quot;Retrying connection in:&quot; with a number of seconds increasing like 5 -&gt; 10 -&gt; 20 -&gt; 40 -&gt; 80 etc?')

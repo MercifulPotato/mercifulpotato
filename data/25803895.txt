@@ -1,0 +1,1 @@
+Item(by='cgriswald', descendants=None, kids=[25804090], score=None, time=1610819718, title=None, item_type='comment', url=None, parent=25803742, text='For Python code, I usually just ask critics if they’ve tested it (because I have). Frequently using a built-in will be faster than a custom loop even if at the surface level you’re going over the data more than once.')

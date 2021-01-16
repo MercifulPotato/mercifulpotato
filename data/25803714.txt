@@ -1,0 +1,1 @@
+Item(by='codazoda', descendants=None, kids=[25803874], score=None, time=1610818322, title=None, item_type='comment', url=None, parent=25803100, text='MariaDB was created by the same guy who created MySQL after MySQL was sold to Oracle. They have diverged now but MariaDB has great compatibility (it works out of the box with many tools). It&#x27;s just my preference right now.')

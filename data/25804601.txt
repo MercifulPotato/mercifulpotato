@@ -1,0 +1,1 @@
+Item(by='benibela', descendants=None, kids=None, score=None, time=1610824599, title=None, item_type='comment', url=None, parent=25803463, text='That is why Pascal also has raw pointers and inline assembly<p>So it is safe by default, but for those hotspots where it actually matters, you can write the most performant, unsafe code')

@@ -1,0 +1,1 @@
+Item(by='z3t4', descendants=None, kids=None, score=None, time=1610814924, title=None, item_type='comment', url=None, parent=25799260, text='SQL is very expressive compared to rolling your own map reduce. And SQL databases has a lot of optimizations. That said, accessing the data array directly is often easier and faster.')

@@ -1,0 +1,1 @@
+Item(by='williamdclt', descendants=None, kids=None, score=None, time=1610820694, title=None, item_type='comment', url=None, parent=25803251, text='I&#x27;m wondering if another way to handle that would be the server accepting the request, but not actually servicing it. Basically let it timeout so that the client doesn&#x27;t retry (at least, does not retry before timeout)')

@@ -1,0 +1,1 @@
+Item(by='windowojji', descendants=None, kids=None, score=None, time=1610825608, title=None, item_type='comment', url=None, parent=25804161, text='&gt; Lim [x -&gt; inf] O(f(x))&#x2F;O(g(x))<p>I understand both limits and I&#x27;ve taught asymptotic analysis in the past. O(f(x)) and O(g(x)) are sets. How does one divide two sets? This explanation is ill formed.')

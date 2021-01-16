@@ -1,1 +1,1 @@
-Item(by='reimbar', descendants=None, kids=None, score=None, time=1610807204, title=None, item_type='comment', url=None, parent=25801760, text='I&#x27;m curious about how you integrated spaced repetition and exercises to your personal wiki. What tools are you using?')
+Item(by='reimbar', descendants=None, kids=[25803256], score=None, time=1610807204, title=None, item_type='comment', url=None, parent=25801760, text='I&#x27;m curious about how you integrated spaced repetition and exercises to your personal wiki. What tools are you using?')

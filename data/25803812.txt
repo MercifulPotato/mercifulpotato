@@ -1,0 +1,1 @@
+Item(by='tyingq', descendants=None, kids=[25804475], score=None, time=1610819069, title=None, item_type='comment', url=None, parent=25803503, text='Has the &quot;batteries included&quot; aspect of things like exponential backoff improved?  Last I was in the details, most of the popular client libraries offered little, and you had to implement it yourself.')

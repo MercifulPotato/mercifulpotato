@@ -1,1 +1,1 @@
-Item(by='alwillis', descendants=0, kids=None, score=6, time=1610768713, title='Bitcoin Core 0.21.0 Released: What’s New', item_type='story', url='https://bitcoinmagazine.com/articles/bitcoin-core-0-21-0-released-whats-new', parent=None, text=None)
+Item(by='alwillis', descendants=0, kids=[25802389], score=8, time=1610768713, title='Bitcoin Core 0.21.0 Released: What’s New', item_type='story', url='https://bitcoinmagazine.com/articles/bitcoin-core-0-21-0-released-whats-new', parent=None, text=None)

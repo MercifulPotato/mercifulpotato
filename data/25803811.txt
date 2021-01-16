@@ -1,0 +1,1 @@
+Item(by='ohgodplsno', descendants=None, kids=None, score=None, time=1610819063, title=None, item_type='comment', url=None, parent=25803636, text='Basically, yes. Google has been awfully slow at implementing some Java 8+ features. Their current solution is D8 desugaring, which basically rewites all the APIs into JDK8 compatible code.')

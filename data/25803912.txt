@@ -1,0 +1,1 @@
+Item(by='alexandrerond', descendants=None, kids=None, score=None, time=1610819884, title=None, item_type='comment', url=None, parent=25803678, text='To keep clients from DDoSing the server. Probably they set a % of requests to resolve to localhost and work with less load. It&#x27;s a pretty good kill switch.')

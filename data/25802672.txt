@@ -1,0 +1,1 @@
+Item(by='lkurtz', descendants=None, kids=None, score=None, time=1610809997, title=None, item_type='comment', url=None, parent=25802160, text='Wow, very surprised to see no DMARC records in place for harvard.edu or their various subdomains. It may be possible that a single DNS record could have prevented this whole madness.')

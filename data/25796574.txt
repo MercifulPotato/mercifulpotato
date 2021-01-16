@@ -1,1 +1,1 @@
-Item(by='bbojan', descendants=None, kids=None, score=None, time=1610745203, title=None, item_type='comment', url=None, parent=25792875, text='What is &quot;cancer industry&quot;?')
+Item(by='bbojan', descendants=None, kids=[25802676], score=None, time=1610745203, title=None, item_type='comment', url=None, parent=25792875, text='What is &quot;cancer industry&quot;?')

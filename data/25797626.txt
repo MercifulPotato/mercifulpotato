@@ -1,1 +1,1 @@
-Item(by='CodeGlitch', descendants=None, kids=None, score=None, time=1610751216, title=None, item_type='comment', url=None, parent=25795262, text='That&#x27;s a bug bounty programme, which I agree is useful but not quite what I was talking about.')
+Item(by='CodeGlitch', descendants=None, kids=[25802509], score=None, time=1610751216, title=None, item_type='comment', url=None, parent=25795262, text='That&#x27;s a bug bounty programme, which I agree is useful but not quite what I was talking about.')
