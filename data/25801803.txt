@@ -1,0 +1,1 @@
+Item(by='kohlerm', descendants=None, kids=None, score=None, time=1610799998, title=None, item_type='comment', url=None, parent=25789295, text='IMHO the article has some good points. E.g. I would guess a lot of organizations use ancient build tools ( maven always doing a full rebuild) and try to mitigate slow build times by going to towards small Microservices.')

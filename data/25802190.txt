@@ -1,0 +1,1 @@
+Item(by='Mediterraneo10', descendants=None, kids=None, score=None, time=1610805707, title=None, item_type='comment', url=None, parent=25802037, text='The Signal server is not quite open source. Yes, there is a repo with source for a server, but it us not clear if Signal is actually using this source for their server.')

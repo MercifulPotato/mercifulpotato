@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=26, kids=[25796128, 25795208, 25795170, 25795086, 25795243, 25795196, 25798787, 25796532], score=154, time=1610737227, title='Clojure Core', item_type='story', url='http://blog.fogus.me/2021/01/15/clojure-core/', parent=None, text=None)
+Item(by='tosh', descendants=31, kids=[25795208, 25796128, 25795170, 25795086, 25795243, 25795196, 25798787, 25796532], score=160, time=1610737227, title='Clojure Core', item_type='story', url='http://blog.fogus.me/2021/01/15/clojure-core/', parent=None, text=None)

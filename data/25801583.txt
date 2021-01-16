@@ -1,0 +1,1 @@
+Item(by='ylyn', descendants=None, kids=[25801836, 25801646], score=None, time=1610796336, title=None, item_type='comment', url=None, parent=25801579, text='No, .NET generics are real and are reified at runtime, unlike Java where generics are just some compile-time typechecking.')

@@ -1,0 +1,1 @@
+Item(by='cutler', descendants=None, kids=None, score=None, time=1610802925, title=None, item_type='comment', url=None, parent=25798889, text='If the Clojure community had rallied round a single framework like Rails or Django the adoption story would be different. Instead we see fragmentation and one-man projects like Fulcro. It&#x27;s nothing to do with Lisp syntax.')

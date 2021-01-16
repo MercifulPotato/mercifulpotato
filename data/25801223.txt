@@ -1,0 +1,1 @@
+Item(by='lifty', descendants=None, kids=[25801585], score=None, time=1610790372, title=None, item_type='comment', url=None, parent=25797506, text='Small correction: gVisor does not use KVM under the hood. It intercepts and filters the applications system calls, acting as a sort of userspace hypervisor.')

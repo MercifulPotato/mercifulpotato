@@ -1,0 +1,1 @@
+Item(by='jorangreef', descendants=None, kids=None, score=None, time=1610795108, title=None, item_type='comment', url=None, parent=25801226, text='I believe the rationale against operator overloading is not a question of whether the programmer should or shouldn&#x27;t be trusted, but rather simply about optimizing for code readability.')

@@ -1,0 +1,1 @@
+Item(by='smlckz', descendants=None, kids=None, score=None, time=1610791313, title=None, item_type='comment', url=None, parent=25787716, text='The Makefile of this project starts with<p><pre><code>    .POSIX\n</code></pre>\nand then you have an ifeq .. endif block? and then after a few lines:<p><pre><code>    %.o: src&#x2F;%.c\n</code></pre>\nWhy?')

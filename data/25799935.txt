@@ -1,1 +1,1 @@
-Item(by='3np', descendants=None, kids=None, score=None, time=1610770094, title=None, item_type='comment', url=None, parent=25797619, text='Do we have different definitions of monetization? Because to me that&#x27;s exactly what charging $1 per year sounds like.')
+Item(by='3np', descendants=None, kids=[25801483], score=None, time=1610770094, title=None, item_type='comment', url=None, parent=25797619, text='Do we have different definitions of monetization? Because to me that&#x27;s exactly what charging $1 per year sounds like.')

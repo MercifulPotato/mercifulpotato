@@ -1,1 +1,1 @@
-Item(by='peterbraden', descendants=None, kids=[25777909, 25777261, 25777172], score=None, time=1610636851, title=None, item_type='comment', url=None, parent=25775329, text='Doesn&#x27;t load at all in firefox. I guess they only tested in chrome.')
+Item(by='peterbraden', descendants=None, kids=[25777172, 25777909, 25777261], score=None, time=1610636851, title=None, item_type='comment', url=None, parent=25775329, text='Doesn&#x27;t load at all in firefox. I guess they only tested in chrome.')

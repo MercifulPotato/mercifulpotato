@@ -1,0 +1,1 @@
+Item(by='JacobiX', descendants=None, kids=None, score=None, time=1610809929, title=None, item_type='comment', url=None, parent=25802217, text='To benefit from the acceleration, one should use the Apple implementation of BLAS&#x2F;LAPACK: the Accelerate framework, for the moment I think numerical python libs link against OpenBLAS ? But I&#x27;m not 100% sure.')

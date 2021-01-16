@@ -1,0 +1,1 @@
+Item(by='phiresky', descendants=None, kids=None, score=None, time=1610791088, title=None, item_type='comment', url=None, parent=25801123, text='Since Pg12, even adding a column with a default doesn&#x27;t lock the table anymore - that only happens if you later change or remove the default')

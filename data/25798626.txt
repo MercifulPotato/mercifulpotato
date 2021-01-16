@@ -1,1 +1,1 @@
-Item(by='systemvoltage', descendants=None, kids=None, score=None, time=1610757424, title=None, item_type='comment', url=None, parent=25798571, text='I&#x27;ve gone through those. It looks clean. My biggest worry is the npm package manager and all the crud it brings into the repo.')
+Item(by='systemvoltage', descendants=None, kids=[25802439], score=None, time=1610757424, title=None, item_type='comment', url=None, parent=25798571, text='I&#x27;ve gone through those. It looks clean. My biggest worry is the npm package manager and all the crud it brings into the repo.')

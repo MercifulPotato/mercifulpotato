@@ -1,0 +1,1 @@
+Item(by='mike_d', descendants=None, kids=None, score=None, time=1610790853, title=None, item_type='comment', url=None, parent=25801225, text='Autoscaling is a myth. It works great until you actually need it, and then you discover quota limits and stockouts.')

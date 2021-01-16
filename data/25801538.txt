@@ -1,0 +1,1 @@
+Item(by='lightgreen', descendants=None, kids=None, score=None, time=1610795611, title=None, item_type='comment', url=None, parent=25798578, text='Unlike Rust, Zig does not provide memory safety.<p>They have runtime checks (unlike Rust compile checks) which are at least slower, but likely still don&#x27;t guarantee memory safety (did not dig deep).')

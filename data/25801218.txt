@@ -1,0 +1,1 @@
+Item(by='bonzini', descendants=None, kids=None, score=None, time=1610790264, title=None, item_type='comment', url=None, parent=25795321, text='Virtualization.framework has its own boot loader and it can only boot Linux. With Hypervisor.framework QEMU can boot to a bog standard UEFI firmware image, which then loads either Windows or GRUB.')

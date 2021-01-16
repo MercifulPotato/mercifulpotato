@@ -1,0 +1,1 @@
+Item(by='nathias', descendants=None, kids=[25801532], score=None, time=1610794950, title=None, item_type='comment', url=None, parent=25798148, text='I hate TypeScript so much. It feels so antithetical to the web, produces so much redundant bloat to solve a problem that maybe appears for some of the apps with huge codebases, and fails horribly with its obscure error messages.')

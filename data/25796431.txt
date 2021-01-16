@@ -1,1 +1,1 @@
-Item(by='phyalow', descendants=None, kids=None, score=None, time=1610744562, title=None, item_type='comment', url=None, parent=25789628, text='Buy put options on deribit, or short USDT-BTC on FTX')
+Item(by='phyalow', descendants=None, kids=[25801860], score=None, time=1610744562, title=None, item_type='comment', url=None, parent=25789628, text='Buy put options on deribit, or short USDT-BTC on FTX')

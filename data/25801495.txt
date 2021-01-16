@@ -1,0 +1,1 @@
+Item(by='ramraj07', descendants=None, kids=[25802385], score=None, time=1610794814, title=None, item_type='comment', url=None, parent=25801136, text='I ran into this problem and instead of solving it the proper way I took the lazy route by adding a unique constraint on the column and when it threw an errror in the insert I just added one more extra letter!')

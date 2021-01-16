@@ -1,0 +1,1 @@
+Item(by='rcxdude', descendants=None, kids=None, score=None, time=1610798415, title=None, item_type='comment', url=None, parent=25798892, text='Not really. It&#x27;s still extremely easy to trip over things like iterator invalidation or using moved objects.')

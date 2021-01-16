@@ -1,0 +1,1 @@
+Item(by='sideeffffect', descendants=None, kids=None, score=None, time=1610801723, title=None, item_type='comment', url=None, parent=25801836, text='&quot;Generics&quot; in Haskell are real, but they&#x27;re not what is in the .NET lingo called reified. Just like Java does not monomorphise.<p>On the other hand, C#, F# or Rust monomorphise (have reified generics).')

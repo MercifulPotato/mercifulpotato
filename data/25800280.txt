@@ -1,1 +1,1 @@
-Item(by='sharadov', descendants=None, kids=[25800392, 25800389], score=None, time=1610774687, title=None, item_type='comment', url=None, parent=25799260, text='What in your opinion is a better way of communicating with the database other than SQL?')
+Item(by='sharadov', descendants=None, kids=[25801420, 25800389, 25800392], score=None, time=1610774687, title=None, item_type='comment', url=None, parent=25799260, text='What in your opinion is a better way of communicating with the database other than SQL?')

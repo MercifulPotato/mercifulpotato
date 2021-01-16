@@ -1,1 +1,1 @@
-Item(by='kristoff_it', descendants=None, kids=[25798473], score=None, time=1610755230, title=None, item_type='comment', url=None, parent=25797888, text='If anything, I&#x27;d argue that Rust is the &quot;Go&quot; of systems programming.')
+Item(by='kristoff_it', descendants=None, kids=[25798473, 25801234], score=None, time=1610755230, title=None, item_type='comment', url=None, parent=25797888, text='If anything, I&#x27;d argue that Rust is the &quot;Go&quot; of systems programming.')
