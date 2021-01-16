@@ -1,0 +1,1 @@
+Item(by='necovek', descendants=None, kids=[25799258], score=None, time=1610760653, title=None, item_type='comment', url=None, parent=25798767, text='So is l[len(l) - 1] == l[-1] in those contexts?<p>Potential for one-offs is always there, but I am highlighting how _most_ of the math is simplified when there is a zero between positive and negative numbers :)')

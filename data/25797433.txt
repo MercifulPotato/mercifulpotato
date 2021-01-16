@@ -1,0 +1,1 @@
+Item(by='deivid', descendants=None, kids=[25797866], score=None, time=1610750093, title=None, item_type='comment', url=None, parent=25796786, text='on debian you could just install gcc-10-aarch64-linux-gnu and have a working cross compiler?')

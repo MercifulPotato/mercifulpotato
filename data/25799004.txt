@@ -1,0 +1,1 @@
+Item(by='teddyh', descendants=None, kids=[25799387, 25799045, 25799033, 25799273, 25799037], score=None, time=1610760559, title=None, item_type='comment', url=None, parent=25797674, text='Why not (assuming that every entry has a unique ID) add a “next_id” field, and treat it like a linked list?')

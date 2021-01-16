@@ -1,0 +1,1 @@
+Item(by='Thaxll', descendants=None, kids=[25799743], score=None, time=1610767143, title=None, item_type='comment', url=None, parent=25798628, text='&quot;The existing C++ client is too much of a mess to make concurrent; people looked at it and gave up&quot;<p>99,9% of games that you describe are built in C++, it works fine. Modern engines are doing that without much troubles.')

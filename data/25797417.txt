@@ -1,0 +1,1 @@
+Item(by='purple-again', descendants=None, kids=[25797466], score=None, time=1610749989, title=None, item_type='comment', url=None, parent=25797182, text='Why use classes instead of functions. Isn’t the React ecosystem moving away from classes entirely? I remember hearing somewhere that a core maintainer of React stated we should be using function components everywhere now.')

@@ -1,0 +1,1 @@
+Item(by='mhh__', descendants=None, kids=None, score=None, time=1610757634, title=None, item_type='comment', url=None, parent=25798541, text='Well I hoped dynamic memory was obvious given the D GC is written entirely in D and it has to get memory from somewhere')

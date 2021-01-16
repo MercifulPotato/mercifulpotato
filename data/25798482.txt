@@ -1,0 +1,1 @@
+Item(by='starik36', descendants=None, kids=None, score=None, time=1610756237, title=None, item_type='comment', url=None, parent=25797290, text='You can do the following to shorten that depending on context:<p><pre><code>  var thing = new Thing(); \n  Thing thing = new();</code></pre>')

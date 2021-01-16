@@ -1,0 +1,1 @@
+Item(by='d3ckard', descendants=None, kids=[25797735, 25798677], score=None, time=1610751223, title=None, item_type='comment', url=None, parent=25797453, text='That’s more dependent on language syntax IMO. When you have traditional C-style loops, maybe. When you use ranges, iterators etc. it doesn’t make any difference.')

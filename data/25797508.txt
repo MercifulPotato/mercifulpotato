@@ -1,0 +1,1 @@
+Item(by='rstupek', descendants=None, kids=[25797529], score=None, time=1610750450, title=None, item_type='comment', url=None, parent=25797284, text='A lot of those issues relate to the fact lua is dynamic and typeless.  It can for sure be a pita when you have a simple typo in your variable and you don&#x27;t find out until you run the app and hit that code path.')

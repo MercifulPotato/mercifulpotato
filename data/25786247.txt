@@ -1,1 +1,1 @@
-Item(by='grubles', descendants=None, kids=None, score=None, time=1610677955, title=None, item_type='comment', url=None, parent=25785756, text='It&#x27;s hard to believe people are still repeating these <i>verifiable</i> lies.')
+Item(by='grubles', descendants=None, kids=[25797271], score=None, time=1610677955, title=None, item_type='comment', url=None, parent=25785756, text='It&#x27;s hard to believe people are still repeating these <i>verifiable</i> lies.')

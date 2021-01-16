@@ -1,0 +1,1 @@
+Item(by='anderspitman', descendants=None, kids=[25798988], score=None, time=1610752455, title=None, item_type='comment', url=None, parent=25797433, text='Is it easy to get all the correct aarch64 headers for OpenGL and X11? That&#x27;s where I ran into issues on Arch and started looking for alternatives. Most articles seem to think cross-compiling isn&#x27;t worth the effort.')

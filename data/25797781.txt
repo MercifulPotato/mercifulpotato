@@ -1,0 +1,1 @@
+Item(by='keyle', descendants=None, kids=None, score=None, time=1610752003, title=None, item_type='comment', url=None, parent=25797744, text='Fair enough, my PHP in the browser line is a knee jerk comment which is extending its welcome.<p>My point mostly was: separate view from logic. Intertwining them only makes maintainability and cognitive juggling worse.')

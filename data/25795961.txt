@@ -1,1 +1,1 @@
-Item(by='dgellow', descendants=None, kids=None, score=None, time=1610742618, title=None, item_type='comment', url=None, parent=25793084, text='My personal prediction (shasum256):\nfd559af88adde4082122c16e6b77356a90d2a367600f43acbdd6615c3dc4cc28')
+Item(by='dgellow', descendants=None, kids=[25796666], score=None, time=1610742618, title=None, item_type='comment', url=None, parent=25793084, text='My personal prediction (shasum256):\nfd559af88adde4082122c16e6b77356a90d2a367600f43acbdd6615c3dc4cc28')

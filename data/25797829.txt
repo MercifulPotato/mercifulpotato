@@ -1,0 +1,1 @@
+Item(by='layoutIfNeeded', descendants=None, kids=None, score=None, time=1610752276, title=None, item_type='comment', url=None, parent=25797351, text='On the other hand a sigma-delta ADC that samples at 2.8 Mhz with only one bit resolution is pretty good (for audio purposes).<p>With sigma-delta modulation you can trade sample rate for bit depth and vice versa.')

@@ -1,0 +1,1 @@
+Item(by='jameshilliard', descendants=None, kids=None, score=None, time=1610762580, title=None, item_type='comment', url=None, parent=25782591, text='&gt; they have a massive amount of closed source stuff running behind their ES service<p>GPL licenses are not SSPL compatible, so it would likely still be impossible to comply even if their ES service was entirely open source.')

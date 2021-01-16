@@ -1,1 +1,1 @@
-Item(by='Relys', descendants=None, kids=None, score=None, time=1610731439, title=None, item_type='comment', url=None, parent=25788229, text='Get this working with Moonlight or Steam Link.')
+Item(by='Relys', descendants=None, kids=[25797908], score=None, time=1610731439, title=None, item_type='comment', url=None, parent=25788229, text='Get this working with Moonlight or Steam Link.')

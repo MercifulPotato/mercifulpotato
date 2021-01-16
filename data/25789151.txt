@@ -1,1 +1,1 @@
-Item(by='nucatus', descendants=0, kids=None, score=4, time=1610706453, title='The “good” assembly book of 1997 which carries a lot of wisdom', item_type='story', url='https://github.com/jagregory/abrash-black-book', parent=None, text=None)
+Item(by='nucatus', descendants=20, kids=[25798079, 25796589, 25798426, 25798750, 25799227, 25799266, 25798774, 25796711, 25798465, 25796562, 25797964], score=97, time=1610706453, title='Graphics Programming Black Book (1997)', item_type='story', url='https://github.com/jagregory/abrash-black-book', parent=None, text=None)

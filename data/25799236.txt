@@ -1,0 +1,1 @@
+Item(by='jradd', descendants=None, kids=None, score=None, time=1610762776, title=None, item_type='comment', url=None, parent=25798114, text='no, the fsync call remains the same as it does in ext3 and most filesystems.<p>However in ext4 there is no need to call sync unless you disable batch processing of synchronous writes.')

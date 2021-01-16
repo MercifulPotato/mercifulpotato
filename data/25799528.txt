@@ -1,0 +1,1 @@
+Item(by='Const-me', descendants=None, kids=None, score=None, time=1610765303, title=None, item_type='comment', url=None, parent=25799425, text='&gt; it has an unsafe keyword for using raw pointers<p>It has, but you don‘t need it to implement data structures. Standard library developers don’t need it either, they all implemented in safe code.')

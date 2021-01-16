@@ -1,0 +1,1 @@
+Item(by='danudey', descendants=None, kids=[25799100], score=None, time=1610757405, title=None, item_type='comment', url=None, parent=25798307, text='Are you certain? The quote actually says:<p>&gt; With ext4, as a side effect of the filesystem structure, *all pending data and metadata for all file descriptors* will be flushed instead.<p>Is the article mistaken?')

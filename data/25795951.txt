@@ -1,0 +1,1 @@
+Item(by='gher-shyu3i', descendants=None, kids=[25796918], score=None, time=1610742560, title=None, item_type='comment', url=None, parent=25793324, text='Note how the JVM JIT kicks in from the 2nd iteration onward. This was tested on a 2019 Macbook pro 2.6GHz i7. I took the fastest Java and C# submissions.')

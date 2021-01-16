@@ -1,0 +1,1 @@
+Item(by='codeflo', descendants=None, kids=[25798591], score=None, time=1610756594, title=None, item_type='comment', url=None, parent=25797962, text='I get your point. But even in non-mathy business software, data structure access is so much more convenient in languages with an overloadable index operator:<p>C#: foo[index] = bar[index];<p>Java: foo.put(index, bar.get(index));')

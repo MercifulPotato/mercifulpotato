@@ -1,0 +1,1 @@
+Item(by='edflsafoiewq', descendants=None, kids=[25799168], score=None, time=1610760967, title=None, item_type='comment', url=None, parent=25798962, text='I suppose you&#x27;re comparing against std::format, but the question is why overloading an operator (cout &lt;&lt; &quot;foo&quot;) would have been necessary vs a regular member function (cout.put(&quot;foo&quot;)).')

@@ -1,0 +1,1 @@
+Item(by='nitrogen', descendants=None, kids=[25797707], score=None, time=1610751270, title=None, item_type='comment', url=None, parent=25797553, text='Even if you downloaded all ads in advance and ran all the logic client side, basing ads on chat info would inevitably leak information if the ad was ever clicked.')

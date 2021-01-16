@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=0, kids=None, score=2, time=1610701994, title='Book Review: The Games That Weren’t by Frank Gasking', item_type='story', url='https://retroarcadia.blog/2021/01/13/book-review-the-games-that-werent-by-frank-gasking/', parent=None, text=None)
+Item(by='rbanffy', descendants=2, kids=[25796090, 25796449], score=23, time=1610701994, title='The Games That Weren’t', item_type='story', url='https://retroarcadia.blog/2021/01/13/book-review-the-games-that-werent-by-frank-gasking/', parent=None, text=None)

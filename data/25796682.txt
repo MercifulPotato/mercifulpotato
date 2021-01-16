@@ -1,0 +1,1 @@
+Item(by='dsego', descendants=None, kids=None, score=None, time=1610745700, title=None, item_type='comment', url=None, parent=25796097, text='Since there is no setState&#x2F;useState, how does it know when to render? Does it render after every client event, like mithril?')

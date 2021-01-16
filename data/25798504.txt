@@ -1,0 +1,1 @@
+Item(by='swiley', descendants=None, kids=None, score=None, time=1610756442, title=None, item_type='comment', url=None, parent=25792891, text='Syncthing isn&#x27;t rolling your own, it&#x27;s just an app you run.<p>Rolling your own would be shoving git in crontab or something crazy like that.')

@@ -1,0 +1,1 @@
+Item(by='intrepidhero', descendants=None, kids=None, score=None, time=1610752378, title=None, item_type='comment', url=None, parent=25797276, text='I&#x27;ve written a fair bit of Lua in last 5 years and never once cared how arrays are indexed. `for _, value in ipairs(mytable)` works quite well. Looping by index hasn&#x27;t been necessary.')

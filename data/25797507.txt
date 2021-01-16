@@ -1,0 +1,1 @@
+Item(by='older', descendants=None, kids=None, score=None, time=1610750444, title=None, item_type='comment', url=None, parent=25797290, text='In C# 9 you can write it like this:<p><pre><code>    public Thing _thing = new();</code></pre>')

@@ -1,1 +1,1 @@
-Item(by='hermanradtke', descendants=None, kids=None, score=None, time=1610744855, title=None, item_type='comment', url=None, parent=25796310, text='&gt; No language has _great_ error messages.<p>Elm and Rust have great error messages.')
+Item(by='hermanradtke', descendants=None, kids=[25797235], score=None, time=1610744855, title=None, item_type='comment', url=None, parent=25796310, text='&gt; No language has _great_ error messages.<p>Elm and Rust have great error messages.')

@@ -1,0 +1,1 @@
+Item(by='hobofan', descendants=None, kids=[25798645], score=None, time=1610754265, title=None, item_type='comment', url=None, parent=25798120, text='So for those use cases where you will be using a library with custom types anyway, choose one that doesn&#x27;t overload the operators for those types? This very much seems like a problem on the library- and not the language-level.')

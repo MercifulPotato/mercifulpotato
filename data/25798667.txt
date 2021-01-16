@@ -1,0 +1,1 @@
+Item(by='Eugr', descendants=None, kids=None, score=None, time=1610757692, title=None, item_type='comment', url=None, parent=25795731, text='Looks like there a typo in the exploit() function?<p>They have this variable declaration in the beginning:\nstatic const short port_base = 0x434;<p>However they use &quot;port&quot; variable when making calls:\n__outbyte(port+3, 0);')

@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1610693827, title=None, item_type='comment', url=None, parent=25786468, text='Yeah, that is what happens when one turns down the opportunity to own Java.')
+Item(by='pjmlp', descendants=None, kids=[25796814], score=None, time=1610693827, title=None, item_type='comment', url=None, parent=25786468, text='Yeah, that is what happens when one turns down the opportunity to own Java.')

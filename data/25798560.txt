@@ -1,0 +1,1 @@
+Item(by='codeflo', descendants=None, kids=None, score=None, time=1610756899, title=None, item_type='comment', url=None, parent=25798193, text='Ah, the memories: I once cut the compile time of a multi-million line C++ codebase by over 20%, just by removing one single-line use of Boost Spirit and replacing it with atoi.')

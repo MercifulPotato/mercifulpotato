@@ -1,1 +1,1 @@
-Item(by='raarts', descendants=None, kids=None, score=None, time=1610740222, title=None, item_type='comment', url=None, parent=25793508, text='Yes, they exist and I  use it. Works quite well.')
+Item(by='raarts', descendants=None, kids=[25798384], score=None, time=1610740222, title=None, item_type='comment', url=None, parent=25793508, text='Yes, they exist and I  use it. Works quite well.')

@@ -1,1 +1,1 @@
-Item(by='jsiepkes', descendants=0, kids=None, score=2, time=1610730882, title='Penpot – open-source Mock up and design tool', item_type='story', url='https://penpot.app/', parent=None, text=None)
+Item(by='jsiepkes', descendants=1, kids=[25799508], score=7, time=1610730882, title='Penpot – open-source Mock up and design tool', item_type='story', url='https://penpot.app/', parent=None, text=None)

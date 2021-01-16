@@ -1,0 +1,1 @@
+Item(by='igouy', descendants=None, kids=[25799389, 25799427], score=None, time=1610746832, title=None, item_type='comment', url=None, parent=25795913, text='The benchmarks game shows 2.5 elapsed secs for Java and 2.4 for C#<p>You seem to be showing 2.6s for Java but 9.9s for C# ?<p>Did you use ServerGarbageCollection for C# ?')
