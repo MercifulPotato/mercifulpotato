@@ -1,0 +1,1 @@
+Item(by='beders', descendants=None, kids=None, score=None, time=1610782566, title=None, item_type='comment', url=None, parent=25798922, text='Quietly sitting in my re-frame corner and wondering how JS developers cope with framework-churn.<p>And, yes, reagent (used by re-frame) nicely combines pure component optimizations with react-style rendering.')

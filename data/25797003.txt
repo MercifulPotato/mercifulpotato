@@ -1,1 +1,1 @@
-Item(by='gowld', descendants=None, kids=None, score=None, time=1610747359, title=None, item_type='comment', url=None, parent=25796465, text='There are plenty of times where someone can wait 5 minutes for an answer.')
+Item(by='gowld', descendants=None, kids=[25800142], score=None, time=1610747359, title=None, item_type='comment', url=None, parent=25796465, text='There are plenty of times where someone can wait 5 minutes for an answer.')

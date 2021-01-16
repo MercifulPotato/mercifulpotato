@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=1, time=1610751853, title='The perils of the accidental C++ conversion constructor', item_type='story', url='https://devblogs.microsoft.com/oldnewthing/20210115-00/?p=104719', parent=None, text=None)
+Item(by='ingve', descendants=0, kids=None, score=2, time=1610751853, title='The perils of the accidental C++ conversion constructor', item_type='story', url='https://devblogs.microsoft.com/oldnewthing/20210115-00/?p=104719', parent=None, text=None)

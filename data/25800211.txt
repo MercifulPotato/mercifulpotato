@@ -1,0 +1,1 @@
+Item(by='zozbot234', descendants=None, kids=None, score=None, time=1610773659, title=None, item_type='comment', url=None, parent=25799153, text='Postgres supports table partitioning and foreign data wrappers (used for accessing remote SQL databases) which can be used to set up sharding as described in the postgres docs.')

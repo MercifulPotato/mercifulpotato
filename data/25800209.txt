@@ -1,0 +1,1 @@
+Item(by='thayne', descendants=None, kids=None, score=None, time=1610773592, title=None, item_type='comment', url=None, parent=25799750, text='Yeah, my experience with go is there is a lot of boilerplate, and the verbosity actually makes it harder to read imo, because the core logic is cluttered with less important details.')

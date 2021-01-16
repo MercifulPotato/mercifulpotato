@@ -1,1 +1,1 @@
-Item(by='zucker42', descendants=None, kids=None, score=None, time=1610764982, title=None, item_type='comment', url=None, parent=25798762, text='I&#x27;m curious if the author used incremental builds and what hardware exactly was used.')
+Item(by='zucker42', descendants=None, kids=[25800113], score=None, time=1610764982, title=None, item_type='comment', url=None, parent=25798762, text='I&#x27;m curious if the author used incremental builds and what hardware exactly was used.')

@@ -1,1 +1,1 @@
-Item(by='zabzonk', descendants=None, kids=[25797979, 25798045, 25798129, 25798271], score=None, time=1610752691, title=None, item_type='comment', url=None, parent=25797025, text='OK, I&#x27;ll bite. What does this statement:<p><pre><code>    var a = b + c.d;\n</code></pre>\nactually do?')
+Item(by='zabzonk', descendants=None, kids=[25798045, 25797979, 25798129, 25798271], score=None, time=1610752691, title=None, item_type='comment', url=None, parent=25797025, text='OK, I&#x27;ll bite. What does this statement:<p><pre><code>    var a = b + c.d;\n</code></pre>\nactually do?')

@@ -1,0 +1,1 @@
+Item(by='infogulch', descendants=None, kids=None, score=None, time=1610779490, title=None, item_type='comment', url=None, parent=25799472, text='Could you also use something like varbinary &#x2F; bit varying to do this same process in binary? It would avoid the waste of limiting to a particular alphabet and might make the logic even simpler.')

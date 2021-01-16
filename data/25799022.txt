@@ -1,1 +1,1 @@
-Item(by='AndyKelley', descendants=None, kids=None, score=None, time=1610760674, title=None, item_type='comment', url=None, parent=25798530, text='Thank you - I removed the incorrect claim from the article')
+Item(by='AndyKelley', descendants=None, kids=[25800944], score=None, time=1610760674, title=None, item_type='comment', url=None, parent=25798530, text='Thank you - I removed the incorrect claim from the article')

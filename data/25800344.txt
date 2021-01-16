@@ -1,0 +1,1 @@
+Item(by='eyelidlessness', descendants=None, kids=None, score=None, time=1610775464, title=None, item_type='comment', url=None, parent=25800321, text='JSX is an <i>expression</i> with structural semantics. It doesn’t have to be compiled to a data structure but at the AST level it definitely is, which is the whole point.')

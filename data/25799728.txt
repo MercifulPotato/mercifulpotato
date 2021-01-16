@@ -1,0 +1,1 @@
+Item(by='avmich', descendants=None, kids=[25800291], score=None, time=1610767309, title=None, item_type='comment', url=None, parent=25799472, text='String used for indexing can be further used for sorting not only a flat list, but whole trees of nodes. Similar technique was used before (at least in 1997) to answer queries about the order at a particular time in the past.')

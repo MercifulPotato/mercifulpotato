@@ -1,0 +1,1 @@
+Item(by='kamranjon', descendants=None, kids=[25800915], score=None, time=1610776912, title=None, item_type='comment', url=None, parent=25800392, text='Use EXPLAIN ANALYZE and save yourself some time. It&#x27;s not that difficult to figure out what the planner is doing and tweak it. I think SQL is the best we got but I&#x27;d love to hear what you think is a better alternative.')

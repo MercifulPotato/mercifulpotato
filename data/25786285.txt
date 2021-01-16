@@ -1,1 +1,1 @@
-Item(by='CardenB', descendants=None, kids=None, score=None, time=1610678263, title=None, item_type='comment', url=None, parent=25785230, text='you want to look at &#x2F;r&#x2F;onebag')
+Item(by='CardenB', descendants=None, kids=[25800303], score=None, time=1610678263, title=None, item_type='comment', url=None, parent=25785230, text='you want to look at &#x2F;r&#x2F;onebag')

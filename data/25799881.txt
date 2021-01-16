@@ -1,0 +1,1 @@
+Item(by='hda2', descendants=None, kids=[25800057, 25800051, 25800011], score=None, time=1610769286, title=None, item_type='comment', url=None, parent=25798507, text='Pardon my ignorance, but how are you using .wasm in the browser? How are getting values out of the web assembly module?')

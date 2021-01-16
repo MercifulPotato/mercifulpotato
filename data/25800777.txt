@@ -1,0 +1,1 @@
+Item(by='Leherenn', descendants=None, kids=[25800818], score=None, time=1610782559, title=None, item_type='comment', url=None, parent=25800610, text='They use those &quot;obscure __identifiers__&quot; because they are reserved by the standard and thus a conforming program will not define macros with those values and break everything.')

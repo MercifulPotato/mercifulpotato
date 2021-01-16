@@ -1,0 +1,1 @@
+Item(by='steffenix', descendants=14, kids=[25800536, 25800868, 25800697, 25800761, 25800849, 25800711, 25800712], score=22, time=1610778012, title='Why is signal servers using Java and not Erlang', item_type='story', url=None, parent=None, text='Signal has been built by whatsapp co-founder, why did they choosed to use java and not erlang like they did for whatsapp?')

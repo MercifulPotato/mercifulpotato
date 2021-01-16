@@ -1,1 +1,1 @@
-Item(by='mav3rick', descendants=None, kids=None, score=None, time=1610751150, title=None, item_type='comment', url=None, parent=25796803, text='Chrome OS regularly uprevs the kernel. And updates drivers etc with it. Most of these are open source.')
+Item(by='mav3rick', descendants=None, kids=[25800882], score=None, time=1610751150, title=None, item_type='comment', url=None, parent=25796803, text='Chrome OS regularly uprevs the kernel. And updates drivers etc with it. Most of these are open source.')

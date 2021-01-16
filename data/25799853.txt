@@ -1,0 +1,1 @@
+Item(by='nine_k', descendants=None, kids=None, score=None, time=1610768983, title=None, item_type='comment', url=None, parent=25799423, text='Something has to be said about the difference between CPU and RAM consumption  of a service written in Python or Ruby, and written in Rust or C++.<p>That ease of use has a cost.')

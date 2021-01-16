@@ -1,0 +1,1 @@
+Item(by='smolder', descendants=None, kids=None, score=None, time=1610771507, title=None, item_type='comment', url=None, parent=25799881, text='I used wasm bindgen to make rust code callable from js.\n <a href="https:&#x2F;&#x2F;rustwasm.github.io&#x2F;docs&#x2F;wasm-bindgen&#x2F;" rel="nofollow">https:&#x2F;&#x2F;rustwasm.github.io&#x2F;docs&#x2F;wasm-bindgen&#x2F;</a>')

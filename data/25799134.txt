@@ -1,1 +1,1 @@
-Item(by='schoolornot', descendants=None, kids=None, score=None, time=1610761884, title=None, item_type='comment', url=None, parent=25796820, text='Did the backup messages&#x2F;keys to iCloud thing start before or after the FBI demanded Apple unlock a device?')
+Item(by='schoolornot', descendants=None, kids=[25799941], score=None, time=1610761884, title=None, item_type='comment', url=None, parent=25796820, text='Did the backup messages&#x2F;keys to iCloud thing start before or after the FBI demanded Apple unlock a device?')

@@ -1,1 +1,1 @@
-Item(by='selfishgene', descendants=None, kids=None, score=None, time=1610765086, title=None, item_type='comment', url=None, parent=25793251, text='Is this project completely open source or is the code for some of its key components being held back?')
+Item(by='selfishgene', descendants=None, kids=[25800705], score=None, time=1610765086, title=None, item_type='comment', url=None, parent=25793251, text='Is this project completely open source or is the code for some of its key components being held back?')
