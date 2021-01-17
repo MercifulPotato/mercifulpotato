@@ -1,0 +1,1 @@
+Item(by='hal0', descendants=None, kids=None, score=None, time=1610904103, title=None, item_type='comment', url=None, parent=25812519, text='I tried this on an airgapped machine that hasn&#x27;t had any updates for a while and indeed was able to escalate.<p>I cannot reproduce this on my main machine.<p>Huh. This isn&#x27;t good.')

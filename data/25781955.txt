@@ -1,1 +1,1 @@
-Item(by='pietrovismara', descendants=None, kids=None, score=None, time=1610655745, title=None, item_type='comment', url=None, parent=25780870, text='I think they missed a comma after the initial &quot;No&quot;.')
+Item(by='pietrovismara', descendants=None, kids=[25811805], score=None, time=1610655745, title=None, item_type='comment', url=None, parent=25780870, text='I think they missed a comma after the initial &quot;No&quot;.')

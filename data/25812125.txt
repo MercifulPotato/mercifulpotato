@@ -1,0 +1,1 @@
+Item(by='jtsymonds', descendants=1, kids=[25812442], score=5, time=1610901486, title='Why Using Cassandra as a metadata database for an object store is a bad choice', item_type='story', url='https://blog.min.io/the-trouble-with-cassandra-based-object-stores/', parent=None, text=None)

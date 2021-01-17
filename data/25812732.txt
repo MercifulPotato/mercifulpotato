@@ -1,0 +1,1 @@
+Item(by='walrus01', descendants=None, kids=None, score=None, time=1610904804, title=None, item_type='comment', url=None, parent=25812686, text='It&#x27;s an sqlite database on disk, so in our case fairly easy to know exactly where the data lives, and keep it secure.')

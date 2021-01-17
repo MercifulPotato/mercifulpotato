@@ -1,0 +1,1 @@
+Item(by='bitcharmer', descendants=None, kids=[25812557], score=None, time=1610903036, title=None, item_type='comment', url=None, parent=25812301, text='I work for a huge international bank. We&#x27;ve had some of our non-production infra on GCP and it&#x27;s been a very bad experience for us; mainly reliability-wise. We&#x27;re moving away from it entirely.')

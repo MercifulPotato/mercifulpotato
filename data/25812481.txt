@@ -1,0 +1,1 @@
+Item(by='drzoltar', descendants=None, kids=None, score=None, time=1610903626, title=None, item_type='comment', url=None, parent=25811384, text='In my workflow, one reason I prefer VSCode over Sublime is for dealing with large (10mb+) files. Sublime takes upwards of a minute to open such files but VSCode is nearly instant.<p>For smaller files, Sublime is great.')

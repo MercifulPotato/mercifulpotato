@@ -1,1 +1,1 @@
-Item(by='secondcoming', descendants=None, kids=None, score=None, time=1610893384, title=None, item_type='comment', url=None, parent=25810797, text='How do you get your ideology?')
+Item(by='secondcoming', descendants=None, kids=[25811286], score=None, time=1610893384, title=None, item_type='comment', url=None, parent=25810797, text='How do you get your ideology?')

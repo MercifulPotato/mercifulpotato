@@ -1,1 +1,1 @@
-Item(by='sagichmal', descendants=None, kids=None, score=None, time=1610867719, title=None, item_type='comment', url=None, parent=25808151, text='Some people say this, but when they do, other more senior people quickly interject and say it&#x27;s a bad idea.')
+Item(by='sagichmal', descendants=None, kids=[25811554], score=None, time=1610867719, title=None, item_type='comment', url=None, parent=25808151, text='Some people say this, but when they do, other more senior people quickly interject and say it&#x27;s a bad idea.')

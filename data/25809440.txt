@@ -1,1 +1,1 @@
-Item(by='08-15', descendants=None, kids=None, score=None, time=1610876346, title=None, item_type='comment', url=None, parent=25806017, text='Now you&#x27;re making up stuff because you lost the argument about the cost of waste disposal.')
+Item(by='08-15', descendants=None, kids=[25812574], score=None, time=1610876346, title=None, item_type='comment', url=None, parent=25806017, text='Now you&#x27;re making up stuff because you lost the argument about the cost of waste disposal.')

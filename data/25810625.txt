@@ -1,1 +1,1 @@
-Item(by='alisonkisk', descendants=None, kids=None, score=None, time=1610891636, title=None, item_type='comment', url=None, parent=25807566, text='Are you saying you don&#x27;t need to read or run your code to debug it? You just mull it over and run it in your head?')
+Item(by='alisonkisk', descendants=None, kids=[25812952], score=None, time=1610891636, title=None, item_type='comment', url=None, parent=25807566, text='Are you saying you don&#x27;t need to read or run your code to debug it? You just mull it over and run it in your head?')

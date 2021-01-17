@@ -1,1 +1,1 @@
-Item(by='Geee', descendants=None, kids=None, score=None, time=1610892575, title=None, item_type='comment', url=None, parent=25809541, text='With a really small USB-C memory stick that fits completely in the hole.')
+Item(by='Geee', descendants=None, kids=[25811468], score=None, time=1610892575, title=None, item_type='comment', url=None, parent=25809541, text='With a really small USB-C memory stick that fits completely in the hole.')

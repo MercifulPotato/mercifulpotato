@@ -1,0 +1,1 @@
+Item(by='AzzieElbab', descendants=None, kids=[25811638], score=None, time=1610895932, title=None, item_type='comment', url=None, parent=25810427, text='I run neovim within vscode with neovim plugin. Relatively easy and fast to get started, takes time to reconfigure lsp and clean up shortcuts conflicts, but that is about it')

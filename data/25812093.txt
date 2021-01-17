@@ -1,0 +1,1 @@
+Item(by='gruez', descendants=None, kids=[25812463], score=None, time=1610901189, title=None, item_type='comment', url=None, parent=25811911, text='&gt;It’s been a known “problem” forever<p>It&#x27;s a known problem forever because there&#x27;s literally no solution. You can very well patch lsass.exe to add a backdoor, for instance.')

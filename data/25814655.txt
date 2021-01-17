@@ -1,0 +1,1 @@
+Item(by='raphaelj', descendants=None, kids=None, score=None, time=1610915594, title=None, item_type='comment', url=None, parent=25812263, text='The most important thing is to avoid proprietary services and uses OpenSource alternatives instead. Like, avoid AWS Aurora and use PostgreSQL instead.<p>That will make it almost trivial to move from one provider to another.')

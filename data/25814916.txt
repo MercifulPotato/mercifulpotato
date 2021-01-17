@@ -1,0 +1,1 @@
+Item(by='ehutch79', descendants=None, kids=[25815014], score=None, time=1610917306, title=None, item_type='comment', url=None, parent=25814604, text='It&#x27;s not like those widgets need a full routing system with ssr, etc. Even with vue, you can just drop that component on the page.')

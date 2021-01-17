@@ -1,0 +1,1 @@
+Item(by='kaba0', descendants=None, kids=None, score=None, time=1610898038, title=None, item_type='comment', url=None, parent=25809751, text='I think he meant that naively implementing an algorithm may not be bounded by the O notation he&#x2F;she originally wanted due to code calling other functions “hidden” from the programmer.')

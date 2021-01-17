@@ -1,0 +1,1 @@
+Item(by='forty', descendants=None, kids=None, score=None, time=1610905782, title=None, item_type='comment', url=None, parent=25812815, text='We don&#x27;t use GCP a lot, but just a note: it&#x27;s possible to login to GCP using your SSO rather than gmail addresses. I guess it would limit the risk you are worried about.')

@@ -1,1 +1,1 @@
-Item(by='FartyMcFarter', descendants=None, kids=None, score=None, time=1610893552, title=None, item_type='comment', url=None, parent=25810034, text='Do they train separate NNs for each time control?<p>If not, I wonder if that would make accuracy even higher!')
+Item(by='FartyMcFarter', descendants=None, kids=[25810964, 25813345], score=None, time=1610893552, title=None, item_type='comment', url=None, parent=25810034, text='Do they train separate NNs for each time control?<p>If not, I wonder if that would make accuracy even higher!')

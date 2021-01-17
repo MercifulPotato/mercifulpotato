@@ -1,0 +1,1 @@
+Item(by='RussianCow', descendants=None, kids=[25815104], score=None, time=1610918013, title=None, item_type='comment', url=None, parent=25814916, text='But add enough of those widgets to a page, and now you need to coordinate local state, sync it with the URL, etc, which is way easier to do when the whole page is a SPA.')

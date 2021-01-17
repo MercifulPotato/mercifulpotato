@@ -1,0 +1,1 @@
+Item(by='bpicolo', descendants=None, kids=None, score=None, time=1610896418, title=None, item_type='comment', url=None, parent=25807562, text='Thanks for the link - I&#x27;ve had trouble finding pretty much exactly this in the Go ecosystem after a few brief looks, and codegen is really the only sensible way to do openapi in go. I wouldn&#x27;t be surprised to use this soon')

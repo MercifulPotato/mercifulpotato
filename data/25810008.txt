@@ -1,1 +1,1 @@
-Item(by='gvx', descendants=None, kids=None, score=None, time=1610884349, title=None, item_type='comment', url=None, parent=25808491, text='If I understand correctly, f(n) &lt;&lt; g(n) is equivalent to f(n) = o(g(n)), not f(n) = O(g(n)).')
+Item(by='gvx', descendants=None, kids=[25811863], score=None, time=1610884349, title=None, item_type='comment', url=None, parent=25808491, text='If I understand correctly, f(n) &lt;&lt; g(n) is equivalent to f(n) = o(g(n)), not f(n) = O(g(n)).')

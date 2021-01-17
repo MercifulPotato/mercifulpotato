@@ -1,1 +1,1 @@
-Item(by='fctorial', descendants=0, kids=None, score=1, time=1610855253, title='The Problem with Gradle: Really?', item_type='story', url='https://melix.github.io/blog/2021/01/the-problem-with-gradle.html', parent=None, text=None)
+Item(by='fctorial', descendants=1, kids=[25813789], score=1, time=1610855253, title='The Problem with Gradle: Really?', item_type='story', url='https://melix.github.io/blog/2021/01/the-problem-with-gradle.html', parent=None, text=None)
