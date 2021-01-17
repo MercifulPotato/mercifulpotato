@@ -1,0 +1,1 @@
+Item(by='29athrowaway', descendants=None, kids=[25806453], score=None, time=1610838791, title=None, item_type='comment', url=None, parent=25806411, text='An actor can fail for reasons other than infrastructure issues. i.e.: unhandled exceptions.<p>In fact, unhandled exceptions are encouraged (i.e.: &quot;let it crash&quot; approach to fault tolerance).')

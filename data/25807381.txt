@@ -1,0 +1,1 @@
+Item(by='EGreg', descendants=None, kids=None, score=None, time=1610849096, title=None, item_type='comment', url=None, parent=25807295, text='Well, yes but only if all the smart contracts that are being called are on the same shard. Ideally under Ethereum 2.0 these assumptions will disappear. In fact Ethereum 2.0 should be “fast enough” for most applications.')

@@ -1,0 +1,1 @@
+Item(by='betoharres', descendants=None, kids=None, score=None, time=1610851518, title=None, item_type='comment', url=None, parent=25801782, text='Is this basically the same idea that react native works? by sending and receiving JSON into the JS thread? but instead of a thread you just use a server, right?')

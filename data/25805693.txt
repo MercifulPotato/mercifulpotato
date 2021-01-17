@@ -1,0 +1,1 @@
+Item(by='fwsgonzo', descendants=None, kids=[25808738], score=None, time=1610832700, title=None, item_type='comment', url=None, parent=25805391, text='They are, but there are some drawbacks: 32-bit instructions can cross page-boundries and 16-bit instructions makes the length of the instruction dependent on a bit-pattern instead of a fixed-width.')

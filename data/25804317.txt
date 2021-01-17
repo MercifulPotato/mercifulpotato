@@ -1,1 +1,1 @@
-Item(by='quercusa', descendants=None, kids=None, score=None, time=1610822822, title=None, item_type='comment', url=None, parent=25803978, text='I started DuoLingo recently (for Latin) and the over-the-top cheerleading there is driving me nuts.')
+Item(by='quercusa', descendants=None, kids=[25807123], score=None, time=1610822822, title=None, item_type='comment', url=None, parent=25803978, text='I started DuoLingo recently (for Latin) and the over-the-top cheerleading there is driving me nuts.')

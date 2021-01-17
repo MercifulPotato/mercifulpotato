@@ -1,0 +1,1 @@
+Item(by='jimbob45', descendants=None, kids=[25808188], score=None, time=1610832365, title=None, item_type='comment', url=None, parent=25805507, text='It can make code bloated and harder to follow.<p>TBH it would be nice if someone made C with indent scoping instead of block scoping but I don’t think that’s truly practical with the preprocessor.')

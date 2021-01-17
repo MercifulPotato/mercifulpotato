@@ -1,1 +1,1 @@
-Item(by='Triv888', descendants=None, kids=None, score=None, time=1610827286, title=None, item_type='comment', url=None, parent=25804167, text='With Comcast, if I spoof my router&#x27;s MAC address, I get a new IP instantly... otherwise it is basically static (residential service).')
+Item(by='Triv888', descendants=None, kids=[25808632], score=None, time=1610827286, title=None, item_type='comment', url=None, parent=25804167, text='With Comcast, if I spoof my router&#x27;s MAC address, I get a new IP instantly... otherwise it is basically static (residential service).')

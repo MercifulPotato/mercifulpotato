@@ -1,1 +1,1 @@
-Item(by='throw0101a', descendants=11, kids=[25805204, 25805321, 25805298, 25804969], score=78, time=1610814329, title='FreeBSD 2020 Q4 Status Report', item_type='story', url='https://www.freebsd.org/news/status/report-2020-10-2020-12.html', parent=None, text=None)
+Item(by='throw0101a', descendants=37, kids=[25809360, 25805786, 25805204, 25804969, 25807926, 25805298, 25805321, 25806892, 25805744], score=138, time=1610814329, title='FreeBSD 2020 Q4 Status Report', item_type='story', url='https://www.freebsd.org/news/status/report-2020-10-2020-12.html', parent=None, text=None)

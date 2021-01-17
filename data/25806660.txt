@@ -1,0 +1,1 @@
+Item(by='daxfohl', descendants=None, kids=[25806981], score=None, time=1610840852, title=None, item_type='comment', url=None, parent=25806631, text='Surprised Optane would help that. I would figure boot would be mostly large reads, minimal writes, which flash would do just as well or better, especially on PCIe 4.0.')

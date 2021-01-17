@@ -1,1 +1,1 @@
-Item(by='blewboarwastake', descendants=0, kids=None, score=3, time=1610787357, title="Dave's Short Course on Complex Numbers", item_type='story', url='https://www2.clarku.edu/faculty/djoyce/complex/', parent=None, text=None)
+Item(by='blewboarwastake', descendants=3, kids=[25807936], score=57, time=1610787357, title='Dave’s Short Course on Complex Numbers (2013)', item_type='story', url='https://www2.clarku.edu/faculty/djoyce/complex/', parent=None, text=None)

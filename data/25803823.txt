@@ -1,1 +1,1 @@
-Item(by='reidjs', descendants=None, kids=None, score=None, time=1610819138, title=None, item_type='comment', url=None, parent=25801480, text='What is the benefit of makefiles over bash scripts?')
+Item(by='reidjs', descendants=None, kids=[25806399, 25806283], score=None, time=1610819138, title=None, item_type='comment', url=None, parent=25801480, text='What is the benefit of makefiles over bash scripts?')

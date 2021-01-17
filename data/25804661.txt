@@ -1,1 +1,1 @@
-Item(by='adnzzzzZ', descendants=1, kids=[25804824], score=2, time=1610824978, title='Why 1-based indexing is right for Lua', item_type='story', url='https://a327ex.github.io/blog/lua-1-index', parent=None, text=None)
+Item(by='adnzzzzZ', descendants=2, kids=[25804824, 25805350], score=3, time=1610824978, title='Why 1-based indexing is right for Lua', item_type='story', url='https://a327ex.github.io/blog/lua-1-index', parent=None, text=None)

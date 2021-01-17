@@ -1,1 +1,1 @@
-Item(by='hokumguru', descendants=None, kids=None, score=None, time=1610691284, title=None, item_type='comment', url=None, parent=25779721, text='Quinn from snazzy labs got the Witcher 3 running on an m1 MacBook Air at a blazing 40fps!<p>Absolute insanity how well tooling has evolved.')
+Item(by='hokumguru', descendants=None, kids=[25806697], score=None, time=1610691284, title=None, item_type='comment', url=None, parent=25779721, text='Quinn from snazzy labs got the Witcher 3 running on an m1 MacBook Air at a blazing 40fps!<p>Absolute insanity how well tooling has evolved.')

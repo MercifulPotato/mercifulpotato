@@ -1,1 +1,1 @@
-Item(by='pault', descendants=None, kids=None, score=None, time=1610820483, title=None, item_type='comment', url=None, parent=25803149, text='Do you think the 1982 breakup of AT&amp;T would have been possible in today&#x27;s political reality?')
+Item(by='pault', descendants=None, kids=[25805752], score=None, time=1610820483, title=None, item_type='comment', url=None, parent=25803149, text='Do you think the 1982 breakup of AT&amp;T would have been possible in today&#x27;s political reality?')

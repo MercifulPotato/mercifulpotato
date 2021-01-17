@@ -1,1 +1,1 @@
-Item(by='cocothp', descendants=None, kids=None, score=None, time=1610819744, title=None, item_type='comment', url=None, parent=25790602, text='I&#x27;m having a hard time wrapping my head around how squeezing Tether or Bitcoin would work in this case. Could you please explain?')
+Item(by='cocothp', descendants=None, kids=[25806424], score=None, time=1610819744, title=None, item_type='comment', url=None, parent=25790602, text='I&#x27;m having a hard time wrapping my head around how squeezing Tether or Bitcoin would work in this case. Could you please explain?')

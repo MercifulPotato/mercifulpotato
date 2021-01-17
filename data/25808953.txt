@@ -1,0 +1,1 @@
+Item(by='Tomte', descendants=None, kids=None, score=None, time=1610868824, title=None, item_type='comment', url=None, parent=25805548, text='Most of these tools (rsbep) etc. seem to use Reed-Solomon.<p>Is that because of the time they were written in, or is that more suitable than other codes?<p>Would using e.g. LDPC codes work just as well?')

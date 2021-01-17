@@ -1,1 +1,1 @@
-Item(by='edu', descendants=1, kids=[25803743, 25803567], score=18, time=1610710972, title='Meta-design: a manifesto for end-user development (2004) [pdf]', item_type='story', url='http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.6315&rep=rep1&type=pdf', parent=None, text=None)
+Item(by='edu', descendants=1, kids=[25803743, 25803567], score=20, time=1610710972, title='Meta-design: a manifesto for end-user development (2004) [pdf]', item_type='story', url='http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.6315&rep=rep1&type=pdf', parent=None, text=None)

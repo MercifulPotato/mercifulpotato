@@ -1,0 +1,1 @@
+Item(by='1996', descendants=None, kids=[25805978], score=None, time=1610834636, title=None, item_type='comment', url=None, parent=25805548, text='Great for archiving on spinning rust (and even more so for restoring), as badblocks can happen and this embeds redundancy.<p>For long term storage, I would recommend ZIP files + PAR2 over an EXFAT partition')

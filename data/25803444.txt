@@ -1,1 +1,1 @@
-Item(by='nucatus', descendants=None, kids=None, score=None, time=1610816188, title=None, item_type='comment', url=None, parent=25801986, text='all you need to know about gradle is that there are two phases: configuration and execution. Everything else are details :)')
+Item(by='nucatus', descendants=None, kids=[25805899], score=None, time=1610816188, title=None, item_type='comment', url=None, parent=25801986, text='all you need to know about gradle is that there are two phases: configuration and execution. Everything else are details :)')

@@ -1,1 +1,1 @@
-Item(by='Hamuko', descendants=None, kids=None, score=None, time=1610826498, title=None, item_type='comment', url=None, parent=25804853, text='That&#x27;s really what scratch codes are for.')
+Item(by='Hamuko', descendants=None, kids=[25805522, 25805264], score=None, time=1610826498, title=None, item_type='comment', url=None, parent=25804853, text='That&#x27;s really what scratch codes are for.')

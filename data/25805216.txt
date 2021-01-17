@@ -1,0 +1,1 @@
+Item(by='pmeunier', descendants=None, kids=[25805573], score=None, time=1610829013, title=None, item_type='comment', url=None, parent=25804365, text='What we have to do in Pijul is even worse: in addition to all this, it must (1) be cross-platform and (2) avoid any user interaction, because Pijul is meant to be beginner-friendly.')

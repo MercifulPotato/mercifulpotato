@@ -1,1 +1,1 @@
-Item(by='jnieminen', descendants=0, kids=None, score=6, time=1610823953, title='Inside Twitter’s Decision to Cut Off Trump', item_type='story', url='https://www.nytimes.com/2021/01/16/technology/inside-twitter-decision-trump.html', parent=None, text=None)
+Item(by='jnieminen', descendants=2, kids=[25805431, 25806190], score=8, time=1610823953, title='Inside Twitter’s Decision to Cut Off Trump', item_type='story', url='https://www.nytimes.com/2021/01/16/technology/inside-twitter-decision-trump.html', parent=None, text=None)

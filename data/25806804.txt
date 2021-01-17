@@ -1,0 +1,1 @@
+Item(by='brnt', descendants=None, kids=None, score=None, time=1610842506, title=None, item_type='comment', url=None, parent=25806412, text='True. It doesnt &#x27;freeze&#x27; a filesystem. Its written to handle a tree in flux (you might move&#x2F;delete files), and all you have to do it move the par2 along. Backups would protect against deletions, par2deep against bitrot.')

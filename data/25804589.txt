@@ -1,1 +1,1 @@
-Item(by='marvel_boy', descendants=None, kids=None, score=None, time=1610824546, title=None, item_type='comment', url=None, parent=25804373, text='If this is true, we are really doomed.')
+Item(by='marvel_boy', descendants=None, kids=[25805282], score=None, time=1610824546, title=None, item_type='comment', url=None, parent=25804373, text='If this is true, we are really doomed.')

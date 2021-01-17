@@ -1,0 +1,1 @@
+Item(by='Blahah', descendants=None, kids=[25807869], score=None, time=1610851846, title=None, item_type='comment', url=None, parent=25807216, text='Nery nice, although I&#x27;m yet to encounter a situation where I was using NetworkX for anything small enough to be rendered in d3, especially interactively (assuming SVG).<p>What do people do with it that has such small graphs?')

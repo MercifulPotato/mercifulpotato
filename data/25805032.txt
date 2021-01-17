@@ -1,1 +1,1 @@
-Item(by='runawaybottle', descendants=None, kids=None, score=None, time=1610827658, title=None, item_type='comment', url=None, parent=25804283, text='WSB is convinced it’s Cathie Woods.')
+Item(by='runawaybottle', descendants=None, kids=[25805590], score=None, time=1610827658, title=None, item_type='comment', url=None, parent=25804283, text='WSB is convinced it’s Cathie Woods.')

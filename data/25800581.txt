@@ -1,1 +1,1 @@
-Item(by='Lammy', descendants=0, kids=None, score=2, time=1610779212, title='dhewm3 - DOOM3 Source Port', item_type='story', url='https://dhewm3.org/', parent=None, text=None)
+Item(by='Lammy', descendants=15, kids=[25806557, 25807907, 25807842, 25806589, 25806731, 25807969, 25807260, 25807841], score=58, time=1610779212, title='dhewm3 - DOOM3 Source Port', item_type='story', url='https://dhewm3.org/', parent=None, text=None)

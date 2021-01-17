@@ -1,0 +1,1 @@
+Item(by='solarkraft', descendants=None, kids=None, score=None, time=1610835007, title=None, item_type='comment', url=None, parent=25804862, text='Hmm, I&#x27;ve seen fully interpreted Lua, Basic, Javascript and Python facilitating micro-controller tasks decently well.<p>So what&#x27;s the issue with a small bytecode runtime besides a few X performance hit?')

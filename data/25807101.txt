@@ -1,0 +1,1 @@
+Item(by='nitrogen', descendants=None, kids=[25808647, 25807348], score=None, time=1610845342, title=None, item_type='comment', url=None, parent=25805736, text='At some point we should juat switch to editing abstract syntax trees instead of raw text.  Then formatting is irrelevant, the structure is always clear, and each developer can choose their own way to view the code.')

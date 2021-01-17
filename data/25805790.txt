@@ -1,0 +1,1 @@
+Item(by='Youden', descendants=None, kids=None, score=None, time=1610833517, title=None, item_type='comment', url=None, parent=25804853, text='I put them into Bitwarden alongside the password.<p>Yes, that means that there&#x27;s a single place where both factors are stored but if Bitwarden has two-factor authentication (it does), the two factors are preserved.')

@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1610792298, title=None, item_type='comment', url=None, parent=25799564, text='On the .NET side our JEE mess is called SharePoint and DCOM.<p>Also regarding XML, Biztalk anyone?')
+Item(by='pjmlp', descendants=None, kids=[25808075], score=None, time=1610792298, title=None, item_type='comment', url=None, parent=25799564, text='On the .NET side our JEE mess is called SharePoint and DCOM.<p>Also regarding XML, Biztalk anyone?')

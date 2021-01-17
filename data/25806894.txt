@@ -1,0 +1,1 @@
+Item(by='vallas', descendants=None, kids=None, score=None, time=1610843280, title=None, item_type='comment', url=None, parent=25805937, text='There was a post on HN yesterday about Rust not having a strong web ecosystem yet, especially for writing web API libraries and working directly with microservices.<p>I wonder if and how Deno solve that?')

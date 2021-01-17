@@ -1,0 +1,1 @@
+Item(by='jbverschoor', descendants=None, kids=[25805466], score=None, time=1610829990, title=None, item_type='comment', url=None, parent=25805303, text='IETF &#x2F; RFCs<p>I don’t understand why you need to completely (and naively) need to recreate something like SMTP.<p>This project tries to do too many things, even forms and charts. There’s no separation between layers.')

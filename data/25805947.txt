@@ -1,0 +1,1 @@
+Item(by='drewg123', descendants=None, kids=None, score=None, time=1610834672, title=None, item_type='comment', url=None, parent=25805786, text='It may be a while before it works on TrueNAS.  NFS over TLS is a new feature for FreeBSD-13, as is kernel TLS\nWe&#x27;re still debating what to default ktls to (and have settled on &quot;compiled in, but disabled via sysctl&quot;).')

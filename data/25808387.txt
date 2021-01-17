@@ -1,0 +1,1 @@
+Item(by='mr_toad', descendants=None, kids=None, score=None, time=1610860852, title=None, item_type='comment', url=None, parent=25803960, text='&gt; You have to isolate every customer on separate domains.<p>Allowing unvetted JavaScript to be served from your main domain is something of a security risk anyway.')

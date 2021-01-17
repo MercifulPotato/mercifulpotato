@@ -1,1 +1,1 @@
-Item(by='tpirx', descendants=None, kids=None, score=None, time=1610820687, title=None, item_type='comment', url=None, parent=25803010, text='Is it common for linear growth to cause these sorts of issues? Any postmortems to share from similar app failures?')
+Item(by='tpirx', descendants=None, kids=[25805689], score=None, time=1610820687, title=None, item_type='comment', url=None, parent=25803010, text='Is it common for linear growth to cause these sorts of issues? Any postmortems to share from similar app failures?')

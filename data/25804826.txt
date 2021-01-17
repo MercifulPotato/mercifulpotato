@@ -1,1 +1,1 @@
-Item(by='harporoeder', descendants=0, kids=None, score=3, time=1610826193, title='Bcachefs Under Review with All Known Blockers Resolved', item_type='story', url='https://www.phoronix.com/scan.php?page=news_item&px=Bcachefs-December-2020', parent=None, text=None)
+Item(by='harporoeder', descendants=2, kids=[25806318, 25805628], score=11, time=1610826193, title='Bcachefs Under Review with All Known Blockers Resolved', item_type='story', url='https://www.phoronix.com/scan.php?page=news_item&px=Bcachefs-December-2020', parent=None, text=None)

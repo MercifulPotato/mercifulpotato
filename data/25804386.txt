@@ -1,1 +1,1 @@
-Item(by='juniperplant', descendants=None, kids=None, score=None, time=1610823253, title=None, item_type='comment', url=None, parent=25802205, text='I wish I could say the same, but since Firefox does not support SSB&#x2F;PWAs I find myself dependent on it.')
+Item(by='juniperplant', descendants=None, kids=[25808827, 25808767], score=None, time=1610823253, title=None, item_type='comment', url=None, parent=25802205, text='I wish I could say the same, but since Firefox does not support SSB&#x2F;PWAs I find myself dependent on it.')

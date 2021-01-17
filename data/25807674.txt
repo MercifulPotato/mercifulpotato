@@ -1,0 +1,1 @@
+Item(by='yourapostasy', descendants=None, kids=[25807805], score=None, time=1610852428, title=None, item_type='comment', url=None, parent=25805548, text='I&#x27;ve read a rumor here of AWS S3 silently dropping objects when your collections get to really gargantuan sizes (billions of objects), and now I wonder if the people who ran into that are using PAR2 to compensate.')

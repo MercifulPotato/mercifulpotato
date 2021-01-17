@@ -1,1 +1,1 @@
-Item(by='Ballu', descendants=0, kids=None, score=3, time=1610782766, title='The SOC2 Starting Seven', item_type='story', url='https://latacora.micro.blog/', parent=None, text=None)
+Item(by='Ballu', descendants=7, kids=[25808922, 25808608, 25808424, 25808740, 25808737], score=38, time=1610782766, title='The SOC2 Starting Seven', item_type='story', url='https://latacora.micro.blog/', parent=None, text=None)

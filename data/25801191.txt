@@ -1,1 +1,1 @@
-Item(by='billfruit', descendants=None, kids=None, score=None, time=1610789685, title=None, item_type='comment', url=None, parent=25800938, text='Elite: Dangerous?')
+Item(by='billfruit', descendants=None, kids=[25808331], score=None, time=1610789685, title=None, item_type='comment', url=None, parent=25800938, text='Elite: Dangerous?')
