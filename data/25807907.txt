@@ -1,1 +1,1 @@
-Item(by='keyle', descendants=None, kids=None, score=None, time=1610855172, title=None, item_type='comment', url=None, parent=25800581, text='The list of mods is impressive.<p>I wonder if one needs the doom 3 data pack (owning the game) in order to play the mods that are new games.')
+Item(by='keyle', descendants=None, kids=[25809537], score=None, time=1610855172, title=None, item_type='comment', url=None, parent=25800581, text='The list of mods is impressive.<p>I wonder if one needs the doom 3 data pack (owning the game) in order to play the mods that are new games.')

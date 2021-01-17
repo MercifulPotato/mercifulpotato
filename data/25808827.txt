@@ -1,1 +1,1 @@
-Item(by='ThePowerOfFuet', descendants=None, kids=None, score=None, time=1610867374, title=None, item_type='comment', url=None, parent=25804386, text='What do you mean by &quot;Firefox does not support SSB&#x2F;PWAs&quot;?')
+Item(by='ThePowerOfFuet', descendants=None, kids=[25809590], score=None, time=1610867374, title=None, item_type='comment', url=None, parent=25804386, text='What do you mean by &quot;Firefox does not support SSB&#x2F;PWAs&quot;?')

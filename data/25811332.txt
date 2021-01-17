@@ -1,0 +1,1 @@
+Item(by='AzzieElbab', descendants=None, kids=None, score=None, time=1610896716, title=None, item_type='comment', url=None, parent=25807159, text='I have seen several such implementations. They are fairly robust although feel a bit awkward  when compared to streams. Scala Fs2 and zstreams are just too good once you figure them out. Neither provide clustering of course')

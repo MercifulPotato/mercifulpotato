@@ -1,1 +1,1 @@
-Item(by='layoutIfNeeded', descendants=None, kids=None, score=None, time=1610867237, title=None, item_type='comment', url=None, parent=25808413, text='Cool! On top of this if they would reintroduce the headphone jack on the iPhone, they would completely redeem themselves in my books.')
+Item(by='layoutIfNeeded', descendants=None, kids=[25809987], score=None, time=1610867237, title=None, item_type='comment', url=None, parent=25808413, text='Cool! On top of this if they would reintroduce the headphone jack on the iPhone, they would completely redeem themselves in my books.')

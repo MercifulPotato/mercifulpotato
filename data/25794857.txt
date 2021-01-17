@@ -1,1 +1,1 @@
-Item(by='gus_massa', descendants=1, kids=[25794897], score=1, time=1610737703, title='Rare Earth: The Summer of Larry', item_type='story', url='https://www.youtube.com/watch?v=0OjcqJolKzI', parent=None, text=None)
+Item(by='gus_massa', descendants=2, kids=[25809965, 25794897], score=6, time=1610737703, title='Rare Earth: The Summer of Larry [video]', item_type='story', url='https://www.youtube.com/watch?v=0OjcqJolKzI', parent=None, text=None)

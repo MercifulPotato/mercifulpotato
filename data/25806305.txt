@@ -1,1 +1,1 @@
-Item(by='ptx', descendants=None, kids=[25809118], score=None, time=1610837766, title=None, item_type='comment', url=None, parent=25805178, text='C# also does this, and so do Python, JavaScript and Visual Basic. Java is the odd one out by not supporting properties.')
+Item(by='ptx', descendants=None, kids=[25809118, 25810475], score=None, time=1610837766, title=None, item_type='comment', url=None, parent=25805178, text='C# also does this, and so do Python, JavaScript and Visual Basic. Java is the odd one out by not supporting properties.')

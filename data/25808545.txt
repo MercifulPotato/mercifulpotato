@@ -1,1 +1,1 @@
-Item(by='spzx', descendants=0, kids=None, score=8, time=1610863187, title='The Coronavirus Is Evolving Before Our Eyes', item_type='story', url='https://www.theatlantic.com/health/archive/2021/01/coronavirus-mutations-variants/617694/', parent=None, text=None)
+Item(by='spzx', descendants=1, kids=[25809224], score=8, time=1610863187, title='The Coronavirus Is Evolving Before Our Eyes', item_type='story', url='https://www.theatlantic.com/health/archive/2021/01/coronavirus-mutations-variants/617694/', parent=None, text=None)

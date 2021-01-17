@@ -1,1 +1,1 @@
-Item(by='darkerside', descendants=None, kids=None, score=None, time=1610844790, title=None, item_type='comment', url=None, parent=25806117, text='This is useful context. His sonatas are truly masterpieces, not to say that his other incredible works are not.')
+Item(by='darkerside', descendants=None, kids=[25809815], score=None, time=1610844790, title=None, item_type='comment', url=None, parent=25806117, text='This is useful context. His sonatas are truly masterpieces, not to say that his other incredible works are not.')

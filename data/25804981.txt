@@ -1,1 +1,1 @@
-Item(by='happynacho', descendants=None, kids=None, score=None, time=1610827280, title=None, item_type='comment', url=None, parent=25804966, text='Exactly, I see no reason to use Spotify podcasts over a dedicated app&#x2F;service I already use.')
+Item(by='happynacho', descendants=None, kids=[25809514], score=None, time=1610827280, title=None, item_type='comment', url=None, parent=25804966, text='Exactly, I see no reason to use Spotify podcasts over a dedicated app&#x2F;service I already use.')

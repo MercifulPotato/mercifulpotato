@@ -1,1 +1,1 @@
-Item(by='mixmastamyk', descendants=None, kids=None, score=None, time=1610847132, title=None, item_type='comment', url=None, parent=25806620, text='How about Nepal?')
+Item(by='mixmastamyk', descendants=None, kids=[25809519], score=None, time=1610847132, title=None, item_type='comment', url=None, parent=25806620, text='How about Nepal?')

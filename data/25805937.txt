@@ -1,1 +1,1 @@
-Item(by='theBashShell', descendants=3, kids=[25807740, 25806974, 25806894], score=36, time=1610834617, title='Deno in 2020', item_type='story', url='https://deno.land/posts/deno-in-2020', parent=None, text=None)
+Item(by='theBashShell', descendants=27, kids=[25809496, 25809709, 25809764, 25806974, 25810328, 25809585, 25807740, 25806894], score=104, time=1610834617, title='Deno in 2020', item_type='story', url='https://deno.land/posts/deno-in-2020', parent=None, text=None)

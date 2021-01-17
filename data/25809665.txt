@@ -1,0 +1,1 @@
+Item(by='gvx', descendants=None, kids=None, score=None, time=1610879804, title=None, item_type='comment', url=None, parent=25807702, text='Operating on a fixed size datatype is trivially O(1), too (because O(c) = O(1) when c is a constant).')

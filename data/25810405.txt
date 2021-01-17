@@ -1,0 +1,1 @@
+Item(by='mcdoker18', descendants=None, kids=None, score=None, time=1610889266, title=None, item_type='comment', url=None, parent=25808516, text='I prefer the same approach, but I&#x27;d create a separated struct, such as TaskFilter, and using a pointer because zero ID or empty tag can be valid values.')

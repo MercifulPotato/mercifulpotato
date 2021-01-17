@@ -1,1 +1,1 @@
-Item(by='yoz-y', descendants=None, kids=None, score=None, time=1610808392, title=None, item_type='comment', url=None, parent=25801303, text='It’s it a running (almost) joke that nobody actually knows C++? I have not met anybody that work with the whole language and not only a subset.')
+Item(by='yoz-y', descendants=None, kids=[25810089], score=None, time=1610808392, title=None, item_type='comment', url=None, parent=25801303, text='It’s it a running (almost) joke that nobody actually knows C++? I have not met anybody that work with the whole language and not only a subset.')

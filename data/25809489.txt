@@ -1,0 +1,1 @@
+Item(by='ducktective', descendants=None, kids=None, score=None, time=1610877145, title=None, item_type='comment', url=None, parent=25808241, text='I think for binaries, `binwalk` is the proper tool.  \nOne of the usecases of this tool could be &quot;automatic syntax highlighting&quot; for webapps (like git repo interfaces) or pastebin sites.')

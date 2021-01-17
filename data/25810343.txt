@@ -1,0 +1,1 @@
+Item(by='p2detar', descendants=None, kids=[25810364], score=None, time=1610888559, title=None, item_type='comment', url=None, parent=25809954, text='Nice. I&#x27;m genuinely interested.<p>I do not work on Android apps, but I use Gradle in semi-large web app and lots of fat jar projects. Do you happen to know if there are any perf measurements that outline Gradle is slower?')

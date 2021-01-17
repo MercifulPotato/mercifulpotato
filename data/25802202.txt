@@ -1,1 +1,1 @@
-Item(by='protomyth', descendants=None, kids=None, score=None, time=1610805921, title=None, item_type='comment', url=None, parent=25802146, text='It&#x27;s likely that Apple has a special contract given ARM&#x27;s origin.')
+Item(by='protomyth', descendants=None, kids=[25809580], score=None, time=1610805921, title=None, item_type='comment', url=None, parent=25802146, text='It&#x27;s likely that Apple has a special contract given ARM&#x27;s origin.')

@@ -1,0 +1,1 @@
+Item(by='thinkloop', descendants=None, kids=None, score=None, time=1610883947, title=None, item_type='comment', url=None, parent=25809248, text='Npm is great, but it&#x27;s not ideal to structurally depend on a centralized service for normal functioning.')

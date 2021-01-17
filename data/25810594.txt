@@ -1,0 +1,1 @@
+Item(by='otabdeveloper4', descendants=None, kids=None, score=None, time=1610891369, title=None, item_type='comment', url=None, parent=25803849, text='&gt; f(x) is O(g(x)) iff there exists a positive number M and an x_0 such that for all x &gt; x_0, |f(x)| &lt;= Mg(x).<p>Correct.<p>Corollary: x is O(x^2), for example.')

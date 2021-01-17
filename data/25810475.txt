@@ -1,0 +1,1 @@
+Item(by='usrusr', descendants=None, kids=None, score=None, time=1610890029, title=None, item_type='comment', url=None, parent=25806305, text='Do those others heavily advertise the difference between var and val as a core feature and then sabotage it by dressing up getters (that are evaluated on each call) as immutable values?')

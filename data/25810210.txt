@@ -1,0 +1,1 @@
+Item(by='throw14082020', descendants=None, kids=None, score=None, time=1610887103, title=None, item_type='comment', url=None, parent=25804798, text='First I ran it native, and after 5+ hours, it failed right at the end. So I restarted with Rosetta2, and after 2 hours, I gave up. I just downloaded the tensorflow_macOS fork that apple made to use the M1 GPU anyway.')

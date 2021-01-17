@@ -1,0 +1,1 @@
+Item(by='yolo42', descendants=None, kids=None, score=None, time=1610881353, title=None, item_type='comment', url=None, parent=25809644, text='Yes. Please take a look at grpc-gateway. You write your specs as proto files and then get handlers and middlewares to implement the endpoints.')

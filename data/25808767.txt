@@ -1,1 +1,1 @@
-Item(by='Splizard', descendants=None, kids=None, score=None, time=1610866641, title=None, item_type='comment', url=None, parent=25804386, text='Microsoft Edge?')
+Item(by='Splizard', descendants=None, kids=[25809599], score=None, time=1610866641, title=None, item_type='comment', url=None, parent=25804386, text='Microsoft Edge?')
