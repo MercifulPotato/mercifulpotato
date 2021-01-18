@@ -1,1 +1,1 @@
-Item(by='Xcelerate', descendants=None, kids=None, score=None, time=1610980225, title=None, item_type='comment', url=None, parent=25820457, text='I’m amazed how many people are defending Python. It’s such a kludgy language. I’m curious what the Fortran holdouts said back in the day.')
+Item(by='Xcelerate', descendants=None, kids=[25823239], score=None, time=1610980225, title=None, item_type='comment', url=None, parent=25820457, text='I’m amazed how many people are defending Python. It’s such a kludgy language. I’m curious what the Fortran holdouts said back in the day.')

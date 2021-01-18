@@ -1,1 +1,1 @@
-Item(by='Razengan', descendants=None, kids=None, score=None, time=1610968346, title=None, item_type='comment', url=None, parent=25819719, text='Oh no, you tried to defend something Apple with facts, on HN. Quick, have a downvote before others can see the truth.')
+Item(by='Razengan', descendants=None, kids=[25824730], score=None, time=1610968346, title=None, item_type='comment', url=None, parent=25819719, text='Oh no, you tried to defend something Apple with facts, on HN. Quick, have a downvote before others can see the truth.')

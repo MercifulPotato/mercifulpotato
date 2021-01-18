@@ -1,0 +1,1 @@
+Item(by='ChrisLomont', descendants=None, kids=[25825681], score=None, time=1610998626, title=None, item_type='comment', url=None, parent=25822288, text='&gt; n * ~(n &amp; 1)<p>This term results in huge numbers. Do you mean n * ((~n)&amp;1)) ?')

@@ -1,1 +1,1 @@
-Item(by='RyJones', descendants=None, kids=None, score=None, time=1610981428, title=None, item_type='comment', url=None, parent=25822255, text='I&#x27;ve started renting wifi hotspots instead. A new sim screws up iMessage too much.')
+Item(by='RyJones', descendants=None, kids=[25822337], score=None, time=1610981428, title=None, item_type='comment', url=None, parent=25822255, text='I&#x27;ve started renting wifi hotspots instead. A new sim screws up iMessage too much.')

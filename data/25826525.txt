@@ -1,0 +1,1 @@
+Item(by='ficklepickle', descendants=None, kids=[25826856], score=None, time=1611003371, title=None, item_type='comment', url=None, parent=25825919, text='You can use the CSS attribute &quot;scroll-behavior: smooth&quot; which avoids the hazards of using JS to hijack the scroll event.<p>I don&#x27;t believe it works on safari, but safari is the new IE so what can you do.')

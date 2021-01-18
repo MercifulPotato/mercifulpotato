@@ -1,1 +1,1 @@
-Item(by='muro', descendants=None, kids=None, score=None, time=1610967738, title=None, item_type='comment', url=None, parent=25820068, text='Married can make it more difficult if only one person works.')
+Item(by='muro', descendants=None, kids=[25822585], score=None, time=1610967738, title=None, item_type='comment', url=None, parent=25820068, text='Married can make it more difficult if only one person works.')

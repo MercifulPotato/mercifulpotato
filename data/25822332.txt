@@ -1,0 +1,1 @@
+Item(by='swiftcoder', descendants=None, kids=None, score=None, time=1610981656, title=None, item_type='comment', url=None, parent=25822281, text='A lot of that sort of thing is abstracted away by common standard libraries. I don&#x27;t tend to run into a whole lot of XOR on a day-to-day basis, apart from when digging into low-level libraries.')

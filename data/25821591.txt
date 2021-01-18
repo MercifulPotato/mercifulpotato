@@ -1,1 +1,1 @@
-Item(by='djxfade', descendants=None, kids=None, score=None, time=1610976863, title=None, item_type='comment', url=None, parent=25810326, text='Do I have to build it myself, or do you have it hosted somewhere?')
+Item(by='djxfade', descendants=None, kids=[25821645, 25822504], score=None, time=1610976863, title=None, item_type='comment', url=None, parent=25810326, text='Do I have to build it myself, or do you have it hosted somewhere?')

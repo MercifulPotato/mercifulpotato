@@ -1,0 +1,1 @@
+Item(by='bonzini', descendants=None, kids=[25822326], score=None, time=1610981560, title=None, item_type='comment', url=None, parent=25822278, text='But there are only 3 items in the array (for example 1, 2 and 4). So the last valid index is 2.')

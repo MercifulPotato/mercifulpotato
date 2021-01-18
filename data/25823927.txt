@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=None, score=None, time=1610990045, title=None, item_type='comment', url=None, parent=25823892, text='x ^= y is the same as x = x ^ y, with ^ being XOR. Bunch of languages have it, e.g. C, C++, Java, ...')

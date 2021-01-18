@@ -1,0 +1,1 @@
+Item(by='gallier2', descendants=None, kids=None, score=None, time=1611001934, title=None, item_type='comment', url=None, parent=25822358, text='The XOR trick has also the disadvantage of being 3 dependend instructions that can not overlap. The one with a temp variable has only 2 of them dependend and can therefore save one cycle on an OO CPU.')

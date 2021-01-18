@@ -1,0 +1,1 @@
+Item(by='psyc', descendants=None, kids=[25823748, 25823810], score=None, time=1610987256, title=None, item_type='comment', url=None, parent=25822666, text='That was also my introduction to A*. Say, does anyone have insights into optimizing path finding for speed, as the map gets larger and number of entities increases?')

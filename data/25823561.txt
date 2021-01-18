@@ -1,0 +1,1 @@
+Item(by='wg0', descendants=None, kids=None, score=None, time=1610988234, title=None, item_type='comment', url=None, parent=25818412, text='This is really nice boiled down to the very essentials. I am now tempted to write a Python clone and see how much different it turns out to be in terms of code and complexity while only relying on stdlib.')

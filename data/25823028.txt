@@ -1,0 +1,1 @@
+Item(by='dahart', descendants=None, kids=None, score=None, time=1610985667, title=None, item_type='comment', url=None, parent=25822868, text='&gt; swapping bits that are both set to 1 would also fail<p>No, swapping two 1 bits works fine. Work it out more slowly, the article covered this and why it always works.<p>(1,1) =&gt; (1^1,1)=(0,1) =&gt; (0,1^0)=(0,1) =&gt; (0^1,1)=(1,1)')

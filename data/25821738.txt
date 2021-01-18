@@ -1,1 +1,1 @@
-Item(by='taf2', descendants=None, kids=None, score=None, time=1610977920, title=None, item_type='comment', url=None, parent=25821481, text='I think it is because each model from OpenAi was public until Microsoft became an investor.')
+Item(by='taf2', descendants=None, kids=[25823693], score=None, time=1610977920, title=None, item_type='comment', url=None, parent=25821481, text='I think it is because each model from OpenAi was public until Microsoft became an investor.')

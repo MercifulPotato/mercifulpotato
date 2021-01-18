@@ -1,0 +1,1 @@
+Item(by='eMSF', descendants=None, kids=None, score=None, time=1610981764, title=None, item_type='comment', url=None, parent=25822291, text='IIRC immediate operands have to be the same size as the destination, so to zero a 32-bit register you need a 32-bit constant, and it simply makes the whole instruction larger than a simple xor.')

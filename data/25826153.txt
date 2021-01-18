@@ -1,0 +1,1 @@
+Item(by='munk-a', descendants=None, kids=None, score=None, time=1611001321, title=None, item_type='comment', url=None, parent=25825455, text='Don&#x27;t forget the validation!<p>Webapps are dumb middleware that pipes data from the database into an http stream - but it needs to determine which database calls to invoke and sanitize all the incoming junk.')

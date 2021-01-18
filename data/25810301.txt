@@ -1,1 +1,1 @@
-Item(by='npretto', descendants=2, kids=[25810326], score=4, time=1610888098, title='Show HN: BFS, Dijkstra and A* interactive demo made in React', item_type='story', url='https://github.com/npretto/pathfinding', parent=None, text=None)
+Item(by='npretto', descendants=20, kids=[25824046, 25822666, 25824950, 25821851, 25810326, 25821837, 25822967, 25824255, 25823339, 25823313, 25822073], score=78, time=1610888098, title='Show HN: BFS, Dijkstra and A* interactive demo made in React', item_type='story', url='https://github.com/npretto/pathfinding', parent=None, text=None)

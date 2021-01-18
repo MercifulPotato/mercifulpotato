@@ -1,1 +1,1 @@
-Item(by='Swizec', descendants=None, kids=None, score=None, time=1610944984, title=None, item_type='comment', url=None, parent=25817991, text='Very low heat, many duck eggs. Takes a while :)<p>The goal is for max runny yolk with juuuuust solid whites and no crispy brown on bottom.')
+Item(by='Swizec', descendants=None, kids=[25822726], score=None, time=1610944984, title=None, item_type='comment', url=None, parent=25817991, text='Very low heat, many duck eggs. Takes a while :)<p>The goal is for max runny yolk with juuuuust solid whites and no crispy brown on bottom.')

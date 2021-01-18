@@ -1,1 +1,1 @@
-Item(by='davegauer', descendants=0, kids=None, score=1, time=1610980236, title='Patent US20150006145A1: Chinese name transliteration', item_type='story', url='https://patents.google.com/patent/US20150006145A1/en', parent=None, text=None)
+Item(by='davegauer', descendants=1, kids=[25822484], score=1, time=1610980236, title='Patent US20150006145A1: Chinese name transliteration', item_type='story', url='https://patents.google.com/patent/US20150006145A1/en', parent=None, text=None)

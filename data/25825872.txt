@@ -1,0 +1,1 @@
+Item(by='wizzwizz4', descendants=None, kids=None, score=None, time=1610999806, title=None, item_type='comment', url=None, parent=25824984, text='Couldn&#x27;t you just write:<p><pre><code>  let var: Vec&lt;u32&gt; = {\n    let mut var_;\n    …\n    var_\n  };\n</code></pre>\nOr, better still:<p><pre><code>  let mut var: Vec&lt;u32&gt;;\n  …\n  let var = var;</code></pre>')

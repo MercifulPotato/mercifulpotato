@@ -1,1 +1,1 @@
-Item(by='paulcole', descendants=None, kids=None, score=None, time=1610943348, title=None, item_type='comment', url=None, parent=25816147, text='I never said my way of living didn’t work for me. Why would I want kids (I have a partner).')
+Item(by='paulcole', descendants=None, kids=[25823852], score=None, time=1610943348, title=None, item_type='comment', url=None, parent=25816147, text='I never said my way of living didn’t work for me. Why would I want kids (I have a partner).')

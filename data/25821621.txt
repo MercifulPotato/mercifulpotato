@@ -1,1 +1,1 @@
-Item(by='neartheplain', descendants=None, kids=None, score=None, time=1610977054, title=None, item_type='comment', url=None, parent=25819500, text='As an American with good health insurance, I’ve gotten blood labs with my annual physical since at least the mid-2000s.')
+Item(by='neartheplain', descendants=None, kids=[25824284], score=None, time=1610977054, title=None, item_type='comment', url=None, parent=25819500, text='As an American with good health insurance, I’ve gotten blood labs with my annual physical since at least the mid-2000s.')

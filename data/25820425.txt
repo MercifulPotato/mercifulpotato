@@ -1,1 +1,1 @@
-Item(by='csomar', descendants=None, kids=None, score=None, time=1610967158, title=None, item_type='comment', url=None, parent=25815124, text='So is the price 149eur, 149usd or 29usd?')
+Item(by='csomar', descendants=None, kids=[25823638], score=None, time=1610967158, title=None, item_type='comment', url=None, parent=25815124, text='So is the price 149eur, 149usd or 29usd?')

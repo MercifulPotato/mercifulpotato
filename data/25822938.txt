@@ -1,0 +1,1 @@
+Item(by='alowe', descendants=None, kids=[25823043], score=None, time=1610985239, title=None, item_type='comment', url=None, parent=25822868, text='They&#x27;re not saying swapping equal valued variables breaks it. It&#x27;s when the pointer is the same, using the trick to swap a variable with itself will set the variable to 0.')

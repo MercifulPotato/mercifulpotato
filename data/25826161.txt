@@ -1,0 +1,1 @@
+Item(by='kelnos', descendants=None, kids=None, score=None, time=1611001379, title=None, item_type='comment', url=None, parent=25825044, text='Go makes concurrency easier (sorta) and eliminates some memory safety issues. But if you want a tool that helps you write more correct programs, you really need a much stronger type system than Go offers.')

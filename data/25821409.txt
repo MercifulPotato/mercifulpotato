@@ -1,1 +1,1 @@
-Item(by='philonoist', descendants=None, kids=None, score=None, time=1610975214, title=None, item_type='comment', url=None, parent=25821284, text='I mean, but why?! 5 years of Angular seems too much for even anyone closely following the trends, don&#x27;t you think?')
+Item(by='philonoist', descendants=None, kids=[25825294], score=None, time=1610975214, title=None, item_type='comment', url=None, parent=25821284, text='I mean, but why?! 5 years of Angular seems too much for even anyone closely following the trends, don&#x27;t you think?')

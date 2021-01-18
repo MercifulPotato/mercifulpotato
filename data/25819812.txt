@@ -1,1 +1,1 @@
-Item(by='ThePhysicist', descendants=None, kids=None, score=None, time=1610961280, title=None, item_type='comment', url=None, parent=25814089, text='You don&#x27;t need E2E encryption for that, transport layer encryption will do just fine in that case.')
+Item(by='ThePhysicist', descendants=None, kids=[25823097], score=None, time=1610961280, title=None, item_type='comment', url=None, parent=25814089, text='You don&#x27;t need E2E encryption for that, transport layer encryption will do just fine in that case.')

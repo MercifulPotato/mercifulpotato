@@ -1,0 +1,1 @@
+Item(by='mlthoughts2018', descendants=None, kids=[25824688], score=None, time=1610991080, title=None, item_type='comment', url=None, parent=25822823, text='The nice thing about Cython is that you can have both - all the multiple dispatch you want with fused types, or escape that paradigm to do other things if you desire. It gives a lot of surgical control.')

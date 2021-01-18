@@ -1,0 +1,1 @@
+Item(by='j-pb', descendants=None, kids=None, score=None, time=1610981770, title=None, item_type='comment', url=None, parent=25822278, text='Premise: A is containing all values in range [1, 4] except one:<p>Let&#x27;s say that, without loss of generality:<p>&gt; 1 ^ 2 ^ 3 ^ 4 ^ A[0]=1 ^ A[1]=2 ^ A[2]=3 ^ A[3]=4<p>However, A is now missing no value. Contradiction.<p>∎')

@@ -1,1 +1,1 @@
-Item(by='tbenst', descendants=None, kids=None, score=None, time=1610980480, title=None, item_type='comment', url=None, parent=25822016, text='GPT-3 can’t play Go.')
+Item(by='tbenst', descendants=None, kids=[25823745], score=None, time=1610980480, title=None, item_type='comment', url=None, parent=25822016, text='GPT-3 can’t play Go.')

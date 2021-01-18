@@ -1,1 +1,1 @@
-Item(by='jude-', descendants=None, kids=[25820579], score=None, time=1610920488, title=None, item_type='comment', url=None, parent=25815075, text='Non-mining nodes are still responsible for storing and relaying blocks.  If no one stores and relays your block, was it ever mined?')
+Item(by='jude-', descendants=None, kids=[25823813, 25820579], score=None, time=1610920488, title=None, item_type='comment', url=None, parent=25815075, text='Non-mining nodes are still responsible for storing and relaying blocks.  If no one stores and relays your block, was it ever mined?')

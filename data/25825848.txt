@@ -1,0 +1,1 @@
+Item(by='zerd', descendants=None, kids=None, score=None, time=1610999656, title=None, item_type='comment', url=None, parent=25824984, text='You can also initialize it to an expression, e.g.<p><pre><code>    let var = {\n      let mut var_ = Vec::new();\n      var_.push(1u32);\n      var_\n    };</code></pre>')

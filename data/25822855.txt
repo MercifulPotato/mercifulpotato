@@ -1,0 +1,1 @@
+Item(by='iFire', descendants=2, kids=[25823052, 25823003], score=1, time=1610984800, title='Rank positive impact of a pull request', item_type='story', url=None, parent=None, text='I&#x27;ve heard of Trueskill and Elo, but any ideas on how to rank the positive impact of 1 pull request out of 2000 on a Github repository?')

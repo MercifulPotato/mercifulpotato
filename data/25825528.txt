@@ -1,0 +1,1 @@
+Item(by='legerdemain', descendants=None, kids=[25825940, 25825624], score=None, time=1610998143, title=None, item_type='comment', url=None, parent=25825481, text='I meant literally this:<p><pre><code>  julia&gt; (x = 1, y = 2) .+ (x = 1, y = 2)\n\n  ERROR: ArgumentError: broadcasting over dictionaries and `NamedTuple`s is reserved</code></pre>')
