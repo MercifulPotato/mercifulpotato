@@ -1,0 +1,1 @@
+Item(by='_Microft', descendants=None, kids=None, score=None, time=1610962716, title=None, item_type='comment', url=None, parent=25819204, text='You might want to create the dictionary object without a prototype to avoid the problems with built-in properties.<p>HasOwnProperty() could also help. Look it up on MDN.')

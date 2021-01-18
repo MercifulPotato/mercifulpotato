@@ -1,1 +1,1 @@
-Item(by='blue1', descendants=None, kids=None, score=None, time=1610891427, title=None, item_type='comment', url=None, parent=25808605, text='Seconded. But why legacy browsers? My mid-2010 MBP, still going strong, runs High Sierra, which supports all current browsers.')
+Item(by='blue1', descendants=None, kids=[25822000], score=None, time=1610891427, title=None, item_type='comment', url=None, parent=25808605, text='Seconded. But why legacy browsers? My mid-2010 MBP, still going strong, runs High Sierra, which supports all current browsers.')

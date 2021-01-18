@@ -1,1 +1,1 @@
-Item(by='throw14082020', descendants=None, kids=None, score=None, time=1610913708, title=None, item_type='comment', url=None, parent=25814028, text='I see whats going on here. One ignoramus to another.')
+Item(by='throw14082020', descendants=None, kids=[25821256], score=None, time=1610913708, title=None, item_type='comment', url=None, parent=25814028, text='I see whats going on here. One ignoramus to another.')

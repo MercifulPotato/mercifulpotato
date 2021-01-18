@@ -1,0 +1,1 @@
+Item(by='smartbit', descendants=None, kids=None, score=None, time=1610979231, title=None, item_type='comment', url=None, parent=25817419, text='On Fedora 31&#x2F;32 was working fine (with corporate account). After the call was over ctrl+q wouldn&#x27;t stop it from running, therefore I&#x27;d completely remove it with<p><pre><code>  pkill teams</code></pre>')

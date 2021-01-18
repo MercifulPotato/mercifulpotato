@@ -1,0 +1,1 @@
+Item(by='mapgrep', descendants=None, kids=None, score=None, time=1610979126, title=None, item_type='comment', url=None, parent=25821813, text='Mod_perl would more accurately be called a “commonly reverse proxied app server.” Typical setup was to have another Apache instance in front of it handling static requests and reverse proxying app requests.')

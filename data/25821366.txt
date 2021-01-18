@@ -1,0 +1,1 @@
+Item(by='pansa2', descendants=None, kids=[25821611], score=None, time=1610974937, title=None, item_type='comment', url=None, parent=25821324, text='V8 and the Julia compiler work in quite different ways - because they solve quite different problems. In particular, Julia’s compiler only works well on code that is &quot;type-stable&quot;, whereas V8 has no such limitation.')

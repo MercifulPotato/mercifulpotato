@@ -1,1 +1,1 @@
-Item(by='biolurker1', descendants=None, kids=None, score=None, time=1610921990, title=None, item_type='comment', url=None, parent=25815359, text='Gold doesn&#x27;t swim. It needs to be mined too. Not with shovels.')
+Item(by='biolurker1', descendants=None, kids=[25821181], score=None, time=1610921990, title=None, item_type='comment', url=None, parent=25815359, text='Gold doesn&#x27;t swim. It needs to be mined too. Not with shovels.')

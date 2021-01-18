@@ -1,1 +1,1 @@
-Item(by='bpierre', descendants=1, kids=[25817434], score=5, time=1610930539, title='A Name Resolver for the Distributed Web', item_type='story', url='https://blog.cloudflare.com/cloudflare-distributed-web-resolver/', parent=None, text=None)
+Item(by='bpierre', descendants=2, kids=[25817434], score=6, time=1610930539, title='A Name Resolver for the Distributed Web', item_type='story', url='https://blog.cloudflare.com/cloudflare-distributed-web-resolver/', parent=None, text=None)

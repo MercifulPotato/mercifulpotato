@@ -1,0 +1,1 @@
+Item(by='kelnos', descendants=None, kids=None, score=None, time=1610961699, title=None, item_type='comment', url=None, parent=25816528, text='I feel like GPU accel is disabled for most configurations in Firefox on Linux. I had to force-enable it, and perf got quite a bit better (even with dinky Intel graphics).')

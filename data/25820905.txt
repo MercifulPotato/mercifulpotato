@@ -1,0 +1,1 @@
+Item(by='shiftingleft', descendants=None, kids=None, score=None, time=1610971618, title=None, item_type='comment', url=None, parent=25820854, text='I guess whether it&#x27;s effective to migrate a code base depends a lot on where your costs are.<p>If you pay 500k$ for compute, it might become worthwhile to invest time into rewriting hot paths.')

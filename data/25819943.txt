@@ -1,0 +1,1 @@
+Item(by='Rygian', descendants=None, kids=[25819974, 25819988], score=None, time=1610962376, title=None, item_type='comment', url=None, parent=25811482, text='I got lost at the part that says &quot;byte value 0xF1 which is ñ.&quot; How does it jump from Unicode codepoints to bytes without UTF-8?')

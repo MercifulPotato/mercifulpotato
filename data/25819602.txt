@@ -1,1 +1,1 @@
-Item(by='bottled_poe', descendants=None, kids=None, score=None, time=1610959329, title=None, item_type='comment', url=None, parent=25819206, text='I’ll do what the linter says thanks.')
+Item(by='bottled_poe', descendants=None, kids=[25819785], score=None, time=1610959329, title=None, item_type='comment', url=None, parent=25819206, text='I’ll do what the linter says thanks.')

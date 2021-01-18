@@ -1,1 +1,1 @@
-Item(by='TaylorAlexander', descendants=None, kids=None, score=None, time=1610948692, title=None, item_type='comment', url=None, parent=25818328, text='It would matter to anyone who might want to build it in to a product.')
+Item(by='TaylorAlexander', descendants=None, kids=[25821862], score=None, time=1610948692, title=None, item_type='comment', url=None, parent=25818328, text='It would matter to anyone who might want to build it in to a product.')

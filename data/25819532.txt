@@ -1,1 +1,1 @@
-Item(by='amanaplanacanal', descendants=None, kids=None, score=None, time=1610958596, title=None, item_type='comment', url=None, parent=25819393, text='I don’t know about the consensus, but it does seem to work, at least for some people.')
+Item(by='amanaplanacanal', descendants=None, kids=[25819684], score=None, time=1610958596, title=None, item_type='comment', url=None, parent=25819393, text='I don’t know about the consensus, but it does seem to work, at least for some people.')

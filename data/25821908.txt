@@ -1,0 +1,1 @@
+Item(by='geerlingguy', descendants=None, kids=[25822149, 25822177], score=None, time=1610978954, title=None, item_type='comment', url=None, parent=25821893, text='By default the stale bot does not lock issues. And you can configure it to mark stale, then either close or not close the issue.')

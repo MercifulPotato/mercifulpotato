@@ -1,0 +1,1 @@
+Item(by='flohofwoe', descendants=None, kids=None, score=None, time=1610980802, title=None, item_type='comment', url=None, parent=25822110, text='It also works if both are equal since only one value will ever be zero:<p>x=2, y=2:<p>x^=y =&gt; x=0, y=2<p>y^=x =&gt; x=0, y=2<p>x^=y =&gt; x=2, y=2')

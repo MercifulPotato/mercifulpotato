@@ -1,0 +1,1 @@
+Item(by='terrificpentest', descendants=1, kids=[25820592], score=1, time=1610968825, title='SSH MitM server supporting public key authentication and session hijacking', item_type='story', url='https://github.com/ssh-mitm/ssh-mitm', parent=None, text=None)

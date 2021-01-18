@@ -1,0 +1,1 @@
+Item(by='fsh', descendants=None, kids=[25821063], score=None, time=1610972351, title=None, item_type='comment', url=None, parent=25820930, text='Julia is amazing for numerics, but the JIT is painfully slow for anything that gets looped only a few times or not at all. I don&#x27;t think it is usable as a general purpose language until this gets improved somehow.')

@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1610963953, title=None, item_type='comment', url=None, parent=25814852, text='&gt; AMD drivers are now open source and finally working well.<p>Only for those using modern cards, my old APU is stuck in GL 3.3, whereas the fxgl supported 4.1.<p>At least I can use it for GL ES 3.0 coding.')

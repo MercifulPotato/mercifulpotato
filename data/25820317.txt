@@ -1,0 +1,1 @@
+Item(by='fundatus', descendants=None, kids=None, score=None, time=1610966012, title=None, item_type='comment', url=None, parent=25810250, text='BTW: You can disable the &quot;I forgot my password&quot; thing completely on the login screen by setting this registry key to 0:<p>HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Authentication\\LogonUI\\NgcPin')

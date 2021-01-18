@@ -1,0 +1,1 @@
+Item(by='ml_giant', descendants=None, kids=None, score=None, time=1610981378, title=None, item_type='comment', url=None, parent=25822134, text='Let&#x27;s try an example with n=4:<p>1 ^ 2 ^ 3 ^ 4 ^ A[0] ^ A[1] ^ A[2] ^ A[3]<p>It might be early in the morning and I am missing something, but it has n-1 as its last index. Any insight is appreciated :)')

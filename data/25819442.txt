@@ -1,1 +1,1 @@
-Item(by='comprev', descendants=None, kids=None, score=None, time=1610957750, title=None, item_type='comment', url=None, parent=25819286, text='&quot;Grand parent&quot; perhaps, if you consider their post as the child.')
+Item(by='comprev', descendants=None, kids=[25819762], score=None, time=1610957750, title=None, item_type='comment', url=None, parent=25819286, text='&quot;Grand parent&quot; perhaps, if you consider their post as the child.')

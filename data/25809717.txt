@@ -1,1 +1,1 @@
-Item(by='caspper69', descendants=None, kids=None, score=None, time=1610880356, title=None, item_type='comment', url=None, parent=25809451, text='Human nature')
+Item(by='caspper69', descendants=None, kids=[25820117], score=None, time=1610880356, title=None, item_type='comment', url=None, parent=25809451, text='Human nature')

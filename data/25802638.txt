@@ -1,1 +1,1 @@
-Item(by='majkinetor', descendants=None, kids=None, score=None, time=1610809675, title=None, item_type='comment', url=None, parent=25794124, text='Indeed.<p>If &#x27;it works on my computer&#x27; is a measure, then pre dot.net core era is as good as it can get.')
+Item(by='majkinetor', descendants=None, kids=[25821289], score=None, time=1610809675, title=None, item_type='comment', url=None, parent=25794124, text='Indeed.<p>If &#x27;it works on my computer&#x27; is a measure, then pre dot.net core era is as good as it can get.')

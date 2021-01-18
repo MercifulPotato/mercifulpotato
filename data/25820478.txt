@@ -1,0 +1,1 @@
+Item(by='pimeys', descendants=None, kids=None, score=None, time=1610967765, title=None, item_type='comment', url=None, parent=25818665, text='LXD is great. I&#x27;ve had it for a while in OpenWRT, but never on a CoW filesystem. Does LXD also utilize snapshots like jails do on ZFS to save some disk space?<p>I have now only pihole running on LXD and it&#x27;s ok.')

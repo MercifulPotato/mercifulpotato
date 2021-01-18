@@ -1,1 +1,1 @@
-Item(by='throwawaygulf', descendants=None, kids=None, score=None, time=1610954950, title=None, item_type='comment', url=None, parent=25817919, text='Sad that there&#x27;s no equivalent to this in Linux.')
+Item(by='throwawaygulf', descendants=None, kids=[25820467], score=None, time=1610954950, title=None, item_type='comment', url=None, parent=25817919, text='Sad that there&#x27;s no equivalent to this in Linux.')

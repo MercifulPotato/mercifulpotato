@@ -1,0 +1,1 @@
+Item(by='spacedome', descendants=None, kids=[25821903], score=None, time=1610977646, title=None, item_type='comment', url=None, parent=25821241, text='You absolutely can use regular jupyter notebooks for julia! Pluto has some advantages, like being stored as a normal julia file. The julia startup time issues affect both.')

@@ -1,1 +1,1 @@
-Item(by='marton78', descendants=None, kids=None, score=None, time=1610952555, title=None, item_type='comment', url=None, parent=25818714, text='I&#x27;m not even a fan and I can attest you that this is well known pop culture trivia.')
+Item(by='marton78', descendants=None, kids=[25820480], score=None, time=1610952555, title=None, item_type='comment', url=None, parent=25818714, text='I&#x27;m not even a fan and I can attest you that this is well known pop culture trivia.')
