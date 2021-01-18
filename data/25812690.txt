@@ -1,1 +1,1 @@
-Item(by='craigkerstiens', descendants=0, kids=None, score=1, time=1610904625, title='Why Covering Indexes in Postgres Are Incredibly Helpful', item_type='story', url='https://info.crunchydata.com/blog/why-covering-indexes-are-incredibly-helpful', parent=None, text=None)
+Item(by='craigkerstiens', descendants=0, kids=None, score=2, time=1610904625, title='Why Covering Indexes in Postgres Are Incredibly Helpful', item_type='story', url='https://info.crunchydata.com/blog/why-covering-indexes-are-incredibly-helpful', parent=None, text=None)

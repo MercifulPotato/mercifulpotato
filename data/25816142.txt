@@ -1,0 +1,1 @@
+Item(by='earthboundkid', descendants=None, kids=None, score=None, time=1610924397, title=None, item_type='comment', url=None, parent=25813283, text='FYI, ioutil is deprecated in Go 1.16. :-) They copied everything out of it and into io and os. It’s much cleaner actually once you get used to it.')

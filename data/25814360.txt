@@ -1,1 +1,1 @@
-Item(by='Ericson2314', descendants=None, kids=None, score=None, time=1610913698, title=None, item_type='comment', url=None, parent=25813933, text='That&#x27;s why I work at a place where devs are basically required to use Linux. It&#x27;s a great filter and training mechanism.')
+Item(by='Ericson2314', descendants=None, kids=[25817782], score=None, time=1610913698, title=None, item_type='comment', url=None, parent=25813933, text='That&#x27;s why I work at a place where devs are basically required to use Linux. It&#x27;s a great filter and training mechanism.')

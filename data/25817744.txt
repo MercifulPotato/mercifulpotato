@@ -1,0 +1,1 @@
+Item(by='throwawaysea', descendants=None, kids=None, score=None, time=1610940054, title=None, item_type='comment', url=None, parent=25817664, text='I’m not an expert but my understanding is that defending against DDOS requires immense infrastructure. Can a single site in its own achieve that with a load balancer or the rate limiting you mention?')

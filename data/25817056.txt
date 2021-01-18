@@ -1,0 +1,1 @@
+Item(by='mmastrac', descendants=None, kids=[25817114], score=None, time=1610931799, title=None, item_type='comment', url=None, parent=25815566, text='Is Safari a privileged process on OSX? Could someone develop a ptrace-style solution to disable signing and allow installation of Firefox WebExtensions?')

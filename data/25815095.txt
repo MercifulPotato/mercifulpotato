@@ -1,0 +1,1 @@
+Item(by='csboyer', descendants=None, kids=[25817288], score=None, time=1610918612, title=None, item_type='comment', url=None, parent=25815054, text='For DSSS demod, my guess is a 20 tap match filter designed from a resampled RRC filtered barker sequence. Haven’t looked at the VHDL, but that’s how I’d do it.')

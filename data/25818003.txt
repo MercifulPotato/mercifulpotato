@@ -1,0 +1,1 @@
+Item(by='rfoo', descendants=None, kids=[25818072], score=None, time=1610942927, title=None, item_type='comment', url=None, parent=25817922, text='... Or maybe it is not factually true?<p>You can&#x27;t beat Hyrum&#x27;s law by simply &quot;forcing more people to use official API&quot;, with enough code people still depends on every implementation details in your code.')

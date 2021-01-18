@@ -1,1 +1,1 @@
-Item(by='Evidlo', descendants=0, kids=None, score=2, time=1610915141, title='First Full Test of SLS Booster Fails as Engines Trigger Emergency Shutdown', item_type='story', url='https://www.youtube.com/watch?v=BG8Wv8-4xFM', parent=None, text=None)
+Item(by='Evidlo', descendants=1, kids=[25816482], score=10, time=1610915141, title='First Full Test of SLS Booster Fails as Engines Trigger Emergency Shutdown', item_type='story', url='https://www.youtube.com/watch?v=BG8Wv8-4xFM', parent=None, text=None)

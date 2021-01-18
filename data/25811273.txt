@@ -1,1 +1,1 @@
-Item(by='toyg', descendants=None, kids=None, score=None, time=1610896379, title=None, item_type='comment', url=None, parent=25809237, text='Aah, that explains the name! I was banging my head trying to understand what was “jingoistic” about this OS...')
+Item(by='toyg', descendants=None, kids=[25815358], score=None, time=1610896379, title=None, item_type='comment', url=None, parent=25809237, text='Aah, that explains the name! I was banging my head trying to understand what was “jingoistic” about this OS...')

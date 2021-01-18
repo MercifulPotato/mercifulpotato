@@ -1,1 +1,1 @@
-Item(by='xenocratus', descendants=0, kids=None, score=2, time=1610913543, title='Dog ownership associated with decreased cardiovascular risk', item_type='story', url='https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.119.005554', parent=None, text=None)
+Item(by='xenocratus', descendants=7, kids=[25817822, 25816007, 25816288, 25816548], score=18, time=1610913543, title='Dog ownership associated with decreased cardiovascular risk', item_type='story', url='https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.119.005554', parent=None, text=None)

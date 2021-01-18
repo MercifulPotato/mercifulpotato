@@ -1,1 +1,1 @@
-Item(by='amelius', descendants=None, kids=None, score=None, time=1610915137, title=None, item_type='comment', url=None, parent=25813279, text='But the title says &quot;... and its Applications&quot;. Is tying actual knots not an application of knot theory?')
+Item(by='amelius', descendants=None, kids=[25814856, 25816396], score=None, time=1610915137, title=None, item_type='comment', url=None, parent=25813279, text='But the title says &quot;... and its Applications&quot;. Is tying actual knots not an application of knot theory?')

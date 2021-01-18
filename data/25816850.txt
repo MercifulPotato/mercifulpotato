@@ -1,0 +1,1 @@
+Item(by='folmar', descendants=None, kids=None, score=None, time=1610929916, title=None, item_type='comment', url=None, parent=25811180, text='One form of securing fallback mechanism is to include a long delay, some 2 days, between reset request and execution. It surely does not fit all use cases, but should be good for a lot of less critical stuff.')

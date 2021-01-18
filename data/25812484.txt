@@ -1,1 +1,1 @@
-Item(by='rhacker', descendants=None, kids=None, score=None, time=1610903640, title=None, item_type='comment', url=None, parent=25812221, text='I started using it nearly exclusively around October. I do need to break out into Google for a few things unfortunately.')
+Item(by='rhacker', descendants=None, kids=[25816974], score=None, time=1610903640, title=None, item_type='comment', url=None, parent=25812221, text='I started using it nearly exclusively around October. I do need to break out into Google for a few things unfortunately.')

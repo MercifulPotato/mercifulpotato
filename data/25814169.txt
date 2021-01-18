@@ -1,1 +1,1 @@
-Item(by='dleslie', descendants=None, kids=[25814801], score=None, time=1610912671, title=None, item_type='comment', url=None, parent=25813933, text='Most of the world uses Windows.<p>If you&#x27;re building software targeted at most of the world it makes sense to use Windows.')
+Item(by='dleslie', descendants=None, kids=[25814801, 25815721], score=None, time=1610912671, title=None, item_type='comment', url=None, parent=25813933, text='Most of the world uses Windows.<p>If you&#x27;re building software targeted at most of the world it makes sense to use Windows.')

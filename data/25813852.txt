@@ -1,1 +1,1 @@
-Item(by='gilch', descendants=0, kids=None, score=3, time=1610910812, title='Learn to write Lisp macros in Python', item_type='story', url='https://hissp.readthedocs.io/en/v0.2.0/macro_tutorial.html', parent=None, text=None)
+Item(by='gilch', descendants=0, kids=None, score=4, time=1610910812, title='Learn to write Lisp macros in Python', item_type='story', url='https://hissp.readthedocs.io/en/v0.2.0/macro_tutorial.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='blackrock', descendants=None, kids=None, score=None, time=1610905290, title=None, item_type='comment', url=None, parent=25811248, text='Can Falcon Heavy launch payloads with a wider  diameter?<p>I assume they’d have to build an additional adapter to handler wider payloads.')
+Item(by='blackrock', descendants=None, kids=[25817068], score=None, time=1610905290, title=None, item_type='comment', url=None, parent=25811248, text='Can Falcon Heavy launch payloads with a wider  diameter?<p>I assume they’d have to build an additional adapter to handler wider payloads.')

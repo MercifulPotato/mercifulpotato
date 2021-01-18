@@ -1,1 +1,1 @@
-Item(by='namanyayg', descendants=None, kids=None, score=None, time=1610885973, title=None, item_type='comment', url=None, parent=25810000, text='For those unaware, QQ is a desktop IM service by Tencent')
+Item(by='namanyayg', descendants=None, kids=[25815240], score=None, time=1610885973, title=None, item_type='comment', url=None, parent=25810000, text='For those unaware, QQ is a desktop IM service by Tencent')

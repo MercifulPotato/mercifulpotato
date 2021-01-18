@@ -1,0 +1,1 @@
+Item(by='eeperson', descendants=None, kids=None, score=None, time=1610921265, title=None, item_type='comment', url=None, parent=25814852, text='&gt; Don&#x27;t use wayland. Run gnome in xorg mode.<p>Interestingly, for me, I only see some of the issues the GP mention when using xorg instead of wayland.')

@@ -1,0 +1,1 @@
+Item(by='Null-Set', descendants=None, kids=[25817452], score=None, time=1610925490, title=None, item_type='comment', url=None, parent=25815916, text='Cross site scripting can exfiltrate an auth token stored in local storage. An HttpOnly cookie cannot be stolen this way, and with SameSite=strict, CSRF is not an issue.')

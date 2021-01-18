@@ -1,1 +1,1 @@
-Item(by='adithyakk', descendants=None, kids=None, score=None, time=1610900496, title=None, item_type='comment', url=None, parent=25799007, text='Rclone doesn&#x27;t support bi directional sync. The only way to do this is to create two different folders and sync them seperately')
+Item(by='adithyakk', descendants=None, kids=[25815600], score=None, time=1610900496, title=None, item_type='comment', url=None, parent=25799007, text='Rclone doesn&#x27;t support bi directional sync. The only way to do this is to create two different folders and sync them seperately')
