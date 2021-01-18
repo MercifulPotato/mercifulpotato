@@ -1,0 +1,1 @@
+Item(by='ineiti', descendants=None, kids=[25818959], score=None, time=1610951935, title=None, item_type='comment', url=None, parent=25818769, text='Chrome seems to compile before it runs it. Only Firefox takes some lines before it runs it as fast as Chrome. Now I wonder why it takes so long to do the JIT? I always thought that JIT compiles with every execution...')

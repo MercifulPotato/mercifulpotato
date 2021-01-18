@@ -1,1 +1,1 @@
-Item(by='lai-yin', descendants=0, kids=[25817793], score=2, time=1610934811, title='Assembling California (1992)', item_type='story', url='https://www.newyorker.com/magazine/1992/09/07/assembling-california-part-i', parent=None, text=None)
+Item(by='lai-yin', descendants=1, kids=[25817793], score=2, time=1610934811, title='Assembling California (1992)', item_type='story', url='https://www.newyorker.com/magazine/1992/09/07/assembling-california-part-i', parent=None, text=None)

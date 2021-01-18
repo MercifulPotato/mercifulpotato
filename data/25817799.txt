@@ -1,1 +1,1 @@
-Item(by='sjg007', descendants=None, kids=None, score=None, time=1610940848, title=None, item_type='comment', url=None, parent=25817758, text='You can buy prechopped onions either fresh or frozen.  Also there’s the smashy oxo onion chopper thing but it works better for garlic really.')
+Item(by='sjg007', descendants=None, kids=[25818444], score=None, time=1610940848, title=None, item_type='comment', url=None, parent=25817758, text='You can buy prechopped onions either fresh or frozen.  Also there’s the smashy oxo onion chopper thing but it works better for garlic really.')

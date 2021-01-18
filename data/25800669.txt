@@ -1,1 +1,1 @@
-Item(by='raister', descendants=None, kids=None, score=None, time=1610780847, title=None, item_type='comment', url=None, parent=25797107, text='&gt; ... lesser known scientists such as ..., Maxwell, ...<p>Maxwell was already a GIANT in Einstein times.')
+Item(by='raister', descendants=None, kids=[25818275], score=None, time=1610780847, title=None, item_type='comment', url=None, parent=25797107, text='&gt; ... lesser known scientists such as ..., Maxwell, ...<p>Maxwell was already a GIANT in Einstein times.')

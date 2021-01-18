@@ -1,0 +1,1 @@
+Item(by='williamallthing', descendants=None, kids=None, score=None, time=1610945562, title=None, item_type='comment', url=None, parent=25816990, text='If all your experience is with Istio and &quot;layers on top of Istio&quot;, I&#x27;m not surprised you think service meshes need lots of config. Sounds like you need to try Linkerd!')

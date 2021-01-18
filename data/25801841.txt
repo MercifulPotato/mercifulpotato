@@ -1,1 +1,1 @@
-Item(by='rcarmo', descendants=23, kids=[25807540, 25809075, 25807551, 25809180, 25809442, 25810119, 25811504, 25810112, 25807297], score=123, time=1610800495, title='Tiny PDP11 on an ESP32', item_type='story', url='http://spritesmods.com/?art=minipdp11&page=1', parent=None, text=None)
+Item(by='rcarmo', descendants=24, kids=[25807540, 25809075, 25807551, 25809180, 25809442, 25810119, 25811504, 25807297, 25810112], score=125, time=1610800495, title='Tiny PDP11 on an ESP32', item_type='story', url='http://spritesmods.com/?art=minipdp11&page=1', parent=None, text=None)

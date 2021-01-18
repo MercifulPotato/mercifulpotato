@@ -1,1 +1,1 @@
-Item(by='indigodaddy', descendants=0, kids=None, score=2, time=1610940657, title='The Commodore 64 Has A Successor (and it’s amazing)', item_type='story', url='https://www.youtube.com/watch?v=2-voZvEtz48', parent=None, text=None)
+Item(by='indigodaddy', descendants=1, kids=[25818252], score=2, time=1610940657, title='The Commodore 64 Has A Successor (and it’s amazing)', item_type='story', url='https://www.youtube.com/watch?v=2-voZvEtz48', parent=None, text=None)

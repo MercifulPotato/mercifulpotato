@@ -1,1 +1,1 @@
-Item(by='animal_spirits', descendants=None, kids=None, score=None, time=1610809280, title=None, item_type='comment', url=None, parent=25802216, text='This is an anecdote but almost every small plastic thing I can buy in a Walmart here in the States was manufactured in China')
+Item(by='animal_spirits', descendants=None, kids=[25819145], score=None, time=1610809280, title=None, item_type='comment', url=None, parent=25802216, text='This is an anecdote but almost every small plastic thing I can buy in a Walmart here in the States was manufactured in China')

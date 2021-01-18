@@ -1,0 +1,1 @@
+Item(by='Corrado', descendants=None, kids=None, score=None, time=1610954212, title=None, item_type='comment', url=None, parent=25816730, text='Maybe they are trying to bring up multiple sites (ie. AWS regions) for redundancy.  If you have 10 &quot;regions&quot; then maybe hardware requirements look a bit more reasonable (7-10 DB servers each, etc.)')

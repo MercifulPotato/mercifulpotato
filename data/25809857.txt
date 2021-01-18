@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1610882465, title=None, item_type='comment', url=None, parent=25809533, text='Today I learned that the app stores for Windows CE&#x2F;Pocket PC, Symbian, J2ME, BREW, Blackberry never existed.')
+Item(by='pjmlp', descendants=None, kids=[25819495], score=None, time=1610882465, title=None, item_type='comment', url=None, parent=25809533, text='Today I learned that the app stores for Windows CE&#x2F;Pocket PC, Symbian, J2ME, BREW, Blackberry never existed.')

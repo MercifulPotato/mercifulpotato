@@ -1,1 +1,1 @@
-Item(by='manicdee', descendants=None, kids=None, score=None, time=1610925450, title=None, item_type='comment', url=None, parent=25813429, text='&quot;whataboutism&quot; is exactly an accusatory gotcha.')
+Item(by='manicdee', descendants=None, kids=[25818604], score=None, time=1610925450, title=None, item_type='comment', url=None, parent=25813429, text='&quot;whataboutism&quot; is exactly an accusatory gotcha.')
