@@ -1,1 +1,1 @@
-Item(by='theBashShell', descendants=0, kids=None, score=2, time=1611041355, title='VLC 3.0.12 M1 Support', item_type='story', url='https://www.videolan.org/vlc/releases/3.0.12.html', parent=None, text=None)
+Item(by='theBashShell', descendants=1, kids=[25831422], score=3, time=1611041355, title='VLC 3.0.12 M1 Support', item_type='story', url='https://www.videolan.org/vlc/releases/3.0.12.html', parent=None, text=None)

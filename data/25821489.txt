@@ -1,1 +1,1 @@
-Item(by='drtillberg', descendants=0, kids=None, score=4, time=1610975946, title='The Dream Job That Wasn’t: On the pitfalls of “doing what you love.”', item_type='story', url='https://newrepublic.com/article/160918/what-is-your-dream-job-doesnt-exist', parent=None, text=None)
+Item(by='drtillberg', descendants=12, kids=[25833209, 25832814, 25833158, 25832793, 25833101, 25832787], score=19, time=1610975946, title='The Dream Job That Wasn’t', item_type='story', url='https://newrepublic.com/article/160918/what-is-your-dream-job-doesnt-exist', parent=None, text=None)

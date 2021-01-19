@@ -1,0 +1,1 @@
+Item(by='antihero', descendants=None, kids=None, score=None, time=1611069184, title=None, item_type='comment', url=None, parent=25833085, text='It really isn&#x27;t, though? I think redux introduces a LOT of complexity and much prefer something like Mobx-State-Tree, but React has been a total breeze.')

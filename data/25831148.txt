@@ -1,1 +1,1 @@
-Item(by='rich_sasha', descendants=None, kids=None, score=None, time=1611044773, title=None, item_type='comment', url=None, parent=25830810, text='Very interesting. That said, sample size of 59...')
+Item(by='rich_sasha', descendants=None, kids=[25831339], score=None, time=1611044773, title=None, item_type='comment', url=None, parent=25830810, text='Very interesting. That said, sample size of 59...')

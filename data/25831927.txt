@@ -1,0 +1,1 @@
+Item(by='rmu09', descendants=None, kids=[25832602], score=None, time=1611052067, title=None, item_type='comment', url=None, parent=25830387, text='Stepper motors also have resonances that you can excite with typical step pulse trains, that can also lead to missed steps while technically not overstepping the torque budget.')

@@ -1,1 +1,1 @@
-Item(by='arcticbull', descendants=None, kids=None, score=None, time=1611043654, title=None, item_type='comment', url=None, parent=25830728, text='Oversight.')
+Item(by='arcticbull', descendants=None, kids=[25831957], score=None, time=1611043654, title=None, item_type='comment', url=None, parent=25830728, text='Oversight.')

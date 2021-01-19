@@ -1,1 +1,1 @@
-Item(by='ChrisSD', descendants=0, kids=None, score=4, time=1611030131, title='Again on 0-based vs. 1-based indexing', item_type='story', url='https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/', parent=None, text=None)
+Item(by='ChrisSD', descendants=8, kids=[25833359, 25833011, 25833634, 25833320, 25833668, 25832578], score=19, time=1611030131, title='Again on 0-based vs. 1-based indexing', item_type='story', url='https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/', parent=None, text=None)

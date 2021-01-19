@@ -1,1 +1,1 @@
-Item(by='yudlejoza', descendants=None, kids=None, score=None, time=1611019137, title=None, item_type='comment', url=None, parent=25827356, text='- There&#x27;s no such thing as programming.<p>- There&#x27;s only research-programming.')
+Item(by='yudlejoza', descendants=None, kids=[25832233], score=None, time=1611019137, title=None, item_type='comment', url=None, parent=25827356, text='- There&#x27;s no such thing as programming.<p>- There&#x27;s only research-programming.')

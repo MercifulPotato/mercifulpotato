@@ -1,1 +1,1 @@
-Item(by='swengw', descendants=None, kids=None, score=None, time=1611034541, title=None, item_type='comment', url=None, parent=25828461, text='does it still look bad if you use a log scale?')
+Item(by='swengw', descendants=None, kids=[25831585], score=None, time=1611034541, title=None, item_type='comment', url=None, parent=25828461, text='does it still look bad if you use a log scale?')

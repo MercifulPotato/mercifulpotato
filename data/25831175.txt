@@ -1,1 +1,1 @@
-Item(by='amadvance', descendants=None, kids=None, score=None, time=1611045007, title=None, item_type='comment', url=None, parent=25830767, text='I think that adding a feature to an existing software product is more like adding a new floor to an existing house.')
+Item(by='amadvance', descendants=None, kids=[25831723], score=None, time=1611045007, title=None, item_type='comment', url=None, parent=25830767, text='I think that adding a feature to an existing software product is more like adding a new floor to an existing house.')

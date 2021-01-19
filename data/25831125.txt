@@ -1,0 +1,1 @@
+Item(by='weddpros', descendants=None, kids=[25831844, 25831476, 25831332], score=None, time=1611044557, title=None, item_type='comment', url=None, parent=25820057, text='I would start n goroutines select&#x27;ing on the same bounded channel, which I find much simpler... or did I miss something?')

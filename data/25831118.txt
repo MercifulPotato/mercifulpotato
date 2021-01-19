@@ -1,1 +1,1 @@
-Item(by='rcarmo', descendants=0, kids=[25831149], score=2, time=1611044483, title="Hacker News styles that aren't an eyesore", item_type='story', url='https://changelog.com/news/hacker-news-styles-that-arent-an-eyesore-DnP6', parent=None, text=None)
+Item(by='rcarmo', descendants=2, kids=[25831488, 25831429, 25831149], score=3, time=1611044483, title="Hacker News styles that aren't an eyesore", item_type='story', url='https://changelog.com/news/hacker-news-styles-that-arent-an-eyesore-DnP6', parent=None, text=None)

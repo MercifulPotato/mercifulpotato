@@ -1,1 +1,1 @@
-Item(by='craftinator', descendants=None, kids=None, score=None, time=1611036961, title=None, item_type='comment', url=None, parent=25830166, text='Upgrade the controller. For a hobbyist machine, the ESP32 CNC controller sold on Tindie is well suited to deal with that, and costs ~$35.')
+Item(by='craftinator', descendants=None, kids=[25832856], score=None, time=1611036961, title=None, item_type='comment', url=None, parent=25830166, text='Upgrade the controller. For a hobbyist machine, the ESP32 CNC controller sold on Tindie is well suited to deal with that, and costs ~$35.')

@@ -1,1 +1,1 @@
-Item(by='yarcob', descendants=None, kids=None, score=None, time=1610989832, title=None, item_type='comment', url=None, parent=25823397, text='I think E14 bulbs are just too small for high power output. I only use them for accent lights that don&#x27;t need a lot of power.')
+Item(by='yarcob', descendants=None, kids=[25831084], score=None, time=1610989832, title=None, item_type='comment', url=None, parent=25823397, text='I think E14 bulbs are just too small for high power output. I only use them for accent lights that don&#x27;t need a lot of power.')
