@@ -1,1 +1,1 @@
-Item(by='langitbiru', descendants=None, kids=None, score=None, time=1611038873, title=None, item_type='comment', url=None, parent=25827817, text='Hi there. That is in my todo list. Also, I will support Edge.')
+Item(by='langitbiru', descendants=None, kids=[25837928], score=None, time=1611038873, title=None, item_type='comment', url=None, parent=25827817, text='Hi there. That is in my todo list. Also, I will support Edge.')

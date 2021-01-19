@@ -1,1 +1,1 @@
-Item(by='tomquirk', descendants=0, kids=None, score=4, time=1611062848, title='Show HN: ZuccNet – Encrypted Facebook Messaging', item_type='story', url='https://github.com/tomquirk/zuccnet#zuccnet', parent=None, text=None)
+Item(by='tomquirk', descendants=31, kids=[25836199, 25835953, 25837787, 25836504, 25838024, 25835838, 25836950, 25838357, 25838179, 25835990, 25836983, 25836460], score=59, time=1611062848, title='Show HN: ZuccNet – Encrypted Facebook Messaging', item_type='story', url='https://github.com/tomquirk/zuccnet#zuccnet', parent=None, text=None)

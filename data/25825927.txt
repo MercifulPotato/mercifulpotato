@@ -1,1 +1,1 @@
-Item(by='lelf', descendants=0, kids=None, score=2, time=1611000147, title='Intentionally Leaking AWS Keys', item_type='story', url='https://brokenco.de/2021/01/15/leaking-aws-keys.html', parent=None, text=None)
+Item(by='lelf', descendants=15, kids=[25837281, 25837131, 25836947, 25836713, 25836755, 25836925, 25837075], score=15, time=1611000147, title='Intentionally Leaking AWS Keys', item_type='story', url='https://brokenco.de/2021/01/15/leaking-aws-keys.html', parent=None, text=None)

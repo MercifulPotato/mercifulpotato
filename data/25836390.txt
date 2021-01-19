@@ -1,0 +1,1 @@
+Item(by='UncleOxidant', descendants=None, kids=None, score=None, time=1611079054, title=None, item_type='comment', url=None, parent=25836179, text='ARM instructions are also much easier to decode than x86 instructions which allowed the M1 designers to have more instruction decoders and this, IIRC, is one of the important contributors to the M1&#x27;s high performance.')

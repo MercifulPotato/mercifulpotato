@@ -1,0 +1,1 @@
+Item(by='cat199', descendants=None, kids=None, score=None, time=1611083734, title=None, item_type='comment', url=None, parent=25832181, text='&gt; ncurses is in general just poor emulation of gui.<p>no, ncurses is an implementation kit for screen-oriented TUIs. CLI, TUI, GUI are all separate things..')

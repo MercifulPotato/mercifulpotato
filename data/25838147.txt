@@ -1,0 +1,1 @@
+Item(by='mukel', descendants=1, kids=[25838148], score=1, time=1611086729, title='A meta-circular Java bytecode interpreter for GraalVM', item_type='story', url='https://www.graalvm.org/reference-manual/java-on-truffle/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='wolco5', descendants=None, kids=None, score=None, time=1611018953, title=None, item_type='comment', url=None, parent=25827565, text='I&#x27;ve seen this happen and the entire process of adding new drugs and waiting a week or more between visits seems cruel.')
+Item(by='wolco5', descendants=None, kids=[25834203], score=None, time=1611018953, title=None, item_type='comment', url=None, parent=25827565, text='I&#x27;ve seen this happen and the entire process of adding new drugs and waiting a week or more between visits seems cruel.')

@@ -1,1 +1,1 @@
-Item(by='johnjackjames', descendants=0, kids=None, score=1, time=1611062147, title='Linux and Powershell', item_type='story', url='https://matteoguadrini.github.io/posts/linux-and-powershell/', parent=None, text=None)
+Item(by='johnjackjames', descendants=58, kids=[25834823, 25836034, 25835485, 25835434, 25834827, 25835385, 25835423, 25835309, 25835382], score=30, time=1611062147, title='Linux and Powershell', item_type='story', url='https://matteoguadrini.github.io/posts/linux-and-powershell/', parent=None, text=None)

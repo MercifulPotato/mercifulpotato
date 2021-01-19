@@ -1,1 +1,1 @@
-Item(by='dgb23', descendants=None, kids=None, score=None, time=1610969066, title=None, item_type='comment', url=None, parent=25817714, text='I see! This would be the standard server side &#x2F; pre-rendered approach. I somehow thought you did a client side solution w&#x2F;o JS.')
+Item(by='dgb23', descendants=None, kids=[25836331], score=None, time=1610969066, title=None, item_type='comment', url=None, parent=25817714, text='I see! This would be the standard server side &#x2F; pre-rendered approach. I somehow thought you did a client side solution w&#x2F;o JS.')

@@ -1,1 +1,1 @@
-Item(by='christiansakai', descendants=None, kids=None, score=None, time=1611003073, title=None, item_type='comment', url=None, parent=25820533, text='Dang, this is what I call creative coding.')
+Item(by='christiansakai', descendants=None, kids=[25836238], score=None, time=1611003073, title=None, item_type='comment', url=None, parent=25820533, text='Dang, this is what I call creative coding.')

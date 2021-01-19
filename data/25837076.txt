@@ -1,0 +1,1 @@
+Item(by='mceachen', descendants=None, kids=None, score=None, time=1611082234, title=None, item_type='comment', url=None, parent=25835158, text='At least for your photos, you probably want to use Google Takeout. Rclone is wonderful, but Google&#x27;s photo api strips off GPS tags from all your files.<p>PhotoStructure will dedupe your Google Takeout, FWIW.')

@@ -1,0 +1,1 @@
+Item(by='sitkack', descendants=None, kids=[25834641, 25835457], score=None, time=1611069873, title=None, item_type='comment', url=None, parent=25833972, text='One of RISC-V&#x27;s main goals is to be boring and extensible. Think if it as the control-plane core, or the EFI for a larger system. You would take RISC-V and use it drive your novel VLIW processor.')

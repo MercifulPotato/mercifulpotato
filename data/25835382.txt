@@ -1,0 +1,1 @@
+Item(by='hyperion2010', descendants=None, kids=None, score=None, time=1611075089, title=None, item_type='comment', url=None, parent=25833122, text='I wish there was a sane way to bootstrap powershell without having to use an existing binary release. It is not surprising thought, you can&#x27;t bootstrap bash using .net core either.')

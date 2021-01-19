@@ -1,1 +1,1 @@
-Item(by='sighingnow', descendants=6, kids=[25833733, 25832832], score=31, time=1611059411, title='Vineyard: An open-source in-memory data manager', item_type='story', url='https://github.com/alibaba/libvineyard', parent=None, text=None)
+Item(by='sighingnow', descendants=9, kids=[25832832, 25833733], score=88, time=1611059411, title='Vineyard: An open-source in-memory data manager', item_type='story', url='https://github.com/alibaba/libvineyard', parent=None, text=None)

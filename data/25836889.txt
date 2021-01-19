@@ -1,0 +1,1 @@
+Item(by='fniephaus', descendants=0, kids=None, score=2, time=1611081483, title='Espresso: A meta-circular Java bytecode interpreter for the GraalVM', item_type='story', url='https://github.com/oracle/graal/tree/6dd83cd94763b8736b42063f3cbf288b8add4128/espresso', parent=None, text=None)

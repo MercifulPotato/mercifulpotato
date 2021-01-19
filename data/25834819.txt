@@ -1,1 +1,1 @@
-Item(by='neilsense', descendants=None, kids=None, score=None, time=1611072494, title=None, item_type='comment', url=None, parent=25833781, text='Why does this read like a child wrote it?')
+Item(by='neilsense', descendants=None, kids=[25835338, 25834922], score=None, time=1611072494, title=None, item_type='comment', url=None, parent=25833781, text='Why does this read like a child wrote it?')

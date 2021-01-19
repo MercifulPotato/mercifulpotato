@@ -1,0 +1,1 @@
+Item(by='ed25519FUUU', descendants=None, kids=[25835238], score=None, time=1611073129, title=None, item_type='comment', url=None, parent=25834098, text='I’m surprised an RPI can’t be optimized to run the CNN classifier. It has up to 8 GB of ram and a pretty decent integrated GPU.')

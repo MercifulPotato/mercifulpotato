@@ -1,0 +1,1 @@
+Item(by='etimberg', descendants=None, kids=[25837190], score=None, time=1611081356, title=None, item_type='comment', url=None, parent=25836713, text='Or if one really wanted an integration test, why not spin up something link MinIO and test with that. The infrastructure would exist only for the lifetime of the test run.')

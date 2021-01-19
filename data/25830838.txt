@@ -1,1 +1,1 @@
-Item(by='Aeolun', descendants=None, kids=None, score=None, time=1611040820, title=None, item_type='comment', url=None, parent=25826835, text='Just because someone spends 30 years learning something does not mean they learned the right thing.')
+Item(by='Aeolun', descendants=None, kids=[25834940], score=None, time=1611040820, title=None, item_type='comment', url=None, parent=25826835, text='Just because someone spends 30 years learning something does not mean they learned the right thing.')

@@ -1,1 +1,1 @@
-Item(by='wikibob', descendants=None, kids=None, score=None, time=1611033312, title=None, item_type='comment', url=None, parent=25829883, text='Oh My God No!<p>The infection can cause sepsis. You could lose a chunk of your jaw. You can literally die from dental infections.')
+Item(by='wikibob', descendants=None, kids=[25833489], score=None, time=1611033312, title=None, item_type='comment', url=None, parent=25829883, text='Oh My God No!<p>The infection can cause sepsis. You could lose a chunk of your jaw. You can literally die from dental infections.')

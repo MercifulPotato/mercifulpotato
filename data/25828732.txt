@@ -1,1 +1,1 @@
-Item(by='runnr_az', descendants=None, kids=None, score=None, time=1611018017, title=None, item_type='comment', url=None, parent=25823359, text='For what it’s worth, I’m convinced that whoever can make this a $99 box with a great app interface is gonna make a fortune.')
+Item(by='runnr_az', descendants=None, kids=[25835366], score=None, time=1611018017, title=None, item_type='comment', url=None, parent=25823359, text='For what it’s worth, I’m convinced that whoever can make this a $99 box with a great app interface is gonna make a fortune.')

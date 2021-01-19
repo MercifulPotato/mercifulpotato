@@ -1,1 +1,1 @@
-Item(by='detaro', descendants=None, kids=None, score=None, time=1611072847, title=None, item_type='comment', url=None, parent=25834700, text='Code converts to an open-source license after X years.')
+Item(by='detaro', descendants=None, kids=[25837846], score=None, time=1611072847, title=None, item_type='comment', url=None, parent=25834700, text='Code converts to an open-source license after X (e.g. 4) years in BSL. Time will tell how it works out, especially for mature products it could just mean that everyone targets the 4 year old version.')

@@ -1,1 +1,1 @@
-Item(by='insulanian', descendants=2, kids=[25833029], score=13, time=1611049941, title='Ford closes German plant for 1 month as global chip crisis worsens', item_type='story', url='https://edition.cnn.com/2021/01/18/business/ford-auto-chip-shortage/index.html', parent=None, text=None)
+Item(by='insulanian', descendants=4, kids=[25836631, 25833029], score=18, time=1611049941, title='Ford closes German plant for 1 month as global chip crisis worsens', item_type='story', url='https://edition.cnn.com/2021/01/18/business/ford-auto-chip-shortage/index.html', parent=None, text=None)

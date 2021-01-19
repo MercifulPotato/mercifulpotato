@@ -1,1 +1,1 @@
-Item(by='timmb', descendants=None, kids=None, score=None, time=1611067470, title=None, item_type='comment', url=None, parent=25830087, text='Looks like there was a lot of Rothko in the training set')
+Item(by='timmb', descendants=None, kids=[25835731], score=None, time=1611067470, title=None, item_type='comment', url=None, parent=25830087, text='Looks like there was a lot of Rothko in the training set')

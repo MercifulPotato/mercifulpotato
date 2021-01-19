@@ -1,0 +1,1 @@
+Item(by='rascul', descendants=None, kids=[25837712], score=None, time=1611084571, title=None, item_type='comment', url=None, parent=25836674, text='<p><pre><code>  ip --json address show eth0 | jq &#x27;.[0].addr_info [].local&#x27;</code></pre>')

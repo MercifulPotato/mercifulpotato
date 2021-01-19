@@ -1,1 +1,1 @@
-Item(by='jasperpilgrim', descendants=3, kids=[25832643, 25831397, 25831696], score=14, time=1610972051, title='A Study of the “Human Flesh” Search Engine (2010) [pdf]', item_type='story', url='http://www.u.arizona.edu/~qpzhang/paper/HFS_Computer_2010.pdf', parent=None, text=None)
+Item(by='jasperpilgrim', descendants=5, kids=[25831397, 25832643, 25831696], score=20, time=1610972051, title='A Study of the “Human Flesh” Search Engine (2010) [pdf]', item_type='story', url='http://www.u.arizona.edu/~qpzhang/paper/HFS_Computer_2010.pdf', parent=None, text=None)

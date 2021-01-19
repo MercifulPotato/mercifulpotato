@@ -1,0 +1,1 @@
+Item(by='Znafon', descendants=None, kids=[25837464], score=None, time=1611083184, title=None, item_type='comment', url=None, parent=25837281, text='This is a funny idea, I imagine you could do this with other services as well, for example you could use an API Gateway  as long as you give read only keys for API Gateway and Route53?')

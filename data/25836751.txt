@@ -1,0 +1,1 @@
+Item(by='vmception', descendants=None, kids=None, score=None, time=1611080727, title=None, item_type='comment', url=None, parent=25829757, text='Hi, I have a need to know the price of Liquidity Pool shares without relying on many oracles and multiple ABI calls<p>Liquidity pool shares are asset backed by at least two other assets<p>Can Tensorflow help me with keeping pricing?')

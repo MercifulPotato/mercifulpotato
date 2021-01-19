@@ -1,0 +1,1 @@
+Item(by='13of40', descendants=None, kids=None, score=None, time=1611082575, title=None, item_type='comment', url=None, parent=25836589, text='Here&#x27;s what I got:<p>ifconfig | ?{$_ -like &quot;eth0 *&quot;} | %{($_ -Split &quot; &quot;)[-1]}<p>In other words, find the line that starts with &quot;eth0 &quot;, then return the last column using &quot; &quot; as a delimiter.')

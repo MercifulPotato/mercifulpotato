@@ -1,1 +1,1 @@
-Item(by='Borlands', descendants=0, kids=None, score=3, time=1611065180, title='What Parler Saw During the Attack on the Capitol', item_type='story', url='https://projects.propublica.org/parler-capitol-videos/', parent=None, text=None)
+Item(by='Borlands', descendants=18, kids=[25837418, 25834550, 25834509, 25837275], score=71, time=1611065180, title='What Parler Saw During the Attack on the Capitol', item_type='story', url='https://projects.propublica.org/parler-capitol-videos/', parent=None, text=None)

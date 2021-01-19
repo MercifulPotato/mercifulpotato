@@ -1,0 +1,1 @@
+Item(by='marcusmueller', descendants=None, kids=None, score=None, time=1611074939, title=None, item_type='comment', url=None, parent=25824550, text='depends on your linux distro, but on current debian, ubuntu and co, you get 3.8.x.x using `apt install gnuradio`, fedora uses dnf, and so on.<p>On windoofs, `conda` got your back.<p>So, it&#x27;s really gotten better. Yay!')

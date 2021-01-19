@@ -1,1 +1,1 @@
-Item(by='tyingq', descendants=None, kids=None, score=None, time=1611069595, title=None, item_type='comment', url=None, parent=25829020, text='You&#x27;ll need to build a new kernel.  The one in WSL2 isn&#x27;t compiled with KVM support. Once you do that, it should work fine.')
+Item(by='tyingq', descendants=None, kids=[25838081], score=None, time=1611069595, title=None, item_type='comment', url=None, parent=25829020, text='You&#x27;ll need to build a new kernel.  The one in WSL2&#x2F;Ubuntu isn&#x27;t compiled with KVM support. Once you do that, it should work fine.')

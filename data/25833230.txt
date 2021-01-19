@@ -1,1 +1,1 @@
-Item(by='quasimodal', descendants=1, kids=[25833387], score=2, time=1611063073, title='My Favourite Chrome Devtool Features', item_type='story', url='https://emergent.systems/posts/devtools/', parent=None, text=None)
+Item(by='quasimodal', descendants=2, kids=[25833387, 25834251], score=3, time=1611063073, title='My Favourite Chrome Devtool Features', item_type='story', url='https://emergent.systems/posts/devtools/', parent=None, text=None)

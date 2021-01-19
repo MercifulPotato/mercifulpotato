@@ -1,1 +1,1 @@
-Item(by='dbt00', descendants=None, kids=None, score=None, time=1611041663, title=None, item_type='comment', url=None, parent=25829748, text='And remember, if a source hands you a printout from inside a secure facility, do not print a verbatim picture of the printout....')
+Item(by='dbt00', descendants=None, kids=[25834876], score=None, time=1611041663, title=None, item_type='comment', url=None, parent=25829748, text='And remember, if a source hands you a printout from inside a secure facility, do not print a verbatim picture of the printout....')

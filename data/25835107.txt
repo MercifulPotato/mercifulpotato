@@ -1,0 +1,1 @@
+Item(by='Tarean', descendants=None, kids=None, score=None, time=1611073816, title=None, item_type='comment', url=None, parent=25835040, text='For commands you use frequently you can still use shortforms, positional arguments, and tab completion, though.<p>For instance in powershell you can also do:<p><pre><code>    ls -r foo</code></pre>')

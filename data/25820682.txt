@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1610969633, title=None, item_type='comment', url=None, parent=25817491, text='If you want to pretend you’re the moderator of this place, please try and imitate their friendly style.')
+Item(by='tinus_hn', descendants=None, kids=[25824009], score=None, time=1610969633, title=None, item_type='comment', url=None, parent=25817491, text='If you want to pretend you’re the moderator of this place, please try and imitate their friendly style.')

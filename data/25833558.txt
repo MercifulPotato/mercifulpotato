@@ -1,0 +1,1 @@
+Item(by='makeworld', descendants=None, kids=[25833891, 25834206], score=None, time=1611065721, title=None, item_type='comment', url=None, parent=25831844, text='Where is that semaphore struct from? I can&#x27;t find sync.NewSemaphore in &quot;sync&quot; or &quot;golang.org&#x2F;x&#x2F;sync&quot;.')

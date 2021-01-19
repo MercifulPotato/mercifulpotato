@@ -1,1 +1,1 @@
-Item(by='bagpuss', descendants=None, kids=None, score=None, time=1611060373, title=None, item_type='comment', url=None, parent=25832940, text='looks like abuse of the FAQ system<p>Google USA result seems to show it as #1 but it is not displayed on the loaded page')
+Item(by='bagpuss', descendants=None, kids=[25834788], score=None, time=1611060373, title=None, item_type='comment', url=None, parent=25832940, text='looks like abuse of the FAQ system<p>Google USA result seems to show it as #1 but it is not displayed on the loaded page')

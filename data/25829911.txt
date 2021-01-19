@@ -1,1 +1,1 @@
-Item(by='je42', descendants=None, kids=None, score=None, time=1611029545, title=None, item_type='comment', url=None, parent=25828237, text='so we were wondering which &quot;continuous glucose sensor&quot; and how you were able to extract the data from it.')
+Item(by='je42', descendants=None, kids=[25838771], score=None, time=1611029545, title=None, item_type='comment', url=None, parent=25828237, text='so we were wondering which &quot;continuous glucose sensor&quot; and how you were able to extract the data from it.')

@@ -1,0 +1,1 @@
+Item(by='mmcwilliams', descendants=None, kids=None, score=None, time=1611082747, title=None, item_type='comment', url=None, parent=25831689, text='In theory you could test this by using the web client and seeing if the watermarking occurs and even examining the web client code directly. Of course at that point you could just decompile the native client to the same ends.')
