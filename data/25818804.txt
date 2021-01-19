@@ -1,1 +1,1 @@
-Item(by='himujjal', descendants=None, kids=None, score=None, time=1610950977, title=None, item_type='comment', url=None, parent=25815949, text='github.com&#x2F;rxi&#x2F;lite-editor')
+Item(by='himujjal', descendants=None, kids=[25828798], score=None, time=1610950977, title=None, item_type='comment', url=None, parent=25815949, text='github.com&#x2F;rxi&#x2F;lite-editor')

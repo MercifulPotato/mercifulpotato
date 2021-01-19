@@ -1,0 +1,1 @@
+Item(by='dandanua', descendants=None, kids=None, score=None, time=1611011716, title=None, item_type='comment', url=None, parent=25823955, text='Ah, XORing is indeed addition in F_{2^k}. It&#x27;s not addition in Z_{2^k}, though. I was thinking about summation modulo prime number, in this case Z_p = F_p.')

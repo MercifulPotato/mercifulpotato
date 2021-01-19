@@ -1,1 +1,1 @@
-Item(by='MikeUt', descendants=None, kids=None, score=None, time=1610996054, title=None, item_type='comment', url=None, parent=25824777, text='You&#x27;re discussing law as it currently stands, while the original poster proposed changing the law.')
+Item(by='MikeUt', descendants=None, kids=[25827890], score=None, time=1610996054, title=None, item_type='comment', url=None, parent=25824777, text='You&#x27;re discussing law as it currently stands, while the original poster proposed changing the law.')

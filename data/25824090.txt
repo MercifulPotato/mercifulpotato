@@ -1,1 +1,1 @@
-Item(by='bagels', descendants=None, kids=None, score=None, time=1610990721, title=None, item_type='comment', url=None, parent=25822683, text='They still go in to shadow once per orbit typically.')
+Item(by='bagels', descendants=None, kids=[25828157], score=None, time=1610990721, title=None, item_type='comment', url=None, parent=25822683, text='They still go in to shadow once per orbit typically.')

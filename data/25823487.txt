@@ -1,1 +1,1 @@
-Item(by='daniellarusso', descendants=None, kids=None, score=None, time=1610987919, title=None, item_type='comment', url=None, parent=25823412, text='What is the product?<p>What do they take payment for?')
+Item(by='daniellarusso', descendants=None, kids=[25827829], score=None, time=1610987919, title=None, item_type='comment', url=None, parent=25823412, text='What is the product?<p>What do they take payment for?')

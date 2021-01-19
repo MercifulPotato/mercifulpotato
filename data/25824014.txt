@@ -1,1 +1,1 @@
-Item(by='GordonS', descendants=0, kids=None, score=8, time=1610990366, title='Enterprise UX is amazing. Change my mind', item_type='story', url='https://uxdesign.cc/enterprise-ux-is-amazing-change-my-mind-210dd9cff968', parent=None, text=None)
+Item(by='GordonS', descendants=5, kids=[25829065, 25827991, 25826825], score=15, time=1610990366, title='Enterprise UX is amazing. Change my mind', item_type='story', url='https://uxdesign.cc/enterprise-ux-is-amazing-change-my-mind-210dd9cff968', parent=None, text=None)

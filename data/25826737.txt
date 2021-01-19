@@ -1,1 +1,1 @@
-Item(by='dwighttk', descendants=None, kids=None, score=None, time=1611004600, title=None, item_type='comment', url=None, parent=25821664, text='Too bad it isn’t Reddit, I’d love to see the weightlifters arguing over how many days are in a week.')
+Item(by='dwighttk', descendants=None, kids=[25828501], score=None, time=1611004600, title=None, item_type='comment', url=None, parent=25821664, text='Too bad it isn’t Reddit, I’d love to see the weightlifters arguing over how many days are in a week.')

@@ -1,1 +1,1 @@
-Item(by='groar', descendants=3, kids=[25825027], score=15, time=1610979929, title='Google breaks the trillion-parameter ceiling with the Switch Transformer', item_type='story', url='https://arxiv.org/abs/2101.03961', parent=None, text=None)
+Item(by='groar', descendants=3, kids=[25825027], score=30, time=1610979929, title='Google breaks the trillion-parameter ceiling with the Switch Transformer', item_type='story', url='https://arxiv.org/abs/2101.03961', parent=None, text=None)

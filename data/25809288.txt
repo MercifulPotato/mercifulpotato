@@ -1,1 +1,1 @@
-Item(by='lukastyrychtr', descendants=1, kids=[25809521], score=4, time=1610874053, title='Hecto: Build your own text editor in Rust', item_type='story', url='https://www.philippflenker.com/hecto/', parent=None, text=None)
+Item(by='lukastyrychtr', descendants=12, kids=[25827139, 25809521, 25828589, 25828652, 25827977, 25828091], score=65, time=1610874053, title='Hecto: Build your own text editor in Rust', item_type='story', url='https://www.philippflenker.com/hecto/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='StavrosK', descendants=None, kids=[25829094], score=None, time=1611021221, title=None, item_type='comment', url=None, parent=25809640, text='Is there any chance that this won&#x27;t be terribly slow&#x2F;janky? I had tried installing OS X under QEMU a while back, and you could use KVM to make it faster (IIRC), but it was very tricky to set up.')

@@ -1,1 +1,1 @@
-Item(by='ivanmaeder', descendants=3, kids=[25825123, 25824333], score=4, time=1610985712, title='Programming language index 2020 (TIOBE)', item_type='story', url='https://www.tiobe.com/tiobe-index/', parent=None, text=None)
+Item(by='ivanmaeder', descendants=4, kids=[25825123, 25824333], score=4, time=1610985712, title='Programming language index 2020 (TIOBE)', item_type='story', url='https://www.tiobe.com/tiobe-index/', parent=None, text=None)

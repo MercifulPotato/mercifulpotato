@@ -1,1 +1,1 @@
-Item(by='kevin_thibedeau', descendants=None, kids=None, score=None, time=1610949111, title=None, item_type='comment', url=None, parent=25818401, text='DDG is Bing and Yandex.')
+Item(by='kevin_thibedeau', descendants=None, kids=[25830022], score=None, time=1610949111, title=None, item_type='comment', url=None, parent=25818401, text='DDG is Bing and Yandex.')

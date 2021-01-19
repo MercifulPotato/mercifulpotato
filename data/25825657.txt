@@ -1,1 +1,1 @@
-Item(by='cycomanic', descendants=0, kids=None, score=2, time=1610998790, title='DSP Performance Comparison Numpy vs. Cython vs. Numba vs. Pythran vs. Julia', item_type='story', url='https://jochenschroeder.com/blog/articles/DSP_with_Python2/', parent=None, text=None)
+Item(by='cycomanic', descendants=1, kids=[25827735], score=2, time=1610998790, title='DSP Performance Comparison Numpy vs. Cython vs. Numba vs. Pythran vs. Julia', item_type='story', url='https://jochenschroeder.com/blog/articles/DSP_with_Python2/', parent=None, text=None)

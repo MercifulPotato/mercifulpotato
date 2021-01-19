@@ -1,1 +1,1 @@
-Item(by='SilasX', descendants=None, kids=None, score=None, time=1610988006, title=None, item_type='comment', url=None, parent=25822651, text='Wow, that’s a cool site! I’ve never seen orbiting satellites visualized like that. (But of course, also haven’t sought any out.)')
+Item(by='SilasX', descendants=None, kids=[25828053], score=None, time=1610988006, title=None, item_type='comment', url=None, parent=25822651, text='Wow, that’s a cool site! I’ve never seen orbiting satellites visualized like that. (But of course, also haven’t sought any out.)')

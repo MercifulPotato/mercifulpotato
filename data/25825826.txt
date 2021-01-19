@@ -1,1 +1,1 @@
-Item(by='hasheddan', descendants=0, kids=None, score=1, time=1610999541, title='Automatic Documentation for Kubernetes CRDs', item_type='story', url='https://doc.crds.dev/', parent=None, text=None)
+Item(by='hasheddan', descendants=1, kids=[25828120], score=2, time=1610999541, title='Automatic Documentation for Kubernetes CRDs', item_type='story', url='https://doc.crds.dev/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='tape_measure', descendants=None, kids=None, score=None, time=1610996816, title=None, item_type='comment', url=None, parent=25823210, text='<i>£9.15 per item [independent of its cost]</i><p>That&#x27;s basically what a copay is.')
+Item(by='tape_measure', descendants=None, kids=[25828429], score=None, time=1610996816, title=None, item_type='comment', url=None, parent=25823210, text='<i>£9.15 per item [independent of its cost]</i><p>That&#x27;s basically what a copay is.')

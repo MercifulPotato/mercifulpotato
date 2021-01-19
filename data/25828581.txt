@@ -1,0 +1,1 @@
+Item(by='eric_landau', descendants=None, kids=[25828646], score=None, time=1611016825, title=None, item_type='comment', url=None, parent=25828520, text='Really just depends on the task. For this particular case I used a Faster-RCNN model with weights pretrained on the COCO dataset')

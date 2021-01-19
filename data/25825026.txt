@@ -1,1 +1,1 @@
-Item(by='tantalor', descendants=None, kids=None, score=None, time=1610995548, title=None, item_type='comment', url=None, parent=25824030, text='They still deliver phone book to my house every year. I use it for kindling.')
+Item(by='tantalor', descendants=None, kids=[25827114], score=None, time=1610995548, title=None, item_type='comment', url=None, parent=25824030, text='They still deliver phone book to my house every year. I use it for kindling.')

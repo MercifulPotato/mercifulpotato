@@ -1,0 +1,1 @@
+Item(by='cheeze', descendants=None, kids=[25829070], score=None, time=1611014721, title=None, item_type='comment', url=None, parent=25827441, text='Doesn&#x27;t look like traffic is being routed through Russia, as the first tweet implies. They are using DDOS-Guard, which routes over Telia. In my (US) traceroute, traffic never leaves the states')

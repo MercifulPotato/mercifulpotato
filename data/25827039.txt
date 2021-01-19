@@ -1,0 +1,1 @@
+Item(by='mirekrusin', descendants=None, kids=None, score=None, time=1611006317, title=None, item_type='comment', url=None, parent=25825529, text='The problem is potentially solvable as generating solutions takes a lot of GPU time and verifying it is very fast. Aquiring input data may be a problem, but should be possible with dedicated models for this type of computation.')

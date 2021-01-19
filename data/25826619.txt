@@ -1,0 +1,1 @@
+Item(by='nilkanthjp', descendants=None, kids=[25826664], score=None, time=1611003952, title=None, item_type='comment', url=None, parent=25826521, text='Nice. do you have plans to abstract the db layer further for non firebase + relational stores? Specifically like a tighter integration for postgres maybe?')

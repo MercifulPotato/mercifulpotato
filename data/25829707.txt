@@ -1,0 +1,1 @@
+Item(by='Izkata', descendants=None, kids=None, score=None, time=1611027269, title=None, item_type='comment', url=None, parent=25826611, text='Uh,<p><pre><code>  def swap(a, b):\n      return b, a\n</code></pre>\n?<p>Or since this is presumably python, just inline it without a function:<p><pre><code>  (a, b) = (b, a)</code></pre>')
