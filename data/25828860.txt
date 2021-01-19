@@ -1,1 +1,1 @@
-Item(by='clouddrover', descendants=0, kids=None, score=5, time=1611019250, title='The new mosquito bringing disease to North America', item_type='story', url='https://www.bbc.com/future/article/20210115-aedes-vittatus-a-mosquito-that-carries-zika-and-dengue', parent=None, text=None)
+Item(by='clouddrover', descendants=1, kids=[25830716], score=9, time=1611019250, title='The new mosquito bringing disease to North America', item_type='story', url='https://www.bbc.com/future/article/20210115-aedes-vittatus-a-mosquito-that-carries-zika-and-dengue', parent=None, text=None)

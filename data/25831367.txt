@@ -1,0 +1,1 @@
+Item(by='_0ffh', descendants=None, kids=[25831413, 25831395], score=None, time=1611046961, title=None, item_type='comment', url=None, parent=25831303, text='So if masking is used, I assume compressing the audio with any modern compression scheme from mp3 up should defeat that shouldn&#x27;t it (because they drop masked signals to save bandwidth)?')

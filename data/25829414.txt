@@ -1,1 +1,1 @@
-Item(by='etxm', descendants=0, kids=None, score=1, time=1611024405, title='AWS UI', item_type='story', url='https://www.npmjs.com/package/@awsui/components-react', parent=None, text=None)
+Item(by='etxm', descendants=1, kids=[25830251], score=1, time=1611024405, title='AWS UI', item_type='story', url='https://www.npmjs.com/package/@awsui/components-react', parent=None, text=None)

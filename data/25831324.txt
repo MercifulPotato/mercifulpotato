@@ -1,0 +1,1 @@
+Item(by='luch', descendants=None, kids=None, score=None, time=1611046593, title=None, item_type='comment', url=None, parent=25830172, text='I think the better hack would be to run it into a speech-to-text transcoder, and then use a vocoder to play it back.<p>You lose the &quot;voice&quot; in the process, but in some situations it might actually be fine')

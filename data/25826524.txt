@@ -1,1 +1,1 @@
-Item(by='bagels', descendants=None, kids=None, score=None, time=1611003356, title=None, item_type='comment', url=None, parent=25824288, text='90 mins at 400km vs 110 mins at 1400km')
+Item(by='bagels', descendants=None, kids=[25830434], score=None, time=1611003356, title=None, item_type='comment', url=None, parent=25824288, text='90 mins at 400km vs 110 mins at 1400km')

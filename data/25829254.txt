@@ -1,1 +1,1 @@
-Item(by='cortesoft', descendants=None, kids=None, score=None, time=1611022883, title=None, item_type='comment', url=None, parent=25828662, text='It is the magic string in the hit repo that is not allowed')
+Item(by='cortesoft', descendants=None, kids=[25830782], score=None, time=1611022883, title=None, item_type='comment', url=None, parent=25828662, text='It is the magic string in the hit repo that is not allowed')

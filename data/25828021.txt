@@ -1,1 +1,1 @@
-Item(by='ekez', descendants=1, kids=[25828044], score=2, time=1611012567, title='Implementing Closures in a Compiled Lisp', item_type='story', url='https://zmedley.com/closures.html', parent=None, text=None)
+Item(by='ekez', descendants=1, kids=[25828044], score=3, time=1611012567, title='Implementing Closures in a Compiled Lisp', item_type='story', url='https://zmedley.com/closures.html', parent=None, text=None)

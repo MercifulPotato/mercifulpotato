@@ -1,0 +1,1 @@
+Item(by='ed25519FUUU', descendants=None, kids=[25830475, 25830486], score=None, time=1611034567, title=None, item_type='comment', url=None, parent=25829748, text='How do you remove an &quot;invisible&quot; watermark from an audio file? Is it just a frequency outside of normal hearing that can be removed by re-compressing the audio to remove the high and low range sounds?')

@@ -1,0 +1,1 @@
+Item(by='jfrd', descendants=None, kids=None, score=None, time=1611027933, title=None, item_type='comment', url=None, parent=25828799, text='You could use a co-routine to generate the magic numbers. Something like this:<p><pre><code>  def gen_magic_nums():\n     for i in range(100):\n        yield i**2\n\n  for num in gen_magic_nums():\n     add_to_plot(num)</code></pre>')

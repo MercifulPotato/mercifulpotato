@@ -1,1 +1,1 @@
-Item(by='ibraheemdev', descendants=None, kids=None, score=None, time=1611021666, title=None, item_type='comment', url=None, parent=25828091, text='&gt; some say every programmer should build an editor at least once<p>Really? That doesn&#x27;t sound like something anyone would say :)')
+Item(by=None, descendants=None, kids=None, score=None, time=1611021666, title=None, item_type='comment', url=None, parent=25828091, text=None)

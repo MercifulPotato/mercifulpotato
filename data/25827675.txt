@@ -1,1 +1,1 @@
-Item(by='echelon', descendants=None, kids=None, score=None, time=1611010196, title=None, item_type='comment', url=None, parent=25821533, text='Do you have a personal Twitter account I can follow? Your career is one I&#x27;d like to follow.')
+Item(by='echelon', descendants=None, kids=[25830849], score=None, time=1611010196, title=None, item_type='comment', url=None, parent=25821533, text='Do you have a personal Twitter account I can follow? Your career is one I&#x27;d like to follow.')
