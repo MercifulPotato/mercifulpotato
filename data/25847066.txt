@@ -1,1 +1,1 @@
-Item(by='gorbachev', descendants=None, kids=None, score=None, time=1611154321, title=None, item_type='comment', url=None, parent=25847021, text='Who in their right mind would work for him?')
+Item(by='gorbachev', descendants=None, kids=[25847292, 25847286, 25848256], score=None, time=1611154321, title=None, item_type='comment', url=None, parent=25847021, text='Who in their right mind would work for him?')

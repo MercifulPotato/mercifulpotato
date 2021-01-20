@@ -1,1 +1,1 @@
-Item(by='ex3ndr', descendants=None, kids=None, score=None, time=1611153623, title=None, item_type='comment', url=None, parent=25846008, text='Isn&#x27;t latest generation is $100 cheaper and apple usually cheaper than windows-based.')
+Item(by='ex3ndr', descendants=None, kids=[25847800], score=None, time=1611153623, title=None, item_type='comment', url=None, parent=25846008, text='Isn&#x27;t latest generation is $100 cheaper and apple usually cheaper than windows-based.')

@@ -1,1 +1,1 @@
-Item(by='sontek', descendants=None, kids=None, score=None, time=1611151708, title=None, item_type='comment', url=None, parent=25846436, text='Yes it does.  I use brave and I get testicles if I click the link.')
+Item(by='sontek', descendants=None, kids=[25851594], score=None, time=1611151708, title=None, item_type='comment', url=None, parent=25846436, text='Yes it does.  I use brave and I get testicles if I click the link.')

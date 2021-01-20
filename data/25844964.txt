@@ -1,1 +1,1 @@
-Item(by='KarlKode', descendants=None, kids=[25845093, 25845159], score=None, time=1611140723, title=None, item_type='comment', url=None, parent=25844797, text='But shouldn&#x27;t it be [-0] to get the last element if [0] denotes the first element?')
+Item(by='KarlKode', descendants=None, kids=[25845093, 25849689, 25845159], score=None, time=1611140723, title=None, item_type='comment', url=None, parent=25844797, text='But shouldn&#x27;t it be [-0] to get the last element if [0] denotes the first element?')

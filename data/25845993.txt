@@ -1,1 +1,1 @@
-Item(by='smitty1e', descendants=None, kids=None, score=None, time=1611148382, title=None, item_type='comment', url=None, parent=25845290, text='I was going to go with &quot;bi-stable circuits, building up to half-adders&quot;, but you leapfrogged me there adroitly.')
+Item(by='smitty1e', descendants=None, kids=[25847847], score=None, time=1611148382, title=None, item_type='comment', url=None, parent=25845290, text='I was going to go with &quot;bi-stable circuits, building up to half-adders&quot;, but you leapfrogged me there adroitly.')

@@ -1,1 +1,1 @@
-Item(by='tarboreus', descendants=None, kids=None, score=None, time=1611081518, title=None, item_type='comment', url=None, parent=25836407, text='Accusing people of bad faith is against HN policy.')
+Item(by='tarboreus', descendants=None, kids=[25850599], score=None, time=1611081518, title=None, item_type='comment', url=None, parent=25836407, text='Accusing people of bad faith is against HN policy.')

@@ -1,0 +1,1 @@
+Item(by='adwn', descendants=None, kids=None, score=None, time=1611173197, title=None, item_type='comment', url=None, parent=25850537, text='&gt; <i>Since the address of arr is statically known [...]</i><p>No, that&#x27;s almost <i>never</i> the case – only when accessing a static array. Typically, that restricts it to static look-up tables and very simple embedded systems.')

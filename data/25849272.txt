@@ -1,0 +1,1 @@
+Item(by='phreeza', descendants=None, kids=[25849676], score=None, time=1611164159, title=None, item_type='comment', url=None, parent=25848542, text='Apache Beam seems to be an implementation of this idea. It works well when the things you have to do matches the logic, but it gets tricky if you need to do stuff iteratively or recursively.')

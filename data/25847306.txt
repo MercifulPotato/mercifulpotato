@@ -1,0 +1,1 @@
+Item(by='vngzs', descendants=None, kids=[25847356], score=None, time=1611155508, title=None, item_type='comment', url=None, parent=25847161, text='I haven&#x27;t actually tried this, but based on my understanding of the MS-DOS memory model it should read the contents of memory at address 0.')

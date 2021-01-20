@@ -1,1 +1,1 @@
-Item(by='Grustaf', descendants=None, kids=None, score=None, time=1610919039, title=None, item_type='comment', url=None, parent=25814781, text='The printed dot in a CMYK raster doesn&#x27;t mix pigments either!')
+Item(by='Grustaf', descendants=None, kids=[25849950], score=None, time=1610919039, title=None, item_type='comment', url=None, parent=25814781, text='The printed dot in a CMYK raster doesn&#x27;t mix pigments either!')

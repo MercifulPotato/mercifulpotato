@@ -1,0 +1,1 @@
+Item(by='gbrown', descendants=None, kids=None, score=None, time=1611159333, title=None, item_type='comment', url=None, parent=25848030, text='I’ll try to look up details, but I’m fairly confident. I discovered it because I was installing packages on a server which was firewalled, and had the CRAN repository proxied.')

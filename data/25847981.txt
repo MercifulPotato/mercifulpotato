@@ -1,0 +1,1 @@
+Item(by='TuringTest', descendants=None, kids=None, score=None, time=1611158494, title=None, item_type='comment', url=None, parent=25833557, text='Mystery solved<p><pre><code>  0   1   2   3   4   5\n  v   v   v   v   v   v \n  |---|---|---|---|---|---...\n    ^   ^   ^   ^   ^   ^   \n    1   2   3   4   5   6...</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='petschge', descendants=None, kids=None, score=None, time=1611161020, title=None, item_type='comment', url=None, parent=25848313, text='And of course there is C++ libraries to do the same. For example the blitz++ library. Negative indices to the left of element[0] are great for ghost zones in codes that do domain decomposition over different MPI ranks.')

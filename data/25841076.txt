@@ -1,1 +1,1 @@
-Item(by='warxmike', descendants=None, kids=[25841586], score=None, time=1611102971, title=None, item_type='comment', url=None, parent=25840960, text='this is scary, shouldn&#x27;t there be a way in which we can ship source code (maybe compressed) with the wasm stuff?')
+Item(by='warxmike', descendants=None, kids=[25851334, 25841586], score=None, time=1611102971, title=None, item_type='comment', url=None, parent=25840960, text='this is scary, shouldn&#x27;t there be a way in which we can ship source code (maybe compressed) with the wasm stuff?')

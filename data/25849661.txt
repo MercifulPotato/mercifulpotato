@@ -1,0 +1,1 @@
+Item(by='gspr', descendants=None, kids=[25850847], score=None, time=1611165872, title=None, item_type='comment', url=None, parent=25849335, text='Yes. There are essential Rust components in Firefox, and the only serious Rust compiler uses LLVM. (This has nothing to do with clang as someone else suggests)')

@@ -1,0 +1,1 @@
+Item(by='SpiritLimes', descendants=None, kids=None, score=None, time=1611156606, title=None, item_type='comment', url=None, parent=25847527, text='As a developer who recently switched editor to VS Code it was surprisingly painful to me to find the right extensions to set-up linting and formatting. Created this article by trial and error, it might help someone else too.')

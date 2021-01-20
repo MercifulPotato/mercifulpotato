@@ -1,0 +1,1 @@
+Item(by='parliament32', descendants=None, kids=None, score=None, time=1611163035, title=None, item_type='comment', url=None, parent=25838381, text='Indeed, but why is starting from 1 the default? Literally no other software does this except for htop, and the numbers are meaningless because they&#x27;re off-by-one when you try to compare to anything else.')

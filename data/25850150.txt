@@ -1,0 +1,1 @@
+Item(by='randomdata', descendants=None, kids=[25850835], score=None, time=1611167923, title=None, item_type='comment', url=None, parent=25849465, text='<i>&gt; 1-based indexing is inherently more natural for humans.</i><p>Depends on what you are indexing. Time, for example, is very commonly represented as being 0-based by humans.')

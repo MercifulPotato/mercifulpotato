@@ -1,1 +1,1 @@
-Item(by='yuribro', descendants=31, kids=[25846363, 25845241, 25845213, 25845517, 25845876], score=41, time=1611129468, title='Errors vs. exceptions in Go and C++ in 2020', item_type='story', url='https://dr-knz.net/go-errors-vs-exceptions-2020.html', parent=None, text=None)
+Item(by='yuribro', descendants=63, kids=[25845241, 25848235, 25850509, 25846363, 25845213, 25845517, 25845876], score=58, time=1611129468, title='Errors vs. exceptions in Go and C++ in 2020', item_type='story', url='https://dr-knz.net/go-errors-vs-exceptions-2020.html', parent=None, text=None)

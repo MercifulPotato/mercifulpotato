@@ -1,0 +1,1 @@
+Item(by='Snarwin', descendants=None, kids=[25848148, 25848062], score=None, time=1611158456, title=None, item_type='comment', url=None, parent=25847563, text='The fact that you have to manually type in `apt-get update` (or similar) means it&#x27;s not automatic. You have full control over when the update takes place, and which packages get updated.')

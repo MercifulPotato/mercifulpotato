@@ -1,0 +1,1 @@
+Item(by='frob', descendants=None, kids=[25850304, 25850044], score=None, time=1611164698, title=None, item_type='comment', url=None, parent=25846504, text='Google Chrome now has tab grouping. In Beta, you can click on the group name and collapse the tabs. Based on their reload times, it seems chrome suspends the tabs in the background when you collapse the group.')

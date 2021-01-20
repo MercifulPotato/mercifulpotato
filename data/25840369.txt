@@ -1,1 +1,1 @@
-Item(by='wyldfire', descendants=None, kids=None, score=None, time=1611098694, title=None, item_type='comment', url=None, parent=25839440, text='1. Boom!<p>and: 6. &quot;Stay crispy and stay humble&quot; - sounds like a good new slogan for KFC.')
+Item(by='wyldfire', descendants=None, kids=[25850047], score=None, time=1611098694, title=None, item_type='comment', url=None, parent=25839440, text='1. Boom!<p>and: 6. &quot;Stay crispy and stay humble&quot; - sounds like a good new slogan for KFC.')

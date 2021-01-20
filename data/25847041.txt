@@ -1,1 +1,1 @@
-Item(by='minikites', descendants=None, kids=None, score=None, time=1611154207, title=None, item_type='comment', url=None, parent=25844238, text='No they didn&#x27;t.')
+Item(by='minikites', descendants=None, kids=[25850205], score=None, time=1611154207, title=None, item_type='comment', url=None, parent=25844238, text='No they didn&#x27;t.')

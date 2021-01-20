@@ -1,0 +1,1 @@
+Item(by='Izkata', descendants=None, kids=None, score=None, time=1611165145, title=None, item_type='comment', url=None, parent=25848959, text='It&#x27;s also in the tutor, lesson 1.2<p>But there&#x27;s actually nothing special about vimtutor here:  all it does is write a temporary file and then open it in vim.')

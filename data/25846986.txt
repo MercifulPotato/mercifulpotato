@@ -1,1 +1,1 @@
-Item(by='thunderbong', descendants=None, kids=None, score=None, time=1611153892, title=None, item_type='comment', url=None, parent=25846089, text='Exactly the same as 21st century meaning everything between 2000 - 2099')
+Item(by='thunderbong', descendants=None, kids=[25848197], score=None, time=1611153892, title=None, item_type='comment', url=None, parent=25846089, text='Exactly the same as 21st century meaning everything between 2000 - 2099')

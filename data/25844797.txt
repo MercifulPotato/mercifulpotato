@@ -1,1 +1,1 @@
-Item(by='robertlagrant', descendants=None, kids=[25844964, 25846284, 25845852, 25846116], score=None, time=1611139142, title=None, item_type='comment', url=None, parent=25844705, text='This is why Python has negative indices :) Then it&#x27;s just my_list[-1] or my_list[-2].')
+Item(by='robertlagrant', descendants=None, kids=[25844964, 25850173, 25845852, 25846284, 25846116], score=None, time=1611139142, title=None, item_type='comment', url=None, parent=25844705, text='This is why Python has negative indices :) Then it&#x27;s just my_list[-1] or my_list[-2].')

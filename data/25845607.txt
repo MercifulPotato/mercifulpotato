@@ -1,1 +1,1 @@
-Item(by='tmikaeld', descendants=None, kids=None, score=None, time=1611145604, title=None, item_type='comment', url=None, parent=25845343, text='It doesn&#x27;t but it will have latency when loading in the KV keys for every non-cached request.')
+Item(by='tmikaeld', descendants=None, kids=[25851827], score=None, time=1611145604, title=None, item_type='comment', url=None, parent=25845343, text='It doesn&#x27;t but it will have latency when loading in the KV keys for every non-cached request.')

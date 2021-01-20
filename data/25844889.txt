@@ -1,1 +1,1 @@
-Item(by='rblion', descendants=None, kids=None, score=None, time=1611140044, title=None, item_type='comment', url=None, parent=25843874, text='Imagine if Jurassic Park was real and this happened...')
+Item(by='rblion', descendants=None, kids=[25847760], score=None, time=1611140044, title=None, item_type='comment', url=None, parent=25843874, text='Imagine if Jurassic Park was real and this happened...')

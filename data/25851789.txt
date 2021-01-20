@@ -1,0 +1,1 @@
+Item(by='alexhutcheson', descendants=None, kids=None, score=None, time=1611175718, title=None, item_type='comment', url=None, parent=25850104, text='In that article, Torvalds specifically says:<p>&quot;The main problem with the M1 for me is the GPU and other devices around it&quot;<p>That&#x27;s a separate issue than the ISA extensions, which apply to the ARM CPU.')

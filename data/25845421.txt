@@ -1,1 +1,1 @@
-Item(by='daef', descendants=None, kids=None, score=None, time=1611144360, title=None, item_type='comment', url=None, parent=25845311, text='And nim does 1..&lt;13 and 1..12<p>which is why switching between rust and nim is a real pain in the buttox')
+Item(by='daef', descendants=None, kids=[25848337], score=None, time=1611144360, title=None, item_type='comment', url=None, parent=25845311, text='And nim does 1..&lt;13 and 1..12<p>which is why switching between rust and nim is a real pain in the buttox')

@@ -1,0 +1,1 @@
+Item(by='driverdan', descendants=None, kids=[25850030], score=None, time=1611160143, title=None, item_type='comment', url=None, parent=25847564, text='Installing extensions from a file is supported in the latest mainline FF (84.0.2), nightly or dev are not required. I currently have one installed. It just shows a confirmation dialog and then installs it.')

@@ -1,0 +1,1 @@
+Item(by='flaviuspopan', descendants=None, kids=[25851360], score=None, time=1611164354, title=None, item_type='comment', url=None, parent=25849185, text='Repeats the same command previously run. So if you used &#x27;ci&quot;&#x27; for (change text in quotes) and entered a new string, you can jump to a new line and hit . to replay your last series of commands.')

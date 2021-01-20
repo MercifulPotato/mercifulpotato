@@ -1,0 +1,1 @@
+Item(by='anticensor', descendants=None, kids=None, score=None, time=1611163588, title=None, item_type='comment', url=None, parent=25847209, text='Interestingly, there is a race condition in GNOME lock screen which sometimes blocks sleep until <i>unlocking</i>.')

@@ -1,0 +1,1 @@
+Item(by='kaba0', descendants=None, kids=[25849253, 25848731], score=None, time=1611157256, title=None, item_type='comment', url=None, parent=25846923, text='I think reflection works with GraalVM native compile - the only catch is that the set of classes to be inspected by it should be known beforehand.')

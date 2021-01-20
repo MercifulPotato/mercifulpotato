@@ -1,0 +1,1 @@
+Item(by='softwarefounder', descendants=None, kids=[25849338, 25848815], score=None, time=1611161532, title=None, item_type='comment', url=None, parent=25848349, text='As a startup with 2 engineers, yes, we use Auth0 and love that it handles everything for us at the moment.<p>Especially since we have to handle b2b clients who have their own SSO, etc.')

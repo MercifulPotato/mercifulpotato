@@ -1,0 +1,1 @@
+Item(by='e12e', descendants=None, kids=None, score=None, time=1611161918, title=None, item_type='comment', url=None, parent=25847177, text='Oh, I hate xml as a config language. But at least it has support for comments - unlike json (hacks not withstanding).')

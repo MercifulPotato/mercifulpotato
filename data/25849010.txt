@@ -1,0 +1,1 @@
+Item(by='tpetry', descendants=None, kids=[25849030], score=None, time=1611163033, title=None, item_type='comment', url=None, parent=25846391, text='How does rhel count these „up to 16 systems“? So if i am using 16 physical servers with at least two virtual vmware vms on each machine.<p>Is that setup still 16 systems or do they count the number of virtual machines?')

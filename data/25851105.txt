@@ -1,0 +1,1 @@
+Item(by='eigenspace', descendants=None, kids=None, score=None, time=1611172374, title=None, item_type='comment', url=None, parent=25843970, text='Again, this is not a separate language. This is just a different surface syntax for julia programs. <i>The type system already exists and is implemented</i>.<p>The only thing that needs implementing is a syntactic form.')

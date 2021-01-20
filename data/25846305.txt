@@ -1,1 +1,1 @@
-Item(by='sohkamyung', descendants=0, kids=None, score=2, time=1611150191, title='Ten computer codes that transformed science', item_type='story', url='https://www.nature.com/articles/d41586-021-00075-2', parent=None, text=None)
+Item(by='sohkamyung', descendants=45, kids=[25851449, 25850424, 25848584, 25849708, 25848830, 25848911, 25851370, 25848408, 25851042, 25848516, 25849767, 25848218, 25848457], score=60, time=1611150191, title='Computer codes that transformed science', item_type='story', url='https://www.nature.com/articles/d41586-021-00075-2', parent=None, text=None)

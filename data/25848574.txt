@@ -1,0 +1,1 @@
+Item(by='stefan_', descendants=None, kids=None, score=None, time=1611161071, title=None, item_type='comment', url=None, parent=25841732, text='That baggage means I can at least boot an Intel system without first building my own device tree, then hacking the kernel to <i>actually</i> make it work. Meanwhile over in ARM M1 land, they apparently managed to break <i>wfi</i>.')

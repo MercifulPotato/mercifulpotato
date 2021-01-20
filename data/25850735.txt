@@ -1,0 +1,1 @@
+Item(by='Dylan16807', descendants=None, kids=None, score=None, time=1611170661, title=None, item_type='comment', url=None, parent=25849584, text='Restricting the extension to pre-baked URLs means it takes several page loads to exfiltrate something, but doesn&#x27;t stop it.')

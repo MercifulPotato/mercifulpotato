@@ -1,0 +1,1 @@
+Item(by='sarcarx', descendants=None, kids=None, score=None, time=1611164845, title=None, item_type='comment', url=None, parent=25821718, text='Note that the combined xor of the first n integers can be computed in constant time (oeis.org&#x2F;A003815).\na(4n)=4n, (4n+1)=1, a(4n+2)=4n+3, a(4n+3)=0')

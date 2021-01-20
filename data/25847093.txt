@@ -1,1 +1,1 @@
-Item(by='nikanj', descendants=None, kids=None, score=None, time=1611154505, title=None, item_type='comment', url=None, parent=25843975, text='And Lewandowski hurt Google, which makes him a good guy according to Trump.')
+Item(by='nikanj', descendants=None, kids=[25847394], score=None, time=1611154505, title=None, item_type='comment', url=None, parent=25843975, text='And Lewandowski hurt Google, which makes him a good guy according to Trump.')

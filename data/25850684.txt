@@ -1,0 +1,1 @@
+Item(by='uberman', descendants=None, kids=None, score=None, time=1611170456, title=None, item_type='comment', url=None, parent=25850438, text='I was surprised by this, so I grabbed an image from one of those kitten placeholder sites and ran two tests with imagemagic at 50 and 90 quality. I also see no visible degradation of the image after 100 re-saves.')

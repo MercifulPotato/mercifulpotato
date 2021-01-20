@@ -1,0 +1,1 @@
+Item(by='patrickmcnamara', descendants=None, kids=None, score=None, time=1611168819, title=None, item_type='comment', url=None, parent=25848226, text='I tested Safari on iOS, iPadOS and macOS and it didn’t strip the “referer” header for any of them. WatchOS did strip it though I’m not sure that counts as Safari.')
