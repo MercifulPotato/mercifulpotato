@@ -1,1 +1,1 @@
-Item(by='StreamBright', descendants=None, kids=[25834016, 25834093, 25833922, 25836629, 25833863], score=None, time=1611067656, title=None, item_type='comment', url=None, parent=25833781, text='I wish there was something better than Elastic for indexing large volume of text.')
+Item(by='StreamBright', descendants=None, kids=[25834093, 25834016, 25833922, 25833863, 25836629], score=None, time=1611067656, title=None, item_type='comment', url=None, parent=25833781, text='I wish there was something better than Elastic for indexing large volume of text.')

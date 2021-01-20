@@ -1,0 +1,1 @@
+Item(by='fabian2k', descendants=None, kids=[25839872], score=None, time=1611092368, title=None, item_type='comment', url=None, parent=25839114, text='State charts avoid that problem to some extent, you don&#x27;t explode the number of state like in a simple finite state machine. But that&#x27;s a point where you certainly want to use a library.')

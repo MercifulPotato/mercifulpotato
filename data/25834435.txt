@@ -1,1 +1,1 @@
-Item(by='Havoc', descendants=None, kids=None, score=None, time=1611070561, title=None, item_type='comment', url=None, parent=25833903, text='&gt;Their license literally says [...]<p>Hence the license change yes?')
+Item(by='Havoc', descendants=None, kids=[25839176], score=None, time=1611070561, title=None, item_type='comment', url=None, parent=25833903, text='&gt;Their license literally says [...]<p>Hence the license change yes?')

@@ -1,0 +1,1 @@
+Item(by='Acrobatic_Road', descendants=None, kids=None, score=None, time=1611110038, title=None, item_type='comment', url=None, parent=25841366, text='IPNS is not DNS. It&#x27;s just a fixed wrapper for mutable content. You are supposed to combine IPNS with something like ENS if you want human friendly names.')

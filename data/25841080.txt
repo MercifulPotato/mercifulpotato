@@ -1,0 +1,1 @@
+Item(by='danlugo92', descendants=None, kids=None, score=None, time=1611103001, title=None, item_type='comment', url=None, parent=25837865, text='Solution is this:<p>Assign UUID to each async call, including retries.<p>Or disallow retries.<p>Sprinkle in some optimistic update if you want.<p>Keep track of results, mirror lower level timeout (75 seconds for HTTP).')

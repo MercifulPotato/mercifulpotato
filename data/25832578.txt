@@ -1,1 +1,1 @@
-Item(by='DarkWiiPlayer', descendants=None, kids=None, score=None, time=1611057642, title=None, item_type='comment', url=None, parent=25829966, text='I say this a lot and I will say it again: Languages that think they&#x27;re C when in reality they&#x27;re not make me sad.')
+Item(by='DarkWiiPlayer', descendants=None, kids=[25839442], score=None, time=1611057642, title=None, item_type='comment', url=None, parent=25829966, text='I say this a lot and I will say it again: Languages that think they&#x27;re C when in reality they&#x27;re not make me sad.')

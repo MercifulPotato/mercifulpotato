@@ -1,1 +1,1 @@
-Item(by='scastiel', descendants=1, kids=[25837656], score=3, time=1611084179, title='A New Kind of Open Source Organization', item_type='story', url='https://ethicalsource.dev/blog/oes-announcement/', parent=None, text=None)
+Item(by='scastiel', descendants=18, kids=[25839305, 25839571, 25837656, 25839244, 25838863, 25838563, 25839892, 25839026, 25838955, 25838811], score=24, time=1611084179, title='A New Kind of Open Source Organization', item_type='story', url='https://ethicalsource.dev/blog/oes-announcement/', parent=None, text=None)

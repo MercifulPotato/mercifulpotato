@@ -1,0 +1,1 @@
+Item(by='flatline', descendants=None, kids=None, score=None, time=1611105245, title=None, item_type='comment', url=None, parent=25841120, text='Interesting. Most ML models presumably operate over IEEE double precision floating point values. These have a couple interesting properties like INF and NAN, but not infinitesimals.')

@@ -1,1 +1,1 @@
-Item(by='pabs3', descendants=22, kids=[25830089, 25830328, 25831317, 25830945, 25830036], score=99, time=1611028803, title='Crossword.el – download and play crossword puzzles in Emacs', item_type='story', url='https://github.com/Boruch-Baum/emacs-crossword', parent=None, text=None)
+Item(by='pabs3', descendants=25, kids=[25830089, 25830328, 25831317, 25830945, 25830036], score=101, time=1611028803, title='Crossword.el – download and play crossword puzzles in Emacs', item_type='story', url='https://github.com/Boruch-Baum/emacs-crossword', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='metiscus', descendants=None, kids=[25842180, 25841757], score=None, time=1611108345, title=None, item_type='comment', url=None, parent=25841611, text='IANAL but I believe that the AGPL would address the case where AGPL code was used in a user facing setting. If the code was used only internally I believe that it is no different from the GPL in this respect.')

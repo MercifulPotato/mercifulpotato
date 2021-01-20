@@ -1,0 +1,1 @@
+Item(by='technothrasher', descendants=None, kids=None, score=None, time=1611103845, title=None, item_type='comment', url=None, parent=25840483, text='Not all EFI systems use a return line.  Some use a PWM controlled pump, rather than a pressure relief valve, to keep the fuel rail pressure constant and so forego the return line.')

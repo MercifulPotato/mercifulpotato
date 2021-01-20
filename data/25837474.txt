@@ -1,1 +1,1 @@
-Item(by='Hamuko', descendants=None, kids=None, score=None, time=1611083691, title=None, item_type='comment', url=None, parent=25836811, text='I think the basis is that you&#x27;re still allowed to make private copies of CDs&#x2F;DVDs&#x2F;etc pretty much throughout EU.')
+Item(by='Hamuko', descendants=None, kids=[25841458], score=None, time=1611083691, title=None, item_type='comment', url=None, parent=25836811, text='I think the basis is that you&#x27;re still allowed to make private copies of CDs&#x2F;DVDs&#x2F;etc pretty much throughout EU.')

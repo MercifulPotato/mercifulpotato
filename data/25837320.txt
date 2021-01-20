@@ -1,1 +1,1 @@
-Item(by='rurban', descendants=1, kids=[25837676], score=3, time=1611083153, title='Fedora 34: Remove Guile from toolchain', item_type='story', url='https://fedoraproject.org/wiki/Changes/RemoveGuileFromToolchain', parent=None, text=None)
+Item(by='rurban', descendants=2, kids=[25837676, 25838440], score=3, time=1611083153, title='Fedora 34: Remove Guile from toolchain', item_type='story', url='https://fedoraproject.org/wiki/Changes/RemoveGuileFromToolchain', parent=None, text=None)

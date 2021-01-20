@@ -1,1 +1,1 @@
-Item(by='FartyMcFarter', descendants=None, kids=None, score=None, time=1611084287, title=None, item_type='comment', url=None, parent=25823906, text='Piece of trivia:<p>&gt; ** 0F 05 hex **<p>Nowadays this opcode is used for the &quot;syscall&quot; instruction.')
+Item(by='FartyMcFarter', descendants=None, kids=[25837999], score=None, time=1611084287, title=None, item_type='comment', url=None, parent=25823906, text='Piece of trivia:<p>&gt; ** 0F 05 hex **<p>Nowadays this opcode is used for the &quot;syscall&quot; instruction.')

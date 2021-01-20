@@ -1,0 +1,1 @@
+Item(by='sneak', descendants=None, kids=None, score=None, time=1611102091, title=None, item_type='comment', url=None, parent=25836886, text='&gt; <i>Additionally, Brave only allows subresources to be loaded over IPFS when the main page is loaded from IPFS.</i><p>Bummer. This means normal webpages can&#x27;t load images or videos from IPFS. :(')

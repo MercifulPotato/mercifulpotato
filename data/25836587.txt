@@ -1,1 +1,1 @@
-Item(by='theBashShell', descendants=0, kids=None, score=2, time=1611080022, title='Golang proposal: io/ioutil move Discard, NopCloser, ReadAll to io', item_type='story', url='https://github.com/golang/go/issues/40025', parent=None, text=None)
+Item(by='theBashShell', descendants=0, kids=None, score=3, time=1611080022, title='Golang proposal: io/ioutil move Discard, NopCloser, ReadAll to io', item_type='story', url='https://github.com/golang/go/issues/40025', parent=None, text=None)

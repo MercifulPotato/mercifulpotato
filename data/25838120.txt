@@ -1,0 +1,1 @@
+Item(by='netzvieh', descendants=None, kids=None, score=None, time=1611086596, title=None, item_type='comment', url=None, parent=25837821, text='Because the key has to be revoked on AWS side, not just removed from the repo. And probably the person pushing to Github and the person paying the AWS bill&#x2F;the AWS admin are usually not the same..')
