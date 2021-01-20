@@ -1,0 +1,1 @@
+Item(by='jl6', descendants=None, kids=None, score=None, time=1611129526, title=None, item_type='comment', url=None, parent=25836886, text='Is there a lightweight IPFS server suitable for hosting a low-volume personal website on a severely resource-constrained VM?<p>Last time I looked IPFS software used a lot of memory and bandwidth.')

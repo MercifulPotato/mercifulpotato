@@ -1,1 +1,1 @@
-Item(by='coding123', descendants=None, kids=None, score=None, time=1611095865, title=None, item_type='comment', url=None, parent=25839782, text='Even if it goes off for 1 second it basically ruins sleep.')
+Item(by='coding123', descendants=None, kids=[25844021], score=None, time=1611095865, title=None, item_type='comment', url=None, parent=25839782, text='Even if it goes off for 1 second it basically ruins sleep.')

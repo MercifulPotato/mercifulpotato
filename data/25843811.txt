@@ -1,0 +1,1 @@
+Item(by='Cthulhu_', descendants=None, kids=None, score=None, time=1611129969, title=None, item_type='comment', url=None, parent=25843296, text='Mmm, the only use case I can see is equivalent to an in-memory database, which would be faster than embedding sqlite.')

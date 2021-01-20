@@ -1,1 +1,1 @@
-Item(by='irevenko', descendants=1, kids=[25833646], score=2, time=1611066328, title='What Anime CLI', item_type='story', url='https://github.com/irevenko/what-anime-cli', parent=None, text=None)
+Item(by='irevenko', descendants=6, kids=[25843549, 25833646, 25843239], score=23, time=1611066328, title='What Anime CLI?', item_type='story', url='https://github.com/irevenko/what-anime-cli', parent=None, text=None)

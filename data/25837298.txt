@@ -1,1 +1,1 @@
-Item(by='mplewis', descendants=None, kids=None, score=None, time=1611083064, title=None, item_type='comment', url=None, parent=25836427, text='Parler refuses to moderate content. Facebook does not.')
+Item(by='mplewis', descendants=None, kids=[25842381], score=None, time=1611083064, title=None, item_type='comment', url=None, parent=25836427, text='Parler refuses to moderate content. Facebook does not.')

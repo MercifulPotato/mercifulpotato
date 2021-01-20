@@ -1,0 +1,1 @@
+Item(by='dralley', descendants=None, kids=[25843059], score=None, time=1611114638, title=None, item_type='comment', url=None, parent=25837085, text='That&#x27;s not the only reason, docker has a daemon running as root and requires &quot;sudo&quot;, podman does not.')

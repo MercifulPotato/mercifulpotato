@@ -1,1 +1,1 @@
-Item(by='proverbialbunny', descendants=None, kids=None, score=None, time=1611110984, title=None, item_type='comment', url=None, parent=25839766, text='FFVII was used as an example because the re-release is 3 games, and each game is considered long for today&#x27;s standards.')
+Item(by='proverbialbunny', descendants=None, kids=[25842550], score=None, time=1611110984, title=None, item_type='comment', url=None, parent=25839766, text='FFVII was used as an example because the re-release is 3 games, and each game is considered long for today&#x27;s standards.')

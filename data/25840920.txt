@@ -1,1 +1,1 @@
-Item(by='BenFrantzDale', descendants=None, kids=None, score=None, time=1611101988, title=None, item_type='comment', url=None, parent=25833583, text='I’ve seen elevators labeled that way!')
+Item(by='BenFrantzDale', descendants=None, kids=[25842205], score=None, time=1611101988, title=None, item_type='comment', url=None, parent=25833583, text='I’ve seen elevators labeled that way!')

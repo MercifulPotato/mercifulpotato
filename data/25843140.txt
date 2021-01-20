@@ -1,0 +1,1 @@
+Item(by='IlliOnato', descendants=None, kids=None, score=None, time=1611123885, title=None, item_type='comment', url=None, parent=25842887, text='Perl initializes its scalars to &quot;undef&quot;, not 0.\nIf you try to use undef as an array index, it will convert it to 0 but issue a warning.\nI&#x27;d prefer it to be an error instead.')

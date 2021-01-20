@@ -1,0 +1,1 @@
+Item(by='JustARandomGuy', descendants=None, kids=[25843495], score=None, time=1611127185, title=None, item_type='comment', url=None, parent=25842999, text='I have a Google Cloud Function that uses SQLite to store a user&#x27;s previous day tweets and do some minor sorting and filtering of data. Works very well and saves me the cost of a &quot;real&quot; SQL instance.')

@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=3, time=1611101230, title='Missing: One Black Hole with 10B Solar Masses', item_type='story', url='https://www.nytimes.com/2021/01/19/science/astronomy-black-hole-abell.html', parent=None, text=None)
+Item(by='pseudolus', descendants=1, kids=[25842468], score=4, time=1611101230, title='Missing: One Black Hole with 10B Solar Masses', item_type='story', url='https://www.nytimes.com/2021/01/19/science/astronomy-black-hole-abell.html', parent=None, text=None)

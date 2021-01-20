@@ -1,1 +1,1 @@
-Item(by='sillysaurusx', descendants=None, kids=None, score=None, time=1611114600, title=None, item_type='comment', url=None, parent=25842362, text='It would help to link to specific examples. The dataset consists of images from Danbooru marked as “safe”. Ultimately it would be up to them to mark such images as unsafe.<p>That said, the “safe” tag is a bit less safe than I’d like. But I’m not sure I’ve seen what you’re referring to.')
+Item(by=None, descendants=None, kids=None, score=None, time=1611114600, title=None, item_type='comment', url=None, parent=25842362, text=None)

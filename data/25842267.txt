@@ -1,1 +1,1 @@
-Item(by='runjake', descendants=None, kids=None, score=None, time=1611113192, title=None, item_type='comment', url=None, parent=25836912, text='Wikileaks didn’t go so well last time.')
+Item(by='runjake', descendants=None, kids=[25843256], score=None, time=1611113192, title=None, item_type='comment', url=None, parent=25836912, text='Wikileaks didn’t go so well for the founders or leakers, last time.')

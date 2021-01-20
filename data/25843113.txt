@@ -1,0 +1,1 @@
+Item(by='mikewarot', descendants=None, kids=None, score=None, time=1611123559, title=None, item_type='comment', url=None, parent=25821946, text='Interesting idea, someone could give you a pointer to either end, and you could traverse the list... however given a single random node in the list with no other information, the links are useless.')

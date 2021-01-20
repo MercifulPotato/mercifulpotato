@@ -1,0 +1,1 @@
+Item(by='syntaxing', descendants=None, kids=None, score=None, time=1611122670, title=None, item_type='comment', url=None, parent=25833557, text='The biggest thing about index 0 or 1 is the inclusive and exclusive slicing. When the index is 0 and the slicing is [inclusive:exclusive], I find it a bit easier to write code with array manipulation.')

@@ -1,0 +1,1 @@
+Item(by='KMag', descendants=None, kids=None, score=None, time=1611133573, title=None, item_type='comment', url=None, parent=25842901, text='Self-hosting Java isn&#x27;t a huge deal.  IBM&#x27;s Jalapeno&#x2F;JikesRVM has been a JVM implemented almost entirely in Java for decades.<p>High-performance JITs via partial evaluation of interpreters is the impressive part.')

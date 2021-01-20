@@ -1,1 +1,1 @@
-Item(by='FalconSensei', descendants=None, kids=None, score=None, time=1611114991, title=None, item_type='comment', url=None, parent=25842245, text='We need some solution. Alarms are the only solution we have at the moment. So, until there&#x27;s something else, alarms are necessary')
+Item(by='FalconSensei', descendants=None, kids=[25842773], score=None, time=1611114991, title=None, item_type='comment', url=None, parent=25842245, text='We need some solution. Alarms are the only solution we have at the moment. So, until there&#x27;s something else, alarms are necessary')
