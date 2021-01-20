@@ -1,0 +1,1 @@
+Item(by='tijsvd', descendants=None, kids=[25845445], score=None, time=1611140996, title=None, item_type='comment', url=None, parent=25844161, text='Nah, it doesn&#x27;t matter if you do (prev + 1) % len, or (prev % len) + 1.<p>Hash tables matter more though.')

@@ -1,0 +1,1 @@
+Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1611141247, title=None, item_type='comment', url=None, parent=25844941, text='If you block their incoming syn-ack packets instead, their apps start a denial of service attack on their own servers!')

@@ -1,1 +1,1 @@
-Item(by='dehrmann', descendants=None, kids=None, score=None, time=1611122436, title=None, item_type='comment', url=None, parent=25838364, text='I&#x27;m still impressed by the amount of crazy-impressive tooling the Java ecosystem has compared to other languages.')
+Item(by='dehrmann', descendants=None, kids=[25847177, 25844341], score=None, time=1611122436, title=None, item_type='comment', url=None, parent=25838364, text='I&#x27;m still impressed by the amount of crazy-impressive tooling the Java ecosystem has compared to other languages.')

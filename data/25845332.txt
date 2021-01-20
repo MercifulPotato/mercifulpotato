@@ -1,0 +1,1 @@
+Item(by='k__', descendants=None, kids=[25846348, 25845580], score=None, time=1611143734, title=None, item_type='comment', url=None, parent=25844498, text='Also, serverless solutions like DynamoDB or S3 aren&#x27;t compute, so worker based and FaaS would simply be wrong.')

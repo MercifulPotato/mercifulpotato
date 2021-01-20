@@ -1,0 +1,1 @@
+Item(by='dgellow', descendants=None, kids=[25845434], score=None, time=1611144236, title=None, item_type='comment', url=None, parent=25845338, text='In production code people put panics around? I’ve never seen a situation like this. The convention to not use panic is quite strong')

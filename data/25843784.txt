@@ -1,1 +1,1 @@
-Item(by='slightwinder', descendants=None, kids=None, score=None, time=1611129724, title=None, item_type='comment', url=None, parent=25843496, text='Isn&#x27;t the modern serverless just a &quot;load on demand&quot;-concept?')
+Item(by='slightwinder', descendants=None, kids=[25845050], score=None, time=1611129724, title=None, item_type='comment', url=None, parent=25843496, text='Isn&#x27;t the modern serverless just a &quot;load on demand&quot;-concept?')

@@ -1,0 +1,1 @@
+Item(by='tgirod', descendants=None, kids=[25847227], score=None, time=1611154178, title=None, item_type='comment', url=None, parent=25845002, text='Interesting! I wonder if the patch format has support for OSC messages for external interactions - so far I only found MIDI support, but maybe I missed something...')

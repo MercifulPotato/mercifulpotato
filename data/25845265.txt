@@ -1,0 +1,1 @@
+Item(by='synthc', descendants=None, kids=None, score=None, time=1611143231, title=None, item_type='comment', url=None, parent=25838857, text='docker om MacOs is a second class citizen, because it runs in a VM. The networking is much more complicated because of this, which causes endless amounts of hard-to-debug problems and performance is terrible.')

@@ -1,1 +1,1 @@
-Item(by='NieDzejkob', descendants=None, kids=None, score=None, time=1610994932, title=None, item_type='comment', url=None, parent=25824760, text='I suppose one downside of this approach is that you need a bigger datatype to contain the result.')
+Item(by='NieDzejkob', descendants=None, kids=[25845057], score=None, time=1610994932, title=None, item_type='comment', url=None, parent=25824760, text='I suppose one downside of this approach is that you need a bigger datatype to contain the result.')

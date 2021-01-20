@@ -1,0 +1,1 @@
+Item(by='jsinai', descendants=None, kids=None, score=None, time=1611139748, title=None, item_type='comment', url=None, parent=25844048, text='Exactly. When I was a beginner I made off-by-1 errors (in Python mind you) all the time. Now that I iterate directly through arrays or use map-reduce patterns I rarely have to handle the index itself.')

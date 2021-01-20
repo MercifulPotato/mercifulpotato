@@ -1,0 +1,1 @@
+Item(by='nemetroid', descendants=None, kids=[25845997], score=None, time=1611142394, title=None, item_type='comment', url=None, parent=25844964, text='Negative indices have an implied ”len(list)” in front of them. They can be seen as an application of the idea of half-open intervals (0 &lt;= i &lt; len(list)), so it makes sense that they’re not symmetrical.')

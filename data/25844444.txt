@@ -1,0 +1,1 @@
+Item(by='lifthrasiir', descendants=None, kids=None, score=None, time=1611135754, title=None, item_type='comment', url=None, parent=25844116, text='&gt; How do you get all values in say in 0..9.9999 when using 0 &lt;= x &lt;= 9... it makes sense to use 0 &lt;= x &lt; 10...<p>This breaks down for negatives, though. -9.9999..0 would be -10 &lt; x &lt;= 0.')

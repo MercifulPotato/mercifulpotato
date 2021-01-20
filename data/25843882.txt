@@ -1,1 +1,1 @@
-Item(by='blkhawk', descendants=None, kids=None, score=None, time=1611130833, title=None, item_type='comment', url=None, parent=25843040, text='Is there are annotated list of this? I am pretty sure I cannot trust whatever is on that website describing the people pardoned.')
+Item(by='blkhawk', descendants=None, kids=[25847274], score=None, time=1611130833, title=None, item_type='comment', url=None, parent=25843040, text='Is there an annotated list of this? I am pretty sure I cannot trust whatever is on that website describing the people pardoned.')

@@ -1,0 +1,1 @@
+Item(by='unix_fan', descendants=None, kids=None, score=None, time=1611153598, title=None, item_type='comment', url=None, parent=25846337, text='Disk isn&#x27;t all that complicated. Once people figured out that apple&#x27;s NVME implementation was custom, writing a driver for it wasn&#x27;t all that hard, even with the t2.')

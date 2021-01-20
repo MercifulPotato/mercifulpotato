@@ -1,0 +1,1 @@
+Item(by='a_imho', descendants=None, kids=None, score=None, time=1611146428, title=None, item_type='comment', url=None, parent=25844703, text='Personally I disagree, but even if that was true, why add more unnecessary complexity to the mix? Deploying a jar vs deploying jar packaged as a docker image brings little benefits at a non negligible cost.')

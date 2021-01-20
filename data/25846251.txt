@@ -1,0 +1,1 @@
+Item(by='msh', descendants=None, kids=None, score=None, time=1611149914, title=None, item_type='comment', url=None, parent=25844412, text='tailscale is more or less zerotier, just based on wireguard.<p>So it would give you most of the same benifits.<p>In this case I think the advantage is that minecraft server dont have to listen to a public ip adress.')

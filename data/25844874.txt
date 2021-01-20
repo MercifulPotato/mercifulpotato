@@ -1,0 +1,1 @@
+Item(by='bvrmn', descendants=None, kids=[25844934, 25845887], score=None, time=1611139860, title=None, item_type='comment', url=None, parent=25844616, text='For &lt;&#x2F;&lt;= intervals and 1-based indexing you have to write `for(i=1; i++; i &lt;= N)`. So you lost nice property of having `upper - lower` number of iterations.')

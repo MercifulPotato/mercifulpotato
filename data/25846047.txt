@@ -1,0 +1,1 @@
+Item(by='ficklepickle', descendants=None, kids=None, score=None, time=1611148713, title=None, item_type='comment', url=None, parent=25845668, text='I also like it for not having to constantly check properties before using them. I parse the data once at the application boundary (like after an API call) and then I can use it with confidence.')

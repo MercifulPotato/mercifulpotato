@@ -1,0 +1,1 @@
+Item(by='smolder', descendants=None, kids=None, score=None, time=1611146445, title=None, item_type='comment', url=None, parent=25844285, text='I don&#x27;t dispute the bad design, but FYI, there was also a very recent exploit for accessing bitlocker drives on Windows without login credentials, making use of accessibility features on the lockscreen.')

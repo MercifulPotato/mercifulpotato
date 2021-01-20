@@ -1,0 +1,1 @@
+Item(by='josephg', descendants=None, kids=None, score=None, time=1611134446, title=None, item_type='comment', url=None, parent=25844133, text='So? With 0-based indexing, the length of an array falls outside the domain of the index type.<p>The number of times either of these properties has mattered for me also cannot be represented in the domain of 1-based indexes.')

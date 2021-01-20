@@ -1,0 +1,1 @@
+Item(by='Mikhail_K', descendants=None, kids=[25846595], score=None, time=1611149920, title=None, item_type='comment', url=None, parent=25844360, text='&gt; 0-based indexing with closed intervals is better for slicing.<p>Given how confused and inconsistent Python slicing syntax is, it obviously isn&#x27;t.')

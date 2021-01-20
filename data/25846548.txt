@@ -1,0 +1,1 @@
+Item(by='BruiseLee', descendants=None, kids=[25847161], score=None, time=1611151480, title=None, item_type='comment', url=None, parent=25846276, text='Are you sure it was a segfault? DOS did not have any memory protection, so segfault would be impossible. Or maybe you used some protected mode DOS extender?')

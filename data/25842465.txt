@@ -1,1 +1,1 @@
-Item(by='sebmellen', descendants=None, kids=None, score=None, time=1611115454, title=None, item_type='comment', url=None, parent=25841098, text='Awesome. Is this a one man show or many people together?')
+Item(by='sebmellen', descendants=None, kids=[25844447], score=None, time=1611115454, title=None, item_type='comment', url=None, parent=25841098, text='Awesome. Is this a one man show or many people together?')

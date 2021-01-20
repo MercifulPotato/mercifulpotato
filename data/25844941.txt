@@ -1,0 +1,1 @@
+Item(by='iaml', descendants=None, kids=[25845028], score=None, time=1611140498, title=None, item_type='comment', url=None, parent=25844811, text='When I still was cc subscriber I blocked a lot of its telemetry but apparently their developers are unfamiliar with a concept of using exponential backoff for retries so it was just spamming requests every second.')

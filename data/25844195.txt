@@ -1,1 +1,1 @@
-Item(by='secondcoming', descendants=None, kids=None, score=None, time=1611133462, title=None, item_type='comment', url=None, parent=25840093, text='Is there not a risk that GME issues more shares to raise money, and so everyone gets diluted?')
+Item(by='secondcoming', descendants=None, kids=[25844401], score=None, time=1611133462, title=None, item_type='comment', url=None, parent=25840093, text='Is there not a risk that GME issues more shares to raise money, and so everyone gets diluted?')

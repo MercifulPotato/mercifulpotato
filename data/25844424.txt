@@ -1,0 +1,1 @@
+Item(by='f1refly', descendants=None, kids=[25846423, 25845385], score=None, time=1611135573, title=None, item_type='comment', url=None, parent=25844285, text='For x lockscreens this is solved by making sure the lock launches _before_ the system is suspended, I&#x27;m not sure how many distros do it like that though.')

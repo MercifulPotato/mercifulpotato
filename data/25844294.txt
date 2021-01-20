@@ -1,0 +1,1 @@
+Item(by='gliptic', descendants=None, kids=None, score=None, time=1611134314, title=None, item_type='comment', url=None, parent=25844262, text='Not always, I&#x27;ve used bytes to store indexes to arrays of 256 elements. The length doesn&#x27;t have to be the same narrow type as the indexes.')

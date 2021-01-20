@@ -1,1 +1,1 @@
-Item(by='anothernewdude', descendants=None, kids=None, score=None, time=1611132143, title=None, item_type='comment', url=None, parent=25843069, text='Yeah, his face looks too small in the video, lol.')
+Item(by='anothernewdude', descendants=None, kids=[25845971], score=None, time=1611132143, title=None, item_type='comment', url=None, parent=25843069, text='Yeah, his face looks too small in the video, lol.')

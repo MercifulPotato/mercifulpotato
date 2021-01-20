@@ -1,0 +1,1 @@
+Item(by='zgs', descendants=None, kids=None, score=None, time=1611140477, title=None, item_type='comment', url=None, parent=25833557, text='The crazy part is that Lua accepts &quot;array[0]&quot; just fine and it works <i>exactly</i> as expected.  This is a non-issue in Lua but many people cite it as a problem.')

@@ -1,0 +1,1 @@
+Item(by='saynay', descendants=None, kids=None, score=None, time=1611151461, title=None, item_type='comment', url=None, parent=25846014, text='My ISP rotates my public IP frequently, for some reason. I have had it switch several times in a day. Dynamic DNS helps a bit, but a VPN would simplify that a lot.')
