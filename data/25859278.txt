@@ -1,0 +1,1 @@
+Item(by='petems', descendants=None, kids=None, score=None, time=1611240158, title=None, item_type='comment', url=None, parent=25858777, text='Thanks for the feedback! I just replied to your opened Github issue (the app requires more RAM to function than your docker can allocate - you can add more memory via docker engine settings).')

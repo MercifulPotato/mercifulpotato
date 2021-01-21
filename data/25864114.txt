@@ -1,0 +1,1 @@
+Item(by='core-questions', descendants=None, kids=None, score=None, time=1611262516, title=None, item_type='comment', url=None, parent=25863660, text='Well, now that QA is a mature process and people expect tests on every single thing, it&#x27;s more &quot;expensive&quot; to keep a feature around, as you have to keep on testing it.')

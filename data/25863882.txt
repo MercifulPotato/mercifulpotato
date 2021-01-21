@@ -1,0 +1,1 @@
+Item(by='xaduha', descendants=None, kids=None, score=None, time=1611261335, title=None, item_type='comment', url=None, parent=25862158, text='Good. No mention of contactless, but for PKCS#11 it should be automatic since it&#x27;s responsibility of the reader via pcsc&#x2F;ccid. Not so for FIDO2 or previous incarnations last I checked.')

@@ -1,1 +1,1 @@
-Item(by='novaRom', descendants=None, kids=None, score=None, time=1611180169, title=None, item_type='comment', url=None, parent=25852516, text='What was it exactly? As for Italian one, did you try Sicilian Arancini?')
+Item(by='novaRom', descendants=None, kids=[25859655], score=None, time=1611180169, title=None, item_type='comment', url=None, parent=25852516, text='What was it exactly? As for Italian one, did you try Sicilian Arancini?')

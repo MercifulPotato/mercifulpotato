@@ -1,0 +1,1 @@
+Item(by='abledon', descendants=None, kids=[25861842, 25862417, 25861856], score=None, time=1611250668, title=None, item_type='comment', url=None, parent=25861299, text='my &#x27;git status&#x27; command takes 6 seconds around 2pm-4pm when internal network traffic is high... go figure.<p>(i use this cmd a lot!)')

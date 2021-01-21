@@ -1,0 +1,1 @@
+Item(by='nickmain', descendants=None, kids=[25864148, 25863171], score=None, time=1611257300, title=None, item_type='comment', url=None, parent=25833004, text='Does this allow AOT compiling of Racket code to native ARM or is everything interpreted ?<p>Assuming that JIT is still not possible on iOS.')

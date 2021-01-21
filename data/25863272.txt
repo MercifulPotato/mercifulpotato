@@ -1,0 +1,1 @@
+Item(by='snuxoll', descendants=None, kids=None, score=None, time=1611258570, title=None, item_type='comment', url=None, parent=25863222, text='MySQL backup is more or less a “solved” issue with xtrabackup, and I assume that’s exactly what they are using with a database of this size.')

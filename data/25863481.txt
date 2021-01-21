@@ -1,0 +1,1 @@
+Item(by='cabalamat', descendants=None, kids=[25863757, 25863635], score=None, time=1611259374, title=None, item_type='comment', url=None, parent=25862960, text='Given that Python allows unicode characters in source, I&#x27;m surprised it doesn&#x27;t allow lambda to be replaced by the λ character.')

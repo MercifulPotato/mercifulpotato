@@ -1,1 +1,1 @@
-Item(by='kingosticks', descendants=None, kids=None, score=None, time=1611237516, title=None, item_type='comment', url=None, parent=25858230, text='I&#x27;m glad they shipped this today, rather than in n years time when RISC-V <i>might</i> be a real option.')
+Item(by='kingosticks', descendants=None, kids=[25860767], score=None, time=1611237516, title=None, item_type='comment', url=None, parent=25858230, text='I&#x27;m glad they shipped this today, rather than in n years time when RISC-V <i>might</i> be a real option.')

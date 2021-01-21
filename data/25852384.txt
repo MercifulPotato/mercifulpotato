@@ -1,1 +1,1 @@
-Item(by='WalterBright', descendants=None, kids=None, score=None, time=1611178964, title=None, item_type='comment', url=None, parent=25848067, text='&quot;Levandowski denies saying this.&quot;')
+Item(by='WalterBright', descendants=None, kids=[25859598], score=None, time=1611178964, title=None, item_type='comment', url=None, parent=25848067, text='&quot;Levandowski denies saying this.&quot;')

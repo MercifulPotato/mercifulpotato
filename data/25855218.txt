@@ -1,1 +1,1 @@
-Item(by='esrauch', descendants=None, kids=None, score=None, time=1611201452, title=None, item_type='comment', url=None, parent=25854302, text='The users didn&#x27;t choose internet explorer though: the comparison may hold for Android Chrome but not really for Chrome on Windows.')
+Item(by='esrauch', descendants=None, kids=[25862916], score=None, time=1611201452, title=None, item_type='comment', url=None, parent=25854302, text='The users didn&#x27;t choose internet explorer though: the comparison may hold for Android Chrome but not really for Chrome on Windows.')

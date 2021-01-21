@@ -1,0 +1,1 @@
+Item(by='amscanne', descendants=None, kids=None, score=None, time=1611246037, title=None, item_type='comment', url=None, parent=25860092, text='The industry seems to have adopted “hermetic” as a word that describes truly reproducible builds, while “reproducible” has a lower standard. In many cases, it seems to be used to mean “not dependent on local build environment”.')

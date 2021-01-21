@@ -1,1 +1,1 @@
-Item(by='kuschku', descendants=None, kids=None, score=None, time=1611217205, title=None, item_type='comment', url=None, parent=25850832, text='The ridiculous part is that nowadays IRC has more stable and reliable (and beautiful) clients for web and mobile than XMPP.')
+Item(by='kuschku', descendants=None, kids=[25859363], score=None, time=1611217205, title=None, item_type='comment', url=None, parent=25850832, text='The ridiculous part is that nowadays IRC has more stable and reliable (and beautiful) clients for web and mobile than XMPP.')

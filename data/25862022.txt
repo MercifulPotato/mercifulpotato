@@ -1,0 +1,1 @@
+Item(by='phkahler', descendants=None, kids=[25863674], score=None, time=1611252678, title=None, item_type='comment', url=None, parent=25861508, text='I&#x27;ve been hoping Intel or AMD would try RISC-V. If the ISA is inherently more efficient (not saying it is) they should be able to prove it by having already optimized so much core and cache hardware.')

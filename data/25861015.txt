@@ -1,0 +1,1 @@
+Item(by='JoelJacobson', descendants=None, kids=[25861603], score=None, time=1611248047, title=None, item_type='comment', url=None, parent=25860840, text='The idea is to encode binary strings in a visually shorter form than e.g. hex, and also make it easier to visually detect differences. It’s also possibly easier to remember a bunch of emojis than a hex string.')

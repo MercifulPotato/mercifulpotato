@@ -1,1 +1,1 @@
-Item(by='mcenedella', descendants=1, kids=[25857587, 25857619], score=6, time=1611224758, title='President Biden’s Tech To-Do List', item_type='story', url='https://www.nytimes.com/2021/01/20/technology/president-biden-tech-priorities.html', parent=None, text=None)
+Item(by='mcenedella', descendants=2, kids=[25857587, 25857619], score=6, time=1611224758, title='President Biden’s Tech To-Do List', item_type='story', url='https://www.nytimes.com/2021/01/20/technology/president-biden-tech-priorities.html', parent=None, text=None)

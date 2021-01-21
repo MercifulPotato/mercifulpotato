@@ -1,0 +1,1 @@
+Item(by='mnd999', descendants=None, kids=None, score=None, time=1611262127, title=None, item_type='comment', url=None, parent=25863906, text='Indeed. LUKS key on tpm2 with secure boot with &#x2F;boot on encrypted seems anything but easy to setup. I also complicate things by making everything apart from efi on zfs.')

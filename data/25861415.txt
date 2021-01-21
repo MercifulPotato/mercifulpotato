@@ -1,0 +1,1 @@
+Item(by='theon144', descendants=None, kids=[25861688], score=None, time=1611249880, title=None, item_type='comment', url=None, parent=25861322, text='I think it would be useful to generate a regex - which would then get written down in the code to ensure it doesn&#x27;t change? You could test it, ensure it works, then just use the output of the neural net...')

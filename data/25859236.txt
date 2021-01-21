@@ -1,1 +1,1 @@
-Item(by='kitkat_new', descendants=None, kids=None, score=None, time=1611239924, title=None, item_type='comment', url=None, parent=25858178, text='it works already - and only the bridge needs to be updated. \nEverything else can stay the same.')
+Item(by='kitkat_new', descendants=None, kids=[25861116], score=None, time=1611239924, title=None, item_type='comment', url=None, parent=25858178, text='it works already - and only the bridge needs to be updated. \nEverything else can stay the same.')

@@ -1,1 +1,1 @@
-Item(by='dialamac', descendants=None, kids=None, score=None, time=1611212156, title=None, item_type='comment', url=None, parent=25855808, text='TIL on HN: doing a little bit of physical activity will make you deformed.')
+Item(by='dialamac', descendants=None, kids=[25862434], score=None, time=1611212156, title=None, item_type='comment', url=None, parent=25855808, text='TIL on HN: doing a little bit of physical activity will make you deformed.')

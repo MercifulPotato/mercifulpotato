@@ -1,1 +1,1 @@
-Item(by='louis-lau', descendants=None, kids=None, score=None, time=1611191551, title=None, item_type='comment', url=None, parent=25852471, text='You read that wrong.<p>Available on MacOS, Windows, Linux.<p>iOS and Android via Element.<p>So they made a desktop client.')
+Item(by='louis-lau', descendants=None, kids=[25860332], score=None, time=1611191551, title=None, item_type='comment', url=None, parent=25852471, text='You read that wrong.<p>Available on MacOS, Windows, Linux.<p>iOS and Android via Element.<p>So they made a desktop client.')

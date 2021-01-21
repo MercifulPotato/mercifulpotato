@@ -1,0 +1,1 @@
+Item(by='lalaithion', descendants=None, kids=None, score=None, time=1611260556, title=None, item_type='comment', url=None, parent=25863428, text='Even just &quot;go to memory location X+Y, load the value there, set X = that value, repeat N times&quot; would allow fast linked list traversal, as well as doing various high-level pointer chasing faster.')

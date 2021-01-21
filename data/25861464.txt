@@ -1,0 +1,1 @@
+Item(by='jeff-davis', descendants=None, kids=None, score=None, time=1611250167, title=None, item_type='comment', url=None, parent=25859465, text='After reading [0], I was left with the question: why not just have a utf-8 string type in addition to a byte string type?<p>Also, as a nit, I don&#x27;t think iso-8859-1 is ASCII.')

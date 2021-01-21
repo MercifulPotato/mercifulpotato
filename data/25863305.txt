@@ -1,0 +1,1 @@
+Item(by='pansa2', descendants=None, kids=None, score=None, time=1611258663, title=None, item_type='comment', url=None, parent=25863163, text='Until very recently, Python’s grammar was strictly LL(1), so the parser couldn’t handle, for example, `(x, y) =&gt; x * y`.<p>Perhaps with the move to a PEG parser, this syntax could now be supported?')

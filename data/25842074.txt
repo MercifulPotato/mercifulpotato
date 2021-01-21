@@ -1,1 +1,1 @@
-Item(by='cratermoon', descendants=None, kids=None, score=None, time=1611111304, title=None, item_type='comment', url=None, parent=25841085, text='Are you still in touch with them, by chance?')
+Item(by='cratermoon', descendants=None, kids=[25859688], score=None, time=1611111304, title=None, item_type='comment', url=None, parent=25841085, text='Are you still in touch with them, by chance?')

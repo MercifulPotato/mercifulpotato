@@ -1,0 +1,1 @@
+Item(by='carlosf', descendants=None, kids=None, score=None, time=1611250167, title=None, item_type='comment', url=None, parent=25859929, text='Not sure about OSX, but in Windows 10 + WSL 2 Docker development can be made faster by cloning code directly to a volume.')

@@ -1,0 +1,1 @@
+Item(by='VWWHFSfQ', descendants=None, kids=None, score=None, time=1611262374, title=None, item_type='comment', url=None, parent=25862994, text='The use of lambda is becoming somewhat of a smell in Python in general.  PSF&#x27;s own black code formatter will complain about using it and pretty much always says to just use a def instead')

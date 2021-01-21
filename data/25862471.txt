@@ -1,0 +1,1 @@
+Item(by='ftreml', descendants=None, kids=None, score=None, time=1611254958, title=None, item_type='comment', url=None, parent=25861799, text='sure, that&#x27;s a good point. and scaling a one-node-cluster to a multi-node-cluster is also nearly no effort on AWS. but for the topics where we can predict the computing power for the next months, we migrated everything to baremetal.')

@@ -1,1 +1,1 @@
-Item(by='Abishek_Muthian', descendants=None, kids=None, score=None, time=1611224254, title=None, item_type='comment', url=None, parent=25856439, text='Hi Jeff, Can a thermocouple be used with the built-in temperature sensor of RP2040?')
+Item(by='Abishek_Muthian', descendants=None, kids=[25861423], score=None, time=1611224254, title=None, item_type='comment', url=None, parent=25856439, text='Hi Jeff, Can a thermocouple be used with the built-in temperature sensor of RP2040?')

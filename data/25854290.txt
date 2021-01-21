@@ -1,1 +1,1 @@
-Item(by='nicoburns', descendants=None, kids=None, score=None, time=1611193226, title=None, item_type='comment', url=None, parent=25853589, text='Because they&#x27;re mostly water, and water expands when frozen, destroying the structure of the plant.')
+Item(by='nicoburns', descendants=None, kids=[25860307], score=None, time=1611193226, title=None, item_type='comment', url=None, parent=25853589, text='Because they&#x27;re mostly water, and water expands when frozen, destroying the structure of the plant.')

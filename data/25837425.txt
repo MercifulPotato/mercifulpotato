@@ -1,1 +1,1 @@
-Item(by='dekhn', descendants=None, kids=None, score=None, time=1611083522, title=None, item_type='comment', url=None, parent=25837390, text='Wasn&#x27;t clear if you knew this, but KFC is owned by &quot;Yum! Brands&quot;')
+Item(by='dekhn', descendants=None, kids=[25863423], score=None, time=1611083522, title=None, item_type='comment', url=None, parent=25837390, text='Wasn&#x27;t clear if you knew this, but KFC is owned by &quot;Yum! Brands&quot;')

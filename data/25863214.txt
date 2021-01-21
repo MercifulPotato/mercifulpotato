@@ -1,0 +1,1 @@
+Item(by='schoen', descendants=None, kids=None, score=None, time=1611258250, title=None, item_type='comment', url=None, parent=25863151, text='But the cryptographic bottleneck is in HSMs, not in database servers (database servers don&#x27;t <i>generate</i> the digital signatures, they just have to store them after they&#x27;ve been generated).')

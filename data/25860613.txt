@@ -1,0 +1,1 @@
+Item(by='z3t4', descendants=None, kids=[25862685], score=None, time=1611246361, title=None, item_type='comment', url=None, parent=25860327, text='Is not docker server running inside a VM though ?\nYou could also run Xserver (available on both Mac and Windows) and ssh -X into a VM to run GUI apps inside the VM.')

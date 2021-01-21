@@ -1,0 +1,1 @@
+Item(by='mmastrac', descendants=None, kids=None, score=None, time=1611260517, title=None, item_type='comment', url=None, parent=25863121, text='Yes, exactly. It&#x27;ll be pretty unlikely that raw API bindings can be made safe (even for APIs that just take raw integer handles - you could double-close one and cause corruption&#x2F;etc).')

@@ -1,1 +1,1 @@
-Item(by='benbreen', descendants=0, kids=None, score=2, time=1611181576, title="The antiquity of Ogilby's 1675 road from Lincoln to Grimsby", item_type='story', url='https://www.caitlingreen.org/2021/01/lissingleys-and-the-lincoln-grimsby-road.html', parent=None, text=None)
+Item(by='benbreen', descendants=1, kids=[25861708], score=6, time=1611181576, title="The antiquity of Ogilby's 1675 road from Lincoln to Grimsby", item_type='story', url='https://www.caitlingreen.org/2021/01/lissingleys-and-the-lincoln-grimsby-road.html', parent=None, text=None)

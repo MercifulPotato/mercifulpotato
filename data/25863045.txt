@@ -1,0 +1,1 @@
+Item(by='AlexCoventry', descendants=None, kids=[25863267, 25863099], score=None, time=1611257395, title=None, item_type='comment', url=None, parent=25862960, text='Also by the lack of persistent data structures with structural sharing. That forces you to take an expensive copy whenever you want a modified version of some data, or bash it in place.')

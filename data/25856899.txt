@@ -1,1 +1,1 @@
-Item(by='znpy', descendants=None, kids=None, score=None, time=1611219364, title=None, item_type='comment', url=None, parent=25850739, text='This is an old-style joke: why programmers keep confusing Christmas with Halloween? Because 25 Dec = 31 Oct.')
+Item(by='znpy', descendants=None, kids=[25863561, 25861024], score=None, time=1611219364, title=None, item_type='comment', url=None, parent=25850739, text='This is an old-style joke: why programmers keep confusing Christmas with Halloween? Because 25 Dec = 31 Oct.')

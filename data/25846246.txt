@@ -1,1 +1,1 @@
-Item(by='fakedang', descendants=None, kids=None, score=None, time=1611149883, title=None, item_type='comment', url=None, parent=25845190, text='Commenting for a bookmark in future.')
+Item(by='fakedang', descendants=None, kids=[25862913], score=None, time=1611149883, title=None, item_type='comment', url=None, parent=25845190, text='Commenting for a bookmark in future.')

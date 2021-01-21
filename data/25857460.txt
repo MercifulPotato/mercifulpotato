@@ -1,1 +1,1 @@
-Item(by='yoz-y', descendants=None, kids=None, score=None, time=1611225002, title=None, item_type='comment', url=None, parent=25855260, text='If your goal is annihilation you don&#x27;t bother with a fleet, you hurl a relativistic kill vehicle (aka, a hunk of rock or metal) at them.')
+Item(by='yoz-y', descendants=None, kids=[25859805], score=None, time=1611225002, title=None, item_type='comment', url=None, parent=25855260, text='If your goal is annihilation you don&#x27;t bother with a fleet, you hurl a relativistic kill vehicle (aka, a hunk of rock or metal) at them.')

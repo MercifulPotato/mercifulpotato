@@ -1,0 +1,1 @@
+Item(by='steveklabnik', descendants=None, kids=None, score=None, time=1611259148, title=None, item_type='comment', url=None, parent=25863319, text='Anything not defined in Rust needs to be marked as unsafe, because Rust cannot understand non-Rust code. FFI bindings are inherently unsafe.')

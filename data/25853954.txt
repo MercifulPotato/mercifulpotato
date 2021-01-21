@@ -1,1 +1,1 @@
-Item(by='bcrosby95', descendants=None, kids=None, score=None, time=1611190268, title=None, item_type='comment', url=None, parent=25853894, text='I&#x27;m not sure.  To me it implies a special power other members don&#x27;t have.')
+Item(by='bcrosby95', descendants=None, kids=[25862803], score=None, time=1611190268, title=None, item_type='comment', url=None, parent=25853894, text='I&#x27;m not sure.  To me it implies a special power other members don&#x27;t have.')

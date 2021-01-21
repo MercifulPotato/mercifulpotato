@@ -1,0 +1,1 @@
+Item(by='Arnavion', descendants=None, kids=None, score=None, time=1611260302, title=None, item_type='comment', url=None, parent=25863581, text='So does this generator need access to the .winmd files at build time to be able to generate the bindings? Are they available for non-Windows builders?')

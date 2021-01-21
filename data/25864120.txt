@@ -1,0 +1,1 @@
+Item(by='stefan_', descendants=None, kids=[25864207], score=None, time=1611262551, title=None, item_type='comment', url=None, parent=25862301, text='What exactly needs to be stored once the certificate is created and published in the hash tree? It seems like the kind of data that possibly needn&#x27;t be stored at all or onto something like Glacier for archival.')

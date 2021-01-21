@@ -1,1 +1,1 @@
-Item(by='he0001', descendants=None, kids=None, score=None, time=1611229387, title=None, item_type='comment', url=None, parent=25856969, text='You must be a programmer. Those who actually checks the requirements.')
+Item(by='he0001', descendants=None, kids=[25861179], score=None, time=1611229387, title=None, item_type='comment', url=None, parent=25856969, text='You must be a programmer. Those who actually checks the requirements.')

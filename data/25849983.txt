@@ -1,1 +1,1 @@
-Item(by='erohead', descendants=None, kids=None, score=None, time=1611167182, title=None, item_type='comment', url=None, parent=25849773, text='The bridges do not run inside the client, they either run on your own self-hosted server or our cloud.')
+Item(by='erohead', descendants=None, kids=[25859314], score=None, time=1611167182, title=None, item_type='comment', url=None, parent=25849773, text='The bridges do not run inside the client, they either run on your own self-hosted server or our cloud.')

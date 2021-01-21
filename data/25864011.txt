@@ -1,0 +1,1 @@
+Item(by='cgdub', descendants=None, kids=None, score=None, time=1611262003, title=None, item_type='comment', url=None, parent=25860092, text='If I use tools that can give me reproducible builds, like Bazel or Nix, I won&#x27;t need or want to use containers for development.')

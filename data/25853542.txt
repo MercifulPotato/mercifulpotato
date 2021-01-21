@@ -1,1 +1,1 @@
-Item(by='alisonkisk', descendants=None, kids=None, score=None, time=1611187139, title=None, item_type='comment', url=None, parent=25849688, text='Netflix dates series by their last episode, in a deceptive attempt to make their catalog look fresher.')
+Item(by='alisonkisk', descendants=None, kids=[25860210], score=None, time=1611187139, title=None, item_type='comment', url=None, parent=25849688, text='Netflix dates series by their last episode, in a deceptive attempt to make their catalog look fresher.')

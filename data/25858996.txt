@@ -1,1 +1,1 @@
-Item(by='donohoe', descendants=0, kids=None, score=1, time=1611238571, title='The ten most pirated international movies', item_type='story', url='https://restofworld.org/2021/the-ten-most-pirated-international-movies-2020/', parent=None, text=None)
+Item(by='donohoe', descendants=16, kids=[25859610, 25859548, 25860218, 25859765, 25859551, 25859690, 25859984, 25859635], score=19, time=1611238571, title='The most pirated international movies', item_type='story', url='https://restofworld.org/2021/the-ten-most-pirated-international-movies-2020/', parent=None, text=None)

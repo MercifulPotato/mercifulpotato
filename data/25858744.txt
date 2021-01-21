@@ -1,1 +1,1 @@
-Item(by='GordonS', descendants=None, kids=None, score=None, time=1611237155, title=None, item_type='comment', url=None, parent=25858565, text='Any idea how effective copper is vs chemical disinfectant (alcohol, I guess?).')
+Item(by='GordonS', descendants=None, kids=[25861695], score=None, time=1611237155, title=None, item_type='comment', url=None, parent=25858565, text='Any idea how effective copper is vs chemical disinfectant (alcohol, I guess?).')

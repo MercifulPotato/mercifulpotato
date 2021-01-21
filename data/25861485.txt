@@ -1,0 +1,1 @@
+Item(by='mook', descendants=None, kids=None, score=None, time=1611250226, title=None, item_type='comment', url=None, parent=25858500, text='Hmm, so no floating point math ever, only use arbitrary precision? As far as I know most 3D games do correct-enough math because it&#x27;ll be replaced in a couple frames anyway.')

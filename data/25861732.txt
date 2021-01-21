@@ -1,0 +1,1 @@
+Item(by='tylersmith', descendants=None, kids=[25861982, 25861853], score=None, time=1611251463, title=None, item_type='comment', url=None, parent=25861387, text='That&#x27;s a fundamental security assumption made by Nakamoto consensus. It&#x27;s like assuming the discrete log problem is hard. If&#x2F;when the assumption doesn&#x27;t hold the security is gone.')

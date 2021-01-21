@@ -1,0 +1,1 @@
+Item(by='skybrian', descendants=None, kids=None, score=None, time=1611261601, title=None, item_type='comment', url=None, parent=25862291, text='Does this automatically generate safe API&#x27;s as expected for Rust? If so, I wonder how they manage it? Did their metadata format have to be extended to describe the constraints on Rust callers and callbacks?')

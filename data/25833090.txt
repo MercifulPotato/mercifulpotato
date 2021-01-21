@@ -1,1 +1,1 @@
-Item(by='agmm', descendants=1, kids=[25858580], score=14, time=1611061811, title='Distributed Electronic Cosmic-Ray Observatory (Using Cellphones)', item_type='story', url='https://wipac.wisc.edu/deco/data', parent=None, text=None)
+Item(by='agmm', descendants=8, kids=[25860620, 25858859, 25860366, 25858580, 25859834], score=48, time=1611061811, title='DECO – Using cell phones to detect cosmic rays and other energetic particles', item_type='story', url='https://wipac.wisc.edu/deco/data', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='carlosf', descendants=None, kids=None, score=None, time=1611250639, title=None, item_type='comment', url=None, parent=25860397, text='How so? Docker is fundamentally about OS Level namespaces and isolation, not about more abstraction.')

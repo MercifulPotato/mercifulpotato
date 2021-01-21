@@ -1,1 +1,1 @@
-Item(by='rory', descendants=None, kids=None, score=None, time=1611202739, title=None, item_type='comment', url=None, parent=25854972, text='That doesn&#x27;t explain why people are surviving and&#x2F;or missing _more_ (as a percent) in 2020 than in 2019.')
+Item(by='rory', descendants=None, kids=[25860239], score=None, time=1611202739, title=None, item_type='comment', url=None, parent=25854972, text='That doesn&#x27;t explain why people are surviving and&#x2F;or missing _more_ (as a percent) in 2020 than in 2019.')

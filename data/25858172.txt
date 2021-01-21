@@ -1,1 +1,1 @@
-Item(by='elsewhen', descendants=1, kids=[25858237], score=4, time=1611232140, title="The World's Slowest Checkout", item_type='story', url='https://www.slow.sale/', parent=None, text=None)
+Item(by='elsewhen', descendants=2, kids=[25859796, 25858237], score=5, time=1611232140, title="The World's Slowest Checkout", item_type='story', url='https://www.slow.sale/', parent=None, text=None)
