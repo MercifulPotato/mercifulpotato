@@ -1,0 +1,1 @@
+Item(by='xmprt', descendants=None, kids=None, score=None, time=1611212207, title=None, item_type='comment', url=None, parent=25856256, text='I have solved the halting problem. Every program you write compiles and executes as HALT; and therefore it&#x27;s possible to determine if a program halts! It might not be correct but it sure is fast!')

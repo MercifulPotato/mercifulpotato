@@ -1,1 +1,1 @@
-Item(by='outrightmental', descendants=0, kids=None, score=4, time=1611187603, title='HUD for being on time to remote meetings while coding', item_type='story', url='http://agendar.outright.io/', parent=None, text=None)
+Item(by='outrightmental', descendants=2, kids=[25855305], score=9, time=1611187603, title='HUD for being on time to remote meetings while coding', item_type='story', url='http://agendar.outright.io/', parent=None, text=None)

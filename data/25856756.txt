@@ -1,0 +1,1 @@
+Item(by='snicker7', descendants=None, kids=None, score=None, time=1611217985, title=None, item_type='comment', url=None, parent=25855978, text='Solution: use a distro-agnostic package manager (Nix, Guix, Homebrew, FlatPak, ...) on top of Debian. Stable base + modern apps.')

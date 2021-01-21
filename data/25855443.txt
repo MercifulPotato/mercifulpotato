@@ -1,1 +1,1 @@
-Item(by='_rohan', descendants=None, kids=None, score=None, time=1611203803, title=None, item_type='comment', url=None, parent=25850739, text='Q: If Spider-Man and Wonder Woman founded a company, what would it be?\nA: Amazon Web Services')
+Item(by='_rohan', descendants=None, kids=[25856099, 25855629], score=None, time=1611203803, title=None, item_type='comment', url=None, parent=25850739, text='Q: If Spider-Man and Wonder Woman founded a company, what would it be?\nA: Amazon Web Services')

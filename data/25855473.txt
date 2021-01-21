@@ -1,1 +1,1 @@
-Item(by='taspeotis', descendants=None, kids=None, score=None, time=1611204142, title=None, item_type='comment', url=None, parent=25850739, text='Knock knock<p>Who’s there?<p><i>long pause</i><p>Java')
+Item(by='taspeotis', descendants=None, kids=[25856222], score=None, time=1611204142, title=None, item_type='comment', url=None, parent=25850739, text='Knock knock<p>Who’s there?<p><i>long pause</i><p>Java')

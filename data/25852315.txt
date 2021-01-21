@@ -1,1 +1,1 @@
-Item(by='wodenokoto', descendants=None, kids=None, score=None, time=1611178592, title=None, item_type='comment', url=None, parent=25852277, text='Doesn&#x27;t calling .format on a string do the exact same thing as an f-string?')
+Item(by='wodenokoto', descendants=None, kids=[25856510], score=None, time=1611178592, title=None, item_type='comment', url=None, parent=25852277, text='Doesn&#x27;t calling .format on a string do the exact same thing as an f-string?')

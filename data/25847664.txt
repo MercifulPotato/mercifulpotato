@@ -1,0 +1,1 @@
+Item(by='peppery-idiot', descendants=None, kids=None, score=None, time=1611157185, title=None, item_type='comment', url=None, parent=25841946, text='I was under the impression OOP with classes is not cache performant when doing common game engine tasks like mass updating the velocity or position of objects.')

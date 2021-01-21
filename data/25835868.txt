@@ -1,1 +1,1 @@
-Item(by='paxys', descendants=None, kids=None, score=None, time=1611076995, title=None, item_type='comment', url=None, parent=25834855, text='$15B actually')
+Item(by='paxys', descendants=None, kids=[25856394], score=None, time=1611076995, title=None, item_type='comment', url=None, parent=25834855, text='$15B actually')

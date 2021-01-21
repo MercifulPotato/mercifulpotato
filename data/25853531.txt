@@ -1,1 +1,1 @@
-Item(by='maximilianroos', descendants=None, kids=None, score=None, time=1611187074, title=None, item_type='comment', url=None, parent=25852800, text='Looks cool! Does it require Big Sur?')
+Item(by='maximilianroos', descendants=None, kids=[25856496], score=None, time=1611187074, title=None, item_type='comment', url=None, parent=25852800, text='Looks cool! Does it require Big Sur?')

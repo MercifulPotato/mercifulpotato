@@ -1,1 +1,1 @@
-Item(by='tuxychandru', descendants=None, kids=None, score=None, time=1611199086, title=None, item_type='comment', url=None, parent=25850739, text='What is the collective noun for programmers?<p>Merge conflict.')
+Item(by='tuxychandru', descendants=None, kids=[25855914], score=None, time=1611199086, title=None, item_type='comment', url=None, parent=25850739, text='What is the collective noun for programmers?<p>Merge conflict.')

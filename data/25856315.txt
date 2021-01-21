@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=[25856348], score=None, time=1611212646, title=None, item_type='comment', url=None, parent=25850181, text='I recall hearing somewhere that sqlite isn&#x27;t hardened against opening maliciously crafted database files; can anyone substantiate it?  If so, that would make this a lot less compelling.')

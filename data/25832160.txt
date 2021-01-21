@@ -1,1 +1,1 @@
-Item(by='pessimizer', descendants=None, kids=None, score=None, time=1611053916, title=None, item_type='comment', url=None, parent=25831302, text='Are you asking if minorities have <i>ever</i> been oppressed by majorities?<p>Does the Holocaust or Jim Crow count?')
+Item(by='pessimizer', descendants=None, kids=[25856031], score=None, time=1611053916, title=None, item_type='comment', url=None, parent=25831302, text='Are you asking if minorities have <i>ever</i> been oppressed by majorities?<p>Does the Holocaust or Jim Crow count?')

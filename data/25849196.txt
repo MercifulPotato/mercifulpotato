@@ -1,1 +1,1 @@
-Item(by='squaresmile', descendants=None, kids=None, score=None, time=1611163899, title=None, item_type='comment', url=None, parent=25847171, text='I&#x27;m pretty sure if you enable Extension Developer Mode, you won&#x27;t get that nagging message on launch.')
+Item(by='squaresmile', descendants=None, kids=[25855409], score=None, time=1611163899, title=None, item_type='comment', url=None, parent=25847171, text='I&#x27;m pretty sure if you enable Extension Developer Mode, you won&#x27;t get that nagging message on launch.')

@@ -1,1 +1,1 @@
-Item(by='linux2647', descendants=None, kids=None, score=None, time=1611203501, title=None, item_type='comment', url=None, parent=25855151, text='Ugh this is why I hated logic problems in school.  Anyone care to help a poor soul understand the meaning of this joke?')
+Item(by='linux2647', descendants=None, kids=[25855613, 25855559, 25855604, 25855876, 25855731], score=None, time=1611203501, title=None, item_type='comment', url=None, parent=25855151, text='Ugh this is why I hated logic problems in school.  Anyone care to help a poor soul understand the meaning of this joke?')

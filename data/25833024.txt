@@ -1,1 +1,1 @@
-Item(by='jalammar', descendants=0, kids=None, score=1, time=1611061147, title='Finding the Words to Say: Hidden State Visualizations for Language Models', item_type='story', url='https://jalammar.github.io/hidden-states/', parent=None, text=None)
+Item(by='jalammar', descendants=1, kids=[25855962], score=30, time=1611061147, title='Finding the Words to Say: Hidden State Visualizations for Language Models', item_type='story', url='https://jalammar.github.io/hidden-states/', parent=None, text=None)

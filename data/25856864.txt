@@ -1,0 +1,1 @@
+Item(by='pantalaimon', descendants=None, kids=None, score=None, time=1611219145, title=None, item_type='comment', url=None, parent=25856585, text='Just disable interrupts while accessing shared data, it&#x27;s two instructions and the critical section should not be long.')

@@ -1,1 +1,1 @@
-Item(by='tslocum', descendants=0, kids=None, score=2, time=1611172519, title='Shit Stick', item_type='story', url='https://en.wikipedia.org/wiki/Shit_stick', parent=None, text=None)
+Item(by='tslocum', descendants=0, kids=[25855855], score=3, time=1611172519, title='Shit Stick', item_type='story', url='https://en.wikipedia.org/wiki/Shit_stick', parent=None, text=None)

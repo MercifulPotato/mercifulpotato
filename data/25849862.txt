@@ -1,1 +1,1 @@
-Item(by='ithrow', descendants=5, kids=[25852984, 25853107], score=15, time=1611166676, title='Dynamic type systems aren’t even simpler', item_type='story', url='https://hisham.hm/2020/01/20/dynamic-type-systems-arent-even-simpler/', parent=None, text=None)
+Item(by='ithrow', descendants=10, kids=[25852984, 25855326, 25853107, 25856190, 25855313], score=20, time=1611166676, title='Dynamic type systems aren’t even simpler', item_type='story', url='https://hisham.hm/2020/01/20/dynamic-type-systems-arent-even-simpler/', parent=None, text=None)

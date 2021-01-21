@@ -1,1 +1,1 @@
-Item(by='devdas', descendants=None, kids=None, score=None, time=1611096643, title=None, item_type='comment', url=None, parent=25826819, text='Voice is substantially slower to consume than text.')
+Item(by='devdas', descendants=None, kids=[25856014], score=None, time=1611096643, title=None, item_type='comment', url=None, parent=25826819, text='Voice is substantially slower to consume than text.')

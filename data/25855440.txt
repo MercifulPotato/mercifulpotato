@@ -1,1 +1,1 @@
-Item(by='cantsingh', descendants=None, kids=None, score=None, time=1611203794, title=None, item_type='comment', url=None, parent=25850739, text='Not strictly programming, but:<p>An SEO consultant walks into a bar, pub, speakeasy, drinking hall, club.')
+Item(by='cantsingh', descendants=None, kids=[25855895], score=None, time=1611203794, title=None, item_type='comment', url=None, parent=25850739, text='Not strictly programming, but:<p>An SEO consultant walks into a bar, pub, speakeasy, drinking hall, club.')

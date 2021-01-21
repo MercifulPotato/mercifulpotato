@@ -1,0 +1,1 @@
+Item(by='winrid', descendants=None, kids=None, score=None, time=1611208693, title=None, item_type='comment', url=None, parent=25855836, text='You have an Answer object that probably contains a type enum.<p>However, you don&#x27;t need to name all variables &quot;answerObject&quot;.')
