@@ -1,1 +1,1 @@
-Item(by='tester34', descendants=None, kids=None, score=None, time=1611217303, title=None, item_type='comment', url=None, parent=25847699, text='because when you misscalculate the index, then it will not crash, but use the wrong one<p>I&#x27;m getting this right?')
+Item(by='tester34', descendants=None, kids=[25857844], score=None, time=1611217303, title=None, item_type='comment', url=None, parent=25847699, text='because when you misscalculate the index, then it will not crash, but use the wrong one<p>I&#x27;m getting this right?')

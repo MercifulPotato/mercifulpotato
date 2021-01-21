@@ -1,1 +1,1 @@
-Item(by='skellystudios', descendants=None, kids=None, score=None, time=1611214287, title=None, item_type='comment', url=None, parent=25855481, text='Cache invalidation isn’t hard, but it used to be and now we can’t get people to think otherwise.')
+Item(by='skellystudios', descendants=None, kids=[25857419], score=None, time=1611214287, title=None, item_type='comment', url=None, parent=25855481, text='Cache invalidation isn’t hard, but it used to be and now we can’t get people to think otherwise.')

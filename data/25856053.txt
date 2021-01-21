@@ -1,1 +1,1 @@
-Item(by='nanomonkey', descendants=None, kids=None, score=None, time=1611209839, title=None, item_type='comment', url=None, parent=25855997, text='&gt;There are two hard problems in computer science: naming<p>concurrency<p>&gt;things, cache invalidation, and off-by-one errors.')
+Item(by='nanomonkey', descendants=None, kids=[25857852], score=None, time=1611209839, title=None, item_type='comment', url=None, parent=25855997, text='&gt;There are two hard problems in computer science: naming<p>concurrency<p>&gt;things, cache invalidation, and off-by-one errors.')

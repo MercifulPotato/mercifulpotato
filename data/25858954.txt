@@ -1,0 +1,1 @@
+Item(by='blueline', descendants=None, kids=None, score=None, time=1611238325, title=None, item_type='comment', url=None, parent=25853351, text='PyCharm&#x2F;intellij display the “code” part of f-strings similar to how a variable declaration or function call would be. I’m sure it’s possible for any other editors out there to apply some nicer formatting to f-strings as well.')

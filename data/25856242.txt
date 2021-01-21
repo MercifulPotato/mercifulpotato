@@ -1,1 +1,1 @@
-Item(by='evanb', descendants=None, kids=None, score=None, time=1611211838, title=None, item_type='comment', url=None, parent=25856182, text='This joke relies on the listener knowing that the regularized sum of 1+2+3+... = -1&#x2F;12.')
+Item(by='evanb', descendants=None, kids=[25857186], score=None, time=1611211838, title=None, item_type='comment', url=None, parent=25856182, text='This joke relies on the listener knowing that the regularized sum of 1+2+3+... = -1&#x2F;12.')

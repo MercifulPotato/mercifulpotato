@@ -1,1 +1,1 @@
-Item(by='zokier', descendants=None, kids=[25832928, 25832436, 25837490], score=None, time=1611054087, title=None, item_type='comment', url=None, parent=25831556, text='Htop is not cli, and ncurses is in general just poor emulation of gui.')
+Item(by='zokier', descendants=None, kids=[25832436, 25832928, 25837490], score=None, time=1611054087, title=None, item_type='comment', url=None, parent=25831556, text='Htop is not cli, and ncurses is in general just poor emulation of gui.')

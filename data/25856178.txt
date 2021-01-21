@@ -1,1 +1,1 @@
-Item(by='petre', descendants=None, kids=None, score=None, time=1611211119, title=None, item_type='comment', url=None, parent=25850218, text='For $10&#x2F;mo one could host their own VPS and server infra.')
+Item(by='petre', descendants=None, kids=[25858939], score=None, time=1611211119, title=None, item_type='comment', url=None, parent=25850218, text='For $10&#x2F;mo one could host their own VPS and server infra.')

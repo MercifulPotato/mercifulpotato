@@ -1,1 +1,1 @@
-Item(by='iamleppert', descendants=None, kids=None, score=None, time=1611210583, title=None, item_type='comment', url=None, parent=25853612, text='How much do you want for it?')
+Item(by='iamleppert', descendants=None, kids=[25859002], score=None, time=1611210583, title=None, item_type='comment', url=None, parent=25853612, text='How much do you want for it?')

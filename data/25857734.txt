@@ -1,0 +1,1 @@
+Item(by='ashishnpatil', descendants=None, kids=None, score=None, time=1611227864, title=None, item_type='comment', url=None, parent=25856812, text='&quot;When&quot; is an issue if we&#x27;re considering the past commits valid. What we could instead do to simplify the problem somewhat is that revoking should put a warning on previous commits that they may be compromised.')

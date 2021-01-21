@@ -1,1 +1,1 @@
-Item(by='luu', descendants=0, kids=None, score=1, time=1611099826, title='USN AN-1 Submarine Aircraft Carrier', item_type='story', url='http://www.hisutton.com/USN_AN-1_Submarine_Aircraft_Carrier.html', parent=None, text=None)
+Item(by='luu', descendants=43, kids=[25858963, 25857168, 25858062, 25857761, 25857515, 25857715, 25857430, 25858606, 25857934, 25858441, 25857388], score=66, time=1611099826, title='USN AN-1 Submarine Aircraft Carrier (2018)', item_type='story', url='http://www.hisutton.com/USN_AN-1_Submarine_Aircraft_Carrier.html', parent=None, text=None)

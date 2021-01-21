@@ -1,1 +1,1 @@
-Item(by='mad182', descendants=None, kids=None, score=None, time=1611216417, title=None, item_type='comment', url=None, parent=25855207, text='Yep. I block remote fonts by default and for a moment it all seemed very weird.')
+Item(by='mad182', descendants=None, kids=[25858186], score=None, time=1611216417, title=None, item_type='comment', url=None, parent=25855207, text='Yep. I block remote fonts by default and for a moment it all seemed very weird.')

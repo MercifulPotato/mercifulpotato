@@ -1,1 +1,1 @@
-Item(by='ifdefdebug', descendants=None, kids=None, score=None, time=1611218281, title=None, item_type='comment', url=None, parent=25856313, text='Nice plot twist. I thought this one was going to be about optimizing the work that has to be done for one kopeck.')
+Item(by='ifdefdebug', descendants=None, kids=[25858762], score=None, time=1611218281, title=None, item_type='comment', url=None, parent=25856313, text='Nice plot twist. I thought this one was going to be about optimizing the work that has to be done for one kopeck.')

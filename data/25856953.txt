@@ -1,0 +1,1 @@
+Item(by='dec0dedab0de', descendants=None, kids=None, score=None, time=1611219935, title=None, item_type='comment', url=None, parent=25853672, text='I didnt know format_map existed, but it looks like it is not in python 2 so it wouldn&#x27;t have helped in that use case.  Still, thanks for pointing that out. I love  learning about new minor conveniences in Python.')

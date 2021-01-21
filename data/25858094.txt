@@ -1,0 +1,1 @@
+Item(by='jlouis', descendants=None, kids=[25858373], score=None, time=1611231312, title=None, item_type='comment', url=None, parent=25857938, text='The string type is utf8.<p>You would think an old http header is a string. It&#x27;s not. It looks like a string though :)')

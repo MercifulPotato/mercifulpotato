@@ -1,1 +1,1 @@
-Item(by='some_furry', descendants=0, kids=None, score=11, time=1611205112, title='Please Stop Encrypting with RSA Directly', item_type='story', url='https://soatok.blog/2021/01/20/please-stop-encrypting-with-rsa-directly', parent=None, text=None)
+Item(by='some_furry', descendants=1, kids=[25857654], score=19, time=1611205112, title='Please Stop Encrypting with RSA Directly', item_type='story', url='https://soatok.blog/2021/01/20/please-stop-encrypting-with-rsa-directly', parent=None, text=None)

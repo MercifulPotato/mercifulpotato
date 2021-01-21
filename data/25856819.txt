@@ -1,1 +1,1 @@
-Item(by='olx_designer', descendants=None, kids=None, score=None, time=1611218679, title=None, item_type='comment', url=None, parent=25856320, text='Would be perfect to have ble&#x2F;wifi connectivity on the same board.')
+Item(by='olx_designer', descendants=None, kids=[25857279], score=None, time=1611218679, title=None, item_type='comment', url=None, parent=25856320, text='Would be perfect to have ble&#x2F;wifi connectivity on the same board.')

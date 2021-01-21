@@ -1,1 +1,1 @@
-Item(by='half-kh-hacker', descendants=None, kids=None, score=None, time=1611210710, title=None, item_type='comment', url=None, parent=25855379, text='Not f-strings, but I am partial to something like:<p><pre><code>    _(&quot;Hello, {name}&quot;).format(name=name)</code></pre>')
+Item(by='half-kh-hacker', descendants=None, kids=[25857891], score=None, time=1611210710, title=None, item_type='comment', url=None, parent=25855379, text='Not f-strings, but I am partial to something like:<p><pre><code>    _(&quot;Hello, {name}&quot;).format(name=name)</code></pre>')

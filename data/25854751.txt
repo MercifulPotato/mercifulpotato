@@ -1,1 +1,1 @@
-Item(by='chenzhekl', descendants=1, kids=[25854989], score=1, time=1611197572, title='HTTP Referer (A Misspelling of Referrer)', item_type='story', url='https://en.wikipedia.org/wiki/HTTP_referer', parent=None, text=None)
+Item(by='chenzhekl', descendants=2, kids=[25856809, 25854989], score=1, time=1611197572, title='HTTP Referer (A Misspelling of Referrer)', item_type='story', url='https://en.wikipedia.org/wiki/HTTP_referer', parent=None, text=None)

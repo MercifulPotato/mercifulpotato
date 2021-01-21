@@ -1,1 +1,1 @@
-Item(by='mosdl', descendants=None, kids=None, score=None, time=1611194257, title=None, item_type='comment', url=None, parent=25849240, text='The only thing that would be hard to migrate is if you store passwords in Auth0  - you would have to reset everyone&#x27;s password no?')
+Item(by='mosdl', descendants=None, kids=[25858556], score=None, time=1611194257, title=None, item_type='comment', url=None, parent=25849240, text='The only thing that would be hard to migrate is if you store passwords in Auth0  - you would have to reset everyone&#x27;s password no?')

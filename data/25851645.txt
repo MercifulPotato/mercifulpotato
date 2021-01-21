@@ -1,1 +1,1 @@
-Item(by='Denniz', descendants=None, kids=None, score=None, time=1611175009, title=None, item_type='comment', url=None, parent=25851063, text='Doesn&#x27;t work or very difficult to do. CFC rules.')
+Item(by='Denniz', descendants=None, kids=[25856674], score=None, time=1611175009, title=None, item_type='comment', url=None, parent=25851063, text='Doesn&#x27;t work or very difficult to do. CFC rules.')

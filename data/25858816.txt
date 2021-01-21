@@ -1,0 +1,1 @@
+Item(by='lightlyused', descendants=None, kids=None, score=None, time=1611237559, title=None, item_type='comment', url=None, parent=25856520, text='This was just an example to show what it does, I normally wouldn&#x27;t have \\h in a string.  I use this to store lists of regular expressions in aws dynamodb list type and to convert them back to raw strings when used.')
