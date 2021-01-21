@@ -1,1 +1,1 @@
-Item(by='asciimov', descendants=None, kids=None, score=None, time=1611158959, title=None, item_type='comment', url=None, parent=25846347, text='What does $15 get me? I don&#x27;t see any listing of the lessons.<p>Why is this better than vimtutor?')
+Item(by='asciimov', descendants=None, kids=[25854470], score=None, time=1611158959, title=None, item_type='comment', url=None, parent=25846347, text='What does $15 get me? I don&#x27;t see any listing of the lessons.<p>Why is this better than vimtutor?')

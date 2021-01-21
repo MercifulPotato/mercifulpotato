@@ -1,1 +1,1 @@
-Item(by='neltnerb', descendants=None, kids=None, score=None, time=1611175100, title=None, item_type='comment', url=None, parent=25851352, text='Or a non-profit foundry that serves every semiconductor company in the US. Intel is welcome to help...')
+Item(by='neltnerb', descendants=None, kids=[25852401], score=None, time=1611175100, title=None, item_type='comment', url=None, parent=25851352, text='Or a non-profit foundry that serves every semiconductor company in the US. Intel is welcome to help...')

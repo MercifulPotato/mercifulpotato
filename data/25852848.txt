@@ -1,0 +1,1 @@
+Item(by='DelightOne', descendants=None, kids=[25853023], score=None, time=1611181919, title=None, item_type='comment', url=None, parent=25851373, text='&gt; This is a closed source, downstream effort which means no modifications can be made to Electron itself.<p>It has the MIT license since 2 months ago. Did the closed-source part change or is that only about the non-npm code?')

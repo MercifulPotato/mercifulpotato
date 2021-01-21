@@ -1,1 +1,1 @@
-Item(by='gkfasdfasdf', descendants=None, kids=None, score=None, time=1611163820, title=None, item_type='comment', url=None, parent=25848987, text='I&#x27;m sure it could be done that way, but if it violates TOS then I would be wary that the bridge will be unreliable.')
+Item(by='gkfasdfasdf', descendants=None, kids=[25852480], score=None, time=1611163820, title=None, item_type='comment', url=None, parent=25848987, text='I&#x27;m sure it could be done that way, but if it violates TOS then I would be wary that the bridge will be unreliable.')

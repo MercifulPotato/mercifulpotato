@@ -1,1 +1,1 @@
-Item(by='ugh123', descendants=None, kids=None, score=None, time=1611164174, title=None, item_type='comment', url=None, parent=25848333, text='Ask Apple or Microsoft for a full time job to work on it =)')
+Item(by='ugh123', descendants=None, kids=[25853585], score=None, time=1611164174, title=None, item_type='comment', url=None, parent=25848333, text='Ask Apple or Microsoft for a full time job to work on it =)')

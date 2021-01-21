@@ -1,1 +1,1 @@
-Item(by='AlexanderDhoore', descendants=None, kids=None, score=None, time=1611178078, title=None, item_type='comment', url=None, parent=25848156, text='The joys of abusing C++. Shoot me now.')
+Item(by=None, descendants=None, kids=None, score=None, time=1611178078, title=None, item_type='comment', url=None, parent=25848156, text=None)

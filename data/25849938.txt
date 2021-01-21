@@ -1,1 +1,1 @@
-Item(by='chasebro', descendants=None, kids=None, score=None, time=1611167004, title=None, item_type='comment', url=None, parent=25845402, text='So not a phone tree…?')
+Item(by='chasebro', descendants=None, kids=[25852427], score=None, time=1611167004, title=None, item_type='comment', url=None, parent=25845402, text='So not a phone tree…?')

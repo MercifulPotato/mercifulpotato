@@ -1,1 +1,1 @@
-Item(by='eyelidlessness', descendants=None, kids=None, score=None, time=1611113287, title=None, item_type='comment', url=None, parent=25838857, text='Developing in macOS against Docker is beyond painful. 10-100x build times is not a reasonable cost for platform compat.')
+Item(by='eyelidlessness', descendants=None, kids=[25853791], score=None, time=1611113287, title=None, item_type='comment', url=None, parent=25838857, text='Developing in macOS against Docker is beyond painful. 10-100x build times is not a reasonable cost for platform compat.')

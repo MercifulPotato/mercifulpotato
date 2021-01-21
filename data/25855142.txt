@@ -1,0 +1,1 @@
+Item(by='pansa2', descendants=None, kids=None, score=None, time=1611200807, title=None, item_type='comment', url=None, parent=25854711, text='Even if logging can&#x27;t use f-strings, is there a reason it can&#x27;t use `string.format`?<p>Limiting logging to `%`-formatting seems to be an inconsistency similar to supporting `%` but not `format` on `bytes` and `bytearray`.')

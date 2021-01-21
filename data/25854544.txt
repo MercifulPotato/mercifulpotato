@@ -1,0 +1,1 @@
+Item(by='jjoonathan', descendants=None, kids=None, score=None, time=1611195574, title=None, item_type='comment', url=None, parent=25851465, text='Almost all monte carlo production code is MCMC of some form and the idea of constructing a markov chain with a certain stationary distribution by generating and accepting&#x2F;rejecting candidate jumps is far from trivial.')

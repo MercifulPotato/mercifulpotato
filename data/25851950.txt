@@ -1,1 +1,1 @@
-Item(by='tedunangst', descendants=None, kids=None, score=None, time=1611176594, title=None, item_type='comment', url=None, parent=25851225, text='Splits.')
+Item(by='tedunangst', descendants=None, kids=[25853615], score=None, time=1611176594, title=None, item_type='comment', url=None, parent=25851225, text='Splits.')

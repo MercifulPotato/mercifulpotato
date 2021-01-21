@@ -1,1 +1,1 @@
-Item(by='recursive', descendants=None, kids=None, score=None, time=1611166307, title=None, item_type='comment', url=None, parent=25843075, text='The original article, me, and a few others in this comment section.')
+Item(by='recursive', descendants=None, kids=[25853019], score=None, time=1611166307, title=None, item_type='comment', url=None, parent=25843075, text='The original article, me, and a few others in this comment section.')

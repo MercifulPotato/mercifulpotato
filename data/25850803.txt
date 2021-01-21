@@ -1,1 +1,1 @@
-Item(by='pseudalopex', descendants=None, kids=None, score=None, time=1611170936, title=None, item_type='comment', url=None, parent=25850542, text='Bridges make the server a multi protocol client.')
+Item(by='pseudalopex', descendants=None, kids=[25852991], score=None, time=1611170936, title=None, item_type='comment', url=None, parent=25850542, text='Bridges make the server a multi protocol client.')

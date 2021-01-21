@@ -1,0 +1,1 @@
+Item(by='dragonwriter', descendants=None, kids=None, score=None, time=1611200947, title=None, item_type='comment', url=None, parent=25851956, text='&gt; Instead of this, f-strings have a lot of hardcoded and often broken behavior which can&#x27;t be fixed let alone customized<p>They are customizable on an object-to-be-formatted basis (__format__ special method).')

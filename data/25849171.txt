@@ -1,1 +1,1 @@
-Item(by='titzer', descendants=None, kids=None, score=None, time=1611163831, title=None, item_type='comment', url=None, parent=25848384, text='Yeah, I know. But the chip kicks butt :)<p>Software will catch up with the M1, I hope!')
+Item(by='titzer', descendants=None, kids=[25854459], score=None, time=1611163831, title=None, item_type='comment', url=None, parent=25848384, text='Yeah, I know. But the chip kicks butt :)<p>Software will catch up with the M1, I hope!')

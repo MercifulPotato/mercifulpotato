@@ -1,0 +1,1 @@
+Item(by='jjoonathan', descendants=None, kids=None, score=None, time=1611196238, title=None, item_type='comment', url=None, parent=25852863, text='I&#x27;ve seen bounding box code that uses PCA and, by extension, eigenvectors. I think inverse kinematics code uses eigenvectors too. But yeah, transforms easily make up 80% of the use cases.')

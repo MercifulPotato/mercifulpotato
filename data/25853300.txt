@@ -1,0 +1,1 @@
+Item(by='dmurray', descendants=None, kids=[25853393], score=None, time=1611185376, title=None, item_type='comment', url=None, parent=25853128, text='Sounds like a bug in your formatter, if it&#x27;s meant to just do formatting but actually replaces valid syntax with invalid.')

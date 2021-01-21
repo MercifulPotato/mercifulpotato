@@ -1,1 +1,1 @@
-Item(by='vinnyglennon', descendants=4, kids=[25847424, 25829353], score=21, time=1611020863, title="AWS is creating a 'new open-source design system' with React", item_type='story', url='https://www.theregister.com/2021/01/18/aws_creating_new_open_source/', parent=None, text=None)
+Item(by='vinnyglennon', descendants=4, kids=[25829353, 25847424], score=21, time=1611020863, title="AWS is creating a 'new open-source design system' with React", item_type='story', url='https://www.theregister.com/2021/01/18/aws_creating_new_open_source/', parent=None, text=None)

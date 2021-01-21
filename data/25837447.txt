@@ -1,1 +1,1 @@
-Item(by='dalu', descendants=None, kids=None, score=None, time=1611083595, title=None, item_type='comment', url=None, parent=25835349, text='Maybe we need a new book called 2084 then')
+Item(by='dalu', descendants=None, kids=[25853365], score=None, time=1611083595, title=None, item_type='comment', url=None, parent=25835349, text='Maybe we need a new book called 2084 then')

@@ -1,1 +1,1 @@
-Item(by='recursive', descendants=None, kids=None, score=None, time=1611120484, title=None, item_type='comment', url=None, parent=25834099, text='Seems quite natural to me. Who determines what&#x27;s overhead? To me, 1 indexing is more mental effort.')
+Item(by='recursive', descendants=None, kids=[25854538], score=None, time=1611120484, title=None, item_type='comment', url=None, parent=25834099, text='Seems quite natural to me. Who determines what&#x27;s overhead? To me, 1 indexing is more mental effort.')

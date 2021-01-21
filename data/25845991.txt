@@ -1,1 +1,1 @@
-Item(by='mhh__', descendants=None, kids=None, score=None, time=1611148373, title=None, item_type='comment', url=None, parent=25845819, text='The cores are in-house apple, so that&#x27;s a bit strenuous')
+Item(by='mhh__', descendants=None, kids=[25852263], score=None, time=1611148373, title=None, item_type='comment', url=None, parent=25845819, text='The cores are in-house apple, so that&#x27;s a bit strenuous')

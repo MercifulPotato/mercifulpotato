@@ -1,1 +1,1 @@
-Item(by='blackrock', descendants=None, kids=None, score=None, time=1611172048, title=None, item_type='comment', url=None, parent=25845198, text='Is TSMC about to bit a physics barrier?<p>How much smaller than 3nm can transistor sizes go? 2 nm? 1 nm? O.5 nm?')
+Item(by='blackrock', descendants=None, kids=[25853409], score=None, time=1611172048, title=None, item_type='comment', url=None, parent=25845198, text='Is TSMC about to hit a physics barrier?<p>How much smaller than 3nm, can transistor sizes go? 2 nm? 1 nm? O.5 nm?')

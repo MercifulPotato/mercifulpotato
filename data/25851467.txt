@@ -1,1 +1,1 @@
-Item(by='arthurcolle', descendants=None, kids=None, score=None, time=1611174160, title=None, item_type='comment', url=None, parent=25851248, text='The hex version is good too -<p>There are 16 types of people in the world: those who understand hexadecimal and F the rest.')
+Item(by='arthurcolle', descendants=None, kids=[25853509], score=None, time=1611174160, title=None, item_type='comment', url=None, parent=25851248, text='The hex version is good too -<p>There are 16 types of people in the world: those who understand hexadecimal and F the rest.')

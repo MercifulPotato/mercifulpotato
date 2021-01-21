@@ -1,0 +1,1 @@
+Item(by='lern_too_spel', descendants=None, kids=None, score=None, time=1611181814, title=None, item_type='comment', url=None, parent=25849840, text='Also, if you&#x27;re using a Hacker News app, it won&#x27;t send a Referer header when opening an article unless the app authors went out of their way to implement that. I would be surprised if any did.')
