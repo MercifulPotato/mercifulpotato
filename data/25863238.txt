@@ -1,1 +1,1 @@
-Item(by='w0mbat', descendants=None, kids=None, score=None, time=1611258425, title=None, item_type='comment', url=None, parent=25856391, text='You haven’t wired it properly. If there is no constant power wire just run one from the battery.')
+Item(by='w0mbat', descendants=None, kids=[25870686], score=None, time=1611258425, title=None, item_type='comment', url=None, parent=25856391, text='You haven’t wired it properly. If there is no constant power wire just run one from the battery.')

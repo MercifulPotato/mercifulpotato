@@ -1,0 +1,1 @@
+Item(by='steerablesafe', descendants=None, kids=None, score=None, time=1611318038, title=None, item_type='comment', url=None, parent=25870445, text='The security of an E2E encrypted messaging client shouldn&#x27;t depend on the server-side code. That&#x27;s kinda the whole point of E2E encryption.')

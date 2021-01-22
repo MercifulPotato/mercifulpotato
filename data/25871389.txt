@@ -1,0 +1,1 @@
+Item(by='solicode', descendants=None, kids=None, score=None, time=1611321443, title=None, item_type='comment', url=None, parent=25871302, text='There&#x27;s probably a nicer way (or more performant at least), but I created a function that uses the built-in `uuid_generate_v1mc` and then reverse the order of the time component so that high values come first.')

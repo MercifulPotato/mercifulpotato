@@ -1,1 +1,1 @@
-Item(by='gklitt', descendants=1, kids=[25858818], score=20, time=1611236837, title='Show HN: Twemex – A browser extension that surfaces the best ideas on Twitter', item_type='story', url='https://twemex.app/', parent=None, text=None)
+Item(by='gklitt', descendants=2, kids=[25870578, 25858818], score=22, time=1611236837, title='Show HN: Twemex – A browser extension that surfaces the best ideas on Twitter', item_type='story', url='https://twemex.app/', parent=None, text=None)

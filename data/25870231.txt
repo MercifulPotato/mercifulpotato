@@ -1,0 +1,1 @@
+Item(by='onion2k', descendants=None, kids=[25870617], score=None, time=1611310387, title=None, item_type='comment', url=None, parent=25870024, text='If the idea is to make an MVP then GitHub auth would have been <i>less</i> work. Creating a registration and login system is far more work than implementing a basic OAuth flow, especially if you can use something like Auth0.')

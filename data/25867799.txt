@@ -1,1 +1,1 @@
-Item(by='SantalBlush', descendants=None, kids=None, score=None, time=1611284363, title=None, item_type='comment', url=None, parent=25864879, text='This seems likely.  They bring a weak case, and when it gets thrown out, they can say that further proves their victimhood.')
+Item(by='SantalBlush', descendants=None, kids=[25870934], score=None, time=1611284363, title=None, item_type='comment', url=None, parent=25864879, text='This seems likely.  They bring a weak case, and when it gets thrown out, they can say that further proves their victimhood.')

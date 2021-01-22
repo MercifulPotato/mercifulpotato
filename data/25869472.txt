@@ -1,1 +1,1 @@
-Item(by='j-berman', descendants=1, kids=[25869473], score=1, time=1611302261, title='Show HN: Userbase – Add user accounts and E2E encrypted persistence to your app', item_type='story', url='https://userbase.com/?home', parent=None, text=None)
+Item(by='j-berman', descendants=1, kids=[25869473], score=6, time=1611302261, title='Show HN: Userbase – Auth and E2E encrypted storage in a few lines of code', item_type='story', url='https://userbase.com/?home', parent=None, text=None)

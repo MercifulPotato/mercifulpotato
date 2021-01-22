@@ -1,0 +1,1 @@
+Item(by='hatmatrix', descendants=None, kids=[25871506], score=None, time=1611313129, title=None, item_type='comment', url=None, parent=25866215, text='Just curious but why go for gnuplot (and awk) rather than python or R? At some point you run up to some limit where you want a bit more capability. I don&#x27;t know that the learning curve is that much less for awk + gnuplot?')

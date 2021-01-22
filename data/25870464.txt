@@ -1,0 +1,1 @@
+Item(by='tsimionescu', descendants=None, kids=None, score=None, time=1611312352, title=None, item_type='comment', url=None, parent=25867583, text='Amazon is in compliance with the terms of the AGPL already for their managed ES. Switching ES to from Apache to AGPL would only affect other users of ES, not Amazon.')

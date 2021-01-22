@@ -1,0 +1,1 @@
+Item(by='tgragnato', descendants=None, kids=[25871678, 25871737], score=None, time=1611320886, title=None, item_type='comment', url=None, parent=25871230, text='The old school way is to notify the ci&#x2F;cd server using a post-receive hook. You can do it, but it’s not integrated in cgit, it must be set from the command line when you initialize the repo')

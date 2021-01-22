@@ -1,0 +1,1 @@
+Item(by='alpaca128', descendants=None, kids=None, score=None, time=1611323842, title=None, item_type='comment', url=None, parent=25871069, text='Which is a pretty safe assumption, considering just generating\nthose 128bits 50 million times a millisecond results in over 20\nmillion TB of data in a year. I think it&#x27;s safe to say this is\nnot a common scenario.')

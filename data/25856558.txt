@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=2, time=1611215748, title='Knuth-Morris-Pratt string-searching algorithm: DFA-less version', item_type='story', url='https://yurichev.com/news/20210121_Knuth_Morris_Pratt_3/', parent=None, text=None)
+Item(by='ingve', descendants=6, kids=[25872404, 25871255, 25872192, 25871330, 25870582, 25870731], score=57, time=1611215748, title='Knuth-Morris-Pratt string-searching algorithm: DFA-less version', item_type='story', url='https://yurichev.com/news/20210121_Knuth_Morris_Pratt_1/', parent=None, text=None)

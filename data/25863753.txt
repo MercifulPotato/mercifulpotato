@@ -1,1 +1,1 @@
-Item(by='Foxboron', descendants=None, kids=None, score=None, time=1611260725, title=None, item_type='comment', url=None, parent=25863721, text='Initramfs I believe. `systemd-cryptenrol` would probably just be a binary like any other and wrap `cryptsetup` which is on your initramfs.')
+Item(by='Foxboron', descendants=None, kids=[25870991], score=None, time=1611260725, title=None, item_type='comment', url=None, parent=25863721, text='Initramfs I believe. `systemd-cryptenrol` would probably just be a binary like any other and wrap `cryptsetup` which is on your initramfs.')

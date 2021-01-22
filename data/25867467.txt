@@ -1,1 +1,1 @@
-Item(by='tlack', descendants=0, kids=None, score=1, time=1611282031, title='AtomVM: Erlang and Elixir on ESP32/STM32/RP Pico/etc.', item_type='story', url='https://archive.fosdem.org/2020/schedule/event/ioterlang/', parent=None, text=None)
+Item(by='tlack', descendants=0, kids=None, score=3, time=1611282031, title='AtomVM: Erlang and Elixir on ESP32/STM32/RP Pico/etc.', item_type='story', url='https://archive.fosdem.org/2020/schedule/event/ioterlang/', parent=None, text=None)

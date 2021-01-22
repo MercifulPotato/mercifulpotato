@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1611301563, title=None, item_type='comment', url=None, parent=25868546, text='Will a site like HackerNews not be subject to the same ridiculous legislation?')
+Item(by='tinus_hn', descendants=None, kids=[25869806], score=None, time=1611301563, title=None, item_type='comment', url=None, parent=25868546, text='Will a site like HackerNews not be subject to the same ridiculous legislation?')

@@ -1,0 +1,1 @@
+Item(by='icebraining', descendants=None, kids=None, score=None, time=1611309495, title=None, item_type='comment', url=None, parent=25861670, text='Yeah, the security policies let you do that. I think the current mechanism is called AppLocker.<p>Note that there may be still ways to bypass it if you&#x27;re an attacker sitting at the computer, rather than a hapless user.')

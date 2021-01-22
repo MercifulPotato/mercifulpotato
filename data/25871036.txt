@@ -1,0 +1,1 @@
+Item(by='mytailorisrich', descendants=None, kids=None, score=None, time=1611318049, title=None, item_type='comment', url=None, parent=25870968, text='I think random binary keys are pretty good for B trees because they also lead to shallow depth and a balanced tree instead of potentially degrading to a linked list.')

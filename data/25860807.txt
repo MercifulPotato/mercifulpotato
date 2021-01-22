@@ -1,1 +1,1 @@
-Item(by='jayd16', descendants=None, kids=None, score=None, time=1611247276, title=None, item_type='comment', url=None, parent=25860216, text='It also makes it easy to make changes and get it out to everyone on the team in an automated way.')
+Item(by='jayd16', descendants=None, kids=[25869996], score=None, time=1611247276, title=None, item_type='comment', url=None, parent=25860216, text='It also makes it easy to make changes and get it out to everyone on the team in an automated way.')

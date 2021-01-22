@@ -1,0 +1,1 @@
+Item(by='felipelemos', descendants=0, kids=None, score=1, time=1611318846, title="Running chmod on file results in 'text file busy' when running straight after", item_type='story', url='https://github.com/moby/moby/issues/9547', parent=None, text=None)

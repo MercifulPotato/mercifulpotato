@@ -1,0 +1,1 @@
+Item(by='cutthegrass2', descendants=None, kids=[25871716], score=None, time=1611308240, title=None, item_type='comment', url=None, parent=25868145, text='I&#x27;m using WireGuard on an AWS Lightsail instance. Current uptime on the instance is 695 days, its not missed a beat.<p>Cost is ~$4 per month.')

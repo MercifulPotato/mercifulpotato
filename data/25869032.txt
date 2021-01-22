@@ -1,1 +1,1 @@
-Item(by='sytelus', descendants=2, kids=[25869421, 25869058], score=6, time=1611297273, title='The Power of Stack Overflow', item_type='story', url='https://nymag.com/intelligencer/2017/03/the-hidden-power-of-stack-overflow.html', parent=None, text=None)
+Item(by='sytelus', descendants=5, kids=[25869421, 25869058], score=9, time=1611297273, title='The Power of Stack Overflow', item_type='story', url='https://nymag.com/intelligencer/2017/03/the-hidden-power-of-stack-overflow.html', parent=None, text=None)

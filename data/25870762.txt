@@ -1,0 +1,1 @@
+Item(by='mytailorisrich', descendants=None, kids=[25870968], score=None, time=1611315528, title=None, item_type='comment', url=None, parent=25870714, text='&gt; <i>Isn&#x27;t that going to hurt the b-tree performance by having a very high fanout?</i><p>High fanout helps minimise the depth of the tree and therefore helps performance as it minimises the number of nodes to check.')

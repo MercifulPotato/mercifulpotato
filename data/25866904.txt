@@ -1,1 +1,1 @@
-Item(by='Bud', descendants=None, kids=None, score=None, time=1611277152, title=None, item_type='comment', url=None, parent=25863280, text='That&#x27;s not misleading. The title, as worded, does not state or imply that only those who voted to unionize were fired.')
+Item(by='Bud', descendants=None, kids=[25870367], score=None, time=1611277152, title=None, item_type='comment', url=None, parent=25863280, text='That&#x27;s not misleading. The title, as worded, does not state or imply that only those who voted to unionize were fired.')

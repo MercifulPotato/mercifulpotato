@@ -1,0 +1,1 @@
+Item(by='brobdingnagians', descendants=None, kids=None, score=None, time=1611328941, title=None, item_type='comment', url=None, parent=25871693, text='I do the same. There are plenty of tools for local analysis and visualization of git repos; I finder it better to use those as appropriate and just use bare repos cloned from the server.')

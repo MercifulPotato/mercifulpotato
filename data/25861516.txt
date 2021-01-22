@@ -1,1 +1,1 @@
-Item(by='acct776', descendants=None, kids=None, score=None, time=1611250380, title=None, item_type='comment', url=None, parent=25852364, text='chomping at the bit**')
+Item(by='acct776', descendants=None, kids=[25870952], score=None, time=1611250380, title=None, item_type='comment', url=None, parent=25852364, text='chomping at the bit**')

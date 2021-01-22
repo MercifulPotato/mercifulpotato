@@ -1,1 +1,1 @@
-Item(by='stretchcat', descendants=None, kids=None, score=None, time=1611282795, title=None, item_type='comment', url=None, parent=25867564, text='China isn&#x27;t a democracy, is it?')
+Item(by='stretchcat', descendants=None, kids=[25870585], score=None, time=1611282795, title=None, item_type='comment', url=None, parent=25867564, text='China isn&#x27;t a democracy, is it?')

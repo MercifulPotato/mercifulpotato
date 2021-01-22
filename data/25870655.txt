@@ -1,0 +1,1 @@
+Item(by='gingerlime', descendants=None, kids=None, score=None, time=1611314261, title=None, item_type='comment', url=None, parent=25863800, text='Thank you. I managed to get it working... still I&#x27;m not sure about things like ruby-rubocop ... I can install it remotely, but not inside a remote docker container (where my ruby runs)... Any tips?')

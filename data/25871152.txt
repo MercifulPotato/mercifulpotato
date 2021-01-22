@@ -1,0 +1,1 @@
+Item(by='ffpip', descendants=None, kids=None, score=None, time=1611318974, title=None, item_type='comment', url=None, parent=25866484, text='HTTPS only mode displays a warning every time the HTTPS version is not available.<p>HTTPS Everywhere&#x2F;Brave tries to upgrade connections to https, if not falls back without throwing up annoying warnings.')

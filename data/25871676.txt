@@ -1,0 +1,1 @@
+Item(by='SigmundA', descendants=None, kids=[25871809], score=None, time=1611323858, title=None, item_type='comment', url=None, parent=25871571, text='Seems like this point is not understood very well by many. \nOrdered keys can create hot spots on insert and read, this can be good or bad depending on backend.')

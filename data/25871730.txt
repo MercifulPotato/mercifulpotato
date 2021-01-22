@@ -1,0 +1,1 @@
+Item(by='collyw', descendants=None, kids=None, score=None, time=1611324211, title=None, item_type='comment', url=None, parent=25860092, text='Whats the correct way to get libraries into your docker container? We have plenty of apt-get &#x2F; pip calls in the dockerfiles at my work (set up by someone else).')

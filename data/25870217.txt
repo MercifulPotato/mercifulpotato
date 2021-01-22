@@ -1,0 +1,1 @@
+Item(by='baq', descendants=None, kids=None, score=None, time=1611310250, title=None, item_type='comment', url=None, parent=25863918, text='re 2) try NFS exports on either host windows or WSL2. i&#x27;ve used an nfs mount inside WSL2 and it works very well. don&#x27;t put it in &#x2F;etc&#x2F;fstab, though - for me it caused a WSL2 hard lock on start.')

@@ -1,0 +1,1 @@
+Item(by='namibj', descendants=None, kids=[25871382], score=None, time=1611310649, title=None, item_type='comment', url=None, parent=25869645, text='The architecture of DDflow does not lend itself well to bindings of the common, interactive type.\nIt relies on the code for the operators being compiled and optimized by LLVM, which inhibits run-time configurability.')

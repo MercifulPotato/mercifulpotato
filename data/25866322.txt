@@ -1,1 +1,1 @@
-Item(by='catmanjan', descendants=None, kids=None, score=None, time=1611272880, title=None, item_type='comment', url=None, parent=25865940, text='The way I see it is the secret sauce is just black boxing it so you don&#x27;t have to&#x2F;can&#x27;t worry about those things...')
+Item(by='catmanjan', descendants=None, kids=[25869701], score=None, time=1611272880, title=None, item_type='comment', url=None, parent=25865940, text='The way I see it is the secret sauce is just black boxing it so you don&#x27;t have to&#x2F;can&#x27;t worry about those things...')

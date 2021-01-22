@@ -1,0 +1,1 @@
+Item(by='abhishekjha', descendants=None, kids=[25871036], score=None, time=1611317407, title=None, item_type='comment', url=None, parent=25870762, text='Sorry, I meant low fan out, as in a b-tree node will end up have having a lot of singular valued children ultimately degrading to linked list.')

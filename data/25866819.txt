@@ -1,1 +1,1 @@
-Item(by='nineteen999', descendants=None, kids=None, score=None, time=1611276425, title=None, item_type='comment', url=None, parent=25864789, text='&gt; It may not be as glamorous as going to stand-ups each morning<p>I must have extremely different definition of glamorous to you.')
+Item(by='nineteen999', descendants=None, kids=[25870188], score=None, time=1611276425, title=None, item_type='comment', url=None, parent=25864789, text='&gt; It may not be as glamorous as going to stand-ups each morning<p>I must have extremely different definition of glamorous to you.')

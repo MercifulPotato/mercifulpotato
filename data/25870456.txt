@@ -1,0 +1,1 @@
+Item(by='dmitrygr', descendants=None, kids=[25870701], score=None, time=1611312297, title=None, item_type='comment', url=None, parent=25869918, text='I doubt they have the AOT compiler working. So it is probably interp-only. Combine that with the low clock speeds a d less-than-stellar IPC, I&#x27;d imagine this is a cool demo and little more.')

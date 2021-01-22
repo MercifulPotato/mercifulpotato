@@ -1,1 +1,1 @@
-Item(by='SideburnsOfDoom', descendants=None, kids=None, score=None, time=1611253827, title=None, item_type='comment', url=None, parent=25858983, text='Cats are known to like fatty and salty foods, and not have a &quot;sweet tooth&quot;. Olives are oily, and preserved in salt')
+Item(by='SideburnsOfDoom', descendants=None, kids=[25871791], score=None, time=1611253827, title=None, item_type='comment', url=None, parent=25858983, text='Cats are known to like fatty and salty foods, and not have a &quot;sweet tooth&quot;. Olives are oily, and preserved in salt')

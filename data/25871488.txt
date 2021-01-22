@@ -1,0 +1,1 @@
+Item(by='joppy', descendants=None, kids=None, score=None, time=1611322401, title=None, item_type='comment', url=None, parent=25870301, text='In some databases like Postgres, you can do something like “SELECT x, array_agg(y) GROUP BY x” to get the exact same effect of this groupby operation in toolz.')

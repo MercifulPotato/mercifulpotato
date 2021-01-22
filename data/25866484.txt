@@ -1,1 +1,1 @@
-Item(by='mbaye', descendants=None, kids=None, score=None, time=1611273976, title=None, item_type='comment', url=None, parent=25862267, text='Firefox recently added HTTPS-Only Mode setting, basically equivalent to HTTPS Everywhere.')
+Item(by='mbaye', descendants=None, kids=[25871152], score=None, time=1611273976, title=None, item_type='comment', url=None, parent=25862267, text='Firefox recently added HTTPS-Only Mode setting, basically equivalent to HTTPS Everywhere.')

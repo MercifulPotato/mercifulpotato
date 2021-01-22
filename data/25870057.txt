@@ -1,0 +1,1 @@
+Item(by='nix23', descendants=None, kids=None, score=None, time=1611308496, title=None, item_type='comment', url=None, parent=25866982, text='&gt;OpenBSD paying for their OpenSSL forks<p>Do you know that OpenBSD initially MADE OpenSSL?<p>But also<p>LibreSSL (the fork of OpenSSL)<p>OpenBGPD<p>OpenOSPFD<p>OpenNTPD<p>OpenSMTPD<p>OpenSSH')

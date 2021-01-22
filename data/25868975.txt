@@ -1,1 +1,1 @@
-Item(by='akvadrako', descendants=None, kids=None, score=None, time=1611296502, title=None, item_type='comment', url=None, parent=25868304, text='Of course. They can only handle about 1mw, but they are thin and could be scaled up.')
+Item(by='akvadrako', descendants=None, kids=[25870742], score=None, time=1611296502, title=None, item_type='comment', url=None, parent=25868304, text='Of course. They can only handle about 1mw, but they are thin and could be scaled up.')

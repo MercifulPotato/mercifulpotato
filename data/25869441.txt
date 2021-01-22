@@ -1,1 +1,1 @@
-Item(by='dtrailin', descendants=0, kids=None, score=1, time=1611301842, title='Sharedrop.io: P2P File Transfer', item_type='story', url='https://www.sharedrop.io/', parent=None, text=None)
+Item(by='dtrailin', descendants=1, kids=[25869805], score=2, time=1611301842, title='Sharedrop.io: P2P File Transfer', item_type='story', url='https://www.sharedrop.io/', parent=None, text=None)

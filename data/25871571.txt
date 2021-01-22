@@ -1,0 +1,1 @@
+Item(by='kevincox', descendants=None, kids=[25871676], score=None, time=1611323078, title=None, item_type='comment', url=None, parent=25871144, text='Note that scattering can actually be beneficial if you have too much load for a single node when the data is hot. Of course you can solve this with weird sharding such as sharding on the least significant byte.')

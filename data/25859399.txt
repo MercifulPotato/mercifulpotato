@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=None, kids=None, score=None, time=1611240838, title=None, item_type='comment', url=None, parent=25856573, text='I wonder how similar the PIO&#x27;s are to the PRU&#x27;s on the Beagleboard.')
+Item(by='zdw', descendants=None, kids=[25869719], score=None, time=1611240838, title=None, item_type='comment', url=None, parent=25856573, text='I wonder how similar the PIO&#x27;s are to the PRU&#x27;s on the Beagleboard.')

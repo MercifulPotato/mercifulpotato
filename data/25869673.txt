@@ -1,0 +1,1 @@
+Item(by='jonny383', descendants=None, kids=None, score=None, time=1611304675, title=None, item_type='comment', url=None, parent=25869566, text='Estimator.dev results:<p>This site would be 9% faster with Modern JavaScript.\nCurrently, this site ships 25kb of Javascript (uncompressed).<p>Switching to modern JS would reduce that to 22kb, while still supporting 95% of browsers')

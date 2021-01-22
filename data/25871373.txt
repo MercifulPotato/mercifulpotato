@@ -1,0 +1,1 @@
+Item(by='flir', descendants=None, kids=None, score=None, time=1611321207, title=None, item_type='comment', url=None, parent=25850739, text='<p><pre><code>    enum Bool \n    { \n        True, \n        False, \n        FileNotFound \n    };\n\n</code></pre>\nMy favourite DailyWTF. The more you think about it, the funnier it gets.')
