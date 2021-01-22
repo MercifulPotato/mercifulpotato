@@ -1,0 +1,1 @@
+Item(by='tyre', descendants=None, kids=[25874881], score=None, time=1611341809, title=None, item_type='comment', url=None, parent=25874786, text='How are you integrating? What is the &quot;official process&quot; mentioned? As far as I know, there are no Apple APIs built for these integrations.<p>Are you just connecting to the local SQLite database?')

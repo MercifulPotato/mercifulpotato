@@ -1,1 +1,1 @@
-Item(by='dinglejungle', descendants=None, kids=None, score=None, time=1611309241, title=None, item_type='comment', url=None, parent=25865759, text='The company Elastic was created 2 years after the release of ElasticSearch.')
+Item(by='dinglejungle', descendants=None, kids=[25875253], score=None, time=1611309241, title=None, item_type='comment', url=None, parent=25865759, text='The company Elastic was created 2 years after the release of ElasticSearch.')

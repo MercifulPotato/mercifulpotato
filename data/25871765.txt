@@ -1,1 +1,1 @@
-Item(by='jgrahamc', descendants=0, kids=None, score=3, time=1611324542, title='Project Fair Shot: Ensuring Covid-19 Vaccine Sites Can Keep Up with Demand', item_type='story', url='https://blog.cloudflare.com/project-fair-shot/', parent=None, text=None)
+Item(by='jgrahamc', descendants=1, kids=[25873130], score=7, time=1611324542, title='Project Fair Shot: Ensuring Covid-19 Vaccine Sites Can Keep Up with Demand', item_type='story', url='https://blog.cloudflare.com/project-fair-shot/', parent=None, text=None)

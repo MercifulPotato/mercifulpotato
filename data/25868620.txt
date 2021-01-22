@@ -1,1 +1,1 @@
-Item(by='29athrowaway', descendants=None, kids=None, score=None, time=1611293092, title=None, item_type='comment', url=None, parent=25867239, text='This wasn&#x27;t team 1 vs team 2.<p>It was one team splitting half-way and taking everything from the other.')
+Item(by='29athrowaway', descendants=None, kids=[25872539], score=None, time=1611293092, title=None, item_type='comment', url=None, parent=25867239, text='This wasn&#x27;t team 1 vs team 2.<p>It was one team splitting half-way and taking everything from the other.')

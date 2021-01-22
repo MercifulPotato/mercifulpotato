@@ -1,1 +1,1 @@
-Item(by='account42', descendants=None, kids=None, score=None, time=1611219295, title=None, item_type='comment', url=None, parent=25851752, text='So what do you do if an antivirus vendor is uncooperative? Can you sue them for defamation?')
+Item(by='account42', descendants=None, kids=[25874979], score=None, time=1611219295, title=None, item_type='comment', url=None, parent=25851752, text='So what do you do if an antivirus vendor is uncooperative? Can you sue them for defamation?')

@@ -1,0 +1,1 @@
+Item(by='skyde', descendants=None, kids=None, score=None, time=1611342267, title=None, item_type='comment', url=None, parent=25867119, text='would it scale better if we set \ninnodb_sync_spin_loops=0 ?<p>Causing the lock to not spin and give up the pending CPU cycles back to OS if the lock is not available.')

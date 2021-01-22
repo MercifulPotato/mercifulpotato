@@ -1,0 +1,1 @@
+Item(by='ElectroNomad', descendants=None, kids=[25874674, 25874725], score=None, time=1611338209, title=None, item_type='comment', url=None, parent=25871990, text='Can anyone suggest BLE-only microcontroller?<p>I wanted to build a smart-lock, but all the boards either also have Wi-Fi on-board (that eats a lot of power) or don’t have anything at all.')

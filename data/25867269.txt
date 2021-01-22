@@ -1,1 +1,1 @@
-Item(by='tanelpoder', descendants=None, kids=None, score=None, time=1611280450, title=None, item_type='comment', url=None, parent=25865829, text='I plan to test Scylla (and Postgres with TimescaleDB) out soon after done with basic Linux tests :)')
+Item(by='tanelpoder', descendants=None, kids=[25872252], score=None, time=1611280450, title=None, item_type='comment', url=None, parent=25865829, text='I plan to test Scylla (and Postgres with TimescaleDB) out soon after done with basic Linux tests :)')

@@ -1,0 +1,1 @@
+Item(by='calpaterson', descendants=None, kids=None, score=None, time=1611342694, title=None, item_type='comment', url=None, parent=25874864, text='It&#x27;s applicable to the indexes that postgres uses. Postgres does not put rows in the heap in order of primary key so the issue is less serious than in innodb.')

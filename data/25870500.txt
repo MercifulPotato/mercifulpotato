@@ -1,1 +1,1 @@
-Item(by='zverok', descendants=0, kids=None, score=3, time=1611312684, title='Rebuilding the spellchecker, pt.4: Introduction to suggest algorithm', item_type='story', url='https://zverok.github.io/blog/2021-01-21-spellchecker-4.html', parent=None, text=None)
+Item(by='zverok', descendants=0, kids=None, score=4, time=1611312684, title='Rebuilding the spellchecker, pt.4: Introduction to suggest algorithm', item_type='story', url='https://zverok.github.io/blog/2021-01-21-spellchecker-4.html', parent=None, text=None)

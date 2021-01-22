@@ -1,0 +1,1 @@
+Item(by='Jtsummers', descendants=None, kids=None, score=None, time=1611336858, title=None, item_type='comment', url=None, parent=25873751, text='Part 1 is a fairly naïve hand-rolled solution. Part 2 shows KMP generating a DFA, which does reduce branching (specifically in the search, where the branches in the first part become array lookups in the second part).')

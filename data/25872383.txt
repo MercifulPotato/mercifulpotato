@@ -1,0 +1,1 @@
+Item(by='ClumsyPilot', descendants=None, kids=[25872488], score=None, time=1611329042, title=None, item_type='comment', url=None, parent=25871605, text='I think microk8s uses this to form a cluster, and k3s used to use it but moved back to etc.<p>Would be good to hear from someone who used it what are the pros and cons of such a setup')

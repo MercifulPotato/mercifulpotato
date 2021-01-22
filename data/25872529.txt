@@ -1,0 +1,1 @@
+Item(by='mrkurt', descendants=None, kids=[25872703], score=None, time=1611329880, title=None, item_type='comment', url=None, parent=25872450, text='It doesn&#x27;t work that way. rqlite is effectively a leader&#x2F;follower model that uses raft for leader consensus. Writes can only happen online, and only to the leader.')

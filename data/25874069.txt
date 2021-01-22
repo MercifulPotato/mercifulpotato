@@ -1,0 +1,1 @@
+Item(by='Tostino', descendants=None, kids=None, score=None, time=1611337666, title=None, item_type='comment', url=None, parent=25870955, text='Being 128-bits allows you to utilize the same database&#x2F;object types as UUID.<p>That&#x27;s the main benefit IMO. I couldn&#x27;t stick a KSUID into my Postgres UUID column, i&#x27;d have to write a new data type to store that.')

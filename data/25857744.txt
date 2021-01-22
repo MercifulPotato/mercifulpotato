@@ -1,1 +1,1 @@
-Item(by='afandian', descendants=None, kids=None, score=None, time=1611227942, title=None, item_type='comment', url=None, parent=25853630, text='What else do you use?<p>Last time I used Chrome they pretty much reimplemented everything from buttons to modal sheets.')
+Item(by='afandian', descendants=None, kids=[25874833], score=None, time=1611227942, title=None, item_type='comment', url=None, parent=25853630, text='What else do you use?<p>Last time I used Chrome they pretty much reimplemented everything from buttons to modal sheets.')

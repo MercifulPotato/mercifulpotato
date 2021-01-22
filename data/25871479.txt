@@ -1,1 +1,1 @@
-Item(by='whatl3y', descendants=0, kids=None, score=2, time=1611322346, title='We Chose a Monorepo', item_type='story', url='https://blog.lance.to/why-we-chose-a-monorepo', parent=None, text=None)
+Item(by='whatl3y', descendants=1, kids=[25872305], score=3, time=1611322346, title='We Chose a Monorepo', item_type='story', url='https://blog.lance.to/why-we-chose-a-monorepo', parent=None, text=None)

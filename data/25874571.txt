@@ -1,0 +1,1 @@
+Item(by='danmg', descendants=None, kids=[25875055], score=None, time=1611340515, title=None, item_type='comment', url=None, parent=25856558, text='Is this really DFA-less? Isn&#x27;t the look-back table you construct just encoding the DFA?')

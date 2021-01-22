@@ -1,1 +1,1 @@
-Item(by='jonny383', descendants=None, kids=None, score=None, time=1611304217, title=None, item_type='comment', url=None, parent=25868799, text='Is this the current state of HN? A warning is needed for a softly worded reality? My god.')
+Item(by='jonny383', descendants=None, kids=[25872345], score=None, time=1611304217, title=None, item_type='comment', url=None, parent=25868799, text='Is this the current state of HN? A warning is needed for a softly worded reality? My god.')

@@ -1,0 +1,1 @@
+Item(by='kop316', descendants=None, kids=None, score=None, time=1611342317, title=None, item_type='comment', url=None, parent=25874109, text='That&#x27;s been my experience with developing with libpurple  unfortunately. The APIs are very inflexible for advanced chat features, and theres little documentation for making your own plugin.')

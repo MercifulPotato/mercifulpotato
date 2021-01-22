@@ -1,0 +1,1 @@
+Item(by='SV_BubbleTime', descendants=None, kids=[25875146], score=None, time=1611338422, title=None, item_type='comment', url=None, parent=25874084, text='This is not a required item. It is suggested that the termination is 120ohms, but depends entirely on the length of the bus and number of modules. You <i>can</i> have short runs of can with no transceiver and no termination.')

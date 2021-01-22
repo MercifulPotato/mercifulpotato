@@ -1,1 +1,1 @@
-Item(by='azatris', descendants=None, kids=None, score=None, time=1611323973, title=None, item_type='comment', url=None, parent=25870387, text='How would that work? Which application supports it? I don&#x27;t know of a native way to do this.')
+Item(by='azatris', descendants=None, kids=[25874405], score=None, time=1611323973, title=None, item_type='comment', url=None, parent=25870387, text='How would that work? Which application supports it? I don&#x27;t know of a native way to do this.')

@@ -1,1 +1,1 @@
-Item(by='collyw', descendants=None, kids=None, score=None, time=1611323270, title=None, item_type='comment', url=None, parent=25860118, text='I think every programming language that I have used has had something equivalent.')
+Item(by='collyw', descendants=None, kids=[25874144], score=None, time=1611323270, title=None, item_type='comment', url=None, parent=25860118, text='I think every programming language that I have used has had something equivalent.')

@@ -1,1 +1,1 @@
-Item(by='james_impliu', descendants=0, kids=None, score=15, time=1611323592, title='A story about pivots', item_type='story', url='https://posthog.com/blog/story-about-pivots', parent=None, text=None)
+Item(by='james_impliu', descendants=28, kids=[25876260, 25872437, 25872168, 25872053, 25872384, 25871988, 25872265, 25872956, 25874408, 25871980, 25872485], score=101, time=1611323592, title='A story about pivots', item_type='story', url='https://posthog.com/blog/story-about-pivots', parent=None, text=None)

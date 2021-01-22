@@ -1,0 +1,1 @@
+Item(by='Spivak', descendants=None, kids=[25875412, 25875881], score=None, time=1611343872, title=None, item_type='comment', url=None, parent=25875066, text='I mean for a greenfield project sure but a port of an existing large application that is already coded in a specific style you likely want to preserve as much of that as possible to make the translation more mechanical.')

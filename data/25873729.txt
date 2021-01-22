@@ -1,0 +1,1 @@
+Item(by='j-pb', descendants=None, kids=None, score=None, time=1611336129, title=None, item_type='comment', url=None, parent=25872996, text='&gt; Hashing the IDs won&#x27;t solve their lack of entropy.<p>Yes and no.\nIt would still significantly largen the search space, as an attacker wouldn&#x27;t get a point of reference to latch on to.')

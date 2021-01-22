@@ -1,1 +1,1 @@
-Item(by='waheoo', descendants=None, kids=None, score=None, time=1611322417, title=None, item_type='comment', url=None, parent=25870359, text='This is a job for antitrust, not licensing.')
+Item(by='waheoo', descendants=None, kids=[25875445, 25872121], score=None, time=1611322417, title=None, item_type='comment', url=None, parent=25870359, text='This is a job for antitrust, not licensing.')

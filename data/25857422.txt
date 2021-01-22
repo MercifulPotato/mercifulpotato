@@ -1,1 +1,1 @@
-Item(by='grundprinzip', descendants=0, kids=None, score=1, time=1611224667, title='Intro to securing communication protocols with Noise', item_type='story', url='https://grund.me/posts/securing-custom-protocols-with-noise/', parent=None, text=None)
+Item(by='grundprinzip', descendants=1, kids=[25874766], score=18, time=1611224667, title='Intro to securing communication protocols with Noise', item_type='story', url='https://grund.me/posts/securing-custom-protocols-with-noise/', parent=None, text=None)
