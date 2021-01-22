@@ -1,1 +1,1 @@
-Item(by='volta87', descendants=None, kids=None, score=None, time=1611259082, title=None, item_type='comment', url=None, parent=25861941, text='In which category is Intel not being outperformed by competitors?')
+Item(by='volta87', descendants=None, kids=[25864806], score=None, time=1611259082, title=None, item_type='comment', url=None, parent=25861941, text='In which category is Intel not being outperformed by competitors?')

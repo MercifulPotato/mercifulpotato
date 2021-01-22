@@ -1,0 +1,1 @@
+Item(by='glandium', descendants=None, kids=[25865261], score=None, time=1611262068, title=None, item_type='comment', url=None, parent=25859528, text='It essentially works only when launching apps from the Finder or the dock (not when app A launches app B, except if it did something about it, but that&#x27;s unlikely) and brings up a prompt window. The opposite of silent.')

@@ -1,1 +1,1 @@
-Item(by='titzer', descendants=None, kids=None, score=None, time=1611255973, title=None, item_type='comment', url=None, parent=25862218, text='uBlock origin works great against YouTube ads. Unfortunately it is broken on Safari atm.')
+Item(by='titzer', descendants=None, kids=[25868026], score=None, time=1611255973, title=None, item_type='comment', url=None, parent=25862218, text='uBlock origin works great against YouTube ads. Unfortunately it is broken on Safari atm.')

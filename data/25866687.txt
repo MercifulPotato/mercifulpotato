@@ -1,0 +1,1 @@
+Item(by='halbritt', descendants=None, kids=None, score=None, time=1611275299, title=None, item_type='comment', url=None, parent=25865944, text='Yes, that&#x27;s a small amount of data.  I&#x27;ve worked at small companies with an order of magnitude more data per day and larger companies with three orders of magnitude more data per day flowing into a text indexing service.')

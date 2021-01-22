@@ -1,1 +1,1 @@
-Item(by='asdev', descendants=None, kids=None, score=None, time=1611190202, title=None, item_type='comment', url=None, parent=25853499, text='wow, that looks awesome! did it require a lot of capital initially for manufacturing and sourcing?')
+Item(by='asdev', descendants=None, kids=[25867560], score=None, time=1611190202, title=None, item_type='comment', url=None, parent=25853499, text='wow, that looks awesome! did it require a lot of capital initially for manufacturing and sourcing?')

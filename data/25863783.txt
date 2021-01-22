@@ -1,0 +1,1 @@
+Item(by='nomel', descendants=None, kids=[25864002, 25863928], score=None, time=1611260898, title=None, item_type='comment', url=None, parent=25863688, text='I think the point is that this still eats into CPU &lt;-&gt; memory bandwidth. Offloading could let the CPU use that memory for better purposes, especially since the stall is from memory access anyways.')

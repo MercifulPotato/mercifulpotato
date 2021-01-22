@@ -1,0 +1,1 @@
+Item(by='int_19h', descendants=None, kids=None, score=None, time=1611269397, title=None, item_type='comment', url=None, parent=25865426, text='If you came from a BSD, then you (were supposed to) already know why make install is not a good idea. Although Debian package management was not particularly similar to FreeBSD ports and packages, the fundamental idea was the same.')

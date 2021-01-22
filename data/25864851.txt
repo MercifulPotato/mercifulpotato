@@ -1,0 +1,1 @@
+Item(by='ben509', descendants=None, kids=[25864962], score=None, time=1611265811, title=None, item_type='comment', url=None, parent=25864556, text='Well, all memory operations must be translated by an MMU. So can the MMU be a distributed beast that lives in the CPU, the memory and the IO?')

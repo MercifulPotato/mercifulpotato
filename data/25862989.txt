@@ -1,1 +1,1 @@
-Item(by='teleforce', descendants=0, kids=None, score=1, time=1611257185, title='Linux Kernel Virtual Routing and Forwarding (VRF)', item_type='story', url='https://www.kernel.org/doc/Documentation/networking/vrf.txt', parent=None, text=None)
+Item(by='teleforce', descendants=0, kids=None, score=2, time=1611257185, title='Linux Kernel Virtual Routing and Forwarding (VRF)', item_type='story', url='https://www.kernel.org/doc/Documentation/networking/vrf.txt', parent=None, text=None)

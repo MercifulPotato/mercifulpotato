@@ -1,1 +1,1 @@
-Item(by='zadler', descendants=None, kids=None, score=None, time=1611259098, title=None, item_type='comment', url=None, parent=25862705, text='What are some good subsequent steps after the barely sociable vid?')
+Item(by='zadler', descendants=None, kids=[25864580], score=None, time=1611259098, title=None, item_type='comment', url=None, parent=25862705, text='What are some good subsequent steps after the barely sociable vid?')

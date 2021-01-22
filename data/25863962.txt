@@ -1,1 +1,1 @@
-Item(by='ROARosen', descendants=None, kids=None, score=None, time=1611261691, title=None, item_type='comment', url=None, parent=25863581, text='Does that meant it&#x27;s compatible with any other language?')
+Item(by='ROARosen', descendants=None, kids=[25864397], score=None, time=1611261691, title=None, item_type='comment', url=None, parent=25863581, text='Does that meant it&#x27;s compatible with any other language?')

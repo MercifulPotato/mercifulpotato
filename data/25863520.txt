@@ -1,1 +1,1 @@
-Item(by='makapuf', descendants=None, kids=None, score=None, time=1611259553, title=None, item_type='comment', url=None, parent=25861803, text='C is intimidating mostly for memory and strings handling, but on a microcontroller you wont use those, leaving only straightforward parts.')
+Item(by='makapuf', descendants=None, kids=[25865132], score=None, time=1611259553, title=None, item_type='comment', url=None, parent=25861803, text='C is intimidating mostly for memory and strings handling, but on a microcontroller you wont use those, leaving only straightforward parts.')

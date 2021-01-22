@@ -1,1 +1,1 @@
-Item(by='SwiftyBug', descendants=None, kids=None, score=None, time=1611260563, title=None, item_type='comment', url=None, parent=25863636, text='If only it was a matter of choice rather than a very planned uberization of the workforce.')
+Item(by='SwiftyBug', descendants=None, kids=[25865767], score=None, time=1611260563, title=None, item_type='comment', url=None, parent=25863636, text='If only it was a matter of choice rather than a very planned uberization of the workforce.')

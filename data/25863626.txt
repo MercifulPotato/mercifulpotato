@@ -1,1 +1,1 @@
-Item(by='throwaway894345', descendants=None, kids=None, score=None, time=1611260115, title=None, item_type='comment', url=None, parent=25863333, text='But you can’t do that (or try&#x2F;except) in an expression such as a list comprehension or similar.')
+Item(by='throwaway894345', descendants=None, kids=[25865079, 25865880], score=None, time=1611260115, title=None, item_type='comment', url=None, parent=25863333, text='But you can’t do that (or try&#x2F;except) in an expression such as a list comprehension or similar.')

@@ -1,0 +1,1 @@
+Item(by='tanelpoder', descendants=None, kids=[25865990], score=None, time=1611265848, title=None, item_type='comment', url=None, parent=25864614, text='I think it&#x27;s more correct to say that a single core has two &quot;sets of registers&quot; (and I guess instruction decoders&#x2F;dispatchers perhaps)... so it&#x27;s a single core with 2 &quot;execution entry points&quot;?')

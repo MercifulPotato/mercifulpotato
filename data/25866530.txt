@@ -1,0 +1,1 @@
+Item(by='Skunkleton', descendants=None, kids=None, score=None, time=1611274257, title=None, item_type='comment', url=None, parent=25863078, text='I don&#x27;t think I have used an Arm SoC that _didnt_ use either a custom uboot, or some custom stage one loader (often a stripped down uboot).')

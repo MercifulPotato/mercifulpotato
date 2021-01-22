@@ -1,1 +1,1 @@
-Item(by='elsewhen', descendants=0, kids=None, score=1, time=1611259138, title='Covid: The effect of treatment with ivermectin on viral load and symptoms', item_type='story', url='https://www.sciencedirect.com/science/article/pii/S2589537020304648', parent=None, text=None)
+Item(by='elsewhen', descendants=1, kids=[25866587], score=13, time=1611259138, title='Covid: The effect of treatment with ivermectin on viral load and symptoms', item_type='story', url='https://www.sciencedirect.com/science/article/pii/S2589537020304648', parent=None, text=None)

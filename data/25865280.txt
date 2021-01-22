@@ -1,0 +1,1 @@
+Item(by='scott_russell', descendants=None, kids=None, score=None, time=1611267731, title=None, item_type='comment', url=None, parent=25863245, text='Agreed. I suspect that most uses of python decorators become moot with proper multi-line anonymous functions. I assume some would argue that decorators create more readable code but they seemed like a syntax hack to me.')

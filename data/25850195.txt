@@ -1,1 +1,1 @@
-Item(by='y3k', descendants=None, kids=None, score=None, time=1611168111, title=None, item_type='comment', url=None, parent=25850169, text='I know, but may be worthy to give Matrix a shot.')
+Item(by='y3k', descendants=None, kids=[25863964], score=None, time=1611168111, title=None, item_type='comment', url=None, parent=25850169, text='I know, but may be worthy to give Matrix a shot.')

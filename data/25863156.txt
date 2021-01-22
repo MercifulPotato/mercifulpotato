@@ -1,1 +1,1 @@
-Item(by='belltaco', descendants=0, kids=None, score=2, time=1611257940, title="Brexit: Lamb exporter to EU 'making virtually nothing'", item_type='story', url='https://www.bbc.com/news/uk-wales-politics-55719498', parent=None, text=None)
+Item(by='belltaco', descendants=1, kids=[25865925], score=2, time=1611257940, title="Brexit: Lamb exporter to EU 'making virtually nothing'", item_type='story', url='https://www.bbc.com/news/uk-wales-politics-55719498', parent=None, text=None)

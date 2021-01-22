@@ -1,0 +1,1 @@
+Item(by='tadfisher', descendants=None, kids=[25864588], score=None, time=1611264327, title=None, item_type='comment', url=None, parent=25863829, text='Does it actually wrap libxcb, or does it generate bindings from the XCB protocol descriptions (XML)? I would think the latter would be less work and higher quality.')

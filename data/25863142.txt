@@ -1,1 +1,1 @@
-Item(by='mmastrac', descendants=None, kids=None, score=None, time=1611257872, title=None, item_type='comment', url=None, parent=25863108, text='This makes a ton of sense. The GPU IP will be the tricky part. Will they build or buy?')
+Item(by='mmastrac', descendants=None, kids=[25864440], score=None, time=1611257872, title=None, item_type='comment', url=None, parent=25863108, text='This makes a ton of sense. The GPU IP will be the tricky part. Will they build or buy?')

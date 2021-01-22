@@ -1,0 +1,1 @@
+Item(by='nitrogen', descendants=None, kids=[25866174], score=None, time=1611267631, title=None, item_type='comment', url=None, parent=25863893, text='There was even a period of time when Cygwin&#x27;s X server supported GLX and I managed to get some OpenGL software I wrote for Linux to run in Cygwin, but for some reason it was removed or stopped working.')

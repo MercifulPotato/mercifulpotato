@@ -1,0 +1,1 @@
+Item(by='geocar', descendants=None, kids=[25863995], score=None, time=1611261543, title=None, item_type='comment', url=None, parent=25863783, text='Linked-list chasing (as in vlovich123&#x27;s example) isn&#x27;t bandwidth-limited as much as it is latency: SMT helps here because you&#x27;re able to enqueue multiple wait-states &quot;simultaneously&quot;.')

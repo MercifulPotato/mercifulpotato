@@ -1,1 +1,1 @@
-Item(by='asdff', descendants=None, kids=None, score=None, time=1611117536, title=None, item_type='comment', url=None, parent=25838328, text='GameStop is in the digital game sales business, you know. It&#x27;s not the same copy it was in 2007 when you picked up Halo 3 used.')
+Item(by='asdff', descendants=None, kids=[25864617], score=None, time=1611117536, title=None, item_type='comment', url=None, parent=25838328, text='GameStop is in the digital game sales business, you know. It&#x27;s not the same copy it was in 2007 when you picked up Halo 3 used.')

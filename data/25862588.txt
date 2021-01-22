@@ -1,1 +1,1 @@
-Item(by='rado', descendants=None, kids=None, score=None, time=1611255463, title=None, item_type='comment', url=None, parent=25862281, text='The second best thing after print magazines&#x27; CD-ROMs... also extinct :-&lt;')
+Item(by='rado', descendants=None, kids=[25867414, 25864329], score=None, time=1611255463, title=None, item_type='comment', url=None, parent=25862281, text='The second best thing after print magazines&#x27; CD-ROMs... also extinct :-&lt;')

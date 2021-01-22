@@ -1,0 +1,1 @@
+Item(by='benhurmarcel', descendants=None, kids=None, score=None, time=1611271674, title=None, item_type='comment', url=None, parent=25864167, text='Does anyone know if the file storage can be used to sync files? Some kind of improvised Dropbox. Say a script on my computer would sync a few GB over webdav, in order to access them on my phone.')

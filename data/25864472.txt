@@ -1,0 +1,1 @@
+Item(by='JoelJacobson', descendants=None, kids=None, score=None, time=1611264293, title=None, item_type='comment', url=None, parent=25864248, text='In my case, PostgreSQL is the application layer, the application is written in database functions, and I’m using PostgREST to expose it to my front-end.')

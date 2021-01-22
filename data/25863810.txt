@@ -1,1 +1,1 @@
-Item(by='marcosdumay', descendants=None, kids=None, score=None, time=1611261029, title=None, item_type='comment', url=None, parent=25862486, text='What does he lose if he guesses wrong?')
+Item(by='marcosdumay', descendants=None, kids=[25864184, 25864237], score=None, time=1611261029, title=None, item_type='comment', url=None, parent=25862486, text='What does he lose if he guesses wrong?')

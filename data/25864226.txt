@@ -1,0 +1,1 @@
+Item(by='Spivak', descendants=None, kids=[25864259], score=None, time=1611263138, title=None, item_type='comment', url=None, parent=25863638, text='HTTP is one layer too low to replace FTP. HTTP can provide the transport but not the application semantics. We would have to agree on a protocol that uses HTTP to replace FTP.')

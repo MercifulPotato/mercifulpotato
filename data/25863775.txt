@@ -1,1 +1,1 @@
-Item(by='elefanten', descendants=None, kids=None, score=None, time=1611260865, title=None, item_type='comment', url=None, parent=25863541, text='Counterexample: the nascent Google employees union is taking 1% of total comp.<p>That’s pretty ambitious when the employees are Googlers.')
+Item(by='elefanten', descendants=None, kids=[25865631], score=None, time=1611260865, title=None, item_type='comment', url=None, parent=25863541, text='Counterexample: the nascent Google employees union is taking 1% of total comp.<p>That’s pretty ambitious when the employees are Googlers.')

@@ -1,0 +1,1 @@
+Item(by='myroon5', descendants=None, kids=[25867206, 25866740], score=None, time=1611274246, title=None, item_type='comment', url=None, parent=25865494, text='Source? I&#x27;m only seeing a single digit number of commits from Amazon emails out of ~57k total commits:<p>elasticsearch $ git shortlog -nes | grep -i &#x27;amazon&#x27;')

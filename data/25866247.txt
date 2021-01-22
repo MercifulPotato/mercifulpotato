@@ -1,0 +1,1 @@
+Item(by='yiyus', descendants=None, kids=None, score=None, time=1611272416, title=None, item_type='comment', url=None, parent=25863846, text='There is no need to initialize variables with -v. You could just do:<p><pre><code>    awk &#x27;&#x2F;Time&#x2F;{printf(&quot;%d %s &quot;, ++j, $3)} ...</code></pre>')

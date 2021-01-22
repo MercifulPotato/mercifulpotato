@@ -1,1 +1,1 @@
-Item(by='ogogmad', descendants=None, kids=None, score=None, time=1611251814, title=None, item_type='comment', url=None, parent=25861809, text='It&#x27;s worse than just failing.')
+Item(by='ogogmad', descendants=None, kids=[25864411], score=None, time=1611251814, title=None, item_type='comment', url=None, parent=25861809, text='It&#x27;s worse than just failing.')

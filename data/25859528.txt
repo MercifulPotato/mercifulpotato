@@ -1,1 +1,1 @@
-Item(by='macintux', descendants=None, kids=None, score=None, time=1611241489, title=None, item_type='comment', url=None, parent=25858650, text='The point to Rosetta this misses, however, is that for the vast majority of use cases it’s silently re-installed on demand.')
+Item(by='macintux', descendants=None, kids=[25864027], score=None, time=1611241489, title=None, item_type='comment', url=None, parent=25858650, text='The point to Rosetta this misses, however, is that for the vast majority of use cases it’s silently re-installed on demand.')

@@ -1,0 +1,1 @@
+Item(by='xtracto', descendants=None, kids=[25865461, 25867952], score=None, time=1611264096, title=None, item_type='comment', url=None, parent=25864109, text='IIRC at least initially the FTP had some special modes to transfer binary data, whereas HTTP was not as efficient. And of course, HTTP was meant to be &quot;pull only&quot; whereas FTP had upload capabilities too.')

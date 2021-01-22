@@ -1,0 +1,1 @@
+Item(by='zerd', descendants=None, kids=None, score=None, time=1611279927, title=None, item_type='comment', url=None, parent=25866437, text='&gt; The reason is that the mirrors are expected to fail after the same amount of TBW<p>You could fix that by writing a bit more to one of the disks, e.g. run badblocks for different amounts of time before putting them in service.')

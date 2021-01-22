@@ -1,0 +1,1 @@
+Item(by='carlhjerpe', descendants=None, kids=None, score=None, time=1611265959, title=None, item_type='comment', url=None, parent=25846251, text='ZeroTier is L2 while WireGuard is L3. That&#x27;s a HUGE difference between the two. Unless TailScale is doing VXLAN over WireGuard or something fishy to move L2 around.')

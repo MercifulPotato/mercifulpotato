@@ -1,0 +1,1 @@
+Item(by='kevincox', descendants=None, kids=None, score=None, time=1611263331, title=None, item_type='comment', url=None, parent=25864226, text='That is a fair point. WebDAV seems to provide the listing and update semantics that you are looking for. WebDAV is widely supported by webservers so I think it is a great replacement for FTP.')
