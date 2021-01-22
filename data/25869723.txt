@@ -1,0 +1,1 @@
+Item(by='tragomaskhalos', descendants=None, kids=None, score=None, time=1611305402, title=None, item_type='comment', url=None, parent=25866247, text='Or use a begin block:\n   &#x27;BEGIN { j = 1 }\n    &#x2F;Time&#x2F; …\n   &#x27;<p>I find it best to restrict the use -v to injecting environment variables into my awk scripts.')

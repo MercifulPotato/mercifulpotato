@@ -1,1 +1,1 @@
-Item(by='grumdan', descendants=None, kids=None, score=None, time=1611229426, title=None, item_type='comment', url=None, parent=25850739, text='How did the Three Wise Men find their way to baby Jesus? A Star. (This joke works better when spoken out loud instead of written)')
+Item(by='grumdan', descendants=None, kids=[25868120], score=None, time=1611229426, title=None, item_type='comment', url=None, parent=25850739, text='How did the Three Wise Men find their way to baby Jesus? A Star. (This joke works better when spoken out loud instead of written)')

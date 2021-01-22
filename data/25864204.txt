@@ -1,1 +1,1 @@
-Item(by='edko', descendants=None, kids=None, score=None, time=1611263011, title=None, item_type='comment', url=None, parent=25863512, text='Thanks for the link. Do you know of any examples that use this crate that would be easy enough for a beginner to start learning how to use it?')
+Item(by='edko', descendants=None, kids=[25868230], score=None, time=1611263011, title=None, item_type='comment', url=None, parent=25863512, text='Thanks for the link. Do you know of any examples that use this crate that would be easy enough for a beginner to start learning how to use it?')

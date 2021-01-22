@@ -1,1 +1,1 @@
-Item(by='uncledave', descendants=None, kids=None, score=None, time=1611265458, title=None, item_type='comment', url=None, parent=25861422, text='I’d like to understand more about the workload here. Queries per second, average result size, database size, query complexity etc.')
+Item(by='uncledave', descendants=None, kids=[25868525], score=None, time=1611265458, title=None, item_type='comment', url=None, parent=25861422, text='I’d like to understand more about the workload here. Queries per second, average result size, database size, query complexity etc.')

@@ -1,1 +1,1 @@
-Item(by='Outdoorsman', descendants=0, kids=None, score=2, time=1611269163, title='First Ever Programmable Organism', item_type='story', url='https://phys.org/news/2020-01-bot-beast-scientists-programmable.html', parent=None, text=None)
+Item(by='Outdoorsman', descendants=1, kids=[25868220], score=3, time=1611269163, title='First Ever Programmable Organism', item_type='story', url='https://phys.org/news/2020-01-bot-beast-scientists-programmable.html', parent=None, text=None)

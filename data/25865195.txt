@@ -1,1 +1,1 @@
-Item(by='WatchDog', descendants=None, kids=None, score=None, time=1611267403, title=None, item_type='comment', url=None, parent=25864535, text='If you eschew RDS, the largest you can go up to seems to be a u-24tb1.metal.<p>448 vcpu, 24TiB of RAM, $70 an hour. ~$52k per month.')
+Item(by='WatchDog', descendants=None, kids=[25869106], score=None, time=1611267403, title=None, item_type='comment', url=None, parent=25864535, text='If you eschew RDS, the largest you can go up to seems to be a u-24tb1.metal.<p>448 vcpu, 24TiB of RAM, $70 an hour. ~$52k per month.')

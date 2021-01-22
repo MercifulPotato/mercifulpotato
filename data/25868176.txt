@@ -1,1 +1,1 @@
-Item(by='rishav_sharan', descendants=None, kids=None, score=None, time=1611288173, title=None, item_type='comment', url=None, parent=25866979, text='Thank you. These look lovely. Do you have any plans to add dark mode support to them?')
+Item(by='rishav_sharan', descendants=None, kids=[25868687], score=None, time=1611288173, title=None, item_type='comment', url=None, parent=25866979, text='Thank you. These look lovely. Do you have any plans to add dark mode support to them?')

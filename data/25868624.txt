@@ -1,0 +1,1 @@
+Item(by='DrPhish', descendants=None, kids=None, score=None, time=1611293135, title=None, item_type='comment', url=None, parent=25865751, text='Nah, with VLAN tagging you can do it as a single legged router, or as a virtual switch if you’re running it all in a hypervisor.<p>My home network has 12 VLANs, but each VM cluster node only has 2 NICs')

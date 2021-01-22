@@ -1,0 +1,1 @@
+Item(by='jaggirs', descendants=None, kids=None, score=None, time=1611305138, title=None, item_type='comment', url=None, parent=25869641, text='How is a rolling aggregate hard to update? If the value at index i is changed, just update everything from i-n to i+n (where n is the rolling window size).')

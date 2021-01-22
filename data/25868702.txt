@@ -1,0 +1,1 @@
+Item(by='isatty', descendants=None, kids=None, score=None, time=1611294003, title=None, item_type='comment', url=None, parent=25864355, text='For very important passwords that are stored in a password manager, salting it with a memorized phrase is a good idea. That way, if someone gets access to my password manager, they still won&#x27;t be able to access everything in there.')

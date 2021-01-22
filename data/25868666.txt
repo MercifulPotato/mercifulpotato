@@ -1,0 +1,1 @@
+Item(by='0xy', descendants=None, kids=None, score=None, time=1611293572, title=None, item_type='comment', url=None, parent=25866881, text='Safari has extremely aggressive favicon cache. I&#x27;ve seen it happen multiple times on large production websites that the favicon doesn&#x27;t update for months.')

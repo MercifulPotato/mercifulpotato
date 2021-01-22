@@ -1,0 +1,1 @@
+Item(by='zinekeller', descendants=None, kids=None, score=None, time=1611300893, title=None, item_type='comment', url=None, parent=25866610, text='Dirty secret when it comes to current PCIe 4 drives: they have optimised sequential RW speed too much that they have forgotten random RW speed (which is the main driver in databases).')

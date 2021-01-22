@@ -1,0 +1,1 @@
+Item(by='angled', descendants=None, kids=None, score=None, time=1611297862, title=None, item_type='comment', url=None, parent=25868479, text='iirc, anton got a kernel compile down to about a minute with -j32 back in the day while at ozlabs?')

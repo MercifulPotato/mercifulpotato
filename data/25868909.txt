@@ -1,0 +1,1 @@
+Item(by='DerekL', descendants=None, kids=[25869406], score=None, time=1611295973, title=None, item_type='comment', url=None, parent=25868756, text='There&#x27;s a new formatting library in C++20. Unlike printf, it&#x27;s type-safe, and it&#x27;s extensible to new types.')

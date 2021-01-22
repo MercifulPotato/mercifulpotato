@@ -1,1 +1,1 @@
-Item(by='efficax', descendants=None, kids=None, score=None, time=1611245040, title=None, item_type='comment', url=None, parent=25859929, text='the solution to this is to enable NFS for your volumes. The default volume configuration is a huge bottleneck for docker on macos')
+Item(by='efficax', descendants=None, kids=[25869705], score=None, time=1611245040, title=None, item_type='comment', url=None, parent=25859929, text='the solution to this is to enable NFS for your volumes. The default volume configuration is a huge bottleneck for docker on macos')

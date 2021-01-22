@@ -1,1 +1,1 @@
-Item(by='hanniabu', descendants=None, kids=None, score=None, time=1611274676, title=None, item_type='comment', url=None, parent=25865931, text='What open source license would prevent someone from capitalizing on your project?')
+Item(by='hanniabu', descendants=None, kids=[25868329, 25868615], score=None, time=1611274676, title=None, item_type='comment', url=None, parent=25865931, text='What open source license would prevent someone from capitalizing on your project?')

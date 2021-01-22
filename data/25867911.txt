@@ -1,1 +1,1 @@
-Item(by='signa11', descendants=0, kids=None, score=1, time=1611285545, title="A Tour of Go 1.16's io/fs package", item_type='story', url='https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/', parent=None, text=None)
+Item(by='signa11', descendants=0, kids=None, score=3, time=1611285545, title="A Tour of Go 1.16's io/fs package", item_type='story', url='https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/', parent=None, text=None)

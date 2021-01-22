@@ -1,0 +1,1 @@
+Item(by='sandGorgon', descendants=None, kids=None, score=None, time=1611295341, title=None, item_type='comment', url=None, parent=25868675, text='we are talking elasticsearch here. This is not aggregate computation. you are constantly pushing data to ES and retrieving queries.')

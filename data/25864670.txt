@@ -1,1 +1,1 @@
-Item(by='klelatti', descendants=0, kids=None, score=1, time=1611265229, title='Intel Reports 2020 Financial Results', item_type='story', url='https://www.intc.com/news-events/press-releases/detail/1439/intel-reports-fourth-quarter-and-full-year-2020-financial', parent=None, text=None)
+Item(by='klelatti', descendants=1, kids=[25868426], score=1, time=1611265229, title='Intel Reports 2020 Financial Results', item_type='story', url='https://www.intc.com/news-events/press-releases/detail/1439/intel-reports-fourth-quarter-and-full-year-2020-financial', parent=None, text=None)

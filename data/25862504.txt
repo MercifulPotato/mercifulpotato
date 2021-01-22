@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=3, kids=[25863750, 25863751, 25863632], score=16, time=1611255103, title='Rust for Windows', item_type='story', url='https://github.com/microsoft/windows-rs/#rust-for-windows', parent=None, text=None)
+Item(by='ingve', descendants=3, kids=[25863750, 25863751, 25863632], score=17, time=1611255103, title='Rust for Windows', item_type='story', url='https://github.com/microsoft/windows-rs/#rust-for-windows', parent=None, text=None)

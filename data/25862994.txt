@@ -1,1 +1,1 @@
-Item(by='0x2c8', descendants=None, kids=[25863220, 25863126, 25864088, 25863070, 25863163], score=None, time=1611257204, title=None, item_type='comment', url=None, parent=25862960, text='Can you elaborate on this? What is wrong with Python&#x27;s `lambda`?')
+Item(by='0x2c8', descendants=None, kids=[25863220, 25863126, 25863070, 25864088, 25863163], score=None, time=1611257204, title=None, item_type='comment', url=None, parent=25862960, text='Can you elaborate on this? What is wrong with Python&#x27;s `lambda`?')

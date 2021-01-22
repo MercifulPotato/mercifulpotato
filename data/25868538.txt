@@ -1,0 +1,1 @@
+Item(by='coldtea', descendants=None, kids=None, score=None, time=1611292232, title=None, item_type='comment', url=None, parent=25863797, text='Since the unsafe APIs directly interface with memory directly, they can bring the whole Rust application and&#x2F;or put it in unknown state by messing up memory.<p>How could they &quot;patch&quot; that with a wrapper?')

@@ -1,0 +1,1 @@
+Item(by='yaris', descendants=None, kids=None, score=None, time=1611302315, title=None, item_type='comment', url=None, parent=25868936, text='I wonder if it is possible to implement an &quot;out-of-band&quot; cache clearing command(s). On Linux it would be quite straightforward, but I know next to nothing about Windows or OSX.')
