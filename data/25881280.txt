@@ -1,0 +1,1 @@
+Item(by='bradknowles', descendants=None, kids=[25881294], score=None, time=1611398263, title=None, item_type='comment', url=None, parent=25877687, text='I wonder — has anyone thought of applying MCTS to this problem, where you create as many possible different scenarios and variations as you can, and then let the system figure out what the best responses might be?')

@@ -1,1 +1,1 @@
-Item(by='pjc50', descendants=None, kids=None, score=None, time=1611383006, title=None, item_type='comment', url=None, parent=25880044, text='People went to jail over it. At least until they were pardoned by the president.')
+Item(by='pjc50', descendants=None, kids=[25881104], score=None, time=1611383006, title=None, item_type='comment', url=None, parent=25880044, text='People went to jail over it. At least until they were pardoned by the president.')

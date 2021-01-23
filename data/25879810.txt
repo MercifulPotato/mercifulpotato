@@ -1,1 +1,1 @@
-Item(by='friedman23', descendants=None, kids=None, score=None, time=1611378027, title=None, item_type='comment', url=None, parent=25879342, text='wait, we don&#x27;t like corporate censorship now?')
+Item(by='friedman23', descendants=None, kids=[25881400], score=None, time=1611378027, title=None, item_type='comment', url=None, parent=25879342, text='wait, we don&#x27;t like corporate censorship now?')

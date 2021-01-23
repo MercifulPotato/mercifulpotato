@@ -1,0 +1,1 @@
+Item(by='u678u', descendants=None, kids=None, score=None, time=1611414256, title=None, item_type='comment', url=None, parent=25881784, text='&gt;  Java doesn&#x27;t have value types and generates a ton of garbage<p>Yes good point, this is likely a big difference. Maybe Java records will help a lot.')

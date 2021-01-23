@@ -1,1 +1,1 @@
-Item(by='makomk', descendants=None, kids=None, score=None, time=1611276376, title=None, item_type='comment', url=None, parent=25862238, text='Also worse colour temperature and colour quality than some of the lower-efficiency LEDs, I believe (there&#x27;s a tradeoff there).')
+Item(by='makomk', descendants=None, kids=[25881467], score=None, time=1611276376, title=None, item_type='comment', url=None, parent=25862238, text='Also worse colour temperature and colour quality than some of the lower-efficiency LEDs, I believe (there&#x27;s a tradeoff there).')

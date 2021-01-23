@@ -1,0 +1,1 @@
+Item(by='grncdr', descendants=None, kids=None, score=None, time=1611406120, title=None, item_type='comment', url=None, parent=25881519, text='I just added a section to the README about this, but my main use case is admin access to shells inside of containers run in managed environments where `docker exec` (or `kubectl exec`) is not available.')

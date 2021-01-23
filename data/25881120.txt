@@ -1,0 +1,1 @@
+Item(by='lldbg', descendants=None, kids=None, score=None, time=1611396130, title=None, item_type='comment', url=None, parent=25870413, text='The original reason is that it was not possibly to implement in a type-safe manner with c++98, as it lacked variadic templates. The &lt;&lt; stream &lt;&lt; stuff was always a compromise.')

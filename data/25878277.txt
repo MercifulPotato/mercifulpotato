@@ -1,1 +1,1 @@
-Item(by='drewg123', descendants=None, kids=None, score=None, time=1611362229, title=None, item_type='comment', url=None, parent=25878149, text='I rent a townhouse right now.  When I moved in, the landlord allowed me to install a 240v outlet in the garage at my own expense.')
+Item(by='drewg123', descendants=None, kids=[25881969], score=None, time=1611362229, title=None, item_type='comment', url=None, parent=25878149, text='I rent a townhouse right now.  When I moved in, the landlord allowed me to install a 240v outlet in the garage at my own expense.')

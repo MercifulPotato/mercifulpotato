@@ -1,1 +1,1 @@
-Item(by='nitrobeast', descendants=0, kids=None, score=3, time=1611359256, title='The SSPL Is Not an Open Source License', item_type='story', url='https://opensource.org/node/1099', parent=None, text=None)
+Item(by='nitrobeast', descendants=0, kids=[25881293], score=3, time=1611359256, title='The SSPL Is Not an Open Source License', item_type='story', url='https://opensource.org/node/1099', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='dirtnugget', descendants=None, kids=None, score=None, time=1611409599, title=None, item_type='comment', url=None, parent=25881437, text='RxJS is not a replacement for redux, in fact ngrx is a redux implementation based on RxJS and Angular. It brings everything, including effects with their own plugins and it is quite a pleasure to work with.')

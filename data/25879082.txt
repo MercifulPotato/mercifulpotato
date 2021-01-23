@@ -1,1 +1,1 @@
-Item(by='davidfowl', descendants=None, kids=None, score=None, time=1611370125, title=None, item_type='comment', url=None, parent=25876939, text='* Maoni Stephens (Works on the .NET Garbage Collector ;)')
+Item(by='davidfowl', descendants=None, kids=[25881148], score=None, time=1611370125, title=None, item_type='comment', url=None, parent=25876939, text='* Maoni Stephens (Works on the .NET Garbage Collector ;)')

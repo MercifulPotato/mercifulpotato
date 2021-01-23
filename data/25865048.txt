@@ -1,1 +1,1 @@
-Item(by='nitrogen', descendants=None, kids=None, score=None, time=1611266678, title=None, item_type='comment', url=None, parent=25862175, text='Unfortunately you need an account to see pricing.  It is cool that they eventually will be able to serve US customers (currently EU only).')
+Item(by='nitrogen', descendants=None, kids=[25881811], score=None, time=1611266678, title=None, item_type='comment', url=None, parent=25862175, text='Unfortunately you need an account to see pricing.  It is cool that they eventually will be able to serve US customers (currently EU only).')

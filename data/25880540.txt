@@ -1,1 +1,1 @@
-Item(by='Oras', descendants=0, kids=None, score=1, time=1611388775, title='Show HN: Create professional job descriptions in seconds!', item_type='story', url='https://www.jobdescription.ai', parent=None, text=None)
+Item(by='Oras', descendants=2, kids=[25881780, 25880721], score=2, time=1611388775, title='Show HN: Create professional job descriptions in seconds using GPT-3!', item_type='story', url='https://www.jobdescription.ai', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='Foe', descendants=37, kids=[25874232, 25870150, 25868756, 25872509, 25872799, 25869993, 25868696, 25872424, 25871840, 25871952], score=35, time=1611278812, title='C++ Anti-Patterns', item_type='story', url='https://martin-ueding.de/posts/cpp-antipatterns/', parent=None, text=None)
+Item(by='Foe', descendants=40, kids=[25874232, 25870150, 25868756, 25872509, 25872799, 25869993, 25868696, 25871840, 25872424, 25871952], score=35, time=1611278812, title='C++ Anti-Patterns', item_type='story', url='https://martin-ueding.de/posts/cpp-antipatterns/', parent=None, text=None)

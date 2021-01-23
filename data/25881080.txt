@@ -1,0 +1,1 @@
+Item(by='h_anna_h', descendants=None, kids=None, score=None, time=1611395727, title=None, item_type='comment', url=None, parent=25876745, text='&gt;  g_list_free (slist);            &#x2F;* corruption: sizeof (GSList) != sizeof (GList) *&#x2F;<p>Catching this error at runtime would be extremely trivial. Just add a magic number on top of the GSList and GList structs.')

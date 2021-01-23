@@ -1,0 +1,1 @@
+Item(by='whalesalad', descendants=None, kids=[25882345], score=None, time=1611410643, title=None, item_type='comment', url=None, parent=25882254, text='I have a totally over-engineered UniFi setup at home. I’m pretty confident the network is not the issue.<p>I experience the performance issues on the LAN, for instance, even with a 1,300mbps negotiated connection.')

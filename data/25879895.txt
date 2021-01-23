@@ -1,1 +1,1 @@
-Item(by='harporoeder', descendants=2, kids=[25880378, 25880471], score=9, time=1611379250, title='Can we talk about client-side certificates?', item_type='story', url='https://drewdevault.com/2020/06/12/Can-we-talk-about-client-side-certs.html', parent=None, text=None)
+Item(by='harporoeder', descendants=3, kids=[25880378, 25880471, 25880803], score=10, time=1611379250, title='Can we talk about client-side certificates?', item_type='story', url='https://drewdevault.com/2020/06/12/Can-we-talk-about-client-side-certs.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='DEADBEEFC0FFEE', descendants=None, kids=None, score=None, time=1611311243, title=None, item_type='comment', url=None, parent=25869982, text='I though shielding with water was the way forward there.')
+Item(by='DEADBEEFC0FFEE', descendants=None, kids=[25881741], score=None, time=1611311243, title=None, item_type='comment', url=None, parent=25869982, text='I though shielding with water was the way forward there.')

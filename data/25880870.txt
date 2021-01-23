@@ -1,0 +1,1 @@
+Item(by='jaachan', descendants=None, kids=[25881421], score=None, time=1611393535, title=None, item_type='comment', url=None, parent=25880709, text='Some of these suggestions (like the sleep(16)) also apply to non-HTTP APIs.<p>In fact, I find the headers part of the suggestion the least useful. No client will check these headers.')
