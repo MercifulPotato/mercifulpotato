@@ -1,1 +1,1 @@
-Item(by='mqus', descendants=None, kids=None, score=None, time=1611368561, title=None, item_type='comment', url=None, parent=25875666, text='But facebook messenger at least used to work, I know I used it with pidgin before')
+Item(by='mqus', descendants=None, kids=[25879681], score=None, time=1611368561, title=None, item_type='comment', url=None, parent=25875666, text='But facebook messenger at least used to work, I know I used it with pidgin before')

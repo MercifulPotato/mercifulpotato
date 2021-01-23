@@ -1,1 +1,1 @@
-Item(by='mindcrime', descendants=None, kids=None, score=None, time=1611284412, title=None, item_type='comment', url=None, parent=25858162, text='I think there are about 4 of us on HN that are current or former firefighters (in the literal sense).')
+Item(by='mindcrime', descendants=None, kids=[25880193], score=None, time=1611284412, title=None, item_type='comment', url=None, parent=25858162, text='I think there are about 4 of us on HN that are current or former firefighters (in the literal sense).')

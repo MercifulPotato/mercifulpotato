@@ -1,0 +1,1 @@
+Item(by='recursive', descendants=None, kids=None, score=None, time=1611378142, title=None, item_type='comment', url=None, parent=25874243, text='When Winamp first came out, everything was single core.  Decoding mp3 took a significant bite out available CPU.  Winamp was relatively efficient in CPU in RAM, especially compared to WMP.')

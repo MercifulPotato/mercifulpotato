@@ -1,1 +1,1 @@
-Item(by='saagarjha', descendants=None, kids=None, score=None, time=1611370321, title=None, item_type='comment', url=None, parent=25878897, text='Humans tend to stop multiplying exponentially, though.')
+Item(by='saagarjha', descendants=None, kids=[25880103, 25879545], score=None, time=1611370321, title=None, item_type='comment', url=None, parent=25878897, text='Humans tend to stop multiplying exponentially, though.')

@@ -1,1 +1,1 @@
-Item(by='codazoda', descendants=None, kids=None, score=None, time=1611373792, title=None, item_type='comment', url=None, parent=25879372, text='Kraft and Reiser, right?')
+Item(by='codazoda', descendants=None, kids=[25879685, 25879484], score=None, time=1611373792, title=None, item_type='comment', url=None, parent=25879372, text='Kraft and Reiser, right?')

@@ -1,1 +1,1 @@
-Item(by='pimterry', descendants=0, kids=None, score=1, time=1611228215, title='The right way to turn off your old APIs', item_type='story', url='https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis/', parent=None, text=None)
+Item(by='pimterry', descendants=10, kids=[25879400, 25880355, 25880530, 25880225, 25880709, 25880584, 25880241], score=52, time=1611228215, title='The right way to turn off your old APIs', item_type='story', url='https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis/', parent=None, text=None)

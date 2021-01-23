@@ -1,1 +1,1 @@
-Item(by='meowkit', descendants=None, kids=None, score=None, time=1611363544, title=None, item_type='comment', url=None, parent=25876591, text='Well I thought I didn’t have ADHD <i>because</i> I hyperfocus on things. Will have to speak to a general practitioner I guess...')
+Item(by='meowkit', descendants=None, kids=[25880433, 25879496], score=None, time=1611363544, title=None, item_type='comment', url=None, parent=25876591, text='Well I thought I didn’t have ADHD <i>because</i> I hyperfocus on things. Will have to speak to a general practitioner I guess...')

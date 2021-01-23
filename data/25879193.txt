@@ -1,1 +1,1 @@
-Item(by='heavyset_go', descendants=None, kids=None, score=None, time=1611371109, title=None, item_type='comment', url=None, parent=25879121, text='There&#x27;s a gulf between something better and utopia.')
+Item(by='heavyset_go', descendants=None, kids=[25879671], score=None, time=1611371109, title=None, item_type='comment', url=None, parent=25879121, text='There&#x27;s a gulf between something better and utopia.')

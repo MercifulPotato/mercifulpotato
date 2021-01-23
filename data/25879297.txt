@@ -1,1 +1,1 @@
-Item(by='worik', descendants=None, kids=None, score=None, time=1611372179, title=None, item_type='comment', url=None, parent=25877924, text='I am never buying a Tesla.<p>I want to own my car')
+Item(by='worik', descendants=None, kids=[25879983], score=None, time=1611372179, title=None, item_type='comment', url=None, parent=25877924, text='I am never buying a Tesla.<p>I want to own my car')

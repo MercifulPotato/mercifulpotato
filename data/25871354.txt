@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=0, kids=None, score=4, time=1611321020, title='Sony News Portable Workstation NWS-1250', item_type='story', url='https://randoc.wordpress.com/2020/02/27/sony-news-portable-workstation-nws-1250/', parent=None, text=None)
+Item(by='rbanffy', descendants=4, kids=[25880230, 25880270], score=15, time=1611321020, title='Sony News Portable Workstation NWS-1250', item_type='story', url='https://randoc.wordpress.com/2020/02/27/sony-news-portable-workstation-nws-1250/', parent=None, text=None)

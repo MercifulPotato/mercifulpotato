@@ -1,0 +1,1 @@
+Item(by='cm2187', descendants=None, kids=[25880628], score=None, time=1611389348, title=None, item_type='comment', url=None, parent=25880111, text='No I had instances where I deleted an object, wanted to allocate a new one, only one of these would fit in memory, and got an outofmemory exception because the GC didn&#x27;t kick in between the two. So it is not equivalent.')

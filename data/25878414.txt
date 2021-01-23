@@ -1,1 +1,1 @@
-Item(by='parsecs', descendants=0, kids=None, score=4, time=1611363434, title='Lurking bugs behind infrequently-executed code paths', item_type='story', url='https://rachelbythebay.com/w/2021/01/22/syntax/', parent=None, text=None)
+Item(by='parsecs', descendants=1, kids=[25879865], score=7, time=1611363434, title='Lurking bugs behind infrequently-executed code paths', item_type='story', url='https://rachelbythebay.com/w/2021/01/22/syntax/', parent=None, text=None)
