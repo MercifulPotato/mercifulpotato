@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1611420407, title=None, item_type='comment', url=None, parent=25882747, text='Swift can uses the Objective-C runtime for interoperability with Objective-C code, just like .NET uses COM on Windows.<p>They need to interoperate with the rest of the platform.')

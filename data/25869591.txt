@@ -1,1 +1,1 @@
-Item(by='pansa2', descendants=None, kids=None, score=None, time=1611303720, title=None, item_type='comment', url=None, parent=25868541, text='Walrus operator: not even once.')
+Item(by='pansa2', descendants=None, kids=[25884293], score=None, time=1611303720, title=None, item_type='comment', url=None, parent=25868541, text='Walrus operator: not even once.')

@@ -1,0 +1,1 @@
+Item(by='c-cube', descendants=None, kids=None, score=None, time=1611418327, title=None, item_type='comment', url=None, parent=25869596, text='Except :<p>- python scoping is not really lexical (and it captures variables, not the values they contain)\n- python is statement based, so lambdas are less powerful than in scheme.<p>So not really the same thing.')

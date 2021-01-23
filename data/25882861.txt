@@ -1,1 +1,1 @@
-Item(by='ateng', descendants=None, kids=None, score=None, time=1611415625, title=None, item_type='comment', url=None, parent=25882657, text='Microsoft’s attempt to “embrace, extend, extinguish” Java? Of course, though that ultimately turns into C#')
+Item(by='ateng', descendants=None, kids=[25884106], score=None, time=1611415625, title=None, item_type='comment', url=None, parent=25882657, text='Microsoft’s attempt to “embrace, extend, extinguish” Java? Of course, though that ultimately turns into C#')

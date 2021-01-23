@@ -1,0 +1,1 @@
+Item(by='tptacek', descendants=None, kids=[25886080], score=None, time=1611432791, title=None, item_type='comment', url=None, parent=25884800, text='Modern Docker running in default configurations is reasonably well locked down. I wouldn&#x27;t use it for multitenant scenarios, though.')

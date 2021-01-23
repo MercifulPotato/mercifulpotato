@@ -1,0 +1,1 @@
+Item(by='bobbylarrybobby', descendants=None, kids=[25884216], score=None, time=1611418232, title=None, item_type='comment', url=None, parent=25882111, text='IPython already does tab completion of data frame column names. E.G., `df[“col&lt;tab&gt;` will do what you’d hope.')

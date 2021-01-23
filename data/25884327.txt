@@ -1,0 +1,1 @@
+Item(by='sobriquet9', descendants=None, kids=None, score=None, time=1611423408, title=None, item_type='comment', url=None, parent=25882319, text='Closed source, unclear what protocol is used. They mention SALSA 20 which is good, but that&#x27;s probably just channel encryption. No details on how session keys are derived.')

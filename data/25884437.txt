@@ -1,0 +1,1 @@
+Item(by='ellisv', descendants=None, kids=[25886098, 25884639], score=None, time=1611424030, title=None, item_type='comment', url=None, parent=25881663, text='I think this is a port of the dplyr syntax&#x2F;verbs only. None of the dplyr C++ code is used, it&#x27;s all syntactic sugar on top of Pandas. So any SQL translation is going to be similar to what Pandas does.')

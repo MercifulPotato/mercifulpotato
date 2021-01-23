@@ -1,0 +1,1 @@
+Item(by='ivan_gammel', descendants=None, kids=None, score=None, time=1611417292, title=None, item_type='comment', url=None, parent=25882866, text='Well, no, it is not. Lombok does not mask invocations, so it is still foo.getA().getB().getC()')

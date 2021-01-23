@@ -1,0 +1,1 @@
+Item(by='lordgrenville', descendants=None, kids=None, score=None, time=1611422811, title=None, item_type='comment', url=None, parent=25883266, text='As long as there isn&#x27;t a space in the column name. This is riding on a Pandas trick of making the column name accessible as an attribute of the dataframe, which breaks down when there&#x27;s a space.')

@@ -1,0 +1,1 @@
+Item(by='gjvr', descendants=None, kids=[25884630], score=None, time=1611424059, title=None, item_type='comment', url=None, parent=25884289, text='No I have not, but here&#x27;s the approach I would take:<p>1) Use tcpdump to inspect WhatsApp packets and get an idea of what they look like<p>2) Use iptables or nftables to set up rules to block them.')

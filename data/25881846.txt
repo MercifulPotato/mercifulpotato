@@ -1,1 +1,1 @@
-Item(by='Nullabillity', descendants=None, kids=None, score=None, time=1611406302, title=None, item_type='comment', url=None, parent=25878890, text='Pretty sure that&#x27;s been the case since they started doing refunds.')
+Item(by='Nullabillity', descendants=None, kids=[25885294], score=None, time=1611406302, title=None, item_type='comment', url=None, parent=25878890, text='Pretty sure that&#x27;s been the case since they started doing refunds.')

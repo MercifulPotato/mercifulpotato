@@ -1,0 +1,1 @@
+Item(by='happyweasel', descendants=None, kids=[25884861], score=None, time=1611426531, title=None, item_type='comment', url=None, parent=25883795, text='Gradle at least gave incremental builds... Even though javac is fast, practical java builds are sloooooww (maven)..')

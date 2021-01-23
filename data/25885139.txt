@@ -1,0 +1,1 @@
+Item(by='nullsense', descendants=None, kids=None, score=None, time=1611428874, title=None, item_type='comment', url=None, parent=25882623, text='I think of the major database vendors only postgres uses mmap and everyone else does their own I&#x2F;O caching management.')

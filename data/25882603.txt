@@ -1,1 +1,1 @@
-Item(by='yread', descendants=None, kids=None, score=None, time=1611413522, title=None, item_type='comment', url=None, parent=25879123, text='There was also one for swedish metal band or ikea furniture')
+Item(by='yread', descendants=None, kids=[25883064], score=None, time=1611413522, title=None, item_type='comment', url=None, parent=25879123, text='There was also one for swedish metal band or ikea furniture')

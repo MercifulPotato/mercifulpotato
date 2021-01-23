@@ -1,0 +1,1 @@
+Item(by='frevib', descendants=None, kids=[25885031, 25883839, 25883133], score=None, time=1611416006, title=None, item_type='comment', url=None, parent=25882843, text='Kotlin is slighty better Java. No more getters, setters, hashcode and toString. Kotlin is also much better Java for asynchronous programming, null-safety, and functional programming. It’s modern Java.')

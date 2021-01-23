@@ -1,0 +1,1 @@
+Item(by='nsxwolf', descendants=None, kids=[25884667], score=None, time=1611424035, title=None, item_type='comment', url=None, parent=25883816, text='A bean with nothing but fields and a couple annotations is much cleaner and smaller than one full of generated getter&#x2F;setter code. And I can rename a field without having to fumble around with the IDE to regenerate them.')

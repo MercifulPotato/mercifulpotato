@@ -1,1 +1,1 @@
-Item(by='acct776', descendants=None, kids=None, score=None, time=1611259310, title=None, item_type='comment', url=None, parent=25856204, text='We could always start building on webOS again, it&#x27;s open now, right?')
+Item(by='acct776', descendants=None, kids=[25883272], score=None, time=1611259310, title=None, item_type='comment', url=None, parent=25856204, text='We could always start building on webOS again, it&#x27;s open now, right?')

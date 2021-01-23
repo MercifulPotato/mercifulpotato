@@ -1,0 +1,1 @@
+Item(by='donarb', descendants=None, kids=None, score=None, time=1611429036, title=None, item_type='comment', url=None, parent=25881016, text='Objective-C had an IMP pointer, essentially a function pointer. If you needed to send a message to an object in a tight loop, you could extract the pointer before the loop and use it inside.')

@@ -1,1 +1,1 @@
-Item(by='brunoac', descendants=0, kids=None, score=25, time=1611407171, title='But How, Exactly, Do Databases Use mmap?', item_type='story', url='https://brunocalza.me/but-how-exactly-databases-use-mmap/', parent=None, text=None)
+Item(by='brunoac', descendants=86, kids=[25883675, 25882623, 25885476, 25882520, 25884595, 25885209, 25885641, 25882545, 25885211, 25882926, 25883636, 25884770], score=152, time=1611407171, title='But how, exactly, do databases use mmap?', item_type='story', url='https://brunocalza.me/but-how-exactly-databases-use-mmap/', parent=None, text=None)

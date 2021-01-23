@@ -1,1 +1,1 @@
-Item(by='postit', descendants=None, kids=[25881712, 25881680], score=None, time=1611398570, title=None, item_type='comment', url=None, parent=25880880, text='It’s crazy to think C++ and Java are only 10 years apart in the language timeline.')
+Item(by='postit', descendants=None, kids=[25881712, 25881680], score=None, time=1611398570, title=None, item_type='comment', url=None, parent=25881704, text='It’s crazy to think C++ and Java are only 10 years apart in the language timeline.')

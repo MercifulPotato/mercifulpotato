@@ -1,0 +1,1 @@
+Item(by='syntaxing', descendants=None, kids=[25885326], score=None, time=1611426876, title=None, item_type='comment', url=None, parent=25883253, text='Are VM and containers different in this context? I’m confused where Firecracker would be better than Docker for this usage.')

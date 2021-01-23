@@ -1,0 +1,1 @@
+Item(by='chungy', descendants=None, kids=None, score=None, time=1611425979, title=None, item_type='comment', url=None, parent=25883757, text='&gt;  OpenJDK is nearly the exact same code base as the Oracle VM, so this is highly unlikely.<p>As of Java 11, completely the exact same code as Oracle JDK. The only difference is licensing.')

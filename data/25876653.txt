@@ -1,1 +1,1 @@
-Item(by='noncoml', descendants=None, kids=None, score=None, time=1611351645, title=None, item_type='comment', url=None, parent=25876279, text='Yup. Similar with BMW. 330 meant 3 liter engine. Now it’s all the “equivalent“ game.')
+Item(by='noncoml', descendants=None, kids=[25884780], score=None, time=1611351645, title=None, item_type='comment', url=None, parent=25876279, text='Yup. Similar with BMW. 330 meant 3 liter engine. Now it’s all the “equivalent“ game.')

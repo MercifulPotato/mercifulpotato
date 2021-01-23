@@ -1,0 +1,1 @@
+Item(by='parasubvert', descendants=None, kids=[25884747], score=None, time=1611420550, title=None, item_type='comment', url=None, parent=25882435, text='OpenJDK is nearly the exact same code base as the Oracle VM, so this is highly unlikely.<p>There are ISVs using Java that only certify the Oracle one for support reasons, but this is generally not for technical reasons.')

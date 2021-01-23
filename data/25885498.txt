@@ -1,0 +1,1 @@
+Item(by='alicorn', descendants=None, kids=None, score=None, time=1611431736, title=None, item_type='comment', url=None, parent=25884791, text='Can you quickly explain how this meshes with existing data formats such as gpx or fit? Will there be converters? Can traindown express time series or is it more of a high level log (I did x of y at parameters w and z) thing?')

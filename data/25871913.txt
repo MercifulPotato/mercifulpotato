@@ -1,1 +1,1 @@
-Item(by='uptownhr', descendants=None, kids=None, score=None, time=1611325812, title=None, item_type='comment', url=None, parent=25868970, text='Please implement github sso. Lot of people are on mobile and hate filling out even a single input field.')
+Item(by='uptownhr', descendants=None, kids=[25886013], score=None, time=1611325812, title=None, item_type='comment', url=None, parent=25868970, text='Please implement github sso. Lot of people are on mobile and hate filling out even a single input field.')

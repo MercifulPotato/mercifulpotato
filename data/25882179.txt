@@ -1,1 +1,1 @@
-Item(by='kuter', descendants=None, kids=None, score=None, time=1611409721, title=None, item_type='comment', url=None, parent=25881793, text='I think there are still a lot of work needed to have a &quot;new internet&quot;.<p>But perhaps some day this could be a paradigm shift like the one that gave birth to current tech titans.')
+Item(by=None, descendants=None, kids=None, score=None, time=1611409721, title=None, item_type='comment', url=None, parent=25881793, text=None)

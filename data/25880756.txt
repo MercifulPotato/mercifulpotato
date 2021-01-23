@@ -1,1 +1,1 @@
-Item(by='_-___________-_', descendants=None, kids=None, score=None, time=1611391962, title=None, item_type='comment', url=None, parent=25879477, text='It doesn&#x27;t need access to the content of the messages.')
+Item(by='_-___________-_', descendants=None, kids=[25883199], score=None, time=1611391962, title=None, item_type='comment', url=None, parent=25879477, text='It doesn&#x27;t need access to the content of the messages.')

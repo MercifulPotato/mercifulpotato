@@ -1,0 +1,1 @@
+Item(by='ruslan_talpa', descendants=None, kids=None, score=None, time=1611427570, title=None, item_type='comment', url=None, parent=25884447, text='fargate with 0.25 vcpu 1gb m (lowest option) is ~$10&#x2F;m ((0.01012 + 0.004445) * 24 * 30), article states it&#x27;s $3 which is wrong + $16 ALB (that you need with fargate) that is $26&#x2F;m for the lowest option.')

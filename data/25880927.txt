@@ -1,1 +1,1 @@
-Item(by='fsflover', descendants=None, kids=None, score=None, time=1611394244, title=None, item_type='comment', url=None, parent=25880921, text='Email.')
+Item(by='fsflover', descendants=None, kids=[25884932], score=None, time=1611394244, title=None, item_type='comment', url=None, parent=25880921, text='Email.')

@@ -1,1 +1,1 @@
-Item(by='grst', descendants=5, kids=[25882047, 25881720, 25881627, 25881951, 25881894], score=24, time=1611234839, title='Siuba – A Dplyr Port to Python', item_type='story', url='https://github.com/machow/siuba', parent=None, text=None)
+Item(by='grst', descendants=27, kids=[25882111, 25881720, 25883861, 25882047, 25883303, 25881627, 25881951, 25882808, 25881894], score=70, time=1611234839, title='Siuba – A Dplyr Port to Python', item_type='story', url='https://github.com/machow/siuba', parent=None, text=None)

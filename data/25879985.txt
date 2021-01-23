@@ -1,1 +1,1 @@
-Item(by='simple_phrases', descendants=None, kids=None, score=None, time=1611380496, title=None, item_type='comment', url=None, parent=25877154, text='There&#x27;s a difference between a Wacom tablet and a tablet computer.')
+Item(by='simple_phrases', descendants=None, kids=[25884910], score=None, time=1611380496, title=None, item_type='comment', url=None, parent=25877154, text='There&#x27;s a difference between a Wacom tablet and a tablet computer.')

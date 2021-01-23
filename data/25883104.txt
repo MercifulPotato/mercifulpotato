@@ -1,0 +1,1 @@
+Item(by='The_rationalist', descendants=None, kids=[25885902, 25883252, 25883220], score=None, time=1611417313, title=None, item_type='comment', url=None, parent=25883025, text='This is why Kotlin has the best of both worlds. You can access a variable through A.b and it will automatically call the getter if there&#x27;s one')

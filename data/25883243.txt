@@ -1,0 +1,1 @@
+Item(by='JulianMorrison', descendants=None, kids=[25884120, 25884110], score=None, time=1611418134, title=None, item_type='comment', url=None, parent=25883014, text='Public writeable fields are threading and encapsulation smells but public read-only fields just say, this data is part of my interface.')

@@ -1,0 +1,1 @@
+Item(by='dharmab', descendants=None, kids=None, score=None, time=1611430205, title=None, item_type='comment', url=None, parent=25884898, text='When a VM context switch happens, the CPU uses extensions like Intel VMX to isolate the virtual machine code from the host code. Usually the hypervisor also forces a cache flush to\nmitigate CPU vulnerabilities as well.')

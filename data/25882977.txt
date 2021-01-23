@@ -1,0 +1,1 @@
+Item(by='vasergen', descendants=None, kids=None, score=None, time=1611416372, title=None, item_type='comment', url=None, parent=25880757, text='Think here about stateless in this way. Imagine you scaled your API to 2 instances. Stateless here means you don&#x27;t care which server you hit.')

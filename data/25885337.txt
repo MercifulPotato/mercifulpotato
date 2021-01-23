@@ -1,0 +1,1 @@
+Item(by='StreamBright', descendants=None, kids=None, score=None, time=1611430513, title=None, item_type='comment', url=None, parent=25884406, text='I am not so sure about that. Amazon uses Firecracker because of its performance and how lightweight it is. Qemu VMs used to be heavier and I think Qemu devs started a project to have a lightweight version like Firecracker recently.')

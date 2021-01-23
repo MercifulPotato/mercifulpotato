@@ -1,1 +1,1 @@
-Item(by='the__alchemist', descendants=None, kids=None, score=None, time=1611408380, title=None, item_type='comment', url=None, parent=25873877, text='Do you think that list might be too long, as &quot;expected to know&quot;? Feels like &quot;No true Scotsman&quot;.')
+Item(by='the__alchemist', descendants=None, kids=[25883505], score=None, time=1611408380, title=None, item_type='comment', url=None, parent=25873877, text='Do you think that list might be too long, as &quot;expected to know&quot;? Feels like &quot;No true Scotsman&quot;.')
