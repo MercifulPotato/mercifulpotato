@@ -1,1 +1,1 @@
-Item(by='AnthonyMouse', descendants=None, kids=None, score=None, time=1611345996, title=None, item_type='comment', url=None, parent=25875624, text='And thus we arrive at the underlying problem. How about we address the root instead of the symptoms?')
+Item(by='AnthonyMouse', descendants=None, kids=[25877621], score=None, time=1611345996, title=None, item_type='comment', url=None, parent=25875624, text='And thus we arrive at the underlying problem. How about we address the root instead of the symptoms?')

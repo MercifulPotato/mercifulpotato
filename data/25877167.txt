@@ -1,0 +1,1 @@
+Item(by='attractivechaos', descendants=None, kids=None, score=None, time=1611355047, title=None, item_type='comment', url=None, parent=25876525, text='In addition, using void pointers harms performance as this strategy often incurs additional heap allocations, hurts memory locality and prevents compiler optimization. Personally, I avoid glib like a plague.')

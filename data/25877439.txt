@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=[25877520, 25877509], score=None, time=1611356836, title=None, item_type='comment', url=None, parent=25877385, text='Heck, many mixed-signal ICs are much harder to use correctly than a typical object; Things like &quot;Vdd must be brought up to +6V or higher before CLK begins toggling&quot; are not too uncommon to see.')

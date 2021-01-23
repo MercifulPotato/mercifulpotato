@@ -1,0 +1,1 @@
+Item(by='jdashg', descendants=None, kids=None, score=None, time=1611352379, title=None, item_type='comment', url=None, parent=25870060, text='I keep seeing &quot;EdDSA is faster than RSA&quot; but is it ever usefully faster? I imagine it&#x27;s maybe milliseconds of difference per secure connection initialization, and so it feels deceptive to market it as (usefully) faster.')

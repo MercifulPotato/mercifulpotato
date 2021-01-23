@@ -1,0 +1,1 @@
+Item(by='prewett', descendants=None, kids=[25876837], score=None, time=1611352769, title=None, item_type='comment', url=None, parent=25874105, text='1200 dependencies?! Is this normal in web development? That sounds like a nightmare waiting to happen! I&#x27;m working with a rather large C++ project now, and it only has 40 dependencies, which I already consider pretty large.')

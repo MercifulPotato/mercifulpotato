@@ -1,1 +1,1 @@
-Item(by='rafaelturk', descendants=None, kids=None, score=None, time=1611343906, title=None, item_type='comment', url=None, parent=25875147, text='Not at all, react handles this quite well. Just use code-split per route, webpack manages this with a few lines of code')
+Item(by='rafaelturk', descendants=None, kids=[25876715], score=None, time=1611343906, title=None, item_type='comment', url=None, parent=25875147, text='Not at all, react handles this quite well. Just use code-split per route, webpack manages this with a few lines of code')

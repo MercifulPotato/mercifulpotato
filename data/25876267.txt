@@ -1,0 +1,1 @@
+Item(by='naikrovek', descendants=None, kids=None, score=None, time=1611349040, title=None, item_type='comment', url=None, parent=25869780, text='WSL1 isn&#x27;t a full distro, it&#x27;s only the userland stuff.  You can also easily make your own userland in Linux, tar it up the deploy it as a WSL environment.  It&#x27;s really nice.')

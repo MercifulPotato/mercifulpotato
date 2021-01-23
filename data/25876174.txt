@@ -1,1 +1,1 @@
-Item(by='alexhutcheson', descendants=None, kids=None, score=None, time=1611348466, title=None, item_type='comment', url=None, parent=25874318, text='Link? The dev boards I’m familiar with are $10. Not that I really care for hobby purposes - I’m not buying 100s of them.')
+Item(by='alexhutcheson', descendants=None, kids=[25876969], score=None, time=1611348466, title=None, item_type='comment', url=None, parent=25874318, text='Link? The dev boards I’m familiar with are $10. Not that I really care for hobby purposes - I’m not buying 100s of them.')

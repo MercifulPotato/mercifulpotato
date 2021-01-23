@@ -1,0 +1,1 @@
+Item(by='jamescampbell', descendants=None, kids=[25875824], score=None, time=1611346425, title=None, item_type='comment', url=None, parent=25869473, text='I had a similar setup using redis and zsets so this type of use case and implementation makes sense to me.')

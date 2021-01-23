@@ -1,0 +1,1 @@
+Item(by='lrossi', descendants=None, kids=[25876831, 25877167], score=None, time=1611350588, title=None, item_type='comment', url=None, parent=25876395, text='Another problem is that there is no type checking in the containers. So you have to cast everything to&#x2F;from void pointers, even for basic structures like lists and arrays. This makes it easy to introduce tricky bugs.')

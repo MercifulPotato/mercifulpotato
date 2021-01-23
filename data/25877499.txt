@@ -1,0 +1,1 @@
+Item(by='ohiovr', descendants=3, kids=[25877565, 25877637], score=2, time=1611357154, title='Ask HN: Is there a website with a database of untrustable sha256sums?', item_type='story', url=None, parent=None, text='Every resource can have a sha256sum. Every resource could be rated as trusted or not trusted with comments. Is there a database somewhere that this knowledge is kept?')

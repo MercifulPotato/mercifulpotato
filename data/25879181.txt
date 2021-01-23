@@ -1,0 +1,1 @@
+Item(by='asveikau', descendants=None, kids=None, score=None, time=1611370964, title=None, item_type='comment', url=None, parent=25879022, text='Yes, I figured that out from other posts on this thread (including one where I looked at g_malloc source).<p>I think libstc++ on the other hand does or did have such a cache as an always-on thing though. So not unheard of.')

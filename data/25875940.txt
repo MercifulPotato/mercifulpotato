@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=None, score=None, time=1611347073, title=None, item_type='comment', url=None, parent=25873005, text='Text visibility?  IIRC, Windows 9x would allow you set text and the background to the same color.')
+Item(by='kube-system', descendants=None, kids=[25876168], score=None, time=1611347073, title=None, item_type='comment', url=None, parent=25873005, text='Text visibility?  IIRC, Windows 9x would allow you set text and the background to the same color.')

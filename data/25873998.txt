@@ -1,1 +1,1 @@
-Item(by='pmlnr', descendants=None, kids=None, score=None, time=1611337304, title=None, item_type='comment', url=None, parent=25872800, text='Adium is a frontend on libpurple. The frontend can be sort of happily dead if the backend - and it&#x27;s plugins - are updated.')
+Item(by='pmlnr', descendants=None, kids=[25879184], score=None, time=1611337304, title=None, item_type='comment', url=None, parent=25872800, text='Adium is a frontend on libpurple. The frontend can be sort of happily dead if the backend - and it&#x27;s plugins - are updated.')

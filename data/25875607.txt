@@ -1,1 +1,1 @@
-Item(by='jhack', descendants=1, kids=[25875654], score=2, time=1611345527, title='Vlang 0.2.2', item_type='story', url='https://github.com/vlang/v/releases/tag/0.2.2', parent=None, text=None)
+Item(by='jhack', descendants=1, kids=[25875654], score=3, time=1611345527, title='Vlang 0.2.2', item_type='story', url='https://github.com/vlang/v/releases/tag/0.2.2', parent=None, text=None)

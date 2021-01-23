@@ -1,1 +1,1 @@
-Item(by='thehappypm', descendants=None, kids=None, score=None, time=1611332994, title=None, item_type='comment', url=None, parent=25871454, text='What? Electric cars have far better low-speed torque than ICEs. How do you think Teslas can do 0-60 so fast?')
+Item(by='thehappypm', descendants=None, kids=[25878324], score=None, time=1611332994, title=None, item_type='comment', url=None, parent=25871454, text='What? Electric cars have far better low-speed torque than ICEs. How do you think Teslas can do 0-60 so fast?')

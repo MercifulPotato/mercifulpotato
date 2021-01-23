@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=1, kids=[25875855], score=5, time=1611332637, title='Could Google Really Leave Australia?', item_type='story', url='https://www.bbc.com/news/technology-55766429', parent=None, text=None)
+Item(by='pseudolus', descendants=27, kids=[25877297, 25878569, 25877787, 25875855, 25877440, 25878483, 25878611, 25876388, 25876399, 25877678], score=26, time=1611332637, title='Could Google Really Leave Australia?', item_type='story', url='https://www.bbc.com/news/technology-55766429', parent=None, text=None)

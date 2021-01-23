@@ -1,0 +1,1 @@
+Item(by='cfallin', descendants=0, kids=None, score=2, time=1611348610, title='Cranelift, Part 2: Compiler Efficiency, CFGs, and a Branch Peephole Optimizer', item_type='story', url='https://cfallin.org/blog/2021/01/22/cranelift-isel-2/', parent=None, text=None)

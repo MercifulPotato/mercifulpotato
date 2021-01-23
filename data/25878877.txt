@@ -1,0 +1,1 @@
+Item(by='xyse53', descendants=None, kids=None, score=None, time=1611367874, title=None, item_type='comment', url=None, parent=25877472, text='And OpenWRT dropbear only just recently got ed25519 support at mainline. Not in a release yet.<p>I bumped into this recently when I replaced my older rsa hardware keys with newer models. Switched to openssh for now.')

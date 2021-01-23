@@ -1,0 +1,1 @@
+Item(by='floatboth', descendants=None, kids=None, score=None, time=1611362600, title=None, item_type='comment', url=None, parent=25876683, text='EC2 is just virtual machines. The lock-in parts of AWS are the ones where you&#x27;re not exposed to stuff like CPU architectures.')

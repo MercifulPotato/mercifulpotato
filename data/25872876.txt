@@ -1,1 +1,1 @@
-Item(by='fern4lvarez', descendants=0, kids=None, score=3, time=1611331903, title='Bou: A basic and opinionated Linux desktop', item_type='story', url='https://boudesk.top', parent=None, text=None)
+Item(by='fern4lvarez', descendants=1, kids=[25878988], score=4, time=1611331903, title='Bou: A basic and opinionated Linux desktop', item_type='story', url='https://boudesk.top', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='ketamine__', descendants=None, kids=None, score=None, time=1611318793, title=None, item_type='comment', url=None, parent=25867970, text='Is the first appointment an hour?')
+Item(by='ketamine__', descendants=None, kids=[25878791], score=None, time=1611318793, title=None, item_type='comment', url=None, parent=25867970, text='Is the first appointment an hour?')
