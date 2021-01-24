@@ -1,0 +1,1 @@
+Item(by='sleavey', descendants=None, kids=None, score=None, time=1611476145, title=None, item_type='comment', url=None, parent=25889755, text='As far as I know there aren&#x27;t any real hooks available for running code on plugin install, only activation. But I think OP is referring to core WordPress code and not plugins.')

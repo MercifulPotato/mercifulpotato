@@ -1,0 +1,1 @@
+Item(by='busterarm', descendants=None, kids=None, score=None, time=1611473451, title=None, item_type='comment', url=None, parent=25889436, text='ACID transactions, validations &amp; constraints, and the ability to debug&#x2F;log by dumping your data to disk which can then easily be queried with SQL.<p>All of the same reasons you would store relational data in a dbms...')

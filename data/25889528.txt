@@ -1,0 +1,1 @@
+Item(by='jdlshore', descendants=None, kids=[25889673], score=None, time=1611465648, title=None, item_type='comment', url=None, parent=25889386, text='That’s a common misunderstanding of TDD, but it’s incorrect. TDD is an incremental cycle of write test, write code, refactor, repeat. Typically less than 5 lines at a time.')

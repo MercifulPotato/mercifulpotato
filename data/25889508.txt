@@ -1,0 +1,1 @@
+Item(by='ianhanschen', descendants=None, kids=[25889672, 25889654], score=None, time=1611465392, title=None, item_type='comment', url=None, parent=25889470, text='Why won’t new deployments break? If they are using ‘pip’ to install 2.x libraries, my understanding is it will now fail.')

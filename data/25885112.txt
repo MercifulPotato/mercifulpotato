@@ -1,1 +1,1 @@
-Item(by='fredley', descendants=None, kids=None, score=None, time=1611428729, title=None, item_type='comment', url=None, parent=25885017, text='The longer they leave it, the larger the unprecedented amout of e-waste will be. The only alternative is to hold off... forever?')
+Item(by='fredley', descendants=None, kids=[25889860], score=None, time=1611428729, title=None, item_type='comment', url=None, parent=25885017, text='The longer they leave it, the larger the unprecedented amout of e-waste will be. The only alternative is to hold off... forever?')

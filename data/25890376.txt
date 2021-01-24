@@ -1,0 +1,1 @@
+Item(by='make3', descendants=None, kids=None, score=None, time=1611477158, title=None, item_type='comment', url=None, parent=25884880, text='maybe so, but the largest one, the 1.5B parameters, will very likely take months to train on a single gpu. I&#x27;ve tried to <i>fine-tune</i> it, with a 256 slice of TPUv2, which is huge, and it took a few days')

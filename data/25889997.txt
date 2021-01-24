@@ -1,0 +1,1 @@
+Item(by='njharman', descendants=None, kids=[25890419, 25890411], score=None, time=1611472143, title=None, item_type='comment', url=None, parent=25889709, text='Faster code is not fine.<p>Faster code should only be written after finished product is shown to be too slow for purpose and after profiler has shown which parts of code are worth optimizing.')

@@ -1,1 +1,1 @@
-Item(by='Ecto5', descendants=1, kids=[25887569], score=13, time=1611425621, title='America Has a GPS Problem', item_type='story', url='https://www.nytimes.com/2021/01/23/opinion/gps-vulnerable-alternatives-navigation-critical-infrastructure.html', parent=None, text=None)
+Item(by='Ecto5', descendants=1, kids=[25887569], score=14, time=1611425621, title='America Has a GPS Problem', item_type='story', url='https://www.nytimes.com/2021/01/23/opinion/gps-vulnerable-alternatives-navigation-critical-infrastructure.html', parent=None, text=None)

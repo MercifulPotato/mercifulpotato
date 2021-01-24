@@ -1,0 +1,1 @@
+Item(by='_flux', descendants=None, kids=None, score=None, time=1611471284, title=None, item_type='comment', url=None, parent=25889672, text='But then at some point a breaking change in the backing service could be introduced, thus breaking pip2.<p>Distros providing pip2 as part of their LTS will probably backport such changes.')

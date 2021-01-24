@@ -1,1 +1,1 @@
-Item(by='elsewhen', descendants=0, kids=None, score=1, time=1611315183, title='People the Suburbs Were Built for Are Gone', item_type='story', url='https://www.vice.com/en/article/y3gx5b/the-people-the-suburbs-were-built-for-are-gone', parent=None, text=None)
+Item(by='elsewhen', descendants=3, kids=[25890095, 25890038], score=8, time=1611315183, title='The People the Suburbs Were Built for Are Gone', item_type='story', url='https://www.vice.com/en/article/y3gx5b/the-people-the-suburbs-were-built-for-are-gone', parent=None, text=None)

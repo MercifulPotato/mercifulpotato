@@ -1,0 +1,1 @@
+Item(by='__turbobrew__', descendants=None, kids=None, score=None, time=1611469825, title=None, item_type='comment', url=None, parent=25889435, text='I ran 2to3 on 1 of about 200 modules at my workplace codebase and it took me about an hour to run 2to3 and fix up the leftovers in that module.<p>Now do that for 199 other modules and it becomes much more work than “just run 2to3”.')

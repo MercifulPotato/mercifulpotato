@@ -1,1 +1,1 @@
-Item(by='pseudalopex', descendants=None, kids=None, score=None, time=1611461571, title=None, item_type='comment', url=None, parent=25888813, text='The point is it can be engineers pushing back against managers. Not just managers pushing back against engineers.')
+Item(by='pseudalopex', descendants=None, kids=[25889602], score=None, time=1611461571, title=None, item_type='comment', url=None, parent=25888813, text='The point is it can be engineers pushing back against managers. Not just managers pushing back against engineers.')

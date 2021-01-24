@@ -1,0 +1,1 @@
+Item(by='verst', descendants=None, kids=None, score=None, time=1611478110, title=None, item_type='comment', url=None, parent=25889969, text='I like using pyenv to manage Python versions which will then always symlink &quot;pip&quot; and &quot;python&quot; to whichever version is my system default, directory tree default, shell default, virtualenv etc.')

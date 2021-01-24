@@ -1,1 +1,1 @@
-Item(by='mr_toad', descendants=None, kids=None, score=None, time=1611458745, title=None, item_type='comment', url=None, parent=25886979, text='It’s all going into the housing market.  Try getting a loan for anything else and you need a pound of flesh as collateral.')
+Item(by='mr_toad', descendants=None, kids=[25889302], score=None, time=1611458745, title=None, item_type='comment', url=None, parent=25886979, text='It’s all going into the housing market.  Try getting a loan for anything else and you need a pound of flesh as collateral.')

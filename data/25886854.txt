@@ -1,1 +1,1 @@
-Item(by='sashagim', descendants=None, kids=None, score=None, time=1611442020, title=None, item_type='comment', url=None, parent=25886403, text='What you’re saying is that they are not indeed GDPR-friendly? That would make their claim a false one.')
+Item(by='sashagim', descendants=None, kids=[25889920], score=None, time=1611442020, title=None, item_type='comment', url=None, parent=25886403, text='What you’re saying is that they are not indeed GDPR-friendly? That would make their claim a false one.')

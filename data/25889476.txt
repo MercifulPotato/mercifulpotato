@@ -1,0 +1,1 @@
+Item(by='jorangreef', descendants=None, kids=None, score=None, time=1611464955, title=None, item_type='comment', url=None, parent=25885891, text='I think it would, because if your underlying file system can provide crash consistency then that can be leveraged as a primitive by the database.')

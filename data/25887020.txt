@@ -1,1 +1,1 @@
-Item(by='flagrant', descendants=None, kids=None, score=None, time=1611443728, title=None, item_type='comment', url=None, parent=25885273, text='Liberalism is centre-right. Please remember that Adam Curtis is British, the American political spectrum doesn&#x27;t really apply here.')
+Item(by='flagrant', descendants=None, kids=[25889175], score=None, time=1611443728, title=None, item_type='comment', url=None, parent=25885273, text='Liberalism is centre-right. Please remember that Adam Curtis is British, the American political spectrum doesn&#x27;t really apply here.')

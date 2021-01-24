@@ -1,0 +1,1 @@
+Item(by='ChrisSD', descendants=None, kids=None, score=None, time=1611471052, title=None, item_type='comment', url=None, parent=25889820, text='You don&#x27;t need the msvc compiler to make use of the metadata. You just need something that can read the winmd format.')
