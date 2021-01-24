@@ -1,1 +1,1 @@
-Item(by='jldugger', descendants=None, kids=None, score=None, time=1611434413, title=None, item_type='comment', url=None, parent=25884702, text='.... Did you factor in the fuel you need to actually stop? I&#x27;d prefer not to be the next martian crater.')
+Item(by='jldugger', descendants=None, kids=[25888085], score=None, time=1611434413, title=None, item_type='comment', url=None, parent=25884702, text='.... Did you factor in the fuel you need to actually stop? I&#x27;d prefer not to be the next martian crater.')

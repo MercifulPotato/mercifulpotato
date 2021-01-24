@@ -1,1 +1,1 @@
-Item(by='farmerbb', descendants=0, kids=None, score=1, time=1611427440, title='Booting Windows XP, or Not', item_type='story', url='https://www.os2museum.com/wp/booting-windows-xp-or-not/', parent=None, text=None)
+Item(by='farmerbb', descendants=1, kids=[25885937], score=1, time=1611427440, title='Booting Windows XP, or Not', item_type='story', url='https://www.os2museum.com/wp/booting-windows-xp-or-not/', parent=None, text=None)

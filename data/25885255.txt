@@ -1,1 +1,1 @@
-Item(by='posva', descendants=None, kids=None, score=None, time=1611429819, title=None, item_type='comment', url=None, parent=25883558, text='I&#x27;m curious: do you have a link to the podcast?')
+Item(by='posva', descendants=None, kids=[25888470], score=None, time=1611429819, title=None, item_type='comment', url=None, parent=25883558, text='I&#x27;m curious: do you have a link to the podcast?')

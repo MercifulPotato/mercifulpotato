@@ -1,1 +1,1 @@
-Item(by='jnwatson', descendants=None, kids=None, score=None, time=1611436666, title=None, item_type='comment', url=None, parent=25882545, text='There&#x27;s no placement new in Rust?  That&#x27;s disappointing.')
+Item(by='jnwatson', descendants=None, kids=[25886426], score=None, time=1611436666, title=None, item_type='comment', url=None, parent=25882545, text='There&#x27;s no placement new in Rust?  That&#x27;s disappointing.')

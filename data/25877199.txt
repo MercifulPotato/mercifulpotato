@@ -1,1 +1,1 @@
-Item(by='shocks', descendants=None, kids=None, score=None, time=1611355253, title=None, item_type='comment', url=None, parent=25875150, text='Ha, I can relate. Motorcycle guy also.')
+Item(by='shocks', descendants=None, kids=[25889086], score=None, time=1611355253, title=None, item_type='comment', url=None, parent=25875150, text='Ha, I can relate. Motorcycle guy also.')

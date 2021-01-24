@@ -1,0 +1,1 @@
+Item(by='kristjansson', descendants=None, kids=None, score=None, time=1611436986, title=None, item_type='comment', url=None, parent=25885524, text='It’s an interesting observation, and a shocking title, but the applicable lesson seems to be “don’t use an aggressively quantized network if your application is sensitive to quantization errors”')

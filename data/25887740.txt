@@ -1,0 +1,1 @@
+Item(by='jeromegn', descendants=None, kids=None, score=None, time=1611450154, title=None, item_type='comment', url=None, parent=25883721, text='We use containerd with the devmapper snapshotter! Works nicely.<p>We create a hard link to the resulting device for the root drive inside firecracker.')

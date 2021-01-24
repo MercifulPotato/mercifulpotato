@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1611433645, title=None, item_type='comment', url=None, parent=25884713, text='When I use my IDE, I use its code navigation features to my profit.')
+Item(by='pjmlp', descendants=None, kids=[25887071], score=None, time=1611433645, title=None, item_type='comment', url=None, parent=25884713, text='When I use my IDE, I use its code navigation features to my profit.')

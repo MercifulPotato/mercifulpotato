@@ -1,0 +1,1 @@
+Item(by='1123581321', descendants=None, kids=None, score=None, time=1611459848, title=None, item_type='comment', url=None, parent=25888656, text='50RPS must be tuned or cached in some way, as the memory load for 50 requests to the full app should overwhelm the 1GB server and ~50-100ms is typical and the $5 instance has one core.')

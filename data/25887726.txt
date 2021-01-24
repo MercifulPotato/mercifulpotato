@@ -1,0 +1,1 @@
+Item(by='emmelaich', descendants=None, kids=None, score=None, time=1611450059, title=None, item_type='comment', url=None, parent=25887684, text='Odd, Chrome says &quot;NET::ERR_CERT_REVOKED&quot; but firefox and openssl command line seem fine with it.<p>Furthermore -- looking at the security info in Chrome shows &#x27;valid&#x27;!')

@@ -1,0 +1,1 @@
+Item(by='setpatchaddress', descendants=None, kids=None, score=None, time=1611445012, title=None, item_type='comment', url=None, parent=25887108, text='I remember being told in 1996 that Java would eventually be faster than C++ thanks to JIT compilation and certain language features (like `final`)...<p>(Edit) Oh, and discovering that AWT was useless for just about anything.')

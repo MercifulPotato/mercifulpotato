@@ -1,1 +1,1 @@
-Item(by='plg', descendants=None, kids=None, score=None, time=1611436599, title=None, item_type='comment', url=None, parent=25885109, text='I would love to read a blog post about your setup and your routine using this arrangement.')
+Item(by='plg', descendants=None, kids=[25887574], score=None, time=1611436599, title=None, item_type='comment', url=None, parent=25885109, text='I would love to read a blog post about your setup and your routine using this arrangement.')

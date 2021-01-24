@@ -1,1 +1,1 @@
-Item(by='paulryanrogers', descendants=None, kids=None, score=None, time=1611376359, title=None, item_type='comment', url=None, parent=25878940, text='Facebook used to support XMPP. Which predates their separate Messanger app.')
+Item(by='paulryanrogers', descendants=None, kids=[25887248], score=None, time=1611376359, title=None, item_type='comment', url=None, parent=25878940, text='Facebook used to support XMPP. Which predates their separate Messanger app.')

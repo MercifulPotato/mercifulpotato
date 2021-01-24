@@ -1,1 +1,1 @@
-Item(by='andrekandre', descendants=None, kids=None, score=None, time=1611364162, title=None, item_type='comment', url=None, parent=25877471, text='themepark?')
+Item(by='andrekandre', descendants=None, kids=[25886588], score=None, time=1611364162, title=None, item_type='comment', url=None, parent=25877471, text='themepark?')

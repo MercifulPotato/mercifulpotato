@@ -1,0 +1,1 @@
+Item(by='etxm', descendants=None, kids=None, score=None, time=1611458556, title=None, item_type='comment', url=None, parent=25887815, text='I’ve always found DRY to only apply well to two things:<p>- business logic<p>- something that your extracting as a library')

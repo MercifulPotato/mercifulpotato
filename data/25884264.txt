@@ -1,1 +1,1 @@
-Item(by='bsmithers', descendants=None, kids=None, score=None, time=1611423110, title=None, item_type='comment', url=None, parent=25883320, text='I don&#x27;t get this at all. What happens if they reply to you - maybe hours later - when you are the one presenting?')
+Item(by='bsmithers', descendants=None, kids=[25886206], score=None, time=1611423110, title=None, item_type='comment', url=None, parent=25883320, text='I don&#x27;t get this at all. What happens if they reply to you - maybe hours later - when you are the one presenting?')

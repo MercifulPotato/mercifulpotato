@@ -1,0 +1,1 @@
+Item(by='dleslie', descendants=None, kids=[25888601], score=None, time=1611456131, title=None, item_type='comment', url=None, parent=25888249, text='I have a bunch of old toolchains that use pip and python 2; I guess I&#x27;m screwed if I didn&#x27;t already create a vm or docker image.')

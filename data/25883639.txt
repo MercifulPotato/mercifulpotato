@@ -1,1 +1,1 @@
-Item(by='mtrycz2', descendants=None, kids=None, score=None, time=1611420060, title=None, item_type='comment', url=None, parent=25881677, text='My RPi4 can handle 256MB blocks on BCH&#x27;s scalenet, just fine.<p>There never was a scaling issue.')
+Item(by='mtrycz2', descendants=None, kids=[25889022], score=None, time=1611420060, title=None, item_type='comment', url=None, parent=25881677, text='My RPi4 can handle 256MB blocks on BCH&#x27;s scalenet, just fine.<p>There never was a scaling issue.')

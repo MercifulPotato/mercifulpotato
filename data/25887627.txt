@@ -1,0 +1,1 @@
+Item(by='Scarbutt', descendants=None, kids=[25887634], score=None, time=1611448903, title=None, item_type='comment', url=None, parent=25887496, text='Showcasing Clojure&#x27;s Java interop with the java.time library is IMO pretty disingenuous. That&#x27;s a pretty good modern library with a great API conformed completely of immutable classes, most Java libs are not like that.')

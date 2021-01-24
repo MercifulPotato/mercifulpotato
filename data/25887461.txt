@@ -1,0 +1,1 @@
+Item(by='bcrosby95', descendants=None, kids=None, score=None, time=1611447281, title=None, item_type='comment', url=None, parent=25882922, text='Problem is lots of tooling and libraries you might integrate with assume getters and setters and literally won&#x27;t work without them.')

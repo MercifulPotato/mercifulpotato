@@ -1,1 +1,1 @@
-Item(by='augustk', descendants=None, kids=None, score=None, time=1611434864, title=None, item_type='comment', url=None, parent=25883104, text='In the programming language Eiffel this is called the uniform access principle.')
+Item(by='augustk', descendants=None, kids=[25886315], score=None, time=1611434864, title=None, item_type='comment', url=None, parent=25883104, text='In the programming language Eiffel this is called the uniform access principle.')

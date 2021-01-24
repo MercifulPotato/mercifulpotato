@@ -1,1 +1,1 @@
-Item(by='jbrot', descendants=1, kids=[25885523], score=2, time=1611431587, title='Covid-19 Kept Tourists Away. Why Did These Seabirds Miss Them?', item_type='story', url='https://www.nytimes.com/2021/01/22/science/seabirds-covid-tourism.html', parent=None, text=None)
+Item(by='jbrot', descendants=2, kids=[25888874, 25885523], score=3, time=1611431587, title='Covid-19 Kept Tourists Away. Why Did These Seabirds Miss Them?', item_type='story', url='https://www.nytimes.com/2021/01/22/science/seabirds-covid-tourism.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='reaperducer', descendants=None, kids=None, score=None, time=1611433906, title=None, item_type='comment', url=None, parent=25885571, text='I&#x27;ll have to try that out.  A neighbor&#x27;s Model III was the first machine I played Zork on, so it has good memories.')
+Item(by='reaperducer', descendants=None, kids=[25886757], score=None, time=1611433906, title=None, item_type='comment', url=None, parent=25885571, text='I&#x27;ll have to try that out.  A neighbor&#x27;s Model III was the first machine I played Zork on, so it has good memories.')

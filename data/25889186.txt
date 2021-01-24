@@ -1,0 +1,1 @@
+Item(by='deanclatworthy', descendants=None, kids=None, score=None, time=1611461830, title=None, item_type='comment', url=None, parent=25888306, text='There are static site builders for Wordpress so you can use WP only as an admin tool and deploy a package to s3 or whatever. Build times are relatively trivial unless you have 10s of 1000s of pages.')

@@ -1,1 +1,1 @@
-Item(by='Someone1234', descendants=None, kids=None, score=None, time=1611422037, title=None, item_type='comment', url=None, parent=25883312, text='There&#x27;s a distinct lack of citations in your self-assured reply. Go ahead and cite all of that.')
+Item(by='Someone1234', descendants=None, kids=[25885927], score=None, time=1611422037, title=None, item_type='comment', url=None, parent=25883312, text='There&#x27;s a distinct lack of citations in your self-assured reply. Go ahead and cite all of that.')

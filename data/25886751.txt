@@ -1,0 +1,1 @@
+Item(by='danielam', descendants=None, kids=None, score=None, time=1611441191, title=None, item_type='comment', url=None, parent=25886712, text='In my experience, quite well, though I have not had to reach for Java libraries that often, either because Clojure equivalents exist, or because someone else had already put a wrapper around the Java library.')
