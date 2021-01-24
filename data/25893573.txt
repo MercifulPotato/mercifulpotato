@@ -1,0 +1,1 @@
+Item(by='jlokier', descendants=None, kids=[25894413], score=None, time=1611507850, title=None, item_type='comment', url=None, parent=25887296, text='Is it not the case that io_submit can block in some filesystems to handle filesystem metadata (such as block allocation), even with O_DIRECT, whereas io_uring never blocks the submitting thread?')

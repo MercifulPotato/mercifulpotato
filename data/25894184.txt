@@ -1,0 +1,1 @@
+Item(by='kortex', descendants=None, kids=[25894762], score=None, time=1611511819, title=None, item_type='comment', url=None, parent=25890901, text='I never understood this logic. It&#x27;s two characters, and it&#x27;s a pain to port once you go from print statements to actual logging. Also coming from C I&#x27;m used to print functions.')

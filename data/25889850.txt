@@ -1,1 +1,1 @@
-Item(by='danaliv', descendants=None, kids=None, score=None, time=1611470088, title=None, item_type='comment', url=None, parent=25887503, text='WAAS won’t help you when the GPS signal is being jammed. It’s ground-based navaids, pilotage, or stay home.')
+Item(by='danaliv', descendants=None, kids=[25894929], score=None, time=1611470088, title=None, item_type='comment', url=None, parent=25887503, text='WAAS won’t help you when the GPS signal is being jammed. It’s ground-based navaids, pilotage, or stay home.')

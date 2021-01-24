@@ -1,1 +1,1 @@
-Item(by='Tomte', descendants=1, kids=[25892057], score=3, time=1611490765, title='Incomplete List of Mistakes in the Design of CSS', item_type='story', url='https://wiki.csswg.org/ideas/mistakes', parent=None, text=None)
+Item(by='Tomte', descendants=36, kids=[25894164, 25892711, 25894541, 25895015, 25894078, 25894609, 25893825, 25892057, 25895525, 25894009, 25894350, 25894325], score=88, time=1611490765, title='Incomplete List of Mistakes in the Design of CSS', item_type='story', url='https://wiki.csswg.org/ideas/mistakes', parent=None, text=None)

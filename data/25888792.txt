@@ -1,1 +1,1 @@
-Item(by='Hooke', descendants=0, kids=None, score=2, time=1611458219, title='First portrait of mysterious Denisovans drawn from DNA (2019)', item_type='story', url='https://www.nature.com/articles/d41586-019-02820-0', parent=None, text=None)
+Item(by='Hooke', descendants=7, kids=[25893081, 25893744], score=23, time=1611458219, title='First portrait of mysterious Denisovans drawn from DNA (2019)', item_type='story', url='https://www.nature.com/articles/d41586-019-02820-0', parent=None, text=None)

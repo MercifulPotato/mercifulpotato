@@ -1,0 +1,1 @@
+Item(by='gpderetta', descendants=None, kids=[25895850], score=None, time=1611515039, title=None, item_type='comment', url=None, parent=25893660, text='IIRC Segments were used to speed up (para?) virtualization, before built-in support in the ISA.<p>Segment registers are also used as thread pointer, but that special case is still supported even in 64 bit mode.')

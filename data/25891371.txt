@@ -1,1 +1,1 @@
-Item(by='marc_io', descendants=None, kids=None, score=None, time=1611489944, title=None, item_type='comment', url=None, parent=25889345, text='&gt; it does not work with a git centric development flow, which any modern dev will insist on.<p>Yes, it does. Just use Trellis and Bedrock.')
+Item(by='marc_io', descendants=None, kids=[25895204], score=None, time=1611489944, title=None, item_type='comment', url=None, parent=25889345, text='&gt; it does not work with a git centric development flow, which any modern dev will insist on.<p>Yes, it does. Just use Trellis and Bedrock.')

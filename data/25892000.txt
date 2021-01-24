@@ -1,1 +1,1 @@
-Item(by='e9', descendants=None, kids=None, score=None, time=1611496172, title=None, item_type='comment', url=None, parent=25891275, text='One off examples don&#x27;t set the trend. For example, holacracy  seems to be working out for Valve but that&#x27;s about it.')
+Item(by='e9', descendants=None, kids=[25894849], score=None, time=1611496172, title=None, item_type='comment', url=None, parent=25891275, text='One off examples don&#x27;t set the trend. For example, holacracy  seems to be working out for Valve but that&#x27;s about it.')

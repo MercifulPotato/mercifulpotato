@@ -1,0 +1,1 @@
+Item(by='ccmcarey', descendants=None, kids=[25895027], score=None, time=1611507962, title=None, item_type='comment', url=None, parent=25893429, text='The issue is fat32 only supports files that are up to 4GB in size.<p>Recent windows ISOs have a file that is &gt;4GB, so you can&#x27;t have the partition formatted as f32.<p>exfat isn&#x27;t compatible with uefi.')

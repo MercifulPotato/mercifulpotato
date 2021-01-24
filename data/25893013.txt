@@ -1,0 +1,1 @@
+Item(by='withinboredom', descendants=None, kids=[25895607], score=None, time=1611503830, title=None, item_type='comment', url=None, parent=25890037, text='So much this. People (and languages) seem to forget that an HTTP request is a string of bytes (another “bottom of the stack”). A JSON object isn’t a type, it’s a string of bytes.')

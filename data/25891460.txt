@@ -1,1 +1,1 @@
-Item(by='rozab', descendants=None, kids=None, score=None, time=1611490997, title=None, item_type='comment', url=None, parent=25891260, text='Reducing... &quot;That&#x27;s not a real paradox, which is why Quine called it a &#x27;paradox&#x27;&quot;?<p>meta')
+Item(by='rozab', descendants=None, kids=[25894061], score=None, time=1611490997, title=None, item_type='comment', url=None, parent=25891260, text='Reducing... &quot;That&#x27;s not a real paradox, which is why Quine called it a &#x27;paradox&#x27;&quot;?<p>meta')

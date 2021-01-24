@@ -1,0 +1,1 @@
+Item(by='kortex', descendants=None, kids=None, score=None, time=1611511445, title=None, item_type='comment', url=None, parent=25889455, text='You can, it&#x27;s called use __future__, six, and 2&#x2F;3 compatible idioms. I&#x27;ve been writing code (begrudgingly) like this for years. Test suite runs on 2.7-3.6 no problem, albeit annoying to write vs pure py3.')

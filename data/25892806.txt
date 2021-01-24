@@ -1,0 +1,1 @@
+Item(by='coldtea', descendants=None, kids=None, score=None, time=1611502257, title=None, item_type='comment', url=None, parent=25892096, text='Even in static languages, if the syntax error is in something that will be reflected&#x2F;eval&#x27;ed, etc (which in many languages includes regexes -usually not validated at compile time-).')

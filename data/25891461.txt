@@ -1,1 +1,1 @@
-Item(by='app4soft', descendants=0, kids=None, score=2, time=1611490998, title='ffscreencast – a screencast CLI-tool with video overlay and multimonitor support', item_type='story', url='https://github.com/cytopia/ffscreencast', parent=None, text=None)
+Item(by='app4soft', descendants=3, kids=[25895353, 25894783, 25894959], score=69, time=1611490998, title='ffscreencast – a screencast CLI-tool with video overlay and multimonitor support', item_type='story', url='https://github.com/cytopia/ffscreencast', parent=None, text=None)

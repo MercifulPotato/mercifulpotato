@@ -1,1 +1,1 @@
-Item(by='cowsandmilk', descendants=None, kids=None, score=None, time=1611496813, title=None, item_type='comment', url=None, parent=25891723, text='What is your source for the TDS in Seattle water?')
+Item(by='cowsandmilk', descendants=None, kids=[25893775], score=None, time=1611496813, title=None, item_type='comment', url=None, parent=25891723, text='What is your source for the TDS in Seattle water?')

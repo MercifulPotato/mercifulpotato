@@ -1,0 +1,1 @@
+Item(by='criddell', descendants=None, kids=None, score=None, time=1611506458, title=None, item_type='comment', url=None, parent=25892332, text='What encoding will the string returned from GetComputerNameA be in? Is it the code page for the current regional setting?<p>Wouldn&#x27;t it be safer to use GetComputerNameW to get a UTF-16 string?')

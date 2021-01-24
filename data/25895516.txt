@@ -1,0 +1,1 @@
+Item(by='earthboundkid', descendants=None, kids=None, score=None, time=1611519674, title=None, item_type='comment', url=None, parent=25888901, text='Oh, that’s nothing. My company took over a contract from another company that had two DBA writing a schema to store approximately one hundred items in a database! We converted it to a JSON file.')

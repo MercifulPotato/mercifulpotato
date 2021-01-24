@@ -1,1 +1,1 @@
-Item(by='GNU_James', descendants=None, kids=[25889696, 25889569, 25889580, 25889733], score=None, time=1611464659, title=None, item_type='comment', url=None, parent=25888249, text='Why don&#x27;t we have a single interpreter that can run both Python 2 and 3 code?')
+Item(by='GNU_James', descendants=None, kids=[25894120, 25889696, 25889569, 25889580, 25889733], score=None, time=1611464659, title=None, item_type='comment', url=None, parent=25888249, text='Why don&#x27;t we have a single interpreter that can run both Python 2 and 3 code?')

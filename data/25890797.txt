@@ -1,1 +1,1 @@
-Item(by='jwilk', descendants=None, kids=None, score=None, time=1611482856, title=None, item_type='comment', url=None, parent=25868693, text='Why is it called &quot;crc&quot;?')
+Item(by='jwilk', descendants=None, kids=[25894910], score=None, time=1611482856, title=None, item_type='comment', url=None, parent=25868693, text='Why is it called &quot;crc&quot;?')

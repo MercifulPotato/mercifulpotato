@@ -1,0 +1,1 @@
+Item(by='travv0', descendants=None, kids=None, score=None, time=1611505448, title=None, item_type='comment', url=None, parent=25886325, text='&gt; Question: How many LISPers truly use homoiconicity?<p>Every time someone uses a Lisp macro they&#x27;re taking advantage of homoiconicity. Homoiconicity is a characteristic of the language, not something somebody &quot;uses.&quot;')

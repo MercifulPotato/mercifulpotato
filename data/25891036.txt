@@ -1,1 +1,1 @@
-Item(by='parenthesis', descendants=1, kids=[25891553], score=1, time=1611486010, title='In California, a journey to the end of the road', item_type='story', url='https://www.ft.com/content/50a49b9d-3f28-4b69-a836-e92ef990d4ae', parent=None, text=None)
+Item(by='parenthesis', descendants=18, kids=[25895085, 25894556, 25894847, 25895434, 25894999, 25891553, 25894986], score=17, time=1611486010, title='In California, a journey to the end of the road: the Salton Sea', item_type='story', url='https://www.ft.com/content/50a49b9d-3f28-4b69-a836-e92ef990d4ae', parent=None, text=None)
