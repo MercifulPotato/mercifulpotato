@@ -1,1 +1,1 @@
-Item(by='crazydoggers', descendants=None, kids=None, score=None, time=1611435558, title=None, item_type='comment', url=None, parent=25870937, text='Is there a specific reason Procs weren’t used? I didn’t see a reason mentioned in the article.')
+Item(by='crazydoggers', descendants=None, kids=[25890250], score=None, time=1611435558, title=None, item_type='comment', url=None, parent=25870937, text='Is there a specific reason Procs weren’t used? I didn’t see a reason mentioned in the article.')

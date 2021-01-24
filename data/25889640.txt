@@ -1,1 +1,1 @@
-Item(by='pujjad', descendants=0, kids=None, score=4, time=1611467080, title='Why you’re more creative in coffee shops', item_type='story', url='https://www.bbc.com/worklife/article/20210114-why-youre-more-creative-in-coffee-shops', parent=None, text=None)
+Item(by='pujjad', descendants=1, kids=[25890620], score=6, time=1611467080, title='Why you’re more creative in coffee shops', item_type='story', url='https://www.bbc.com/worklife/article/20210114-why-youre-more-creative-in-coffee-shops', parent=None, text=None)

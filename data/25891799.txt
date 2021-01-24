@@ -1,0 +1,1 @@
+Item(by='gebt', descendants=None, kids=None, score=None, time=1611494496, title=None, item_type='comment', url=None, parent=25891683, text='Having an API is good but not suitable for what I mean.<p>I&#x27;m not familiar with Dash, but IN WORST CASE I think you can add a route to the nginx (an additional app) to pass GET parameters to the app.')

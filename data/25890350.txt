@@ -1,1 +1,1 @@
-Item(by='richardfey', descendants=None, kids=None, score=None, time=1611476628, title=None, item_type='comment', url=None, parent=25890246, text='Hello AI!')
+Item(by='richardfey', descendants=None, kids=[25890594], score=None, time=1611476628, title=None, item_type='comment', url=None, parent=25890246, text='Hello AI!')

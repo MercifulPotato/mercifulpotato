@@ -1,0 +1,1 @@
+Item(by='vendiddy', descendants=None, kids=None, score=None, time=1611493385, title=None, item_type='comment', url=None, parent=25888512, text='Agree. I also found that learning TDD rewired my brain to think top down.<p>So in the many cases I don&#x27;t do TDD, I imagine what the top level API ought to be before I dive in and start coding.')

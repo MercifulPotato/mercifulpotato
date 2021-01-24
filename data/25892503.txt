@@ -1,0 +1,1 @@
+Item(by='throwaway870923', descendants=None, kids=None, score=None, time=1611500158, title=None, item_type='comment', url=None, parent=25891894, text='Time series is one. Consider an application with 1000 time series, 1 hosts, and 1000 RPS. You are trivially looking at 1M writes per second per host. This usually requires something more than &quot;[just] using a RDBMS&quot;.')

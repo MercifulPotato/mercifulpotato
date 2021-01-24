@@ -1,1 +1,1 @@
-Item(by='Aeolun', descendants=None, kids=None, score=None, time=1611455233, title=None, item_type='comment', url=None, parent=25887682, text='Potentially, but when I looked at Firefox sync to see if I could implement a custom version, the spec was kind of crazy complex.')
+Item(by='Aeolun', descendants=None, kids=[25892383], score=None, time=1611455233, title=None, item_type='comment', url=None, parent=25887682, text='Potentially, but when I looked at Firefox sync to see if I could implement a custom version, the spec was kind of crazy complex.')

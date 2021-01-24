@@ -1,1 +1,1 @@
-Item(by='MaxBarraclough', descendants=None, kids=[25881492], score=None, time=1611398346, title=None, item_type='comment', url=None, parent=25878317, text='This is generally true, but in the case of ARM instances, EC2 currently has no real competitors, as far as I know.')
+Item(by='MaxBarraclough', descendants=None, kids=[25891045, 25881492], score=None, time=1611398346, title=None, item_type='comment', url=None, parent=25878317, text='This is generally true, but in the case of ARM instances, EC2 currently has no real competitors, as far as I know.')

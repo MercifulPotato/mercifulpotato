@@ -1,0 +1,1 @@
+Item(by='mikepurvis', descendants=None, kids=None, score=None, time=1611495740, title=None, item_type='comment', url=None, parent=25889453, text='Wouldn&#x27;t have had to be the whole interpreter, really just a flag with single file scope which makes bare strings be interpreted as bytes instead of str, and maybe some other similar translations in stdlib functions.')

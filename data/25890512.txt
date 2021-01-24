@@ -1,0 +1,1 @@
+Item(by='krzyk', descendants=None, kids=[25890676], score=None, time=1611479155, title=None, item_type='comment', url=None, parent=25888658, text='And take a look how Fortran 77 code died out.\nIt is still used as e.g. dependency for numpy.\nAnd there are guys at my uni that write in Fortran 90.')

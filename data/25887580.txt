@@ -1,1 +1,1 @@
-Item(by='mars4rp', descendants=None, kids=None, score=None, time=1611448474, title=None, item_type='comment', url=None, parent=25882722, text='After 4 years, we are hearing about debt again.')
+Item(by='mars4rp', descendants=None, kids=[25891836], score=None, time=1611448474, title=None, item_type='comment', url=None, parent=25882722, text='After 4 years, we are hearing about debt again.')

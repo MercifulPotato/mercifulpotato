@@ -1,1 +1,1 @@
-Item(by='xyzzyz', descendants=None, kids=None, score=None, time=1611460674, title=None, item_type='comment', url=None, parent=25888603, text='How? PET is very non-reactive.')
+Item(by='xyzzyz', descendants=None, kids=[25890983], score=None, time=1611460674, title=None, item_type='comment', url=None, parent=25888603, text='How? PET is very non-reactive.')

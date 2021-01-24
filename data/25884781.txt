@@ -1,1 +1,1 @@
-Item(by='laurocaetano', descendants=1, kids=[25886268], score=43, time=1611426193, title="Implementing Raft's Leader Election in Rust", item_type='story', url='http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/', parent=None, text=None)
+Item(by='laurocaetano', descendants=1, kids=[25886268], score=48, time=1611426193, title="Implementing Raft's Leader Election in Rust", item_type='story', url='http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='lodovic', descendants=None, kids=None, score=None, time=1611483236, title=None, item_type='comment', url=None, parent=25888139, text='I found that for an EAV type database, NoSql is a much better match as it doesn&#x27;t require queries with a million joins. But that&#x27;s a very specific case indeed.')

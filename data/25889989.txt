@@ -1,1 +1,1 @@
-Item(by='manquer', descendants=None, kids=None, score=None, time=1611472052, title=None, item_type='comment', url=None, parent=25886658, text='You have to comare with a $600 smartphone from 2007 and $600 one from 2021 and see how far apple is actually ahead')
+Item(by='manquer', descendants=None, kids=[25892331], score=None, time=1611472052, title=None, item_type='comment', url=None, parent=25886658, text='You have to comare with a $600 smartphone from 2007 and $600 one from 2021 and see how far apple is actually ahead')

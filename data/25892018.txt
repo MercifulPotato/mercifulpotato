@@ -1,0 +1,1 @@
+Item(by='tombot', descendants=None, kids=None, score=None, time=1611496317, title=None, item_type='comment', url=None, parent=25890769, text='NFS for sharing uploads folder? shift the media to a CDN when it’s uploaded and serve it from there. There are multiple plugins that do this.')

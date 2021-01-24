@@ -1,1 +1,1 @@
-Item(by='zygy', descendants=None, kids=None, score=None, time=1611473409, title=None, item_type='comment', url=None, parent=25889740, text='If one had to troubleshoot a bad standup meeting, how might you turn one that feels more scripted into one that feels more natural?')
+Item(by='zygy', descendants=None, kids=[25891047], score=None, time=1611473409, title=None, item_type='comment', url=None, parent=25889740, text='If one had to troubleshoot a bad standup meeting, how might you turn one that feels more scripted into one that feels more natural?')
