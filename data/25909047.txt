@@ -1,0 +1,1 @@
+Item(by='alkonaut', descendants=None, kids=None, score=None, time=1611609581, title=None, item_type='comment', url=None, parent=25908351, text='If browsers would stop some edge case extensions such as rendering to canvas and reading the data back, it would be much more difficult. Browser JS envs just expose way way too much entropy from the user system')

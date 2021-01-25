@@ -1,0 +1,1 @@
+Item(by='dimitrios1', descendants=None, kids=[25904562], score=None, time=1611589622, title=None, item_type='comment', url=None, parent=25904170, text='I seriously doubt people writing web software are planning for intentional races in their system designs the way an OS dev does to avoid synchronization overhead.')

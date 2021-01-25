@@ -1,0 +1,1 @@
+Item(by='cryptica', descendants=None, kids=None, score=None, time=1611588776, title=None, item_type='comment', url=None, parent=25903307, text='It&#x27;s important to figure out ahead of time which features of your system can be executed in parallel and which features should be executed serially.')

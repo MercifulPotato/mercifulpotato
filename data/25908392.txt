@@ -1,0 +1,1 @@
+Item(by='tyingq', descendants=None, kids=None, score=None, time=1611606749, title=None, item_type='comment', url=None, parent=25907232, text='Doesn&#x27;t popen() pass strings to a shell? Sounds dangerous, as you would have to escape semicolons, quotes, etc.')

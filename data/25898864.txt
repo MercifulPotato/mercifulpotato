@@ -1,1 +1,1 @@
-Item(by='victor106', descendants=None, kids=None, score=None, time=1611546812, title=None, item_type='comment', url=None, parent=25894306, text='How do you think Loom would impact reactive projects such as Spring Reactor, Vertx and R2DBC?')
+Item(by='victor106', descendants=None, kids=[25906802], score=None, time=1611546812, title=None, item_type='comment', url=None, parent=25894306, text='How do you think Loom would impact reactive projects such as Spring Reactor, Vertx and R2DBC?')

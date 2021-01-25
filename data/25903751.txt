@@ -1,0 +1,1 @@
+Item(by='vultour', descendants=None, kids=[25903913, 25904583], score=None, time=1611586367, title=None, item_type='comment', url=None, parent=25903636, text='Most languages have terrible CLI parsing support, I have yet to find something built in that matches Python’s argparse module. Hell, even “modern” languages like go suffer from this.')

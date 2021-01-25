@@ -1,1 +1,1 @@
-Item(by='overscore', descendants=None, kids=None, score=None, time=1611570045, title=None, item_type='comment', url=None, parent=25901538, text='Ryanair only fly the 737 Type Rating, so the A320neo wasn&#x27;t a viable option for them.')
+Item(by='overscore', descendants=None, kids=[25905660], score=None, time=1611570045, title=None, item_type='comment', url=None, parent=25901538, text='Ryanair only fly the 737 Type Rating, so the A320neo wasn&#x27;t a viable option for them.')

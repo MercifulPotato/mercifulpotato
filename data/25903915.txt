@@ -1,0 +1,1 @@
+Item(by='kenniskrag', descendants=None, kids=[25903994, 25903934], score=None, time=1611587073, title=None, item_type='comment', url=None, parent=25903825, text='Already exists. Custom HTTP Header with a JWT token for example. Also in the body of a post request can be the auth data. In the URL would also be possible but is a security risk due to e.g. browser history.')

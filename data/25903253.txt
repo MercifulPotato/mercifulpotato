@@ -1,1 +1,1 @@
-Item(by='asim', descendants=0, kids=None, score=4, time=1611583845, title='Show HN: Micro – A platform for cloud native development in Go', item_type='story', url='https://github.com/micro/micro', parent=None, text=None)
+Item(by='asim', descendants=23, kids=[25904213, 25908050, 25903609, 25904193, 25906702, 25903743], score=34, time=1611583845, title='Show HN: Micro – A platform for cloud native development in Go', item_type='story', url='https://github.com/micro/micro', parent=None, text=None)

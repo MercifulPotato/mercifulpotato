@@ -1,1 +1,1 @@
-Item(by='crazypython', descendants=0, kids=None, score=3, time=1611584582, title='About hcker news: an unofficial Hacker News interface', item_type='story', url='https://hckrnews.com/about.html', parent=None, text=None)
+Item(by='crazypython', descendants=15, kids=[25903711, 25903669, 25905897, 25903662, 25904831, 25906509, 25904659, 25904700], score=26, time=1611584582, title='About hcker news: an unofficial Hacker News interface', item_type='story', url='https://hckrnews.com/about.html', parent=None, text=None)

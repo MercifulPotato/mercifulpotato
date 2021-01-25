@@ -1,1 +1,1 @@
-Item(by='brianwawok', descendants=None, kids=None, score=None, time=1611579023, title=None, item_type='comment', url=None, parent=25901378, text='Over the 20 year service life of a car, operating costs dwarf production costs.')
+Item(by='brianwawok', descendants=None, kids=[25904448], score=None, time=1611579023, title=None, item_type='comment', url=None, parent=25901378, text='Over the 20 year service life of a car, operating costs dwarf production costs.')

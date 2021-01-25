@@ -1,0 +1,1 @@
+Item(by='at_a_remove', descendants=None, kids=None, score=None, time=1611601161, title=None, item_type='comment', url=None, parent=25889552, text='I had sort-of traced down the problem to something involving SSL, but I am glad to see that someone else has confirmed it.  Thank you.<p>Sadly, I have no idea how to monkeypatch SSL.')

@@ -1,1 +1,1 @@
-Item(by='keskadale', descendants=0, kids=None, score=2, time=1611466557, title='Smashing the Stack for Fun and Profit (1996)', item_type='story', url='http://phrack.org/archives/issues/49/14.txt', parent=None, text=None)
+Item(by='keskadale', descendants=39, kids=[25906638, 25906790, 25906165, 25905917, 25906974, 25906303, 25906439, 25907298, 25907549, 25908102, 25906098, 25908576, 25907127, 25906174], score=117, time=1611466557, title='Smashing the Stack for Fun and Profit (1996)', item_type='story', url='http://phrack.org/archives/issues/49/14.txt', parent=None, text=None)

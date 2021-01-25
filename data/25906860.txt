@@ -1,0 +1,1 @@
+Item(by='cphoover', descendants=None, kids=None, score=None, time=1611599763, title=None, item_type='comment', url=None, parent=25905449, text='Agreed Over the past 10 years, I&#x27;ve done async code to coordinate lots of different concurrent tasks in JS, never once needed a the use of a mutex.')

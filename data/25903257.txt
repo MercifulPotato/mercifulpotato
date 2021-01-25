@@ -1,1 +1,1 @@
-Item(by='gerbilly', descendants=0, kids=None, score=2, time=1611583857, title='Forget the Gym: Walking Is the Superior Form of Exercise', item_type='story', url='https://www.menshealth.com/uk/fitness/a35256213/walking-benefits-exercise-health-lockdown/', parent=None, text=None)
+Item(by='gerbilly', descendants=1, kids=[25903601], score=3, time=1611583857, title='Forget the Gym: Walking Is the Superior Form of Exercise', item_type='story', url='https://www.menshealth.com/uk/fitness/a35256213/walking-benefits-exercise-health-lockdown/', parent=None, text=None)

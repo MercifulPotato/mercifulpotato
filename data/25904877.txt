@@ -1,0 +1,1 @@
+Item(by='hexsprite', descendants=None, kids=None, score=None, time=1611591344, title=None, item_type='comment', url=None, parent=25904701, text='It’s just a function that returns a promise object. The await keyword triggers the wait and unwrap functionality, but in cases where you don’t care you can just call it as a regular function')

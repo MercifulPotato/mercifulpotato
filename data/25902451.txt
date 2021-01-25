@@ -1,1 +1,1 @@
-Item(by='pull_my_finger', descendants=1, kids=[25902563], score=2, time=1611578301, title='Pallene: A statically typed companion language for Lua [pdf]', item_type='story', url='http://www.inf.puc-rio.br/~roberto/docs/pallene-sblp.pdf', parent=None, text=None)
+Item(by='pull_my_finger', descendants=1, kids=[25902563], score=4, time=1611578301, title='Pallene: A statically typed companion language for Lua [pdf]', item_type='story', url='http://www.inf.puc-rio.br/~roberto/docs/pallene-sblp.pdf', parent=None, text=None)

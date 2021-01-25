@@ -1,0 +1,1 @@
+Item(by='tored', descendants=None, kids=[25905675], score=None, time=1611594076, title=None, item_type='comment', url=None, parent=25905315, text='DB transaction will not save you in this case.<p>As the article hinted you have to either update the balance in one query or use a lock, like an optimistic lock.<p>Optimistic lock could have also been used instead of the mutex.')

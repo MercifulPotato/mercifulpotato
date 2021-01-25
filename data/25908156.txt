@@ -1,0 +1,1 @@
+Item(by='armatav', descendants=None, kids=None, score=None, time=1611605681, title=None, item_type='comment', url=None, parent=25908147, text='Hey! Rebuilt this from the ground up with a custom neural network (trained on my own corpus of a couple hundred thousand articles) to do the filtering.<p>Enjoy!')

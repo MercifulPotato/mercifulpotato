@@ -1,0 +1,1 @@
+Item(by='asim', descendants=None, kids=None, score=None, time=1611587134, title=None, item_type='comment', url=None, parent=25903743, text='It is not tied to Google Cloud. Micro runs locally by default using standard Go and linux processes. It also supports kubernetes for what we now deem as a more production grade cloud environment.')

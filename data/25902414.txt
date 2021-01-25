@@ -1,1 +1,1 @@
-Item(by='timdaub', descendants=None, kids=None, score=None, time=1611577953, title=None, item_type='comment', url=None, parent=25902112, text='sifted.eu lists Wolt as &quot;Deeptech News&quot;. I find the word deeptech cringe. It&#x27;s just tech.')
+Item(by='timdaub', descendants=None, kids=[25904336], score=None, time=1611577953, title=None, item_type='comment', url=None, parent=25902112, text='sifted.eu lists Wolt as &quot;Deeptech News&quot;. I find the word deeptech cringe. It&#x27;s just tech.')

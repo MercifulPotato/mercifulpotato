@@ -1,1 +1,1 @@
-Item(by='suprfsat', descendants=None, kids=None, score=None, time=1611328799, title=None, item_type='comment', url=None, parent=25872130, text='Only known to users of such niche websites as YouTube, Twitter, and Facebook.')
+Item(by='suprfsat', descendants=None, kids=[25908219], score=None, time=1611328799, title=None, item_type='comment', url=None, parent=25872130, text='Only known to users of such niche websites as YouTube, Twitter, and Facebook.')

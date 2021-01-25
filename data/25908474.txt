@@ -1,0 +1,1 @@
+Item(by='frongpik', descendants=None, kids=[25908574], score=None, time=1611607098, title=None, item_type='comment', url=None, parent=25906481, text='Anything short of uBlockOrigin&#x2F;uMatrix with JS disabled won&#x27;t work. Not only you need to block cookies at the uBO level, you need to block JS because it can write cookie-like IDs to persistent storage such as indexeddb.')

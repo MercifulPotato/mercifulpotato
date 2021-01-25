@@ -1,1 +1,1 @@
-Item(by='cheeseblubber', descendants=0, kids=None, score=1, time=1611585159, title='What remote YC looks like', item_type='story', url='https://papercups.io/blog/what-remote-demo-day-looked-like', parent=None, text=None)
+Item(by='cheeseblubber', descendants=16, kids=[25905570, 25905482, 25905533, 25904772, 25905747, 25904753, 25905470], score=71, time=1611585159, title='What remote YC demo day looked like', item_type='story', url='https://papercups.io/blog/what-remote-demo-day-looked-like', parent=None, text=None)

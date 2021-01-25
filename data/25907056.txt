@@ -1,0 +1,1 @@
+Item(by='dividuum', descendants=None, kids=None, score=None, time=1611600813, title=None, item_type='comment', url=None, parent=25906808, text='&gt; Lets say someone gets access to the server, they can still read the ENV vars, right?<p>Correct. Easiest way is to look at `&#x2F;proc&#x2F;$pid&#x2F;environ`. It contains the \\0 separated values for that process.')

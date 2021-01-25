@@ -1,1 +1,1 @@
-Item(by='cheezburger', descendants=None, kids=None, score=None, time=1611549491, title=None, item_type='comment', url=None, parent=25898076, text='We choose the world we live in? Since when?')
+Item(by='cheezburger', descendants=None, kids=[25906221], score=None, time=1611549491, title=None, item_type='comment', url=None, parent=25898076, text='We choose the world we live in? Since when?')

@@ -1,0 +1,1 @@
+Item(by='pantulis', descendants=None, kids=None, score=None, time=1611587074, title=None, item_type='comment', url=None, parent=25903743, text='After cursory reading the docs, I do not feel that it&#x27;s tied to GCP, only Kubernetes.<p>It could be a nice starter kit, but obviously I would not recommend migrating to it just because.')

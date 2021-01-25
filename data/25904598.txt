@@ -1,0 +1,1 @@
+Item(by='user22', descendants=None, kids=[25906104, 25904646], score=None, time=1611590068, title=None, item_type='comment', url=None, parent=25904182, text='FYI: pihole does not block taboola ads because they are not served from a separate network that can be filtered.<p>You need to use a non-dns method of filtering them out')

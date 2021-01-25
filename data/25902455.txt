@@ -1,1 +1,1 @@
-Item(by='pm90', descendants=None, kids=None, score=None, time=1611578351, title=None, item_type='comment', url=None, parent=25902079, text='Seems unlikely considering everything that&#x27;s happening in HK.')
+Item(by='pm90', descendants=None, kids=[25904453], score=None, time=1611578351, title=None, item_type='comment', url=None, parent=25902079, text='Seems unlikely considering everything that&#x27;s happening in HK.')

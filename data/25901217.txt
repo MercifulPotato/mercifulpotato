@@ -1,1 +1,1 @@
-Item(by='baq', descendants=None, kids=None, score=None, time=1611566958, title=None, item_type='comment', url=None, parent=25900212, text='you sure you want heavy metal salts just laying around in a huge lake of brine? not sure if this is a workable proposition.')
+Item(by='baq', descendants=None, kids=[25906224], score=None, time=1611566958, title=None, item_type='comment', url=None, parent=25900212, text='you sure you want heavy metal salts just laying around in a huge lake of brine? not sure if this is a workable proposition.')

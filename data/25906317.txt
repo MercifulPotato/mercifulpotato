@@ -1,0 +1,1 @@
+Item(by='AJRF', descendants=None, kids=[25906543], score=None, time=1611597173, title=None, item_type='comment', url=None, parent=25906279, text='it a keyboard shortcut for org-roam-find-file.<p>(global-set-key (kbd &quot;M-n&quot;) &#x27;org-roam-find-file)')

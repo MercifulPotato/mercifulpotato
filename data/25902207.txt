@@ -1,1 +1,1 @@
-Item(by='matt-attack', descendants=None, kids=None, score=None, time=1611576064, title=None, item_type='comment', url=None, parent=25902115, text='I have a faint memory of opening up the Apple ][ plus to push on various ICs when the computer went wonky.')
+Item(by='matt-attack', descendants=None, kids=[25904531], score=None, time=1611576064, title=None, item_type='comment', url=None, parent=25902115, text='I have a faint memory of opening up the Apple ][ plus to push on various ICs when the computer went wonky.')

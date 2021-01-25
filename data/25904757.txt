@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1611590756, title=None, item_type='comment', url=None, parent=25904704, text='Object Pascal is definitly safer.<p>- bounds checking<p>- proper strings<p>- strong typed enumerations<p>- parameter references cannot be forced to nil (C++ ones can be tricked into null and C doesn&#x27;t have them anyway)')

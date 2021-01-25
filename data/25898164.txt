@@ -1,1 +1,1 @@
-Item(by='gedy', descendants=None, kids=None, score=None, time=1611539426, title=None, item_type='comment', url=None, parent=25898055, text='It seems like similar to folks wanting something like XSL (or is it XSLT?) for certain uses, but CSS seems fine for just styling.')
+Item(by='gedy', descendants=None, kids=[25906754], score=None, time=1611539426, title=None, item_type='comment', url=None, parent=25898055, text='It seems like similar to folks wanting something like XSL (or is it XSLT?) for certain uses, but CSS seems fine for just styling.')

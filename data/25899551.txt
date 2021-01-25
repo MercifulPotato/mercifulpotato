@@ -1,1 +1,1 @@
-Item(by='abiogenesis', descendants=None, kids=None, score=None, time=1611551827, title=None, item_type='comment', url=None, parent=25899360, text='It&#x27;s very easy to make alcohol at home. This would only function as a nuisance for the responsible drinkers.')
+Item(by='abiogenesis', descendants=None, kids=[25904968], score=None, time=1611551827, title=None, item_type='comment', url=None, parent=25899360, text='It&#x27;s very easy to make alcohol at home. This would only function as a nuisance for the responsible drinkers.')

@@ -1,1 +1,1 @@
-Item(by='nickthemagicman', descendants=None, kids=None, score=None, time=1611387373, title=None, item_type='comment', url=None, parent=25875927, text='Well we can revisit this in the future and see what the status of React is!')
+Item(by='nickthemagicman', descendants=None, kids=[25907192], score=None, time=1611387373, title=None, item_type='comment', url=None, parent=25875927, text='Well we can revisit this in the future and see what the status of React is!')
