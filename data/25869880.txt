@@ -1,1 +1,1 @@
-Item(by='rbanffy', descendants=19, kids=[25889993, 25893282, 25890439, 25890252, 25889349, 25891079], score=63, time=1611306856, title='Incompatible Timesharing System', item_type='story', url='https://github.com/PDP-10/its', parent=None, text=None)
+Item(by='rbanffy', descendants=23, kids=[25889993, 25890439, 25893282, 25890252, 25896888, 25889349, 25891079], score=65, time=1611306856, title='Incompatible Timesharing System', item_type='story', url='https://github.com/PDP-10/its', parent=None, text=None)

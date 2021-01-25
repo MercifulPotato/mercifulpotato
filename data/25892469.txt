@@ -1,1 +1,1 @@
-Item(by='bryanrasmussen', descendants=0, kids=None, score=1, time=1611499964, title='Escher is a command line tool that lays the foundation for your APP', item_type='story', url='https://github.com/jcezarc/Escher', parent=None, text=None)
+Item(by='bryanrasmussen', descendants=1, kids=[25895811], score=2, time=1611499964, title='Escher is a command line tool that lays the foundation for your APP', item_type='story', url='https://github.com/jcezarc/Escher', parent=None, text=None)

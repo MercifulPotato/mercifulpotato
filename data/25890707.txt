@@ -1,1 +1,1 @@
-Item(by='XCSme', descendants=None, kids=None, score=None, time=1611481670, title=None, item_type='comment', url=None, parent=25889761, text='If it was an important target, would it make more sense to choose a somewhat more secure platform OR to build a proprietary solution?')
+Item(by='XCSme', descendants=None, kids=[25898270], score=None, time=1611481670, title=None, item_type='comment', url=None, parent=25889761, text='If it was an important target, would it make more sense to choose a somewhat more secure platform OR to build a proprietary solution?')

@@ -1,0 +1,1 @@
+Item(by='konjin', descendants=None, kids=None, score=None, time=1611537348, title=None, item_type='comment', url=None, parent=25896935, text='Another word for DSLs is functions (and objects).<p>DSLs are just better integrated into the base language so your source code doesn&#x27;t look like:<p><pre><code>    three = two.add(one)</code></pre>')

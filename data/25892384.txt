@@ -1,1 +1,1 @@
-Item(by='psychlops', descendants=None, kids=None, score=None, time=1611499363, title=None, item_type='comment', url=None, parent=25890066, text='Or in other words, &quot;Qu&#x27;ils mangent de la brioche.&quot;')
+Item(by='psychlops', descendants=None, kids=[25896207], score=None, time=1611499363, title=None, item_type='comment', url=None, parent=25890066, text='Or in other words, &quot;Qu&#x27;ils mangent de la brioche.&quot;')

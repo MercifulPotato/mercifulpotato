@@ -1,1 +1,1 @@
-Item(by='segfaultbuserr', descendants=0, kids=None, score=1, time=1611437492, title='Partial List of Software Patents (1992)', item_type='story', url='http://www.textfiles.com/law/softpat.txt', parent=None, text=None)
+Item(by='segfaultbuserr', descendants=1, kids=[25897783], score=10, time=1611437492, title='Partial List of Software Patents (1992)', item_type='story', url='http://www.textfiles.com/law/softpat.txt', parent=None, text=None)

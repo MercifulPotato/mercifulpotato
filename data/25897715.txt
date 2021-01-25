@@ -1,0 +1,1 @@
+Item(by='mschuster91', descendants=None, kids=[25898292], score=None, time=1611534853, title=None, item_type='comment', url=None, parent=25897003, text='In theory you could do this with an rpi zero w, if you were willing to write the USB gadget adapter code... but I doubt you could get much performance out of it.')

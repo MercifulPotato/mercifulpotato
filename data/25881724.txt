@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=1, time=1611404657, title='The International Tempest over the World’s Most Famous Teapot', item_type='story', url='https://thewalrus.ca/the-international-tempest-over-the-worlds-most-famous-teapot/', parent=None, text=None)
+Item(by='pseudolus', descendants=2, kids=[25898215, 25897850, 25897930], score=9, time=1611404657, title='The International Tempest over the World’s Most Famous Teapot', item_type='story', url='https://thewalrus.ca/the-international-tempest-over-the-worlds-most-famous-teapot/', parent=None, text=None)

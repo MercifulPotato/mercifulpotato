@@ -1,1 +1,1 @@
-Item(by='byefruit', descendants=None, kids=None, score=None, time=1611431979, title=None, item_type='comment', url=None, parent=25885173, text='Alas, only if you live in the US.<p>Colab Pro isn&#x27;t available outside the US (without breaking Google&#x27;s terms).')
+Item(by='byefruit', descendants=None, kids=[25898575], score=None, time=1611431979, title=None, item_type='comment', url=None, parent=25885173, text='Alas, only if you live in the US.<p>Colab Pro isn&#x27;t available outside the US (without breaking Google&#x27;s terms).')

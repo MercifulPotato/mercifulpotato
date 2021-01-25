@@ -1,1 +1,1 @@
-Item(by='TedShiller', descendants=None, kids=None, score=None, time=1611516432, title=None, item_type='comment', url=None, parent=25890682, text='I know what you mean but your opinion is convenient since you don’t live in a lithium mining town. Look up documentaries about that.')
+Item(by='TedShiller', descendants=None, kids=[25896242], score=None, time=1611516432, title=None, item_type='comment', url=None, parent=25890682, text='I know what you mean but your opinion is convenient since you don’t live in a lithium mining town. Look up documentaries about that.')

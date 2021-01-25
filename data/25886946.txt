@@ -1,1 +1,1 @@
-Item(by='clouddrover', descendants=None, kids=None, score=None, time=1611442930, title=None, item_type='comment', url=None, parent=25886475, text='&gt; <i>Elon said</i><p>Elon said coronavirus would be finished in the US by April, 2020. How&#x27;d that work out for him?')
+Item(by='clouddrover', descendants=None, kids=[25895695], score=None, time=1611442930, title=None, item_type='comment', url=None, parent=25886475, text='&gt; <i>Elon said</i><p>Elon said coronavirus would be finished in the US by April, 2020. How&#x27;d that work out for him?')

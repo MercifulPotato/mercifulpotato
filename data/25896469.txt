@@ -1,0 +1,1 @@
+Item(by='alpaca128', descendants=None, kids=None, score=None, time=1611524881, title=None, item_type='comment', url=None, parent=25896201, text='I&#x27;m not very familiar with deep learning, but OpenCL would be an\nalternative to CUDA. Not quite as fast but designed for running\nacross a wide range of processors, so it doesn&#x27;t care what color\nthe GPU is.')

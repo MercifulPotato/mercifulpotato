@@ -1,1 +1,1 @@
-Item(by='fakedang', descendants=None, kids=None, score=None, time=1611517841, title=None, item_type='comment', url=None, parent=25894952, text='DFW &gt;&gt;&gt; Austin')
+Item(by='fakedang', descendants=None, kids=[25895382], score=None, time=1611517841, title=None, item_type='comment', url=None, parent=25894952, text='DFW &gt;&gt;&gt; Austin')

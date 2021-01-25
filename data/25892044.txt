@@ -1,1 +1,1 @@
-Item(by='burlesona', descendants=1, kids=[25892308, 25892632], score=2, time=1611496495, title='Will China Keep Winning?', item_type='story', url='https://www.wsj.com/articles/china-played-its-hand-well-in-2020-will-it-keep-winning-11611331354', parent=None, text=None)
+Item(by='burlesona', descendants=2, kids=[25898269, 25892308, 25892632], score=2, time=1611496495, title='Will China Keep Winning?', item_type='story', url='https://www.wsj.com/articles/china-played-its-hand-well-in-2020-will-it-keep-winning-11611331354', parent=None, text=None)

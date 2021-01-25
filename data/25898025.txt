@@ -1,0 +1,1 @@
+Item(by='Koshkin', descendants=None, kids=[25898783], score=None, time=1611538027, title=None, item_type='comment', url=None, parent=25897484, text='You’d probably spend more time learning LLVM than what it might take you to reinvent your own parsing method. (For relatively simple cases I usually recommend flex and bison, they are simple tools that can do wonders.)')

@@ -1,0 +1,1 @@
+Item(by='Scarbutt', descendants=None, kids=None, score=None, time=1611539306, title=None, item_type='comment', url=None, parent=25897734, text='<i>Any data can be serialized with JSON.</i><p>Yep, by writing ad-hoc and context-dependent formats on top of JSON for every language on your system. JSON set of types are just too limited.')

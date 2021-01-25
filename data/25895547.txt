@@ -1,0 +1,1 @@
+Item(by='CharlesW', descendants=None, kids=[25895581], score=None, time=1611519875, title=None, item_type='comment', url=None, parent=25895283, text='&gt; <i>It should load in an instant.</i><p>FWIW, it does load in an instant for me. (Lighthouse Performance = 99, Speed Index = 0.4s.)')

@@ -1,1 +1,1 @@
-Item(by='msie', descendants=None, kids=None, score=None, time=1611354898, title=None, item_type='comment', url=None, parent=25876767, text='[me say:&quot;Oh no! This sucks.&quot;];<p>I loved his little book on Objective-C.')
+Item(by='msie', descendants=None, kids=[25898227], score=None, time=1611354898, title=None, item_type='comment', url=None, parent=25876767, text='[me say:&quot;Oh no! This sucks.&quot;];<p>I loved his little book on Objective-C.')

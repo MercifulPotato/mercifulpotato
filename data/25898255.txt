@@ -1,0 +1,1 @@
+Item(by='samth', descendants=None, kids=None, score=None, time=1611540330, title=None, item_type='comment', url=None, parent=25897471, text='eval works very similarly to how it worked before -- when you eval some code it compiled it and then runs it. Every* Scheme or Lisp system supports this kind of compilation-at-runtime, and Chez is no exception.')

@@ -1,1 +1,1 @@
-Item(by='skissane', descendants=None, kids=None, score=None, time=1611480408, title=None, item_type='comment', url=None, parent=25888227, text='I wonder, are the Clojure developers planning to fix these deficiencies? Most or all of them are things which could be fixed with some work.')
+Item(by='skissane', descendants=None, kids=[25896027], score=None, time=1611480408, title=None, item_type='comment', url=None, parent=25888227, text='I wonder, are the Clojure developers planning to fix these deficiencies? Most or all of them are things which could be fixed with some work.')

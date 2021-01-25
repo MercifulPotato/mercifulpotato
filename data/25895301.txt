@@ -1,1 +1,1 @@
-Item(by='manquer', descendants=None, kids=None, score=None, time=1611518513, title=None, item_type='comment', url=None, parent=25894826, text='Direct democracy has its problems. 50.01% voting can cause serious issues. But using tech to improve speed of policy should be a thing')
+Item(by='manquer', descendants=None, kids=[25896530], score=None, time=1611518513, title=None, item_type='comment', url=None, parent=25894826, text='Direct democracy has its problems. 50.01% voting can cause serious issues. But using tech to improve speed of policy should be a thing')

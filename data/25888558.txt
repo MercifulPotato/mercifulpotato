@@ -1,1 +1,1 @@
-Item(by='diodorus', descendants=0, kids=None, score=10, time=1611456176, title='The Origin of Names (2015)', item_type='story', url='http://web.pdx.edu/~davide/gene/names.htm', parent=None, text=None)
+Item(by='diodorus', descendants=2, kids=[25896480, 25896265], score=17, time=1611456176, title='The Origin of Names (2015)', item_type='story', url='http://web.pdx.edu/~davide/gene/names.htm', parent=None, text=None)

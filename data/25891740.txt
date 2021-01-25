@@ -1,1 +1,1 @@
-Item(by='AlexeyBrin', descendants=2, kids=[25891959], score=10, time=1611493824, title='My Apple IIE: Nearly 30 Years Later (2012)', item_type='story', url='http://www.leucht.com/blog/2012/10/my-apple-iie-nearly-30-years-later/', parent=None, text=None)
+Item(by='AlexeyBrin', descendants=5, kids=[25897054, 25891959], score=16, time=1611493824, title='My Apple IIE: Nearly 30 Years Later (2012)', item_type='story', url='http://www.leucht.com/blog/2012/10/my-apple-iie-nearly-30-years-later/', parent=None, text=None)
