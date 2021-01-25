@@ -1,0 +1,1 @@
+Item(by='drzel', descendants=3, kids=[25903098, 25903237, 25902961], score=2, time=1611580723, title="Ask HN: What can JSON do that HTML can't?", item_type='story', url=None, parent=None, text='Just wondering, if HTML is indeed a data format, with some extra rendering stuff as a bonus, is there anything that JSON can do that HTML can&#x27;t?')

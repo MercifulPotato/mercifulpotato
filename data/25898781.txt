@@ -1,1 +1,1 @@
-Item(by='whalesalad', descendants=None, kids=None, score=None, time=1611545947, title=None, item_type='comment', url=None, parent=25898645, text='Bingo.')
+Item(by='whalesalad', descendants=None, kids=[25902815, 25901321], score=None, time=1611545947, title=None, item_type='comment', url=None, parent=25898645, text='Bingo.')

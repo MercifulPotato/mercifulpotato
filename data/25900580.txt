@@ -1,1 +1,1 @@
-Item(by='sneak', descendants=None, kids=None, score=None, time=1611561464, title=None, item_type='comment', url=None, parent=25900204, text='Approximately no one on the internet has an XMPP account.<p>Approximately everyone on the internet has an email address.')
+Item(by='sneak', descendants=None, kids=[25901594], score=None, time=1611561464, title=None, item_type='comment', url=None, parent=25900204, text='Approximately no one on the internet has an XMPP account.<p>Approximately everyone on the internet has an email address.')

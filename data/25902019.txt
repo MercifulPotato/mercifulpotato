@@ -1,0 +1,1 @@
+Item(by='ComodoHacker', descendants=None, kids=[25902731], score=None, time=1611574252, title=None, item_type='comment', url=None, parent=25901360, text='Can PGM index and linear approximation models in general be applied to clustered indexes, where actual data of variable size are stored in the index along with the keys?')

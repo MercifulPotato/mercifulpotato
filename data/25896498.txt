@@ -1,1 +1,1 @@
-Item(by='mraza007', descendants=None, kids=None, score=None, time=1611525049, title=None, item_type='comment', url=None, parent=25895767, text='Hey you can look into gensim')
+Item(by='mraza007', descendants=None, kids=[25901063], score=None, time=1611525049, title=None, item_type='comment', url=None, parent=25895767, text='Hey you can look into gensim')

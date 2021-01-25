@@ -1,1 +1,1 @@
-Item(by='fakedang', descendants=None, kids=None, score=None, time=1611546487, title=None, item_type='comment', url=None, parent=25898466, text='Nowhere close to London or NY<p>SF is like a foodie Frankenstein. Lots of options from around the world, none of them crafted perfectly.')
+Item(by='fakedang', descendants=None, kids=[25901210], score=None, time=1611546487, title=None, item_type='comment', url=None, parent=25898466, text='Nowhere close to London or NY<p>SF is like a foodie Frankenstein. Lots of options from around the world, none of them crafted perfectly.')

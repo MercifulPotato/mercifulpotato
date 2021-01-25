@@ -1,1 +1,1 @@
-Item(by='xucheng', descendants=None, kids=None, score=None, time=1611563656, title=None, item_type='comment', url=None, parent=25900587, text='The size comparison here only concerns the size of index. That is the size of the data is excluded.')
+Item(by='xucheng', descendants=None, kids=[25902456], score=None, time=1611563656, title=None, item_type='comment', url=None, parent=25900587, text='The size comparison here only concerns the size of index. That is the size of the data is excluded.')

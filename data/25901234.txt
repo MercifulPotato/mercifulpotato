@@ -1,0 +1,1 @@
+Item(by='ncmncm', descendants=None, kids=None, score=None, time=1611567078, title=None, item_type='comment', url=None, parent=25900587, text='They do it by not storing keys in the index. A B-tree has copies of all the keys in the tree, and (normally) also in the data. Here, they just have slopes that get you close to the right actual element.')

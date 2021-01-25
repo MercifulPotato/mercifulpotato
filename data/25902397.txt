@@ -1,0 +1,1 @@
+Item(by='cies', descendants=None, kids=[25903140], score=None, time=1611577863, title=None, item_type='comment', url=None, parent=25897117, text='There is not POSIX in a unikernel, right?<p>So can apps using a RustyHermit use the std lib, or should all be no_std?')

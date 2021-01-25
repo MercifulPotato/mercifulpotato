@@ -1,1 +1,1 @@
-Item(by='toyg', descendants=None, kids=None, score=None, time=1611564561, title=None, item_type='comment', url=None, parent=25900535, text='Afaik Whatsapp had already exploded before it was acquired, at least in Europe.')
+Item(by='toyg', descendants=None, kids=[25902065], score=None, time=1611564561, title=None, item_type='comment', url=None, parent=25900535, text='Afaik Whatsapp had already exploded before it was acquired, at least in Europe.')

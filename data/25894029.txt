@@ -1,1 +1,1 @@
-Item(by='thunderbong', descendants=2, kids=[25898608], score=4, time=1611510889, title='JavaScript Database (JSDB)', item_type='story', url='https://github.com/small-tech/jsdb/blob/master/README.md', parent=None, text=None)
+Item(by='thunderbong', descendants=3, kids=[25898608], score=5, time=1611510889, title='JavaScript Database (JSDB)', item_type='story', url='https://github.com/small-tech/jsdb/blob/master/README.md', parent=None, text=None)

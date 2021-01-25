@@ -1,1 +1,1 @@
-Item(by='ddorian43', descendants=None, kids=None, score=None, time=1611565741, title=None, item_type='comment', url=None, parent=25900816, text='There are a lot of fixes PostgreSQL can do before this exotic one. Starting from ZHeap etc etc.')
+Item(by='ddorian43', descendants=None, kids=[25902589], score=None, time=1611565741, title=None, item_type='comment', url=None, parent=25900816, text='There are a lot of fixes PostgreSQL can do before this exotic one. Starting from ZHeap etc etc.')

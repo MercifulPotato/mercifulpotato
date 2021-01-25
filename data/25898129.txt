@@ -1,1 +1,1 @@
-Item(by='wryun', descendants=0, kids=None, score=5, time=1611539086, title='Thix (POSIX OS/Kernel from 1995)', item_type='story', url='http://www.hulubei.net/tudor/thix/', parent=None, text=None)
+Item(by='wryun', descendants=1, kids=[25901481], score=5, time=1611539086, title='Thix (POSIX OS/Kernel from 1995)', item_type='story', url='http://www.hulubei.net/tudor/thix/', parent=None, text=None)

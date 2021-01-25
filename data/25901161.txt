@@ -1,1 +1,1 @@
-Item(by='erfgh', descendants=None, kids=None, score=None, time=1611566450, title=None, item_type='comment', url=None, parent=25900184, text='You know that it&#x27;s summer in Australia now, right?')
+Item(by='erfgh', descendants=None, kids=[25901797], score=None, time=1611566450, title=None, item_type='comment', url=None, parent=25900184, text='You know that it&#x27;s summer in Australia now, right?')

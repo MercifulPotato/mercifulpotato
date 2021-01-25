@@ -1,1 +1,1 @@
-Item(by='dgski', descendants=None, kids=None, score=None, time=1611548468, title=None, item_type='comment', url=None, parent=25898905, text='Specific subreddits for different tech areas (r&#x2F;programming, r&#x2F;cpp, r&#x2F;technology, r&#x2F;linux, etc)')
+Item(by='dgski', descendants=None, kids=[25901429], score=None, time=1611548468, title=None, item_type='comment', url=None, parent=25898905, text='Specific subreddits for different tech areas (r&#x2F;programming, r&#x2F;cpp, r&#x2F;technology, r&#x2F;linux, etc)')

@@ -1,1 +1,1 @@
-Item(by='sneak', descendants=None, kids=[25901033, 25900396, 25900406], score=None, time=1611559430, title=None, item_type='comment', url=None, parent=25900263, text='ProtonMail, but I hate their lack of native IMAP. I will switch again soon to running my own mail server.')
+Item(by='sneak', descendants=None, kids=[25900396, 25900406, 25901033], score=None, time=1611559430, title=None, item_type='comment', url=None, parent=25900263, text='ProtonMail, but I hate their lack of native IMAP. I will switch again soon to running my own mail server.')

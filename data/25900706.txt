@@ -1,1 +1,1 @@
-Item(by='nrjames', descendants=None, kids=None, score=None, time=1611562472, title=None, item_type='comment', url=None, parent=25900453, text='There are loads of people texting and driving who aren’t in a Tesla. I worry much more about them.')
+Item(by='nrjames', descendants=None, kids=[25903188], score=None, time=1611562472, title=None, item_type='comment', url=None, parent=25900453, text='There are loads of people texting and driving who aren’t in a Tesla. I worry much more about them.')

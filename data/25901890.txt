@@ -1,0 +1,1 @@
+Item(by='rbanffy', descendants=None, kids=None, score=None, time=1611572869, title=None, item_type='comment', url=None, parent=25898811, text='IIRC, NT 4 moved drivers into kernel space for performance. The result was that the system crashed much faster :-P.')

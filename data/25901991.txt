@@ -1,0 +1,1 @@
+Item(by='g_airborne', descendants=None, kids=[25903180], score=None, time=1611573963, title=None, item_type='comment', url=None, parent=25901754, text='This is very cool, I’ll be studying your implementation of I3D. Did you ever attempt to train I3D end-to-end as done in the Quo Vadis paper? And it so, did you get comparable Top1&#x2F;Top5 accuracy?')

@@ -1,1 +1,1 @@
-Item(by='open-source-ux', descendants=0, kids=None, score=2, time=1611561431, title='Why your face could be set to replace your bank card', item_type='story', url='https://www.bbc.co.uk/news/business-55748964', parent=None, text=None)
+Item(by='open-source-ux', descendants=16, kids=[25903142, 25902072, 25902439, 25902126, 25902682, 25902132, 25902123, 25902066], score=9, time=1611561431, title='Why your face could be set to replace your bank card', item_type='story', url='https://www.bbc.co.uk/news/business-55748964', parent=None, text=None)

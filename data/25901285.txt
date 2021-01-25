@@ -1,0 +1,1 @@
+Item(by='nly', descendants=None, kids=None, score=None, time=1611567553, title=None, item_type='comment', url=None, parent=25897395, text='Enum and variant&#x2F;sum types are supported by a lot of serialization <i>frameworks</i> that have JSON serializations though. Thrift, Avro, Protocol Buffers, Flatbuffers etc.<p>JSON is not a framework for serialization anymore than XML is.')

@@ -1,1 +1,1 @@
-Item(by='icelancer', descendants=None, kids=None, score=None, time=1611541989, title=None, item_type='comment', url=None, parent=25897986, text='What is life?')
+Item(by='icelancer', descendants=None, kids=[25903125], score=None, time=1611541989, title=None, item_type='comment', url=None, parent=25897986, text='What is life?')

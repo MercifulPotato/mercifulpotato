@@ -1,1 +1,1 @@
-Item(by='jsight', descendants=None, kids=None, score=None, time=1611540705, title=None, item_type='comment', url=None, parent=25897715, text='AFAIK, the Pi 4 also supports this mode and would offer gigabit performance. Still not terrific, but maybe enough to be usable.')
+Item(by='jsight', descendants=None, kids=[25901326], score=None, time=1611540705, title=None, item_type='comment', url=None, parent=25897715, text='AFAIK, the Pi 4 also supports this mode and would offer gigabit performance. Still not terrific, but maybe enough to be usable.')

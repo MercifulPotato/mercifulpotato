@@ -1,1 +1,1 @@
-Item(by='staticautomatic', descendants=None, kids=None, score=None, time=1611550264, title=None, item_type='comment', url=None, parent=25898133, text='I can’t believe I’m 35 and have never seen a dead human body or killed an animal more sophisticated than a fish.')
+Item(by='staticautomatic', descendants=None, kids=[25901846], score=None, time=1611550264, title=None, item_type='comment', url=None, parent=25898133, text='I can’t believe I’m 35 and have never seen a dead human body or killed an animal more sophisticated than a fish.')

@@ -1,1 +1,1 @@
-Item(by='arthur_sav', descendants=None, kids=None, score=None, time=1611535666, title=None, item_type='comment', url=None, parent=25897758, text='That&#x27;s also when true automation will take place.')
+Item(by='arthur_sav', descendants=None, kids=[25902323], score=None, time=1611535666, title=None, item_type='comment', url=None, parent=25897758, text='That&#x27;s also when true automation will take place.')
