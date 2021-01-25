@@ -1,1 +1,1 @@
-Item(by='wmichelin', descendants=None, kids=None, score=None, time=1611540443, title=None, item_type='comment', url=None, parent=25898247, text='They signed deals with Postmates and Caviar and now they can&#x27;t ship features that will render those businesses irrelevant.')
+Item(by='wmichelin', descendants=None, kids=[25899554], score=None, time=1611540443, title=None, item_type='comment', url=None, parent=25898247, text='They signed deals with Postmates and Caviar and now they can&#x27;t ship features that will render those businesses irrelevant.')

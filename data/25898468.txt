@@ -1,1 +1,1 @@
-Item(by='hackerbrother', descendants=None, kids=None, score=None, time=1611542719, title=None, item_type='comment', url=None, parent=25897651, text='I guess the way I see it, computers have already changed every aspect of life.')
+Item(by='hackerbrother', descendants=None, kids=[25899807], score=None, time=1611542719, title=None, item_type='comment', url=None, parent=25897651, text='I guess the way I see it, computers have already changed every aspect of life.')

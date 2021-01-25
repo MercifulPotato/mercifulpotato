@@ -1,1 +1,1 @@
-Item(by='dleslie', descendants=None, kids=None, score=None, time=1611529188, title=None, item_type='comment', url=None, parent=25896320, text='Not quite: Twitter and Facebook have _armies_ of community moderation employees at their disposal; the fediverse has volunteers.')
+Item(by='dleslie', descendants=None, kids=[25900691], score=None, time=1611529188, title=None, item_type='comment', url=None, parent=25896320, text='Not quite: Twitter and Facebook have _armies_ of community moderation employees at their disposal; the fediverse has volunteers.')

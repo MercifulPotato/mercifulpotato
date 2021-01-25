@@ -1,1 +1,1 @@
-Item(by='Austin_Conlon', descendants=0, kids=None, score=1, time=1611545028, title='Ask HN: What are the best podcast episodes on software engineering?', item_type='story', url=None, parent=None, text=None)
+Item(by='Austin_Conlon', descendants=2, kids=[25900729, 25899170], score=6, time=1611545028, title='Ask HN: What are the best podcast episodes on software engineering?', item_type='story', url=None, parent=None, text=None)

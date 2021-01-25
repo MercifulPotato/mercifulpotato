@@ -1,1 +1,1 @@
-Item(by='birriel', descendants=0, kids=None, score=2, time=1611529466, title='How to Design Programs, Second Edition', item_type='story', url='http://htdp.org/2020-8-1/Book/index.html', parent=None, text=None)
+Item(by='birriel', descendants=1, kids=[25899785], score=2, time=1611529466, title='How to Design Programs, Second Edition', item_type='story', url='http://htdp.org/2020-8-1/Book/index.html', parent=None, text=None)

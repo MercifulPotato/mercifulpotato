@@ -1,1 +1,1 @@
-Item(by='tester756', descendants=None, kids=None, score=None, time=1611404913, title=None, item_type='comment', url=None, parent=25881620, text='I think this lisp part was in this talk, but I&#x27;m not 100% sure what he did say')
+Item(by='tester756', descendants=None, kids=[25900788], score=None, time=1611404913, title=None, item_type='comment', url=None, parent=25881620, text='I think this lisp part was in this talk, but I&#x27;m not 100% sure what he did say')

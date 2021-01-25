@@ -1,1 +1,1 @@
-Item(by='sixQuarks', descendants=None, kids=None, score=None, time=1611543943, title=None, item_type='comment', url=None, parent=25896039, text='When has someone died while sleeping in an autopiloted Tesla?  I&#x27;ve kept a close eye on this space and never heard of this.')
+Item(by='sixQuarks', descendants=None, kids=[25899949], score=None, time=1611543943, title=None, item_type='comment', url=None, parent=25896039, text='When has someone died while sleeping in an autopiloted Tesla?  I&#x27;ve kept a close eye on this space and never heard of this.')

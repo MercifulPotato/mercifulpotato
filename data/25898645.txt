@@ -1,0 +1,1 @@
+Item(by='blandflakes', descendants=None, kids=[25898781], score=None, time=1611544756, title=None, item_type='comment', url=None, parent=25897734, text='Can&#x27;t any data also be serialized as a string? Does that mean &quot;string payload&quot; is good enough for exchanging data between systems?')

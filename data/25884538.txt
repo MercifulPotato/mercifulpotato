@@ -1,1 +1,1 @@
-Item(by='wallflower', descendants=0, kids=None, score=1, time=1611424615, title='Flattery-Driven Open-Source', item_type='story', url='https://ppinera.es/2021/01/03/flattery-driven-open-source/', parent=None, text=None)
+Item(by='wallflower', descendants=2, kids=[25899167, 25899508], score=15, time=1611424615, title='Flattery-Driven Open-Source', item_type='story', url='https://ppinera.es/2021/01/03/flattery-driven-open-source/', parent=None, text=None)

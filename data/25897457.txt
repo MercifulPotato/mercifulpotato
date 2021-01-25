@@ -1,1 +1,1 @@
-Item(by='madeleineostoja', descendants=0, kids=None, score=2, time=1611532354, title='Show HN: Pollen, utility-first CSS for the future', item_type='story', url='https://www.pollen.style', parent=None, text=None)
+Item(by='madeleineostoja', descendants=1, kids=[25900802], score=3, time=1611532354, title='Show HN: Pollen, utility-first CSS for the future', item_type='story', url='https://www.pollen.style', parent=None, text=None)

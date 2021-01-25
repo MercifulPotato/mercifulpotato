@@ -1,1 +1,1 @@
-Item(by='na85', descendants=None, kids=None, score=None, time=1611547243, title=None, item_type='comment', url=None, parent=25897983, text='It&#x27;s basically undergraduate potential flow but as a MOOC.  (Which is still awesome)')
+Item(by=None, descendants=None, kids=None, score=None, time=1611547243, title=None, item_type='comment', url=None, parent=25897983, text=None)

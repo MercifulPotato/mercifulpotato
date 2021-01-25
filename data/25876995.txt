@@ -1,1 +1,1 @@
-Item(by='tambourine_man', descendants=1, kids=[25898429], score=16, time=1611353840, title='Linux Unplugged 308: The One About GPU Passthrough', item_type='story', url='https://linuxunplugged.com/308', parent=None, text=None)
+Item(by='tambourine_man', descendants=2, kids=[25898429], score=16, time=1611353840, title='Linux Unplugged 308: The One About GPU Passthrough', item_type='story', url='https://linuxunplugged.com/308', parent=None, text=None)

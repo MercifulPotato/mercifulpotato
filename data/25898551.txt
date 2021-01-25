@@ -1,1 +1,1 @@
-Item(by='FartyMcFarter', descendants=None, kids=None, score=None, time=1611543697, title=None, item_type='comment', url=None, parent=25897208, text='&gt; Arrogance in computer science is measured in nano-Dijkstras.<p>What a burn!')
+Item(by='FartyMcFarter', descendants=None, kids=[25899855], score=None, time=1611543697, title=None, item_type='comment', url=None, parent=25897208, text='&gt; Arrogance in computer science is measured in nano-Dijkstras.<p>What a burn!')

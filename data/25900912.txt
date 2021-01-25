@@ -1,0 +1,1 @@
+Item(by='kkokosa', descendants=None, kids=None, score=None, time=1611564207, title=None, item_type='comment', url=None, parent=25880806, text='Just as a clarification, &quot;Copying is the most common way (and the current .NET way)&quot; is not the case - .NET GC is generational but it does not promote through generations by copying.')

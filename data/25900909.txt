@@ -1,0 +1,1 @@
+Item(by='jensfr', descendants=None, kids=None, score=None, time=1611564190, title=None, item_type='comment', url=None, parent=25883837, text='Do you know libkrun? github.com&#x2F;containers&#x2F;libkrun<p>&quot;libkrun is a dynamic library that allows programs to easily acquire the ability to run processes in a partially isolated environment using KVM Virtualization.&quot;')

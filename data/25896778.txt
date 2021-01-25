@@ -1,1 +1,1 @@
-Item(by='bluedevil2k', descendants=None, kids=None, score=None, time=1611526898, title=None, item_type='comment', url=None, parent=25895950, text='It’s kind of unusual to set visibility to hidden in CSS, it’s more something you’d code in jQuery, or handle in the React code itself.')
+Item(by='bluedevil2k', descendants=None, kids=[25899840], score=None, time=1611526898, title=None, item_type='comment', url=None, parent=25895950, text='It’s kind of unusual to set visibility to hidden in CSS, it’s more something you’d code in jQuery, or handle in the React code itself.')

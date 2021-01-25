@@ -1,0 +1,1 @@
+Item(by='f5e4', descendants=None, kids=None, score=None, time=1611555067, title=None, item_type='comment', url=None, parent=25899819, text='Tesla does not use federated ML. Federated ML is specifically about training models on device, and is mainly a technique for preserving data privacy.')

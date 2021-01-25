@@ -1,1 +1,1 @@
-Item(by='tandr', descendants=None, kids=None, score=None, time=1611340812, title=None, item_type='comment', url=None, parent=25869590, text='it is more like big media needs to be broken up there...')
+Item(by='tandr', descendants=None, kids=[25899017], score=None, time=1611340812, title=None, item_type='comment', url=None, parent=25869590, text='it is more like big media needs to be broken up there...')

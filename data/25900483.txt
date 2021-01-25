@@ -1,0 +1,1 @@
+Item(by='infogulch', descendants=None, kids=None, score=None, time=1611560687, title=None, item_type='comment', url=None, parent=25900388, text='B-trees need sort<i>able</i> data; GP is not saying that the data has to be pre-sorted, but that it can&#x27;t be unorderable or otherwise uncomparable.')

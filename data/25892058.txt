@@ -1,1 +1,1 @@
-Item(by='gnaman', descendants=None, kids=None, score=None, time=1611496646, title=None, item_type='comment', url=None, parent=25891496, text='I didn&#x27;t get it. Can you please explain?')
+Item(by='gnaman', descendants=None, kids=[25900716], score=None, time=1611496646, title=None, item_type='comment', url=None, parent=25891496, text='I didn&#x27;t get it. Can you please explain?')

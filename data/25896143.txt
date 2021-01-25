@@ -1,1 +1,1 @@
-Item(by='mcguire', descendants=None, kids=None, score=None, time=1611523005, title=None, item_type='comment', url=None, parent=25890450, text='The results of that are called &quot;NIMBY&quot; and generally disparaged here.')
+Item(by='mcguire', descendants=None, kids=[25899633], score=None, time=1611523005, title=None, item_type='comment', url=None, parent=25890450, text='The results of that are called &quot;NIMBY&quot; and generally disparaged here.')

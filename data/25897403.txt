@@ -1,1 +1,1 @@
-Item(by='fireattack', descendants=None, kids=None, score=None, time=1611531854, title=None, item_type='comment', url=None, parent=25896544, text='Supporting more OS is always something can be worked on.')
+Item(by='fireattack', descendants=None, kids=[25899912], score=None, time=1611531854, title=None, item_type='comment', url=None, parent=25896544, text='Supporting more OS is always something can be worked on.')

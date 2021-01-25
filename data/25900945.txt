@@ -1,0 +1,1 @@
+Item(by='kubanczyk', descendants=None, kids=None, score=None, time=1611564542, title=None, item_type='comment', url=None, parent=25897208, text='Kay&#x27;s proposition for OOP: an object should grow as much as to become a full microservice (in today&#x27;s parlance).<p>&gt; 00:43:15 Every object should be a virtual server and have a URL and an IP.')
