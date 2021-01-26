@@ -1,0 +1,1 @@
+Item(by='petergeoghegan', descendants=None, kids=None, score=None, time=1611608506, title=None, item_type='comment', url=None, parent=25903851, text='Are you aware of any contemporary on-disk or in memory DB system that typically uses a page size of 4KiB or less? And if not, are you expecting that to become a trend in the future?')

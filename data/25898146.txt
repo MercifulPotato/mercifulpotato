@@ -1,1 +1,1 @@
-Item(by='ddingus', descendants=None, kids=None, score=None, time=1611539254, title=None, item_type='comment', url=None, parent=25890399, text='BTW, I believe Oregon started VBM in 1996.')
+Item(by='ddingus', descendants=None, kids=[25900113], score=None, time=1611539254, title=None, item_type='comment', url=None, parent=25890399, text='BTW, I believe Oregon started VBM in 1996.')

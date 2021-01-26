@@ -1,1 +1,1 @@
-Item(by='genericone', descendants=None, kids=None, score=None, time=1611604276, title=None, item_type='comment', url=None, parent=25907584, text='Birdwatch is their version of the Watchmen, they are above normal users. Everyone else is just a bird.')
+Item(by='genericone', descendants=None, kids=[25908712], score=None, time=1611604276, title=None, item_type='comment', url=None, parent=25907584, text='Birdwatch is their version of the Watchmen, they are above normal users. Everyone else is just a bird.')

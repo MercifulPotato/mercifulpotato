@@ -1,1 +1,1 @@
-Item(by='fwip', descendants=None, kids=None, score=None, time=1611605414, title=None, item_type='comment', url=None, parent=25907960, text='That just becomes &quot;rich people decide.&quot;')
+Item(by='fwip', descendants=None, kids=[25908649], score=None, time=1611605414, title=None, item_type='comment', url=None, parent=25907960, text='That just becomes &quot;rich people decide.&quot;')

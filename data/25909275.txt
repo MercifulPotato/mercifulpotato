@@ -1,1 +1,1 @@
-Item(by='Franciscouzo', descendants=None, kids=None, score=None, time=1611610778, title=None, item_type='comment', url=None, parent=25909256, text='And sunscreen is also a thing.')
+Item(by='Franciscouzo', descendants=None, kids=[25909535], score=None, time=1611610778, title=None, item_type='comment', url=None, parent=25909256, text='And sunscreen is also a thing.')

@@ -1,1 +1,1 @@
-Item(by='galfarragem', descendants=0, kids=None, score=3, time=1611399334, title='JerryScript: lightweight JS engine for IoT', item_type='story', url='https://github.com/jerryscript-project/jerryscript', parent=None, text=None)
+Item(by='galfarragem', descendants=2, kids=[25911196, 25910930], score=18, time=1611399334, title='JerryScript: lightweight JS engine for IoT', item_type='story', url='https://github.com/jerryscript-project/jerryscript', parent=None, text=None)

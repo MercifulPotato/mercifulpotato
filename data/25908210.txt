@@ -1,1 +1,1 @@
-Item(by='PH01', descendants=None, kids=None, score=None, time=1611605960, title=None, item_type='comment', url=None, parent=25907466, text='Quite a lot simpler to seperate the mixed signals using a modern multi-electrode array.')
+Item(by='PH01', descendants=None, kids=[25911261, 25911382], score=None, time=1611605960, title=None, item_type='comment', url=None, parent=25907466, text='Quite a lot simpler to seperate the mixed signals using a modern multi-electrode array.')

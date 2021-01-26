@@ -1,0 +1,1 @@
+Item(by='monocasa', descendants=None, kids=None, score=None, time=1611610717, title=None, item_type='comment', url=None, parent=25908879, text='Yeah, the PCI-e root complex is on the CPU dies, because on x86 at least PCI is cache coherent with the CPUs.  They need to get pretty close to the CPUs anyway.')

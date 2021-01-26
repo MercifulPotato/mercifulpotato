@@ -1,1 +1,1 @@
-Item(by='OneGuy123', descendants=None, kids=None, score=None, time=1611586567, title=None, item_type='comment', url=None, parent=25903163, text='You didn&#x27;t get my point.<p>GMO mosquitos are a completely UNPREDICTABLE path.')
+Item(by='OneGuy123', descendants=None, kids=[25909393], score=None, time=1611586567, title=None, item_type='comment', url=None, parent=25903163, text='You didn&#x27;t get my point.<p>GMO mosquitos are a completely UNPREDICTABLE path.')

@@ -1,1 +1,1 @@
-Item(by='benhurmarcel', descendants=None, kids=None, score=None, time=1611530963, title=None, item_type='comment', url=None, parent=25895560, text='How&#x27;s the latency? I guess it depends on your provider, but with email it can be pretty long for an instant messenger.')
+Item(by='benhurmarcel', descendants=None, kids=[25909650], score=None, time=1611530963, title=None, item_type='comment', url=None, parent=25895560, text='How&#x27;s the latency? I guess it depends on your provider, but with email it can be pretty long for an instant messenger.')

@@ -1,0 +1,1 @@
+Item(by='eropple', descendants=None, kids=None, score=None, time=1611625153, title=None, item_type='comment', url=None, parent=25911262, text='It&#x27;s funny--we used to run Vertica on ephemeral nodes and actually found a performance <i>improvement</i> going to EBS, but that was pre-NVMe in AWS.<p>I wonder how big the delta was for CMB between EBS and ephemeral?')

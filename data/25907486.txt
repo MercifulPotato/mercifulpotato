@@ -1,1 +1,1 @@
-Item(by='luczsoma', descendants=0, kids=None, score=3, time=1611602472, title='SA Revenue Service rolls their own web browser for their Adobe Flash-based forms', item_type='story', url='https://twitter.com/sarstax/status/1353699405912797184', parent=None, text=None)
+Item(by='luczsoma', descendants=1, kids=[25909781], score=4, time=1611602472, title='SA Revenue Service rolls their own web browser for their Adobe Flash-based forms', item_type='story', url='https://twitter.com/sarstax/status/1353699405912797184', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='sarusso', descendants=2, kids=[25908512, 25908500, 25908491], score=1, time=1611607073, title='Show HN: Pythings – Program IoT microcontrollers from a web browser, in Python', item_type='story', url='https://pythings.io/', parent=None, text=None)
+Item(by='sarusso', descendants=1, kids=[25908500, 25908512, 25908491], score=1, time=1611607073, title='Show HN: Pythings – Program IoT microcontrollers from a web browser, in Python', item_type='story', url='https://pythings.io/', parent=None, text=None)

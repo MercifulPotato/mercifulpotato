@@ -1,1 +1,1 @@
-Item(by='some_furry', descendants=None, kids=None, score=None, time=1611607079, title=None, item_type='comment', url=None, parent=25908084, text='&gt; It’s a bunch of autistic losers<p>Gross. How has this not been flagkilled for ableism yet?')
+Item(by='some_furry', descendants=None, kids=[25908599, 25908537, 25908521, 25908634], score=None, time=1611607079, title=None, item_type='comment', url=None, parent=25908084, text='&gt; It’s a bunch of autistic losers<p>Gross. How has this not been flagkilled for ableism yet?')

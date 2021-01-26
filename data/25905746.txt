@@ -1,1 +1,1 @@
-Item(by='dnautics', descendants=None, kids=None, score=None, time=1611594645, title=None, item_type='comment', url=None, parent=25901808, text='You can&#x27;t get an accurate community seroprevalence measure when your community is told to shelter in place.')
+Item(by='dnautics', descendants=None, kids=[25909851], score=None, time=1611594645, title=None, item_type='comment', url=None, parent=25901808, text='You can&#x27;t get an accurate community seroprevalence measure when your community is told to shelter in place.')

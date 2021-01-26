@@ -1,1 +1,1 @@
-Item(by='Kim_Bruning', descendants=None, kids=None, score=None, time=1611584416, title=None, item_type='comment', url=None, parent=25899618, text='Or ... is it that the restrictions are the thing keeping the hospitals from going over capacity?')
+Item(by='Kim_Bruning', descendants=None, kids=[25910295], score=None, time=1611584416, title=None, item_type='comment', url=None, parent=25899618, text='Or ... is it that the restrictions are the thing keeping the hospitals from going over capacity?')

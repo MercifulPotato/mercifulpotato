@@ -1,1 +1,1 @@
-Item(by='ihuman', descendants=None, kids=None, score=None, time=1611607482, title=None, item_type='comment', url=None, parent=25908403, text='They rip the subs too? I assumed they just ripped the raw video because of their name.')
+Item(by='ihuman', descendants=None, kids=[25909016], score=None, time=1611607482, title=None, item_type='comment', url=None, parent=25908403, text='They rip the subs too? I assumed they just ripped the raw video because of their name.')

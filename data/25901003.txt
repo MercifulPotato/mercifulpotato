@@ -1,1 +1,1 @@
-Item(by='godelski', descendants=None, kids=None, score=None, time=1611565019, title=None, item_type='comment', url=None, parent=25898806, text='&gt; It was popular when Microsoft bought hotmail<p>I&#x27;m sorry, but is Hotmail not a large centralized player?')
+Item(by='godelski', descendants=None, kids=[25909788], score=None, time=1611565019, title=None, item_type='comment', url=None, parent=25898806, text='&gt; It was popular when Microsoft bought hotmail<p>I&#x27;m sorry, but is Hotmail not a large centralized player?')

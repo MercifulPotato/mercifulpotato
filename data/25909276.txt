@@ -1,1 +1,1 @@
-Item(by='cambalache', descendants=None, kids=None, score=None, time=1611610783, title=None, item_type='comment', url=None, parent=25905899, text='I didnt like the book but YMMV. IMO it strikes the WRONG balance between length and content.')
+Item(by='cambalache', descendants=None, kids=[25909412, 25909415], score=None, time=1611610783, title=None, item_type='comment', url=None, parent=25905899, text='I didnt like the book but YMMV. IMO it strikes the WRONG balance between length and content.')

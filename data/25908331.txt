@@ -1,1 +1,1 @@
-Item(by='mlindner', descendants=None, kids=None, score=None, time=1611606439, title=None, item_type='comment', url=None, parent=25907317, text='SARS and MERS as well, which is notably more relevant. These don&#x27;t exist anymore.')
+Item(by='mlindner', descendants=None, kids=[25909998], score=None, time=1611606439, title=None, item_type='comment', url=None, parent=25907317, text='SARS and MERS as well, which is notably more relevant. These don&#x27;t exist anymore.')

@@ -1,1 +1,1 @@
-Item(by='micha-lmxt', descendants=1, kids=[25907406], score=5, time=1611600869, title='Why are React component libraries so complicated compared to Svelte?', item_type='story', url='https://gradientdescent.de/sharing-components/', parent=None, text=None)
+Item(by='micha-lmxt', descendants=3, kids=[25907406, 25908591], score=9, time=1611600869, title='Why are React component libraries so complicated compared to Svelte?', item_type='story', url='https://gradientdescent.de/sharing-components/', parent=None, text=None)

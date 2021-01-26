@@ -1,1 +1,1 @@
-Item(by='catilac', descendants=2, kids=[25907112, 25906998], score=3, time=1611600166, title='The Endless Browser Wars', item_type='story', url='https://lwn.net/SubscriberLink/843607/6c830d9c90684026/', parent=None, text=None)
+Item(by='catilac', descendants=2, kids=[25906998, 25907112], score=5, time=1611600166, title='The Endless Browser Wars', item_type='story', url='https://lwn.net/SubscriberLink/843607/6c830d9c90684026/', parent=None, text=None)

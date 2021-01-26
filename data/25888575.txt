@@ -1,1 +1,1 @@
-Item(by='fossuser', descendants=None, kids=None, score=None, time=1611456316, title=None, item_type='comment', url=None, parent=25887274, text='A Bay Area house that isn’t total trash is easily 3M on the peninsula.<p>Elsewhere, yeah - you’d be fine if you don’t spend stupidly.')
+Item(by='fossuser', descendants=None, kids=[25909718], score=None, time=1611456316, title=None, item_type='comment', url=None, parent=25887274, text='A Bay Area house that isn’t total trash is easily 3M on the peninsula.<p>Elsewhere, yeah - you’d be fine if you don’t spend stupidly.')

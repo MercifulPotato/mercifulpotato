@@ -1,1 +1,1 @@
-Item(by='kube-system', descendants=None, kids=[25904701], score=None, time=1611589845, title=None, item_type='comment', url=None, parent=25904515, text='I don&#x27;t await promises if I don&#x27;t <i>need</i> to.  Don&#x27;t think that&#x27;s a super unusual pattern.')
+Item(by='kube-system', descendants=None, kids=[25909916, 25904701], score=None, time=1611589845, title=None, item_type='comment', url=None, parent=25904515, text='I don&#x27;t await promises if I don&#x27;t <i>need</i> to.  Don&#x27;t think that&#x27;s a super unusual pattern.')

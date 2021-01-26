@@ -1,0 +1,1 @@
+Item(by='frabjoused', descendants=1, kids=[25910452], score=1, time=1611617405, title='Ask HN: Is your Git clone from GitHub taking forever?', item_type='story', url=None, parent=None, text='Nothing wrong on Github&#x27;s status page, however I&#x27;m the second co-worker to notice git clone taking forever despite our Internet connections being fine.')
