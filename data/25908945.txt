@@ -1,1 +1,1 @@
-Item(by='Katydid', descendants=2, kids=[25910980, 25909335], score=10, time=1611609063, title='SparseDNN: Fast Sparse Deep Learning Inference on CPUs (Stanford)', item_type='story', url='https://arxiv.org/abs/2101.07948', parent=None, text=None)
+Item(by='Katydid', descendants=2, kids=[25909335, 25910980], score=12, time=1611609063, title='SparseDNN: Fast Sparse Deep Learning Inference on CPUs (Stanford)', item_type='story', url='https://arxiv.org/abs/2101.07948', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='Belphemur', descendants=8, kids=[25905970, 25906331, 25906984, 25906170, 25906734], score=36, time=1611590261, title='Bitwarden Extension disabled due to new permissions', item_type='story', url='https://github.com/bitwarden/browser/issues/1548', parent=None, text=None)
+Item(by='Belphemur', descendants=9, kids=[25905970, 25906984, 25906734, 25906331, 25906170], score=39, time=1611590261, title='Bitwarden Extension disabled due to new permissions', item_type='story', url='https://github.com/bitwarden/browser/issues/1548', parent=None, text=None)

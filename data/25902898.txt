@@ -1,1 +1,1 @@
-Item(by='lelf', descendants=0, kids=None, score=5, time=1611581512, title='The road ahead for MirageOS in 2021', item_type='story', url='https://hannes.robur.coop/Posts/NGI', parent=None, text=None)
+Item(by='lelf', descendants=7, kids=[25913235, 25913122, 25913221, 25913167, 25913126], score=35, time=1611581512, title='The road ahead for MirageOS in 2021', item_type='story', url='https://hannes.robur.coop/Posts/NGI', parent=None, text=None)

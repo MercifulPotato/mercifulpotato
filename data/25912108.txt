@@ -1,0 +1,1 @@
+Item(by='josephcsible', descendants=None, kids=[25912731, 25912997], score=None, time=1611631457, title=None, item_type='comment', url=None, parent=25911133, text='You need CMake installed on your system to do &quot;cmake ..&quot;. You don&#x27;t need autotools installed on your system to do &quot;.&#x2F;configure&quot;.')

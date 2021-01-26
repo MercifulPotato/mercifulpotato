@@ -1,1 +1,1 @@
-Item(by='tommyzli', descendants=None, kids=None, score=None, time=1611625724, title=None, item_type='comment', url=None, parent=25911303, text='Nope.')
+Item(by='tommyzli', descendants=None, kids=[25911776], score=None, time=1611625724, title=None, item_type='comment', url=None, parent=25911303, text='Nope.')

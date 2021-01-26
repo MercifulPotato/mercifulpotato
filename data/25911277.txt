@@ -1,1 +1,1 @@
-Item(by='mandeepj', descendants=0, kids=None, score=2, time=1611624299, title='Microsoft is mocking now doomed Apple Touch Bar', item_type='story', url='https://www.theverge.com/2021/1/25/22248238/microsoft-apple-macbook-touch-bar-surface-ad-nfl', parent=None, text=None)
+Item(by='mandeepj', descendants=3, kids=[25911489, 25911496], score=4, time=1611624299, title='Microsoft is mocking now doomed Apple Touch Bar', item_type='story', url='https://www.theverge.com/2021/1/25/22248238/microsoft-apple-macbook-touch-bar-surface-ad-nfl', parent=None, text=None)

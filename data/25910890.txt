@@ -1,1 +1,1 @@
-Item(by='monocasa', descendants=None, kids=None, score=None, time=1611621049, title=None, item_type='comment', url=None, parent=25910194, text='I think the design goal was to never have a decryptable set of the parameters stored with the device.')
+Item(by='monocasa', descendants=None, kids=[25912744], score=None, time=1611621049, title=None, item_type='comment', url=None, parent=25910194, text='I think the design goal was to never have a decryptable set of the parameters stored with the device.')

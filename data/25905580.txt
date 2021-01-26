@@ -1,1 +1,1 @@
-Item(by='petre', descendants=None, kids=None, score=None, time=1611593997, title=None, item_type='comment', url=None, parent=25904397, text='At least one can flash LineageOS on Google&#x27;s phones. With Apple you&#x27;re dead in the water.')
+Item(by='petre', descendants=None, kids=[25913105], score=None, time=1611593997, title=None, item_type='comment', url=None, parent=25904397, text='At least one can flash LineageOS on Google&#x27;s phones. With Apple you&#x27;re dead in the water.')

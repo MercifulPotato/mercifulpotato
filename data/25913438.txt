@@ -1,0 +1,1 @@
+Item(by='22c', descendants=None, kids=None, score=None, time=1611646481, title=None, item_type='comment', url=None, parent=25913408, text='I believe Watefox and Tor Browser both have this functionality removed from the Firefox codebase.<p>I am not sure about Pale Moon or Basilisk, but I suspect they may also have less telemetry.')

@@ -1,0 +1,1 @@
+Item(by='eecc', descendants=None, kids=[25913447], score=None, time=1611645645, title=None, item_type='comment', url=None, parent=25913310, text='Can’t they the API address, make it configurable or extract the implementation to support git repo format? It would be insanely useful if both chromium and Firefox supported the same backends.')

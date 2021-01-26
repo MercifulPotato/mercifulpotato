@@ -1,1 +1,1 @@
-Item(by='simonebrunozzi', descendants=0, kids=None, score=3, time=1611621163, title='How to create your own country', item_type='story', url='https://www.bjornmoren.com/How-to-create-your-own-country.html', parent=None, text=None)
+Item(by='simonebrunozzi', descendants=2, kids=[25913201, 25912753], score=20, time=1611621163, title='How to create your own country', item_type='story', url='https://www.bjornmoren.com/How-to-create-your-own-country.html', parent=None, text=None)

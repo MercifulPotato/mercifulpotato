@@ -1,0 +1,1 @@
+Item(by='souprock', descendants=None, kids=None, score=None, time=1611642561, title=None, item_type='comment', url=None, parent=25911710, text='I too have been paid to write DSP code, and autotools would not have helped. You can&#x27;t run m4, perl, sh, or make on the DSP. Cross-compiling with autotools is far more difficult than cross-compiling with a simple little Makefile.')
