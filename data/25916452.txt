@@ -1,0 +1,1 @@
+Item(by='lrem', descendants=None, kids=None, score=None, time=1611673229, title=None, item_type='comment', url=None, parent=25915971, text='For personal projects, I start with SQLite by default. Never came close to its scalability limit too ;)')

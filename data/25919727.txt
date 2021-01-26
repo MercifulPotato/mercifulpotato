@@ -1,0 +1,1 @@
+Item(by='john_cogs', descendants=None, kids=None, score=None, time=1611687320, title=None, item_type='comment', url=None, parent=25919572, text='Hi! GitLab Team Member here. Our Premium tier comes with 10,000 minutes per organization per month.  You can also buy additional minutes or use your own infrastructure as runners (which would be at no charge from GitLab).')

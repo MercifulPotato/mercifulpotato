@@ -1,1 +1,1 @@
-Item(by='sirwally', descendants=None, kids=None, score=None, time=1611634826, title=None, item_type='comment', url=None, parent=25912466, text='you should quit your job anyhow')
+Item(by='sirwally', descendants=None, kids=[25917411], score=None, time=1611634826, title=None, item_type='comment', url=None, parent=25912466, text='you should quit your job anyhow')

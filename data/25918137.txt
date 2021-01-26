@@ -1,0 +1,1 @@
+Item(by='ghaff', descendants=None, kids=None, score=None, time=1611680174, title=None, item_type='comment', url=None, parent=25917833, text='Currently, Fedora is mostly used to rebase (only) major RHEL releases. I read the statement as a desire to flow Fedora innovations into RHEL via CentOS Stream more incrementally.')

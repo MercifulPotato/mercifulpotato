@@ -1,0 +1,1 @@
+Item(by='avolcano', descendants=None, kids=None, score=None, time=1611678791, title=None, item_type='comment', url=None, parent=25917708, text='Ah, thanks, I hadn&#x27;t realized that&#x27;s the underlying library! Runtime validation of types is absolutely the largest missing feature from TypeScript, IMO, so Pydantic is really impressive to me.')

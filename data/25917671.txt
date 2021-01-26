@@ -1,0 +1,1 @@
+Item(by='david422', descendants=None, kids=None, score=None, time=1611678444, title=None, item_type='comment', url=None, parent=25917625, text='The type checker may as well be one big automated unit test.<p>For all the time a developer spends not writing out types, it then has to be made up in manually written unit tests.')

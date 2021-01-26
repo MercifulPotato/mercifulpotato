@@ -1,1 +1,1 @@
-Item(by='app4soft', descendants=6, kids=[25914800, 25915314, 25915402, 25915518], score=28, time=1611660733, title='Merkaartor – a Qt-based OpenStreetMap editor', item_type='story', url='https://github.com/openstreetmap/merkaartor', parent=None, text=None)
+Item(by='app4soft', descendants=16, kids=[25916384, 25914800, 25915314, 25915518, 25916291, 25915402], score=101, time=1611660733, title='Merkaartor – a Qt-based OpenStreetMap editor', item_type='story', url='https://github.com/openstreetmap/merkaartor', parent=None, text=None)

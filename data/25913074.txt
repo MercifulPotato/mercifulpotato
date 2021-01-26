@@ -1,1 +1,1 @@
-Item(by='fastball', descendants=None, kids=None, score=None, time=1611641260, title=None, item_type='comment', url=None, parent=25912982, text='Are they not launching Falcon 9s with customer payloads and charging more than it costs?')
+Item(by='fastball', descendants=None, kids=[25916374], score=None, time=1611641260, title=None, item_type='comment', url=None, parent=25912982, text='Are they not launching Falcon 9s with customer payloads and charging more than it costs?')

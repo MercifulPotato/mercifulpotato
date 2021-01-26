@@ -1,1 +1,1 @@
-Item(by='908B64B197', descendants=None, kids=None, score=None, time=1611669116, title=None, item_type='comment', url=None, parent=25915686, text='That&#x27;s an opinion customers of the CSeries don&#x27;t seem to share, judging by the orders for the plane.<p>Care to elaborate?')
+Item(by='908B64B197', descendants=None, kids=[25917591], score=None, time=1611669116, title=None, item_type='comment', url=None, parent=25915686, text='That&#x27;s an opinion customers of the CSeries don&#x27;t seem to share, judging by the orders for the plane.<p>Care to elaborate?')

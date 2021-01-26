@@ -1,0 +1,1 @@
+Item(by='brandmeyer', descendants=None, kids=None, score=None, time=1611682383, title=None, item_type='comment', url=None, parent=25917818, text='And then <i>just one</i> query comes along where you need to make an update that should be globally visible, and not just visible to the shard.<p>I can see why you would stick with full Postgres for as long as practicable.')

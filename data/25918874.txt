@@ -1,0 +1,1 @@
+Item(by='varenc', descendants=None, kids=[25919660, 25919312], score=None, time=1611683188, title=None, item_type='comment', url=None, parent=25918757, text='I just have my network block outgoing DNS queries that aren’t from the gateway.  But you’re so right that DoH is going to throw a wrench in this.')

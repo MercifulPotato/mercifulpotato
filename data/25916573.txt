@@ -1,0 +1,1 @@
+Item(by='ocdtrekkie', descendants=None, kids=None, score=None, time=1611673863, title=None, item_type='comment', url=None, parent=25910491, text='Unencrypted DNS can be redirected or inspected and selectively blocked. DoH cannot, and whereas you can selectively tamper with DNS requests to remove advertisers, devices may fail to work at all if you block their DoH provider.')

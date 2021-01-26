@@ -1,1 +1,1 @@
-Item(by='f00zz', descendants=None, kids=None, score=None, time=1611669950, title=None, item_type='comment', url=None, parent=25914007, text='I tried to watch some of it, but the way the characters invent basically <i>everything</i> years before they actually happened and still manage to fail horribly was a bit grating. Also I didn&#x27;t care about any of the characters.')
+Item(by=None, descendants=None, kids=None, score=None, time=1611669950, title=None, item_type='comment', url=None, parent=25914007, text=None)

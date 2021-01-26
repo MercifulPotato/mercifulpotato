@@ -1,0 +1,1 @@
+Item(by='high_density', descendants=None, kids=None, score=None, time=1611677810, title=None, item_type='comment', url=None, parent=25917365, text='read mypy docs, but use google&#x27;s pytype...<p>pylance is much stricter, but it seems to have a lot of false-(+)s<p>from what I&#x27;ve used, the implementation varies wildly...')

@@ -1,0 +1,1 @@
+Item(by='SPBS', descendants=None, kids=[25918707], score=None, time=1611679001, title=None, item_type='comment', url=None, parent=25915023, text='If you are going to allocate sharded databases per client with identical schemas, might as well give each of them an sqlite database? Since you&#x27;re massively cutting down the writes if it&#x27;s one database per customer.')

@@ -1,0 +1,1 @@
+Item(by='cptskippy', descendants=None, kids=None, score=None, time=1611682369, title=None, item_type='comment', url=None, parent=25918399, text='Pi-Hole is a DNS solution so it&#x27;s just blocking DNS lookups.  Mine is currently blocking 43.9% of all DNS requests.')

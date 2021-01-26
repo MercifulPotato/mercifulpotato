@@ -1,1 +1,1 @@
-Item(by='ibraheemdev', descendants=11, kids=[25913375, 25906402, 25904042, 25907233], score=26, time=1611585294, title='LALRPOP, an LR(1) parser generator for Rust', item_type='story', url='https://github.com/lalrpop/lalrpop', parent=None, text=None)
+Item(by='ibraheemdev', descendants=11, kids=[25913375, 25904042, 25906402, 25907233], score=26, time=1611585294, title='LALRPOP, an LR(1) parser generator for Rust', item_type='story', url='https://github.com/lalrpop/lalrpop', parent=None, text=None)

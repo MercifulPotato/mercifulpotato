@@ -1,0 +1,1 @@
+Item(by='bithavoc', descendants=None, kids=[25919932], score=None, time=1611688036, title=None, item_type='comment', url=None, parent=25917403, text='Is there a guide to set it up behind a reverse proxy with https? I have it running with Nginx but it won&#x27;t load, it insist in using &#x2F;8001&#x2F;api. How do I change the API endpoint?')

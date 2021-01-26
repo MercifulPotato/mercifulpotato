@@ -1,1 +1,1 @@
-Item(by='samizdis', descendants=0, kids=None, score=3, time=1611668636, title='Timing matters when correcting fake news', item_type='story', url='https://www.pnas.org/content/118/5/e2020043118', parent=None, text=None)
+Item(by='samizdis', descendants=13, kids=[25916734, 25916358, 25917264, 25916255, 25916233, 25916567], score=20, time=1611668636, title='Timing matters when correcting fake news', item_type='story', url='https://www.pnas.org/content/118/5/e2020043118', parent=None, text=None)

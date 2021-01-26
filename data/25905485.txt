@@ -1,1 +1,1 @@
-Item(by='crtasm', descendants=None, kids=None, score=None, time=1611593681, title=None, item_type='comment', url=None, parent=25894676, text='Bricklink is part of the Lego group since they got acquired in 2019.')
+Item(by='crtasm', descendants=None, kids=[25916218], score=None, time=1611593681, title=None, item_type='comment', url=None, parent=25894676, text='Bricklink is part of the Lego group since they got acquired in 2019.')

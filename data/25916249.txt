@@ -1,1 +1,1 @@
-Item(by='turminal', descendants=None, kids=None, score=None, time=1611672244, title=None, item_type='comment', url=None, parent=25915934, text='You mean, if there were other successful companies other than RedHat, the ecosystem would be more diverse?')
+Item(by='turminal', descendants=None, kids=[25916397], score=None, time=1611672244, title=None, item_type='comment', url=None, parent=25915934, text='You mean, if there were other successful companies other than RedHat, the ecosystem would be more diverse?')

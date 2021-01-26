@@ -1,0 +1,1 @@
+Item(by='kevingadd', descendants=None, kids=None, score=None, time=1611676630, title=None, item_type='comment', url=None, parent=25916751, text='Preload was pretty broken in Chrome for quite a while (I&#x27;m still not sure whether they fixed the issues, actually) so it&#x27;s possible there wasn&#x27;t ever much pressure to implement it')

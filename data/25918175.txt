@@ -1,0 +1,1 @@
+Item(by='smlckz', descendants=None, kids=[25920298, 25918853], score=None, time=1611680314, title=None, item_type='comment', url=None, parent=25918037, text='There is Hindley-Milner type inference. Don&#x27;t need to type types in most cases. See, for example, OCaml.')

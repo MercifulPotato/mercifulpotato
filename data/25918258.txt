@@ -1,0 +1,1 @@
+Item(by='cj', descendants=None, kids=None, score=None, time=1611680675, title=None, item_type='comment', url=None, parent=25917958, text='My solution to this is using Cloudflare Warp (Cloudflare&#x27;s consumer-facing VPN).<p>When I need to access ads.google.com or analytics.google.com for my company, I turn on Cloudflare, and pihole is bypassed.')

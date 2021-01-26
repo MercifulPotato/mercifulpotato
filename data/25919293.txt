@@ -1,0 +1,1 @@
+Item(by='throwaway894345', descendants=None, kids=None, score=None, time=1611685000, title=None, item_type='comment', url=None, parent=25918481, text='In fairness I find (1) to even less readable than the existing Callable syntax, but yeah, it would be cool if Python could express callables with kwargs and recursive types.')

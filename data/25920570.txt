@@ -1,0 +1,1 @@
+Item(by='llampx', descendants=None, kids=None, score=None, time=1611692373, title=None, item_type='comment', url=None, parent=25918142, text='ETL and ELT are similar but separate things. ELT has been popular for a few years now, and the data lake approach as well as cheap storage has solidified it as the current preferred way to do a data warehouse.')

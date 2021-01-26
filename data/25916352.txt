@@ -1,1 +1,1 @@
-Item(by='silon42', descendants=None, kids=None, score=None, time=1611672822, title=None, item_type='comment', url=None, parent=25916222, text='Is it easy to disable it? Personally I would not want any unpredictable behavior from query planner anyway, especially at scale.')
+Item(by='silon42', descendants=None, kids=[25917350], score=None, time=1611672822, title=None, item_type='comment', url=None, parent=25916222, text='Is it easy to disable it? Personally I would not want any unpredictable behavior from query planner anyway, especially at scale.')

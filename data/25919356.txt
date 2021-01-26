@@ -1,0 +1,1 @@
+Item(by='dawnerd', descendants=None, kids=None, score=None, time=1611685362, title=None, item_type='comment', url=None, parent=25918676, text='To expand on adguard, you can self host their dns blocker via docker. It works really well and IMO a much nicer experience than trying to get pihole perfect.')

@@ -1,0 +1,1 @@
+Item(by='Existenceblinks', descendants=None, kids=None, score=None, time=1611681024, title=None, item_type='comment', url=None, parent=25912977, text='High level language should have worry-free memory management or memory safety built-in. Javascript does not have this characteristic. If we ever have to removeEventListener anywhere, it&#x27;s worrisome in general.')

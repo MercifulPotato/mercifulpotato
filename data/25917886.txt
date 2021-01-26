@@ -1,0 +1,1 @@
+Item(by='nixpulvis', descendants=None, kids=[25918121], score=None, time=1611679268, title=None, item_type='comment', url=None, parent=25917561, text='This is akin to the whole class of CPU vulnerabilities we&#x27;ve seen (Spectre&#x2F;Meltdown&#x2F;CacheOut&#x2F;...) where performance optimizations are at odds with security.')

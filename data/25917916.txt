@@ -1,0 +1,1 @@
+Item(by='pas', descendants=None, kids=[25918545], score=None, time=1611679385, title=None, item_type='comment', url=None, parent=25916926, text='1.0 was released in 2015. There are stable LTS vendors for it.<p>It&#x27;s pretty established. And much saner than cobbling together Ansible&#x2F;Puppet&#x2F;Chef playbooks for everything.')

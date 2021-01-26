@@ -1,0 +1,1 @@
+Item(by='ptype', descendants=3, kids=[25919600, 25919428, 25919475], score=21, time=1611684741, title='Heap-based buffer overflow in Sudo (CVE-2021-3156)', item_type='story', url='https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt', parent=None, text=None)

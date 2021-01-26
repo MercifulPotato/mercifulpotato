@@ -1,0 +1,1 @@
+Item(by='anticristi', descendants=None, kids=[25918721], score=None, time=1611681657, title=None, item_type='comment', url=None, parent=25918228, text='A database of names and addresses does not tell you who in that list is a minority. You can&#x27;t do:<p><pre><code>    SELECT address AS to_harm WHERE sexual_orientation IN (&#x27;unusual&#x27;);</code></pre>')

@@ -1,0 +1,1 @@
+Item(by='floatboth', descendants=None, kids=None, score=None, time=1611684476, title=None, item_type='comment', url=None, parent=25918464, text='With some forms of caching it&#x27;s much simpler: the browser sends an ETag or If-Modified-Since and the server is supposed to return 304 Not Modified to optimize the load if the cached resource is still valid.')

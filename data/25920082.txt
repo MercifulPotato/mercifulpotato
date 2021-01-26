@@ -1,0 +1,1 @@
+Item(by='rpadovani', descendants=None, kids=None, score=None, time=1611689400, title=None, item_type='comment', url=None, parent=25919729, text='It definitely is. On AWS, you can run it on spot instances with autoscaling. Including also networking price, it is an order of magnitude cheaper.')

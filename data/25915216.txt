@@ -1,1 +1,1 @@
-Item(by='asicsp', descendants=0, kids=None, score=2, time=1611665419, title="Extracting the List of O'Reilly Animals", item_type='story', url='https://www.perl.com/article/extracting-the-list-of-o-reilly-animals/', parent=None, text=None)
+Item(by='asicsp', descendants=19, kids=[25918839, 25920396, 25916368, 25917596, 25917893, 25918527, 25919376, 25918326, 25917144], score=71, time=1611665419, title="Extracting the list of O'Reilly Animals", item_type='story', url='https://www.perl.com/article/extracting-the-list-of-o-reilly-animals/', parent=None, text=None)

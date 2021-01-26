@@ -1,0 +1,1 @@
+Item(by='amelius', descendants=None, kids=None, score=None, time=1611676511, title=None, item_type='comment', url=None, parent=25913874, text='I&#x27;d like to see anomaly detection as a standard part of (image) classification libraries, as it&#x27;s incredibly useful to know if a given image is &quot;too far&quot; outside of your trained dataset to be accurately classified.')
