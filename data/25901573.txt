@@ -1,1 +1,1 @@
-Item(by='virattara', descendants=None, kids=None, score=None, time=1611569939, title=None, item_type='comment', url=None, parent=25901360, text='Does Savitch&#x27;s theorem apply here? If yes then you can have a strict bound in section 7.1.')
+Item(by='virattara', descendants=None, kids=[25915606], score=None, time=1611569939, title=None, item_type='comment', url=None, parent=25901360, text='Does Savitch&#x27;s theorem apply here? If yes then you can have a strict bound in section 7.1.')

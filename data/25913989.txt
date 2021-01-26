@@ -1,0 +1,1 @@
+Item(by='cies', descendants=None, kids=None, score=None, time=1611653855, title=None, item_type='comment', url=None, parent=25908096, text='We also make a release branch (releases&#x2F;x.y.z), tag a release candidate in it (x.y.z-RCn), build it, deploy it, wait for a bit (canary stage?), it we did not want to rollback: then merge it into master.')

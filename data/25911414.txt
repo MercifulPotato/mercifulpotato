@@ -1,1 +1,1 @@
-Item(by='vmchale', descendants=None, kids=None, score=None, time=1611625433, title=None, item_type='comment', url=None, parent=25910842, text='meson has the problem of being written in Python and thus even an end-user has to endure Python library distribution.')
+Item(by='vmchale', descendants=None, kids=[25915573], score=None, time=1611625433, title=None, item_type='comment', url=None, parent=25910842, text='meson has the problem of being written in Python and thus even an end-user has to endure Python library distribution.')

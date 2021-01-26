@@ -1,1 +1,1 @@
-Item(by='s0rce', descendants=None, kids=None, score=None, time=1611598506, title=None, item_type='comment', url=None, parent=25895490, text='Salton sea area is very dusty, one of the worst on the continent.')
+Item(by='s0rce', descendants=None, kids=[25913707], score=None, time=1611598506, title=None, item_type='comment', url=None, parent=25895490, text='Salton sea area is very dusty, one of the worst on the continent.')

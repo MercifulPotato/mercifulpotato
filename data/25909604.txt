@@ -1,1 +1,1 @@
-Item(by='b0rsuk', descendants=None, kids=None, score=None, time=1611612487, title=None, item_type='comment', url=None, parent=25908632, text='I trust the investigative journalist Tomasz Piątek, educated at Milan University, with awards and boks more than a rando in a HN comment.')
+Item(by='b0rsuk', descendants=None, kids=[25915597], score=None, time=1611612487, title=None, item_type='comment', url=None, parent=25908632, text='I trust the investigative journalist Tomasz Piątek, educated at Milan University, with awards and boks more than a rando in a HN comment.')

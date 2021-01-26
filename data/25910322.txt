@@ -1,1 +1,1 @@
-Item(by='foolmeonce', descendants=None, kids=[25910986], score=None, time=1611616862, title=None, item_type='comment', url=None, parent=25909814, text='I think hetzner is about half an expensive (€8 tb&#x2F;m) and I personally prefer ssh&#x2F;rsync to http&#x2F;S3.')
+Item(by='foolmeonce', descendants=None, kids=[25912661, 25910986], score=None, time=1611616862, title=None, item_type='comment', url=None, parent=25909814, text='I think hetzner is about half an expensive (€8 tb&#x2F;m) and I personally prefer ssh&#x2F;rsync to http&#x2F;S3.')

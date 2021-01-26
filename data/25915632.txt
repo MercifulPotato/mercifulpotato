@@ -1,0 +1,1 @@
+Item(by='paulryanrogers', descendants=None, kids=None, score=None, time=1611668459, title=None, item_type='comment', url=None, parent=25912963, text='Even with prioritized IOPS I once had to resort to RAID0 and replicas to get needed performance under budget on EBS. Probably should have just bumped instance size and used local storage.')

@@ -1,0 +1,1 @@
+Item(by='llarsson', descendants=None, kids=None, score=None, time=1611653182, title=None, item_type='comment', url=None, parent=25913711, text='Rook (with Ceph underneath) is great for when you need Persistent Volume support on a cloud that does not have a block storage service (like EBS) or if you&#x27;re deploying on bare metal servers.')

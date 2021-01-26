@@ -1,1 +1,1 @@
-Item(by='anothernewdude', descendants=None, kids=None, score=None, time=1611645653, title=None, item_type='comment', url=None, parent=25906983, text='Only 207 million? I thought there was at least a brazillian.')
+Item(by='anothernewdude', descendants=None, kids=[25913850], score=None, time=1611645653, title=None, item_type='comment', url=None, parent=25906983, text='Only 207 million? I thought there was at least a brazillian.')

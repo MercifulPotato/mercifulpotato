@@ -1,1 +1,1 @@
-Item(by='MitPitt', descendants=0, kids=None, score=11, time=1611634848, title='Because Reading Is Fundamental', item_type='story', url='https://blog.codinghorror.com/because-reading-is-fundamental-2/', parent=None, text=None)
+Item(by='MitPitt', descendants=1, kids=[25913566], score=11, time=1611634848, title='Because Reading Is Fundamental', item_type='story', url='https://blog.codinghorror.com/because-reading-is-fundamental-2/', parent=None, text=None)

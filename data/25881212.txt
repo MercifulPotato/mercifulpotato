@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=7, kids=[25909765], score=129, time=1611397255, title='Command Path Security in Go', item_type='story', url='https://blog.golang.org/path-security', parent=None, text=None)
+Item(by='pjmlp', descendants=12, kids=[25909765, 25914029], score=136, time=1611397255, title='Command Path Security in Go', item_type='story', url='https://blog.golang.org/path-security', parent=None, text=None)

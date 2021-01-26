@@ -1,0 +1,1 @@
+Item(by='jononor', descendants=None, kids=None, score=None, time=1611659559, title=None, item_type='comment', url=None, parent=25913562, text='And what if your program needs a version of libpng above a certain version? And maybe below another one?\nThat can give compile errors that are quite alot harder to grok.')

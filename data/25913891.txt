@@ -1,0 +1,1 @@
+Item(by='m463', descendants=None, kids=[25916001], score=None, time=1611652733, title=None, item_type='comment', url=None, parent=25910847, text='Which linux x86&#x2F;amd64?<p>Do you mean the linux that puts libraries in<p><pre><code>  &#x2F;usr&#x2F;lib&#x2F;x86_64-linux-gnu\n</code></pre>\nor the one that puts them in<p><pre><code>   &#x2F;usr&#x2F;lib64\n\n?</code></pre>')

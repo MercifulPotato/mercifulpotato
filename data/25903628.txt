@@ -1,1 +1,1 @@
-Item(by='the-dude', descendants=None, kids=None, score=None, time=1611585802, title=None, item_type='comment', url=None, parent=25902757, text='No, only if the US allows it. ASML has no say in the actual export restrictions.<p>And when the US asks NL to jump, we ask <i>how high?</i>')
+Item(by='the-dude', descendants=None, kids=[25915174], score=None, time=1611585802, title=None, item_type='comment', url=None, parent=25902757, text='No, only if the US allows it. ASML has no say in the actual export restrictions.<p>And when the US asks NL to jump, we ask <i>how high?</i>')

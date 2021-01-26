@@ -1,1 +1,1 @@
-Item(by='pmiller2', descendants=None, kids=None, score=None, time=1611646469, title=None, item_type='comment', url=None, parent=25913127, text='Non-spoiler alert: you might just have to grit your teeth and hang on through the first few seconds, where the armadillo gets run over.')
+Item(by='pmiller2', descendants=None, kids=[25914623], score=None, time=1611646469, title=None, item_type='comment', url=None, parent=25913127, text='Non-spoiler alert: you might just have to grit your teeth and hang on through the first few seconds, where the armadillo gets run over.')

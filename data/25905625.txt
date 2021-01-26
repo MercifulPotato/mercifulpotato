@@ -1,1 +1,1 @@
-Item(by='susam', descendants=1, kids=[25909425], score=14, time=1611594124, title='Minimal TOTP generator in 20 lines of Python', item_type='story', url='https://github.com/susam/mintotp', parent=None, text=None)
+Item(by='susam', descendants=1, kids=[25909425], score=16, time=1611594124, title='Minimal TOTP generator in 20 lines of Python', item_type='story', url='https://github.com/susam/mintotp', parent=None, text=None)

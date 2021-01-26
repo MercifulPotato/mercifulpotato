@@ -1,1 +1,1 @@
-Item(by='ThomPete', descendants=None, kids=None, score=None, time=1611625112, title=None, item_type='comment', url=None, parent=25904557, text='I was talking about the deductions for positive externalities of fossile fuel.')
+Item(by='ThomPete', descendants=None, kids=[25915417], score=None, time=1611625112, title=None, item_type='comment', url=None, parent=25904557, text='I was talking about the deductions for positive externalities of fossile fuel.')

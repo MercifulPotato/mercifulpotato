@@ -1,0 +1,1 @@
+Item(by='contravariant', descendants=None, kids=[25914809], score=None, time=1611659810, title=None, item_type='comment', url=None, parent=25914112, text='Seems like an excellent example that preventing a single point of failure means nothing if your system doesn&#x27;t have the extra capacity to handle a single failure.')
