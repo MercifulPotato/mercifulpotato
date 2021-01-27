@@ -1,1 +1,1 @@
-Item(by='prh8', descendants=None, kids=None, score=None, time=1611674327, title=None, item_type='comment', url=None, parent=25915149, text='Same here but I might try again')
+Item(by='prh8', descendants=None, kids=[25922620], score=None, time=1611674327, title=None, item_type='comment', url=None, parent=25915149, text='Same here but I might try again')

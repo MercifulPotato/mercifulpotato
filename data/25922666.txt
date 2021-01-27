@@ -1,0 +1,1 @@
+Item(by='gpm', descendants=None, kids=[25922743], score=None, time=1611706737, title=None, item_type='comment', url=None, parent=25922342, text='Aborting when argv[0] doesn&#x27;t exist... is a perfectly reasonable thing to do? Someone called the program with arguments severely out of spec, crashing is fine.')

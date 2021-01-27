@@ -1,1 +1,1 @@
-Item(by='awefasdfasdf', descendants=None, kids=None, score=None, time=1611678125, title=None, item_type='comment', url=None, parent=25917563, text='They seem to respect their inflated salaries.')
+Item(by='awefasdfasdf', descendants=None, kids=[25920932], score=None, time=1611678125, title=None, item_type='comment', url=None, parent=25917563, text='They seem to respect their inflated salaries.')

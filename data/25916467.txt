@@ -1,1 +1,1 @@
-Item(by='dharmab', descendants=None, kids=None, score=None, time=1611673334, title=None, item_type='comment', url=None, parent=25913273, text='You don’t need the entire dataset to be addressable. Just a working set. How do you think we played 20GB video games on our Pentium 4s?')
+Item(by='dharmab', descendants=None, kids=[25921057], score=None, time=1611673334, title=None, item_type='comment', url=None, parent=25913273, text='You don’t need the entire dataset to be addressable. Just a working set. How do you think we played 20GB video games on our Pentium 4s?')

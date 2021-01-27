@@ -1,0 +1,1 @@
+Item(by='keyle', descendants=None, kids=[25923291], score=None, time=1611711647, title=None, item_type='comment', url=None, parent=25902827, text='Is that just the same as<p><pre><code>    ws.Add(1)\n    [...]\n    wg.Done() \n</code></pre>\nin Go?')

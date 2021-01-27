@@ -1,1 +1,1 @@
-Item(by='afavour', descendants=None, kids=None, score=None, time=1611690302, title=None, item_type='comment', url=None, parent=25920146, text='Jellyfin is an open source fork of Emby, they went closed source a while ago.')
+Item(by='afavour', descendants=None, kids=[25920522], score=None, time=1611690302, title=None, item_type='comment', url=None, parent=25920146, text='Jellyfin is an open source fork of Emby, they went closed source a while ago.<p>When I tested it the Jellyfin server worked great. But the client apps were terrible in comparison to Plex.')

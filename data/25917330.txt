@@ -1,1 +1,1 @@
-Item(by='jsjsbdkj', descendants=None, kids=None, score=None, time=1611676966, title=None, item_type='comment', url=None, parent=25917243, text='wow that&#x27;s a terrible acronym.')
+Item(by='jsjsbdkj', descendants=None, kids=[25922511], score=None, time=1611676966, title=None, item_type='comment', url=None, parent=25917243, text='wow that&#x27;s a terrible acronym.')

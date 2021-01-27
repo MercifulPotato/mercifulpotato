@@ -1,1 +1,1 @@
-Item(by='IvanK_net', descendants=None, kids=None, score=None, time=1611674919, title=None, item_type='comment', url=None, parent=25916611, text='I think a PWA mode is useful in all cases on all devices. But most of users use my program on desktops.')
+Item(by='IvanK_net', descendants=None, kids=[25921074], score=None, time=1611674919, title=None, item_type='comment', url=None, parent=25916611, text='I think a PWA mode is useful in all cases on all devices. But most of users use my program on desktops.')

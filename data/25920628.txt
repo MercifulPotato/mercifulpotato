@@ -1,1 +1,1 @@
-Item(by='ryan_j_naughton', descendants=None, kids=None, score=None, time=1611692753, title=None, item_type='comment', url=None, parent=25920433, text='Comcast &quot;gigabit&quot; is a lie.<p>I reliably get 900mb down and 900mb up with Verizon in DC.')
+Item(by='ryan_j_naughton', descendants=None, kids=[25920912], score=None, time=1611692753, title=None, item_type='comment', url=None, parent=25920433, text='Comcast &quot;gigabit&quot; is a lie.<p>I reliably get 900mb down and 900mb up with Verizon in DC.')

@@ -1,0 +1,1 @@
+Item(by='fennecfoxen', descendants=None, kids=None, score=None, time=1611712205, title=None, item_type='comment', url=None, parent=25918116, text='If your callback uses kwargs, you define a Protocol that describes __call__ with typed kwargs, and use that as the type. Yes, it’s clunky, but it’s possible to do.')

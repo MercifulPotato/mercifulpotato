@@ -1,1 +1,1 @@
-Item(by='dak1', descendants=49, kids=[25919823, 25919773, 25918079, 25920507, 25920297, 25920241, 25919442, 25918092, 25919342, 25919462], score=178, time=1611679662, title='FiOS service disruption in Northeast US', item_type='story', url='https://istheservicedown.com/problems/verizon-fios/map', parent=None, text=None)
+Item(by='dak1', descendants=8, kids=[25921725, 25918079], score=202, time=1611679662, title='FiOS service disruption in Northeast US', item_type='story', url='https://istheservicedown.com/problems/verizon-fios/map', parent=None, text=None)

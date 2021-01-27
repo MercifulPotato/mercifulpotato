@@ -1,0 +1,1 @@
+Item(by='tyldum', descendants=None, kids=None, score=None, time=1611698532, title=None, item_type='comment', url=None, parent=25919452, text='Another gotcha would be UDP based services. Since it is packet oriented and not connection oriented, when should it re-resolve? Most will not until the application is restarted.')

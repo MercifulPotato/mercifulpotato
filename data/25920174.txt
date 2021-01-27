@@ -1,1 +1,1 @@
-Item(by='Jonnax', descendants=None, kids=None, score=None, time=1611689930, title=None, item_type='comment', url=None, parent=25919554, text='I&#x27;m under the impression that GitHub Enterprise&#x27;s on prem ci&#x2F;cd pipelines isnt available yet')
+Item(by='Jonnax', descendants=None, kids=[25920908], score=None, time=1611689930, title=None, item_type='comment', url=None, parent=25919554, text='I&#x27;m under the impression that GitHub Enterprise&#x27;s on prem ci&#x2F;cd pipelines isnt available yet')

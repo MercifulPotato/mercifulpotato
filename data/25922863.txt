@@ -1,0 +1,1 @@
+Item(by='asveikau', descendants=None, kids=None, score=None, time=1611708329, title=None, item_type='comment', url=None, parent=25922251, text='Assuming js can retrieve pixel data, you could have the server generate unique images and use the rgb values as a unique ID. The unique image would be cached.')

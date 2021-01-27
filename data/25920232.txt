@@ -1,1 +1,1 @@
-Item(by='ppod', descendants=None, kids=None, score=None, time=1611690263, title=None, item_type='comment', url=None, parent=25918158, text='As diagrams? I couldn&#x27;t find anything, who used them then?')
+Item(by='ppod', descendants=None, kids=[25920933, 25922733], score=None, time=1611690263, title=None, item_type='comment', url=None, parent=25918158, text='As diagrams? I couldn&#x27;t find anything, who used them then?')

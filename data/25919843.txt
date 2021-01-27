@@ -1,1 +1,1 @@
-Item(by='feross', descendants=0, kids=None, score=2, time=1611687897, title='When to use HTTPS for local development', item_type='story', url='https://web.dev/when-to-use-local-https/', parent=None, text=None)
+Item(by='feross', descendants=0, kids=None, score=3, time=1611687897, title='When to use HTTPS for local development', item_type='story', url='https://web.dev/when-to-use-local-https/', parent=None, text=None)

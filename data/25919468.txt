@@ -1,1 +1,1 @@
-Item(by='samizdis', descendants=1, kids=[25919520], score=2, time=1611686019, title='First private space crew paying $55M each to fly to ISS', item_type='story', url='https://phys.org/news/2021-01-1st-private-space-crew-55m.html', parent=None, text=None)
+Item(by='samizdis', descendants=2, kids=[25919520, 25920630], score=3, time=1611686019, title='First private space crew paying $55M each to fly to ISS', item_type='story', url='https://phys.org/news/2021-01-1st-private-space-crew-55m.html', parent=None, text=None)

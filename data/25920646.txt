@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=None, kids=None, score=None, time=1611692826, title=None, item_type='comment', url=None, parent=25916222, text='Does statistics collection scale better with partitioned tables? TFA mentions that partitioning helps with vacuum, and AIUI vacuum workers also collect statistics.')

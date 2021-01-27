@@ -1,1 +1,1 @@
-Item(by='klodolph', descendants=None, kids=None, score=None, time=1611687832, title=None, item_type='comment', url=None, parent=25915425, text='You don’t need an optocoupler to measure grid frequency. You can just use a resistor. Dirt cheap, cheaper than a crystal.')
+Item(by='klodolph', descendants=None, kids=[25920724], score=None, time=1611687832, title=None, item_type='comment', url=None, parent=25915425, text='You don’t need an optocoupler to measure grid frequency. You can just use a resistor. Dirt cheap, cheaper than a crystal.')

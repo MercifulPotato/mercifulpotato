@@ -1,1 +1,1 @@
-Item(by='tentacleuno', descendants=None, kids=None, score=None, time=1611686822, title=None, item_type='comment', url=None, parent=25900461, text='Didn&#x27;t Plan9 do something like this?')
+Item(by='tentacleuno', descendants=None, kids=[25920485], score=None, time=1611686822, title=None, item_type='comment', url=None, parent=25900461, text='Didn&#x27;t Plan9 do something like this?')

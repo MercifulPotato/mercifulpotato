@@ -1,1 +1,1 @@
-Item(by='nixomose', descendants=1, kids=[25920329], score=2, time=1611684288, title='Show HN: A kernel module that makes a block device backed by userspace program', item_type='story', url='https://github.com/nixomose/zosbd2', parent=None, text=None)
+Item(by='nixomose', descendants=2, kids=[25920329], score=2, time=1611684288, title='Show HN: A kernel module that makes a block device backed by userspace program', item_type='story', url='https://github.com/nixomose/zosbd2', parent=None, text=None)

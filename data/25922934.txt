@@ -1,0 +1,1 @@
+Item(by='kaba0', descendants=None, kids=[25923180], score=None, time=1611709025, title=None, item_type='comment', url=None, parent=25922774, text='It would not stop these sort of exploits if I’m not mistaken (ok, it could help since rewriting return addresses is not possible I think), but memory errors that cause logic bugs are still possible.')

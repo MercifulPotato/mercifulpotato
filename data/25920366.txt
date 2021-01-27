@@ -1,0 +1,1 @@
+Item(by='myhf', descendants=None, kids=None, score=None, time=1611691046, title=None, item_type='comment', url=None, parent=25919982, text='It sounds like this Parsec-based setup runs the emulator on the server, and streams the video. A kodi&#x2F;retropie setup might load media&#x2F;roms over the network, but would run the emulation on the client.')

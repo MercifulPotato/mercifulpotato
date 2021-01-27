@@ -1,0 +1,1 @@
+Item(by='KMag', descendants=None, kids=None, score=None, time=1611707971, title=None, item_type='comment', url=None, parent=25920485, text='As I remember, Plan9 also had a concept of a write-only filesystem, and a read-write filesystem was mounted as a union mount of a write-only fs and a WORM fs with the same partition.')

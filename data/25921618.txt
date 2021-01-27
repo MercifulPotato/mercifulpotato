@@ -1,0 +1,1 @@
+Item(by='chrismorgan', descendants=None, kids=None, score=None, time=1611698884, title=None, item_type='comment', url=None, parent=25921487, text='My understanding (not based in any experience, though I hope to get some this year) is that this is a limitation of X11, but that Wayland properly supports per-screen scaling (so long as the compositor does).')

@@ -1,1 +1,1 @@
-Item(by='artur_makly', descendants=0, kids=None, score=3, time=1611678384, title='Startup Poker', item_type='story', url='https://kromatic.com/blog/how-to-win-at-startup-poker/', parent=None, text=None)
+Item(by='artur_makly', descendants=4, kids=[25922150, 25920728, 25922609], score=12, time=1611678384, title='Startup Poker', item_type='story', url='https://kromatic.com/blog/how-to-win-at-startup-poker/', parent=None, text=None)

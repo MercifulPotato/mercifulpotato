@@ -1,1 +1,1 @@
-Item(by='tomcam', descendants=None, kids=None, score=None, time=1611687710, title=None, item_type='comment', url=None, parent=25919722, text='So just fangled')
+Item(by='tomcam', descendants=None, kids=[25920579], score=None, time=1611687710, title=None, item_type='comment', url=None, parent=25919722, text='So just fangled')

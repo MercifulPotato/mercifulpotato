@@ -1,0 +1,1 @@
+Item(by='j16sdiz', descendants=None, kids=[25923330], score=None, time=1611711864, title=None, item_type='comment', url=None, parent=25923134, text='It is a uid (as in user id), not uuid.\nDon’t think you can use sum type for that')

@@ -1,1 +1,1 @@
-Item(by='zeusk', descendants=None, kids=None, score=None, time=1611691958, title=None, item_type='comment', url=None, parent=25920269, text='I had to deal with JIRA during an internship, it screams management bloat.')
+Item(by='zeusk', descendants=None, kids=[25920963], score=None, time=1611691958, title=None, item_type='comment', url=None, parent=25920269, text='I had to deal with JIRA during an internship, it screams management bloat.')

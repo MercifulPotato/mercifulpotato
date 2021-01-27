@@ -1,1 +1,1 @@
-Item(by='bigpumpkin', descendants=0, kids=None, score=5, time=1611682248, title='A Scientist Is Arrested, and Academics Push Back', item_type='story', url='https://www.nytimes.com/2021/01/26/us/mit-scientist-charges.html', parent=None, text=None)
+Item(by='bigpumpkin', descendants=1, kids=[25923129], score=6, time=1611682248, title='A Scientist Is Arrested, and Academics Push Back', item_type='story', url='https://www.nytimes.com/2021/01/26/us/mit-scientist-charges.html', parent=None, text=None)

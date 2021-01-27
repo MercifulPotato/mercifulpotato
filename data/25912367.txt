@@ -1,0 +1,1 @@
+Item(by='dnautics', descendants=None, kids=None, score=None, time=1611633673, title=None, item_type='comment', url=None, parent=25911773, text='It&#x27;s not a non-issue, it&#x27;s just a different security model.  You need to audit all of the code going into the data center, but once it&#x27;s there it&#x27;s (ideally) a hermetically sealed safe space.')

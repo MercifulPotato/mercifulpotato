@@ -1,1 +1,1 @@
-Item(by='layoutIfNeeded', descendants=None, kids=None, score=None, time=1611677524, title=None, item_type='comment', url=None, parent=25914586, text='Someday someone will reimplement it in React, and you will only need an i9-9900k with 64Gb to run it somewhat smoothly.')
+Item(by='layoutIfNeeded', descendants=None, kids=[25920920], score=None, time=1611677524, title=None, item_type='comment', url=None, parent=25914586, text='Someday someone will reimplement it in React, and you will only need an i9-9900k with 64Gb to run it somewhat smoothly.')

@@ -1,1 +1,1 @@
-Item(by='alfalfasprout', descendants=None, kids=None, score=None, time=1611688329, title=None, item_type='comment', url=None, parent=25919623, text='If you live in the Bay Area chances are plenty of others do the same thing.')
+Item(by='alfalfasprout', descendants=None, kids=[25920554], score=None, time=1611688329, title=None, item_type='comment', url=None, parent=25919623, text='If you live in the Bay Area chances are plenty of others do the same thing.')

@@ -1,0 +1,1 @@
+Item(by='mulmen', descendants=None, kids=[25921924], score=None, time=1611699537, title=None, item_type='comment', url=None, parent=25921506, text='Fair point re: complexity but how are CVEs in one codebase evidence of absence of bugs in another?<p>Or said another way, is the lack of CVEs for doas an indication it is more secure or just less (ab?)used?')
