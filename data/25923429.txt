@@ -1,1 +1,1 @@
-Item(by='amluto', descendants=None, kids=None, score=None, time=1611713278, title=None, item_type='comment', url=None, parent=25923244, text='Almost certainly. Condition variables are very complicated internally. On Linux, a latch could be backed by a futex with very little code.')
+Item(by='amluto', descendants=None, kids=[25924369], score=None, time=1611713278, title=None, item_type='comment', url=None, parent=25923244, text='Almost certainly. Condition variables are very complicated internally. On Linux, a latch could be backed by a futex with very little code.')

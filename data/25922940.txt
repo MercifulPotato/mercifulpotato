@@ -1,1 +1,1 @@
-Item(by='tech_timc', descendants=0, kids=None, score=2, time=1611709101, title='Observation of the onset of a blue jet into the stratosphere', item_type='story', url='https://www.nature.com/articles/s41586-020-03122-6.epdf', parent=None, text=None)
+Item(by='tech_timc', descendants=1, kids=[25924431], score=3, time=1611709101, title='Observation of the onset of a blue jet into the stratosphere', item_type='story', url='https://www.nature.com/articles/s41586-020-03122-6.epdf', parent=None, text=None)

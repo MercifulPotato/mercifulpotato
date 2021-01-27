@@ -1,0 +1,1 @@
+Item(by='roca', descendants=None, kids=[25925452], score=None, time=1611730250, title=None, item_type='comment', url=None, parent=25924644, text='If we&#x27;re talking about recompiling a handful of SUID programs, why not just manually translate them into Rust or something similar?')

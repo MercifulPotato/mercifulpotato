@@ -1,1 +1,1 @@
-Item(by='pizza', descendants=4, kids=[25922878, 25922840, 25922738, 25922986], score=3, time=1611705177, title='Ask HN: Logged Out of HN?', item_type='story', url=None, parent=None, text='I was just logged out of HN for some reason. Happen to anybody else?')
+Item(by='pizza', descendants=6, kids=[25925042, 25922878, 25924700, 25922840, 25922738, 25922986], score=4, time=1611705177, title='Ask HN: Logged Out of HN?', item_type='story', url=None, parent=None, text='I was just logged out of HN for some reason. Happen to anybody else?')

@@ -1,1 +1,1 @@
-Item(by='giovannibonetti', descendants=None, kids=None, score=None, time=1611704169, title=None, item_type='comment', url=None, parent=25917657, text='Have you taken a look at <a href="https:&#x2F;&#x2F;rocket.rs" rel="nofollow">https:&#x2F;&#x2F;rocket.rs</a>?')
+Item(by='giovannibonetti', descendants=None, kids=[25924305], score=None, time=1611704169, title=None, item_type='comment', url=None, parent=25917657, text='Have you taken a look at <a href="https:&#x2F;&#x2F;rocket.rs" rel="nofollow">https:&#x2F;&#x2F;rocket.rs</a>?')

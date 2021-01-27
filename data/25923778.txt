@@ -1,0 +1,1 @@
+Item(by='monadic3', descendants=None, kids=None, score=None, time=1611716998, title=None, item_type='comment', url=None, parent=25922351, text='This seems so silly. There are about a billion linux distros. How come none of them focus on removing functionality? Surely most lines in sudo.c are unused in the average use case. Just remove them.')

@@ -1,1 +1,1 @@
-Item(by='welfare', descendants=1, kids=[25923441], score=4, time=1611713308, title='The Whiners Who Earn $200k and Complain They’re Broke', item_type='story', url='https://newrepublic.com/article/158555/whiners-earn-200000-complain-theyre-broke', parent=None, text=None)
+Item(by='welfare', descendants=5, kids=[25923744, 25924611, 25923957, 25923441], score=9, time=1611713308, title='The Whiners Who Earn $200k and Complain They’re Broke', item_type='story', url='https://newrepublic.com/article/158555/whiners-earn-200000-complain-theyre-broke', parent=None, text=None)

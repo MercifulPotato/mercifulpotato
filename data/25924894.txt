@@ -1,0 +1,1 @@
+Item(by='CameronNemo', descendants=None, kids=[25925149, 25924994], score=None, time=1611728021, title=None, item_type='comment', url=None, parent=25924884, text='My least favorite fish quirk is that you cannot use stty to remap Ctrl-C. You need to use stty in another shell, then exec into fish to remap it.')

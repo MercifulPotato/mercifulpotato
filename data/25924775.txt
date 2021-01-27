@@ -1,0 +1,1 @@
+Item(by='vorticalbox', descendants=None, kids=[25925369], score=None, time=1611726649, title=None, item_type='comment', url=None, parent=25923871, text='I&#x27;m not sure why there is a database at all, if you want messages to just appear and not stick around you could do this over websockets and never need to touch a database')

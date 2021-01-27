@@ -1,1 +1,1 @@
-Item(by='sp332', descendants=None, kids=None, score=None, time=1611715630, title=None, item_type='comment', url=None, parent=25923289, text='It&#x27;s not that rare. Mozilla does the same thing with the Firefox trademark.')
+Item(by='sp332', descendants=None, kids=[25923794], score=None, time=1611715630, title=None, item_type='comment', url=None, parent=25923289, text='It&#x27;s not that rare. Mozilla does the same thing with the Firefox trademark.')

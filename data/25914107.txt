@@ -1,1 +1,1 @@
-Item(by='amelius', descendants=None, kids=None, score=None, time=1611655084, title=None, item_type='comment', url=None, parent=25912784, text='The self is merely an illusion. On a different level you <i>are</i> that cow, and that chicken too.')
+Item(by='amelius', descendants=None, kids=[25923784], score=None, time=1611655084, title=None, item_type='comment', url=None, parent=25912784, text='The self is merely an illusion. On a different level you <i>are</i> that cow, and that chicken too.')

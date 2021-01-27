@@ -1,1 +1,1 @@
-Item(by='potta_coffee', descendants=None, kids=None, score=None, time=1611712861, title=None, item_type='comment', url=None, parent=25923088, text='I know someone that hates &quot;for&quot; loops and views them as &quot;unclean&quot;. I find this aggravating.')
+Item(by='potta_coffee', descendants=None, kids=[25924946], score=None, time=1611712861, title=None, item_type='comment', url=None, parent=25923088, text='I know someone that hates &quot;for&quot; loops and views them as &quot;unclean&quot;. I find this aggravating.')

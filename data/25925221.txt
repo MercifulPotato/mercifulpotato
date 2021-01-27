@@ -1,0 +1,1 @@
+Item(by='parham', descendants=None, kids=[25925268, 25925623, 25925391], score=None, time=1611731592, title=None, item_type='comment', url=None, parent=25916628, text='Why would you add type checking to Python! Using another language with static typing would be the solution. It’s not like the browser where you have to use Javascript so you add another layer to your toolchain.')

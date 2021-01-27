@@ -1,1 +1,1 @@
-Item(by='pupdogg', descendants=None, kids=None, score=None, time=1611706809, title=None, item_type='comment', url=None, parent=25922288, text='CAT450 here!')
+Item(by='pupdogg', descendants=None, kids=[25923970], score=None, time=1611706809, title=None, item_type='comment', url=None, parent=25922288, text='CAT450 here!')

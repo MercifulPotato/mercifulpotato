@@ -1,1 +1,1 @@
-Item(by='legym', descendants=None, kids=[25918464, 25923128, 25918983], score=None, time=1611680575, title=None, item_type='comment', url=None, parent=25917427, text='In Javascript how are they able to retrieve something from the cache? Local, session, and cookies are domain locked.')
+Item(by='legym', descendants=None, kids=[25918464, 25924155, 25923128, 25918983], score=None, time=1611680575, title=None, item_type='comment', url=None, parent=25917427, text='In Javascript how are they able to retrieve something from the cache? Local, session, and cookies are domain locked.')

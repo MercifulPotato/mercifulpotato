@@ -1,0 +1,1 @@
+Item(by='dfw4ever', descendants=None, kids=None, score=None, time=1611722437, title=None, item_type='comment', url=None, parent=25923301, text='You should sanitize the messages on the server side, not the client. It&#x27;s possible to inject images&#x2F;scripts&#x2F;links on the page.')

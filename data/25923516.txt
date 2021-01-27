@@ -1,1 +1,1 @@
-Item(by='dataflow', descendants=None, kids=None, score=None, time=1611714175, title=None, item_type='comment', url=None, parent=25923513, text='Yeah this confused me too. Not sure what made them think this resembles a latch. A latch only has 2 states, not 2^n states.')
+Item(by='dataflow', descendants=None, kids=[25925274, 25924702], score=None, time=1611714175, title=None, item_type='comment', url=None, parent=25923513, text='Yeah this confused me too. Not sure what made them think this resembles a latch. A latch only has 2 states, not 2^n states.')

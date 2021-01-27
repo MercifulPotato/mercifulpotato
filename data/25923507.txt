@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=1, time=1611713980, title='Graveyard Shift', item_type='story', url='https://en.wikipedia.org/wiki/Graveyard_Shift', parent=None, text=None)
+Item(by='tosh', descendants=1, kids=[25924549], score=2, time=1611713980, title='Graveyard Shift', item_type='story', url='https://en.wikipedia.org/wiki/Graveyard_Shift', parent=None, text=None)

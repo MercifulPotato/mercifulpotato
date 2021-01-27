@@ -1,1 +1,1 @@
-Item(by='Alupis', descendants=0, kids=None, score=1, time=1611711003, title='9V Batteries Suck – And why you shouldn’t use them', item_type='story', url='https://www.baldengineer.com/9v-batteries-suck.html', parent=None, text=None)
+Item(by='Alupis', descendants=3, kids=[25924769, 25923591], score=2, time=1611711003, title='9V Batteries Suck – And why you shouldn’t use them', item_type='story', url='https://www.baldengineer.com/9v-batteries-suck.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='Uhrheber', descendants=None, kids=[25924964], score=None, time=1611727676, title=None, item_type='comment', url=None, parent=25923491, text='CircuitPython is a toy language made for running on Adafruit&#x27;s halloween&#x2F;cosplaying gadgets.<p>It doesn&#x27;t even support interrupts.<p>Better use Micropython.')

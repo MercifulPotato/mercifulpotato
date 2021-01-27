@@ -1,1 +1,1 @@
-Item(by='kbelder', descendants=None, kids=None, score=None, time=1611707662, title=None, item_type='comment', url=None, parent=25914542, text='$700,000 is a mansion in all but a few parts of the country.  I suspect your view is distorted by your local environment.')
+Item(by='kbelder', descendants=None, kids=[25925147], score=None, time=1611707662, title=None, item_type='comment', url=None, parent=25914542, text='$700,000 is a mansion in all but a few parts of the country.  I suspect your view is distorted by your local environment.')

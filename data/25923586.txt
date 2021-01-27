@@ -1,1 +1,1 @@
-Item(by='nightski', descendants=None, kids=None, score=None, time=1611714892, title=None, item_type='comment', url=None, parent=25921593, text='That is a ~31% annualized return.  Still very good, but considering the risk involved it might not be that great.  I don&#x27;t have enough information to make that call.')
+Item(by=None, descendants=None, kids=None, score=None, time=1611714892, title=None, item_type='comment', url=None, parent=25921593, text=None)

@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=0, kids=None, score=3, time=1611613215, title='Programming in Five Easy Pieces', item_type='story', url='https://danielbmarkham.com/curry-howard-isomorphism/', parent=None, text=None)
+Item(by='zdw', descendants=6, kids=[25925048, 25924900, 25924577, 25925029, 25923798, 25924048], score=20, time=1611613215, title='Programming in Five Easy Pieces', item_type='story', url='https://danielbmarkham.com/curry-howard-isomorphism/', parent=None, text=None)

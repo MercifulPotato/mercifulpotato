@@ -1,1 +1,1 @@
-Item(by='bithavoc', descendants=None, kids=None, score=None, time=1611698789, title=None, item_type='comment', url=None, parent=25919932, text='I just effortlessly synced Freshdesk to Postgres in 20 minutes. Thank you.')
+Item(by='bithavoc', descendants=None, kids=[25924618], score=None, time=1611698789, title=None, item_type='comment', url=None, parent=25919932, text='I just effortlessly synced Freshdesk to Postgres in 20 minutes. Thank you.')

@@ -1,1 +1,1 @@
-Item(by='JumpCrisscross', descendants=0, kids=None, score=2, time=1611712851, title='Germany presses Brussels for powers to block vaccine exports', item_type='story', url='https://www.ft.com/content/ed0059c9-1ea5-4ba9-a1ff-88004b59e71d', parent=None, text=None)
+Item(by='JumpCrisscross', descendants=1, kids=[25923570], score=2, time=1611712851, title='Germany presses Brussels for powers to block vaccine exports', item_type='story', url='https://www.ft.com/content/ed0059c9-1ea5-4ba9-a1ff-88004b59e71d', parent=None, text=None)

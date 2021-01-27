@@ -1,0 +1,1 @@
+Item(by='searealist', descendants=None, kids=[25924379], score=None, time=1611719170, title=None, item_type='comment', url=None, parent=25923244, text='Probably atomic increment &#x2F; decrement + condition_variable. Just check if you hit 0 on decrement to notify waiters (or return if you are the waiter).')
