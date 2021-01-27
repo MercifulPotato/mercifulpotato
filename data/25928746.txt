@@ -1,1 +1,1 @@
-Item(by='kaba0', descendants=None, kids=None, score=None, time=1611758270, title=None, item_type='comment', url=None, parent=25928313, text='Isn’t it still just a canvas with basically no accessibility, and all the negatives of a flash app?')
+Item(by='kaba0', descendants=None, kids=[25929008, 25929188], score=None, time=1611758270, title=None, item_type='comment', url=None, parent=25928313, text='Isn’t it still just a canvas with basically no accessibility, and all the negatives of a flash app?')

@@ -1,1 +1,1 @@
-Item(by='GoblinSlayer', descendants=None, kids=None, score=None, time=1611737098, title=None, item_type='comment', url=None, parent=25923775, text='Most web is text and uses javascript only for google analytics, nothing essential.')
+Item(by='GoblinSlayer', descendants=None, kids=[25930316], score=None, time=1611737098, title=None, item_type='comment', url=None, parent=25923775, text='Most web is text and uses javascript only for google analytics, nothing essential.')

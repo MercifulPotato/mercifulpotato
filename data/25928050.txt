@@ -1,1 +1,1 @@
-Item(by='kllrnohj', descendants=None, kids=None, score=None, time=1611754613, title=None, item_type='comment', url=None, parent=25925579, text='That&#x27;s what std::latch does... Once triggered it&#x27;s always triggered. Same as Java&#x27;s CountDownLatch')
+Item(by='kllrnohj', descendants=None, kids=[25931158], score=None, time=1611754613, title=None, item_type='comment', url=None, parent=25925579, text='That&#x27;s what std::latch does... Once triggered it&#x27;s always triggered. Same as Java&#x27;s CountDownLatch')

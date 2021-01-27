@@ -1,1 +1,1 @@
-Item(by='ballenf', descendants=None, kids=None, score=None, time=1611756994, title=None, item_type='comment', url=None, parent=25928354, text='Maybe publishing the IP addresses of those is the real &quot;show HN&quot; that we&#x27;ll see next week.')
+Item(by='ballenf', descendants=None, kids=[25930888], score=None, time=1611756994, title=None, item_type='comment', url=None, parent=25928354, text='Maybe publishing the IP addresses of those is the real &quot;show HN&quot; that we&#x27;ll see next week.')

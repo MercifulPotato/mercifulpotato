@@ -1,1 +1,1 @@
-Item(by='jgust', descendants=None, kids=None, score=None, time=1611689178, title=None, item_type='comment', url=None, parent=25919758, text='Do you have an account with every gas station that you use? Grocery store? Restaurant? There&#x27;s some tech bias to this line of thinking.')
+Item(by='jgust', descendants=None, kids=[25929255], score=None, time=1611689178, title=None, item_type='comment', url=None, parent=25919758, text='Do you have an account with every gas station that you use? Grocery store? Restaurant? There&#x27;s some tech bias to this line of thinking.')

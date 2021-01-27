@@ -1,0 +1,1 @@
+Item(by='older', descendants=None, kids=None, score=None, time=1611762672, title=None, item_type='comment', url=None, parent=25927242, text='F2FS supports compression with LZ4 since Linux 5.6.')

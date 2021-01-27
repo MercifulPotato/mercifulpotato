@@ -1,0 +1,1 @@
+Item(by='sigjuice', descendants=None, kids=[25932134, 25933351], score=None, time=1611768105, title=None, item_type='comment', url=None, parent=25930229, text='QR codes also work on my iPhone.<p><pre><code>  $ qrencode &quot;WIFI:T:WPA;S:${SSID};P:${PASSWORD};;&quot; -o wifi.png</code></pre>')

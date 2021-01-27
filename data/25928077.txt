@@ -1,1 +1,1 @@
-Item(by='wirthjason', descendants=None, kids=None, score=None, time=1611754718, title=None, item_type='comment', url=None, parent=25924228, text='As a Python programmer myself I’m curious, what’s the difference?')
+Item(by='wirthjason', descendants=None, kids=[25928792], score=None, time=1611754718, title=None, item_type='comment', url=None, parent=25924228, text='As a Python programmer myself I’m curious, what’s the difference?')

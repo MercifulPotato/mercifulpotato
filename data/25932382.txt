@@ -1,0 +1,1 @@
+Item(by='CydeWeys', descendants=None, kids=None, score=None, time=1611774348, title=None, item_type='comment', url=None, parent=25922672, text='Not all CDNs are HSTS preloaded, and this affects linking too. Pick any random popular site that is widely linked but not preloaded, and now it&#x27;s more vulnerable.')

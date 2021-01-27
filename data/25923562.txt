@@ -1,1 +1,1 @@
-Item(by='Ecco', descendants=None, kids=[25924661, 25923698, 25928256, 25923605, 25924036, 25926553, 25924394], score=None, time=1611714649, title=None, item_type='comment', url=None, parent=25923491, text='To be fair, this is really mostly just a rebranded MicroPython...')
+Item(by='Ecco', descendants=None, kids=[25923698, 25924661, 25923605, 25928256, 25924036, 25924394, 25926553], score=None, time=1611714649, title=None, item_type='comment', url=None, parent=25923491, text='To be fair, this is really mostly just a rebranded MicroPython...')

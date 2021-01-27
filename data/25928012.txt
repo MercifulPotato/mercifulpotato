@@ -1,1 +1,1 @@
-Item(by='roelandp', descendants=None, kids=None, score=None, time=1611754402, title=None, item_type='comment', url=None, parent=25927639, text='this looks very epic. as a brockchain artist, will i be able to add my own style to your configurator?')
+Item(by='roelandp', descendants=None, kids=[25928430], score=None, time=1611754402, title=None, item_type='comment', url=None, parent=25927639, text='this looks very epic. as a brockchain artist, will i be able to add my own style to your configurator?')

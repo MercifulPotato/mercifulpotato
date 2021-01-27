@@ -1,1 +1,1 @@
-Item(by='Accacin', descendants=None, kids=None, score=None, time=1611746733, title=None, item_type='comment', url=None, parent=25922820, text='You&#x27;re blaming the language for how people use it. It&#x27;s like saying C is bad because people use it to write root kits.')
+Item(by='Accacin', descendants=None, kids=[25928574], score=None, time=1611746733, title=None, item_type='comment', url=None, parent=25922820, text='You&#x27;re blaming the language for how people use it. It&#x27;s like saying C is bad because people use it to write root kits.')

@@ -1,1 +1,1 @@
-Item(by='Kye', descendants=None, kids=None, score=None, time=1611714218, title=None, item_type='comment', url=None, parent=25915828, text='MailChimp owns TinyLetter.')
+Item(by='Kye', descendants=None, kids=[25931828], score=None, time=1611714218, title=None, item_type='comment', url=None, parent=25915828, text='MailChimp owns TinyLetter.')

@@ -1,0 +1,1 @@
+Item(by='danbolt', descendants=None, kids=None, score=None, time=1611772119, title=None, item_type='comment', url=None, parent=25931542, text='My day job uses clang-format for a larger C++ codebase. Our tech leads were for it to &quot;automate&quot; discussions on code style. Before it was integrated, it wasn&#x27;t uncommon to have code style be a larger part of a code review.')

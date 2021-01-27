@@ -1,1 +1,1 @@
-Item(by='jojobas', descendants=None, kids=None, score=None, time=1611753181, title=None, item_type='comment', url=None, parent=25927235, text='Wood rots in landfills. You have to char it to stop that.')
+Item(by='jojobas', descendants=None, kids=[25930806], score=None, time=1611753181, title=None, item_type='comment', url=None, parent=25927235, text='Wood rots in landfills. You have to char it to stop that.')

@@ -1,0 +1,1 @@
+Item(by='maximp', descendants=None, kids=None, score=None, time=1611775490, title=None, item_type='comment', url=None, parent=25924836, text='The API returns at most 2000 messages at a time (this might have changed since I last tried), and last I looked the message IDs were around 130K, meaning that&#x27;s how messages there have been.')

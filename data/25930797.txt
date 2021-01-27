@@ -1,0 +1,1 @@
+Item(by='badsectoracula', descendants=None, kids=None, score=None, time=1611767737, title=None, item_type='comment', url=None, parent=25929012, text='Though Delphi&#x27;s components were always meant to be for both visual and non-visual uses (TControl, from which other visual controls descent, is just a subclass of TComponent).')

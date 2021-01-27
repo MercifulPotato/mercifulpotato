@@ -1,1 +1,1 @@
-Item(by='bni', descendants=None, kids=None, score=None, time=1611747492, title=None, item_type='comment', url=None, parent=25914502, text='I had no idea these were painted. Have always assumed it was colored plastic like in the C64s and Amigas.')
+Item(by='bni', descendants=None, kids=[25929322], score=None, time=1611747492, title=None, item_type='comment', url=None, parent=25914502, text='I had no idea these were painted. Have always assumed it was colored plastic like in the C64s and Amigas.')

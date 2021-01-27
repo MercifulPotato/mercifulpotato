@@ -1,1 +1,1 @@
-Item(by='jp555', descendants=None, kids=None, score=None, time=1611755400, title=None, item_type='comment', url=None, parent=25927074, text='... and then on to ASML.')
+Item(by='jp555', descendants=None, kids=[25929054], score=None, time=1611755400, title=None, item_type='comment', url=None, parent=25927074, text='... and then on to ASML.')

@@ -1,1 +1,1 @@
-Item(by='standardUser', descendants=None, kids=None, score=None, time=1611667941, title=None, item_type='comment', url=None, parent=25912563, text='If the end result is that someone who could vote in the last election cannot vote in the next election, we need a better idea.')
+Item(by='standardUser', descendants=None, kids=[25930258], score=None, time=1611667941, title=None, item_type='comment', url=None, parent=25912563, text='If the end result is that someone who could vote in the last election cannot vote in the next election, we need a better idea.')

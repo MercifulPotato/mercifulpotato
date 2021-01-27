@@ -1,0 +1,1 @@
+Item(by='luma', descendants=None, kids=[25933095], score=None, time=1611776562, title=None, item_type='comment', url=None, parent=25928068, text='This could be really helpful in the embedded space on devices like the ESP32 which offer both the BTLE radio required to advertise the feature and the WiFi radio to make use of it.')

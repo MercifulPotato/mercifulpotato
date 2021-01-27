@@ -1,0 +1,1 @@
+Item(by='tyingq', descendants=None, kids=None, score=None, time=1611762256, title=None, item_type='comment', url=None, parent=25928395, text='As far as I know, it&#x27;s not a hard dependency.  I believe if you just build from the autoconf download after deleting the tclsqlite.c file it works fine.')

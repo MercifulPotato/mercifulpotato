@@ -1,1 +1,1 @@
-Item(by='samizdis', descendants=0, kids=None, score=1, time=1611755598, title='CIA file on Russian ESP experiments released', item_type='story', url='https://www.theguardian.com/us-news/2021/jan/27/russian-esp-experiments-cia-memo', parent=None, text=None)
+Item(by='samizdis', descendants=1, kids=[25928429], score=1, time=1611755598, title='CIA file on Russian ESP experiments released', item_type='story', url='https://www.theguardian.com/us-news/2021/jan/27/russian-esp-experiments-cia-memo', parent=None, text=None)

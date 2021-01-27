@@ -1,0 +1,1 @@
+Item(by='minitoar', descendants=None, kids=None, score=None, time=1611770448, title=None, item_type='comment', url=None, parent=25915274, text='Interana uses lz4 for compressing certain data types, namely list-type data. We found it offers the best decompression speed for reasonably good compression ratio. We actually use the high compression variant.')

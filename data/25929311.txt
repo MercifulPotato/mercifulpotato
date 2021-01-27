@@ -1,0 +1,1 @@
+Item(by='snarfy', descendants=None, kids=None, score=None, time=1611761161, title=None, item_type='comment', url=None, parent=25927374, text='The problem with two way data binding is it assumes a function call is free.  Two way data binding breaks when a function call is many orders of magnitude slower, like over the web.  You end up with classic ASP.NET.')

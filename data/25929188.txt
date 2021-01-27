@@ -1,0 +1,1 @@
+Item(by='sgt', descendants=None, kids=None, score=None, time=1611760622, title=None, item_type='comment', url=None, parent=25928746, text='It builds to HTML and JS using dartj2s. It chooses the canvas if on a desktop browser, and HTML on mobile. I chose to make the default HTML always, for predictability.')

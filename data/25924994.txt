@@ -1,1 +1,1 @@
-Item(by='mongol', descendants=None, kids=None, score=None, time=1611729117, title=None, item_type='comment', url=None, parent=25924894, text='Why do you remap Ctrl-C?')
+Item(by='mongol', descendants=None, kids=[25930111], score=None, time=1611729117, title=None, item_type='comment', url=None, parent=25924894, text='Why do you remap Ctrl-C?')

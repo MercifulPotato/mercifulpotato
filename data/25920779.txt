@@ -1,1 +1,1 @@
-Item(by='franga2000', descendants=None, kids=None, score=None, time=1611693584, title=None, item_type='comment', url=None, parent=25920682, text='That is your opinion and your problem and there&#x27;s an about:config option to disable it.')
+Item(by='franga2000', descendants=None, kids=[25929566], score=None, time=1611693584, title=None, item_type='comment', url=None, parent=25920682, text='That is your opinion and your problem and there&#x27;s an about:config option to disable it.')
