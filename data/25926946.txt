@@ -1,0 +1,1 @@
+Item(by='ddorian43', descendants=None, kids=None, score=None, time=1611746991, title=None, item_type='comment', url=None, parent=25902589, text='In the sense of lowering per-row-overhead, supposed to be faster on commit and slower on rollback(usual workloads).')

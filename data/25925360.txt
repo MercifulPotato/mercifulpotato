@@ -1,1 +1,1 @@
-Item(by='spqr0a1', descendants=None, kids=None, score=None, time=1611732937, title=None, item_type='comment', url=None, parent=25925311, text='iGPU performance is currently limited by memory bandwidth. Not much point in upgrading from Vega until DDR5 is used.')
+Item(by='spqr0a1', descendants=None, kids=[25926004, 25927912, 25925548], score=None, time=1611732937, title=None, item_type='comment', url=None, parent=25925311, text='iGPU performance is currently limited by memory bandwidth. Not much point in upgrading from Vega until DDR5 is used.')

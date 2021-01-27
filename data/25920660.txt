@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=[25920804, 25921829], score=None, time=1611692894, title=None, item_type='comment', url=None, parent=25920395, text='Why? After all it is obvious code reviewers are enough to catch any typical C memory corruption error.')
+Item(by='pjmlp', descendants=None, kids=[25921829, 25920804], score=None, time=1611692894, title=None, item_type='comment', url=None, parent=25920395, text='Why? After all it is obvious code reviewers are enough to catch any typical C memory corruption error.')

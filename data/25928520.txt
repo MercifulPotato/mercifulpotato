@@ -1,0 +1,1 @@
+Item(by='gecko', descendants=None, kids=None, score=None, time=1611757157, title=None, item_type='comment', url=None, parent=25928387, text='Delphi is definitely 100% native. I&#x27;m not sure about Free Pascal&#x27;s Lazarus; it looks native when I&#x27;ve used it, but I&#x27;d need to break out Spy++ or WinObj or something to actually poke at what&#x27;s going on.')

@@ -1,0 +1,1 @@
+Item(by='deaddodo', descendants=None, kids=None, score=None, time=1611750593, title=None, item_type='comment', url=None, parent=25927204, text='D-bus is a process discovery and communication protocol. It allows processes to universally interact with each other in a high-level manner versus requiring bespoke IPC mechanisms (low-level sockets, signals, shm, etc).')

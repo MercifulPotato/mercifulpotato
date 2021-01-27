@@ -1,0 +1,1 @@
+Item(by='lmm', descendants=None, kids=None, score=None, time=1611742231, title=None, item_type='comment', url=None, parent=25923891, text='No it hasn&#x27;t. Python has things that it calls types, but they&#x27;re not types: you can&#x27;t determine the &quot;type&quot; of an expression from the &quot;type&quot; of its components.')

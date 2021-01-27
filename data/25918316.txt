@@ -1,1 +1,1 @@
-Item(by='51Cards', descendants=None, kids=None, score=None, time=1611680890, title=None, item_type='comment', url=None, parent=25918036, text='Yes!  I loved this feature and had several feeds linked up.  Was wonderful to summarize my morning reading quickly.')
+Item(by='51Cards', descendants=None, kids=[25926024], score=None, time=1611680890, title=None, item_type='comment', url=None, parent=25918036, text='Yes!  I loved this feature and had several feeds linked up.  Was wonderful to summarize my morning reading quickly.')

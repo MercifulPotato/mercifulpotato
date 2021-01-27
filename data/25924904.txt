@@ -1,1 +1,1 @@
-Item(by='mardiyah', descendants=0, kids=None, score=1, time=1611728128, title='Micron: 1α Process Technology to Reduce Costs by Up to 40%', item_type='story', url='https://www.tomshardware.com/news/micron-1alpha-technology-announcement', parent=None, text=None)
+Item(by='mardiyah', descendants=0, kids=[25927243, 25927249, 25927251], score=2, time=1611728128, title='Micron: 1α Process Technology to Reduce Costs by Up to 40%', item_type='story', url='https://www.tomshardware.com/news/micron-1alpha-technology-announcement', parent=None, text=None)

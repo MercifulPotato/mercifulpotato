@@ -1,0 +1,1 @@
+Item(by='JanecekPetr', descendants=None, kids=None, score=None, time=1611752034, title=None, item_type='comment', url=None, parent=25927062, text='You misread that. It says that decompression is significantly faster than LZO. In fact, decompression speeds of up to 5 GB&#x2F;s is one of the reasons LZ4 is so popular.')

@@ -1,0 +1,1 @@
+Item(by='baybal2', descendants=None, kids=[25926370, 25926452], score=None, time=1611741970, title=None, item_type='comment', url=None, parent=25926118, text='LZ4 has branchless decompression, and lower cache footprint, thus it can work on low end, and non-desktop CPUs equally well.<p>zstd, brotly, snappy were seemingly all made with high end x86 capabilities in mind.')

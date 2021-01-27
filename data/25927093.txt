@@ -1,0 +1,1 @@
+Item(by='fxnoob', descendants=None, kids=None, score=None, time=1611748185, title=None, item_type='comment', url=None, parent=25903723, text='In chrome extension i&#x27;m using webSpeech api, which sends voice data to google server and get text back, but one doesnt have to login in any account to verify. SO in a way google gets your voice data but that data is sudo anonymous.')

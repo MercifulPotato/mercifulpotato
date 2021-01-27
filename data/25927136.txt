@@ -1,0 +1,1 @@
+Item(by='mlang23', descendants=None, kids=None, score=None, time=1611748652, title=None, item_type='comment', url=None, parent=25902030, text='I store all binary data I want to keep around with git-annex these days.  It solves integrity checking (you have a hash for every file) and distributed storage.  Feels like RAID for layer 7.')

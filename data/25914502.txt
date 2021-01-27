@@ -1,1 +1,1 @@
-Item(by='ryanmercer', descendants=0, kids=None, score=1, time=1611659353, title='What color was “Apple Beige”?', item_type='story', url='https://bzotto.medium.com/what-color-was-apple-beige-acd14bca0c1a', parent=None, text=None)
+Item(by='ryanmercer', descendants=41, kids=[25925666, 25927435, 25927924, 25927982, 25925730, 25926285, 25927006, 25927003], score=138, time=1611659353, title='What color was “Apple Beige”?', item_type='story', url='https://bzotto.medium.com/what-color-was-apple-beige-acd14bca0c1a', parent=None, text=None)

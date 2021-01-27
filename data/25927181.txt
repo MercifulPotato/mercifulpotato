@@ -1,0 +1,1 @@
+Item(by='jlis', descendants=None, kids=None, score=None, time=1611748965, title=None, item_type='comment', url=None, parent=25925355, text='You could also benefit from using websockets instead of sending the message to a DB and fetching it from there. This way, you&#x27;d have instant communication between the users and there&#x27;s no need to store anything.')

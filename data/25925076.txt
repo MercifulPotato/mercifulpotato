@@ -1,1 +1,1 @@
-Item(by='porcc', descendants=None, kids=None, score=None, time=1611730059, title=None, item_type='comment', url=None, parent=25923789, text='uh...really? i think this is much too difficult to assume it would happen in the first 2 years after open sourcing, much less the first day')
+Item(by='porcc', descendants=None, kids=[25925748], score=None, time=1611730059, title=None, item_type='comment', url=None, parent=25923789, text='uh...really? i think this is much too difficult to assume it would happen in the first 2 years after open sourcing, much less the first day')

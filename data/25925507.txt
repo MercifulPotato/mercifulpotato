@@ -1,1 +1,1 @@
-Item(by='gitrog', descendants=None, kids=None, score=None, time=1611734470, title=None, item_type='comment', url=None, parent=25925196, text='Sorry, would you mind explaining what this will do?')
+Item(by='gitrog', descendants=None, kids=[25925977], score=None, time=1611734470, title=None, item_type='comment', url=None, parent=25925196, text='Sorry, would you mind explaining what this will do?')

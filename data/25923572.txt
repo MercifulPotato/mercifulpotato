@@ -1,1 +1,1 @@
-Item(by='saalweachter', descendants=None, kids=None, score=None, time=1611714742, title=None, item_type='comment', url=None, parent=25922601, text='&gt; ...but apparently &quot;fuck astronomers&quot; is a popular opinion.<p><i>They know what they did.</i><p>(Leap seconds.)')
+Item(by='saalweachter', descendants=None, kids=[25926007], score=None, time=1611714742, title=None, item_type='comment', url=None, parent=25922601, text='&gt; ...but apparently &quot;fuck astronomers&quot; is a popular opinion.<p><i>They know what they did.</i><p>(Leap seconds.)')

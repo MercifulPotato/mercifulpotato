@@ -1,0 +1,1 @@
+Item(by='cheph', descendants=None, kids=None, score=None, time=1611741718, title=None, item_type='comment', url=None, parent=25926220, text='I misread the comment I think, but either way, I am not arguing against automated tests, I was just trying to point out that for some fragments of a code base you should absolutely be able to tell correctness by looking at it.')

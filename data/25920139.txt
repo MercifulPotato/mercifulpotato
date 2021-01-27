@@ -1,1 +1,1 @@
-Item(by='dflock', descendants=None, kids=None, score=None, time=1611689737, title=None, item_type='comment', url=None, parent=25919197, text='You can just put that there - and then you hope that user agents implement this - or you can use interledger.')
+Item(by='dflock', descendants=None, kids=[25926252], score=None, time=1611689737, title=None, item_type='comment', url=None, parent=25919197, text='You can just put that there - and then you hope that user agents implement this - or you can use interledger.')

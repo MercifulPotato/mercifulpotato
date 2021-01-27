@@ -1,1 +1,1 @@
-Item(by='benibela', descendants=None, kids=None, score=None, time=1611676259, title=None, item_type='comment', url=None, parent=25913424, text='There was one famous study that discovered wearing weaker glasses made myopia worse, and then everyone was too afraid to make further studies')
+Item(by='benibela', descendants=None, kids=[25926974], score=None, time=1611676259, title=None, item_type='comment', url=None, parent=25913424, text='There was one famous study that discovered wearing weaker glasses made myopia worse, and then everyone was too afraid to make further studies')

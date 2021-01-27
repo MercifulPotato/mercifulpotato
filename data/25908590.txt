@@ -1,1 +1,1 @@
-Item(by='jbredeche', descendants=0, kids=None, score=3, time=1611607599, title='Central Banks and Disintermediation', item_type='story', url='https://a16z.com/2021/01/15/fintechs-final-frontier/', parent=None, text=None)
+Item(by='jbredeche', descendants=33, kids=[25927346, 25926971, 25927069, 25927366, 25927250, 25927114, 25927722, 25926897, 25926932, 25927564, 25926961], score=17, time=1611607599, title='Central Banks and Disintermediation', item_type='story', url='https://a16z.com/2021/01/15/fintechs-final-frontier/', parent=None, text=None)

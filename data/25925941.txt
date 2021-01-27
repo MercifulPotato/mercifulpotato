@@ -1,0 +1,1 @@
+Item(by='Cthulhu_', descendants=None, kids=None, score=None, time=1611738808, title=None, item_type='comment', url=None, parent=25925841, text='Not in my experience; basic session auth is easy enough, and oauth has been around for a while now.<p>What keeps giving though is CRUD. Naming things, forms, APIs, persistence, every time, rinse and repeat.')
