@@ -1,1 +1,1 @@
-Item(by='f430', descendants=None, kids=None, score=None, time=1611622653, title=None, item_type='comment', url=None, parent=25908922, text='I always thought it was genetics or perhaps excessive screen time is my next guess but I&#x27;ve been told its not possible.')
+Item(by='f430', descendants=None, kids=[25940329], score=None, time=1611622653, title=None, item_type='comment', url=None, parent=25908922, text='I always thought it was genetics or perhaps excessive screen time is my next guess but I&#x27;ve been told its not possible.')

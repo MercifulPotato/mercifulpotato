@@ -1,1 +1,1 @@
-Item(by='delebe', descendants=0, kids=None, score=2, time=1611825285, title='A Lisp for PHP', item_type='story', url='https://phel-lang.org', parent=None, text=None)
+Item(by='delebe', descendants=1, kids=[25940388], score=4, time=1611825285, title='A Lisp for PHP', item_type='story', url='https://phel-lang.org', parent=None, text=None)

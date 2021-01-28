@@ -1,0 +1,1 @@
+Item(by='jabbany', descendants=None, kids=None, score=None, time=1611841598, title=None, item_type='comment', url=None, parent=25941575, text='Yes, the idea is that the effort isn&#x27;t really eliminated. It&#x27;s just shifted from reviewing the code to reviewing the new tests, which sometimes can be just as hard as reviewing the code when complex bugs are involved.')

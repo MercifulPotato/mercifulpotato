@@ -1,1 +1,1 @@
-Item(by='enw', descendants=None, kids=None, score=None, time=1611811377, title=None, item_type='comment', url=None, parent=25936568, text='I will speak how I wish to my friends; nobody will ever dictate otherwise.')
+Item(by='enw', descendants=None, kids=[25940003], score=None, time=1611811377, title=None, item_type='comment', url=None, parent=25936568, text='I will speak how I wish to my friends; nobody will ever dictate otherwise.')

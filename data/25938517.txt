@@ -1,1 +1,1 @@
-Item(by='martingordon', descendants=0, kids=None, score=2, time=1611811234, title='A Day in the Life of Your Data [pdf]', item_type='story', url='https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf', parent=None, text=None)
+Item(by='martingordon', descendants=2, kids=[25940765, 25940347], score=6, time=1611811234, title='A Day in the Life of Your Data [pdf]', item_type='story', url='https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf', parent=None, text=None)

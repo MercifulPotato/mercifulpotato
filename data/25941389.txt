@@ -1,0 +1,1 @@
+Item(by='valenterry', descendants=None, kids=[25941684], score=None, time=1611840087, title=None, item_type='comment', url=None, parent=25940702, text='&gt; whether they&#x27;re used by value or reference<p>Or even better, if both is the same. That&#x27;s the reason why, as much as I like Rust, I would never use it for a project where performance is not critical.')

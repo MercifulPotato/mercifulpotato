@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=None, score=None, time=1611843461, title=None, item_type='comment', url=None, parent=25941809, text='The point is that reskinning Firefox is pretty difficult because there&#x27;s no stable API between the &quot;skin&quot; and underlying engine. Firefox used to have an option for embedding Gecko, but it&#x27;s no longer maintained.')

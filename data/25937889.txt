@@ -1,1 +1,1 @@
-Item(by='pabs3', descendants=None, kids=None, score=None, time=1611805532, title=None, item_type='comment', url=None, parent=25934286, text='I wonder if anyone has run a standard Linux distro on one of these smart TVs?')
+Item(by='pabs3', descendants=None, kids=[25940290], score=None, time=1611805532, title=None, item_type='comment', url=None, parent=25934286, text='I wonder if anyone has run a standard Linux distro on one of these smart TVs?')

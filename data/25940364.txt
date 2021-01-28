@@ -1,0 +1,1 @@
+Item(by='aumerle', descendants=None, kids=[25941971], score=None, time=1611830741, title=None, item_type='comment', url=None, parent=25940310, text='time kitty -1 false\nreal 0.098\nuser 0.080\nsys 0.017\nmaxmem 23 MB\nfaults 0<p>time xterm  false\nreal 0.052\nuser 0.035\nsys 0.000\nmaxmem 9 MB\nfaults 1<p>Doesnt look like an order of magnitude to me.')

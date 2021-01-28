@@ -1,1 +1,1 @@
-Item(by='pojntfx', descendants=None, kids=None, score=None, time=1611818299, title=None, item_type='comment', url=None, parent=25938999, text='Awesome! Chose Jitsi a while back for my old high school&#x27;s COVID chat system and it&#x27;s been working flawlessly.')
+Item(by='pojntfx', descendants=None, kids=[25940336], score=None, time=1611818299, title=None, item_type='comment', url=None, parent=25938999, text='Awesome! Chose Jitsi a while back for my old high school&#x27;s COVID chat system and it&#x27;s been working flawlessly.')

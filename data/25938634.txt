@@ -1,1 +1,1 @@
-Item(by='TylerE', descendants=None, kids=None, score=None, time=1611812488, title=None, item_type='comment', url=None, parent=25938432, text='Do they own real estate?<p>Every GS I’ve ever seen is in a strip mall, where they are surely renting.')
+Item(by='TylerE', descendants=None, kids=[25940177], score=None, time=1611812488, title=None, item_type='comment', url=None, parent=25938432, text='Do they own real estate?<p>Every GS I’ve ever seen is in a strip mall, where they are surely renting.')

@@ -1,0 +1,1 @@
+Item(by='saghul', descendants=None, kids=None, score=None, time=1611836295, title=None, item_type='comment', url=None, parent=25940848, text='We have no plans for it at this point. We provide native SDKs for Android and iOS and IIRC there is already a 3rd party Flutter module which exposes our native SDKs to Flutter.')

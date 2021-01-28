@@ -1,1 +1,1 @@
-Item(by='graaben', descendants=8, kids=[25938263, 25932093, 25933498, 25932136, 25932613], score=29, time=1611770914, title='Who’s Making All Those Scam Calls?', item_type='story', url='https://www.nytimes.com/2021/01/27/magazine/scam-call-centers.html', parent=None, text=None)
+Item(by='graaben', descendants=8, kids=[25932093, 25933498, 25938263, 25932136, 25932613], score=29, time=1611770914, title='Who’s Making All Those Scam Calls?', item_type='story', url='https://www.nytimes.com/2021/01/27/magazine/scam-call-centers.html', parent=None, text=None)

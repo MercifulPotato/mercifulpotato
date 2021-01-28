@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=0, kids=None, score=2, time=1611824769, title="Qutebrowser v2.0.0 released, with support for Brave's Rust adblocker", item_type='story', url='https://github.com/qutebrowser/qutebrowser/releases/tag/v2.0.0', parent=None, text=None)
+Item(by='todsacerdoti', descendants=2, kids=[25939926], score=4, time=1611824769, title="Qutebrowser v2.0.0 released, with support for Brave's Rust adblocker", item_type='story', url='https://github.com/qutebrowser/qutebrowser/releases/tag/v2.0.0', parent=None, text=None)

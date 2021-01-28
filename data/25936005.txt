@@ -1,1 +1,1 @@
-Item(by='datelligence', descendants=0, kids=None, score=3, time=1611792194, title='Tamale King: ecommerce website from early 90s', item_type='story', url='http://www.tamaleking.com/page1.html', parent=None, text=None)
+Item(by='datelligence', descendants=20, kids=[25940829, 25942005, 25941509, 25942053, 25940964, 25940912, 25940930, 25940889, 25941024, 25941648, 25940850, 25940838, 25941038, 25940997], score=38, time=1611792194, title='Tamale King: ecommerce website from early 90s', item_type='story', url='http://www.tamaleking.com/page1.html', parent=None, text=None)

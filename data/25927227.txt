@@ -1,1 +1,1 @@
-Item(by='corobo', descendants=None, kids=None, score=None, time=1611749287, title=None, item_type='comment', url=None, parent=25925835, text='Twitter has users, can&#x27;t beat that feature. I&#x27;ll use Mastodon when it&#x27;s worth the server admin haha')
+Item(by='corobo', descendants=None, kids=[25940203], score=None, time=1611749287, title=None, item_type='comment', url=None, parent=25925835, text='Twitter has users, can&#x27;t beat that feature. I&#x27;ll use Mastodon when it&#x27;s worth the server admin haha')

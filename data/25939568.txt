@@ -1,1 +1,1 @@
-Item(by='masonic', descendants=None, kids=None, score=None, time=1611822723, title=None, item_type='comment', url=None, parent=25934106, text='<p><pre><code>  If someone wants you to listen, it is self-evident that they want your help\n</code></pre>\nHelp? Or <i>compliance?</i>')
+Item(by='masonic', descendants=None, kids=[25941758], score=None, time=1611822723, title=None, item_type='comment', url=None, parent=25934106, text='<p><pre><code>  If someone wants you to listen, it is self-evident that they want your help\n</code></pre>\nHelp? Or <i>compliance?</i>')

@@ -1,1 +1,1 @@
-Item(by='keiferski', descendants=None, kids=None, score=None, time=1611647112, title=None, item_type='comment', url=None, parent=25912925, text='My HN comment has 8 upvotes. I assume they meant the dislikes on the YouTube video itself (362 likes, 103 dislikes.)')
+Item(by='keiferski', descendants=None, kids=[25940348], score=None, time=1611647112, title=None, item_type='comment', url=None, parent=25912925, text='My HN comment has 8 upvotes. I assume they meant the dislikes on the YouTube video itself (362 likes, 103 dislikes.)')

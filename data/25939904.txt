@@ -1,1 +1,1 @@
-Item(by='jsilence', descendants=None, kids=None, score=None, time=1611825816, title=None, item_type='comment', url=None, parent=25939841, text='They are free to run their own Matrix, Mattermost, Rocketchat, IRC, whatever node...')
+Item(by='jsilence', descendants=None, kids=[25940357, 25940760], score=None, time=1611825816, title=None, item_type='comment', url=None, parent=25939841, text='They are free to run their own Matrix, Mattermost, Rocketchat, IRC, whatever node...')

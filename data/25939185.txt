@@ -1,1 +1,1 @@
-Item(by='kabes', descendants=None, kids=None, score=None, time=1611819061, title=None, item_type='comment', url=None, parent=25938999, text='If I understand correctly this is for jitsi meet. Is a hosted version of the jitsi SFU standalone also planned?')
+Item(by='kabes', descendants=None, kids=[25940224], score=None, time=1611819061, title=None, item_type='comment', url=None, parent=25938999, text='If I understand correctly this is for jitsi meet. Is a hosted version of the jitsi SFU standalone also planned?')

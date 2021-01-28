@@ -1,1 +1,1 @@
-Item(by='bilbo0s', descendants=None, kids=None, score=None, time=1611795035, title=None, item_type='comment', url=None, parent=25935373, text='I hear you. Completely agree. I always thought the complaints were a bit narrower in scope than most people on HN seemed to believe.')
+Item(by='bilbo0s', descendants=None, kids=[25940804], score=None, time=1611795035, title=None, item_type='comment', url=None, parent=25935373, text='I hear you. Completely agree. I always thought the complaints were a bit narrower in scope than most people on HN seemed to believe.')
