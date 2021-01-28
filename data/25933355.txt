@@ -1,1 +1,1 @@
-Item(by='ndiscussion', descendants=None, kids=None, score=None, time=1611778677, title=None, item_type='comment', url=None, parent=25932719, text='Ah yes, they may want to chop off my head... but I would never tell them this is wrong.')
+Item(by='ndiscussion', descendants=None, kids=[25933826], score=None, time=1611778677, title=None, item_type='comment', url=None, parent=25932719, text='Ah yes, they may want to chop off my head... but I would never tell them this is wrong.')

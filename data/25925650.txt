@@ -1,1 +1,1 @@
-Item(by='Const-me', descendants=None, kids=None, score=None, time=1611735914, title=None, item_type='comment', url=None, parent=25924736, text='I support net neutrality, but why do you think that should be the first step?')
+Item(by='Const-me', descendants=None, kids=[25935773], score=None, time=1611735914, title=None, item_type='comment', url=None, parent=25924736, text='I support net neutrality, but why do you think that should be the first step?')

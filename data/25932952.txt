@@ -1,1 +1,1 @@
-Item(by='batterylow', descendants=None, kids=None, score=None, time=1611776728, title=None, item_type='comment', url=None, parent=25932577, text='Rez <a href="https:&#x2F;&#x2F;youtu.be&#x2F;D-HsJ1KNqs0?t=65" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;D-HsJ1KNqs0?t=65</a>')
+Item(by=None, descendants=None, kids=None, score=None, time=1611776728, title=None, item_type='comment', url=None, parent=25932577, text=None)

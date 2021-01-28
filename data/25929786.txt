@@ -1,1 +1,1 @@
-Item(by='ronyfadel', descendants=None, kids=None, score=None, time=1611763004, title=None, item_type='comment', url=None, parent=25929259, text='A little note: I&#x27;m not the blog post&#x27;s author but I&#x27;ve contacted Jon to reply to questions in the comments.')
+Item(by='ronyfadel', descendants=None, kids=[25936731], score=None, time=1611763004, title=None, item_type='comment', url=None, parent=25929259, text='A little note: I&#x27;m not the blog post&#x27;s author but I&#x27;ve contacted Jon to reply to questions in the comments.')

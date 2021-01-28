@@ -1,0 +1,1 @@
+Item(by='wsuen', descendants=None, kids=None, score=None, time=1611783092, title=None, item_type='comment', url=None, parent=25934097, text='Hi mehrdada. In the article, we discuss how to evaluate tradeoffs of ML projects. One of these tradeoffs is cost of development and deployment vs. cost of not developing a solution. In our particular case, the tradeoff made sense.')

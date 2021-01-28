@@ -1,0 +1,1 @@
+Item(by='ah-', descendants=0, kids=None, score=3, time=1611787828, title='Sudo: Buffer overflow in command line unescaping', item_type='story', url='https://www.sudo.ws/alerts/unescape_overflow.html', parent=None, text=None)

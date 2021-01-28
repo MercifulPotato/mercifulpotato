@@ -1,1 +1,1 @@
-Item(by='clintonb', descendants=None, kids=None, score=None, time=1611769561, title=None, item_type='comment', url=None, parent=25930903, text='The prices I&#x27;ve seen are also slightly more expensive than Superchargers.')
+Item(by='clintonb', descendants=None, kids=[25934123], score=None, time=1611769561, title=None, item_type='comment', url=None, parent=25930903, text='The prices I&#x27;ve seen are also slightly more expensive than Superchargers.')

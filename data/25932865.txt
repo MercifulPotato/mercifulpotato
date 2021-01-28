@@ -1,1 +1,1 @@
-Item(by='chrismorgan', descendants=None, kids=None, score=None, time=1611776344, title=None, item_type='comment', url=None, parent=25932310, text='Pity that you must expose everyone’s passwords in plain text to achieve this (those older browsers won’t support TLS).')
+Item(by='chrismorgan', descendants=None, kids=[25934016], score=None, time=1611776344, title=None, item_type='comment', url=None, parent=25932310, text='Pity that you must expose everyone’s passwords in plain text to achieve this (those older browsers won’t support TLS).')

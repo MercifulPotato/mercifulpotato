@@ -1,0 +1,1 @@
+Item(by='cozzyd', descendants=None, kids=[25936453], score=None, time=1611793992, title=None, item_type='comment', url=None, parent=25936394, text='hmm, it&#x27;s not obvious (to me!) in the single-line case, but that might be because of the high-frequency noise that makes the derivative sort of random.')

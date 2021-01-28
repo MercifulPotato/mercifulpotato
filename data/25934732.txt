@@ -1,0 +1,1 @@
+Item(by='SulfurHexaFluri', descendants=None, kids=[25935501], score=None, time=1611785345, title=None, item_type='comment', url=None, parent=25933443, text='Rails is an excellent choice for the backend but on the frontend its much less productive than react. Most rails apps these days would use rails as an api backend and react on the frontend.')

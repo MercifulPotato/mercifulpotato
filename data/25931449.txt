@@ -1,1 +1,1 @@
-Item(by='rabuse', descendants=None, kids=None, score=None, time=1611770328, title=None, item_type='comment', url=None, parent=25931210, text='Yes. The large order is placed on the market, and it would be gobbled up at this point in time.')
+Item(by='rabuse', descendants=None, kids=[25934716], score=None, time=1611770328, title=None, item_type='comment', url=None, parent=25931210, text='Yes. The large order is placed on the market, and it would be gobbled up at this point in time.')

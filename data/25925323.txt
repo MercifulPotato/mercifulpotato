@@ -1,1 +1,1 @@
-Item(by='Natsu', descendants=None, kids=None, score=None, time=1611732581, title=None, item_type='comment', url=None, parent=25924226, text='Wait, didn&#x27;t Reddit have a policy against publishing &quot;hacked information&quot; just about two months ago?')
+Item(by='Natsu', descendants=None, kids=[25936993], score=None, time=1611732581, title=None, item_type='comment', url=None, parent=25924226, text='Wait, didn&#x27;t Reddit have a policy against publishing &quot;hacked information&quot; just about two months ago?')

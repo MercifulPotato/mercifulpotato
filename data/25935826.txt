@@ -1,0 +1,1 @@
+Item(by='pansa2', descendants=None, kids=None, score=None, time=1611791318, title=None, item_type='comment', url=None, parent=25933972, text='&gt; <i>Are there psychotic devs out there who call it something other than `self`? Yuck!</i><p>Sometimes I like to overload operators using `def __add__(lhs, rhs)` and `def __radd__(rhs, lhs)`.')

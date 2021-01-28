@@ -1,0 +1,1 @@
+Item(by='api', descendants=None, kids=[25934130], score=None, time=1611781283, title=None, item_type='comment', url=None, parent=25933646, text='STUN doesn&#x27;t relay. It assists with P2P connection setup. TURN relays, and is intended as the path of last resort. The vast majority of WebRTC traffic is P2P.')

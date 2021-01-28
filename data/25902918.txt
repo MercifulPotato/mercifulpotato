@@ -1,1 +1,1 @@
-Item(by='koheripbal', descendants=None, kids=None, score=None, time=1611581621, title=None, item_type='comment', url=None, parent=25902526, text='Not even this millennia.')
+Item(by='koheripbal', descendants=None, kids=[25935802], score=None, time=1611581621, title=None, item_type='comment', url=None, parent=25902526, text='Not even this millennia.')

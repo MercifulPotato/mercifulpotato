@@ -1,1 +1,1 @@
-Item(by='diggernet', descendants=None, kids=None, score=None, time=1611770437, title=None, item_type='comment', url=None, parent=25930322, text='Oh heck, let&#x27;s just call it a spoon.')
+Item(by='diggernet', descendants=None, kids=[25933734], score=None, time=1611770437, title=None, item_type='comment', url=None, parent=25930322, text='Oh heck, let&#x27;s just call it a spoon.')

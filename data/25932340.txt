@@ -1,1 +1,1 @@
-Item(by='Artlav', descendants=None, kids=None, score=None, time=1611774209, title=None, item_type='comment', url=None, parent=25932144, text='So... that&#x27;s just &quot;gas station on every corner&quot; model taken to it&#x27;s extreme, no?')
+Item(by='Artlav', descendants=None, kids=[25935850], score=None, time=1611774209, title=None, item_type='comment', url=None, parent=25932144, text='So... that&#x27;s just &quot;gas station on every corner&quot; model taken to it&#x27;s extreme, no?')

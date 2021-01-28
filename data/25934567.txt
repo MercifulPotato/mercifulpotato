@@ -1,0 +1,1 @@
+Item(by='fleabitdev', descendants=None, kids=[25934997, 25935339, 25934719, 25934956], score=None, time=1611784648, title=None, item_type='comment', url=None, parent=25934356, text='How do you compensate for the lack of type-dependent name resolution? MyModule.foo(my_t) seems verbose, compared to my_t.foo()')

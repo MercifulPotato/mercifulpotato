@@ -1,0 +1,1 @@
+Item(by='TrueGeek', descendants=None, kids=[25936939], score=None, time=1611797421, title=None, item_type='comment', url=None, parent=25936525, text='Safari does, and SFControllerView does. WKWebView does not. Which means apps can’t use WebRTC inside simple WebViews, and Chrome can’t support WebRTC on iOS.')

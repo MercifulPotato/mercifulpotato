@@ -1,0 +1,1 @@
+Item(by='pansa2', descendants=None, kids=[25936047], score=None, time=1611791211, title=None, item_type='comment', url=None, parent=25935589, text='We can inherit from `list`, `dict` etc., but objects of those classes are still not as flexible as &quot;normal&quot; objects. For example, we can&#x27;t add an attribute to a list using `l = []; l.a = 1`.')

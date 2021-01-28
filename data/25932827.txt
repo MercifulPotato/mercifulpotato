@@ -1,1 +1,1 @@
-Item(by='crowquill', descendants=None, kids=None, score=None, time=1611776186, title=None, item_type='comment', url=None, parent=25917403, text='Congratulations on the launch. I’m just getting started in the data pipelines world and was wondering, how does Airbyte compare to Embulk?')
+Item(by='crowquill', descendants=None, kids=[25935411], score=None, time=1611776186, title=None, item_type='comment', url=None, parent=25917403, text='Congratulations on the launch. I’m just getting started in the data pipelines world and was wondering, how does Airbyte compare to Embulk?')

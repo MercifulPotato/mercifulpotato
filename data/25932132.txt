@@ -1,1 +1,1 @@
-Item(by='shmerl', descendants=None, kids=None, score=None, time=1611773181, title=None, item_type='comment', url=None, parent=25929379, text='Well, they are working with Samsung to put some generation of RDNA in their Exynos chips. So surely they should care about power efficiency.')
+Item(by='shmerl', descendants=None, kids=[25934040], score=None, time=1611773181, title=None, item_type='comment', url=None, parent=25929379, text='Well, they are working with Samsung to put some generation of RDNA in their Exynos chips. So surely they should care about power efficiency.')

@@ -1,1 +1,1 @@
-Item(by='luu', descendants=0, kids=None, score=3, time=1611722911, title='Time Series Density Plot', item_type='story', url='https://observablehq.com/@twitter/time-series-density-plot', parent=None, text=None)
+Item(by='luu', descendants=7, kids=[25936338, 25935997], score=16, time=1611722911, title='Time Series Density Plot', item_type='story', url='https://observablehq.com/@twitter/time-series-density-plot', parent=None, text=None)

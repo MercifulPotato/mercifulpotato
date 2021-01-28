@@ -1,0 +1,1 @@
+Item(by='lostmsu', descendants=None, kids=None, score=None, time=1611796356, title=None, item_type='comment', url=None, parent=25936153, text='Yeah, it is basically OO with most of the classes having no parents (e.g. without inheritance, but still incapsulated, and polymorphic).')

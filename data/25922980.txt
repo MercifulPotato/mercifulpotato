@@ -1,1 +1,1 @@
-Item(by='Nukesor', descendants=2, kids=[25926979, 25924712], score=26, time=1611709401, title='Pueue – a beautiful Unix job queue system', item_type='story', url='https://github.com/Nukesor/pueue', parent=None, text=None)
+Item(by='Nukesor', descendants=2, kids=[25924712, 25926979], score=29, time=1611709401, title='Pueue – a beautiful Unix job queue system', item_type='story', url='https://github.com/Nukesor/pueue', parent=None, text=None)

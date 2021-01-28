@@ -1,0 +1,1 @@
+Item(by='shams93', descendants=None, kids=None, score=None, time=1611793126, title=None, item_type='comment', url=None, parent=25933872, text='Well you can give an array of stun&#x2F;turn servers in the client without needing any special load balancer so its not really hard to do better than one point of failure.')
