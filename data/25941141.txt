@@ -1,1 +1,1 @@
-Item(by='philipps', descendants=None, kids=None, score=None, time=1611838283, title=None, item_type='comment', url=None, parent=25940289, text='I would still like to see an answer to the questions above. In particular, does a user who connects on three devices count as three MAUs?')
+Item(by='philipps', descendants=None, kids=[25943557], score=None, time=1611838283, title=None, item_type='comment', url=None, parent=25940289, text='I would still like to see an answer to the questions above. In particular, does a user who connects on three devices count as three MAUs?')

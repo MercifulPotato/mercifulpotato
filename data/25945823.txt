@@ -1,0 +1,1 @@
+Item(by='mr-wendel', descendants=None, kids=None, score=None, time=1611856679, title=None, item_type='comment', url=None, parent=25945703, text='Great point.<p>Also, you may have things talking to external resources that are sensitive to timeouts ... even small ones. You may not be able to cleanly resume execution and cause an entirely new problem.')

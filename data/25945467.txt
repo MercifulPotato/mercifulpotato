@@ -1,0 +1,1 @@
+Item(by='Xophmeister', descendants=None, kids=[25945703], score=None, time=1611855695, title=None, item_type='comment', url=None, parent=25944866, text='Why not Ctrl+Z to get back to the prompt and then cursor up to get the last command? You can `fg` or even `bg` as desired to resume.')

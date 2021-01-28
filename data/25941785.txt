@@ -1,1 +1,1 @@
-Item(by='eznzt', descendants=None, kids=None, score=None, time=1611842351, title=None, item_type='comment', url=None, parent=25941397, text='I expect to pay a reasonable price. Being overcharged by 90% is not reasonable.')
+Item(by='eznzt', descendants=None, kids=[25943928], score=None, time=1611842351, title=None, item_type='comment', url=None, parent=25941397, text='I expect to pay a reasonable price. Being overcharged by 90% is not reasonable.')

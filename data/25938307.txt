@@ -1,1 +1,1 @@
-Item(by='pkphilip', descendants=None, kids=None, score=None, time=1611809201, title=None, item_type='comment', url=None, parent=25935913, text='Excellent project! Do you guys plan on making insulin more affordable in the US?')
+Item(by='pkphilip', descendants=None, kids=[25945142], score=None, time=1611809201, title=None, item_type='comment', url=None, parent=25935913, text='Excellent project! Do you guys plan on making insulin more affordable in the US?')

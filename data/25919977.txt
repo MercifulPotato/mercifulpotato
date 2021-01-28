@@ -1,1 +1,1 @@
-Item(by='willlll', descendants=1, kids=[25922595], score=12, time=1611688734, title='sudo buffer overflow in command line unescaping “Baron Samedit”', item_type='story', url='https://www.sudo.ws/alerts/unescape_overflow.html', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

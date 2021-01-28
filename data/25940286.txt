@@ -1,1 +1,1 @@
-Item(by='simply_sam', descendants=None, kids=None, score=None, time=1611830024, title=None, item_type='comment', url=None, parent=25925355, text='Hi, is there any way to contact you privately?<p>I would like to use this idea on a project of mine.')
+Item(by='simply_sam', descendants=None, kids=[25945868], score=None, time=1611830024, title=None, item_type='comment', url=None, parent=25925355, text='Hi, is there any way to contact you privately?<p>I would like to use this idea on a project of mine.')

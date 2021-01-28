@@ -1,1 +1,1 @@
-Item(by='rch', descendants=0, kids=None, score=9, time=1611759830, title='Datastax acquires Kesque as it gets into data streaming', item_type='story', url='https://techcrunch.com/2021/01/27/datastax-acquires-kesque-as-it-gets-into-data-streaming/', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

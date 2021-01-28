@@ -1,1 +1,1 @@
-Item(by='lermontov', descendants=1, kids=[25940280], score=13, time=1611726735, title="Incremental Perturbation: How to Know Whether You've Got a Plot or Not (1999) [pdf]", item_type='story', url='http://www.unm.edu/~gmartin/Essays/Incremental%20Perturbation.pdf', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

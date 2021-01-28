@@ -1,1 +1,1 @@
-Item(by='cyrksoft', descendants=0, kids=None, score=2, time=1611835407, title='Jane Street: the top Wall Street firm ‘no one’s heard of’', item_type='story', url='https://www.ft.com/content/81811f27-4a8f-4941-99b3-2762cae76542', parent=None, text=None)
+Item(by='cyrksoft', descendants=1, kids=[25944463], score=6, time=1611835407, title='Jane Street: the top Wall Street firm ‘no one’s heard of’', item_type='story', url='https://www.ft.com/content/81811f27-4a8f-4941-99b3-2762cae76542', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='UncleMeat', descendants=None, kids=None, score=None, time=1611844944, title=None, item_type='comment', url=None, parent=25941243, text='Code is never free. Code that exists in a project continuously costs energy in maintenance. This is why deleting code is valuable.')
+Item(by='UncleMeat', descendants=None, kids=[25944230], score=None, time=1611844944, title=None, item_type='comment', url=None, parent=25941243, text='Code is never free. Code that exists in a project continuously costs energy in maintenance. This is why deleting code is valuable.')

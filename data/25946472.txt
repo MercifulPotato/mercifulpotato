@@ -1,0 +1,1 @@
+Item(by='leetrout', descendants=None, kids=None, score=None, time=1611858526, title=None, item_type='comment', url=None, parent=25941273, text='Thanks for the answer.<p>We were just discussing Cognito being a pretty significant single point of failure in our current setup (any vendor would be, though). I wish they would offer replication as the other commenter mentioned.')

@@ -1,0 +1,1 @@
+Item(by='kowlo', descendants=None, kids=None, score=None, time=1611849513, title=None, item_type='comment', url=None, parent=25943773, text='It does say &quot;if&quot;, but with MiniConda&#x27;s CLI installer it&#x27;s currently<p>&gt; Do you wish the installer to initialize Miniconda3 by running conda init [yes|no]:<p>with the default as [no] as well')

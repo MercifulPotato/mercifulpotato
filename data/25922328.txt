@@ -1,1 +1,1 @@
-Item(by='drtillberg', descendants=2, kids=[25927484, 25926648], score=17, time=1611704024, title='Alexey Navalny’s Fearless Return to Russia', item_type='story', url='https://www.newyorker.com/news/our-columnists/alexey-navalnys-fearless-return-to-russia', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

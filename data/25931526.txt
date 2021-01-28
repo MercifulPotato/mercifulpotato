@@ -1,1 +1,1 @@
-Item(by='vel0city', descendants=None, kids=[25931595, 25939827, 25931604], score=None, time=1611770637, title=None, item_type='comment', url=None, parent=25931403, text='You cannot charge any non-Tesla car from a Tesla connector. Tesla uses a proprietary connector and signaling protocol.')
+Item(by='vel0city', descendants=None, kids=[25931595, 25931604, 25939827], score=None, time=1611770637, title=None, item_type='comment', url=None, parent=25931403, text='You cannot charge any non-Tesla car from a Tesla connector. Tesla uses a proprietary connector and signaling protocol.')

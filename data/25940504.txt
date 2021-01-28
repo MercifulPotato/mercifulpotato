@@ -1,1 +1,1 @@
-Item(by='Gravityloss', descendants=None, kids=None, score=None, time=1611832076, title=None, item_type='comment', url=None, parent=25933870, text='If the wood is moist, it makes a difference if it&#x27;s frozen or not.')
+Item(by='Gravityloss', descendants=None, kids=[25947101], score=None, time=1611832076, title=None, item_type='comment', url=None, parent=25933870, text='If the wood is moist, it makes a difference if it&#x27;s frozen or not.')

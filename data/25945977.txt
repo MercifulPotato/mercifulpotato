@@ -1,0 +1,1 @@
+Item(by='gregsadetsky', descendants=None, kids=[25946606], score=None, time=1611857053, title=None, item_type='comment', url=None, parent=25945500, text='30ms here in Chrome and 23ms in Firefox here. But yeah, same questions -- is this over the network (or no, that&#x27;s the point of a p2p connection)? What is this measuring..?')

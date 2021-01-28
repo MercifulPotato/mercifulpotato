@@ -1,1 +1,1 @@
-Item(by='BerislavLopac', descendants=None, kids=None, score=None, time=1611789697, title=None, item_type='comment', url=None, parent=25934292, text='Ironically, in Python you can use interfaces without ever resorting to inheritance. :)')
+Item(by='BerislavLopac', descendants=None, kids=[25944334], score=None, time=1611789697, title=None, item_type='comment', url=None, parent=25934292, text='Ironically, in Python you can use interfaces without ever resorting to inheritance. :)')

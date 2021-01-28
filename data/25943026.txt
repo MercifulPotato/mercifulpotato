@@ -1,1 +1,1 @@
-Item(by='frongpik', descendants=None, kids=None, score=None, time=1611847003, title=None, item_type='comment', url=None, parent=25942963, text='TVs will sign a deal with telcos that the latter give access to 5G to certain GUIDs hardcoded in TVs.')
+Item(by='frongpik', descendants=None, kids=[25943389], score=None, time=1611847003, title=None, item_type='comment', url=None, parent=25942963, text='TVs will sign a deal with telcos that the latter give access to 5G to certain GUIDs hardcoded in TVs.')

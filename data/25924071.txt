@@ -1,1 +1,1 @@
-Item(by='pinewurst', descendants=1, kids=[25935306], score=6, time=1611719823, title='The Soviet Z80 Processor', item_type='story', url='http://www.cpushack.com/2021/01/26/the-story-of-the-soviet-z80-processor/', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

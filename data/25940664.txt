@@ -1,1 +1,1 @@
-Item(by='aumerle', descendants=None, kids=None, score=None, time=1611833982, title=None, item_type='comment', url=None, parent=25940617, text='You need to run kitty -1 to start kitty and leave it running. Then all future kitty -1 invocations will open new windows instantaneously.')
+Item(by='aumerle', descendants=None, kids=[25946518], score=None, time=1611833982, title=None, item_type='comment', url=None, parent=25940617, text='You need to run kitty -1 to start kitty and leave it running. Then all future kitty -1 invocations will open new windows instantaneously.')

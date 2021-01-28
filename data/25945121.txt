@@ -1,0 +1,1 @@
+Item(by='AbrahamParangi', descendants=None, kids=None, score=None, time=1611854318, title=None, item_type='comment', url=None, parent=25941765, text='I bet you could take advantage of the fact that the function generated with feedforward + relu is piecewise linear to mesh the resulting SDF really efficiently.')

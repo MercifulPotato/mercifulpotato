@@ -1,1 +1,1 @@
-Item(by='pdmccormick', descendants=None, kids=None, score=None, time=1611731237, title=None, item_type='comment', url=None, parent=25925125, text='You might be interested in Xonsh: <a href="https:&#x2F;&#x2F;xon.sh&#x2F;" rel="nofollow">https:&#x2F;&#x2F;xon.sh&#x2F;</a>')
+Item(by='pdmccormick', descendants=None, kids=[25942855], score=None, time=1611731237, title=None, item_type='comment', url=None, parent=25925125, text='You might be interested in Xonsh: <a href="https:&#x2F;&#x2F;xon.sh&#x2F;" rel="nofollow">https:&#x2F;&#x2F;xon.sh&#x2F;</a>')

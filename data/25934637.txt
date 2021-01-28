@@ -1,1 +1,1 @@
-Item(by='Alupis', descendants=0, kids=None, score=9, time=1611784895, title='Intel’s new desktop GPUs won’t work in AMD systems', item_type='story', url='https://www.theverge.com/2021/1/27/22252534/intel-desktop-gpu-amd-support-systems-iris-xe', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

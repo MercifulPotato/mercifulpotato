@@ -1,1 +1,1 @@
-Item(by='elorant', descendants=0, kids=None, score=3, time=1611784313, title='In a SaaS world, Tucows closes the Internet shareware barn doors', item_type='story', url='https://www.computerworld.com/article/3604788/in-a-daas-world-tucows-closes-the-internet-shareware-barn-doors.html', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

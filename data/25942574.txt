@@ -1,1 +1,1 @@
-Item(by='chollida1', descendants=None, kids=None, score=None, time=1611845566, title=None, item_type='comment', url=None, parent=25942101, text='short numbers almost always lag atleast a week from what the average person can see.')
+Item(by='chollida1', descendants=None, kids=[25943287], score=None, time=1611845566, title=None, item_type='comment', url=None, parent=25942101, text='short numbers almost always lag atleast a week from what the average person can see.')

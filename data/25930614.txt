@@ -1,1 +1,1 @@
-Item(by='whatl3y', descendants=2, kids=[25933923, 25931619], score=14, time=1611766961, title='Linux Struck by Exploitable Root Access Sudo Vulnerability, Patch ASAP', item_type='story', url='https://hothardware.com/news/linux-exploitable-sudo-vulnerability-patch-now', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='drewcon', descendants=4, kids=[25932922, 25933298], score=5, time=1611776473, title='Firefighters Battle an Unseen Hazard: Their Gear Could Be Toxic', item_type='story', url='https://www.nytimes.com/2021/01/26/climate/pfas-firefighter-safety.html', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='doppp', descendants=0, kids=None, score=4, time=1611813011, title='Singapore is the 2nd safest place to live in the world during the pandemic', item_type='story', url='https://sea.mashable.com/science/14229/singapore-is-the-2nd-safest-place-to-live-in-the-world-during-the-pandemic', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='HighChaparral', descendants=None, kids=None, score=None, time=1611833176, title=None, item_type='comment', url=None, parent=25939357, text='Same here. It can also be controlled over http which opens up all sorts of home automation possibilities.')
+Item(by='HighChaparral', descendants=None, kids=[25943600], score=None, time=1611833176, title=None, item_type='comment', url=None, parent=25939357, text='Same here. It can also be controlled over http which opens up all sorts of home automation possibilities.')

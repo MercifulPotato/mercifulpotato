@@ -1,1 +1,1 @@
-Item(by='somelikeithot', descendants=2, kids=[25938454, 25937603, 25938451], score=5, time=1611798102, title='You Wont Have a Family', item_type='story', url='https://medium.com/@dreammedia123/why-you-wont-have-a-family-30c8843aa9fa', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

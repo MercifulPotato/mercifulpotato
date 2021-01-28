@@ -1,1 +1,1 @@
-Item(by='subpixel', descendants=None, kids=None, score=None, time=1611835605, title=None, item_type='comment', url=None, parent=25936005, text='They ought to sell t-shirts, I’d buy one.')
+Item(by='subpixel', descendants=None, kids=[25942335], score=None, time=1611835605, title=None, item_type='comment', url=None, parent=25936005, text='They ought to sell t-shirts, I’d buy one.')

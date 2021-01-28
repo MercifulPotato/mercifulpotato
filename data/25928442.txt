@@ -1,1 +1,1 @@
-Item(by='datashrimp', descendants=1, kids=[25928523], score=9, time=1611756666, title='Twitter is opening up its full tweet archive to academic researchers for free', item_type='story', url='https://www.theverge.com/2021/1/26/22250203/twitter-academic-research-public-tweet-archive-free-access', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

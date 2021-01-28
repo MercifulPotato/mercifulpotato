@@ -1,1 +1,1 @@
-Item(by='imtringued', descendants=None, kids=None, score=None, time=1611833894, title=None, item_type='comment', url=None, parent=25936539, text='OOP is about code organization. Type dependent namespaces (also known as classes) are pretty much the core of OOP.')
+Item(by='imtringued', descendants=None, kids=[25944514], score=None, time=1611833894, title=None, item_type='comment', url=None, parent=25936539, text='OOP is about code organization. Type dependent namespaces (also known as classes) are pretty much the core of OOP.')

@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=None, score=None, time=1611856981, title=None, item_type='comment', url=None, parent=25940313, text='Are you suggesting everything that currently takes a file-loke object &quot;f&quot; instead takes &quot;fstate&quot; &quot;fread&quot; &quot;fwrite&quot; &quot;fclose&quot; &quot;fflush&quot;...?')

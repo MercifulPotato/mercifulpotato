@@ -1,1 +1,1 @@
-Item(by='undefinednull', descendants=6, kids=[25933882, 25937434], score=18, time=1611779646, title='Reddit Announces Partnership with Ethereum', item_type='story', url='https://www.reddit.com/r/ethereum/comments/l6c3kx/reddit_announces_partnership_with_the_ethereum/', parent=None, text=None)
+Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='Ennea', descendants=None, kids=None, score=None, time=1611842354, title=None, item_type='comment', url=None, parent=25941777, text='I&#x27;m curious: what bugs did you run into? I&#x27;ve started using TST about a week ago and have not encountered any bugs whatsoever.')
+Item(by='Ennea', descendants=None, kids=[25942490], score=None, time=1611842354, title=None, item_type='comment', url=None, parent=25941777, text='I&#x27;m curious: what bugs did you run into? I&#x27;ve started using TST about a week ago and have not encountered any bugs whatsoever.')
