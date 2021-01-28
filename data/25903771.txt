@@ -1,1 +1,1 @@
-Item(by='tambourine_man', descendants=0, kids=None, score=5, time=1611586448, title='The iPhone is today’s Kodak Brownie Camera', item_type='story', url='https://om.co/2021/01/24/why-iphone-is-todays-kodak-brownie-camera/', parent=None, text=None)
+Item(by='tambourine_man', descendants=3, kids=[25939426, 25939408], score=11, time=1611586448, title='The iPhone is today’s Kodak Brownie Camera', item_type='story', url='https://om.co/2021/01/24/why-iphone-is-todays-kodak-brownie-camera/', parent=None, text=None)

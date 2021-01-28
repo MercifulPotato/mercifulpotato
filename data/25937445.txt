@@ -1,1 +1,1 @@
-Item(by='neuro', descendants=None, kids=None, score=None, time=1611801608, title=None, item_type='comment', url=None, parent=25937354, text='Wallstreet does it all time at their private meetings in the Hampton’s.')
+Item(by='neuro', descendants=None, kids=[25938283], score=None, time=1611801608, title=None, item_type='comment', url=None, parent=25937354, text='Wallstreet does it all time at their private meetings in the Hampton’s.')

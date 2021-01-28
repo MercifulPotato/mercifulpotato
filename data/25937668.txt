@@ -1,0 +1,1 @@
+Item(by='wmanley', descendants=4, kids=[25938358, 25938095, 25938308], score=33, time=1611803468, title='CVE-2021-3156: Sudo privilege escalation', item_type='story', url='https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-3156', parent=None, text=None)

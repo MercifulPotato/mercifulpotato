@@ -1,1 +1,1 @@
-Item(by='loceng', descendants=None, kids=None, score=None, time=1611791752, title=None, item_type='comment', url=None, parent=25933730, text='I wonder if Bitcoin&#x27;s -6.09% drop today has anything to do with them liquidating to have $ to buy these stocks.')
+Item(by='loceng', descendants=None, kids=[25939350], score=None, time=1611791752, title=None, item_type='comment', url=None, parent=25933730, text='I wonder if Bitcoin&#x27;s -6.09% drop today has anything to do with them liquidating to have $ to buy these stocks.')

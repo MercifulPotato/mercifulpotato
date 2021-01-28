@@ -1,1 +1,1 @@
-Item(by='ClawsOnPaws', descendants=8, kids=[25931105, 25931877, 25932577], score=48, time=1611764652, title='Syngen: A library for audio game development', item_type='story', url='https://shiftbacktick.io/code/2020/10/31/introducing-syngen.html', parent=None, text=None)
+Item(by='ClawsOnPaws', descendants=10, kids=[25931105, 25937986, 25931877, 25932577], score=50, time=1611764652, title='Syngen: A library for audio game development', item_type='story', url='https://shiftbacktick.io/code/2020/10/31/introducing-syngen.html', parent=None, text=None)

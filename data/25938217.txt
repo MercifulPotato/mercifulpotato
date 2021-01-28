@@ -1,0 +1,1 @@
+Item(by='sk5t', descendants=None, kids=[25939062], score=None, time=1611808431, title=None, item_type='comment', url=None, parent=25933798, text='So backend and frontend must have a wholly compatible type system?  Even good old WSDL only got 90% of the way there.  Keep going with fancier approaches and you end up looking at CORBA and its ilk.')

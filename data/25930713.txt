@@ -1,1 +1,1 @@
-Item(by='gautamcgoel', descendants=None, kids=None, score=None, time=1611767392, title=None, item_type='comment', url=None, parent=25926313, text='Why can&#x27;t IKEA furniture be used as firewood?')
+Item(by='gautamcgoel', descendants=None, kids=[25937731], score=None, time=1611767392, title=None, item_type='comment', url=None, parent=25926313, text='Why can&#x27;t IKEA furniture be used as firewood?')

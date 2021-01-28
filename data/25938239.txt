@@ -1,0 +1,1 @@
+Item(by='chrismorgan', descendants=None, kids=None, score=None, time=1611808633, title=None, item_type='comment', url=None, parent=25935115, text='Ah yes, I had completely forgotten about upgrade-insecure-requests. This mitigates a lot of what I was complaining of, though, as you say, it’s still subject to downgrade attacks at some points. Thanks for the correction.')

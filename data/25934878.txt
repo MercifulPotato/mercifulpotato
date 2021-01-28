@@ -1,1 +1,1 @@
-Item(by='firstfewshells', descendants=None, kids=None, score=None, time=1611785971, title=None, item_type='comment', url=None, parent=25931010, text='Where is this information available?')
+Item(by='firstfewshells', descendants=None, kids=[25938616], score=None, time=1611785971, title=None, item_type='comment', url=None, parent=25931010, text='Where is this information available?')

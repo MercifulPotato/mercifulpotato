@@ -1,0 +1,1 @@
+Item(by='fulafel', descendants=None, kids=None, score=None, time=1611813560, title=None, item_type='comment', url=None, parent=25935631, text='And in everyday Clojure usage the equivalent of Python attribute access is key access on maps, which is even more directly duck typed.')

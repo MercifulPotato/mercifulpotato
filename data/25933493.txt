@@ -1,1 +1,1 @@
-Item(by='scott_w', descendants=None, kids=None, score=None, time=1611779301, title=None, item_type='comment', url=None, parent=25931803, text='So tracking pixels in email clients aren’t a thing? Trust me, people will find ways around it without JS. Reinventing Flash, for a start.')
+Item(by='scott_w', descendants=None, kids=[25937646], score=None, time=1611779301, title=None, item_type='comment', url=None, parent=25931803, text='So tracking pixels in email clients aren’t a thing? Trust me, people will find ways around it without JS. Reinventing Flash, for a start.')

@@ -1,1 +1,1 @@
-Item(by='ankursoni', descendants=2, kids=[25936609, 25934281], score=1, time=1611783265, title='Kubernetes extension for automatic CICD – Fortosi', item_type='story', url='https://github.com/ankursoni/kubernetes-extension-fortosi', parent=None, text=None)
+Item(by='ankursoni', descendants=2, kids=[25934281, 25936609], score=2, time=1611783265, title='Kubernetes extension for automatic CICD – Fortosi', item_type='story', url='https://github.com/ankursoni/kubernetes-extension-fortosi', parent=None, text=None)

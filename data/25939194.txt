@@ -1,0 +1,1 @@
+Item(by='Geminidog', descendants=None, kids=[25939308], score=None, time=1611819147, title=None, item_type='comment', url=None, parent=25938480, text='Why can&#x27;t you just call the method on the instance directly? This is only useful for when a, is not quite the same type as the the class you&#x27;re copying the method from.')

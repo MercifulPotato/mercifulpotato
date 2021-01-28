@@ -1,1 +1,1 @@
-Item(by='hansvm', descendants=None, kids=None, score=None, time=1611784751, title=None, item_type='comment', url=None, parent=25934294, text='Also less humid air')
+Item(by='hansvm', descendants=None, kids=[25938405], score=None, time=1611784751, title=None, item_type='comment', url=None, parent=25934294, text='Also less humid air')

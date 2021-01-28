@@ -1,1 +1,1 @@
-Item(by='Aeolun', descendants=None, kids=None, score=None, time=1611785603, title=None, item_type='comment', url=None, parent=25934508, text='Depends on how far you are linting it? If you lint your node_packages folder you may still catch these.')
+Item(by='Aeolun', descendants=None, kids=[25937667], score=None, time=1611785603, title=None, item_type='comment', url=None, parent=25934508, text='Depends on how far you are linting it? If you lint your node_packages folder you may still catch these.')

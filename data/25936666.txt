@@ -1,1 +1,1 @@
-Item(by='kugutsumen', descendants=None, kids=None, score=None, time=1611795554, title=None, item_type='comment', url=None, parent=25936302, text='Shares that are bought back by a company are destroyed. Thus, increasing the value of the remaining shares.')
+Item(by='kugutsumen', descendants=None, kids=[25939263, 25939581], score=None, time=1611795554, title=None, item_type='comment', url=None, parent=25936302, text='Shares that are bought back by a company are destroyed. Thus, increasing the value of the remaining shares.')

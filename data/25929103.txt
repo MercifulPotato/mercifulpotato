@@ -1,1 +1,1 @@
-Item(by='miobrien', descendants=0, kids=None, score=21, time=1611760265, title='The Ghosts of Mark Fisher', item_type='story', url='https://www.newstatesman.com/mark-fisher-postcapitalist-desire-review', parent=None, text=None)
+Item(by='miobrien', descendants=7, kids=[25937086, 25937303, 25937484], score=45, time=1611760265, title='The Ghosts of Mark Fisher', item_type='story', url='https://www.newstatesman.com/mark-fisher-postcapitalist-desire-review', parent=None, text=None)

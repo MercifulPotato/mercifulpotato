@@ -1,1 +1,1 @@
-Item(by='hypomnemata', descendants=0, kids=None, score=6, time=1611776154, title='High-Low Frequency Detectors', item_type='story', url='https://distill.pub/2020/circuits/frequency-edges/', parent=None, text=None)
+Item(by='hypomnemata', descendants=2, kids=[25938758, 25939404], score=25, time=1611776154, title='High-Low Frequency Detectors', item_type='story', url='https://distill.pub/2020/circuits/frequency-edges/', parent=None, text=None)
