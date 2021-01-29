@@ -1,1 +1,1 @@
-Item(by='streetcat1', descendants=None, kids=None, score=None, time=1611897828, title=None, item_type='comment', url=None, parent=25940923, text='So what happen when a notebook on a given container needs more resources, how do you handle that ?')
+Item(by='streetcat1', descendants=None, kids=[25956335], score=None, time=1611897828, title=None, item_type='comment', url=None, parent=25940923, text='So what happen when a notebook on a given container needs more resources, how do you handle that ?')

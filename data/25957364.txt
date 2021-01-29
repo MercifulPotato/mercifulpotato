@@ -1,0 +1,1 @@
+Item(by='tomatocracy', descendants=None, kids=[25957503], score=None, time=1611929543, title=None, item_type='comment', url=None, parent=25954626, text='I thought on the PDP-11 bytes in a 16 bit word were stored little endian but the 16 bit words in a 32 bit long were stored the other way around so it&#x27;s a bit of both?')

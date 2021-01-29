@@ -1,1 +1,1 @@
-Item(by='collyw', descendants=None, kids=None, score=None, time=1611909338, title=None, item_type='comment', url=None, parent=25955155, text='Monzo appear to be more interested in showing of their hipster tech stack than anything else.')
+Item(by='collyw', descendants=None, kids=[25955491, 25955405, 25956347], score=None, time=1611909338, title=None, item_type='comment', url=None, parent=25955155, text='Monzo appear to be more interested in showing of their hipster tech stack than anything else.')

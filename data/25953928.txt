@@ -1,1 +1,1 @@
-Item(by='jdc', descendants=None, kids=None, score=None, time=1611894615, title=None, item_type='comment', url=None, parent=25951618, text='Dante is proprietary for one thing.')
+Item(by='jdc', descendants=None, kids=[25955668], score=None, time=1611894615, title=None, item_type='comment', url=None, parent=25951618, text='Dante is proprietary for one thing.')

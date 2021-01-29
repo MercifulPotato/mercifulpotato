@@ -1,1 +1,1 @@
-Item(by='creolabs', descendants=2, kids=[25941074], score=6, time=1611835008, title='A Parser for SQLite Create Table Statements', item_type='story', url='https://github.com/marcobambini/sqlite-createtable-parser', parent=None, text=None)
+Item(by='creolabs', descendants=2, kids=[25941074], score=8, time=1611835008, title='A Parser for SQLite Create Table Statements', item_type='story', url='https://github.com/marcobambini/sqlite-createtable-parser', parent=None, text=None)

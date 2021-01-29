@@ -1,1 +1,1 @@
-Item(by='luxuryballs', descendants=None, kids=None, score=None, time=1611896832, title=None, item_type='comment', url=None, parent=25953969, text='I think they did just that when they retired the slogan “don’t be evil”.')
+Item(by='luxuryballs', descendants=None, kids=[25956249], score=None, time=1611896832, title=None, item_type='comment', url=None, parent=25953969, text='I think they did just that when they retired the slogan “don’t be evil”.')

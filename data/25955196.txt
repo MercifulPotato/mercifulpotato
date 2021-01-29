@@ -1,1 +1,1 @@
-Item(by='garmaine', descendants=None, kids=None, score=None, time=1611908059, title=None, item_type='comment', url=None, parent=25955079, text='The lammergeyer, a sort of high-altitude vulture. They&#x27;re known to eat the dead on Everest.')
+Item(by='garmaine', descendants=None, kids=[25955696], score=None, time=1611908059, title=None, item_type='comment', url=None, parent=25955079, text='The lammergeyer, a sort of high-altitude vulture. They&#x27;re known to eat the dead on Everest.')

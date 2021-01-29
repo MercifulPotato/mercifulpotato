@@ -1,0 +1,1 @@
+Item(by='xiphias2', descendants=None, kids=None, score=None, time=1611924825, title=None, item_type='comment', url=None, parent=25955399, text='They should add Rust as a .NET language to be able to optimize between languages. Somebody did an experiment of translating LLVM output to CLR IR, and it looked like it had potential.')

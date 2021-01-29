@@ -1,1 +1,1 @@
-Item(by='mlitchard', descendants=1, kids=[25950695], score=1, time=1611874088, title='Show HN: ChatWisely – a miniblog written in Haskell. (open beta)', item_type='story', url='https://chatwisely.com/i/message/1120', parent=None, text=None)
+Item(by='mlitchard', descendants=2, kids=[25956369, 25950695], score=1, time=1611874088, title='Show HN: ChatWisely – a miniblog written in Haskell. (open beta)', item_type='story', url='https://chatwisely.com/i/message/1120', parent=None, text=None)

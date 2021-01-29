@@ -1,1 +1,1 @@
-Item(by='abc_lisper', descendants=None, kids=None, score=None, time=1611890433, title=None, item_type='comment', url=None, parent=25952226, text='Not for the lack of trying though. It is because they suck at making hardware.')
+Item(by='abc_lisper', descendants=None, kids=[25955455], score=None, time=1611890433, title=None, item_type='comment', url=None, parent=25952226, text='Not for the lack of trying though. It is because they suck at making hardware.')

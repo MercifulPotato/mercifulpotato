@@ -1,0 +1,1 @@
+Item(by='pixelpoet', descendants=None, kids=None, score=None, time=1611919704, title=None, item_type='comment', url=None, parent=25955845, text='AlphaGo (or rather AlphaZero) is a bit different because it trains from self-play, where you can get a(n unbiased approximation to the) true answer via Monte Carlo Tree Search.')

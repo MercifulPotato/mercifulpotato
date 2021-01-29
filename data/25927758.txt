@@ -1,1 +1,1 @@
-Item(by='BerislavLopac', descendants=6, kids=[25954612, 25954261], score=14, time=1611753007, title="Mocks Aren't Stubs (2007)", item_type='story', url='https://martinfowler.com/articles/mocksArentStubs.html', parent=None, text=None)
+Item(by='BerislavLopac', descendants=16, kids=[25955143, 25954612, 25955574, 25954261], score=45, time=1611753007, title="Mocks Aren't Stubs (2007)", item_type='story', url='https://martinfowler.com/articles/mocksArentStubs.html', parent=None, text=None)

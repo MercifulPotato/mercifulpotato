@@ -1,1 +1,1 @@
-Item(by='cbzbc', descendants=0, kids=None, score=1, time=1611739521, title='Personium – personal data store server', item_type='story', url='https://personium.io/', parent=None, text=None)
+Item(by='cbzbc', descendants=42, kids=[25955354, 25956153, 25955640, 25955599, 25957616, 25955323, 25955773, 25955943, 25955746, 25956192, 25955430, 25955563, 25955508, 25955540], score=104, time=1611739521, title='Personium – personal data store server', item_type='story', url='https://personium.io/', parent=None, text=None)
