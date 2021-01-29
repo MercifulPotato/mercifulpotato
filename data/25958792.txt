@@ -1,0 +1,1 @@
+Item(by='eequah9L', descendants=None, kids=None, score=None, time=1611936744, title=None, item_type='comment', url=None, parent=25957420, text='Besides seq, this also works specifically in Bash:<p><pre><code>  for ((i = 0; i &lt; 10; i++)); do\n      echo $i\n  done</code></pre>')

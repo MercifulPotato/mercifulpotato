@@ -1,1 +1,1 @@
-Item(by='wisty', descendants=None, kids=None, score=None, time=1611801245, title=None, item_type='comment', url=None, parent=25934534, text='If you shout fire in a crowded theatre, people will be crushed as they run for the exit.')
+Item(by='wisty', descendants=None, kids=[25959733], score=None, time=1611801245, title=None, item_type='comment', url=None, parent=25934534, text='If you shout fire in a crowded theatre, people will be crushed as they run for the exit.')

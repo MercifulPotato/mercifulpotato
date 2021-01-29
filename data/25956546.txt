@@ -1,1 +1,1 @@
-Item(by='hidden-spyder', descendants=0, kids=[25956769], score=2, time=1611923268, title='Ask HN: How did you learn programming?', item_type='story', url=None, parent=None, text=None)
+Item(by='hidden-spyder', descendants=1, kids=[25958085, 25956769], score=2, time=1611923268, title='Ask HN: How did you learn programming?', item_type='story', url=None, parent=None, text=None)

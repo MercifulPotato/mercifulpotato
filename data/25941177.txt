@@ -1,1 +1,1 @@
-Item(by='app4soft', descendants=2, kids=[25956444], score=13, time=1611838536, title='Music Composition System for Symbian S60', item_type='story', url='https://github.com/chainjazz/pys60-mcs', parent=None, text=None)
+Item(by='app4soft', descendants=12, kids=[25957061, 25957754, 25957548, 25956444], score=33, time=1611838536, title='Music Composition System for Symbian S60', item_type='story', url='https://github.com/chainjazz/pys60-mcs', parent=None, text=None)

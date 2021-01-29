@@ -1,1 +1,1 @@
-Item(by='jan6', descendants=None, kids=None, score=None, time=1611896363, title=None, item_type='comment', url=None, parent=25952199, text='I mean, it&#x27;s not hard to test that ;)\nfirefox has a builtin offline mode, for example')
+Item(by='jan6', descendants=None, kids=[25960019], score=None, time=1611896363, title=None, item_type='comment', url=None, parent=25952199, text='I mean, it&#x27;s not hard to test that ;)\nfirefox has a builtin offline mode, for example')

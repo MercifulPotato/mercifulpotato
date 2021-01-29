@@ -1,1 +1,1 @@
-Item(by='benbreen', descendants=0, kids=None, score=14, time=1611713807, title='A history of amulets in ten objects (2019)', item_type='story', url='http://journal.sciencemuseum.ac.uk/browse/issue-11/a-history-of-amulets-in-ten-objects/', parent=None, text=None)
+Item(by='benbreen', descendants=3, kids=[25960980, 25960609, 25960512, 25959261, 25959644], score=34, time=1611713807, title='A history of amulets in ten objects (2019)', item_type='story', url='http://journal.sciencemuseum.ac.uk/browse/issue-11/a-history-of-amulets-in-ten-objects/', parent=None, text=None)

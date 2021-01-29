@@ -1,0 +1,1 @@
+Item(by='jcelerier', descendants=None, kids=None, score=None, time=1611942636, title=None, item_type='comment', url=None, parent=25959444, text='&gt; However, I wish I could feed gdb commands directly to it.<p>you can: while debugging, enable &quot;Debug Log&quot; (in the View menu), and this adds a pane where you can input gdb command. Output is not very pretty though.')

@@ -1,0 +1,1 @@
+Item(by='tanelpoder', descendants=None, kids=[25962040], score=None, time=1611950591, title=None, item_type='comment', url=None, parent=25961491, text='Yeah, that’s what I wondered - I’m ok with using multiple cores, would I get even more IOPS when doing smaller I&#x2F;Os. Is the benchmark suite you used part of the SPDK toolkit (and easy enough to run?)')

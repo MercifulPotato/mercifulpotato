@@ -1,1 +1,1 @@
-Item(by='segfaultbuserr', descendants=13, kids=[25952662, 25953339], score=100, time=1611883219, title="Unix Programmer's Manual, First Edition (1971)", item_type='story', url='https://www.bell-labs.com/usr/dmr/www/1stEdman.html', parent=None, text=None)
+Item(by='segfaultbuserr', descendants=16, kids=[25952662, 25953339, 25958436, 25958214], score=108, time=1611883219, title="Unix Programmer's Manual, First Edition (1971)", item_type='story', url='https://www.bell-labs.com/usr/dmr/www/1stEdman.html', parent=None, text=None)

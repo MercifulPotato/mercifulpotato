@@ -1,0 +1,1 @@
+Item(by='colesantiago', descendants=None, kids=[25960296], score=None, time=1611943245, title=None, item_type='comment', url=None, parent=25960015, text='TIL that GitHub&#x27;s blog uses Wordpress, I would have expected them to use the way faster JAMStack for their blog or Jekyll or Hugo.')

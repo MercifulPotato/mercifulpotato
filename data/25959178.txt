@@ -1,0 +1,1 @@
+Item(by='tanelpoder', descendants=None, kids=None, score=None, time=1611938325, title=None, item_type='comment', url=None, parent=25958092, text='Yep - and there&#x27;s SPDK for direct NVMe storage access without going through the Linux block layer: <a href="https:&#x2F;&#x2F;spdk.io" rel="nofollow">https:&#x2F;&#x2F;spdk.io</a><p>(it&#x27;s in my TODO list too)')

@@ -1,0 +1,1 @@
+Item(by='gritzko', descendants=None, kids=None, score=None, time=1611947874, title=None, item_type='comment', url=None, parent=25960725, text='There is a C++ version which should be separated from a code base first...\nBut the parser is Ragel-based, so contact me if you plan to make an implementation in any language Ragel supports.')

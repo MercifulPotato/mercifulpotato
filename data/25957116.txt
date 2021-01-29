@@ -1,1 +1,1 @@
-Item(by='pansa2', descendants=None, kids=None, score=None, time=1611927778, title=None, item_type='comment', url=None, parent=25956771, text='How would PyO3 help you avoid type hints and mypy?')
+Item(by='pansa2', descendants=None, kids=[25958729, 25961810], score=None, time=1611927778, title=None, item_type='comment', url=None, parent=25956771, text='How would PyO3 help you avoid type hints and mypy?')

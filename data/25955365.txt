@@ -1,1 +1,1 @@
-Item(by='qeternity', descendants=None, kids=None, score=None, time=1611909964, title=None, item_type='comment', url=None, parent=25955266, text='DTCC')
+Item(by='qeternity', descendants=None, kids=[25960248], score=None, time=1611909964, title=None, item_type='comment', url=None, parent=25955266, text='DTCC')

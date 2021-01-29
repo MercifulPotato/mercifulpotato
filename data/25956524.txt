@@ -1,1 +1,1 @@
-Item(by='andylynch', descendants=None, kids=None, score=None, time=1611923010, title=None, item_type='comment', url=None, parent=25956444, text='It&#x27;s pretty dead now unfortunately - the last one released was the Nokia 808, back in 2012.')
+Item(by='andylynch', descendants=None, kids=[25958661], score=None, time=1611923010, title=None, item_type='comment', url=None, parent=25956444, text='It&#x27;s pretty dead now unfortunately - the last one released was the Nokia 808, back in 2012.')

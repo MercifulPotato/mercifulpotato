@@ -1,1 +1,1 @@
-Item(by='baq', descendants=None, kids=None, score=None, time=1611922670, title=None, item_type='comment', url=None, parent=25955617, text='borrows don&#x27;t expire, puts don&#x27;t have infinite loss potential.')
+Item(by='baq', descendants=None, kids=[25958062], score=None, time=1611922670, title=None, item_type='comment', url=None, parent=25955617, text='borrows don&#x27;t expire, puts don&#x27;t have infinite loss potential.')

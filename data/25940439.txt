@@ -1,1 +1,1 @@
-Item(by='todsacerdoti', descendants=20, kids=[25956843, 25955979, 25956135, 25957255, 25956792, 25956017], score=56, time=1611831357, title='A Shell Language in Lisp', item_type='story', url='https://github.com/naver/lispe/wiki/7.-Shell', parent=None, text=None)
+Item(by='todsacerdoti', descendants=37, kids=[25956843, 25955979, 25956792, 25957255, 25956135, 25958314, 25956017], score=76, time=1611831357, title='A Shell Language in Lisp', item_type='story', url='https://github.com/naver/lispe/wiki/7.-Shell', parent=None, text=None)

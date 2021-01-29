@@ -1,1 +1,1 @@
-Item(by='b1c1l1', descendants=2, kids=[25948183], score=10, time=1611863664, title='FreeBSD/i386 demoted to Tier 2 for FreeBSD 13.x', item_type='story', url='https://lists.freebsd.org/pipermail/freebsd-announce/2021-January/002006.html', parent=None, text=None)
+Item(by='b1c1l1', descendants=4, kids=[25948183], score=10, time=1611863664, title='FreeBSD/i386 demoted to Tier 2 for FreeBSD 13.x', item_type='story', url='https://lists.freebsd.org/pipermail/freebsd-announce/2021-January/002006.html', parent=None, text=None)

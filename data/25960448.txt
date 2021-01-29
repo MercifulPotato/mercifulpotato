@@ -1,0 +1,1 @@
+Item(by='rgovostes', descendants=None, kids=[25960569, 25960796], score=None, time=1611944174, title=None, item_type='comment', url=None, parent=25959646, text='This JPGs-in-a-SVG thing is grotesque, an example of how web development often seems like a Jenga tower of hacks. Why not find minimally-perceptible pixel changes to the image that allow it to compress better as PNG?')

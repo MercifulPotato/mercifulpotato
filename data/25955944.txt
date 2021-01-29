@@ -1,1 +1,1 @@
-Item(by='donpott', descendants=None, kids=None, score=None, time=1611916403, title=None, item_type='comment', url=None, parent=25955698, text='&quot;Sometimes a difference in scale makes a difference in kind&quot; (heard in a CGPGrey video, but I&#x27;m sure the quote predates it)')
+Item(by='donpott', descendants=None, kids=[25958815], score=None, time=1611916403, title=None, item_type='comment', url=None, parent=25955698, text='&quot;Sometimes a difference in scale makes a difference in kind&quot; (heard in a CGPGrey video, but I&#x27;m sure the quote predates it)')

@@ -1,0 +1,1 @@
+Item(by='jcelerier', descendants=None, kids=None, score=None, time=1611942176, title=None, item_type='comment', url=None, parent=25959110, text='I also build live programs, I just have a simple system that reloads its state from before a crash upon statup - that ends up working fine 99% of the time and I can get back to just before the faulty interaction without loosing time.')

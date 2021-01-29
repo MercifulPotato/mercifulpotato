@@ -1,0 +1,1 @@
+Item(by='pbalcer', descendants=None, kids=None, score=None, time=1611950926, title=None, item_type='comment', url=None, parent=25960945, text='The authors of the article I linked to earlier came to the same conclusions. And so did the SPDK folks. And the kernel community (or axboe :)) when coming up with io_uring.\nI&#x27;m just hoping that we will see software catching up.')

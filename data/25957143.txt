@@ -1,1 +1,1 @@
-Item(by='sthnblllII', descendants=None, kids=None, score=None, time=1611927994, title=None, item_type='comment', url=None, parent=25954290, text='right here:<p>&gt;[reviews i dont like] probably shouldn&#x27;t have the same weight as [reviews i do like].')
+Item(by='sthnblllII', descendants=None, kids=[25958147], score=None, time=1611927994, title=None, item_type='comment', url=None, parent=25954290, text='right here:<p>&gt;[reviews i dont like] probably shouldn&#x27;t have the same weight as [reviews i do like].')

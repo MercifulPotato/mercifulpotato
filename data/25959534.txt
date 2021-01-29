@@ -1,0 +1,1 @@
+Item(by='tarasglek', descendants=None, kids=[25959865, 25959788], score=None, time=1611939754, title=None, item_type='comment', url=None, parent=25957523, text='You should look at cpu usage. There is a good chance all your interrupts are hitting cpu-0. you can run hwloc to see what chiplet the pci cards are on and handle interrupts on those cores.')

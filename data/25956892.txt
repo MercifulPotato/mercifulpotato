@@ -1,1 +1,1 @@
-Item(by='ecares', descendants=0, kids=None, score=2, time=1611926032, title='Node.js/V8 dynamic code injection from outside of the process', item_type='story', url='https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/', parent=None, text=None)
+Item(by='ecares', descendants=0, kids=None, score=3, time=1611926032, title='Node.js/V8 dynamic code injection from outside of the process', item_type='story', url='https://blog.sqreen.com/remote-debugging-nodejs-runtime-code-injection/', parent=None, text=None)

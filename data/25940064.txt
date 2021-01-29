@@ -1,1 +1,1 @@
-Item(by='luu', descendants=0, kids=None, score=5, time=1611827726, title='Looking for More Debugger', item_type='story', url='https://scattered-thoughts.net/writing/looking-for-debugger-2/', parent=None, text=None)
+Item(by='luu', descendants=30, kids=[25960912, 25960997, 25957428, 25958633, 25957463, 25957405, 25959507, 25956990, 25958972, 25959444, 25958960, 25958418], score=47, time=1611827726, title='Looking for More Debugger', item_type='story', url='https://scattered-thoughts.net/writing/looking-for-debugger-2/', parent=None, text=None)

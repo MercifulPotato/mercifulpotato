@@ -1,1 +1,1 @@
-Item(by='abc_lisper', descendants=None, kids=None, score=None, time=1611890394, title=None, item_type='comment', url=None, parent=25952727, text='How is that connected to issue at hand?')
+Item(by='abc_lisper', descendants=None, kids=[25958430], score=None, time=1611890394, title=None, item_type='comment', url=None, parent=25952727, text='How is that connected to issue at hand?')

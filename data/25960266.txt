@@ -1,0 +1,1 @@
+Item(by='astrange', descendants=None, kids=[25961230, 25961139], score=None, time=1611943257, title=None, item_type='comment', url=None, parent=25955441, text='If your JIT interpreter is written in a safe language it can still have memory bugs because it’s generating and executing assembly directly.')

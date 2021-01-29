@@ -1,0 +1,1 @@
+Item(by='brundolf', descendants=None, kids=[25960520], score=None, time=1611936461, title=None, item_type='comment', url=None, parent=25957116, text='I think the idea is that they move their business logic to the Rust code, since Rust&#x27;s type system is more powerful and more sound, instead of trying to make do with MyPy')

@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[25957971], score=None, time=1611932616, title=None, item_type='comment', url=None, parent=25957523, text='Great article, I learned! Can you tell me if you looked into aspects of the NVMe device itself, such as whether it supports 4K logical blocks instead of 512B? Use `nvme id-ns` to read out the supported logical block formats.')

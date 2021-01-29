@@ -1,0 +1,1 @@
+Item(by='brundolf', descendants=None, kids=[25960615], score=None, time=1611941886, title=None, item_type='comment', url=None, parent=25959909, text='Maybe they did it in bulk? i.e. send all the strings over at once, parse them in a loop, send them back. Seems like that would reduce overhead')

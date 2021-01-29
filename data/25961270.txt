@@ -1,0 +1,1 @@
+Item(by='nkozyra', descendants=None, kids=None, score=None, time=1611948412, title=None, item_type='comment', url=None, parent=25961060, text='I haven&#x27;t used PHP with regularity since the start of 7.0, but I agree. Having this mushy collection type seems so easy to just replace with [] for arrays&#x2F;lists and {} for objects&#x2F;class instantiations by convention.')

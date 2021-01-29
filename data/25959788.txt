@@ -1,0 +1,1 @@
+Item(by='jeffbee', descendants=None, kids=[25960303], score=None, time=1611941001, title=None, item_type='comment', url=None, parent=25959534, text='Why would that happen with the linux nvme stack that puts a completion queue on each CPU?')
