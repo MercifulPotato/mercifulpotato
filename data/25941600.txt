@@ -1,1 +1,1 @@
-Item(by='jjoonathan', descendants=None, kids=None, score=None, time=1611841330, title=None, item_type='comment', url=None, parent=25941203, text='&gt; crucial<p>Overstatement.')
+Item(by='jjoonathan', descendants=None, kids=[25952816], score=None, time=1611841330, title=None, item_type='comment', url=None, parent=25941203, text='&gt; crucial<p>Overstatement.')

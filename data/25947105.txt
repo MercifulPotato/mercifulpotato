@@ -1,1 +1,1 @@
-Item(by='teleforce', descendants=0, kids=None, score=2, time=1611860393, title='Why BMW cars are unreliable?', item_type='story', url='https://www.youtube.com/watch?v=I95LurFYbtg', parent=None, text=None)
+Item(by='teleforce', descendants=2, kids=[25950217], score=2, time=1611860393, title='Why BMW cars are unreliable?', item_type='story', url='https://www.youtube.com/watch?v=I95LurFYbtg', parent=None, text=None)

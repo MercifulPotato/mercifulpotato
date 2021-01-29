@@ -1,0 +1,1 @@
+Item(by='marckohlbrugge', descendants=None, kids=None, score=None, time=1611895492, title=None, item_type='comment', url=None, parent=25953865, text='Most of Hotwire uses regular HTTP requests. Web sockets are only used for broadcasting real-time updates. (Basically anything you’d traditionally use polling for.)')

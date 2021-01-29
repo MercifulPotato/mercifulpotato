@@ -1,1 +1,1 @@
-Item(by='dcolkitt', descendants=None, kids=None, score=None, time=1611864629, title=None, item_type='comment', url=None, parent=25948020, text='There’s no law whatsoever that says a brokerage has to trade all stocks.')
+Item(by='dcolkitt', descendants=None, kids=[25948780, 25948776, 25948648], score=None, time=1611864629, title=None, item_type='comment', url=None, parent=25948020, text='There’s no law whatsoever that says a brokerage has to trade all stocks.')

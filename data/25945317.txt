@@ -1,1 +1,1 @@
-Item(by='NalNezumi', descendants=1, kids=[25947243], score=4, time=1611855120, title='Mersenne Twister', item_type='story', url='https://en.wikipedia.org/wiki/Mersenne_Twister', parent=None, text=None)
+Item(by='NalNezumi', descendants=3, kids=[25949329, 25947243], score=6, time=1611855120, title='Mersenne Twister', item_type='story', url='https://en.wikipedia.org/wiki/Mersenne_Twister', parent=None, text=None)

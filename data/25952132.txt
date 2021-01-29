@@ -1,0 +1,1 @@
+Item(by='musicale', descendants=None, kids=[25953225], score=None, time=1611882233, title=None, item_type='comment', url=None, parent=25951618, text='Good question; JackTrip normally uses UDP and I think most browsers do not support sending UDP packets directly without an extension.<p>If you could send UDP directly then WebRTC could presumably be avoided.')

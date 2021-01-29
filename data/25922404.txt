@@ -1,1 +1,1 @@
-Item(by='AndrewBissell', descendants=4, kids=[25922787], score=19, time=1611704609, title='What Jeffrey Epstein Did to Earn $158M from Leon Black', item_type='story', url='https://www.nytimes.com/2021/01/26/business/jeffrey-epstein-leon-black-apollo.html', parent=None, text=None)
+Item(by='AndrewBissell', descendants=5, kids=[25955007, 25922787], score=20, time=1611704609, title='What Jeffrey Epstein Did to Earn $158M from Leon Black', item_type='story', url='https://www.nytimes.com/2021/01/26/business/jeffrey-epstein-leon-black-apollo.html', parent=None, text=None)

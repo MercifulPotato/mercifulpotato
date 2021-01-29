@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='mercurialshark', descendants=2, kids=[25935457, 25935647], score=9, time=1611787472, title="Fleeing WhatsApp for Better Privacy? Don't Turn to Telegram", item_type='story', url='https://www.wired.com./story/telegram-encryption-whatsapp-settings/', parent=None, text=None)

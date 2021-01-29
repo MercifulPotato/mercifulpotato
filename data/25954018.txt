@@ -1,0 +1,1 @@
+Item(by='atemerev', descendants=None, kids=None, score=None, time=1611895325, title=None, item_type='comment', url=None, parent=25952242, text='It is much simpler, for once. Just a Javascript library, basically, not everything and its dog only usable from Docker, like Grafana&#x2F;Kibana (this accidental complexity is a main reason I don’t adopt this stack).')

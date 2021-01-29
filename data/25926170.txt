@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='Tomte', descendants=0, kids=None, score=3, time=1611740655, title='Michael Lewis and the parable of the lucky man taking the extra cookie (2017)', item_type='story', url='http://kottke.org/17/06/michael-lewis-and-the-parable-of-the-lucky-man-taking-the-extra-cookie', parent=None, text=None)

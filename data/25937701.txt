@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='joubert', descendants=6, kids=[25938605, 25938275], score=8, time=1611803740, title='Washington state target billionaires with wealth tax', item_type='story', url='https://www.geekwire.com/2021/washington-state-lawmakers-target-bill-gates-jeff-bezos-billionaires-wealth-tax/', parent=None, text=None)

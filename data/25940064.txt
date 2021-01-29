@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='luu', descendants=0, kids=None, score=4, time=1611827726, title='Looking for More Debugger', item_type='story', url='https://scattered-thoughts.net/writing/looking-for-debugger-2/', parent=None, text=None)

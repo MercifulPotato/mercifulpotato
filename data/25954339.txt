@@ -1,0 +1,1 @@
+Item(by='SomaticPirate', descendants=None, kids=[25955204], score=None, time=1611898043, title=None, item_type='comment', url=None, parent=25939995, text='I’m honestly just curious how they managed to get a KVM based solution working on MacOS ARM64. Buildah and few other dependencies appeared to be Linux only... but the brew install worked..')

@@ -1,1 +1,1 @@
-Item(by='Sandman', descendants=None, kids=None, score=None, time=1611830277, title=None, item_type='comment', url=None, parent=25939446, text='Should super then also be a method argument?')
+Item(by='Sandman', descendants=None, kids=[25948904], score=None, time=1611830277, title=None, item_type='comment', url=None, parent=25939446, text='Should super then also be a method argument?')

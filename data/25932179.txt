@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='undefined1', descendants=0, kids=None, score=5, time=1611773414, title='CA EDD admits paying as much as $31B in unemployment funds to criminals', item_type='story', url='https://abc7news.com/10011810/', parent=None, text=None)

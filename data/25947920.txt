@@ -1,1 +1,1 @@
-Item(by='vira28', descendants=None, kids=None, score=None, time=1611863228, title=None, item_type='comment', url=None, parent=25946366, text='Update: Just got an email from Alpaca that even they are also stopping trading on some stocks.')
+Item(by='vira28', descendants=None, kids=[25949172], score=None, time=1611863228, title=None, item_type='comment', url=None, parent=25946366, text='Update: Just got an email from Alpaca that even they are also stopping trading on some stocks.')

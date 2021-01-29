@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='jasonhansel', descendants=0, kids=[25935085], score=21, time=1611777211, title='Proud Boys leader Enrique Tarrio was an FBI informant', item_type='story', url='https://www.theguardian.com/us-news/2021/jan/27/proud-boys-leader-enrique-tarrio-fbi-informant', parent=None, text=None)

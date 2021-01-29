@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='_pius', descendants=4, kids=[25922008, 25923803, 25924263, 25923360], score=17, time=1611684619, title='Tilt Brush is now open source', item_type='story', url='https://github.com/googlevr/tilt-brush', parent=None, text=None)

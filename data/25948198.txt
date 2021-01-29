@@ -1,1 +1,1 @@
-Item(by='joemasilotti', descendants=None, kids=None, score=None, time=1611864168, title=None, item_type='comment', url=None, parent=25936005, text='It&#x27;s... so fast! You click a link and BOOM the page loads. Sad that that experience isn&#x27;t ubiquitous across the web anymore.')
+Item(by='joemasilotti', descendants=None, kids=[25950126], score=None, time=1611864168, title=None, item_type='comment', url=None, parent=25936005, text='It&#x27;s... so fast! You click a link and BOOM the page loads. Sad that that experience isn&#x27;t ubiquitous across the web anymore.')

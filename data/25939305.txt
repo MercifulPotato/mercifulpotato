@@ -1,1 +1,1 @@
-Item(by='Tomte', descendants=0, kids=None, score=1, time=1611820185, title='The modern clock; a study of time keeping mechanism (1905)', item_type='story', url='https://archive.org/details/modernclockstudy00good/page/10/mode/2up', parent=None, text=None)
+Item(by='Tomte', descendants=22, kids=[25949481, 25950075, 25949876, 25953491, 25951887, 25950480, 25950505], score=54, time=1611820185, title='The modern clock; a study of time keeping mechanism (1905)', item_type='story', url='https://archive.org/details/modernclockstudy00good/page/10/mode/2up', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='ArtWomb', descendants=0, kids=None, score=3, time=1611753560, title='Hobbyists beat professional designers in creating novel board games', item_type='story', url='https://www.sciencedirect.com/science/article/pii/S0048733320302481', parent=None, text=None)

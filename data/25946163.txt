@@ -1,1 +1,1 @@
-Item(by='nguyenkien', descendants=None, kids=None, score=None, time=1611857622, title=None, item_type='comment', url=None, parent=25945885, text='Mac client has it. The one written with swift. In Windows you have Unigram (unofficial, but opensource)')
+Item(by='nguyenkien', descendants=None, kids=[25949378], score=None, time=1611857622, title=None, item_type='comment', url=None, parent=25945885, text='Mac client has it. The one written with swift. In Windows you have Unigram (unofficial, but opensource)')

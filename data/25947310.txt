@@ -1,1 +1,1 @@
-Item(by='chaz6', descendants=None, kids=None, score=None, time=1611861113, title=None, item_type='comment', url=None, parent=25942921, text='I use Gandi which supports 2FA, but annoyingly they do not let you disable TOTP if you want to use U2F.')
+Item(by='chaz6', descendants=None, kids=[25952658], score=None, time=1611861113, title=None, item_type='comment', url=None, parent=25942921, text='I use Gandi which supports 2FA, but annoyingly they do not let you disable TOTP if you want to use U2F.')

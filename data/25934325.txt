@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='7d7n', descendants=2, kids=[25934820, 25934862], score=17, time=1611783444, title='Bitcoin White Paper', item_type='story', url='https://www.miamigov.com/Government/City-Officials/Mayor-Francis-Suarez/Bitcoin-White-Paper', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='dr_dshiv', descendants=5, kids=[25940623, 25945041, 25940620, 25947334, 25940511], score=7, time=1611819235, title='Long term study reveals harm in cannabis use', item_type='story', url='https://medicalxpress.com/news/2021-01-long-term-reveals-regular-cannabis.html', parent=None, text=None)

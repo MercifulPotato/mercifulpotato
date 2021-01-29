@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='ItsTotallyOn', descendants=0, kids=None, score=12, time=1611794342, title='Intel Bulks Up Engineering Leadership with Returning Technologist Sunil Shenoy', item_type='story', url='https://www.tomshardware.com/news/intel-bulks-up-engineering-roster-with-returning-technologist-sunil-shenoy', parent=None, text=None)

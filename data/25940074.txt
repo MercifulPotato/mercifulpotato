@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='rbanffy', descendants=25, kids=[25953151, 25953630, 25952973, 25955314, 25953587, 25953144, 25952634, 25940352, 25952794, 25940982], score=92, time=1611827853, title="Habitat 67, Montreal's 'failed dream'", item_type='story', url='https://www.theguardian.com/cities/2015/may/13/habitat-67-montreal-expo-moshe-safdie-history-cities-50-buildings-day-35', parent=None, text=None)

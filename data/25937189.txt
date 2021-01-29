@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='kristianp', descendants=0, kids=None, score=5, time=1611799540, title="GameStop's Gargantuan Gamma Squeeze", item_type='story', url='https://www.fool.com/investing/2021/01/26/gamestops-gargantuan-gamma-squeeze/', parent=None, text=None)

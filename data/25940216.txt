@@ -1,1 +1,1 @@
-Item(by='nanna', descendants=0, kids=[25947135], score=15, time=1611829447, title='Alan Kay responds', item_type='story', url='https://www.quora.com/profile/Alan-Kay-11?share=1', parent=None, text=None)
+Item(by='nanna', descendants=1, kids=[25952448, 25947135], score=15, time=1611829447, title='Alan Kay responds', item_type='story', url='https://www.quora.com/profile/Alan-Kay-11?share=1', parent=None, text=None)

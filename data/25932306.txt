@@ -1,1 +1,1 @@
-Item(by='LegitShady', descendants=None, kids=None, score=None, time=1611774007, title=None, item_type='comment', url=None, parent=25925665, text='&gt;SteamVR games at 20 fps<p>I&#x27;m curious what you&#x27;re doing that 20fps is a minimum target')
+Item(by='LegitShady', descendants=None, kids=[25954560], score=None, time=1611774007, title=None, item_type='comment', url=None, parent=25925665, text='&gt;SteamVR games at 20 fps<p>I&#x27;m curious what you&#x27;re doing that 20fps is a minimum target')

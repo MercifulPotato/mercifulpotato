@@ -1,0 +1,1 @@
+Item(by='GreenHeuristics', descendants=None, kids=None, score=None, time=1611902589, title=None, item_type='comment', url=None, parent=25952781, text='You are not querying the mesh you are querying the accel structure.<p>To show why it is wrong: Change the mesh every frame.')

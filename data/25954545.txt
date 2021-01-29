@@ -1,0 +1,1 @@
+Item(by='kyrra', descendants=None, kids=None, score=None, time=1611900054, title=None, item_type='comment', url=None, parent=25954383, text='My take...<p>Stubs just return preprogrammed data.<p>Mocks do the above, but can provide their own assertions about call order or number of times called.')

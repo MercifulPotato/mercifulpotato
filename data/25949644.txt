@@ -1,0 +1,1 @@
+Item(by='aidenn0', descendants=None, kids=[25950701, 25950697], score=None, time=1611869829, title=None, item_type='comment', url=None, parent=25946055, text='Does bash have an option to write out the history <i>before</i> running the command?  Usually history is written in PROMPT_COMMAND, which runs after the command completes.')

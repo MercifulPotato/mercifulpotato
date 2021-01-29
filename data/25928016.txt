@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='samizdis', descendants=3, kids=[25928994, 25928953], score=12, time=1611754431, title='Facebook apologises for flagging Plymouth Hoe as offensive term', item_type='story', url='https://www.theguardian.com/uk-news/2021/jan/27/facebook-apologises-flagging-plymouth-hoe-offensive-term', parent=None, text=None)

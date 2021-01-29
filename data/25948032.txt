@@ -1,0 +1,1 @@
+Item(by='mhitza', descendants=None, kids=None, score=None, time=1611863583, title=None, item_type='comment', url=None, parent=25943528, text='My contributions are fixes that I need <i>now</i>. So after I fix the issue for my usecase I fire off a PR upstream.<p>As a maintainer you are free to close my PR, or work togheter with me to bring it in line with your project standards.')

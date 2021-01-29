@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='DevSecOops', descendants=2, kids=[25920407, 25920732], score=19, time=1611691050, title='Apple Ships Emergency Fixes for Under-Attack iOS Zero-Day', item_type='story', url='https://www.securityweek.com/apple-ships-emergency-fixes-under-attack-ios-zero-day', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='fortran77', descendants=2, kids=[25949174, 25937691], score=6, time=1611798300, title='Why Is American Rail So Costly?', item_type='story', url='https://www.city-journal.org/why-american-rail-projects-are-so-costly', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='est', descendants=None, kids=[25939854, 25938339], score=None, time=1611808999, title=None, item_type='comment', url=None, parent=25938142, text='If two browsers are inside the same LAN, are they able to communicate with each other directly without any server?')
+Item(by='est', descendants=None, kids=[25938339, 25939854], score=None, time=1611808999, title=None, item_type='comment', url=None, parent=25938142, text='If two browsers are inside the same LAN, are they able to communicate with each other directly without any server?')

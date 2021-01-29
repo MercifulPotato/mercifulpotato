@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='miked85', descendants=3, kids=[25948239, 25937794, 25939117], score=5, time=1611801587, title='Tesla Model S refreshed with a radically redesigned interior and 520-mile range', item_type='story', url='https://www.cnet.com/roadshow/news/tesla-model-s-ev-sedan-refresh-interior-debut/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='ScoutOrgo', descendants=None, kids=None, score=None, time=1611861626, title=None, item_type='comment', url=None, parent=25947119, text='FUD, the ability to buy a stock is not an option that exposes the broker.')
+Item(by='ScoutOrgo', descendants=None, kids=[25950171], score=None, time=1611861626, title=None, item_type='comment', url=None, parent=25947119, text='FUD, the ability to buy a stock is not an option that exposes the broker.')

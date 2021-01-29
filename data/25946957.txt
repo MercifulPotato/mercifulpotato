@@ -1,1 +1,1 @@
-Item(by='foobarbazetc', descendants=None, kids=None, score=None, time=1611859956, title=None, item_type='comment', url=None, parent=25945512, text='Citadel != Citadel Securities.<p>Most clearing firms aren’t clearing GME or AMC anymore. It’s not just RH.')
+Item(by='foobarbazetc', descendants=None, kids=[25948659], score=None, time=1611859956, title=None, item_type='comment', url=None, parent=25945512, text='Citadel != Citadel Securities.<p>Most clearing firms aren’t clearing GME or AMC anymore. It’s not just RH.')

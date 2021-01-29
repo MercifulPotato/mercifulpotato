@@ -1,1 +1,1 @@
-Item(by='ilaksh', descendants=None, kids=None, score=None, time=1611849793, title=None, item_type='comment', url=None, parent=25941765, text='They site the Occupancy Networks paper as [33].  But I thought that one also used octrees? Which they are saying is supposed to be novel.')
+Item(by='ilaksh', descendants=None, kids=[25952704], score=None, time=1611849793, title=None, item_type='comment', url=None, parent=25941765, text='They site the Occupancy Networks paper as [33].  But I thought that one also used octrees? Which they are saying is supposed to be novel.')

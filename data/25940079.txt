@@ -1,1 +1,1 @@
-Item(by='Anther', descendants=None, kids=None, score=None, time=1611827896, title=None, item_type='comment', url=None, parent=25936258, text='Rather like the recent runs on supermarkets. Everyone thought there would be a shortage of goods, and so they created one.')
+Item(by='Anther', descendants=None, kids=[25948348], score=None, time=1611827896, title=None, item_type='comment', url=None, parent=25936258, text='Rather like the recent runs on supermarkets. Everyone thought there would be a shortage of goods, and so they created one.')

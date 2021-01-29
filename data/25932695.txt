@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='scottbucks', descendants=0, kids=None, score=4, time=1611775635, title='Future Batteries with Sand, Sea Water and Graphene', item_type='story', url='https://www.thedetechtor.com/post/the-future-of-batteries', parent=None, text=None)

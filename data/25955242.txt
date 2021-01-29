@@ -1,0 +1,1 @@
+Item(by='astrange', descendants=None, kids=None, score=None, time=1611908686, title=None, item_type='comment', url=None, parent=25954897, text='Exploitations like this are much more complicated than lacking bounds checking; after all most web exploits start by defeating the supposedly memory safe JS interpreter.')

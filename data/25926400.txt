@@ -1,1 +1,1 @@
-Item(by=None, descendants=None, kids=None, score=None, time=None, title=None, item_type=None, url=None, parent=None, text=None)
+Item(by='aceflux', descendants=0, kids=[25927393], score=7, time=1611742634, title='75% of Cross-Functional Teams Are Dysfunctional', item_type='story', url='https://hbr.org/2015/06/75-of-cross-functional-teams-are-dysfunctional', parent=None, text=None)

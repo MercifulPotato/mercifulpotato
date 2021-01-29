@@ -1,1 +1,1 @@
-Item(by='app4soft', descendants=None, kids=None, score=None, time=1611860555, title=None, item_type='comment', url=None, parent=25946655, text='&gt; <i>Every time I see something like this I think I should open source my masters thesis in aerospace engineering.</i><p>Just do it! ;)')
+Item(by='app4soft', descendants=None, kids=[25951101], score=None, time=1611860555, title=None, item_type='comment', url=None, parent=25946655, text='&gt; <i>Every time I see something like this I think I should open source my masters thesis in aerospace engineering.</i><p>Just do it! ;)')

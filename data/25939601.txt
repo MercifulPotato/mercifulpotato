@@ -1,1 +1,1 @@
-Item(by='blt', descendants=None, kids=None, score=None, time=1611823025, title=None, item_type='comment', url=None, parent=25935633, text='I&#x27;m curious to know which &quot;serious warts&quot; in C++ would be fixed by making everything an object.')
+Item(by='blt', descendants=None, kids=[25949924], score=None, time=1611823025, title=None, item_type='comment', url=None, parent=25935633, text='I&#x27;m curious to know which &quot;serious warts&quot; in C++ would be fixed by making everything an object.')

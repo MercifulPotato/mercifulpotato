@@ -1,0 +1,1 @@
+Item(by='XorNot', descendants=None, kids=[25950160], score=None, time=1611869065, title=None, item_type='comment', url=None, parent=25945237, text='My only question is if this is getting an AWS-like key-value store tied into their KMS offering? The big value of AWS System Manager was actually just having a secure key-value store tied into AWS IAM auth.')
