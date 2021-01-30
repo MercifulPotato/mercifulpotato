@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1611997604, title=None, item_type='comment', url=None, parent=25961891, text='&gt; Rust is essentially C++ with restrictions that make threads safer.<p>And saner defaults for type safety.<p>As much as I enjoy C++, the safety defaults due to backwards compatibility are mostly wrong.')

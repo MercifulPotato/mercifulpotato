@@ -1,1 +1,1 @@
-Item(by='hutzlibu', descendants=None, kids=None, score=None, time=1611994641, title=None, item_type='comment', url=None, parent=25966556, text='Whats wrong with F-Droid?')
+Item(by='hutzlibu', descendants=None, kids=[25967797], score=None, time=1611994641, title=None, item_type='comment', url=None, parent=25966556, text='Whats wrong with F-Droid?')

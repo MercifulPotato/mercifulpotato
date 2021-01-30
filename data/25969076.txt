@@ -1,0 +1,1 @@
+Item(by='Doctor_Fegg', descendants=None, kids=None, score=None, time=1612014986, title=None, item_type='comment', url=None, parent=25968941, text='No it doesn’t. There are several Mac-native apps, such as QGIS, for which Postgres is a sensible local datastore. Running it in a container for this is an entirely unnecessary complication.')

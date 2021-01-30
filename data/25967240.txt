@@ -1,1 +1,1 @@
-Item(by='pnw_hazor', descendants=None, kids=None, score=None, time=1611993841, title=None, item_type='comment', url=None, parent=25966599, text='Not unlike the CCP.')
+Item(by='pnw_hazor', descendants=None, kids=[25968276], score=None, time=1611993841, title=None, item_type='comment', url=None, parent=25966599, text='Not unlike the CCP.')

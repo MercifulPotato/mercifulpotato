@@ -1,1 +1,1 @@
-Item(by='nelox', descendants=2, kids=[25957787], score=10, time=1611912525, title='G.M. Will Sell Only Zero-Emission Vehicles by 2035', item_type='story', url='https://www.nytimes.com/2021/01/28/business/gm-zero-emission-vehicles.html', parent=None, text=None)
+Item(by='nelox', descendants=3, kids=[25967198, 25957787], score=10, time=1611912525, title='G.M. Will Sell Only Zero-Emission Vehicles by 2035', item_type='story', url='https://www.nytimes.com/2021/01/28/business/gm-zero-emission-vehicles.html', parent=None, text=None)

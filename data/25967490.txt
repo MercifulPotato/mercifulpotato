@@ -1,0 +1,1 @@
+Item(by='nsonha', descendants=None, kids=[25968277], score=None, time=1611997287, title=None, item_type='comment', url=None, parent=25961420, text='maybe the browser devtools should be shipped with typescript definitions and mdn docs. If you think they are bloats then another thing to look into would be decoupling the devtools from the browser')

@@ -1,1 +1,1 @@
-Item(by='randoramax', descendants=None, kids=None, score=None, time=1611989973, title=None, item_type='comment', url=None, parent=25965769, text='The first Amiga was released only a year after, in 1985. The Mac was a toy in comparison.')
+Item(by='randoramax', descendants=None, kids=[25967445], score=None, time=1611989973, title=None, item_type='comment', url=None, parent=25965769, text='The first Amiga was released only a year after, in 1985. The Mac was a toy in comparison.')

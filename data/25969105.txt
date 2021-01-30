@@ -1,0 +1,1 @@
+Item(by='slezyr', descendants=None, kids=[25969420], score=None, time=1612015193, title=None, item_type='comment', url=None, parent=25968941, text='&gt; you are behind the times<p>Seriously? What is wrong with running programs natively without any layers in between?<p>Also, IIRC PostgreSQL isn&#x27;t recommended to be run in docker due to a possible data loss?')

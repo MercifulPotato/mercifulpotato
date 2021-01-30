@@ -1,0 +1,1 @@
+Item(by='saagarjha', descendants=None, kids=None, score=None, time=1612004082, title=None, item_type='comment', url=None, parent=25963267, text='5%-10% is typical performance for a pure interpreter; a good JIT can hit 30%-50%. After that the main issue is going to be the MMU that I mentioned, and having hardware support there gets you to nearly native.')

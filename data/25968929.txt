@@ -1,0 +1,1 @@
+Item(by='jmercouris', descendants=None, kids=None, score=None, time=1612013743, title=None, item_type='comment', url=None, parent=25965223, text='Yeah, unfortunately when I try to package the MacPorts bundle for distribution as a .pkg file, the webview has a bunch of certificate errors. Haven&#x27;t been able to figure this out yet!')

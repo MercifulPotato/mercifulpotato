@@ -1,1 +1,1 @@
-Item(by='LockAndLol', descendants=None, kids=None, score=None, time=1611991182, title=None, item_type='comment', url=None, parent=25966556, text='Or they make F-Droid more known. Publishing apks yourself means you have to implement an update feature. F-Droid takes care of that')
+Item(by='LockAndLol', descendants=None, kids=[25967610], score=None, time=1611991182, title=None, item_type='comment', url=None, parent=25966556, text='Or they make F-Droid more known. Publishing apks yourself means you have to implement an update feature. F-Droid takes care of that')

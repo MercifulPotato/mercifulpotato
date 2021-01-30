@@ -1,1 +1,1 @@
-Item(by='dehrmann', descendants=None, kids=None, score=None, time=1611981660, title=None, item_type='comment', url=None, parent=25965319, text='&gt; They were 4mb and 8mb<p>640px x 480x x 3 bytes per channel = ~1MB. So yeah, 4-8MB is about right for a VGA card.')
+Item(by='dehrmann', descendants=None, kids=[25968226], score=None, time=1611981660, title=None, item_type='comment', url=None, parent=25965319, text='&gt; They were 4mb and 8mb<p>640px x 480x x 3 bytes per channel = ~1MB. So yeah, 4-8MB is about right for a VGA card.')

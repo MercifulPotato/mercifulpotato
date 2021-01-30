@@ -1,0 +1,1 @@
+Item(by='grishka', descendants=None, kids=None, score=None, time=1612008021, title=None, item_type='comment', url=None, parent=25968202, text='It&#x27;s possible to build self-update functionality into an app, just like many apps do on desktop. An app can open that installation prompt to update itself.')

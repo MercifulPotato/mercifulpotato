@@ -1,1 +1,1 @@
-Item(by='hiq', descendants=None, kids=None, score=None, time=1611986873, title=None, item_type='comment', url=None, parent=25966577, text='Both Signal and WhatsApp work fine. It requires workarounds from the app developers, but it&#x27;s not impossible to implement.')
+Item(by='hiq', descendants=None, kids=[25967777], score=None, time=1611986873, title=None, item_type='comment', url=None, parent=25966577, text='Both Signal and WhatsApp work fine. It requires workarounds from the app developers, but it&#x27;s not impossible to implement.')

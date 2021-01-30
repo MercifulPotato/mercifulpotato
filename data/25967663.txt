@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1611999189, title=None, item_type='comment', url=None, parent=25961770, text='Modern NVIDIA GPUs (since Volta) drop that pretence at the ISA level, each thread has its own instruction pointer there.<p>Your GPU ISA is scalar, not vector on modern NVIDIA machines.')

@@ -1,1 +1,1 @@
-Item(by='ficklepickle', descendants=None, kids=None, score=None, time=1611954551, title=None, item_type='comment', url=None, parent=25955443, text='The exploit doesn&#x27;t require removing the unit. Simply inserting a prepared flash drive is all that is required.')
+Item(by='ficklepickle', descendants=None, kids=[25968414], score=None, time=1611954551, title=None, item_type='comment', url=None, parent=25955443, text='The exploit doesn&#x27;t require removing the unit. Simply inserting a prepared flash drive is all that is required.')

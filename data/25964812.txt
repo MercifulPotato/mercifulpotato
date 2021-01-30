@@ -1,1 +1,1 @@
-Item(by='illuminated', descendants=3, kids=[25966349, 25965472], score=17, time=1611967657, title='Ubuntu 21.04 Will Use Wayland by Default', item_type='story', url='https://www.omgubuntu.co.uk/2021/01/ubuntu-21-04-will-use-wayland-by-default', parent=None, text=None)
+Item(by='illuminated', descendants=5, kids=[25966349, 25965472, 25967337, 25967211], score=21, time=1611967657, title='Ubuntu 21.04 Will Use Wayland by Default', item_type='story', url='https://www.omgubuntu.co.uk/2021/01/ubuntu-21-04-will-use-wayland-by-default', parent=None, text=None)

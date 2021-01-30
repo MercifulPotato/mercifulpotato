@@ -1,0 +1,1 @@
+Item(by='sixbrx', descendants=None, kids=None, score=None, time=1612019375, title=None, item_type='comment', url=None, parent=25968572, text='I wonder what happens if you volume mount your MacOS files into the container, then the Docker daemon (I guess) would still have to do an open() in MacOS that could get the EINTR. Does Docker process handle it properly?')

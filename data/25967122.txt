@@ -1,1 +1,1 @@
-Item(by='recursive', descendants=None, kids=None, score=None, time=1611992364, title=None, item_type='comment', url=None, parent=25966707, text='Most of the activity (all of it?) on the stock market seems unrelated to IPOs.  Is there any particular reason stocks must be transferable?')
+Item(by='recursive', descendants=None, kids=[25969353], score=None, time=1611992364, title=None, item_type='comment', url=None, parent=25966707, text='Most of the activity (all of it?) on the stock market seems unrelated to IPOs.  Is there any particular reason stocks must be transferable?')

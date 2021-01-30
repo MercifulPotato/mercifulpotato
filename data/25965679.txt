@@ -1,1 +1,1 @@
-Item(by='MaxLeiter', descendants=None, kids=None, score=None, time=1611976688, title=None, item_type='comment', url=None, parent=25965641, text='Get an ergonomic (probably split) keyboard and use your thumb for modifier keys. It’s meant to rotate all around unlike our pinkies.')
+Item(by='MaxLeiter', descendants=None, kids=[25968435], score=None, time=1611976688, title=None, item_type='comment', url=None, parent=25965641, text='Get an ergonomic (probably split) keyboard and use your thumb for modifier keys. It’s meant to rotate all around unlike our pinkies.')
