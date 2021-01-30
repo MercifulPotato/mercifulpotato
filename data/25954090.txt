@@ -1,1 +1,1 @@
-Item(by='Triv888', descendants=None, kids=None, score=None, time=1611895955, title=None, item_type='comment', url=None, parent=25952750, text='When I switched from Robinhood, I just sold all my holdings to avoid transfer fees... that was 2 months ago')
+Item(by='Triv888', descendants=None, kids=[25970273], score=None, time=1611895955, title=None, item_type='comment', url=None, parent=25952750, text='When I switched from Robinhood, I just sold all my holdings to avoid transfer fees... that was 2 months ago')

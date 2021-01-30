@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=1, kids=[25968747], score=13, time=1612006744, title='Clojure/Script mode for CodeMirror 6', item_type='story', url='https://nextjournal.github.io/clojure-mode/', parent=None, text=None)
+Item(by='tosh', descendants=2, kids=[25969766, 25968747], score=31, time=1612006744, title='Clojure/Script mode for CodeMirror 6', item_type='story', url='https://nextjournal.github.io/clojure-mode/', parent=None, text=None)

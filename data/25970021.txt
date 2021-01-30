@@ -1,0 +1,1 @@
+Item(by='bombcar', descendants=None, kids=None, score=None, time=1612022032, title=None, item_type='comment', url=None, parent=25969506, text='Microsoft’s dedication to backwards compatibility is insane - going so far as to ship with thousands of shims to imitate buggy code and hardware.<p>Virtualization is killing the need to do that, sadly.')

@@ -1,0 +1,1 @@
+Item(by='anticensor', descendants=None, kids=None, score=None, time=1612024783, title=None, item_type='comment', url=None, parent=25970309, text='QUIC is more similar to UDP+SCTP+TLS. Or, if you skip UDP and directly layer it over IP, to SCTP+TLS.')

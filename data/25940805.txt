@@ -1,1 +1,1 @@
-Item(by='gralx', descendants=None, kids=[25947476, 25940986], score=None, time=1611835281, title=None, item_type='comment', url=None, parent=25940453, text='Sessions (:session-save) have not been saving properly in v1.14, a known issue related to QT. No news about it in changelog.')
+Item(by='gralx', descendants=None, kids=[25940986, 25947476], score=None, time=1611835281, title=None, item_type='comment', url=None, parent=25940453, text='Sessions (:session-save) have not been saving properly in v1.14, a known issue related to QT. No news about it in changelog.')

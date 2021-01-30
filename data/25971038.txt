@@ -1,0 +1,1 @@
+Item(by='iggldiggl', descendants=None, kids=None, score=None, time=1612028165, title=None, item_type='comment', url=None, parent=25969779, text='Er, not quite. The permission required to trigger the app install prompt for an APK is <i>REQUEST_</i>INSTALL_PACKAGES, which <i>is</i> available to third-party apps.')

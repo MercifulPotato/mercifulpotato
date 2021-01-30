@@ -1,1 +1,1 @@
-Item(by='GoblinSlayer', descendants=None, kids=None, score=None, time=1611909732, title=None, item_type='comment', url=None, parent=25955034, text='Abuse.')
+Item(by='GoblinSlayer', descendants=None, kids=[25971898], score=None, time=1611909732, title=None, item_type='comment', url=None, parent=25955034, text='Abuse.')

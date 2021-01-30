@@ -1,0 +1,1 @@
+Item(by='brundolf', descendants=None, kids=[25972722], score=None, time=1612037421, title=None, item_type='comment', url=None, parent=25971578, text='What I&#x27;m not seeing is how the actual value contained inside a RefCell would get modified out from underneath your code without going through its checked methods, unless something has a raw pointer directly to its contents')

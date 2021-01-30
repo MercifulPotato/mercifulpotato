@@ -1,1 +1,1 @@
-Item(by='_threads', descendants=None, kids=None, score=None, time=1611998188, title=None, item_type='comment', url=None, parent=25967260, text='What about all those single page apps websites working more with JavaScript than with html ? Does it work well ?')
+Item(by='_threads', descendants=None, kids=[25972367], score=None, time=1611998188, title=None, item_type='comment', url=None, parent=25967260, text='What about all those single page apps websites working more with JavaScript than with html ? Does it work well ?')

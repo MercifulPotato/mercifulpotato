@@ -1,0 +1,1 @@
+Item(by='infogulch', descendants=None, kids=[25973219], score=None, time=1612034666, title=None, item_type='comment', url=None, parent=25964027, text='Ah, cool! IIRC Bazel predates docker, so perhaps it&#x27;s more correct to say that dockerfiles use a Bazel-like command caching strategy.')

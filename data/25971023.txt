@@ -1,0 +1,1 @@
+Item(by='carlhjerpe', descendants=None, kids=None, score=None, time=1612028114, title=None, item_type='comment', url=None, parent=25969733, text='You can use nix on &quot;any&quot; Linux distro with the unstable channel and get the most bleeding edge software from nixs binary cache, or Linuxbrew, flatpak, snap, appimage.')

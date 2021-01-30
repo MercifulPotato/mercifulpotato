@@ -1,0 +1,1 @@
+Item(by='cbm-vic-20', descendants=None, kids=None, score=None, time=1612021526, title=None, item_type='comment', url=None, parent=25968841, text='X11 was designed at a time when local networks carried only a few megabits per second. But apps back then didn&#x27;t depend on sending lots of bitmaps over the wire, just mostly drawing primitives.')

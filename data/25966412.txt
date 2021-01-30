@@ -1,1 +1,1 @@
-Item(by='akdor1154', descendants=None, kids=None, score=None, time=1611984130, title=None, item_type='comment', url=None, parent=25958837, text='Cool idea, obnoxious video though. I hate things that are geared at an audience with a five second attention span.')
+Item(by='akdor1154', descendants=None, kids=[25968960], score=None, time=1611984130, title=None, item_type='comment', url=None, parent=25958837, text='Cool idea, obnoxious video though. I hate things that are geared at an audience with a five second attention span.')

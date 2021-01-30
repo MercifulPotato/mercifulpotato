@@ -1,1 +1,1 @@
-Item(by='bdefore', descendants=None, kids=None, score=None, time=1611984924, title=None, item_type='comment', url=None, parent=25966237, text='The alternatives do not have better quality. I periodically go with DDG and realize I&#x27;m !g&#x27;ing everything.')
+Item(by='bdefore', descendants=None, kids=[25970088], score=None, time=1611984924, title=None, item_type='comment', url=None, parent=25966237, text='The alternatives do not have better quality. I periodically go with DDG and realize I&#x27;m !g&#x27;ing everything.')

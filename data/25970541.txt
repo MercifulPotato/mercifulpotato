@@ -1,0 +1,1 @@
+Item(by='chaz6', descendants=None, kids=[25972270], score=None, time=1612025124, title=None, item_type='comment', url=None, parent=25970258, text='Most of QUIC is already supported by SCTP, which could have made IPv6 an even more attractive proposition because the reason SCTP has been poorly adopted is because of the number of middleboxes, mostly for NAT.')

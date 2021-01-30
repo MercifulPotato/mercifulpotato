@@ -1,1 +1,1 @@
-Item(by='cbracketdash', descendants=2, kids=[25967303, 25967000], score=7, time=1611985150, title='mount your browser tabs as a filesystem', item_type='story', url='https://github.com/osnr/TabFS', parent=None, text=None)
+Item(by='cbracketdash', descendants=2, kids=[25967000, 25967303], score=8, time=1611985150, title='mount your browser tabs as a filesystem', item_type='story', url='https://github.com/osnr/TabFS', parent=None, text=None)

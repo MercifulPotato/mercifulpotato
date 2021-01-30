@@ -1,0 +1,1 @@
+Item(by='rsanheim', descendants=None, kids=None, score=None, time=1612030161, title=None, item_type='comment', url=None, parent=25967594, text='Huh, I’ve been running PostgreSQL (version 10 tho) on an M1 since they came out and have had no problems (knock on wood).<p>Maybe it’s only the case when importing large datasets? Or when running antivirus?installed?')

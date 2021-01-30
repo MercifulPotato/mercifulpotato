@@ -1,0 +1,1 @@
+Item(by='fanf2', descendants=None, kids=None, score=None, time=1612032171, title=None, item_type='comment', url=None, parent=25971443, text='The Apple documentation matches POSIX so if open() is returning EINTR for reasons other than a signal, that is a standards conformance bug.')

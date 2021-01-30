@@ -1,0 +1,1 @@
+Item(by='brundolf', descendants=None, kids=[25971578], score=None, time=1612029567, title=None, item_type='comment', url=None, parent=25967510, text='That would require getting into unsafe { } code and passing along a raw pointer, wouldn&#x27;t it? Nothing regarding safety can be assumed about unsafe code at all')

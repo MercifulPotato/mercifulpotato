@@ -1,0 +1,1 @@
+Item(by='Smaug123', descendants=None, kids=[25971865, 25971703], score=None, time=1612031589, title=None, item_type='comment', url=None, parent=25971490, text='No, of course you would maintain a Set&lt;Customer&gt; as well (possibly even a Map&lt;Customer, Account Set&gt; for efficiency).')

@@ -1,0 +1,1 @@
+Item(by='Spivak', descendants=None, kids=None, score=None, time=1612037909, title=None, item_type='comment', url=None, parent=25972368, text='Giving every application its own X server kinda works but it breaks all the same things that Wayland does. The idea isn&#x27;t all that different than XWayland.')

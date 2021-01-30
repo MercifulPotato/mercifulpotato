@@ -1,0 +1,1 @@
+Item(by='hkai', descendants=None, kids=[25972038], score=None, time=1612025263, title=None, item_type='comment', url=None, parent=25956652, text='As a hack, if you can&#x27;t use a uniwidth font, you can simulate bold font by having a `text-shadow` of the same color offset 1px to the right.<p>This is helpful for UI elements that need to become bold when selected.')

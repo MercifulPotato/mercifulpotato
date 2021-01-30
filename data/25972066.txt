@@ -1,0 +1,1 @@
+Item(by='kd5bjo', descendants=None, kids=None, score=None, time=1612034563, title=None, item_type='comment', url=None, parent=25971726, text='I’m working on a Rust library for this as my MS project.  It calculates the queries inside the type system, so there’s minimal runtime cost.')
