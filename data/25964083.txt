@@ -1,1 +1,1 @@
-Item(by='avmich', descendants=None, kids=None, score=None, time=1611962008, title=None, item_type='comment', url=None, parent=25960916, text='Can we choose encodings which make such things unnecessary, so that obvious implementation would be the fastest possible?')
+Item(by='avmich', descendants=None, kids=[25965829], score=None, time=1611962008, title=None, item_type='comment', url=None, parent=25960916, text='Can we choose encodings which make such things unnecessary, so that obvious implementation would be the fastest possible?')

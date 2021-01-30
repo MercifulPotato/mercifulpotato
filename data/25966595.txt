@@ -1,0 +1,1 @@
+Item(by='scruple', descendants=None, kids=None, score=None, time=1611985873, title=None, item_type='comment', url=None, parent=25962305, text='Can I use Rails and Capistrano? I can probably do it inside of an hour, without Google, if so...<p>Granted, this assumes that the deployment target is ready to receive the deployment payload...')

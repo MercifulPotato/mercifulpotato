@@ -1,0 +1,1 @@
+Item(by='codazoda', descendants=None, kids=None, score=None, time=1611981750, title=None, item_type='comment', url=None, parent=25965945, text='I don&#x27;t know how effective it is but CDNs like CloudFlair have DDOS mitigation and lots of bandwidth. Might be worth a try if your content can go behind a CDN (especially static content).<p>Edit: I see you tried that already.')

@@ -1,0 +1,1 @@
+Item(by='rlt', descendants=None, kids=None, score=None, time=1611992679, title=None, item_type='comment', url=None, parent=25961420, text='Sure, depending on your definition of “basic”:<p><pre><code>    npm i express\n    node -e ‘require(“express”)().get(“&#x2F;“, (req, res) =&gt; res.end(“hello world!”)).listen(3000)’</code></pre>')

@@ -1,1 +1,1 @@
-Item(by='strogonoff', descendants=None, kids=None, score=None, time=1611971666, title=None, item_type='comment', url=None, parent=25964065, text='How does it apply to all media?')
+Item(by='strogonoff', descendants=None, kids=[25966546], score=None, time=1611971666, title=None, item_type='comment', url=None, parent=25964065, text='How does it apply to all media?')

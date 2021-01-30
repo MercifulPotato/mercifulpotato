@@ -1,0 +1,1 @@
+Item(by='lfairy', descendants=None, kids=None, score=None, time=1611979534, title=None, item_type='comment', url=None, parent=25923143, text='Yeah, Rust is about the simplest language that guarantees both memory safety + low-level control. Almost all of its complexity comes from having to satisfy both.')

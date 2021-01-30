@@ -1,1 +1,1 @@
-Item(by='executive', descendants=2, kids=[25962844, 25963004], score=7, time=1611955725, title='Robinhood now limiting trading in 50 stocks, incl. GM, Beyond Meat, Starbucks', item_type='story', url='https://twitter.com/CNBCnow/status/1355265952619896833', parent=None, text=None)
+Item(by='executive', descendants=5, kids=[25962844, 25963004], score=7, time=1611955725, title='Robinhood now limiting trading in 50 stocks, incl. GM, Beyond Meat, Starbucks', item_type='story', url='https://twitter.com/CNBCnow/status/1355265952619896833', parent=None, text=None)

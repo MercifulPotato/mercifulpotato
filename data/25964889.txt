@@ -1,1 +1,1 @@
-Item(by='taigeair', descendants=None, kids=None, score=None, time=1611968364, title=None, item_type='comment', url=None, parent=25940913, text='What&#x27;s the chance they suspend further trading of GME stock?')
+Item(by='taigeair', descendants=None, kids=[25965918], score=None, time=1611968364, title=None, item_type='comment', url=None, parent=25940913, text='What&#x27;s the chance they suspend further trading of GME stock?')

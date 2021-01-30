@@ -1,1 +1,1 @@
-Item(by='staticassertion', descendants=None, kids=None, score=None, time=1611969326, title=None, item_type='comment', url=None, parent=25964495, text='I misread then. Though you did ironically just say that pony does prevent race conditions :P')
+Item(by='staticassertion', descendants=None, kids=[25967205], score=None, time=1611969326, title=None, item_type='comment', url=None, parent=25964495, text='I misread then. Though you did ironically just say that pony does prevent race conditions :P')

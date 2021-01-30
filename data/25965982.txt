@@ -1,0 +1,1 @@
+Item(by='zerocrates', descendants=None, kids=None, score=None, time=1611980280, title=None, item_type='comment', url=None, parent=25965252, text='The caveat I&#x27;m aware of with array_filter is that it can leave gaps in the indexes, but having an array like that doesn&#x27;t break array_map. The output from it will just have the same index gap as the input.')

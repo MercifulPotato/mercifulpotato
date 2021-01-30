@@ -1,0 +1,1 @@
+Item(by='astrange', descendants=None, kids=[25965603], score=None, time=1611975304, title=None, item_type='comment', url=None, parent=25965374, text='It&#x27;s pretty good, but Apache tries to cut off long filenames and isn&#x27;t Unicode-aware when it does this, so it looks untidy because names come out at apparently random lengths…')
