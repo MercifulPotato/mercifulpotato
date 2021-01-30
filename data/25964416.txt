@@ -1,0 +1,1 @@
+Item(by='jasonpeacock', descendants=None, kids=None, score=None, time=1611964211, title=None, item_type='comment', url=None, parent=25963119, text='Yeah...those are all not the use cases that Enums were intended&#x2F;designed for.<p>Juse use Python&#x27;s `dataclass` or similar (`pydantic` is great) and just build the custom data types that you need.')

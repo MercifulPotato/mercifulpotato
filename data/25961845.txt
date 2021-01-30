@@ -1,1 +1,1 @@
-Item(by='blahyawnblah', descendants=None, kids=None, score=None, time=1611951437, title=None, item_type='comment', url=None, parent=25961805, text='None of your list says anything about the language. It says more about the companies hiring.<p>What does PHP entail??')
+Item(by='blahyawnblah', descendants=None, kids=[25961897], score=None, time=1611951437, title=None, item_type='comment', url=None, parent=25961805, text='None of your list says anything about the language. It says more about the companies hiring.<p>What does PHP entail??')

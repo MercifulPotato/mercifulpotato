@@ -1,0 +1,1 @@
+Item(by='Blikkentrekker', descendants=None, kids=None, score=None, time=1611965748, title=None, item_type='comment', url=None, parent=25961781, text='There is no need for sum types in a dynamically typed language that provides checking the type conditionally.<p>Sum types are, in effect, a small domain of dynamic typing.')

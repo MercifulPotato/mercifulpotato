@@ -1,0 +1,1 @@
+Item(by='pdimitar', descendants=None, kids=None, score=None, time=1611969144, title=None, item_type='comment', url=None, parent=25964666, text='Yeah, 100-200ms are quite fine in fact.<p>Maybe I got spoiled by Rust and OCaml that start in the matter of 3-8ms. :D But these Ruby and Node startup times are good.')

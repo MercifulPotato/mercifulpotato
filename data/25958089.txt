@@ -1,1 +1,1 @@
-Item(by='mike00632', descendants=None, kids=None, score=None, time=1611933617, title=None, item_type='comment', url=None, parent=25954844, text='I suspect the profit margin for a $50k gas guzzling truck is pretty high.')
+Item(by='mike00632', descendants=None, kids=[25963289], score=None, time=1611933617, title=None, item_type='comment', url=None, parent=25954844, text='I suspect the profit margin for a $50k gas guzzling truck is pretty high.')

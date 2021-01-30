@@ -1,0 +1,1 @@
+Item(by='shrx', descendants=None, kids=[25962090, 25962563, 25962180, 25962172], score=None, time=1611952258, title=None, item_type='comment', url=None, parent=25961977, text='Yeah the instructions are poorly written. Also, in my case (ubuntu 20.04) running `sudo apt-get --only-upgrade install sudo` does nothing, the latest version available is 1.8.31-1ubuntu1.2.')

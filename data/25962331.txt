@@ -1,0 +1,1 @@
+Item(by='shawnz', descendants=None, kids=[25962430, 25963179], score=None, time=1611953415, title=None, item_type='comment', url=None, parent=25962211, text='I think you accidentally typoed the first command &quot;apt-get update&quot; as &quot;apt-get upgrade&quot;, which is why it didn&#x27;t work there.')

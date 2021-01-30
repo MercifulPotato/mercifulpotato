@@ -1,0 +1,1 @@
+Item(by='cperciva', descendants=None, kids=[25965202], score=None, time=1611970396, title=None, item_type='comment', url=None, parent=25964404, text='The same x86 instructions are used for arithmetic on float&#x2F;double&#x2F;extended types; the difference is a precision setting in the x87 control word.')

@@ -1,1 +1,1 @@
-Item(by='davidkhess', descendants=0, kids=None, score=4, time=1611946548, title='Right Forge', item_type='story', url='https://www.rightforge.com/', parent=None, text=None)
+Item(by='davidkhess', descendants=16, kids=[25962586, 25962203, 25962304, 25962811, 25962508, 25962895, 25962618, 25962797], score=17, time=1611946548, title='Right Forge', item_type='story', url='https://www.rightforge.com/', parent=None, text=None)

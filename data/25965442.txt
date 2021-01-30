@@ -1,0 +1,1 @@
+Item(by='bawolff', descendants=None, kids=None, score=None, time=1611974086, title=None, item_type='comment', url=None, parent=25964551, text='The short version: Freenet has better anonoyminity properties than tor&#x2F;i2p at the cost of scaling poorly and only supporting static documents instead of interactive (tcp) servers.<p>Think of freenet as anonoymous Gnutella')

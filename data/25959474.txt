@@ -1,1 +1,1 @@
-Item(by='jaffathecake', descendants=0, kids=None, score=1, time=1611939512, title="Don't use functions as callbacks unless they're designed for it", item_type='story', url='https://jakearchibald.com/2021/function-callback-risks/', parent=None, text=None)
+Item(by='jaffathecake', descendants=0, kids=None, score=2, time=1611939512, title="Don't use functions as callbacks unless they're designed for it", item_type='story', url='https://jakearchibald.com/2021/function-callback-risks/', parent=None, text=None)

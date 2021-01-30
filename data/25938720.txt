@@ -1,1 +1,1 @@
-Item(by='andrewacove', descendants=None, kids=None, score=None, time=1611813407, title=None, item_type='comment', url=None, parent=25935199, text='If I were looking for work, I would consider it.')
+Item(by='andrewacove', descendants=None, kids=[25963718], score=None, time=1611813407, title=None, item_type='comment', url=None, parent=25935199, text='If I were looking for work, I would consider it.')

@@ -1,1 +1,1 @@
-Item(by='azinman2', descendants=None, kids=None, score=None, time=1611951195, title=None, item_type='comment', url=None, parent=25961644, text='Maybe for you. Not everyone is so mechanically inclined, or can understand instructions well.')
+Item(by='azinman2', descendants=None, kids=[25963782], score=None, time=1611951195, title=None, item_type='comment', url=None, parent=25961644, text='Maybe for you. Not everyone is so mechanically inclined, or can understand instructions well.')

@@ -1,0 +1,1 @@
+Item(by='LinuxBender', descendants=None, kids=None, score=None, time=1611951408, title=None, item_type='comment', url=None, parent=25961369, text='Not sure about legality, but one thing you could test would be if that site obeys robot tags.  Add &quot;noarchive,nosnippet&quot; to a pages robot meta tag and see if it will archive it.')

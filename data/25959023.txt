@@ -1,1 +1,1 @@
-Item(by='belorn', descendants=None, kids=None, score=None, time=1611937601, title=None, item_type='comment', url=None, parent=25958903, text='An option is to use a throwaway account for comments that would leak personal information if linked to a main account or personalized username.')
+Item(by='belorn', descendants=None, kids=[25964550], score=None, time=1611937601, title=None, item_type='comment', url=None, parent=25958903, text='An option is to use a throwaway account for comments that would leak personal information if linked to a main account or personalized username.')

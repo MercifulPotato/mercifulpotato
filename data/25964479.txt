@@ -1,0 +1,1 @@
+Item(by='nine_k', descendants=None, kids=None, score=None, time=1611964616, title=None, item_type='comment', url=None, parent=25960936, text='If you want to render Markdown in a way other than plain text, you need formal rules of parsing it. No matter how informal you want Markdown to be, if you want e.g. a nicely rendered Readme on Githiub, you have to follow the formal rules.')

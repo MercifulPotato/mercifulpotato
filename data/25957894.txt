@@ -1,1 +1,1 @@
-Item(by='LatteLazy', descendants=None, kids=None, score=None, time=1611932550, title=None, item_type='comment', url=None, parent=25957761, text='Exactly. Short seller buys 100 shares, return shares to lender, lender sells back to short seller, repeat as many times as needed to close')
+Item(by='LatteLazy', descendants=None, kids=[25963312], score=None, time=1611932550, title=None, item_type='comment', url=None, parent=25957761, text='Exactly. Short seller buys 100 shares, return shares to lender, lender sells back to short seller, repeat as many times as needed to close')

@@ -1,0 +1,1 @@
+Item(by='tuangeek', descendants=None, kids=None, score=None, time=1611952700, title=None, item_type='comment', url=None, parent=25962113, text='I am streaming the data from reddit, so no polling. The database updates every 90 seconds due to the free limit of cloudflare workers.')

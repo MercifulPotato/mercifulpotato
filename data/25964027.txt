@@ -1,0 +1,1 @@
+Item(by='ithkuil', descendants=None, kids=None, score=None, time=1611961712, title=None, item_type='comment', url=None, parent=25963876, text='That&#x27;s precisely what bazel does (and remote build execution systems like buildbarn allow this cache to be effectively shared among users)')

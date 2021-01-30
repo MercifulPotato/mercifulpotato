@@ -1,0 +1,1 @@
+Item(by='cozzyd', descendants=None, kids=[25964525], score=None, time=1611963233, title=None, item_type='comment', url=None, parent=25963451, text='I thought rust was supposed to prevent most classes of memory errors. They must have not passed the right options to their cargo.')

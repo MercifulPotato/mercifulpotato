@@ -1,1 +1,1 @@
-Item(by='matt_d', descendants=0, kids=None, score=2, time=1611946698, title='Number Parsing at a Gigabyte per Second', item_type='story', url='https://lemire.me/blog/2021/01/29/number-parsing-at-a-gigabyte-per-second/', parent=None, text=None)
+Item(by='matt_d', descendants=1, kids=[25964083], score=7, time=1611946698, title='Number Parsing at a Gigabyte per Second', item_type='story', url='https://lemire.me/blog/2021/01/29/number-parsing-at-a-gigabyte-per-second/', parent=None, text=None)

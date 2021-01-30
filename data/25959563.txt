@@ -1,1 +1,1 @@
-Item(by='f430', descendants=None, kids=None, score=None, time=1611939850, title=None, item_type='comment', url=None, parent=25941412, text='Good advice but its a hard sell in overly saturated markets and most people are just shopping for the lowest price.')
+Item(by='f430', descendants=None, kids=[25964938, 25964893], score=None, time=1611939850, title=None, item_type='comment', url=None, parent=25941412, text='Good advice but its a hard sell in overly saturated markets and most people are just shopping for the lowest price.')

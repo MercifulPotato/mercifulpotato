@@ -1,0 +1,1 @@
+Item(by='viraptor', descendants=None, kids=None, score=None, time=1611977844, title=None, item_type='comment', url=None, parent=25965330, text='I found it surprising that if you have window space slightly smaller than this image, it will get scaled and get banding back on the dithered side, but only in Firefox. Chromium scaling doesn&#x27;t have the same effect.')

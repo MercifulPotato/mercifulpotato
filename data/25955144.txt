@@ -1,1 +1,1 @@
-Item(by='riffic', descendants=None, kids=None, score=None, time=1611907471, title=None, item_type='comment', url=None, parent=25953663, text='every comment here has a permalink. tap on the timestamp.')
+Item(by='riffic', descendants=None, kids=[25964038], score=None, time=1611907471, title=None, item_type='comment', url=None, parent=25953663, text='every comment here has a permalink. tap on the timestamp.')

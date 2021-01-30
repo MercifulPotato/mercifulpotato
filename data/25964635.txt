@@ -1,0 +1,1 @@
+Item(by='sweeneyrod', descendants=None, kids=None, score=None, time=1611965903, title=None, item_type='comment', url=None, parent=25951726, text='elm-review still has a confirmation prompt though, right? You don&#x27;t want to instantly remove an unused value, because you might be in the middle of writing code and about to use it.')

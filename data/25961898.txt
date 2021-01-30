@@ -1,0 +1,1 @@
+Item(by='cat199', descendants=None, kids=None, score=None, time=1611951645, title=None, item_type='comment', url=None, parent=25961420, text='<p><pre><code>    $ ed ~&#x2F;public_html&#x2F;cgi-bin&#x2F;basic-web-app.cgi\n    #! &#x2F;usr&#x2F;bin&#x2F;env perl\n    ...</code></pre>')

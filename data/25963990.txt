@@ -1,0 +1,1 @@
+Item(by='rblatz', descendants=None, kids=None, score=None, time=1611961478, title=None, item_type='comment', url=None, parent=25963858, text='I think the idea is you can build from source on any file system or drive and get the same results.  By adding artificial purposeful nondeterminism you can fix your builds to account for unintentional natural nondeterminism.')

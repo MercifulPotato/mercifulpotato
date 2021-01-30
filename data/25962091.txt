@@ -1,0 +1,1 @@
+Item(by='the_optimist', descendants=None, kids=[25962224], score=None, time=1611952481, title=None, item_type='comment', url=None, parent=25961271, text='This is great, but it doesn&#x27;t address GPUs. If you built it for GPUs, from what I understand, that outcome would basically look like tensorflow, or maybe tensorflow XLA. Is that right?')

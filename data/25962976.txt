@@ -1,0 +1,1 @@
+Item(by='titzer', descendants=None, kids=[25963206, 25964154, 25963676, 25964094, 25963300], score=None, time=1611956316, title=None, item_type='comment', url=None, parent=25962756, text='Do <i>not</i> use C&#x2F;C++ for numerical code where accuracy is needed. These languages are not specified to conform to IEEE 754 and you are absolutely asking for trouble.')
