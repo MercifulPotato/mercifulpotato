@@ -1,1 +1,1 @@
-Item(by='jackhalford', descendants=0, kids=None, score=2, time=1612051517, title='Gamestop Insider Trading Data', item_type='story', url='http://openinsider.com/GME', parent=None, text=None)
+Item(by='jackhalford', descendants=0, kids=[25975359], score=2, time=1612051517, title='Gamestop Insider Trading Data', item_type='story', url='http://openinsider.com/GME', parent=None, text=None)

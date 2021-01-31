@@ -1,1 +1,1 @@
-Item(by='billions', descendants=None, kids=None, score=None, time=1612063645, title=None, item_type='comment', url=None, parent=25975110, text='The last time the US government made something to be proud of was 50 years ago with the Apollo program. Counter examples welcome!')
+Item(by='billions', descendants=None, kids=[25975775, 25975699, 25975658], score=None, time=1612063645, title=None, item_type='comment', url=None, parent=25975110, text='The last time the US government made something to be proud of was 50 years ago with the Apollo program. Counter examples welcome!')

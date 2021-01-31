@@ -1,0 +1,1 @@
+Item(by='zeckalpha', descendants=None, kids=None, score=None, time=1612081661, title=None, item_type='comment', url=None, parent=25976234, text='This doesn’t quite seem like that as the implementation of the instructions isn’t yet specified. Even if it is integrated, it can use dedicated VRAM and not have to use the CPU’s ALU.')

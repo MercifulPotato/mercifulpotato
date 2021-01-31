@@ -1,0 +1,1 @@
+Item(by='bitwize', descendants=None, kids=[25976909], score=None, time=1612074613, title=None, item_type='comment', url=None, parent=25974268, text='The X11 <i>protocol</i> doesn&#x27;t enable this, even if the most widely used X11 implementation does. An implementation could isolate clients by dropping events and returning blank rectangles for GetImage calls.')

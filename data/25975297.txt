@@ -1,1 +1,1 @@
-Item(by='baby', descendants=None, kids=None, score=None, time=1612061358, title=None, item_type='comment', url=None, parent=25975180, text='Mdma is not a psychedelic. Have you tried it?')
+Item(by='baby', descendants=None, kids=[25975764], score=None, time=1612061358, title=None, item_type='comment', url=None, parent=25975180, text='Mdma is not a psychedelic. Have you tried it?')

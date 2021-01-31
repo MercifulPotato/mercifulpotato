@@ -1,1 +1,1 @@
-Item(by='fcambus', descendants=0, kids=None, score=8, time=1611864334, title='Static analysis updates in GCC 11', item_type='story', url='https://developers.redhat.com/blog/2021/01/28/static-analysis-updates-in-gcc-11/', parent=None, text=None)
+Item(by='fcambus', descendants=0, kids=None, score=9, time=1611864334, title='Static analysis updates in GCC 11', item_type='story', url='https://developers.redhat.com/blog/2021/01/28/static-analysis-updates-in-gcc-11/', parent=None, text=None)

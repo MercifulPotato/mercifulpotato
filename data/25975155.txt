@@ -1,1 +1,1 @@
-Item(by='dshipper', descendants=0, kids=None, score=1, time=1612059767, title='A Local News Revival', item_type='story', url='https://every.to/napkin-math/a-local-news-revival', parent=None, text=None)
+Item(by='dshipper', descendants=1, kids=[25975484], score=1, time=1612059767, title='A Local News Revival', item_type='story', url='https://every.to/napkin-math/a-local-news-revival', parent=None, text=None)

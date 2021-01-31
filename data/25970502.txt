@@ -1,1 +1,1 @@
-Item(by='ignoranceprior', descendants=15, kids=[25971407, 25971924, 25973282, 25971998], score=36, time=1612024916, title='Teaching a Bayesian spam to filter play chess (2005)', item_type='story', url='http://dbacl.sourceforge.net/spam_chess-1.html', parent=None, text=None)
+Item(by='ignoranceprior', descendants=19, kids=[25976675, 25971407, 25973282, 25971924, 25971998], score=38, time=1612024916, title='Teaching a Bayesian spam filter to play chess (2005)', item_type='story', url='http://dbacl.sourceforge.net/spam_chess-1.html', parent=None, text=None)

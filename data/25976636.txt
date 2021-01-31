@@ -1,0 +1,1 @@
+Item(by='fmakunbound', descendants=None, kids=[25976660, 25976923], score=None, time=1612075143, title=None, item_type='comment', url=None, parent=25976473, text='It’s too fucking hard to setup python with all its pyenv, anaconda, poetry, pip requirements.txt and what-not, that’s the best use case for Docker here. Get it to work once and forget about it.')

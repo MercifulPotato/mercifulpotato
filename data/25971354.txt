@@ -1,1 +1,1 @@
-Item(by='kungfudoi', descendants=0, kids=None, score=6, time=1612030273, title='Psychedelics as Antidepressants', item_type='story', url='https://www.scientificamerican.com/article/psychedelics-as-antidepressants/', parent=None, text=None)
+Item(by='kungfudoi', descendants=2, kids=[25975651], score=6, time=1612030273, title='Psychedelics as Antidepressants', item_type='story', url='https://www.scientificamerican.com/article/psychedelics-as-antidepressants/', parent=None, text=None)

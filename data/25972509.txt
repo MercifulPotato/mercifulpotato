@@ -1,1 +1,1 @@
-Item(by='shankarro', descendants=0, kids=None, score=14, time=1612037447, title='Global Inequality', item_type='story', url='https://inequality.org/facts/global-inequality/', parent=None, text=None)
+Item(by='shankarro', descendants=10, kids=[25976770, 25975288, 25975216], score=32, time=1612037447, title='Global Inequality', item_type='story', url='https://inequality.org/facts/global-inequality/', parent=None, text=None)

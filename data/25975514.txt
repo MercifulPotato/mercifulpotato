@@ -1,1 +1,1 @@
-Item(by='gruez', descendants=None, kids=None, score=None, time=1612063173, title=None, item_type='comment', url=None, parent=25972620, text='meta: why is there an influx of green users in this thread, and why does it look like they&#x27;re pushing a specific narrative?')
+Item(by='gruez', descendants=None, kids=[25976142, 25975584, 25975600], score=None, time=1612063173, title=None, item_type='comment', url=None, parent=25972620, text='meta: why is there an influx of green users in this thread, and why does it look like they&#x27;re pushing a specific narrative?')

@@ -1,1 +1,1 @@
-Item(by='staccatomeasure', descendants=0, kids=None, score=1, time=1612059338, title='A Quick Anecdote About Speed Chess', item_type='story', url='https://ebenezermann.medium.com/a-quick-anecdote-about-speed-chess-1249e7ac1738', parent=None, text=None)
+Item(by='staccatomeasure', descendants=1, kids=[25975261], score=1, time=1612059338, title='A Quick Anecdote About Speed Chess', item_type='story', url='https://ebenezermann.medium.com/a-quick-anecdote-about-speed-chess-1249e7ac1738', parent=None, text=None)

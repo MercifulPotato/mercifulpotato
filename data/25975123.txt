@@ -1,1 +1,1 @@
-Item(by='grumple', descendants=None, kids=None, score=None, time=1612059382, title=None, item_type='comment', url=None, parent=25974867, text='Have you seen financial news sites? The writing is pathetic and the details lacking. And most of the articles are ads pretending to be news.')
+Item(by='grumple', descendants=None, kids=[25975889], score=None, time=1612059382, title=None, item_type='comment', url=None, parent=25974867, text='Have you seen financial news sites? The writing is pathetic and the details lacking. And most of the articles are ads pretending to be news.')

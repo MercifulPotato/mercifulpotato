@@ -1,0 +1,1 @@
+Item(by='ece', descendants=None, kids=[25975978], score=None, time=1612065076, title=None, item_type='comment', url=None, parent=25975444, text='It mentions support for INT8 for ML&#x2F;AI. FP16 and BF16 support isn&#x27;t explicitly mentioned, but it does support 8&#x2F;16&#x2F;32-bit fixed&#x2F;float scalars and vectors, so it could be added later.')

@@ -1,0 +1,1 @@
+Item(by='jijji', descendants=None, kids=[25976123], score=None, time=1612066288, title=None, item_type='comment', url=None, parent=25975417, text='alot of these issues can be solved by pushing code to UAT or QA environments and having a bug tracker that allows everyone to submit their bugs.  It seems like either none of this happened, or it was rolled out too quickly.')

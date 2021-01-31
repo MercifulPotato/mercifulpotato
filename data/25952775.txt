@@ -1,1 +1,1 @@
-Item(by='karmakaze', descendants=None, kids=None, score=None, time=1611886406, title=None, item_type='comment', url=None, parent=25949491, text='I don&#x27;t think it&#x27;s linear. Similarly to how discovery of knowledge isn&#x27;t linear looking at the past 100, 200, 300 years.')
+Item(by='karmakaze', descendants=None, kids=[25976613], score=None, time=1611886406, title=None, item_type='comment', url=None, parent=25949491, text='I don&#x27;t think it&#x27;s linear. Similarly to how discovery of knowledge isn&#x27;t linear looking at the past 100, 200, 300 years.')

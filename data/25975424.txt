@@ -1,0 +1,1 @@
+Item(by='xiphias2', descendants=None, kids=[25977149], score=None, time=1612062516, title=None, item_type='comment', url=None, parent=25974915, text='SIMD instructions were a mistake in CPU instruction set design.<p>Vector instructions have register size independent code which makes vector programming from CPUs much more approachable and binary compatible.')

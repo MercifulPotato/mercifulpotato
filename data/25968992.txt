@@ -1,1 +1,1 @@
-Item(by='morsch', descendants=None, kids=None, score=None, time=1612014286, title=None, item_type='comment', url=None, parent=25968511, text='Is that something I can do to my phone to make updates via F-Droid more seamless?')
+Item(by='morsch', descendants=None, kids=[25975850], score=None, time=1612014286, title=None, item_type='comment', url=None, parent=25968511, text='Is that something I can do to my phone to make updates via F-Droid more seamless?')

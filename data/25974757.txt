@@ -1,1 +1,1 @@
-Item(by='mardiyah', descendants=2, kids=[25974915], score=6, time=1612055736, title='RV64X: A Free, open-source GPU for RISC-V', item_type='story', url='https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/', parent=None, text=None)
+Item(by='mardiyah', descendants=25, kids=[25976234, 25975697, 25975444, 25974915, 25976250, 25976445, 25976302], score=99, time=1612055736, title='RV64X: A Free, open-source GPU for RISC-V', item_type='story', url='https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/', parent=None, text=None)

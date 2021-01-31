@@ -1,1 +1,1 @@
-Item(by='throwaway0a5e', descendants=None, kids=None, score=None, time=1612057215, title=None, item_type='comment', url=None, parent=25973019, text='It&#x27;s not 2-phase.  It&#x27;s split phase.  But you can think of it as being 2-phase to make the math convenient.')
+Item(by='throwaway0a5e', descendants=None, kids=[25976596], score=None, time=1612057215, title=None, item_type='comment', url=None, parent=25973019, text='It&#x27;s not 2-phase.  It&#x27;s split phase.  But you can think of it as being 2-phase to make the math convenient.')

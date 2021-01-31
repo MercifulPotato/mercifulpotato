@@ -1,1 +1,1 @@
-Item(by='srogers1', descendants=7, kids=[25973891, 25973938, 25974155], score=19, time=1612036760, title='Dogecoin GitHub issue #1674: Reintroduce the cap', item_type='story', url='https://github.com/dogecoin/dogecoin/issues/1674', parent=None, text=None)
+Item(by='srogers1', descendants=9, kids=[25973891, 25973938, 25974155, 25976630], score=25, time=1612036760, title='Dogecoin GitHub issue #1674: Reintroduce the cap', item_type='story', url='https://github.com/dogecoin/dogecoin/issues/1674', parent=None, text=None)

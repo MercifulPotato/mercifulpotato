@@ -1,1 +1,1 @@
-Item(by='voisin', descendants=None, kids=None, score=None, time=1612062803, title=None, item_type='comment', url=None, parent=25975323, text='How long does it last?')
+Item(by='voisin', descendants=None, kids=[25975672], score=None, time=1612062803, title=None, item_type='comment', url=None, parent=25975323, text='How long does it last?')
