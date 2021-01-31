@@ -1,0 +1,1 @@
+Item(by='tines', descendants=None, kids=None, score=None, time=1612107781, title=None, item_type='comment', url=None, parent=25979293, text='It depends on how sophisticated your type system is. For a pure HM type system, anything requiring rank-n types won&#x27;t type check, but are theoretically sound in a type system that supports them.')

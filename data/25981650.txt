@@ -1,0 +1,1 @@
+Item(by='simonpure', descendants=0, kids=None, score=1, time=1612120896, title="Webkit's Quirks:ShouldAvoidScrollingWhenFocusedContentIsVisible Hack for Zillow", item_type='story', url='https://github.com/WebKit/WebKit/blob/31b77296cf6d85c40313812d9f65a003cf41f440/Source/WebCore/page/Quirks.cpp#L693', parent=None, text=None)

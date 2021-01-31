@@ -1,1 +1,1 @@
-Item(by='the8472', descendants=None, kids=None, score=None, time=1612030446, title=None, item_type='comment', url=None, parent=25966746, text='&gt; BT.2020 HDR<p>Note that BT2020 describes a wider color gamut, not an extended dynamic range. BT2100 is the HDR equivalent.')
+Item(by='the8472', descendants=None, kids=[25981504], score=None, time=1612030446, title=None, item_type='comment', url=None, parent=25966746, text='&gt; BT.2020 HDR<p>Note that BT2020 describes a wider color gamut, not an extended dynamic range. BT2100 is the HDR equivalent.')

@@ -1,1 +1,1 @@
-Item(by='throw2838', descendants=None, kids=[25979156, 25979087], score=None, time=1612102825, title=None, item_type='comment', url=None, parent=25978936, text='Slow startup from command line')
+Item(by='throw2838', descendants=None, kids=[25981265, 25979087, 25979156], score=None, time=1612102825, title=None, item_type='comment', url=None, parent=25978936, text='Slow startup from command line')

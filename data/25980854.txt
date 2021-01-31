@@ -1,0 +1,1 @@
+Item(by='maerF0x0', descendants=None, kids=None, score=None, time=1612115811, title=None, item_type='comment', url=None, parent=25971994, text='&gt; &quot;distibuted system&quot;, just an active&#x2F;passive failover cluster<p>I would call this a distributed system. To me HA means 0 downtime deploys, are there SQL&#x2F;RDBMS that offer that even for schema changes?')

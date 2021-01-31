@@ -1,1 +1,1 @@
-Item(by='tr1ll10nb1ll', descendants=None, kids=None, score=None, time=1612043145, title=None, item_type='comment', url=None, parent=25968679, text='This seems really cool, if worked upon well, can actually be a thing, plus it made me smile lol.\nLemme know if I can help in any way :)')
+Item(by='tr1ll10nb1ll', descendants=None, kids=[25980699], score=None, time=1612043145, title=None, item_type='comment', url=None, parent=25968679, text='This seems really cool, if worked upon well, can actually be a thing, plus it made me smile lol.\nLemme know if I can help in any way :)')

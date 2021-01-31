@@ -1,1 +1,1 @@
-Item(by='stepbeek', descendants=None, kids=None, score=None, time=1612086759, title=None, item_type='comment', url=None, parent=25973242, text='Curious about the choice to self-host everything here. Why not deploy a django app to heroku? Or the new digital ocean app platform?')
+Item(by='stepbeek', descendants=None, kids=[25979117], score=None, time=1612086759, title=None, item_type='comment', url=None, parent=25973242, text='Curious about the choice to self-host everything here. Why not deploy a django app to heroku? Or the new digital ocean app platform?')

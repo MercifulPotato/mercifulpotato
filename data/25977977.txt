@@ -1,1 +1,1 @@
-Item(by='heydenberk', descendants=21, kids=[25978606, 25978363, 25978317, 25978705, 25978264, 25978525, 25978306], score=72, time=1612092064, title='NumPy 1.20', item_type='story', url='https://numpy.org/doc/1.20/release/1.20.0-notes.html', parent=None, text=None)
+Item(by='heydenberk', descendants=54, kids=[25978606, 25978317, 25978363, 25978705, 25981296, 25981292, 25978264, 25980346, 25979366, 25978306, 25978525], score=152, time=1612092064, title='NumPy 1.20', item_type='story', url='https://numpy.org/doc/1.20/release/1.20.0-notes.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=[25982044], score=None, time=1612122001, title=None, item_type='comment', url=None, parent=25981714, text='I&#x27;ve seen at least some minified&#x2F;bundled JS files that neatly preserved the copyright notices for each minified blob they included.')

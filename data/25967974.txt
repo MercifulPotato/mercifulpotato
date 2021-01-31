@@ -1,1 +1,1 @@
-Item(by='pjmlp', descendants=None, kids=None, score=None, time=1612003033, title=None, item_type='comment', url=None, parent=25967704, text='Which is why C++ has a global scope operator.')
+Item(by='pjmlp', descendants=None, kids=[25980532], score=None, time=1612003033, title=None, item_type='comment', url=None, parent=25967704, text='Which is why C++ has a global scope operator.')

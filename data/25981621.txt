@@ -1,0 +1,1 @@
+Item(by='lisper', descendants=None, kids=None, score=None, time=1612120748, title=None, item_type='comment', url=None, parent=25980910, text='&gt; Most implementations of Common Lisp prevent shadowing builtin symbols.<p>So?  Make your own package.')

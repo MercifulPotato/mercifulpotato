@@ -1,0 +1,1 @@
+Item(by='gbronner', descendants=None, kids=None, score=None, time=1612110313, title=None, item_type='comment', url=None, parent=25976913, text='I wrote something similar many years ago. Strtod has to check for null on every byte, and doesn&#x27;t get inlined')

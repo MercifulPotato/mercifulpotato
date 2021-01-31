@@ -1,1 +1,1 @@
-Item(by='briefcomment', descendants=None, kids=None, score=None, time=1612096532, title=None, item_type='comment', url=None, parent=25976704, text='Ah ok. Any reason not to start greying comments out at a lower threshold of net downvotes?')
+Item(by='briefcomment', descendants=None, kids=[25982242], score=None, time=1612096532, title=None, item_type='comment', url=None, parent=25976704, text='Ah ok. Any reason not to start greying comments out at a lower threshold of net downvotes?')

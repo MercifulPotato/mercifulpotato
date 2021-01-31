@@ -1,1 +1,1 @@
-Item(by='runiq', descendants=None, kids=None, score=None, time=1612084198, title=None, item_type='comment', url=None, parent=25976729, text='The 3rd party Rust server is Conduit: <a href="https:&#x2F;&#x2F;conduit.rs" rel="nofollow">https:&#x2F;&#x2F;conduit.rs</a>')
+Item(by='runiq', descendants=None, kids=[25979838], score=None, time=1612084198, title=None, item_type='comment', url=None, parent=25976729, text='The 3rd party Rust server is Conduit: <a href="https:&#x2F;&#x2F;conduit.rs" rel="nofollow">https:&#x2F;&#x2F;conduit.rs</a>')

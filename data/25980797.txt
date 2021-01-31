@@ -1,0 +1,1 @@
+Item(by='adwn', descendants=None, kids=[25981643], score=None, time=1612115512, title=None, item_type='comment', url=None, parent=25980263, text='&gt; <i>(define (self-apply fn) (fn fn))</i><p>Out of curiousity, what would be a practical application of this?')

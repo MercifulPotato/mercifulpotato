@@ -1,0 +1,1 @@
+Item(by='johnpython', descendants=None, kids=[25980069], score=None, time=1612104725, title=None, item_type='comment', url=None, parent=25976593, text='For running applications in production, Alpine Linux is harmful and should be avoided. Getting a smaller container image is not worth trading mucl for glibc.')

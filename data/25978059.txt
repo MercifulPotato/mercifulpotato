@@ -1,1 +1,1 @@
-Item(by='adrianN', descendants=None, kids=None, score=None, time=1612092900, title=None, item_type='comment', url=None, parent=25978012, text='Typically those programs are waiting for data to arrive from RAM because they have terrible data locality and chase pointers to do everything.')
+Item(by='adrianN', descendants=None, kids=[25979227], score=None, time=1612092900, title=None, item_type='comment', url=None, parent=25978012, text='Typically those programs are waiting for data to arrive from RAM because they have terrible data locality and chase pointers to do everything.')

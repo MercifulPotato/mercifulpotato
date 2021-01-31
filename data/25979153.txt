@@ -1,1 +1,1 @@
-Item(by='derwiki', descendants=None, kids=None, score=None, time=1612104198, title=None, item_type='comment', url=None, parent=25977103, text='There’s also a Ten Ren on Grant in SF Chinatown. I still have a punch card..')
+Item(by='derwiki', descendants=None, kids=[25981431], score=None, time=1612104198, title=None, item_type='comment', url=None, parent=25977103, text='There’s also a Ten Ren on Grant in SF Chinatown. I still have a punch card..')

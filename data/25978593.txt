@@ -1,1 +1,1 @@
-Item(by='pabs3', descendants=None, kids=None, score=None, time=1612099213, title=None, item_type='comment', url=None, parent=25978323, text='Also any idea if the training required nvidia GPUs or was it done on CPUs or GPUs with non-proprietary drivers?')
+Item(by='pabs3', descendants=None, kids=[25979492], score=None, time=1612099213, title=None, item_type='comment', url=None, parent=25978323, text='Also any idea if the training required nvidia GPUs or was it done on CPUs or GPUs with non-proprietary drivers?')

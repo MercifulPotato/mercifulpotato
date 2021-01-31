@@ -1,0 +1,1 @@
+Item(by='michaericalribo', descendants=None, kids=None, score=None, time=1612119917, title=None, item_type='comment', url=None, parent=25981343, text='Yeah! That’s what I mean...under the hood data frames use numpy arrays, but the abstractions of pandas are much easier to work with.')

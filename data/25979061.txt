@@ -1,0 +1,1 @@
+Item(by='invokestatic', descendants=None, kids=[25979312], score=None, time=1612103493, title=None, item_type='comment', url=None, parent=25978434, text='I do believe x86 in this case encompasses x86_64 (I checked this on the llvm phabricator to be sure).')

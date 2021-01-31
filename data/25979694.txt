@@ -1,0 +1,1 @@
+Item(by='qoqosz', descendants=None, kids=None, score=None, time=1612108642, title=None, item_type='comment', url=None, parent=25979366, text='TF-Numpy is not a competitor to NumPy. It just introduces a small subset of NP API to TF codebase. In TF you still have immutable tensors, so e.g. sth like: tensor[mask] = new_value doesn&#x27;t work.')

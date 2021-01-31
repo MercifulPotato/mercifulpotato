@@ -1,1 +1,1 @@
-Item(by='kortilla', descendants=None, kids=None, score=None, time=1612079327, title=None, item_type='comment', url=None, parent=25976541, text='There’s people that make that trade off with alcohol and drugs as well. At least this has a non zero expected value.')
+Item(by='kortilla', descendants=None, kids=[25980362], score=None, time=1612079327, title=None, item_type='comment', url=None, parent=25976541, text='There’s people that make that trade off with alcohol and drugs as well. At least this has a non zero expected value.')

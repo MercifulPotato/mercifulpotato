@@ -1,0 +1,1 @@
+Item(by='mockingbirdy', descendants=None, kids=None, score=None, time=1612104182, title=None, item_type='comment', url=None, parent=25977727, text='What do you use for the frontend part? I&#x27;m using Vue or React + django-drf, but it always feels like it could be much simpler for most SaaS applications. Using Django forms feels too limited, on the other hand.')

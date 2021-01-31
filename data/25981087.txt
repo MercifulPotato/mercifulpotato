@@ -1,0 +1,1 @@
+Item(by='simplecto', descendants=None, kids=None, score=None, time=1612117149, title=None, item_type='comment', url=None, parent=25978204, text='Traefik handle websockets just fine. You just need to make sure Traefik can talk to all the backend services on the right ports.')

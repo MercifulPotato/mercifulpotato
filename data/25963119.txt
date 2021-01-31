@@ -1,1 +1,1 @@
-Item(by='lukastyrychtr', descendants=13, kids=[25964130, 25964992, 25964416, 25967774, 25965018], score=17, time=1611957004, title='We don’t use Python native enums', item_type='story', url='https://kodare.net/2020/11/17/why_we_dont_use_enums.html', parent=None, text=None)
+Item(by='lukastyrychtr', descendants=13, kids=[25964130, 25964992, 25967774, 25964416, 25965018], score=17, time=1611957004, title='We don’t use Python native enums', item_type='story', url='https://kodare.net/2020/11/17/why_we_dont_use_enums.html', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='c-cube', descendants=None, kids=None, score=None, time=1612023954, title=None, item_type='comment', url=None, parent=25969496, text='In what ways is it more capable than Pascal? At first glance Pascal seemed to have more features (including discriminated unions)?')
+Item(by='c-cube', descendants=None, kids=[25979588], score=None, time=1612023954, title=None, item_type='comment', url=None, parent=25969496, text='In what ways is it more capable than Pascal? At first glance Pascal seemed to have more features (including discriminated unions)?')
