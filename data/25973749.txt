@@ -1,0 +1,1 @@
+Item(by='glandium', descendants=None, kids=[25973908], score=None, time=1612046423, title=None, item_type='comment', url=None, parent=25973558, text='I don&#x27;t know anything about the wayland API. Does this imply that windows can&#x27;t have a different scaling on each screen they may overlap on? Or can a window be split across different surfaces?')

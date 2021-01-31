@@ -1,0 +1,1 @@
+Item(by='CameronNemo', descendants=None, kids=None, score=None, time=1612063115, title=None, item_type='comment', url=None, parent=25975394, text='Debian slim is certainly not 1GB. It is maybe 50-60MB larger than Alpine. And that is shared if you have multiple containers based on Debian slim.')

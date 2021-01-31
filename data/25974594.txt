@@ -1,0 +1,1 @@
+Item(by='simplecto', descendants=None, kids=None, score=None, time=1612054051, title=None, item_type='comment', url=None, parent=25974577, text='Good question. I ship logs and metrics back to my home server that runs grafana and loki. I also run some proxies to machines in other places.')

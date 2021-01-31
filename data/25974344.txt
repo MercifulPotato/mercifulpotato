@@ -1,0 +1,1 @@
+Item(by='dfgdghdf', descendants=None, kids=None, score=None, time=1612051557, title=None, item_type='comment', url=None, parent=25971983, text='F# could have out of order definitions, but the designers chose not to because it lengthens compile times considerably.')

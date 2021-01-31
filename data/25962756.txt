@@ -1,1 +1,1 @@
-Item(by='zaitanz', descendants=38, kids=[25963140, 25963150, 25968974, 25963086, 25963547, 25962976], score=70, time=1611955441, title='Weird compiler bug – Same code, different results', item_type='story', url='https://blog.zaita.com/mingw64-compiler-bug/', parent=None, text=None)
+Item(by='zaitanz', descendants=38, kids=[25963140, 25963150, 25963086, 25968974, 25963547, 25962976], score=72, time=1611955441, title='Weird compiler bug – Same code, different results', item_type='story', url='https://blog.zaita.com/mingw64-compiler-bug/', parent=None, text=None)

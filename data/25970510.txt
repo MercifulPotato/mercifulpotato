@@ -1,1 +1,1 @@
-Item(by='danso', descendants=0, kids=None, score=3, time=1612024951, title='What went wrong with America’s $44M vaccine data system?', item_type='story', url='https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/', parent=None, text=None)
+Item(by='danso', descendants=1, kids=[25973862], score=4, time=1612024951, title='What went wrong with America’s $44M vaccine data system?', item_type='story', url='https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/', parent=None, text=None)

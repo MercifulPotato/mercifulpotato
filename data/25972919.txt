@@ -1,0 +1,1 @@
+Item(by='danielovichdk', descendants=None, kids=None, score=None, time=1612040336, title=None, item_type='comment', url=None, parent=25969976, text='Funny to see those layered architectures&#x2F;designs.<p>Tightly coupled dependencies are bad. Cyclic or not.<p>And if you do mange to to a cyclic dependency you are not thinking about your design property. Imo')

@@ -1,1 +1,1 @@
-Item(by='snake_case', descendants=3, kids=[25970696], score=4, time=1612026063, title='Show HN: I built a jigsaw puzzle website', item_type='story', url='https://puzzlepanda.com', parent=None, text=None)
+Item(by='snake_case', descendants=5, kids=[25970696, 25973879], score=9, time=1612026063, title='Show HN: I built a jigsaw puzzle website', item_type='story', url='https://puzzlepanda.com', parent=None, text=None)

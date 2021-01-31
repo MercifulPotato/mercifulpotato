@@ -1,0 +1,1 @@
+Item(by='zlynx', descendants=None, kids=None, score=None, time=1612049864, title=None, item_type='comment', url=None, parent=25974035, text='The X11 protocol allows any client connected to the server to become a keylogger or insert input events. So, even a X11 client trapped in a sandbox or another user account has full access.')

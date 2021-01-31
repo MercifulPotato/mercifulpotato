@@ -1,1 +1,1 @@
-Item(by='gregoriol', descendants=None, kids=None, score=None, time=1612036569, title=None, item_type='comment', url=None, parent=25972100, text='It seems to me that you can&#x27;t seek with a webrtc stream, as it is at least.')
+Item(by='gregoriol', descendants=None, kids=[25972797], score=None, time=1612036569, title=None, item_type='comment', url=None, parent=25972100, text='It seems to me that you can&#x27;t seek with a webrtc stream, as it is at least.')

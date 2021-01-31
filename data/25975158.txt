@@ -1,0 +1,1 @@
+Item(by='turtlebits', descendants=None, kids=[25975215], score=None, time=1612059791, title=None, item_type='comment', url=None, parent=25974747, text='It&#x27;s most likely because of Django.  Same would be for using Ruby for Rails.<p>It&#x27;s also very unlikely you are going to write &gt;1000 LoC (or honestly even &gt;100 LoC) for any view function&#x2F;API endpoint.')

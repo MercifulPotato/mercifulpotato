@@ -1,1 +1,1 @@
-Item(by='Jkvngt', descendants=27, kids=[25972124, 25972213, 25972080, 25972229, 25972128, 25972246, 25972010, 25972076], score=30, time=1612030470, title='Wayland Keylogger (2021)', item_type='story', url='https://github.com/Aishou/wayland-keylogger', parent=None, text=None)
+Item(by='Jkvngt', descendants=84, kids=[25972124, 25974307, 25972213, 25972128, 25972080, 25972229, 25972246, 25974281, 25974601, 25972010, 25972076], score=56, time=1612030470, title='Wayland Keylogger', item_type='story', url='https://github.com/Aishou/wayland-keylogger', parent=None, text=None)

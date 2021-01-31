@@ -1,1 +1,1 @@
-Item(by='jeffbee', descendants=None, kids=None, score=None, time=1612034429, title=None, item_type='comment', url=None, parent=25971335, text='You seem to have a lot of info on this topic. Do you run a blog or some other way you disseminate this stuff?')
+Item(by='jeffbee', descendants=None, kids=[25975115], score=None, time=1612034429, title=None, item_type='comment', url=None, parent=25971335, text='You seem to have a lot of info on this topic. Do you run a blog or some other way you disseminate this stuff?')

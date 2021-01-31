@@ -1,1 +1,1 @@
-Item(by='georgecmu', descendants=0, kids=None, score=2, time=1612029217, title='AAA wants us to stop calling car crashes “accidents”', item_type='story', url='https://capitolfax.com/2021/01/26/aaa-wants-us-to-stop-calling-car-crashes-accidents', parent=None, text=None)
+Item(by='georgecmu', descendants=5, kids=[25974637, 25973498], score=7, time=1612029217, title='AAA wants us to stop calling car crashes “accidents”', item_type='story', url='https://capitolfax.com/2021/01/26/aaa-wants-us-to-stop-calling-car-crashes-accidents', parent=None, text=None)

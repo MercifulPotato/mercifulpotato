@@ -1,0 +1,1 @@
+Item(by='vasergen', descendants=None, kids=None, score=None, time=1612054587, title=None, item_type='comment', url=None, parent=25974582, text='It depends on situation. As an example, it could be difficult to write tests when you have circular dependency. As well depends on the language there could be strange ’side effects’ which would be difficult to debug.')

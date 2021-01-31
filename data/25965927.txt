@@ -1,1 +1,1 @@
-Item(by='nabaraz', descendants=None, kids=None, score=None, time=1611979635, title=None, item_type='comment', url=None, parent=25964826, text='That is normal. Algos, HFTs and trading desks are trading the same shares over and over again.')
+Item(by='nabaraz', descendants=None, kids=[25973208], score=None, time=1611979635, title=None, item_type='comment', url=None, parent=25964826, text='That is normal. Algos, HFTs and trading desks are trading the same shares over and over again.')

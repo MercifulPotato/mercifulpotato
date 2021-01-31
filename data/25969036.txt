@@ -1,1 +1,1 @@
-Item(by='Wowfunhappy', descendants=None, kids=None, score=None, time=1612014544, title=None, item_type='comment', url=None, parent=25968351, text='It does seem like a lot more work though with eggs.')
+Item(by='Wowfunhappy', descendants=None, kids=[25974501], score=None, time=1612014544, title=None, item_type='comment', url=None, parent=25968351, text='It does seem like a lot more work though with eggs.')

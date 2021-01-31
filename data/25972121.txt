@@ -1,1 +1,1 @@
-Item(by='tysone', descendants=0, kids=None, score=4, time=1612034962, title='A Vast Web of Vengeance', item_type='story', url='https://www.nytimes.com/2021/01/30/technology/change-my-google-results.html', parent=None, text=None)
+Item(by='tysone', descendants=33, kids=[25974635, 25973045, 25973880, 25975196, 25973584, 25974904, 25973770, 25974968, 25974458], score=115, time=1612034962, title='A vast web of vengeance', item_type='story', url='https://www.nytimes.com/2021/01/30/technology/change-my-google-results.html', parent=None, text=None)

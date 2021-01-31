@@ -1,0 +1,1 @@
+Item(by='dimes', descendants=None, kids=None, score=None, time=1612039837, title=None, item_type='comment', url=None, parent=25972695, text='Yes, this is a good point. Intra refresh does reduce variability of the bitrate, but the bitrate is still higher than it would need to be if rtcp was supported.')

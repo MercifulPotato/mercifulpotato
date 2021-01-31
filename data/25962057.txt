@@ -1,1 +1,1 @@
-Item(by='keltex', descendants=11, kids=[25962470, 25966650, 25962824, 25963872, 25962311, 25962462], score=53, time=1611952332, title='Google Cloud SQL Incident', item_type='story', url='https://status.cloud.google.com/incident/cloud-sql/21001', parent=None, text=None)
+Item(by='keltex', descendants=11, kids=[25962470, 25966650, 25962824, 25963872, 25962311, 25962462], score=54, time=1611952332, title='Google Cloud SQL Incident', item_type='story', url='https://status.cloud.google.com/incident/cloud-sql/21001', parent=None, text=None)

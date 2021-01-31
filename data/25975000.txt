@@ -1,0 +1,1 @@
+Item(by='glandium', descendants=None, kids=None, score=None, time=1612058073, title=None, item_type='comment', url=None, parent=25974980, text='It improves neither on mac, because debug info is in a separate .dSYM directory.<p>Edit: stripping local symbols does save a little file size, but barely gives a mapping of addresses to symbol names, not actual debug info.')

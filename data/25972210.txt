@@ -1,1 +1,1 @@
-Item(by='Kaze404', descendants=None, kids=None, score=None, time=1612035507, title=None, item_type='comment', url=None, parent=25972076, text='Isn&#x27;t one of the most popular Wayland clients a window manager? I&#x27;m confused.')
+Item(by='Kaze404', descendants=None, kids=[25974397], score=None, time=1612035507, title=None, item_type='comment', url=None, parent=25972076, text='Isn&#x27;t one of the most popular Wayland clients a window manager? I&#x27;m confused.')
