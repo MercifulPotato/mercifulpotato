@@ -1,1 +1,1 @@
-Item(by='steveBK123', descendants=None, kids=None, score=None, time=1612057366, title=None, item_type='comment', url=None, parent=25974092, text='The problem is that it’s not free.. it’s probably $1000-2000 increase in parts to generate 50cents&#x2F;day of electricity...')
+Item(by='steveBK123', descendants=None, kids=[25977321], score=None, time=1612057366, title=None, item_type='comment', url=None, parent=25974092, text='The problem is that it’s not free.. it’s probably $1000-2000 increase in parts to generate 50cents&#x2F;day of electricity...')

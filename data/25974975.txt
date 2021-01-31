@@ -1,1 +1,1 @@
-Item(by='elsewhen', descendants=0, kids=None, score=4, time=1612057786, title="Michael Lewis' Next Book", item_type='story', url='https://www.nytimes.com/2021/01/28/books/michael-lewis-premonition-coronavirus-pandemic.html', parent=None, text=None)
+Item(by='elsewhen', descendants=0, kids=None, score=5, time=1612057786, title="Michael Lewis' Next Book", item_type='story', url='https://www.nytimes.com/2021/01/28/books/michael-lewis-premonition-coronavirus-pandemic.html', parent=None, text=None)

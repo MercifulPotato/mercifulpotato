@@ -1,1 +1,1 @@
-Item(by='omnimus', descendants=None, kids=None, score=None, time=1612082825, title=None, item_type='comment', url=None, parent=25977140, text='Do you federate or these are silos for few users?')
+Item(by='omnimus', descendants=None, kids=[25977462], score=None, time=1612082825, title=None, item_type='comment', url=None, parent=25977140, text='Do you federate or these are silos for few users?')

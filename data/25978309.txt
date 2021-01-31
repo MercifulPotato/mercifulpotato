@@ -1,0 +1,1 @@
+Item(by='pabs3', descendants=None, kids=[25978323], score=None, time=1612096102, title=None, item_type='comment', url=None, parent=25978111, text='I noticed that RNNoise doesn&#x27;t appear to be an open model, you can&#x27;t re-train it from scratch from the source data, which isn&#x27;t publicly documented (or doesn&#x27;t exist?), even if you had enough hardware.')

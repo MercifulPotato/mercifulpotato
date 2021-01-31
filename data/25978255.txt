@@ -1,0 +1,1 @@
+Item(by='toolslive', descendants=None, kids=[25978496], score=None, time=1612095431, title=None, item_type='comment', url=None, parent=25972609, text='You can look at a genetic algorithm as a neighbourhood  search, where the neighbourhood is defined by whatever you can reach via 1 mutation. crossover can be seen as a way to avoid being stuck near a local optimum.')

@@ -1,0 +1,1 @@
+Item(by='adgud', descendants=None, kids=None, score=None, time=1612098872, title=None, item_type='comment', url=None, parent=25976874, text='&gt; VSCode lets you debug inside a Docker container.<p>Can you connect to a remote host that runs the container?<p>Docker exec won&#x27;t work if the container spins into start&#x2F;fail loop.')

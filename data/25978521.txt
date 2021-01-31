@@ -1,0 +1,1 @@
+Item(by='Aeolun', descendants=None, kids=None, score=None, time=1612098452, title=None, item_type='comment', url=None, parent=25976660, text='I dunno, these magic incantations make a lot less sense to me than:<p><pre><code>  pipenv init\n  Pipenv install\n</code></pre>\nMaybe it’s because I’m used to npm and composer?')

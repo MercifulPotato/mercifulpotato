@@ -1,0 +1,1 @@
+Item(by='bitwize', descendants=None, kids=None, score=None, time=1612088018, title=None, item_type='comment', url=None, parent=25974166, text='Firejail uses Xpra as a sandboxing X proxy to the real server.<p>It can also be configured to use Xephyr.')

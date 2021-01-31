@@ -1,1 +1,1 @@
-Item(by='johntfella', descendants=1, kids=[25976818], score=4, time=1612077181, title='Bayesian analysis concludes that SARS-CoV-2 is not a natural zoonosis', item_type='story', url='https://doi.org/10.5281/zenodo.4477081', parent=None, text=None)
+Item(by='johntfella', descendants=2, kids=[25977102, 25976818], score=9, time=1612077181, title='Bayesian analysis concludes that SARS-CoV-2 is not a natural zoonosis', item_type='story', url='https://doi.org/10.5281/zenodo.4477081', parent=None, text=None)

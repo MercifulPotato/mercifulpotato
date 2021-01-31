@@ -1,0 +1,1 @@
+Item(by='wiredfool', descendants=None, kids=[25978588], score=None, time=1612086956, title=None, item_type='comment', url=None, parent=25977496, text='Did you mean to expose your postgres port to the world?<p>Adding the port declaration to the docker file exposes it to other containers on the same network&#x2F;machine, adding it in docker-compose exposes it to the world.')

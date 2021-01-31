@@ -1,1 +1,1 @@
-Item(by='suizi', descendants=None, kids=None, score=None, time=1612076314, title=None, item_type='comment', url=None, parent=25974297, text='It&#x27;s scary how Google can automatically ban a client for a network with millions of users like this without even batting an eye.')
+Item(by='suizi', descendants=None, kids=[25978247], score=None, time=1612076314, title=None, item_type='comment', url=None, parent=25974297, text='It&#x27;s scary how Google can automatically ban a client for a network with millions of users like this without even batting an eye.')

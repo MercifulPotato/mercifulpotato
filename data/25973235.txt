@@ -1,1 +1,1 @@
-Item(by='krsdcbl', descendants=None, kids=None, score=None, time=1612042476, title=None, item_type='comment', url=None, parent=25969843, text='I kinda want to call them &quot;weight agnostic&quot;, but that might be even more confusing')
+Item(by='krsdcbl', descendants=None, kids=[25977764], score=None, time=1612042476, title=None, item_type='comment', url=None, parent=25969843, text='I kinda want to call them &quot;weight agnostic&quot;, but that might be even more confusing')

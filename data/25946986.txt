@@ -1,1 +1,1 @@
-Item(by='rmcsqrd', descendants=1, kids=[25946987], score=8, time=1611860048, title='Show HN: r/WallStreetBets Webscraper', item_type='story', url='https://github.com/rmcsqrd/yolo-scrape', parent=None, text=None)
+Item(by='rmcsqrd', descendants=2, kids=[25978276, 25946987], score=10, time=1611860048, title='Show HN: r/WallStreetBets Webscraper', item_type='story', url='https://github.com/rmcsqrd/yolo-scrape', parent=None, text=None)

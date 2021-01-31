@@ -1,0 +1,1 @@
+Item(by='einpoklum', descendants=None, kids=[25978109, 25978243], score=None, time=1612092913, title=None, item_type='comment', url=None, parent=25976855, text='It&#x27;s not clear that the author of that post used `-march=native -mtune=native`. And if they didn&#x27;t, that could account for the odd results.')

@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=None, score=None, time=1612083838, title=None, item_type='comment', url=None, parent=25971244, text='&gt; WSL2 is a Linux VM<p>That is a singularly useless statement. WSL2 is a first-party deeply integrated VM-based system.<p>&quot;All that entails&quot; is very different between WSL2 and non-WSL2 hypervisors, even on windows.')

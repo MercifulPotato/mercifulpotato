@@ -1,0 +1,1 @@
+Item(by='tarjei_huse', descendants=None, kids=[25978540], score=None, time=1612097125, title=None, item_type='comment', url=None, parent=25973242, text='Nice writeup.<p>What I find lacking in this post is tips on how to best configure systemd to run docker&#x2F;podman containers and&#x2F;or docker-compose. Any tips on that would be great!')

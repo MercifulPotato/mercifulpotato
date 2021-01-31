@@ -1,1 +1,1 @@
-Item(by='barry-cotter', descendants=0, kids=None, score=1, time=1612076764, title='Why Does Athens Look So Quirky?', item_type='story', url='https://www.bbc.com/culture/article/20191011-the-surprising-story-of-athens-offbeat-architecture', parent=None, text=None)
+Item(by='barry-cotter', descendants=1, kids=[25977603], score=2, time=1612076764, title='Why Does Athens Look So Quirky?', item_type='story', url='https://www.bbc.com/culture/article/20191011-the-surprising-story-of-athens-offbeat-architecture', parent=None, text=None)

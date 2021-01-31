@@ -1,1 +1,1 @@
-Item(by='Sami_Lehtinen', descendants=0, kids=None, score=1, time=1612066641, title='Physicists develop record-breaking source for single photons', item_type='story', url='https://sciencebulletin.org/physicists-develop-record-breaking-source-for-single-photons/', parent=None, text=None)
+Item(by='Sami_Lehtinen', descendants=1, kids=[25978035], score=1, time=1612066641, title='Physicists develop record-breaking source for single photons', item_type='story', url='https://sciencebulletin.org/physicists-develop-record-breaking-source-for-single-photons/', parent=None, text=None)

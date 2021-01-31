@@ -1,1 +1,1 @@
-Item(by='eklavya', descendants=None, kids=None, score=None, time=1612071255, title=None, item_type='comment', url=None, parent=25973843, text='Sorry no, largest producer of wheat is Madhya Pradesh and not Punjab. Punjab has the richest farmers though.')
+Item(by='eklavya', descendants=None, kids=[25979027], score=None, time=1612071255, title=None, item_type='comment', url=None, parent=25973843, text='Sorry no, largest producer of wheat is Madhya Pradesh and not Punjab. Punjab has the richest farmers though.')

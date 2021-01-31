@@ -1,1 +1,1 @@
-Item(by='offtop5', descendants=None, kids=None, score=None, time=1612069447, title=None, item_type='comment', url=None, parent=25976038, text='The article mentions Florida using Eventbrite.<p>That seems like a much better solution rather than rolling your own.')
+Item(by='offtop5', descendants=None, kids=[25977220], score=None, time=1612069447, title=None, item_type='comment', url=None, parent=25976038, text='The article mentions Florida using Eventbrite.<p>That seems like a much better solution rather than rolling your own.')

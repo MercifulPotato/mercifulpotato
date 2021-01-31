@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=1, kids=[25973931], score=22, time=1612028556, title='Sonic Pi 3.3.0 (Beam)', item_type='story', url='https://github.com/sonic-pi-net/sonic-pi/releases/tag/v3.3.0', parent=None, text=None)
+Item(by='tosh', descendants=1, kids=[25973931], score=27, time=1612028556, title='Sonic Pi 3.3.0 (Beam)', item_type='story', url='https://github.com/sonic-pi-net/sonic-pi/releases/tag/v3.3.0', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='tra3', descendants=None, kids=None, score=None, time=1612028727, title=None, item_type='comment', url=None, parent=25969891, text='Is there a good wireless external microphone?')
+Item(by='tra3', descendants=None, kids=[25977463], score=None, time=1612028727, title=None, item_type='comment', url=None, parent=25969891, text='Is there a good wireless external microphone?')

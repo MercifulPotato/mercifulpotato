@@ -1,0 +1,1 @@
+Item(by='Arathorn', descendants=None, kids=None, score=None, time=1612096385, title=None, item_type='comment', url=None, parent=25978235, text='So you’re right that (a subset of) E2EE in a public room could be used to provide sender authentication; atm you trust the sending server not to be spoofing it. Full E2EE would be overkill.')

@@ -1,1 +1,1 @@
-Item(by='riebs', descendants=0, kids=None, score=1, time=1612056790, title='Spice simulation of SKiDL,alt to KiCAD', item_type='story', url='https://github.com/xesscorp/skidl/blob/master/examples/spice-sim-intro/spice-sim-intro.ipynb', parent=None, text=None)
+Item(by='riebs', descendants=0, kids=None, score=2, time=1612056790, title='Spice simulation of SKiDL,alt to KiCAD', item_type='story', url='https://github.com/xesscorp/skidl/blob/master/examples/spice-sim-intro/spice-sim-intro.ipynb', parent=None, text=None)

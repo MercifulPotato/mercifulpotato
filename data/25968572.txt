@@ -1,1 +1,1 @@
-Item(by='jarym', descendants=None, kids=[25969652, 25968722, 25968911, 25968782, 25968941], score=None, time=1612010142, title=None, item_type='comment', url=None, parent=25967594, text='I run Postgres in docker containers on my Mac but I know that won’t be viable for a lot of people.')
+Item(by='jarym', descendants=None, kids=[25968722, 25969652, 25968911, 25968782, 25968941], score=None, time=1612010142, title=None, item_type='comment', url=None, parent=25967594, text='I run Postgres in docker containers on my Mac but I know that won’t be viable for a lot of people.')

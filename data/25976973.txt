@@ -1,1 +1,1 @@
-Item(by='mgh2', descendants=None, kids=None, score=None, time=1612079230, title=None, item_type='comment', url=None, parent=25975636, text='Isn&#x27;t Palantir doing something similar?')
+Item(by='mgh2', descendants=None, kids=[25977682], score=None, time=1612079230, title=None, item_type='comment', url=None, parent=25975636, text='Isn&#x27;t Palantir doing something similar?')

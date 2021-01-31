@@ -1,0 +1,1 @@
+Item(by='sneak', descendants=None, kids=None, score=None, time=1612101615, title=None, item_type='comment', url=None, parent=25976439, text='Note that due to the way APNS works, the notifications path on things like Element&#x2F;Matrix, as well as XMPP&#x2F;etc must be centralized with the (iOS) app developer anyway, even if the server isn’t.')

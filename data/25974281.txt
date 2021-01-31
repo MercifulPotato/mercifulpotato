@@ -1,1 +1,1 @@
-Item(by='CyberRabbi', descendants=None, kids=None, score=None, time=1612050939, title=None, item_type='comment', url=None, parent=25971395, text='If we’re being honest, this keylogger is not exploiting a weakness in wayland. So it’s a bit clickbait to call it a “wayland keylogger”')
+Item(by='CyberRabbi', descendants=None, kids=[25979018], score=None, time=1612050939, title=None, item_type='comment', url=None, parent=25971395, text='If we’re being honest, this keylogger is not exploiting a weakness in wayland. So it’s a bit clickbait to call it a “wayland keylogger”')

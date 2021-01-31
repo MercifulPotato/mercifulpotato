@@ -1,1 +1,1 @@
-Item(by='i_have_to_speak', descendants=0, kids=None, score=4, time=1612020977, title='Configuring PostgreSQL for Observability', item_type='story', url='https://pgdash.io/blog/postgres-observability.html?h', parent=None, text=None)
+Item(by='i_have_to_speak', descendants=0, kids=None, score=5, time=1612020977, title='Configuring PostgreSQL for Observability', item_type='story', url='https://pgdash.io/blog/postgres-observability.html?h', parent=None, text=None)

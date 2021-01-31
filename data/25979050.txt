@@ -1,0 +1,1 @@
+Item(by='ketzu', descendants=None, kids=None, score=None, time=1612103423, title=None, item_type='comment', url=None, parent=25975487, text='As they are using traefik as a reverse proxy, the container is likely not exposed to the internet directly, as long as traefik is there, as it manages all incoming connections.')
