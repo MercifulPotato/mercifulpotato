@@ -1,1 +1,1 @@
-Item(by='jurnip', descendants=0, kids=None, score=2, time=1612012522, title='City Guesser – GeoGuessr but with video', item_type='story', url='https://virtualvacation.us/guess', parent=None, text=None)
+Item(by='jurnip', descendants=17, kids=[25987479, 25988001, 25987436, 25986940, 25987958, 25987730, 25988100, 25986973, 25986872, 25986909, 25987113], score=57, time=1612012522, title='City Guesser – GeoGuessr but with video', item_type='story', url='https://virtualvacation.us/guess', parent=None, text=None)

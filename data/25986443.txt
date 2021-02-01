@@ -1,1 +1,1 @@
-Item(by='andrewon', descendants=0, kids=None, score=3, time=1612164642, title='The Case Against Fauci', item_type='story', url='https://www.thedriftmag.com/the-case-against-fauci/', parent=None, text=None)
+Item(by='andrewon', descendants=13, kids=[25986783, 25986852, 25986774, 25986752, 25986785], score=15, time=1612164642, title='The Case Against Fauci', item_type='story', url='https://www.thedriftmag.com/the-case-against-fauci/', parent=None, text=None)

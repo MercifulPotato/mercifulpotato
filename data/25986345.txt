@@ -1,1 +1,1 @@
-Item(by='rapsey', descendants=None, kids=None, score=None, time=1612163209, title=None, item_type='comment', url=None, parent=25986251, text='TSMC is the one building the chips for those mobile phones, consoles and GPUs. They are the bottleneck.')
+Item(by='rapsey', descendants=None, kids=[25987272, 25987247], score=None, time=1612163209, title=None, item_type='comment', url=None, parent=25986251, text='TSMC is the one building the chips for those mobile phones, consoles and GPUs. They are the bottleneck.')

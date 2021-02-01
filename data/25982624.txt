@@ -1,1 +1,1 @@
-Item(by='croissants', descendants=1, kids=[25982652, 25982650], score=5, time=1612127669, title='Mathias Rust', item_type='story', url='https://en.wikipedia.org/wiki/Mathias_Rust', parent=None, text=None)
+Item(by='croissants', descendants=2, kids=[25988036, 25982652, 25982650], score=5, time=1612127669, title='Mathias Rust', item_type='story', url='https://en.wikipedia.org/wiki/Mathias_Rust', parent=None, text=None)

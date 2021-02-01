@@ -1,0 +1,1 @@
+Item(by='merb', descendants=None, kids=None, score=None, time=1612176899, title=None, item_type='comment', url=None, parent=25982542, text='sadly at the moment webnfc only implements ndef standard and not reading arbitrary nfc tags.')

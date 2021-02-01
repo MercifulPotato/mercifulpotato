@@ -1,1 +1,1 @@
-Item(by='yaj54', descendants=None, kids=None, score=None, time=1612144277, title=None, item_type='comment', url=None, parent=25984015, text='Fun and learning.  And I do think my ranking algorithm generates different results.')
+Item(by='yaj54', descendants=None, kids=[25987035], score=None, time=1612144277, title=None, item_type='comment', url=None, parent=25984015, text='Fun and learning.  And I do think my ranking algorithm generates different results.')

@@ -1,0 +1,1 @@
+Item(by='toolslive', descendants=None, kids=[25987736], score=None, time=1612178791, title=None, item_type='comment', url=None, parent=25987624, text='concurrency is excellent in OCaml (Lwt, async, ....) it&#x27;s just paralllelism that&#x27;s a problem. multi core ocaml will eventually fix that.')

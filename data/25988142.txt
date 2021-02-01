@@ -1,0 +1,1 @@
+Item(by='PaulHoule', descendants=None, kids=None, score=None, time=1612183629, title=None, item_type='comment', url=None, parent=25976266, text='Funny I have been making a &#x27;data assembler&#x27; for AVR8 program memory which serializes a graph of data structures and all strings and arrays start with thr length.')

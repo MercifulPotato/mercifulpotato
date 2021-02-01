@@ -1,1 +1,1 @@
-Item(by='apollinaire', descendants=1, kids=[25986178], score=26, time=1612068375, title='James Baldwin, Here and Elsewhere', item_type='story', url='https://www.publicbooks.org/james-baldwin-here-and-elsewhere/', parent=None, text=None)
+Item(by='apollinaire', descendants=4, kids=[25987825, 25987396, 25986178, 25987467], score=51, time=1612068375, title='James Baldwin, Here and Elsewhere', item_type='story', url='https://www.publicbooks.org/james-baldwin-here-and-elsewhere/', parent=None, text=None)

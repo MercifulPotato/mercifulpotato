@@ -1,1 +1,1 @@
-Item(by='ekianjo', descendants=None, kids=None, score=None, time=1612149250, title=None, item_type='comment', url=None, parent=25985076, text='Yes even on Arch, it&#x27;s recommended to use the AUR to get Mesa-git, especially when a new GPU card comes out.')
+Item(by='ekianjo', descendants=None, kids=[25987207], score=None, time=1612149250, title=None, item_type='comment', url=None, parent=25985076, text='Yes even on Arch, it&#x27;s recommended to use the AUR to get Mesa-git, especially when a new GPU card comes out.')

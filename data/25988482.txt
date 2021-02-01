@@ -1,0 +1,1 @@
+Item(by='IgorPartola', descendants=None, kids=[25988730], score=None, time=1612186245, title=None, item_type='comment', url=None, parent=25988386, text='ECC and zfs&#x2F;btrfs I think are a must for any data you care about. RAID 1 isn’t going to save you when you can’t tell which copy of the given block is the corrupted one.')

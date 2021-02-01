@@ -1,0 +1,1 @@
+Item(by='mark_l_watson', descendants=None, kids=[25988893], score=None, time=1612188787, title=None, item_type='comment', url=None, parent=25988702, text='Thanks to the SpaCy team! I spent a lot of time over about 20 years working on my own NLP tools. I stopped doing that and mostly now just use SpaCy (and sometimes Huggingface and Apple’s NLP models).')

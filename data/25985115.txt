@@ -1,1 +1,1 @@
-Item(by='technofiend', descendants=None, kids=None, score=None, time=1612149240, title=None, item_type='comment', url=None, parent=25968908, text='Were you forced to make it a hackintosh to run company-required software or did you end up with a linux build?')
+Item(by='technofiend', descendants=None, kids=[25988449], score=None, time=1612149240, title=None, item_type='comment', url=None, parent=25968908, text='Were you forced to make it a hackintosh to run company-required software or did you end up with a linux build?')

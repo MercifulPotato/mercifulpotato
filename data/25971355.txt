@@ -1,1 +1,1 @@
-Item(by='mmastrac', descendants=17, kids=[25985323, 25984930], score=34, time=1612030276, title='Uf2: USB Flashing Format', item_type='story', url='https://github.com/microsoft/uf2', parent=None, text=None)
+Item(by='mmastrac', descendants=30, kids=[25985323, 25986906, 25984930], score=60, time=1612030276, title='Uf2: USB Flashing Format', item_type='story', url='https://github.com/microsoft/uf2', parent=None, text=None)

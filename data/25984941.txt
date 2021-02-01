@@ -1,1 +1,1 @@
-Item(by='pavel_lishin', descendants=8, kids=[25985408, 25985360], score=37, time=1612146964, title='Semgrep: JavaScript browser security concat bypass not detected', item_type='story', url='https://github.com/returntocorp/semgrep/issues/2409', parent=None, text=None)
+Item(by='pavel_lishin', descendants=16, kids=[25985408, 25985360], score=70, time=1612146964, title='Semgrep: JavaScript browser security concat bypass not detected', item_type='story', url='https://github.com/returntocorp/semgrep/issues/2409', parent=None, text=None)

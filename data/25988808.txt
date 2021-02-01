@@ -1,0 +1,1 @@
+Item(by='whymauri', descendants=None, kids=None, score=None, time=1612188589, title=None, item_type='comment', url=None, parent=25988783, text='Chiming in here to +1 Cortex for fast deployments at a small-ish startup. We have &#x27;spike-y&#x27; loads and Cortex removes the cognitive overheads of autoscaling, spot instance management, etc.')

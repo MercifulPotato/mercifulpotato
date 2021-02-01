@@ -1,0 +1,1 @@
+Item(by='pmlnr', descendants=None, kids=[25987814, 25987345], score=None, time=1612174194, title=None, item_type='comment', url=None, parent=25987255, text='99.95% is a high standard already: 365x0.0005x24 is 4.38 hours outage for a year. In our current world, 4.38 hours is certainly not enough time to, say, rebuild a DB from backup, if needed.')

@@ -1,0 +1,1 @@
+Item(by='kalleboo', descendants=None, kids=None, score=None, time=1612184715, title=None, item_type='comment', url=None, parent=25985507, text='From what I&#x27;ve understood, on the M1 Macs, the boot firmware lives on the same NAND flash chips as the internal drive. So if that flash dies, you&#x27;re screwed anyhow and an external disk wouldn&#x27;t have saved you')

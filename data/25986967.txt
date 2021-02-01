@@ -1,0 +1,1 @@
+Item(by='detaro', descendants=None, kids=[25987026], score=None, time=1612170701, title=None, item_type='comment', url=None, parent=25986906, text='The device does not allow <i>reading</i> of flashed data, so this can&#x27;t happen. When it reads, it reads a static file system image of blocks that do not match the pattern, which it&#x27;ll write into a black hole.')

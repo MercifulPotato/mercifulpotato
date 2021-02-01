@@ -1,1 +1,1 @@
-Item(by='fcambus', descendants=6, kids=[25982788, 25978422, 25978434], score=41, time=1612081508, title='Bringing Stack Clash Protection to Clang / x86', item_type='story', url='https://blog.llvm.org/posts/2021-01-05-stack-clash-protection/', parent=None, text=None)
+Item(by='fcambus', descendants=6, kids=[25982788, 25978422, 25978434], score=42, time=1612081508, title='Bringing Stack Clash Protection to Clang / x86', item_type='story', url='https://blog.llvm.org/posts/2021-01-05-stack-clash-protection/', parent=None, text=None)

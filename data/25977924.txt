@@ -1,1 +1,1 @@
-Item(by='wallflower', descendants=0, kids=None, score=15, time=1612091580, title="An Oral History of Disney's 'The Emperor's New Groove'", item_type='story', url='https://www.vulture.com/article/an-oral-history-of-disney-the-emperors-new-groove.html', parent=None, text=None)
+Item(by='wallflower', descendants=1, kids=[25988108], score=16, time=1612091580, title="An Oral History of Disney's 'The Emperor's New Groove'", item_type='story', url='https://www.vulture.com/article/an-oral-history-of-disney-the-emperors-new-groove.html', parent=None, text=None)

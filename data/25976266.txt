@@ -1,1 +1,1 @@
-Item(by='ivank', descendants=0, kids=None, score=5, time=1612070593, title='Null Characters: Workarounds Aren’t Good Enough', item_type='story', url='https://www.commandprompt.com/blog/null-characters-workarounds-arent-good-enough/', parent=None, text=None)
+Item(by='ivank', descendants=5, kids=[25988294, 25988231, 25988142], score=24, time=1612070593, title='Null Characters: Workarounds Aren’t Good Enough', item_type='story', url='https://www.commandprompt.com/blog/null-characters-workarounds-arent-good-enough/', parent=None, text=None)

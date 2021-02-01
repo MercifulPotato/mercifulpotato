@@ -1,0 +1,1 @@
+Item(by='my123', descendants=None, kids=None, score=None, time=1612179291, title=None, item_type='comment', url=None, parent=25985709, text='It&#x27;s still experimental for USB drives, worked well with a Samsung T7 for me.<p>You&#x27;ll need to explicitly bless the volume beforehand to boot from an install that was made on another Mac though.')

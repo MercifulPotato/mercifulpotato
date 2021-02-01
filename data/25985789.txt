@@ -1,1 +1,1 @@
-Item(by='CameronNemo', descendants=None, kids=None, score=None, time=1612156736, title=None, item_type='comment', url=None, parent=25983762, text='What is the advantage of mentioning patents? I would rather not speak on that so 0BSD and Unlicense are nice.')
+Item(by='CameronNemo', descendants=None, kids=[25988207], score=None, time=1612156736, title=None, item_type='comment', url=None, parent=25983762, text='What is the advantage of mentioning patents? I would rather not speak on that so 0BSD and Unlicense are nice.')
