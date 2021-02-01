@@ -1,1 +1,1 @@
-Item(by='zdw', descendants=0, kids=None, score=1, time=1612147414, title='That’s Big Sir to You (SuperDuper, Big Sur)', item_type='story', url='https://www.shirtpocket.com/blog/index.php/shadedgrey/thats_big_sir_to_you/', parent=None, text=None)
+Item(by='zdw', descendants=26, kids=[25985356, 25985507, 25985331, 25985392, 25985551, 25985347, 25985332, 25985423], score=29, time=1612147414, title='That’s Big Sir to You', item_type='story', url='https://www.shirtpocket.com/blog/index.php/shadedgrey/thats_big_sir_to_you/', parent=None, text=None)

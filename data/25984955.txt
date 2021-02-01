@@ -1,1 +1,1 @@
-Item(by='username90', descendants=None, kids=None, score=None, time=1612147200, title=None, item_type='comment', url=None, parent=25983851, text='Does Australia even have winters? I mean, it never gets cold in Melbourne. Your winter is close to my summer.')
+Item(by='username90', descendants=None, kids=[25986256, 25985794], score=None, time=1612147200, title=None, item_type='comment', url=None, parent=25983851, text='Does Australia even have winters? I mean, it never gets cold in Melbourne. Your winter is close to my summer.')

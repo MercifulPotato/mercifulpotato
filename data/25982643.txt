@@ -1,1 +1,1 @@
-Item(by='candied_scarf', descendants=None, kids=None, score=None, time=1612127786, title=None, item_type='comment', url=None, parent=25982071, text='in my example they devalue them by hiding reported bugs')
+Item(by='candied_scarf', descendants=None, kids=[25985362], score=None, time=1612127786, title=None, item_type='comment', url=None, parent=25982071, text='in my example they devalue them by hiding reported bugs')

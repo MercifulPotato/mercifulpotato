@@ -1,0 +1,1 @@
+Item(by='rgomez', descendants=None, kids=None, score=None, time=1612167664, title=None, item_type='comment', url=None, parent=25985877, text='I tried Gentoo and Artix, both being a very good experience. Some minor issues with laptop suspension and lightdm session handling in Artix tho. Flawless behavior with Gentoo, pity that an update broke my system a while ago.')

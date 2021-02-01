@@ -1,1 +1,1 @@
-Item(by='sprash', descendants=None, kids=None, score=None, time=1612134583, title=None, item_type='comment', url=None, parent=25978111, text='Is there something like a GUI that generates .asoundrc files?<p>The syntax is not exactly intuitive.')
+Item(by='sprash', descendants=None, kids=[25986599], score=None, time=1612134583, title=None, item_type='comment', url=None, parent=25978111, text='Is there something like a GUI that generates .asoundrc files?<p>The syntax is not exactly intuitive.')

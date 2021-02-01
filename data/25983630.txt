@@ -1,1 +1,1 @@
-Item(by='ingve', descendants=0, kids=None, score=2, time=1612135203, title='Msync: Maintain lower-bitrate copy of your music files', item_type='story', url='https://github.com/cdzombak/msync#msync', parent=None, text=None)
+Item(by='ingve', descendants=7, kids=[25985807, 25986364, 25985487, 25985851], score=9, time=1612135203, title='Msync: Maintain lower-bitrate copy of your music files', item_type='story', url='https://github.com/cdzombak/msync#msync', parent=None, text=None)

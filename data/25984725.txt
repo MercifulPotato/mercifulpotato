@@ -1,1 +1,1 @@
-Item(by='minimike', descendants=0, kids=None, score=5, time=1612144380, title='How to Rebuild Your Life After a Failed Startup', item_type='story', url='https://www.youtube.com/watch?v=usYBrCAwWHI', parent=None, text=None)
+Item(by='minimike', descendants=2, kids=[25984985], score=6, time=1612144380, title='How to Rebuild Your Life After a Failed Startup', item_type='story', url='https://www.youtube.com/watch?v=usYBrCAwWHI', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='User23', descendants=None, kids=None, score=None, time=1612113043, title=None, item_type='comment', url=None, parent=25968760, text='The main conclusion I draw from this is that contemporary university level philosophy studies are evidently intellectually mutilating.')
+Item(by='User23', descendants=None, kids=[25986184], score=None, time=1612113043, title=None, item_type='comment', url=None, parent=25968760, text='The main conclusion I draw from this is that contemporary university level philosophy studies are evidently intellectually mutilating.')

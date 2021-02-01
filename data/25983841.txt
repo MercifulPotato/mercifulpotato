@@ -1,1 +1,1 @@
-Item(by='colecut', descendants=None, kids=None, score=None, time=1612136714, title=None, item_type='comment', url=None, parent=25983683, text='I paid multiple $30 ethereum gas fees yesterday. I&#x27;ve seen them over $60')
+Item(by='colecut', descendants=None, kids=[25985504], score=None, time=1612136714, title=None, item_type='comment', url=None, parent=25983683, text='I paid multiple $30 ethereum gas fees yesterday. I&#x27;ve seen them over $60')

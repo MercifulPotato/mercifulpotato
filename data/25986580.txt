@@ -1,0 +1,1 @@
+Item(by='mvolfik', descendants=None, kids=None, score=None, time=1612166720, title=None, item_type='comment', url=None, parent=25983890, text='this. I&#x27;m working on a project which will need to be deployed in a local network without internet access. deploying kafka is a nightmare, more so in docker or k8s. I ended up switching to other tech rather than undergo this')

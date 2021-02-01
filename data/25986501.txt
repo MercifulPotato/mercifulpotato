@@ -1,0 +1,1 @@
+Item(by='jcelerier', descendants=None, kids=None, score=None, time=1612165500, title=None, item_type='comment', url=None, parent=25986025, text='Just checking that ACPI works correctly would already be great. It took my current laptop almost a year of having to disable ACPI completely before fixes&amp;workarounds were implemented in-kernel.')

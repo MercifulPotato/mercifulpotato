@@ -1,1 +1,1 @@
-Item(by='arkadiyt', descendants=0, kids=None, score=2, time=1612145684, title='Interactive Brokers makes TLS optional, off by default', item_type='story', url='https://twitter.com/arkadiyt/status/1356054340008460293', parent=None, text=None)
+Item(by='arkadiyt', descendants=2, kids=[25985110], score=2, time=1612145684, title='Interactive Brokers makes TLS optional, off by default', item_type='story', url='https://twitter.com/arkadiyt/status/1356054340008460293', parent=None, text=None)

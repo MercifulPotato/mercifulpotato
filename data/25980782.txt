@@ -1,1 +1,1 @@
-Item(by='Bluestein', descendants=1, kids=[25980783], score=1, time=1612115471, title='Nurse to watch entire film festival alone in lighthouse', item_type='story', url='https://www.bbc.com/news/world-europe-55875256', parent=None, text=None)
+Item(by='Bluestein', descendants=2, kids=[25980783, 25986209], score=1, time=1612115471, title='Nurse to watch entire film festival alone in lighthouse', item_type='story', url='https://www.bbc.com/news/world-europe-55875256', parent=None, text=None)

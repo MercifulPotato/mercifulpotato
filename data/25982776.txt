@@ -1,1 +1,1 @@
-Item(by='RedComet', descendants=None, kids=None, score=None, time=1612128919, title=None, item_type='comment', url=None, parent=25982542, text='I don&#x27;t care for most of that. But what&#x27;s unlisted is the fix for android autofill that is landing with it.')
+Item(by='RedComet', descendants=None, kids=[25985416], score=None, time=1612128919, title=None, item_type='comment', url=None, parent=25982542, text='I don&#x27;t care for most of that. But what&#x27;s unlisted is the fix for android autofill that is landing with it.')

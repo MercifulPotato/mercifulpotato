@@ -1,1 +1,1 @@
-Item(by='srean', descendants=None, kids=None, score=None, time=1612118156, title=None, item_type='comment', url=None, parent=25980956, text='This comment needs to be flagged.')
+Item(by='srean', descendants=None, kids=[25985987, 25985388], score=None, time=1612118156, title=None, item_type='comment', url=None, parent=25980956, text='This comment needs to be flagged.')
