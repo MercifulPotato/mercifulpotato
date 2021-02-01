@@ -1,0 +1,1 @@
+Item(by='gajus', descendants=None, kids=[25984701], score=None, time=1612143755, title=None, item_type='comment', url=None, parent=25984559, text='Why wouldn&#x27;t I just deploy with every commit to Vercel? Either using GitHub actions or GitLab CI&#x2F;CD?')

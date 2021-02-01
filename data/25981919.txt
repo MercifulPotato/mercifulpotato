@@ -1,1 +1,1 @@
-Item(by='manjana', descendants=0, kids=None, score=2, time=1612122599, title='Grauballe Man', item_type='story', url='https://en.wikipedia.org/wiki/Grauballe_Man', parent=None, text=None)
+Item(by='manjana', descendants=1, kids=[25984104], score=6, time=1612122599, title='Grauballe Man', item_type='story', url='https://en.wikipedia.org/wiki/Grauballe_Man', parent=None, text=None)

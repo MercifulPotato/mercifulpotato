@@ -1,1 +1,1 @@
-Item(by='TLM275', descendants=0, kids=None, score=4, time=1612109603, title="What to Expect from Old Windows PC's", item_type='story', url='https://cheapskatesguide.org/articles/end-of-life.html', parent=None, text=None)
+Item(by='TLM275', descendants=6, kids=[25984505, 25984535, 25984500, 25984453, 25982953, 25982326], score=20, time=1612109603, title="What to Expect from Old Windows PC's", item_type='story', url='https://cheapskatesguide.org/articles/end-of-life.html', parent=None, text=None)

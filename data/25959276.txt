@@ -1,1 +1,1 @@
-Item(by='tintinnabula', descendants=0, kids=None, score=7, time=1611938707, title='Miraculous Mozart', item_type='story', url='https://newcriterion.com/issues/2021/2/miraculous-mozart', parent=None, text=None)
+Item(by='tintinnabula', descendants=5, kids=[25981583, 25983987, 25983307], score=35, time=1611938707, title='Miraculous Mozart', item_type='story', url='https://newcriterion.com/issues/2021/2/miraculous-mozart', parent=None, text=None)

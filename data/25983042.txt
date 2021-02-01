@@ -1,0 +1,1 @@
+Item(by='leephillips', descendants=None, kids=None, score=None, time=1612130895, title=None, item_type='comment', url=None, parent=25983003, text='Yeah, I guess it could be snappier if everything were computed in the browser. But doing the processing on the back end lets me use any technology I want. Some of the transformations are actually fairly involved.')

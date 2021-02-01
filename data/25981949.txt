@@ -1,1 +1,1 @@
-Item(by='jounker', descendants=None, kids=None, score=None, time=1612122805, title=None, item_type='comment', url=None, parent=25981854, text='As American living abroad, I assure you that the US has an almost absurdly burdensome immigration system.')
+Item(by='jounker', descendants=None, kids=[25984265], score=None, time=1612122805, title=None, item_type='comment', url=None, parent=25981854, text='As American living abroad, I assure you that the US has an almost absurdly burdensome immigration system.')

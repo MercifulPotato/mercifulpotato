@@ -1,1 +1,1 @@
-Item(by='jonplackett', descendants=None, kids=None, score=None, time=1611920433, title=None, item_type='comment', url=None, parent=25953484, text='Which has gone up in value faster since 2018?')
+Item(by='jonplackett', descendants=None, kids=[25983997], score=None, time=1611920433, title=None, item_type='comment', url=None, parent=25953484, text='Which has gone up in value faster since 2018?')

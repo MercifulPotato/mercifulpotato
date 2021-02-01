@@ -1,1 +1,1 @@
-Item(by='viebel', descendants=1, kids=[25981739], score=5, time=1612121464, title='New Book: Data-Oriented Programming', item_type='story', url='https://www.manning.com/books/data-oriented-programming', parent=None, text=None)
+Item(by='viebel', descendants=7, kids=[25982303, 25981739], score=10, time=1612121464, title='New Book: Data-Oriented Programming', item_type='story', url='https://www.manning.com/books/data-oriented-programming', parent=None, text=None)

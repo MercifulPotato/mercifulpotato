@@ -1,1 +1,1 @@
-Item(by='girvo', descendants=None, kids=None, score=None, time=1612101354, title=None, item_type='comment', url=None, parent=25977855, text='While it’s old now, the Nokia N9 proved to me a long time ago that the Linux phone idea has true merit. Harmattan was a brilliant UI!')
+Item(by='girvo', descendants=None, kids=[25982944], score=None, time=1612101354, title=None, item_type='comment', url=None, parent=25977855, text='While it’s old now, the Nokia N9 proved to me a long time ago that the Linux phone idea has true merit. Harmattan was a brilliant UI!')

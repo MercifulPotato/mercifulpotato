@@ -1,1 +1,1 @@
-Item(by='mstade', descendants=None, kids=None, score=None, time=1612125638, title=None, item_type='comment', url=None, parent=25981955, text='Oh wow really? Don’t these kinds of big budget productions have massive insurance policies?')
+Item(by='mstade', descendants=None, kids=[25984552], score=None, time=1612125638, title=None, item_type='comment', url=None, parent=25981955, text='Oh wow really? Don’t these kinds of big budget productions have massive insurance policies?')

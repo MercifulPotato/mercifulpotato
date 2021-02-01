@@ -1,0 +1,1 @@
+Item(by='morpheuskafka', descendants=None, kids=None, score=None, time=1612128776, title=None, item_type='comment', url=None, parent=25982273, text='Another thing to consider would be latency due to retransmissions. Something like voice notes would probably be better than a live call send it could be re-transmitted as many times as necessary and broken into small chunks.')

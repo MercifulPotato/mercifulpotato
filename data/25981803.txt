@@ -1,1 +1,1 @@
-Item(by='thekyle', descendants=None, kids=None, score=None, time=1612121923, title=None, item_type='comment', url=None, parent=25981159, text='Also, the Galaxy store and F-droid')
+Item(by='thekyle', descendants=None, kids=[25982531], score=None, time=1612121923, title=None, item_type='comment', url=None, parent=25981159, text='Also, the Galaxy store and F-droid')

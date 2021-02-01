@@ -1,0 +1,1 @@
+Item(by='steve_taylor', descendants=None, kids=None, score=None, time=1612134068, title=None, item_type='comment', url=None, parent=25980609, text='It compiles JVM bytecode. GWT compiles Java source code. Therefore, GWT requires source whereas TeaVM doesn’t. It also means TeaVM will work with any language that compiles to JVM bytecode.')

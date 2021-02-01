@@ -1,1 +1,1 @@
-Item(by='simplecto', descendants=None, kids=None, score=None, time=1612116282, title=None, item_type='comment', url=None, parent=25975391, text='I had not seen that. Is it fair to say it is something similar to a Rules Engine like Drools?')
+Item(by='simplecto', descendants=None, kids=[25983986], score=None, time=1612116282, title=None, item_type='comment', url=None, parent=25975391, text='I had not seen that. Is it fair to say it is something similar to a Rules Engine like Drools?')

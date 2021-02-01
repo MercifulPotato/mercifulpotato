@@ -1,1 +1,1 @@
-Item(by='99_00', descendants=None, kids=None, score=None, time=1612115753, title=None, item_type='comment', url=None, parent=25976430, text='I don&#x27;t have a trusted source so there is no point in me even considering to try it.')
+Item(by='99_00', descendants=None, kids=[25984817], score=None, time=1612115753, title=None, item_type='comment', url=None, parent=25976430, text='I don&#x27;t have a trusted source so there is no point in me even considering to try it.')

@@ -1,0 +1,1 @@
+Item(by='fmakunbound', descendants=None, kids=None, score=None, time=1612134111, title=None, item_type='comment', url=None, parent=25981506, text='Yeah the REPL in your typical Common Lisp is much more integrated than nrepl&#x2F;cider in Clojure. Things like restarts and the debugger are built with the REPL in mind.')

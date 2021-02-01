@@ -1,0 +1,1 @@
+Item(by='Philip-J-Fry', descendants=None, kids=None, score=None, time=1612132086, title=None, item_type='comment', url=None, parent=25982999, text='It looks cool but it renders horribly in Chromium based browsers at least. Where all the borders glitch out.<p>I looked at the source it&#x27;s it&#x27;s a neat use of CSS.')

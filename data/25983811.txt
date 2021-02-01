@@ -1,0 +1,1 @@
+Item(by='masswerk', descendants=None, kids=[25983962], score=None, time=1612136518, title=None, item_type='comment', url=None, parent=25983407, text='What isn&#x27;t obvious to me: how is this safeguarded? Is there any provision to stop a malicious driver from generating fake input, which is then tainted as user generated input all the same?')

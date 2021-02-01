@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=0, kids=None, score=3, time=1612111236, title='Pico-8: Cab Ride', item_type='story', url='https://www.lexaloffle.com/bbs/?tid=41332', parent=None, text=None)
+Item(by='tosh', descendants=2, kids=[25984978, 25984446], score=22, time=1612111236, title='Pico-8: Cab Ride', item_type='story', url='https://www.lexaloffle.com/bbs/?tid=41332', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='lostlogin', descendants=None, kids=[25983220], score=None, time=1612130739, title=None, item_type='comment', url=None, parent=25981369, text='Nice. What are you running on them?<p>ESXi runs nicely on a Nuc, and it’ll do a load of VMs with plenty of resources (the Nucs will take 64gb).\nBut the price for that is probably 5-10x what you are describing.')

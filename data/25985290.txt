@@ -1,0 +1,1 @@
+Item(by='paulryanrogers', descendants=None, kids=None, score=None, time=1612150922, title=None, item_type='comment', url=None, parent=25984303, text='Scaling the writeable DB horizontally is the hard part. You can get pretty far with tuning, bare metal (if load isn&#x27;t too lumpy), many read only copies, caches, and other boring solutions.')

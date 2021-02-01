@@ -1,0 +1,1 @@
+Item(by='pojntfx', descendants=None, kids=None, score=None, time=1612141536, title=None, item_type='comment', url=None, parent=25983285, text='Thanks for the info! Latest Chrome Beta (or Canary to be precise) speeded up my start time with some service workers from &gt;30s to just above 7s, which is almost the same speed as Firefox (albeit with a few more extensions).')
