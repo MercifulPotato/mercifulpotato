@@ -1,1 +1,1 @@
-Item(by='jayonsoftware1', descendants=None, kids=None, score=None, time=1612192658, title=None, item_type='comment', url=None, parent=25986316, text='Is their a good F# book that will teach functional programing. Every F# book i see are trying to teach the syntax.')
+Item(by='jayonsoftware1', descendants=None, kids=[25989585, 25992247], score=None, time=1612192658, title=None, item_type='comment', url=None, parent=25986316, text='Is their a good F# book that will teach functional programing. Every F# book i see are trying to teach the syntax.')

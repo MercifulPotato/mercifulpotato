@@ -1,1 +1,1 @@
-Item(by='Vivtek', descendants=None, kids=None, score=None, time=1612185898, title=None, item_type='comment', url=None, parent=25988197, text='All business plans depend on regulations.')
+Item(by='Vivtek', descendants=None, kids=[25988981], score=None, time=1612185898, title=None, item_type='comment', url=None, parent=25988197, text='All business plans depend on regulations.')

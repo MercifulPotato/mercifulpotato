@@ -1,0 +1,1 @@
+Item(by='rsync', descendants=None, kids=None, score=None, time=1612200168, title=None, item_type='comment', url=None, parent=25989176, text='&quot;Have you come across anyone producing a PoE board for the CM4 ...&quot;<p>Wait, I thought the official CM4 breakout&#x2F;dev board (the one with the PCIe slot on it) had PoE, right ?')

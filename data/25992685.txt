@@ -1,0 +1,1 @@
+Item(by='You-Are-Right', descendants=None, kids=None, score=None, time=1612208289, title=None, item_type='comment', url=None, parent=25990702, text='Is this a good choice for realtime websocket projects with many open connections? I found only one simple example in the docs and was not sure, if it will eat too much memory with many clients?')

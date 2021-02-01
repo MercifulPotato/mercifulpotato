@@ -1,1 +1,1 @@
-Item(by='shankr', descendants=None, kids=None, score=None, time=1612188177, title=None, item_type='comment', url=None, parent=25987837, text='For all the recent complain about how twitter was &quot;censoring&quot; free speech, this is what real censoring looks like.')
+Item(by='shankr', descendants=None, kids=[25989374], score=None, time=1612188177, title=None, item_type='comment', url=None, parent=25987837, text='For all the recent complain about how twitter was &quot;censoring&quot; free speech, this is what real censoring looks like.')

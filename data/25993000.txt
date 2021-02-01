@@ -1,0 +1,1 @@
+Item(by='stevekemp', descendants=None, kids=None, score=None, time=1612209693, title=None, item_type='comment', url=None, parent=25987994, text='<p><pre><code>     10 POKE 23659,0\n     20 PRINT &quot;STEVE ROCKS&quot;\n     30 GOTO 10</code></pre>')

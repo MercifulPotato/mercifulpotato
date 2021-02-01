@@ -1,1 +1,1 @@
-Item(by='accrual', descendants=2, kids=[25988565, 25985689, 25985586], score=23, time=1612137106, title='Antarctica McMurdo Station Webcams', item_type='story', url='https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm', parent=None, text=None)
+Item(by='accrual', descendants=5, kids=[25988565, 25989403, 25985689, 25985586], score=23, time=1612137106, title='Antarctica McMurdo Station Webcams', item_type='story', url='https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm', parent=None, text=None)

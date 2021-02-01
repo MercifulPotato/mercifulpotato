@@ -1,0 +1,1 @@
+Item(by='tbrock', descendants=None, kids=None, score=None, time=1612197637, title=None, item_type='comment', url=None, parent=25989761, text='Yeah and sadly using the index in those scenarios could be even more worth it due to the high selectivity it has.<p>Is PG smart enough to avoid that if the query patterns are frequently or exclusively covered by the index?')

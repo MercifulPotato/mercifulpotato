@@ -1,0 +1,1 @@
+Item(by='KurtMueller', descendants=None, kids=None, score=None, time=1612206084, title=None, item_type='comment', url=None, parent=25989791, text='I mean, `List.map` is often used in a partially applied manner and, used in conjunction with the pipe operator, results in, imho, readable code:<p>[1;2;3;4]\n|&gt; List.map ((*) 2)\n|&gt; List.reduce (+)')

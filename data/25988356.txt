@@ -1,1 +1,1 @@
-Item(by='Symbiote', descendants=None, kids=None, score=None, time=1612185427, title=None, item_type='comment', url=None, parent=25988189, text='Accessibility in the web standards and specifications isn&#x27;t a niche, even if most implementations don&#x27;t bother.')
+Item(by='Symbiote', descendants=None, kids=[25992639], score=None, time=1612185427, title=None, item_type='comment', url=None, parent=25988189, text='Accessibility in the web standards and specifications isn&#x27;t a niche, even if most implementations don&#x27;t bother.')

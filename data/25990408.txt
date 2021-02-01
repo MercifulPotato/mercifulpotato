@@ -1,0 +1,1 @@
+Item(by='henrikeh', descendants=None, kids=None, score=None, time=1612198574, title=None, item_type='comment', url=None, parent=25982241, text='Ada has that. Bounded types and subtyping.<p>For example, the type system is aware of the ranges of allowed values and can statically enforce this. Runtime checking is used by default but can be disabled.')

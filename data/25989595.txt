@@ -1,0 +1,1 @@
+Item(by='pabs3', descendants=None, kids=[25989657, 25989613], score=None, time=1612194104, title=None, item_type='comment', url=None, parent=25988702, text='Please note that Explosion does not like redistribution of SpaCy, they expect everyone to only use the builds they produce, so it would not be a good idea to package it for your favourite distro.')

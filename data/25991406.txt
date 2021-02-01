@@ -1,0 +1,1 @@
+Item(by='jasondc', descendants=None, kids=[25992141, 25993675], score=None, time=1612202972, title=None, item_type='comment', url=None, parent=25990400, text='This article from 8 years ago highlights how far MongoDB has come: transactions, left outer joins ($lookup), etc.')

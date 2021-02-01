@@ -1,0 +1,1 @@
+Item(by='vgel', descendants=None, kids=None, score=None, time=1612211955, title=None, item_type='comment', url=None, parent=25992927, text='Only if you&#x27;re CPU bound, but usually your webserver is blocking on disk IO or database calls or whatever, not calculating stuff, in which case the GIL doesn&#x27;t matter.')

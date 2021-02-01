@@ -1,1 +1,1 @@
-Item(by='new_guy', descendants=1, kids=[25987932], score=6, time=1612178614, title='A Desktop Quantum Computer for Just $5k', item_type='story', url='https://www.discovermagazine.com/technology/a-desktop-quantum-computer-for-just-usd5-000', parent=None, text=None)
+Item(by='new_guy', descendants=3, kids=[25987932, 25990149], score=9, time=1612178614, title='A Desktop Quantum Computer for Just $5k', item_type='story', url='https://www.discovermagazine.com/technology/a-desktop-quantum-computer-for-just-usd5-000', parent=None, text=None)

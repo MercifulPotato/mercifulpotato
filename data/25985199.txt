@@ -1,1 +1,1 @@
-Item(by='ineedasername', descendants=None, kids=None, score=None, time=1612149974, title=None, item_type='comment', url=None, parent=25983809, text='They still recall them from person B, who has no choice but to buy them at whatever price is available to cover their position.')
+Item(by='ineedasername', descendants=None, kids=[25993411], score=None, time=1612149974, title=None, item_type='comment', url=None, parent=25983809, text='They still recall them from person B, who has no choice but to buy them at whatever price is available to cover their position.')

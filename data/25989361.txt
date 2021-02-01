@@ -1,0 +1,1 @@
+Item(by='ianrw', descendants=None, kids=None, score=None, time=1612192735, title=None, item_type='comment', url=None, parent=25988228, text='I wonder if you can pre-warm TGWs like you can ELB? It would be annoying to have to have AWS prewarm a bunch of you stuff, but it&#x27;s better than it going down.')

@@ -1,0 +1,1 @@
+Item(by='corty', descendants=None, kids=None, score=None, time=1612188585, title=None, item_type='comment', url=None, parent=25988389, text='JSON strings must conform to UTF8. Storing plain non-base64 blobs in them is abuse of broken JSON parsers.')

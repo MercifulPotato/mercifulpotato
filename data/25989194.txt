@@ -1,1 +1,1 @@
-Item(by='reverseblade2', descendants=None, kids=None, score=None, time=1612191556, title=None, item_type='comment', url=None, parent=25988412, text='Sure, but functional programming requires some discipline and restrictions for a greater good. It&#x27;s certainly a choice though.')
+Item(by='reverseblade2', descendants=None, kids=[25989568], score=None, time=1612191556, title=None, item_type='comment', url=None, parent=25988412, text='Sure, but functional programming requires some discipline and restrictions for a greater good. It&#x27;s certainly a choice though.')

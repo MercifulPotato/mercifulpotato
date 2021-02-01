@@ -1,1 +1,1 @@
-Item(by='chronogram', descendants=None, kids=None, score=None, time=1612079127, title=None, item_type='comment', url=None, parent=25976667, text='It&#x27;s kind of silly to assume everyone lives next to the data centre.')
+Item(by='chronogram', descendants=None, kids=[25990850], score=None, time=1612079127, title=None, item_type='comment', url=None, parent=25976667, text='It&#x27;s kind of silly to assume everyone lives next to the data centre.')

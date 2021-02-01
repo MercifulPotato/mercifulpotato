@@ -1,0 +1,1 @@
+Item(by='throwawayboise', descendants=None, kids=[25991287], score=None, time=1612202254, title=None, item_type='comment', url=None, parent=25991123, text='That&#x27;s the problem with using document databases when you really need an RDBMs. You end up reimplementing an RDBMS, badly.')

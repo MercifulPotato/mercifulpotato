@@ -1,1 +1,1 @@
-Item(by='valuearb', descendants=None, kids=None, score=None, time=1612188952, title=None, item_type='comment', url=None, parent=25988144, text='Or perhaps the app worked entirely differently during review?')
+Item(by='valuearb', descendants=None, kids=[25989425], score=None, time=1612188952, title=None, item_type='comment', url=None, parent=25988144, text='Or perhaps the app worked entirely differently during review?')

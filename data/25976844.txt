@@ -1,1 +1,1 @@
-Item(by='payne', descendants=0, kids=None, score=2, time=1612077447, title='More than you ever wanted to know about font loading on the web', item_type='story', url='https://www.industrialempathy.com/posts/high-performance-web-font-loading/', parent=None, text=None)
+Item(by='payne', descendants=19, kids=[25991692, 25991918, 25991000, 25991424, 25991611, 25991176, 25991408, 25990314], score=36, time=1612077447, title='Font loading on the web', item_type='story', url='https://www.industrialempathy.com/posts/high-performance-web-font-loading/', parent=None, text=None)

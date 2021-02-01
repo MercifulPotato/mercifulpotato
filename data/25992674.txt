@@ -1,0 +1,1 @@
+Item(by='nuclid', descendants=None, kids=None, score=None, time=1612208239, title=None, item_type='comment', url=None, parent=25990702, text='I love FastAPI. It&#x27;s one of the best documented project I have seen. We&#x27;re running several latency-critical production workloads in cloud with absolutely no issues. Great work Tiangolo!')

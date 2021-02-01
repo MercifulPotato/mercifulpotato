@@ -1,0 +1,1 @@
+Item(by='steve_gh', descendants=None, kids=None, score=None, time=1612192905, title=None, item_type='comment', url=None, parent=25988196, text='Securing MQTT is all good and well. It&#x27;s more difficult with MQTT-SN (lighter weight and lower bandwidth) can run over UDP which is recommended for running over NB-IoT and similar cellular systems.')

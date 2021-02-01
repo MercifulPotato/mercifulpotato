@@ -1,0 +1,1 @@
+Item(by='PragmaticPulp', descendants=None, kids=[25989749], score=None, time=1612193836, title=None, item_type='comment', url=None, parent=25989176, text='Why not use the regular Raspberry Pi 4 with the PoE module?<p>The CM4 is only useful in most cases if you want to use the PCIe bus for something else, or if you’re trying to embed it in another product.')

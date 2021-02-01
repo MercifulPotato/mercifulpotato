@@ -1,0 +1,1 @@
+Item(by='Tostino', descendants=None, kids=[25990651], score=None, time=1612195168, title=None, item_type='comment', url=None, parent=25989672, text='Vacuum full does a index rebuild automatically. Since a vacuum full builds an entire new heap table, the old indexs are all pointing to the incorrect locations for all tuples, so it has no choice but to rebuild.')

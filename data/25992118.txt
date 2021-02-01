@@ -1,0 +1,1 @@
+Item(by='88', descendants=None, kids=None, score=None, time=1612205949, title=None, item_type='comment', url=None, parent=25990600, text='I’ve done this (JBOD with USB 3.0 drives on a Pi 4) and it’s surprisingly effective.<p>I can easily saturate the 1G NIC which is more than sufficient for my use case.<p>I don’t use RAID or ZFS so neither the CPU or RAM are limiting factors.')

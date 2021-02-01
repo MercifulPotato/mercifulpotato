@@ -1,1 +1,1 @@
-Item(by='smabie', descendants=None, kids=None, score=None, time=1612159251, title=None, item_type='comment', url=None, parent=25985936, text='Hate to break it to you, but I can borrow a share and sell it to you and then I can borrow it back over and over again.')
+Item(by='smabie', descendants=None, kids=[25990520], score=None, time=1612159251, title=None, item_type='comment', url=None, parent=25985936, text='Hate to break it to you, but I can borrow a share and sell it to you and then I can borrow it back over and over again.')
