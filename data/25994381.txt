@@ -1,0 +1,1 @@
+Item(by='PurpleFoxy', descendants=None, kids=[25994664], score=None, time=1612215708, title=None, item_type='comment', url=None, parent=25993707, text='The problem could also be solved by putting vlc itself in a sandbox. There is no reason a media player should have direct access to all of your files anyway. I wonder if the flatpak for vlc is set up with strong sandbox rules.')

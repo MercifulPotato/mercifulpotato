@@ -1,0 +1,1 @@
+Item(by='ryanisnan', descendants=None, kids=[25996788], score=None, time=1612223477, title=None, item_type='comment', url=None, parent=25993904, text='I have had the same challenge with other python ORMs. I would love it if the django ORM were separated from the django project itself. That would be a hugely positive thing for the industry.')

@@ -1,0 +1,1 @@
+Item(by='bonzini', descendants=None, kids=[25994434], score=None, time=1612215290, title=None, item_type='comment', url=None, parent=25994062, text='What is DOS? Is it COMMAND.COM (of which the Windows command prompt is indeed a descendant) or the API underneath (INT 21H mostly)?')

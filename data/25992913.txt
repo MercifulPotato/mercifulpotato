@@ -1,1 +1,1 @@
-Item(by='narner', descendants=0, kids=None, score=3, time=1612209363, title='Show HN: ASL Classifier Built with CoreML and Roboflow', item_type='story', url='https://github.com/narner/ASL-Classifier-Demo', parent=None, text=None)
+Item(by='narner', descendants=16, kids=[25995994, 25994104, 25994533, 25995002, 25994610, 25994609], score=35, time=1612209363, title='Show HN: ASL Classifier Built with CoreML and Roboflow', item_type='story', url='https://github.com/narner/ASL-Classifier-Demo', parent=None, text=None)

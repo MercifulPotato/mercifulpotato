@@ -1,0 +1,1 @@
+Item(by='holler', descendants=None, kids=None, score=None, time=1612219198, title=None, item_type='comment', url=None, parent=25995019, text='Assuming yes as I&#x27;m running <a href="https:&#x2F;&#x2F;sqwok.im" rel="nofollow">https:&#x2F;&#x2F;sqwok.im</a> (uses Starlette) on aws lambda with apigateway using Mangum')

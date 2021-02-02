@@ -1,1 +1,1 @@
-Item(by='tullianus', descendants=None, kids=None, score=None, time=1612197887, title=None, item_type='comment', url=None, parent=25987102, text='Even FB Messenger has this!')
+Item(by='tullianus', descendants=None, kids=[25994742], score=None, time=1612197887, title=None, item_type='comment', url=None, parent=25987102, text='Even FB Messenger has this!')

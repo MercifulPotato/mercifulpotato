@@ -1,1 +1,1 @@
-Item(by='dnsmichi', descendants=3, kids=[25992080], score=29, time=1612201663, title='Argo Workflows v3.0', item_type='story', url='https://blog.argoproj.io/argo-workflows-v3-0-4d0b69f15a6e', parent=None, text=None)
+Item(by='dnsmichi', descendants=9, kids=[25992080, 25993294], score=51, time=1612201663, title='Argo Workflows v3.0', item_type='story', url='https://blog.argoproj.io/argo-workflows-v3-0-4d0b69f15a6e', parent=None, text=None)

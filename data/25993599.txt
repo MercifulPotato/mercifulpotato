@@ -1,0 +1,1 @@
+Item(by='theflyinghorse', descendants=None, kids=None, score=None, time=1612212098, title=None, item_type='comment', url=None, parent=25988196, text='We were able to set up a certificate-per-device authorization for MQTT where we use CN field of the cert for mapping to what particular device is allowed to pub&#x2F;sub to')

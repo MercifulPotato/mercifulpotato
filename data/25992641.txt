@@ -1,1 +1,1 @@
-Item(by='laurex', descendants=0, kids=None, score=2, time=1612208053, title='Red meat intake associated with risk of coronary heart disease in US men', item_type='story', url='https://www.bmj.com/content/371/bmj.m4141', parent=None, text=None)
+Item(by='laurex', descendants=2, kids=[25993914, 25996634, 25993769], score=10, time=1612208053, title='Red meat intake associated with risk of coronary heart disease in US men', item_type='story', url='https://www.bmj.com/content/371/bmj.m4141', parent=None, text=None)

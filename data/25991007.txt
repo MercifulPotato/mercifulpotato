@@ -1,1 +1,1 @@
-Item(by='dehrmann', descendants=None, kids=None, score=None, time=1612201383, title=None, item_type='comment', url=None, parent=25990936, text='How does this relate to Robinhood raising more funds from investors?')
+Item(by='dehrmann', descendants=None, kids=[25993591], score=None, time=1612201383, title=None, item_type='comment', url=None, parent=25990936, text='How does this relate to Robinhood raising more funds from investors?')

@@ -1,1 +1,1 @@
-Item(by='hyko', descendants=None, kids=None, score=None, time=1612199593, title=None, item_type='comment', url=None, parent=25989726, text='Let’s prove the hygiene hypothesis first, before using that “knowledge” to investigate other problems.')
+Item(by='hyko', descendants=None, kids=[25995808], score=None, time=1612199593, title=None, item_type='comment', url=None, parent=25989726, text='Let’s prove the hygiene hypothesis first, before using that “knowledge” to investigate other problems.')

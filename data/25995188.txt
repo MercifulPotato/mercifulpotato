@@ -1,0 +1,1 @@
+Item(by='jeffnappi', descendants=None, kids=[25995592], score=None, time=1612219629, title=None, item_type='comment', url=None, parent=25994472, text='Ideally ML tasks would get executed by background tasks e.g. Celery and use polling or a non-blocking event loop. It&#x27;s generally not preferred to run such intensive process work inside the context of a web request.')

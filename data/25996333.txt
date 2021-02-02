@@ -1,0 +1,1 @@
+Item(by='anonymousDan', descendants=None, kids=None, score=None, time=1612228019, title=None, item_type='comment', url=None, parent=25995612, text='Wait what? I thought spark is designed to work on top of a shared nothing cluster? Have you any resources describing the architecture of databricks specifically?')

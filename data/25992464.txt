@@ -1,1 +1,1 @@
-Item(by='georgewfraser', descendants=1, kids=[25993251], score=46, time=1612207262, title='Databricks Is an RDBMS', item_type='story', url='https://fivetran.com/blog/databricks-is-an-rdbms', parent=None, text=None)
+Item(by='georgewfraser', descendants=60, kids=[25994340, 25995245, 25995793, 25993879, 25996668, 25993446, 25993425, 25993400, 25994301, 25993251], score=119, time=1612207262, title='Databricks is an RDBMS', item_type='story', url='https://fivetran.com/blog/databricks-is-an-rdbms', parent=None, text=None)

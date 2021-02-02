@@ -1,1 +1,1 @@
-Item(by='yawz', descendants=1, kids=[25992977], score=14, time=1612206913, title='Zone of Death (Yellowstone)', item_type='story', url='https://en.wikipedia.org/wiki/Zone_of_Death_(Yellowstone)', parent=None, text=None)
+Item(by='yawz', descendants=3, kids=[25992977, 25993275, 25995509], score=18, time=1612206913, title='Zone of Death (Yellowstone)', item_type='story', url='https://en.wikipedia.org/wiki/Zone_of_Death_(Yellowstone)', parent=None, text=None)

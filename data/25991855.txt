@@ -1,1 +1,1 @@
-Item(by='j4yav', descendants=None, kids=None, score=None, time=1612204996, title=None, item_type='comment', url=None, parent=25977274, text='Lots of Grateful Dead shows out there too, of course.')
+Item(by='j4yav', descendants=None, kids=[25993127], score=None, time=1612204996, title=None, item_type='comment', url=None, parent=25977274, text='Lots of Grateful Dead shows out there too, of course.')

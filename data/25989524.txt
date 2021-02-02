@@ -1,1 +1,1 @@
-Item(by='lornajane', descendants=1, kids=[25992406], score=4, time=1612193652, title='Kafka vs. RabbitMQ – A Comparison', item_type='story', url='https://aiven.io/blog/kafka-v-rabbitmq-a-comparison', parent=None, text=None)
+Item(by='lornajane', descendants=2, kids=[25992406], score=5, time=1612193652, title='Kafka vs. RabbitMQ – A Comparison', item_type='story', url='https://aiven.io/blog/kafka-v-rabbitmq-a-comparison', parent=None, text=None)

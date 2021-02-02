@@ -1,1 +1,1 @@
-Item(by='ronsor', descendants=0, kids=None, score=7, time=1612206443, title='MP4 video 0-day exploit making the rounds on Discord', item_type='story', url='https://twitter.com/sky_evangeline/status/1356103619481894913', parent=None, text=None)
+Item(by='ronsor', descendants=3, kids=[25993456, 25994390], score=16, time=1612206443, title='MP4 video 0-day exploit making the rounds on Discord', item_type='story', url='https://twitter.com/sky_evangeline/status/1356103619481894913', parent=None, text=None)

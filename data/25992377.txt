@@ -1,1 +1,1 @@
-Item(by='achillesr', descendants=0, kids=None, score=3, time=1612206928, title='Show HN: Pipupgrade (Like yarn upgrade, but for pip)', item_type='story', url='https://github.com/achillesrasquinha/pipupgrade', parent=None, text=None)
+Item(by='achillesr', descendants=2, kids=[25993999], score=3, time=1612206928, title='Show HN: Pipupgrade (Like yarn upgrade, but for pip)', item_type='story', url='https://github.com/achillesrasquinha/pipupgrade', parent=None, text=None)

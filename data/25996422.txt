@@ -1,0 +1,1 @@
+Item(by='burnte', descendants=None, kids=None, score=None, time=1612228724, title=None, item_type='comment', url=None, parent=25996013, text='Wow, the JS version has wildly different speeds in Chrome vs Firefox. It&#x27;s smooth as silk in Firefox, about 1.5fps in Chrome for me.')

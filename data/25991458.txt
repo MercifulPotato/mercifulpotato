@@ -1,1 +1,1 @@
-Item(by='DyslexicAtheist', descendants=0, kids=None, score=7, time=1612203233, title='Chicken Bit', item_type='story', url='https://en.wiktionary.org/wiki/chicken_bit', parent=None, text=None)
+Item(by='DyslexicAtheist', descendants=1, kids=[25995224], score=15, time=1612203233, title='Chicken Bit', item_type='story', url='https://en.wiktionary.org/wiki/chicken_bit', parent=None, text=None)
