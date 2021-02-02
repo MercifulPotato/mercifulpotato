@@ -1,1 +1,1 @@
-Item(by='KirillPanov', descendants=None, kids=None, score=None, time=1612246367, title=None, item_type='comment', url=None, parent=25997679, text='I guess you stopped reading before the third paragraph of my comment.')
+Item(by='KirillPanov', descendants=None, kids=[26001329], score=None, time=1612246367, title=None, item_type='comment', url=None, parent=25997679, text='I guess you stopped reading before the third paragraph of my comment.')

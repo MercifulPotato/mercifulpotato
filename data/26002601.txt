@@ -1,0 +1,1 @@
+Item(by='sn41', descendants=None, kids=[26005326], score=None, time=1612281870, title=None, item_type='comment', url=None, parent=26001179, text='At this point, Wayland looks like GNU HURD. Probably it is better, but the milestones keep shifting. I will stick to Xorg, since it supports tiling window managers better.')

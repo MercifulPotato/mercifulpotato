@@ -1,0 +1,1 @@
+Item(by='gnulinux', descendants=None, kids=[26004070, 26002485, 26002598, 26003048], score=None, time=1612281183, title=None, item_type='comment', url=None, parent=26002321, text='Why does this distinction matter? Gnome on X works perfectly fine, Gnome on Wayland does not. Why does it matter it to state that Wayland is a protocol, not the implementation?')

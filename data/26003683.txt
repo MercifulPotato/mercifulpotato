@@ -1,0 +1,1 @@
+Item(by='pitaj', descendants=None, kids=[26003722], score=None, time=1612286240, title=None, item_type='comment', url=None, parent=26002870, text='Stop tricking people. Yes you can use unicode for all kinds of fun stuff, but that&#x27;s not formatting, it&#x27;s a hack.')

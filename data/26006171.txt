@@ -1,0 +1,1 @@
+Item(by='colechristensen', descendants=None, kids=None, score=None, time=1612297667, title=None, item_type='comment', url=None, parent=26005714, text='RPM-based distros (redhat, etc.)<p><pre><code>    # List all files from q package\n    rpm -ql &lt;package&gt;\n    # Where did file come from\n    rpm -qf &lt;path&gt;</code></pre>')

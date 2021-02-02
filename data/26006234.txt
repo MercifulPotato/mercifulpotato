@@ -1,0 +1,1 @@
+Item(by='mindslight', descendants=None, kids=None, score=None, time=1612297949, title=None, item_type='comment', url=None, parent=26004286, text='&#x2F;bin and &#x2F;usr&#x2F;bin would actually make plenty of sense these days - the new root partition is called initrd and gets hidden by pivot_root.')

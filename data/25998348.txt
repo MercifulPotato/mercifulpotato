@@ -1,1 +1,1 @@
-Item(by='uberswe', descendants=None, kids=None, score=None, time=1612252546, title=None, item_type='comment', url=None, parent=25993910, text='This is pretty cool, would be nice if I could somehow subscribe to a city or country for example.')
+Item(by='uberswe', descendants=None, kids=[26005780], score=None, time=1612252546, title=None, item_type='comment', url=None, parent=25993910, text='This is pretty cool, would be nice if I could somehow subscribe to a city or country for example.')

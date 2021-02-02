@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=None, score=None, time=1612298362, title=None, item_type='comment', url=None, parent=26005739, text='AFAIK BSDs don&#x27;t have a concept of overcommit because you can&#x27;t even turn it off.<p>And again it would hardly be the first time Go makes OS-specific decisions.')

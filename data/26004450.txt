@@ -1,0 +1,1 @@
+Item(by='smlckz', descendants=None, kids=None, score=None, time=1612289612, title=None, item_type='comment', url=None, parent=26002335, text='On 8. Processes - Stranger Danger: some improvements<p><pre><code>        sudo ps -ef | awk -v user=$USER &#x27;$1 != user &amp;&amp; $1 != &quot;root&quot;&#x27;</code></pre>')

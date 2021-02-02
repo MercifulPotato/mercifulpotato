@@ -1,0 +1,1 @@
+Item(by='dashboardmess', descendants=None, kids=None, score=None, time=1612295079, title=None, item_type='comment', url=None, parent=26000663, text='Actually, xdotool is the wrong place for this kind of automation. IMO, the optimal place to implement this is in the toolkits, to make it possible to read text and properly click buttons and menus.')

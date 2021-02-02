@@ -1,0 +1,1 @@
+Item(by='akira2501', descendants=None, kids=[26006389], score=None, time=1612298329, title=None, item_type='comment', url=None, parent=26006119, text='It can also be a shell builtin:<p><pre><code>    akira@akira:~ which which\n    which: shell built-in command</code></pre>')

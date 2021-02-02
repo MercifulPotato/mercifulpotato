@@ -1,0 +1,1 @@
+Item(by='danhor', descendants=None, kids=None, score=None, time=1612285345, title=None, item_type='comment', url=None, parent=26002946, text='xdg-desktop-portal-wlr works (with a bit of cli work) with MS Teams in chromium with a flag to enable pipewire. The Desktop app will only support it when the Electron release containing pipewire support releases &amp; gets used in Teams.')

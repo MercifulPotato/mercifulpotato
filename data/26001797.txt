@@ -1,0 +1,1 @@
+Item(by='matsemann', descendants=None, kids=[26002088, 26002383], score=None, time=1612278619, title=None, item_type='comment', url=None, parent=26001464, text='That&#x27;s how zooming (ctrl+scroll) in the browser used to work: It increased font sizes. It has been abandoned because it just wreaks havoc on the layout and is impossible to handle properly.')

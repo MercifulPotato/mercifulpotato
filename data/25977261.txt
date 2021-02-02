@@ -1,1 +1,1 @@
-Item(by='imheretolearn', descendants=1, kids=[26000291], score=13, time=1612083449, title='Publishing Is Back to the Future', item_type='story', url='https://stratechery.com/2021/publishing-is-back-to-the-future/', parent=None, text=None)
+Item(by='imheretolearn', descendants=5, kids=[26000291, 26003987, 26000949, 26003565, 26003274], score=60, time=1612083449, title='Publishing Is Back to the Future', item_type='story', url='https://stratechery.com/2021/publishing-is-back-to-the-future/', parent=None, text=None)

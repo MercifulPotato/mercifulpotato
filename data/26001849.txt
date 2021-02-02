@@ -1,0 +1,1 @@
+Item(by='freeone3000', descendants=None, kids=[26001911, 26002496], score=None, time=1612278911, title=None, item_type='comment', url=None, parent=26001179, text='I&#x27;m really tired of this Wayland horseshit. If there was an actual reason for users to use it, fine, but instead it breaks forwarding and vnc and xclip, and for what exactly? Why should I upgrade?')

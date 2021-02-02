@@ -1,0 +1,1 @@
+Item(by='eyelidlessness', descendants=None, kids=None, score=None, time=1612281177, title=None, item_type='comment', url=None, parent=26002129, text='&gt; Graphical corruption in Chromium when on webgl sites.<p>Can’t speak to Chromium or Wayland, but Chrome on Mac has this problem for me and I just had to completely disable hardware acceleration.')

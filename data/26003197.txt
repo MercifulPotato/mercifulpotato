@@ -1,0 +1,1 @@
+Item(by='ftreml', descendants=3, kids=[26003639, 26003205], score=3, time=1612284246, title='We used chatbot code from IBM, and it was instantly vulnerable to XSS attacks', item_type='story', url='https://github.com/IBM/watson-assistant-multi-bot-agent/blob/46c423f943b3225916fc33f27f03da37817e6eba/public/js/conversation.js#L287', parent=None, text=None)

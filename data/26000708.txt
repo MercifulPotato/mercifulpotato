@@ -1,1 +1,1 @@
-Item(by='deadbunny', descendants=None, kids=None, score=None, time=1612272586, title=None, item_type='comment', url=None, parent=25999687, text='To be fair you can&#x27;t buy any 3000 series Nvidia card either.')
+Item(by='deadbunny', descendants=None, kids=[26005621], score=None, time=1612272586, title=None, item_type='comment', url=None, parent=25999687, text='To be fair you can&#x27;t buy any 3000 series Nvidia card either.')

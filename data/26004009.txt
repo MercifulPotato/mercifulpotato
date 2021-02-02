@@ -1,0 +1,1 @@
+Item(by='devmunchies', descendants=None, kids=[26004123], score=None, time=1612287737, title=None, item_type='comment', url=None, parent=26003967, text='Question, if using NGINX with static HTML would caching still be necessary?<p>I&#x27;m assuming something like wordpress where it hits the database on every request is where you&#x27;d want microcaching.')

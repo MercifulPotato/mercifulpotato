@@ -1,0 +1,1 @@
+Item(by='chrisjc', descendants=None, kids=None, score=None, time=1612291493, title=None, item_type='comment', url=None, parent=25998417, text='1. why not? it&#x27;s not like you&#x27;re getting external libraries either way. \n2. if you want complex libraries, you can use external functions (aws lambdas, etc) in Snowflake.')

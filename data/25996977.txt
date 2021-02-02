@@ -1,1 +1,1 @@
-Item(by='synack', descendants=None, kids=[26000999, 25997182, 25998121, 25997485, 25998438, 25997162, 25997371, 25997165], score=None, time=1612234592, title=None, item_type='comment', url=None, parent=25995918, text='Can anyone recommend a good NNTP client?')
+Item(by='synack', descendants=None, kids=[25997182, 25997485, 25998438, 25998121, 25997162, 26000999, 25997371, 25997165], score=None, time=1612234592, title=None, item_type='comment', url=None, parent=25995918, text='Can anyone recommend a good NNTP client?')

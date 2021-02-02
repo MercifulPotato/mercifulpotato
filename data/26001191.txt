@@ -1,1 +1,1 @@
-Item(by='tyrion', descendants=0, kids=None, score=1, time=1612275548, title='On the Security of WhatsApp and Telegram', item_type='story', url='https://germano.dev/whatsapp-vs-telegram/', parent=None, text=None)
+Item(by='tyrion', descendants=15, kids=[26003940, 26003470, 26005273, 26001435, 26003932, 26003154], score=28, time=1612275548, title='On the Security of WhatsApp and Telegram', item_type='story', url='https://germano.dev/whatsapp-vs-telegram/', parent=None, text=None)

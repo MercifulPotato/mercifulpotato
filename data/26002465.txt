@@ -1,0 +1,1 @@
+Item(by='ahendriksen', descendants=None, kids=[26002687, 26002721], score=None, time=1612281359, title=None, item_type='comment', url=None, parent=26002160, text='Emacs works perfectly fine under xwayland. The recent pgtk feature branch does not use X anymore under wayland. What is not working for you?')

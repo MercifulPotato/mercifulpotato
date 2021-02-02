@@ -1,0 +1,1 @@
+Item(by='robert_foss', descendants=None, kids=None, score=None, time=1612282285, title=None, item_type='comment', url=None, parent=26002472, text='You can run Wayland on NVidia drivers, but then your desktop environment has to support EGLStreams, which isn&#x27;t a requirement for any other drivers and as such isn&#x27;t implemented in all DEs.')

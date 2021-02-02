@@ -1,0 +1,1 @@
+Item(by='lisper', descendants=None, kids=None, score=None, time=1612285120, title=None, item_type='comment', url=None, parent=25999750, text='* is not an operator in Lisp.  It&#x27;s a function.  Lisp doesn&#x27;t have operators.<p>To be more precise, cl:* is a function.  But you can make a symbol named &quot;*&quot; in another package and define it however you like.')

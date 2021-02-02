@@ -1,0 +1,1 @@
+Item(by='Blikkentrekker', descendants=None, kids=[26004894, 26003874], score=None, time=1612285708, title=None, item_type='comment', url=None, parent=26001307, text='But why does it want to not dynamically link against a platform&#x27;s <i>libc</i>?<p>What is the advantage in that? including that into a binary seems about as senseless to me as including the entire kernel in it.')

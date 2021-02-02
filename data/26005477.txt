@@ -1,0 +1,1 @@
+Item(by='invalidtaxonomy', descendants=None, kids=[26005759], score=None, time=1612294459, title=None, item_type='comment', url=None, parent=26000405, text='Some sites go as far as to assume that I’m on mobile because my user agent says ARM. I’m getting a mostly blank page on amazon unless I’m changing arm to x86_64 in my user agent string, then it magically becomes usable.')

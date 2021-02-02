@@ -1,1 +1,1 @@
-Item(by='jmnicolas', descendants=None, kids=None, score=None, time=1612259179, title=None, item_type='comment', url=None, parent=25996363, text='And the Corsair MP600 too.')
+Item(by='jmnicolas', descendants=None, kids=[26003951], score=None, time=1612259179, title=None, item_type='comment', url=None, parent=25996363, text='And the Corsair MP600 too.')

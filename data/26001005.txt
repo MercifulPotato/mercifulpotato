@@ -1,1 +1,1 @@
-Item(by='theBashShell', descendants=0, kids=None, score=1, time=1612274577, title='GraalVM 21.0 Introduces a JVM Written in Java', item_type='story', url='https://www.infoq.com/news/2021/01/graalvm-21-jvm-java/', parent=None, text=None)
+Item(by='theBashShell', descendants=4, kids=[26004922, 26004855], score=85, time=1612274577, title='GraalVM 21.0 Introduces a JVM Written in Java', item_type='story', url='https://www.infoq.com/news/2021/01/graalvm-21-jvm-java/', parent=None, text=None)

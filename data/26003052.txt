@@ -1,0 +1,1 @@
+Item(by='masklinn', descendants=None, kids=[26005748, 26004213, 26005779, 26003203], score=None, time=1612283609, title=None, item_type='comment', url=None, parent=26002622, text='It&#x27;s only vmem though is the point. It doesn&#x27;t really matter that you have 100000 stacks of 8MB when all of that is vmem and you&#x27;ve got a page committed on each.')

@@ -1,0 +1,1 @@
+Item(by='algo_trader', descendants=None, kids=[26004409], score=None, time=1612283532, title=None, item_type='comment', url=None, parent=26001480, text='Where do they benchmark code candidates? This is hard, noisy  and expensive (I see example reward for code size).<p>I am not an expert, but bayesian learning maybe more appropriate for such an expensive-sampling environment?')

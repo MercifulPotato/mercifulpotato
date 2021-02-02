@@ -1,0 +1,1 @@
+Item(by='dj_mc_merlin', descendants=None, kids=None, score=None, time=1612285464, title=None, item_type='comment', url=None, parent=26003395, text='Why not just `pp() { echo -e &quot;$(cat $1 $2)&quot; &gt; $2;}`? It can read from stdin just fine.')

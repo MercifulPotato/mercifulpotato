@@ -1,1 +1,1 @@
-Item(by='arishi', descendants=0, kids=None, score=2, time=1612275783, title='Uber to Acquire Drizly for $1.1B', item_type='story', url='https://investor.uber.com/news-events/news/press-release-details/2021/Uber-to-Acquire-Drizly/default.aspx', parent=None, text=None)
+Item(by='arishi', descendants=1, kids=[26002727], score=9, time=1612275783, title='Uber to Acquire Drizly for $1.1B', item_type='story', url='https://investor.uber.com/news-events/news/press-release-details/2021/Uber-to-Acquire-Drizly/default.aspx', parent=None, text=None)

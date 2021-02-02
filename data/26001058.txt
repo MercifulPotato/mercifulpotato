@@ -1,1 +1,1 @@
-Item(by='node01', descendants=1, kids=[26001252], score=1, time=1612274828, title='Show HN: I Built AirDrop for Visual Studio Code', item_type='story', url='https://github.com/snippetdrop/snippetdrop-vscode', parent=None, text=None)
+Item(by='node01', descendants=1, kids=[26001252], score=4, time=1612274828, title='Show HN: I Built AirDrop for Visual Studio Code', item_type='story', url='https://github.com/snippetdrop/snippetdrop-vscode', parent=None, text=None)
