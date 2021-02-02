@@ -1,0 +1,1 @@
+Item(by='Flow', descendants=None, kids=[25998816], score=None, time=1612254203, title=None, item_type='comment', url=None, parent=25998359, text='Not sure what you are advocating here.<p>If someone successfully injects code that perform a direct syscall they can successfully use this info leak despite a safe and patched (g)libc.')

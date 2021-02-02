@@ -1,0 +1,1 @@
+Item(by='ak3ra', descendants=None, kids=None, score=None, time=1612240195, title=None, item_type='comment', url=None, parent=25997451, text='We reverse engineer a non-trivial learned algorithm from the weights of a neural network and use its core ideas to craft an artificial artificial neural network from scratch that reimplements it.')

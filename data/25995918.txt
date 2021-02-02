@@ -1,1 +1,1 @@
-Item(by='rendx', descendants=5, kids=[25996877, 25996705, 25996663, 25996548, 25996095], score=25, time=1612224771, title='nntpit: minimalist reddit2nntp gateway', item_type='story', url='https://github.com/taviso/nntpit', parent=None, text=None)
+Item(by='rendx', descendants=37, kids=[25998260, 25998401, 25996705, 25997607, 25997785, 25996548, 25996663, 25996877, 25997464, 25998060, 25996095, 25997219, 25996977], score=75, time=1612224771, title='Nntpit: Minimalist Reddit-to-NNTP gateway', item_type='story', url='https://github.com/taviso/nntpit', parent=None, text=None)

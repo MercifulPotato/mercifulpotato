@@ -1,0 +1,1 @@
+Item(by='tedunangst', descendants=None, kids=None, score=None, time=1612252321, title=None, item_type='comment', url=None, parent=25998208, text='off_t needs 64bit alignment so registers get copied to the stack argument structure correctly on kernel entry. This is ancient voodoo.')

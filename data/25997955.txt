@@ -1,0 +1,1 @@
+Item(by='Tomte', descendants=None, kids=[25998049], score=None, time=1612247183, title=None, item_type='comment', url=None, parent=25997896, text='uMatrix.<p>I need to unblock unpkg.com, inverr.com and gstatic.com, so that it works.<p>Lazy-loading the <i>main content</i>, especially if it&#x27;s just text, is inane. You have clearly misunderstood Lighthouse&#x27;s advice.')

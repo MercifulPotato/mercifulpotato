@@ -1,0 +1,1 @@
+Item(by='bitcharmer', descendants=None, kids=[25998745], score=None, time=1612255771, title=None, item_type='comment', url=None, parent=25997506, text='I always thought GO makes syscalls via libc. If it doesn&#x27;t am I correct assuming no LD_PRELOAD magic will work with GO?\nAs in no custom memory allocators, no kernel bypass for TCP stack, etc.')

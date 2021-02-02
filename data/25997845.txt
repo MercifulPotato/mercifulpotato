@@ -1,0 +1,1 @@
+Item(by='tiangolo', descendants=None, kids=None, score=None, time=1612245690, title=None, item_type='comment', url=None, parent=25995290, text='Yep, that&#x27;s the intention. But it&#x27;s a frontend written by hand, and has to be updated by hand.<p>An automatic admin UI based on OpenAPI is one of the plans I have for the future. :)')

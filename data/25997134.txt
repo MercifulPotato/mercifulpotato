@@ -1,0 +1,1 @@
+Item(by='RcouF1uZ4gsC', descendants=None, kids=None, score=None, time=1612236244, title=None, item_type='comment', url=None, parent=25996915, text='triple-DES has a 112bit key space.<p>So it would take 26 hours * 2^56 which is a very long time.<p>UPDATE:\nA quick calculation on Google yields:<p>(2^56) * 26 hours =\n2.13727751 × 10^14 years')

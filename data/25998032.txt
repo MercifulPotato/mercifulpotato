@@ -1,0 +1,1 @@
+Item(by='JimDabell', descendants=None, kids=None, score=None, time=1612248498, title=None, item_type='comment', url=None, parent=25996045, text='Also, if the site is based on WordPress, the API is often open for read-only access, so you can fetch richer information and you won’t have to parse the full HTML document to get the content in question.')

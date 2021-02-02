@@ -1,0 +1,1 @@
+Item(by='john4532452', descendants=None, kids=None, score=None, time=1612244375, title=None, item_type='comment', url=None, parent=25992735, text='VLC is Awesome. Wish the plugin framework has support to capture all the keybindings. For example writing a plugin to delete the currently playing video file using del key is not possible without changing the frontend c++ qt code.')

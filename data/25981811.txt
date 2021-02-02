@@ -1,1 +1,1 @@
-Item(by='lelf', descendants=0, kids=None, score=1, time=1612121971, title='ZX Spectrum Next', item_type='story', url='https://www.specnext.com/', parent=None, text=None)
+Item(by='lelf', descendants=1, kids=[25997002], score=6, time=1612121971, title='ZX Spectrum Next', item_type='story', url='https://www.specnext.com/', parent=None, text=None)

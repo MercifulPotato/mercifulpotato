@@ -1,0 +1,1 @@
+Item(by='snidane', descendants=None, kids=None, score=None, time=1612253241, title=None, item_type='comment', url=None, parent=25996709, text='Why would I store eg. bunch of html files as string columns in Snowflake, only to download them down, process them in python and load back into some other string table.<p>I could do the same in s3 for much cheaper.')

@@ -1,1 +1,1 @@
-Item(by='harporoeder', descendants=0, kids=None, score=3, time=1612217219, title='The Linux “Copy Problem”', item_type='story', url='https://lwn.net/Articles/789623/', parent=None, text=None)
+Item(by='harporoeder', descendants=2, kids=[25997727], score=8, time=1612217219, title='The Linux “Copy Problem”', item_type='story', url='https://lwn.net/Articles/789623/', parent=None, text=None)

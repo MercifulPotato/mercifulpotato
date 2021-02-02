@@ -1,0 +1,1 @@
+Item(by='ashishmax31', descendants=None, kids=[25998597], score=None, time=1612254506, title=None, item_type='comment', url=None, parent=25998268, text='I would think so. Can anyone eli5 why statically linking binaries is a big deal? \nEven light weight container oriented linux distributions like alpine ship with musl. In which scenario would it find it use cases?')

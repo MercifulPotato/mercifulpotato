@@ -1,0 +1,1 @@
+Item(by='vidarh', descendants=None, kids=None, score=None, time=1612255289, title=None, item_type='comment', url=None, parent=25997755, text='If you can can control which DNS servers it talks to, implementing the DNS spec directly is a pretty trivial exercise to get full control. (If you can&#x27;t, the main complexity is dealing with implementation quirks)')

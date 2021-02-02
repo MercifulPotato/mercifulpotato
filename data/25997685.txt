@@ -1,0 +1,1 @@
+Item(by='chungy', descendants=None, kids=[25997697], score=None, time=1612243256, title=None, item_type='comment', url=None, parent=25997624, text='OpenBSD has never really cared about backwards compatibility with binaries. It often works, but then suddenly they break. The OpenBSD developers really prefer fixing bugs instead of working around them.')
