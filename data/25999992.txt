@@ -1,0 +1,1 @@
+Item(by='ben_bai', descendants=None, kids=[26000764], score=None, time=1612267493, title=None, item_type='comment', url=None, parent=25999229, text='that common language is called POSIX<p>Edit: All libc basically adhere to it. Except for some extentions that are not in POSIX but might be in glibc&#x2F;musl&#x2F;FreeBSDs libc or some extentions that are OpenBSD specific.')

@@ -1,1 +1,1 @@
-Item(by='ashishmax31', descendants=None, kids=[25997742, 25998268, 25997857, 25997740, 25997970], score=None, time=1612243980, title=None, item_type='comment', url=None, parent=25997506, text='So does that mean no statically linked binaries since glibc can&#x27;t be statically linked?')
+Item(by='ashishmax31', descendants=None, kids=[25997742, 25998268, 25997857, 25997970, 25997740], score=None, time=1612243980, title=None, item_type='comment', url=None, parent=25997506, text='So does that mean no statically linked binaries since glibc can&#x27;t be statically linked?')

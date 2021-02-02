@@ -1,0 +1,1 @@
+Item(by='account42', descendants=None, kids=[26001357], score=None, time=1612274364, title=None, item_type='comment', url=None, parent=25999344, text='&gt; which was solved by linking it statically<p>You could also have linked against glibc 2.23 or 2.22 or older instead of bloating your binary.')

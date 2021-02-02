@@ -1,1 +1,1 @@
-Item(by='baxtr', descendants=None, kids=None, score=None, time=1612254125, title=None, item_type='comment', url=None, parent=25998184, text='That’s great advice. At the same time I wonder how many people can actually implement it? Maybe 0.2% of the population?')
+Item(by='baxtr', descendants=None, kids=[26000187], score=None, time=1612254125, title=None, item_type='comment', url=None, parent=25998184, text='That’s great advice. At the same time I wonder how many people can actually implement it? Maybe 0.2% of the population?')

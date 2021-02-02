@@ -1,0 +1,1 @@
+Item(by='hkt', descendants=None, kids=[25998862], score=None, time=1612257487, title=None, item_type='comment', url=None, parent=25998821, text='Scaleway have an API that could realistically be driven through a CI process. Assuming the idea is to do automated testing, and to destroy instances when done, the cost is likely to be pretty low.')

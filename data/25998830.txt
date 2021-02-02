@@ -1,1 +1,1 @@
-Item(by='max_', descendants=None, kids=None, score=None, time=1612257260, title=None, item_type='comment', url=None, parent=25998573, text='I don&#x27;t know why your being downvoted, but GrapheneOS os worth some attention.')
+Item(by='max_', descendants=None, kids=[25999104], score=None, time=1612257260, title=None, item_type='comment', url=None, parent=25998573, text='I don&#x27;t know why your being downvoted, but GrapheneOS os worth some attention.')

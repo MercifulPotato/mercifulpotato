@@ -1,1 +1,1 @@
-Item(by='technion', descendants=6, kids=[25998212, 25998108, 25996142, 25996745, 25995869, 25995850], score=20, time=1612219433, title='Microsoft Security Adventures Game', item_type='story', url='https://mssecurityadventure.com/game.html', parent=None, text=None)
+Item(by='technion', descendants=6, kids=[25998212, 25998108, 25996142, 25996745, 25995869, 25995850], score=26, time=1612219433, title='Microsoft Security Adventures Game', item_type='story', url='https://mssecurityadventure.com/game.html', parent=None, text=None)

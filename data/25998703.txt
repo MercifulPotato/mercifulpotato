@@ -1,1 +1,1 @@
-Item(by='bagels', descendants=None, kids=None, score=None, time=1612256105, title=None, item_type='comment', url=None, parent=25993512, text='Why do people in New York want a humidifier? Isn&#x27;t it very humid there?')
+Item(by='bagels', descendants=None, kids=[26001412], score=None, time=1612256105, title=None, item_type='comment', url=None, parent=25993512, text='Why do people in New York want a humidifier? Isn&#x27;t it very humid there?')

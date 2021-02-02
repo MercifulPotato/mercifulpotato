@@ -1,1 +1,1 @@
-Item(by='raymond_goo', descendants=None, kids=None, score=None, time=1612244427, title=None, item_type='comment', url=None, parent=25996086, text='Yeah, Jade Raymond.')
+Item(by='raymond_goo', descendants=None, kids=[25999353], score=None, time=1612244427, title=None, item_type='comment', url=None, parent=25996086, text='Yeah, Jade Raymond.')

@@ -1,1 +1,1 @@
-Item(by='potomushto', descendants=0, kids=None, score=1, time=1612253368, title='Design Notes on Kotlin Value Classes', item_type='story', url='https://github.com/Kotlin/KEEP/blob/master/notes/value-classes.md', parent=None, text=None)
+Item(by='potomushto', descendants=0, kids=None, score=2, time=1612253368, title='Design Notes on Kotlin Value Classes', item_type='story', url='https://github.com/Kotlin/KEEP/blob/master/notes/value-classes.md', parent=None, text=None)

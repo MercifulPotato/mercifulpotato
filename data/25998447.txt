@@ -1,1 +1,1 @@
-Item(by='alexchamberlain', descendants=None, kids=None, score=None, time=1612253735, title=None, item_type='comment', url=None, parent=25992763, text='It feels like the large monitoring applications should run aggregators in large cloud providers to reduce traffic for everyone.')
+Item(by='alexchamberlain', descendants=None, kids=[25998828], score=None, time=1612253735, title=None, item_type='comment', url=None, parent=25992763, text='It feels like the large monitoring applications should run aggregators in large cloud providers to reduce traffic for everyone.')

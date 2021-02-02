@@ -1,1 +1,1 @@
-Item(by='Moru', descendants=None, kids=None, score=None, time=1612245540, title=None, item_type='comment', url=None, parent=25997439, text='Have you tried playing a plain normal Blueray on windows without VLC?')
+Item(by='Moru', descendants=None, kids=[25999650], score=None, time=1612245540, title=None, item_type='comment', url=None, parent=25997439, text='Have you tried playing a plain normal Blueray on windows without VLC?')

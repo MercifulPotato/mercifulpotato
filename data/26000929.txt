@@ -1,0 +1,1 @@
+Item(by='Stevvo', descendants=None, kids=None, score=None, time=1612273976, title=None, item_type='comment', url=None, parent=26000405, text='The proposed solution for developers doesn&#x27;t work any better; DPI is correctly calculated on desktop, but nearly always wrong on phones. So fixing sites for vertical desktop monitors will break them in most phones.')

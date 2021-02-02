@@ -1,0 +1,1 @@
+Item(by='EdSchouten', descendants=None, kids=None, score=None, time=1612269270, title=None, item_type='comment', url=None, parent=25999219, text='Why? As far as I know, FreeBSD&#x27;s system call ABI is supposed to be (relatively) stable. It&#x27;s a requirement anyway if you want to run jails of a different version.')

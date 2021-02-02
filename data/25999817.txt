@@ -1,0 +1,1 @@
+Item(by='p_l', descendants=None, kids=None, score=None, time=1612265887, title=None, item_type='comment', url=None, parent=25999442, text='OSX never used X server, AFAIK.<p>DPS was available as extension on X11, but it wasn&#x27;t the same implementation as on NeXTSTEP, where AFAIK even the old 0.8 code already used Mach IPC for communication with window server.')

@@ -1,1 +1,1 @@
-Item(by='amanzi', descendants=1, kids=[25998360], score=2, time=1612248030, title='Synology to enforce validated disks in its NAS. Only its own disks exceed 4TB', item_type='story', url='https://www.theregister.com/2021/02/02/synology_prefers_own_disks/', parent=None, text=None)
+Item(by='amanzi', descendants=1, kids=[25998360], score=4, time=1612248030, title='Synology to enforce validated disks in its NAS. Only its own disks exceed 4TB', item_type='story', url='https://www.theregister.com/2021/02/02/synology_prefers_own_disks/', parent=None, text=None)

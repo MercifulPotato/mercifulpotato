@@ -1,0 +1,1 @@
+Item(by='canofbars', descendants=None, kids=None, score=None, time=1612263337, title=None, item_type='comment', url=None, parent=25999337, text='The only downside is anything running in xwayland (Essentially just apps on old versions of electron and wine) will pick the scale of one of your monitors and not switch when dragged across the border.')

@@ -1,0 +1,1 @@
+Item(by='sivizius', descendants=None, kids=[26000216], score=None, time=1612266738, title=None, item_type='comment', url=None, parent=25999612, text='And where is the advantage then to have a `call syscall_wrapper` over `mov rax, syscall_number; syscall` if the ROP was able to return just before the call?')

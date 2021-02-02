@@ -1,0 +1,1 @@
+Item(by='Thorrez', descendants=None, kids=[25998897], score=None, time=1612257254, title=None, item_type='comment', url=None, parent=25998811, text='I would guess it&#x27;s for people who need to run automated tests that their Mac M1 software works. Or maybe there&#x27;s some program that only works on M1 and they need to run it in an automated manner (a compiler?).')

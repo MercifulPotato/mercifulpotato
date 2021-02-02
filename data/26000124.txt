@@ -1,0 +1,1 @@
+Item(by='zbuf', descendants=None, kids=None, score=None, time=1612268600, title=None, item_type='comment', url=None, parent=25999071, text='Is there a &quot;rootless&quot; implementation of Wayland compositor for X?<p>If Wayland is just the protocol, this should be very possible; and perhaps it would have eased some of this transition.')

@@ -1,1 +1,1 @@
-Item(by='ecdavis', descendants=None, kids=None, score=None, time=1612240898, title=None, item_type='comment', url=None, parent=25994554, text='If it&#x27;s 12th generation (E210) you can get a firmware upgrade to support CarPlay.')
+Item(by='ecdavis', descendants=None, kids=[26000848], score=None, time=1612240898, title=None, item_type='comment', url=None, parent=25994554, text='If it&#x27;s 12th generation (E210) you can get a firmware upgrade to support CarPlay.')

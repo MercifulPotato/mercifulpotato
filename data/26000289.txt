@@ -1,0 +1,1 @@
+Item(by='adrusi', descendants=None, kids=None, score=None, time=1612269578, title=None, item_type='comment', url=None, parent=25999485, text='No, that does not solve the issue. Not using a compositor definitely makes tearing worse, on top of a number of other things, but even with a compositor, you&#x27;ll get tearing on X, at least using intel graphics.')

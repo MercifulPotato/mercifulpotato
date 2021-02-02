@@ -1,0 +1,1 @@
+Item(by='newsbinator', descendants=None, kids=[26001185], score=None, time=1612274985, title=None, item_type='comment', url=None, parent=26000405, text='Author&#x27;s proposed solution:<p><pre><code>    var dppx = window.devicePixelRatio;\n    var screenWidth  = screen.width  * dppx;\n    var screenHeight = screen.height * dppx;</code></pre>')

@@ -1,1 +1,1 @@
-Item(by='vecio', descendants=0, kids=None, score=2, time=1612248535, title='Open Source Clubhouse Alternative', item_type='story', url='https://mornin.fm/', parent=None, text=None)
+Item(by='vecio', descendants=1, kids=[25999749], score=6, time=1612248535, title='Open Source Clubhouse Alternative', item_type='story', url='https://mornin.fm/', parent=None, text=None)

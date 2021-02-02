@@ -1,0 +1,1 @@
+Item(by='hda111', descendants=None, kids=[26001390], score=None, time=1612272841, title=None, item_type='comment', url=None, parent=25999623, text='One reason not to go through libc is the possibility to create a pure Go userland like it’s done with the u-root project that is apparently in use at Google and resembles Busybox based systems with a memory safe language.')

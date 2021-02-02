@@ -1,1 +1,1 @@
-Item(by='SirHound', descendants=None, kids=None, score=None, time=1612245417, title=None, item_type='comment', url=None, parent=25997805, text='And just imagine all the tribal wars. Talk about forgetting your history')
+Item(by='SirHound', descendants=None, kids=[25999825], score=None, time=1612245417, title=None, item_type='comment', url=None, parent=25997805, text='And just imagine all the tribal wars. Talk about forgetting your history')

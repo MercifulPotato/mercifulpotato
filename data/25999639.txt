@@ -1,0 +1,1 @@
+Item(by='canofbars', descendants=None, kids=[25999687], score=None, time=1612264413, title=None, item_type='comment', url=None, parent=25999575, text='Its extremely slow and does not support CUDA. I think the problem is nvidia blocks them somehow from changing the clock speed on the gpu so it gets stuck running in its slowest speed.')

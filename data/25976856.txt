@@ -1,1 +1,1 @@
-Item(by='fallat', descendants=7, kids=[25997099, 25997864, 25996635, 25996733], score=45, time=1612077543, title='Show HN: I wrote a rust program to translate images into textual line art', item_type='story', url='https://github.com/lf94/png2linetext', parent=None, text=None)
+Item(by='fallat', descendants=8, kids=[25997099, 25996635, 25997864, 25996733], score=65, time=1612077543, title='Show HN: I wrote a rust program to translate images into textual line art', item_type='story', url='https://github.com/lf94/png2linetext', parent=None, text=None)
