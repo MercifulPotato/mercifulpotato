@@ -1,1 +1,1 @@
-Item(by='baby', descendants=None, kids=None, score=None, time=1612347848, title=None, item_type='comment', url=None, parent=25999378, text='So you buy a PS2 the month it was launched to play PS1 games? K')
+Item(by='baby', descendants=None, kids=[26014439], score=None, time=1612347848, title=None, item_type='comment', url=None, parent=25999378, text='So you buy a PS2 the month it was launched to play PS1 games? K')

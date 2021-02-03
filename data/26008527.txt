@@ -1,1 +1,1 @@
-Item(by='tshaddox', descendants=None, kids=None, score=None, time=1612308371, title=None, item_type='comment', url=None, parent=26007385, text='If screen readers do that, why? That seems useless even when those characters are used for their intended purpose.')
+Item(by='tshaddox', descendants=None, kids=[26013795], score=None, time=1612308371, title=None, item_type='comment', url=None, parent=26007385, text='If screen readers do that, why? That seems useless even when those characters are used for their intended purpose.')

@@ -1,1 +1,1 @@
-Item(by='Triv888', descendants=None, kids=None, score=None, time=1612351115, title=None, item_type='comment', url=None, parent=26011289, text='The provider is me...  so if I get hacked, they could get the data while it is unencrypted on the client side.')
+Item(by='Triv888', descendants=None, kids=[26014462], score=None, time=1612351115, title=None, item_type='comment', url=None, parent=26011289, text='The provider is me...  so if I get hacked, they could get the data while it is unencrypted on the client side.')

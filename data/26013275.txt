@@ -1,1 +1,1 @@
-Item(by='api', descendants=None, kids=[26013293], score=None, time=1612357831, title=None, item_type='comment', url=None, parent=26012874, text='Why don’t things like malloc get fixed? I’ve known about these issues for years. Does the core team not know?')
+Item(by='api', descendants=None, kids=[26014067, 26013293], score=None, time=1612357831, title=None, item_type='comment', url=None, parent=26012874, text='Why don’t things like malloc get fixed? I’ve known about these issues for years. Does the core team not know?')

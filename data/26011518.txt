@@ -1,1 +1,1 @@
-Item(by='franklyt', descendants=None, kids=None, score=None, time=1612338507, title=None, item_type='comment', url=None, parent=26010487, text='Alrighty. You’re entitled to a contrary opinion. Not much to add beyond that.<p>All we can do is see how this shakes out.')
+Item(by='franklyt', descendants=None, kids=[26018138], score=None, time=1612338507, title=None, item_type='comment', url=None, parent=26010487, text='Alrighty. You’re entitled to a contrary opinion. Not much to add beyond that.<p>All we can do is see how this shakes out.')

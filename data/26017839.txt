@@ -1,0 +1,1 @@
+Item(by='nojito', descendants=None, kids=None, score=None, time=1612379818, title=None, item_type='comment', url=None, parent=26013080, text='Because they literally re-wrote the majority of it to use vert-x directly.<p>The clojure pieces are nothing more than a wrapper which is exactly what clojure is best used for.')

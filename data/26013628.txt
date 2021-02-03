@@ -1,0 +1,1 @@
+Item(by='jandrewrogers', descendants=None, kids=None, score=None, time=1612360812, title=None, item_type='comment', url=None, parent=26012868, text='Way back when I was working on parallel graph engines, trillions of edges was pretty typical. The kind of data models that produce graphs that large are pretty diverse.')

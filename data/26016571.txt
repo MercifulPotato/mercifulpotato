@@ -1,0 +1,1 @@
+Item(by='Gunax', descendants=None, kids=[26016719], score=None, time=1612374659, title=None, item_type='comment', url=None, parent=26014525, text='Would that also mean that encrypted (not hashed) PII is also personal information? It should not be retrievable (in theory and practice) without the key.')

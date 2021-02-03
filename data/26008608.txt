@@ -1,1 +1,1 @@
-Item(by='totalZero', descendants=None, kids=None, score=None, time=1612308917, title=None, item_type='comment', url=None, parent=26008513, text='A San Francisco approach to a New York problem.')
+Item(by='totalZero', descendants=None, kids=[26016652], score=None, time=1612308917, title=None, item_type='comment', url=None, parent=26008513, text='A San Francisco approach to a New York problem.')

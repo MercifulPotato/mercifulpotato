@@ -1,1 +1,1 @@
-Item(by='pseudolus', descendants=0, kids=None, score=1, time=1612353081, title='Study finds childhood diet has lifelong impact', item_type='story', url='https://phys.org/news/2021-02-childhood-diet-lifelong-impact.html', parent=None, text=None)
+Item(by='pseudolus', descendants=1, kids=[26014104], score=1, time=1612353081, title='Study finds childhood diet has lifelong impact', item_type='story', url='https://phys.org/news/2021-02-childhood-diet-lifelong-impact.html', parent=None, text=None)

@@ -1,0 +1,1 @@
+Item(by='rattray', descendants=None, kids=None, score=None, time=1612367375, title=None, item_type='comment', url=None, parent=26014279, text='That makes a ton of sense - thank you!<p>Yeah part of the magic of DRF is all the implicit stuff and the DRYness, but of course that can bite you anyway.')

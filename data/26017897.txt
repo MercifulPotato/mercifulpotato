@@ -1,0 +1,1 @@
+Item(by='sheepy', descendants=None, kids=None, score=None, time=1612380043, title=None, item_type='comment', url=None, parent=26000564, text='Thumbs up for the stack and overall look&amp;feel!\nIs DynamoDB a hard dependency or it could be swapped for Firebase Firestore?')

@@ -1,1 +1,1 @@
-Item(by='londons_explore', descendants=None, kids=None, score=None, time=1612350685, title=None, item_type='comment', url=None, parent=26009934, text='But they still have to do multiple steps per layer to attach the per-layer connections at the edge?')
+Item(by='londons_explore', descendants=None, kids=[26015233], score=None, time=1612350685, title=None, item_type='comment', url=None, parent=26009934, text='But they still have to do multiple steps per layer to attach the per-layer connections at the edge?')

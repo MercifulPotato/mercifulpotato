@@ -1,1 +1,1 @@
-Item(by='acct776', descendants=None, kids=None, score=None, time=1612341694, title=None, item_type='comment', url=None, parent=26006321, text='This is an outdated take.<p>These attacks are being done algorithmically, automatically now.')
+Item(by='acct776', descendants=None, kids=[26018299], score=None, time=1612341694, title=None, item_type='comment', url=None, parent=26006321, text='This is an outdated take.<p>These attacks are being done algorithmically, automatically now.')

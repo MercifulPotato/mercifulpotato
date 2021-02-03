@@ -1,1 +1,1 @@
-Item(by='sbauch', descendants=3, kids=[26003171, 26001880], score=10, time=1612278958, title='Show HN: Osso – Open-source SAML SSO service', item_type='story', url='https://github.com/enterprise-oss/osso', parent=None, text=None)
+Item(by='sbauch', descendants=11, kids=[26017406, 26001880, 26017477, 26017558, 26003171], score=25, time=1612278958, title='Show HN: Osso – Open-source SAML SSO service', item_type='story', url='https://github.com/enterprise-oss/osso', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='heshiebee', descendants=0, kids=None, score=1, time=1612359727, title='Elon Musk Interview: 1-on-1 with Sandy Munro', item_type='story', url='https://www.youtube.com/watch?v=YAtLTLiqNwg', parent=None, text=None)
+Item(by='heshiebee', descendants=1, kids=[26013770], score=2, time=1612359727, title='Elon Musk Interview: 1-on-1 with Sandy Munro', item_type='story', url='https://www.youtube.com/watch?v=YAtLTLiqNwg', parent=None, text=None)

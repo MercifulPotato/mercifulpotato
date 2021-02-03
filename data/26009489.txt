@@ -1,1 +1,1 @@
-Item(by='pm', descendants=None, kids=None, score=None, time=1612315328, title=None, item_type='comment', url=None, parent=26008800, text='Thanks for the e-mail! I&#x27;d tried support@startupschool.org but the e-mail bounced.')
+Item(by='pm', descendants=None, kids=[26015764], score=None, time=1612315328, title=None, item_type='comment', url=None, parent=26008800, text='Thanks for the e-mail! I&#x27;d tried support@startupschool.org but the e-mail bounced.')

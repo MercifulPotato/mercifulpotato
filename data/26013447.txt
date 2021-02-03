@@ -1,1 +1,1 @@
-Item(by='vemv', descendants=None, kids=None, score=None, time=1612359414, title=None, item_type='comment', url=None, parent=26013080, text='Could you expand on the last paragraph? I have trouble following it')
+Item(by='vemv', descendants=None, kids=[26015575], score=None, time=1612359414, title=None, item_type='comment', url=None, parent=26013080, text='Could you expand on the last paragraph? I have trouble following it')

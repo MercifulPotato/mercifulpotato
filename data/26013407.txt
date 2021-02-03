@@ -1,1 +1,1 @@
-Item(by='jtdev', descendants=None, kids=None, score=None, time=1612358975, title=None, item_type='comment', url=None, parent=26010927, text='They’re really all just different ways to say “sales person”.')
+Item(by='jtdev', descendants=None, kids=[26015661], score=None, time=1612358975, title=None, item_type='comment', url=None, parent=26010927, text='They’re really all just different ways to say “sales person”.')

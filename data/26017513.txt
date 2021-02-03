@@ -1,0 +1,1 @@
+Item(by='mozey', descendants=None, kids=None, score=None, time=1612378311, title=None, item_type='comment', url=None, parent=26015754, text='Interesting idea, maybe combine it with some fingerprinting? I.e. the first access on the link binds some attributes, and if they change the link expires. Chances are people who need these links are only using one device.')

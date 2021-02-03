@@ -1,1 +1,1 @@
-Item(by='pbourke', descendants=None, kids=None, score=None, time=1612335204, title=None, item_type='comment', url=None, parent=26011214, text='I would urge you not to join Blind if you consider yourself reasonably comfortable with your perception of your coworkers. It will change.')
+Item(by='pbourke', descendants=None, kids=[26017742], score=None, time=1612335204, title=None, item_type='comment', url=None, parent=26011214, text='I would urge you not to join Blind if you consider yourself reasonably comfortable with your perception of your coworkers. It will change.')

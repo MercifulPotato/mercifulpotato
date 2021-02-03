@@ -1,0 +1,1 @@
+Item(by='DylanSp', descendants=None, kids=[26016543], score=None, time=1612368255, title=None, item_type='comment', url=None, parent=26014542, text='The main difference is that reducers are arbitrary functions (state, action) -&gt; state, without constraining the possible transitions.')
