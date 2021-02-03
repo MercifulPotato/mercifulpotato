@@ -1,0 +1,1 @@
+Item(by='bradstewart', descendants=None, kids=[26008659], score=None, time=1612307043, title=None, item_type='comment', url=None, parent=26006094, text='A value of type &quot;any&quot; is assignable to anything, a value of type &quot;unknown&quot; is assignable to nothing. unknown forces a type cast.')

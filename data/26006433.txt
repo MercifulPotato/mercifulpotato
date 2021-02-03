@@ -1,0 +1,1 @@
+Item(by='pjmlp', descendants=None, kids=None, score=None, time=1612298967, title=None, item_type='comment', url=None, parent=25990585, text='TL;DR; A company that sells Go consulting services bad mouths JVM JIT while completely ignoring JIT caches and AOT compilers that exist since around 2000.')

@@ -1,1 +1,1 @@
-Item(by='tinus_hn', descendants=None, kids=None, score=None, time=1612294608, title=None, item_type='comment', url=None, parent=26002976, text='Really? A user interface annoyance is a mostly incurable deadly disease?')
+Item(by='tinus_hn', descendants=None, kids=[26007275], score=None, time=1612294608, title=None, item_type='comment', url=None, parent=26002976, text='Really? A user interface annoyance is a mostly incurable deadly disease?')

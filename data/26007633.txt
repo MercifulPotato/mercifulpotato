@@ -1,0 +1,1 @@
+Item(by='PurpleFoxy', descendants=None, kids=None, score=None, time=1612304036, title=None, item_type='comment', url=None, parent=26002476, text='It’s more of a future feature. Until we have most things sandboxed with SELinux there isn’t a whole lot of point adding a permissions dialog. But all of this work pays off in the future when Linux can match macOS in security.')

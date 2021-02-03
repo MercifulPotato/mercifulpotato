@@ -1,1 +1,1 @@
-Item(by='tptacek', descendants=None, kids=None, score=None, time=1612296041, title=None, item_type='comment', url=None, parent=26005612, text='Are they working outside the United States?')
+Item(by='tptacek', descendants=None, kids=[26007119, 26006071], score=None, time=1612296041, title=None, item_type='comment', url=None, parent=26005612, text='Are they working outside the United States?')

@@ -1,0 +1,1 @@
+Item(by='ducharmdev', descendants=None, kids=[26009686, 26009362], score=None, time=1612307873, title=None, item_type='comment', url=None, parent=26007726, text='I like the convention in C# where you prepend generic type names with a T, clearly signifying that it&#x27;s a generic while being more descriptive. E.g.:<p>public delegate TResult Func&lt;in T,out TResult&gt;(T arg);')

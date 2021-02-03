@@ -1,0 +1,1 @@
+Item(by='PurpleFoxy', descendants=None, kids=None, score=None, time=1612303080, title=None, item_type='comment', url=None, parent=26002454, text='Wayland is only one piece in the security puzzle. Flatpak and SELinux are the other pieces. Under X there is no point sandboxing a GUI app since X provides an escape.')

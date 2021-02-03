@@ -1,0 +1,1 @@
+Item(by='StavrosK', descendants=None, kids=[26007006], score=None, time=1612300598, title=None, item_type='comment', url=None, parent=26005891, text='&gt; which AFAIK doesn&#x27;t have E2EE for syncing these bits<p>Which ends do you mean? It supports TLS, so it&#x27;s E2EE (between server and client).')

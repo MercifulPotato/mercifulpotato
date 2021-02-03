@@ -1,1 +1,1 @@
-Item(by='h1fra', descendants=None, kids=None, score=None, time=1612297348, title=None, item_type='comment', url=None, parent=26006054, text='oops indeed, but I&#x27;m not crazy there was a missing parathensis no? It&#x27;s too late :D<p>Anyway great blog post')
+Item(by='h1fra', descendants=None, kids=[26006201], score=None, time=1612297348, title=None, item_type='comment', url=None, parent=26006054, text='oops indeed, but I&#x27;m not crazy there was a missing parathensis no? It&#x27;s too late :D<p>Anyway great blog post')

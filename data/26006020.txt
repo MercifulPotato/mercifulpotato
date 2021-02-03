@@ -1,1 +1,1 @@
-Item(by='ogre_codes', descendants=None, kids=None, score=None, time=1612296996, title=None, item_type='comment', url=None, parent=26005881, text='Does a comment have to contradict something it replies to?')
+Item(by='ogre_codes', descendants=None, kids=[26007607], score=None, time=1612296996, title=None, item_type='comment', url=None, parent=26005881, text='Does a comment have to contradict something it replies to?')

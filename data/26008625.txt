@@ -1,0 +1,1 @@
+Item(by='SmellyPotato22', descendants=None, kids=None, score=None, time=1612309037, title=None, item_type='comment', url=None, parent=26006663, text='I think that about right. Although I think this is slightly different than regular zip which is [a] -&gt; [b] -&gt; [(a,b)] and instead would be ([a],[b]) -&gt; [c] or if I remember currying right [a] -&gt; [b] -&gt; [c].')

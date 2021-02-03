@@ -1,0 +1,1 @@
+Item(by='turminal', descendants=None, kids=None, score=None, time=1612316230, title=None, item_type='comment', url=None, parent=26006119, text='&gt; Many scripters who need wide compatibility of &quot;which&quot; fall back to the builtins `type` and `command` as they resolve any bash aliases set<p>When wide compatibility is needed it is best to avoid bash specific solutions.')

@@ -1,0 +1,1 @@
+Item(by='sorahn', descendants=None, kids=[26008347, 26008993], score=None, time=1612306702, title=None, item_type='comment', url=None, parent=26008160, text='Which also means the suggestion to use ?? has a different result then using a default param.  ?? will catch both null and undefined, where as a default parameter will only trigger on undefined.')

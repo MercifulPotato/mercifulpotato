@@ -1,0 +1,1 @@
+Item(by='xixixao', descendants=None, kids=None, score=None, time=1612313093, title=None, item_type='comment', url=None, parent=26007726, text='Some codebases prefer `TItem` - the preceding T signifies that this is a type variable, not a type, which is quite helpful when reading type signatures.')

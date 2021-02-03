@@ -1,1 +1,1 @@
-Item(by='bilegeek', descendants=9, kids=[26006157, 26005910, 26005682, 26006053, 26005416, 26005651, 26005741], score=36, time=1612290674, title='S100 Computers', item_type='story', url='http://s100computers.com/', parent=None, text=None)
+Item(by='bilegeek', descendants=37, kids=[26005910, 26008436, 26005682, 26005416, 26009404, 26006157, 26009551, 26009780, 26006053, 26009269, 26005741, 26007425, 26008164, 26005651, 26007540], score=100, time=1612290674, title='S100 Computers', item_type='story', url='http://s100computers.com/', parent=None, text=None)

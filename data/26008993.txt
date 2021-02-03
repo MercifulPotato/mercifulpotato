@@ -1,0 +1,1 @@
+Item(by='nawgz', descendants=None, kids=None, score=None, time=1612311478, title=None, item_type='comment', url=None, parent=26008212, text='?? catches any falsy value, so it is quite semantically different than default arguments, and also quite different from ||')

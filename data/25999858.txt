@@ -1,1 +1,1 @@
-Item(by='97-109-107', descendants=None, kids=None, score=None, time=1612266294, title=None, item_type='comment', url=None, parent=25994103, text='My two cents go to Cantata')
+Item(by='97-109-107', descendants=None, kids=[26006796], score=None, time=1612266294, title=None, item_type='comment', url=None, parent=25994103, text='My two cents go to Cantata')

@@ -1,1 +1,1 @@
-Item(by='Bakary', descendants=None, kids=None, score=None, time=1612298507, title=None, item_type='comment', url=None, parent=26000698, text='Do self-described audiophiles often perform ABX testing? I think if they did, it could lead to some uncomfortable moments for many')
+Item(by='Bakary', descendants=None, kids=[26007852], score=None, time=1612298507, title=None, item_type='comment', url=None, parent=26000698, text='Do self-described audiophiles often perform ABX testing? I think if they did, it could lead to some uncomfortable moments for many')

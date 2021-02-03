@@ -1,1 +1,1 @@
-Item(by='sgerenser', descendants=None, kids=None, score=None, time=1612282187, title=None, item_type='comment', url=None, parent=26002131, text='So it’s not just me. I think HN is the only site I use that I’ve bothered to configure custom zoom factor for.')
+Item(by='sgerenser', descendants=None, kids=[26006739], score=None, time=1612282187, title=None, item_type='comment', url=None, parent=26002131, text='So it’s not just me. I think HN is the only site I use that I’ve bothered to configure custom zoom factor for.')

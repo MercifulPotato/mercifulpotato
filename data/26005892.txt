@@ -1,1 +1,1 @@
-Item(by='La1n', descendants=None, kids=None, score=None, time=1612296436, title=None, item_type='comment', url=None, parent=26004174, text='&gt;The real bad actor here is Huawei.<p>Anyone could do this, and there are plenty that would like Huawei to look bad.')
+Item(by='La1n', descendants=None, kids=[26008507], score=None, time=1612296436, title=None, item_type='comment', url=None, parent=26004174, text='&gt;The real bad actor here is Huawei.<p>Anyone could do this, and there are plenty that would like Huawei to look bad.')

@@ -1,1 +1,1 @@
-Item(by='jeffbee', descendants=None, kids=None, score=None, time=1612296943, title=None, item_type='comment', url=None, parent=26005573, text='BlackBerry had wifi calling since 2007.')
+Item(by='jeffbee', descendants=None, kids=[26006623], score=None, time=1612296943, title=None, item_type='comment', url=None, parent=26005573, text='BlackBerry had wifi calling since 2007.')

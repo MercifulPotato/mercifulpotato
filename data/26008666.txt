@@ -1,0 +1,1 @@
+Item(by='flukus', descendants=None, kids=None, score=None, time=1612309256, title=None, item_type='comment', url=None, parent=26007759, text='Amusingly &quot;info bash&quot; took me to the man page until a separate bash-doc package was installed. One day I&#x27;m going to write a script to automatically install missing &quot;-doc&quot; packages and learn to navigate info.')

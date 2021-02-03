@@ -1,1 +1,1 @@
-Item(by='Jommi', descendants=None, kids=None, score=None, time=1612297644, title=None, item_type='comment', url=None, parent=26004082, text='I thought they used apexclearing')
+Item(by='Jommi', descendants=None, kids=[26007876], score=None, time=1612297644, title=None, item_type='comment', url=None, parent=26004082, text='I thought they used apexclearing')

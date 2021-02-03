@@ -1,1 +1,1 @@
-Item(by='p1esk', descendants=None, kids=None, score=None, time=1612263337, title=None, item_type='comment', url=None, parent=25998944, text='It’s a pity they didn’t test it against 970 pro')
+Item(by='p1esk', descendants=None, kids=[26007401], score=None, time=1612263337, title=None, item_type='comment', url=None, parent=25998944, text='It’s a pity they didn’t test it against 970 pro')

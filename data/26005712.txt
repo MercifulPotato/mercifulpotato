@@ -1,1 +1,1 @@
-Item(by='monocasa', descendants=None, kids=None, score=None, time=1612295627, title=None, item_type='comment', url=None, parent=26005517, text='You don&#x27;t think they&#x27;d just run on the BSDs instead if GPLed software didn&#x27;t exist?')
+Item(by='monocasa', descendants=None, kids=[26007186], score=None, time=1612295627, title=None, item_type='comment', url=None, parent=26005517, text='You don&#x27;t think they&#x27;d just run on the BSDs instead if GPLed software didn&#x27;t exist?')

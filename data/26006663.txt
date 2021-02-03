@@ -1,0 +1,1 @@
+Item(by='MrPatan', descendants=None, kids=[26008625], score=None, time=1612300053, title=None, item_type='comment', url=None, parent=26006046, text='What would be the opposite of &quot;fork&quot;, something like &quot;zip&quot; that gets two lists and combines them into one? Would it have a signature also starting like this: `zip&lt;A, B, C&gt;(...`')

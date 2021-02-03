@@ -1,0 +1,1 @@
+Item(by='krishvs', descendants=None, kids=None, score=None, time=1612315031, title=None, item_type='comment', url=None, parent=26001005, text='Curious to know if this would allow me to run client submitted java at runtime similar to how you can execute javascript in a sandbox ( ok i know it is not fully secure) using graaljs or nashorn?')

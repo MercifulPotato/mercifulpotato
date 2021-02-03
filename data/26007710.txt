@@ -1,0 +1,1 @@
+Item(by='bwestergard', descendants=None, kids=None, score=None, time=1612304291, title=None, item_type='comment', url=None, parent=26006229, text='The latency will be linear with the size of the JSON payload, and the constants will be tiny.')

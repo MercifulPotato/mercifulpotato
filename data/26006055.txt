@@ -1,1 +1,1 @@
-Item(by='bed99', descendants=None, kids=None, score=None, time=1612297131, title=None, item_type='comment', url=None, parent=26006045, text='So they knew. They had 3 or 4 days before the let go call to decide what to do. They had all my medical data.')
+Item(by='bed99', descendants=None, kids=[26007262], score=None, time=1612297131, title=None, item_type='comment', url=None, parent=26006045, text='So they knew. They had 3 or 4 days before the let go call to decide what to do. They had all my medical data.')

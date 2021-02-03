@@ -1,1 +1,1 @@
-Item(by='madeofpalk', descendants=None, kids=None, score=None, time=1612281469, title=None, item_type='comment', url=None, parent=26001298, text='No, it&#x27;s not.')
+Item(by='madeofpalk', descendants=None, kids=[26009103], score=None, time=1612281469, title=None, item_type='comment', url=None, parent=26001298, text='No, it&#x27;s not.')
