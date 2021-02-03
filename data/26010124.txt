@@ -1,0 +1,1 @@
+Item(by='tshaddox', descendants=None, kids=None, score=None, time=1612321598, title=None, item_type='comment', url=None, parent=26010081, text='A reducer is pretty close to a state machine. The main differences are that state machines generally prevent invalid transitions and have tooling to help you handle and visualize all the states and transitions.')

@@ -1,1 +1,1 @@
-Item(by='make3', descendants=None, kids=None, score=None, time=1612306962, title=None, item_type='comment', url=None, parent=26001321, text='why except Montreal&#x2F;Quebec? I&#x27;ve never heard of such a restriction before')
+Item(by='make3', descendants=None, kids=[26010145], score=None, time=1612306962, title=None, item_type='comment', url=None, parent=26001321, text='why except Montreal&#x2F;Quebec? I&#x27;ve never heard of such a restriction before')

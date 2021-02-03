@@ -1,1 +1,1 @@
-Item(by='nilradical', descendants=27, kids=[25988700, 25989092, 25990985, 25988872, 25988838], score=52, time=1612181345, title='A simple ray tracer in Lean 4', item_type='story', url='https://github.com/kmill/lean4-raytracer', parent=None, text=None)
+Item(by='nilradical', descendants=28, kids=[25988700, 25989092, 25990985, 25988872, 25988838], score=52, time=1612181345, title='A simple ray tracer in Lean 4', item_type='story', url='https://github.com/kmill/lean4-raytracer', parent=None, text=None)

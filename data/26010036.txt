@@ -1,1 +1,1 @@
-Item(by='at_a_remove', descendants=None, kids=None, score=None, time=1612320831, title=None, item_type='comment', url=None, parent=26009961, text='In the United States, this is called the &quot;farmers&#x27; handkerchief.&quot;')
+Item(by='at_a_remove', descendants=None, kids=[26010134], score=None, time=1612320831, title=None, item_type='comment', url=None, parent=26009961, text='In the United States, this is called the &quot;farmers&#x27; handkerchief.&quot;')

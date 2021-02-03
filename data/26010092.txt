@@ -1,1 +1,1 @@
-Item(by='airstrike', descendants=None, kids=None, score=None, time=1612321357, title=None, item_type='comment', url=None, parent=26009887, text='Thanks for sharing this. I finally have unequivocal data to support my argument that we should not eat indoors at restaurants.')
+Item(by='airstrike', descendants=None, kids=[26010733], score=None, time=1612321357, title=None, item_type='comment', url=None, parent=26009887, text='Thanks for sharing this. I finally have unequivocal data to support my argument that we should not eat indoors at restaurants.')

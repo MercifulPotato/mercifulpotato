@@ -1,0 +1,1 @@
+Item(by='bshanks', descendants=None, kids=None, score=None, time=1612325285, title=None, item_type='comment', url=None, parent=26005855, text='Could you give any pointers to what is broken about these, and how a better way to do it would be? (I&#x27;m thinking about implementing a small system call library interface and I&#x27;d like to not repeat the mistakes of the past)')

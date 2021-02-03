@@ -1,0 +1,1 @@
+Item(by='Gracana', descendants=None, kids=None, score=None, time=1612325756, title=None, item_type='comment', url=None, parent=26010518, text='sync flushes the write caches to disk. sync twice makes really damn sure all your files are written to the disk, heh.')

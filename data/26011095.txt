@@ -1,0 +1,1 @@
+Item(by='the_gipsy', descendants=None, kids=None, score=None, time=1612332917, title=None, item_type='comment', url=None, parent=26010116, text='I think Elm addresses this issue in a way. It has some sort of &quot;update&#x2F;render&quot; cycle baked in, with strong typing and sum types.')

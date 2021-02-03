@@ -1,1 +1,1 @@
-Item(by='timr', descendants=None, kids=None, score=None, time=1612320162, title=None, item_type='comment', url=None, parent=26009948, text='Appeal to authority is a logical fallacy.')
+Item(by='timr', descendants=None, kids=[26010238, 26010440], score=None, time=1612320162, title=None, item_type='comment', url=None, parent=26009948, text='Appeal to authority is a logical fallacy.')

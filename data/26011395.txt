@@ -1,0 +1,1 @@
+Item(by='shadycuz', descendants=None, kids=None, score=None, time=1612337062, title=None, item_type='comment', url=None, parent=26011199, text='I believe the point of the state machine wasn&#x27;t to save the state but to show how to handle transitions from one state to another using a state machine.')

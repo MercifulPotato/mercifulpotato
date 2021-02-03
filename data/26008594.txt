@@ -1,1 +1,1 @@
-Item(by='HPsquared', descendants=None, kids=None, score=None, time=1612308849, title=None, item_type='comment', url=None, parent=26008016, text='The early days of the Soviet space program were similar - fast construction and iterative improvements with each successive test.')
+Item(by='HPsquared', descendants=None, kids=[26010812], score=None, time=1612308849, title=None, item_type='comment', url=None, parent=26008016, text='The early days of the Soviet space program were similar - fast construction and iterative improvements with each successive test.')

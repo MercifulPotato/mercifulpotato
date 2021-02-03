@@ -1,1 +1,1 @@
-Item(by='__jem', descendants=None, kids=None, score=None, time=1612315426, title=None, item_type='comment', url=None, parent=26006880, text='Most of the JVM ecosystem doesn&#x27;t work with AOT due to issues with reflection.')
+Item(by='__jem', descendants=None, kids=[26011004, 26010391], score=None, time=1612315426, title=None, item_type='comment', url=None, parent=26006880, text='Most of the JVM ecosystem doesn&#x27;t work with AOT due to issues with reflection.')

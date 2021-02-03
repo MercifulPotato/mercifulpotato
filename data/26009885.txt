@@ -1,1 +1,1 @@
-Item(by='renaudg', descendants=None, kids=None, score=None, time=1612319514, title=None, item_type='comment', url=None, parent=26009846, text='It&#x27;s not like Great Britain is an island, after all.<p>:)')
+Item(by='renaudg', descendants=None, kids=[26010539, 26010204], score=None, time=1612319514, title=None, item_type='comment', url=None, parent=26009846, text='It&#x27;s not like Great Britain is an island, after all.<p>:)')

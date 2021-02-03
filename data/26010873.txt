@@ -1,0 +1,1 @@
+Item(by='cjonas', descendants=None, kids=None, score=None, time=1612329914, title=None, item_type='comment', url=None, parent=26008605, text='A better example is querying from a database or api where you can specify the returned properties.  null === queried but no value vs undefined === not queried')

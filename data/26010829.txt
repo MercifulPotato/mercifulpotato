@@ -1,0 +1,1 @@
+Item(by='recursive', descendants=None, kids=[26011630, 26011445], score=None, time=1612329482, title=None, item_type='comment', url=None, parent=26009199, text='One of the foundational philosophies of typescript is that the language does not have different semantics than javascript, so that wasn&#x27;t an option.')
