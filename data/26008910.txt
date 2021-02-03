@@ -1,1 +1,1 @@
-Item(by='tylermenezes', descendants=None, kids=None, score=None, time=1612310973, title=None, item_type='comment', url=None, parent=26004340, text='Congrats Omri, and I love the new design')
+Item(by='tylermenezes', descendants=None, kids=[26012269], score=None, time=1612310973, title=None, item_type='comment', url=None, parent=26004340, text='Congrats Omri, and I love the new design')

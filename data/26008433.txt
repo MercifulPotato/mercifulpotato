@@ -1,1 +1,1 @@
-Item(by='catacombs', descendants=0, kids=None, score=1, time=1612307912, title='A large list of handpicked color names', item_type='story', url='https://github.com/meodai/color-names', parent=None, text=None)
+Item(by='catacombs', descendants=0, kids=[26012401], score=1, time=1612307912, title='A large list of handpicked color names', item_type='story', url='https://github.com/meodai/color-names', parent=None, text=None)

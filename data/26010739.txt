@@ -1,1 +1,1 @@
-Item(by='_ZeD_', descendants=None, kids=None, score=None, time=1612328285, title=None, item_type='comment', url=None, parent=26010289, text='But you know that there will be multiple implementations for every interface.\nAt least, after IThing and Thing you will have MockThing')
+Item(by='_ZeD_', descendants=None, kids=[26012002], score=None, time=1612328285, title=None, item_type='comment', url=None, parent=26010289, text='But you know that there will be multiple implementations for every interface.\nAt least, after IThing and Thing you will have MockThing')

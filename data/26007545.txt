@@ -1,1 +1,1 @@
-Item(by='Defenestresque', descendants=None, kids=None, score=None, time=1612303602, title=None, item_type='comment', url=None, parent=26004745, text='Hey, thanks for making the course free! I&#x27;m sure it took a lot of time and effort. I&#x27;ll be definitely checking it out.')
+Item(by='Defenestresque', descendants=None, kids=[26012407], score=None, time=1612303602, title=None, item_type='comment', url=None, parent=26004745, text='Hey, thanks for making the course free! I&#x27;m sure it took a lot of time and effort. I&#x27;ll be definitely checking it out.')

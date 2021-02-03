@@ -1,1 +1,1 @@
-Item(by='Bigpet', descendants=None, kids=None, score=None, time=1612262408, title=None, item_type='comment', url=None, parent=25997315, text='It could also play almost all PS1 games and it was the year 2000.<p>It is no longer the year 2000')
+Item(by='Bigpet', descendants=None, kids=[26012347], score=None, time=1612262408, title=None, item_type='comment', url=None, parent=25997315, text='It could also play almost all PS1 games and it was the year 2000.<p>It is no longer the year 2000')

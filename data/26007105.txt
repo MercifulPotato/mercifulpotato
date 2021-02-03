@@ -1,1 +1,1 @@
-Item(by='tosh', descendants=1, kids=[26010327], score=27, time=1612301769, title='GitHub adds ability to upload videos to comments and gists', item_type='story', url='https://twitter.com/natfriedman/status/1356712100303757312', parent=None, text=None)
+Item(by='tosh', descendants=2, kids=[26011943, 26010327], score=28, time=1612301769, title='GitHub adds ability to upload videos to comments and gists', item_type='story', url='https://twitter.com/natfriedman/status/1356712100303757312', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='quickthrower2', descendants=None, kids=None, score=None, time=1612334567, title=None, item_type='comment', url=None, parent=26010983, text='That’s a hard sentence to parse')
+Item(by='quickthrower2', descendants=None, kids=[26011599], score=None, time=1612334567, title=None, item_type='comment', url=None, parent=26010983, text='That’s a hard sentence to parse')

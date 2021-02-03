@@ -1,1 +1,1 @@
-Item(by='noncoml', descendants=None, kids=None, score=None, time=1612329698, title=None, item_type='comment', url=None, parent=26006950, text='I just hope Andy Jassy will not bring the AWS customer support to retail, because Amazon is screwed if he does.')
+Item(by='noncoml', descendants=None, kids=[26012484, 26011890], score=None, time=1612329698, title=None, item_type='comment', url=None, parent=26006950, text='I just hope Andy Jassy will not bring the AWS customer support to retail, because Amazon is screwed if he does.')

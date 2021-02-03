@@ -1,1 +1,1 @@
-Item(by='diodorus', descendants=14, kids=[26009078, 26011016, 26009448, 26009303, 26010256, 26009514], score=47, time=1612222505, title='How to write cuneiform', item_type='story', url='https://blog.britishmuseum.org/how-to-write-cuneiform/', parent=None, text=None)
+Item(by='diodorus', descendants=30, kids=[26009078, 26009303, 26013153, 26011016, 26009448, 26009514, 26011870, 26010256], score=81, time=1612222505, title='How to write cuneiform', item_type='story', url='https://blog.britishmuseum.org/how-to-write-cuneiform/', parent=None, text=None)

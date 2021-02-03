@@ -1,1 +1,1 @@
-Item(by='mr_toad', descendants=None, kids=[26009257], score=None, time=1612304436, title=None, item_type='comment', url=None, parent=26007348, text='There were data centres before Amazon, but there was nothing like EC2.  Infrastructure as code made all the difference.')
+Item(by='mr_toad', descendants=None, kids=[26011888, 26009257], score=None, time=1612304436, title=None, item_type='comment', url=None, parent=26007348, text='There were data centres before Amazon, but there was nothing like EC2.  Infrastructure as code made all the difference.')

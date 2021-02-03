@@ -1,0 +1,1 @@
+Item(by='flotothemoon', descendants=None, kids=[26013758], score=None, time=1612360207, title=None, item_type='comment', url=None, parent=26012863, text='First, this looks awesome, will be giving this a try. \nIs there a way to pass (inline) arguments to the expansion? Or would I use a form for that?<p>e.g. &quot;:member(test)&quot; =&gt; &quot;private test;&quot;')

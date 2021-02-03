@@ -1,1 +1,1 @@
-Item(by='WalterBright', descendants=None, kids=None, score=None, time=1612312763, title=None, item_type='comment', url=None, parent=26006779, text='Amazon&#x27;s stock went up like a rocket since its IPO. Wall Street didn&#x27;t laugh at Bezos.')
+Item(by='WalterBright', descendants=None, kids=[26011597], score=None, time=1612312763, title=None, item_type='comment', url=None, parent=26006779, text='Amazon&#x27;s stock went up like a rocket since its IPO. Wall Street didn&#x27;t laugh at Bezos.')

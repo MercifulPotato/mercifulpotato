@@ -1,0 +1,1 @@
+Item(by='brainlessdev', descendants=None, kids=None, score=None, time=1612348903, title=None, item_type='comment', url=None, parent=26009701, text='I use type guards as well. It&#x27;s not criticism: I just stated the fact that you can write incorrect type guards and the compiler will believe you.<p>I elaborate on ways to use them effectively in the post.')

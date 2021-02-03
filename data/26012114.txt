@@ -1,0 +1,1 @@
+Item(by='kaba0', descendants=None, kids=None, score=None, time=1612345631, title=None, item_type='comment', url=None, parent=26003634, text='Well, there is a solution: either buy another video card for graphics, or use iGPU. And leave the nvidia one for CUDA only.')

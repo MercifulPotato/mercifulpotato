@@ -1,0 +1,1 @@
+Item(by='rbanffy', descendants=None, kids=None, score=None, time=1612341321, title=None, item_type='comment', url=None, parent=26004516, text='&gt; a major design goal of Wayland is to move as much logic as possible from the server to the client.<p>I wonder how long it&#x27;ll take to have a Wayland server running on the AT&amp;T Blit...')

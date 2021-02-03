@@ -1,0 +1,1 @@
+Item(by='FrozenVoid', descendants=None, kids=None, score=None, time=1612358794, title=None, item_type='comment', url=None, parent=26000405, text='use vw&#x2F;vh&#x2F;vmin&#x2F;vmax not pixels. It scales to any type of screen, it doesn&#x27;t require media queries and doesn&#x27;t leave 50% of page blank.')

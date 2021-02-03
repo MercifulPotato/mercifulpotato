@@ -1,1 +1,1 @@
-Item(by='Aeolun', descendants=None, kids=None, score=None, time=1612323867, title=None, item_type='comment', url=None, parent=26008225, text='So it’s working? Presumably you are doing something to cause them.')
+Item(by='Aeolun', descendants=None, kids=[26011981], score=None, time=1612323867, title=None, item_type='comment', url=None, parent=26008225, text='So it’s working? Presumably you are doing something to cause them.')

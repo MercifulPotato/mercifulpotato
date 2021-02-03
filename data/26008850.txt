@@ -1,1 +1,1 @@
-Item(by='PaulDavisThe1st', descendants=None, kids=None, score=None, time=1612310665, title=None, item_type='comment', url=None, parent=26008408, text='I was at amazon from 1994-1996. That&#x27;s what I mean by &quot;early&quot;.')
+Item(by='PaulDavisThe1st', descendants=None, kids=[26012068], score=None, time=1612310665, title=None, item_type='comment', url=None, parent=26008408, text='I was at amazon from 1994-1996. That&#x27;s what I mean by &quot;early&quot;.')

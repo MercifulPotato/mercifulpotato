@@ -1,1 +1,1 @@
-Item(by='CuriouslyC', descendants=None, kids=None, score=None, time=1612271917, title=None, item_type='comment', url=None, parent=26000510, text='Death will always be a thing.  I&#x27;m not selfish enough to want to enslave the planet to buy me a few more years.')
+Item(by='CuriouslyC', descendants=None, kids=[26012197], score=None, time=1612271917, title=None, item_type='comment', url=None, parent=26000510, text='Death will always be a thing.  I&#x27;m not selfish enough to want to enslave the planet to buy me a few more years.')

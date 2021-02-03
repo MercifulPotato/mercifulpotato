@@ -1,0 +1,1 @@
+Item(by='mariusor', descendants=None, kids=None, score=None, time=1612354716, title=None, item_type='comment', url=None, parent=26012606, text='Webfinger is a mastodon thing, not necessarily a fediverse thing. ActivityPub services can use Client to Server interactions for user discoverability.')

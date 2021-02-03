@@ -1,1 +1,1 @@
-Item(by='therusskiy', descendants=None, kids=None, score=None, time=1612329702, title=None, item_type='comment', url=None, parent=26010822, text='You just made an insulting generalization about a country of 150M people')
+Item(by='therusskiy', descendants=None, kids=[26011886], score=None, time=1612329702, title=None, item_type='comment', url=None, parent=26010822, text='You just made an insulting generalization about a country of 150M people')
