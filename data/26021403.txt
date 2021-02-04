@@ -1,0 +1,1 @@
+Item(by='ellisv', descendants=None, kids=None, score=None, time=1612401312, title=None, item_type='comment', url=None, parent=26021311, text='It boggles my mind that in 2021 IPython&#x2F;Jupyter notebooks _still_ don&#x27;t have inline code evaluation or sensible parameterization without using extensions.')

@@ -1,0 +1,1 @@
+Item(by='arjunnarayan', descendants=None, kids=[26019157, 26019698], score=None, time=1612385446, title=None, item_type='comment', url=None, parent=26018854, text='protobufs still get encoded and decoded by each client when loaded into memory. arrow is a little bit more like &quot;flatbuffers, but designed for common data-intensive columnar access patterns&quot;')

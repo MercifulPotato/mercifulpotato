@@ -1,0 +1,1 @@
+Item(by='mkl', descendants=None, kids=None, score=None, time=1612399788, title=None, item_type='comment', url=None, parent=26021076, text='If you out a blank line between your bullet points, they&#x27;ll display properly:<p>* BigQuery: no<p>* Redshift: no<p>* Spark SQL: no<p>* Snowflake: no<p>* Clickhouse: no<p>* Dremio: no<p>* Impala: no<p>* Presto: no')

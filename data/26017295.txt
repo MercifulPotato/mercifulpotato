@@ -1,1 +1,1 @@
-Item(by='cosmotic', descendants=None, kids=None, score=None, time=1612377346, title=None, item_type='comment', url=None, parent=26017116, text='Someone has to build the native electron wrapper')
+Item(by='cosmotic', descendants=None, kids=[26019317], score=None, time=1612377346, title=None, item_type='comment', url=None, parent=26017116, text='Someone has to build the native electron wrapper')

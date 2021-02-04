@@ -1,1 +1,1 @@
-Item(by='xeonoex', descendants=None, kids=None, score=None, time=1612382047, title=None, item_type='comment', url=None, parent=26017394, text='Isn&#x27;t AlphaVantage free limited to 5 requests a minute and 500 a day? And it requires an API key?')
+Item(by='xeonoex', descendants=None, kids=[26019506], score=None, time=1612382047, title=None, item_type='comment', url=None, parent=26017394, text='Isn&#x27;t AlphaVantage free limited to 5 requests a minute and 500 a day? And it requires an API key?')

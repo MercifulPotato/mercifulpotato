@@ -1,0 +1,1 @@
+Item(by='liminal', descendants=None, kids=[26019977, 26020134], score=None, time=1612390216, title=None, item_type='comment', url=None, parent=26018187, text='Would really love to see first class support for Javascript&#x2F;Typescript for data visualization purposes. The columnar format would naturally lend itself to an Entity-Component style architecture with TypedArrays.')

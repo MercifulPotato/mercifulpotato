@@ -1,0 +1,1 @@
+Item(by='jitl', descendants=None, kids=[26019444, 26019404], score=None, time=1612387744, title=None, item_type='comment', url=None, parent=26019209, text='I like that pipenv also handles virtualenv creation, but I too moved my projects to Poetry after all of the various Pipenv-maintainer fiascos')

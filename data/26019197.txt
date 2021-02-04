@@ -1,0 +1,1 @@
+Item(by='easton', descendants=None, kids=None, score=None, time=1612386851, title=None, item_type='comment', url=None, parent=26018722, text='What? I did &quot;pyenv install 3.9.1&quot; on M1 and it worked absolutely fine, it built a arm64 build and everything. Maybe it&#x27;s because I had Xcode installed?')

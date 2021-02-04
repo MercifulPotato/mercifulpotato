@@ -1,0 +1,1 @@
+Item(by='lhorie', descendants=None, kids=[26020742], score=None, time=1612392787, title=None, item_type='comment', url=None, parent=26020180, text='Probably a naive question, but couldn&#x27;t it do the same optimization for the code above? I believe Javascript engines like V8 do something of that sort.')

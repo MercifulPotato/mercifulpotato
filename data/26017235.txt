@@ -1,1 +1,1 @@
-Item(by='jawzz', descendants=None, kids=None, score=None, time=1612377050, title=None, item_type='comment', url=None, parent=26016294, text='Yes, but they did when Amazon was founded.')
+Item(by='jawzz', descendants=None, kids=[26020522], score=None, time=1612377050, title=None, item_type='comment', url=None, parent=26016294, text='Yes, but they did when Amazon was founded.')

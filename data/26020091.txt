@@ -1,0 +1,1 @@
+Item(by='gher-shyu3i', descendants=None, kids=None, score=None, time=1612391645, title=None, item_type='comment', url=None, parent=26019418, text='Containers, operations on streams (map, filter, etc.), optional types (although those need tagged unions, something too advanced for golang), better concurrency handling (e.g. Task types), etc.')

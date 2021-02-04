@@ -1,0 +1,1 @@
+Item(by='edbob', descendants=None, kids=[26021766], score=None, time=1612403998, title=None, item_type='comment', url=None, parent=26021608, text='It sounds like they had prepared to move from AWS to another mega-provider like GCP or Azure.  The site is too large (and probably poorly optimized) to just spin up a few DO droplets.')

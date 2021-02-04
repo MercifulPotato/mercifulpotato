@@ -1,0 +1,1 @@
+Item(by='kasey_junk', descendants=None, kids=None, score=None, time=1612398063, title=None, item_type='comment', url=None, parent=26020712, text='This is what I assumed generics were for. I haven’t been paying attention to the proposals but given the existing golang generics don’t support proper variance should I expect it with the user defined variance?')

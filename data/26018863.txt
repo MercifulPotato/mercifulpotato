@@ -1,0 +1,1 @@
+Item(by='olalonde', descendants=None, kids=None, score=None, time=1612385142, title=None, item_type='comment', url=None, parent=26018664, text='Glad they mentioned the caveats of such analysis:<p>1) Many users can share the same address (e.g. exchange based wallets).<p>2) A single user may control multiple addresses (this is the default mode of operation of Bitcoin wallets).')

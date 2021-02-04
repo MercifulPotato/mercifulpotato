@@ -1,0 +1,1 @@
+Item(by='scott_s', descendants=None, kids=None, score=None, time=1612387049, title=None, item_type='comment', url=None, parent=26019053, text='If you&#x27;re wondering, &quot;What is the turbofish?&quot;, it is the awkward syntax Rust requires when specifying generic arguments in an expression, such as:<p><pre><code>  Vec::&lt;u8&gt;::new()</code></pre>')

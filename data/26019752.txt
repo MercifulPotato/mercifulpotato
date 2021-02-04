@@ -1,0 +1,1 @@
+Item(by='StavrosK', descendants=None, kids=None, score=None, time=1612389794, title=None, item_type='comment', url=None, parent=26019736, text='Ah, that uses PEP-582-style package directories, that&#x27;s interesting! Though I don&#x27;t know if we need an alternative to Poetry, I&#x27;d rather we just standardized on one tool at this point.')

@@ -1,1 +1,1 @@
-Item(by='joandeg', descendants=None, kids=None, score=None, time=1612371652, title=None, item_type='comment', url=None, parent=26009489, text='Is that email somewhere on our site? I&#x27;d like to take it down if that is confusing other SUS founders!')
+Item(by='joandeg', descendants=None, kids=[26018706], score=None, time=1612371652, title=None, item_type='comment', url=None, parent=26009489, text='Is that email somewhere on our site? I&#x27;d like to take it down if that is confusing other SUS founders!')

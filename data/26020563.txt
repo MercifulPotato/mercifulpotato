@@ -1,0 +1,1 @@
+Item(by='yeshengm', descendants=None, kids=[26021407], score=None, time=1612394404, title=None, item_type='comment', url=None, parent=26018375, text='Are these execution engines internally using Arrow columnar format or are they just exposing Arrow as a client wire format? AFAIK Spark and Presto does not use Arrow as execution columnar format, but just data sources&#x2F;sinks.')

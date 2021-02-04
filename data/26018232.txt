@@ -1,1 +1,1 @@
-Item(by='abacadaba', descendants=None, kids=None, score=None, time=1612381602, title=None, item_type='comment', url=None, parent=26017816, text='we certainly knew there was a potential for this &quot;shock&quot;')
+Item(by='abacadaba', descendants=None, kids=[26019573], score=None, time=1612381602, title=None, item_type='comment', url=None, parent=26017816, text='we certainly knew there was a potential for this &quot;shock&quot;')

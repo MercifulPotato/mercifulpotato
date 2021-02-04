@@ -1,1 +1,1 @@
-Item(by='nicbou', descendants=None, kids=None, score=None, time=1612382954, title=None, item_type='comment', url=None, parent=26017218, text='I suspect that it&#x27;s only there because WordPress includes it.')
+Item(by='nicbou', descendants=None, kids=[26020258, 26020695], score=None, time=1612382954, title=None, item_type='comment', url=None, parent=26017218, text='I suspect that it&#x27;s only there because WordPress includes it.')

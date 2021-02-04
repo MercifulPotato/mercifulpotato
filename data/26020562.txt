@@ -1,0 +1,1 @@
+Item(by='tn1', descendants=None, kids=None, score=None, time=1612394399, title=None, item_type='comment', url=None, parent=26018188, text='An idea I had is to just embed a pixel into the item body. You can self host it too: just analyze the apache logs (or whatever you have) for requests to that pixel.')

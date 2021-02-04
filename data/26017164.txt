@@ -1,1 +1,1 @@
-Item(by='reddotX', descendants=0, kids=None, score=7, time=1612376782, title='Tesla opens its new Supercharger factory', item_type='story', url='https://electrek.co/2021/02/03/tesla-opens-supercharger-factory/', parent=None, text=None)
+Item(by='reddotX', descendants=2, kids=[26018456], score=16, time=1612376782, title='Tesla opens its new Supercharger factory', item_type='story', url='https://electrek.co/2021/02/03/tesla-opens-supercharger-factory/', parent=None, text=None)

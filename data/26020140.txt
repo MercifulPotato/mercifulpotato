@@ -1,0 +1,1 @@
+Item(by='mhh__', descendants=None, kids=None, score=None, time=1612391900, title=None, item_type='comment', url=None, parent=26018025, text='I can build the D compiler (500k lines?) Warts and all in a second in my machine - and that&#x27;s code that&#x27;s not particularly complicated, but not at all optimized for compile times realistically.')

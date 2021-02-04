@@ -1,0 +1,1 @@
+Item(by='ksm1717', descendants=None, kids=[26018820], score=None, time=1612383798, title=None, item_type='comment', url=None, parent=26018594, text='I was worried that even miniconda seemed kinda bloaty, but it was the only way I could consistently use numpy on apple silicon. Really good option for local dev environments')

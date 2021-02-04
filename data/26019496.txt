@@ -1,0 +1,1 @@
+Item(by='Barrin92', descendants=None, kids=[26019816, 26020797], score=None, time=1612388323, title=None, item_type='comment', url=None, parent=26019362, text='pip freeze only pins the version of direct, not transitive dependencies. Meaning you don&#x27;t get deterministic builds.')

@@ -1,1 +1,1 @@
-Item(by='draw_down', descendants=None, kids=None, score=None, time=1612380215, title=None, item_type='comment', url=None, parent=26017852, text='Why does everything related to versioning and packaging have to be so difficult with Python? I never understood that.')
+Item(by='draw_down', descendants=None, kids=[26019135, 26019054, 26018999, 26019222], score=None, time=1612380215, title=None, item_type='comment', url=None, parent=26017852, text='Why does everything related to versioning and packaging have to be so difficult with Python? I never understood that.')

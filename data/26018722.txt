@@ -1,0 +1,1 @@
+Item(by='systemvoltage', descendants=None, kids=[26019265, 26019047, 26018739, 26019197], score=None, time=1612384320, title=None, item_type='comment', url=None, parent=26018618, text='Not on M1 Apple Silicon. So many issues with pyenv on the M1. Brew python works fine natively.')

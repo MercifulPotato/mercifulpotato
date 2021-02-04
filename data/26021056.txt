@@ -1,0 +1,1 @@
+Item(by='beagle3', descendants=None, kids=[26021513], score=None, time=1612398059, title=None, item_type='comment', url=None, parent=26020856, text='How do advertisers reconcile cloaked first party subdomains? It requires fingerprinting, or the first party to tell the real 3rd party (cloaked as a first party) things like email or real name, that can be cross referenced, no?')

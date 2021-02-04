@@ -1,1 +1,1 @@
-Item(by='blueside', descendants=None, kids=None, score=None, time=1612377401, title=None, item_type='comment', url=None, parent=26016255, text='And it&#x27;s been September ever since')
+Item(by='blueside', descendants=None, kids=[26020980], score=None, time=1612377401, title=None, item_type='comment', url=None, parent=26016255, text='And it&#x27;s been September ever since')

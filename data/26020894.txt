@@ -1,0 +1,1 @@
+Item(by='plorkyeran', descendants=None, kids=None, score=None, time=1612396669, title=None, item_type='comment', url=None, parent=26020168, text='That sounds unrelated. It disables automatically calling `brew update` (which I&#x27;m fine with), but not `brew upgrade`.')

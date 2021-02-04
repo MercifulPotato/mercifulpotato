@@ -1,0 +1,1 @@
+Item(by='groceryheist', descendants=None, kids=None, score=None, time=1612401348, title=None, item_type='comment', url=None, parent=26020563, text='You can configure Spark to use arrow for passing data between Java and Python via spark.sql.execution.arrow.pyspark.enabled  but yes, Spark uses Java datatypes internally.')

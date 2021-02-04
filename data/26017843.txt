@@ -1,1 +1,1 @@
-Item(by='vimy', descendants=None, kids=None, score=None, time=1612379837, title=None, item_type='comment', url=None, parent=26017313, text='The SEC doesn’t have a case. He’s been holding for 2 years and was laughed at many times by people on the wallstreetbets sub.')
+Item(by='vimy', descendants=None, kids=[26019464], score=None, time=1612379837, title=None, item_type='comment', url=None, parent=26017313, text='The SEC doesn’t have a case. He’s been holding for 2 years and was laughed at many times by people on the wallstreetbets sub.')

@@ -1,0 +1,1 @@
+Item(by='wesm', descendants=None, kids=[26020279], score=None, time=1612391317, title=None, item_type='comment', url=None, parent=26020010, text='&gt; Arrow&#x27;s serialization is Protobuf<p>Incorrect. Only Arrow Flight embeds the Arrow wire format in a Protocol Buffer, but the Arrow protocol itself does not use Protobuf.')

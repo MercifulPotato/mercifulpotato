@@ -1,0 +1,1 @@
+Item(by='humbleMouse', descendants=None, kids=[26020478], score=None, time=1612393253, title=None, item_type='comment', url=None, parent=26020333, text='I think the best way to think about it is, you have teams where hadoop queries take 5+ hours to run.  You port that same data into arrow, now that same query takes 30 seconds.')

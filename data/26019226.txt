@@ -1,0 +1,1 @@
+Item(by='titzer', descendants=None, kids=None, score=None, time=1612387016, title=None, item_type='comment', url=None, parent=26018025, text='Lots of single-pass compilers can achieve 1MLOC&#x2F;s. But the main problem is that C++ has an O(n^2) compilation model due to header explosion. Also, expanding C++ templates is very computationally intensive.')

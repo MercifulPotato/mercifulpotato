@@ -1,0 +1,1 @@
+Item(by='ianmcook', descendants=None, kids=[26021072], score=None, time=1612392247, title=None, item_type='comment', url=None, parent=26020000, text='Parquet is not based on Arrow. The Parquet libraries are built into Arrow, but the two projects are separate and Arrow is not a dependency of Parquet.')

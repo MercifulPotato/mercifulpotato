@@ -1,1 +1,1 @@
-Item(by='eric_landau', descendants=0, kids=None, score=6, time=1612380097, title='What I learned from my first month at Y Combinator', item_type='story', url='https://eric-landau.medium.com/what-i-learned-from-my-first-month-at-y-combinator-5b35fb9ebb7b', parent=None, text=None)
+Item(by='eric_landau', descendants=2, kids=[26019341], score=8, time=1612380097, title='What I learned from my first month at Y Combinator', item_type='story', url='https://eric-landau.medium.com/what-i-learned-from-my-first-month-at-y-combinator-5b35fb9ebb7b', parent=None, text=None)

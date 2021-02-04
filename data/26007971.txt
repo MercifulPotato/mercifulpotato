@@ -1,1 +1,1 @@
-Item(by='stanislavb', descendants=0, kids=None, score=1, time=1612305429, title='The world is full of wasted motion', item_type='story', url='https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule', parent=None, text=None)
+Item(by='stanislavb', descendants=16, kids=[26021084, 26021310, 26021424, 26021895, 26021323, 26021421], score=49, time=1612305429, title='The world is full of wasted motion', item_type='story', url='https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule', parent=None, text=None)
