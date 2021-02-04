@@ -1,0 +1,1 @@
+Item(by='rk06', descendants=None, kids=None, score=None, time=1612446526, title=None, item_type='comment', url=None, parent=26024601, text='PYTHONPATH is also global! so all projects will still be referring to the same set of libs.  how does that change anything at all?')

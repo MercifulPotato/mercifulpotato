@@ -1,1 +1,1 @@
-Item(by='Ozzie_osman', descendants=0, kids=None, score=5, time=1612403058, title='The Downside to Life in a Supertall Tower: Leaks, Creaks, Breaks', item_type='story', url='https://www.nytimes.com/2021/02/03/realestate/luxury-high-rise-432-park.html', parent=None, text=None)
+Item(by='Ozzie_osman', descendants=1, kids=[26025194], score=7, time=1612403058, title='The Downside to Life in a Supertall Tower: Leaks, Creaks, Breaks', item_type='story', url='https://www.nytimes.com/2021/02/03/realestate/luxury-high-rise-432-park.html', parent=None, text=None)

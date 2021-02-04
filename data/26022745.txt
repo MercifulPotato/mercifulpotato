@@ -1,1 +1,1 @@
-Item(by='nitrogen', descendants=None, kids=None, score=None, time=1612414494, title=None, item_type='comment', url=None, parent=26022320, text='The movie The Final Cut is also about whole-life recording.')
+Item(by='nitrogen', descendants=None, kids=[26023645], score=None, time=1612414494, title=None, item_type='comment', url=None, parent=26022320, text='The movie The Final Cut is also about whole-life recording.')

@@ -1,1 +1,1 @@
-Item(by='apophatic', descendants=0, kids=None, score=2, time=1612384596, title='Gravesites of Architects', item_type='story', url='https://thereader.mitpress.mit.edu/a-guide-to-the-gravesites-of-architects/', parent=None, text=None)
+Item(by='apophatic', descendants=8, kids=[26024692, 26024669, 26024756, 26024860, 26024409, 26024650], score=24, time=1612384596, title='Gravesites of Architects', item_type='story', url='https://thereader.mitpress.mit.edu/a-guide-to-the-gravesites-of-architects/', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='nanidin', descendants=None, kids=None, score=None, time=1612422931, title=None, item_type='comment', url=None, parent=26022748, text='Aha, the company that killed my account for having a folder named backup. Thanks!')
+Item(by='nanidin', descendants=None, kids=[26024265], score=None, time=1612422931, title=None, item_type='comment', url=None, parent=26022748, text='Aha, the company that killed my account for having a folder named backup. Thanks!')

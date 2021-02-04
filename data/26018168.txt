@@ -1,1 +1,1 @@
-Item(by='miker1234', descendants=None, kids=None, score=None, time=1612381312, title=None, item_type='comment', url=None, parent=26014491, text='why are you collecting GPS data?')
+Item(by='miker1234', descendants=None, kids=[26024910], score=None, time=1612381312, title=None, item_type='comment', url=None, parent=26014491, text='why are you collecting GPS data?')

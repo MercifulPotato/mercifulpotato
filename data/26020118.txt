@@ -1,1 +1,1 @@
-Item(by='MockObject', descendants=None, kids=None, score=None, time=1612391811, title=None, item_type='comment', url=None, parent=26017384, text='&gt; In local laws over here<p>Pet peeve: posts in a global forum that mention &quot;here&quot;. Which one did you mean?')
+Item(by='MockObject', descendants=None, kids=[26023962], score=None, time=1612391811, title=None, item_type='comment', url=None, parent=26017384, text='&gt; In local laws over here<p>Pet peeve: posts in a global forum that mention &quot;here&quot;. Which one did you mean?')

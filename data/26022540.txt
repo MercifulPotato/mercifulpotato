@@ -1,1 +1,1 @@
-Item(by='ngold', descendants=None, kids=None, score=None, time=1612412525, title=None, item_type='comment', url=None, parent=26021991, text='So we knows it&#x27;s you, but you are a integer.')
+Item(by='ngold', descendants=None, kids=[26023800, 26023965, 26023769, 26024676], score=None, time=1612412525, title=None, item_type='comment', url=None, parent=26021991, text='So we knows it&#x27;s you, but you are a integer.')

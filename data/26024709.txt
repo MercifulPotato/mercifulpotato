@@ -1,0 +1,1 @@
+Item(by='BiteCode_dev', descendants=None, kids=[26025413], score=None, time=1612440953, title=None, item_type='comment', url=None, parent=26024552, text='-m is the replacement for console scripts. Well behaved cli should define a _ _ main _ _. Py<p>Pytest, pylint, black, pip, poetry, mypy all have one.<p>Jupyter one is buggy.')

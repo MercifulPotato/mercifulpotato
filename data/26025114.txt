@@ -1,0 +1,1 @@
+Item(by='frostming', descendants=None, kids=None, score=None, time=1612445298, title=None, item_type='comment', url=None, parent=26024552, text='__pypackages__ also has a bin&#x2F; directory and you can run the console_scripts with pdm run my_bin or by absolute path: &#x2F;path&#x2F;to&#x2F;__pypackages__&#x2F;3.8&#x2F;bin&#x2F;my_bin')

@@ -1,1 +1,1 @@
-Item(by='slowmovintarget', descendants=None, kids=None, score=None, time=1612379166, title=None, item_type='comment', url=None, parent=26012100, text='At the time, IE was also dramatically faster than Netscape Navigator, because it wasn&#x27;t just bundled, it was built in.')
+Item(by='slowmovintarget', descendants=None, kids=[26024414], score=None, time=1612379166, title=None, item_type='comment', url=None, parent=26012100, text='At the time, IE was also dramatically faster than Netscape Navigator, because it wasn&#x27;t just bundled, it was built in.')

@@ -1,0 +1,1 @@
+Item(by='globular-toast', descendants=None, kids=[26025149], score=None, time=1612427272, title=None, item_type='comment', url=None, parent=26020732, text='This looks interesting, but personally I don&#x27;t have any problems with virtualenvs. I use pipx to install &quot;global&quot; tools and virtualenvwrapper to make project envs. It all works fine really.')

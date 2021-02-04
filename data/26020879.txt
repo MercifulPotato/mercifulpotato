@@ -1,1 +1,1 @@
-Item(by='eatonphil', descendants=15, kids=[26021494, 26021476, 26022376, 26021365, 26021319], score=90, time=1612396575, title='A Superoptimizer for LLVM IR', item_type='story', url='https://github.com/google/souper', parent=None, text=None)
+Item(by='eatonphil', descendants=33, kids=[26021494, 26023736, 26021476, 26023767, 26025300, 26022376, 26021365, 26021319], score=125, time=1612396575, title='A Superoptimizer for LLVM IR', item_type='story', url='https://github.com/google/souper', parent=None, text=None)

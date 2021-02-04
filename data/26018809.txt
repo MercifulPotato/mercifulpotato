@@ -1,1 +1,1 @@
-Item(by='Gys', descendants=8, kids=[26018831, 26019685, 26019603, 26019904, 26019532, 26019507], score=49, time=1612384836, title='FOSDEM 2021 online – Feb 6/7 – No registration necessary', item_type='story', url='https://fosdem.org/2021/', parent=None, text=None)
+Item(by='Gys', descendants=10, kids=[26024178, 26018831, 26019685, 26019603, 26019904, 26019532, 26019507, 26023892, 26023889], score=52, time=1612384836, title='FOSDEM 2021 online – Feb 6/7 – No registration necessary', item_type='story', url='https://fosdem.org/2021/', parent=None, text=None)

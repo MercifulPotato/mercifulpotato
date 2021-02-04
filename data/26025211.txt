@@ -1,0 +1,1 @@
+Item(by='jameshart', descendants=None, kids=[26025337], score=None, time=1612446144, title=None, item_type='comment', url=None, parent=26025175, text='Nah, the Circle function takes an instance of Circle and returns a Shape. It’s not a constructor of circles.<p>The ‘exampleCircle’ is not an instance of Circle, it’s an instance of Shape.<p>I like the ‘onCircle’ naming though.')

@@ -1,1 +1,1 @@
-Item(by='renewiltord', descendants=None, kids=None, score=None, time=1612419610, title=None, item_type='comment', url=None, parent=26022407, text='Everyone ends up using rbenv or rvm.')
+Item(by='renewiltord', descendants=None, kids=[26024809], score=None, time=1612419610, title=None, item_type='comment', url=None, parent=26022407, text='Everyone ends up using rbenv or rvm.')

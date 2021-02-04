@@ -1,0 +1,1 @@
+Item(by='nicoburns', descendants=None, kids=[26025098, 26025106], score=None, time=1612444269, title=None, item_type='comment', url=None, parent=26024884, text='&gt; It is not hard to run into missing .h files while trying to install these dependencies.<p>They would be if python provided the .h files in the packages rather than expecting them to already exist on the system.')

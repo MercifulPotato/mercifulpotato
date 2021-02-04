@@ -1,0 +1,1 @@
+Item(by='kzrdude', descendants=None, kids=[26024785], score=None, time=1612427781, title=None, item_type='comment', url=None, parent=26020879, text='If there are any rustc devs in this thread, would it be possible to make a superoptimizer for Rust MIR? To do optimizations on this pre-monomorphization representation always sounds so attractive.')

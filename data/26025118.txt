@@ -1,0 +1,1 @@
+Item(by='marcosdumay', descendants=None, kids=None, score=None, time=1612445327, title=None, item_type='comment', url=None, parent=26025063, text='To be fair, tagged unions are too error prone to be useful without strong types. That never stopped people from using them, but when a statically enforced alternative came along, everybody jumped ship.')

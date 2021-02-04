@@ -1,1 +1,1 @@
-Item(by='dfabulich', descendants=10, kids=[26019458, 26019312, 26020266, 26022838], score=50, time=1612384547, title='Proposal for an App History API', item_type='story', url='https://github.com/WICG/proposals/issues/20', parent=None, text=None)
+Item(by='dfabulich', descendants=11, kids=[26019458, 26020266, 26019312, 26022838], score=60, time=1612384547, title='Proposal for an App History API', item_type='story', url='https://github.com/WICG/proposals/issues/20', parent=None, text=None)

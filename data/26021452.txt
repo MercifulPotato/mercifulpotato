@@ -1,1 +1,1 @@
-Item(by='georgecmu', descendants=6, kids=[26021743], score=6, time=1612401708, title='WHO experts who are investigating the origin of the virus visit Wuhan lab', item_type='story', url='https://www.nytimes.com/2021/02/03/world/asia/who-wuhan-lab.html', parent=None, text=None)
+Item(by='georgecmu', descendants=7, kids=[26024458, 26021743], score=7, time=1612401708, title='WHO experts who are investigating the origin of the virus visit Wuhan lab', item_type='story', url='https://www.nytimes.com/2021/02/03/world/asia/who-wuhan-lab.html', parent=None, text=None)
