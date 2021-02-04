@@ -1,0 +1,1 @@
+Item(by='derefr', descendants=None, kids=None, score=None, time=1612424550, title=None, item_type='comment', url=None, parent=26022171, text='It kind of happened with Erlang’s HiPE, but then it fell back out because nobody upstream understood it well-enough to keep it working through major version updates.')

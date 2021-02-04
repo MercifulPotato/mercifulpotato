@@ -1,1 +1,1 @@
-Item(by='tn1', descendants=None, kids=None, score=None, time=1612394051, title=None, item_type='comment', url=None, parent=26017660, text='Aww man, I just wrote my own replies fetcher script in php the other day before I heard about hnrss')
+Item(by='tn1', descendants=None, kids=[26021935], score=None, time=1612394051, title=None, item_type='comment', url=None, parent=26017660, text='Aww man, I just wrote my own replies fetcher script in php the other day before I heard about hnrss')

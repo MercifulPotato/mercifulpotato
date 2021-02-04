@@ -1,0 +1,1 @@
+Item(by='kylebarron', descendants=None, kids=None, score=None, time=1612412941, title=None, item_type='comment', url=None, parent=26022279, text='This is similar to Numpy. You operate on Python objects that describe the Numpy structure, but the actual memory is stored in C objects, not Python objects.')

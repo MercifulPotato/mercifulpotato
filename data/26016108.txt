@@ -1,1 +1,1 @@
-Item(by='Jkvngt', descendants=0, kids=None, score=12, time=1612373013, title='Wayland has serious accessibility issues, low priority fixes', item_type='story', url='https://wiki.gnome.org/Accessibility/Wayland', parent=None, text=None)
+Item(by='Jkvngt', descendants=1, kids=[26021777], score=13, time=1612373013, title='Wayland has serious accessibility issues, low priority fixes', item_type='story', url='https://wiki.gnome.org/Accessibility/Wayland', parent=None, text=None)

@@ -1,1 +1,1 @@
-Item(by='JKCalhoun', descendants=None, kids=None, score=None, time=1612399721, title=None, item_type='comment', url=None, parent=26020473, text='I don&#x27;t doubt you are correct. So Google, let me turn the data collection off.')
+Item(by='JKCalhoun', descendants=None, kids=[26022137, 26022117], score=None, time=1612399721, title=None, item_type='comment', url=None, parent=26020473, text='I don&#x27;t doubt you are correct. So Google, let me turn the data collection off.')

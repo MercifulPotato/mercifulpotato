@@ -1,0 +1,1 @@
+Item(by='int_19h', descendants=None, kids=[26022590], score=None, time=1612409582, title=None, item_type='comment', url=None, parent=26022095, text='I think the idea is that you&#x27;d have a Python object that behaves exactly like a list of ints would, but with Arrow as its backing store.')

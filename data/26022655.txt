@@ -1,0 +1,1 @@
+Item(by='oscardssmith', descendants=None, kids=None, score=None, time=1612413465, title=None, item_type='comment', url=None, parent=26021594, text='You should definitely check out Julia then. There are a few parts of the language that use C&#x2F;C++ libraries (blas and mpfr are the main ones), but 95% of the time, your stack will be Julia all the way down.')

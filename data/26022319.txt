@@ -1,0 +1,1 @@
+Item(by='db48x', descendants=None, kids=[26023271], score=None, time=1612410002, title=None, item_type='comment', url=None, parent=26014528, text='Until someone runs it in eshell, which is a shell but not a terminal emulator and you have to configure an override just for that special program so that it isn&#x27;t dumping unreadable garbage into the buffer.')

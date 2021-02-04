@@ -1,0 +1,1 @@
+Item(by='int_19h', descendants=None, kids=None, score=None, time=1612409826, title=None, item_type='comment', url=None, parent=26021533, text='Row data is an array of structs, with each struct representing a record.<p>Columnar data is a struct of arrays, with each array representing a column.')

@@ -1,0 +1,1 @@
+Item(by='jklehm', descendants=None, kids=[26022435], score=None, time=1612406023, title=None, item_type='comment', url=None, parent=26020797, text='How do you include checksums in your freeze to catch when the package changes on the pypi server using only pip?')

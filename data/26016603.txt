@@ -1,1 +1,1 @@
-Item(by='AnimalMuppet', descendants=None, kids=None, score=None, time=1612374799, title=None, item_type='comment', url=None, parent=26011638, text='Which, if you look at the history of &quot;re-education&quot;, is still horrifying.')
+Item(by='AnimalMuppet', descendants=None, kids=[26022239], score=None, time=1612374799, title=None, item_type='comment', url=None, parent=26011638, text='Which, if you look at the history of &quot;re-education&quot;, is still horrifying.')

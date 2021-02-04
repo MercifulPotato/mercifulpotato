@@ -1,1 +1,1 @@
-Item(by='mumblemumble', descendants=None, kids=None, score=None, time=1612403239, title=None, item_type='comment', url=None, parent=26020683, text='Iunno. That looks like &quot;where angels fear to tread&quot; territory to me.')
+Item(by='mumblemumble', descendants=None, kids=[26021860], score=None, time=1612403239, title=None, item_type='comment', url=None, parent=26020683, text='Iunno. That looks like &quot;where angels fear to tread&quot; territory to me.')

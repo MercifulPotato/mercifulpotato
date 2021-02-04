@@ -1,1 +1,1 @@
-Item(by='k__', descendants=None, kids=None, score=None, time=1612381798, title=None, item_type='comment', url=None, parent=26018226, text='You could fan-out tests to multiple FaaS instances.<p>Cloudflare Workers, for example, have no cold-starts. But they are JS&#x2F;WASM only')
+Item(by='k__', descendants=None, kids=[26022045], score=None, time=1612381798, title=None, item_type='comment', url=None, parent=26018226, text='You could fan-out tests to multiple FaaS instances.<p>Cloudflare Workers, for example, have no cold-starts. But they are JS&#x2F;WASM only')

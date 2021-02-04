@@ -1,1 +1,1 @@
-Item(by='a1369209993', descendants=None, kids=None, score=None, time=1612386993, title=None, item_type='comment', url=None, parent=26012691, text='&gt; a number indicating a distance between two things<p>That *is* a arrow. Arrow composition is adding up the distance along a path.')
+Item(by='a1369209993', descendants=None, kids=[26023499], score=None, time=1612386993, title=None, item_type='comment', url=None, parent=26012691, text='&gt; a number indicating a distance between two things<p>That *is* a arrow. Arrow composition is adding up the distance along a path.')

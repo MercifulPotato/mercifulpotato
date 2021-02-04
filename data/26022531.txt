@@ -1,0 +1,1 @@
+Item(by='cutler', descendants=None, kids=[26022633, 26022647], score=None, time=1612412403, title=None, item_type='comment', url=None, parent=26022506, text='He also said virtual envs install their own copy of Python. No need for that either. Coming from other languages the whole virtual env thing seems alien especially the way it messes with your shell.')

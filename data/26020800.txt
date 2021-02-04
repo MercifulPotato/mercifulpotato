@@ -1,1 +1,1 @@
-Item(by='neolog', descendants=None, kids=None, score=None, time=1612396029, title=None, item_type='comment', url=None, parent=26020529, text='What would the bad consequences be?')
+Item(by='neolog', descendants=None, kids=[26022288], score=None, time=1612396029, title=None, item_type='comment', url=None, parent=26020529, text='What would the bad consequences be?')

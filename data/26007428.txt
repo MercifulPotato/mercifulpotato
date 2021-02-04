@@ -1,1 +1,1 @@
-Item(by='flurly', descendants=2, kids=[26018055], score=5, time=1612303092, title='Killing Containers at Scale', item_type='story', url='https://blog.repl.it/killing-containers-at-scale', parent=None, text=None)
+Item(by='flurly', descendants=14, kids=[26021824, 26023003, 26018055, 26022739], score=59, time=1612303092, title='Killing Containers at Scale', item_type='story', url='https://blog.repl.it/killing-containers-at-scale', parent=None, text=None)

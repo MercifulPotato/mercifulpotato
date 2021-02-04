@@ -1,1 +1,1 @@
-Item(by='gilad', descendants=2, kids=[26021498, 26021150], score=9, time=1612395550, title="You Don't Need a Virtualenv", item_type='story', url='https://frostming.com/2021/01-22/introducing-pdm/', parent=None, text=None)
+Item(by='gilad', descendants=15, kids=[26021498, 26022228, 26021150, 26023120, 26022407], score=28, time=1612395550, title="You Don't Need a Virtualenv", item_type='story', url='https://frostming.com/2021/01-22/introducing-pdm/', parent=None, text=None)

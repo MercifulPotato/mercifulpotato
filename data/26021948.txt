@@ -1,1 +1,1 @@
-Item(by='ed25519FUUU', descendants=None, kids=None, score=None, time=1612406457, title=None, item_type='comment', url=None, parent=26021571, text='Gab is holding on by a thread called cloudflare. I’m SURE there’s strong internal pressure from within cloudflare to drop them as well.')
+Item(by='ed25519FUUU', descendants=None, kids=[26022074], score=None, time=1612406457, title=None, item_type='comment', url=None, parent=26021571, text='Gab is holding on by a thread called cloudflare. I’m SURE there’s strong internal pressure from within cloudflare to drop them as well.')

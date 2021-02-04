@@ -1,1 +1,1 @@
-Item(by='tysone', descendants=0, kids=None, score=2, time=1612402223, title='Hedge Fund Made $700M on GameStop', item_type='story', url='https://www.wsj.com/articles/this-hedge-fund-made-700-million-on-gamestop-11612390687', parent=None, text=None)
+Item(by='tysone', descendants=1, kids=[26023015], score=4, time=1612402223, title='Hedge Fund Made $700M on GameStop', item_type='story', url='https://www.wsj.com/articles/this-hedge-fund-made-700-million-on-gamestop-11612390687', parent=None, text=None)
